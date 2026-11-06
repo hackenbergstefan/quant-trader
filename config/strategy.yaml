@@ -1,0 +1,17 @@
+momentum_periods: [20, 60, 120]
+momentum_weights: [0.2, 0.3, 0.5]
+sma_fast: 50
+sma_slow: 200
+atr_period: 14
+volatility_periods: [20, 60]
+liquidity_window: 20
+min_avg_daily_value_eur: 1000000
+min_history: 200
+max_positions: 5
+neutral_zone: 0.02
+stop_atr_multiple: 2.0
+regimes:
+  bullish: 1.0
+  neutral: 0.5
+  bearish: 0.0
+  unknown: 0.0

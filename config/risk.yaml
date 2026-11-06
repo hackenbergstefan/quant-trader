@@ -1,0 +1,6 @@
+starting_cash_eur: 5000
+max_position_value_eur: 1000
+max_portfolio_exposure: 1.0
+risk_budget_per_position: 0.01
+allocation_method: equal_weight
+rebalance_threshold: 0.10

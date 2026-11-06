@@ -1,0 +1,130 @@
+# Curated large-cap research seed. It is not a historical point-in-time universe.
+instruments:
+  # Germany
+  - {instrument_id: SAP.DE, symbol: SAP.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: SIE.DE, symbol: SIE.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: ALV.DE, symbol: ALV.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: DTE.DE, symbol: DTE.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: MBG.DE, symbol: MBG.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: BMW.DE, symbol: BMW.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: VOW3.DE, symbol: VOW3.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: BAS.DE, symbol: BAS.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: BAYN.DE, symbol: BAYN.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: IFX.DE, symbol: IFX.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: ADS.DE, symbol: ADS.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: DB1.DE, symbol: DB1.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: DHL.DE, symbol: DHL.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: RWE.DE, symbol: RWE.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: MRK.DE, symbol: MRK.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: MUV2.DE, symbol: MUV2.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: HEN3.DE, symbol: HEN3.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: BEI.DE, symbol: BEI.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: EOAN.DE, symbol: EOAN.DE, exchange: XETR, currency: EUR, calendar: XETR}
+  - {instrument_id: ENR.DE, symbol: ENR.DE, exchange: XETR, currency: EUR, calendar: XETR}
+
+  # France
+  - {instrument_id: MC.PA, symbol: MC.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: OR.PA, symbol: OR.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: RMS.PA, symbol: RMS.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: TTE.PA, symbol: TTE.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: SAN.PA, symbol: SAN.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: AI.PA, symbol: AI.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: SU.PA, symbol: SU.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: EL.PA, symbol: EL.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: BN.PA, symbol: BN.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: DG.PA, symbol: DG.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: CS.PA, symbol: CS.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: CAP.PA, symbol: CAP.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: RI.PA, symbol: RI.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: EN.PA, symbol: EN.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: ACA.PA, symbol: ACA.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: BNP.PA, symbol: BNP.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: SAF.PA, symbol: SAF.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: KER.PA, symbol: KER.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: HO.PA, symbol: HO.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: VIE.PA, symbol: VIE.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+  - {instrument_id: PUB.PA, symbol: PUB.PA, exchange: XPAR, currency: EUR, calendar: XPAR}
+
+  # Netherlands
+  - {instrument_id: ASML.AS, symbol: ASML.AS, exchange: XAMS, currency: EUR, calendar: XAMS}
+  - {instrument_id: INGA.AS, symbol: INGA.AS, exchange: XAMS, currency: EUR, calendar: XAMS}
+  - {instrument_id: PHIA.AS, symbol: PHIA.AS, exchange: XAMS, currency: EUR, calendar: XAMS}
+  - {instrument_id: ADYEN.AS, symbol: ADYEN.AS, exchange: XAMS, currency: EUR, calendar: XAMS}
+  - {instrument_id: HEIA.AS, symbol: HEIA.AS, exchange: XAMS, currency: EUR, calendar: XAMS}
+  - {instrument_id: PRX.AS, symbol: PRX.AS, exchange: XAMS, currency: EUR, calendar: XAMS}
+  - {instrument_id: WKL.AS, symbol: WKL.AS, exchange: XAMS, currency: EUR, calendar: XAMS}
+  - {instrument_id: DSFIR.AS, symbol: DSFIR.AS, exchange: XAMS, currency: EUR, calendar: XAMS}
+  - {instrument_id: NN.AS, symbol: NN.AS, exchange: XAMS, currency: EUR, calendar: XAMS}
+  - {instrument_id: ASM.AS, symbol: ASM.AS, exchange: XAMS, currency: EUR, calendar: XAMS}
+  - {instrument_id: AKZA.AS, symbol: AKZA.AS, exchange: XAMS, currency: EUR, calendar: XAMS}
+  - {instrument_id: BESI.AS, symbol: BESI.AS, exchange: XAMS, currency: EUR, calendar: XAMS}
+  - {instrument_id: ASRNL.AS, symbol: ASRNL.AS, exchange: XAMS, currency: EUR, calendar: XAMS}
+  - {instrument_id: RAND.AS, symbol: RAND.AS, exchange: XAMS, currency: EUR, calendar: XAMS}
+
+  # Switzerland
+  - {instrument_id: NESN.SW, symbol: NESN.SW, exchange: XSWX, currency: CHF, calendar: XSWX}
+  - {instrument_id: NOVN.SW, symbol: NOVN.SW, exchange: XSWX, currency: CHF, calendar: XSWX}
+  - {instrument_id: ROG.SW, symbol: ROG.SW, exchange: XSWX, currency: CHF, calendar: XSWX}
+  - {instrument_id: UBSG.SW, symbol: UBSG.SW, exchange: XSWX, currency: CHF, calendar: XSWX}
+  - {instrument_id: ABBN.SW, symbol: ABBN.SW, exchange: XSWX, currency: CHF, calendar: XSWX}
+  - {instrument_id: ZURN.SW, symbol: ZURN.SW, exchange: XSWX, currency: CHF, calendar: XSWX}
+  - {instrument_id: CFR.SW, symbol: CFR.SW, exchange: XSWX, currency: CHF, calendar: XSWX}
+  - {instrument_id: SREN.SW, symbol: SREN.SW, exchange: XSWX, currency: CHF, calendar: XSWX}
+  - {instrument_id: GIVN.SW, symbol: GIVN.SW, exchange: XSWX, currency: CHF, calendar: XSWX}
+  - {instrument_id: LONN.SW, symbol: LONN.SW, exchange: XSWX, currency: CHF, calendar: XSWX}
+  - {instrument_id: SCMN.SW, symbol: SCMN.SW, exchange: XSWX, currency: CHF, calendar: XSWX}
+  - {instrument_id: HOLN.SW, symbol: HOLN.SW, exchange: XSWX, currency: CHF, calendar: XSWX}
+  - {instrument_id: SIKA.SW, symbol: SIKA.SW, exchange: XSWX, currency: CHF, calendar: XSWX}
+  - {instrument_id: LOGN.SW, symbol: LOGN.SW, exchange: XSWX, currency: CHF, calendar: XSWX}
+  - {instrument_id: SLHN.SW, symbol: SLHN.SW, exchange: XSWX, currency: CHF, calendar: XSWX}
+
+  # United Kingdom
+  - {instrument_id: SHEL.L, symbol: SHEL.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: AZN.L, symbol: AZN.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: HSBA.L, symbol: HSBA.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: ULVR.L, symbol: ULVR.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: BP.L, symbol: BP.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: GSK.L, symbol: GSK.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: DGE.L, symbol: DGE.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: BATS.L, symbol: BATS.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: RIO.L, symbol: RIO.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: REL.L, symbol: REL.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: NG.L, symbol: NG.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: LSEG.L, symbol: LSEG.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: BARC.L, symbol: BARC.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: RR.L, symbol: RR.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: PRU.L, symbol: PRU.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: GLEN.L, symbol: GLEN.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: EXPN.L, symbol: EXPN.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: III.L, symbol: III.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: LLOY.L, symbol: LLOY.L, exchange: XLON, currency: GBP, calendar: XLON}
+  - {instrument_id: VOD.L, symbol: VOD.L, exchange: XLON, currency: GBP, calendar: XLON}
+
+  # Nordic countries
+  - {instrument_id: NOVO-B.CO, symbol: NOVO-B.CO, exchange: XCSE, currency: DKK, calendar: XCSE}
+  - {instrument_id: DSV.CO, symbol: DSV.CO, exchange: XCSE, currency: DKK, calendar: XCSE}
+  - {instrument_id: MAERSK-B.CO, symbol: MAERSK-B.CO, exchange: XCSE, currency: DKK, calendar: XCSE}
+  - {instrument_id: CARL-B.CO, symbol: CARL-B.CO, exchange: XCSE, currency: DKK, calendar: XCSE}
+  - {instrument_id: ORSTED.CO, symbol: ORSTED.CO, exchange: XCSE, currency: DKK, calendar: XCSE}
+  - {instrument_id: PNDORA.CO, symbol: PNDORA.CO, exchange: XCSE, currency: DKK, calendar: XCSE}
+  - {instrument_id: EQNR.OL, symbol: EQNR.OL, exchange: XOSL, currency: NOK, calendar: XOSL}
+  - {instrument_id: DNB.OL, symbol: DNB.OL, exchange: XOSL, currency: NOK, calendar: XOSL}
+  - {instrument_id: AKRBP.OL, symbol: AKRBP.OL, exchange: XOSL, currency: NOK, calendar: XOSL}
+  - {instrument_id: NHY.OL, symbol: NHY.OL, exchange: XOSL, currency: NOK, calendar: XOSL}
+  - {instrument_id: TEL.OL, symbol: TEL.OL, exchange: XOSL, currency: NOK, calendar: XOSL}
+  - {instrument_id: KOG.OL, symbol: KOG.OL, exchange: XOSL, currency: NOK, calendar: XOSL}
+  - {instrument_id: VOLV-B.ST, symbol: VOLV-B.ST, exchange: XSTO, currency: SEK, calendar: XSTO}
+  - {instrument_id: ERIC-B.ST, symbol: ERIC-B.ST, exchange: XSTO, currency: SEK, calendar: XSTO}
+  - {instrument_id: ATCO-A.ST, symbol: ATCO-A.ST, exchange: XSTO, currency: SEK, calendar: XSTO}
+  - {instrument_id: SEB-A.ST, symbol: SEB-A.ST, exchange: XSTO, currency: SEK, calendar: XSTO}
+  - {instrument_id: HM-B.ST, symbol: HM-B.ST, exchange: XSTO, currency: SEK, calendar: XSTO}
+  - {instrument_id: INVE-B.ST, symbol: INVE-B.ST, exchange: XSTO, currency: SEK, calendar: XSTO}
+  - {instrument_id: SAND.ST, symbol: SAND.ST, exchange: XSTO, currency: SEK, calendar: XSTO}
+  - {instrument_id: EQT.ST, symbol: EQT.ST, exchange: XSTO, currency: SEK, calendar: XSTO}
+  - {instrument_id: NDA-FI.HE, symbol: NDA-FI.HE, exchange: XHEL, currency: EUR, calendar: XHEL}
+  - {instrument_id: KNEBV.HE, symbol: KNEBV.HE, exchange: XHEL, currency: EUR, calendar: XHEL}
+  - {instrument_id: UPM.HE, symbol: UPM.HE, exchange: XHEL, currency: EUR, calendar: XHEL}
+  - {instrument_id: SAMPO.HE, symbol: SAMPO.HE, exchange: XHEL, currency: EUR, calendar: XHEL}
+  - {instrument_id: KESKO-B.HE, symbol: KESKO-B.HE, exchange: XHEL, currency: EUR, calendar: XHEL}
+  - {instrument_id: NOKIA.HE, symbol: NOKIA.HE, exchange: XHEL, currency: EUR, calendar: XHEL}
+  - {instrument_id: METSO.HE, symbol: METSO.HE, exchange: XHEL, currency: EUR, calendar: XHEL}

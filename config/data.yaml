@@ -1,0 +1,6 @@
+database: data/market.duckdb
+provider: yahoo
+benchmark_symbol: ^STOXX50E
+benchmark_currency: EUR
+benchmark_exchange: EUREX
+benchmark_calendar: XETR

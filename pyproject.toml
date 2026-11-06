@@ -1,0 +1,38 @@
+[project]
+name = "quant-trader"
+version = "0.1.0"
+description = "Reproducible research and backtesting for European equities"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "duckdb>=1.2",
+    "exchange-calendars>=4.9",
+    "numpy>=2.2",
+    "pandas>=2.2",
+    "plotly>=6.0",
+    "pydantic>=2.10",
+    "pyyaml>=6.0",
+    "typer>=0.15",
+    "yfinance>=0.2.54",
+]
+
+[dependency-groups]
+dev = ["pytest>=9.2.0", "ruff>=0.17.4"]
+
+[project.scripts]
+quant-trader = "quant_trader.cli:app"
+
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/quant_trader"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
