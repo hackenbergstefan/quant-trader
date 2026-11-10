@@ -5,4 +5,4 @@ __pycache__/
 *.py[cod]
 data/market.duckdb
 data/market.duckdb.wal
-data/backtests/
+data/

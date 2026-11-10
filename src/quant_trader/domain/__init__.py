@@ -1,1 +1,0 @@
-"""Core trading domain types."""
