@@ -3,9 +3,11 @@ from __future__ import annotations
 import hashlib
 import json
 import logging
+import shutil
 import subprocess
 from dataclasses import asdict, dataclass, replace
 from datetime import UTC, datetime
+from math import isfinite
 from pathlib import Path
 from typing import Any
 
@@ -139,6 +141,22 @@ def _git_revision(project_root: Path) -> str | None:
     except OSError, subprocess.CalledProcessError:
         return None
     return result.stdout.strip()
+
+
+def _json_safe_records(frame: pd.DataFrame) -> list[dict[str, Any]]:
+    records = []
+    for row in frame.to_dict(orient="records"):
+        safe_row = {}
+        for key, value in row.items():
+            if pd.isna(value):
+                value = None
+            elif isinstance(value, float) and not isfinite(value):
+                value = "Infinity" if value > 0 else "-Infinity"
+            elif hasattr(value, "item"):
+                value = value.item()
+            safe_row[key] = value
+        records.append(safe_row)
+    return records
 
 
 def _write_plots(
@@ -332,7 +350,8 @@ def _interpret_results(results: list[dict[str, Any]]) -> list[str]:
                 f"net return change {delta(equal_weighted, inverse_volatility, 'Net Total Return', scale=100, suffix=' pp')}; "
                 f"Sharpe change {delta(equal_weighted, inverse_volatility, 'Sharpe')}; "
                 f"realized portfolio volatility change {delta(equal_weighted, inverse_volatility, 'Average Realized Volatility', scale=100, suffix=' pp')}; "
-                f"weight-weighted constituent volatility change {delta(equal_weighted, inverse_volatility, 'Weighted Average Portfolio Volatility', scale=100, suffix=' pp')}; "
+                f"covariance-based portfolio volatility change {delta(equal_weighted, inverse_volatility, 'Average Covariance-Based Portfolio Volatility', scale=100, suffix=' pp')}; "
+                f"weight-weighted constituent volatility change {delta(equal_weighted, inverse_volatility, 'Weight-Weighted Average Constituent Volatility', scale=100, suffix=' pp')}; "
                 f"annualized turnover change {delta(equal_weighted, inverse_volatility, 'Annualized Two-sided Turnover', suffix='x')}; "
                 f"transaction cost change {delta(equal_weighted, inverse_volatility, 'Transaction Costs', suffix=' EUR')}."
             )
@@ -415,6 +434,7 @@ def run_comparison(
                 "Close is adjusted; Open/High/Low are scaled by Close/Raw Close; "
                 "all price and turnover fields are converted to EUR using prior FX rates."
             ),
+            "metric_definitions": "metric_definitions.md",
         }
     )
     (output_dir / "config.json").write_text(
@@ -427,6 +447,14 @@ def run_comparison(
     ]
     result_frame = pd.DataFrame(flat_rows)
     result_frame.to_csv(output_dir / "results.csv", index=False)
+    (output_dir / "results.json").write_text(
+        json.dumps(_json_safe_records(result_frame), indent=2, allow_nan=False),
+        encoding="utf-8",
+    )
+    shutil.copyfile(
+        Path(__file__).resolve().parents[2] / "METRICS.md",
+        output_dir / "metric_definitions.md",
+    )
     plot_files = _write_plots(output_dir, rows, portfolio.broker.initial_cash)
     interpretation = _interpret_results(rows)
     successful_count = sum(row.get("Status") == "success" for row in rows)
@@ -439,6 +467,8 @@ def run_comparison(
         "<h1>Strategy comparison</h1>"
         f"<p>{successful_count}/{len(rows)} variants completed successfully.</p>"
         f"<p>Run ID: {run_id}</p><ul>{plot_links}</ul>"
+        "<p><a href='results.json'>JSON results</a> | "
+        "<a href='metric_definitions.md'>Metric definitions</a></p>"
         f"<h2>Results</h2>{table}"
         f"<h2>Interpretation</h2><ul>{''.join(f'<li>{line}</li>' for line in interpretation)}</ul>"
         f"<h2>Limitations</h2><p>{parameters['universe_limitation']}</p>"
@@ -458,8 +488,10 @@ def run_comparison(
         "",
         "## Files",
         "- `results.csv`",
+        "- `results.json` (same result fields as `results.csv`)",
         "- `equity_curves.csv` (when at least one variant succeeds)",
         "- `config.json`",
+        "- `metric_definitions.md`",
         *[f"- `{name}`" for name in plot_files],
     ]
     (output_dir / "report.md").write_text(

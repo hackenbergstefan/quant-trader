@@ -1,3 +1,4 @@
+import json
 from types import SimpleNamespace
 
 import pandas as pd
@@ -94,8 +95,10 @@ def test_runner_archives_config_and_writes_csv_report_and_all_plots(
                     "Annualized Two-sided Turnover 2020": 2.0 + index,
                     "Annual Transaction Costs 2020": 10.0 + index,
                     "Sharpe": 0.5 + index / 10,
+                    "Profit Factor": float("inf"),
                     "Average Realized Volatility": 0.15 + index / 100,
-                    "Weighted Average Portfolio Volatility": 0.2 + index / 100,
+                    "Weight-Weighted Average Constituent Volatility": 0.2 + index / 100,
+                    "Average Covariance-Based Portfolio Volatility": 0.18 + index / 100,
                     "Transaction Costs": 100.0 + index,
                     "max_position_weight": 0.2,
                     "_Net Equity": net,
@@ -114,6 +117,8 @@ def test_runner_archives_config_and_writes_csv_report_and_all_plots(
     expected_files = {
         "config.json",
         "results.csv",
+        "results.json",
+        "metric_definitions.md",
         "equity_curves.csv",
         "report.html",
         "report.md",
@@ -148,7 +153,17 @@ def test_runner_archives_config_and_writes_csv_report_and_all_plots(
     ]
     assert [spec.config for spec in restored_specs] == [spec.config for spec in specs]
     results = pd.read_csv(output_dir / "results.csv")
+    json_results = json.loads((output_dir / "results.json").read_text())
     assert results["Status"].eq("success").all()
+    assert list(json_results[0]) == list(results.columns)
+    assert "Average Covariance-Based Portfolio Volatility" in json_results[0]
+    assert json_results[0]["Profit Factor"] == "Infinity"
+    assert (
+        pd.read_csv(output_dir / "results.csv")["Profit Factor"]
+        .isin([float("inf")])
+        .all()
+    )
+    assert "Metric definitions" in (output_dir / "report.html").read_text()
     assert "AB-M5 Net" in pd.read_csv(output_dir / "equity_curves.csv").columns
     assert "survivorship bias" in (output_dir / "report.md").read_text().lower()
     assert "percentage points" in (output_dir / "report.md").read_text().lower()

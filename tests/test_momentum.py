@@ -15,8 +15,10 @@ from pytrading.strategies.momentum import (
     _atr_14,
     _backtest,
     _build_vectorbt_portfolio,
+    _covariance_based_portfolio_volatility,
     _default_variant_config,
     _holding_period_metrics,
+    _instrument_close_series,
     _inverse_volatility_weights,
     _liquidity_eligibility,
     _market_regimes,
@@ -27,6 +29,7 @@ from pytrading.strategies.momentum import (
     _realized_volatility,
     _trend_filter,
     _turnover_metrics,
+    _variant_metrics,
     backtest,
     rebalance_dates,
     signal_diagnostics,
@@ -304,7 +307,7 @@ def test_position_weight_metrics_use_actual_positions_and_annualized_volatility(
     dates = pd.bdate_range("2024-01-02", periods=3)
     close = pd.DataFrame({"A": [100.0] * 3, "B": [50.0] * 3}, index=dates)
     assets = pd.DataFrame({"A": [1.0, 2.0, 0.0], "B": [2.0, 1.0, 0.0]}, index=dates)
-    values = pd.Series(1000.0, index=dates)
+    values = pd.Series([1000.0, 800.0, 1000.0], index=dates)
     volatility = pd.DataFrame({"A": [0.2, 0.4, 0.4], "B": [0.4, 0.2, 0.3]}, index=dates)
     result = SimpleNamespace(value=lambda: values, assets=lambda: assets)
 
@@ -312,15 +315,172 @@ def test_position_weight_metrics_use_actual_positions_and_annualized_volatility(
         result, close, volatility, max_position_weight=0.2
     )
 
-    assert metrics["Average Position Weight"] == pytest.approx(0.1125)
+    assert metrics["Average Position Weight"] == pytest.approx(0.128125)
     assert metrics["Median Position Weight"] == pytest.approx(0.1)
-    assert metrics["Largest Position Weight"] == pytest.approx(0.2)
+    assert metrics["Largest Position Weight"] == pytest.approx(0.25)
     assert metrics["Average Position Volatility"] == pytest.approx(0.3)
-    assert metrics["Weighted Average Portfolio Volatility"] == pytest.approx(0.33)
+    assert metrics["Weight-Weighted Average Constituent Volatility"] == pytest.approx(
+        0.33
+    )
+    assert metrics["Average Covariance-Based Portfolio Volatility"] == 0.0
     assert metrics["Weight Concentration HHI"] == pytest.approx(0.59)
     assert metrics["Time at or Above Position Cap"] == pytest.approx(1 / 3)
-    assert average_weight.tolist() == pytest.approx([0.1, 0.125, 0.0])
-    assert maximum_weight.tolist() == pytest.approx([0.1, 0.2, 0.0])
+    assert average_weight.tolist() == pytest.approx([0.1, 0.15625, 0.0])
+    assert maximum_weight.tolist() == pytest.approx([0.1, 0.25, 0.0])
+
+
+def _close_from_returns(returns: pd.DataFrame) -> pd.DataFrame:
+    initial_index = pd.DatetimeIndex([returns.index[0] - pd.offsets.BDay(1)])
+    initial = pd.DataFrame(100.0, index=initial_index, columns=returns.columns)
+    return pd.concat([initial, 100.0 * (1 + returns).cumprod()], axis=0)
+
+
+def test_covariance_portfolio_volatility_for_one_position_and_cash():
+    dates = pd.bdate_range("2024-01-02", periods=41)
+    returns = pd.DataFrame({"A": np.tile([-0.01, 0.01], 20)}, index=dates[1:])
+    close = _close_from_returns(returns)
+    dates = close.index
+    full_weights = pd.DataFrame({"A": 1.0}, index=dates)
+    cash_weights = pd.DataFrame({"A": 0.5}, index=dates)
+
+    full = _covariance_based_portfolio_volatility(full_weights, close)
+    half_cash = _covariance_based_portfolio_volatility(cash_weights, close)
+
+    expected = returns["A"].std(ddof=1) * np.sqrt(252)
+    assert full.iloc[-1] == pytest.approx(expected)
+    assert half_cash.iloc[-1] == pytest.approx(expected / 2)
+
+
+@pytest.mark.parametrize(
+    ("second_returns", "expected_scale"),
+    [
+        (lambda values: 2 * values, 1.5),
+        (lambda values: np.tile([-1, -1, 1, 1], 10) * 0.01, np.sqrt(0.5)),
+        (lambda values: -values, 0.0),
+    ],
+    ids=["perfect-positive", "uncorrelated", "perfect-negative"],
+)
+def test_covariance_portfolio_volatility_uses_covariances(
+    second_returns, expected_scale
+):
+    dates = pd.bdate_range("2024-01-02", periods=41)
+    first = np.tile([-0.01, 0.01], 20)
+    second = second_returns(first)
+    returns = pd.DataFrame(
+        {"A": first, "B": second},
+        index=dates[1:],
+    )
+    close = _close_from_returns(returns)
+    weights = pd.DataFrame(0.5, index=close.index, columns=["A", "B"])
+
+    volatility = _covariance_based_portfolio_volatility(weights, close)
+
+    expected = returns["A"].std(ddof=1) * expected_scale * np.sqrt(252)
+    assert volatility.iloc[-1] == pytest.approx(expected, abs=1e-10)
+
+
+def test_covariance_portfolio_volatility_recomputes_for_changing_holdings():
+    dates = pd.bdate_range("2024-01-02", periods=41)
+    returns = pd.DataFrame(
+        {
+            "A": np.tile([-0.01, 0.01], 20),
+            "B": np.tile([-0.02, 0.02], 20),
+        },
+        index=dates[1:],
+    )
+    close = _close_from_returns(returns)
+    weights = pd.DataFrame(0.0, index=close.index, columns=["A", "B"])
+    weights.loc[dates[:21], "A"] = 1.0
+    weights.loc[dates[21] :, "B"] = 1.0
+
+    volatility = _covariance_based_portfolio_volatility(weights, close)
+
+    assert volatility.loc[dates[20]] == pytest.approx(
+        returns["A"].iloc[:20].std(ddof=1) * np.sqrt(252)
+    )
+    assert volatility.iloc[-1] == pytest.approx(returns["B"].std(ddof=1) * np.sqrt(252))
+
+
+def test_covariance_portfolio_volatility_excludes_missing_return_observations():
+    dates = pd.bdate_range("2024-01-02", periods=41)
+    returns = pd.DataFrame(
+        {
+            "A": np.tile([-0.01, 0.01], 20),
+            "B": np.tile([-0.02, 0.02], 20),
+        },
+        index=dates[1:],
+    )
+    close = _close_from_returns(returns)
+    close.loc[dates[-5], "B"] = np.nan
+    valid_returns = close.pct_change(fill_method=None).dropna()
+    weights = pd.DataFrame(0.5, index=close.index, columns=["A", "B"])
+    expected = np.sqrt(
+        np.array([0.5, 0.5]) @ valid_returns.cov().to_numpy() @ np.array([0.5, 0.5])
+    ) * np.sqrt(252)
+
+    volatility = _covariance_based_portfolio_volatility(weights, close)
+
+    assert np.isfinite(volatility.iloc[-1])
+    assert volatility.iloc[-1] == pytest.approx(expected)
+
+
+def test_covariance_portfolio_volatility_does_not_use_future_prices():
+    dates = pd.bdate_range("2024-01-02", periods=41)
+    returns = pd.DataFrame(
+        {
+            "A": np.tile([-0.01, 0.01], 20),
+            "B": np.tile([-0.02, 0.02], 20),
+        },
+        index=dates[1:],
+    )
+    close = _close_from_returns(returns)
+    changed_future = close.copy()
+    changed_future.loc[dates[-5] :, "A"] *= 10
+    weights = pd.DataFrame(0.5, index=close.index, columns=["A", "B"])
+    cutoff = dates[-10]
+
+    original = _covariance_based_portfolio_volatility(weights, close)
+    with_future_change = _covariance_based_portfolio_volatility(weights, changed_future)
+
+    assert with_future_change.loc[cutoff] == pytest.approx(original.loc[cutoff])
+    assert with_future_change.iloc[-1] != pytest.approx(original.iloc[-1])
+
+
+def test_covariance_portfolio_volatility_respects_exchange_holidays():
+    dates = pd.bdate_range("2024-06-17", periods=41)
+    returns = pd.DataFrame(
+        {
+            "US": np.tile([-0.01, 0.01], 20),
+            "EU": np.tile([-0.02, 0.02], 20),
+        },
+        index=dates[1:],
+    )
+    close = _close_from_returns(returns)
+    close.loc["2024-07-04", "US"] = np.nan
+    metadata = {"US": {"exchange": "NYQ"}, "EU": {"exchange": "GER"}}
+    weights = pd.DataFrame(0.5, index=close.index, columns=["US", "EU"])
+    calendar_returns = pd.DataFrame(
+        {
+            column: _instrument_close_series(close, column, metadata)
+            .pct_change(fill_method=None)
+            .reindex(close.index)
+            for column in close.columns
+        },
+        index=close.index,
+    )
+    joint_returns = calendar_returns.dropna()
+    weight_array = np.array([0.5, 0.5])
+    expected = np.sqrt(
+        weight_array @ joint_returns.cov().to_numpy() @ weight_array
+    ) * np.sqrt(252)
+
+    volatility = _covariance_based_portfolio_volatility(weights, close, metadata)
+
+    assert pd.isna(calendar_returns.loc["2024-07-04", "US"])
+    assert calendar_returns.loc["2024-07-05", "US"] == pytest.approx(
+        close.loc["2024-07-05", "US"] / close.loc["2024-07-03", "US"] - 1
+    )
+    assert volatility.iloc[-1] == pytest.approx(expected)
 
 
 def test_signal_c_alone_controls_inverse_volatility_weighting(monkeypatch):
@@ -502,10 +662,12 @@ def test_holding_period_fifo_handles_additions_and_partial_sales():
 
     metrics = _holding_period_metrics(orders, close)
 
-    assert metrics["Completed Trade Lots"] == 3
-    assert metrics["Average Holding Period (sessions)"] == pytest.approx(3.0)
-    assert metrics["Median Holding Period (sessions)"] == pytest.approx(3.0)
-    assert metrics["Weighted Average Holding Period (sessions)"] == pytest.approx(2.6)
+    assert metrics["Completed Trade Lots"] == 2
+    assert metrics["Average Holding Period (sessions)"] == pytest.approx(3.5)
+    assert metrics["Median Holding Period (sessions)"] == pytest.approx(3.5)
+    assert metrics["Weighted Average Holding Period (sessions)"] == pytest.approx(
+        11 / 3
+    )
     assert metrics["Completed Positions"] == 1
     assert metrics["Average Position Duration (sessions)"] == 4
     assert metrics["Open Lots"] == 0
@@ -527,10 +689,10 @@ def test_holding_period_unweighted_and_weighted_for_unequal_sale_quantities():
 
     metrics = _holding_period_metrics(orders, close)
 
-    assert metrics["Completed Trade Lots"] == 3
-    assert metrics["Average Holding Period (sessions)"] == pytest.approx(11 / 3)
+    assert metrics["Completed Trade Lots"] == 2
+    assert metrics["Average Holding Period (sessions)"] == pytest.approx(4.0)
     assert metrics["Median Holding Period (sessions)"] == pytest.approx(4.0)
-    assert metrics["Weighted Average Holding Period (sessions)"] == pytest.approx(3.6)
+    assert metrics["Weighted Average Holding Period (sessions)"] == pytest.approx(4.0)
 
 
 def test_holding_period_reports_open_lots_and_excludes_them_from_completed_mean():
@@ -548,9 +710,9 @@ def test_holding_period_reports_open_lots_and_excludes_them_from_completed_mean(
 
     metrics = _holding_period_metrics(orders, close)
 
-    assert metrics["Completed Trade Lots"] == 1
-    assert metrics["Average Holding Period (sessions)"] == 1
-    assert metrics["Weighted Average Holding Period (sessions)"] == 1
+    assert metrics["Completed Trade Lots"] == 0
+    assert metrics["Average Holding Period (sessions)"] == 0
+    assert metrics["Weighted Average Holding Period (sessions)"] == 0
     assert metrics["Open Lots"] == 3
     assert metrics["Open Positions"] == 2
     assert metrics["Average Open Position Duration (sessions)"] == 4
@@ -569,6 +731,90 @@ def test_holding_period_rejects_sell_quantity_above_open_fifo_lots():
 
     with pytest.raises(ValueError, match="exceeds open FIFO lots"):
         _holding_period_metrics(orders, close)
+
+
+def test_holding_period_uses_instrument_exchange_sessions():
+    dates = pd.bdate_range("2024-03-28", "2024-04-02")
+    close = pd.DataFrame({"A": 10.0}, index=dates)
+    orders = pd.DataFrame(
+        [
+            (0, "A", dates[0], 1.0, 10.0, 0.0, "Buy"),
+            (1, "A", dates[-1], 1.0, 10.0, 0.0, "Sell"),
+        ],
+        columns=["Order Id", "Column", "Timestamp", "Size", "Price", "Fees", "Side"],
+    )
+
+    metrics = _holding_period_metrics(orders, close, {"A": {"exchange": "GER"}})
+
+    assert metrics["Average Holding Period (sessions)"] == 1
+    assert metrics["Average Position Duration (sessions)"] == 1
+
+
+def test_variant_metrics_preserve_stale_markets_and_reconcile_costs_and_exposure():
+    dates = pd.bdate_range("2024-01-02", periods=3)
+    close = pd.DataFrame(
+        {"A": [10.0, np.nan, 12.0], "B": [10.0, 10.0, 10.0]}, index=dates
+    )
+    assets = pd.DataFrame({"A": 1.0, "B": 1.0}, index=dates)
+    values = pd.Series(100.0, index=dates)
+    gross_values = pd.Series([100.0, 110.0, 120.0], index=dates)
+    orders = pd.DataFrame(
+        [
+            (0, "A", dates[0], 10.0, 10.05, 3.005, "Buy"),
+            (1, "A", dates[2], 10.0, 9.90, 2.99, "Sell"),
+        ],
+        columns=["Order Id", "Column", "Timestamp", "Size", "Price", "Fees", "Side"],
+    )
+    result = SimpleNamespace(
+        value=lambda: values,
+        assets=lambda: assets,
+        trades=SimpleNamespace(
+            closed=SimpleNamespace(
+                records_readable=pd.DataFrame({"PnL": [20.0, -10.0]})
+            )
+        ),
+        orders=SimpleNamespace(records_readable=orders),
+    )
+    gross_result = SimpleNamespace(value=lambda: gross_values)
+    universe = SimpleNamespace(
+        close=lambda: close,
+        market_metadata=lambda: {
+            "A": {"country": "United States"},
+            "B": {"country": "Germany"},
+        },
+    )
+    portfolio = Portfolio(
+        universe,
+        str(dates[0].date()),
+        str(dates[-1].date()),
+        BrokerConfig(100.0, 0.01, 2.0, 0.0),
+    )
+    execution_prices = pd.DataFrame(
+        {"A": [10.0, 10.0, 10.0], "B": [10.0, 10.0, 10.0]}, index=dates
+    )
+
+    metrics = _variant_metrics(
+        result, gross_result, portfolio, MomentumConfig(), execution_prices
+    )
+
+    assert metrics["Number of Trades"] == 2
+    assert metrics["Buy Orders"] == 1
+    assert metrics["Sell Orders"] == 1
+    assert metrics["Completed Trade Lots"] == 1
+    assert metrics["Proportional Fees Costs"] == pytest.approx(1.995)
+    assert metrics["Fixed Fees Costs"] == pytest.approx(4.0)
+    assert metrics["Transaction Fees"] == pytest.approx(5.995)
+    assert metrics["Slippage Costs"] == pytest.approx(1.5)
+    assert metrics["Transaction Costs"] == pytest.approx(7.495)
+    assert metrics["Cost Share of Gross Profit"] == pytest.approx(7.495 / 20)
+    assert metrics["Net End Value"] == pytest.approx(100.0)
+    assert metrics["Gross End Value"] == pytest.approx(120.0)
+    expected_exposure = (0.2 + 0.2 + 0.22) / 3
+    assert metrics["Average Exposure"] == pytest.approx(expected_exposure)
+    assert metrics["Cash Allocation"] == pytest.approx(1 - expected_exposure)
+    assert metrics["Average EUROPE Exposure"] + metrics[
+        "Average USA Exposure"
+    ] == pytest.approx(metrics["Average Exposure"])
 
 
 def test_liquidity_filter_preserves_75_percent_observation_threshold():
@@ -911,7 +1157,8 @@ def test_all_variants_run_identically_scheduled_vectorbt_engine(caplog):
         "Median Position Weight",
         "Largest Position Weight",
         "Average Position Volatility",
-        "Weighted Average Portfolio Volatility",
+        "Weight-Weighted Average Constituent Volatility",
+        "Average Covariance-Based Portfolio Volatility",
         "Weight Concentration HHI",
         "Time at or Above Position Cap",
         "Downside Volatility",

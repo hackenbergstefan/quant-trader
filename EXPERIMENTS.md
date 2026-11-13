@@ -33,10 +33,13 @@ The matrix is:
 
 Each run gets a unique directory under `results/experiments/` by default. It
 contains `config.json` (restorable with `load_experiment_config`), `results.csv`,
-`equity_curves.csv`, `report.html`, `report.md`, and seven interactive Plotly
-HTML charts, including `position_weights.html`. A failed variant is recorded
-with `Status=error` and its exception; the CLI exits nonzero after saving the
-partial report. Missing metrics remain blank, not zero.
+`results.json`, `metric_definitions.md`, `equity_curves.csv`, `report.html`,
+`report.md`, and seven interactive Plotly HTML charts, including
+`position_weights.html`. CSV, JSON, and the HTML table share the same result
+rows and field names; [METRICS.md](./METRICS.md) is the canonical definition.
+A failed variant is recorded with `Status=error` and its exception; the CLI
+exits nonzero after saving the partial report. Missing metrics remain blank or
+JSON `null`, not zero.
 
 ## Calculation conventions
 
@@ -51,20 +54,23 @@ VectorBT order records.
 One-sided turnover is buy notional divided by average daily portfolio value.
 Two-sided turnover is buy plus sell notional divided by average daily portfolio
 value. Annualized turnover divides each period ratio by observed sessions / 252.
-Annual transaction costs are grouped by order year. Holding periods use FIFO
-matched sale portions; open lots are excluded from completed trade holding
-periods and reported separately.
+Annual transaction costs are grouped by order year. FIFO holding metrics count
+a buy lot as completed only after all shares from that buy are sold; partial
+sale allocations do not count as separate lots. Completed holding periods end
+when the final remaining shares of a buy lot are sold. Mapped exchanges use
+their exchange sessions; unmatched lots and positions remain open at the end.
 
 AB positions are equal weighted; ABC positions use inverse volatility from an
 equal blend of annualized 20- and 60-session realized volatility. Both sizing
 rules enforce the 20% per-position cap and 100% total-exposure cap. If fewer
-than five eligible positions exist, unused capital remains cash. The results
-include mean, median, and maximum actual daily position weights, mean held-name
-volatility, weight-weighted constituent volatility, invested-weight HHI, and
-the share of sessions with a position at or above the cap. The
-weight-weighted constituent volatility is not covariance-aware portfolio
-volatility; compare it with realized volatility of portfolio returns to assess
-diversification and realized risk.
+than five eligible positions exist, unused capital remains cash. The results include mean, median, and maximum actual position weights, mean
+held-name volatility, a weight-weighted average constituent volatility,
+covariance-based portfolio volatility, invested-weight HHI, and the share of
+sessions with an actual position at or above the target cap. Constituent
+volatility ignores correlations; covariance-based volatility uses actual
+close-marked weights and the trailing 60 jointly observed daily returns
+(minimum 20 observations), annualized by √252. See [METRICS.md](./METRICS.md)
+for exact formulas, data sources, aggregation rules, and limitations.
 
 The 20% cap applies to target weights at each monthly rebalance. Because
 positions are not forcibly rebalanced between scheduled dates, market moves can
@@ -72,8 +78,9 @@ push actual daily position weights above 20%; the report and position chart show
 that drift explicitly.
 
 The report compares ABC with AB at Top 5 and Top 10 using net return, Sharpe,
-realized portfolio volatility, weight-weighted constituent volatility,
-turnover, and costs. It also compares Top 5 with Top 10 within each sizing rule.
+realized portfolio volatility, covariance-based portfolio volatility,
+weight-weighted constituent volatility, turnover, and costs. It also compares
+Top 5 with Top 10 within each sizing rule.
 
 The daily close series is adjusted. Raw Open, High, and Low are scaled by
 `Close / Raw Close` before EUR conversion so execution and valuation use the

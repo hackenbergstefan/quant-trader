@@ -22,6 +22,8 @@ _VARIANT_WORKER_PORTFOLIO = None
 _VARIANT_WORKER_CONFIG = None
 _VARIANT_WORKER_FINGERPRINT = None
 _VARIANT_WORKER_UNIVERSE_SIZE = None
+_PORTFOLIO_VOLATILITY_WINDOW = 60
+_PORTFOLIO_VOLATILITY_MIN_PERIODS = 20
 
 if TYPE_CHECKING:
     from pytrading import BrokerConfig, Portfolio
@@ -1028,14 +1030,52 @@ def _single_series(values: pd.Series | pd.DataFrame) -> pd.Series:
     return values
 
 
-def _holding_period_metrics(
-    orders: pd.DataFrame, close: pd.DataFrame
-) -> dict[str, float | int]:
-    """Measure completed sale portions and remaining FIFO lots.
+def _covariance_based_portfolio_volatility(
+    position_weights: pd.DataFrame,
+    close: pd.DataFrame,
+    metadata: Mapping[str, Mapping[str, str | None]] | None = None,
+) -> pd.Series:
+    """Estimate annualized risk from trailing jointly observed daily returns."""
+    returns = pd.DataFrame(
+        {
+            column: _instrument_close_series(close, column, metadata)
+            .pct_change(fill_method=None)
+            .reindex(close.index)
+            for column in close.columns
+        },
+        index=close.index,
+    )
+    volatility = pd.Series(np.nan, index=position_weights.index, dtype=float)
+    for date, weights in position_weights.iterrows():
+        held_weights = weights[weights.gt(1e-10)]
+        if held_weights.empty:
+            volatility.at[date] = 0.0
+            continue
 
-    The unweighted mean treats each FIFO-matched sale portion equally. The
-    weighted mean weights each portion by its sold quantity. Open lots are
-    excluded from both completed holding-period measures.
+        observed_returns = (
+            returns.loc[:date, held_weights.index]
+            .dropna(axis=0, how="any")
+            .tail(_PORTFOLIO_VOLATILITY_WINDOW)
+        )
+        if len(observed_returns) < _PORTFOLIO_VOLATILITY_MIN_PERIODS:
+            continue
+
+        covariance = observed_returns.cov().to_numpy()
+        weights_array = held_weights.to_numpy(dtype=float)
+        variance = float(weights_array @ covariance @ weights_array)
+        volatility.at[date] = np.sqrt(max(variance, 0.0)) * np.sqrt(252)
+    return volatility
+
+
+def _holding_period_metrics(
+    orders: pd.DataFrame,
+    close: pd.DataFrame,
+    metadata: Mapping[str, Mapping[str, str | None]] | None = None,
+) -> dict[str, float | int]:
+    """Measure completed FIFO buy lots and remaining position inventory.
+
+    A lot is completed only when all shares from its opening buy have been sold.
+    Its holding period ends on the session that sells its final remaining shares.
     """
     if orders.empty:
         return {
@@ -1058,8 +1098,13 @@ def _holding_period_metrics(
     open_position_durations = []
     ordered = orders.sort_values(["Timestamp", "Order Id"], kind="mergesort")
     for instrument, instrument_orders in ordered.groupby("Column", sort=False):
-        observed_dates = close.index[close[instrument].notna()]
-        if observed_dates.empty:
+        exchange = (metadata or {}).get(instrument, {}).get("exchange")
+        calendar_name = _EXCHANGE_CALENDARS.get(exchange or "")
+        instrument_dates = _instrument_close_series(close, instrument, metadata)
+        session_dates = (
+            instrument_dates.index if calendar_name else instrument_dates.dropna().index
+        )
+        if session_dates.empty:
             raise ValueError(
                 f"Orders exist for {instrument}, but no observed close prices exist."
             )
@@ -1073,25 +1118,25 @@ def _holding_period_metrics(
             if order.Side == "Buy":
                 if not lots:
                     position_entry = timestamp
-                lots.append([timestamp, quantity])
+                lots.append([timestamp, quantity, quantity])
                 continue
             if order.Side != "Sell":
                 continue
 
             remaining = quantity
             while remaining > 1e-10 and lots:
-                lot_entry, lot_quantity = lots[0]
+                lot_entry, lot_quantity, original_quantity = lots[0]
                 matched = min(remaining, lot_quantity)
-                entry_session = observed_dates.searchsorted(lot_entry)
-                exit_session = observed_dates.searchsorted(timestamp)
-                duration = max(0, int(exit_session - entry_session))
-                lot_durations.append(duration)
-                weighted_duration_sum += duration * matched
-                sold_quantity += matched
                 remaining -= matched
                 lot_quantity -= matched
                 if lot_quantity <= 1e-10:
                     lots.pop(0)
+                    entry_session = session_dates.searchsorted(lot_entry)
+                    exit_session = session_dates.searchsorted(timestamp)
+                    duration = max(0, int(exit_session - entry_session))
+                    lot_durations.append(duration)
+                    weighted_duration_sum += duration * original_quantity
+                    sold_quantity += original_quantity
                 else:
                     lots[0][1] = lot_quantity
 
@@ -1102,15 +1147,15 @@ def _holding_period_metrics(
                 )
 
             if not lots and position_entry is not None:
-                entry_session = observed_dates.searchsorted(position_entry)
-                exit_session = observed_dates.searchsorted(timestamp)
+                entry_session = session_dates.searchsorted(position_entry)
+                exit_session = session_dates.searchsorted(timestamp)
                 position_durations.append(max(0, int(exit_session - entry_session)))
                 position_entry = None
 
         if lots:
             open_lot_count += len(lots)
-            last_session = len(observed_dates) - 1
-            entry_session = observed_dates.searchsorted(position_entry)
+            last_session = len(session_dates) - 1
+            entry_session = session_dates.searchsorted(position_entry)
             open_position_durations.append(max(0, int(last_session - entry_session)))
 
     return {
@@ -1271,16 +1316,18 @@ def _variant_metrics(
     gross_values = _single_series(gross_result.value())
     daily_returns = values.pct_change(fill_method=None).dropna()
     close = portfolio.universe.close().reindex(index=values.index)
+    valuation_close = close.ffill()
     assets = (
         result.assets().reindex(index=values.index, columns=close.columns).fillna(0)
     )
-    market_values = assets.mul(close).fillna(0)
+    market_values = assets.mul(valuation_close).fillna(0)
     invested = market_values.sum(axis=1)
     exposure = invested.div(values.replace(0, np.nan)).fillna(0)
     drawdown = values.div(values.cummax()).sub(1)
     initial_cash = portfolio.broker.initial_cash
     net_end_value = float(values.iloc[-1])
     gross_end_value = float(gross_values.iloc[-1])
+    metadata = portfolio.universe.market_metadata()
     total_return = net_end_value / initial_cash - 1
     gross_total_return = gross_end_value / initial_cash - 1
     elapsed_years = max((values.index[-1] - values.index[0]).days / 365.25, 1 / 252)
@@ -1315,7 +1362,7 @@ def _variant_metrics(
     costs = _execution_cost_breakdown(orders, execution_prices, portfolio.broker, years)
     transaction_costs = costs["Transaction Costs"]
     turnover = _turnover_metrics(orders, values)
-    holding_periods = _holding_period_metrics(orders, close)
+    holding_periods = _holding_period_metrics(orders, close, metadata)
     monthly_values = values.groupby(values.index.to_period("M")).last()
     monthly_returns = monthly_values.pct_change()
     if not monthly_returns.empty:
@@ -1365,7 +1412,6 @@ def _variant_metrics(
         "Buy Orders": int(orders["Side"].eq("Buy").sum()) if not orders.empty else 0,
         "Sell Orders": int(orders["Side"].eq("Sell").sum()) if not orders.empty else 0,
     }
-    metadata = portfolio.universe.market_metadata()
     for region in ("EUROPE", "USA", "OTHER"):
         columns = [
             column
@@ -1389,9 +1435,10 @@ def _position_weight_metrics(
     close: pd.DataFrame,
     volatility: pd.DataFrame,
     max_position_weight: float,
+    metadata: Mapping[str, Mapping[str, str | None]] | None = None,
 ) -> tuple[dict[str, float], pd.Series, pd.Series]:
     values = _single_series(result.value())
-    close_on_dates = close.reindex(index=values.index).ffill()
+    close_on_dates = close.reindex(index=values.index, columns=close.columns).ffill()
     assets = (
         result.assets().reindex(index=values.index, columns=close.columns).fillna(0)
     )
@@ -1408,12 +1455,15 @@ def _position_weight_metrics(
     )
 
     exposure = position_weights.sum(axis=1)
-    weighted_average_portfolio_volatility = (
+    weight_weighted_constituent_volatility = (
         position_weights.mul(vol_frame)
         .sum(axis=1)
         .div(
             position_weights.where(vol_frame.notna(), 0).sum(axis=1).replace(0, np.nan)
         )
+    )
+    covariance_portfolio_volatility = _covariance_based_portfolio_volatility(
+        position_weights, close, metadata
     )
     normalized_weights = position_weights.div(exposure.replace(0, np.nan), axis=0)
     hhi = normalized_weights.pow(2).sum(axis=1).where(exposure.gt(0))
@@ -1429,8 +1479,11 @@ def _position_weight_metrics(
         if active_weights.size
         else 0.0,
         "Average Position Volatility": average_position_volatility,
-        "Weighted Average Portfolio Volatility": float(
-            weighted_average_portfolio_volatility.mean()
+        "Weight-Weighted Average Constituent Volatility": float(
+            weight_weighted_constituent_volatility.mean()
+        ),
+        "Average Covariance-Based Portfolio Volatility": float(
+            covariance_portfolio_volatility.mean()
         ),
         "Weight Concentration HHI": float(hhi.mean()) if hhi.notna().any() else 0.0,
         "Time at or Above Position Cap": float(
@@ -1559,6 +1612,7 @@ def _run_variant_case(
             portfolio.universe.close(),
             volatility,
             config.max_position_weight,
+            portfolio.universe.market_metadata(),
         )
     )
     row: dict[str, object] = {
