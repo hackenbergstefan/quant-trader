@@ -1236,6 +1236,41 @@ def _execution_cost_metrics(
     return fees, float(slippage_cost)
 
 
+def _execution_cost_breakdown(
+    orders: pd.DataFrame,
+    execution_prices: pd.DataFrame,
+    broker: BrokerConfig,
+    years: Iterable[int],
+) -> dict[str, float]:
+    recorded_fees, slippage = _execution_cost_metrics(orders, execution_prices)
+    if orders.empty:
+        proportional_fees = fixed_fees = 0.0
+    else:
+        notionals = orders["Size"].abs() * orders["Price"]
+        proportional_fees = float((notionals * broker.fees).sum())
+        fixed_fees = max(0.0, recorded_fees - proportional_fees)
+
+    metrics = {
+        "Proportional Fees Costs": proportional_fees,
+        "Fixed Fees Costs": fixed_fees,
+        "Transaction Fees": recorded_fees,
+        "Slippage Costs": slippage,
+        "Transaction Costs": recorded_fees + slippage,
+    }
+    order_years = (
+        pd.to_datetime(orders["Timestamp"]).dt.year
+        if not orders.empty
+        else pd.Series(dtype=int)
+    )
+    for year in years:
+        year_orders = orders.loc[order_years == year] if not orders.empty else orders
+        year_fees, year_slippage = _execution_cost_metrics(
+            year_orders, execution_prices
+        )
+        metrics[f"Annual Transaction Costs {year}"] = year_fees + year_slippage
+    return metrics
+
+
 def _variant_metrics(
     result,
     gross_result,
@@ -1263,12 +1298,14 @@ def _variant_metrics(
     cagr = (net_end_value / initial_cash) ** (1 / elapsed_years) - 1
     gross_cagr = (gross_end_value / initial_cash) ** (1 / elapsed_years) - 1
     volatility = daily_returns.std(ddof=1)
+    annualized_volatility = volatility * np.sqrt(252)
     sharpe = (
         np.sqrt(252) * daily_returns.mean() / volatility
         if volatility and np.isfinite(volatility)
         else np.nan
     )
     downside = daily_returns.clip(upper=0).pow(2).mean() ** 0.5
+    annualized_downside_volatility = downside * np.sqrt(252)
     sortino = (
         np.sqrt(252) * daily_returns.mean() / downside
         if downside and np.isfinite(downside)
@@ -1285,11 +1322,20 @@ def _variant_metrics(
     )
 
     orders = result.orders.records_readable
-    transaction_fees, slippage_costs = _execution_cost_metrics(orders, execution_prices)
-    transaction_costs = transaction_fees + slippage_costs
+    years = sorted(set(values.index.year))
+    costs = _execution_cost_breakdown(orders, execution_prices, portfolio.broker, years)
+    transaction_costs = costs["Transaction Costs"]
     turnover = _turnover_metrics(orders, values)
     holding_periods = _holding_period_metrics(orders, close)
+    monthly_values = values.groupby(values.index.to_period("M")).last()
+    monthly_returns = monthly_values.pct_change()
+    if not monthly_returns.empty:
+        monthly_returns.iloc[0] = monthly_values.iloc[0] / initial_cash - 1
+    worst_month = float(monthly_returns.min()) if not monthly_returns.empty else np.nan
     metrics: dict[str, float | int] = {
+        "Initial Capital": float(initial_cash),
+        "Final Portfolio Value": net_end_value,
+        "Gross Final Portfolio Value": gross_end_value,
         "CAGR": float(cagr),
         "Total Return": float(total_return),
         "Net CAGR": float(cagr),
@@ -1303,19 +1349,30 @@ def _variant_metrics(
         "Sharpe": float(sharpe),
         "Sortino": float(sortino),
         "Calmar": float(calmar),
+        "Average Realized Volatility": float(annualized_volatility),
+        "Downside Volatility": float(annualized_downside_volatility),
+        "Largest Loss Month": worst_month,
+        "Negative Months": int(monthly_returns.lt(0).sum()),
+        "Positive Month Share": float(monthly_returns.gt(0).mean())
+        if not monthly_returns.empty
+        else np.nan,
         "Profit Factor": float(profit_factor),
         "Number of Trades": len(closed_trades),
         "Average Exposure": float(exposure.mean()),
         "Maximum Exposure": float(exposure.max()),
         "Cash Allocation": float((1 - exposure).mean()),
+        "Time with Cash": float(exposure.lt(1 - 1e-9).mean()),
         "Turnover": turnover["Two-sided Turnover"],
         "Annual Portfolio Turnover": turnover["Annualized Two-sided Turnover"],
         **turnover,
         **holding_periods,
-        "Transaction Fees": transaction_fees,
-        "Slippage Costs": slippage_costs,
-        "Transaction Costs": transaction_costs,
+        **costs,
         "Annual Transaction Costs": float(transaction_costs / elapsed_years),
+        "Cost Share of Gross Profit": (
+            transaction_costs / (gross_end_value - initial_cash)
+            if gross_end_value > initial_cash
+            else np.nan
+        ),
         "Buy Orders": int(orders["Side"].eq("Buy").sum()) if not orders.empty else 0,
         "Sell Orders": int(orders["Side"].eq("Sell").sum()) if not orders.empty else 0,
     }
@@ -1376,25 +1433,27 @@ def _initialize_variant_worker(
     )
 
 
-def _run_variant_case(variant: StrategyVariant) -> dict[str, object]:
-    portfolio = _VARIANT_WORKER_PORTFOLIO
-    config = _VARIANT_WORKER_CONFIG
-    if portfolio is None or config is None:
-        raise RuntimeError("Variant-Worker wurde nicht initialisiert.")
-
+def run_variant_backtests(
+    portfolio: Portfolio,
+    variant: StrategyVariant | str,
+    config: MomentumConfig,
+    *,
+    experiment_id: str | None = None,
+) -> tuple[object, object, pd.DataFrame, pd.DataFrame]:
+    """Run net/gross with identical signal weights and execution dates."""
+    variant = StrategyVariant(variant)
+    variant_label = experiment_id or variant.value
     gross_broker = replace(
         portfolio.broker,
         fees=0.0,
         fixed_fees=0.0,
         slippage=0.0,
     )
-    gross_portfolio = replace(portfolio, broker=gross_broker)
-
     close = portfolio.universe.close()
     open_prices = (
         portfolio.universe.open() if hasattr(portfolio.universe, "open") else close
     )
-    logger.info("[%s] Signal- und Orderplanung gestartet", variant.value)
+    logger.info("[%s] Signal- und Orderplanung gestartet", variant_label)
     stage_started_at = perf_counter()
     prices, execution_prices, weights = _prepare_backtest_inputs(
         close,
@@ -1409,31 +1468,48 @@ def _run_variant_case(variant: StrategyVariant) -> dict[str, object]:
     )
     logger.info(
         "[%s] Signal- und Orderplanung abgeschlossen in %.1fs",
-        variant.value,
+        variant_label,
         perf_counter() - stage_started_at,
     )
-    logger.info("[%s] Netto-Backtest gestartet", variant.value)
+    logger.info("[%s] Netto-Backtest gestartet", variant_label)
     stage_started_at = perf_counter()
-    result = _build_vectorbt_portfolio(
+    net_result = _build_vectorbt_portfolio(
         prices, execution_prices, weights, portfolio.broker
     )
     logger.info(
         "[%s] Netto-Backtest abgeschlossen in %.1fs",
-        variant.value,
+        variant_label,
         perf_counter() - stage_started_at,
     )
-    logger.info("[%s] Brutto-Backtest gestartet", variant.value)
+    logger.info("[%s] Brutto-Backtest gestartet", variant_label)
     stage_started_at = perf_counter()
     gross_result = _build_vectorbt_portfolio(
-        prices, execution_prices, weights, gross_portfolio.broker
+        prices, execution_prices, weights, gross_broker
     )
     logger.info(
         "[%s] Brutto-Backtest abgeschlossen in %.1fs",
-        variant.value,
+        variant_label,
         perf_counter() - stage_started_at,
     )
-    return {
+    return net_result, gross_result, execution_prices, weights
+
+
+def _run_variant_case(
+    variant: StrategyVariant,
+    config: MomentumConfig | None = None,
+    experiment_id: str | None = None,
+    include_timeseries: bool = False,
+) -> dict[str, object]:
+    portfolio = _VARIANT_WORKER_PORTFOLIO
+    config = config or _VARIANT_WORKER_CONFIG
+    if portfolio is None or config is None:
+        raise RuntimeError("Variant-Worker wurde nicht initialisiert.")
+    net_result, gross_result, execution_prices, _weights = run_variant_backtests(
+        portfolio, variant, config, experiment_id=experiment_id
+    )
+    row: dict[str, object] = {
         "Variant": variant.value,
+        "Experiment ID": experiment_id or variant.value,
         "Signals": ",".join(sorted(VARIANT_SIGNALS[variant])),
         "Start Date": portfolio.start_date,
         "End Date": portfolio.end_date,
@@ -1445,22 +1521,31 @@ def _run_variant_case(variant: StrategyVariant) -> dict[str, object]:
         "Slippage": portfolio.broker.slippage,
         "Benchmarks Available": ",".join(sorted(portfolio.benchmarks)),
         **asdict(config),
-        **_variant_metrics(result, gross_result, portfolio, config, execution_prices),
+        **_variant_metrics(
+            net_result, gross_result, portfolio, config, execution_prices
+        ),
     }
+    if include_timeseries:
+        row["_Net Equity"] = _single_series(net_result.value())
+        row["_Gross Equity"] = _single_series(gross_result.value())
+    return row
 
 
-def variant_experiment(
-    portfolio: Portfolio, config: MomentumConfig | None = None
-) -> pd.DataFrame:
-    config = config or _default_variant_config()
+def _variant_worker_initargs(
+    portfolio: Portfolio, config: MomentumConfig
+) -> tuple[object, ...]:
     close = portfolio.universe.close()
-    turnover = portfolio.universe.turnover()
     open_prices = (
         portfolio.universe.open() if hasattr(portfolio.universe, "open") else close
     )
+    turnover = portfolio.universe.turnover()
     metadata = portfolio.universe.market_metadata()
     fingerprint = sha256()
-    for label, frame in (("close", close), ("turnover", turnover)):
+    for label, frame in (
+        ("close", close),
+        ("open", open_prices),
+        ("turnover", turnover),
+    ):
         normalized = frame.sort_index().sort_index(axis=1)
         fingerprint.update(label.encode())
         fingerprint.update(repr((normalized.shape, tuple(normalized.columns))).encode())
@@ -1473,7 +1558,6 @@ def variant_experiment(
         fingerprint.update(
             pd.util.hash_pandas_object(normalized, index=True).to_numpy().tobytes()
         )
-    metadata = portfolio.universe.market_metadata()
     fingerprint.update(
         repr(
             sorted(
@@ -1486,6 +1570,88 @@ def variant_experiment(
             )
         ).encode()
     )
+    return (
+        close,
+        open_prices,
+        turnover,
+        metadata,
+        portfolio.benchmarks,
+        portfolio.start_date,
+        portfolio.end_date,
+        portfolio.broker,
+        config,
+        fingerprint.hexdigest(),
+        close.shape[1],
+    )
+
+
+def run_experiment_cases(
+    portfolio: Portfolio,
+    cases: Iterable[tuple[str, StrategyVariant, MomentumConfig]],
+) -> list[dict[str, object]]:
+    """Run named variant/config cases and retain explicit per-case failures."""
+    cases = tuple(cases)
+    if not cases:
+        return []
+    ids = [experiment_id for experiment_id, _, _ in cases]
+    if len(set(ids)) != len(ids):
+        raise ValueError("Experiment IDs müssen eindeutig sein.")
+    initargs = _variant_worker_initargs(portfolio, cases[0][2])
+    worker_count = min(len(cases), cpu_count())
+    rows_by_id: dict[str, dict[str, object]] = {}
+    logger.info(
+        "Starte Experimentmatrix: %d Varianten, %d Prozesse, Zeitraum %s bis %s",
+        len(cases),
+        worker_count,
+        portfolio.start_date,
+        portfolio.end_date,
+    )
+    with ProcessPoolExecutor(
+        max_workers=worker_count,
+        initializer=_initialize_variant_worker,
+        initargs=initargs,
+    ) as executor:
+        futures = {
+            executor.submit(
+                _run_variant_case,
+                variant,
+                config,
+                experiment_id,
+                True,
+            ): (experiment_id, variant, config)
+            for experiment_id, variant, config in cases
+        }
+        for future in as_completed(futures):
+            experiment_id, variant, config = futures[future]
+            try:
+                row = future.result()
+                row["Status"] = "success"
+            except Exception as exc:
+                logger.exception("Experiment %s fehlgeschlagen", experiment_id)
+                row = {
+                    "Experiment ID": experiment_id,
+                    "Variant": variant.value,
+                    "Signals": ",".join(sorted(VARIANT_SIGNALS[variant])),
+                    "Status": "error",
+                    "Error": f"{type(exc).__name__}: {exc}",
+                    **asdict(config),
+                }
+            rows_by_id[experiment_id] = row
+            logger.info(
+                "Experimentfortschritt: %d/%d (%s: %s)",
+                len(rows_by_id),
+                len(cases),
+                experiment_id,
+                row["Status"],
+            )
+    return [rows_by_id[experiment_id] for experiment_id in ids]
+
+
+def variant_experiment(
+    portfolio: Portfolio, config: MomentumConfig | None = None
+) -> pd.DataFrame:
+    config = config or _default_variant_config()
+    initargs = _variant_worker_initargs(portfolio, config)
     variants = tuple(StrategyVariant)
     total_backtests = len(variants) * 2
     worker_count = len(variants)
@@ -1502,19 +1668,7 @@ def variant_experiment(
     with ProcessPoolExecutor(
         max_workers=worker_count,
         initializer=_initialize_variant_worker,
-        initargs=(
-            close,
-            open_prices,
-            turnover,
-            metadata,
-            portfolio.benchmarks,
-            portfolio.start_date,
-            portfolio.end_date,
-            portfolio.broker,
-            config,
-            fingerprint.hexdigest(),
-            close.shape[1],
-        ),
+        initargs=initargs,
     ) as executor:
         futures = {
             executor.submit(_run_variant_case, variant): variant for variant in variants

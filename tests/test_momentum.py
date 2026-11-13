@@ -834,6 +834,9 @@ def test_all_variants_run_identically_scheduled_vectorbt_engine(caplog):
     assert report["Start Date"].nunique() == 1
     assert report["End Date"].nunique() == 1
     assert {
+        "Initial Capital",
+        "Final Portfolio Value",
+        "Gross Final Portfolio Value",
         "CAGR",
         "Total Return",
         "Net CAGR",
@@ -847,6 +850,11 @@ def test_all_variants_run_identically_scheduled_vectorbt_engine(caplog):
         "Sharpe",
         "Sortino",
         "Calmar",
+        "Average Realized Volatility",
+        "Downside Volatility",
+        "Largest Loss Month",
+        "Negative Months",
+        "Positive Month Share",
         "Profit Factor",
         "Number of Trades",
         "Average Holding Period (sessions)",
@@ -859,6 +867,7 @@ def test_all_variants_run_identically_scheduled_vectorbt_engine(caplog):
         "Average Exposure",
         "Maximum Exposure",
         "Cash Allocation",
+        "Time with Cash",
         "Turnover",
         "Annual Portfolio Turnover",
         "One-sided Turnover",
@@ -866,6 +875,8 @@ def test_all_variants_run_identically_scheduled_vectorbt_engine(caplog):
         "Annualized One-sided Turnover",
         "Annualized Two-sided Turnover",
         "Transaction Costs",
+        "Proportional Fees Costs",
+        "Fixed Fees Costs",
         "Transaction Fees",
         "Slippage Costs",
         "Annual Transaction Costs",
@@ -944,6 +955,11 @@ def test_variant_net_and_gross_reuse_prepared_backtest_inputs(monkeypatch):
         gross_orders[identity_columns].reset_index(drop=True),
     )
     assert result["Transaction Fees"] == pytest.approx(net_orders["Fees"].sum())
+    assert result["Transaction Fees"] == pytest.approx(
+        result["Proportional Fees Costs"] + result["Fixed Fees Costs"]
+    )
+    assert result["Proportional Fees Costs"] > 0
+    assert result["Fixed Fees Costs"] > 0
     assert result["Slippage Costs"] > 0
     assert result["Transaction Costs"] == pytest.approx(
         result["Transaction Fees"] + result["Slippage Costs"]

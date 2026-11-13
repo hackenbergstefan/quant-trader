@@ -1,0 +1,91 @@
+{
+  "broker": {
+    "fees": 0.001,
+    "fixed_fees": 1.0,
+    "initial_cash": 3000.0,
+    "slippage": 0.0005
+  },
+  "currency": "EUR",
+  "end_date": "2017-01-01",
+  "git_revision": "99d85cca1fb2cc5597e61f0383fbc547c823da02",
+  "price_treatment": "Close is adjusted; Open/High/Low are scaled by Close/Raw Close; all price and turnover fields are converted to EUR using prior FX rates.",
+  "run_id": "compare-20261113T163230Z-4f286dac19",
+  "signal_d": "excluded",
+  "start_date": "2010-01-01",
+  "universe_limitation": "Instrument files have no historical index-membership dates; results may contain survivorship bias and are not survivorship-bias-free.",
+  "universe_size": 1101,
+  "variants": [
+    {
+      "config": {
+        "bearish_exposure": 0.0,
+        "bullish_exposure": 1.0,
+        "liquidity_lookback": 20,
+        "max_position_weight": 0.2,
+        "min_avg_daily_turnover": 50000.0,
+        "momentum_120_weight": 0.5,
+        "momentum_20_weight": 0.2,
+        "momentum_60_weight": 0.3,
+        "neutral_exposure": 0.5,
+        "position_sizing": "inverse_volatility",
+        "rebalance_frequency": "weekly",
+        "topn": 5
+      },
+      "experiment_id": "ABC-W5",
+      "signals": "ABC"
+    },
+    {
+      "config": {
+        "bearish_exposure": 0.0,
+        "bullish_exposure": 1.0,
+        "liquidity_lookback": 20,
+        "max_position_weight": 0.2,
+        "min_avg_daily_turnover": 50000.0,
+        "momentum_120_weight": 0.5,
+        "momentum_20_weight": 0.2,
+        "momentum_60_weight": 0.3,
+        "neutral_exposure": 0.5,
+        "position_sizing": "inverse_volatility",
+        "rebalance_frequency": "monthly",
+        "topn": 5
+      },
+      "experiment_id": "ABC-M5",
+      "signals": "ABC"
+    },
+    {
+      "config": {
+        "bearish_exposure": 0.0,
+        "bullish_exposure": 1.0,
+        "liquidity_lookback": 20,
+        "max_position_weight": 0.2,
+        "min_avg_daily_turnover": 50000.0,
+        "momentum_120_weight": 0.5,
+        "momentum_20_weight": 0.2,
+        "momentum_60_weight": 0.3,
+        "neutral_exposure": 0.5,
+        "position_sizing": "inverse_volatility",
+        "rebalance_frequency": "monthly",
+        "topn": 10
+      },
+      "experiment_id": "ABC-M10",
+      "signals": "ABC"
+    },
+    {
+      "config": {
+        "bearish_exposure": 0.0,
+        "bullish_exposure": 1.0,
+        "liquidity_lookback": 20,
+        "max_position_weight": 0.2,
+        "min_avg_daily_turnover": 50000.0,
+        "momentum_120_weight": 0.5,
+        "momentum_20_weight": 0.2,
+        "momentum_60_weight": 0.3,
+        "neutral_exposure": 0.5,
+        "position_sizing": "equal",
+        "rebalance_frequency": "monthly",
+        "topn": 10
+      },
+      "experiment_id": "AB-M10",
+      "signals": "AB"
+    }
+  ]
+}

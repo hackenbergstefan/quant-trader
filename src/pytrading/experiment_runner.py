@@ -1,0 +1,433 @@
+from __future__ import annotations
+
+import hashlib
+import json
+import logging
+import subprocess
+from dataclasses import asdict, dataclass, replace
+from datetime import UTC, datetime
+from pathlib import Path
+from typing import Any
+
+import pandas as pd
+import plotly.graph_objects as go
+
+from pytrading import BrokerConfig, Portfolio
+from pytrading.strategies.momentum import (
+    MomentumConfig,
+    StrategyVariant,
+    run_experiment_cases,
+)
+
+logger = logging.getLogger(__name__)
+
+DEFAULT_START_DATE = "2010-01-01"
+DEFAULT_END_DATE = "2017-01-01"
+DEFAULT_INITIAL_CAPITAL = 3000.0
+DEFAULT_FEES = 0.001
+DEFAULT_FIXED_FEES = 1.0
+DEFAULT_SLIPPAGE = 0.0005
+
+
+def default_experiment_config() -> MomentumConfig:
+    return MomentumConfig(
+        topn=5,
+        min_avg_daily_turnover=50_000.0,
+        liquidity_lookback=20,
+        momentum_20_weight=0.2,
+        momentum_60_weight=0.3,
+        momentum_120_weight=0.5,
+        rebalance_frequency="weekly",
+        max_position_weight=0.2,
+        position_sizing="inverse_volatility",
+    )
+
+
+def default_broker_config(
+    initial_capital: float = DEFAULT_INITIAL_CAPITAL,
+) -> BrokerConfig:
+    return BrokerConfig(
+        initial_cash=initial_capital,
+        fees=DEFAULT_FEES,
+        fixed_fees=DEFAULT_FIXED_FEES,
+        slippage=DEFAULT_SLIPPAGE,
+    )
+
+
+@dataclass(frozen=True)
+class ExperimentSpec:
+    experiment_id: str
+    variant: StrategyVariant
+    config: MomentumConfig
+
+
+def build_experiment_matrix(
+    base_config: MomentumConfig | None = None,
+) -> tuple[ExperimentSpec, ...]:
+    base_config = base_config or default_experiment_config()
+    return (
+        ExperimentSpec(
+            "ABC-W5",
+            StrategyVariant.ABC,
+            replace(
+                base_config,
+                topn=5,
+                rebalance_frequency="weekly",
+                position_sizing="inverse_volatility",
+            ),
+        ),
+        ExperimentSpec(
+            "ABC-M5",
+            StrategyVariant.ABC,
+            replace(
+                base_config,
+                topn=5,
+                rebalance_frequency="monthly",
+                position_sizing="inverse_volatility",
+            ),
+        ),
+        ExperimentSpec(
+            "ABC-M10",
+            StrategyVariant.ABC,
+            replace(
+                base_config,
+                topn=10,
+                rebalance_frequency="monthly",
+                position_sizing="inverse_volatility",
+            ),
+        ),
+        ExperimentSpec(
+            "AB-M10",
+            StrategyVariant.AB,
+            replace(
+                base_config,
+                topn=10,
+                rebalance_frequency="monthly",
+                position_sizing="equal",
+            ),
+        ),
+    )
+
+
+def load_experiment_config(
+    config_path: Path,
+) -> tuple[dict[str, Any], tuple[ExperimentSpec, ...]]:
+    archived = json.loads(config_path.read_text(encoding="utf-8"))
+    specs = tuple(
+        ExperimentSpec(
+            experiment_id=item["experiment_id"],
+            variant=StrategyVariant(item["signals"]),
+            config=MomentumConfig(**item["config"]),
+        )
+        for item in archived["variants"]
+    )
+    return archived, specs
+
+
+def _yearly_returns(values: pd.Series, initial_capital: float) -> pd.Series:
+    year_end_values = values.groupby(values.index.year).last()
+    returns = {}
+    previous_value = initial_capital
+    for year, year_end_value in year_end_values.items():
+        returns[int(year)] = year_end_value / previous_value - 1
+        previous_value = year_end_value
+    return pd.Series(returns, dtype=float)
+
+
+def _run_id(parameters: dict[str, Any]) -> str:
+    digest = hashlib.sha256(
+        json.dumps(parameters, sort_keys=True, separators=(",", ":")).encode()
+    ).hexdigest()[:10]
+    timestamp = datetime.now(UTC).strftime("%Y%m%dT%H%M%SZ")
+    return f"compare-{timestamp}-{digest}"
+
+
+def _git_revision(project_root: Path) -> str | None:
+    try:
+        result = subprocess.run(
+            ["git", "rev-parse", "HEAD"],
+            cwd=project_root,
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+    except OSError, subprocess.CalledProcessError:
+        return None
+    return result.stdout.strip()
+
+
+def _write_plots(
+    output_dir: Path,
+    results: list[dict[str, Any]],
+    initial_capital: float,
+) -> list[str]:
+    successful = [row for row in results if row.get("Status") == "success"]
+    if not successful:
+        return []
+
+    net_series = {
+        row["Experiment ID"]: row["_Net Equity"]
+        for row in successful
+        if isinstance(row.get("_Net Equity"), pd.Series)
+    }
+    gross_series = {
+        row["Experiment ID"]: row["_Gross Equity"]
+        for row in successful
+        if isinstance(row.get("_Gross Equity"), pd.Series)
+    }
+    curve_frame = pd.concat(
+        {
+            **{f"{name} Net": values for name, values in net_series.items()},
+            **{f"{name} Gross": values for name, values in gross_series.items()},
+        },
+        axis=1,
+    )
+    curve_frame.index.name = "Date"
+    curve_frame.to_csv(output_dir / "equity_curves.csv")
+
+    plots: list[tuple[str, str, dict[str, pd.Series], str]] = []
+    plots.append(("equity_net.html", "Net Equity Curves", net_series, "EUR"))
+    plots.append(("equity_gross.html", "Gross Equity Curves", gross_series, "EUR"))
+    drawdowns = {
+        name: values.div(values.cummax()).sub(1) for name, values in net_series.items()
+    }
+    plots.append(("drawdowns.html", "Net Drawdowns", drawdowns, "Drawdown"))
+    yearly_net_returns = {
+        row["Experiment ID"]: _yearly_returns(row["_Net Equity"], initial_capital)
+        for row in successful
+    }
+    plots.append(
+        ("annual_net_returns.html", "Annual Net Returns", yearly_net_returns, "Return")
+    )
+    yearly_turnover = {
+        row["Experiment ID"]: pd.Series(
+            {
+                int(str(key).rsplit(" ", 1)[1]): value
+                for key, value in row.items()
+                if str(key).startswith("Annualized Two-sided Turnover ")
+            },
+            dtype=float,
+        )
+        for row in successful
+    }
+    plots.append(
+        (
+            "annual_turnover.html",
+            "Annualized Two-sided Turnover",
+            yearly_turnover,
+            "Turnover",
+        )
+    )
+    yearly_costs = {
+        row["Experiment ID"]: pd.Series(
+            {
+                int(str(key).rsplit(" ", 1)[1]): value
+                for key, value in row.items()
+                if str(key).startswith("Annual Transaction Costs ")
+            },
+            dtype=float,
+        )
+        for row in successful
+    }
+    plots.append(
+        (
+            "annual_transaction_costs.html",
+            "Annual Transaction Costs",
+            yearly_costs,
+            "EUR",
+        )
+    )
+
+    plot_files = []
+    for filename, title, series_by_name, y_title in plots:
+        figure = go.Figure()
+        for name, series in series_by_name.items():
+            if not series.empty:
+                figure.add_trace(
+                    go.Scatter(x=series.index.astype(str), y=series, name=name)
+                )
+        figure.update_layout(
+            title=title,
+            xaxis_title="Date / Year",
+            yaxis_title=y_title,
+            hovermode="x unified",
+            template="plotly_white",
+        )
+        figure.write_html(output_dir / filename, include_plotlyjs="directory")
+        plot_files.append(filename)
+    return plot_files
+
+
+def _interpret_results(results: list[dict[str, Any]]) -> list[str]:
+    successful = [row for row in results if row.get("Status") == "success"]
+    if not successful:
+        return ["No experiment variant completed successfully."]
+
+    lines = []
+    best_net = max(successful, key=lambda row: row["Net Total Return"])
+    least_drawdown = max(successful, key=lambda row: row["Maximum Drawdown"])
+    lowest_turnover = min(
+        successful, key=lambda row: row["Annualized Two-sided Turnover"]
+    )
+    best_sharpe = max(successful, key=lambda row: row["Sharpe"])
+    lines.extend(
+        [
+            f"Highest net total return: {best_net['Experiment ID']} ({best_net['Net Total Return']:.2%}).",
+            f"Smallest maximum drawdown: {least_drawdown['Experiment ID']} ({least_drawdown['Maximum Drawdown']:.2%}).",
+            f"Lowest annualized two-sided turnover: {lowest_turnover['Experiment ID']} ({lowest_turnover['Annualized Two-sided Turnover']:.2f}x).",
+            f"Highest Sharpe ratio: {best_sharpe['Experiment ID']} ({best_sharpe['Sharpe']:.3f}); winner is not selected by CAGR alone.",
+        ]
+    )
+    for row in successful:
+        lines.append(
+            f"{row['Experiment ID']}: gross/net return gap "
+            f"{(row['Gross Total Return'] - row['Net Total Return']) * 100:.2f} "
+            "percentage points."
+        )
+
+    by_id = {row["Experiment ID"]: row for row in successful}
+    weekly, monthly = by_id.get("ABC-W5"), by_id.get("ABC-M5")
+    if weekly and monthly:
+        lines.append(
+            "Monthly vs weekly ABC-W5 net return difference: "
+            f"{(monthly['Net Total Return'] - weekly['Net Total Return']) * 100:+.2f} "
+            "percentage points; "
+            "compare Sharpe, drawdown, turnover and costs alongside return."
+        )
+    top5, top10 = by_id.get("ABC-M5"), by_id.get("ABC-M10")
+    if top5 and top10:
+        lines.append(
+            "ABC-M10 vs ABC-M5: net return difference "
+            f"{(top10['Net Total Return'] - top5['Net Total Return']) * 100:+.2f} "
+            "percentage points, "
+            "with Sharpe and risk metrics reported separately."
+        )
+    failures = [row for row in results if row.get("Status") != "success"]
+    if failures:
+        lines.append(
+            f"Incomplete variants: {', '.join(row['Experiment ID'] for row in failures)}."
+        )
+    return lines
+
+
+def run_comparison(
+    portfolio: Portfolio,
+    output_root: Path,
+    *,
+    base_config: MomentumConfig | None = None,
+    run_id: str | None = None,
+) -> Path:
+    specs = build_experiment_matrix(base_config)
+    parameters = {
+        "start_date": portfolio.start_date,
+        "end_date": portfolio.end_date,
+        "broker": asdict(portfolio.broker),
+        "currency": "EUR",
+        "signal_d": "excluded",
+        "variants": [
+            {
+                "experiment_id": spec.experiment_id,
+                "signals": spec.variant.value,
+                "config": asdict(spec.config),
+            }
+            for spec in specs
+        ],
+    }
+    run_id = run_id or _run_id(parameters)
+    output_dir = output_root / run_id
+    output_dir.mkdir(parents=True, exist_ok=False)
+
+    rows = run_experiment_cases(
+        portfolio,
+        tuple((spec.experiment_id, spec.variant, spec.config) for spec in specs),
+    )
+    parameters.update(
+        {
+            "run_id": run_id,
+            "git_revision": _git_revision(Path(__file__).resolve().parents[2]),
+            "universe_size": len(portfolio.universe.close().columns),
+            "universe_limitation": (
+                "Instrument files have no historical index-membership dates; "
+                "results may contain survivorship bias and are not survivorship-bias-free."
+            ),
+            "price_treatment": (
+                "Close is adjusted; Open/High/Low are scaled by Close/Raw Close; "
+                "all price and turnover fields are converted to EUR using prior FX rates."
+            ),
+        }
+    )
+    (output_dir / "config.json").write_text(
+        json.dumps(parameters, indent=2, sort_keys=True), encoding="utf-8"
+    )
+
+    flat_rows = [
+        {key: value for key, value in row.items() if not str(key).startswith("_")}
+        for row in rows
+    ]
+    result_frame = pd.DataFrame(flat_rows)
+    result_frame.to_csv(output_dir / "results.csv", index=False)
+    plot_files = _write_plots(output_dir, rows, portfolio.broker.initial_cash)
+    interpretation = _interpret_results(rows)
+    successful_count = sum(row.get("Status") == "success" for row in rows)
+    table = result_frame.to_html(index=False, border=0, na_rep="")
+    plot_links = "\n".join(
+        f'<li><a href="{name}">{name}</a></li>' for name in plot_files
+    )
+    report_html = (
+        "<!doctype html><meta charset='utf-8'><title>Strategy comparison</title>"
+        "<h1>Strategy comparison</h1>"
+        f"<p>{successful_count}/{len(rows)} variants completed successfully.</p>"
+        f"<p>Run ID: {run_id}</p><ul>{plot_links}</ul>"
+        f"<h2>Results</h2>{table}"
+        f"<h2>Interpretation</h2><ul>{''.join(f'<li>{line}</li>' for line in interpretation)}</ul>"
+        f"<h2>Limitations</h2><p>{parameters['universe_limitation']}</p>"
+    )
+    (output_dir / "report.html").write_text(report_html, encoding="utf-8")
+    report_markdown = [
+        "# Momentum strategy comparison",
+        "",
+        f"Run: `{run_id}`",
+        f"Completed: {successful_count}/{len(rows)} variants",
+        "",
+        "## Interpretation",
+        *[f"- {line}" for line in interpretation],
+        "",
+        "## Limitations",
+        parameters["universe_limitation"],
+        "",
+        "## Files",
+        "- `results.csv`",
+        "- `equity_curves.csv` (when at least one variant succeeds)",
+        "- `config.json`",
+        *[f"- `{name}`" for name in plot_files],
+    ]
+    (output_dir / "report.md").write_text(
+        "\n".join(report_markdown) + "\n", encoding="utf-8"
+    )
+    logger.info("Experimentbericht gespeichert: %s", output_dir)
+    return output_dir
+
+
+def run_standard_comparison(
+    start_date: str = DEFAULT_START_DATE,
+    end_date: str = DEFAULT_END_DATE,
+    initial_capital: float = DEFAULT_INITIAL_CAPITAL,
+    output_root: Path | None = None,
+) -> Path:
+    from pytrading.data_helper import Universe
+
+    if end_date <= start_date:
+        raise ValueError("End date must be after start date.")
+    if initial_capital <= 0:
+        raise ValueError("Initial capital must be positive.")
+    project_root = Path(__file__).resolve().parents[2]
+    portfolio = Portfolio(
+        universe=Universe(),
+        start_date=start_date,
+        end_date=end_date,
+        broker=default_broker_config(initial_capital),
+        benchmarks={},
+    )
+    return run_comparison(
+        portfolio, output_root or project_root / "results" / "experiments"
+    )

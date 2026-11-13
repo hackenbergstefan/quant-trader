@@ -138,6 +138,17 @@ class Universe:
         values = []
         for dataset in self.datasets:
             series = dataset.prices[column]
+            if column in {"Open", "High", "Low"}:
+                required = {"Close", "Raw Close"}
+                missing = required - set(dataset.prices.columns)
+                if missing:
+                    raise ValueError(
+                        f"{dataset.isin} cannot align {column} to adjusted Close; "
+                        f"missing columns: {', '.join(sorted(missing))}."
+                    )
+                raw_close = dataset.prices["Raw Close"].replace(0, pd.NA)
+                adjustment = dataset.prices["Close"].div(raw_close)
+                series = series.mul(adjustment)
             code, _ = _currency_code(dataset.currency)
             if column in {"Close", "Turnover", "Open", "High", "Low"} and code != "EUR":
                 series = _convert_to_eur(series, dataset.currency, self._fx_rates)

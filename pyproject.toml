@@ -19,6 +19,9 @@ dependencies = [
     "fdnpy>=0.6.1",
 ]
 
+[project.scripts]
+quant-trader = "pytrading.cli:app"
+
 [dependency-groups]
 dev = [
     "ipykernel>=7.4.0",
