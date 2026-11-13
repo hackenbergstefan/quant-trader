@@ -1,4 +1,7 @@
+from collections.abc import Mapping
 from dataclasses import dataclass, field
+
+import pandas as pd
 
 from pytrading.data_helper import Universe
 
@@ -17,3 +20,4 @@ class Portfolio:
     start_date: str
     end_date: str
     broker: BrokerConfig = field(default_factory=BrokerConfig)
+    benchmarks: Mapping[str, pd.Series] = field(default_factory=dict)

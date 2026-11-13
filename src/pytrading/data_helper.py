@@ -66,8 +66,14 @@ class Universe:
         self.datasets = list(
             starmap(
                 DataSet,
-                [(file, file.with_suffix(".csv")) for file in data_dir.glob("*.yaml")],
+                [
+                    (file, file.with_suffix(".csv"))
+                    for file in sorted(data_dir.glob("*.yaml"))
+                ],
             )
+        )
+        self.datasets = list(
+            {dataset.isin: dataset for dataset in reversed(self.datasets)}.values()
         )
 
     def _load_fx_rates(
@@ -113,7 +119,7 @@ class Universe:
         if hasattr(self, f"_{column}"):
             return getattr(self, f"_{column}")
 
-        if column in {"Close", "Turnover"}:
+        if column in {"Close", "Turnover", "High", "Low"}:
             currencies = {
                 _currency_code(ds.currency)[0]
                 for ds in self.datasets
@@ -133,7 +139,7 @@ class Universe:
         for dataset in self.datasets:
             series = dataset.prices[column]
             code, _ = _currency_code(dataset.currency)
-            if column in {"Close", "Turnover"} and code != "EUR":
+            if column in {"Close", "Turnover", "High", "Low"} and code != "EUR":
                 series = _convert_to_eur(series, dataset.currency, self._fx_rates)
             values.append(series)
 
@@ -153,3 +159,18 @@ class Universe:
 
     def volume(self) -> pd.DataFrame:
         return self._column("Volume")
+
+    def high(self) -> pd.DataFrame:
+        return self._column("High")
+
+    def low(self) -> pd.DataFrame:
+        return self._column("Low")
+
+    def market_metadata(self) -> dict[str, dict[str, str | None]]:
+        return {
+            dataset.isin: {
+                "country": dataset.info.get("country"),
+                "exchange": dataset.info.get("exchange"),
+            }
+            for dataset in self.datasets
+        }
