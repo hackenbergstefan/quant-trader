@@ -1,0 +1,572 @@
+<!doctype html><meta charset='utf-8'><title>Strategy comparison</title><h1>Strategy comparison</h1><p>4/4 variants completed successfully.</p><p>Run ID: compare-20261113T171509Z-42e5f9c425</p><ul><li><a href="equity_net.html">equity_net.html</a></li>
+<li><a href="equity_gross.html">equity_gross.html</a></li>
+<li><a href="drawdowns.html">drawdowns.html</a></li>
+<li><a href="annual_net_returns.html">annual_net_returns.html</a></li>
+<li><a href="annual_turnover.html">annual_turnover.html</a></li>
+<li><a href="annual_transaction_costs.html">annual_transaction_costs.html</a></li>
+<li><a href="position_weights.html">position_weights.html</a></li></ul><h2>Results</h2><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Variant</th>
+      <th>Experiment ID</th>
+      <th>Signals</th>
+      <th>Start Date</th>
+      <th>End Date</th>
+      <th>Universe Size</th>
+      <th>Universe Fingerprint</th>
+      <th>Initial Cash</th>
+      <th>Fees</th>
+      <th>Fixed Fees</th>
+      <th>Slippage</th>
+      <th>Benchmarks Available</th>
+      <th>position_sizing</th>
+      <th>topn</th>
+      <th>min_avg_daily_turnover</th>
+      <th>liquidity_lookback</th>
+      <th>momentum_20_weight</th>
+      <th>momentum_60_weight</th>
+      <th>momentum_120_weight</th>
+      <th>rebalance_frequency</th>
+      <th>max_position_weight</th>
+      <th>bullish_exposure</th>
+      <th>neutral_exposure</th>
+      <th>bearish_exposure</th>
+      <th>Initial Capital</th>
+      <th>Final Portfolio Value</th>
+      <th>Gross Final Portfolio Value</th>
+      <th>CAGR</th>
+      <th>Total Return</th>
+      <th>Net CAGR</th>
+      <th>Net Total Return</th>
+      <th>Gross CAGR</th>
+      <th>Gross Total Return</th>
+      <th>Net End Value</th>
+      <th>Gross End Value</th>
+      <th>Gross-Net End Value Difference</th>
+      <th>Maximum Drawdown</th>
+      <th>Sharpe</th>
+      <th>Sortino</th>
+      <th>Calmar</th>
+      <th>Average Realized Volatility</th>
+      <th>Downside Volatility</th>
+      <th>Largest Loss Month</th>
+      <th>Negative Months</th>
+      <th>Positive Month Share</th>
+      <th>Profit Factor</th>
+      <th>Number of Trades</th>
+      <th>Average Exposure</th>
+      <th>Maximum Exposure</th>
+      <th>Cash Allocation</th>
+      <th>Time with Cash</th>
+      <th>Turnover</th>
+      <th>Annual Portfolio Turnover</th>
+      <th>One-sided Turnover</th>
+      <th>Two-sided Turnover</th>
+      <th>Annualized One-sided Turnover</th>
+      <th>Annualized Two-sided Turnover</th>
+      <th>Annualized One-sided Turnover 2010</th>
+      <th>Annualized Two-sided Turnover 2010</th>
+      <th>Annualized One-sided Turnover 2011</th>
+      <th>Annualized Two-sided Turnover 2011</th>
+      <th>Annualized One-sided Turnover 2012</th>
+      <th>Annualized Two-sided Turnover 2012</th>
+      <th>Annualized One-sided Turnover 2013</th>
+      <th>Annualized Two-sided Turnover 2013</th>
+      <th>Annualized One-sided Turnover 2014</th>
+      <th>Annualized Two-sided Turnover 2014</th>
+      <th>Annualized One-sided Turnover 2015</th>
+      <th>Annualized Two-sided Turnover 2015</th>
+      <th>Annualized One-sided Turnover 2016</th>
+      <th>Annualized Two-sided Turnover 2016</th>
+      <th>Completed Trade Lots</th>
+      <th>Average Holding Period (sessions)</th>
+      <th>Median Holding Period (sessions)</th>
+      <th>Weighted Average Holding Period (sessions)</th>
+      <th>Completed Positions</th>
+      <th>Average Position Duration (sessions)</th>
+      <th>Open Lots</th>
+      <th>Open Positions</th>
+      <th>Average Open Position Duration (sessions)</th>
+      <th>Proportional Fees Costs</th>
+      <th>Fixed Fees Costs</th>
+      <th>Transaction Fees</th>
+      <th>Slippage Costs</th>
+      <th>Transaction Costs</th>
+      <th>Annual Transaction Costs 2010</th>
+      <th>Annual Transaction Costs 2011</th>
+      <th>Annual Transaction Costs 2012</th>
+      <th>Annual Transaction Costs 2013</th>
+      <th>Annual Transaction Costs 2014</th>
+      <th>Annual Transaction Costs 2015</th>
+      <th>Annual Transaction Costs 2016</th>
+      <th>Annual Transaction Costs</th>
+      <th>Cost Share of Gross Profit</th>
+      <th>Buy Orders</th>
+      <th>Sell Orders</th>
+      <th>Average EUROPE Exposure</th>
+      <th>Maximum EUROPE Exposure</th>
+      <th>Average USA Exposure</th>
+      <th>Maximum USA Exposure</th>
+      <th>Average OTHER Exposure</th>
+      <th>Maximum OTHER Exposure</th>
+      <th>Average Position Weight</th>
+      <th>Median Position Weight</th>
+      <th>Largest Position Weight</th>
+      <th>Average Position Volatility</th>
+      <th>Weighted Average Portfolio Volatility</th>
+      <th>Weight Concentration HHI</th>
+      <th>Time at or Above Position Cap</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AB</td>
+      <td>AB-M5</td>
+      <td>A,B</td>
+      <td>2010-01-01</td>
+      <td>2017-01-01</td>
+      <td>1101</td>
+      <td>80ae2167bced7c705a918d4ba34d6e6bd74c6b0ed225f4fd8ac6e7d20ae95b7f</td>
+      <td>3000.0</td>
+      <td>0.001</td>
+      <td>1.0</td>
+      <td>0.0005</td>
+      <td></td>
+      <td>equal</td>
+      <td>5</td>
+      <td>50000.0</td>
+      <td>20</td>
+      <td>0.2</td>
+      <td>0.3</td>
+      <td>0.5</td>
+      <td>monthly</td>
+      <td>0.2</td>
+      <td>1.0</td>
+      <td>0.5</td>
+      <td>0.0</td>
+      <td>3000.0</td>
+      <td>10427.475504</td>
+      <td>14310.442305</td>
+      <td>0.194942</td>
+      <td>2.475825</td>
+      <td>0.194942</td>
+      <td>2.475825</td>
+      <td>0.250258</td>
+      <td>3.770147</td>
+      <td>10427.475504</td>
+      <td>14310.442305</td>
+      <td>3882.966802</td>
+      <td>-0.295817</td>
+      <td>0.805306</td>
+      <td>1.173320</td>
+      <td>0.658997</td>
+      <td>0.254127</td>
+      <td>0.174420</td>
+      <td>-0.111247</td>
+      <td>24</td>
+      <td>0.595238</td>
+      <td>1.783270</td>
+      <td>300</td>
+      <td>0.816499</td>
+      <td>1.0</td>
+      <td>0.183501</td>
+      <td>0.283050</td>
+      <td>121.628232</td>
+      <td>16.813118</td>
+      <td>61.004573</td>
+      <td>121.628232</td>
+      <td>8.432887</td>
+      <td>16.813118</td>
+      <td>1.984395</td>
+      <td>3.014554</td>
+      <td>9.291788</td>
+      <td>18.633435</td>
+      <td>10.099191</td>
+      <td>20.285291</td>
+      <td>8.051145</td>
+      <td>16.112822</td>
+      <td>8.786559</td>
+      <td>17.608893</td>
+      <td>8.991975</td>
+      <td>18.014709</td>
+      <td>9.280779</td>
+      <td>18.592019</td>
+      <td>300</td>
+      <td>24.543333</td>
+      <td>20.0</td>
+      <td>27.677938</td>
+      <td>300</td>
+      <td>24.543333</td>
+      <td>5</td>
+      <td>5</td>
+      <td>18.8</td>
+      <td>579.650981</td>
+      <td>605.0</td>
+      <td>1184.650981</td>
+      <td>289.825109</td>
+      <td>1474.476091</td>
+      <td>29.099713</td>
+      <td>193.297896</td>
+      <td>206.075127</td>
+      <td>178.498473</td>
+      <td>226.762679</td>
+      <td>305.784678</td>
+      <td>334.957526</td>
+      <td>210.783715</td>
+      <td>0.130364</td>
+      <td>305</td>
+      <td>300</td>
+      <td>0.318742</td>
+      <td>1.000000</td>
+      <td>0.458310</td>
+      <td>1.0</td>
+      <td>0.039446</td>
+      <td>0.603650</td>
+      <td>0.199468</td>
+      <td>0.200061</td>
+      <td>0.380407</td>
+      <td>0.468811</td>
+      <td>0.477060</td>
+      <td>0.227660</td>
+      <td>0.863961</td>
+      <td>success</td>
+    </tr>
+    <tr>
+      <td>ABC</td>
+      <td>ABC-M5</td>
+      <td>A,B,C</td>
+      <td>2010-01-01</td>
+      <td>2017-01-01</td>
+      <td>1101</td>
+      <td>80ae2167bced7c705a918d4ba34d6e6bd74c6b0ed225f4fd8ac6e7d20ae95b7f</td>
+      <td>3000.0</td>
+      <td>0.001</td>
+      <td>1.0</td>
+      <td>0.0005</td>
+      <td></td>
+      <td>inverse_volatility</td>
+      <td>5</td>
+      <td>50000.0</td>
+      <td>20</td>
+      <td>0.2</td>
+      <td>0.3</td>
+      <td>0.5</td>
+      <td>monthly</td>
+      <td>0.2</td>
+      <td>1.0</td>
+      <td>0.5</td>
+      <td>0.0</td>
+      <td>3000.0</td>
+      <td>11064.612907</td>
+      <td>15104.174740</td>
+      <td>0.205116</td>
+      <td>2.688204</td>
+      <td>0.205116</td>
+      <td>2.688204</td>
+      <td>0.259943</td>
+      <td>4.034725</td>
+      <td>11064.612907</td>
+      <td>15104.174740</td>
+      <td>4039.561834</td>
+      <td>-0.296002</td>
+      <td>0.836182</td>
+      <td>1.219678</td>
+      <td>0.692956</td>
+      <td>0.254752</td>
+      <td>0.174652</td>
+      <td>-0.111185</td>
+      <td>24</td>
+      <td>0.595238</td>
+      <td>1.822823</td>
+      <td>300</td>
+      <td>0.817418</td>
+      <td>1.0</td>
+      <td>0.182582</td>
+      <td>0.262205</td>
+      <td>121.789292</td>
+      <td>16.835382</td>
+      <td>61.075675</td>
+      <td>121.789292</td>
+      <td>8.442715</td>
+      <td>16.835382</td>
+      <td>1.984395</td>
+      <td>3.014554</td>
+      <td>9.291076</td>
+      <td>18.631995</td>
+      <td>10.098975</td>
+      <td>20.284912</td>
+      <td>7.949294</td>
+      <td>15.908248</td>
+      <td>8.783114</td>
+      <td>17.601498</td>
+      <td>8.992210</td>
+      <td>18.014463</td>
+      <td>9.278745</td>
+      <td>18.587268</td>
+      <td>300</td>
+      <td>24.543333</td>
+      <td>20.0</td>
+      <td>27.740556</td>
+      <td>300</td>
+      <td>24.543333</td>
+      <td>5</td>
+      <td>5</td>
+      <td>18.8</td>
+      <td>602.844372</td>
+      <td>605.0</td>
+      <td>1207.844372</td>
+      <td>301.421813</td>
+      <td>1509.266186</td>
+      <td>29.099713</td>
+      <td>193.335858</td>
+      <td>206.073412</td>
+      <td>178.980397</td>
+      <td>234.457335</td>
+      <td>318.160259</td>
+      <td>349.159212</td>
+      <td>215.757133</td>
+      <td>0.124690</td>
+      <td>305</td>
+      <td>300</td>
+      <td>0.319842</td>
+      <td>1.000000</td>
+      <td>0.457758</td>
+      <td>1.0</td>
+      <td>0.039818</td>
+      <td>0.603611</td>
+      <td>0.199705</td>
+      <td>0.200093</td>
+      <td>0.380405</td>
+      <td>0.468811</td>
+      <td>0.477756</td>
+      <td>0.227417</td>
+      <td>0.864509</td>
+      <td>success</td>
+    </tr>
+    <tr>
+      <td>AB</td>
+      <td>AB-M10</td>
+      <td>A,B</td>
+      <td>2010-01-01</td>
+      <td>2017-01-01</td>
+      <td>1101</td>
+      <td>80ae2167bced7c705a918d4ba34d6e6bd74c6b0ed225f4fd8ac6e7d20ae95b7f</td>
+      <td>3000.0</td>
+      <td>0.001</td>
+      <td>1.0</td>
+      <td>0.0005</td>
+      <td></td>
+      <td>equal</td>
+      <td>10</td>
+      <td>50000.0</td>
+      <td>20</td>
+      <td>0.2</td>
+      <td>0.3</td>
+      <td>0.5</td>
+      <td>monthly</td>
+      <td>0.2</td>
+      <td>1.0</td>
+      <td>0.5</td>
+      <td>0.0</td>
+      <td>3000.0</td>
+      <td>9089.696103</td>
+      <td>13796.062945</td>
+      <td>0.171717</td>
+      <td>2.029899</td>
+      <td>0.171717</td>
+      <td>2.029899</td>
+      <td>0.243732</td>
+      <td>3.598688</td>
+      <td>9089.696103</td>
+      <td>13796.062945</td>
+      <td>4706.366842</td>
+      <td>-0.262126</td>
+      <td>0.847817</td>
+      <td>1.222891</td>
+      <td>0.655091</td>
+      <td>0.205936</td>
+      <td>0.142773</td>
+      <td>-0.088660</td>
+      <td>31</td>
+      <td>0.511905</td>
+      <td>1.669405</td>
+      <td>555</td>
+      <td>0.819687</td>
+      <td>1.0</td>
+      <td>0.180313</td>
+      <td>0.300055</td>
+      <td>113.526976</td>
+      <td>15.693252</td>
+      <td>56.909847</td>
+      <td>113.526976</td>
+      <td>7.866858</td>
+      <td>15.693252</td>
+      <td>1.539935</td>
+      <td>2.131345</td>
+      <td>8.254722</td>
+      <td>16.579914</td>
+      <td>8.868981</td>
+      <td>17.811334</td>
+      <td>7.807771</td>
+      <td>15.699090</td>
+      <td>8.381424</td>
+      <td>16.798448</td>
+      <td>8.851252</td>
+      <td>17.746543</td>
+      <td>8.607208</td>
+      <td>17.256404</td>
+      <td>555</td>
+      <td>26.181982</td>
+      <td>20.0</td>
+      <td>30.207900</td>
+      <td>555</td>
+      <td>26.181982</td>
+      <td>10</td>
+      <td>10</td>
+      <td>21.0</td>
+      <td>525.375246</td>
+      <td>1120.0</td>
+      <td>1645.375246</td>
+      <td>262.687350</td>
+      <td>1908.062596</td>
+      <td>32.014161</td>
+      <td>260.147922</td>
+      <td>284.326678</td>
+      <td>259.171897</td>
+      <td>309.421905</td>
+      <td>386.394346</td>
+      <td>376.585687</td>
+      <td>272.767070</td>
+      <td>0.176737</td>
+      <td>565</td>
+      <td>555</td>
+      <td>0.322626</td>
+      <td>0.901887</td>
+      <td>0.466694</td>
+      <td>1.0</td>
+      <td>0.030367</td>
+      <td>0.313794</td>
+      <td>0.101279</td>
+      <td>0.100677</td>
+      <td>0.262256</td>
+      <td>0.418384</td>
+      <td>0.427161</td>
+      <td>0.125004</td>
+      <td>0.037850</td>
+      <td>success</td>
+    </tr>
+    <tr>
+      <td>ABC</td>
+      <td>ABC-M10</td>
+      <td>A,B,C</td>
+      <td>2010-01-01</td>
+      <td>2017-01-01</td>
+      <td>1101</td>
+      <td>80ae2167bced7c705a918d4ba34d6e6bd74c6b0ed225f4fd8ac6e7d20ae95b7f</td>
+      <td>3000.0</td>
+      <td>0.001</td>
+      <td>1.0</td>
+      <td>0.0005</td>
+      <td></td>
+      <td>inverse_volatility</td>
+      <td>10</td>
+      <td>50000.0</td>
+      <td>20</td>
+      <td>0.2</td>
+      <td>0.3</td>
+      <td>0.5</td>
+      <td>monthly</td>
+      <td>0.2</td>
+      <td>1.0</td>
+      <td>0.5</td>
+      <td>0.0</td>
+      <td>3000.0</td>
+      <td>6628.315419</td>
+      <td>11267.984929</td>
+      <td>0.119997</td>
+      <td>1.209438</td>
+      <td>0.119997</td>
+      <td>1.209438</td>
+      <td>0.208258</td>
+      <td>2.755995</td>
+      <td>6628.315419</td>
+      <td>11267.984929</td>
+      <td>4639.669510</td>
+      <td>-0.254119</td>
+      <td>0.659903</td>
+      <td>0.944899</td>
+      <td>0.472207</td>
+      <td>0.195044</td>
+      <td>0.136216</td>
+      <td>-0.083624</td>
+      <td>33</td>
+      <td>0.488095</td>
+      <td>1.463492</td>
+      <td>664</td>
+      <td>0.818307</td>
+      <td>1.0</td>
+      <td>0.181693</td>
+      <td>0.226550</td>
+      <td>121.421708</td>
+      <td>16.784570</td>
+      <td>60.869927</td>
+      <td>121.421708</td>
+      <td>8.414274</td>
+      <td>16.784570</td>
+      <td>1.612953</td>
+      <td>2.278985</td>
+      <td>9.343282</td>
+      <td>18.773423</td>
+      <td>9.510410</td>
+      <td>19.114005</td>
+      <td>8.848672</td>
+      <td>17.782398</td>
+      <td>8.905950</td>
+      <td>17.881412</td>
+      <td>9.437788</td>
+      <td>18.931111</td>
+      <td>9.430121</td>
+      <td>18.916109</td>
+      <td>729</td>
+      <td>26.485597</td>
+      <td>20.0</td>
+      <td>26.864305</td>
+      <td>561</td>
+      <td>26.228164</td>
+      <td>10</td>
+      <td>10</td>
+      <td>21.0</td>
+      <td>469.589933</td>
+      <td>1300.0</td>
+      <td>1769.589933</td>
+      <td>234.794717</td>
+      <td>2004.384650</td>
+      <td>36.709915</td>
+      <td>296.856641</td>
+      <td>299.609359</td>
+      <td>290.471777</td>
+      <td>320.613309</td>
+      <td>383.566300</td>
+      <td>376.557349</td>
+      <td>286.536788</td>
+      <td>0.242427</td>
+      <td>636</td>
+      <td>664</td>
+      <td>0.349319</td>
+      <td>0.906398</td>
+      <td>0.441076</td>
+      <td>1.0</td>
+      <td>0.027911</td>
+      <td>0.295512</td>
+      <td>0.099842</td>
+      <td>0.098855</td>
+      <td>0.214816</td>
+      <td>0.418703</td>
+      <td>0.386968</td>
+      <td>0.128731</td>
+      <td>0.014262</td>
+      <td>success</td>
+    </tr>
+  </tbody>
+</table><h2>Interpretation</h2><ul><li>Highest net total return: ABC-M5 (268.82%).</li><li>Smallest maximum drawdown: ABC-M10 (-25.41%).</li><li>Lowest annualized two-sided turnover: AB-M10 (15.69x).</li><li>Highest Sharpe ratio: AB-M10 (0.848); winner is not selected by CAGR alone.</li><li>The 20% cap applies to rebalance target weights; market moves can push actual daily position weights above it until the next monthly rebalance.</li><li>AB-M5: gross/net return gap 129.43 percentage points.</li><li>ABC-M5: gross/net return gap 134.65 percentage points.</li><li>AB-M10: gross/net return gap 156.88 percentage points.</li><li>ABC-M10: gross/net return gap 154.66 percentage points.</li><li>Signal C at Top 5 (ABC-M5 vs AB-M5): net return change +21.24 pp; Sharpe change +0.03; realized portfolio volatility change +0.06 pp; weight-weighted constituent volatility change +0.07 pp; annualized turnover change +0.02x; transaction cost change +34.79 EUR.</li><li>Signal C at Top 10 (ABC-M10 vs AB-M10): net return change -82.05 pp; Sharpe change -0.19; realized portfolio volatility change -1.09 pp; weight-weighted constituent volatility change -4.02 pp; annualized turnover change +1.09x; transaction cost change +96.32 EUR.</li><li>Top 10 vs Top 5 for AB: net return change -44.59 pp; Sharpe change +0.04; maximum drawdown change +3.37 pp; annualized turnover change -1.12x; transaction cost change +433.59 EUR.</li><li>Top 10 vs Top 5 for ABC: net return change -147.88 pp; Sharpe change -0.18; maximum drawdown change +4.19 pp; annualized turnover change -0.05x; transaction cost change +495.12 EUR.</li></ul><h2>Limitations</h2><p>Instrument files have no historical index-membership dates; results may contain survivorship bias and are not survivorship-bias-free.</p>
