@@ -66,6 +66,11 @@ weight-weighted constituent volatility is not covariance-aware portfolio
 volatility; compare it with realized volatility of portfolio returns to assess
 diversification and realized risk.
 
+The 20% cap applies to target weights at each monthly rebalance. Because
+positions are not forcibly rebalanced between scheduled dates, market moves can
+push actual daily position weights above 20%; the report and position chart show
+that drift explicitly.
+
 The report compares ABC with AB at Top 5 and Top 10 using net return, Sharpe,
 realized portfolio volatility, weight-weighted constituent volatility,
 turnover, and costs. It also compares Top 5 with Top 10 within each sizing rule.

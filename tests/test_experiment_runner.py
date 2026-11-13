@@ -133,6 +133,9 @@ def test_runner_archives_config_and_writes_csv_report_and_all_plots(
         "Signal C alone enables inverse-volatility weighting"
         in archived["signal_c_semantics"]
     )
+    assert (
+        "actual weights can drift above the cap" in archived["position_cap_semantics"]
+    )
     assert [item["weighting"] for item in archived["variants"]] == [
         "equal",
         "inverse_volatility",
@@ -152,6 +155,7 @@ def test_runner_archives_config_and_writes_csv_report_and_all_plots(
     report_text = (output_dir / "report.md").read_text()
     assert "Signal C at Top 5" in report_text
     assert "Top 10 vs Top 5 for AB" in report_text
+    assert "actual daily position weights above it" in report_text
     assert "AB-M5 maximum" in (output_dir / "position_weights.html").read_text()
 
 

@@ -318,7 +318,7 @@ def test_position_weight_metrics_use_actual_positions_and_annualized_volatility(
     assert metrics["Average Position Volatility"] == pytest.approx(0.3)
     assert metrics["Weighted Average Portfolio Volatility"] == pytest.approx(0.33)
     assert metrics["Weight Concentration HHI"] == pytest.approx(0.59)
-    assert metrics["Time at Position Limit"] == pytest.approx(1 / 3)
+    assert metrics["Time at or Above Position Cap"] == pytest.approx(1 / 3)
     assert average_weight.tolist() == pytest.approx([0.1, 0.125, 0.0])
     assert maximum_weight.tolist() == pytest.approx([0.1, 0.2, 0.0])
 
@@ -913,7 +913,7 @@ def test_all_variants_run_identically_scheduled_vectorbt_engine(caplog):
         "Average Position Volatility",
         "Weighted Average Portfolio Volatility",
         "Weight Concentration HHI",
-        "Time at Position Limit",
+        "Time at or Above Position Cap",
         "Downside Volatility",
         "Largest Loss Month",
         "Negative Months",

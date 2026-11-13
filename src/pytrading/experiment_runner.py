@@ -297,6 +297,10 @@ def _interpret_results(results: list[dict[str, Any]]) -> list[str]:
             f"Highest Sharpe ratio: {best_sharpe['Experiment ID']} ({best_sharpe['Sharpe']:.3f}); winner is not selected by CAGR alone.",
         ]
     )
+    lines.append(
+        "The 20% cap applies to rebalance target weights; market moves can push "
+        "actual daily position weights above it until the next monthly rebalance."
+    )
     for row in successful:
         lines.append(
             f"{row['Experiment ID']}: gross/net return gap "
@@ -373,6 +377,10 @@ def run_comparison(
             "Signal C alone enables inverse-volatility weighting using equal "
             "parts realized volatility over 20 and 60 sessions; without C, "
             "selected positions are equal weighted."
+        ),
+        "position_cap_semantics": (
+            "The 20% cap applies to target weights at monthly rebalances; actual "
+            "weights can drift above the cap between rebalances."
         ),
         "variants": [
             {

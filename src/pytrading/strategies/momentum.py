@@ -1409,7 +1409,11 @@ def _position_weight_metrics(
 
     exposure = position_weights.sum(axis=1)
     weighted_average_portfolio_volatility = (
-        position_weights.mul(vol_frame).sum(axis=1).div(exposure.replace(0, np.nan))
+        position_weights.mul(vol_frame)
+        .sum(axis=1)
+        .div(
+            position_weights.where(vol_frame.notna(), 0).sum(axis=1).replace(0, np.nan)
+        )
     )
     normalized_weights = position_weights.div(exposure.replace(0, np.nan), axis=0)
     hhi = normalized_weights.pow(2).sum(axis=1).where(exposure.gt(0))
@@ -1429,7 +1433,7 @@ def _position_weight_metrics(
             weighted_average_portfolio_volatility.mean()
         ),
         "Weight Concentration HHI": float(hhi.mean()) if hhi.notna().any() else 0.0,
-        "Time at Position Limit": float(
+        "Time at or Above Position Cap": float(
             maximum_weight.ge(max_position_weight - 1e-6).mean()
         ),
     }
