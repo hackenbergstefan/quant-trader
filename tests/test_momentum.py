@@ -1,3 +1,5 @@
+import runpy
+from pathlib import Path
 from types import SimpleNamespace
 
 import numpy as np
@@ -6,6 +8,7 @@ import pytest
 
 from pytrading import BrokerConfig, Portfolio
 from pytrading.strategies.momentum import (
+    VARIANT_SIGNALS,
     MomentumConfig,
     StrategyVariant,
     _asset_execution_events,
@@ -13,6 +16,7 @@ from pytrading.strategies.momentum import (
     _backtest,
     _build_vectorbt_portfolio,
     _default_variant_config,
+    _holding_period_metrics,
     _inverse_volatility_weights,
     _liquidity_eligibility,
     _market_regimes,
@@ -21,6 +25,7 @@ from pytrading.strategies.momentum import (
     _portfolio_weights,
     _realized_volatility,
     _trend_filter,
+    _turnover_metrics,
     backtest,
     rebalance_dates,
     signal_diagnostics,
@@ -292,6 +297,158 @@ def test_inverse_volatility_weights_reapply_caps_and_keep_cash_when_needed():
     assert capped.is_monotonic_decreasing
     assert fewer.sum() == pytest.approx(0.6)
     assert fewer.max() == pytest.approx(0.2)
+
+
+def test_variant_signal_sets_and_position_sizing_modes_are_explicit(monkeypatch):
+    assert VARIANT_SIGNALS == {
+        StrategyVariant.A: frozenset("A"),
+        StrategyVariant.AB: frozenset("AB"),
+        StrategyVariant.ABC: frozenset("ABC"),
+        StrategyVariant.ABD: frozenset("ABD"),
+        StrategyVariant.ABCD: frozenset("ABCD"),
+    }
+    dates = pd.bdate_range("2024-01-02", periods=3)
+    close = pd.DataFrame(100.0, index=dates, columns=list("ABC"))
+    scores = pd.DataFrame(np.nan, index=dates, columns=close.columns)
+    scores.loc[dates[0]] = 1.0
+    volatility = pd.DataFrame(np.nan, index=dates, columns=close.columns)
+    volatility.loc[dates[0]] = [1.0, 2.0, 4.0]
+    monkeypatch.setattr(
+        "pytrading.strategies.momentum._asset_execution_events",
+        lambda *_args, **_kwargs: {(dates[1], dates[0]): list(close.columns)},
+    )
+    config = MomentumConfig(topn=3, max_position_weight=1.0)
+
+    equal_weights = _portfolio_weights(
+        close,
+        close,
+        scores,
+        None,
+        config,
+        signals=VARIANT_SIGNALS[StrategyVariant.A],
+        volatility=volatility,
+    )
+    inverse_weights = _portfolio_weights(
+        close,
+        close,
+        scores,
+        None,
+        config,
+        signals=VARIANT_SIGNALS[StrategyVariant.ABC],
+        volatility=volatility,
+    )
+
+    assert equal_weights.loc[dates[1]].to_dict() == pytest.approx(
+        {"A": 1 / 3, "B": 1 / 3, "C": 1 / 3}
+    )
+    assert inverse_weights.loc[dates[1]].to_dict() == pytest.approx(
+        {"A": 4 / 7, "B": 2 / 7, "C": 1 / 7}
+    )
+
+
+def test_experiment_config_matches_requested_period_and_broker_setup():
+    experiment = runpy.run_path(str(Path(__file__).parents[1] / "experiment.py"))
+    config = experiment["_experiment_config"]()
+
+    assert experiment["variant_experiment"] is variant_experiment
+    assert config.topn == 5
+    assert config.rebalance_frequency == "weekly"
+    assert config.position_sizing == "inverse_volatility"
+    assert experiment["START_DATE"] == "2010-01-01"
+    assert experiment["END_DATE"] == "2017-01-01"
+    assert experiment["_experiment_broker_config"]() == BrokerConfig(
+        3000.0, 0.001, 1.0, 0.0005
+    )
+
+
+def test_turnover_metrics_full_five_position_replacement_and_annualization():
+    dates = pd.bdate_range("2024-01-02", periods=126)
+    values = pd.Series(1000.0, index=dates)
+    orders = []
+    order_id = 0
+    for instrument in "ABCDE":
+        orders.append((order_id, instrument, dates[0], 10.0, 20.0, 0.0, "Buy"))
+        order_id += 1
+    for instrument in "ABCDE":
+        orders.append((order_id, instrument, dates[63], 10.0, 20.0, 0.0, "Sell"))
+        order_id += 1
+    for instrument in "FGHIJ":
+        orders.append((order_id, instrument, dates[63], 10.0, 20.0, 0.0, "Buy"))
+        order_id += 1
+    records = pd.DataFrame(
+        orders,
+        columns=["Order Id", "Column", "Timestamp", "Size", "Price", "Fees", "Side"],
+    )
+
+    metrics = _turnover_metrics(records, values)
+
+    assert metrics["One-sided Turnover"] == pytest.approx(2.0)
+    assert metrics["Two-sided Turnover"] == pytest.approx(3.0)
+    assert metrics["Annualized One-sided Turnover"] == pytest.approx(4.0)
+    assert metrics["Annualized Two-sided Turnover"] == pytest.approx(6.0)
+    assert metrics["One-sided Turnover 2024"] == pytest.approx(4.0)
+    assert metrics["Two-sided Turnover 2024"] == pytest.approx(6.0)
+
+
+def test_execution_costs_separate_recorded_fees_and_slippage():
+    from pytrading.strategies.momentum import _execution_cost_metrics
+
+    dates = pd.bdate_range("2024-01-02", periods=2)
+    reference_prices = pd.DataFrame({"A": [10.0, 10.0]}, index=dates)
+    orders = pd.DataFrame(
+        [
+            (0, "A", dates[0], 10.0, 10.005, 2.0, "Buy"),
+            (1, "A", dates[1], 10.0, 9.995, 2.0, "Sell"),
+        ],
+        columns=["Order Id", "Column", "Timestamp", "Size", "Price", "Fees", "Side"],
+    )
+
+    fees, slippage = _execution_cost_metrics(orders, reference_prices)
+
+    assert fees == pytest.approx(4.0)
+    assert slippage == pytest.approx(0.1)
+
+
+def test_holding_period_for_single_buy_and_sell_uses_execution_dates():
+    dates = pd.bdate_range("2024-01-02", periods=5)
+    close = pd.DataFrame({"A": [10.0] * len(dates)}, index=dates)
+    orders = pd.DataFrame(
+        [
+            (0, "A", dates[0], 10.0, 10.0, 0.0, "Buy"),
+            (1, "A", dates[2], 10.0, 10.0, 0.0, "Sell"),
+        ],
+        columns=["Order Id", "Column", "Timestamp", "Size", "Price", "Fees", "Side"],
+    )
+
+    metrics = _holding_period_metrics(orders, close)
+
+    assert metrics["Completed Trade Lots"] == 1
+    assert metrics["Average Holding Period (sessions)"] == 2
+    assert metrics["Median Holding Period (sessions)"] == 2
+    assert metrics["Completed Positions"] == 1
+    assert metrics["Average Position Duration (sessions)"] == 2
+
+
+def test_holding_period_fifo_handles_additions_and_partial_sales():
+    dates = pd.bdate_range("2024-01-02", periods=5)
+    close = pd.DataFrame({"A": [10.0] * len(dates)}, index=dates)
+    orders = pd.DataFrame(
+        [
+            (0, "A", dates[0], 10.0, 10.0, 0.0, "Buy"),
+            (1, "A", dates[1], 5.0, 10.0, 0.0, "Buy"),
+            (2, "A", dates[2], 8.0, 10.0, 0.0, "Sell"),
+            (3, "A", dates[4], 7.0, 10.0, 0.0, "Sell"),
+        ],
+        columns=["Order Id", "Column", "Timestamp", "Size", "Price", "Fees", "Side"],
+    )
+
+    metrics = _holding_period_metrics(orders, close)
+
+    assert metrics["Completed Trade Lots"] == 3
+    assert metrics["Average Holding Period (sessions)"] == pytest.approx(3.0)
+    assert metrics["Median Holding Period (sessions)"] == pytest.approx(3.0)
+    assert metrics["Completed Positions"] == 1
+    assert metrics["Average Position Duration (sessions)"] == 4
 
 
 def test_liquidity_filter_preserves_75_percent_observation_threshold():
@@ -617,6 +774,13 @@ def test_all_variants_run_identically_scheduled_vectorbt_engine(caplog):
     assert {
         "CAGR",
         "Total Return",
+        "Net CAGR",
+        "Net Total Return",
+        "Gross CAGR",
+        "Gross Total Return",
+        "Net End Value",
+        "Gross End Value",
+        "Gross-Net End Value Difference",
         "Maximum Drawdown",
         "Sharpe",
         "Sortino",
@@ -624,22 +788,30 @@ def test_all_variants_run_identically_scheduled_vectorbt_engine(caplog):
         "Profit Factor",
         "Number of Trades",
         "Average Holding Period (sessions)",
+        "Median Holding Period (sessions)",
+        "Average Position Duration (sessions)",
         "Average Exposure",
         "Maximum Exposure",
         "Cash Allocation",
         "Turnover",
         "Annual Portfolio Turnover",
+        "One-sided Turnover",
+        "Two-sided Turnover",
+        "Annualized One-sided Turnover",
+        "Annualized Two-sided Turnover",
         "Transaction Costs",
+        "Transaction Fees",
+        "Slippage Costs",
         "Annual Transaction Costs",
         "Buy Orders",
         "Sell Orders",
-        "Gross Total Return",
         "Average EUROPE Exposure",
         "Maximum USA Exposure",
     }.issubset(report.columns)
     assert report["Buy Orders"].ge(0).all()
     assert report["Sell Orders"].ge(0).all()
     assert report["Gross Total Return"].notna().all()
+    assert report["position_sizing"].eq("inverse_volatility").all()
     assert "5 Prozesse" in caplog.text
     assert "10/10 Backtests" in caplog.text
     pd.testing.assert_frame_equal(report, variant_experiment(portfolio, config))
@@ -658,6 +830,17 @@ def test_variant_net_and_gross_reuse_prepared_backtest_inputs(monkeypatch):
         "_VARIANT_WORKER_UNIVERSE_SIZE",
         len(portfolio.universe.close().columns),
     )
+    original_build = momentum_module._build_vectorbt_portfolio
+    simulation_runs = []
+
+    def capture_simulation(close, open_prices, weights, broker):
+        result = original_build(close, open_prices, weights, broker)
+        simulation_runs.append((weights, broker, result))
+        return result
+
+    monkeypatch.setattr(
+        momentum_module, "_build_vectorbt_portfolio", capture_simulation
+    )
 
     prepare = momentum_module._prepare_backtest_inputs
     calls = 0
@@ -671,7 +854,38 @@ def test_variant_net_and_gross_reuse_prepared_backtest_inputs(monkeypatch):
     result = momentum_module._run_variant_case(StrategyVariant.A)
 
     assert calls == 1
-    assert result["Gross Total Return"] is not None
+    assert len(simulation_runs) == 2
+    net_weights, net_broker, net_result = simulation_runs[0]
+    gross_weights, gross_broker, gross_result = simulation_runs[1]
+    assert net_weights is gross_weights
+    assert (net_broker.fees, net_broker.fixed_fees, net_broker.slippage) == (
+        portfolio.broker.fees,
+        portfolio.broker.fixed_fees,
+        portfolio.broker.slippage,
+    )
+    assert (gross_broker.fees, gross_broker.fixed_fees, gross_broker.slippage) == (
+        0.0,
+        0.0,
+        0.0,
+    )
+    net_orders = net_result.orders.records_readable
+    gross_orders = gross_result.orders.records_readable
+    assert net_orders["Fees"].sum() > 0
+    assert gross_orders["Fees"].sum() == 0
+    pd.testing.assert_series_equal(
+        net_orders["Timestamp"].reset_index(drop=True),
+        gross_orders["Timestamp"].reset_index(drop=True),
+    )
+    assert result["Transaction Fees"] == pytest.approx(net_orders["Fees"].sum())
+    assert result["Slippage Costs"] > 0
+    assert result["Transaction Costs"] == pytest.approx(
+        result["Transaction Fees"] + result["Slippage Costs"]
+    )
+    assert result["Net End Value"] == pytest.approx(net_result.value().iloc[-1])
+    assert result["Gross End Value"] == pytest.approx(gross_result.value().iloc[-1])
+    assert result["Gross-Net End Value Difference"] == pytest.approx(
+        result["Gross End Value"] - result["Net End Value"]
+    )
 
 
 def test_diagnostics_expose_signal_values_and_missing_regime_reason():

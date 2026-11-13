@@ -1039,12 +1039,171 @@ def _single_series(values: pd.Series | pd.DataFrame) -> pd.Series:
     return values
 
 
+def _holding_period_metrics(
+    orders: pd.DataFrame, close: pd.DataFrame
+) -> dict[str, float | int]:
+    """Measure FIFO-matched sale portions and completed flat-to-flat positions."""
+    if orders.empty:
+        return {
+            "Completed Trade Lots": 0,
+            "Average Holding Period (sessions)": 0.0,
+            "Median Holding Period (sessions)": 0.0,
+            "Completed Positions": 0,
+            "Average Position Duration (sessions)": 0.0,
+        }
+
+    lot_durations = []
+    position_durations = []
+    ordered = orders.sort_values(["Timestamp", "Order Id"], kind="mergesort")
+    for instrument, instrument_orders in ordered.groupby("Column", sort=False):
+        observed_dates = close.index[close[instrument].notna()]
+        lots = []
+        position_entry = None
+        for order in instrument_orders.itertuples(index=False):
+            timestamp = pd.Timestamp(order.Timestamp)
+            quantity = abs(float(order.Size))
+            if quantity <= 0:
+                continue
+            if order.Side == "Buy":
+                if not lots:
+                    position_entry = timestamp
+                lots.append([timestamp, quantity])
+                continue
+            if order.Side != "Sell":
+                continue
+
+            remaining = quantity
+            while remaining > 1e-10 and lots:
+                lot_entry, lot_quantity = lots[0]
+                matched = min(remaining, lot_quantity)
+                entry_session = observed_dates.searchsorted(lot_entry)
+                exit_session = observed_dates.searchsorted(timestamp)
+                lot_durations.append(max(0, int(exit_session - entry_session)))
+                remaining -= matched
+                lot_quantity -= matched
+                if lot_quantity <= 1e-10:
+                    lots.pop(0)
+                else:
+                    lots[0][1] = lot_quantity
+
+            if not lots and position_entry is not None:
+                entry_session = observed_dates.searchsorted(position_entry)
+                exit_session = observed_dates.searchsorted(timestamp)
+                position_durations.append(max(0, int(exit_session - entry_session)))
+                position_entry = None
+
+    return {
+        "Completed Trade Lots": len(lot_durations),
+        "Average Holding Period (sessions)": float(np.mean(lot_durations))
+        if lot_durations
+        else 0.0,
+        "Median Holding Period (sessions)": float(np.median(lot_durations))
+        if lot_durations
+        else 0.0,
+        "Completed Positions": len(position_durations),
+        "Average Position Duration (sessions)": float(np.mean(position_durations))
+        if position_durations
+        else 0.0,
+    }
+
+
+def _turnover_metrics(orders: pd.DataFrame, values: pd.Series) -> dict[str, float]:
+    """Return purchase-only and purchase-plus-sale turnover ratios.
+
+    Order volume is absolute filled shares times fill price. Period ratios divide
+    by average daily portfolio value. Annualized ratios divide those ratios by
+    observed sessions / 252; calendar-year fields use that year's observations.
+    """
+    mean_value = float(values.mean()) if not values.empty else 0.0
+    if not np.isfinite(mean_value) or mean_value <= 0:
+        mean_value = 0.0
+    if orders.empty or mean_value <= 0:
+        buy_volume = sell_volume = 0.0
+    else:
+        notionals = orders["Size"].abs() * orders["Price"]
+        buy_volume = float(notionals[orders["Side"].eq("Buy")].sum())
+        sell_volume = float(notionals[orders["Side"].eq("Sell")].sum())
+
+    session_years = max(len(values) / 252, 1 / 252)
+    one_sided = buy_volume / mean_value if mean_value else 0.0
+    two_sided = (buy_volume + sell_volume) / mean_value if mean_value else 0.0
+    metrics = {
+        "One-sided Turnover": one_sided,
+        "Two-sided Turnover": two_sided,
+        "Annualized One-sided Turnover": one_sided / session_years,
+        "Annualized Two-sided Turnover": two_sided / session_years,
+    }
+
+    order_years = (
+        pd.to_datetime(orders["Timestamp"]).dt.year
+        if not orders.empty
+        else pd.Series(dtype=int)
+    )
+    for year in sorted(set(values.index.year)):
+        year_values = values.loc[values.index.year == year]
+        year_orders = orders.loc[order_years == year] if not orders.empty else orders
+        year_notionals = (
+            year_orders["Size"].abs() * year_orders["Price"]
+            if not year_orders.empty
+            else pd.Series(dtype=float)
+        )
+        year_mean_value = float(year_values.mean())
+        if not np.isfinite(year_mean_value) or year_mean_value <= 0:
+            year_mean_value = 0.0
+        year_fraction = max(len(year_values) / 252, 1 / 252)
+        year_buys = (
+            float(year_notionals[year_orders["Side"].eq("Buy")].sum())
+            if not year_orders.empty
+            else 0.0
+        )
+        year_sells = (
+            float(year_notionals[year_orders["Side"].eq("Sell")].sum())
+            if not year_orders.empty
+            else 0.0
+        )
+        metrics[f"One-sided Turnover {year}"] = (
+            year_buys / year_mean_value / year_fraction if year_mean_value else 0.0
+        )
+        metrics[f"Two-sided Turnover {year}"] = (
+            (year_buys + year_sells) / year_mean_value / year_fraction
+            if year_mean_value
+            else 0.0
+        )
+    return metrics
+
+
+def _execution_cost_metrics(
+    orders: pd.DataFrame, execution_prices: pd.DataFrame
+) -> tuple[float, float]:
+    """Return recorded commissions/fixed fees and fill-price slippage costs.
+
+    Net equity already includes both costs; these values are reported, not
+    deducted from the net return a second time.
+    """
+    if orders.empty:
+        return 0.0, 0.0
+    fees = float(orders["Fees"].fillna(0).sum())
+    slippage_cost = 0.0
+    for order in orders.itertuples(index=False):
+        timestamp = pd.Timestamp(order.Timestamp)
+        reference_price = execution_prices.at[timestamp, order.Column]
+        if pd.isna(reference_price):
+            continue
+        slippage_cost += abs(float(order.Size)) * abs(
+            float(order.Price) - float(reference_price)
+        )
+    return fees, float(slippage_cost)
+
+
 def _variant_metrics(
     result,
+    gross_result,
     portfolio: Portfolio,
     config: MomentumConfig,
+    execution_prices: pd.DataFrame,
 ) -> dict[str, float | int]:
     values = _single_series(result.value())
+    gross_values = _single_series(gross_result.value())
     daily_returns = values.pct_change(fill_method=None).dropna()
     close = portfolio.universe.close().reindex(index=values.index)
     assets = (
@@ -1054,9 +1213,14 @@ def _variant_metrics(
     invested = market_values.sum(axis=1)
     exposure = invested.div(values.replace(0, np.nan)).fillna(0)
     drawdown = values.div(values.cummax()).sub(1)
-    total_return = values.iloc[-1] / portfolio.broker.initial_cash - 1
+    initial_cash = portfolio.broker.initial_cash
+    net_end_value = float(values.iloc[-1])
+    gross_end_value = float(gross_values.iloc[-1])
+    total_return = net_end_value / initial_cash - 1
+    gross_total_return = gross_end_value / initial_cash - 1
     elapsed_years = max((values.index[-1] - values.index[0]).days / 365.25, 1 / 252)
-    cagr = (values.iloc[-1] / portfolio.broker.initial_cash) ** (1 / elapsed_years) - 1
+    cagr = (net_end_value / initial_cash) ** (1 / elapsed_years) - 1
+    gross_cagr = (gross_end_value / initial_cash) ** (1 / elapsed_years) - 1
     volatility = daily_returns.std(ddof=1)
     sharpe = (
         np.sqrt(252) * daily_returns.mean() / volatility
@@ -1079,43 +1243,36 @@ def _variant_metrics(
         profits / losses if losses > 0 else (np.inf if profits > 0 else np.nan)
     )
 
-    durations = []
-    for _, trade in closed_trades.iterrows():
-        entry = trade["Entry Timestamp"]
-        exit_ = trade["Exit Timestamp"]
-        instrument = trade["Column"]
-        instrument_dates = close.index[close[instrument].notna()]
-        durations.append(
-            max(
-                0,
-                instrument_dates.searchsorted(exit_)
-                - instrument_dates.searchsorted(entry),
-            )
-        )
     orders = result.orders.records_readable
-    traded_value = (
-        (orders["Size"].abs() * orders["Price"]).sum() if not orders.empty else 0.0
-    )
-    mean_value = values.mean()
-    transaction_costs = float(orders["Fees"].sum()) if not orders.empty else 0.0
-    total_turnover = float(traded_value / mean_value) if mean_value else 0.0
+    transaction_fees, slippage_costs = _execution_cost_metrics(orders, execution_prices)
+    transaction_costs = transaction_fees + slippage_costs
+    turnover = _turnover_metrics(orders, values)
+    holding_periods = _holding_period_metrics(orders, close)
     metrics: dict[str, float | int] = {
         "CAGR": float(cagr),
         "Total Return": float(total_return),
+        "Net CAGR": float(cagr),
+        "Net Total Return": float(total_return),
+        "Gross CAGR": float(gross_cagr),
+        "Gross Total Return": float(gross_total_return),
+        "Net End Value": net_end_value,
+        "Gross End Value": gross_end_value,
+        "Gross-Net End Value Difference": gross_end_value - net_end_value,
         "Maximum Drawdown": max_drawdown,
         "Sharpe": float(sharpe),
         "Sortino": float(sortino),
         "Calmar": float(calmar),
         "Profit Factor": float(profit_factor),
         "Number of Trades": len(closed_trades),
-        "Average Holding Period (sessions)": float(np.mean(durations))
-        if durations
-        else 0.0,
         "Average Exposure": float(exposure.mean()),
         "Maximum Exposure": float(exposure.max()),
         "Cash Allocation": float((1 - exposure).mean()),
-        "Turnover": total_turnover,
-        "Annual Portfolio Turnover": float(total_turnover / elapsed_years),
+        "Turnover": turnover["Two-sided Turnover"],
+        "Annual Portfolio Turnover": turnover["Annualized Two-sided Turnover"],
+        **turnover,
+        **holding_periods,
+        "Transaction Fees": transaction_fees,
+        "Slippage Costs": slippage_costs,
         "Transaction Costs": transaction_costs,
         "Annual Transaction Costs": float(transaction_costs / elapsed_years),
         "Buy Orders": int(orders["Side"].eq("Buy").sum()) if not orders.empty else 0,
@@ -1234,7 +1391,6 @@ def _run_variant_case(variant: StrategyVariant) -> dict[str, object]:
         variant.value,
         perf_counter() - stage_started_at,
     )
-    gross_values = _single_series(gross_result.value())
     return {
         "Variant": variant.value,
         "Signals": ",".join(sorted(VARIANT_SIGNALS[variant])),
@@ -1247,11 +1403,8 @@ def _run_variant_case(variant: StrategyVariant) -> dict[str, object]:
         "Fixed Fees": portfolio.broker.fixed_fees,
         "Slippage": portfolio.broker.slippage,
         "Benchmarks Available": ",".join(sorted(portfolio.benchmarks)),
-        "Gross Total Return": float(
-            gross_values.iloc[-1] / portfolio.broker.initial_cash - 1
-        ),
         **asdict(config),
-        **_variant_metrics(result, portfolio, config),
+        **_variant_metrics(result, gross_result, portfolio, config, execution_prices),
     }
 
 

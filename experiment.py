@@ -11,6 +11,32 @@ END_DATE = "2017-01-01"
 RESULTS_FILE = ROOT / "experiment_results.csv"
 
 
+def _experiment_broker_config() -> BrokerConfig:
+    return BrokerConfig(
+        initial_cash=3000.0,
+        fees=0.001,
+        fixed_fees=1.0,
+        slippage=0.0005,
+    )
+
+
+def _experiment_config() -> MomentumConfig:
+    return MomentumConfig(
+        topn=5,
+        min_avg_daily_turnover=50_000.0,
+        liquidity_lookback=20,
+        momentum_20_weight=0.2,
+        momentum_60_weight=0.3,
+        momentum_120_weight=0.5,
+        rebalance_frequency="weekly",
+        max_position_weight=0.2,
+        position_sizing="inverse_volatility",
+        bullish_exposure=1.0,
+        neutral_exposure=0.5,
+        bearish_exposure=0.0,
+    )
+
+
 def main() -> None:
     logging.basicConfig(
         level=logging.INFO,
@@ -26,28 +52,10 @@ def main() -> None:
         universe=universe,
         start_date=START_DATE,
         end_date=END_DATE,
-        broker=BrokerConfig(
-            initial_cash=3000.0,
-            fees=0.001,
-            fixed_fees=1.0,
-            slippage=0.0005,
-        ),
+        broker=_experiment_broker_config(),
         benchmarks={},
     )
-    config = MomentumConfig(
-        topn=5,
-        min_avg_daily_turnover=50_000.0,
-        liquidity_lookback=20,
-        momentum_20_weight=0.2,
-        momentum_60_weight=0.3,
-        momentum_120_weight=0.5,
-        rebalance_frequency="weekly",
-        max_position_weight=0.2,
-        position_sizing="inverse_volatility",
-        bullish_exposure=1.0,
-        neutral_exposure=0.5,
-        bearish_exposure=0.0,
-    )
+    config = _experiment_config()
 
     results = variant_experiment(portfolio, config)
     results["Signal D Status"] = results["Variant"].map(
@@ -71,6 +79,7 @@ def main() -> None:
         "momentum_120_weight",
         "min_avg_daily_turnover",
         "max_position_weight",
+        "position_sizing",
         "Initial Cash",
         "Fees",
         "Fixed Fees",
@@ -78,19 +87,40 @@ def main() -> None:
         "Universe Fingerprint",
         "CAGR",
         "Total Return",
+        "Net CAGR",
+        "Net Total Return",
+        "Gross CAGR",
         "Gross Total Return",
+        "Net End Value",
+        "Gross End Value",
+        "Gross-Net End Value Difference",
         "Maximum Drawdown",
         "Sharpe",
         "Buy Orders",
         "Sell Orders",
+        "Transaction Fees",
+        "Slippage Costs",
+        "Transaction Costs",
         "Annual Transaction Costs",
-        "Annual Portfolio Turnover",
+        "One-sided Turnover",
+        "Two-sided Turnover",
+        "Annualized One-sided Turnover",
+        "Annualized Two-sided Turnover",
         "Average Holding Period (sessions)",
+        "Median Holding Period (sessions)",
+        "Average Position Duration (sessions)",
+        "Annual Portfolio Turnover",
         "Average Exposure",
         "Maximum Exposure",
-        "Transaction Costs",
         "Signal D Status",
     ]
+    columns.extend(
+        sorted(
+            column
+            for column in results.columns
+            if column.startswith(("One-sided Turnover 20", "Two-sided Turnover 20"))
+        )
+    )
     print("\nVariantenvergleich (identische Daten, Zeitraum, Kosten und Config):")
     print(results.loc[:, columns].to_string(index=False, float_format="{:.3f}".format))
     print(f"\nErgebnisdatei: {RESULTS_FILE}")
