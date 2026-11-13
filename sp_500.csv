@@ -1,0 +1,505 @@
+Company,Ticker,ISIN,Main listing,Country,Supersector
+3M,MMM,US88579Y1010,NYSE,Industria
+A. O. Smith,AOS,US8318652091,NYSE,Industria
+Abbott Laboratories,ABT,US0028241000,NYSE,Sanità
+AbbVie,ABBV,US00287Y1091,NYSE,Sanità
+Accenture,ACN,IE00B4BNMY34,NYSE,Tecnologia dell'informazione
+Adobe Inc.,ADBE,US00724F1012,Nasdaq,Tecnologia dell'informazione
+Advanced Micro Devices,AMD,US0079031078,Nasdaq,Tecnologia dell'informazione
+AES Corporation,AES,US00130H1059,NYSE,Servizi di pubblica utilità
+Aflac,AFL,US0010551028,NYSE,Finanza
+Agilent Technologies,A,US00846U1016,NYSE,Sanità
+Air Products,APD,US0091581068,NYSE,Materiali
+Airbnb,ABNB,US0090661010,Nasdaq,Beni di consumo voluttuari
+Akamai Technologies,AKAM,US00971T1016,Nasdaq,Tecnologia dell'informazione
+Albemarle Corporation,ALB,US0126531013,NYSE,Materiali
+Alexandria Real Estate Equities,ARE,US0152711091,NYSE,Immobiliare
+Align Technology,ALGN,US0162551016,Nasdaq,Sanità
+Allegion,ALLE,IE00BFRT3W74,NYSE,Industria
+Alliant Energy,LNT,US0188021085,Nasdaq,Servizi di pubblica utilità
+Allstate,ALL,US0200021014,NYSE,Finanza
+Alphabet Inc. (classe A),GOOGL,US02079K3059,Nasdaq,Servizi di comunicazione
+Alphabet Inc. (classe C),GOOG,US02079K1079,Nasdaq,Servizi di comunicazione
+Altria,MO,US02209S1033,NYSE,Beni di consumo di prima necessità
+Amazon,AMZN,US0231351067,Nasdaq,Beni di consumo voluttuari
+Amcor,AMCR,JE00BV7DQ550,NYSE,Materiali
+Ameren,AEE,US0236081024,NYSE,Servizi di pubblica utilità
+American Electric Power,AEP,US0255371017,Nasdaq,Servizi di pubblica utilità
+American Express,AXP,US0258161092,NYSE,Finanza
+American International Group,AIG,US0268747849,NYSE,Finanza
+American Tower,AMT,US03027X1000,NYSE,Immobiliare
+American Water Works,AWK,US0304201033,NYSE,Servizi di pubblica utilità
+Ameriprise Financial,AMP,US03076C1062,NYSE,Finanza
+Ametek,AME,US0311001004,NYSE,Industria
+Amgen,AMGN,US0311621009,Nasdaq,Sanità
+Amphenol,APH,US0320951017,NYSE,Tecnologia dell'informazione
+Analog Devices,ADI,US0326541051,Nasdaq,Tecnologia dell'informazione
+Aon plc,AON,IE00BLP1HW54,NYSE,Finanza
+APA Corporation,APA,US03743Q1085,Nasdaq,Energia
+Apollo Global Management,APO,US03769M1062,NYSE,Finanza
+Apple Inc.,AAPL,US0378331005,Nasdaq,Tecnologia dell'informazione
+Applied Materials,AMAT,US0382221051,Nasdaq,Tecnologia dell'informazione
+AppLovin,APP,US03831W1080,Nasdaq,Servizi di comunicazione
+Aptiv,APTV,JE00BTDN8H13,NYSE,Beni di consumo voluttuari
+Arch Capital Group,ACGL,BMG0450A1053,Nasdaq,Finanza
+Archer Daniels Midland,ADM,US0394831020,NYSE,Beni di consumo di prima necessità
+Ares Management,ARES,US03990B1017,NYSE,Finanza
+Arista Networks,ANET,US0404132054,NYSE,Tecnologia dell'informazione
+Arthur J. Gallagher & Co.,AJG,US3635761097,NYSE,Finanza
+Assurant,AIZ,US04621X1081,NYSE,Finanza
+AT&T,T,US00206R1023,NYSE,Servizi di comunicazione
+Atmos Energy,ATO,US0495601058,NYSE,Servizi di pubblica utilità
+Autodesk,ADSK,US0527691069,Nasdaq,Tecnologia dell'informazione
+Automatic Data Processing,ADP,US0530151036,Nasdaq,Industria
+AutoZone,AZO,US0533321024,NYSE,Beni di consumo voluttuari
+Avery Dennison,AVY,US0536111091,NYSE,Materiali
+Axon Enterprise,AXON,US05464C1018,Nasdaq,Industria
+Baker Hughes,BKR,US05722G1004,Nasdaq,Energia
+Ball Corporation,BALL,US0584981064,NYSE,Materiali
+Bank of America,BAC,US0605051046,NYSE,Finanza
+Baxter International,BAX,US0718131099,NYSE,Sanità
+Becton Dickinson,BDX,US0758871091,NYSE,Sanità
+Berkshire Hathaway,BRK.B,US0846707026,NYSE,Finanza
+Best Buy,BBY,US0865161014,NYSE,Beni di consumo voluttuari
+Bio-Techne,TECH,US09073M1045,Nasdaq,Sanità
+Biogen,BIIB,US09062X1037,Nasdaq,Sanità
+BlackRock,BLK,US09290D1019,NYSE,Finanza
+Blackstone Inc.,BX,US09260D1072,NYSE,Finanza
+Block Inc.,XYZ,US8522341036,NYSE,Finanza
+Bloom Energy,BE,US0937121079,NYSE,Industria
+BNY Mellon,BNY,US0640581007,NYSE,Finanza
+Boeing,BA,US0970231058,NYSE,Industria
+Booking Holdings,BKNG,US09857L1089,Nasdaq,Beni di consumo voluttuari
+Boston Scientific,BSX,US1011371077,NYSE,Sanità
+Bristol Myers Squibb,BMY,US1101221083,NYSE,Sanità
+Broadcom,AVGO,US11135F1012,Nasdaq,Tecnologia dell'informazione
+Broadridge Financial Solutions,BR,US11133T1034,NYSE,Industria
+Brown & Brown,BRO,US1152361010,NYSE,Finanza
+Brown–Forman,BF.B,US1156372096,NYSE,Beni di consumo di prima necessità
+Bunge Global,BG,CH1300646267,NYSE,Beni di consumo di prima necessità
+BXP Inc.,BXP,US1011211018,NYSE,Immobiliare
+C.H. Robinson,CHRW,US12541W2098,Nasdaq,Industria
+Cadence Design Systems,CDNS,US1273871087,Nasdaq,Tecnologia dell'informazione
+Camden Property Trust,CPT,US1331311027,NYSE,Immobiliare
+Capital One,COF,US14040H1059,NYSE,Finanza
+Cardinal Health,CAH,US14149Y1082,NYSE,Sanità
+Carnival Corporation,CCL,BMG2004J1036,NYSE,Beni di consumo voluttuari
+Carrier Global,CARR,US14448C1045,NYSE,Industria
+Carvana,CVNA,US1468691027,NYSE,Beni di consumo voluttuari
+Casey's,CASY,US1475281036,Nasdaq,Beni di consumo di prima necessità
+Caterpillar Inc.,CAT,US1491231015,NYSE,Industria
+Cboe Global Markets,CBOE,US12503M1080,Cboe BZX,Finanza
+CBRE Group,CBRE,US12504L1098,NYSE,Immobiliare
+CDW Corporation,CDW,US12514G1085,Nasdaq,Tecnologia dell'informazione
+Cencora,COR,US03073E1055,NYSE,Sanità
+Centene Corporation,CNC,US15135B1017,NYSE,Sanità
+CenterPoint Energy,CNP,US15189T1079,NYSE,Servizi di pubblica utilità
+CF Industries,CF,US1252691001,NYSE,Materiali
+Charles River Laboratories,CRL,US1598641074,NYSE,Sanità
+Charles Schwab Corporation,SCHW,US8085131055,NYSE,Finanza
+Charter Communications,CHTR,US16119P1084,Nasdaq,Servizi di comunicazione
+Chevron Corporation,CVX,US1667641005,NYSE,Energia
+Chipotle Mexican Grill,CMG,US1696561059,NYSE,Beni di consumo voluttuari
+Chubb Limited,CB,CH0044328745,NYSE,Finanza
+Church & Dwight,CHD,US1713401024,NYSE,Beni di consumo di prima necessità
+Ciena,CIEN,US1717793095,NYSE,Tecnologia dell'informazione
+Cigna,CI,US1255231003,NYSE,Sanità
+Cincinnati Financial,CINF,US1720621010,Nasdaq,Finanza
+Cintas,CTAS,US1729081059,Nasdaq,Industria
+Cisco,CSCO,US17275R1023,Nasdaq,Tecnologia dell'informazione
+Citigroup,C,US1729674242,NYSE,Finanza
+Citizens Financial Group,CFG,US1746101054,NYSE,Finanza
+Clorox,CLX,US1890541097,NYSE,Beni di consumo di prima necessità
+CME Group,CME,US12572Q1058,Nasdaq,Finanza
+CMS Energy,CMS,US1258961002,NYSE,Servizi di pubblica utilità
+Cognizant,CTSH,US1924461023,Nasdaq,Tecnologia dell'informazione
+Coherent Corp.,COHR,US19247G1076,NYSE,Tecnologia dell'informazione
+Coinbase,COIN,US19260Q1076,Nasdaq,Finanza
+Colgate-Palmolive,CL,US1941621039,NYSE,Beni di consumo di prima necessità
+Comcast,CMCSA,US20030N1019,Nasdaq,Servizi di comunicazione
+Comfort Systems USA,FIX,US1999081045,NYSE,Industria
+ConocoPhillips,COP,US20825C1045,NYSE,Energia
+Consolidated Edison,ED,US2091151041,NYSE,Servizi di pubblica utilità
+Constellation Brands,STZ,US21036P1084,NYSE,Beni di consumo di prima necessità
+Constellation Energy,CEG,US21037T1097,Nasdaq,Servizi di pubblica utilità
+Copart,CPRT,US2172041061,Nasdaq,Industria
+Corning Inc.,GLW,US2193501051,NYSE,Tecnologia dell'informazione
+Corpay,CPAY,US2199481068,NYSE,Finanza
+CoStar Group,CSGP,US22160N1090,Nasdaq,Immobiliare
+Costco,COST,US22160K1051,Nasdaq,Beni di consumo di prima necessità
+CRH plc,CRH,IE0001827041,NYSE,Materiali
+CrowdStrike,CRWD,US22788C1053,Nasdaq,Tecnologia dell'informazione
+Crown Castle,CCI,US22822V1017,NYSE,Immobiliare
+CSX Corporation,CSX,US1264081035,Nasdaq,Industria
+Cummins,CMI,US2310211063,NYSE,Industria
+CVS Health,CVS,US1266501006,NYSE,Sanità
+D. R. Horton,DHI,US23331A1097,NYSE,Beni di consumo voluttuari
+Danaher Corporation,DHR,US2358511028,NYSE,Sanità
+Darden Restaurants,DRI,US2371941053,NYSE,Beni di consumo voluttuari
+Datadog,DDOG,US23804L1035,Nasdaq,Tecnologia dell'informazione
+DaVita,DVA,US23918K1088,NYSE,Sanità
+Deckers Brands,DECK,US2435371073,NYSE,Beni di consumo voluttuari
+Deere & Company,DE,US2441991054,NYSE,Industria
+Dell Technologies,DELL,US24703L2025,NYSE,Tecnologia dell'informazione
+Delta Air Lines,DAL,US2473617023,NYSE,Industria
+Devon Energy,DVN,US25179M1036,NYSE,Energia
+Dexcom,DXCM,US2521311074,Nasdaq,Sanità
+Diamondback Energy,FANG,US25278X1090,Nasdaq,Energia
+Digital Realty,DLR,US2538681030,NYSE,Immobiliare
+Dollar General,DG,US2566771059,NYSE,Beni di consumo di prima necessità
+Dollar Tree,DLTR,US2567461080,Nasdaq,Beni di consumo di prima necessità
+Dominion Energy,D,US25746U1097,NYSE,Servizi di pubblica utilità
+Domino's,DPZ,US25754A2015,Nasdaq,Beni di consumo voluttuari
+DoorDash,DASH,US25809K1051,Nasdaq,Beni di consumo voluttuari
+Dover Corporation,DOV,US2600031080,NYSE,Industria
+Dow Inc.,DOW,US2605571031,NYSE,Materiali
+DTE Energy,DTE,US2333311072,NYSE,Servizi di pubblica utilità
+Duke Energy,DUK,US26441C2044,NYSE,Servizi di pubblica utilità
+DuPont,DD,US26614N2018,NYSE,Industria
+Eaton Corporation,ETN,IE00B8KQN827,NYSE,Industria
+eBay Inc.,EBAY,US2786421030,Nasdaq,Beni di consumo voluttuari
+EchoStar,ECHO,US2787681061,Nasdaq,Servizi di comunicazione
+Ecolab,ECL,US2788651006,NYSE,Materiali
+Edison International,EIX,US2810201077,NYSE,Servizi di pubblica utilità
+Edwards Lifesciences,EW,US28176E1082,NYSE,Sanità
+Elevance Health,ELV,US0367521038,NYSE,Sanità
+Eli Lilly and Company,LLY,US5324571083,NYSE,Sanità
+Emcor,EME,US29084Q1004,NYSE,Industria
+Emerson Electric,EMR,US2910111044,NYSE,Industria
+Entergy,ETR,US29364G1031,NYSE,Servizi di pubblica utilità
+EOG Resources,EOG,US26875P1012,NYSE,Energia
+EQT Corporation,EQT,US26884L1098,NYSE,Energia
+Equifax,EFX,US2944291051,NYSE,Industria
+Equinix,EQIX,US29444U7000,Nasdaq,Immobiliare
+Erie Indemnity,ERIE,US29530P1021,Nasdaq,Finanza
+Essex Property Trust,ESS,US2971781057,NYSE,Immobiliare
+Everest Group,EG,BMG3223R1088,NYSE,Finanza
+Evergy,EVRG,US30034W1062,Nasdaq,Servizi di pubblica utilità
+Everpure,P,US74624M1027,NYSE,Tecnologia dell'informazione
+Eversource Energy,ES,US30040W1080,NYSE,Servizi di pubblica utilità
+Exelon,EXC,US30161N1019,Nasdaq,Servizi di pubblica utilità
+Expand Energy,EXE,US1651677353,Nasdaq,Energia
+Expedia Group,EXPE,US30212P3038,Nasdaq,Beni di consumo voluttuari
+Expeditors International,EXPD,US3021301094,NYSE,Industria
+Extra Space Storage,EXR,US30225T1025,NYSE,Immobiliare
+ExxonMobil,XOM,US30233Q1085,NYSE,Energia
+F5 Inc.,FFIV,US3156161024,Nasdaq,Tecnologia dell'informazione
+FactSet,FDS,US3030751057,NYSE,Finanza
+Fair Isaac,FICO,US3032501047,NYSE,Tecnologia dell'informazione
+Fastenal,FAST,US3119001044,Nasdaq,Industria
+Federal Realty Investment Trust,FRT,US3137451015,NYSE,Immobiliare
+FedEx,FDX,US31428X1063,NYSE,Industria
+FedEx Freight,FDXF,US3143521058,NYSE,Industria
+Ferguson Enterprises,FERG,US31488V1070,NYSE,Industria
+Fidelity National Information Services,FIS,US31620M1062,NYSE,Finanza
+Fifth Third Bancorp,FITB,US3167731005,NYSE,Finanza
+First Solar,FSLR,US3364331070,Nasdaq,Tecnologia dell'informazione
+FirstEnergy,FE,US3379321074,NYSE,Servizi di pubblica utilità
+Fiserv,FISV,US3377381088,Nasdaq,Finanza
+Flex Ltd.,FLEX,SG9999000020,Nasdaq,Tecnologia dell'informazione
+Ford Motor Company,F,US3453708600,NYSE,Beni di consumo voluttuari
+Fortinet,FTNT,US34959E1091,Nasdaq,Tecnologia dell'informazione
+Fortive,FTV,US34959J1088,NYSE,Industria
+Fox Corporation (classe A),FOXA,US35137L1052,Nasdaq,Servizi di comunicazione
+Fox Corporation (classe B),FOX,US35137L2043,Nasdaq,Servizi di comunicazione
+Franklin Resources,BEN,US3546131018,NYSE,Finanza
+Freeport-McMoRan,FCX,US35671D8570,NYSE,Materiali
+Garmin,GRMN,CH0114405324,NYSE,Beni di consumo voluttuari
+Gartner,IT,US3666511072,NYSE,Tecnologia dell'informazione
+GE Aerospace,GE,US3696043013,NYSE,Industria
+GE HealthCare,GEHC,US36266G1076,Nasdaq,Sanità
+GE Vernova,GEV,US36828A1016,NYSE,Industria
+Gen Digital,GEN,US6687711084,Nasdaq,Tecnologia dell'informazione
+Generac,GNRC,US3687361044,NYSE,Industria
+General Dynamics,GD,US3695501086,NYSE,Industria
+General Mills,GIS,US3703341046,NYSE,Beni di consumo di prima necessità
+General Motors,GM,US37045V1008,NYSE,Beni di consumo voluttuari
+Genuine Parts Company,GPC,US3724601055,NYSE,Beni di consumo voluttuari
+Gilead Sciences,GILD,US3755581036,Nasdaq,Sanità
+Global Payments,GPN,US37940X1028,NYSE,Finanza
+Globe Life,GL,US37959E1029,NYSE,Finanza
+GoDaddy,GDDY,US3802371076,NYSE,Tecnologia dell'informazione
+Goldman Sachs,GS,US38141G1040,NYSE,Finanza
+Halliburton,HAL,US4062161017,NYSE,Energia
+Hasbro,HAS,US4180561072,Nasdaq,Beni di consumo voluttuari
+HCA Healthcare,HCA,US40412C1018,NYSE,Sanità
+Healthpeak Properties,DOC,US42250P1030,NYSE,Immobiliare
+Henry Schein,HSIC,US8064071025,Nasdaq,Sanità
+Hewlett Packard Enterprise,HPE,US42824C1099,NYSE,Tecnologia dell'informazione
+Hilton Worldwide,HLT,US43300A2033,NYSE,Beni di consumo voluttuari
+Honeywell Aerospace,HONA,US43849R1059,Nasdaq,Industria
+Honeywell Technologies,HON,US4385162056,Nasdaq,Industria
+Hormel Foods,HRL,US4404521001,NYSE,Beni di consumo di prima necessità
+Host Hotels & Resorts,HST,US44107P1049,Nasdaq,Immobiliare
+Howmet Aerospace,HWM,US4432011082,NYSE,Industria
+HP Inc.,HPQ,US40434L1052,NYSE,Tecnologia dell'informazione
+Hubbell Incorporated,HUBB,US4435106079,NYSE,Industria
+Humana,HUM,US4448591028,NYSE,Sanità
+Huntington Bancshares,HBAN,US4461501045,Nasdaq,Finanza
+Huntington Ingalls Industries,HII,US4464131063,NYSE,Industria
+IBM,IBM,US4592001014,NYSE,Tecnologia dell'informazione
+IDEX Corporation,IEX,US45167R1041,NYSE,Industria
+Idexx Laboratories,IDXX,US45168D1046,Nasdaq,Sanità
+Illinois Tool Works,ITW,US4523081093,NYSE,Industria
+Illumina Inc.,ILMN,US4523271090,Nasdaq,Sanità
+Incyte,INCY,US45337C1027,Nasdaq,Sanità
+Ingersoll Rand,IR,US45687V1061,NYSE,Industria
+Insulet Corporation,PODD,US45784P1012,Nasdaq,Sanità
+Intel,INTC,US4581401001,Nasdaq,Tecnologia dell'informazione
+Interactive Brokers,IBKR,US45841N1072,Nasdaq,Finanza
+Intercontinental Exchange,ICE,US45866F1049,NYSE,Finanza
+International Flavors & Fragrances,IFF,US4595061015,NYSE,Materiali
+International Paper,IP,US4601461035,NYSE,Materiali
+Intuit,INTU,US4612021034,Nasdaq,Tecnologia dell'informazione
+Intuitive Surgical,ISRG,US46120E6023,Nasdaq,Sanità
+Invesco,IVZ,BMG491BT1088,NYSE,Finanza
+Invitation Homes,INVH,US46187W1071,NYSE,Immobiliare
+IQVIA,IQV,US46266C1053,NYSE,Sanità
+Iron Mountain,IRM,US46284V1017,NYSE,Immobiliare
+J.B. Hunt,JBHT,US4456581077,Nasdaq,Industria
+Jabil,JBL,US4663131039,NYSE,Tecnologia dell'informazione
+Jack Henry & Associates,JKHY,US4262811015,Nasdaq,Finanza
+Jacobs Solutions,J,US46982L1089,NYSE,Industria
+Johnson & Johnson,JNJ,US4781601046,NYSE,Sanità
+Johnson Controls,JCI,IE00BY7QL619,NYSE,Industria
+JPMorgan Chase,JPM,US46625H1005,NYSE,Finanza
+Kenvue,KVUE,US49177J1025,NYSE,Beni di consumo di prima necessità
+Keurig Dr Pepper,KDP,US49271V1008,Nasdaq,Beni di consumo di prima necessità
+KeyCorp,KEY,US4932671088,NYSE,Finanza
+Keysight Technologies,KEYS,US49338L1035,NYSE,Tecnologia dell'informazione
+Kimberly-Clark,KMB,US4943681035,Nasdaq,Beni di consumo di prima necessità
+Kimco Realty,KIM,US49446R1095,NYSE,Immobiliare
+Kinder Morgan,KMI,US49456B1017,NYSE,Energia
+KKR & Co.,KKR,US48251W1045,NYSE,Finanza
+KLA Corporation,KLAC,US4824801009,Nasdaq,Tecnologia dell'informazione
+Kraft Heinz,KHC,US5007541064,NYSE,Beni di consumo di prima necessità
+Kroger,KR,US5010441013,NYSE,Beni di consumo di prima necessità
+L3Harris,LHX,US5024311095,NYSE,Industria
+Labcorp,LH,US5049221055,NYSE,Sanità
+Lam Research,LRCX,US5128073062,Nasdaq,Tecnologia dell'informazione
+Las Vegas Sands,LVS,US5178341070,NYSE,Beni di consumo voluttuari
+Leidos,LDOS,US5253271028,NYSE,Industria
+Lennar,LEN,US5260571048,NYSE,Beni di consumo voluttuari
+Lennox International,LII,US5261071071,NYSE,Industria
+Linde plc,LIN,IE000S9YS762,Nasdaq,Materiali
+Live Nation Entertainment,LYV,US5380341090,NYSE,Servizi di comunicazione
+Lockheed Martin,LMT,US5398301094,NYSE,Industria
+Loews Corporation,L,US5404241086,NYSE,Finanza
+Lowe's,LOW,US5486611073,NYSE,Beni di consumo voluttuari
+Lululemon Athletica,LULU,US5500211090,Nasdaq,Beni di consumo voluttuari
+Lumentum,LITE,US55024U1097,Nasdaq,Tecnologia dell'informazione
+LyondellBasell,LYB,NL0009434992,NYSE,Materiali
+M&T Bank,MTB,US55261F1049,NYSE,Finanza
+Marathon Petroleum,MPC,US56585A1025,NYSE,Energia
+Marriott International,MAR,US5719032022,Nasdaq,Beni di consumo voluttuari
+Marsh McLennan,MRSH,US5717481023,NYSE,Finanza
+Martin Marietta Materials,MLM,US5732841060,NYSE,Materiali
+Marvell Technology,MRVL,US5738741041,Nasdaq,Tecnologia dell'informazione
+Masco,MAS,US5745991068,NYSE,Industria
+Mastercard,MA,US57636Q1040,NYSE,Finanza
+McCormick & Company,MKC,US5797802064,NYSE,Beni di consumo di prima necessità
+McDonald's,MCD,US5801351017,NYSE,Beni di consumo voluttuari
+McKesson,MCK,US58155Q1031,NYSE,Sanità
+Medtronic,MDT,IE00BTN1Y115,NYSE,Sanità
+Merck & Co.,MRK,US58933Y1055,NYSE,Sanità
+Meta Platforms,META,US30303M1027,Nasdaq,Servizi di comunicazione
+MetLife,MET,US59156R1086,NYSE,Finanza
+Mettler Toledo,MTD,US5926881054,NYSE,Sanità
+MGM Resorts,MGM,US5529531015,NYSE,Beni di consumo voluttuari
+Microchip Technology,MCHP,US5950171042,Nasdaq,Tecnologia dell'informazione
+Micron Technology,MU,US5951121038,Nasdaq,Tecnologia dell'informazione
+Microsoft,MSFT,US5949181045,Nasdaq,Tecnologia dell'informazione
+Mid-America Apartment Communities,MAA,US59522J1034,NYSE,Immobiliare
+Moderna,MRNA,US60770K1079,Nasdaq,Sanità
+Mondelez International,MDLZ,US6092071058,Nasdaq,Beni di consumo di prima necessità
+Monolithic Power Systems,MPWR,US6098391054,Nasdaq,Tecnologia dell'informazione
+Monster Beverage,MNST,US61174X1090,Nasdaq,Beni di consumo di prima necessità
+Moody's Corporation,MCO,US6153691059,NYSE,Finanza
+Morgan Stanley,MS,US6174464486,NYSE,Finanza
+Motorola Solutions,MSI,US6200763075,NYSE,Tecnologia dell'informazione
+MSCI,MSCI,US55354G1004,NYSE,Finanza
+Nasdaq Inc.,NDAQ,US6311031081,Nasdaq,Finanza
+NetApp,NTAP,US64110D1046,Nasdaq,Tecnologia dell'informazione
+Netflix,NFLX,US64110L1061,Nasdaq,Servizi di comunicazione
+Newmont,NEM,US6516391066,NYSE,Materiali
+News Corp (classe A),NWSA,US65249B1098,Nasdaq,Servizi di comunicazione
+News Corp (classe B),NWS,US65249B2088,Nasdaq,Servizi di comunicazione
+NextEra Energy,NEE,US65339F1012,NYSE,Servizi di pubblica utilità
+Nike Inc.,NKE,US6541061031,NYSE,Beni di consumo voluttuari
+NiSource,NI,US65473P1057,NYSE,Servizi di pubblica utilità
+Nordson Corporation,NDSN,US6556631025,Nasdaq,Industria
+Norfolk Southern,NSC,US6558441084,NYSE,Industria
+Northern Trust,NTRS,US6658591044,Nasdaq,Finanza
+Northrop Grumman,NOC,US6668071029,NYSE,Industria
+Norwegian Cruise Line Holdings,NCLH,BMG667211046,NYSE,Beni di consumo voluttuari
+NRG Energy,NRG,US6293775085,NYSE,Servizi di pubblica utilità
+Nucor,NUE,US6703461052,NYSE,Materiali
+Nvidia,NVDA,US67066G1040,Nasdaq,Tecnologia dell'informazione
+NVR Inc.,NVR,US62944T1051,NYSE,Beni di consumo voluttuari
+NXP Semiconductors,NXPI,NL0009538784,Nasdaq,Tecnologia dell'informazione
+O'Reilly Automotive,ORLY,US67103H1077,Nasdaq,Beni di consumo voluttuari
+Occidental Petroleum,OXY,US6745991058,NYSE,Energia
+Old Dominion,ODFL,US6795801009,Nasdaq,Industria
+Omnicom Group,OMC,US6819191064,NYSE,Servizi di comunicazione
+ON Semiconductor,ON,US6821891057,Nasdaq,Tecnologia dell'informazione
+Oneok,OKE,US30609A1097,NYSE,Energia
+Oracle Corporation,ORCL,US68389X1054,NYSE,Tecnologia dell'informazione
+Otis Worldwide,OTIS,US68902V1070,NYSE,Industria
+Paccar,PCAR,US6937181088,Nasdaq,Industria
+Packaging Corporation of America,PKG,US6951561090,NYSE,Materiali
+Palantir Technologies,PLTR,US69608A1088,Nasdaq,Tecnologia dell'informazione
+Palo Alto Networks,PANW,US6974351057,Nasdaq,Tecnologia dell'informazione
+Parker Hannifin,PH,US7010941042,NYSE,Industria
+Paychex,PAYX,US7043261079,Nasdaq,Industria
+PayPal,PYPL,US70450Y1038,Nasdaq,Finanza
+Pentair,PNR,IE00BLS09M33,NYSE,Industria
+PepsiCo,PEP,US7134481081,Nasdaq,Beni di consumo di prima necessità
+Pfizer,PFE,US7170811035,NYSE,Sanità
+PG&E Corporation,PCG,US69331C1080,NYSE,Servizi di pubblica utilità
+Philip Morris International,PM,US7181721090,NYSE,Beni di consumo di prima necessità
+Phillips 66,PSX,US7185461040,NYSE,Energia
+Pinnacle West Capital,PNW,US7234841010,NYSE,Servizi di pubblica utilità
+PNC Financial Services,PNC,US6934751057,NYSE,Finanza
+PPG Industries,PPG,US6935061076,NYSE,Materiali
+PPL Corporation,PPL,US69351T1060,NYSE,Servizi di pubblica utilità
+Principal Financial Group,PFG,US74251V1026,Nasdaq,Finanza
+Procter & Gamble,PG,US7427181091,NYSE,Beni di consumo di prima necessità
+Progressive Corporation,PGR,US7433151039,NYSE,Finanza
+Prologis,PLD,US74340W1036,NYSE,Immobiliare
+Prudential Financial,PRU,US7443201022,NYSE,Finanza
+PTC Inc.,PTC,US69370C1009,Nasdaq,Tecnologia dell'informazione
+Public Service Enterprise Group,PEG,US7445731067,NYSE,Servizi di pubblica utilità
+Public Storage,PSA,US74460D1090,NYSE,Immobiliare
+PulteGroup,PHM,US7458671010,NYSE,Beni di consumo voluttuari
+Qnity Electronics,Q,US74743L1008,NYSE,Tecnologia dell'informazione
+Qualcomm,QCOM,US7475251036,Nasdaq,Tecnologia dell'informazione
+Quanta Services,PWR,US74762E1029,NYSE,Industria
+Quest Diagnostics,DGX,US74834L1008,NYSE,Sanità
+Ralph Lauren Corporation,RL,US7512121010,NYSE,Beni di consumo voluttuari
+Raymond James Financial,RJF,US7547301090,NYSE,Finanza
+Realty Income,O,US7561091049,NYSE,Immobiliare
+Reddit,RDDT,US75734B1008,NYSE,Servizi di comunicazione
+Regency Centers,REG,US7588491032,Nasdaq,Immobiliare
+Regeneron Pharmaceuticals,REGN,US75886F1075,Nasdaq,Sanità
+Regions Financial Corporation,RF,US7591EP1005,NYSE,Finanza
+Republic Services,RSG,US7607591002,NYSE,Industria
+ResMed,RMD,US7611521078,NYSE,Sanità
+Revvity,RVTY,US7140461093,NYSE,Sanità
+Robinhood Markets,HOOD,US7707001027,Nasdaq,Finanza
+Rockwell Automation,ROK,US7739031091,NYSE,Industria
+Rollins Inc.,ROL,US7757111049,NYSE,Industria
+Roper Technologies,ROP,US7766961061,Nasdaq,Tecnologia dell'informazione
+Ross Stores,ROST,US7782961038,Nasdaq,Beni di consumo voluttuari
+Royal Caribbean Group,RCL,LR0008862868,NYSE,Beni di consumo voluttuari
+RTX Corporation,RTX,US75513E1010,NYSE,Industria
+S&P Global,SPGI,US78409V1044,NYSE,Finanza
+Salesforce,CRM,US79466L3024,NYSE,Tecnologia dell'informazione
+Sandisk,SNDK,US80004C2008,Nasdaq,Tecnologia dell'informazione
+SBA Communications,SBAC,US78410G1040,Nasdaq,Immobiliare
+Schlumberger,SLB,AN8068571086,NYSE,Energia
+Seagate Technology,STX,IE00BKVD2N49,Nasdaq,Tecnologia dell'informazione
+Sempra,SRE,US8168511090,NYSE,Servizi di pubblica utilità
+ServiceNow,NOW,US81762P1021,NYSE,Tecnologia dell'informazione
+Sherwin-Williams,SHW,US8243481061,NYSE,Materiali
+Simon Property Group,SPG,US8288061091,NYSE,Immobiliare
+Skydance Corporation,SKYD,US69932A2042,NYSE,Servizi di comunicazione
+Skyworks Solutions,SWKS,US83088M1027,Nasdaq,Tecnologia dell'informazione
+Smurfit Westrock,SW,IE00028FXN24,NYSE,Materiali
+Snap-on,SNA,US8330341012,NYSE,Industria
+Solventum,SOLV,US83444M1018,NYSE,Sanità
+Southern Company,SO,US8425871071,NYSE,Servizi di pubblica utilità
+Southwest Airlines,LUV,US8447411088,NYSE,Industria
+Stanley Black & Decker,SWK,US8545021011,NYSE,Industria
+Starbucks,SBUX,US8552441094,Nasdaq,Beni di consumo voluttuari
+State Street Corporation,STT,US8574771031,NYSE,Finanza
+Steel Dynamics,STLD,US8581191009,Nasdaq,Materiali
+Steris,STE,IE00BFY8C754,NYSE,Sanità
+Stryker Corporation,SYK,US8636671013,NYSE,Sanità
+Supermicro,SMCI,US86800U3023,Nasdaq,Tecnologia dell'informazione
+Synchrony Financial,SYF,US87165B1035,NYSE,Finanza
+Synopsys,SNPS,US8716071076,Nasdaq,Tecnologia dell'informazione
+Sysco,SYY,US8718291078,NYSE,Beni di consumo di prima necessità
+T-Mobile US,TMUS,US8725901040,Nasdaq,Servizi di comunicazione
+T. Rowe Price,TROW,US74144T1088,Nasdaq,Finanza
+Take-Two Interactive,TTWO,US8740541094,Nasdaq,Servizi di comunicazione
+Tapestry Inc.,TPR,US8760301072,NYSE,Beni di consumo voluttuari
+Targa Resources,TRGP,US87612G1013,NYSE,Energia
+Target Corporation,TGT,US87612E1064,NYSE,Beni di consumo di prima necessità
+TE Connectivity,TEL,IE000IVNQZ81,NYSE,Tecnologia dell'informazione
+Teledyne Technologies,TDY,US8793601050,NYSE,Tecnologia dell'informazione
+Teradyne,TER,US8807701029,Nasdaq,Tecnologia dell'informazione
+Tesla Inc.,TSLA,US88160R1014,Nasdaq,Beni di consumo voluttuari
+Texas Instruments,TXN,US8825081040,Nasdaq,Tecnologia dell'informazione
+Texas Pacific Land Corporation,TPL,US88262P1021,NYSE,Energia
+Textron,TXT,US8832031012,NYSE,Industria
+The Coca-Cola Company,KO,US1912161007,NYSE,Beni di consumo di prima necessità
+The Cooper Companies,COO,US2166485019,Nasdaq,Sanità
+The Estée Lauder Companies,EL,US5184391044,NYSE,Beni di consumo di prima necessità
+The Hartford,HIG,US4165151048,NYSE,Finanza
+The Hershey Company,HSY,US4278661081,NYSE,Beni di consumo di prima necessità
+The Home Depot,HD,US4370761029,NYSE,Beni di consumo voluttuari
+The J.M. Smucker Company,SJM,US8326964058,NYSE,Beni di consumo di prima necessità
+The Mosaic Company,MOS,US61945C1036,NYSE,Materiali
+The Travelers Companies,TRV,US89417E1091,NYSE,Finanza
+The Walt Disney Company,DIS,US2546871060,NYSE,Servizi di comunicazione
+Thermo Fisher Scientific,TMO,US8835561023,NYSE,Sanità
+TJX Companies,TJX,US8725401090,NYSE,Beni di consumo voluttuari
+TKO Group Holdings,TKO,US87256C1018,NYSE,Servizi di comunicazione
+Tractor Supply,TSCO,US8923561067,Nasdaq,Beni di consumo voluttuari
+Trane Technologies,TT,IE00BK9ZQ967,NYSE,Industria
+TransDigm Group,TDG,US8936411003,NYSE,Industria
+Trimble Inc.,TRMB,US8962391004,Nasdaq,Tecnologia dell'informazione
+Truist Financial,TFC,US89832Q1094,NYSE,Finanza
+Twilio,TWLO,US90138F1021,NYSE,Tecnologia dell'informazione
+Tyler Technologies,TYL,US9022521051,NYSE,Tecnologia dell'informazione
+Tyson Foods,TSN,US9024941034,NYSE,Beni di consumo di prima necessità
+U.S. Bancorp,USB,US9029733048,NYSE,Finanza
+Uber,UBER,US90353T1007,NYSE,Industria
+UDR Inc.,UDR,US9026531049,NYSE,Immobiliare
+Ulta Beauty,ULTA,US90384S3031,Nasdaq,Beni di consumo voluttuari
+Union Pacific Corporation,UNP,US9078181081,NYSE,Industria
+United Airlines Holdings,UAL,US9100471096,Nasdaq,Industria
+United Parcel Service,UPS,US9113121068,NYSE,Industria
+United Rentals,URI,US9113631090,NYSE,Industria
+UnitedHealth Group,UNH,US91324P1021,NYSE,Sanità
+Universal Health Services,UHS,US9139031002,NYSE,Sanità
+Valero Energy,VLO,US91913Y1001,NYSE,Energia
+Veeva Systems,VEEV,US9224751084,NYSE,Sanità
+Ventas,VTR,US92276F1003,NYSE,Immobiliare
+Veralto,VLTO,US92338C1036,NYSE,Industria
+Verisign,VRSN,US92343E1029,Nasdaq,Tecnologia dell'informazione
+Verisk Analytics,VRSK,US92345Y1064,Nasdaq,Industria
+Verizon,VZ,US92343V1044,NYSE,Servizi di comunicazione
+Vertex Pharmaceuticals,VRTX,US92532F1003,Nasdaq,Sanità
+Vertiv,VRT,US92537N1081,NYSE,Industria
+Viatris,VTRS,US92556V1061,Nasdaq,Sanità
+Vici Properties,VICI,US9256521090,NYSE,Immobiliare
+Visa Inc.,V,US92826C8394,NYSE,Finanza
+Vistra Corp,VST,US92840M1027,NYSE,Servizi di pubblica utilità
+Vivmark Residential,VMRK,US29476L1070,NYSE,Immobiliare
+Vulcan Materials Company,VMC,US9291601097,NYSE,Materiali
+Vylor,VYLR,US92892R1086,NYSE,Beni di consumo di prima necessità
+W. R. Berkley Corporation,WRB,US0844231029,NYSE,Finanza
+W. W. Grainger,GWW,US3848021040,NYSE,Industria
+Wabtec,WAB,US9297401088,NYSE,Industria
+Walmart,WMT,US9311421039,Nasdaq,Beni di consumo di prima necessità
+Waste Management,WM,US94106L1098,NYSE,Industria
+Waters Corporation,WAT,US9418481035,NYSE,Sanità
+WEC Energy Group,WEC,US92939U1060,NYSE,Servizi di pubblica utilità
+Wells Fargo,WFC,US9497461015,NYSE,Finanza
+Welltower,WELL,US95040Q1040,NYSE,Immobiliare
+West Pharmaceutical Services,WST,US9553061055,NYSE,Sanità
+Western Digital,WDC,US9581021055,Nasdaq,Tecnologia dell'informazione
+Weyerhaeuser,WY,US9621661043,NYSE,Immobiliare
+Williams Companies,WMB,US9694571004,NYSE,Energia
+Williams-Sonoma Inc.,WSM,US9699041011,NYSE,Beni di consumo voluttuari
+Willis Towers Watson,WTW,IE00BDB6Q211,Nasdaq,Finanza
+Workday Inc.,WDAY,US98138H1014,Nasdaq,Tecnologia dell'informazione
+Wynn Resorts,WYNN,US9831341071,Nasdaq,Beni di consumo voluttuari
+Xcel Energy,XEL,US98389B1008,Nasdaq,Servizi di pubblica utilità
+Xylem Inc.,XYL,US98419M1009,NYSE,Industria
+Yum! Brands,YUM,US9884981013,NYSE,Beni di consumo voluttuari
+Zebra Technologies,ZBRA,US9892071054,Nasdaq,Tecnologia dell'informazione
+Zimmer Biomet,ZBH,US98956P1021,NYSE,Sanità
+Zoetis,ZTS,US98978V1035,NYSE,Sanità
+Ripartizione per settore
