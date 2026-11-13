@@ -1042,21 +1042,38 @@ def _single_series(values: pd.Series | pd.DataFrame) -> pd.Series:
 def _holding_period_metrics(
     orders: pd.DataFrame, close: pd.DataFrame
 ) -> dict[str, float | int]:
-    """Measure FIFO-matched sale portions and completed flat-to-flat positions."""
+    """Measure completed sale portions and remaining FIFO lots.
+
+    The unweighted mean treats each FIFO-matched sale portion equally. The
+    weighted mean weights each portion by its sold quantity. Open lots are
+    excluded from both completed holding-period measures.
+    """
     if orders.empty:
         return {
             "Completed Trade Lots": 0,
             "Average Holding Period (sessions)": 0.0,
             "Median Holding Period (sessions)": 0.0,
+            "Weighted Average Holding Period (sessions)": 0.0,
             "Completed Positions": 0,
             "Average Position Duration (sessions)": 0.0,
+            "Open Lots": 0,
+            "Open Positions": 0,
+            "Average Open Position Duration (sessions)": 0.0,
         }
 
     lot_durations = []
+    weighted_duration_sum = 0.0
+    sold_quantity = 0.0
     position_durations = []
+    open_lot_count = 0
+    open_position_durations = []
     ordered = orders.sort_values(["Timestamp", "Order Id"], kind="mergesort")
     for instrument, instrument_orders in ordered.groupby("Column", sort=False):
         observed_dates = close.index[close[instrument].notna()]
+        if observed_dates.empty:
+            raise ValueError(
+                f"Orders exist for {instrument}, but no observed close prices exist."
+            )
         lots = []
         position_entry = None
         for order in instrument_orders.itertuples(index=False):
@@ -1078,7 +1095,10 @@ def _holding_period_metrics(
                 matched = min(remaining, lot_quantity)
                 entry_session = observed_dates.searchsorted(lot_entry)
                 exit_session = observed_dates.searchsorted(timestamp)
-                lot_durations.append(max(0, int(exit_session - entry_session)))
+                duration = max(0, int(exit_session - entry_session))
+                lot_durations.append(duration)
+                weighted_duration_sum += duration * matched
+                sold_quantity += matched
                 remaining -= matched
                 lot_quantity -= matched
                 if lot_quantity <= 1e-10:
@@ -1086,11 +1106,23 @@ def _holding_period_metrics(
                 else:
                     lots[0][1] = lot_quantity
 
+            if remaining > 1e-10:
+                raise ValueError(
+                    f"Sell order for {instrument} at {timestamp} exceeds open "
+                    f"FIFO lots by {remaining:.12g} shares."
+                )
+
             if not lots and position_entry is not None:
                 entry_session = observed_dates.searchsorted(position_entry)
                 exit_session = observed_dates.searchsorted(timestamp)
                 position_durations.append(max(0, int(exit_session - entry_session)))
                 position_entry = None
+
+        if lots:
+            open_lot_count += len(lots)
+            last_session = len(observed_dates) - 1
+            entry_session = observed_dates.searchsorted(position_entry)
+            open_position_durations.append(max(0, int(last_session - entry_session)))
 
     return {
         "Completed Trade Lots": len(lot_durations),
@@ -1100,10 +1132,18 @@ def _holding_period_metrics(
         "Median Holding Period (sessions)": float(np.median(lot_durations))
         if lot_durations
         else 0.0,
+        "Weighted Average Holding Period (sessions)": (
+            weighted_duration_sum / sold_quantity if sold_quantity else 0.0
+        ),
         "Completed Positions": len(position_durations),
         "Average Position Duration (sessions)": float(np.mean(position_durations))
         if position_durations
         else 0.0,
+        "Open Lots": open_lot_count,
+        "Open Positions": len(open_position_durations),
+        "Average Open Position Duration (sessions)": (
+            float(np.mean(open_position_durations)) if open_position_durations else 0.0
+        ),
     }
 
 
@@ -1111,8 +1151,9 @@ def _turnover_metrics(orders: pd.DataFrame, values: pd.Series) -> dict[str, floa
     """Return purchase-only and purchase-plus-sale turnover ratios.
 
     Order volume is absolute filled shares times fill price. Period ratios divide
-    by average daily portfolio value. Annualized ratios divide those ratios by
-    observed sessions / 252; calendar-year fields use that year's observations.
+    by average daily portfolio value. One-sided is buy volume / average portfolio
+    value; two-sided is (buy + sell volume) / average portfolio value. Annualized
+    ratios divide period ratios by observed sessions / 252.
     """
     mean_value = float(values.mean()) if not values.empty else 0.0
     if not np.isfinite(mean_value) or mean_value <= 0:
@@ -1161,10 +1202,10 @@ def _turnover_metrics(orders: pd.DataFrame, values: pd.Series) -> dict[str, floa
             if not year_orders.empty
             else 0.0
         )
-        metrics[f"One-sided Turnover {year}"] = (
+        metrics[f"Annualized One-sided Turnover {year}"] = (
             year_buys / year_mean_value / year_fraction if year_mean_value else 0.0
         )
-        metrics[f"Two-sided Turnover {year}"] = (
+        metrics[f"Annualized Two-sided Turnover {year}"] = (
             (year_buys + year_sells) / year_mean_value / year_fraction
             if year_mean_value
             else 0.0

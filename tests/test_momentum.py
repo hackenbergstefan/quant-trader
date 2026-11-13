@@ -386,8 +386,8 @@ def test_turnover_metrics_full_five_position_replacement_and_annualization():
     assert metrics["Two-sided Turnover"] == pytest.approx(3.0)
     assert metrics["Annualized One-sided Turnover"] == pytest.approx(4.0)
     assert metrics["Annualized Two-sided Turnover"] == pytest.approx(6.0)
-    assert metrics["One-sided Turnover 2024"] == pytest.approx(4.0)
-    assert metrics["Two-sided Turnover 2024"] == pytest.approx(6.0)
+    assert metrics["Annualized One-sided Turnover 2024"] == pytest.approx(4.0)
+    assert metrics["Annualized Two-sided Turnover 2024"] == pytest.approx(6.0)
 
 
 def test_execution_costs_separate_recorded_fees_and_slippage():
@@ -447,8 +447,70 @@ def test_holding_period_fifo_handles_additions_and_partial_sales():
     assert metrics["Completed Trade Lots"] == 3
     assert metrics["Average Holding Period (sessions)"] == pytest.approx(3.0)
     assert metrics["Median Holding Period (sessions)"] == pytest.approx(3.0)
+    assert metrics["Weighted Average Holding Period (sessions)"] == pytest.approx(2.6)
     assert metrics["Completed Positions"] == 1
     assert metrics["Average Position Duration (sessions)"] == 4
+    assert metrics["Open Lots"] == 0
+    assert metrics["Open Positions"] == 0
+
+
+def test_holding_period_unweighted_and_weighted_for_unequal_sale_quantities():
+    dates = pd.bdate_range("2024-01-02", periods=6)
+    close = pd.DataFrame({"A": [10.0] * len(dates)}, index=dates)
+    orders = pd.DataFrame(
+        [
+            (0, "A", dates[0], 1.0, 10.0, 0.0, "Buy"),
+            (1, "A", dates[1], 9.0, 10.0, 0.0, "Buy"),
+            (2, "A", dates[4], 5.0, 10.0, 0.0, "Sell"),
+            (3, "A", dates[5], 5.0, 10.0, 0.0, "Sell"),
+        ],
+        columns=["Order Id", "Column", "Timestamp", "Size", "Price", "Fees", "Side"],
+    )
+
+    metrics = _holding_period_metrics(orders, close)
+
+    assert metrics["Completed Trade Lots"] == 3
+    assert metrics["Average Holding Period (sessions)"] == pytest.approx(11 / 3)
+    assert metrics["Median Holding Period (sessions)"] == pytest.approx(4.0)
+    assert metrics["Weighted Average Holding Period (sessions)"] == pytest.approx(3.6)
+
+
+def test_holding_period_reports_open_lots_and_excludes_them_from_completed_mean():
+    dates = pd.bdate_range("2024-01-02", periods=6)
+    close = pd.DataFrame({"A": [10.0] * 6, "B": [20.0] * 6}, index=dates)
+    orders = pd.DataFrame(
+        [
+            (0, "A", dates[0], 10.0, 10.0, 0.0, "Buy"),
+            (1, "A", dates[1], 4.0, 10.0, 0.0, "Sell"),
+            (2, "A", dates[2], 3.0, 10.0, 0.0, "Buy"),
+            (3, "B", dates[2], 4.0, 20.0, 0.0, "Buy"),
+        ],
+        columns=["Order Id", "Column", "Timestamp", "Size", "Price", "Fees", "Side"],
+    )
+
+    metrics = _holding_period_metrics(orders, close)
+
+    assert metrics["Completed Trade Lots"] == 1
+    assert metrics["Average Holding Period (sessions)"] == 1
+    assert metrics["Weighted Average Holding Period (sessions)"] == 1
+    assert metrics["Open Lots"] == 3
+    assert metrics["Open Positions"] == 2
+    assert metrics["Average Open Position Duration (sessions)"] == 4
+
+
+def test_holding_period_rejects_sell_quantity_above_open_fifo_lots():
+    dates = pd.bdate_range("2024-01-02", periods=3)
+    close = pd.DataFrame({"A": [10.0] * len(dates)}, index=dates)
+    orders = pd.DataFrame(
+        [
+            (0, "A", dates[0], 2.0, 10.0, 0.0, "Buy"),
+            (1, "A", dates[1], 3.0, 10.0, 0.0, "Sell"),
+        ],
+        columns=["Order Id", "Column", "Timestamp", "Size", "Price", "Fees", "Side"],
+    )
+
+    with pytest.raises(ValueError, match="exceeds open FIFO lots"):
+        _holding_period_metrics(orders, close)
 
 
 def test_liquidity_filter_preserves_75_percent_observation_threshold():
@@ -789,7 +851,11 @@ def test_all_variants_run_identically_scheduled_vectorbt_engine(caplog):
         "Number of Trades",
         "Average Holding Period (sessions)",
         "Median Holding Period (sessions)",
+        "Weighted Average Holding Period (sessions)",
         "Average Position Duration (sessions)",
+        "Open Lots",
+        "Open Positions",
+        "Average Open Position Duration (sessions)",
         "Average Exposure",
         "Maximum Exposure",
         "Cash Allocation",
@@ -872,9 +938,10 @@ def test_variant_net_and_gross_reuse_prepared_backtest_inputs(monkeypatch):
     gross_orders = gross_result.orders.records_readable
     assert net_orders["Fees"].sum() > 0
     assert gross_orders["Fees"].sum() == 0
-    pd.testing.assert_series_equal(
-        net_orders["Timestamp"].reset_index(drop=True),
-        gross_orders["Timestamp"].reset_index(drop=True),
+    identity_columns = ["Timestamp", "Column", "Side"]
+    pd.testing.assert_frame_equal(
+        net_orders[identity_columns].reset_index(drop=True),
+        gross_orders[identity_columns].reset_index(drop=True),
     )
     assert result["Transaction Fees"] == pytest.approx(net_orders["Fees"].sum())
     assert result["Slippage Costs"] > 0

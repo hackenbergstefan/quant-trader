@@ -108,7 +108,11 @@ def main() -> None:
         "Annualized Two-sided Turnover",
         "Average Holding Period (sessions)",
         "Median Holding Period (sessions)",
+        "Weighted Average Holding Period (sessions)",
         "Average Position Duration (sessions)",
+        "Open Lots",
+        "Open Positions",
+        "Average Open Position Duration (sessions)",
         "Annual Portfolio Turnover",
         "Average Exposure",
         "Maximum Exposure",
@@ -118,7 +122,12 @@ def main() -> None:
         sorted(
             column
             for column in results.columns
-            if column.startswith(("One-sided Turnover 20", "Two-sided Turnover 20"))
+            if column.startswith(
+                (
+                    "Annualized One-sided Turnover 20",
+                    "Annualized Two-sided Turnover 20",
+                )
+            )
         )
     )
     print("\nVariantenvergleich (identische Daten, Zeitraum, Kosten und Config):")
