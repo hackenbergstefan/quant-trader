@@ -811,7 +811,9 @@ def _backtest(
         volatility=volatility,
         execution_prices=execution_prices,
     )
-    execution_prices = execution_prices.reindex(index=prices.index)
+    execution_prices = execution_prices.reindex(
+        index=prices.index, columns=prices.columns
+    )
     return _build_vectorbt_portfolio(prices, execution_prices, weights, broker)
 
 

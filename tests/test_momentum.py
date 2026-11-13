@@ -174,6 +174,29 @@ def test_backtest_uses_open_after_signal_and_future_data_cannot_change_signal():
     )
 
 
+def test_backtest_aligns_open_columns_after_dropping_empty_period_columns():
+    close = _price_panel(320)
+    dates = close.index
+    start_date = str(dates[220].date())
+    end_date = str(dates[-1].date())
+    close.loc[start_date:end_date, "OTHER"] = np.nan
+    open_prices = close * 0.99
+
+    result = _backtest(
+        close,
+        None,
+        BrokerConfig(),
+        start_date,
+        end_date,
+        MomentumConfig(topn=2, min_avg_daily_turnover=0),
+        open_prices=open_prices,
+        variant="A",
+    )
+
+    assert "OTHER" not in result.wrapper.columns
+    assert result.wrapper.columns.equals(close.columns[:2])
+
+
 def test_missing_exchange_session_breaks_complete_momentum_lookback():
     dates = pd.bdate_range("2020-01-02", periods=230)
     close = pd.DataFrame({"US": np.linspace(100, 200, len(dates))}, index=dates)
