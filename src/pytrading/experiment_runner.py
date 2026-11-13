@@ -37,9 +37,8 @@ def default_experiment_config() -> MomentumConfig:
         momentum_20_weight=0.2,
         momentum_60_weight=0.3,
         momentum_120_weight=0.5,
-        rebalance_frequency="weekly",
+        rebalance_frequency="monthly",
         max_position_weight=0.2,
-        position_sizing="inverse_volatility",
     )
 
 
@@ -67,44 +66,24 @@ def build_experiment_matrix(
     base_config = base_config or default_experiment_config()
     return (
         ExperimentSpec(
-            "ABC-W5",
-            StrategyVariant.ABC,
-            replace(
-                base_config,
-                topn=5,
-                rebalance_frequency="weekly",
-                position_sizing="inverse_volatility",
-            ),
+            "AB-M5",
+            StrategyVariant.AB,
+            replace(base_config, topn=5, rebalance_frequency="monthly"),
         ),
         ExperimentSpec(
             "ABC-M5",
             StrategyVariant.ABC,
-            replace(
-                base_config,
-                topn=5,
-                rebalance_frequency="monthly",
-                position_sizing="inverse_volatility",
-            ),
-        ),
-        ExperimentSpec(
-            "ABC-M10",
-            StrategyVariant.ABC,
-            replace(
-                base_config,
-                topn=10,
-                rebalance_frequency="monthly",
-                position_sizing="inverse_volatility",
-            ),
+            replace(base_config, topn=5, rebalance_frequency="monthly"),
         ),
         ExperimentSpec(
             "AB-M10",
             StrategyVariant.AB,
-            replace(
-                base_config,
-                topn=10,
-                rebalance_frequency="monthly",
-                position_sizing="equal",
-            ),
+            replace(base_config, topn=10, rebalance_frequency="monthly"),
+        ),
+        ExperimentSpec(
+            "ABC-M10",
+            StrategyVariant.ABC,
+            replace(base_config, topn=10, rebalance_frequency="monthly"),
         ),
     )
 
@@ -117,7 +96,13 @@ def load_experiment_config(
         ExperimentSpec(
             experiment_id=item["experiment_id"],
             variant=StrategyVariant(item["signals"]),
-            config=MomentumConfig(**item["config"]),
+            config=MomentumConfig(
+                **{
+                    key: value
+                    for key, value in item["config"].items()
+                    if key != "position_sizing"
+                }
+            ),
         )
         for item in archived["variants"]
     )
@@ -255,6 +240,40 @@ def _write_plots(
         )
         figure.write_html(output_dir / filename, include_plotlyjs="directory")
         plot_files.append(filename)
+
+    position_figure = go.Figure()
+    for row in successful:
+        for key, label, dash in (
+            ("_Position Weight Average", "average", "solid"),
+            ("_Position Weight Maximum", "maximum", "dot"),
+        ):
+            series = row.get(key)
+            if isinstance(series, pd.Series):
+                position_figure.add_trace(
+                    go.Scatter(
+                        x=series.index,
+                        y=series,
+                        name=f"{row['Experiment ID']} {label}",
+                        line={"dash": dash},
+                    )
+                )
+    position_cap = float(successful[0].get("max_position_weight", 0.2))
+    position_figure.add_hline(
+        y=position_cap,
+        line_dash="dash",
+        annotation_text=f"Target cap {position_cap:.0%}",
+    )
+    position_figure.update_layout(
+        title="Daily Average and Largest Position Weights",
+        xaxis_title="Date",
+        yaxis_title="Share of net portfolio value",
+        hovermode="x unified",
+        template="plotly_white",
+    )
+    position_figure.write_html(
+        output_dir / "position_weights.html", include_plotlyjs="directory"
+    )
+    plot_files.append("position_weights.html")
     return plot_files
 
 
@@ -286,22 +305,48 @@ def _interpret_results(results: list[dict[str, Any]]) -> list[str]:
         )
 
     by_id = {row["Experiment ID"]: row for row in successful}
-    weekly, monthly = by_id.get("ABC-W5"), by_id.get("ABC-M5")
-    if weekly and monthly:
-        lines.append(
-            "Monthly vs weekly ABC-W5 net return difference: "
-            f"{(monthly['Net Total Return'] - weekly['Net Total Return']) * 100:+.2f} "
-            "percentage points; "
-            "compare Sharpe, drawdown, turnover and costs alongside return."
+
+    def delta(
+        first: dict[str, Any],
+        second: dict[str, Any],
+        key: str,
+        *,
+        scale: float = 1.0,
+        suffix: str = "",
+    ) -> str:
+        first_value, second_value = first.get(key), second.get(key)
+        if not pd.notna(first_value) or not pd.notna(second_value):
+            return "n/a"
+        return f"{(float(second_value) - float(first_value)) * scale:+.2f}{suffix}"
+
+    for topn in (5, 10):
+        equal_weighted = by_id.get(f"AB-M{topn}")
+        inverse_volatility = by_id.get(f"ABC-M{topn}")
+        if equal_weighted and inverse_volatility:
+            lines.append(
+                f"Signal C at Top {topn} (ABC-M{topn} vs AB-M{topn}): "
+                f"net return change {delta(equal_weighted, inverse_volatility, 'Net Total Return', scale=100, suffix=' pp')}; "
+                f"Sharpe change {delta(equal_weighted, inverse_volatility, 'Sharpe')}; "
+                f"realized portfolio volatility change {delta(equal_weighted, inverse_volatility, 'Average Realized Volatility', scale=100, suffix=' pp')}; "
+                f"weight-weighted constituent volatility change {delta(equal_weighted, inverse_volatility, 'Weighted Average Portfolio Volatility', scale=100, suffix=' pp')}; "
+                f"annualized turnover change {delta(equal_weighted, inverse_volatility, 'Annualized Two-sided Turnover', suffix='x')}; "
+                f"transaction cost change {delta(equal_weighted, inverse_volatility, 'Transaction Costs', suffix=' EUR')}."
+            )
+
+    for signal_prefix in ("AB", "ABC"):
+        top5, top10 = (
+            by_id.get(f"{signal_prefix}-M5"),
+            by_id.get(f"{signal_prefix}-M10"),
         )
-    top5, top10 = by_id.get("ABC-M5"), by_id.get("ABC-M10")
-    if top5 and top10:
-        lines.append(
-            "ABC-M10 vs ABC-M5: net return difference "
-            f"{(top10['Net Total Return'] - top5['Net Total Return']) * 100:+.2f} "
-            "percentage points, "
-            "with Sharpe and risk metrics reported separately."
-        )
+        if top5 and top10:
+            lines.append(
+                f"Top 10 vs Top 5 for {signal_prefix}: "
+                f"net return change {delta(top5, top10, 'Net Total Return', scale=100, suffix=' pp')}; "
+                f"Sharpe change {delta(top5, top10, 'Sharpe')}; "
+                f"maximum drawdown change {delta(top5, top10, 'Maximum Drawdown', scale=100, suffix=' pp')}; "
+                f"annualized turnover change {delta(top5, top10, 'Annualized Two-sided Turnover', suffix='x')}; "
+                f"transaction cost change {delta(top5, top10, 'Transaction Costs', suffix=' EUR')}."
+            )
     failures = [row for row in results if row.get("Status") != "success"]
     if failures:
         lines.append(
@@ -324,10 +369,18 @@ def run_comparison(
         "broker": asdict(portfolio.broker),
         "currency": "EUR",
         "signal_d": "excluded",
+        "signal_c_semantics": (
+            "Signal C alone enables inverse-volatility weighting using equal "
+            "parts realized volatility over 20 and 60 sessions; without C, "
+            "selected positions are equal weighted."
+        ),
         "variants": [
             {
                 "experiment_id": spec.experiment_id,
                 "signals": spec.variant.value,
+                "weighting": (
+                    "inverse_volatility" if "C" in spec.variant.value else "equal"
+                ),
                 "config": asdict(spec.config),
             }
             for spec in specs

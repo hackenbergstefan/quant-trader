@@ -37,7 +37,6 @@ class MomentumConfig:
     momentum_120_weight: float = 1 / 3
     rebalance_frequency: str = "monthly"
     max_position_weight: float = 0.2
-    position_sizing: str = "inverse_volatility"
     bullish_exposure: float = 1.0
     neutral_exposure: float = 0.5
     bearish_exposure: float = 0.0
@@ -60,10 +59,6 @@ class MomentumConfig:
             raise ValueError("Rebalance-Frequenz muss 'weekly' oder 'monthly' sein.")
         if not 0 < self.max_position_weight <= 1:
             raise ValueError("Maximales Positionsgewicht muss in (0, 1] liegen.")
-        if self.position_sizing not in {"equal", "inverse_volatility"}:
-            raise ValueError(
-                "Positionsgewichtung muss 'equal' oder 'inverse_volatility' sein."
-            )
         exposures = (
             self.bullish_exposure,
             self.neutral_exposure,
@@ -557,6 +552,8 @@ def _portfolio_weights(
         dtype=float,
     )
     metadata = metadata or {}
+    if "C" in signals and volatility is None:
+        raise ValueError("Signal C benötigt Volatilitätsdaten für die Gewichtung.")
     execution_prices = close if execution_prices is None else execution_prices
     regions = {
         column: _region_for_country((metadata.get(column) or {}).get("country"))
@@ -599,27 +596,22 @@ def _portfolio_weights(
                 liquid.loc[signal_date].reindex(candidates.index).fillna(False)
             ]
 
-        if "C" in signals and volatility is not None:
+        if "C" in signals:
             vol_at_signal = volatility.loc[signal_date]
             valid_volatility = vol_at_signal.reindex(candidates.index).notna()
-            if config.position_sizing == "inverse_volatility":
-                valid_volatility &= vol_at_signal.reindex(candidates.index).gt(0)
+            valid_volatility &= vol_at_signal.reindex(candidates.index).gt(0)
             candidates = candidates[valid_volatility]
         selected = candidates.head(config.topn).index
         target_weights = pd.Series(0.0, index=close.columns)
         if not selected.empty:
-            if "C" in signals and config.position_sizing == "inverse_volatility":
+            if "C" in signals:
                 selected_volatility = volatility.loc[signal_date].reindex(selected)
                 selected_weights = _inverse_volatility_weights(
                     selected_volatility, config.max_position_weight
                 )
-            elif "C" in signals:
+            else:
                 selected_weights = _capped_weights(
                     pd.Series(1.0, index=selected), config.max_position_weight
-                )
-            else:
-                selected_weights = pd.Series(
-                    1 / len(selected), index=selected, dtype=float
                 )
             target_weights.loc[selected_weights.index] = selected_weights
 
@@ -809,7 +801,7 @@ def _prepare_backtest_inputs(
     variant: StrategyVariant | str | None = None,
     metadata: Mapping[str, Mapping[str, str | None]] | None = None,
     benchmarks: Mapping[str, pd.Series] | None = None,
-) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
+) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     close = close.loc[:, ~close.columns.duplicated(keep="first")]
     open_prices = close if open_prices is None else open_prices
     open_prices = open_prices.loc[:, ~open_prices.columns.duplicated(keep="first")]
@@ -826,7 +818,7 @@ def _prepare_backtest_inputs(
     momentum_scores = _momentum_scores(
         close, momentum, metadata, eligibility=trend_eligibility
     )
-    volatility = _realized_volatility(close, metadata) if "C" in signals else None
+    volatility = _realized_volatility(close, metadata)
     weights = _portfolio_weights(
         close,
         prices,
@@ -842,7 +834,7 @@ def _prepare_backtest_inputs(
     execution_prices = execution_prices.reindex(
         index=prices.index, columns=prices.columns
     )
-    return prices, execution_prices, weights
+    return prices, execution_prices, weights, volatility
 
 
 def _backtest(
@@ -858,7 +850,7 @@ def _backtest(
     metadata: Mapping[str, Mapping[str, str | None]] | None = None,
     benchmarks: Mapping[str, pd.Series] | None = None,
 ):
-    prices, execution_prices, weights = _prepare_backtest_inputs(
+    prices, execution_prices, weights, _volatility = _prepare_backtest_inputs(
         close,
         turnover,
         start_date,
@@ -958,10 +950,7 @@ def signal_diagnostics(
             valid_volatility = signal_volatility.reindex(
                 signal_candidates.index
             ).notna()
-            if config.position_sizing == "inverse_volatility":
-                valid_volatility &= signal_volatility.reindex(
-                    signal_candidates.index
-                ).gt(0)
+            valid_volatility &= signal_volatility.reindex(signal_candidates.index).gt(0)
             signal_candidates = signal_candidates[valid_volatility]
         if liquid is not None:
             signal_candidates = signal_candidates[
@@ -1395,6 +1384,59 @@ def _variant_metrics(
     return metrics
 
 
+def _position_weight_metrics(
+    result,
+    close: pd.DataFrame,
+    volatility: pd.DataFrame,
+    max_position_weight: float,
+) -> tuple[dict[str, float], pd.Series, pd.Series]:
+    values = _single_series(result.value())
+    close_on_dates = close.reindex(index=values.index).ffill()
+    assets = (
+        result.assets().reindex(index=values.index, columns=close.columns).fillna(0)
+    )
+    position_values = assets.mul(close_on_dates).fillna(0).clip(lower=0)
+    position_weights = position_values.div(values.replace(0, np.nan), axis=0).fillna(0)
+    active = position_weights.gt(1e-10)
+    active_weights = position_weights.to_numpy()[active.to_numpy()]
+
+    vol_frame = volatility.reindex(index=values.index, columns=close.columns)
+    vol_values = vol_frame.to_numpy()[active.to_numpy()]
+    valid_volatility = np.isfinite(vol_values)
+    average_position_volatility = (
+        float(vol_values[valid_volatility].mean()) if valid_volatility.any() else np.nan
+    )
+
+    exposure = position_weights.sum(axis=1)
+    weighted_average_portfolio_volatility = (
+        position_weights.mul(vol_frame).sum(axis=1).div(exposure.replace(0, np.nan))
+    )
+    normalized_weights = position_weights.div(exposure.replace(0, np.nan), axis=0)
+    hhi = normalized_weights.pow(2).sum(axis=1).where(exposure.gt(0))
+    maximum_weight = position_weights.max(axis=1)
+    metrics = {
+        "Average Position Weight": float(active_weights.mean())
+        if active_weights.size
+        else 0.0,
+        "Median Position Weight": float(np.median(active_weights))
+        if active_weights.size
+        else 0.0,
+        "Largest Position Weight": float(active_weights.max())
+        if active_weights.size
+        else 0.0,
+        "Average Position Volatility": average_position_volatility,
+        "Weighted Average Portfolio Volatility": float(
+            weighted_average_portfolio_volatility.mean()
+        ),
+        "Weight Concentration HHI": float(hhi.mean()) if hhi.notna().any() else 0.0,
+        "Time at Position Limit": float(
+            maximum_weight.ge(max_position_weight - 1e-6).mean()
+        ),
+    }
+    average_weight = position_weights.where(active).mean(axis=1).fillna(0)
+    return metrics, average_weight, maximum_weight
+
+
 def _initialize_variant_worker(
     close: pd.DataFrame,
     open_prices: pd.DataFrame,
@@ -1439,7 +1481,7 @@ def run_variant_backtests(
     config: MomentumConfig,
     *,
     experiment_id: str | None = None,
-) -> tuple[object, object, pd.DataFrame, pd.DataFrame]:
+) -> tuple[object, object, pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     """Run net/gross with identical signal weights and execution dates."""
     variant = StrategyVariant(variant)
     variant_label = experiment_id or variant.value
@@ -1455,7 +1497,7 @@ def run_variant_backtests(
     )
     logger.info("[%s] Signal- und Orderplanung gestartet", variant_label)
     stage_started_at = perf_counter()
-    prices, execution_prices, weights = _prepare_backtest_inputs(
+    prices, execution_prices, weights, volatility = _prepare_backtest_inputs(
         close,
         portfolio.universe.turnover(),
         portfolio.start_date,
@@ -1491,7 +1533,7 @@ def run_variant_backtests(
         variant_label,
         perf_counter() - stage_started_at,
     )
-    return net_result, gross_result, execution_prices, weights
+    return net_result, gross_result, execution_prices, weights, volatility
 
 
 def _run_variant_case(
@@ -1504,8 +1546,16 @@ def _run_variant_case(
     config = config or _VARIANT_WORKER_CONFIG
     if portfolio is None or config is None:
         raise RuntimeError("Variant-Worker wurde nicht initialisiert.")
-    net_result, gross_result, execution_prices, _weights = run_variant_backtests(
-        portfolio, variant, config, experiment_id=experiment_id
+    net_result, gross_result, execution_prices, _weights, volatility = (
+        run_variant_backtests(portfolio, variant, config, experiment_id=experiment_id)
+    )
+    position_metrics, average_position_weight, maximum_position_weight = (
+        _position_weight_metrics(
+            net_result,
+            portfolio.universe.close(),
+            volatility,
+            config.max_position_weight,
+        )
     )
     row: dict[str, object] = {
         "Variant": variant.value,
@@ -1520,14 +1570,20 @@ def _run_variant_case(
         "Fixed Fees": portfolio.broker.fixed_fees,
         "Slippage": portfolio.broker.slippage,
         "Benchmarks Available": ",".join(sorted(portfolio.benchmarks)),
+        "position_sizing": (
+            "inverse_volatility" if "C" in VARIANT_SIGNALS[variant] else "equal"
+        ),
         **asdict(config),
         **_variant_metrics(
             net_result, gross_result, portfolio, config, execution_prices
         ),
+        **position_metrics,
     }
     if include_timeseries:
         row["_Net Equity"] = _single_series(net_result.value())
         row["_Gross Equity"] = _single_series(gross_result.value())
+        row["_Position Weight Average"] = average_position_weight
+        row["_Position Weight Maximum"] = maximum_position_weight
     return row
 
 
@@ -1632,6 +1688,11 @@ def run_experiment_cases(
                     "Experiment ID": experiment_id,
                     "Variant": variant.value,
                     "Signals": ",".join(sorted(VARIANT_SIGNALS[variant])),
+                    "position_sizing": (
+                        "inverse_volatility"
+                        if "C" in VARIANT_SIGNALS[variant]
+                        else "equal"
+                    ),
                     "Status": "error",
                     "Error": f"{type(exc).__name__}: {exc}",
                     **asdict(config),

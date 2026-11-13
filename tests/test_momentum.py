@@ -23,6 +23,7 @@ from pytrading.strategies.momentum import (
     _momentum_scores,
     _next_execution_date,
     _portfolio_weights,
+    _position_weight_metrics,
     _realized_volatility,
     _trend_filter,
     _turnover_metrics,
@@ -299,7 +300,30 @@ def test_inverse_volatility_weights_reapply_caps_and_keep_cash_when_needed():
     assert fewer.max() == pytest.approx(0.2)
 
 
-def test_variant_signal_sets_and_position_sizing_modes_are_explicit(monkeypatch):
+def test_position_weight_metrics_use_actual_positions_and_annualized_volatility():
+    dates = pd.bdate_range("2024-01-02", periods=3)
+    close = pd.DataFrame({"A": [100.0] * 3, "B": [50.0] * 3}, index=dates)
+    assets = pd.DataFrame({"A": [1.0, 2.0, 0.0], "B": [2.0, 1.0, 0.0]}, index=dates)
+    values = pd.Series(1000.0, index=dates)
+    volatility = pd.DataFrame({"A": [0.2, 0.4, 0.4], "B": [0.4, 0.2, 0.3]}, index=dates)
+    result = SimpleNamespace(value=lambda: values, assets=lambda: assets)
+
+    metrics, average_weight, maximum_weight = _position_weight_metrics(
+        result, close, volatility, max_position_weight=0.2
+    )
+
+    assert metrics["Average Position Weight"] == pytest.approx(0.1125)
+    assert metrics["Median Position Weight"] == pytest.approx(0.1)
+    assert metrics["Largest Position Weight"] == pytest.approx(0.2)
+    assert metrics["Average Position Volatility"] == pytest.approx(0.3)
+    assert metrics["Weighted Average Portfolio Volatility"] == pytest.approx(0.33)
+    assert metrics["Weight Concentration HHI"] == pytest.approx(0.59)
+    assert metrics["Time at Position Limit"] == pytest.approx(1 / 3)
+    assert average_weight.tolist() == pytest.approx([0.1, 0.125, 0.0])
+    assert maximum_weight.tolist() == pytest.approx([0.1, 0.2, 0.0])
+
+
+def test_signal_c_alone_controls_inverse_volatility_weighting(monkeypatch):
     assert VARIANT_SIGNALS == {
         StrategyVariant.A: frozenset("A"),
         StrategyVariant.AB: frozenset("AB"),
@@ -325,8 +349,7 @@ def test_variant_signal_sets_and_position_sizing_modes_are_explicit(monkeypatch)
         scores,
         None,
         config,
-        signals=VARIANT_SIGNALS[StrategyVariant.A],
-        volatility=volatility,
+        signals=VARIANT_SIGNALS[StrategyVariant.AB],
     )
     inverse_weights = _portfolio_weights(
         close,
@@ -344,6 +367,42 @@ def test_variant_signal_sets_and_position_sizing_modes_are_explicit(monkeypatch)
     assert inverse_weights.loc[dates[1]].to_dict() == pytest.approx(
         {"A": 4 / 7, "B": 2 / 7, "C": 1 / 7}
     )
+    with pytest.raises(ValueError, match="Signal C benötigt Volatilitätsdaten"):
+        _portfolio_weights(
+            close,
+            close,
+            scores,
+            None,
+            config,
+            signals=VARIANT_SIGNALS[StrategyVariant.ABC],
+        )
+
+
+def test_equal_weight_topn_respects_position_cap_and_keeps_remaining_cash(monkeypatch):
+    dates = pd.bdate_range("2024-01-02", periods=3)
+    close = pd.DataFrame(100.0, index=dates, columns=list("ABCDE"))
+    scores = pd.DataFrame(np.nan, index=dates, columns=close.columns)
+    scores.loc[dates[0]] = [5.0, 4.0, 3.0, 2.0, 1.0]
+    monkeypatch.setattr(
+        "pytrading.strategies.momentum._asset_execution_events",
+        lambda *_args, **_kwargs: {(dates[1], dates[0]): list(close.columns)},
+    )
+
+    weights = _portfolio_weights(
+        close,
+        close,
+        scores,
+        None,
+        MomentumConfig(topn=3, max_position_weight=0.2),
+        signals=VARIANT_SIGNALS[StrategyVariant.AB],
+    )
+
+    target = weights.loc[dates[1]].fillna(0)
+    assert target[target.gt(0)].to_dict() == pytest.approx(
+        {"A": 0.2, "B": 0.2, "C": 0.2}
+    )
+    assert target.sum() == pytest.approx(0.6)
+    assert target.max() <= 0.2
 
 
 def test_experiment_config_matches_requested_period_and_broker_setup():
@@ -352,8 +411,7 @@ def test_experiment_config_matches_requested_period_and_broker_setup():
 
     assert experiment["variant_experiment"] is variant_experiment
     assert config.topn == 5
-    assert config.rebalance_frequency == "weekly"
-    assert config.position_sizing == "inverse_volatility"
+    assert config.rebalance_frequency == "monthly"
     assert experiment["START_DATE"] == "2010-01-01"
     assert experiment["END_DATE"] == "2017-01-01"
     assert experiment["_experiment_broker_config"]() == BrokerConfig(
@@ -616,6 +674,7 @@ def test_neutral_regime_caps_regional_exposure_without_refilling():
         topn=2,
         rebalance_frequency="weekly",
         neutral_exposure=0.25,
+        max_position_weight=1.0,
     )
     metadata = {
         "USA": {"country": "United States"},
@@ -676,7 +735,6 @@ def test_asynchronous_region_rotation_stages_buys_after_sells():
     initial = pd.Series({"EUROPE": 0.4, "USA": 0.4})
     config = MomentumConfig(
         topn=2,
-        position_sizing="inverse_volatility",
         max_position_weight=1.0,
         bullish_exposure=0.5,
     )
@@ -733,7 +791,6 @@ def test_pending_orders_survive_overlapping_weekly_rebalances(monkeypatch):
     config = MomentumConfig(
         topn=2,
         rebalance_frequency="weekly",
-        position_sizing="inverse_volatility",
         max_position_weight=1.0,
     )
 
@@ -794,7 +851,6 @@ def test_new_weekly_signal_replaces_or_cancels_pending_orders(
     config = MomentumConfig(
         topn=2,
         rebalance_frequency="weekly",
-        position_sizing="inverse_volatility",
         max_position_weight=1.0,
     )
 
@@ -851,6 +907,13 @@ def test_all_variants_run_identically_scheduled_vectorbt_engine(caplog):
         "Sortino",
         "Calmar",
         "Average Realized Volatility",
+        "Average Position Weight",
+        "Median Position Weight",
+        "Largest Position Weight",
+        "Average Position Volatility",
+        "Weighted Average Portfolio Volatility",
+        "Weight Concentration HHI",
+        "Time at Position Limit",
         "Downside Volatility",
         "Largest Loss Month",
         "Negative Months",
@@ -888,7 +951,13 @@ def test_all_variants_run_identically_scheduled_vectorbt_engine(caplog):
     assert report["Buy Orders"].ge(0).all()
     assert report["Sell Orders"].ge(0).all()
     assert report["Gross Total Return"].notna().all()
-    assert report["position_sizing"].eq("inverse_volatility").all()
+    assert report["position_sizing"].tolist() == [
+        "equal",
+        "equal",
+        "inverse_volatility",
+        "equal",
+        "inverse_volatility",
+    ]
     assert "5 Prozesse" in caplog.text
     assert "10/10 Backtests" in caplog.text
     pd.testing.assert_frame_equal(report, variant_experiment(portfolio, config))
