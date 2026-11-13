@@ -11,6 +11,8 @@ from pytrading.strategies.momentum import (
     _asset_execution_events,
     _atr_14,
     _backtest,
+    _build_vectorbt_portfolio,
+    _default_variant_config,
     _inverse_volatility_weights,
     _liquidity_eligibility,
     _market_regimes,
@@ -19,6 +21,7 @@ from pytrading.strategies.momentum import (
     _portfolio_weights,
     _realized_volatility,
     _trend_filter,
+    backtest,
     rebalance_dates,
     signal_diagnostics,
     variant_experiment,
@@ -70,6 +73,105 @@ def test_momentum_requires_complete_history_and_handles_ties_and_nan():
     assert scores.iloc[119].isna().all()
     assert scores.loc[close.index[-1], "US"] == scores.loc[close.index[-1], "TIE"]
     assert pd.isna(scores.loc[close.index[-1], "MISSING"])
+
+
+def test_trend_eligibility_changes_cross_sectional_ranks_before_selection():
+    dates = pd.bdate_range("2024-01-02", periods=140)
+    step = np.arange(len(dates))
+    close = pd.DataFrame(
+        {
+            "SLOW": 100 * np.exp(0.001 * step),
+            "MID": 100 * np.exp(0.002 * step),
+            "FAST": 100 * np.exp(0.003 * step),
+        },
+        index=dates,
+    )
+    eligibility = pd.DataFrame(True, index=dates, columns=close.columns)
+    eligibility["FAST"] = False
+    config = MomentumConfig(topn=1)
+
+    scores_a = _momentum_scores(close, config)
+    scores_b = _momentum_scores(close, config, eligibility=eligibility)
+
+    assert scores_a.loc[dates[-1]].idxmax() == "FAST"
+    assert scores_b.loc[dates[-1]].idxmax() == "MID"
+    assert scores_a.loc[dates[-1], "MID"] != scores_b.loc[dates[-1], "MID"]
+
+
+def test_legacy_config_is_monthly_but_ensemble_defaults_weekly(monkeypatch):
+    assert MomentumConfig().rebalance_frequency == "monthly"
+    assert _default_variant_config().rebalance_frequency == "weekly"
+    assert _default_variant_config().topn == 5
+
+    captured = {}
+    monkeypatch.setattr(
+        "pytrading.strategies.momentum.backtest",
+        lambda portfolio, config, variant=None: captured.update(
+            config=config, variant=variant
+        ),
+    )
+    from pytrading.strategies.momentum import run_variant
+
+    run_variant(None, "A")
+
+    assert captured["config"].rebalance_frequency == "weekly"
+    assert captured["config"].momentum_20_weight == pytest.approx(0.2)
+    assert captured["config"].momentum_60_weight == pytest.approx(0.3)
+    assert captured["config"].momentum_120_weight == pytest.approx(0.5)
+
+
+def test_vectorbt_executes_at_next_open_and_marks_at_close():
+    dates = pd.date_range("2024-01-02", periods=3)
+    close = pd.DataFrame({"A": [100.0, 110.0, 120.0]}, index=dates)
+    open_prices = pd.DataFrame({"A": [99.0, 105.0, 115.0]}, index=dates)
+    weights = pd.DataFrame(np.nan, index=dates, columns=["A"])
+    weights.loc[dates[1], "A"] = 1.0
+    broker = BrokerConfig(initial_cash=1000, fees=0, fixed_fees=0, slippage=0)
+
+    result = _build_vectorbt_portfolio(close, open_prices, weights, broker)
+
+    orders = result.orders.records_readable
+    assert orders.loc[0, "Timestamp"] == dates[1]
+    assert orders.loc[0, "Price"] == pytest.approx(105.0)
+    assert result.value().loc[dates[1]] == pytest.approx(1000 * 110 / 105)
+
+
+def test_backtest_uses_open_after_signal_and_future_data_cannot_change_signal():
+    close = _price_panel(320)
+    dates = close.index
+    open_prices = close * 0.99
+    turnover = pd.DataFrame(1_000_000.0, index=dates, columns=close.columns)
+    market = {
+        column: {"country": "United States", "exchange": "NYQ"}
+        for column in close.columns
+    }
+    universe = SimpleNamespace(
+        close=lambda: close,
+        open=lambda: open_prices,
+        turnover=lambda: turnover,
+        market_metadata=lambda: market,
+    )
+    portfolio = Portfolio(
+        universe,
+        str(dates[220].date()),
+        str(dates[-1].date()),
+        BrokerConfig(initial_cash=1000, fees=0, fixed_fees=0, slippage=0),
+    )
+    signal_date = dates[219]
+    config = MomentumConfig(topn=2, min_avg_daily_turnover=0)
+    original_scores = _momentum_scores(close, config)
+    altered_close = close.copy()
+    altered_close.loc[dates[220] :, :] *= 10
+    altered_scores = _momentum_scores(altered_close, config)
+
+    result = backtest(portfolio, config, variant="A")
+    order = result.orders.records_readable.iloc[0]
+
+    assert original_scores.loc[signal_date].equals(altered_scores.loc[signal_date])
+    assert order["Timestamp"] > signal_date
+    assert order["Price"] == pytest.approx(
+        open_prices.loc[order["Timestamp"], order["Column"]]
+    )
 
 
 def test_missing_exchange_session_breaks_complete_momentum_lookback():
@@ -281,6 +383,69 @@ def test_neutral_regime_caps_regional_exposure_without_refilling():
     assert weights.loc[execution_date].sum() == pytest.approx(0.5)
     assert weights.loc[execution_date, "USA"] == pytest.approx(0.25)
     assert weights.loc[execution_date, "EUROPE"] == pytest.approx(0.25)
+
+
+def test_asynchronous_region_rotation_stages_buys_after_sells():
+    import exchange_calendars
+
+    dates = pd.bdate_range("2024-04-29", "2024-05-07")
+    europe_calendar = exchange_calendars.get_calendar("XETR")
+    us_calendar = exchange_calendars.get_calendar("XNYS")
+    close = pd.DataFrame(index=dates, columns=["EUROPE", "USA"], dtype=float)
+    open_prices = close.copy()
+    for column, calendar in (
+        ("EUROPE", europe_calendar),
+        ("USA", us_calendar),
+    ):
+        for date in dates:
+            if calendar.is_session(date):
+                close.loc[date, column] = 100.0
+                open_prices.loc[date, column] = 101.0
+
+    signal_date = pd.Timestamp("2024-04-30")
+    prices = close.loc[close.index > signal_date]
+    scores = pd.DataFrame(np.nan, index=dates, columns=close.columns)
+    scores.loc[signal_date] = 1.0
+    volatility = pd.DataFrame(np.nan, index=dates, columns=close.columns)
+    volatility.loc[signal_date] = [4.0, 1.0]
+    benchmark_dates = pd.bdate_range("2023-01-02", signal_date)
+    benchmark = pd.Series(
+        np.linspace(100, 200, len(benchmark_dates)), index=benchmark_dates
+    )
+    metadata = {
+        "EUROPE": {"country": "Germany", "exchange": "GER"},
+        "USA": {"country": "United States", "exchange": "NYQ"},
+    }
+    initial = pd.Series({"EUROPE": 0.8, "USA": 0.2})
+    config = MomentumConfig(
+        topn=2,
+        position_sizing="inverse_volatility",
+        max_position_weight=1.0,
+    )
+
+    weights = _portfolio_weights(
+        close,
+        prices,
+        scores,
+        None,
+        config,
+        signals=frozenset("CD"),
+        metadata=metadata,
+        benchmarks={"EUROPE": benchmark, "USA": benchmark},
+        volatility=volatility,
+        execution_prices=open_prices,
+        initial_weights=initial,
+    )
+
+    assert pd.isna(weights.loc["2024-05-01", "USA"])
+    assert weights.loc["2024-05-02", "EUROPE"] == pytest.approx(0.2)
+    assert weights.loc["2024-05-03", "USA"] == pytest.approx(0.8)
+    held = initial.copy()
+    for date in prices.index:
+        orders = weights.loc[date].dropna()
+        held.loc[orders.index] = orders
+        assert held.sum() <= 1.0 + 1e-12
+    assert held.to_dict() == pytest.approx({"EUROPE": 0.2, "USA": 0.8})
 
 
 def test_all_variants_run_identically_scheduled_vectorbt_engine():

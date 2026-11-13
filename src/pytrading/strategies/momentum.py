@@ -181,9 +181,12 @@ def _momentum_scores(
     close: pd.DataFrame,
     config: MomentumConfig,
     metadata: Mapping[str, Mapping[str, str | None]] | None = None,
+    eligibility: pd.DataFrame | None = None,
 ) -> pd.DataFrame:
     returns = [_observed_returns(close, period, metadata) for period in (20, 60, 120)]
     complete_history = returns[0].notna() & returns[1].notna() & returns[2].notna()
+    if eligibility is not None:
+        complete_history &= eligibility.reindex_like(close).fillna(False)
     eligible_returns = [
         period_returns.where(complete_history) for period_returns in returns
     ]
@@ -464,6 +467,7 @@ def _asset_execution_events(
     prices: pd.DataFrame,
     config: MomentumConfig,
     metadata: Mapping[str, Mapping[str, str | None]],
+    execution_prices: pd.DataFrame | None = None,
 ) -> dict[tuple[pd.Timestamp, pd.Timestamp], list[str]]:
     first_date = prices.index[0]
     last_date = prices.index[-1]
@@ -474,8 +478,12 @@ def _asset_execution_events(
         signal_dates.insert(0, previous_dates[-1])
 
     scheduled: dict[tuple[pd.Timestamp, pd.Timestamp], list[str]] = {}
+    execution_prices = close if execution_prices is None else execution_prices
     observation_dates = {
-        column: close.index[close[column].notna()] for column in close.columns
+        column: execution_prices.index[
+            np.isfinite(execution_prices[column]) & execution_prices[column].gt(0)
+        ]
+        for column in close.columns
     }
     for signal_date in dict.fromkeys(signal_dates):
         for column in close.columns:
@@ -510,6 +518,8 @@ def _portfolio_weights(
     metadata: Mapping[str, Mapping[str, str | None]] | None = None,
     benchmarks: Mapping[str, pd.Series] | None = None,
     volatility: pd.DataFrame | None = None,
+    execution_prices: pd.DataFrame | None = None,
+    initial_weights: pd.Series | None = None,
 ) -> pd.DataFrame:
     weights = pd.DataFrame(
         np.nan,
@@ -518,16 +528,42 @@ def _portfolio_weights(
         dtype=float,
     )
     metadata = metadata or {}
+    execution_prices = close if execution_prices is None else execution_prices
     regions = {
         column: _region_for_country((metadata.get(column) or {}).get("country"))
         for column in close.columns
     }
     benchmarks = benchmarks or {}
     regimes = _market_regimes(benchmarks, close.index)
-    events = _asset_execution_events(close, prices, config, metadata)
+    events = _asset_execution_events(close, prices, config, metadata, execution_prices)
     liquid = _liquidity_eligibility(close, turnover, config, metadata)
+    execution_by_signal: dict[pd.Timestamp, dict[str, pd.Timestamp]] = {}
+    for (execution_date, signal_date), columns in events.items():
+        execution_by_signal.setdefault(signal_date, {}).update(
+            {column: execution_date for column in columns}
+        )
 
-    for (execution_date, signal_date), execution_columns in events.items():
+    held_targets = pd.Series(0.0, index=close.columns)
+    if initial_weights is not None:
+        held_targets = initial_weights.reindex(close.columns).fillna(0.0).astype(float)
+    pending_orders: dict[pd.Timestamp, dict[str, float]] = {}
+    execution_observations = {
+        column: execution_prices.index[
+            np.isfinite(execution_prices[column]) & execution_prices[column].gt(0)
+        ]
+        for column in close.columns
+    }
+
+    for signal_date in sorted(execution_by_signal):
+        for pending_date in sorted(
+            date for date in pending_orders if date <= signal_date
+        ):
+            for column, target in pending_orders.pop(pending_date).items():
+                if pending_date in weights.index:
+                    weights.loc[pending_date, column] = target
+                    held_targets.loc[column] = target
+        pending_orders.clear()
+
         scores = momentum_scores.loc[signal_date].dropna()
         candidates = scores.sort_values(ascending=False, kind="mergesort")
         if liquid is not None:
@@ -542,21 +578,22 @@ def _portfolio_weights(
                 valid_volatility &= vol_at_signal.reindex(candidates.index).gt(0)
             candidates = candidates[valid_volatility]
         selected = candidates.head(config.topn).index
-        if selected.empty:
-            weights.loc[execution_date, execution_columns] = 0.0
-            continue
-
-        if "C" in signals and config.position_sizing == "inverse_volatility":
-            selected_volatility = volatility.loc[signal_date].reindex(selected)
-            target_weights = _inverse_volatility_weights(
-                selected_volatility, config.max_position_weight
-            )
-        elif "C" in signals:
-            target_weights = _capped_weights(
-                pd.Series(1.0, index=selected), config.max_position_weight
-            )
-        else:
-            target_weights = pd.Series(1 / len(selected), index=selected, dtype=float)
+        target_weights = pd.Series(0.0, index=close.columns)
+        if not selected.empty:
+            if "C" in signals and config.position_sizing == "inverse_volatility":
+                selected_volatility = volatility.loc[signal_date].reindex(selected)
+                selected_weights = _inverse_volatility_weights(
+                    selected_volatility, config.max_position_weight
+                )
+            elif "C" in signals:
+                selected_weights = _capped_weights(
+                    pd.Series(1.0, index=selected), config.max_position_weight
+                )
+            else:
+                selected_weights = pd.Series(
+                    1 / len(selected), index=selected, dtype=float
+                )
+            target_weights.loc[selected_weights.index] = selected_weights
 
         if "D" in signals:
             regime_row = regimes.loc[signal_date]
@@ -565,9 +602,11 @@ def _portfolio_weights(
                 "neutral": config.neutral_exposure,
                 "bearish": config.bearish_exposure,
             }
-            for region in {regions[column] for column in selected}:
+            for region in {regions[column] for column in target_weights.index}:
                 region_columns = [
-                    column for column in selected if regions[column] == region
+                    column
+                    for column in target_weights.index
+                    if regions[column] == region
                 ]
                 regime = regime_row.get(region, "unknown")
                 regional_limit = exposure_limits.get(regime, 0.0)
@@ -577,19 +616,68 @@ def _portfolio_weights(
                         regional_limit / regional_weight
                     )
 
-        weights.loc[execution_date, execution_columns] = 0.0
-        selected_for_execution = selected.intersection(execution_columns)
-        weights.loc[execution_date, selected_for_execution] = target_weights.reindex(
-            selected_for_execution
+        execution_dates = execution_by_signal[signal_date]
+        reductions = [
+            column
+            for column in close.columns
+            if target_weights.loc[column] < held_targets.loc[column] - 1e-12
+        ]
+        blocked_by_unscheduled_reduction = any(
+            column not in execution_dates for column in reductions
         )
+        reduction_dates = [
+            execution_dates[column]
+            for column in reductions
+            if column in execution_dates
+        ]
+        latest_reduction_date = max(reduction_dates, default=None)
+        for column in reductions:
+            execution_date = execution_dates.get(column)
+            if execution_date is not None:
+                pending_orders.setdefault(execution_date, {})[column] = float(
+                    target_weights.loc[column]
+                )
+
+        for column in close.columns:
+            if target_weights.loc[column] <= held_targets.loc[column] + 1e-12:
+                continue
+            execution_date = execution_dates.get(column)
+            if execution_date is None or blocked_by_unscheduled_reduction:
+                continue
+            if (
+                latest_reduction_date is not None
+                and execution_date <= latest_reduction_date
+            ):
+                exchange = (metadata.get(column) or {}).get("exchange")
+                calendar_name = _EXCHANGE_CALENDARS.get(exchange or "")
+                execution_date = _next_execution_date(
+                    close,
+                    column,
+                    latest_reduction_date,
+                    calendar_name,
+                    execution_observations[column],
+                )
+            if execution_date in prices.index:
+                pending_orders.setdefault(execution_date, {})[column] = float(
+                    target_weights.loc[column]
+                )
+
+    for execution_date in sorted(pending_orders):
+        for column, target in pending_orders[execution_date].items():
+            if execution_date in weights.index:
+                weights.loc[execution_date, column] = target
     return weights
 
 
 def _build_vectorbt_portfolio(
-    prices: pd.DataFrame, weights: pd.DataFrame, broker: BrokerConfig
+    close_prices: pd.DataFrame,
+    open_prices: pd.DataFrame,
+    weights: pd.DataFrame,
+    broker: BrokerConfig,
 ):
     return vbt.Portfolio.from_orders(
-        close=prices,
+        close=close_prices,
+        price=open_prices,
         size=weights,
         size_type="targetpercent",
         direction="longonly",
@@ -612,6 +700,9 @@ def backtest(
     variant: StrategyVariant | str | None = None,
 ):
     close = portfolio.universe.close()
+    open_prices = (
+        portfolio.universe.open() if hasattr(portfolio.universe, "open") else close
+    )
     turnover = portfolio.universe.turnover()
     metadata = (
         portfolio.universe.market_metadata()
@@ -625,6 +716,7 @@ def backtest(
         portfolio.start_date,
         portfolio.end_date,
         momentum,
+        open_prices=open_prices,
         variant=variant,
         metadata=metadata,
         benchmarks=portfolio.benchmarks,
@@ -638,12 +730,7 @@ def run_variant(
 ):
     variant = StrategyVariant(variant)
     if config is None:
-        config = MomentumConfig(
-            topn=5,
-            momentum_20_weight=0.2,
-            momentum_60_weight=0.3,
-            momentum_120_weight=0.5,
-        )
+        config = _default_variant_config()
     return backtest(portfolio, config, variant=variant)
 
 
@@ -655,22 +742,27 @@ def _backtest(
     end_date: str,
     momentum: MomentumConfig,
     *,
+    open_prices: pd.DataFrame | None = None,
     variant: StrategyVariant | str | None = None,
     metadata: Mapping[str, Mapping[str, str | None]] | None = None,
     benchmarks: Mapping[str, pd.Series] | None = None,
 ):
     close = close.loc[:, ~close.columns.duplicated(keep="first")]
+    open_prices = close if open_prices is None else open_prices
+    open_prices = open_prices.loc[:, ~open_prices.columns.duplicated(keep="first")]
     if turnover is not None:
         turnover = turnover.loc[:, ~turnover.columns.duplicated(keep="first")]
     prices = lookback_prices(close, start_date, end_date)
+    execution_prices = open_prices.reindex(index=close.index, columns=close.columns)
     if turnover is not None and turnover.empty:
         raise ValueError("Keine historischen Umsatzdaten gefunden; Daten neu laden.")
 
     variant = StrategyVariant(variant or StrategyVariant.AB)
     signals = VARIANT_SIGNALS[variant]
-    momentum_scores = _momentum_scores(close, momentum, metadata)
-    if "B" in signals:
-        momentum_scores = momentum_scores.where(_trend_filter(close, metadata))
+    trend_eligibility = _trend_filter(close, metadata) if "B" in signals else None
+    momentum_scores = _momentum_scores(
+        close, momentum, metadata, eligibility=trend_eligibility
+    )
     volatility = _realized_volatility(close, metadata) if "C" in signals else None
     weights = _portfolio_weights(
         close,
@@ -682,8 +774,10 @@ def _backtest(
         metadata=metadata,
         benchmarks=benchmarks,
         volatility=volatility,
+        execution_prices=execution_prices,
     )
-    return _build_vectorbt_portfolio(prices, weights, broker)
+    execution_prices = execution_prices.reindex(index=prices.index)
+    return _build_vectorbt_portfolio(prices, execution_prices, weights, broker)
 
 
 def _default_variant_config() -> MomentumConfig:
@@ -692,6 +786,7 @@ def _default_variant_config() -> MomentumConfig:
         momentum_20_weight=0.2,
         momentum_60_weight=0.3,
         momentum_120_weight=0.5,
+        rebalance_frequency="weekly",
     )
 
 
@@ -705,12 +800,16 @@ def signal_diagnostics(
     signals = VARIANT_SIGNALS[variant]
     close = portfolio.universe.close().loc[:, lambda frame: ~frame.columns.duplicated()]
     turnover = portfolio.universe.turnover()
+    open_prices = (
+        portfolio.universe.open()
+        if hasattr(portfolio.universe, "open")
+        else portfolio.universe.close()
+    )
     metadata = portfolio.universe.market_metadata()
     prices = lookback_prices(close, portfolio.start_date, portfolio.end_date)
-    scores = _momentum_scores(close, config, metadata)
     trend = _trend_filter(close, metadata)
-    if "B" in signals:
-        scores = scores.where(trend)
+    trend_eligibility = trend if "B" in signals else None
+    scores = _momentum_scores(close, config, metadata, eligibility=trend_eligibility)
     volatility = (
         _realized_volatility(close, metadata)
         if "C" in signals
@@ -728,12 +827,13 @@ def signal_diagnostics(
         metadata=metadata,
         benchmarks=benchmarks,
         volatility=volatility if "C" in signals else None,
+        execution_prices=open_prices,
     )
     liquid = _liquidity_eligibility(close, turnover, config, metadata)
     event_lookup = {
         (signal_date, column): execution_date
         for (execution_date, signal_date), columns in _asset_execution_events(
-            close, prices, config, metadata
+            close, prices, config, metadata, open_prices
         ).items()
         for column in columns
     }
@@ -745,6 +845,8 @@ def signal_diagnostics(
         & period_returns[1].notna()
         & period_returns[2].notna()
     )
+    if "B" in signals:
+        complete &= trend
     raw_returns = [values.where(complete) for values in period_returns]
     period_ranks = [
         values.rank(axis=1, pct=True, method="average") for values in raw_returns
@@ -998,6 +1100,7 @@ def variant_experiment(
 
 def _run_sweep_case(
     close: pd.DataFrame,
+    open_prices: pd.DataFrame,
     turnover: pd.DataFrame | None,
     broker: BrokerConfig,
     metadata: Mapping[str, Mapping[str, str | None]],
@@ -1014,6 +1117,7 @@ def _run_sweep_case(
         f"{start_year}-01-01",
         f"{end_year}-01-01",
         config,
+        open_prices=open_prices,
         metadata=metadata,
         benchmarks=benchmarks,
     )
@@ -1048,6 +1152,9 @@ def parameter_sweep(
         )
 
     close = portfolio.universe.close()
+    open_prices = (
+        portfolio.universe.open() if hasattr(portfolio.universe, "open") else close
+    )
     if close.empty:
         raise ValueError("Das Universe enthält keine historischen Kurse.")
     last_date = min(close.index.max(), pd.Timestamp(portfolio.end_date))
@@ -1072,6 +1179,7 @@ def parameter_sweep(
     worker = partial(
         _run_sweep_case,
         close,
+        open_prices,
         turnover,
         portfolio.broker,
         metadata,

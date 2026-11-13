@@ -28,6 +28,7 @@ def test_universe_converts_close_and_turnover_but_not_volume():
         prices=pd.DataFrame(
             {
                 "Close": [20.0, 25.0],
+                "Open": [19.0, 24.0],
                 "Turnover": [200.0, 250.0],
                 "Volume": [10, 10],
             },
@@ -45,6 +46,10 @@ def test_universe_converts_close_and_turnover_but_not_volume():
     pd.testing.assert_series_equal(
         universe.turnover()["USD-STOCK"],
         pd.Series([100.0, 100.0], index=dates, name="USD-STOCK"),
+    )
+    pd.testing.assert_series_equal(
+        universe.open()["USD-STOCK"],
+        pd.Series([9.5, 9.6], index=dates, name="USD-STOCK"),
     )
     pd.testing.assert_series_equal(
         universe.volume()["USD-STOCK"],

@@ -119,7 +119,7 @@ class Universe:
         if hasattr(self, f"_{column}"):
             return getattr(self, f"_{column}")
 
-        if column in {"Close", "Turnover", "High", "Low"}:
+        if column in {"Close", "Turnover", "Open", "High", "Low"}:
             currencies = {
                 _currency_code(ds.currency)[0]
                 for ds in self.datasets
@@ -139,7 +139,7 @@ class Universe:
         for dataset in self.datasets:
             series = dataset.prices[column]
             code, _ = _currency_code(dataset.currency)
-            if column in {"Close", "Turnover", "High", "Low"} and code != "EUR":
+            if column in {"Close", "Turnover", "Open", "High", "Low"} and code != "EUR":
                 series = _convert_to_eur(series, dataset.currency, self._fx_rates)
             values.append(series)
 
@@ -156,6 +156,9 @@ class Universe:
 
     def turnover(self) -> pd.DataFrame:
         return self._column("Turnover")
+
+    def open(self) -> pd.DataFrame:
+        return self._column("Open")
 
     def volume(self) -> pd.DataFrame:
         return self._column("Volume")
