@@ -41,6 +41,25 @@ def _price_panel(periods: int = 320) -> pd.DataFrame:
     )
 
 
+class _TestUniverse:
+    def __init__(self, close, turnover, market):
+        self._close = close
+        self._turnover = turnover
+        self._market = market
+
+    def close(self):
+        return self._close
+
+    def turnover(self):
+        return self._turnover
+
+    def market_metadata(self):
+        return self._market
+
+    def __getstate__(self):
+        raise AssertionError("Universe objects must not cross the process boundary")
+
+
 def _portfolio(close: pd.DataFrame, benchmarks=None) -> Portfolio:
     turnover = pd.DataFrame(1_000_000.0, index=close.index, columns=close.columns)
     market = {
@@ -48,11 +67,7 @@ def _portfolio(close: pd.DataFrame, benchmarks=None) -> Portfolio:
         "EU": {"country": "Germany", "exchange": "GER"},
         "OTHER": {"country": "Canada", "exchange": "TOR"},
     }
-    universe = SimpleNamespace(
-        close=lambda: close,
-        turnover=lambda: turnover,
-        market_metadata=lambda: market,
-    )
+    universe = _TestUniverse(close, turnover, market)
     return Portfolio(
         universe,
         str(close.index[220].date()),
@@ -585,13 +600,16 @@ def test_new_weekly_signal_replaces_or_cancels_pending_orders(
         assert weights.isna().all().all()
 
 
-def test_all_variants_run_identically_scheduled_vectorbt_engine():
+def test_all_variants_run_identically_scheduled_vectorbt_engine(caplog):
+    import logging
+
     close = _price_panel()
     benchmark = pd.Series(np.linspace(80, 150, len(close)), index=close.index)
     portfolio = _portfolio(close, {"USA": benchmark, "EUROPE": benchmark})
     config = MomentumConfig(topn=2, min_avg_daily_turnover=0)
 
-    report = variant_experiment(portfolio, config)
+    with caplog.at_level(logging.INFO, logger="pytrading.strategies.momentum"):
+        report = variant_experiment(portfolio, config)
 
     assert list(report["Variant"]) == [variant.value for variant in StrategyVariant]
     assert report["Start Date"].nunique() == 1
@@ -610,11 +628,50 @@ def test_all_variants_run_identically_scheduled_vectorbt_engine():
         "Maximum Exposure",
         "Cash Allocation",
         "Turnover",
+        "Annual Portfolio Turnover",
         "Transaction Costs",
+        "Annual Transaction Costs",
+        "Buy Orders",
+        "Sell Orders",
+        "Gross Total Return",
         "Average EUROPE Exposure",
         "Maximum USA Exposure",
     }.issubset(report.columns)
+    assert report["Buy Orders"].ge(0).all()
+    assert report["Sell Orders"].ge(0).all()
+    assert report["Gross Total Return"].notna().all()
+    assert "5 Prozesse" in caplog.text
+    assert "10/10 Backtests" in caplog.text
     pd.testing.assert_frame_equal(report, variant_experiment(portfolio, config))
+
+
+def test_variant_net_and_gross_reuse_prepared_backtest_inputs(monkeypatch):
+    import pytrading.strategies.momentum as momentum_module
+
+    portfolio = _portfolio(_price_panel())
+    config = MomentumConfig(topn=2, min_avg_daily_turnover=0)
+    monkeypatch.setattr(momentum_module, "_VARIANT_WORKER_PORTFOLIO", portfolio)
+    monkeypatch.setattr(momentum_module, "_VARIANT_WORKER_CONFIG", config)
+    monkeypatch.setattr(momentum_module, "_VARIANT_WORKER_FINGERPRINT", "test")
+    monkeypatch.setattr(
+        momentum_module,
+        "_VARIANT_WORKER_UNIVERSE_SIZE",
+        len(portfolio.universe.close().columns),
+    )
+
+    prepare = momentum_module._prepare_backtest_inputs
+    calls = 0
+
+    def count_preparations(*args, **kwargs):
+        nonlocal calls
+        calls += 1
+        return prepare(*args, **kwargs)
+
+    monkeypatch.setattr(momentum_module, "_prepare_backtest_inputs", count_preparations)
+    result = momentum_module._run_variant_case(StrategyVariant.A)
+
+    assert calls == 1
+    assert result["Gross Total Return"] is not None
 
 
 def test_diagnostics_expose_signal_values_and_missing_regime_reason():

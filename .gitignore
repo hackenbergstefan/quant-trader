@@ -6,3 +6,5 @@ __pycache__/
 data/market.duckdb
 data/market.duckdb.wal
 data/
+data_*
+dist/

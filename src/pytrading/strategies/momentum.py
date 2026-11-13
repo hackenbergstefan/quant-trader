@@ -1,18 +1,27 @@
 from __future__ import annotations
 
+import logging
 from collections.abc import Iterable, Mapping
-from dataclasses import asdict, dataclass, fields
+from concurrent.futures import ProcessPoolExecutor, as_completed
+from dataclasses import asdict, dataclass, fields, replace
 from enum import StrEnum
 from functools import lru_cache, partial
 from hashlib import sha256
 from itertools import product
 from math import ceil
 from multiprocessing import Pool, cpu_count
+from time import perf_counter
 from typing import TYPE_CHECKING
 
 import numpy as np
 import pandas as pd
 import vectorbt as vbt
+
+logger = logging.getLogger(__name__)
+_VARIANT_WORKER_PORTFOLIO = None
+_VARIANT_WORKER_CONFIG = None
+_VARIANT_WORKER_FINGERPRINT = None
+_VARIANT_WORKER_UNIVERSE_SIZE = None
 
 if TYPE_CHECKING:
     from pytrading import BrokerConfig, Portfolio
@@ -62,6 +71,26 @@ class MomentumConfig:
         )
         if any(not np.isfinite(value) or not 0 <= value <= 1 for value in exposures):
             raise ValueError("Regionale Exposure-Grenzen müssen in [0, 1] liegen.")
+
+
+class _VariantUniverse:
+    def __init__(self, close, open_prices, turnover, metadata):
+        self._close = close
+        self._open = open_prices
+        self._turnover = turnover
+        self._metadata = metadata
+
+    def close(self):
+        return self._close
+
+    def open(self):
+        return self._open
+
+    def turnover(self):
+        return self._turnover
+
+    def market_metadata(self):
+        return self._metadata
 
 
 class StrategyVariant(StrEnum):
@@ -769,10 +798,9 @@ def run_variant(
     return backtest(portfolio, config, variant=variant)
 
 
-def _backtest(
+def _prepare_backtest_inputs(
     close: pd.DataFrame,
     turnover: pd.DataFrame | None,
-    broker: BrokerConfig,
     start_date: str,
     end_date: str,
     momentum: MomentumConfig,
@@ -781,7 +809,7 @@ def _backtest(
     variant: StrategyVariant | str | None = None,
     metadata: Mapping[str, Mapping[str, str | None]] | None = None,
     benchmarks: Mapping[str, pd.Series] | None = None,
-):
+) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     close = close.loc[:, ~close.columns.duplicated(keep="first")]
     open_prices = close if open_prices is None else open_prices
     open_prices = open_prices.loc[:, ~open_prices.columns.duplicated(keep="first")]
@@ -813,6 +841,33 @@ def _backtest(
     )
     execution_prices = execution_prices.reindex(
         index=prices.index, columns=prices.columns
+    )
+    return prices, execution_prices, weights
+
+
+def _backtest(
+    close: pd.DataFrame,
+    turnover: pd.DataFrame | None,
+    broker: BrokerConfig,
+    start_date: str,
+    end_date: str,
+    momentum: MomentumConfig,
+    *,
+    open_prices: pd.DataFrame | None = None,
+    variant: StrategyVariant | str | None = None,
+    metadata: Mapping[str, Mapping[str, str | None]] | None = None,
+    benchmarks: Mapping[str, pd.Series] | None = None,
+):
+    prices, execution_prices, weights = _prepare_backtest_inputs(
+        close,
+        turnover,
+        start_date,
+        end_date,
+        momentum,
+        open_prices=open_prices,
+        variant=variant,
+        metadata=metadata,
+        benchmarks=benchmarks,
     )
     return _build_vectorbt_portfolio(prices, execution_prices, weights, broker)
 
@@ -1042,6 +1097,8 @@ def _variant_metrics(
         (orders["Size"].abs() * orders["Price"]).sum() if not orders.empty else 0.0
     )
     mean_value = values.mean()
+    transaction_costs = float(orders["Fees"].sum()) if not orders.empty else 0.0
+    total_turnover = float(traded_value / mean_value) if mean_value else 0.0
     metrics: dict[str, float | int] = {
         "CAGR": float(cagr),
         "Total Return": float(total_return),
@@ -1057,8 +1114,12 @@ def _variant_metrics(
         "Average Exposure": float(exposure.mean()),
         "Maximum Exposure": float(exposure.max()),
         "Cash Allocation": float((1 - exposure).mean()),
-        "Turnover": float(traded_value / mean_value) if mean_value else 0.0,
-        "Transaction Costs": float(orders["Fees"].sum()) if not orders.empty else 0.0,
+        "Turnover": total_turnover,
+        "Annual Portfolio Turnover": float(total_turnover / elapsed_years),
+        "Transaction Costs": transaction_costs,
+        "Annual Transaction Costs": float(transaction_costs / elapsed_years),
+        "Buy Orders": int(orders["Side"].eq("Buy").sum()) if not orders.empty else 0,
+        "Sell Orders": int(orders["Side"].eq("Sell").sum()) if not orders.empty else 0,
     }
     metadata = portfolio.universe.market_metadata()
     for region in ("EUROPE", "USA", "OTHER"):
@@ -1079,12 +1140,131 @@ def _variant_metrics(
     return metrics
 
 
+def _initialize_variant_worker(
+    close: pd.DataFrame,
+    open_prices: pd.DataFrame,
+    turnover: pd.DataFrame | None,
+    metadata: Mapping[str, Mapping[str, str | None]],
+    benchmarks: Mapping[str, pd.Series],
+    start_date: str,
+    end_date: str,
+    broker: BrokerConfig,
+    config: MomentumConfig,
+    fingerprint: str,
+    universe_size: int,
+) -> None:
+    global _VARIANT_WORKER_PORTFOLIO
+    global _VARIANT_WORKER_CONFIG
+    global _VARIANT_WORKER_FINGERPRINT
+    global _VARIANT_WORKER_UNIVERSE_SIZE
+
+    from pytrading import Portfolio
+
+    universe = _VariantUniverse(close, open_prices, turnover, metadata)
+    portfolio = Portfolio(
+        universe=universe,
+        start_date=start_date,
+        end_date=end_date,
+        broker=broker,
+        benchmarks=benchmarks,
+    )
+    _VARIANT_WORKER_PORTFOLIO = portfolio
+    _VARIANT_WORKER_CONFIG = config
+    _VARIANT_WORKER_FINGERPRINT = fingerprint
+    _VARIANT_WORKER_UNIVERSE_SIZE = universe_size
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s %(levelname)s %(processName)s %(message)s",
+    )
+
+
+def _run_variant_case(variant: StrategyVariant) -> dict[str, object]:
+    portfolio = _VARIANT_WORKER_PORTFOLIO
+    config = _VARIANT_WORKER_CONFIG
+    if portfolio is None or config is None:
+        raise RuntimeError("Variant-Worker wurde nicht initialisiert.")
+
+    gross_broker = replace(
+        portfolio.broker,
+        fees=0.0,
+        fixed_fees=0.0,
+        slippage=0.0,
+    )
+    gross_portfolio = replace(portfolio, broker=gross_broker)
+
+    close = portfolio.universe.close()
+    open_prices = (
+        portfolio.universe.open() if hasattr(portfolio.universe, "open") else close
+    )
+    logger.info("[%s] Signal- und Orderplanung gestartet", variant.value)
+    stage_started_at = perf_counter()
+    prices, execution_prices, weights = _prepare_backtest_inputs(
+        close,
+        portfolio.universe.turnover(),
+        portfolio.start_date,
+        portfolio.end_date,
+        config,
+        open_prices=open_prices,
+        variant=variant,
+        metadata=portfolio.universe.market_metadata(),
+        benchmarks=portfolio.benchmarks,
+    )
+    logger.info(
+        "[%s] Signal- und Orderplanung abgeschlossen in %.1fs",
+        variant.value,
+        perf_counter() - stage_started_at,
+    )
+    logger.info("[%s] Netto-Backtest gestartet", variant.value)
+    stage_started_at = perf_counter()
+    result = _build_vectorbt_portfolio(
+        prices, execution_prices, weights, portfolio.broker
+    )
+    logger.info(
+        "[%s] Netto-Backtest abgeschlossen in %.1fs",
+        variant.value,
+        perf_counter() - stage_started_at,
+    )
+    logger.info("[%s] Brutto-Backtest gestartet", variant.value)
+    stage_started_at = perf_counter()
+    gross_result = _build_vectorbt_portfolio(
+        prices, execution_prices, weights, gross_portfolio.broker
+    )
+    logger.info(
+        "[%s] Brutto-Backtest abgeschlossen in %.1fs",
+        variant.value,
+        perf_counter() - stage_started_at,
+    )
+    gross_values = _single_series(gross_result.value())
+    return {
+        "Variant": variant.value,
+        "Signals": ",".join(sorted(VARIANT_SIGNALS[variant])),
+        "Start Date": portfolio.start_date,
+        "End Date": portfolio.end_date,
+        "Universe Size": _VARIANT_WORKER_UNIVERSE_SIZE,
+        "Universe Fingerprint": _VARIANT_WORKER_FINGERPRINT,
+        "Initial Cash": portfolio.broker.initial_cash,
+        "Fees": portfolio.broker.fees,
+        "Fixed Fees": portfolio.broker.fixed_fees,
+        "Slippage": portfolio.broker.slippage,
+        "Benchmarks Available": ",".join(sorted(portfolio.benchmarks)),
+        "Gross Total Return": float(
+            gross_values.iloc[-1] / portfolio.broker.initial_cash - 1
+        ),
+        **asdict(config),
+        **_variant_metrics(result, portfolio, config),
+    }
+
+
 def variant_experiment(
     portfolio: Portfolio, config: MomentumConfig | None = None
 ) -> pd.DataFrame:
     config = config or _default_variant_config()
     close = portfolio.universe.close()
     turnover = portfolio.universe.turnover()
+    open_prices = (
+        portfolio.universe.open() if hasattr(portfolio.universe, "open") else close
+    )
+    metadata = portfolio.universe.market_metadata()
     fingerprint = sha256()
     for label, frame in (("close", close), ("turnover", turnover)):
         normalized = frame.sort_index().sort_index(axis=1)
@@ -1112,26 +1292,55 @@ def variant_experiment(
             )
         ).encode()
     )
-    rows = []
-    for variant in StrategyVariant:
-        result = run_variant(portfolio, variant, config)
-        rows.append(
-            {
-                "Variant": variant.value,
-                "Signals": ",".join(sorted(VARIANT_SIGNALS[variant])),
-                "Start Date": portfolio.start_date,
-                "End Date": portfolio.end_date,
-                "Universe Size": close.shape[1],
-                "Universe Fingerprint": fingerprint.hexdigest(),
-                "Initial Cash": portfolio.broker.initial_cash,
-                "Fees": portfolio.broker.fees,
-                "Fixed Fees": portfolio.broker.fixed_fees,
-                "Slippage": portfolio.broker.slippage,
-                "Benchmarks Available": ",".join(sorted(portfolio.benchmarks)),
-                **asdict(config),
-                **_variant_metrics(result, portfolio, config),
-            }
-        )
+    variants = tuple(StrategyVariant)
+    total_backtests = len(variants) * 2
+    worker_count = len(variants)
+    logger.info(
+        "Starte Variantenvergleich: %d Varianten, %d Prozesse, %d Backtests, Zeitraum %s bis %s",
+        len(variants),
+        worker_count,
+        total_backtests,
+        portfolio.start_date,
+        portfolio.end_date,
+    )
+    rows_by_variant = {}
+    completed_backtests = 0
+    with ProcessPoolExecutor(
+        max_workers=worker_count,
+        initializer=_initialize_variant_worker,
+        initargs=(
+            close,
+            open_prices,
+            turnover,
+            metadata,
+            portfolio.benchmarks,
+            portfolio.start_date,
+            portfolio.end_date,
+            portfolio.broker,
+            config,
+            fingerprint.hexdigest(),
+            close.shape[1],
+        ),
+    ) as executor:
+        futures = {
+            executor.submit(_run_variant_case, variant): variant for variant in variants
+        }
+        for future in as_completed(futures):
+            variant = futures[future]
+            rows_by_variant[variant] = future.result()
+            completed_backtests += 2
+            logger.info(
+                "Fortschritt: %d/%d Backtests abgeschlossen (%s)",
+                completed_backtests,
+                total_backtests,
+                variant.value,
+            )
+    rows = [rows_by_variant[variant] for variant in variants]
+    logger.info(
+        "Variantenvergleich abgeschlossen: %d/%d Backtests",
+        completed_backtests,
+        total_backtests,
+    )
     return pd.DataFrame(rows)
 
 

@@ -1,6 +1,5 @@
+import logging
 from pathlib import Path
-
-import pandas as pd
 
 from pytrading import BrokerConfig, Portfolio
 from pytrading.data_helper import Universe
@@ -8,39 +7,20 @@ from pytrading.strategies.momentum import MomentumConfig, variant_experiment
 
 ROOT = Path(__file__).resolve().parent
 START_DATE = "2010-01-01"
-END_DATE = "2016-01-01"
-
-
-def _constituent_benchmark(
-    close: pd.DataFrame, members_file: Path, label: str
-) -> tuple[pd.Series, int]:
-    """Build an equal-weight proxy from the locally available current members."""
-    members = pd.read_csv(members_file)["ISIN"].dropna().astype(str).str.strip()
-    available = [
-        isin for isin in members if isin in close.columns and close[isin].notna().any()
-    ]
-    if not available:
-        raise ValueError(f"Keine lokalen Kursdaten für den {label}-Benchmark gefunden.")
-
-    daily_returns = close.loc[:, available].pct_change(fill_method=None)
-    benchmark_returns = daily_returns.mean(axis=1).fillna(0.0)
-    benchmark = (1 + benchmark_returns).cumprod()
-    benchmark.name = label
-    return benchmark, len(available)
+END_DATE = "2017-01-01"
+RESULTS_FILE = ROOT / "experiment_results.csv"
 
 
 def main() -> None:
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s %(levelname)s %(processName)s %(message)s",
+    )
     universe = Universe()
-    close = universe.close()
-    benchmarks = {}
-    for region, filename in (
-        ("EUROPE", "stoxx_europe_600.csv"),
-        ("USA", "sp_500.csv"),
-    ):
-        benchmarks[region], member_count = _constituent_benchmark(
-            close, ROOT / filename, region
-        )
-        print(f"{region}-Benchmark: {member_count} lokale Indexmitglieder")
+    print(
+        "Signal D ist vorläufig: Es werden keine Benchmark-Ersatzdaten verwendet; "
+        "ohne historische Benchmarks bleibt das Marktregime unbekannt."
+    )
 
     portfolio = Portfolio(
         universe=universe,
@@ -52,27 +32,68 @@ def main() -> None:
             fixed_fees=1.0,
             slippage=0.0005,
         ),
-        benchmarks=benchmarks,
+        benchmarks={},
     )
     config = MomentumConfig(
-        topn=10,
-        min_avg_daily_turnover=1_000_000.0,
+        topn=5,
+        min_avg_daily_turnover=50_000.0,
+        liquidity_lookback=20,
+        momentum_20_weight=0.2,
+        momentum_60_weight=0.3,
+        momentum_120_weight=0.5,
+        rebalance_frequency="weekly",
+        max_position_weight=0.2,
+        position_sizing="inverse_volatility",
+        bullish_exposure=1.0,
+        neutral_exposure=0.5,
+        bearish_exposure=0.0,
     )
 
     results = variant_experiment(portfolio, config)
+    results["Signal D Status"] = results["Variant"].map(
+        lambda variant: (
+            "vorläufig: keine historischen Benchmarks; Regime unbekannt"
+            if "D" in variant
+            else "nicht verwendet"
+        )
+    )
+    results = results.rename(columns={"Variant": "Signalvariante"})
+    results.to_csv(RESULTS_FILE, index=False)
     columns = [
-        "Variant",
+        "Signalvariante",
         "Signals",
+        "Start Date",
+        "End Date",
+        "rebalance_frequency",
+        "topn",
+        "momentum_20_weight",
+        "momentum_60_weight",
+        "momentum_120_weight",
+        "min_avg_daily_turnover",
+        "max_position_weight",
+        "Initial Cash",
+        "Fees",
+        "Fixed Fees",
+        "Slippage",
+        "Universe Fingerprint",
         "CAGR",
         "Total Return",
+        "Gross Total Return",
         "Maximum Drawdown",
         "Sharpe",
+        "Buy Orders",
+        "Sell Orders",
+        "Annual Transaction Costs",
+        "Annual Portfolio Turnover",
+        "Average Holding Period (sessions)",
         "Average Exposure",
         "Maximum Exposure",
         "Transaction Costs",
+        "Signal D Status",
     ]
     print("\nVariantenvergleich (identische Daten, Zeitraum, Kosten und Config):")
     print(results.loc[:, columns].to_string(index=False, float_format="{:.3f}".format))
+    print(f"\nErgebnisdatei: {RESULTS_FILE}")
 
 
 if __name__ == "__main__":
