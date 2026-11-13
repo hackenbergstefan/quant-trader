@@ -416,11 +416,12 @@ def test_asynchronous_region_rotation_stages_buys_after_sells():
         "EUROPE": {"country": "Germany", "exchange": "GER"},
         "USA": {"country": "United States", "exchange": "NYQ"},
     }
-    initial = pd.Series({"EUROPE": 0.8, "USA": 0.2})
+    initial = pd.Series({"EUROPE": 0.4, "USA": 0.4})
     config = MomentumConfig(
         topn=2,
         position_sizing="inverse_volatility",
         max_position_weight=1.0,
+        bullish_exposure=0.5,
     )
 
     weights = _portfolio_weights(
@@ -439,13 +440,126 @@ def test_asynchronous_region_rotation_stages_buys_after_sells():
 
     assert pd.isna(weights.loc["2024-05-01", "USA"])
     assert weights.loc["2024-05-02", "EUROPE"] == pytest.approx(0.2)
-    assert weights.loc["2024-05-03", "USA"] == pytest.approx(0.8)
+    assert weights.loc["2024-05-03", "USA"] == pytest.approx(0.5)
     held = initial.copy()
     for date in prices.index:
         orders = weights.loc[date].dropna()
         held.loc[orders.index] = orders
         assert held.sum() <= 1.0 + 1e-12
+        assert held["EUROPE"] <= 0.5 + 1e-12
+        assert held["USA"] <= 0.5 + 1e-12
+    assert held.to_dict() == pytest.approx({"EUROPE": 0.2, "USA": 0.5})
+
+
+def test_pending_orders_survive_overlapping_weekly_rebalances(monkeypatch):
+    dates = pd.bdate_range("2024-06-28", "2024-07-19")
+    close = pd.DataFrame(100.0, index=dates, columns=["EUROPE", "USA"])
+    scores = pd.DataFrame(np.nan, index=dates, columns=close.columns)
+    signals = pd.to_datetime(["2024-06-28", "2024-07-05", "2024-07-12"])
+    first_signal, second_signal, third_signal = signals
+    scores.loc[signals, :] = 1.0
+    volatility = pd.DataFrame(np.nan, index=dates, columns=close.columns)
+    volatility.loc[signals, :] = [4.0, 1.0]
+    events = {
+        (pd.Timestamp("2024-07-08"), first_signal): ["EUROPE"],
+        (pd.Timestamp("2024-07-09"), first_signal): ["USA"],
+        (pd.Timestamp("2024-07-10"), second_signal): ["EUROPE"],
+        (pd.Timestamp("2024-07-11"), second_signal): ["USA"],
+        (pd.Timestamp("2024-07-15"), third_signal): ["EUROPE"],
+        (pd.Timestamp("2024-07-16"), third_signal): ["USA"],
+    }
+    monkeypatch.setattr(
+        "pytrading.strategies.momentum._asset_execution_events",
+        lambda *_args, **_kwargs: events,
+    )
+    initial = pd.Series({"EUROPE": 0.8, "USA": 0.2})
+    config = MomentumConfig(
+        topn=2,
+        rebalance_frequency="weekly",
+        position_sizing="inverse_volatility",
+        max_position_weight=1.0,
+    )
+
+    weights = _portfolio_weights(
+        close,
+        close.loc[first_signal:],
+        scores,
+        None,
+        config,
+        signals=frozenset("C"),
+        volatility=volatility,
+        initial_weights=initial,
+    )
+
+    assert weights.loc["2024-07-08", "EUROPE"] == pytest.approx(0.2)
+    assert weights.loc["2024-07-09", "USA"] == pytest.approx(0.8)
+    assert pd.isna(weights.loc["2024-07-10", "EUROPE"])
+    assert pd.isna(weights.loc["2024-07-11", "USA"])
+    assert weights.loc["2024-07-15":"2024-07-16"].isna().all().all()
+    held = initial.copy()
+    for date in weights.index:
+        orders = weights.loc[date].dropna()
+        held.loc[orders.index] = orders
+        assert held.sum() <= 1.0 + 1e-12
     assert held.to_dict() == pytest.approx({"EUROPE": 0.2, "USA": 0.8})
+
+
+@pytest.mark.parametrize(
+    ("second_volatility", "expected_orders"),
+    [
+        ([2.0, 3.0], {"EUROPE": 0.6, "USA": 0.4}),
+        ([1.25, 5.0], {}),
+    ],
+    ids=["replace-obsolete-target", "cancel-target-already-held"],
+)
+def test_new_weekly_signal_replaces_or_cancels_pending_orders(
+    monkeypatch, second_volatility, expected_orders
+):
+    dates = pd.bdate_range("2024-06-28", "2024-07-12")
+    close = pd.DataFrame(100.0, index=dates, columns=["EUROPE", "USA"])
+    scores = pd.DataFrame(np.nan, index=dates, columns=close.columns)
+    first_signal, second_signal = pd.Timestamp("2024-06-28"), pd.Timestamp("2024-07-05")
+    scores.loc[[first_signal, second_signal], :] = 1.0
+    volatility = pd.DataFrame(np.nan, index=dates, columns=close.columns)
+    volatility.loc[first_signal] = [4.0, 1.0]
+    volatility.loc[second_signal] = second_volatility
+    events = {
+        (pd.Timestamp("2024-07-08"), first_signal): ["EUROPE"],
+        (pd.Timestamp("2024-07-09"), first_signal): ["USA"],
+        (pd.Timestamp("2024-07-10"), second_signal): ["EUROPE"],
+        (pd.Timestamp("2024-07-11"), second_signal): ["USA"],
+    }
+    monkeypatch.setattr(
+        "pytrading.strategies.momentum._asset_execution_events",
+        lambda *_args, **_kwargs: events,
+    )
+    initial = pd.Series({"EUROPE": 0.8, "USA": 0.2})
+    config = MomentumConfig(
+        topn=2,
+        rebalance_frequency="weekly",
+        position_sizing="inverse_volatility",
+        max_position_weight=1.0,
+    )
+
+    weights = _portfolio_weights(
+        close,
+        close.loc[first_signal:],
+        scores,
+        None,
+        config,
+        signals=frozenset("C"),
+        volatility=volatility,
+        initial_weights=initial,
+    )
+
+    assert weights.loc["2024-07-08":"2024-07-09"].isna().all().all()
+    if expected_orders:
+        assert weights.loc["2024-07-10", "EUROPE"] == pytest.approx(
+            expected_orders["EUROPE"]
+        )
+        assert weights.loc["2024-07-11", "USA"] == pytest.approx(expected_orders["USA"])
+    else:
+        assert weights.isna().all().all()
 
 
 def test_all_variants_run_identically_scheduled_vectorbt_engine():

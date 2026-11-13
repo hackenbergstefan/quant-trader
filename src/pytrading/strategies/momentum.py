@@ -562,7 +562,6 @@ def _portfolio_weights(
                 if pending_date in weights.index:
                     weights.loc[pending_date, column] = target
                     held_targets.loc[column] = target
-        pending_orders.clear()
 
         scores = momentum_scores.loc[signal_date].dropna()
         candidates = scores.sort_values(ascending=False, kind="mergesort")
@@ -616,6 +615,22 @@ def _portfolio_weights(
                         regional_limit / regional_weight
                     )
 
+        retained_orders: dict[str, tuple[pd.Timestamp, float]] = {}
+        for pending_date in sorted(pending_orders):
+            orders = pending_orders[pending_date]
+            for column, target in list(orders.items()):
+                desired = float(target_weights.loc[column])
+                already_held = np.isclose(desired, held_targets.loc[column])
+                if not np.isclose(target, desired) or already_held:
+                    del orders[column]
+                    continue
+                if column not in retained_orders:
+                    retained_orders[column] = (pending_date, target)
+                else:
+                    del orders[column]
+            if not orders:
+                del pending_orders[pending_date]
+
         execution_dates = execution_by_signal[signal_date]
         reductions = [
             column
@@ -623,15 +638,20 @@ def _portfolio_weights(
             if target_weights.loc[column] < held_targets.loc[column] - 1e-12
         ]
         blocked_by_unscheduled_reduction = any(
-            column not in execution_dates for column in reductions
+            column not in execution_dates and column not in retained_orders
+            for column in reductions
         )
         reduction_dates = [
-            execution_dates[column]
+            retained_orders[column][0]
+            if column in retained_orders
+            else execution_dates[column]
             for column in reductions
-            if column in execution_dates
+            if column in execution_dates or column in retained_orders
         ]
         latest_reduction_date = max(reduction_dates, default=None)
         for column in reductions:
+            if column in retained_orders:
+                continue
             execution_date = execution_dates.get(column)
             if execution_date is not None:
                 pending_orders.setdefault(execution_date, {})[column] = float(
@@ -641,13 +661,28 @@ def _portfolio_weights(
         for column in close.columns:
             if target_weights.loc[column] <= held_targets.loc[column] + 1e-12:
                 continue
-            execution_date = execution_dates.get(column)
-            if execution_date is None or blocked_by_unscheduled_reduction:
+            if blocked_by_unscheduled_reduction:
+                if column in retained_orders:
+                    pending_date, _ = retained_orders[column]
+                    del pending_orders[pending_date][column]
+                    if not pending_orders[pending_date]:
+                        del pending_orders[pending_date]
+                continue
+            execution_date = (
+                retained_orders[column][0]
+                if column in retained_orders
+                else execution_dates.get(column)
+            )
+            if execution_date is None:
                 continue
             if (
                 latest_reduction_date is not None
                 and execution_date <= latest_reduction_date
             ):
+                if column in retained_orders:
+                    del pending_orders[execution_date][column]
+                    if not pending_orders[execution_date]:
+                        del pending_orders[execution_date]
                 exchange = (metadata.get(column) or {}).get("exchange")
                 calendar_name = _EXCHANGE_CALENDARS.get(exchange or "")
                 execution_date = _next_execution_date(
