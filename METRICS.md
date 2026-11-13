@@ -28,8 +28,11 @@ that instrument's last observed close. Rates and ratios are decimal-valued
 | Gross CAGR | Gross compound annual growth rate. | Gross end value / initial capital compounded over the same elapsed calendar years as `CAGR`. | Gross simulation and valuation index. | Whole backtest. | Calendar-year exponent. | Excludes configured fees and slippage. |
 | Maximum Drawdown | Largest peak-to-trough net value decline. | Minimum of `value / cumulative_max(value) - 1`. | Net daily portfolio values. | Worst date in the run. | None. | Reported as a non-positive decimal. |
 | Sharpe | Zero-risk-free-rate Sharpe ratio for net daily returns. | Mean daily return / sample standard deviation × √252. | Net daily portfolio values. | Whole run's daily returns. | 252 sessions/year. | Undefined (NaN) when return volatility is zero or unavailable. |
+| Sharpe Ratio | Parameter-sweep name for `Sharpe`. | Mean daily return / sample standard deviation × √252. | Net daily portfolio values. | Whole run's daily returns. | 252 sessions/year. | Same definition as `Sharpe`; the VectorBT-native frequency annualization is not used. |
 | Sortino | Zero minimum-acceptable-return Sortino ratio. | Mean net daily return / RMS of negative daily returns × √252. | Net daily portfolio values. | Whole run's daily returns. | 252 sessions/year. | Undefined (NaN) when downside deviation is zero or unavailable. |
 | Calmar | Net CAGR per unit of maximum drawdown. | CAGR / absolute maximum drawdown. | Net performance metrics. | Whole run. | CAGR is annualized. | Undefined (NaN) when there is no drawdown. |
+| Calmar Ratio | Parameter-sweep name for `Calmar`. | Calendar-time CAGR / absolute maximum drawdown. | Net performance metrics. | Whole run. | Calendar-time CAGR. | Same definition as `Calmar`. |
+| Max Drawdown | Parameter-sweep name for `Maximum Drawdown`. | Minimum of `value / cumulative_max(value) - 1`. | Net daily portfolio values. | Worst date in the run. | None. | Same definition as `Maximum Drawdown`. |
 | Average Realized Volatility | Realized volatility of the net portfolio return series. | Sample standard deviation of daily net returns × √252. | Net daily portfolio values. | One estimate over the full run. | 252 sessions/year. | A historical realized metric, not a forward-looking estimate. |
 | Downside Volatility | Annualized downside deviation of net daily returns. | `sqrt(mean(min(return, 0) ** 2)) × √252`. | Net daily portfolio values. | Whole run's daily returns. | 252 sessions/year. | Uses zero as the minimum acceptable return. |
 | Largest Loss Month | Worst monthly net return. | Lowest month-end value return; first month's return is measured from initial capital. | Net portfolio values. | Calendar months. | None. | Partial first and last months are included. |
@@ -101,3 +104,8 @@ value types.
 second metrics export. The configured 20% maximum position weight applies only
 to target weights at regular rebalances: actual weights and `Largest Position
 Weight` may exceed it between rebalances without forced sales.
+
+The separate `parameter_sweep` API uses `pytrading.stats.stats`; its headline
+names (`Sharpe Ratio`, `Calmar Ratio`, `CAGR`, `Max Drawdown`, and `Profit
+Factor`) now share the definitions above rather than VectorBT's different
+observation-frequency annualization.

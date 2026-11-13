@@ -17,6 +17,8 @@ import numpy as np
 import pandas as pd
 import vectorbt as vbt
 
+from pytrading.stats import calendar_cagr
+
 logger = logging.getLogger(__name__)
 _VARIANT_WORKER_PORTFOLIO = None
 _VARIANT_WORKER_CONFIG = None
@@ -1331,8 +1333,8 @@ def _variant_metrics(
     total_return = net_end_value / initial_cash - 1
     gross_total_return = gross_end_value / initial_cash - 1
     elapsed_years = max((values.index[-1] - values.index[0]).days / 365.25, 1 / 252)
-    cagr = (net_end_value / initial_cash) ** (1 / elapsed_years) - 1
-    gross_cagr = (gross_end_value / initial_cash) ** (1 / elapsed_years) - 1
+    cagr = calendar_cagr(values, initial_cash)
+    gross_cagr = calendar_cagr(gross_values, initial_cash)
     volatility = daily_returns.std(ddof=1)
     annualized_volatility = volatility * np.sqrt(252)
     sharpe = (
