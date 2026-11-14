@@ -87,6 +87,46 @@ The daily close series is adjusted. Raw Open, High, and Low are scaled by
 same corporate-action-adjusted price basis. EUR conversion uses the locally
 archived FX rate carried forward from the most recent prior observation.
 
+## Three-year rolling robustness analysis
+
+Run the four fixed variants over yearly-starting, three-calendar-year windows
+with:
+
+```text
+uv run quant-trader experiment rolling-3y
+```
+
+The default start is 2010-01-01. The local close data determines the latest
+available date. Window intervals use `[start_date, end_date)` semantics; each
+new window has the same configured initial cash (EUR 3,000 by default) and a
+fresh VectorBT portfolio, so positions and cash are never carried between
+windows. The existing causal indicator preparation can use historical prices
+before a window for warm-up, but simulated prices, returns, and portfolio
+state are limited to that window. No signal, sizing, rebalance, or order
+execution rules are changed.
+
+The run emits `rolling_3y_results.csv` and an equivalent
+`rolling_3y_results.json`, `rolling_3y_summary.csv`,
+`rolling_3y_comparison.csv`, `rolling_3y_metadata.json`, a copy of
+`metric_definitions.md`, an HTML report, and four Plotly charts. Detail outputs
+include both nominal exclusive window end dates and the last observed
+valuation date. Windows whose nominal end is later than the available local
+data are marked `incomplete`; they remain visible in detail and pairwise rows,
+but are excluded from aggregate statistics and charts.
+Null detail metrics remain null; `Null Metric Reasons` records the documented
+undefined condition, missing calendar-year coverage, or the variant error.
+
+The summary reports min, max, arithmetic mean, median, and sample standard
+deviation for each metric across complete windows. The comparison output gives
+per-window and aggregate differences for CAGR, Sharpe, maximum drawdown, and
+transaction costs. A positive return/Sharpe/drawdown difference is `B - A`;
+the reference variant A is considered better for those metrics when its value
+is higher, and for costs when its costs are lower. Overlapping windows are
+dependent, so the standard deviations describe window dispersion and are not
+independent-sample estimates. The report also calls out each variant's worst
+complete-window CAGR and drawdown. Exact metric and aggregation definitions
+are archived with every run and refer to [METRICS.md](./METRICS.md).
+
 ## Data limitations
 
 The Universe loads the instrument files currently present in `data/`; those

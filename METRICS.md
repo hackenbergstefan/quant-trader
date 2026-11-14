@@ -30,6 +30,7 @@ that instrument's last observed close. Rates and ratios are decimal-valued
 | Sharpe | Zero-risk-free-rate Sharpe ratio for net daily returns. | Mean daily return / sample standard deviation × √252. | Net daily portfolio values. | Whole run's daily returns. | 252 sessions/year. | Undefined (NaN) when return volatility is zero or unavailable. |
 | Sharpe Ratio | Parameter-sweep name for `Sharpe`. | Mean daily return / sample standard deviation × √252. | Net daily portfolio values. | Whole run's daily returns. | 252 sessions/year. | Same definition as `Sharpe`; the VectorBT-native frequency annualization is not used. |
 | Sortino | Zero minimum-acceptable-return Sortino ratio. | Mean net daily return / RMS of negative daily returns × √252. | Net daily portfolio values. | Whole run's daily returns. | 252 sessions/year. | Undefined (NaN) when downside deviation is zero or unavailable. |
+| Sortino Ratio | Rolling-report name for `Sortino`. | Same as `Sortino`. | Net daily portfolio values. | Whole run's daily returns. | 252 sessions/year. | Alias; no separate definition. |
 | Calmar | Net CAGR per unit of maximum drawdown. | CAGR / absolute maximum drawdown. | Net performance metrics. | Whole run. | CAGR is annualized. | Undefined (NaN) when there is no drawdown. |
 | Calmar Ratio | Parameter-sweep name for `Calmar`. | Calendar-time CAGR / absolute maximum drawdown. | Net performance metrics. | Whole run. | Calendar-time CAGR. | Same definition as `Calmar`. |
 | Max Drawdown | Parameter-sweep name for `Maximum Drawdown`. | Minimum of `value / cumulative_max(value) - 1`. | Net daily portfolio values. | Worst date in the run. | None. | Same definition as `Maximum Drawdown`. |
@@ -37,6 +38,7 @@ that instrument's last observed close. Rates and ratios are decimal-valued
 | Downside Volatility | Annualized downside deviation of net daily returns. | `sqrt(mean(min(return, 0) ** 2)) × √252`. | Net daily portfolio values. | Whole run's daily returns. | 252 sessions/year. | Uses zero as the minimum acceptable return. |
 | Largest Loss Month | Worst monthly net return. | Lowest month-end value return; first month's return is measured from initial capital. | Net portfolio values. | Calendar months. | None. | Partial first and last months are included. |
 | Negative Months | Number of months with negative net return. | Count of monthly returns below zero. | Net portfolio values. | Calendar months. | None. | Partial first and last months are included. |
+| Positive Months | Number of months with positive net return. | Count of monthly returns above zero, with the first month's return measured from initial capital. | Net portfolio values and initial capital. | Calendar months. | None. | Partial first and last months are included; zero-return months are not counted. |
 | Positive Month Share | Fraction of months with positive net return. | Count of positive monthly returns / number of monthly returns. | Net portfolio values. | Calendar months. | None. | Zero-return months are not positive. |
 | Profit Factor | Gross profits divided by gross losses on closed VectorBT trades. | Sum of positive closed-trade PnL / absolute sum of negative closed-trade PnL. | Closed VectorBT trade records. | All closed trade records. | None. | Infinity if there are profits and no losses; NaN if neither exists. JSON encodes an infinite result as the string `"Infinity"` because JSON has no non-finite numeric literal. |
 | Number of Trades | Number of closed records in VectorBT's trade accounting. | Length of `result.trades.closed.records_readable`. | Net VectorBT trade records. | Whole run. | None. | Not an order count, FIFO buy-lot count, or guaranteed count of position episodes. |
@@ -45,6 +47,7 @@ that instrument's last observed close. Rates and ratios are decimal-valued
 | Average Exposure | Average fraction of net portfolio value invested in long positions. | Per date, sum of held shares × last available close / net value; then arithmetic mean. | Net holdings, adjusted EUR closes, and net portfolio values. | All valuation dates, including dates with zero exposure. | None. | Stale closes are carried forward across missing dates. |
 | Maximum Exposure | Maximum daily invested fraction of net portfolio value. | Maximum of the daily exposure series. | Same as `Average Exposure`. | Highest valuation date. | None. | May differ from target exposure and can drift with prices. |
 | Cash Allocation | Average fraction not invested in reported long positions. | Arithmetic mean of `1 - daily exposure`. | Same as `Average Exposure`. | All valuation dates. | None. | Complements exposure under the long-only, unlevered portfolio accounting. |
+| Average Cash Allocation | Rolling-report alias for `Cash Allocation`. | Same as `Cash Allocation`. | Same as `Average Exposure`. | All valuation dates in the window. | None. | Alias; no separate definition. |
 | Time with Cash | Fraction of valuation dates with exposure below 100%. | Count of dates where exposure < 1 - 1e-9 / all valuation dates. | Same as `Average Exposure`. | All valuation dates. | None. | It counts any cash remainder, including one caused by fees or unused target allocation. |
 | Average EUROPE Exposure | Average portfolio-value fraction in instruments classified as EUROPE. | Daily regional market value / net value, averaged across dates. | Held shares, carried-forward closes, and country metadata. | All valuation dates. | None. | Countries outside the configured Europe list fall into `OTHER`. |
 | Maximum EUROPE Exposure | Maximum daily EUROPE fraction. | Maximum of daily EUROPE exposure. | Same as `Average EUROPE Exposure`. | Highest valuation date. | None. | Classification depends on available country metadata. |
@@ -83,6 +86,41 @@ that instrument's last observed close. Rates and ratios are decimal-valued
 | Average Position Volatility | Mean annualized volatility of held constituents. | Mean constituent value over active position-dates; constituent volatility is the equal blend of 20- and 60-session sample standard deviations × √252. | Instrument adjusted closes and actual holdings. | Pooled across active instrument-date pairs with valid volatility. | 252 sessions/year. | Constituents are not covariance-adjusted. |
 | Weight-Weighted Average Constituent Volatility | Mean across dates of the invested-weighted constituent volatility. | Per date, sum(position weight × constituent volatility) / sum(weights with valid volatility); then mean. | Actual weights and the 20/60-session constituent volatility series. | Daily weighted constituent estimate, averaged over dates where defined. | 252 sessions/year within constituent volatility. | Not portfolio volatility; ignores correlations. Replaces the misleading old label `Weighted Average Portfolio Volatility`. |
 | Average Covariance-Based Portfolio Volatility | Mean point-in-time annualized covariance estimate for actual holdings. | For each date, `sqrt(wᵀΣw) × √252`, where Σ is sample covariance of the last at most 60 jointly observed daily returns for instruments held that date; minimum 20 complete observations. Cash has zero return and is implicit. | Adjusted closes, actual close-marked weights, and exchange calendars for mapped instruments. | Daily estimates averaged over dates; all-cash dates contribute zero. | 252 sessions/year. | Uses complete same-date observations only; insufficient history yields NaN. Unmapped calendars and asynchronous market closes can reduce observations. Estimate is close-of-date, not intraday. |
+
+## Rolling-window aggregation
+
+The rolling robustness output is generated from the same per-window result
+rows as its detail CSV, detail JSON, and HTML report. `Sharpe Ratio`, `Sortino
+Ratio`, `Calmar Ratio`, and `Average Cash Allocation` are report aliases for
+the identically defined metrics shown above; they do not recalculate returns.
+`Positive Months` uses the same monthly return series as `Negative Months` and
+`Positive Month Share`. Cost-to-capital metrics divide the named absolute cost
+by that window's starting capital and remain decimal-valued.
+
+Each nominal three-year window is `[start_date, end_date)`. A dataset-level
+window is complete if its nominal end is no later than the calendar day after
+the latest date with any local close observation. Incomplete windows are run
+only through the latest observed date and are retained in detail, but excluded
+from summary statistics, charts, and aggregate pairwise comparisons. Per-window
+position, exposure, cash, volatility, trade, and cost metrics retain their
+definitions above. Summary min/max/mean/median/sample standard deviation treat
+each complete window as one observation; they do not pool daily observations
+across overlapping windows. The sample standard deviation uses `ddof=1`.
+Positive/negative window counts use `Net Total Return`; a return of exactly
+zero is neither positive nor negative. Window overlap makes these observations
+dependent, so dispersion is descriptive rather than an independent-sample
+estimate.
+
+Pairwise differences are reported as variant B minus reference variant A.
+Higher CAGR, Sharpe, and maximum drawdown (a less-negative drawdown) are
+considered better; lower transaction costs are better. The share of windows in
+which A is better is calculated over complete windows with both values present.
+The rolling report uses existing configured strategy, cost, and execution
+definitions; it does not modify signal, sizing, rebalance, or order behavior.
+Each detail row's `Null Metric Reasons` field is a JSON object keyed by null
+metric or annual field. It distinguishes absent calendar-year observations,
+known undefined-metric conditions, and variant failures; the null metric itself
+remains null rather than being replaced by zero.
 | Weight Concentration HHI | Average Herfindahl-Hirschman concentration of invested holdings. | Per invested date, sum((position weight / total invested exposure)²); mean over invested dates. | Actual close-marked position weights. | Daily invested-portfolio HHI, excluding zero-exposure dates. | None. | Cash is excluded from the normalization; HHI is not normalized to [0, 1] by asset count. |
 | Time at or Above Position Cap | Fraction of all portfolio valuation dates with a position at or above the configured cap. | Count dates where maximum actual position weight ≥ `max_position_weight - 1e-6` / all valuation dates. | Actual close-marked weights and configured target cap. | All valuation dates, including dates with no holdings. | None. | Tests actual weights; the 20% limit is only a target-weight cap at scheduled rebalances, not an intraperiod hard limit. |
 
