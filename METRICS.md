@@ -107,8 +107,10 @@ definitions above. Summary min/max/mean/median/sample standard deviation treat
 each complete window as one observation; they do not pool daily observations
 across overlapping windows. The sample standard deviation uses `ddof=1`.
 Positive/negative window counts use `Net Total Return`; a return of exactly
-zero is neither positive nor negative. Window overlap makes these observations
-dependent, so dispersion is descriptive rather than an independent-sample
+zero is neither positive nor negative. With a step shorter than the window,
+overlap makes observations dependent. With a three-year step, windows do not
+overlap, but adjacent chronological outcomes may still be serially dependent.
+In either case, dispersion is descriptive rather than an independent-sample
 estimate.
 
 Pairwise differences are reported as variant B minus reference variant A.

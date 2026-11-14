@@ -281,7 +281,6 @@ def _enrich_result(
         )
     for metric in ROLLING_METRICS:
         result.setdefault(metric, None)
-    result["Null Metric Reasons"] = _null_metric_reasons(result)
     return result
 
 
@@ -553,6 +552,25 @@ def _write_plots(output_dir: Path, details: pd.DataFrame) -> list[str]:
     return files
 
 
+def _window_dependence_note(window_years: int, step_years: int) -> str:
+    if step_years < window_years:
+        return (
+            "Windows overlap and are dependent; standard deviations describe "
+            "window dispersion and are not independent-sample estimates."
+        )
+    if step_years == window_years:
+        return (
+            "Windows do not overlap. Adjacent chronological windows may still be "
+            "serially dependent, so standard deviations are descriptive rather "
+            "than independent-sample estimates."
+        )
+    return (
+        "Windows do not overlap and are separated by gaps. Chronological outcomes "
+        "may still be serially dependent, so standard deviations are descriptive "
+        "rather than independent-sample estimates."
+    )
+
+
 def _report_html(
     run_id: str,
     details: pd.DataFrame,
@@ -561,6 +579,8 @@ def _report_html(
     plot_files: list[str],
     complete_count: int,
     incomplete_count: int,
+    window_years: int,
+    step_years: int,
 ) -> str:
     key_metrics = {
         "Net CAGR",
@@ -650,6 +670,7 @@ def _report_html(
         "width='100%' height='520'></iframe>"
         for filename in plot_files
     )
+    dependence_note = _window_dependence_note(window_years, step_years)
     return (
         "<!doctype html><html><head><meta charset='utf-8'>"
         "<title>Three-year rolling robustness</title></head><body>"
@@ -661,9 +682,8 @@ def _report_html(
         "<p>Each window starts with fresh initial capital. Window end dates are "
         "exclusive; the last available close before the end is the final valuation. "
         "Indicators may use preceding available history, but returns and portfolio "
-        "state are restricted to each window. Overlapping windows are dependent, "
-        "so cross-window standard deviations are descriptive, not independent-sample "
-        "estimates.</p>"
+        "state are restricted to each window. "
+        f"{html.escape(dependence_note)}</p>"
         "<p>Portfolio, trade, cost, and volatility metric definitions follow "
         "<a href='metric_definitions.md'>METRICS.md</a>. Dataset limitations include "
         "survivorship bias because historical index membership is unavailable.</p>"
@@ -714,12 +734,19 @@ def refresh_rolling_exports(output_dir: Path) -> Path:
     metadata["summary_fields"] = list(summary.columns)
     metadata["comparison_fields"] = list(comparisons.columns)
     metadata["rolling_metrics"] = list(ROLLING_METRICS)
+    metadata["overlap_note"] = _window_dependence_note(
+        metadata["window_years"], metadata["step_years"]
+    )
     metadata["null_metric_reasons"] = (
         "A JSON object in each detail row maps null metric/annual fields to the "
         "documented reason, the absent calendar-year coverage, or the variant error."
     )
     metadata_path.write_text(
         json.dumps(metadata, indent=2, sort_keys=True), encoding="utf-8"
+    )
+    shutil.copyfile(
+        Path(__file__).resolve().parents[2] / "METRICS.md",
+        output_dir / "metric_definitions.md",
     )
 
     windows = details[["Window ID", "Complete Window"]].drop_duplicates()
@@ -742,6 +769,8 @@ def refresh_rolling_exports(output_dir: Path) -> Path:
             plot_files,
             int(windows["Complete Window"].sum()),
             int(windows["Complete Window"].eq(False).sum()),
+            metadata["window_years"],
+            metadata["step_years"],
         ),
         encoding="utf-8",
     )
@@ -778,6 +807,11 @@ def run_rolling_comparison(
         result_rows.extend(_enrich_result(row, window, initial_capital) for row in rows)
 
     details = pd.DataFrame(result_rows)
+    reason_column = pd.Series(
+        [_null_metric_reasons(row) for row in details.to_dict(orient="records")],
+        name="Null Metric Reasons",
+    )
+    details = pd.concat([details, reason_column], axis=1)
     details["Run ID"] = None
     summary = aggregate_rolling_results(details)
     comparisons = _pairwise_comparisons(details)
@@ -849,10 +883,7 @@ def run_rolling_comparison(
             "before the window for causal indicator warm-up; simulation prices and "
             "returns are sliced to [start_date, observed_end_date_exclusive)."
         ),
-        "overlap_note": (
-            "Overlapping windows are dependent; standard deviations summarize "
-            "observed window dispersion and are not independent-sample estimates."
-        ),
+        "overlap_note": _window_dependence_note(window_years, step_years),
         "data_limitations": (
             "Instrument files lack historical index membership and may introduce "
             "survivorship bias. Completeness is dataset-level; instruments can "
@@ -897,6 +928,8 @@ def run_rolling_comparison(
             plot_files,
             complete_count,
             incomplete_count,
+            window_years,
+            step_years,
         ),
         encoding="utf-8",
     )
@@ -907,6 +940,7 @@ def run_standard_rolling_comparison(
     start_date: str = DEFAULT_START_DATE,
     initial_capital: float = DEFAULT_INITIAL_CAPITAL,
     output_root: Path | None = None,
+    step_years: int = ROLLING_STEP_YEARS,
 ) -> Path:
     from pytrading.data_helper import Universe
 
@@ -928,4 +962,5 @@ def run_standard_rolling_comparison(
     return run_rolling_comparison(
         portfolio,
         output_root or project_root / "results" / "experiments",
+        step_years=step_years,
     )

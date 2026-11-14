@@ -63,6 +63,9 @@ def rolling_3y(
     start_date: str = typer.Option(
         DEFAULT_START_DATE, help="Inclusive start date for rolling windows."
     ),
+    step_years: int = typer.Option(
+        1, min=1, help="Years between window starts; use 3 for non-overlapping windows."
+    ),
     initial_capital: float = INITIAL_CAPITAL_OPTION,
     output_root: Path = OUTPUT_ROOT_OPTION,
 ) -> None:
@@ -71,6 +74,7 @@ def rolling_3y(
             start_date=start_date,
             initial_capital=initial_capital,
             output_root=output_root,
+            step_years=step_years,
         )
     except Exception as exc:
         typer.secho(

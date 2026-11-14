@@ -8,6 +8,7 @@ from pytrading import BrokerConfig, Portfolio
 from pytrading.rolling_analysis import (
     _null_metric_reasons,
     _pairwise_comparisons,
+    _window_dependence_note,
     aggregate_rolling_results,
     build_rolling_windows,
     refresh_rolling_exports,
@@ -49,6 +50,20 @@ def test_rolling_windows_use_exclusive_ends_and_separate_incomplete_periods():
     assert windows[-1].end_date_exclusive == pd.Timestamp("2029-01-01")
     assert windows[-1].observed_end_exclusive == pd.Timestamp("2026-11-07")
     assert windows[-1].backtest_end_date == "2026-11-06"
+
+    non_overlapping = build_rolling_windows("2010-01-01", "2026-11-06", step_years=3)
+    assert [window.start_date.year for window in non_overlapping] == [
+        2010,
+        2013,
+        2016,
+        2019,
+        2022,
+        2025,
+    ]
+    assert sum(window.complete for window in non_overlapping) == 5
+    assert not non_overlapping[-1].complete
+    assert "do not overlap" in _window_dependence_note(3, 3)
+    assert "overlap" in _window_dependence_note(3, 1)
 
 
 def test_indicator_history_precedes_window_but_simulation_slice_does_not():
@@ -263,6 +278,8 @@ def test_rolling_run_exports_consistent_rows_and_resets_each_window(
                     "_Gross Equity": equity + 10,
                 }
             )
+            if window_portfolio.start_date == "2020-01-01":
+                rows[-1]["Annualized Two-sided Turnover 2019"] = None
         return rows
 
     monkeypatch.setattr(
@@ -300,9 +317,43 @@ def test_rolling_run_exports_consistent_rows_and_resets_each_window(
     assert detail_csv["Positive Months"].gt(0).all()
     reasons = json.loads(detail_json[0]["Null Metric Reasons"])
     assert "Average Holding Period (sessions)" in reasons
+    assert "Annualized Two-sided Turnover 2019" in reasons
+    next_window_reasons = json.loads(detail_json[4]["Null Metric Reasons"])
+    assert "Annualized Two-sided Turnover 2019" in next_window_reasons
     report = (output_dir / "report.html").read_text(encoding="utf-8")
     assert "Each window starts with fresh initial capital" in report
     assert "AB-M5" in report
     refresh_rolling_exports(output_dir)
     refreshed = pd.read_csv(output_dir / "rolling_3y_results.csv")
     assert "Null Metric Reasons" in refreshed.columns
+
+
+def test_standard_runner_passes_requested_step_years(monkeypatch, tmp_path):
+    from pytrading import data_helper, rolling_analysis
+
+    dates = pd.bdate_range("2020-01-02", periods=3)
+    close = pd.DataFrame({"A": [10.0, 11.0, 12.0]}, index=dates)
+    universe = _portfolio(close).universe
+    captured = {}
+
+    monkeypatch.setattr(data_helper, "Universe", lambda: universe)
+
+    def fake_run_rolling_comparison(portfolio, output_root, **kwargs):
+        captured["portfolio"] = portfolio
+        captured["output_root"] = output_root
+        captured.update(kwargs)
+        return output_root
+
+    monkeypatch.setattr(
+        rolling_analysis, "run_rolling_comparison", fake_run_rolling_comparison
+    )
+
+    output = rolling_analysis.run_standard_rolling_comparison(
+        start_date="2020-01-01",
+        output_root=tmp_path,
+        step_years=3,
+    )
+
+    assert output == tmp_path
+    assert captured["step_years"] == 3
+    assert captured["portfolio"].end_date == "2020-01-06"

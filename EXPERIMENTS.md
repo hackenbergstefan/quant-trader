@@ -104,6 +104,8 @@ windows. The existing causal indicator preparation can use historical prices
 before a window for warm-up, but simulated prices, returns, and portfolio
 state are limited to that window. No signal, sizing, rebalance, or order
 execution rules are changed.
+Set `--step-years 3` to run contiguous, non-overlapping three-year periods such
+as 2010-2013, 2013-2016, and so on. The default step remains one year.
 
 The run emits `rolling_3y_results.csv` and an equivalent
 `rolling_3y_results.json`, `rolling_3y_summary.csv`,
@@ -123,9 +125,11 @@ transaction costs. A positive return/Sharpe/drawdown difference is `B - A`;
 the reference variant A is considered better for those metrics when its value
 is higher, and for costs when its costs are lower. Overlapping windows are
 dependent, so the standard deviations describe window dispersion and are not
-independent-sample estimates. The report also calls out each variant's worst
-complete-window CAGR and drawdown. Exact metric and aggregation definitions
-are archived with every run and refer to [METRICS.md](./METRICS.md).
+independent-sample estimates. With a three-year step, windows do not overlap,
+but adjacent chronological outcomes may still be serially dependent. The
+report also calls out each variant's worst complete-window CAGR and drawdown.
+Exact metric and aggregation definitions are archived with every run and refer
+to [METRICS.md](./METRICS.md).
 
 ## Data limitations
 
