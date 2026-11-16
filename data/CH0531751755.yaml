@@ -1,0 +1,262 @@
+52WeekChange: 0.41985524
+SandP52WeekChange: 0.097798586
+address1: Place Saint-François 14
+address2: Case postale 300
+allTimeHigh: 138.9
+allTimeLow: 5.9
+ask: 138.9
+askSize: 0
+auditRisk: 1
+averageDailyVolume10Day: 53785
+averageDailyVolume3Month: 50461
+averageVolume: 50461
+averageVolume10days: 53785
+beta: -0.011
+bid: 138.7
+bidSize: 0
+boardRisk: 7
+bookValue: 46.282
+city: Lausanne
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pascal  Kiener
+  title: CEO & Member of Management Board
+  totalPay: 1857474
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Thomas W. Paulsen Ph.D.
+  title: CFO, Head of Finance & Risks and Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bertrand  Sager
+  title: Chief Credit Officer, Head of Credit Management Division & Member of the
+    Executive Board
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian  Meixenberger
+  title: Head of Business Support & Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andreas  Diemant
+  title: Head of Corporate Banking & Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fabrice  Welsch
+  title: Head of Asset Management & Trading Division and Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian  Steinmann
+  title: Head of Private Banking & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Eric  Longchamp
+  title: Member of Management Board
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anne  Maillard
+  title: Head of Retail Banking & Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory  Duong
+  title: Investor Relations Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 138.7
+customPriceAlertConfidence: LOW
+dayHigh: 139.3
+dayLow: 136.7
+dividendDate: 1747180800
+dividendRate: 4.4
+dividendYield: 3.2
+earningsCallTimestampEnd: 1787227200
+earningsCallTimestampStart: 1787227200
+earningsQuarterlyGrowth: 0.049
+earningsTimestamp: 1787239800
+earningsTimestampEnd: 1787239800
+earningsTimestampStart: 1787239800
+ebitdaMargins: 0.0
+enterpriseToRevenue: 19.139
+enterpriseValue: 22259236864
+epsCurrentYear: 5.26298
+epsForward: 5.41199
+epsTrailingTwelveMonths: 5.12
+esgPopulated: false
+exDividendDate: 1777939200
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 130.096
+fiftyDayAverageChange: 8.604004
+fiftyDayAverageChangePercent: 0.06613581
+fiftyTwoWeekChangePercent: 41.985523
+fiftyTwoWeekHigh: 139.3
+fiftyTwoWeekHighChange: -0.6000061
+fiftyTwoWeekHighChangePercent: -0.0043072943
+fiftyTwoWeekLow: 92.1
+fiftyTwoWeekLowChange: 46.6
+fiftyTwoWeekLowChangePercent: 0.5059718
+fiftyTwoWeekRange: 92.1 - 139.3
+financialCurrency: CHF
+firstTradeDateMilliseconds: 1039161600000
+fiveYearAvgDividendYield: 4.2
+floatShares: 28074628
+forwardEps: 5.41199
+forwardPE: 25.628279
+fullExchangeName: Swiss
+fullTimeEmployees: 2085
+fulldayChange: 1.3999939
+fulldayChangePercent: 1.0196605
+fulldayPrice: 138.7
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 1163000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.67175
+heldPercentInstitutions: 0.1692
+impliedSharesOutstanding: 85886651
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: http://www.bcv.ch/en/bcv/investor_relations
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777939200
+lastDividendValue: 4.4
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1590624000
+lastSplitFactor: '10:1'
+longBusinessSummary: 'Banque Cantonale Vaudoise engages in the provision of various
+  financial services in Vaud Canton and rest of Switzerland, the European Union, North
+  America, and internationally. It operates through four divisions: Retail Banking,
+  Private Banking, Corporate Banking, and Asset Management & Trading. The company
+  offers current, savings, foreign-currency, and retirement investment accounts; overdraft
+  facilities; credit and payment cards; mortgage, personal, home, business, and construction
+  loans; and production equipment financing and working capital and international
+  trade finance products. It also provides a range of banking services, such as investments,
+  real estate, financial planning services, and trading through its TradeDirect online
+  platform; and cash management services, as well as instruments for hedging exchange-rate
+  and interest-rate risk. In addition, the company offers asset and wealth management
+  services; and investment and hedging products, such as currencies, equities, bonds,
+  derivatives, and structured products. Further, it engages in the market transactions
+  in equities, fixed-income instruments, forex, and precious metals on behalf of clients.
+  Additionally, the company provides life insurance products, ATMs, and online banking
+  services; manages finances and investments of high-net-worth individuals; and advisory
+  services, such as tax planning, estate planning, and financial planning; and retirement,
+  life insurance, and disability coverages. It primarily serves retail and business
+  customers, and public sector institutions. Banque Cantonale Vaudoise was founded
+  in 1845 and is headquartered in Lausanne, Switzerland.'
+longName: Banque Cantonale Vaudoise
+market: ch_market
+marketCap: 11912477696
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874113
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 440200000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 11792237182
+numberOfAnalystOpinions: 1
+open: 137.0
+operatingMargins: 0.44291002
+overallRisk: 6
+payoutRatio: 0.8589
+pegRatio: 6.06
+phone: 41 844 228 228
+previousClose: 137.3
+priceEpsCurrentYear: 26.35389
+priceHint: 2
+priceToBook: 2.9968452
+priceToSalesTrailing12Months: 10.242887
+profitMargins: 0.37849998
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 1.3999939
+regularMarketChangePercent: 1.0196605
+regularMarketDayHigh: 139.3
+regularMarketDayLow: 136.7
+regularMarketDayRange: 136.7 - 139.3
+regularMarketOpen: 137.0
+regularMarketPreviousClose: 137.3
+regularMarketPrice: 138.7
+regularMarketTime: 1794411340
+regularMarketVolume: 13245
+returnOnAssets: 0.0070700003
+returnOnEquity: 0.116059996
+revenueGrowth: 0.023
+revenuePerShare: 13.391
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 85886651
+shortName: BC VAUD N
+sourceInterval: 15
+symbol: BCVN.SW
+targetHighPrice: 112.0
+targetLowPrice: 112.0
+targetMeanPrice: 112.0
+targetMedianPrice: 112.0
+totalCash: 9301999616
+totalCashPerShare: 108.306
+totalDebt: 19768999936
+totalRevenue: 1163000064
+tradeable: false
+trailingAnnualDividendRate: 4.4
+trailingAnnualDividendYield: 0.032046612
+trailingEps: 5.12
+trailingPE: 27.089844
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 123.0595
+twoHundredDayAverageChange: 15.640495
+twoHundredDayAverageChangePercent: 0.12709701
+typeDisp: Equity
+volume: 13245
+website: https://www.bcv.ch
+zip: '1001'

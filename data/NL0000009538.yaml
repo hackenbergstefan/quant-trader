@@ -1,0 +1,262 @@
+52WeekChange: 0.06493509
+SandP52WeekChange: 0.097798586
+address1: Philips Center
+address2: Prinses Irenestraat 59
+allTimeHigh: 52.890896
+allTimeLow: 1.623423
+ask: 0.0
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 3103398
+averageDailyVolume3Month: 1745574
+averageVolume: 1745574
+averageVolume10days: 3103398
+beta: 0.813
+bid: 0.0
+bidSize: 0
+boardRisk: 1
+bookValue: 11.845
+city: Amsterdam
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Roy Willem Odilia Jakobs
+  title: President, CEO & Chairman of the Board of Management
+  totalPay: 3197600
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Paulus A. Stoffels M.D., Ph.D.
+  title: Independent Vice Chairman of Supervisory Board & Secretary
+  totalPay: 185519
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Charlotte  Hanneman
+  title: Executive VP, CFO & Member of Board of Management
+  totalPay: 1668282
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marnix J. van Ginneken Ph.D.
+  title: Executive VP, Chief ESG & Legal Officer and Member of the Board of Management
+  totalPay: 1600574
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Willem  Appelo
+  title: Executive VP & COO
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laura  Matz
+  title: Executive VP and Chief Innovation & Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Durga  Doraisamy
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Heidi  Sichien
+  title: Executive VP & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jan  Kimpen M.D., Ph.D.
+  title: Chief Medical Officer
+  unexercisedValue: 0
+  yearBorn: 1958
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pim  Preesman
+  title: Country Leader/ Health Systems Leader Indonesia
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 27.13
+currentRatio: 1.328
+customPriceAlertConfidence: LOW
+dayHigh: 27.22
+dayLow: 26.75
+debtToEquity: 70.109
+dividendRate: 0.85
+dividendYield: 3.14
+earningsCallTimestampEnd: 1793696400
+earningsCallTimestampStart: 1793696400
+earningsGrowth: -0.854
+earningsQuarterlyGrowth: -0.853
+earningsTimestamp: 1793723400
+earningsTimestampEnd: 1793723400
+earningsTimestampStart: 1793723400
+ebitda: 2203000064
+ebitdaMargins: 0.124069996
+enterpriseToEbitda: 14.467
+enterpriseToRevenue: 1.795
+enterpriseValue: 31871234048
+epsCurrentYear: 1.67835
+epsForward: 1.73808
+epsTrailingTwelveMonths: 0.41
+esgPopulated: false
+exDividendDate: 1778544000
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 22.9014
+fiftyDayAverageChange: 4.2285995
+fiftyDayAverageChangePercent: 0.18464372
+fiftyTwoWeekChangePercent: 6.493509
+fiftyTwoWeekHigh: 28.03
+fiftyTwoWeekHighChange: -0.9000015
+fiftyTwoWeekHighChangePercent: -0.032108508
+fiftyTwoWeekLow: 20.9
+fiftyTwoWeekLowChange: 6.2299995
+fiftyTwoWeekLowChangePercent: 0.2980861
+fiftyTwoWeekRange: 20.9 - 28.03
+financialCurrency: EUR
+firstTradeDateMilliseconds: 796287600000
+fiveYearAvgDividendYield: 2.69
+floatShares: 976988327
+forwardEps: 1.73808
+forwardPE: 15.609178
+freeCashflow: 1848625024
+fullExchangeName: Amsterdam
+fullTimeEmployees: 63909
+fulldayChange: 0.069999695
+fulldayChangePercent: 0.2586833
+fulldayPrice: 27.13
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.46429002
+grossProfits: 8243999744
+hasPrePostMarketData: false
+heldPercentInsiders: 0.18979
+heldPercentInstitutions: 0.5032
+impliedSharesOutstanding: 977614000
+industry: Medical Devices
+industryDisp: Medical Devices
+industryKey: medical-devices
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778544000
+lastDividendValue: 0.85
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1715212800
+lastSplitFactor: 30.2684:29.2684
+longBusinessSummary: Koninklijke Philips N.V. operates as a health technology company
+  in North America, the Greater China, and internationally. It operates through Diagnosis
+  & Treatment, Connected Care, and Personal Health segments. The company provides
+  diagnostic imaging solutions, includes ultrasound business unit, magnetic resonance
+  imaging, computed tomography, and diagnostic x-ray; Image Guided Therapy, including
+  image guided therapy systems and image guided therapy devices. It also offers monitoring,
+  enterprise informatics, and sleep and respiratory care, as well as personal health.
+  Koninklijke Philips N.V. has strategic alliance with WellSpan Health to advanced
+  imaging and diagnostics technology products and platforms. The company was formerly
+  known as Koninklijke Philips Electronics N.V. and changed its name to Koninklijke
+  Philips N.V. in May 2013. Koninklijke Philips N.V. was founded in 1891 and is headquartered
+  in Amsterdam, the Netherlands.
+longName: Koninklijke Philips N.V.
+market: nl_market
+marketCap: 26522667008
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_185801
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 955000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 26454234840
+numberOfAnalystOpinions: 20
+open: 27.04
+operatingCashflow: 2499000064
+operatingMargins: 0.08803
+overallRisk: 1
+payoutRatio: 2.0732
+pegRatio: 0.91
+phone: 31 20 597 7777
+previousClose: 27.06
+priceEpsCurrentYear: 16.164686
+priceHint: 2
+priceToBook: 2.2904177
+priceToSalesTrailing12Months: 1.4937298
+profitMargins: 0.0539
+quickRatio: 0.805
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.4
+region: US
+regularMarketChange: 0.069999695
+regularMarketChangePercent: 0.2586833
+regularMarketDayHigh: 27.22
+regularMarketDayLow: 26.75
+regularMarketDayRange: 26.75 - 27.22
+regularMarketOpen: 27.04
+regularMarketPreviousClose: 27.06
+regularMarketPrice: 27.13
+regularMarketTime: 1794411576
+regularMarketVolume: 694976
+returnOnAssets: 0.035940003
+returnOnEquity: 0.08607
+revenueGrowth: 0.021
+revenuePerShare: 18.516
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 5
+sharesOutstanding: 977614000
+shortName: KON.PHILIPS N.V.
+sourceInterval: 15
+symbol: PHIA.AS
+targetHighPrice: 35.0
+targetLowPrice: 22.0
+targetMeanPrice: 27.8
+targetMedianPrice: 27.0
+totalCash: 2751000064
+totalCashPerShare: 2.814
+totalDebt: 8138999808
+totalRevenue: 17756000256
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 0.41
+trailingPE: 66.17073
+trailingPegRatio: 0.9024
+triggerable: false
+twoHundredDayAverage: 23.58125
+twoHundredDayAverageChange: 3.54875
+twoHundredDayAverageChangePercent: 0.15049033
+typeDisp: Equity
+volume: 694976
+website: https://www.philips.com
+zip: 1077 WV

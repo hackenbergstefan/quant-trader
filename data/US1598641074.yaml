@@ -1,0 +1,274 @@
+52WeekChange: 1.0163264
+SandP52WeekChange: 0.097798586
+address1: 251 Ballardvale Street
+allTimeHigh: 460.21
+allTimeLow: 17.1875
+ask: 349.9
+askSize: 80
+auditRisk: 2
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 1312510
+averageDailyVolume3Month: 1059542
+averageVolume: 1059542
+averageVolume10days: 1312510
+beta: 1.338
+bid: 349.04
+bidSize: 80
+boardRisk: 1
+bookValue: 67.404
+city: Wilmington
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Birgit  Girshick
+  title: CEO & Director
+  totalPay: 1774768
+  unexercisedValue: 199617
+  yearBorn: 1970
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Gunnar Knell
+  title: Corporate Senior VP & Chief Accounting Officer
+  totalPay: 912225
+  unexercisedValue: 17357
+  yearBorn: 1977
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph W. LaPlume J.D.
+  title: Corporate Executive Vice President of Corporate Development & Strategy
+  totalPay: 1252886
+  unexercisedValue: 185492
+  yearBorn: 1974
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Victoria L. Creamer
+  title: Corporate Executive VP & Chief People Officer
+  totalPay: 1225929
+  unexercisedValue: 123287
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Todd  Spencer
+  title: Corporate Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kerry  Dailey
+  title: Corporate Senior VP & Chief Legal Officer
+  unexercisedValue: 0
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Brian F. Bathgate Ph.D.
+  title: Corporate Senior Vice President of European Safety Assessment
+  unexercisedValue: 0
+  yearBorn: 1960
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Colin S. Dunn BVMS, Ph.D.
+  title: Corporate Senior Vice President of Global Research Models & Services
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shannon M. Parisotto
+  title: Corporate Executive Vice President of Global Discovery & Safety Assessment
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristen M. Eisenhauer
+  title: Corporate Senior VP & Chief Commercial Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 348.97
+currentRatio: 1.409
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 356.0
+dayLow: 346.5001
+debtToEquity: 87.075
+displayName: Charles River Laboratories
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793800800
+earningsCallTimestampStart: 1793800800
+earningsGrowth: 5.236
+earningsQuarterlyGrowth: 5.12
+earningsTimestamp: 1793799000
+earningsTimestampEnd: 1793799000
+earningsTimestampStart: 1793799000
+ebitda: 909380992
+ebitdaMargins: 0.22867
+enterpriseToEbitda: 21.19
+enterpriseToRevenue: 4.845
+enterpriseValue: 19269664768
+epsCurrentYear: 11.47133
+epsForward: 12.9626
+epsTrailingTwelveMonths: 0.92
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 307.984
+fiftyDayAverageChange: 40.985992
+fiftyDayAverageChangePercent: 0.1330783
+fiftyTwoWeekChangePercent: 101.632645
+fiftyTwoWeekHigh: 379.63
+fiftyTwoWeekHighChange: -30.660004
+fiftyTwoWeekHighChangePercent: -0.080762856
+fiftyTwoWeekLow: 146.2
+fiftyTwoWeekLowChange: 202.77
+fiftyTwoWeekLowChangePercent: 1.3869357
+fiftyTwoWeekRange: 146.2 - 379.63
+financialCurrency: USD
+firstTradeDateMilliseconds: 961767000000
+floatShares: 47401875
+forwardEps: 12.9626
+forwardPE: 26.921297
+freeCashflow: 443239616
+fullExchangeName: NYSE
+fullTimeEmployees: 18300
+fulldayChange: 3.1700134
+fulldayChangePercent: 0.9167188
+fulldayPrice: 348.97
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.35097998
+grossProfits: 1395820032
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00471
+heldPercentInstitutions: 1.18313
+impliedSharesOutstanding: 47917467
+industry: Diagnostics & Research
+industryDisp: Diagnostics & Research
+industryKey: diagnostics-research
+irWebsite: http://ir.criver.com/phoenix.zhtml?c=121668&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1766793600
+longBusinessSummary: Charles River Laboratories International, Inc. provides drug
+  discovery, non-clinical development, and safety testing services in the United States,
+  Europe, Canada, the Asia Pacific, and internationally. The Research Models and Services
+  segment produces and sells rodents, and purpose-bred rats and mice for use by researchers.
+  This segment also provides a range of services to assist its clients in supporting
+  the use of research models in research and screening pre-clinical drug candidates,
+  including genetically engineered models and services, insourcing solutions, and
+  research animal diagnostic services; and engages in development and production of
+  cell therapies. The Discovery and Safety Assessment segment offers in vitro and
+  in vivo discovery services for the discovery, development, and safety testing of
+  novel drugs, molecule compounds, oligonucleotides, and biotherapeutics, and antibodies
+  through delivery of preclinical drug and therapeutic candidates ready for safety
+  assessment; safety assessment services, such as toxicology, pathology, safety pharmacology,
+  bioanalysis, drug metabolism, and pharmacokinetics services; and vivarium space
+  services. The Manufacturing Solutions segment provides in vitro methods for conventional
+  and rapid quality control testing of sterile and non-sterile pharmaceuticals and
+  consumer products; offers specialized testing of biologics that are outsourced by
+  pharmaceutical and biotechnology companies; and contract development and manufacturing
+  products and services. The company has collaborations with Parker Institute for
+  Cancer Immunotherapy and Children's Hospital Los Angeles across its contract development
+  and manufacturing organization; and Medigen Vaccine Biologics Corp for developing
+  next-generation multivalent enterovirus vaccine, enhance global regulatory readiness,
+  and support IND-enabling non-clinical studies. Charles River Laboratories International,
+  Inc. was founded in 1947 and is headquartered in Wilmington, Massachusetts.
+longName: Charles River Laboratories International, Inc.
+market: us_market
+marketCap: 16721759232
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_91093
+mostRecentQuarter: 1790380800
+netIncomeToCommon: 40187000
+nextFiscalYearEnd: 1798329600
+nonDilutedMarketCap: 16569860088
+numberOfAnalystOpinions: 15
+open: 347.38
+operatingCashflow: 622406976
+operatingMargins: 0.1427
+overallRisk: 4
+payoutRatio: 0.0
+pegRatio: 0.12
+phone: 781 222 6000
+previousClose: 345.8
+priceEpsCurrentYear: 30.421059
+priceHint: 2
+priceToBook: 5.1772895
+priceToSalesTrailing12Months: 4.2047567
+profitMargins: 0.01011
+quickRatio: 0.859
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.64706
+region: US
+regularMarketChange: 3.1700134
+regularMarketChangePercent: 0.9167188
+regularMarketDayHigh: 356.0
+regularMarketDayLow: 346.5001
+regularMarketDayRange: 346.5001 - 356.0
+regularMarketOpen: 347.38
+regularMarketPreviousClose: 345.8
+regularMarketPrice: 348.97
+regularMarketTime: 1794413645
+regularMarketVolume: 140524
+returnOnAssets: 0.047399998
+returnOnEquity: 0.0126600005
+revenueGrowth: -0.022
+revenuePerShare: 82.001
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 8
+sharesOutstanding: 47917467
+sharesPercentSharesOut: 0.0623
+sharesShort: 2987094
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2878537
+shortName: Charles River Laboratories Inte
+shortPercentOfFloat: 0.072
+shortRatio: 2.61
+sourceInterval: 15
+state: MA
+symbol: CRL
+targetHighPrice: 400.0
+targetLowPrice: 145.0
+targetMeanPrice: 349.0
+targetMedianPrice: 375.0
+totalCash: 200380992
+totalCashPerShare: 4.182
+totalDebt: 2851930112
+totalRevenue: 3976867072
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 0.92
+trailingPE: 379.31522
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 225.8434
+twoHundredDayAverageChange: 123.1266
+twoHundredDayAverageChangePercent: 0.54518574
+typeDisp: Equity
+volume: 140524
+website: https://www.criver.com
+zip: 01887

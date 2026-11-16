@@ -1,0 +1,236 @@
+52WeekChange: -0.011503696
+SandP52WeekChange: 0.097798586
+address1: Dachauer Strasse 665
+allTimeHigh: 404.8
+allTimeLow: 12.87
+ask: 355.5
+askSize: 34
+auditRisk: 7
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 161302
+averageDailyVolume3Month: 128585
+averageVolume: 128585
+averageVolume10days: 161302
+beta: 0.846
+bid: 355.5
+bidSize: 207
+boardRisk: 2
+bookValue: 88.48
+city: Munich
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Johannes  Bussmann
+  title: CEO & Chairman of the Executive Board
+  totalPay: 2686651
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katja Garcia Vila
+  title: CFO, Chief Information Officer & Member of the Executive Board
+  totalPay: 1977402
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Silke  Maurer
+  title: COO & Member of Executive Board
+  totalPay: 1956312
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Ottmar  Pfander
+  title: Chief Program Officer & Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Franz
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Susanne  Lenz
+  title: Head of Corporate Communications & Public Affairs
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Markus  Wolfle
+  title: Director of Corporate Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 355.6
+currentRatio: 1.423
+customPriceAlertConfidence: LOW
+dayHigh: 367.1
+dayLow: 354.2
+debtToEquity: 55.567
+dividendRate: 3.6
+dividendYield: 1.01
+earningsCallTimestampEnd: 1793268000
+earningsCallTimestampStart: 1793268000
+earningsGrowth: -0.097
+earningsQuarterlyGrowth: -0.092
+earningsTimestamp: 1793291400
+earningsTimestampEnd: 1793291400
+earningsTimestampStart: 1793291400
+ebitda: 1428000000
+ebitdaMargins: 0.14995
+enterpriseToEbitda: 14.5
+enterpriseToRevenue: 2.174
+enterpriseValue: 20706115584
+epsCurrentYear: 18.83815
+epsForward: 20.7486
+epsTrailingTwelveMonths: 17.53
+esgPopulated: false
+exDividendDate: 1778198400
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 89 1489 5500
+fiftyDayAverage: 348.666
+fiftyDayAverageChange: 6.934021
+fiftyDayAverageChangePercent: 0.019887289
+fiftyTwoWeekChangePercent: -1.1503696
+fiftyTwoWeekHigh: 404.8
+fiftyTwoWeekHighChange: -49.19998
+fiftyTwoWeekHighChangePercent: -0.12154146
+fiftyTwoWeekLow: 265.2
+fiftyTwoWeekLowChange: 90.399994
+fiftyTwoWeekLowChangePercent: 0.34087476
+fiftyTwoWeekRange: 265.2 - 404.8
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1118041200000
+fiveYearAvgDividendYield: 0.85
+floatShares: 54306220
+forwardEps: 20.7486
+forwardPE: 17.138506
+freeCashflow: 294624992
+fullExchangeName: XETRA
+fullTimeEmployees: 13674
+fulldayChange: -5.299988
+fulldayChangePercent: -1.4685475
+fulldayPrice: 355.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.18030001
+grossProfits: 1716999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.6967
+impliedSharesOutstanding: 53870614
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778198400
+lastDividendValue: 3.6
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'MTU Aero Engines AG, together with its subsidiaries, engages
+  in the development, manufacture, sale, and maintenance of commercial and military
+  aircraft engines, and aero-derivative industrial gas turbines in Germany, other
+  European countries, North America, Asia, and internationally. It operates through
+  two segments: Original Equipment Manufacturing Business; and Maintenance, Repair,
+  and Overhaul Business. The company offers commercial aircraft engines for wide body
+  aircraft, narrow body, regional jets, helicopters, business jets, and turboprops;
+  military aircraft engines for fighter jets, helicopters, and transporters; and industrial
+  gas turbines. It also maintains, repairs, and overhauls commercial and military
+  engines; and manufactures and markets various spare parts. The company was formerly
+  known as MTU Aero Engines Holding AG and changed its name to MTU Aero Engines AG
+  in May 2013. MTU Aero Engines AG was founded in 1913 and is headquartered in Munich,
+  Germany.'
+longName: MTU Aero Engines AG
+market: de_market
+marketCap: 19156391936
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_3254805
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 928000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 19134842092
+numberOfAnalystOpinions: 20
+open: 366.4
+operatingCashflow: 1196999936
+operatingMargins: 0.12076
+overallRisk: 1
+payoutRatio: 0.2087
+pegRatio: 1.46
+phone: 49 89 1489 0
+previousClose: 360.9
+priceEpsCurrentYear: 18.876589
+priceHint: 2
+priceToBook: 4.018987
+priceToSalesTrailing12Months: 2.0115921
+profitMargins: 0.097449996
+quickRatio: 1.046
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.45
+region: US
+regularMarketChange: -5.299988
+regularMarketChangePercent: -1.4685475
+regularMarketDayHigh: 367.1
+regularMarketDayLow: 354.2
+regularMarketDayRange: 354.2 - 367.1
+regularMarketOpen: 366.4
+regularMarketPreviousClose: 360.9
+regularMarketPrice: 355.6
+regularMarketTime: 1794411567
+regularMarketVolume: 30684
+returnOnAssets: 0.05448
+returnOnEquity: 0.21056
+revenueGrowth: 0.136
+revenuePerShare: 174.596
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 53870614
+shortName: MTU Aero Engines AG           N
+sourceInterval: 15
+symbol: MTX.DE
+targetHighPrice: 530.0
+targetLowPrice: 320.0
+targetMeanPrice: 407.6
+targetMedianPrice: 415.0
+totalCash: 1563000064
+totalCashPerShare: 28.781
+totalDebt: 2670000128
+totalRevenue: 9523000320
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 17.53
+trailingPE: 20.285225
+trailingPegRatio: 1.4605
+triggerable: false
+twoHundredDayAverage: 340.7985
+twoHundredDayAverageChange: 14.801514
+twoHundredDayAverageChangePercent: 0.043431863
+typeDisp: Equity
+volume: 30684
+website: https://www.mtu.de
+zip: '80995'

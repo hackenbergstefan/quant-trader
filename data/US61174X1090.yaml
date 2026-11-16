@@ -1,0 +1,272 @@
+52WeekChange: 0.28660607
+SandP52WeekChange: 0.097798586
+address1: 1 Monster Way
+allTimeHigh: 50.17
+allTimeLow: 0.003092
+ask: 47.62
+askSize: 1
+auditRisk: 8
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 11926900
+averageDailyVolume3Month: 9924435
+averageVolume: 9924435
+averageVolume10days: 11926900
+beta: 0.511
+bid: 42.75
+bidSize: 1
+boardRisk: 9
+bookValue: 5.027
+city: Corona
+companyOfficers:
+- age: 72
+  exercisedValue: 31582202
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hilton H. Schlosberg
+  title: CEO & Vice Chairman
+  totalPay: 5101819
+  unexercisedValue: 126425840
+  yearBorn: 1953
+- age: 71
+  exercisedValue: 513029
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas J. Kelly CPA
+  title: Chief Financial Officer
+  totalPay: 1680780
+  unexercisedValue: 5991
+  yearBorn: 1954
+- age: 48
+  exercisedValue: 1969270
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Guy P. Carling
+  title: Chief Executive Officer for EMEA & OSP
+  totalPay: 2115876
+  unexercisedValue: 158716
+  yearBorn: 1977
+- age: 55
+  exercisedValue: 2691952
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Emelie C. Tirre
+  title: Chief Strategy Officer
+  totalPay: 2253792
+  unexercisedValue: 1783132
+  yearBorn: 1970
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rob L. Gehring
+  title: Chief Executive Officer for Americas
+  totalPay: 1975812
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Vincent Rodriguez
+  title: Chief Operations & Supply Chain Officer
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew S. Burroughs
+  title: Chief Accounting Officer & Deputy CFO
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark Stiefel Astrachan
+  title: SVP of Investor Relations & Corporate Development
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul J. Dechary
+  title: Secretary, Executive VP & General Counsel
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 45.275
+currentRatio: 3.815
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 45.62
+dayLow: 44.88
+debtToEquity: 0.915
+displayName: Monster Beverage
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793916000
+earningsCallTimestampStart: 1793916000
+earningsGrowth: 0.08
+earningsQuarterlyGrowth: 0.084
+earningsTimestamp: 1793912400
+earningsTimestampEnd: 1793912400
+earningsTimestampStart: 1793912400
+ebitda: 2978766080
+ebitdaMargins: 0.31078
+enterpriseToEbitda: 28.582
+enterpriseToRevenue: 8.883
+enterpriseValue: 85139398656
+epsCurrentYear: 1.15118
+epsForward: 1.30408
+epsTrailingTwelveMonths: 1.1
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 44.6726
+fiftyDayAverageChange: 0.60240173
+fiftyDayAverageChangePercent: 0.013484815
+fiftyTwoWeekChangePercent: 28.660606
+fiftyTwoWeekHigh: 50.17
+fiftyTwoWeekHighChange: -4.8949966
+fiftyTwoWeekHighChangePercent: -0.09756821
+fiftyTwoWeekLow: 35.03
+fiftyTwoWeekLowChange: 10.245003
+fiftyTwoWeekLowChangePercent: 0.2924637
+fiftyTwoWeekRange: 35.03 - 50.17
+financialCurrency: USD
+firstTradeDateMilliseconds: 502986600000
+floatShares: 1811266206
+forwardEps: 1.30408
+forwardPE: 34.717964
+freeCashflow: 1450303616
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 5773
+fulldayChange: -0.06499863
+fulldayChangePercent: -0.14337406
+fulldayPrice: 45.275
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.55265
+grossProfits: 5297051136
+hasPrePostMarketData: true
+heldPercentInsiders: 0.28278
+heldPercentInstitutions: 0.69269997
+impliedSharesOutstanding: 1957511922
+industry: Beverages - Non-Alcoholic
+industryDisp: Beverages - Non - Alcoholic
+industryKey: beverages-non-alcoholic
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 658022400
+lastDividendValue: 0.002604
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1786406400
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Monster Beverage Corporation, through its subsidiaries, engages
+  in development, marketing, sale, and distribution of energy drink beverages and
+  concentrates in the United States and internationally. The company operates through
+  four segments: Monster Energy Drinks, Strategic Brands, Alcohol Brands, and Other.
+  It offers carbonated non-carbonated energy drinks, ready-to-drink iced teas, lemonades,
+  juice cocktails, single-serve juices and fruit beverages, ready-to-drink dairy and
+  coffee drinks, energy drinks, sports drinks and single-serve still waters, and sodas
+  that are considered natural, sparkling juices, and flavored sparkling beverages.
+  In addition, the company provides its products under the Monster Energy, Monster
+  Energy Ultra, Rehab Monster, Monster Energy Nitro, Java Monster, Punch Monster,
+  Juice Monster, Monster Tour Water, Reign Total Body Fuel, Reign Storm, Bang Energy,
+  NOS, Full Throttle, Burn, Mother, Nalu, Ultra Energy, Play and Power Play, Relentless,
+  BPM, BU, Samurai, Live+, Predator, and Fury brands. Further, it offers craft beers,
+  flavored malt beverages,and hard seltzers under the Jai Alai IPA, Florida Man IPA,
+  Dale''s Pale Ale, Wild Basin Hard Seltzers, Dallas Blonde, Deep Ellum IPA, Perrin
+  Brewing Company Black Ale, Hop Rising Double IPA, Wasatch Apricot Hefeweizen, The
+  Beast, and Beast Tea, Blind Lemon, and Blinder Lemon brands. The company engages
+  in the concentrates and/or beverage bases to authorized bottling, and canning operations.
+  It sells its products to full-service beverage bottlers/distributors, retail grocery
+  and specialty chains, wholesalers, club stores, mass merchandisers, convenience
+  and gas chains, food service customers, value stores, e-commerce retailers, and
+  the military. The company was formerly known as Hansen Natural Corporation and changed
+  its name to Monster Beverage Corporation in January 2012. Monster Beverage Corporation
+  was founded in 1985 and is headquartered in Corona, California.'
+longName: Monster Beverage Corporation
+market: us_market
+marketCap: 88626356224
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_343729
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2171642112
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 88753590543
+numberOfAnalystOpinions: 23
+open: 45.14
+operatingCashflow: 2050249984
+operatingMargins: 0.29802
+overallRisk: 6
+payoutRatio: 0.0
+pegRatio: 29.26
+phone: 951 739 6200
+previousClose: 45.34
+priceEpsCurrentYear: 39.329212
+priceHint: 2
+priceToBook: 9.006366
+priceToSalesTrailing12Months: 9.246485
+profitMargins: 0.22657
+quickRatio: 3.163
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.04
+region: US
+regularMarketChange: -0.06499863
+regularMarketChangePercent: -0.14337406
+regularMarketDayHigh: 45.62
+regularMarketDayLow: 44.88
+regularMarketDayRange: 44.88 - 45.62
+regularMarketOpen: 45.14
+regularMarketPreviousClose: 45.34
+regularMarketPrice: 45.275
+regularMarketTime: 1794413746
+regularMarketVolume: 1159215
+returnOnAssets: 0.16580999
+returnOnEquity: 0.24700001
+revenueGrowth: 0.167
+revenuePerShare: 4.898
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 1
+sharesOutstanding: 1957511922
+sharesPercentSharesOut: 0.0239
+sharesShort: 46716705
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 45398661
+shortName: Monster Beverage Corporation
+shortPercentOfFloat: 0.0334
+shortRatio: 5.14
+sourceInterval: 15
+state: CA
+symbol: MNST
+targetHighPrice: 57.0
+targetLowPrice: 37.0
+targetMeanPrice: 50.13043
+targetMedianPrice: 50.0
+totalCash: 3704251904
+totalCashPerShare: 1.892
+totalDebt: 90062000
+totalRevenue: 9584870400
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 1.1
+trailingPE: 41.159092
+trailingPegRatio: 29.2564
+triggerable: true
+twoHundredDayAverage: 43.317574
+twoHundredDayAverageChange: 1.957428
+twoHundredDayAverageChangePercent: 0.04518785
+typeDisp: Equity
+volume: 1159215
+website: https://www.monsterbevcorp.com
+zip: '92879'

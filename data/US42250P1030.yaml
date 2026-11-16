@@ -1,0 +1,269 @@
+52WeekChange: 0.15702951
+SandP52WeekChange: 0.097798586
+address1: 4600 South Syracuse Street
+address2: Suite 500
+allTimeHigh: 51.056465
+allTimeLow: 4.326047
+ask: 20.25
+askSize: 1200
+auditRisk: 2
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 6843150
+averageDailyVolume3Month: 5476850
+averageVolume: 5476850
+averageVolume10days: 6843150
+beta: 0.98
+bid: 20.24
+bidSize: 1500
+boardRisk: 4
+bookValue: 11.408
+city: Denver
+companyOfficers:
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott M. Brinker
+  title: President, CEO & Director
+  totalPay: 2864306
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 36
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kelvin O. Moses
+  title: Chief Financial Officer
+  totalPay: 1374652
+  unexercisedValue: 0
+  yearBorn: 1989
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam G. Mabry
+  title: Chief Investment Officer
+  totalPay: 1408855
+  unexercisedValue: 0
+  yearBorn: 1985
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tracy A. Porter
+  title: Executive VP, General Counsel & ESG
+  totalPay: 998011
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott R. Bohn
+  title: Chief Development Officer & Head of Lab
+  totalPay: 1265897
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shawn G. Johnston
+  title: Executive VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew  Johns CFA
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James A. Croy
+  title: Senior Vice President of Leasing - Outpatient Medical
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Michelle  Wood
+  title: Senior VP, CFO and Controller of Senior Housing & Lab
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. R. Justin Hill
+  title: Senior Vice President of Outpatient Medical
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: DOC announced a cash dividend of $0.102 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.102'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 20.285
+currentRatio: 1.478
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 20.46
+dayLow: 20.2
+debtToEquity: 89.5
+displayName: Healthpeak Properties
+dividendDate: 1798588800
+dividendRate: 1.22
+dividendYield: 5.98
+earningsCallTimestampEnd: 1793718000
+earningsCallTimestampStart: 1793718000
+earningsTimestamp: 1793653200
+earningsTimestampEnd: 1801515600
+earningsTimestampStart: 1801515600
+ebitda: 1588985984
+ebitdaMargins: 0.51846004
+enterpriseToEbitda: 16.45
+enterpriseToRevenue: 8.529
+enterpriseValue: 26139510784
+epsCurrentYear: 0.09
+epsForward: 0.14
+epsTrailingTwelveMonths: 0.54
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: (949) 407-0800
+fiftyDayAverage: 19.73
+fiftyDayAverageChange: 0.5550003
+fiftyDayAverageChangePercent: 0.028129768
+fiftyTwoWeekChangePercent: 15.702951
+fiftyTwoWeekHigh: 22.95
+fiftyTwoWeekHighChange: -2.665001
+fiftyTwoWeekHighChangePercent: -0.11612204
+fiftyTwoWeekLow: 15.7
+fiftyTwoWeekLowChange: 4.585
+fiftyTwoWeekLowChangePercent: 0.29203823
+fiftyTwoWeekRange: 15.7 - 22.95
+financialCurrency: USD
+firstTradeDateMilliseconds: 485703000000
+fiveYearAvgDividendYield: 5.48
+floatShares: 686716623
+forwardEps: 0.14
+forwardPE: 144.89285
+freeCashflow: 1613404928
+fullExchangeName: NYSE
+fullTimeEmployees: 411
+fulldayChange: -0.125
+fulldayChangePercent: -0.6124449
+fulldayPrice: 20.285
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.56149
+grossProfits: 1720872960
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0028900001
+heldPercentInstitutions: 0.98832
+impliedSharesOutstanding: 726018752
+industry: REIT - Healthcare Facilities
+industryDisp: REIT - Healthcare Facilities
+industryKey: reit-healthcare-facilities
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1792368000
+lastDividendValue: 0.102
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1477958400
+lastSplitFactor: 1098:1000
+longBusinessSummary: Healthpeak Properties, Inc. is a fully integrated real estate
+  investment trust (REIT) and S&P 500 company. Healthpeak owns, operates, and develops
+  high-quality real estate for healthcare discovery and delivery. Healthpeak Properties,
+  Inc. is based in Denver, Colorado. Healthpeak Properties, Inc. was incorporated
+  in 1985 in Maryland.
+longName: Healthpeak Properties, Inc.
+market: us_market
+marketCap: 14727289856
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_277966
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 377118016
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 14073587978
+numberOfAnalystOpinions: 19
+open: 20.22
+operatingCashflow: 1270524032
+operatingMargins: 0.1574
+overallRisk: 4
+payoutRatio: 2.2593
+pegRatio: 4.32
+phone: (720) 428-5050
+previousClose: 20.41
+priceEpsCurrentYear: 225.38889
+priceHint: 2
+priceToBook: 1.7781382
+priceToSalesTrailing12Months: 4.8052626
+profitMargins: 0.12323
+quickRatio: 1.045
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.40909
+region: US
+regularMarketChange: -0.125
+regularMarketChangePercent: -0.6124449
+regularMarketDayHigh: 20.46
+regularMarketDayLow: 20.2
+regularMarketDayRange: 20.2 - 20.46
+regularMarketOpen: 20.22
+regularMarketPreviousClose: 20.41
+regularMarketPrice: 20.285
+regularMarketTime: 1794413722
+regularMarketVolume: 638303
+returnOnAssets: 0.014359999
+returnOnEquity: 0.04419
+revenueGrowth: 0.163
+revenuePerShare: 4.427
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 8
+sharesOutstanding: 689543752
+sharesPercentSharesOut: 0.033099998
+sharesShort: 22855802
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 23327532
+shortName: Healthpeak Properties, Inc.
+shortPercentOfFloat: 0.0431
+shortRatio: 3.86
+sourceInterval: 15
+state: CO
+symbol: DOC
+targetHighPrice: 29.0
+targetLowPrice: 17.0
+targetMeanPrice: 22.39474
+targetMedianPrice: 22.0
+totalCash: 544217984
+totalCashPerShare: 0.789
+totalDebt: 9670730752
+totalRevenue: 3064825088
+tradeable: false
+trailingAnnualDividendRate: 1.22
+trailingAnnualDividendYield: 0.059774622
+trailingEps: 0.54
+trailingPE: 37.56481
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 19.21025
+twoHundredDayAverageChange: 1.074749
+twoHundredDayAverageChangePercent: 0.05594664
+typeDisp: Equity
+volume: 638303
+website: https://www.healthpeak.com
+zip: '80237'

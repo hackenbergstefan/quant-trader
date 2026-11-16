@@ -1,0 +1,249 @@
+52WeekChange: 0.034482718
+SandP52WeekChange: 0.097798586
+address1: Regeringsgatan 103
+address2: Box 1399
+allTimeHigh: 409.2
+allTimeLow: 1.9
+ask: 377.9
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 291004
+averageDailyVolume3Month: 269740
+averageVolume: 269740
+averageVolume10days: 291004
+beta: 0.646
+bid: 377.7
+bidSize: 0
+boardRisk: 5
+bookValue: 47.079
+city: Stockholm
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Gustaf  Unger
+  title: Chief Executive Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 47
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Jonas  Svarling
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 51
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Jesper  Bonnivier
+  title: Chief Operations Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 35
+  exercisedValue: 0
+  maxAge: 1
+  name: Jacob  Smith
+  title: Head of Private & Investment Banking
+  unexercisedValue: 0
+  yearBorn: 1990
+- age: 54
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Fredrik  Broman
+  title: Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  maxAge: 1
+  name: Ms. Karolina  Johansson
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  maxAge: 1
+  name: Ms. Teresa  Schechter
+  title: Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 54
+  exercisedValue: 0
+  maxAge: 1
+  name: Ms. Åsa  Dammert
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 59
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Erik  Gjotterberg
+  title: Chief Business Development Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 44
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Olov  Eriksson
+  title: Chief Product Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+compensationRisk: 4
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 377.9
+currentRatio: 0.447
+customPriceAlertConfidence: HIGH
+dayHigh: 382.7
+dayLow: 377.0
+debtToEquity: 3.887
+dividendRate: 12.75
+dividendYield: 3.37
+earningsCallTimestampEnd: 1792137600
+earningsCallTimestampStart: 1792137600
+earningsGrowth: 0.122
+earningsQuarterlyGrowth: 0.13
+earningsTimestamp: 1800635400
+earningsTimestampEnd: 1800635400
+earningsTimestampStart: 1800635400
+ebitdaMargins: 0.0
+enterpriseToRevenue: 10.397
+enterpriseValue: 57503043584
+epsCurrentYear: 19.27703
+epsForward: 13.02
+epsTrailingTwelveMonths: 18.43
+esgPopulated: false
+exDividendDate: 1777420800
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 46 8 40 94 21 01
+fiftyDayAverage: 376.492
+fiftyDayAverageChange: 1.4079895
+fiftyDayAverageChangePercent: 0.0037397593
+fiftyTwoWeekChangePercent: 3.4482718
+fiftyTwoWeekHigh: 409.2
+fiftyTwoWeekHighChange: -31.300018
+fiftyTwoWeekHighChangePercent: -0.07649075
+fiftyTwoWeekLow: 318.4
+fiftyTwoWeekLowChange: 59.5
+fiftyTwoWeekLowChangePercent: 0.18687186
+fiftyTwoWeekRange: 318.4 - 409.2
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 3.25
+floatShares: 115100097
+forwardEps: 13.02
+forwardPE: 29.024576
+fullExchangeName: Stockholm
+fullTimeEmployees: 812
+fulldayChange: -0.1000061
+fulldayChangePercent: -0.026456641
+fulldayPrice: 377.9
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.90833
+grossProfits: 5024000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.14213
+heldPercentInstitutions: 0.59913
+impliedSharesOutstanding: 158158842
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777420800
+lastDividendValue: 12.75
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1555286400
+lastSplitFactor: '5:1'
+longBusinessSummary: Avanza Bank Holding AB (publ), together with its subsidiaries,
+  provides various savings, pension, and mortgages products in Sweden. It offers share
+  and fund, investment savings, endowment insurance, savings, endowment child insurance,
+  external deposit, and pension insurance accounts, as well as occupational pensions
+  and individual pension plans. The company also trades in equities, funds, and other
+  securities; and provides external and green mortgages, private banking mortgages,
+  margin loans, and stock lending products. In addition, it offers decision support
+  services and others; and publishes topical news and independent advice on the financial
+  website, Placera, as well as on the weekly financial magazine, Börsveckan. The company
+  primarily serves individual and professional investors, and corporate customers,
+  such as entrepreneurs, asset managers, and occupational pension customers. Avanza
+  Bank Holding AB (publ) was incorporated in 1986 and is headquartered in Stockholm,
+  Sweden.
+longName: Avanza Bank Holding AB (publ)
+market: se_market
+marketCap: 59768225792
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_121969
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2915000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 59784042276
+numberOfAnalystOpinions: 16
+open: 381.0
+operatingCashflow: 11125000192
+operatingMargins: 0.62846
+overallRisk: 5
+payoutRatio: 0.6918
+phone: 46 8 56 22 50 00
+previousClose: 378.0
+priceEpsCurrentYear: 19.603642
+priceHint: 2
+priceToBook: 8.026934
+priceToSalesTrailing12Months: 10.806044
+profitMargins: 0.53589
+quickRatio: 0.439
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.375
+region: US
+regularMarketChange: -0.1000061
+regularMarketChangePercent: -0.026456641
+regularMarketDayHigh: 382.7
+regularMarketDayLow: 377.0
+regularMarketDayRange: 377.0 - 382.7
+regularMarketOpen: 381.0
+regularMarketPreviousClose: 378.0
+regularMarketPrice: 377.9
+regularMarketTime: 1794412421
+regularMarketVolume: 112107
+returnOnAssets: 0.00659
+returnOnEquity: 0.36925
+revenueGrowth: 0.121
+revenuePerShare: 35.041
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 158158842
+shortName: Avanza Bank Holding AB
+sourceInterval: 15
+symbol: AZA.ST
+targetHighPrice: 470.0
+targetLowPrice: 335.0
+targetMeanPrice: 410.0625
+targetMedianPrice: 420.0
+totalCash: 2620999936
+totalCashPerShare: 16.572
+totalDebt: 340000000
+totalRevenue: 5530999808
+tradeable: false
+trailingAnnualDividendRate: 12.75
+trailingAnnualDividendYield: 0.03373016
+trailingEps: 18.43
+trailingPE: 20.504612
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 367.175
+twoHundredDayAverageChange: 10.725006
+twoHundredDayAverageChangePercent: 0.029209523
+typeDisp: Equity
+volume: 112107
+website: https://www.avanza.se
+zip: 111 93

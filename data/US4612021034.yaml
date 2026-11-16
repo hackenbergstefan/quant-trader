@@ -1,0 +1,287 @@
+52WeekChange: -0.48363417
+SandP52WeekChange: 0.097798586
+address1: 2700 Coast Avenue
+allTimeHigh: 813.7
+allTimeLow: 2.0
+ask: 370.4
+askSize: 2
+auditRisk: 1
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 3066990
+averageDailyVolume3Month: 3631134
+averageVolume: 3631134
+averageVolume10days: 3066990
+beta: 0.921
+bid: 331.55
+bidSize: 1
+boardRisk: 4
+bookValue: 70.764
+city: Mountain View
+companyOfficers:
+- age: 57
+  exercisedValue: 43560552
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sasan K. Goodarzi
+  title: CEO, President & Chairman
+  totalPay: 3910000
+  unexercisedValue: 62610408
+  yearBorn: 1968
+- age: 73
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott D. Cook
+  title: Founder & Director
+  totalPay: 1300000
+  unexercisedValue: 0
+  yearBorn: 1952
+- age: 49
+  exercisedValue: 4101986
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sandeep Singh Aujla
+  title: Executive VP & CFO
+  totalPay: 1771300
+  unexercisedValue: 883111
+  yearBorn: 1976
+- age: 54
+  exercisedValue: 5925961
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alex G. Balazs
+  title: Executive VP & CTO
+  totalPay: 1704000
+  unexercisedValue: 2139095
+  yearBorn: 1971
+- age: 55
+  exercisedValue: 3361494
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark  Notarainni
+  title: Executive VP & GM of Consumer Group
+  totalPay: 1704000
+  unexercisedValue: 9355770
+  yearBorn: 1970
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lauren D. Hotz
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Anne-Sophie  Seigneurbieux
+  title: Senior Vice President of Investor Relations, Corporate & Strategic Finance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Kendra  Goodenough
+  title: VP & Head of Investor Relations
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tyler  Cozzens
+  title: Executive VP, General Counsel and Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shveta  Mujumdar
+  title: Vice President of Corporate Development
+  unexercisedValue: 0
+  yearBorn: 1979
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 340.0
+currentRatio: 1.507
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 341.9
+dayLow: 334.49
+debtToEquity: 44.34
+displayName: Intuit
+dividendDate: 1792108800
+dividendRate: 5.52
+dividendYield: 1.62
+earningsCallTimestampEnd: 1795123800
+earningsCallTimestampStart: 1795123800
+earningsGrowth: -0.014
+earningsQuarterlyGrowth: -0.047
+earningsTimestamp: 1795122000
+earningsTimestampEnd: 1795122000
+earningsTimestampStart: 1795122000
+ebitda: 6848999936
+ebitdaMargins: 0.31933
+enterpriseToEbitda: 13.462
+enterpriseToRevenue: 4.299
+enterpriseValue: 92198821888
+epsCurrentYear: 23.81046
+epsForward: 26.92801
+epsTrailingTwelveMonths: 16.46
+esgPopulated: false
+exDividendDate: 1791417600
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 317.8358
+fiftyDayAverageChange: 22.164215
+fiftyDayAverageChangePercent: 0.069734804
+fiftyTwoWeekChangePercent: -48.36342
+fiftyTwoWeekHigh: 682.27
+fiftyTwoWeekHighChange: -342.27002
+fiftyTwoWeekHighChangePercent: -0.50166357
+fiftyTwoWeekLow: 252.84
+fiftyTwoWeekLowChange: 87.16
+fiftyTwoWeekLowChangePercent: 0.34472397
+fiftyTwoWeekRange: 252.84 - 682.27
+financialCurrency: USD
+firstTradeDateMilliseconds: 731946600000
+fiveYearAvgDividendYield: 0.65
+floatShares: 260870438
+forwardEps: 26.92801
+forwardPE: 12.626258
+freeCashflow: 6353625088
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 18600
+fulldayChange: -0.44000244
+fulldayChangePercent: -0.12924522
+fulldayPrice: 340.0
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.80982
+grossProfits: 17368999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.02429
+heldPercentInstitutions: 0.92427003
+impliedSharesOutstanding: 267236000
+industry: Software - Application
+industryDisp: Software - Application
+industryKey: software-application
+irWebsite: http://investors.intuit.com/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791417600
+lastDividendValue: 1.38
+lastFiscalYearEnd: 1785456000
+lastSplitDate: 1152230400
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Intuit Inc. provides financial management, payments and capital,
+  compliance, and marketing products and services in the United States. The company
+  operates in two segments: Global Business Solutions and Consumer. Its Global Business
+  Solutions segment provides QuickBooks services, which include financial and business
+  management online services, desktop software, payroll solutions, time tracking,
+  merchant payment processing and bill pay solutions, checking accounts, and financing
+  services for small and mid-market businesses; and Mailchimp, a marketing automation
+  and customer relationship management. The Consumer segment provides TurboTax, a
+  do-it-yourself and assisted income tax preparation products and services; Credit
+  Karma, a personal finance solution that provides recommendations for credit card,
+  home, auto, and personal loan, and insurance products; online savings and checking
+  accounts; and access to its credit scores and reports, credit and identity monitoring,
+  credit report dispute, credit building tools, debt pay-down assistance, credit card
+  rewards optimization, and connected account capabilities. This segment also offers
+  ProTax offerings which include Lacerte, ProSeries, and ProFile desktop tax-preparation
+  software products; and ProConnect Tax Online, electronic tax filing service, and
+  bank products and related services. It sells products and services through direct
+  sales channels, multichannel shop-and-buy experiences, online application stores,
+  and partner and other channels. Intuit Inc. has a strategic collaboration with Aprio,
+  LLP to develop AI-powered solutions designed to help identify tax planning opportunities,
+  benchmark business performance, improve financial visibility, and support more informed
+  decision-making across industries, including construction, dental, wealth management,
+  and tax. Intuit Inc. was founded in 1983 and is headquartered in Mountain View,
+  California.'
+longName: Intuit Inc.
+market: us_market
+marketCap: 90860240896
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_21171
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 4566000128
+nextFiscalYearEnd: 1816992000
+nonDilutedMarketCap: 90977823840
+numberOfAnalystOpinions: 31
+open: 339.525
+operatingCashflow: 8837999616
+operatingMargins: 0.288
+overallRisk: 1
+payoutRatio: 0.2916
+pegRatio: 1.07
+phone: 650 944 6000
+previousClose: 340.44
+priceEpsCurrentYear: 14.279439
+priceHint: 2
+priceToBook: 4.8047028
+priceToSalesTrailing12Months: 4.236304
+profitMargins: 0.21289
+quickRatio: 0.782
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.05882
+region: US
+regularMarketChange: -0.44000244
+regularMarketChangePercent: -0.12924522
+regularMarketDayHigh: 341.9
+regularMarketDayLow: 334.49
+regularMarketDayRange: 334.49 - 341.9
+regularMarketOpen: 339.525
+regularMarketPreviousClose: 340.44
+regularMarketPrice: 340.0
+regularMarketTime: 1794413735
+regularMarketVolume: 734976
+returnOnAssets: 0.1047
+returnOnEquity: 0.23596
+revenueGrowth: 0.137
+revenuePerShare: 77.71
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 2
+sharesOutstanding: 267236000
+sharesPercentSharesOut: 0.0332
+sharesShort: 8871536
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7277607
+shortName: Intuit Inc.
+shortPercentOfFloat: 0.0382
+shortRatio: 2.7
+sourceInterval: 15
+state: CA
+symbol: INTU
+targetHighPrice: 732.0
+targetLowPrice: 290.0
+targetMeanPrice: 407.75934
+targetMedianPrice: 400.0
+totalCash: 7200000000
+totalCashPerShare: 26.942
+totalDebt: 8421000192
+totalRevenue: 21447999488
+tradeable: false
+trailingAnnualDividendRate: 4.8
+trailingAnnualDividendYield: 0.014099401
+trailingEps: 16.46
+trailingPE: 20.656137
+trailingPegRatio: 1.0734
+triggerable: true
+twoHundredDayAverage: 353.5674
+twoHundredDayAverageChange: -13.567413
+twoHundredDayAverageChangePercent: -0.03837292
+typeDisp: Equity
+volume: 734976
+website: https://www.intuit.com
+zip: '94043'

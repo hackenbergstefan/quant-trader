@@ -1,0 +1,241 @@
+52WeekChange: 0.010671854
+SandP52WeekChange: 0.097798586
+address1: Compass House
+address2: Guildford Street
+allTimeHigh: 37.0653
+allTimeLow: 0.266792
+ask: 33.35
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 2000470
+averageDailyVolume3Month: 2017321
+averageVolume: 2017321
+averageVolume10days: 2000470
+beta: 0.612
+bid: 33.33
+bidSize: 0
+boardRisk: 3
+bookValue: 4.678
+city: Chertsey
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dominic William Blakemore
+  title: Group CEO & Director
+  totalPay: 6393052
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Petros  Parras
+  title: Group CFO & Director
+  totalPay: 3039144
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles Palmer Brown
+  title: Group COO of North America & Director
+  totalPay: 4461608
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Young OBE
+  title: Director of Corporate Policy and Communications
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Deborah  Lee
+  title: Group Chief People & Culture Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gareth  Sharpe
+  title: Chief Financial Officer of UK & Ireland
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shelley  Roberts ACA, BBusSci (Fin), GAICD
+  title: Chief Executive Officer of International
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alan William McCulloch
+  title: Company Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: USD
+currentPrice: 33.33
+currentRatio: 0.698
+customPriceAlertConfidence: LOW
+dayHigh: 33.38
+dayLow: 32.6
+debtToEquity: 113.105
+dividendRate: 0.69
+dividendYield: 2.07
+earningsCallTimestampEnd: 1795537800
+earningsCallTimestampStart: 1795537800
+earningsGrowth: 0.163
+earningsQuarterlyGrowth: 0.163
+earningsTimestamp: 1795537800
+earningsTimestampEnd: 1795537800
+earningsTimestampStart: 1795537800
+ebitda: 3809999872
+ebitdaMargins: 0.07858
+enterpriseToEbitda: 17.057
+enterpriseToRevenue: 1.34
+enterpriseValue: 64986890240
+epsCurrentYear: 1.48384
+epsForward: 1.63345
+epsTrailingTwelveMonths: 1.19
+esgPopulated: false
+exDividendDate: 1781740800
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fax: 44 1932 569 956
+fiftyDayAverage: 31.5734
+fiftyDayAverageChange: 1.7566013
+fiftyDayAverageChangePercent: 0.055635482
+fiftyTwoWeekChangePercent: 1.0671854
+fiftyTwoWeekHigh: 34.92
+fiftyTwoWeekHighChange: -1.5899963
+fiftyTwoWeekHighChangePercent: -0.045532543
+fiftyTwoWeekLow: 26.0
+fiftyTwoWeekLowChange: 7.330002
+fiftyTwoWeekLowChangePercent: 0.28192315
+fiftyTwoWeekRange: 26.0 - 34.92
+financialCurrency: USD
+firstTradeDateMilliseconds: 946972800000
+fiveYearAvgDividendYield: 2.01
+floatShares: 1691762260
+forwardEps: 1.63345
+forwardPE: 20.404665
+freeCashflow: 1974125056
+fullExchangeName: LSE
+fullTimeEmployees: 590000
+fulldayChange: 0.22000122
+fulldayChangePercent: 0.6644555
+fulldayPrice: 33.33
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.72407997
+grossProfits: 35107000320
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00082
+heldPercentInstitutions: 0.76095
+impliedSharesOutstanding: 1700320665
+industry: Restaurants
+industryDisp: Restaurants
+industryKey: restaurants
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1781740800
+lastDividendValue: 0.255
+lastFiscalYearEnd: 1759190400
+lastSplitDate: 1498521600
+lastSplitFactor: '25:26'
+longBusinessSummary: Compass Group PLC provides food and support services in North
+  America and internationally. The company offers support services, such as cleaning
+  in hospitals; reception services at corporate headquarters; managing remote camps;
+  grounds and facilities services at schools and universities; insurance brokerage
+  services; and others. It serves business and industry; healthcare and senior living;
+  education; sports and leisure; and defense, offshore, and remote sectors. The company
+  was founded in 1941 and is based in Chertsey, the United Kingdom.
+longName: Compass Group PLC
+market: gb_market
+marketCap: 56671690752
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_692472
+mostRecentQuarter: 1774915200
+netIncomeToCommon: 2018000000
+nextFiscalYearEnd: 1790726400
+nonDilutedMarketCap: 56297617218
+numberOfAnalystOpinions: 19
+open: 33.08
+operatingCashflow: 3617999872
+operatingMargins: 0.0661
+overallRisk: 2
+payoutRatio: 0.5439
+pegRatio: 1.69
+phone: 44 1932 573 000
+previousClose: 33.11
+priceEpsCurrentYear: 22.461992
+priceHint: 2
+priceToBook: 7.1248403
+priceToSalesTrailing12Months: 1.16885
+profitMargins: 0.04162
+quickRatio: 0.622
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.75
+region: US
+regularMarketChange: 0.22000122
+regularMarketChangePercent: 0.6644555
+regularMarketDayHigh: 33.38
+regularMarketDayLow: 32.6
+regularMarketDayRange: 32.6 - 33.38
+regularMarketOpen: 33.08
+regularMarketPreviousClose: 33.11
+regularMarketPrice: 33.33
+regularMarketTime: 1794411553
+regularMarketVolume: 470134
+returnOnAssets: 0.07289
+returnOnEquity: 0.26883
+revenueGrowth: 0.107
+revenuePerShare: 28.554
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 1700320665
+shortName: COMPASS GROUP PLC ORD 11 1/20P
+sourceInterval: 15
+symbol: CPG.L
+targetHighPrice: 42.5
+targetLowPrice: 31.0
+targetMeanPrice: 38.05789
+targetMedianPrice: 39.75
+totalCash: 523000000
+totalCashPerShare: 0.308
+totalDebt: 9130999808
+totalRevenue: 48484999168
+tradeable: false
+trailingAnnualDividendRate: 0.688
+trailingAnnualDividendYield: 0.02077922
+trailingEps: 1.19
+trailingPE: 28.008404
+trailingPegRatio: 1.6738
+triggerable: false
+twoHundredDayAverage: 30.861576
+twoHundredDayAverageChange: 2.4684258
+twoHundredDayAverageChangePercent: 0.079983786
+typeDisp: Equity
+volume: 470134
+website: https://www.compass-group.com
+zip: KT16 9BQ

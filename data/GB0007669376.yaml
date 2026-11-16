@@ -1,0 +1,247 @@
+52WeekChange: -0.15589213
+SandP52WeekChange: 0.097798586
+address1: St. James’s Place House
+address2: 1 Tetbury Road
+allTimeHigh: 1777.5
+allTimeLow: 59.0
+ask: 1151.0
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1410497
+averageDailyVolume3Month: 2467356
+averageVolume: 2467356
+averageVolume10days: 1410497
+beta: 1.036
+bid: 1150.0
+bidSize: 0
+boardRisk: 5
+bookValue: 3.085
+city: Cirencester
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark Thomas FitzPatrick C.A.
+  title: CEO & Executive Director
+  totalPay: 2713640
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Caroline Mary Waddington
+  title: CFO & Director
+  totalPay: 1784208
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 94
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Sir Mark Aubrey Weinberg
+  title: Founder & President
+  totalPay: 188436
+  unexercisedValue: 0
+  yearBorn: 1931
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ian  MacKenzie
+  title: Chief Operations Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Justin  Onuekwusi
+  title: Chief Investment Officer & CEO of Investments
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hugh  Taylor
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul  Loftus
+  title: General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew  Humphries
+  title: Head of Investment Mktg, Mktg & Communications Director & Director of Asset
+    Mgmt
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lisa  Davis
+  title: Chief People Officer
+  unexercisedValue: 0
+- age: 72
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Charles Bellamy
+  title: Non-Executive Chairman of International operations
+  totalPay: 1426044
+  unexercisedValue: 0
+  yearBorn: 1953
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 1150.5
+currentRatio: 3.068
+customPriceAlertConfidence: LOW
+dayHigh: 1161.0
+dayLow: 1143.0
+debtToEquity: 33.043
+dividendRate: 0.18
+dividendYield: 1.58
+earningsCallTimestampEnd: 1785312000
+earningsCallTimestampStart: 1785312000
+earningsGrowth: 0.151
+earningsQuarterlyGrowth: 0.112
+earningsTimestampEnd: 1772037000
+earningsTimestampStart: 1772037000
+ebitda: 1774000000
+ebitdaMargins: 0.03957
+enterpriseToEbitda: 3.313
+enterpriseToRevenue: 0.131
+enterpriseValue: 5876459008
+epsCurrentYear: 0.84902
+epsForward: 1.07246
+epsTrailingTwelveMonths: 1.07
+esgPopulated: false
+exDividendDate: 1785974400
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 1089.11
+fiftyDayAverageChange: 61.390015
+fiftyDayAverageChangePercent: 0.05636714
+fiftyTwoWeekChangePercent: -15.589213
+fiftyTwoWeekHigh: 1575.5
+fiftyTwoWeekHighChange: -425.0
+fiftyTwoWeekHighChangePercent: -0.26975563
+fiftyTwoWeekLow: 1011.5
+fiftyTwoWeekLowChange: 139.0
+fiftyTwoWeekLowChangePercent: 0.13741967
+fiftyTwoWeekRange: 1011.5 - 1575.5
+financialCurrency: GBP
+firstTradeDateMilliseconds: 651826800000
+fiveYearAvgDividendYield: 2.43
+floatShares: 474081564
+forwardEps: 1.07246
+forwardPE: 10.727673
+freeCashflow: 1368462464
+fullExchangeName: LSE
+fullTimeEmployees: 2859
+fulldayChange: 8.0
+fulldayChangePercent: 0.7002188
+fulldayPrice: 1150.5
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.102539994
+grossProfits: 4597400064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.01923
+heldPercentInstitutions: 0.78456
+impliedSharesOutstanding: 494563220
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1785974400
+lastDividendValue: 0.06
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: St. James's Place plc is a publicly owned investment manager.
+  The firm launches and manages equity, fixed income, and balanced mutual funds for
+  its clients. It invests in public equity and fixed income market across the globe.
+  The firm was formerly known as St. James's Place Capital plc. St. James's Place
+  plc was founded in 1991 and is based in Cirencester, United Kingdom.
+longName: St. James's Place plc
+market: gb_market
+marketCap: 5689950208
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_875419
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 562499968
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5650384788
+numberOfAnalystOpinions: 16
+open: 1154.0
+operatingCashflow: 557299968
+operatingMargins: 0.03938
+overallRisk: 3
+payoutRatio: 0.1689
+pegRatio: 1.68
+phone: 44 1285 640 302
+previousClose: 1142.5
+priceEpsCurrentYear: 1355.0918
+priceHint: 2
+priceToBook: 3.7293353
+priceToSalesTrailing12Months: 0.12691349
+profitMargins: 0.01255
+quickRatio: 0.507
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.75
+region: US
+regularMarketChange: 8.0
+regularMarketChangePercent: 0.7002188
+regularMarketDayHigh: 1161.0
+regularMarketDayLow: 1143.0
+regularMarketDayRange: 1143.0 - 1161.0
+regularMarketOpen: 1154.0
+regularMarketPreviousClose: 1142.5
+regularMarketPrice: 1150.5
+regularMarketTime: 1794411538
+regularMarketVolume: 253447
+returnOnAssets: 0.0049
+returnOnEquity: 0.38458002
+revenueGrowth: 2.13
+revenuePerShare: 85.953
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 494563220
+shortName: ST. JAMES'S PLACE PLC ORD 15P
+sourceInterval: 15
+symbol: STJ.L
+targetHighPrice: 2000.0
+targetLowPrice: 1160.0
+targetMeanPrice: 1619.125
+targetMedianPrice: 1600.0
+totalCash: 416600000
+totalCashPerShare: 0.824
+totalDebt: 515500000
+totalRevenue: 44833300480
+tradeable: false
+trailingAnnualDividendRate: 0.18
+trailingAnnualDividendYield: 0.00015754924
+trailingEps: 1.07
+trailingPE: 10.7523365
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 1183.8191
+twoHundredDayAverageChange: -33.31909
+twoHundredDayAverageChangePercent: -0.028145425
+typeDisp: Equity
+volume: 253447
+website: https://www.sjp.co.uk
+zip: GL7 1FP

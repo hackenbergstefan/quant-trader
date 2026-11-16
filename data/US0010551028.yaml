@@ -1,0 +1,281 @@
+52WeekChange: 0.104964614
+SandP52WeekChange: 0.097798586
+address1: 1932 Wynnton Road
+allTimeHigh: 131.19
+allTimeLow: 0.088384
+ask: 125.8
+askSize: 100
+auditRisk: 8
+averageAnalystRating: 3.2 - Hold
+averageDailyVolume10Day: 1917080
+averageDailyVolume3Month: 1924353
+averageVolume: 1924353
+averageVolume10days: 1917080
+beta: 0.548
+bid: 125.7
+bidSize: 200
+boardRisk: 5
+bookValue: 59.08
+city: Columbus
+companyOfficers:
+- age: 73
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel Paul Amos
+  title: Chairman & CEO
+  totalPay: 9820972
+  unexercisedValue: 0
+  yearBorn: 1952
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Virgil Raynard Miller
+  title: President
+  totalPay: 3326805
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 46
+  exercisedValue: 346669
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Max Kristian  Broden C.F.A.
+  title: Senior EVP & CFO
+  totalPay: 4548238
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bradley Eugene Dyslin C.F.A.
+  title: Executive VP & Global Chief Investment Officer
+  totalPay: 3929575
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 60
+  exercisedValue: 1614439
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Audrey Boone Tillman Esq.
+  title: Senior EVP, & General Counsel
+  totalPay: 3160284
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Robin Littrell Blackmon CPA, CGMA
+  title: Senior VP of Financial Services & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David A. Young
+  title: Vice President of Capital Markets
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bradley L. Knox
+  title: Senior VP & Counsel of Federal Relations
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven Kent  Beaver
+  title: Executive Vice President; Chief Financial Officer, Aflac Life Insurance Japan
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy L. Callahan CISM, CISSP, CRISC
+  title: Senior VP & Chief Information Security Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions:
+- header: Dividend
+  message: AFL announced a cash dividend of $0.61 with an ex-date of Nov. 18, 2026
+  meta:
+    amount: '0.61'
+    dateEpochMs: 1794978000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 126.05
+currentRatio: 0.836
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 126.72
+dayLow: 125.45
+debtToEquity: 54.233
+displayName: Aflac
+dividendDate: 1796083200
+dividendRate: 2.44
+dividendYield: 1.93
+earningsCallTimestampEnd: 1793883600
+earningsCallTimestampStart: 1793883600
+earningsGrowth: -0.802
+earningsQuarterlyGrowth: -0.815
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1801688400
+earningsTimestampStart: 1801688400
+ebitda: 4584999936
+ebitdaMargins: 0.2762
+enterpriseToEbitda: 15.336
+enterpriseToRevenue: 4.236
+enterpriseValue: 70314041344
+epsCurrentYear: 7.43506
+epsForward: 7.68002
+epsTrailingTwelveMonths: 6.85
+esgPopulated: false
+exDividendDate: 1794960000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 706 660 7080
+fiftyDayAverage: 117.9016
+fiftyDayAverageChange: 8.148399
+fiftyDayAverageChangePercent: 0.06911186
+fiftyTwoWeekChangePercent: 10.496462
+fiftyTwoWeekHigh: 131.19
+fiftyTwoWeekHighChange: -5.1399994
+fiftyTwoWeekHighChangePercent: -0.03917981
+fiftyTwoWeekLow: 105.76
+fiftyTwoWeekLowChange: 20.29
+fiftyTwoWeekLowChangePercent: 0.19184947
+fiftyTwoWeekRange: 105.76 - 131.19
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 2.12
+floatShares: 490279248
+forwardEps: 7.68002
+forwardPE: 16.412718
+freeCashflow: 3794500096
+fullExchangeName: NYSE
+fullTimeEmployees: 12716
+fulldayChange: -0.58999634
+fulldayChangePercent: -0.46588466
+fulldayPrice: 126.05
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.46613997
+grossProfits: 7737999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.10975
+heldPercentInstitutions: 0.6048
+impliedSharesOutstanding: 494607060
+industry: Insurance - Life
+industryDisp: Insurance - Life
+industryKey: insurance-life
+irWebsite: http://www.aflac.com/investors/default.aspx
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1787097600
+lastDividendValue: 0.61
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1521417600
+lastSplitFactor: '2:1'
+longBusinessSummary: Aflac Incorporated, through its subsidiaries, provides supplemental
+  health and life insurance products. It operates in two segments, Aflac Japan and
+  Aflac U.S. The Aflac Japan segment offers cancer, medical, nursing care, whole life,
+  and GIFT insurance products, as well as WAYS and child endowment, and Tsumitasu
+  insurance products in Japan. Its Aflac U.S. segment provides accident, disability,
+  cancer, critical illness, hospital indemnity, dental, vision, and life insurance
+  products in the United States. The company also provides hearing, final expense,
+  pet, Medicare supplement, supplemental dental and vision, short-term disability,
+  and absence management insurance products, as well as cafeteria plans. It sells
+  its products to individuals, families, and business owners through individual, independent
+  corporate, and affiliated corporate agencies; banks; independent associates/career
+  agents; and brokers. Aflac Incorporated was founded in 1955 and is headquartered
+  in Columbus, Georgia.
+longName: Aflac Incorporated
+market: us_market
+marketCap: 62345224192
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_250178
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3526000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 62637038078
+numberOfAnalystOpinions: 15
+open: 125.93
+operatingCashflow: 2592000000
+operatingMargins: 0.27392
+overallRisk: 8
+payoutRatio: 0.3518
+pegRatio: 1.18
+phone: 706 323 3431
+previousClose: 126.64
+priceEpsCurrentYear: 16.95346
+priceHint: 2
+priceToBook: 2.1335478
+priceToSalesTrailing12Months: 3.7557364
+profitMargins: 0.21240999
+quickRatio: 0.729
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.2
+region: US
+regularMarketChange: -0.58999634
+regularMarketChangePercent: -0.46588466
+regularMarketDayHigh: 126.72
+regularMarketDayLow: 125.45
+regularMarketDayRange: 125.45 - 126.72
+regularMarketOpen: 125.93
+regularMarketPreviousClose: 126.64
+regularMarketPrice: 126.05
+regularMarketTime: 1794413731
+regularMarketVolume: 225071
+returnOnAssets: 0.0241
+returnOnEquity: 0.12165
+revenueGrowth: -0.31
+revenuePerShare: 32.641
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 9
+sharesOutstanding: 494607060
+sharesPercentSharesOut: 0.0184
+sharesShort: 9080935
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 11649434
+shortName: AFLAC Incorporated
+shortPercentOfFloat: 0.0238
+shortRatio: 5.61
+sourceInterval: 15
+state: GA
+symbol: AFL
+targetHighPrice: 143.0
+targetLowPrice: 101.0
+targetMeanPrice: 118.73333
+targetMedianPrice: 116.0
+totalCash: 8204000256
+totalCashPerShare: 16.587
+totalDebt: 15880999936
+totalRevenue: 16600000512
+tradeable: false
+trailingAnnualDividendRate: 2.41
+trailingAnnualDividendYield: 0.019030323
+trailingEps: 6.85
+trailingPE: 18.40146
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 116.44895
+twoHundredDayAverageChange: 9.601051
+twoHundredDayAverageChangePercent: 0.08244859
+typeDisp: Equity
+volume: 225071
+website: https://www.aflac.com
+zip: 31999-7251

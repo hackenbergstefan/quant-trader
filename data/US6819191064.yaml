@@ -1,0 +1,279 @@
+52WeekChange: 0.19908226
+SandP52WeekChange: 0.097798586
+address1: 280 Park Avenue
+allTimeHigh: 107.0
+allTimeLow: 1.375
+ask: 87.92
+askSize: 100
+auditRisk: 7
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 3164690
+averageDailyVolume3Month: 2777956
+averageVolume: 2777956
+averageVolume10days: 3164690
+beta: 0.737
+bid: 87.83
+bidSize: 300
+boardRisk: 9
+bookValue: 36.47
+city: New York
+companyOfficers:
+- age: 72
+  exercisedValue: 7526373
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John D. Wren
+  title: Chairman & CEO
+  totalPay: 585846
+  unexercisedValue: 1799998
+  yearBorn: 1953
+- age: 64
+  exercisedValue: 4766700
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daryl D. Simm
+  title: Co-President & Co-COO
+  totalPay: 5516644
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 60
+  exercisedValue: 4515793
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philip J. Angelastro
+  title: Executive VP & CFO
+  totalPay: 4950000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Louis F. Januzzi
+  title: Senior VP, General Counsel & Secretary
+  totalPay: 1741667
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philippe  Krakowsky
+  title: Co-President, Co-COO & Director
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathan B. Nelson
+  title: Founder & CEO of Omnicom Digital
+  totalPay: 2720700
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jordan  Farnam
+  title: VP of Global Financial Reporting & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paolo  Yuvienco
+  title: Executive VP & Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Craig  Cuyar
+  title: Senior VP & Global Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory H. Lundberg
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 88.12
+currentRatio: 0.915
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 88.94
+dayLow: 87.19
+debtToEquity: 107.252
+displayName: Omnicom
+dividendDate: 1791504000
+dividendRate: 3.2
+dividendYield: 3.6
+earningsCallTimestampEnd: 1792701000
+earningsCallTimestampStart: 1792701000
+earningsGrowth: 0.36
+earningsQuarterlyGrowth: 0.922
+earningsTimestamp: 1792699200
+earningsTimestampEnd: 1792699200
+earningsTimestampStart: 1792699200
+ebitda: 4159600128
+ebitdaMargins: 0.16802
+enterpriseToEbitda: 7.8
+enterpriseToRevenue: 1.311
+enterpriseValue: 32446369792
+epsCurrentYear: 10.10587
+epsForward: 11.05185
+epsTrailingTwelveMonths: 0.99
+esgPopulated: false
+exDividendDate: 1789689600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: (212) 415-3530
+fiftyDayAverage: 79.6244
+fiftyDayAverageChange: 8.495605
+fiftyDayAverageChangePercent: 0.10669601
+fiftyTwoWeekChangePercent: 19.908226
+fiftyTwoWeekHigh: 89.57
+fiftyTwoWeekHighChange: -1.449997
+fiftyTwoWeekHighChangePercent: -0.016188422
+fiftyTwoWeekLow: 66.33
+fiftyTwoWeekLowChange: 21.79
+fiftyTwoWeekLowChangePercent: 0.32850897
+fiftyTwoWeekRange: 66.33 - 89.57
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 3.47
+floatShares: 270151735
+forwardEps: 11.05185
+forwardPE: 7.9733257
+freeCashflow: 4594287616
+fullExchangeName: NYSE
+fullTimeEmployees: 120000
+fulldayChange: -0.7199936
+fulldayChangePercent: -0.8104386
+fulldayPrice: 88.12
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.19332
+grossProfits: 4785900032
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00945
+heldPercentInstitutions: 1.09362
+impliedSharesOutstanding: 285006196
+industry: Advertising Agencies
+industryDisp: Advertising Agencies
+industryKey: advertising-agencies
+irWebsite: http://www.omnicomgroup.com/InvestorRelations
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789689600
+lastDividendValue: 0.8
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1182816000
+lastSplitFactor: '2:1'
+longBusinessSummary: Omnicom Group Inc., together with its subsidiaries, offers advertising,
+  marketing, and corporate communications services. It provides a range of services
+  in the areas of media and advertising, precision marketing, public relations, healthcare,
+  branding and retail commerce, experiential, execution, and support. The company's
+  services include advertising, branding, content marketing, crisis communications,
+  customer data analytics and data-driven decision making, customer relationship management,
+  decision sciences, digital experience design, digital transformation, e-commerce
+  optimization, entertainment marketing, experiential marketing, field marketing,
+  healthcare marketing and communications, in-store design, investor relations, and
+  marketing research.Its services also comprise media planning and buying, merchandising
+  and point of sale, mobile marketing, multi-cultural marketing, organizational communications,
+  package design, performance marketing, product placement, promotional marketing,
+  public affairs, public relations, retail media and e-commerce, shopper marketing,
+  structured innovation, studio production, social media and influencer marketing,
+  and sports and event marketing. It operates in the North and Latin America, Europe,
+  the Middle East and Africa (EMEA), and the Asia Pacific. The company was incorporated
+  in 1944 and is based in New York, New York.
+longName: Omnicom Group Inc.
+market: us_market
+marketCap: 25114746880
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_96161
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 704899968
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 24372895708
+numberOfAnalystOpinions: 12
+open: 88.0
+operatingCashflow: 3075200000
+operatingMargins: 0.14485
+overallRisk: 9
+payoutRatio: 3.2323
+pegRatio: 15.97
+phone: (212) 415-3600
+previousClose: 88.84
+priceEpsCurrentYear: 8.719685
+priceHint: 2
+priceToBook: 2.4162326
+priceToSalesTrailing12Months: 1.0144503
+profitMargins: 0.028469998
+quickRatio: 0.667
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.07692
+region: US
+regularMarketChange: -0.7199936
+regularMarketChangePercent: -0.8104386
+regularMarketDayHigh: 88.94
+regularMarketDayLow: 87.19
+regularMarketDayRange: 87.19 - 88.94
+regularMarketOpen: 88.0
+regularMarketPreviousClose: 88.84
+regularMarketPrice: 88.12
+regularMarketTime: 1794413706
+regularMarketVolume: 352810
+returnOnAssets: 0.05709
+returnOnEquity: 0.09942
+revenueGrowth: 0.591
+revenuePerShare: 91.186
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 285006196
+sharesPercentSharesOut: 0.0887
+sharesShort: 24337847
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 24041243
+shortName: Omnicom Group Inc.
+shortPercentOfFloat: 0.089499995
+shortRatio: 9.39
+sourceInterval: 15
+state: NY
+symbol: OMC
+targetHighPrice: 130.0
+targetLowPrice: 77.0
+targetMeanPrice: 102.25
+targetMedianPrice: 100.0
+totalCash: 3796400128
+totalCashPerShare: 13.914
+totalDebt: 11361000448
+totalRevenue: 24757000192
+tradeable: false
+trailingAnnualDividendRate: 3.2
+trailingAnnualDividendYield: 0.036019813
+trailingEps: 0.99
+trailingPE: 89.0101
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 78.46215
+twoHundredDayAverageChange: 9.657852
+twoHundredDayAverageChangePercent: 0.12308931
+typeDisp: Equity
+volume: 352810
+website: https://www.omc.com
+zip: '10017'

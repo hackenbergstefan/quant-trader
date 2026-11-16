@@ -1,0 +1,255 @@
+52WeekChange: -0.16666669
+SandP52WeekChange: 0.097798586
+address1: 2 Gresham Street
+address2: 5th Floor
+allTimeHigh: 6091.2324
+allTimeLow: 257.6527
+ask: 2438.0
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 310560
+averageDailyVolume3Month: 428595
+averageVolume: 428595
+averageVolume10days: 310560
+beta: 0.796
+bid: 2434.0
+bidSize: 0
+boardRisk: 3
+bookValue: 16.011
+city: London
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Liam  Condon
+  title: CEO & Director
+  totalPay: 2215000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Alastair Anthony Judge
+  title: CFO & Executive Director
+  totalPay: 620000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Richard Neil Pike ACA, AMCT, ATII, LLB
+  title: COO & Executive Director
+  totalPay: 1409800
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Liz  Rowsell O.B.E.
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Simon James Price
+  title: Company Secretary & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Carol  Frost
+  title: Chief HR Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: A. C. Hurst
+  title: Managing Director of Tracerco - Environmental Technologies
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: R.  Mannion
+  title: Managing Director of Ammonia, Menthol & Gas - Environmental Technologies
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Eugene  McKenna
+  title: Managing Director of Green Hydrogen Activities
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Alberto  Giovanzana
+  title: Managing Director of Catalyst Technologies
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 3
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 2436.0
+currentRatio: 1.555
+customPriceAlertConfidence: LOW
+dayHigh: 2450.0
+dayLow: 2418.0
+debtToEquity: 70.337
+dividendRate: 1.03
+dividendYield: 4.28
+earningsCallTimestampEnd: 1795078800
+earningsCallTimestampStart: 1795078800
+earningsTimestamp: 1795105800
+earningsTimestampEnd: 1795105800
+earningsTimestampStart: 1795105800
+ebitda: 399000000
+ebitdaMargins: 0.03173
+enterpriseToEbitda: 9.774
+enterpriseToRevenue: 0.31
+enterpriseValue: 3899936256
+epsCurrentYear: 1.87303
+epsForward: 2.36167
+epsTrailingTwelveMonths: -0.72
+esgPopulated: false
+exDividendDate: 1786924800
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fax: 44 20 7269 8433
+fiftyDayAverage: 2386.6
+fiftyDayAverageChange: 49.399902
+fiftyDayAverageChangePercent: 0.02069886
+fiftyTwoWeekChangePercent: -16.666668
+fiftyTwoWeekHigh: 3245.3333
+fiftyTwoWeekHighChange: -809.33325
+fiftyTwoWeekHighChangePercent: -0.24938372
+fiftyTwoWeekLow: 2192.0
+fiftyTwoWeekLowChange: 244.0
+fiftyTwoWeekLowChangePercent: 0.11131387
+fiftyTwoWeekRange: 2192.0 - 3245.3333
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 4.17
+floatShares: 122486633
+forwardEps: 2.36167
+forwardPE: 10.314735
+freeCashflow: -429000000
+fullExchangeName: LSE
+fullTimeEmployees: 10037
+fulldayChange: 36.0
+fulldayChangePercent: 1.5
+fulldayPrice: 2436.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.04693
+grossProfits: 590000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00565
+heldPercentInstitutions: 0.77056
+impliedSharesOutstanding: 123681551
+industry: Specialty Chemicals
+industryDisp: Specialty Chemicals
+industryKey: specialty-chemicals
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786924800
+lastDividendValue: 4.765
+lastFiscalYearEnd: 1774915200
+lastSplitDate: 1786924800
+lastSplitFactor: '3:4'
+longBusinessSummary: Johnson Matthey Plc engages in the clean air, catalyst and hydrogen
+  technology, and platinum group metals (PGM) service businesses in the United Kingdom,
+  Germany, rest of Europe, the United States, rest of North America, China, rest of
+  Asia, and internationally. It operates through Clean Air, PGM Services, and Hydrogen
+  Technologies segments. The Clean Air segment provides catalysts for emission control
+  after-treatment systems to reduce harmful emissions from cars, other light duty
+  vehicles, trucks, buses, and non-road equipment powered by internal combustion engines.
+  The PGM Services segment enables the energy transition that offers circular solutions
+  as demand for critical materials. This segment also offers PGM refining and recycling
+  services; engages in PGM trading activities; other precious metal products; and
+  PGM chemicals, industrial products, and catalysts. The Hydrogen Technologies segment
+  offers components across the value chain for fuel cells and electrolysers, including
+  catalyst coated membranes and membrane electrode assemblies. The company was formerly
+  known as Johnson & Cock and changed its name to Johnson Matthey Plc in 1851. Johnson
+  Matthey Plc was founded in 1817 and is headquartered in London, the United Kingdom.
+longName: Johnson Matthey Plc
+market: gb_market
+marketCap: 3012882688
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_631740
+mostRecentQuarter: 1774915200
+netIncomeToCommon: -91000000
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 2968357224
+numberOfAnalystOpinions: 9
+open: 2450.0
+operatingCashflow: 465000000
+operatingMargins: 0.02394
+overallRisk: 2
+payoutRatio: 0.4387
+pegRatio: 2.0
+phone: 44 20 7269 8000
+previousClose: 2400.0
+priceEpsCurrentYear: 1300.5665
+priceHint: 2
+priceToBook: 1.521454
+priceToSalesTrailing12Months: 0.23963118
+profitMargins: -0.00764
+quickRatio: 0.76
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.11111
+region: US
+regularMarketChange: 36.0
+regularMarketChangePercent: 1.5
+regularMarketDayHigh: 2450.0
+regularMarketDayLow: 2418.0
+regularMarketDayRange: 2418.0 - 2450.0
+regularMarketOpen: 2450.0
+regularMarketPreviousClose: 2400.0
+regularMarketPrice: 2436.0
+regularMarketTime: 1794411572
+regularMarketVolume: 118064
+returnOnAssets: 0.03092
+returnOnEquity: -0.04222
+revenueGrowth: 0.264
+revenuePerShare: 99.694
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 1
+sharesOutstanding: 123681551
+shortName: JOHNSON MATTHEY PLC ORD 147 143
+sourceInterval: 15
+symbol: JMAT.L
+targetHighPrice: 2933.0
+targetLowPrice: 2192.44
+targetMeanPrice: 2608.049
+targetMedianPrice: 2660.0
+totalCash: 540000000
+totalCashPerShare: 4.289
+totalDebt: 1418000000
+totalRevenue: 12572999680
+tradeable: false
+trailingAnnualDividendRate: 1.027
+trailingAnnualDividendYield: 0.00042791665
+trailingEps: -0.72
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 2617.2424
+twoHundredDayAverageChange: -181.24243
+twoHundredDayAverageChangePercent: -0.069249384
+typeDisp: Equity
+volume: 118064
+website: https://matthey.com
+zip: EC2V 7AD

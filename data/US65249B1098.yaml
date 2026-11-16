@@ -1,0 +1,279 @@
+52WeekChange: -0.007829964
+SandP52WeekChange: 0.097798586
+address1: 1211 Avenue of the Americas
+allTimeHigh: 31.66
+allTimeLow: 7.9
+ask: 28.16
+askSize: 1
+auditRisk: 6
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 5361900
+averageDailyVolume3Month: 4026954
+averageVolume: 4026954
+averageVolume10days: 5361900
+beta: 1.01
+bid: 25.09
+bidSize: 1
+boardRisk: 10
+bookValue: 15.741
+city: New York
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Robert J. Thomson
+  title: CEO & Director
+  totalPay: 9731126
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Lavanya  Chandrashekar
+  title: Chief Financial Officer
+  totalPay: 4568428
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Julian  Delany
+  title: Executive VP & CTO
+  totalPay: 2623214
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. David B. Pitofsky
+  title: Executive VP & General Counsel
+  totalPay: 4019871
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Ruth  Allen
+  title: Executive VP & Chief Human Resources Officer
+  totalPay: 2026286
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Marygrace  DeGrazio
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Michael  Florin
+  title: Senior VP & Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Arthur  Bochner
+  title: Executive VP & Chief Communications Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Anoushka  Healy
+  title: Executive VP & Chief Strategy Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Michael L. Bunder
+  title: Senior VP, Deputy General Counsel & Corporate Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 26.755
+currentRatio: 1.622
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 26.875
+dayLow: 26.51
+debtToEquity: 31.832
+displayName: News
+dividendDate: 1791331200
+dividendRate: 0.2
+dividendYield: 0.75
+earningsCallTimestampEnd: 1793829600
+earningsCallTimestampStart: 1793829600
+earningsGrowth: 0.463
+earningsQuarterlyGrowth: 0.42
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1801774800
+earningsTimestampStart: 1801774800
+ebitda: 1400000000
+ebitdaMargins: 0.15276
+enterpriseToEbitda: 11.553
+enterpriseToRevenue: 1.765
+enterpriseValue: 16174230528
+epsCurrentYear: 1.3575
+epsForward: 1.5496
+epsTrailingTwelveMonths: 1.12
+esgPopulated: false
+exDividendDate: 1788912000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 29.396
+fiftyDayAverageChange: -2.6410007
+fiftyDayAverageChangePercent: -0.08984218
+fiftyTwoWeekChangePercent: -0.7829964
+fiftyTwoWeekHigh: 31.66
+fiftyTwoWeekHighChange: -4.9050007
+fiftyTwoWeekHighChangePercent: -0.15492737
+fiftyTwoWeekLow: 22.2
+fiftyTwoWeekLowChange: 4.5549984
+fiftyTwoWeekLowChangePercent: 0.2051801
+fiftyTwoWeekRange: 22.2 - 31.66
+financialCurrency: USD
+firstTradeDateMilliseconds: 1371648600000
+fiveYearAvgDividendYield: 0.84
+floatShares: 473025679
+forwardEps: 1.5496
+forwardPE: 17.265745
+freeCashflow: 754249984
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 21700
+fulldayChange: 0.14499855
+fulldayChangePercent: 0.54490244
+fulldayPrice: 26.755
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.57294
+grossProfits: 5250999808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00043000001
+heldPercentInstitutions: 1.08411
+impliedSharesOutstanding: 536746434
+industry: Entertainment
+industryDisp: Entertainment
+industryKey: entertainment
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788912000
+lastDividendValue: 0.1
+lastFiscalYearEnd: 1782777600
+longBusinessSummary: 'News Corporation, a media and information services company,
+  creates and distributes authoritative and engaging content, and other products and
+  services for consumers and businesses in the United States, Canada, Europe, Australasia,
+  and internationally. It operates through five segments: Dow Jones, Digital Real
+  Estate Services, Book Publishing, News Media, and Other. The company distributes
+  news, data, and business information under The Wall Street Journal, Barron''s, MarketWatch,
+  Investor''s Business Daily, Dow Jones Risk & Compliance, Dow Jones Energy, Factiva,
+  and Dow Jones Newswires brands through various media channels, including websites,
+  mobile apps, newspapers, newswires, newsletters, magazines, proprietary databases,
+  live journalism, video, and podcasts. It also provides property and property-related
+  services on its websites and mobile apps, such as realestate.com.au, realcommercial.com.au,
+  Flatmates.com.au, and property portals, as well as residential, commercial, and
+  share property websites; mortgage broking offering and property-related data services
+  to the financial sector; and Realtor.com, RealPRO Select, Connections Plus, Listing
+  Toolkit products, RealChoice Selling, and Realtor.com +. In addition, the company
+  publishes and distributes consumer books comprising general fiction, nonfiction,
+  and children and religious publishing through print and digital formats under the
+  Harper, William Morrow, Mariner, HarperCollins Children''s Books, Avon, Harlequin
+  and Christian publishers, Zondervan, and Thomas Nelson; provides news and information
+  under the The Australian, The Weekend Australian, The Daily Telegraph and The Sunday
+  Telegraph, Herald Sun, Sunday Herald Sun, The Courier Mail, The Sunday Mail, The
+  Advertiser, and Sunday Mail names; and operates talkSPORT, a sports radio network.
+  News Corporation was founded in 2012 and is headquartered in New York, New York.'
+longName: News Corporation
+market: us_market
+marketCap: 14360650752
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_212741644
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 620000000
+nextFiscalYearEnd: 1814313600
+nonDilutedMarketCap: 14861770805
+numberOfAnalystOpinions: 9
+open: 26.61
+operatingCashflow: 1164000000
+operatingMargins: 0.13202
+overallRisk: 10
+payoutRatio: 0.17860001
+pegRatio: 2.25
+phone: 212 416 3400
+previousClose: 26.61
+priceEpsCurrentYear: 19.709024
+priceHint: 2
+priceToBook: 1.6997013
+priceToSalesTrailing12Months: 1.5669014
+profitMargins: 0.06765
+quickRatio: 1.382
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.55556
+region: US
+regularMarketChange: 0.14499855
+regularMarketChangePercent: 0.54490244
+regularMarketDayHigh: 26.875
+regularMarketDayLow: 26.51
+regularMarketDayRange: 26.51 - 26.875
+regularMarketOpen: 26.61
+regularMarketPreviousClose: 26.61
+regularMarketPrice: 26.755
+regularMarketTime: 1794413733
+regularMarketVolume: 1041857
+returnOnAssets: 0.04914
+returnOnEquity: 0.08722
+revenueGrowth: 0.064
+revenuePerShare: 16.648
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 357956075
+sharesPercentSharesOut: 0.0182
+sharesShort: 9768207
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 10981137
+shortName: News Corporation
+shortPercentOfFloat: 0.0273
+shortRatio: 3.0
+sourceInterval: 15
+state: NY
+symbol: NWSA
+targetHighPrice: 43.0
+targetLowPrice: 30.3
+targetMeanPrice: 36.42222
+targetMedianPrice: 36.5
+totalCash: 1782000000
+totalCashPerShare: 3.317
+totalDebt: 2934000128
+totalRevenue: 9164999680
+tradeable: false
+trailingAnnualDividendRate: 0.2
+trailingAnnualDividendYield: 0.0075159715
+trailingEps: 1.12
+trailingPE: 23.888391
+trailingPegRatio: 2.257
+triggerable: true
+twoHundredDayAverage: 26.951
+twoHundredDayAverageChange: -0.19600105
+twoHundredDayAverageChangePercent: -0.0072724964
+typeDisp: Equity
+volume: 1041857
+website: https://www.newscorp.com
+zip: '10036'

@@ -1,0 +1,197 @@
+52WeekChange: -0.03800738
+SandP52WeekChange: 0.097798586
+address1: 100 Erie Insurance Place
+allTimeHigh: 547.0
+allTimeLow: 16.0
+ask: 292.69
+askSize: 2
+averageAnalystRating: 1.0 - Strong Buy
+averageDailyVolume10Day: 258960
+averageDailyVolume3Month: 236664
+averageVolume: 236664
+averageVolume10days: 258960
+beta: 0.22
+bid: 245.63
+bidSize: 2
+bookValue: 48.818
+city: Erie
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie Marie Pelkowski CPA
+  title: Executive VP & CFO
+  totalPay: 890927
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Parthasarathy  Srinivasa
+  title: Executive VP & Chief Information Officer
+  totalPay: 1010208
+  unexercisedValue: 0
+  yearBorn: 1972
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 270.12
+currentRatio: 1.306
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 270.72
+dayLow: 266.65
+debtToEquity: 2.127
+displayName: Erie Indemnity
+dividendDate: 1792454400
+dividendRate: 5.85
+dividendYield: 2.15
+earningsCallTimestampEnd: 1793368800
+earningsCallTimestampStart: 1793368800
+earningsGrowth: -0.005
+earningsQuarterlyGrowth: -0.005
+earningsTimestamp: 1793304000
+earningsTimestampEnd: 1793304000
+earningsTimestampStart: 1793304000
+ebitda: 834124992
+ebitdaMargins: 0.20233
+enterpriseToEbitda: 16.662
+enterpriseToRevenue: 3.371
+enterpriseValue: 13898019840
+epsCurrentYear: 12.86
+epsForward: 13.33
+epsTrailingTwelveMonths: 11.01
+esgPopulated: false
+exDividendDate: 1791158400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 814 870 2717
+fiftyDayAverage: 243.602
+fiftyDayAverageChange: 26.51799
+fiftyDayAverageChangePercent: 0.10885785
+fiftyTwoWeekChangePercent: -3.8007379
+fiftyTwoWeekHigh: 301.61
+fiftyTwoWeekHighChange: -31.48999
+fiftyTwoWeekHighChangePercent: -0.10440633
+fiftyTwoWeekLow: 204.63
+fiftyTwoWeekLowChange: 65.48999
+fiftyTwoWeekLowChangePercent: 0.320041
+fiftyTwoWeekRange: 204.63 - 301.61
+financialCurrency: USD
+firstTradeDateMilliseconds: 812640600000
+fiveYearAvgDividendYield: 1.69
+floatShares: 25149858
+forwardEps: 13.33
+forwardPE: 20.264067
+freeCashflow: 509237888
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 6667
+fulldayChange: -1.9700012
+fulldayChangePercent: -0.7240256
+fulldayPrice: 270.12
+gmtOffSetMilliseconds: -18000000
+grossMargins: 0.17853001
+grossProfits: 736006016
+hasPrePostMarketData: true
+heldPercentInsiders: 0.45459998
+heldPercentInstitutions: 0.45933998
+impliedSharesOutstanding: 52289868
+industry: Insurance Brokers
+industryDisp: Insurance Brokers
+industryKey: insurance-brokers
+irWebsite: http://www.erieinsurance.com/about/investors.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791158400
+lastDividendValue: 1.463
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 831945600
+lastSplitFactor: '3:1'
+longBusinessSummary: Erie Indemnity Company operates as a managing attorney-in-fact
+  for the subscribers at the Erie Insurance Exchange in the United States. It provides
+  issuance and renewal services; sales related services, including agent compensation
+  and sales and advertising support services; underwriting services that include underwriting
+  and policy processing; and other services consist of customer services and administrative
+  support services, as well as information technology services. The company was incorporated
+  in 1925 and is based in Erie, Pennsylvania.
+longName: Erie Indemnity Company
+market: us_market
+marketCap: 14124538880
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_387618
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 576137024
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 14227550184
+open: 267.26
+operatingCashflow: 691776000
+operatingMargins: 0.18275999
+payoutRatio: 0.5313
+pegRatio: 2.67
+phone: 814 870 2000
+previousClose: 272.09
+priceEpsCurrentYear: 21.004665
+priceHint: 2
+priceToBook: 5.5332046
+priceToSalesTrailing12Months: 3.426085
+profitMargins: 0.13975
+quickRatio: 1.174
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.0
+region: US
+regularMarketChange: -1.9700012
+regularMarketChangePercent: -0.7240256
+regularMarketDayHigh: 270.72
+regularMarketDayLow: 266.65
+regularMarketDayRange: 266.65 - 270.72
+regularMarketOpen: 267.26
+regularMarketPreviousClose: 272.09
+regularMarketPrice: 270.12
+regularMarketTime: 1794413608
+regularMarketVolume: 24868
+returnOnAssets: 0.1348
+returnOnEquity: 0.23702
+revenueGrowth: 0.003
+revenuePerShare: 78.842
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+sharesOutstanding: 46189068
+sharesPercentSharesOut: 0.0476
+sharesShort: 2488171
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2550842
+shortName: Erie Indemnity Company
+shortPercentOfFloat: 0.099300005
+shortRatio: 12.56
+sourceInterval: 15
+state: PA
+symbol: ERIE
+totalCash: 383836992
+totalCashPerShare: 7.341
+totalDebt: 54307000
+totalRevenue: 4122647040
+tradeable: false
+trailingAnnualDividendRate: 5.85
+trailingAnnualDividendYield: 0.02150024
+trailingEps: 11.01
+trailingPE: 24.53406
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 244.18816
+twoHundredDayAverageChange: 25.931839
+twoHundredDayAverageChangePercent: 0.106196135
+typeDisp: Equity
+volume: 24868
+website: https://www.erieinsurance.com
+zip: '16530'

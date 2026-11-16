@@ -1,0 +1,258 @@
+52WeekChange: 0.17729175
+SandP52WeekChange: 0.097798586
+address1: Viale Europa, 190
+allTimeHigh: 29.48
+allTimeLow: 4.982
+ask: 25.46
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 2292975
+averageDailyVolume3Month: 3461524
+averageVolume: 3461524
+averageVolume10days: 2292975
+beta: 0.784
+bid: 25.45
+bidSize: 0
+boardRisk: 1
+bookValue: 9.917
+city: Rome
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Dr. Matteo  Del Fante
+  title: CEO & Director
+  totalPay: 1638302
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Mr. Camillo  Greco
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Mr. Mirko  Mischiatti
+  title: Head of Digital, Technology & Operations
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Giuseppe  Esposito
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Giuseppe  Cannizzaro
+  title: Head of Legal and Corporate Affairs
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Mr. Raffaele  Panico
+  title: Manager of Group Risk & Compliance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Mr. Paolo  Iammatteo
+  title: Head of Group Communications
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Ms. Tiziana  Morandi
+  title: Head of Human Resources & Organisation
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Mr. Paolo  Casati
+  title: Head of Internal Audit & Member of Supervisory Board
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Mr. Massimo  Rosini
+  title: Head of Mail, Logistics & Communication Services
+  unexercisedValue: 0
+  yearBorn: 1962
+compensationAsOfEpochDate: 1640908800
+compensationRisk: 6
+corporateActions: []
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 25.46
+currentRatio: 0.506
+customPriceAlertConfidence: LOW
+dayHigh: 25.6
+dayLow: 25.11
+debtToEquity: 631.496
+dividendRate: 1.25
+dividendYield: 4.94
+earningsCallTimestampEnd: 1794477600
+earningsCallTimestampStart: 1794477600
+earningsGrowth: -0.058
+earningsQuarterlyGrowth: -0.058
+earningsTimestamp: 1794501000
+earningsTimestampEnd: 1794501000
+earningsTimestampStart: 1794501000
+ebitda: 4230000128
+ebitdaMargins: 0.29302
+enterpriseToEbitda: 23.748
+enterpriseToRevenue: 6.959
+enterpriseValue: 100455759872
+epsCurrentYear: 1.86058
+epsForward: 1.92311
+epsTrailingTwelveMonths: 1.85
+esgPopulated: false
+exDividendDate: 1782086400
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 39 06 59 58 91 00
+fiftyDayAverage: 25.0944
+fiftyDayAverageChange: 0.36559868
+fiftyDayAverageChangePercent: 0.014568934
+fiftyTwoWeekChangePercent: 17.729176
+fiftyTwoWeekHigh: 29.48
+fiftyTwoWeekHighChange: -4.0200005
+fiftyTwoWeekHighChangePercent: -0.13636366
+fiftyTwoWeekLow: 19.28
+fiftyTwoWeekLowChange: 6.1799984
+fiftyTwoWeekLowChangePercent: 0.32053933
+fiftyTwoWeekRange: 19.28 - 29.48
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1445932800000
+fiveYearAvgDividendYield: 5.69
+floatShares: 574484903
+forwardEps: 1.92311
+forwardPE: 13.238972
+freeCashflow: 4330625024
+fullExchangeName: Milan
+fullTimeEmployees: 119200
+fulldayChange: 0.15999985
+fulldayChangePercent: 0.63241047
+fulldayPrice: 25.46
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.34932998
+grossProfits: 5042999808
+hasPrePostMarketData: false
+heldPercentInsiders: 0.5206
+heldPercentInstitutions: 0.17326
+impliedSharesOutstanding: 1594549735
+industry: Integrated Freight & Logistics
+industryDisp: Integrated Freight & Logistics
+industryKey: integrated-freight-logistics
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1782086400
+lastDividendValue: 0.85
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Poste Italiane S.p.A. provides postal, logistics, and financial
+  and insurance products and services in Italy. The company operates through four
+  segments: Mail, Parcels and Distribution; PostePay Services; Financial Services;
+  and Insurance Services. Its Mail, Parcels and Distribution segment engages in the
+  mail, parcel, and logistics activities, as well as provision of welfare services.
+  The PostePay Services segment provides payment management and e-money services through
+  a network of LIS sales points, as well as mobile and fixed telephone services and
+  electricity and gas sales services. Its Financial Services segment engages in the
+  placement and distribution of financial and insurance products and services, such
+  as current accounts, postal savings products, mutual funds, financing, insurance
+  policies, and activities. The Insurance Services segment is involved in the investment,
+  retirement, and protection businesses through the issuance of life and P&C insurance
+  products. The company was founded in 1862 and is based in Rome, Italy.'
+longName: Poste Italiane S.p.A.
+market: it_market
+marketCap: 40597233664
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_8228183
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 2400000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 40342108295
+numberOfAnalystOpinions: 17
+open: 25.48
+operatingCashflow: 2743000064
+operatingMargins: 0.24086
+overallRisk: 3
+payoutRatio: 0.6742
+phone: 39 06 59581
+prevName: Poste Italiane SpA
+previousClose: 25.3
+priceEpsCurrentYear: 13.683905
+priceHint: 2
+priceToBook: 2.5673087
+priceToSalesTrailing12Months: 2.8122218
+profitMargins: 0.16625
+quickRatio: 0.316
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.64706
+region: US
+regularMarketChange: 0.15999985
+regularMarketChangePercent: 0.63241047
+regularMarketDayHigh: 25.6
+regularMarketDayLow: 25.11
+regularMarketDayRange: 25.11 - 25.6
+regularMarketOpen: 25.48
+regularMarketPreviousClose: 25.3
+regularMarketPrice: 25.46
+regularMarketTime: 1794411544
+regularMarketVolume: 1437202
+returnOnAssets: 0.00751
+returnOnEquity: 0.18174
+revenueGrowth: 0.034
+revenuePerShare: 11.151
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 1594549735
+shortName: POSTE ITALIANE
+sourceInterval: 20
+state: RM
+symbol: PST.MI
+targetHighPrice: 35.0
+targetLowPrice: 16.5
+targetMeanPrice: 29.13529
+targetMedianPrice: 29.1
+totalCash: 19623999488
+totalCashPerShare: 15.173
+totalDebt: 87178002432
+totalRevenue: 14435999744
+tradeable: false
+trailingAnnualDividendRate: 0.85
+trailingAnnualDividendYield: 0.03359684
+trailingEps: 1.85
+trailingPE: 13.762161
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 24.847025
+twoHundredDayAverageChange: 0.61297417
+twoHundredDayAverageChangePercent: 0.024669923
+typeDisp: Equity
+volume: 1437202
+website: https://www.posteitaliane.it
+zip: '00144'

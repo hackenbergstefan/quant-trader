@@ -1,0 +1,269 @@
+52WeekChange: 0.38519287
+SandP52WeekChange: 0.097798586
+address1: 58 Charles Street
+allTimeHigh: 1195.94
+allTimeLow: 115.0
+ask: 827.06
+askSize: 360
+auditRisk: 10
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 5252990
+averageDailyVolume3Month: 2774989
+averageVolume: 2774989
+averageVolume10days: 5252990
+beta: 1.058
+bid: 826.0
+bidSize: 40
+boardRisk: 3
+bookValue: 43.003
+city: Cambridge
+companyOfficers:
+- age: 46
+  exercisedValue: 4793001
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott L. Strazik
+  title: CEO, President & Director
+  totalPay: 6259007
+  unexercisedValue: 128494536
+  yearBorn: 1979
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kenneth S. Parks
+  title: Chief Financial Officer
+  totalPay: 2875605
+  unexercisedValue: 1754786
+  yearBorn: 1963
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven  Baert
+  title: Chief People Officer
+  totalPay: 2802979
+  unexercisedValue: 1253488
+  yearBorn: 1974
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philippe  Piron
+  title: Chief Executive Officer of Electrification Systems
+  totalPay: 2986046
+  unexercisedValue: 1253488
+  yearBorn: 1971
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pablo M. Koziner
+  title: Chief Commercial & Operations Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Matthew Joseph Potvin
+  title: VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Jay Lapides
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lola Felice Lin J.D.
+  title: Chief Legal Officer & Secretary
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristin  Carvell
+  title: Chief Communications Officer & President of GE Vernova Foundation
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Hon. Roger J. Martella Jr.
+  title: Chief Corporate & Sustainability Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 819.8325
+currentRatio: 0.827
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 845.0
+dayLow: 801.32
+debtToEquity: 29.893
+displayName: GE Vernova
+dividendDate: 1795478400
+dividendRate: 2.0
+dividendYield: 0.25
+earningsCallTimestampEnd: 1800552600
+earningsCallTimestampStart: 1800552600
+earningsGrowth: 1.933
+earningsQuarterlyGrowth: 1.856
+earningsTimestamp: 1801056600
+earningsTimestampEnd: 1801056600
+earningsTimestampStart: 1801056600
+ebitda: 5047000064
+ebitdaMargins: 0.1146
+enterpriseToEbitda: 39.528
+enterpriseToRevenue: 4.53
+enterpriseValue: 199498203136
+epsCurrentYear: 15.68097
+epsForward: 25.86468
+epsTrailingTwelveMonths: 38.09
+esgPopulated: false
+exDividendDate: 1793059200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 919.8316
+fiftyDayAverageChange: -99.999084
+fiftyDayAverageChangePercent: -0.10871456
+fiftyTwoWeekChangePercent: 38.519287
+fiftyTwoWeekHigh: 1195.94
+fiftyTwoWeekHighChange: -376.10742
+fiftyTwoWeekHighChangePercent: -0.3144869
+fiftyTwoWeekLow: 530.16
+fiftyTwoWeekLowChange: 289.67255
+fiftyTwoWeekLowChangePercent: 0.5463871
+fiftyTwoWeekRange: 530.16 - 1195.94
+financialCurrency: USD
+firstTradeDateMilliseconds: 1711546200000
+floatShares: 264115951
+forwardEps: 25.86468
+forwardPE: 31.696991
+freeCashflow: 22098874368
+fullExchangeName: NYSE
+fullTimeEmployees: 78000
+fulldayChange: 22.792542
+fulldayChangePercent: 2.8596485
+fulldayPrice: 819.8325
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.21787001
+grossProfits: 9594999808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00125
+heldPercentInstitutions: 0.8199
+impliedSharesOutstanding: 264677066
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+ipoExpectedDate: '2024-04-02'
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793059200
+lastDividendValue: 0.5
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'GE Vernova Inc., an energy company, engages in the provision
+  of various products and services that generate, transfer, orchestrate, convert,
+  and store electricity in the United States, Europe, Asia, the Middle East, and Africa.
+  The company operates through three segments: Power, Wind, and Electrification. The
+  Power segment designs, manufactures, and services gas, nuclear, hydro, and steam
+  technologies. It serves industrial, government, and other customers. The Wind segment
+  offers wind generation technologies, including onshore and offshore wind turbines
+  and blades. The Electrification segment provides grid solutions; power conversion;
+  electrification software; and solar and storage solutions technologies required
+  for the transmission, distribution, conversion, storage, and orchestration of electricity
+  from point of generation to point of consumption. The company was incorporated in
+  2023 and is headquartered in Cambridge, Massachusetts.'
+longName: GE Vernova Inc.
+market: us_market
+marketCap: 216990875648
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1818848396
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 10368000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 210958208684
+numberOfAnalystOpinions: 33
+open: 845.0
+operatingCashflow: 19215998976
+operatingMargins: 0.08218
+overallRisk: 7
+payoutRatio: 0.045900002
+pegRatio: 1.53
+phone: 617 674 7555
+prevName: GE Vernova LLC
+previousClose: 797.04
+priceEpsCurrentYear: 52.282
+priceHint: 2
+priceToBook: 19.064543
+priceToSalesTrailing12Months: 4.9271317
+profitMargins: 0.23542
+quickRatio: 0.565
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.44737
+region: US
+regularMarketChange: 22.792542
+regularMarketChangePercent: 2.8596485
+regularMarketDayHigh: 845.0
+regularMarketDayLow: 801.32
+regularMarketDayRange: 801.32 - 845.0
+regularMarketOpen: 845.0
+regularMarketPreviousClose: 797.04
+regularMarketPrice: 819.8325
+regularMarketTime: 1794413737
+regularMarketVolume: 1598545
+returnOnAssets: 0.03217
+returnOnEquity: 0.93035007
+revenueGrowth: 0.268
+revenuePerShare: 164.636
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 8
+sharesOutstanding: 264677066
+sharesPercentSharesOut: 0.028299998
+sharesShort: 7478372
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7376507
+shortName: GE Vernova Inc.
+shortPercentOfFloat: 0.028299998
+shortRatio: 2.55
+sourceInterval: 15
+state: MA
+symbol: GEV
+targetHighPrice: 1400.0
+targetLowPrice: 940.0
+targetMeanPrice: 1182.8318
+targetMedianPrice: 1200.0
+totalCash: 16364000256
+totalCashPerShare: 61.826
+totalDebt: 3748000000
+totalRevenue: 44039999488
+tradeable: false
+trailingAnnualDividendRate: 2.0
+trailingAnnualDividendYield: 0.0025092845
+trailingEps: 38.09
+trailingPE: 21.523563
+trailingPegRatio: 1.4714
+triggerable: true
+twoHundredDayAverage: 950.2476
+twoHundredDayAverageChange: -130.4151
+twoHundredDayAverageChangePercent: -0.13724329
+typeDisp: Equity
+volume: 1598528
+website: https://www.gevernova.com
+zip: '02141'

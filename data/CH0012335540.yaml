@@ -1,0 +1,259 @@
+52WeekChange: 0.55463576
+SandP52WeekChange: 0.097798586
+address1: Gotthardstrasse 43
+allTimeHigh: 94.7
+allTimeLow: 12.75
+ask: 94.4
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 3.3 - Hold
+averageDailyVolume10Day: 53012
+averageDailyVolume3Month: 63608
+averageVolume: 63608
+averageVolume10days: 53012
+beta: 0.555
+bid: 94.3
+bidSize: 0
+boardRisk: 5
+bookValue: 46.928
+city: Zurich
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Georg Franz Friedrich Schubiger
+  title: Co-CEO & Member of Executive Board
+  totalPay: 3217200
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Christel Rendu De Lint
+  title: Co-CEO & Member of Global Executive Board
+  totalPay: 3217200
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Antoine  Boublil
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Markus  Pfister
+  title: COO, Head of Technology & Services and Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Maria-Antonella  Bino
+  title: General Counsel, Head Legal & Compliance and Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Skoog
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dominique  Gerster
+  title: Head of Corporate Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Annette  Nanzer
+  title: Head for HR Operations
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew William Benkendorf
+  title: Chief Investment Officer of the Quality Growth Boutique
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Christian  Schilz
+  title: Head of Corporate Responsibility
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 94.4
+customPriceAlertConfidence: LOW
+dayHigh: 94.7
+dayLow: 94.0
+dividendDate: 1744070400
+dividendRate: 3.0
+dividendYield: 3.19
+earningsCallTimestampEnd: 1738917000
+earningsCallTimestampStart: 1738917000
+earningsGrowth: 0.871
+earningsQuarterlyGrowth: 0.87
+earningsTimestampEnd: 1784907000
+earningsTimestampStart: 1784907000
+ebitdaMargins: 0.0
+enterpriseToRevenue: -2.267
+enterpriseValue: -3612123648
+epsCurrentYear: 6.87575
+epsForward: 6.41967
+epsTrailingTwelveMonths: 6.66
+esgPopulated: false
+exDividendDate: 1776297600
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 41 58 283 75 00
+fiftyDayAverage: 90.894
+fiftyDayAverageChange: 3.5060043
+fiftyDayAverageChangePercent: 0.038572453
+fiftyTwoWeekChangePercent: 55.463577
+fiftyTwoWeekHigh: 94.7
+fiftyTwoWeekHighChange: -0.29999542
+fiftyTwoWeekHighChangePercent: -0.0031678504
+fiftyTwoWeekLow: 58.2
+fiftyTwoWeekLowChange: 36.2
+fiftyTwoWeekLowChangePercent: 0.6219931
+fiftyTwoWeekRange: 58.2 - 94.7
+financialCurrency: CHF
+firstTradeDateMilliseconds: 992242800000
+fiveYearAvgDividendYield: 4.55
+floatShares: 41674209
+forwardEps: 6.41967
+forwardPE: 14.704805
+fullExchangeName: Swiss
+fullTimeEmployees: 2279
+fulldayChange: 0.5
+fulldayChangePercent: 0.5324814
+fulldayPrice: 94.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 1593200000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.51628
+heldPercentInstitutions: 0.19748
+impliedSharesOutstanding: 56288354
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776297600
+lastDividendValue: 3.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Vontobel Holding AG, together with its subsidiaries, provides
+  various financial services to private and institutional clients in Switzerland and
+  internationally. The company offers fixed advances, current account overdrafts,
+  guarantees, and margin requirements for derivative transactions. It also offers
+  private equity and credit, and venture capital; investment solutions for equities,
+  fixed income, quantitative, multi asset, and private markets; and structured solutions.
+  In addition, the company provides real estate financing and lombard loans; our structured
+  products, including investment products, and thematic investments; leverage products,
+  such as constant leverage certificates, mini futures, warrants, warrants with knock-out,
+  and warrants with knock-out open-end; and thematic investments, comprising strategic
+  and tracker certificates. Further, it offers barrier reverse convertibles, barrier
+  reverse convertibles with conditional coupon, bonus certificates, bonus certificates
+  with cap, callable barrier reverse convertibles, callable reverse convertibles,
+  capital protection notes, capped capital protection notes, credit linked notes,
+  discount certificates, discount certificates with barrier, multi barrier reverse
+  convertibles, multi barrier reverse convertibles with conditional coupon, multi
+  bonus certificates, multi bonus certificates with cap, multi callable barrier reverse
+  convertibles, multi callable reverse convertibles, multi reverse convertibles, multi
+  reverse convertibles with conditional coupon, outperformance certificates, outperformance
+  certificates with cap, and reverse convertibles. Vontobel Holding AG was founded
+  in 1924 and is headquartered in Zurich, Switzerland.
+longName: Vontobel Holding AG
+market: ch_market
+marketCap: 5313620480
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_106822
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 380600000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5285476440
+numberOfAnalystOpinions: 4
+open: 94.0
+operatingCashflow: 1079699968
+operatingMargins: 0.30975
+overallRisk: 6
+payoutRatio: 0.45049998
+pegRatio: 3.71
+phone: 41 58 283 59 00
+previousClose: 93.9
+priceEpsCurrentYear: 13.729411
+priceHint: 2
+priceToBook: 2.0115921
+priceToSalesTrailing12Months: 3.3351874
+profitMargins: 0.23888999
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.25
+region: US
+regularMarketChange: 0.5
+regularMarketChangePercent: 0.5324814
+regularMarketDayHigh: 94.7
+regularMarketDayLow: 94.0
+regularMarketDayRange: 94.0 - 94.7
+regularMarketOpen: 94.0
+regularMarketPreviousClose: 93.9
+regularMarketPrice: 94.4
+regularMarketTime: 1794411546
+regularMarketVolume: 10011
+returnOnAssets: 0.010319999
+returnOnEquity: 0.15609
+revenueGrowth: 0.236
+revenuePerShare: 28.402
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 56288354
+shortName: VONTOBEL N
+sourceInterval: 15
+symbol: VONN.SW
+targetHighPrice: 84.0
+targetLowPrice: 71.0
+targetMeanPrice: 78.75
+targetMedianPrice: 80.0
+totalCash: 14142300160
+totalCashPerShare: 251.247
+totalDebt: 5244700160
+totalRevenue: 1593200000
+tradeable: false
+trailingAnnualDividendRate: 3.0
+trailingAnnualDividendYield: 0.031948883
+trailingEps: 6.66
+trailingPE: 14.174174
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 78.019
+twoHundredDayAverageChange: 16.381004
+twoHundredDayAverageChangePercent: 0.20996174
+typeDisp: Equity
+volume: 10011
+website: https://www.vontobel.com
+zip: '8022'

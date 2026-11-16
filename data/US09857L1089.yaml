@@ -1,0 +1,271 @@
+52WeekChange: -0.23071426
+SandP52WeekChange: 0.097798586
+address1: 800 Connecticut Avenue
+allTimeHigh: 233.5764
+allTimeLow: 0.252
+ask: 169.36
+askSize: 2
+auditRisk: 9
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 9319730
+averageDailyVolume3Month: 7327465
+averageVolume: 7327465
+averageVolume10days: 9319730
+beta: 1.153
+bid: 145.97
+bidSize: 2
+boardRisk: 2
+bookValue: -13.95
+city: Norwalk
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Glenn D. Fogel
+  title: President, CEO & Director
+  totalPay: 9215823
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ewout Lucien Steenbergen
+  title: Executive VP & CFO
+  totalPay: 3237292
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter J. Millones Jr.
+  title: Executive VP & General Counsel
+  totalPay: 2822413
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paulo  Pisano
+  title: Chief Human Resources Officer
+  totalPay: 2371189
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Caroline Dolores Sullivan
+  title: Senior VP, Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Leslie  Cafferty
+  title: Head of Communications
+  unexercisedValue: 0
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Debby  Soo
+  title: Chief Executive Officer of OpenTable
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vijay S. Iyer
+  title: Senior VP, Associate General Counsel & Corporate Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Omri  Morgenshtern
+  title: Chief Executive Officer of Agoda
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Brigit  Zimmerman
+  title: Chief Executive Officer of Priceline
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 157.14
+currentRatio: 1.115
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 159.33
+dayLow: 156.3
+displayName: Booking
+dividendDate: 1798675200
+dividendRate: 1.68
+dividendYield: 1.05
+earningsCallTimestampEnd: 1793741400
+earningsCallTimestampStart: 1793741400
+earningsGrowth: 0.068
+earningsQuarterlyGrowth: -0.011
+earningsTimestamp: 1793739600
+earningsTimestampEnd: 1793739600
+earningsTimestampStart: 1793739600
+ebitda: 9831999488
+ebitdaMargins: 0.34957
+enterpriseToEbitda: 12.606
+enterpriseToRevenue: 4.407
+enterpriseValue: 123946860544
+epsCurrentYear: 10.42356
+epsForward: 12.25704
+epsTrailingTwelveMonths: 9.22
+esgPopulated: false
+exDividendDate: 1789084800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 164.855
+fiftyDayAverageChange: -7.7149963
+fiftyDayAverageChangePercent: -0.04679868
+fiftyTwoWeekChangePercent: -23.071426
+fiftyTwoWeekHigh: 220.806
+fiftyTwoWeekHighChange: -63.666
+fiftyTwoWeekHighChangePercent: -0.28833455
+fiftyTwoWeekLow: 146.28
+fiftyTwoWeekLowChange: 10.860001
+fiftyTwoWeekLowChangePercent: 0.07424118
+fiftyTwoWeekRange: 146.28 - 220.806
+financialCurrency: USD
+firstTradeDateMilliseconds: 922890600000
+floatShares: 741276791
+forwardEps: 12.25704
+forwardPE: 12.820387
+freeCashflow: 7609124864
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 25850
+fulldayChange: -2.119995
+fulldayChangePercent: -1.3311536
+fulldayPrice: 157.14
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.87179
+grossProfits: 24519999488
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00177
+heldPercentInstitutions: 0.99386
+impliedSharesOutstanding: 743701257
+industry: Travel Services
+industryDisp: Travel Services
+industryKey: travel-services
+irWebsite: http://ir.priceline.com/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789084800
+lastDividendValue: 0.42
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1775433600
+lastSplitFactor: '25:1'
+longBusinessSummary: Booking Holdings Inc., together with its subsidiaries, provides
+  online and traditional travel and restaurant reservations and related services in
+  the United States, the Netherlands, the United Kingdom, and internationally. The
+  company operates Booking.com, which offers online accommodation reservations; and
+  Priceline, which provides discount travel reservations services, as well as online
+  accommodation, flight, rental car reservation services, vacation packages, cruises,
+  activity, and affiliate programs. It also operates Agoda that offers online accommodation
+  reservation, flight, ground transportation, and attractions. In addition, the company
+  operates KAYAK, an online meta-search service that allows consumers to search and
+  compare travel itineraries and prices; and OpenTable for booking online restaurant
+  reservations, as well as reservation management services to restaurants. Further,
+  it offers travel-related insurance products, payment facilitation, and restaurant
+  management services to consumers, travel service providers, and restaurants; and
+  advertising services. The company was formerly known as The Priceline Group Inc.
+  and changed its name to Booking Holdings Inc. in February 2018. Booking Holdings
+  Inc. was founded in 1997 and is headquartered in Norwalk, Connecticut.
+longName: Booking Holdings Inc.
+market: us_market
+marketCap: 116865212416
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_33254
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 7177999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 118441862189
+numberOfAnalystOpinions: 35
+open: 157.99
+operatingCashflow: 9560999936
+operatingMargins: 0.32845002
+overallRisk: 1
+payoutRatio: 0.1784
+pegRatio: 0.6
+phone: 203 299 8000
+previousClose: 159.26
+priceEpsCurrentYear: 15.075463
+priceHint: 2
+priceToBook: -11.264516
+priceToSalesTrailing12Months: 4.15506
+profitMargins: 0.25521
+quickRatio: 1.039
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.54054
+region: US
+regularMarketChange: -2.119995
+regularMarketChangePercent: -1.3311536
+regularMarketDayHigh: 159.33
+regularMarketDayLow: 156.3
+regularMarketDayRange: 156.3 - 159.33
+regularMarketOpen: 157.99
+regularMarketPreviousClose: 159.26
+regularMarketPrice: 157.14
+regularMarketTime: 1794413725
+regularMarketVolume: 1329788
+returnOnAssets: 0.20253
+revenueGrowth: -0.013
+revenuePerShare: 36.173
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 2
+sharesOutstanding: 743701257
+sharesPercentSharesOut: 0.0231
+sharesShort: 17189626
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 22615773
+shortName: Booking Holdings Inc. Common St
+shortPercentOfFloat: 0.0232
+shortRatio: 2.5
+sourceInterval: 15
+state: CT
+symbol: BKNG
+targetHighPrice: 267.0
+targetLowPrice: 150.0
+targetMeanPrice: 215.65714
+targetMedianPrice: 215.0
+totalCash: 15813999616
+totalCashPerShare: 21.264
+totalDebt: 21319000064
+totalRevenue: 28125999104
+tradeable: false
+trailingAnnualDividendRate: 1.656
+trailingAnnualDividendYield: 0.010398092
+trailingEps: 9.22
+trailingPE: 17.043383
+trailingPegRatio: 0.604
+triggerable: true
+twoHundredDayAverage: 175.3204
+twoHundredDayAverageChange: -18.180405
+twoHundredDayAverageChangePercent: -0.103698164
+typeDisp: Equity
+volume: 1329788
+website: https://www.bookingholdings.com
+zip: 06854

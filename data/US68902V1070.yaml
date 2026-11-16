@@ -1,0 +1,273 @@
+52WeekChange: -0.14123982
+SandP52WeekChange: 0.097798586
+address1: One Carrier Place
+allTimeHigh: 106.828
+allTimeLow: 38.0
+ask: 77.15
+askSize: 200
+auditRisk: 3
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 5486930
+averageDailyVolume3Month: 4517054
+averageVolume: 4517054
+averageVolume10days: 5486930
+beta: 0.866
+bid: 77.13
+bidSize: 200
+boardRisk: 3
+bookValue: -14.263
+city: Farmington
+companyOfficers:
+- age: 61
+  exercisedValue: 2684167
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Judith F. Marks
+  title: Chair, President & CEO
+  totalPay: 3794982
+  unexercisedValue: 9917694
+  yearBorn: 1964
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cristina  Mendez
+  title: Executive VP & CFO
+  totalPay: 2589267
+  unexercisedValue: 26272
+  yearBorn: 1981
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Enrique  Minarro Viseras
+  title: EVP & Chief Operating Officer
+  totalPay: 1466669
+  unexercisedValue: 178305
+  yearBorn: 1978
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sally A. Loh
+  title: President of Otis Greater China
+  totalPay: 2153156
+  unexercisedValue: 561461
+  yearBorn: 1974
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Patrick Ryan
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sofya  Tsinis
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 536765
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nora E. LaFreniere J.D.
+  title: Executive VP & General Counsel
+  totalPay: 1484515
+  unexercisedValue: 3835593
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Randi  Tanguay
+  title: Senior VP & Chief Communications Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Debraj  Chowdhury
+  title: Head of Sales & Marketing
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kimberly  Gosk
+  title: Executive VP & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: OTIS announced a cash dividend of $0.44 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.44'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 77.1
+currentRatio: 0.859
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 77.73
+dayLow: 77.01
+displayName: Otis Worldwide
+dividendDate: 1796947200
+dividendRate: 1.76
+dividendYield: 2.25
+earningsCallTimestampEnd: 1793190600
+earningsCallTimestampStart: 1793190600
+earningsGrowth: 0.137
+earningsQuarterlyGrowth: 0.107
+earningsTimestamp: 1793190600
+earningsTimestampEnd: 1801056600
+earningsTimestampStart: 1801056600
+ebitda: 2511000064
+ebitdaMargins: 0.16590999
+enterpriseToEbitda: 15.072
+enterpriseToRevenue: 2.5
+enterpriseValue: 37844914176
+epsCurrentYear: 4.06664
+epsForward: 4.48883
+epsTrailingTwelveMonths: 4.02
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 70.6144
+fiftyDayAverageChange: 6.4855957
+fiftyDayAverageChangePercent: 0.09184522
+fiftyTwoWeekChangePercent: -14.123982
+fiftyTwoWeekHigh: 94.565
+fiftyTwoWeekHighChange: -17.465004
+fiftyTwoWeekHighChangePercent: -0.18468782
+fiftyTwoWeekLow: 63.575
+fiftyTwoWeekLowChange: 13.524998
+fiftyTwoWeekLowChangePercent: 0.21274082
+fiftyTwoWeekRange: 63.575 - 94.565
+financialCurrency: USD
+firstTradeDateMilliseconds: 1584624600000
+fiveYearAvgDividendYield: 1.55
+floatShares: 379987163
+forwardEps: 4.48883
+forwardPE: 17.175968
+freeCashflow: 1385124992
+fullExchangeName: NYSE
+fullTimeEmployees: 72000
+fulldayChange: -1.0299988
+fulldayChangePercent: -1.3183141
+fulldayPrice: 77.1
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.29950002
+grossProfits: 4533000192
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00117
+heldPercentInstitutions: 0.99587995
+impliedSharesOutstanding: 380710513
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.44
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Otis Worldwide Corporation engages in manufacturing, installation,
+  and servicing of elevators and escalators in the United States, China, and internationally.
+  The company operates in two segments, New Equipment and Service. The New Equipment
+  segment designs, manufactures, sells, and installs a range of passenger and freight
+  elevators, as well as escalators and moving walkways for residential and commercial
+  buildings, and infrastructure projects. This segment serves real-estate and building
+  developers, and general contractors. It sells its products directly to customers,
+  as well as through agents and distributors. The Service segment performs maintenance
+  and repair services, as well as modernization services to upgrade elevators and
+  escalators. Otis Worldwide Corporation was founded in 1853 and is headquartered
+  in Farmington, Connecticut.
+longName: Otis Worldwide Corporation
+market: us_market
+marketCap: 29352781824
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_159264
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1556000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 29744912380
+numberOfAnalystOpinions: 13
+open: 77.28
+operatingCashflow: 1834000000
+operatingMargins: 0.15474
+overallRisk: 2
+payoutRatio: 0.42790002
+pegRatio: 1.85
+phone: 860 674 3000
+previousClose: 78.13
+priceEpsCurrentYear: 18.95914
+priceHint: 2
+priceToBook: -5.405595
+priceToSalesTrailing12Months: 1.9393976
+profitMargins: 0.10281
+quickRatio: 0.724
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.33333
+region: US
+regularMarketChange: -1.0299988
+regularMarketChangePercent: -1.3183141
+regularMarketDayHigh: 77.73
+regularMarketDayLow: 77.01
+regularMarketDayRange: 77.01 - 77.73
+regularMarketOpen: 77.28
+regularMarketPreviousClose: 78.13
+regularMarketPrice: 77.1
+regularMarketTime: 1794413732
+regularMarketVolume: 470213
+returnOnAssets: 0.13258
+revenueGrowth: 0.061
+revenuePerShare: 39.258
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 4
+sharesOutstanding: 380710513
+sharesPercentSharesOut: 0.0425
+sharesShort: 16161819
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 17143910
+shortName: Otis Worldwide Corporation
+shortPercentOfFloat: 0.048699997
+shortRatio: 3.27
+sourceInterval: 15
+state: CT
+symbol: OTIS
+targetHighPrice: 95.0
+targetLowPrice: 73.0
+targetMeanPrice: 85.84615
+targetMedianPrice: 90.0
+totalCash: 866000000
+totalCashPerShare: 2.275
+totalDebt: 8693999616
+totalRevenue: 15134999552
+tradeable: false
+trailingAnnualDividendRate: 1.72
+trailingAnnualDividendYield: 0.022014592
+trailingEps: 4.02
+trailingPE: 19.179104
+trailingPegRatio: 1.8307
+triggerable: true
+twoHundredDayAverage: 75.89375
+twoHundredDayAverageChange: 1.2062454
+twoHundredDayAverageChangePercent: 0.01589387
+typeDisp: Equity
+volume: 470213
+website: https://www.otis.com
+zip: '06032'

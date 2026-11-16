@@ -1,0 +1,276 @@
+52WeekChange: 0.20967531
+SandP52WeekChange: 0.097798586
+address1: Im Langacher 44
+allTimeHigh: 1806.58
+allTimeLow: 14.0625
+ask: 1765.43
+askSize: 20
+auditRisk: 2
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 209460
+averageDailyVolume3Month: 200615
+averageVolume: 200615
+averageVolume10days: 209460
+beta: 1.171
+bid: 1763.64
+bidSize: 10
+boardRisk: 1
+bookValue: 3.904
+city: Greifensee
+companyOfficers:
+- age: 62
+  exercisedValue: 875900
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick K. Kaltenbach
+  title: President & CEO
+  totalPay: 1838371
+  unexercisedValue: 2586582
+  yearBorn: 1963
+- age: 56
+  exercisedValue: 4049421
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shawn P. Vadala
+  title: Chief Financial Officer
+  totalPay: 720400
+  unexercisedValue: 6602957
+  yearBorn: 1969
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Susan  Graham-Bryce
+  title: Chief Human Resources Officer
+  totalPay: 1118200
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 61
+  exercisedValue: 9327535
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc  de La Gueronniere
+  title: Head of North American Market Organization, Global Service & Commercial Excellence
+  totalPay: 525207
+  unexercisedValue: 480132
+  yearBorn: 1964
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard  Wong
+  title: Head of Asia/Pacific
+  totalPay: 619915
+  unexercisedValue: 1629631
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Markus  Koepfli
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam William Uhlman
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Michelle M. Roe
+  title: Chief Legal Officer & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oliver  Wittorf
+  title: Head of Product Inspection, Retail & Global Supply Chain
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 57
+  exercisedValue: 358696
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gerhard  Keller
+  title: Head of Process Analytics
+  totalPay: 810004
+  unexercisedValue: 883348
+  yearBorn: 1968
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: USD
+currentPrice: 1766.57
+currentRatio: 1.101
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 1768.01
+dayLow: 1752.0
+debtToEquity: 2605.792
+displayName: Mettler-Toledo
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793971800
+earningsCallTimestampStart: 1793971800
+earningsGrowth: 0.163
+earningsQuarterlyGrowth: 0.131
+earningsTimestamp: 1793912400
+earningsTimestampEnd: 1801774800
+earningsTimestampStart: 1801774800
+ebitda: 1250333056
+ebitdaMargins: 0.29781
+enterpriseToEbitda: 29.438
+enterpriseToRevenue: 8.767
+enterpriseValue: 36807102464
+epsCurrentYear: 47.81607
+epsForward: 53.22373
+epsTrailingTwelveMonths: 46.07
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 1538.2214
+fiftyDayAverageChange: 228.34851
+fiftyDayAverageChangePercent: 0.1484497
+fiftyTwoWeekChangePercent: 20.967531
+fiftyTwoWeekHigh: 1806.58
+fiftyTwoWeekHighChange: -40.01001
+fiftyTwoWeekHighChangePercent: -0.022146825
+fiftyTwoWeekLow: 1023.05
+fiftyTwoWeekLowChange: 743.51996
+fiftyTwoWeekLowChangePercent: 0.72676796
+fiftyTwoWeekRange: 1023.05 - 1806.58
+financialCurrency: USD
+firstTradeDateMilliseconds: 879517800000
+floatShares: 19780809
+forwardEps: 53.22373
+forwardPE: 33.1914
+freeCashflow: 678002624
+fullExchangeName: NYSE
+fullTimeEmployees: 16600
+fulldayChange: 15.189941
+fulldayChangePercent: 0.8673127
+fulldayPrice: 1766.57
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.59157
+grossProfits: 2483693056
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00441
+heldPercentInstitutions: 1.0518299
+impliedSharesOutstanding: 19890405
+industry: Diagnostics & Research
+industryDisp: Diagnostics & Research
+industryKey: diagnostics-research
+irWebsite: http://investor.mt.com/phoenix.zhtml?c=116541&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Mettler-Toledo International Inc. manufactures and supplies
+  precision instruments and services in the Americas, Europe, Asia, and internationally.
+  It operates through five segments: U.S. Operations, Swiss Operations, Western European
+  Operations, Chinese Operations, and Other Operations. The company offers laboratory
+  instruments, such as laboratory balances, liquid pipetting solutions, real-time
+  analytics, titrators, pH meters, process analytics sensors and analyzer technologies,
+  density and refractometry instruments, and thermal analysis systems; and other analytical
+  instruments, including UV/VIS spectrophotometers, moisture analyzers, and cell counters,
+  as well as LabX, a laboratory software platform to manage and analyze data generated
+  by its instruments and automate workflows. It also provides industrial instruments
+  comprising industrial weighing instruments and related terminals, automatic dimensional
+  measurement and data capture solutions, vehicle scale systems, industrial software,
+  metal detectors, x-ray systems, checkweighers, and camera-based imaging equipment.
+  In addition, the company offers retail weighing solutions consisting of weighing
+  and software solutions, AI-driven image recognition solutions for fresh goods, and
+  automated packaging and labeling solutions for the meat backroom. The company serves
+  pharmaceutical and biotech companies, independent research organizations, and testing
+  labs; food manufacturers and retailers; chemical, specialty chemicals, and cosmetics
+  companies; transportation and logistics, metals, and electronics industries; and
+  academic community through its direct sales force and indirect distribution channels.
+  Mettler-Toledo International Inc. was incorporated in 1991 and is headquartered
+  in Greifensee, Switzerland.'
+longName: Mettler-Toledo International Inc.
+market: us_market
+marketCap: 35137789952
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_31468
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 934070976
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 34835657508
+numberOfAnalystOpinions: 12
+open: 1761.8
+operatingCashflow: 984364992
+operatingMargins: 0.27818
+overallRisk: 2
+payoutRatio: 0.0
+pegRatio: 3.27
+phone: 41 44 944 2211
+previousClose: 1751.38
+priceEpsCurrentYear: 36.94511
+priceHint: 2
+priceToBook: 452.50253
+priceToSalesTrailing12Months: 8.369189
+profitMargins: 0.22248
+quickRatio: 0.628
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.61538
+region: US
+regularMarketChange: 15.189941
+regularMarketChangePercent: 0.8673127
+regularMarketDayHigh: 1768.01
+regularMarketDayLow: 1752.0
+regularMarketDayRange: 1752.0 - 1768.01
+regularMarketOpen: 1761.8
+regularMarketPreviousClose: 1751.38
+regularMarketPrice: 1766.57
+regularMarketTime: 1794413551
+regularMarketVolume: 16819
+returnOnAssets: 0.20229
+revenueGrowth: 0.063
+revenuePerShare: 207.984
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 5
+sharesOutstanding: 19890405
+sharesPercentSharesOut: 0.031
+sharesShort: 616441
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 708446
+shortName: Mettler-Toledo International, I
+shortPercentOfFloat: 0.0356
+shortRatio: 3.19
+sourceInterval: 15
+symbol: MTD
+targetHighPrice: 1930.0
+targetLowPrice: 1200.0
+targetMeanPrice: 1683.3334
+targetMedianPrice: 1795.0
+totalCash: 52237000
+totalCashPerShare: 2.626
+totalDebt: 2023683968
+totalRevenue: 4198469888
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 46.07
+trailingPE: 38.345345
+trailingPegRatio: 3.2724
+triggerable: true
+twoHundredDayAverage: 1347.19
+twoHundredDayAverageChange: 419.38
+twoHundredDayAverageChangePercent: 0.31129983
+typeDisp: Equity
+volume: 16819
+website: https://www.mt.com
+zip: '8606'

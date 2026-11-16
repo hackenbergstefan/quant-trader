@@ -1,0 +1,243 @@
+52WeekChange: 0.24993384
+SandP52WeekChange: 0.097798586
+address1: Plaza San Nicolás, 4
+allTimeHigh: 25.57
+allTimeLow: 2.128
+ask: 23.49
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.9 - Hold
+averageDailyVolume10Day: 9313277
+averageDailyVolume3Month: 7391086
+averageVolume: 7391086
+averageVolume10days: 9313277
+beta: 0.826
+bid: 23.48
+bidSize: 0
+boardRisk: 3
+bookValue: 10.537
+city: Bilbao
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Carlos  Torres Vila
+  title: President & Group Executive Chairman
+  totalPay: 7071000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Onur  Genc
+  title: CEO & Executive Director
+  totalPay: 6644000
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Gonzalo Rodriguez Rodriguez
+  title: Global Head of Finance & CFO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Ricardo  Marine
+  title: Executive Director of Institutional Investor Relations
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Francisco Javier Rodríguez Soler
+  title: Global Head of Sustainability and Corporate & Investment Banking
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Patricia Bueno Olalla
+  title: Global Head of Shareholder & Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Jacobo De Nicolas y De Benito
+  title: Global Head of Legal
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Jorge  Sicilia Serrano
+  title: Chief Economist of BBVA Group
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Jaime Saenz de Tejada Pulido
+  title: Global Head of Commercial Client Solutions
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. David  Puente Vicente
+  title: Global Head of Retail Client Solutions
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1735603200
+compensationRisk: 1
+corporateActions: []
+country: Spain
+cryptoTradeable: false
+currency: EUR
+currentPrice: 23.48
+customPriceAlertConfidence: LOW
+dayHigh: 23.89
+dayLow: 23.41
+dividendRate: 0.97
+dividendYield: 4.11
+earningsCallTimestampEnd: 1793262600
+earningsCallTimestampStart: 1793262600
+earningsGrowth: 0.238
+earningsQuarterlyGrowth: 0.191
+earningsTimestamp: 1793291400
+earningsTimestampEnd: 1793291400
+earningsTimestampStart: 1793291400
+ebitdaMargins: 0.0
+enterpriseToRevenue: 4.619
+enterpriseValue: 164265132032
+epsCurrentYear: 2.09609
+epsForward: 2.35192
+epsTrailingTwelveMonths: 1.96
+esgPopulated: false
+exDividendDate: 1791849600
+exchange: MCE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Madrid
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 23.8002
+fiftyDayAverageChange: -0.32019997
+fiftyDayAverageChangePercent: -0.013453667
+fiftyTwoWeekChangePercent: 24.993383
+fiftyTwoWeekHigh: 25.57
+fiftyTwoWeekHighChange: -2.0900002
+fiftyTwoWeekHighChangePercent: -0.081736416
+fiftyTwoWeekLow: 17.375
+fiftyTwoWeekLowChange: 6.1049995
+fiftyTwoWeekLowChangePercent: 0.35136688
+fiftyTwoWeekRange: 17.375 - 25.57
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 4.87
+floatShares: 5426383181
+forwardEps: 2.35192
+forwardPE: 9.983333
+fullExchangeName: MCE
+fullTimeEmployees: 127216
+fulldayChange: -0.14999962
+fulldayChangePercent: -0.6347847
+fulldayPrice: 23.48
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 35562000384
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00105
+heldPercentInstitutions: 0.44754001
+impliedSharesOutstanding: 5451012386
+industry: Banks - Diversified
+industryDisp: Banks - Diversified
+industryKey: banks-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791849600
+lastDividendValue: 0.37
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Banco Bilbao Vizcaya Argentaria, S.A., together with its subsidiaries,
+  provides various financial services in Spain, Mexico, Turkey, South America, Europe,
+  the United States, and Asia. The company offers traditional retail, wholesale, investment,
+  and transaction banking. It also engages in financial, insurance, asset management,
+  and capital markets businesses, as well as digital banking. The company was formerly
+  known as Banco Bilbao Vizcaya, S.A. and changed its name to Banco Bilbao Vizcaya
+  Argentaria, S.A. in January 2000. Banco Bilbao Vizcaya Argentaria, S.A. was founded
+  in 1857 and is headquartered in Bilbao, Spain.
+longName: Banco Bilbao Vizcaya Argentaria, S.A.
+market: es_market
+marketCap: 127989776384
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_199526
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 11201999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 128807422681
+numberOfAnalystOpinions: 22
+open: 23.83
+operatingCashflow: 18986000384
+operatingMargins: 0.54249
+overallRisk: 1
+payoutRatio: 0.4661
+pegRatio: 0.73
+phone: 34 900 10 28 01
+previousClose: 23.63
+priceEpsCurrentYear: 11.201808
+priceHint: 2
+priceToBook: 2.2283382
+priceToSalesTrailing12Months: 3.59906
+profitMargins: 0.32616
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.86364
+region: US
+regularMarketChange: -0.14999962
+regularMarketChangePercent: -0.6347847
+regularMarketDayHigh: 23.89
+regularMarketDayLow: 23.41
+regularMarketDayRange: 23.41 - 23.89
+regularMarketOpen: 23.83
+regularMarketPreviousClose: 23.63
+regularMarketPrice: 23.48
+regularMarketTime: 1794411554
+regularMarketVolume: 2608423
+returnOnAssets: 0.013710001
+returnOnEquity: 0.19838
+revenueGrowth: 0.184
+revenuePerShare: 6.373
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 5451012386
+shortName: BANCO BILBAO VIZCAYA ARGENTARIA
+sourceInterval: 15
+symbol: BBVA.MC
+targetHighPrice: 30.0
+targetLowPrice: 11.7
+targetMeanPrice: 24.32591
+targetMedianPrice: 24.35
+totalCash: 171946999808
+totalCashPerShare: 31.47
+totalDebt: 202106994688
+totalRevenue: 35562000384
+tradeable: false
+trailingAnnualDividendRate: 0.97
+trailingAnnualDividendYield: 0.041049518
+trailingEps: 1.96
+trailingPE: 11.979591
+trailingPegRatio: 0.7393
+triggerable: false
+twoHundredDayAverage: 21.4854
+twoHundredDayAverageChange: 1.9946003
+twoHundredDayAverageChangePercent: 0.09283515
+typeDisp: Equity
+volume: 2608423
+website: https://www.bbva.com
+zip: '48005'

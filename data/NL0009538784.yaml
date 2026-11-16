@@ -1,0 +1,271 @@
+52WeekChange: 0.28165424
+SandP52WeekChange: 0.097798586
+address1: 60 High Tech Campus
+allTimeHigh: 339.95
+allTimeLow: 10.23
+ask: 280.06
+askSize: 1
+auditRisk: 2
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 7141310
+averageDailyVolume3Month: 3977528
+averageVolume: 3977528
+averageVolume10days: 7141310
+beta: 1.858
+bid: 256.26
+bidSize: 1
+boardRisk: 2
+bookValue: 47.958
+city: Eindhoven
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rafael  Sotomayor
+  title: CEO, President & Executive Director
+  totalPay: 1352533
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William J. Betz
+  title: Executive VP & CFO
+  totalPay: 906088
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew J. Micallef
+  title: Executive VP & Chief Operations and Manufacturing Officer
+  totalPay: 759138
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher L. Jensen
+  title: Executive VP &  Chief Human Resources Officer
+  totalPay: 709116
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer B. Wuamett
+  title: Executive VP & Chief Sustainability Officer
+  totalPay: 771436
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lars  Reger M.B.A.
+  title: Executive VP & CTO
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael C. Lucarelli
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Hoffmann
+  title: Senior VP, Chief Commercial Counsel & General Counsel
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew  Hardy
+  title: Executive VP & Chief Sales Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeff  Palmer
+  title: Advisor
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: USD
+currentPrice: 270.82
+currentRatio: 2.125
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 270.9995
+dayLow: 262.32
+debtToEquity: 88.071
+displayName: NXP Semiconductors
+dividendDate: 1791417600
+dividendRate: 4.06
+dividendYield: 1.55
+earningsCallTimestampEnd: 1793133000
+earningsCallTimestampStart: 1793133000
+earningsGrowth: 0.403
+earningsQuarterlyGrowth: 0.401
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1793131200
+earningsTimestampStart: 1793131200
+ebitda: 5386999808
+ebitdaMargins: 0.39042
+enterpriseToEbitda: 13.614
+enterpriseToRevenue: 5.315
+enterpriseValue: 73338978304
+epsCurrentYear: 15.17446
+epsForward: 18.34177
+epsTrailingTwelveMonths: 12.71
+esgPopulated: false
+exDividendDate: 1789516800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 237.4902
+fiftyDayAverageChange: 33.329803
+fiftyDayAverageChangePercent: 0.1403418
+fiftyTwoWeekChangePercent: 28.165424
+fiftyTwoWeekHigh: 339.95
+fiftyTwoWeekHighChange: -69.130005
+fiftyTwoWeekHighChangePercent: -0.20335343
+fiftyTwoWeekLow: 183.0
+fiftyTwoWeekLowChange: 87.82001
+fiftyTwoWeekLowChangePercent: 0.47989076
+fiftyTwoWeekRange: 183.0 - 339.95
+financialCurrency: USD
+firstTradeDateMilliseconds: 1281101400000
+fiveYearAvgDividendYield: 1.69
+floatShares: 251569046
+forwardEps: 18.34177
+forwardPE: 14.765205
+freeCashflow: 4086625024
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 32169
+fulldayChange: 9.26001
+fulldayChangePercent: 3.5403004
+fulldayPrice: 270.82
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.56457
+grossProfits: 7790000128
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00145
+heldPercentInstitutions: 0.94028
+impliedSharesOutstanding: 252052988
+industry: Semiconductors
+industryDisp: Semiconductors
+industryKey: semiconductors
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789516800
+lastDividendValue: 1.014
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: NXP Semiconductors N.V. provides semiconductor products in the
+  United States, Germany, Japan, South Korea, Taiwan, Singapore, the Netherlands,
+  Mainland China, Hong Kong, and internationally. The company's product portfolio
+  includes microcontrollers; application processors; communication processors; wireless
+  connectivity solutions, such as near field communications, ultra-wideband, Bluetooth
+  low-energy, Zigbee, Thread, and Wi-Fi and Wi-Fi/Bluetooth integrated SoCs; analog
+  and interface products; radio frequency devices, and security controllers, as well
+  as semiconductor-based environmental and inertial sensors, including pressure, inertial,
+  magnetic, and gyroscopic sensors. Its products are used in various applications,
+  including automotive, industrial and Internet of Things, mobile, and communication
+  infrastructure. The company markets its products to direct sales offices and independent
+  distributors. NXP Semiconductors N.V. has a strategic partnership with Volkswagen
+  AG to advance automotive semiconductor technology. The company was incorporated
+  in 2006 and is headquartered in Eindhoven, the Netherlands.
+longName: NXP Semiconductors N.V.
+market: us_market
+marketCap: 68260995072
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_934467
+mostRecentQuarter: 1790467200
+netIncomeToCommon: 3228000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 65926979541
+numberOfAnalystOpinions: 29
+open: 266.65
+operatingCashflow: 3800000000
+operatingMargins: 0.33845
+overallRisk: 1
+payoutRatio: 0.3191
+pegRatio: 0.52
+phone: 31 40 272 9999
+previousClose: 261.56
+priceEpsCurrentYear: 17.847094
+priceHint: 2
+priceToBook: 5.6470246
+priceToSalesTrailing12Months: 4.947166
+profitMargins: 0.23395
+quickRatio: 1.311
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.86667
+region: US
+regularMarketChange: 9.26001
+regularMarketChangePercent: 3.5403004
+regularMarketDayHigh: 270.9995
+regularMarketDayLow: 262.32
+regularMarketDayRange: 262.32 - 270.9995
+regularMarketOpen: 266.65
+regularMarketPreviousClose: 261.56
+regularMarketPrice: 270.82
+regularMarketTime: 1794413731
+regularMarketVolume: 935170
+returnOnAssets: 0.10818
+returnOnEquity: 0.28674
+revenueGrowth: 0.193
+revenuePerShare: 54.658
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 4
+sharesOutstanding: 252052988
+sharesPercentSharesOut: 0.0247
+sharesShort: 6225909
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 6785346
+shortName: NXP Semiconductors N.V.
+shortPercentOfFloat: 0.0275
+shortRatio: 1.52
+sourceInterval: 15
+symbol: NXPI
+targetHighPrice: 400.0
+targetLowPrice: 175.0
+targetMeanPrice: 299.93103
+targetMedianPrice: 300.0
+totalCash: 3943000064
+totalCashPerShare: 15.644
+totalDebt: 10977999872
+totalRevenue: 13797999616
+tradeable: false
+trailingAnnualDividendRate: 4.056
+trailingAnnualDividendYield: 0.0155069595
+trailingEps: 12.71
+trailingPE: 21.307632
+trailingPegRatio: 0.5313
+triggerable: true
+twoHundredDayAverage: 247.39404
+twoHundredDayAverageChange: 23.425964
+twoHundredDayAverageChangePercent: 0.0946909
+typeDisp: Equity
+volume: 935170
+website: https://www.nxp.com
+zip: 5656 AG

@@ -1,0 +1,282 @@
+52WeekChange: 0.38314152
+SandP52WeekChange: 0.097798586
+address1: 500 Plaza Drive
+allTimeHigh: 259.84
+allTimeLow: 3.3125
+ask: 258.58
+askSize: 200
+auditRisk: 6
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 945330
+averageDailyVolume3Month: 1013298
+averageVolume: 1013298
+averageVolume10days: 945330
+beta: 0.545
+bid: 258.04
+bidSize: 900
+boardRisk: 7
+bookValue: 69.382
+city: Secaucus
+companyOfficers:
+- age: 62
+  exercisedValue: 5312128
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James E. Davis
+  title: Chairman, CEO & President
+  totalPay: 3735745
+  unexercisedValue: 17734186
+  yearBorn: 1963
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sam A. Samad
+  title: Executive VP & CFO
+  totalPay: 1486432
+  unexercisedValue: 1468581
+  yearBorn: 1970
+- age: 63
+  exercisedValue: 2397325
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael E. Prevoznik J.D.
+  title: Senior VP & General Counsel
+  totalPay: 1044235
+  unexercisedValue: 3310172
+  yearBorn: 1962
+- age: 55
+  exercisedValue: 534466
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Karthik  Kuppusamy Ph.D.
+  title: Senior Vice President of Clinical Solutions
+  totalPay: 1109447
+  unexercisedValue: 842393
+  yearBorn: 1970
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael J. Deppe
+  title: Senior VP, Corporate Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Murali  Balakumar
+  title: Senior VP and Chief Information & Digital Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Damini  Chokshi
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristin Lee Wallace Esq.
+  title: Senior VP & Chief Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Garry  Clark
+  title: Senior VP and Chief Marketing & Communications Officer
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cecilia K. McKenney
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1963
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 258.43
+currentRatio: 1.7
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 260.2945
+dayLow: 255.77
+debtToEquity: 79.654
+displayName: Quest Diagnostics
+dividendDate: 1792540800
+dividendRate: 3.44
+dividendYield: 1.33
+earningsCallTimestampEnd: 1792672200
+earningsCallTimestampStart: 1792672200
+earningsGrowth: 0.287
+earningsQuarterlyGrowth: 0.273
+earningsTimestamp: 1792672200
+earningsTimestampEnd: 1792672200
+earningsTimestampStart: 1792672200
+ebitda: 2352000000
+ebitdaMargins: 0.19863
+enterpriseToEbitda: 14.64
+enterpriseToRevenue: 2.908
+enterpriseValue: 34432327680
+epsCurrentYear: 11.31672
+epsForward: 11.97786
+epsTrailingTwelveMonths: 10.04
+esgPopulated: false
+exDividendDate: 1791244800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 240.0682
+fiftyDayAverageChange: 18.361786
+fiftyDayAverageChangePercent: 0.0764857
+fiftyTwoWeekChangePercent: 38.31415
+fiftyTwoWeekHigh: 260.2945
+fiftyTwoWeekHighChange: -1.864502
+fiftyTwoWeekHighChangePercent: -0.007163048
+fiftyTwoWeekLow: 171.18
+fiftyTwoWeekLowChange: 87.25
+fiftyTwoWeekLowChangePercent: 0.50969744
+fiftyTwoWeekRange: 171.18 - 260.2945
+financialCurrency: USD
+firstTradeDateMilliseconds: 850833000000
+fiveYearAvgDividendYield: 1.81
+floatShares: 109440373
+forwardEps: 11.97786
+forwardPE: 21.57564
+freeCashflow: 872499968
+fullExchangeName: NYSE
+fullTimeEmployees: 60000
+fulldayChange: -0.010009766
+fulldayChangePercent: -0.0038731487
+fulldayPrice: 258.43
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.33181
+grossProfits: 3928999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00426
+heldPercentInstitutions: 1.0100701
+impliedSharesOutstanding: 110373360
+industry: Diagnostics & Research
+industryDisp: Diagnostics & Research
+industryKey: diagnostics-research
+irWebsite: http://ir.questdiagnostics.com/phoenix.zhtml?c=82068&p=irol-stockquote
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791244800
+lastDividendValue: 0.86
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1119312000
+lastSplitFactor: '2:1'
+longBusinessSummary: Quest Diagnostics Incorporated provides diagnostic testing and
+  services in the United States. The company develops and delivers diagnostic information
+  services, such as routine, non-routine and advanced clinical testing, anatomic pathology
+  testing, and other diagnostic information services. It also provides services under
+  the Quest Diagnostics brand, as well as under the AmeriPath, Dermpath Diagnostics,
+  ExamOne, and Quanum brands to physicians, hospitals, patients and consumers, health
+  plans, government agencies, employers, retailers, pharmaceutical companies and insurers
+  commercial clinical laboratories, and accountable care organizations through a network
+  of laboratories, patient service centers, phlebotomists in physician offices, call
+  centers and mobile phlebotomists, nurses, and other health and wellness professionals.
+  In addition, the company offers risk assessment services for the life insurance
+  industry; healthcare IT healthcare providers and payers; testing and medical director
+  services at hospital laboratories; test offerings in cardiometabolic and endocrine;
+  cancer; clinical drug monitoring and toxicology; infectious disease, including autoimmune;
+  neurology diagnostics, including Alzheimer's disease; and women's health, such as
+  prenatal genetic; workplace drug testing, testing urine, hair, and oral fluid specimens
+  services; and employer population health services, including biometric screenings,
+  flu shots, and related preventative services. Further, it provides population health
+  solutions; extended care services; develops in vitro diagnostic tests; laboratory
+  diagnostic information and digital health connectivity systems; underwriting support
+  services, including data gathering, paramedical examinations, and clinical laboratory
+  testing and analytics; and national specimen collection and health data solutions.
+  Quest Diagnostics Incorporated was founded in 1967 and is headquartered in Secaucus,
+  New Jersey.
+longName: Quest Diagnostics Incorporated
+market: us_market
+marketCap: 28523786240
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_361335
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1124999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 28524891158
+numberOfAnalystOpinions: 15
+open: 256.84
+operatingCashflow: 1951000064
+operatingMargins: 0.14923
+overallRisk: 3
+payoutRatio: 0.25100002
+pegRatio: 1.69
+phone: 973 520 2700
+previousClose: 258.44
+priceEpsCurrentYear: 22.83612
+priceHint: 2
+priceToBook: 3.724741
+priceToSalesTrailing12Months: 2.4089
+profitMargins: 0.09535
+quickRatio: 1.368
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.05882
+region: US
+regularMarketChange: -0.010009766
+regularMarketChangePercent: -0.0038731487
+regularMarketDayHigh: 260.2945
+regularMarketDayLow: 255.77
+regularMarketDayRange: 255.77 - 260.2945
+regularMarketOpen: 256.84
+regularMarketPreviousClose: 258.44
+regularMarketPrice: 258.43
+regularMarketTime: 1794413685
+regularMarketVolume: 162380
+returnOnAssets: 0.06609
+returnOnEquity: 0.15318
+revenueGrowth: 0.1
+revenuePerShare: 108.137
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 2
+sharesOutstanding: 110373360
+sharesPercentSharesOut: 0.033800002
+sharesShort: 3734103
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3417577
+shortName: Quest Diagnostics Incorporated
+shortPercentOfFloat: 0.0339
+shortRatio: 3.58
+sourceInterval: 15
+state: NJ
+symbol: DGX
+targetHighPrice: 279.0
+targetLowPrice: 235.0
+targetMeanPrice: 257.26666
+targetMedianPrice: 260.0
+totalCash: 797000000
+totalCashPerShare: 7.244
+totalDebt: 6397000192
+totalRevenue: 11841000448
+tradeable: false
+trailingAnnualDividendRate: 3.38
+trailingAnnualDividendYield: 0.013078471
+trailingEps: 10.04
+trailingPE: 25.74004
+trailingPegRatio: 1.6892
+triggerable: true
+twoHundredDayAverage: 214.56145
+twoHundredDayAverageChange: 43.868546
+twoHundredDayAverageChangePercent: 0.20445679
+typeDisp: Equity
+volume: 162380
+website: https://www.questdiagnostics.com
+zip: 07094

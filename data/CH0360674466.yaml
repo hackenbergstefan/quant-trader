@@ -1,0 +1,265 @@
+52WeekChange: 0.041642547
+SandP52WeekChange: 0.097798586
+address1: Untermattweg 8
+allTimeHigh: 103.0
+allTimeLow: 41.8
+ask: 90.0
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 3.0 - Hold
+averageDailyVolume10Day: 71089
+averageDailyVolume3Month: 86787
+averageVolume: 86787
+averageVolume10days: 71089
+beta: 0.225
+bid: 89.8
+bidSize: 0
+boardRisk: 1
+bookValue: 28.303
+city: Bern
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc  Werner
+  title: Chief Executive Officer
+  totalPay: 1219000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Julian  Fiessinger
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cécile  Matter
+  title: Group General Counsel
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Iris  Muller
+  title: Chief Communications Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Arianne  Hasler
+  title: Chief People & Culture
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jörg  Kneubühler
+  title: Advisor
+  totalPay: 202000
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Thomas F. Szuran
+  title: Chief of Products & Home Care & Deputy CEO of Galenica Group
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniele  Madonna
+  title: Chief of Pharmacies Category Management & Health Services
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andreas  Koch
+  title: Chief of Wholesale & Logistics
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Virginie Pache Jeschka
+  title: Chief of Pharmacies Sales
+  unexercisedValue: 0
+  yearBorn: 1979
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 89.95
+currentRatio: 1.07
+customPriceAlertConfidence: LOW
+dayHigh: 90.5
+dayLow: 89.3
+debtToEquity: 78.31
+dividendDate: 1744761600
+dividendRate: 2.5
+dividendYield: 2.78
+earningsCallTimestampEnd: 1786030200
+earningsCallTimestampStart: 1786030200
+earningsGrowth: -0.249
+earningsQuarterlyGrowth: -0.248
+earningsTimestampEnd: 1786030200
+earningsTimestampStart: 1786030200
+ebitda: 255692992
+ebitdaMargins: 0.05967
+enterpriseToEbitda: 21.76
+enterpriseToRevenue: 1.298
+enterpriseValue: 5563920896
+epsCurrentYear: 3.8448
+epsForward: 4.2513
+epsTrailingTwelveMonths: 3.23
+esgPopulated: false
+exDividendDate: 1776902400
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 85.144
+fiftyDayAverageChange: 4.8059998
+fiftyDayAverageChangePercent: 0.05644555
+fiftyTwoWeekChangePercent: 4.1642547
+fiftyTwoWeekHigh: 103.0
+fiftyTwoWeekHighChange: -13.050003
+fiftyTwoWeekHighChangePercent: -0.12669906
+fiftyTwoWeekLow: 80.3
+fiftyTwoWeekLowChange: 9.649994
+fiftyTwoWeekLowChangePercent: 0.12017427
+fiftyTwoWeekRange: 80.3 - 103.0
+financialCurrency: CHF
+firstTradeDateMilliseconds: 1491548400000
+fiveYearAvgDividendYield: 2.83
+floatShares: 49760758
+forwardEps: 4.2513
+forwardPE: 21.158234
+freeCashflow: 129130752
+fullExchangeName: Swiss
+fullTimeEmployees: 6623
+fulldayChange: -0.1000061
+fulldayChangePercent: -0.11105619
+fulldayPrice: 89.95
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.12462
+grossProfits: 534004992
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00257
+heldPercentInstitutions: 0.52516997
+impliedSharesOutstanding: 49824384
+industry: Medical Distribution
+industryDisp: Medical Distribution
+industryKey: medical-distribution
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776902400
+lastDividendValue: 2.5
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Galenica AG provides healthcare services in Switzerland and internationally.
+  It operates through two segments, Products & Care, and Logistics & IT. The Products
+  & Care segment operates and manages pharmacies and partner pharmacies under the
+  Amavita, Sun Store, and Coop Vitality brands, as well as covers specialty pharmacy
+  mediservice. This segment also offers medication for treatment of patients at home;
+  laboratory medicine, pathology and specialized personalized diagnostic services;
+  and develops, markets, and sells healthcare services and products through various
+  distribution channels. The Logistics & IT segment provides various specialized pre-wholesale
+  services, including storage, distribution, and debt collection to pharmaceutical
+  and healthcare companies. This segment also offers master data systems for the healthcare
+  market; develops management solutions for the healthcare market; and publishes printed
+  and electronic technical information on pharmaceutical products, as well as offers
+  complete management solutions for pharmacies. In addition, it provides on-schedule
+  delivery services to pharmacies, drugstores, doctors, hospitals, and care homes.
+  The company was founded in 1927 and is headquartered in Bern, Switzerland.
+longName: Galenica AG
+market: ch_market
+marketCap: 4481703424
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_281749134
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 161180000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 4486685779
+numberOfAnalystOpinions: 5
+open: 89.7
+operatingCashflow: 251608992
+operatingMargins: 0.0477
+overallRisk: 1
+payoutRatio: 0.774
+phone: 41 58 852 81 11
+previousClose: 90.05
+priceEpsCurrentYear: 23.395235
+priceHint: 2
+priceToBook: 3.1781082
+priceToSalesTrailing12Months: 1.0458485
+profitMargins: 0.03715
+quickRatio: 0.642
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.0
+region: US
+regularMarketChange: -0.1000061
+regularMarketChangePercent: -0.11105619
+regularMarketDayHigh: 90.5
+regularMarketDayLow: 89.3
+regularMarketDayRange: 89.3 - 90.5
+regularMarketOpen: 89.7
+regularMarketPreviousClose: 90.05
+regularMarketPrice: 89.95
+regularMarketTime: 1794411555
+regularMarketVolume: 19811
+returnOnAssets: 0.04
+returnOnEquity: 0.11359999
+revenueGrowth: 0.07
+revenuePerShare: 85.954
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 9
+sharesOutstanding: 49824384
+shortName: GALENICA N
+sourceInterval: 15
+symbol: GALE.SW
+targetHighPrice: 96.0
+targetLowPrice: 85.0
+targetMeanPrice: 90.2
+targetMedianPrice: 91.0
+totalCash: 39605000
+totalCashPerShare: 0.794
+totalDebt: 1108050048
+totalRevenue: 4285232128
+tradeable: false
+trailingAnnualDividendRate: 2.5
+trailingAnnualDividendYield: 0.027762353
+trailingEps: 3.23
+trailingPE: 27.848295
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 87.611
+twoHundredDayAverageChange: 2.338997
+twoHundredDayAverageChangePercent: 0.026697526
+typeDisp: Equity
+volume: 19811
+website: https://www.galenica.com
+zip: '3027'

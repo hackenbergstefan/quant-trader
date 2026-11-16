@@ -1,0 +1,247 @@
+52WeekChange: 0.104877114
+SandP52WeekChange: 0.097798586
+address1: 525 Harbour Place Drive
+address2: Suite 600
+allTimeHigh: 106.03
+allTimeLow: 17.01
+ask: 85.04
+askSize: 100
+auditRisk: 5
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 4819930
+averageDailyVolume3Month: 4314784
+averageVolume: 4314784
+averageVolume10days: 4819930
+beta: 1.16
+bid: 84.98
+bidSize: 500
+boardRisk: 7
+bookValue: 27.35
+city: Davidson
+companyOfficers:
+- age: 50
+  exercisedValue: 2799621
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vicente  Reynal
+  title: Chairman, CEO & President
+  totalPay: 2695253
+  unexercisedValue: 66570004
+  yearBorn: 1975
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vikram U. Kini
+  title: Senior VP & CFO
+  totalPay: 1147397
+  unexercisedValue: 4921527
+  yearBorn: 1981
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew R. Schiesl Esq.
+  title: Senior VP, General Counsel, Chief Compliance Officer & Secretary
+  totalPay: 897214
+  unexercisedValue: 821498
+  yearBorn: 1972
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kathleen M. Keene
+  title: Senior VP & Chief Human Resources Officer
+  totalPay: 690387
+  unexercisedValue: 554931
+  yearBorn: 1975
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: IR announced a cash dividend of $0.02 with an ex-date of Nov. 12, 2026
+  meta:
+    amount: '0.02'
+    dateEpochMs: 1794459600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 85.145
+currentRatio: 1.689
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 86.63
+dayLow: 84.5
+debtToEquity: 46.408
+displayName: Ingersoll Rand
+dividendDate: 1796256000
+dividendRate: 0.08
+dividendYield: 0.09
+earningsCallTimestampEnd: 1793361600
+earningsCallTimestampStart: 1793361600
+earningsGrowth: 1.836
+earningsQuarterlyGrowth: 1.744
+earningsTimestamp: 1793304000
+earningsTimestampEnd: 1793304000
+earningsTimestampStart: 1793304000
+ebitda: 2015000064
+ebitdaMargins: 0.25024998
+enterpriseToEbitda: 18.155
+enterpriseToRevenue: 4.543
+enterpriseValue: 36581736448
+epsCurrentYear: 3.65153
+epsForward: 3.95264
+epsTrailingTwelveMonths: 3.53
+esgPopulated: false
+exDividendDate: 1794441600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 76.9916
+fiftyDayAverageChange: 8.153397
+fiftyDayAverageChangePercent: 0.10589982
+fiftyTwoWeekChangePercent: 10.487711
+fiftyTwoWeekHigh: 100.96
+fiftyTwoWeekHighChange: -15.815002
+fiftyTwoWeekHighChangePercent: -0.15664622
+fiftyTwoWeekLow: 68.07
+fiftyTwoWeekLowChange: 17.074997
+fiftyTwoWeekLowChangePercent: 0.2508447
+fiftyTwoWeekRange: 68.07 - 100.96
+financialCurrency: USD
+firstTradeDateMilliseconds: 1494595800000
+fiveYearAvgDividendYield: 0.09
+floatShares: 382783234
+forwardEps: 3.95264
+forwardPE: 21.541298
+freeCashflow: 1017662528
+fullExchangeName: NYSE
+fullTimeEmployees: 21000
+fulldayChange: -0.71500397
+fulldayChangePercent: -0.8327556
+fulldayPrice: 85.145
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.42565
+grossProfits: 3427399936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00215
+heldPercentInstitutions: 1.07605
+impliedSharesOutstanding: 384019778
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786579200
+lastDividendValue: 0.02
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Ingersoll Rand Inc. provides mission-critical air, fluid, clean
+  energy, and medical technologies services and solutions worldwide. It operates in
+  two segments, Industrial Technologies and Services, and Precision and Science Technologies.
+  The Industrial Technologies and Services segment designs, manufactures, markets,
+  and services a range of air and gas compression and treatment equipment, vacuum
+  and blower products, fluid transfer equipment, loading systems, and power tools
+  and lifting equipment; and other specialized equipment, including aftermarket parts,
+  consumables and services, air treatment equipment, controls, other accessories,
+  and services under the Ingersoll Rand, Gardner Denver, Nash, CompAir, Elmo Rietschle,
+  and other brands. The Precision and Science Technologies segment designs, manufactures,
+  and markets diaphragm, piston, water-powered, peristaltic, gear, vane, progressive
+  cavity, and syringe pumps; and gas boosters, hydrogen compression systems, liquid
+  handling systems, odorant injection systems, controls, software, and other related
+  components and accessories for precision dosing, liquid and solid transfer, dispensing,
+  gas compression and sampling, pressure management, flow control, powder handling,
+  and other applications under the Air Dimensions, Albin, ARO, Dosatron, Haskel, Ingersoll
+  Rand, LMI, Maximus, Milton Roy, MP, Oberdorfer, Seepex, Thomas, Welch, Williams,
+  YZ, and Zinnser Analytic brands. This segment's products are used in medical, laboratory,
+  industrial manufacturing, water and wastewater, chemical processing, clean energy,
+  food and beverage, agriculture and other markets. It sells its products through
+  a network of direct sales representatives and independent distributors. It has a
+  strategic alliance with Garrett Motion. The company was formerly known as Gardner
+  Denver Holdings, Inc. and changed its name to Ingersoll Rand Inc. in March 2020.
+  Ingersoll Rand Inc. was founded in 1859 and is headquartered in Davidson, North
+  Carolina.
+longName: Ingersoll Rand Inc.
+market: us_market
+marketCap: 32697362432
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_334158
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1384899968
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 32971938139
+numberOfAnalystOpinions: 13
+open: 86.29
+operatingCashflow: 1642400000
+operatingMargins: 0.18215999
+overallRisk: 5
+payoutRatio: 0.0227
+pegRatio: 0.7
+phone: 704 655 4000
+previousClose: 85.86
+priceEpsCurrentYear: 23.317621
+priceHint: 2
+priceToBook: 3.1131625
+priceToSalesTrailing12Months: 4.0607247
+profitMargins: 0.17198999
+quickRatio: 1.037
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -0.71500397
+regularMarketChangePercent: -0.8327556
+regularMarketDayHigh: 86.63
+regularMarketDayLow: 84.5
+regularMarketDayRange: 84.5 - 86.63
+regularMarketOpen: 86.29
+regularMarketPreviousClose: 85.86
+regularMarketPrice: 85.145
+regularMarketTime: 1794413692
+regularMarketVolume: 681079
+returnOnAssets: 0.04982
+returnOnEquity: 0.1341
+revenueGrowth: 0.056
+revenuePerShare: 20.65
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 5
+sharesOutstanding: 384019778
+sharesPercentSharesOut: 0.0377
+sharesShort: 14490304
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 13617758
+shortName: Ingersoll Rand Inc.
+shortPercentOfFloat: 0.0429
+shortRatio: 3.12
+sourceInterval: 15
+state: NC
+symbol: IR
+targetHighPrice: 109.0
+targetLowPrice: 83.0
+targetMeanPrice: 94.92308
+targetMedianPrice: 93.0
+totalCash: 1359600000
+totalCashPerShare: 3.54
+totalDebt: 4904399872
+totalRevenue: 8052100096
+tradeable: false
+trailingAnnualDividendRate: 0.08
+trailingAnnualDividendYield: 0.00093174935
+trailingEps: 3.53
+trailingPE: 24.120396
+trailingPegRatio: 0.6917
+triggerable: true
+twoHundredDayAverage: 81.02525
+twoHundredDayAverageChange: 4.1197433
+twoHundredDayAverageChangePercent: 0.050845176
+typeDisp: Equity
+volume: 681079
+website: https://www.irco.com
+zip: '28036'

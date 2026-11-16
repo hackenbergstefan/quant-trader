@@ -1,0 +1,257 @@
+52WeekChange: 0.25456536
+SandP52WeekChange: 0.097798586
+address1: Wilhelminaplein 32
+allTimeHigh: 211.3
+allTimeLow: 20.4
+ask: 0.0
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 152103
+averageDailyVolume3Month: 130654
+averageVolume: 130654
+averageVolume10days: 152103
+beta: 0.98
+bid: 0.0
+bidSize: 0
+boardRisk: 2
+bookValue: 35.955
+city: Rotterdam
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marcus C. Jordan
+  title: CEO & Member of Management Board
+  totalPay: 1465000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hans J. J. Kooijmans CPA
+  title: CFO & Member of Management Board
+  totalPay: 1212000
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andreas  Igerl
+  title: Chief Commercial Officer & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tosca  Holtland
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Laurens  Dalmijin
+  title: General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Muriel  Werlé
+  title: Corporate Communications Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Angelique  Kruif
+  title: Global People Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Swapna  Kattewar
+  title: Head of Global Regulatory Questionnaire Centre
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Arturo  Hoyo
+  title: Managing Director of IMCD Mexico
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Narendra  Varde
+  title: Regional President Asia-Pacific
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 102.25
+currentRatio: 1.347
+customPriceAlertConfidence: LOW
+dayHigh: 102.6
+dayLow: 101.0
+debtToEquity: 85.125
+dividendRate: 1.81
+dividendYield: 1.76
+earningsCallTimestampEnd: 1793865600
+earningsCallTimestampStart: 1793865600
+earningsGrowth: 0.1
+earningsQuarterlyGrowth: 0.097
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 515928000
+ebitdaMargins: 0.103819996
+enterpriseToEbitda: 14.819
+enterpriseToRevenue: 1.538
+enterpriseValue: 7645529088
+epsCurrentYear: 6.09036
+epsForward: 6.59071
+epsTrailingTwelveMonths: 3.89
+esgPopulated: false
+exDividendDate: 1777939200
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 99.0924
+fiftyDayAverageChange: 3.1576004
+fiftyDayAverageChangePercent: 0.031865213
+fiftyTwoWeekChangePercent: 25.456535
+fiftyTwoWeekHigh: 105.55
+fiftyTwoWeekHighChange: -3.300003
+fiftyTwoWeekHighChangePercent: -0.03126483
+fiftyTwoWeekLow: 68.14
+fiftyTwoWeekLowChange: 34.11
+fiftyTwoWeekLowChangePercent: 0.50058705
+fiftyTwoWeekRange: 68.14 - 105.55
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1403852400000
+fiveYearAvgDividendYield: 1.41
+floatShares: 52496876
+forwardEps: 6.59071
+forwardPE: 15.514261
+freeCashflow: 266937248
+fullExchangeName: Amsterdam
+fullTimeEmployees: 5237
+fulldayChange: -0.80000305
+fulldayChangePercent: -0.7763251
+fulldayPrice: 102.25
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.25010002
+grossProfits: 1242935040
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00981
+heldPercentInstitutions: 0.82628
+impliedSharesOutstanding: 59032832
+industry: Specialty Chemicals
+industryDisp: Specialty Chemicals
+industryKey: specialty-chemicals
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777939200
+lastDividendValue: 1.81
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: IMCD N.V. distributes, markets, and sells specialty chemicals
+  and ingredients in the Netherlands, rest of Europe, the Middle East, Africa, North
+  America, South America, and the Asia-Pacific. The company provides adhesives, core
+  materials, filler reinforcements, flame retardants, masterbatch, modifiers, operating
+  materials, pigments, plasticizers, processing aids, PUR raw materials, rubber elastomers,
+  solvents, stabilizers, thermoplastic elastomers, thermoplastics, thermoplastics,
+  and other additives. It offers actives, UV sunscreens, rheology modifiers, thickeners,
+  surfactants, emulsifiers, emollients, film formers, humectants, waxes, conditioners,
+  hair styling polymers, solvent, solubilizers, pigments, pearls, powders and colorants,
+  opacifiers, pearlizers, preservatives, antioxidants, fragrances, and essential oils.
+  In addition, the company provides functional fillers, pigments, resins, and specialty
+  solvents; taste, texture, nutrition, and function; and abrasives, acids, alkalines,
+  anti-soil redeposition and foam control systems, bio-actives, biocides, bittering
+  and bleaching agents, builders, capsules, chelating agents, concentrates/ready-to-use,
+  corrosion and dye transfer inhibitors, disintegrants, dispersants, emulsifiers,
+  enzymes, fluorinated polymers, oleo chemicals, optical brighteners, perfumes, dyes,
+  phosphates, plasticisers, proteins, rheology modifiers and thickeners, silicones,
+  solvents/diluents, TAED, UV-filters, and waxes. Further, it offers base oils; lubricants
+  addictive; lubricants finished fluids; fuel additives; solvents, degreasers, and
+  fuel compounds; and upstream, midstream, and downstream oil, gas, and energy. IMCD
+  N.V. was founded in 1995 and is headquartered in Rotterdam, the Netherlands.
+longName: IMCD N.V.
+market: nl_market
+marketCap: 6036107264
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_266245220
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 230207008
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 6084583334
+numberOfAnalystOpinions: 14
+open: 101.75
+operatingCashflow: 383983008
+operatingMargins: 0.080690004
+overallRisk: 1
+payoutRatio: 0.4653
+phone: 31 10 290 8684
+previousClose: 103.05
+priceEpsCurrentYear: 16.788826
+priceHint: 2
+priceToBook: 2.8438325
+priceToSalesTrailing12Months: 1.2145921
+profitMargins: 0.04632
+quickRatio: 0.851
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.71429
+region: US
+regularMarketChange: -0.80000305
+regularMarketChangePercent: -0.7763251
+regularMarketDayHigh: 102.6
+regularMarketDayLow: 101.0
+regularMarketDayRange: 101.0 - 102.6
+regularMarketOpen: 101.75
+regularMarketPreviousClose: 103.05
+regularMarketPrice: 102.25
+regularMarketTime: 1794411560
+regularMarketVolume: 62633
+returnOnAssets: 0.05237
+returnOnEquity: 0.11225
+revenueGrowth: 0.066
+revenuePerShare: 84.177
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 3
+sharesOutstanding: 59032832
+shortName: IMCD
+sourceInterval: 15
+symbol: IMCD.AS
+targetHighPrice: 150.0
+targetLowPrice: 75.0
+targetMeanPrice: 118.78571
+targetMedianPrice: 121.5
+totalCash: 248666000
+totalCashPerShare: 4.211
+totalDebt: 1808295040
+totalRevenue: 4969657856
+tradeable: false
+trailingAnnualDividendRate: 1.81
+trailingAnnualDividendYield: 0.017564287
+trailingEps: 3.89
+trailingPE: 26.285347
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 91.3815
+twoHundredDayAverageChange: 10.8685
+twoHundredDayAverageChangePercent: 0.11893545
+typeDisp: Equity
+volume: 62633
+website: https://www.imcdgroup.com
+zip: 3072 DE

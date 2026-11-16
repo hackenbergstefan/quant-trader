@@ -1,0 +1,288 @@
+52WeekChange: 0.37771034
+SandP52WeekChange: 0.097798586
+address1: 4650 Cushing Parkway
+allTimeHigh: 438.5
+allTimeLow: 0.066667
+ask: 228.5
+askSize: 1
+auditRisk: 3
+averageDailyVolume10Day: 15381130
+averageDailyVolume3Month: 10099253
+averageVolume: 10099253
+averageVolume10days: 15381130
+beta: 2.01
+bid: 228.72
+bidSize: 1
+boardRisk: 3
+bookValue: 11.134
+city: Fremont
+companyOfficers:
+- age: 58
+  exercisedValue: 16562761
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Timothy M. Archer
+  title: President, CEO & Director
+  totalPay: 6815065
+  unexercisedValue: 231454272
+  yearBorn: 1967
+- age: 58
+  exercisedValue: 24215992
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Douglas R. Bettinger
+  title: Executive VP & CFO
+  totalPay: 2550227
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Seshasayee  Varadarajan
+  title: Executive VP & COO
+  totalPay: 2333347
+  unexercisedValue: 40216796
+  yearBorn: 1975
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Vahid  Vahedi Ph.D.
+  title: Senior VP, Chief Technology & Sustainability Officer
+  totalPay: 1884313
+  unexercisedValue: 26835000
+  yearBorn: 1966
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Neil J. Fernandes
+  title: Senior VP of Global Customer Operations
+  totalPay: 1851968
+  unexercisedValue: 8185532
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Christina C. Correia
+  title: Chief Accounting Officer & Group VP
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Ram  Ganesh
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Ava A. Harter J.D.
+  title: Senior VP, Chief Legal Officer & Secretary
+  totalPay: 1685283
+  unexercisedValue: 121162
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Steve  Fine
+  title: Group VP & Chief Communication Officer
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Mary Teresa Hassett
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: LRCX announced a cash dividend of $0.33 with an ex-date of Dec. 2, 2026
+  meta:
+    amount: '0.33'
+    dateEpochMs: 1796187600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 237.5015
+currentRatio: 2.479
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 238.5
+dayLow: 229.67
+debtToEquity: 26.857
+displayName: Lam Research
+dividendDate: 1799193600
+dividendRate: 1.32
+dividendYield: 0.59
+earningsCallTimestampEnd: 1792616400
+earningsCallTimestampStart: 1792616400
+earningsGrowth: 0.766
+earningsQuarterlyGrowth: 0.755
+earningsTimestamp: 1792612800
+earningsTimestampEnd: 1801083600
+earningsTimestampStart: 1801083600
+ebitda: 10116395008
+ebitdaMargins: 0.38719
+enterpriseToEbitda: 27.095
+enterpriseToRevenue: 10.491
+enterpriseValue: 274101190656
+epsCurrentYear: 9.65024
+epsForward: 12.23633
+epsTrailingTwelveMonths: 6.71
+esgPopulated: false
+exDividendDate: 1796169600
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 281.174
+fiftyDayAverageChange: -43.672516
+fiftyDayAverageChangePercent: -0.15532202
+fiftyTwoWeekChangePercent: 37.771034
+fiftyTwoWeekHigh: 438.5
+fiftyTwoWeekHighChange: -200.9985
+fiftyTwoWeekHighChangePercent: -0.45837742
+fiftyTwoWeekLow: 135.5
+fiftyTwoWeekLowChange: 102.001495
+fiftyTwoWeekLowChangePercent: 0.7527786
+fiftyTwoWeekRange: 135.5 - 438.5
+financialCurrency: USD
+firstTradeDateMilliseconds: 452525400000
+fiveYearAvgDividendYield: 0.78
+floatShares: 1244199299
+forwardEps: 12.23633
+forwardPE: 19.409536
+freeCashflow: 4548759552
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 24300
+fulldayChange: 15.111496
+fulldayChangePercent: 6.795043
+fulldayPrice: 237.5015
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.51054
+grossProfits: 13339282432
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00302
+heldPercentInstitutions: 0.89108
+impliedSharesOutstanding: 1249171000
+industry: Semiconductor Equipment & Materials
+industryDisp: Semiconductor Equipment & Materials
+industryKey: semiconductor-equipment-materials
+irWebsite: http://investor.lamrc.com/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1790121600
+lastDividendValue: 0.33
+lastFiscalYearEnd: 1782604800
+lastSplitDate: 1727913600
+lastSplitFactor: '10:1'
+longBusinessSummary: Lam Research Corporation designs, manufactures, markets, refurbishes,
+  and services semiconductor processing equipment used in the fabrication of integrated
+  circuits in the United States, China, Korea, Taiwan, Japan, Southeast Asia, and
+  Europe. The company offers ALTUS systems to deposit conformal or selective films
+  for tungsten or molybdenum metallization applications; SABRE electrochemical deposition
+  products for copper interconnect transition, which support copper damascene manufacturing;
+  Striker single-wafer atomic layer deposition products for dielectric film solutions;
+  and VECTOR plasma-enhanced chemical vapor deposition (CVD) products. It also provides
+  Akara, a conductor etch system designed to enhance etch precision, selectivity,
+  and defect control; Argos, Prevos, and Selis, which are selective etch systems used
+  in the fabrication of advanced logic and memory devices that require precise control
+  at nanoscale dimensions; Flex for dielectric etch applications; Vantex, a dielectric
+  etch system that provides RF technology and repeatable wafer-to-wafer performance
+  enabled by Equipment Intelligence solutions; Kiyo for conductor etch applications;
+  Syndion for deep silicon etch; and Versys metal products for metal etch processes.
+  In addition, the company offers Coronus bevel clean products to enhance die yield
+  and Da Vinci, DV-Prime, EOS, and SP series products to address various wafer cleaning
+  applications. Further, it provides Reliant deposition, etch, and clean products;
+  Sense.i platform products; and customer service, spares, and upgrades. Lam Research
+  Corporation was incorporated in 1980 and is headquartered in Fremont, California.
+longName: Lam Research Corporation
+market: us_market
+marketCap: 296679964672
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_30655
+mostRecentQuarter: 1790467200
+netIncomeToCommon: 8449873920
+nextFiscalYearEnd: 1814140800
+nonDilutedMarketCap: 278304263865
+numberOfAnalystOpinions: 30
+open: 235.65
+operatingCashflow: 7576345088
+operatingMargins: 0.36951
+overallRisk: 1
+payoutRatio: 0.16540001
+pegRatio: 0.96
+phone: 510 572 0200
+previousClose: 222.39
+priceEpsCurrentYear: 24.610943
+priceHint: 2
+priceToBook: 21.331192
+priceToSalesTrailing12Months: 11.354895
+profitMargins: 0.3234
+quickRatio: 1.791
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 15.111496
+regularMarketChangePercent: 6.795043
+regularMarketDayHigh: 238.5
+regularMarketDayLow: 229.67
+regularMarketDayRange: 229.67 - 238.5
+regularMarketOpen: 235.65
+regularMarketPreviousClose: 222.39
+regularMarketPrice: 237.5015
+regularMarketTime: 1794413739
+regularMarketVolume: 3568849
+returnOnAssets: 0.25010002
+returnOnEquity: 0.7012
+revenueGrowth: 0.544
+revenuePerShare: 20.874
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 1249171000
+sharesPercentSharesOut: 0.022
+sharesShort: 27501835
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 25810795
+shortName: Lam Research Corporation
+shortPercentOfFloat: 0.0221
+shortRatio: 2.66
+sourceInterval: 15
+state: CA
+symbol: LRCX
+targetHighPrice: 500.0
+targetLowPrice: 255.0
+targetMeanPrice: 363.03333
+targetMedianPrice: 352.5
+totalCash: 7437384192
+totalCashPerShare: 5.954
+totalDebt: 3735443968
+totalRevenue: 26127935488
+tradeable: false
+trailingAnnualDividendRate: 1.11
+trailingAnnualDividendYield: 0.0049912315
+trailingEps: 6.71
+trailingPE: 35.395157
+trailingPegRatio: 0.9631
+triggerable: true
+twoHundredDayAverage: 284.0249
+twoHundredDayAverageChange: -46.523407
+twoHundredDayAverageChangePercent: -0.16380045
+typeDisp: Equity
+volume: 3568849
+website: https://www.lamresearch.com
+zip: '94538'

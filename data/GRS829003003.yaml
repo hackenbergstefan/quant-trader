@@ -1,0 +1,274 @@
+52WeekChange: 0.417647
+SandP52WeekChange: 0.097798586
+address1: 8 Othonos Street
+allTimeHigh: 33658.94
+allTimeLow: 0.239092
+ask: 4.38
+askSize: 3944
+auditRisk: 4
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 13198155
+averageDailyVolume3Month: 13843895
+averageVolume: 13843895
+averageVolume10days: 13198155
+beta: 0.698
+bid: 5.352
+bidSize: 11222
+boardRisk: 9
+bookValue: 3.129
+city: Athens
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fokion C. Karavias
+  title: CEO, Member of Executive Board & Executive Director
+  totalPay: 1990895
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stavros E. Ioannou
+  title: Deputy CEO, Group COO, International Activities, Member of Executive Board
+    & Executive Director
+  totalPay: 1590180
+  unexercisedValue: 0
+  yearBorn: 1961
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Konstantinos V. Vassiliou
+  title: Deputy CEO, Head of Corporate & Investment Banking, Member of Exec Board
+    and Executive Director
+  totalPay: 1593620
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charalambos Harris V. Kokologiannis
+  title: GM of Group Finance, Group CFO & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Iakovos D. Giannaklis
+  title: Deputy CEO, Head of Retail & Digital Banking and Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michalis L. Louis
+  title: Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eleftherios  Economides
+  title: GM of Group Risk Management, Group Chief Risk Officer & Member of Executive
+    Board
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Apostolos  Kazakos
+  title: GM of Group Strategy & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anastasios C. Ioannidis
+  title: GM of Markets and Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Athanasios  Athanasopoulos
+  title: GM of Group Compliance, Group Chief Compliance Officer & Member of Executive
+    Board
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Greece
+cryptoTradeable: false
+currency: EUR
+currentPrice: 4.86
+customPriceAlertConfidence: LOW
+dayHigh: 4.898
+dayLow: 4.78
+dividendDate: 1787443200
+dividendRate: 0.07
+dividendYield: 1.49
+earningsCallTimestampEnd: 1793289600
+earningsCallTimestampStart: 1793289600
+earningsGrowth: 0.313
+earningsQuarterlyGrowth: 0.237
+earningsTimestamp: 1793287200
+earningsTimestampEnd: 1793287200
+earningsTimestampStart: 1793287200
+ebitdaMargins: 0.0
+enterpriseToRevenue: 3.956
+enterpriseValue: 13091701760
+epsCurrentYear: 0.43771
+epsForward: 0.51296
+epsTrailingTwelveMonths: 0.4
+esgPopulated: false
+exDividendDate: 1781049600
+exchange: ATH
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Athens
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fiftyDayAverage: 4.59182
+fiftyDayAverageChange: 0.26818037
+fiftyDayAverageChangePercent: 0.058403943
+fiftyTwoWeekChangePercent: 41.7647
+fiftyTwoWeekHigh: 4.996
+fiftyTwoWeekHighChange: -0.13599968
+fiftyTwoWeekHighChangePercent: -0.027221715
+fiftyTwoWeekLow: 3.162
+fiftyTwoWeekLowChange: 1.6980002
+fiftyTwoWeekLowChangePercent: 0.53700197
+fiftyTwoWeekRange: 3.162 - 4.996
+financialCurrency: EUR
+firstTradeDateMilliseconds: 505038600000
+fiveYearAvgDividendYield: 3.88
+floatShares: 2444492889
+forwardEps: 0.51296
+forwardPE: 9.474422
+fullExchangeName: Athens
+fullTimeEmployees: 12274
+fulldayChange: 0.03999996
+fulldayChangePercent: 0.82987475
+fulldayPrice: 4.86
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 3308999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.32865003
+heldPercentInstitutions: 0.38063
+impliedSharesOutstanding: 3577324117
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1781049600
+lastDividendValue: 0.07187
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1448582400
+lastSplitFactor: 1:100
+longBusinessSummary: Eurobank S.A. provides retail, corporate and private banking,
+  asset management, treasury and capital market, and other services in Greece, Bulgaria,
+  Cyprus, and Luxembourg. It operates through Retail, Corporate, Markets, International,
+  and Investment Property. The company offers current accounts, savings, deposits
+  and investment savings products, credit and debit cards, consumer loans, small business
+  banking, and mortgages, as well as overdrafts, loans and other credit facilities,
+  foreign currency, and derivative products. It also provides custody and clearing
+  services, cash management and trade service, and investment banking services, including
+  corporate finance, and merger and acquisitions advice services. In addition, the
+  company offers financial instruments trading and services to institutional investors,
+  as well as specialized financial advice and intermediation services; and mutual
+  fund products, institutional asset management, and equity brokerage services. Further,
+  it is involved in investment property activities related to a portfolio of commercial
+  real estate assets. Additionally, the company engages in the provision of business-to-business
+  e-commerce, accounting, tax, sundry, leasing, factoring, investment banking, asset
+  management, brokerage, informatics data processing services; real estate business
+  and real estate services; fund management; insurance agency and brokerage services;
+  general and life insurance; pension assurance intermediary business; and production
+  and distribution of solar generated electric energy. Eurobank S.A. was founded in
+  1924 and is based in Athens, Greece. Eurobank S.A. was formerly a subsidiary of
+  Eurobank Ergasias Services and Holdings S.A.
+longName: Eurobank S.A.
+market: gr_market
+marketCap: 17385795584
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_882126
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1440999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 16906433776
+numberOfAnalystOpinions: 16
+open: 4.82
+operatingCashflow: -2091000064
+operatingMargins: 0.60985
+overallRisk: 7
+payoutRatio: 0.2967
+pegRatio: 3.13
+phone: 30 210 95 55 000
+prevName: Eurobank Ergasias Services and Holdings S.A.
+previousClose: 4.82
+priceEpsCurrentYear: 11.103243
+priceHint: 4
+priceToBook: 1.5532119
+priceToSalesTrailing12Months: 5.2540936
+profitMargins: 0.45029
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: 0.03999996
+regularMarketChangePercent: 0.82987475
+regularMarketDayHigh: 4.898
+regularMarketDayLow: 4.78
+regularMarketDayRange: 4.78 - 4.898
+regularMarketOpen: 4.82
+regularMarketPreviousClose: 4.82
+regularMarketPrice: 4.86
+regularMarketTime: 1794410090
+regularMarketVolume: 7552058
+returnOnAssets: 0.01361
+returnOnEquity: 0.14007
+revenueGrowth: 0.137
+revenuePerShare: 0.918
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 5
+sharesOutstanding: 3577324117
+shortName: EUROBANK S.A.
+sourceInterval: 10
+symbol: EUROB.AT
+targetHighPrice: 6.1
+targetLowPrice: 4.25
+targetMeanPrice: 5.18985
+targetMedianPrice: 5.375
+totalCash: 16728000512
+totalCashPerShare: 4.676
+totalDebt: 12574999552
+totalRevenue: 3308999936
+tradeable: false
+trailingAnnualDividendRate: 0.131
+trailingAnnualDividendYield: 0.027178422
+trailingEps: 0.4
+trailingPE: 12.150001
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 4.15126
+twoHundredDayAverageChange: 0.70874023
+twoHundredDayAverageChangePercent: 0.17072895
+typeDisp: Equity
+volume: 7552058
+website: https://www.eurobank.gr
+zip: 105 57

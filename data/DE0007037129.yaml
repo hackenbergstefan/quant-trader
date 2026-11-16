@@ -1,0 +1,254 @@
+52WeekChange: 0.24071705
+SandP52WeekChange: 0.097798586
+address1: RWE Platz 1
+allTimeHigh: 102.19968
+allTimeLow: 9.126
+ask: 59.04
+askSize: 1778
+auditRisk: 3
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 1496733
+averageDailyVolume3Month: 1363089
+averageVolume: 1363089
+averageVolume10days: 1496733
+beta: 0.558
+bid: 59.02
+bidSize: 4103
+boardRisk: 2
+bookValue: 55.756
+city: Essen
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Markus  Krebber Ph.D.
+  title: Chairman of the Executive Board & CEO
+  totalPay: 4183000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Michael  Muller
+  title: CFO & Member of Executive Board
+  totalPay: 2071000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katja  Van Doren
+  title: Member of the Executive Board, Chief Human Resources Officer (CHO) & Labour
+    Director
+  totalPay: 1768000
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Thomas  Michel
+  title: Chief Operating Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Denny
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Ulrich  Rust
+  title: General Counsel
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stephanie  Schunck
+  title: Head of Group Communication and Public Affairs
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul  van Son
+  title: Chairman of Energy Projects - Middle East, North Africa & Turkey Region
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Sopna  Sury
+  title: Chief Operating Officer of Hydrogen at RWE Generation SE
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew  Flanagan
+  title: Chief Operating Officer of RWE Renewables Americas
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 59.04
+currentRatio: 1.348
+customPriceAlertConfidence: LOW
+dayHigh: 59.86
+dayLow: 58.16
+debtToEquity: 50.366
+dividendRate: 1.2
+dividendYield: 2.05
+earningsCallTimestampEnd: 1794398400
+earningsCallTimestampStart: 1794398400
+earningsGrowth: 1.374
+earningsQuarterlyGrowth: 1.318
+earningsTimestamp: 1794414600
+earningsTimestampEnd: 1794414600
+earningsTimestampStart: 1794414600
+ebitda: 2380999936
+ebitdaMargins: 0.15457
+enterpriseToEbitda: 25.39
+enterpriseToRevenue: 3.925
+enterpriseValue: 60453167104
+epsCurrentYear: 3.08138
+epsForward: 3.36806
+epsTrailingTwelveMonths: 4.47
+esgPopulated: false
+exDividendDate: 1777852800
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 201 5179 5299
+fiftyDayAverage: 58.4824
+fiftyDayAverageChange: 0.5576019
+fiftyDayAverageChangePercent: 0.009534526
+fiftyTwoWeekChangePercent: 24.071705
+fiftyTwoWeekHigh: 62.0
+fiftyTwoWeekHighChange: -2.959999
+fiftyTwoWeekHighChangePercent: -0.04774192
+fiftyTwoWeekLow: 42.82
+fiftyTwoWeekLowChange: 16.220001
+fiftyTwoWeekLowChangePercent: 0.378795
+fiftyTwoWeekRange: 42.82 - 62.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 850723200000
+fiveYearAvgDividendYield: 2.47
+floatShares: 638060156
+forwardEps: 3.36806
+forwardPE: 17.529379
+freeCashflow: -11109499904
+fullExchangeName: XETRA
+fullTimeEmployees: 19702
+fulldayChange: 0.9000015
+fulldayChangePercent: 1.548523
+fulldayPrice: 59.04
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.36776
+grossProfits: 5664999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.04914
+heldPercentInstitutions: 0.50782
+impliedSharesOutstanding: 779985169
+industry: Utilities - Diversified
+industryDisp: Utilities - Diversified
+industryKey: utilities-diversified
+irWebsite: http://www.rwe.com/web/cms/en/105818/rwe/investor-relations/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777852800
+lastDividendValue: 1.2
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'RWE Aktiengesellschaft generates and supplies electricity from
+  renewable and conventional sources in Germany, the United Kingdom, rest of Europe,
+  North America, and internationally. It operates through five segments: Offshore
+  Wind; Onshore Wind/Solar; Flexible Generation; Supply & Trading; and Phaseout Technologies.
+  The company generates wind, hydro, solar, gas, lignite, and biomass electricity.
+  It also trades in electricity, gas, and energy commodities; operates gas storage
+  facilities; and engages in battery storage activities, as well as lignite mining
+  and refining. The company serves commercial, industrial, and municipal customers.
+  RWE Aktiengesellschaft was founded in 1898 and is headquartered in Essen, Germany.'
+longName: RWE Aktiengesellschaft
+market: de_market
+marketCap: 46050324480
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_408612
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 3233999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 45707130903
+numberOfAnalystOpinions: 18
+open: 58.6
+operatingCashflow: 6144000000
+operatingMargins: 0.03097
+overallRisk: 1
+payoutRatio: 0.26610002
+pegRatio: 35.41
+phone: 49 201 5179 0
+previousClose: 58.14
+priceEpsCurrentYear: 19.160248
+priceHint: 2
+priceToBook: 1.0588995
+priceToSalesTrailing12Months: 2.9895043
+profitMargins: 0.20995001
+quickRatio: 0.693
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.61111
+region: US
+regularMarketChange: 0.9000015
+regularMarketChangePercent: 1.548523
+regularMarketDayHigh: 59.86
+regularMarketDayLow: 58.16
+regularMarketDayRange: 58.16 - 59.86
+regularMarketOpen: 58.6
+regularMarketPreviousClose: 58.14
+regularMarketPrice: 59.04
+regularMarketTime: 1794411570
+regularMarketVolume: 837447
+returnOnAssets: 0.00279
+returnOnEquity: 0.08547
+revenueGrowth: -0.091
+revenuePerShare: 21.522
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 1
+sharesOutstanding: 779985169
+shortName: RWE AG                        I
+sourceInterval: 15
+symbol: RWE.DE
+targetHighPrice: 76.0
+targetLowPrice: 55.0
+targetMeanPrice: 68.88333
+targetMedianPrice: 69.25
+totalCash: 12824000512
+totalCashPerShare: 18.047
+totalDebt: 23977000960
+totalRevenue: 15404000256
+tradeable: false
+trailingAnnualDividendRate: 1.2
+trailingAnnualDividendYield: 0.020639837
+trailingEps: 4.47
+trailingPE: 13.208055
+trailingPegRatio: 35.4079
+triggerable: false
+twoHundredDayAverage: 57.02065
+twoHundredDayAverageChange: 2.019352
+twoHundredDayAverageChangePercent: 0.035414398
+typeDisp: Equity
+volume: 837447
+website: https://www.rwe.com
+zip: '45141'

@@ -1,0 +1,277 @@
+52WeekChange: 0.37014103
+SandP52WeekChange: 0.097798586
+address1: 375 Saxonburg Boulevard
+allTimeHigh: 440.0
+allTimeLow: 0.101563
+ask: 245.33
+askSize: 80
+auditRisk: 3
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 11341230
+averageDailyVolume3Month: 7699951
+averageVolume: 7699951
+averageVolume10days: 11341230
+beta: 2.234
+bid: 245.43
+bidSize: 120
+boardRisk: 4
+bookValue: 57.533
+city: Saxonburg
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. James Robert Anderson
+  title: CEO, President & Employee Director
+  totalPay: 4570318
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Sherri R. Luther CPA
+  title: CFO & Treasurer
+  totalPay: 1725898
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dr. Julie Sheridan Eng
+  title: Executive VP of Optical Components & CTO
+  totalPay: 1454527
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Rob  Beard
+  title: Chief Strategy & Legal Affairs Officer and Corporate Secretary
+  totalPay: 1802919
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jeffrey  Place
+  title: Chief Supply Chain Officer
+  totalPay: 1596261
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Ilaria  Mocciaro
+  title: Senior VP, Chief Accounting Officer & Corporate Controller
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Paul Jonas Silverstein J.D.
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Cristina  Rodriguez
+  title: Executive Vice President of Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dr. Sanjai  Parthasarathi
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Grace G. Lee
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 240.015
+currentRatio: 2.292
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 245.73
+dayLow: 223.67
+debtToEquity: 37.276
+displayName: Coherent
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793827800
+earningsCallTimestampStart: 1793827800
+earningsGrowth: 0.601
+earningsQuarterlyGrowth: 0.699
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1801688400
+earningsTimestampStart: 1801688400
+ebitda: 1662311040
+ebitdaMargins: 0.21023001
+enterpriseToEbitda: 27.193
+enterpriseToRevenue: 5.717
+enterpriseValue: 45202915328
+epsCurrentYear: 10.40583
+epsForward: 15.78884
+epsTrailingTwelveMonths: 4.83
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 267.6722
+fiftyDayAverageChange: -27.657211
+fiftyDayAverageChangePercent: -0.10332493
+fiftyTwoWeekChangePercent: 37.014103
+fiftyTwoWeekHigh: 440.0
+fiftyTwoWeekHighChange: -199.985
+fiftyTwoWeekHighChangePercent: -0.45451137
+fiftyTwoWeekLow: 130.42
+fiftyTwoWeekLowChange: 109.595
+fiftyTwoWeekLowChangePercent: 0.84032357
+fiftyTwoWeekRange: 130.42 - 440.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 560179800000
+floatShares: 196159017
+forwardEps: 15.78884
+forwardPE: 15.20156
+freeCashflow: -1684611840
+fullExchangeName: NYSE
+fullTimeEmployees: 51478
+fulldayChange: 25.354996
+fulldayChangePercent: 11.8117
+fulldayPrice: 240.015
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.38162997
+grossProfits: 3017605120
+hasPrePostMarketData: true
+heldPercentInsiders: 0.04409
+heldPercentInstitutions: 0.87163
+impliedSharesOutstanding: 196958669
+industry: Scientific & Technical Instruments
+industryDisp: Scientific & Technical Instruments
+industryKey: scientific-technical-instruments
+irWebsite: http://www.ii-vi.com/investors
+isEarningsDateEstimate: true
+language: en-US
+lastFiscalYearEnd: 1782777600
+lastSplitDate: 1309132800
+lastSplitFactor: '2:1'
+longBusinessSummary: Coherent Corp. develops, manufactures, and markets lasers, transceivers,
+  other optical and optoelectronic devices, modules, and systems worldwide. Its products
+  include critical components consisting of detectors, passive optics, thermal solutions,
+  and PICS; silicon photonics and other advanced optical technologies; and coherent
+  transmission components, transport products, optical amplifiers, passive optical
+  components, optical line systems, and multi-rail platform. The company's Datacenter
+  and Communications segment offers transceivers, co-packaged optics, and optical
+  circuit switches, as well as other systems, such as subsystems, modules, and semiconductor
+  devices for datacenter and communications applications; and VCSELS, EELS, pump lasers,
+  and other components, optics, and ICs for datacenter and communication applications.
+  Its Industrial segment offers excimer lasers, solid-state lasers, and CO2 lasers;
+  laser systems for various industrial applications, including semiconductor capital
+  equipment, display manufacturing, precision manufacturing, and scientific research;
+  and laser systems and subsystems comprising high-power lasers for materials processing.
+  This segment also provides engineered materials, laser optics, thermoelectric components,
+  and advanced ceramic and metal-matrix composite materials and products. It markets
+  its products and services through a direct sales force, representatives, and distributors.
+  The company was formerly known as II-VI Incorporated and changed its name to Coherent
+  Corp. in September 2022. Coherent Corp. was incorporated in 1971 and is headquartered
+  in Saxonburg, Pennsylvania.
+longName: Coherent Corp.
+market: us_market
+marketCap: 47273033728
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_309779
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 961699008
+nextFiscalYearEnd: 1814313600
+nonDilutedMarketCap: 42279147887
+numberOfAnalystOpinions: 25
+open: 235.66
+operatingCashflow: -59122000
+operatingMargins: 0.14109999
+overallRisk: 8
+payoutRatio: 0.0
+pegRatio: 0.47
+phone: 724 352 4455
+prevName: II-VI Incorporated
+previousClose: 214.66
+priceEpsCurrentYear: 23.065435
+priceHint: 2
+priceToBook: 4.1717796
+priceToSalesTrailing12Months: 5.9785347
+profitMargins: 0.121829994
+quickRatio: 0.972
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: 25.354996
+regularMarketChangePercent: 11.8117
+regularMarketDayHigh: 245.73
+regularMarketDayLow: 223.67
+regularMarketDayRange: 223.67 - 245.73
+regularMarketOpen: 235.66
+regularMarketPreviousClose: 214.66
+regularMarketPrice: 240.015
+regularMarketTime: 1794413732
+regularMarketVolume: 6315591
+returnOnAssets: 0.03991
+returnOnEquity: 0.092709996
+revenueGrowth: 0.499
+revenuePerShare: 42.22
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 9
+sharesOutstanding: 196958669
+sharesPercentSharesOut: 0.0509
+sharesShort: 10021335
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 11041145
+shortName: Coherent Corp.
+shortPercentOfFloat: 0.051
+shortRatio: 1.31
+sourceInterval: 15
+state: PA
+symbol: COHR
+targetHighPrice: 524.96234
+targetLowPrice: 228.0
+targetMeanPrice: 371.9185
+targetMedianPrice: 380.0
+totalCash: 1754929024
+totalCashPerShare: 8.91
+totalDebt: 4346979840
+totalRevenue: 7907126784
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 4.83
+trailingPE: 49.692547
+trailingPegRatio: 0.4705
+triggerable: true
+twoHundredDayAverage: 296.64496
+twoHundredDayAverageChange: -56.62996
+twoHundredDayAverageChangePercent: -0.19090147
+typeDisp: Equity
+volume: 6315524
+website: https://www.coherent.com
+zip: '16056'

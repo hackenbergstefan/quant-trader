@@ -1,0 +1,268 @@
+52WeekChange: -0.12648427
+SandP52WeekChange: 0.097798586
+address1: Ratavartijankatu 5
+address2: PL 1
+allTimeHigh: 58.88
+allTimeLow: 4.46
+ask: 33.86
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 505354
+averageDailyVolume3Month: 500249
+averageVolume: 500249
+averageVolume10days: 505354
+beta: 0.446
+bid: 33.84
+bidSize: 0
+boardRisk: 1
+bookValue: 8.286
+city: Helsinki
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Topi  Manner M.Sc.
+  title: CEO & Member of Management Board
+  totalPay: 1447758
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kristian  Pullola M.Sc.
+  title: CFO & Member of Corporate Executive Board
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timo  Katajisto M.Sc. (Tech.)
+  title: Executive VP of Corporate Customers & Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Henri  Korpi
+  title: EVP of Consumer Customer Business & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sami  Komulainen
+  title: COO, EVP of Technology & Operations and Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Eveliina  Dahl M.Sc.
+  title: Executive VP of HR & Member of Corporate Executive Board
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stuart  Wells
+  title: EVP of Marketing, Member of Executive Board & Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kati  Nyman
+  title: Executive VP, Corporate Chief of Staff & Member of the Corporate Executive
+    Board
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mikko  Soirola M.A.
+  title: Member of Executive Board & CEO of Elisa Industriq
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vesa  Sahivirta
+  title: Director of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Finland
+cryptoTradeable: false
+currency: EUR
+currentPrice: 33.84
+currentRatio: 0.846
+customPriceAlertConfidence: HIGH
+dayHigh: 34.02
+dayLow: 33.64
+debtToEquity: 123.422
+dividendRate: 2.4
+dividendYield: 7.09
+earningsCallTimestampEnd: 1792573200
+earningsCallTimestampStart: 1792573200
+earningsGrowth: -0.114
+earningsQuarterlyGrowth: -0.117
+earningsTimestamp: 1792596600
+earningsTimestampEnd: 1792596600
+earningsTimestampStart: 1792596600
+ebitda: 708600000
+ebitdaMargins: 0.31516
+enterpriseToEbitda: 9.823
+enterpriseToRevenue: 3.096
+enterpriseValue: 6960340992
+epsCurrentYear: 2.39175
+epsForward: 2.46778
+epsTrailingTwelveMonths: 2.05
+esgPopulated: false
+exDividendDate: 1802131200
+exchange: HEL
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Helsinki
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fiftyDayAverage: 35.3756
+fiftyDayAverageChange: -1.5355988
+fiftyDayAverageChangePercent: -0.043408416
+fiftyTwoWeekChangePercent: -12.648428
+fiftyTwoWeekHigh: 45.24
+fiftyTwoWeekHighChange: -11.400002
+fiftyTwoWeekHighChangePercent: -0.25198942
+fiftyTwoWeekLow: 31.68
+fiftyTwoWeekLowChange: 2.1599998
+fiftyTwoWeekLowChangePercent: 0.06818181
+fiftyTwoWeekRange: 31.68 - 45.24
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 4.26
+floatShares: 107315152
+forwardEps: 2.46778
+forwardPE: 13.712729
+freeCashflow: 133300000
+fullExchangeName: Helsinki
+fullTimeEmployees: 6114
+fulldayChange: 0.0
+fulldayChangePercent: 0.0
+fulldayPrice: 33.84
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.44298
+grossProfits: 996000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.11344
+heldPercentInstitutions: 0.52332
+impliedSharesOutstanding: 160576403
+industry: Telecom Services
+industryDisp: Telecom Services
+industryKey: telecom-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1802131200
+lastDividendValue: 0.6
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Elisa Oyj provides telecommunications, information and communication
+  technology (ICT), and online services in Finland, rest of Europe, and internationally.
+  It operates through two segments: Consumer Customers and Corporate Customers. The
+  company offers consumers with telecommunications and communications services, including
+  fixed and mobile subscriptions, supplementary digital services, cable TV subscriptions,
+  and entertainment services, as well as IT and communication solutions. It provides
+  sedApta, supply chain management and operational planning software; camLine, an
+  automation, MES, and data analytics software; CalcuQuote, a integrated software
+  for sourcing, quoting, procurement, and supplier collaboration; and TenForce, a
+  platform to strengthen safety culture and operational oversight across complex industrial
+  environments. It also offers Polystar, an intelligent network analytics and optimization
+  software. The company markets its solutions under Elisa IndustrIQ brand. Further,
+  it provides Gridle, an AI-powered energy flexibility optimization service; and Elisa
+  Kotiakku, that smooths out spikes in electricity spot prices and stores electricity
+  generated by solar panels. In addition, the company offers automation solutions
+  for network management and operation for mobile operators, industrial IoT solutions
+  and distributed energy solutions. It serves consumers, corporates, and public administration
+  organizations. Elisa Oyj was founded in 1882 and is headquartered in Helsinki, Finland.'
+longName: Elisa Oyj
+market: fi_market
+marketCap: 5433905152
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1353107
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 330000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5433905477
+numberOfAnalystOpinions: 19
+open: 33.64
+operatingCashflow: 658000000
+operatingMargins: 0.19955999
+overallRisk: 1
+payoutRatio: 1.1561
+pegRatio: 5.07
+phone: 358 1019 0240
+previousClose: 33.84
+priceEpsCurrentYear: 14.148636
+priceHint: 2
+priceToBook: 4.083997
+priceToSalesTrailing12Months: 2.4167876
+profitMargins: 0.14677
+quickRatio: 0.772
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.66667
+region: US
+regularMarketChange: 0.0
+regularMarketChangePercent: 0.0
+regularMarketDayHigh: 34.02
+regularMarketDayLow: 33.64
+regularMarketDayRange: 33.64 - 34.02
+regularMarketOpen: 33.64
+regularMarketPreviousClose: 33.84
+regularMarketPrice: 33.84
+regularMarketTime: 1794412281
+regularMarketVolume: 77900
+returnOnAssets: 0.08103
+returnOnEquity: 0.2607
+revenueGrowth: 0.001
+revenuePerShare: 14.004
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 4
+sharesOutstanding: 160576403
+shortName: Elisa Corporation
+sourceInterval: 15
+symbol: ELISA.HE
+targetHighPrice: 50.0
+targetLowPrice: 26.5
+targetMeanPrice: 37.75789
+targetMedianPrice: 38.0
+totalCash: 130500000
+totalCashPerShare: 0.813
+totalDebt: 1650400000
+totalRevenue: 2248399872
+tradeable: false
+trailingAnnualDividendRate: 2.4
+trailingAnnualDividendYield: 0.07092199
+trailingEps: 2.05
+trailingPE: 16.507317
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 38.4588
+twoHundredDayAverageChange: -4.618801
+twoHundredDayAverageChangePercent: -0.12009738
+typeDisp: Equity
+volume: 77900
+website: https://elisa.com
+zip: '00061'

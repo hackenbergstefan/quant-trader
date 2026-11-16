@@ -1,0 +1,243 @@
+52WeekChange: 0.11176813
+SandP52WeekChange: 0.097798586
+address1: 99 Kifissias Avenue
+address2: Maroussi
+allTimeHigh: 32.81
+allTimeLow: 1.09
+ask: 17.16
+askSize: 3553
+auditRisk: 4
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 584662
+averageDailyVolume3Month: 519964
+averageVolume: 519964
+averageVolume10days: 584662
+beta: 0.194
+bid: 19.04
+bidSize: 1643
+boardRisk: 8
+bookValue: 5.358
+city: Athens
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Konstantinos  Nebis
+  title: CEO, MD & Executive Chairman
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 61
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Charalampos G. Mazarakis
+  title: Executive Director & CFO of OTE Group
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  maxAge: 1
+  name: Anastasios  Kapenis
+  title: Accounting Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Evrikos  Sarsentis
+  title: Head of Mergers, Acquisitions and Investor Relations
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Aristodimos  Dimitriadis
+  title: Executive Director of Compliance, ERM & Insurance for OTE Group
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 56
+  exercisedValue: 0
+  maxAge: 1
+  name: Ms. Eirini  Nikolaidi
+  title: General Counsel, Chief Legal & Regulatory Affairs and Corporate Governance
+    Officer OTE Group
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Panos  Tsiantoulas
+  title: Chief Human Resources Officer of OTE Group
+  unexercisedValue: 0
+- age: 66
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Michael  Tsamaz
+  title: Managing Director
+  unexercisedValue: 0
+  yearBorn: 1959
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Ioannis  Konstantinidis
+  title: Chief Strategy, Transformation & Wholesale Officer of OTE Group
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Grigoris  Christopoulos
+  title: Chief Commercial Officer Business Segment of OTE Group
+  unexercisedValue: 0
+compensationRisk: 10
+corporateActions: []
+country: Greece
+cryptoTradeable: false
+currency: EUR
+currentPrice: 19.05
+currentRatio: 0.756
+customPriceAlertConfidence: LOW
+dayHigh: 19.08
+dayLow: 18.85
+debtToEquity: 47.967
+dividendDate: 829872000
+dividendRate: 0.9
+dividendYield: 4.8
+earningsCallTimestampEnd: 1793358000
+earningsCallTimestampStart: 1793358000
+earningsGrowth: -0.384
+earningsQuarterlyGrowth: -0.306
+earningsTimestamp: 1793373600
+earningsTimestampEnd: 1793373600
+earningsTimestampStart: 1793373600
+ebitda: 1228800000
+ebitdaMargins: 0.34967
+enterpriseToEbitda: 6.532
+enterpriseToRevenue: 2.284
+enterpriseValue: 8026692096
+epsCurrentYear: 1.66127
+epsForward: 1.69205
+epsTrailingTwelveMonths: 1.57
+esgPopulated: false
+exDividendDate: 1782864000
+exchange: ATH
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Athens
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fiftyDayAverage: 19.4026
+fiftyDayAverageChange: -0.3526001
+fiftyDayAverageChangePercent: -0.018172828
+fiftyTwoWeekChangePercent: 11.176813
+fiftyTwoWeekHigh: 20.48
+fiftyTwoWeekHighChange: -1.4300003
+fiftyTwoWeekHighChangePercent: -0.06982423
+fiftyTwoWeekLow: 15.38
+fiftyTwoWeekLowChange: 3.6699991
+fiftyTwoWeekLowChangePercent: 0.23862153
+fiftyTwoWeekRange: 15.38 - 20.48
+financialCurrency: EUR
+firstTradeDateMilliseconds: 829899000000
+fiveYearAvgDividendYield: 4.27
+floatShares: 170944704
+forwardEps: 1.69205
+forwardPE: 11.258533
+freeCashflow: 409187488
+fullExchangeName: Athens
+fullTimeEmployees: 8714
+fulldayChange: 0.25
+fulldayChangePercent: 1.3297873
+fulldayPrice: 19.05
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.70093
+grossProfits: 2463200000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.61103
+heldPercentInstitutions: 0.14103
+impliedSharesOutstanding: 389553210
+industry: Telecom Services
+industryDisp: Telecom Services
+industryKey: telecom-services
+irWebsite: https://www.ote.gr/en/web/guest/corporate/ir
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1782864000
+lastDividendValue: 0.90214
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Hellenic Telecommunications Organization S.A., together with
+  its subsidiaries, engages in the provision of telecommunications and related services
+  to residential and businesses in Greece and Romania. It operates through Fixed Business
+  and Mobile business segments. The company offers fixed-line services, internet access
+  services, national and international wholesale services, and TV services; mobile
+  telecommunications services; and retail operations. It also provides fixed and mobile
+  telephony broadband services; satellite telecommunication; financing services; technical
+  support services; training services; and retailing and marketing services. In addition,
+  the company is involved in real estate activities. The company was incorporated
+  in 1949 and is based in Athens, Greece. Hellenic Telecommunications Organization
+  S.A. operates as a subsidiary of Deutsche Telekom AG.
+longName: Hellenic Telecommunications Organization S.A.
+market: gr_market
+marketCap: 7420988416
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_393661
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 610400000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 7284645027
+numberOfAnalystOpinions: 11
+open: 18.99
+operatingCashflow: 1176600064
+operatingMargins: 0.24761999
+overallRisk: 9
+payoutRatio: 0.59830004
+pegRatio: 1.34
+phone: 30 6 97 10 13 818
+previousClose: 18.8
+priceEpsCurrentYear: 11.46713
+priceHint: 2
+priceToBook: 3.5554311
+priceToSalesTrailing12Months: 2.1117148
+profitMargins: 0.13537
+quickRatio: 0.641
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.2
+region: US
+regularMarketChange: 0.25
+regularMarketChangePercent: 1.3297873
+regularMarketDayHigh: 19.08
+regularMarketDayLow: 18.85
+regularMarketDayRange: 18.85 - 19.08
+regularMarketOpen: 18.99
+regularMarketPreviousClose: 18.8
+regularMarketPrice: 19.05
+regularMarketTime: 1794409989
+regularMarketVolume: 344314
+returnOnAssets: 0.10773
+returnOnEquity: 0.29428
+revenueGrowth: 0.01
+revenuePerShare: 7.955
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 3
+sharesOutstanding: 389553210
+shortName: OTE S.A.
+sourceInterval: 10
+symbol: HTO.AT
+targetHighPrice: 23.8
+targetLowPrice: 18.0
+targetMeanPrice: 21.21818
+targetMedianPrice: 21.2
+totalCash: 341600000
+totalCashPerShare: 0.872
+totalDebt: 1006400000
+totalRevenue: 3514200064
+tradeable: false
+trailingAnnualDividendRate: 0.878
+trailingAnnualDividendYield: 0.04670213
+trailingEps: 1.57
+trailingPE: 12.133757
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 18.60375
+twoHundredDayAverageChange: 0.446249
+twoHundredDayAverageChangePercent: 0.023987046
+typeDisp: Equity
+volume: 344314
+website: https://www.cosmote.gr
+zip: 151 24

@@ -1,0 +1,286 @@
+52WeekChange: 0.0066406727
+SandP52WeekChange: 0.097798586
+address1: 1201 South Second Street
+allTimeHigh: 497.36
+allTimeLow: 6.28125
+ask: 408.53
+askSize: 40
+auditRisk: 7
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 1203560
+averageDailyVolume3Month: 814656
+averageVolume: 814656
+averageVolume10days: 1203560
+beta: 1.515
+bid: 408.08
+bidSize: 160
+boardRisk: 4
+bookValue: 31.971
+city: Milwaukee
+companyOfficers:
+- age: 62
+  exercisedValue: 10909933
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Blake D. Moret
+  title: President, Chairman & CEO
+  totalPay: 2997843
+  unexercisedValue: 52140776
+  yearBorn: 1963
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian E. Rothe CPA
+  title: Senior VP & CFO
+  totalPay: 1837739
+  unexercisedValue: 348283
+  yearBorn: 1974
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott A. Genereux
+  title: Senior Vice President
+  totalPay: 1192306
+  unexercisedValue: 757323
+  yearBorn: 1963
+- age: 48
+  exercisedValue: 126376
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew W. Fordenwalt
+  title: Senior Vice President of Intelligent Devices
+  totalPay: 1094874
+  unexercisedValue: 747096
+  yearBorn: 1977
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Cyril P. Perducat
+  title: Senior VP & CTO
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher  Nardecchia
+  title: Senior VP of Information Technology & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Aijana  Zellner
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian  Hovey
+  title: VP of Global Marketing & Chief Marketing Officer
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sharon S. Van Zeeland
+  title: Vice President of Strategy & Corporate Development
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John M. Miller
+  title: Chief Intellectual Property Counsel & VP
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: ROK announced a cash dividend of $1.45 with an ex-date of Nov. 16, 2026
+  meta:
+    amount: '1.45'
+    dateEpochMs: 1794805200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 406.99
+currentRatio: 2.111
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 408.88
+dayLow: 401.71
+debtToEquity: 99.944
+displayName: Rockwell Automation
+dividendDate: 1796860800
+dividendRate: 5.8
+dividendYield: 1.46
+earningsCallTimestampEnd: 1793885400
+earningsCallTimestampStart: 1793885400
+earningsGrowth: 1.528
+earningsQuarterlyGrowth: 1.507
+earningsTimestamp: 1793885400
+earningsTimestampEnd: 1801747800
+earningsTimestampStart: 1801747800
+ebitda: 1979000064
+ebitdaMargins: 0.22016001
+enterpriseToEbitda: 23.873
+enterpriseToRevenue: 5.256
+enterpriseValue: 47245475840
+epsCurrentYear: 14.98499
+epsForward: 16.69268
+epsTrailingTwelveMonths: 12.54
+esgPopulated: false
+exDividendDate: 1794787200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 428.0178
+fiftyDayAverageChange: -21.027802
+fiftyDayAverageChangePercent: -0.049128335
+fiftyTwoWeekChangePercent: 0.66406727
+fiftyTwoWeekHigh: 497.36
+fiftyTwoWeekHighChange: -90.369995
+fiftyTwoWeekHighChangePercent: -0.18169937
+fiftyTwoWeekLow: 347.53
+fiftyTwoWeekLowChange: 59.45999
+fiftyTwoWeekLowChangePercent: 0.17109312
+fiftyTwoWeekRange: 347.53 - 497.36
+financialCurrency: USD
+firstTradeDateMilliseconds: 378657000000
+fiveYearAvgDividendYield: 1.59
+floatShares: 110743369
+forwardEps: 16.69268
+forwardPE: 24.381344
+freeCashflow: -471249984
+fullExchangeName: NYSE
+fullTimeEmployees: 27000
+fulldayChange: 9.829987
+fulldayChangePercent: 2.4750695
+fulldayPrice: 406.99
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.48949
+grossProfits: 4400000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0016699999
+heldPercentInstitutions: 0.92271006
+impliedSharesOutstanding: 111048676
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+irWebsite: http://www.rockwellautomation.com/rockwellautomation/about-us/investor-relations/overview.page?
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786924800
+lastDividendValue: 1.38
+lastFiscalYearEnd: 1790726400
+lastSplitDate: 545356800
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Rockwell Automation, Inc., together with its subsidiaries, provides
+  industrial automation and digital transformation solutions in North America, Europe,
+  the Middle East, Africa, the Asia Pacific, and Latin America. It operates in three
+  segments: Intelligent Devices, Software & Control, and Lifecycle Services. The company
+  offers drives, motion, advanced material handling, safety, sensing, industrial components,
+  hardware, software, and configured-to-order products; and control and visualization
+  software and hardware, digital twin, simulation and information software, network
+  and security infrastructure, and custom-engineered systems. It also provides digital
+  consulting, professional services, engineered-to-order solutions, recurring services,
+  cybersecurity, safety, remote monitoring, customer technical support and repair,
+  asset management and optimization consulting, and training, as well as spare parts.
+  The company sells its products through independent distributors in relation to its
+  direct sales force. It serves discrete end markets, including automotive, semiconductor,
+  e-commerce, and warehouse automation; hybrid end markets, such as food and beverage,
+  life sciences, and tire; and process end markets comprising energy, mining, and
+  chemicals. The company was formerly known as Rockwell International Corporation
+  and changed its name to Rockwell Automation, Inc. in February 2002. Rockwell Automation,
+  Inc. was founded in 1903 and is headquartered in Milwaukee, Wisconsin.'
+longName: Rockwell Automation, Inc.
+market: us_market
+marketCap: 45195698176
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_300504
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1408999936
+nextFiscalYearEnd: 1822262400
+nonDilutedMarketCap: 44104092160
+numberOfAnalystOpinions: 25
+open: 405.72
+operatingCashflow: 1958000000
+operatingMargins: 0.18645
+overallRisk: 8
+payoutRatio: 0.5103
+pegRatio: 1.66
+phone: 414 382 2000
+previousClose: 397.16
+priceEpsCurrentYear: 27.159843
+priceHint: 2
+priceToBook: 12.729974
+priceToSalesTrailing12Months: 5.0278897
+profitMargins: 0.15675001
+quickRatio: 1.348
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.28571
+region: US
+regularMarketChange: 9.829987
+regularMarketChangePercent: 2.4750695
+regularMarketDayHigh: 408.88
+regularMarketDayLow: 401.71
+regularMarketDayRange: 401.71 - 408.88
+regularMarketOpen: 405.72
+regularMarketPreviousClose: 397.16
+regularMarketPrice: 406.99
+regularMarketTime: 1794413720
+regularMarketVolume: 371437
+returnOnAssets: 0.09316
+returnOnEquity: 0.38734
+revenueGrowth: 0.007
+revenuePerShare: 80.259
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 111048676
+sharesPercentSharesOut: 0.0326
+sharesShort: 3614964
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3664162
+shortName: Rockwell Automation, Inc.
+shortPercentOfFloat: 0.0372
+shortRatio: 4.25
+sourceInterval: 15
+state: WI
+symbol: ROK
+targetHighPrice: 520.0
+targetLowPrice: 295.0
+targetMeanPrice: 447.24
+targetMedianPrice: 447.0
+totalCash: 433000000
+totalCashPerShare: 3.897
+totalDebt: 3552000000
+totalRevenue: 8988999680
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 12.54
+trailingPE: 32.45534
+trailingPegRatio: 1.6612
+triggerable: true
+twoHundredDayAverage: 426.8157
+twoHundredDayAverageChange: -19.825714
+twoHundredDayAverageChangePercent: -0.04645029
+typeDisp: Equity
+volume: 371437
+website: https://www.rockwellautomation.com
+zip: 53204-2410

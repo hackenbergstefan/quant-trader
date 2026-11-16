@@ -1,0 +1,226 @@
+52WeekChange: -0.23088688
+SandP52WeekChange: 0.097798586
+address1: Flughafenstrasse 99
+allTimeHigh: 139.08801
+allTimeLow: 37.473175
+ask: 49.86
+askSize: 268
+auditRisk: 5
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 369730
+averageDailyVolume3Month: 424877
+averageVolume: 424877
+averageVolume10days: 369730
+beta: 1.386
+bid: 49.8
+bidSize: 77
+boardRisk: 4
+bookValue: 116.706
+city: Düsseldorf
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lars  von Lackum
+  title: CEO & Chairman of the Management Board
+  totalPay: 2100000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Kathrin  Kohling
+  title: CFO & Member of Management Board
+  totalPay: 1206000
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Volker  Wiegel
+  title: COO & Member of Management Board
+  totalPay: 1288000
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hans-Peter  Kneip
+  title: Head of Corporate Finance & Treasury
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank  Kopfinger C.F.A.
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karin  Widenmann
+  title: Senior Manager Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 49.84
+currentRatio: 0.331
+customPriceAlertConfidence: LOW
+dayHigh: 50.4
+dayLow: 49.5
+debtToEquity: 108.444
+dividendRate: 2.92
+dividendYield: 5.73
+earningsCallTimestampEnd: 1785830400
+earningsCallTimestampStart: 1785830400
+earningsGrowth: -0.015
+earningsQuarterlyGrowth: 0.0
+earningsTimestamp: 1794501000
+earningsTimestampEnd: 1794501000
+earningsTimestampStart: 1794501000
+ebitda: 626300032
+ebitdaMargins: 0.42404
+enterpriseToEbitda: 20.816
+enterpriseToRevenue: 8.827
+enterpriseValue: 13036811264
+epsCurrentYear: 6.18548
+epsForward: 5.97258
+epsTrailingTwelveMonths: 14.81
+esgPopulated: false
+exDividendDate: 1779926400
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 211 45 68 261
+fiftyDayAverage: 47.1312
+fiftyDayAverageChange: 2.7088013
+fiftyDayAverageChangePercent: 0.057473633
+fiftyTwoWeekChangePercent: -23.088688
+fiftyTwoWeekHigh: 71.65
+fiftyTwoWeekHighChange: -21.810001
+fiftyTwoWeekHighChangePercent: -0.3043964
+fiftyTwoWeekLow: 44.3
+fiftyTwoWeekLowChange: 5.540001
+fiftyTwoWeekLowChangePercent: 0.12505646
+fiftyTwoWeekRange: 44.3 - 71.65
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1373266800000
+fiveYearAvgDividendYield: 4.14
+floatShares: 75570800
+forwardEps: 5.97258
+forwardPE: 8.344803
+freeCashflow: 328612512
+fullExchangeName: XETRA
+fullTimeEmployees: 1940
+fulldayChange: -0.45999908
+fulldayChangePercent: -0.9148749
+fulldayPrice: 49.84
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.45273998
+grossProfits: 668700032
+hasPrePostMarketData: false
+heldPercentInsiders: 0.20036
+heldPercentInstitutions: 0.74555
+impliedSharesOutstanding: 76848472
+industry: Real Estate Services
+industryDisp: Real Estate Services
+industryKey: real-estate-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779926400
+lastDividendValue: 2.92
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: LEG Immobilien SE, together with its subsidiaries, operates as
+  an integrated property company in Germany. It engages in the performance of services
+  and management of equity investments; property management and location development;
+  performance of services for third parties and housing industry services; and generation
+  of electricity and heat. The company also provides information technology (IT) services
+  for third parties and management services for third-party properties. Additionally,
+  it offers residential and commercial units, as well as garages and parking spaces.
+  LEG Immobilien SE was founded in 1970 and is headquartered in Düsseldorf, Germany.
+longName: LEG Immobilien SE
+market: de_market
+marketCap: 3830127872
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_226294613
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1293900032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 3865478141
+numberOfAnalystOpinions: 13
+open: 50.35
+operatingCashflow: 465200000
+operatingMargins: 0.41286
+overallRisk: 2
+payoutRatio: 0.19450001
+phone: 49 211 45 68 101
+prevName: LEG Immobilien AG
+previousClose: 50.3
+priceEpsCurrentYear: 8.05758
+priceHint: 2
+priceToBook: 0.427056
+priceToSalesTrailing12Months: 2.593181
+profitMargins: 0.87602997
+quickRatio: 0.27
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.23077
+region: US
+regularMarketChange: -0.45999908
+regularMarketChangePercent: -0.9148749
+regularMarketDayHigh: 50.4
+regularMarketDayLow: 49.5
+regularMarketDayRange: 49.5 - 50.4
+regularMarketOpen: 50.35
+regularMarketPreviousClose: 50.3
+regularMarketPrice: 49.84
+regularMarketTime: 1794411572
+regularMarketVolume: 71686
+returnOnAssets: 0.01833
+returnOnEquity: 0.15585
+revenueGrowth: 0.012
+revenuePerShare: 19.545
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 1
+sharesOutstanding: 76848472
+shortName: LEG Immobilien SE             N
+sourceInterval: 15
+symbol: LEG.DE
+targetHighPrice: 89.0
+targetLowPrice: 44.3
+targetMeanPrice: 61.90769
+targetMedianPrice: 56.0
+totalCash: 463600000
+totalCashPerShare: 6.135
+totalDebt: 9634499584
+totalRevenue: 1476999936
+tradeable: false
+trailingAnnualDividendRate: 2.92
+trailingAnnualDividendYield: 0.05805169
+trailingEps: 14.81
+trailingPE: 3.3652937
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 54.6558
+twoHundredDayAverageChange: -4.8157997
+twoHundredDayAverageChangePercent: -0.088111416
+typeDisp: Equity
+volume: 71686
+website: https://www.leg-wohnen.de/unternehmen
+zip: '40474'

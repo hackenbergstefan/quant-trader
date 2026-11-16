@@ -1,0 +1,270 @@
+52WeekChange: 0.2183075
+SandP52WeekChange: 0.097798586
+address1: Fasken Center
+address2: Suite 100 500 West Texas Ave.
+allTimeHigh: 216.9
+allTimeLow: 14.55
+ask: 188.52
+askSize: 1
+auditRisk: 3
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 2341100
+averageDailyVolume3Month: 2425995
+averageVolume: 2425995
+averageVolume10days: 2341100
+beta: 0.468
+bid: 170.05
+bidSize: 1
+boardRisk: 7
+bookValue: 139.542
+city: Midland
+companyOfficers:
+- age: 38
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew Kaes Van't Hof
+  title: CEO & Director
+  totalPay: 3829961
+  unexercisedValue: 0
+  yearBorn: 1987
+- age: 36
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jere W. Thompson III
+  title: Executive VP & CFO
+  totalPay: 1382728
+  unexercisedValue: 0
+  yearBorn: 1989
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel N. Wesson
+  title: Executive VP & COO
+  totalPay: 1862778
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. P. Matt Zmigrosky
+  title: Executive VP, Chief Legal & Administrative Officer and Secretary
+  totalPay: 1746744
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Teresa L. Dick C.P.A.
+  title: Executive VP of Accounting & Assistant Secretary
+  totalPay: 1386894
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory M. Larson
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David L. Cannon
+  title: Senior Vice President of Geoscience & Technology
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Greg  Dolezal
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam T. Lawlis
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Johnny D. Dossey
+  title: Vice President of Marketing
+  unexercisedValue: 0
+  yearBorn: 1966
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: FANG announced a cash dividend of $1.18 with an ex-date of Nov. 12, 2026
+  meta:
+    amount: '1.18'
+    dateEpochMs: 1794459600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 179.38
+currentRatio: 0.548
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 180.64
+dayLow: 177.82
+debtToEquity: 29.313
+displayName: Diamondback Energy
+dividendDate: 1795046400
+dividendRate: 4.72
+dividendYield: 2.65
+earningsCallTimestampEnd: 1793714400
+earningsCallTimestampStart: 1793714400
+earningsGrowth: 0.621
+earningsQuarterlyGrowth: 0.575
+earningsTimestamp: 1793653200
+earningsTimestampEnd: 1793653200
+earningsTimestampStart: 1793653200
+ebitda: 12778000384
+ebitdaMargins: 0.72347
+enterpriseToEbitda: 5.365
+enterpriseToRevenue: 3.881
+enterpriseValue: 68553207808
+epsCurrentYear: 23.05361
+epsForward: 21.81604
+epsTrailingTwelveMonths: 7.43
+esgPopulated: false
+exDividendDate: 1794441600
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 194.8778
+fiftyDayAverageChange: -15.497803
+fiftyDayAverageChangePercent: -0.07952575
+fiftyTwoWeekChangePercent: 21.83075
+fiftyTwoWeekHigh: 216.9
+fiftyTwoWeekHighChange: -37.51999
+fiftyTwoWeekHighChangePercent: -0.1729829
+fiftyTwoWeekLow: 139.41
+fiftyTwoWeekLowChange: 39.97
+fiftyTwoWeekLowChangePercent: 0.28670827
+fiftyTwoWeekRange: 139.41 - 216.9
+financialCurrency: USD
+firstTradeDateMilliseconds: 1350048600000
+fiveYearAvgDividendYield: 3.25
+floatShares: 212508144
+forwardEps: 21.81604
+forwardPE: 8.222391
+freeCashflow: 6040374784
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 1762
+fulldayChange: 1.300003
+fulldayChangePercent: 0.7300107
+fulldayPrice: 179.38
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.73621005
+grossProfits: 13002999808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.23957
+heldPercentInstitutions: 0.72919
+impliedSharesOutstanding: 279167841
+industry: Oil & Gas E&P
+industryDisp: Oil & Gas E&P
+industryKey: oil-gas-e-p
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786579200
+lastDividendValue: 1.1
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Diamondback Energy, Inc., an independent oil and natural gas
+  company, acquires, develops, explores, and exploits unconventional, onshore oil
+  and natural gas reserves in the Permian Basin in West Texas, the United States.
+  The company primarily focuses on the development of the Spraberry and Wolfcamp formations
+  of the Midland Basin; and the Wolfcamp and Bone Spring formations of the Delaware
+  Basin, both of which are part of the Permian Basin in West Texas and New Mexico.
+  Diamondback Energy, Inc. was founded in 2007 and is headquartered in Midland, Texas.
+longName: Diamondback Energy, Inc.
+market: us_market
+marketCap: 50077126656
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_170245760
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2040000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 49714209125
+numberOfAnalystOpinions: 30
+open: 180.13
+operatingCashflow: 10359000064
+operatingMargins: 0.13883
+overallRisk: 5
+payoutRatio: 0.572
+pegRatio: 1.04
+phone: 432 221 7400
+previousClose: 178.08
+priceEpsCurrentYear: 7.7809944
+priceHint: 2
+priceToBook: 1.2854911
+priceToSalesTrailing12Months: 2.8353035
+profitMargins: 0.11618
+quickRatio: 0.509
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: 1.300003
+regularMarketChangePercent: 0.7300107
+regularMarketDayHigh: 180.64
+regularMarketDayLow: 177.82
+regularMarketDayRange: 177.82 - 180.64
+regularMarketOpen: 180.13
+regularMarketPreviousClose: 178.08
+regularMarketPrice: 179.38
+regularMarketTime: 1794413703
+regularMarketVolume: 270930
+returnOnAssets: 0.02066
+returnOnEquity: 0.04856
+revenueGrowth: 0.32
+revenuePerShare: 62.538
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 7
+sharesOutstanding: 279167841
+sharesPercentSharesOut: 0.0255
+sharesShort: 7130946
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7295434
+shortName: Diamondback Energy, Inc.
+shortPercentOfFloat: 0.0369
+shortRatio: 3.57
+sourceInterval: 15
+state: TX
+symbol: FANG
+targetHighPrice: 269.0
+targetLowPrice: 214.0
+targetMeanPrice: 238.4
+targetMedianPrice: 233.5
+totalCash: 558000000
+totalCashPerShare: 1.999
+totalDebt: 13230000128
+totalRevenue: 17661999104
+tradeable: false
+trailingAnnualDividendRate: 4.43
+trailingAnnualDividendYield: 0.024876459
+trailingEps: 7.43
+trailingPE: 24.142666
+trailingPegRatio: 1.0422
+triggerable: true
+twoHundredDayAverage: 190.7782
+twoHundredDayAverageChange: -11.398193
+twoHundredDayAverageChangePercent: -0.059745785
+typeDisp: Equity
+volume: 270930
+website: https://www.diamondbackenergy.com
+zip: '79701'

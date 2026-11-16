@@ -1,0 +1,278 @@
+52WeekChange: 0.8426635
+SandP52WeekChange: 0.097798586
+address1: 12500 TI Boulevard
+allTimeHigh: 334.03
+allTimeLow: 1.21875
+ask: 288.8
+askSize: 1
+auditRisk: 8
+averageDailyVolume10Day: 10284650
+averageDailyVolume3Month: 6757150
+averageVolume: 6757150
+averageVolume10days: 10284650
+beta: 1.388
+bid: 288.11
+bidSize: 1
+boardRisk: 7
+bookValue: 20.99
+city: Dallas
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Haviv  Ilan
+  title: President, CEO & Chairman
+  totalPay: 4669421
+  unexercisedValue: 17467992
+  yearBorn: 1969
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Amichai  Ron
+  title: Senior Vice President of Embedded Processing & DLP® Products
+  totalPay: 2328645
+  unexercisedValue: 3036744
+  yearBorn: 1978
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie C. Knecht
+  title: Senior VP, CFO & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Ahmad R. S.  Bahai Ph.D.
+  title: Senior VP & CTO
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Krunali  Patel
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mike  Beckman
+  title: VP & Head of Investor Relations
+  unexercisedValue: 0
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katharine  Kane
+  title: Senior VP, General Counsel, Legal, Chief Compliance Officer & Secretary
+  unexercisedValue: 0
+  yearBorn: 1985
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christine A. Witzsche
+  title: Senior Vice President of Communications & Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1985
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark T. Roberts
+  title: Senior Vice President of Sales & Marketing
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shanon J. Leonard
+  title: Senior Vice President of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1976
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 310.37
+currentRatio: 5.595
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 312.93
+dayLow: 303.73
+debtToEquity: 70.654
+displayName: Texas Instruments
+dividendDate: 1794268800
+dividendRate: 6.08
+dividendYield: 2.02
+earningsCallTimestampEnd: 1792612800
+earningsCallTimestampStart: 1792612800
+earningsGrowth: 0.77
+earningsQuarterlyGrowth: 0.778
+earningsTimestamp: 1792612800
+earningsTimestampEnd: 1800997200
+earningsTimestampStart: 1800997200
+ebitda: 10712999936
+ebitdaMargins: 0.51589
+enterpriseToEbitda: 26.138
+enterpriseToRevenue: 13.485
+enterpriseValue: 280019271680
+epsCurrentYear: 9.08657
+epsForward: 11.56379
+epsTrailingTwelveMonths: 7.71
+esgPopulated: false
+exDividendDate: 1793318400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 280.5924
+fiftyDayAverageChange: 29.777588
+fiftyDayAverageChangePercent: 0.106124
+fiftyTwoWeekChangePercent: 84.26635
+fiftyTwoWeekHigh: 334.03
+fiftyTwoWeekHighChange: -23.660004
+fiftyTwoWeekHighChangePercent: -0.07083197
+fiftyTwoWeekLow: 152.73
+fiftyTwoWeekLowChange: 157.64
+fiftyTwoWeekLowChangePercent: 1.0321482
+fiftyTwoWeekRange: 152.73 - 334.03
+financialCurrency: USD
+firstTradeDateMilliseconds: 76253400000
+fiveYearAvgDividendYield: 2.65
+floatShares: 911522441
+forwardEps: 11.56379
+forwardPE: 26.839815
+freeCashflow: 4778625024
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 33000
+fulldayChange: 9.850006
+fulldayChangePercent: 3.2776542
+fulldayPrice: 310.37
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.60243
+grossProfits: 12510000128
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00279
+heldPercentInstitutions: 0.92343
+impliedSharesOutstanding: 913770316
+industry: Semiconductors
+industryDisp: Semiconductors
+industryKey: semiconductors
+irWebsite: http://investor.ti.com/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1793318400
+lastDividendValue: 1.52
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 959040000
+lastSplitFactor: '2:1'
+longBusinessSummary: Texas Instruments Incorporated designs, manufactures, and sells
+  semiconductors to electronics designers and manufacturers in the United States,
+  China, the rest of Asia, Europe, the Middle East, Africa, Japan, and internationally.
+  It operates through Analog and Embedded Processing segments. The Analog segment
+  offers power products to manage power requirements across various voltage levels,
+  including battery-management solutions, DC/DC switching regulators, AC/DC and isolated
+  controllers and converters, power switches, linear regulators, voltage references,
+  multiphase controllers and power stages, and lighting products. This segment also
+  provides signal chain products that sense, condition, and measure real-world signals
+  and convert them into data to be transferred or converted for further processing
+  and control, such as amplifiers, data converters, interface products, motor drives,
+  clocks, and logic and sensing products. The Embedded Processing segment offers microcontrollers,
+  processors, wireless connectivity, and radar products; and applications processors
+  for specific computing activity. It also provides DLP products primarily for use
+  in projecting high-definition images; calculators; and application-specific integrated
+  circuits. Its products are used in various markets, such as industrial, automotive,
+  personal electronics, communications equipment, enterprise systems, calculators,
+  and others. The company markets and sells its semiconductor products through direct
+  sales and distributors, as well as through its website. Texas Instruments Incorporated
+  was founded in 1930 and is headquartered in Dallas, Texas.
+longName: Texas Instruments Incorporated
+market: us_market
+marketCap: 283606876160
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_140283
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 7072000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 274606255364
+numberOfAnalystOpinions: 29
+open: 310.665
+operatingCashflow: 9895999488
+operatingMargins: 0.41091
+overallRisk: 8
+payoutRatio: 0.7367
+pegRatio: 0.9
+phone: 214 479 3773
+previousClose: 300.52
+priceEpsCurrentYear: 34.157005
+priceHint: 2
+priceToBook: 14.786565
+priceToSalesTrailing12Months: 13.657271
+profitMargins: 0.34252998
+quickRatio: 3.932
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 9.850006
+regularMarketChangePercent: 3.2776542
+regularMarketDayHigh: 312.93
+regularMarketDayLow: 303.73
+regularMarketDayRange: 303.73 - 312.93
+regularMarketOpen: 310.665
+regularMarketPreviousClose: 300.52
+regularMarketPrice: 310.37
+regularMarketTime: 1794413750
+regularMarketVolume: 2104713
+returnOnAssets: 0.14847
+returnOnEquity: 0.39723998
+revenueGrowth: 0.277
+revenuePerShare: 22.788
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 7
+sharesOutstanding: 913770316
+sharesPercentSharesOut: 0.0201
+sharesShort: 18341879
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 20438896
+shortName: Texas Instruments Incorporated
+shortPercentOfFloat: 0.0223
+shortRatio: 2.7
+sourceInterval: 15
+state: TX
+symbol: TXN
+targetHighPrice: 400.0
+targetLowPrice: 250.0
+targetMeanPrice: 336.86206
+targetMedianPrice: 340.0
+totalCash: 8142000128
+totalCashPerShare: 8.91
+totalDebt: 13555000320
+totalRevenue: 20765999104
+tradeable: false
+trailingAnnualDividendRate: 5.68
+trailingAnnualDividendYield: 0.018900573
+trailingEps: 7.71
+trailingPE: 40.255512
+trailingPegRatio: 0.8965
+triggerable: true
+twoHundredDayAverage: 263.3025
+twoHundredDayAverageChange: 47.067505
+twoHundredDayAverageChangePercent: 0.1787583
+typeDisp: Equity
+volume: 2104713
+website: https://www.ti.com
+zip: '75243'

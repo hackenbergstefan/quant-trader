@@ -1,0 +1,251 @@
+52WeekChange: 0.20955694
+SandP52WeekChange: 0.097798586
+address1: 225 Wyman Street
+address2: Suite 250
+allTimeHigh: 119.025
+allTimeLow: 65.51
+ask: 117.82
+askSize: 200
+auditRisk: 7
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 2595170
+averageDailyVolume3Month: 1785734
+averageVolume: 1785734
+averageVolume10days: 2595170
+beta: 0.666
+bid: 117.67
+bidSize: 1100
+boardRisk: 3
+bookValue: 13.274
+city: Waltham
+companyOfficers:
+- age: 55
+  exercisedValue: 825065
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer L. Honeycutt
+  title: President, CEO & Director
+  totalPay: 4310328
+  unexercisedValue: 11182404
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sameer  Ralhan
+  title: Senior VP & CFO
+  totalPay: 2175245
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 52
+  exercisedValue: 177777
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lesley  Beneteau
+  title: Senior VP & Chief Human Resources Officer
+  totalPay: 1619752
+  unexercisedValue: 2542865
+  yearBorn: 1973
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mattias  Byström
+  title: Chief Segment Officer & Senior VP of Product Quality & Innovation
+  totalPay: 2132578
+  unexercisedValue: 2699054
+  yearBorn: 1974
+- age: 53
+  exercisedValue: 276718
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melissa  Kapity
+  title: Senior VP & Chief Segment Officer- Water Quality
+  totalPay: 1895036
+  unexercisedValue: 439998
+  yearBorn: 1972
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bernard M. Skeete
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 117.895
+currentRatio: 2.029
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 118.2
+dayLow: 117.2
+debtToEquity: 96.689
+displayName: Veralto
+dividendDate: 1793318400
+dividendRate: 0.52
+dividendYield: 0.44
+earningsCallTimestampEnd: 1793359800
+earningsCallTimestampStart: 1793359800
+earningsGrowth: 0.084
+earningsQuarterlyGrowth: 0.059
+earningsTimestamp: 1793304000
+earningsTimestampEnd: 1793304000
+earningsTimestampStart: 1793304000
+ebitda: 1348000000
+ebitdaMargins: 0.23236999
+enterpriseToEbitda: 22.317
+enterpriseToRevenue: 5.186
+enterpriseValue: 30082795520
+epsCurrentYear: 4.5089
+epsForward: 4.87765
+epsTrailingTwelveMonths: 4.05
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 100.7598
+fiftyDayAverageChange: 17.135193
+fiftyDayAverageChangePercent: 0.17005982
+fiftyTwoWeekChangePercent: 20.955694
+fiftyTwoWeekHigh: 119.025
+fiftyTwoWeekHighChange: -1.1300049
+fiftyTwoWeekHighChangePercent: -0.009493845
+fiftyTwoWeekLow: 80.03
+fiftyTwoWeekLowChange: 37.864998
+fiftyTwoWeekLowChangePercent: 0.47313505
+fiftyTwoWeekRange: 80.03 - 119.025
+financialCurrency: USD
+firstTradeDateMilliseconds: 1696426200000
+floatShares: 242572872
+forwardEps: 4.87765
+forwardPE: 24.170452
+freeCashflow: 763374976
+fullExchangeName: NYSE
+fullTimeEmployees: 17000
+fulldayChange: -0.31500244
+fulldayChangePercent: -0.266477
+fulldayPrice: 117.895
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.59835
+grossProfits: 3471000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0019200001
+heldPercentInstitutions: 1.02874
+impliedSharesOutstanding: 243141824
+industry: Pollution & Treatment Controls
+industryDisp: Pollution & Treatment Controls
+industryKey: pollution-treatment-controls
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 0.13
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Veralto Corporation provides water analytics, water treatment,
+  marking and coding, and packaging and color solutions worldwide. It operates through
+  two segments, Water Quality (WQ) and Product Quality & Innovation (PQI). The WQ
+  segment offers precision instrumentation and water treatment technologies to measure,
+  analyze, and treat water in residential, commercial, municipal, industrial, research,
+  and natural resource applications under the Hach, Trojan Technologies, ChemTreat,
+  and other brands. This segment also provides water solutions, including chemical
+  reagents, services, and software solutions. The PQI segment offers marking and coding
+  for packaged goods and related consumables; a software solution that provides digital
+  asset management, marketing resource management, and product information management;
+  inline printing solutions for products and packaging with marking and coding systems;
+  design software and imaging systems for the creation of new packaging designs; color
+  management solutions for printed packages and consumer and industrial products;
+  and color standard services for the design industry. This segment sells its products
+  and services through the Videojet, Linx, Esko, X-Rite, and Pantone brands. The company
+  serves industries, such as municipal utilities, food and beverage, pharmaceutical,
+  and industrials. The company was formerly known as DH EAS Holding Corp. and changed
+  its name to Veralto Corporation in February 2023. Veralto Corporation was incorporated
+  in 2022 and is headquartered in Waltham, Massachusetts.
+longName: Veralto Corporation
+market: us_market
+marketCap: 28665204736
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1849334916
+mostRecentQuarter: 1790899200
+netIncomeToCommon: 1002000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 28741795015
+numberOfAnalystOpinions: 16
+open: 117.42
+operatingCashflow: 1156000000
+operatingMargins: 0.21496001
+overallRisk: 7
+payoutRatio: 0.1284
+pegRatio: 2.7
+phone: 781 755 3655
+previousClose: 118.21
+priceEpsCurrentYear: 26.147173
+priceHint: 2
+priceToBook: 8.881648
+priceToSalesTrailing12Months: 4.941425
+profitMargins: 0.17273001
+quickRatio: 1.655
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.82353
+region: US
+regularMarketChange: -0.31500244
+regularMarketChangePercent: -0.266477
+regularMarketDayHigh: 118.2
+regularMarketDayLow: 117.2
+regularMarketDayRange: 117.2 - 118.2
+regularMarketOpen: 117.42
+regularMarketPreviousClose: 118.21
+regularMarketPrice: 117.895
+regularMarketTime: 1794413730
+regularMarketVolume: 247418
+returnOnAssets: 0.099589996
+returnOnEquity: 0.32961
+revenueGrowth: 0.075
+revenuePerShare: 23.548
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 9
+sharesOutstanding: 243141824
+sharesPercentSharesOut: 0.020499999
+sharesShort: 4984338
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 6333410
+shortName: Veralto Corp
+shortPercentOfFloat: 0.0233
+shortRatio: 2.65
+sourceInterval: 15
+state: MA
+symbol: VLTO
+targetHighPrice: 135.0
+targetLowPrice: 100.0
+targetMeanPrice: 124.625
+targetMedianPrice: 127.0
+totalCash: 1784999936
+totalCashPerShare: 7.341
+totalDebt: 3124999936
+totalRevenue: 5800999936
+tradeable: false
+trailingAnnualDividendRate: 0.52
+trailingAnnualDividendYield: 0.004398951
+trailingEps: 4.05
+trailingPE: 29.109875
+trailingPegRatio: 2.7063
+triggerable: true
+twoHundredDayAverage: 93.5061
+twoHundredDayAverageChange: 24.388893
+twoHundredDayAverageChangePercent: 0.26082674
+typeDisp: Equity
+volume: 247418
+website: https://www.veralto.com
+zip: '02451'

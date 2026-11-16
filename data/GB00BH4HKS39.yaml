@@ -1,0 +1,254 @@
+52WeekChange: 0.219962
+SandP52WeekChange: 0.097798586
+address1: Vodafone House
+address2: The Connection
+allTimeHigh: 475.4412
+allTimeLow: 12.5513
+ask: 115.75
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 63471735
+averageDailyVolume3Month: 62834401
+averageVolume: 62834401
+averageVolume10days: 63471735
+beta: 0.321
+bid: 115.65
+bidSize: 0
+boardRisk: 1
+bookValue: 1.5533394
+city: Newbury
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Margherita  Della Valle
+  title: Group Chief Executive & Executive Director
+  totalPay: 2335339
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Maria Pilar López Álvarez
+  title: Group CFO & Executive Director
+  totalPay: 3471000
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Scott  Petty
+  title: Chief Digital & Information Officer and Group CTO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Matthew  Johnson
+  title: Investor Relations Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Stefanie  Reichel
+  title: Director of Legal & Compliance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Maaike Helena De Bie
+  title: Group General Counsel & Company Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Ruth  McGill
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. António Rui de Lacerda Carrapatoso
+  title: Chief Executive Officer of Vodafone Portugal Operations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Rob  Mukherjee
+  title: Head of North West regional business
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Joakim H. Reiter
+  title: Chief External & Corporate Affairs Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 5
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 115.7
+currentRatio: 1.04
+customPriceAlertConfidence: LOW
+dayHigh: 116.7
+dayLow: 114.98
+debtToEquity: 126.373
+dividendRate: 0.04
+dividendYield: 3.44
+earningsCallTimestampEnd: 1794328200
+earningsCallTimestampStart: 1794328200
+earningsTimestamp: 1794328200
+earningsTimestampEnd: 1794328200
+earningsTimestampStart: 1794328200
+ebitda: 9420000256
+ebitdaMargins: 0.22058001
+enterpriseToEbitda: 8.349
+enterpriseToRevenue: 1.842
+enterpriseValue: 78643781632
+epsCurrentYear: 0.10296
+epsForward: 0.10216645
+epsTrailingTwelveMonths: -0.22
+esgPopulated: false
+exDividendDate: 1780531200
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 122.709
+fiftyDayAverageChange: -7.0090027
+fiftyDayAverageChangePercent: -0.057118896
+fiftyTwoWeekChangePercent: 21.9962
+fiftyTwoWeekHigh: 132.072
+fiftyTwoWeekHighChange: -16.37201
+fiftyTwoWeekHighChangePercent: -0.12396275
+fiftyTwoWeekLow: 88.398
+fiftyTwoWeekLowChange: 27.301994
+fiftyTwoWeekLowChangePercent: 0.30885306
+fiftyTwoWeekRange: 88.398 - 132.072
+financialCurrency: EUR
+firstTradeDateMilliseconds: 593769600000
+fiveYearAvgDividendYield: 6.19
+floatShares: 19693149740
+forwardEps: 0.10216645
+forwardPE: 11.324657
+freeCashflow: 6395375104
+fullExchangeName: LSE
+fullTimeEmployees: 91128
+fulldayChange: -0.05000305
+fulldayChangePercent: -0.04319918
+fulldayPrice: 115.7
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.31741
+grossProfits: 13555000320
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00228
+heldPercentInstitutions: 0.66449
+impliedSharesOutstanding: 23168639889
+industry: Telecom Services
+industryDisp: Telecom Services
+industryKey: telecom-services
+irWebsite: http://www.vodafone.com/content/index/investors.html
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1780531200
+lastDividendValue: 0.023625
+lastFiscalYearEnd: 1774915200
+lastSplitDate: 1393200000
+lastSplitFactor: '6:11'
+longBusinessSummary: Vodafone Group Public Limited Company provides telecommunication
+  services in Germany, the United Kingdom, rest of Europe, Turkey, and South Africa.
+  It offers mobile and fixed services; connectivity business solutions, such as digital
+  services, the Internet of Things (IoT) and financial services; and IoT platforms.
+  The company also provides cloud, multi-cloud, and edge computing solutions; M-PESA,
+  an African mobile money platform to make payments and offer financial services;
+  and international voice and roaming services. In addition, it offers unified communications,
+  mobile connectivity, IoT connectivity, cloud and edge, E2E solutions, and security
+  services; leases fibre and other fixed connectivity services; and engages in infrastructure
+  assets, shared operations, growth platforms, retail, and service operations. The
+  company serves private and public sector customers in health, banking and finance,
+  transport and logistics, retail, utilities, and agriculture industries. Vodafone
+  Group Public Limited Company was incorporated in 1984 and is based in Newbury, the
+  United Kingdom.
+longName: Vodafone Group Public Limited Company
+market: gb_market
+marketCap: 26806114304
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_324490
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: -5906999808
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 26817700671
+numberOfAnalystOpinions: 16
+open: 115.95
+operatingCashflow: 15553000448
+operatingMargins: 0.07533
+overallRisk: 1
+payoutRatio: 1.0171
+pegRatio: 0.59
+phone: 44 163 533251
+prevName: Vodafone Group Plc
+previousClose: 115.75
+priceEpsCurrentYear: 1123.7374
+priceHint: 2
+priceToBook: 0.7448469
+priceToSalesTrailing12Months: 0.6277044
+profitMargins: -0.14085001
+quickRatio: 1.0
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.5625
+region: US
+regularMarketChange: -0.05000305
+regularMarketChangePercent: -0.04319918
+regularMarketDayHigh: 116.7
+regularMarketDayLow: 114.98
+regularMarketDayRange: 114.98 - 116.7
+regularMarketOpen: 115.95
+regularMarketPreviousClose: 115.75
+regularMarketPrice: 115.7
+regularMarketTime: 1794411506
+regularMarketVolume: 22369328
+returnOnAssets: 0.01572
+returnOnEquity: -0.08879
+revenueGrowth: 0.114
+revenuePerShare: 1.831
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 23168639889
+shortName: 'VODAFONE GROUP PLC ORD USD0.20 '
+sourceInterval: 15
+symbol: VOD.L
+targetHighPrice: 155.80437
+targetLowPrice: 94.760025
+targetMeanPrice: 121.809616
+targetMedianPrice: 125.92391
+totalCash: 11239999488
+totalCashPerShare: 0.487
+totalDebt: 59121000448
+totalRevenue: 42704998400
+tradeable: false
+trailingAnnualDividendRate: 0.047
+trailingAnnualDividendYield: 0.0004060475
+trailingEps: -0.22
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 115.5641
+twoHundredDayAverageChange: 0.13589478
+twoHundredDayAverageChangePercent: 0.0011759255
+typeDisp: Equity
+volume: 22369328
+website: https://www.vodafone.com
+zip: RG14 2FN

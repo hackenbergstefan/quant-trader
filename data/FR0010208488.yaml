@@ -1,0 +1,271 @@
+52WeekChange: 0.13705587
+SandP52WeekChange: 0.097798586
+address1: 67 Rue Jules FERRY
+allTimeHigh: 44.77
+allTimeLow: 8.626
+ask: 0.0
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 4381560
+averageDailyVolume3Month: 4872305
+averageVolume: 4872305
+averageVolume10days: 4381560
+beta: 0.57
+bid: 0.0
+bidSize: 0
+boardRisk: 2
+bookValue: 13.415
+city: La Garenne-Colombes
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Catherine Margaret MacGregor
+  title: CEO & Director
+  totalPay: 3421836
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pierre-Francois  Riolacci
+  title: Executive Vice-President in charge of Finance, ESG & Procurement
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Jean-Marc  Turchini
+  title: Director of Corporate Finance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Delphine  Deshayes
+  title: Group Director of Investor Relations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julia  Maris
+  title: EVP in charge of the Grp. Corp. Secretariat, Governance, Legal & Ethics,
+    Pub. Aff. and Comm.
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Sebastien  Blanc
+  title: Executive Vice President in charge of Human Resources & ENGIE HQ
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Edouard  Neviaski
+  title: Executive Vice President in charge of the GBU Supply & Energy Management
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sébastien  Arbola
+  title: EVP in charge of Data, Digital & IT, Strategy and Research & Innovation
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gillian-Alexandre Jeremy Huart
+  title: Chief Executive Officer of ENGIE Energy Access
+  unexercisedValue: 0
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank  Lacroix
+  title: Executive Vice President in charge of the GBU Local Energy Infrastructures
+  unexercisedValue: 0
+  yearBorn: 1964
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 24.6
+currentRatio: 0.999
+customPriceAlertConfidence: LOW
+dayHigh: 24.76
+dayLow: 24.42
+debtToEquity: 143.77
+dividendRate: 1.35
+dividendYield: 5.48
+earningsCallTimestampEnd: 1793869200
+earningsCallTimestampStart: 1793869200
+earningsGrowth: 0.143
+earningsQuarterlyGrowth: 0.137
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 13463000064
+ebitdaMargins: 0.19073
+enterpriseToEbitda: 9.371
+enterpriseToRevenue: 1.787
+enterpriseValue: 126155997184
+epsCurrentYear: 2.10657
+epsForward: 2.14244
+epsTrailingTwelveMonths: 1.63
+esgPopulated: false
+exDividendDate: 1777507200
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 23.4942
+fiftyDayAverageChange: 1.1058006
+fiftyDayAverageChangePercent: 0.047066964
+fiftyTwoWeekChangePercent: 13.705587
+fiftyTwoWeekHigh: 29.89
+fiftyTwoWeekHighChange: -5.289999
+fiftyTwoWeekHighChangePercent: -0.17698224
+fiftyTwoWeekLow: 21.28
+fiftyTwoWeekLowChange: 3.3199997
+fiftyTwoWeekLowChangePercent: 0.15601502
+fiftyTwoWeekRange: 21.28 - 29.89
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 6.85
+floatShares: 1908200000
+forwardEps: 2.14244
+forwardPE: 11.482235
+freeCashflow: -92625000
+fullExchangeName: Paris
+fullTimeEmployees: 84786
+fulldayChange: -0.03999901
+fulldayChangePercent: -0.16233364
+fulldayPrice: 24.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.32134
+grossProfits: 22681999360
+hasPrePostMarketData: false
+heldPercentInsiders: 0.26655
+heldPercentInstitutions: 0.44931
+impliedSharesOutstanding: 2540607984
+industry: Utilities - Diversified
+industryDisp: Utilities - Diversified
+industryKey: utilities-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777507200
+lastDividendValue: 1.35
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 989884800
+lastSplitFactor: '5:1'
+longBusinessSummary: Engie SA engages in renewables and decentralized and low-carbon
+  energy networks in France, Europe, North America, Asia, the Middle East, Oceania,
+  South America, Africa, and internationally. The Renewables & Flex Power segment
+  comprises renewable energy generation activities, including financing, construction,
+  operation, and maintenance of renewable energy, such as hydroelectric, onshore wind,
+  photovoltaic solar, biomass, offshore wind, geothermal, and battery storage. It
+  also offers flexible thermal generation and electricity, pumping, and battery storage
+  facilities; solutions for decarbonizing industry with low-carbon hydrogen; and operation
+  of desalination plants. The Networks segment comprises the gas and power infrastructure
+  activities, including the management and development of gas and electricity transportation
+  networks and natural gas distribution networks in and outside of Europe, natural
+  gas underground storage, and regasification infrastructure. The Local Energy Infrastructures
+  provides the construction and management of decentralized energy networks, including
+  heating and cooling networks, distributed power generation plants, distributed solar
+  power parks, low-carbon mobility, low-carbon cities and public lighting, energy
+  efficiency, technical maintenance, and sustainable development consulting. The Supply
+  & Energy Management segment optimizes the Group's energy assets, manages market
+  and portfolio risks, and supplies natural gas, green and low-carbon gas, and electricity
+  to residential, business, industrial customers, develops green energy contracts,
+  and digital consumption management. The Other segment manages nuclear power production
+  and holds drawing rights, focusing on operational management, safety, and decommissioning.
+  It offers renewable electricity, green gas, energy management. The company was formerly
+  known as GDF SUEZ S.A. and changed its name to Engie SA in April 2015. Engie SA
+  was founded in 1880 and is based in La Garenne-Colombes, France.
+longName: Engie SA
+market: fr_market
+marketCap: 62498959360
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1073371
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 4064999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 62829235444
+numberOfAnalystOpinions: 18
+open: 24.64
+operatingCashflow: 9132000256
+operatingMargins: 0.12692
+overallRisk: 3
+payoutRatio: 0.8282
+pegRatio: 3.45
+phone: 33 1 44 22 00 00
+previousClose: 24.64
+priceEpsCurrentYear: 11.677752
+priceHint: 2
+priceToBook: 1.8337682
+priceToSalesTrailing12Months: 0.8854425
+profitMargins: 0.05989
+quickRatio: 0.644
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.52632
+region: US
+regularMarketChange: -0.03999901
+regularMarketChangePercent: -0.16233364
+regularMarketDayHigh: 24.76
+regularMarketDayLow: 24.42
+regularMarketDayRange: 24.42 - 24.76
+regularMarketOpen: 24.64
+regularMarketPreviousClose: 24.64
+regularMarketPrice: 24.6
+regularMarketTime: 1794411544
+regularMarketVolume: 994909
+returnOnAssets: 0.03102
+returnOnEquity: 0.12218001
+revenueGrowth: -0.036
+revenuePerShare: 28.66
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 10
+sharesOutstanding: 2540607984
+shortName: ENGIE
+sourceInterval: 15
+symbol: ENGI.PA
+targetHighPrice: 35.6
+targetLowPrice: 24.5
+targetMeanPrice: 30.21111
+targetMedianPrice: 31.0
+totalCash: 14168000512
+totalCashPerShare: 5.667
+totalDebt: 70157000704
+totalRevenue: 70584999936
+tradeable: false
+trailingAnnualDividendRate: 1.35
+trailingAnnualDividendYield: 0.054788962
+trailingEps: 1.63
+trailingPE: 15.092025
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 26.1516
+twoHundredDayAverageChange: -1.5515995
+twoHundredDayAverageChangePercent: -0.05933096
+typeDisp: Equity
+volume: 994909
+website: https://www.engie.com
+zip: '92250'

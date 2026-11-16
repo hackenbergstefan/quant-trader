@@ -1,0 +1,249 @@
+52WeekChange: 0.7565789
+SandP52WeekChange: 0.097798586
+address1: Runnenburg 9
+allTimeHigh: 18.42611
+allTimeLow: 1.0
+ask: 0.0
+askSize: 0
+auditRisk: 2
+averageDailyVolume10Day: 729967
+averageDailyVolume3Month: 649398
+averageVolume: 649398
+averageVolume10days: 729967
+beta: 0.674
+bid: 0.0
+bidSize: 0
+boardRisk: 3
+bookValue: 3.777
+city: Bunnik
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. R. J. M. Joosten
+  title: Chairman of Executive Board & CEO
+  totalPay: 1987000
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. H. de Pater
+  title: CFO & Executive Board Member
+  totalPay: 150600
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. S.  Capper
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. S. H. A. J. Beckers
+  title: General Counsel & Company Secretary
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Walter  Swinkels
+  title: Group Director of Governance & Compliance
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pim  Gillissen
+  title: Group Communications Director
+  unexercisedValue: 0
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. S.B.  van Hooijdonk-Verboom
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Arno C. Pronk
+  title: Head of Public Relations
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathan David Wilkinson B.Sc.
+  title: Chief Operating Officer of United Kingdom & Ireland Division
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. C.  Rodenburg-Verschuur
+  title: Chief Operating Officer for the Netherlands Division
+  unexercisedValue: 0
+  yearBorn: 1972
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 13.42
+currentRatio: 0.973
+customPriceAlertConfidence: LOW
+dayHigh: 13.51
+dayLow: 13.25
+debtToEquity: 42.39
+dividendRate: 0.3
+dividendYield: 2.25
+earningsCallTimestampEnd: 1785425400
+earningsCallTimestampStart: 1785425400
+earningsGrowth: 0.289
+earningsQuarterlyGrowth: 0.245
+earningsTimestampEnd: 1785425400
+earningsTimestampStart: 1785425400
+ebitda: 333140992
+ebitdaMargins: 0.04657
+enterpriseToEbitda: 9.486
+enterpriseToRevenue: 0.442
+enterpriseValue: 3160102144
+epsCurrentYear: 1.085
+epsForward: 1.175
+epsTrailingTwelveMonths: 0.91
+esgPopulated: false
+exDividendDate: 1778457600
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 11.9472
+fiftyDayAverageChange: 1.4728003
+fiftyDayAverageChangePercent: 0.12327577
+fiftyTwoWeekChangePercent: 75.65789
+fiftyTwoWeekHigh: 13.51
+fiftyTwoWeekHighChange: -0.09000015
+fiftyTwoWeekHighChangePercent: -0.0066617434
+fiftyTwoWeekLow: 7.46
+fiftyTwoWeekLowChange: 5.96
+fiftyTwoWeekLowChangePercent: 0.7989276
+fiftyTwoWeekRange: 7.46 - 13.51
+financialCurrency: EUR
+firstTradeDateMilliseconds: 977472000000
+fiveYearAvgDividendYield: 1.47
+floatShares: 249881571
+forwardEps: 1.175
+forwardPE: 11.421277
+freeCashflow: 404437120
+fullExchangeName: Amsterdam
+fullTimeEmployees: 13500
+fulldayChange: 0.069999695
+fulldayChangePercent: 0.52434224
+fulldayPrice: 13.42
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.28242
+grossProfits: 2020404992
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00037999998
+heldPercentInstitutions: 0.52211
+impliedSharesOutstanding: 259723823
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778457600
+lastDividendValue: 0.3
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1147305600
+lastSplitFactor: '5:1'
+longBusinessSummary: Koninklijke BAM Groep nv, together with its subsidiaries, provides
+  products and services in the construction and property and civil engineering sectors
+  in the Netherlands, the United Kingdom, Ireland, Germany, Belgium, and internationally.
+  The company designs, builds, and maintains sustainable buildings, homes, and infrastructure
+  for public and private clients. It is also involved in the development and construction
+  of property; and operation of maintenance and service contracts. Koninklijke BAM
+  Groep nv was founded in 1869 and is headquartered in Bunnik, the Netherlands.
+longName: Koninklijke BAM Groep nv
+market: nl_market
+marketCap: 3485493760
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_2481058
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 235990000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 3433649930
+numberOfAnalystOpinions: 4
+open: 13.46
+operatingCashflow: 547683008
+operatingMargins: 0.03649
+overallRisk: 2
+payoutRatio: 0.32970002
+pegRatio: 11.11
+phone: 31 30 659 8988
+previousClose: 13.35
+priceEpsCurrentYear: 12.368663
+priceHint: 2
+priceToBook: 3.5530846
+priceToSalesTrailing12Months: 0.48721588
+profitMargins: 0.03299
+quickRatio: 0.756
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 0.069999695
+regularMarketChangePercent: 0.52434224
+regularMarketDayHigh: 13.51
+regularMarketDayLow: 13.25
+regularMarketDayRange: 13.25 - 13.51
+regularMarketOpen: 13.46
+regularMarketPreviousClose: 13.35
+regularMarketPrice: 13.42
+regularMarketTime: 1794411498
+regularMarketVolume: 346161
+returnOnAssets: 0.040170003
+returnOnEquity: 0.25308
+revenueGrowth: 0.034
+revenuePerShare: 27.596
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 6
+sharesOutstanding: 257202242
+shortName: Koninklijke BAM Groep N.V.
+sourceInterval: 15
+symbol: BAMNB.AS
+targetHighPrice: 14.8
+targetLowPrice: 13.6
+targetMeanPrice: 14.1
+targetMedianPrice: 14.0
+totalCash: 715000000
+totalCashPerShare: 2.759
+totalDebt: 415000000
+totalRevenue: 7153900032
+tradeable: false
+trailingAnnualDividendRate: 0.3
+trailingAnnualDividendYield: 0.02247191
+trailingEps: 0.91
+trailingPE: 14.747252
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 10.753375
+twoHundredDayAverageChange: 2.666625
+twoHundredDayAverageChangePercent: 0.24798028
+typeDisp: Equity
+volume: 346161
+website: https://www.bam.com
+zip: 3981 AZ

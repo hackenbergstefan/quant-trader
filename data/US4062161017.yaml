@@ -1,0 +1,285 @@
+52WeekChange: 0.1830672
+SandP52WeekChange: 0.097798586
+address1: 3000 North Sam Houston Parkway East
+allTimeHigh: 74.33
+allTimeLow: 3.702841
+ask: 32.81
+askSize: 700
+auditRisk: 9
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 9806810
+averageDailyVolume3Month: 10383198
+averageVolume: 10383198
+averageVolume10days: 9806810
+beta: 0.749
+bid: 32.8
+bidSize: 1400
+boardRisk: 6
+bookValue: 13.444
+city: Houston
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey Allen Miller CPA
+  title: Chairman of the Board, President & CEO
+  totalPay: 8526063
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric J. Carre
+  title: Executive VP & CFO
+  totalPay: 3189766
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey Shannon Slocum
+  title: Executive VP, COO & Director
+  totalPay: 4029764
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Van H. Beckwith J.D.
+  title: Executive VP, Secretary & Chief Legal Officer
+  totalPay: 3046558
+  unexercisedValue: 254892
+  yearBorn: 1966
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stephanie S. Holzhauser
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lawrence J. Pope
+  title: Executive VP & Chief Administrative Officer
+  totalPay: 3999957
+  unexercisedValue: 240681
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Coleman
+  title: Senior Director of Investor Relations
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Jill D. Sharp
+  title: Senior Vice President of Internal Assurance Services
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Summer  Condarco
+  title: Senior VP and Chief Health, Safety & Environment (HSE) Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Josh  Sears
+  title: Senior VP Halliburton Drilling & Evaluation Division
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 32.765
+currentRatio: 2.019
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 32.88
+dayLow: 32.11
+debtToEquity: 73.452
+displayName: Halliburton
+dividendDate: 1790121600
+dividendRate: 0.68
+dividendYield: 2.13
+earningsCallTimestampEnd: 1792501200
+earningsCallTimestampStart: 1792501200
+earningsGrowth: 24.0
+earningsQuarterlyGrowth: 22.167
+earningsTimestamp: 1792499400
+earningsTimestampEnd: 1800451800
+earningsTimestampStart: 1800451800
+ebitda: 4139000064
+ebitdaMargins: 0.18415001
+enterpriseToEbitda: 7.913
+enterpriseToRevenue: 1.457
+enterpriseValue: 32750245888
+epsCurrentYear: 2.33221
+epsForward: 2.93659
+epsTrailingTwelveMonths: 2.38
+esgPopulated: false
+exDividendDate: 1788307200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 33.9096
+fiftyDayAverageChange: -1.1445999
+fiftyDayAverageChangePercent: -0.03375445
+fiftyTwoWeekChangePercent: 18.30672
+fiftyTwoWeekHigh: 43.59
+fiftyTwoWeekHighChange: -10.825001
+fiftyTwoWeekHighChangePercent: -0.24833679
+fiftyTwoWeekLow: 24.92
+fiftyTwoWeekLowChange: 7.8449993
+fiftyTwoWeekLowChangePercent: 0.31480736
+fiftyTwoWeekRange: 24.92 - 43.59
+financialCurrency: USD
+firstTradeDateMilliseconds: 76253400000
+fiveYearAvgDividendYield: 1.52
+floatShares: 822618503
+forwardEps: 2.93659
+forwardPE: 11.157499
+freeCashflow: 1632999936
+fullExchangeName: NYSE
+fullTimeEmployees: 46000
+fulldayChange: 0.9049988
+fulldayChangePercent: 2.8405485
+fulldayPrice: 32.765
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.14825
+grossProfits: 3332000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00405
+heldPercentInstitutions: 0.91942
+impliedSharesOutstanding: 827126342
+industry: Oil & Gas Equipment & Services
+industryDisp: Oil & Gas Equipment & Services
+industryKey: oil-gas-equipment-services
+irWebsite: http://ir.halliburton.com/phoenix.zhtml?c=67605&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788307200
+lastDividendValue: 0.17
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1153094400
+lastSplitFactor: '2:1'
+longBusinessSummary: Halliburton Company provides products and services to the energy
+  industry worldwide. It operates in two segments, Completion and Production, and
+  Drilling and Evaluation. The Completion and Production segment offers production
+  enhancement services that include stimulation and sand control services; cementing
+  services, such as well bonding and casing, and casing equipment; and completion
+  tools that offer downhole solutions and services, including well completion products
+  and services, intelligent well completions, liner hanger systems, sand control systems,
+  multilateral systems, and service tools. This segment also provides electrical submersible
+  pumps, as well as artificial lift services; production solutions comprising coiled
+  tubing, hydraulic workover units, downhole tools, and pumping and nitrogen services;
+  pipeline and process services, such as pre-commissioning, commissioning, maintenance,
+  and decommissioning; and specialty chemicals and services. The Drilling and Evaluation
+  segment offers drilling fluid systems, performance additives, completion fluids,
+  solids control, specialized testing equipment, and waste management services; drilling
+  systems and services; wireline and perforating services consisting of open-hole
+  logging, and cased-hole and slickline; and drill bits and services comprising roller
+  cone bits, fixed cutter bits, hole enlargement, and related downhole tools and services,
+  as well as coring equipment and services. This segment also provides cloud based
+  digital services and artificial intelligence solutions on an open architecture for
+  subsurface insights, integrated well construction, and reservoir and production
+  management; testing and subsea services, such as acquisition and analysis of reservoir
+  information and optimization solutions; and project management and integrated asset
+  management services. Halliburton Company was founded in 1919 and is based in Houston,
+  Texas.
+longName: Halliburton Company
+market: us_market
+marketCap: 27100794880
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_177698
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2000999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 26352245256
+numberOfAnalystOpinions: 25
+open: 32.44
+operatingCashflow: 2630000128
+operatingMargins: 0.13179
+overallRisk: 3
+payoutRatio: 0.2857
+pegRatio: 0.65
+phone: 281 871 2699
+previousClose: 31.86
+priceEpsCurrentYear: 14.048905
+priceHint: 2
+priceToBook: 2.4371467
+priceToSalesTrailing12Months: 1.205766
+profitMargins: 0.08903
+quickRatio: 1.224
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.67857
+region: US
+regularMarketChange: 0.9049988
+regularMarketChangePercent: 2.8405485
+regularMarketDayHigh: 32.88
+regularMarketDayLow: 32.11
+regularMarketDayRange: 32.11 - 32.88
+regularMarketOpen: 32.44
+regularMarketPreviousClose: 31.86
+regularMarketPrice: 32.765
+regularMarketTime: 1794413723
+regularMarketVolume: 1659918
+returnOnAssets: 0.07226
+returnOnEquity: 0.18778999
+revenueGrowth: 0.018
+revenuePerShare: 26.869
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 2
+sharesOutstanding: 827126342
+sharesPercentSharesOut: 0.0396
+sharesShort: 32741047
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 34034409
+shortName: Halliburton Company
+shortPercentOfFloat: 0.0539
+shortRatio: 3.25
+sourceInterval: 15
+state: TX
+symbol: HAL
+targetHighPrice: 51.0
+targetLowPrice: 29.0
+targetMeanPrice: 43.64
+targetMedianPrice: 43.0
+totalCash: 1843000064
+totalCashPerShare: 2.228
+totalDebt: 8198000128
+totalRevenue: 22475999232
+tradeable: false
+trailingAnnualDividendRate: 0.68
+trailingAnnualDividendYield: 0.021343376
+trailingEps: 2.38
+trailingPE: 13.766806
+trailingPegRatio: 0.6471
+triggerable: true
+twoHundredDayAverage: 35.8233
+twoHundredDayAverageChange: -3.0583
+twoHundredDayAverageChangePercent: -0.085371815
+typeDisp: Equity
+volume: 1659918
+website: https://www.halliburton.com
+zip: '77032'

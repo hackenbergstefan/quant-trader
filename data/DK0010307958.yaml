@@ -1,0 +1,252 @@
+52WeekChange: 0.44936705
+SandP52WeekChange: 0.097798586
+address1: Vestergade 8-16
+allTimeHigh: 1151.0
+allTimeLow: 79.92149
+ask: 1150.0
+askSize: 0
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 94304
+averageDailyVolume3Month: 97870
+averageVolume: 97870
+averageVolume10days: 94304
+beta: 0.371
+bid: 1150.0
+bidSize: 0
+bookValue: 840.664
+city: Silkeborg
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lars Stensgaard Morch
+  title: CEO, MD & Member of Executive Board
+  totalPay: 12500000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Erik  Gadeberg
+  title: Head of Business, Corporate & Institutional Banking and Member of the Group
+    Executive Board
+  totalPay: 10200000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jacob  Gyntelberg
+  title: MD, Chief Risk Officer & Member of Group Executive Board
+  totalPay: 9700000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ingjerd Cecilie Hafsteen Blekeli Spiten
+  title: Head of Personal Banking & Wealth Management and Member of Group Executive
+    Board
+  totalPay: 9070000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Michael C. Mariegaard
+  title: Head of Large Corporates & Employee Representative Supervisory Board Member
+  totalPay: 600000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Birger  Krøgh Nielsen
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Klaus  Naur
+  title: COO & Member of Executive Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Trine  Lysholt Nørgaard
+  title: Head of Investor Relations & Sustainability
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Martin  Skovsted-Nielsen
+  title: Legal Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Knud  Norbo
+  title: Director of HR
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Denmark
+cryptoTradeable: false
+currency: DKK
+currentPrice: 1149.0
+customPriceAlertConfidence: HIGH
+dayHigh: 1155.0
+dayLow: 1147.0
+dividendRate: 25.0
+dividendYield: 2.18
+earningsCallTimestampEnd: 1793185200
+earningsCallTimestampStart: 1793185200
+earningsGrowth: -0.075
+earningsQuarterlyGrowth: -0.122
+earningsTimestamp: 1793203200
+earningsTimestampEnd: 1793203200
+earningsTimestampStart: 1793203200
+ebitdaMargins: 0.0
+enterpriseToRevenue: 31.241
+enterpriseValue: 439688527872
+epsCurrentYear: 86.17823
+epsForward: 100.58528
+epsTrailingTwelveMonths: 83.76
+esgPopulated: false
+exDividendDate: 1773792000
+exchange: CPH
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Copenhagen
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 1088.0
+fiftyDayAverageChange: 61.0
+fiftyDayAverageChangePercent: 0.056066178
+fiftyTwoWeekChangePercent: 44.936707
+fiftyTwoWeekHigh: 1155.0
+fiftyTwoWeekHighChange: -6.0
+fiftyTwoWeekHighChangePercent: -0.005194805
+fiftyTwoWeekLow: 752.0
+fiftyTwoWeekLowChange: 397.0
+fiftyTwoWeekLowChangePercent: 0.52792555
+fiftyTwoWeekRange: 752.0 - 1155.0
+financialCurrency: DKK
+firstTradeDateMilliseconds: 1096873200000
+floatShares: 56030390
+forwardEps: 100.58528
+forwardPE: 11.423142
+fullExchangeName: Copenhagen
+fullTimeEmployees: 3885
+fulldayChange: 4.0
+fulldayChangePercent: 0.34934497
+fulldayPrice: 1149.0
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.0
+grossProfits: 14074000384
+hasPrePostMarketData: false
+heldPercentInsiders: 0.28732002
+heldPercentInstitutions: 0.24679
+impliedSharesOutstanding: 55795776
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: http://investor.jyskebank.com/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1773792000
+lastDividendValue: 25.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1097625600
+lastSplitFactor: '2:1'
+longBusinessSummary: Jyske Bank A/S provides financial solutions in Denmark and Germany.
+  The company operates through Banking Activities, Mortgage Activities, and Leasing
+  Activities segments. The Banking Activities segment provides advisory services relating
+  to traditional financial solutions for personal, private banking, and corporate
+  customers; and trading and investment services, including trading in interest rate
+  products, currencies, equities, commodities, and derivatives for corporate and institutional
+  customers. The Mortgage Activities segment offers financial solutions for the financing
+  of real property to Danish personal customers, corporate customers, and subsidized
+  rental housing. The Leasing Activities segment provides financial solutions in the
+  form of leasing and financing within car financing, as well as leasing and financing
+  of equipment for the corporate sector. The company also offers pension and insurance
+  products; investment and asset-management products; and payment and advisory services,
+  as well as online and mobile banking services. Jyske Bank A/S was incorporated in
+  1917 and is based in Silkeborg, Denmark.
+longName: Jyske Bank A/S
+market: dk_market
+marketCap: 64109346816
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874628
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4838000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 63886163520
+numberOfAnalystOpinions: 5
+open: 1155.0
+operatingCashflow: 12417000448
+operatingMargins: 0.49339
+payoutRatio: 0.2985
+pegRatio: 0.6
+phone: 45 89 89 89 89
+previousClose: 1145.0
+priceEpsCurrentYear: 13.332833
+priceHint: 2
+priceToBook: 1.3667767
+priceToSalesTrailing12Months: 4.5551615
+profitMargins: 0.36251
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.83333
+region: US
+regularMarketChange: 4.0
+regularMarketChangePercent: 0.34934497
+regularMarketDayHigh: 1155.0
+regularMarketDayLow: 1147.0
+regularMarketDayRange: 1147.0 - 1155.0
+regularMarketOpen: 1155.0
+regularMarketPreviousClose: 1145.0
+regularMarketPrice: 1149.0
+regularMarketTime: 1794412470
+regularMarketVolume: 43512
+returnOnAssets: 0.00678
+returnOnEquity: 0.098400004
+revenueGrowth: -0.039
+revenuePerShare: 243.963
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+sharesOutstanding: 55795776
+shortName: Jyske Bank A/S
+sourceInterval: 15
+symbol: JYSK.CO
+targetHighPrice: 1355.0
+targetLowPrice: 1090.0
+targetMeanPrice: 1209.0
+targetMedianPrice: 1200.0
+totalCash: 105197002752
+totalCashPerShare: 1874.702
+totalDebt: 480634994688
+totalRevenue: 14074000384
+tradeable: false
+trailingAnnualDividendRate: 25.0
+trailingAnnualDividendYield: 0.02183406
+trailingEps: 83.76
+trailingPE: 13.717765
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 981.705
+twoHundredDayAverageChange: 167.29498
+twoHundredDayAverageChangePercent: 0.17041267
+typeDisp: Equity
+volume: 43512
+website: https://www.jyskebank.dk
+zip: '8600'

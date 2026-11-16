@@ -1,0 +1,272 @@
+52WeekChange: -0.08599943
+SandP52WeekChange: 0.097798586
+address1: Regeringsgatan 25
+allTimeHigh: 557.8
+allTimeLow: 77.14
+ask: 315.6
+auditRisk: 2
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 1791062
+averageDailyVolume3Month: 1528612
+averageVolume: 1528612
+averageVolume10days: 1791062
+beta: 1.478
+bid: 315.4
+boardRisk: 4
+bookValue: 6.608
+city: Stockholm
+companyOfficers:
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Per  Franzén
+  title: CEO & Managing Partner
+  totalPay: 400000
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Conni  Jonsson
+  title: Founder & Honorary Chairperson
+  totalPay: 331500
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian  Sinding
+  title: Institutional Partner & Chair of EQT Council
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kunal  Koya
+  title: Partner & Head of Active Core Infrastructure Europe
+  unexercisedValue: 0
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gustav  Segerberg
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christina  Drews
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William  Su
+  title: Chief Investment Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Magnus  Sjöcrona
+  title: Global Head of Risk, Regulatory, Compliance & Security
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Josefin Nowen Wirkkala
+  title: Global General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sofie  Grant
+  title: Operating Partner & Head of Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: EQT.ST announced a cash dividend of SEK 2.50 with an ex-date of Nov. 30,
+    2026
+  meta:
+    amount: '2.50'
+    dateEpochMs: 1795993200000
+    eventType: DIVIDEND
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 315.4
+currentRatio: 6.392
+customPriceAlertConfidence: HIGH
+dayHigh: 316.3
+dayLow: 312.4
+debtToEquity: 34.006
+dividendRate: 5.0
+dividendYield: 1.61
+earningsCallTimestampEnd: 1792045800
+earningsCallTimestampStart: 1792045800
+earningsGrowth: 0.932
+earningsQuarterlyGrowth: 0.916
+earningsTimestamp: 1792078200
+earningsTimestampEnd: 1792078200
+earningsTimestampStart: 1792078200
+ebitda: 1701699968
+ebitdaMargins: 0.57308
+enterpriseToEbitda: 211.833
+enterpriseToRevenue: 121.397
+enterpriseValue: 360475721728
+epsCurrentYear: 1.23696
+epsForward: 14.59
+epsTrailingTwelveMonths: 9.73
+esgPopulated: false
+exDividendDate: 1795996800
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 299.904
+fiftyDayAverageChange: 15.496002
+fiftyDayAverageChangePercent: 0.051669877
+fiftyTwoWeekChangePercent: -8.599943
+fiftyTwoWeekHigh: 383.0
+fiftyTwoWeekHighChange: -67.600006
+fiftyTwoWeekHighChangePercent: -0.17650132
+fiftyTwoWeekLow: 259.0
+fiftyTwoWeekLowChange: 56.399994
+fiftyTwoWeekLowChangePercent: 0.2177606
+fiftyTwoWeekRange: 259.0 - 383.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1569308400000
+fiveYearAvgDividendYield: 1.09
+floatShares: 971926076
+forwardEps: 14.59
+forwardPE: 21.617546
+freeCashflow: 1399399936
+fullExchangeName: Stockholm
+fullTimeEmployees: 1895
+fulldayChange: 4.0
+fulldayChangePercent: 1.2845216
+fulldayPrice: 315.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.69132006
+grossProfits: 2052800000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.35389
+heldPercentInstitutions: 0.45548
+impliedSharesOutstanding: 1245922458
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1795996800
+lastDividendValue: 2.5
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: EQT AB (publ) is a global private equity & venture capital firm
+  specializing in private capital and real asset segments. The firm seeks to invest
+  in seed, startup, turnaround, middle market, mature, early venture, emerging growth,
+  mid venture, late venture, distressed/vulture, loan, secondary (direct) investments.
+  The firm seeks to invest through growth, buyout and recapitalization in companies.
+  It also invests in green fund & fintech investments. The firm prefers to invest
+  in financial services, engineering services, healthcare, IT services & software,
+  business services, consumer, advanced manufacturing sectors, education, consumer
+  goods, energy, oil and gas, commercial printing, diversified support services, environmental
+  and facilities services, office services and supplies, automobile manufacturers,
+  motorcycle manufacturers, consumer electronics, home furnishings, homebuilding,
+  household appliances, housewares and specialties, leisure products, textiles, apparel
+  and luxury goods, medical equipment, medical instruments, communications equipment,
+  communication services, and security and alarm services, industrials and TMT sectors.
+  It owns portfolio companies and assets in Europe, Asia-Pacific and the North America
+  with focus in Turkey, Australia, Hong Kong, Japan, New Zealand, Georgia, Singapore,
+  China, Macau, Taiwan, India, Austria, Belgium, Wallonia, Luxembourg, Guernsey, Jersey,
+  Denmark, Finland, Germany, Iceland, Ireland, Liechtenstein, Luxembourg, Netherlands,
+  Norway, Spain, Sweden, Switzerland, United Kingdom, Belarus, Bulgaria, Czech Republic,
+  Estonia, Hungary, Latvia, Lithuania, Poland, Romania, Russia, Slovakia, Slovenia,
+  South-East Asia and North America region. The firm typically invests between 2 million
+  euro ($2.06 million) and 1600 million euro ($1879 million) in companies with enterprise
+  value at between 27.79 million euro ($30 million) and $250 million. The firm prefers
+  to take minority or majority stakes in its portfolio companies. EQT AB (publ) was
+  founded in 1994 and is based in Stockholm, Sweden with additional offices across
+  Europe, North America, and Asia.
+longName: EQT AB (publ)
+market: se_market
+marketCap: 392963915776
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_314568856
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1044800000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 387980253421
+numberOfAnalystOpinions: 13
+open: 313.2
+operatingCashflow: 1258300032
+operatingMargins: 0.45113
+overallRisk: 2
+payoutRatio: 0.4781
+pegRatio: 0.7
+phone: 46 8 50 65 53 00
+previousClose: 311.4
+priceEpsCurrentYear: 254.97993
+priceHint: 2
+priceToBook: 47.730026
+priceToSalesTrailing12Months: 132.33781
+profitMargins: 0.35186002
+quickRatio: 6.162
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.61538
+region: US
+regularMarketChange: 4.0
+regularMarketChangePercent: 1.2845216
+regularMarketDayHigh: 316.3
+regularMarketDayLow: 312.4
+regularMarketDayRange: 312.4 - 316.3
+regularMarketOpen: 313.2
+regularMarketPreviousClose: 311.4
+regularMarketPrice: 315.4
+regularMarketTime: 1794412455
+regularMarketVolume: 399343
+returnOnAssets: 0.07355
+returnOnEquity: 0.13895
+revenueGrowth: 0.265
+revenuePerShare: 2.533
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 1245922458
+shortName: EQT AB
+sourceInterval: 15
+symbol: EQT.ST
+targetHighPrice: 416.5546
+targetLowPrice: 261.72516
+targetMeanPrice: 375.9033
+targetMedianPrice: 392.57114
+totalCash: 6472000000
+totalCashPerShare: 5.532
+totalDebt: 2628999936
+totalRevenue: 2969400064
+tradeable: false
+trailingAnnualDividendRate: 0.462
+trailingAnnualDividendYield: 0.0014836225
+trailingEps: 9.73
+trailingPE: 32.41521
+trailingPegRatio: 0.7097
+triggerable: true
+twoHundredDayAverage: 300.7395
+twoHundredDayAverageChange: 14.660492
+twoHundredDayAverageChangePercent: 0.048748143
+typeDisp: Equity
+volume: 399343
+website: https://www.eqtgroup.com
+zip: 111 53

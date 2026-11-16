@@ -1,0 +1,257 @@
+52WeekChange: 0.021832943
+SandP52WeekChange: 0.097798586
+address1: 16 Great Marlborough Street
+allTimeHigh: 4364.1
+allTimeLow: 39.4812
+ask: 1865.0
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 4943554
+averageDailyVolume3Month: 4460242
+averageVolume: 4460242
+averageVolume10days: 4943554
+beta: 0.37
+bid: 1864.0
+bidSize: 0
+boardRisk: 2
+bookValue: 3.6485941
+city: London
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Sir David John Lewis
+  title: CEO & Executive Director
+  totalPay: 2179000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Manik Hiru Jhangiani CPA
+  title: CFO & Director
+  totalPay: 1979000
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Yvonne  Harrison
+  title: Corporate Information Officer
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Sonya  Ghobrial
+  title: Global Head of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Randall David Ingber
+  title: General Counsel & Company Secretary
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Cristina  Diezhandino
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Natalie  Bickford
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. John  O'Keeffe
+  title: President of Diageo North America
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Edward  Pilkington
+  title: Chief Marketing & Innovation Officer of Diageo North America
+  unexercisedValue: 0
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Dayalan  Nayager
+  title: President of EMEA
+  unexercisedValue: 0
+  yearBorn: 1981
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 4
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 1864.5
+currentRatio: 1.604
+customPriceAlertConfidence: LOW
+dayHigh: 1891.5
+dayLow: 1858.0
+debtToEquity: 171.345
+dividendRate: 0.45
+dividendYield: 2.36
+earningsCallTimestampEnd: 1786010400
+earningsCallTimestampStart: 1786010400
+earningsTimestampEnd: 1786030200
+earningsTimestampStart: 1786030200
+ebitda: 6429000192
+ebitdaMargins: 0.32729
+enterpriseToEbitda: 10.058
+enterpriseToRevenue: 3.292
+enterpriseValue: 64661446656
+epsCurrentYear: 1.67955
+epsForward: 1.323013
+epsTrailingTwelveMonths: 0.58
+esgPopulated: false
+exDividendDate: 1792022400
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 1691.58
+fiftyDayAverageChange: 172.92004
+fiftyDayAverageChangePercent: 0.102223985
+fiftyTwoWeekChangePercent: 2.1832943
+fiftyTwoWeekHigh: 1915.0
+fiftyTwoWeekHighChange: -50.5
+fiftyTwoWeekHighChangePercent: -0.026370756
+fiftyTwoWeekLow: 1295.5
+fiftyTwoWeekLowChange: 569.0
+fiftyTwoWeekLowChangePercent: 0.43921265
+fiftyTwoWeekRange: 1295.5 - 1915.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 578646000000
+fiveYearAvgDividendYield: 2.78
+floatShares: 2218969596
+forwardEps: 1.323013
+forwardPE: 14.092832
+freeCashflow: 2568499968
+fullExchangeName: LSE
+fullTimeEmployees: 27972
+fulldayChange: -31.0
+fulldayChangePercent: -1.6354524
+fulldayPrice: 1864.5
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.59818
+grossProfits: 11749999616
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00083
+heldPercentInstitutions: 0.66557
+impliedSharesOutstanding: 2227591734
+industry: Beverages - Wineries & Distilleries
+industryDisp: Beverages - Wineries & Distilleries
+industryKey: beverages-wineries-distilleries
+irWebsite: http://www.diageo.com/en-row/Investor/Pages/default.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792022400
+lastDividendValue: 0.3
+lastFiscalYearEnd: 1782777600
+lastSplitDate: 886377600
+lastSplitFactor: 864:1000
+longBusinessSummary: Diageo plc, together with its subsidiaries, engages in the production,
+  marketing, and distribution of alcoholic beverages in North America, Europe, the
+  Asia Pacific, Latin America and Caribbean, and Africa. It offers beer, scotch, gin,
+  vodka, rum, liqueur, raki, wine, cachaça, tequila, brandy, and Chinese white spirit
+  beverages, as well as Irish, Canadian, Chinese US, and Indian whisky. The company
+  also provides ready-to-drink and non-alcoholic beverages. Its principal brands include
+  Johnnie Walker, Don Julio, Guinness, Crown Royal, Smirnoff, Baileys, Captain Morgan,
+  Buchanan's, Casamigos, Shui Jing Fang, and McDowell's. The company was formerly
+  known as Guinness plc and changed its name to Diageo plc in February 1998. The company
+  was incorporated in 1886 and is headquartered in London, the United Kingdom.
+longName: Diageo plc
+market: gb_market
+marketCap: 41533448192
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_375780
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1736999936
+nextFiscalYearEnd: 1814313600
+nonDilutedMarketCap: 42224001317
+numberOfAnalystOpinions: 22
+open: 1881.5
+operatingCashflow: 4392000000
+operatingMargins: 0.29303
+overallRisk: 2
+payoutRatio: 1.0821
+pegRatio: 0.62
+phone: 44 20 7947 9100
+previousClose: 1895.5
+priceEpsCurrentYear: 1110.1188
+priceHint: 2
+priceToBook: 5.1101875
+priceToSalesTrailing12Months: 2.1144147
+profitMargins: 0.08843
+quickRatio: 0.487
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -31.0
+regularMarketChangePercent: -1.6354524
+regularMarketDayHigh: 1891.5
+regularMarketDayLow: 1858.0
+regularMarketDayRange: 1858.0 - 1891.5
+regularMarketOpen: 1881.5
+regularMarketPreviousClose: 1895.5
+regularMarketPrice: 1864.5
+regularMarketTime: 1794411534
+regularMarketVolume: 1160070
+returnOnAssets: 0.07482
+returnOnEquity: 0.14985
+revenueGrowth: -0.017
+revenuePerShare: 8.832
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 1
+sharesOutstanding: 2227591734
+shortName: DIAGEO PLC ORD 28 101/108P
+sourceInterval: 15
+symbol: DGE.L
+targetHighPrice: 2486.4724
+targetLowPrice: 1586.4062
+targetMeanPrice: 2073.941
+targetMedianPrice: 2071.7292
+totalCash: 1780999936
+totalCashPerShare: 0.801
+totalDebt: 22196000768
+totalRevenue: 19643000832
+tradeable: false
+trailingAnnualDividendRate: 0.5
+trailingAnnualDividendYield: 0.00026378265
+trailingEps: 0.58
+trailingPE: 32.146553
+trailingPegRatio: 0.6285
+triggerable: false
+twoHundredDayAverage: 1601.0754
+twoHundredDayAverageChange: 263.42456
+twoHundredDayAverageChangePercent: 0.16452976
+typeDisp: Equity
+volume: 1160070
+website: https://www.diageo.com
+zip: W1F 7HS

@@ -1,0 +1,281 @@
+52WeekChange: -0.10361594
+SandP52WeekChange: 0.097798586
+address1: 300 North Beach Street
+allTimeHigh: 125.68
+allTimeLow: 0.111111
+ask: 70.35
+askSize: 200
+auditRisk: 8
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 2846020
+averageDailyVolume3Month: 2304870
+averageVolume: 2304870
+averageVolume10days: 2846020
+beta: 0.521
+bid: 70.31
+bidSize: 400
+boardRisk: 8
+bookValue: 38.48
+city: Daytona Beach
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. J. Powell Brown C.P.C.U.
+  title: CEO, President & Director
+  totalPay: 5682315
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. R. Andrew Watts CPA
+  title: Executive VP & CFO
+  totalPay: 2458973
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephen Patrick Hearn
+  title: President of Retail Segment, Executive VP & COO
+  totalPay: 2604694
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris L. Walker
+  title: Executive VP & Chairman of Specialty Distribution Segment
+  totalPay: 2508425
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. P. Barrett Brown
+  title: Executive Officer
+  totalPay: 2804777
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul Michael Gallagher
+  title: Principal Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kiet  Tran
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Eileen  Akerson
+  title: Senior VP & Chief Legal Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Jenny  Goco
+  title: Vice President of Public Relations & Director of Communications
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie L. Turpin
+  title: Executive VP & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 70.7
+currentRatio: 1.142
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 71.33
+dayLow: 70.26
+debtToEquity: 64.241
+displayName: Brown & Brown
+dividendDate: 1794355200
+dividendRate: 0.66
+dividendYield: 0.92
+earningsCallTimestampEnd: 1793102400
+earningsCallTimestampStart: 1793102400
+earningsGrowth: -0.01
+earningsQuarterlyGrowth: 0.057
+earningsTimestamp: 1793044800
+earningsTimestampEnd: 1800910800
+earningsTimestampStart: 1800910800
+ebitda: 2352999936
+ebitdaMargins: 0.34532002
+enterpriseToEbitda: 13.115
+enterpriseToRevenue: 4.529
+enterpriseValue: 30859325440
+epsCurrentYear: 4.43193
+epsForward: 4.75342
+epsTrailingTwelveMonths: 3.16
+esgPopulated: false
+exDividendDate: 1793750400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 66.9264
+fiftyDayAverageChange: 3.7735977
+fiftyDayAverageChangePercent: 0.05638429
+fiftyTwoWeekChangePercent: -10.361594
+fiftyTwoWeekHigh: 82.58
+fiftyTwoWeekHighChange: -11.880005
+fiftyTwoWeekHighChangePercent: -0.14386055
+fiftyTwoWeekLow: 53.81
+fiftyTwoWeekLowChange: 16.889996
+fiftyTwoWeekLowChangePercent: 0.31388208
+fiftyTwoWeekRange: 53.81 - 82.58
+financialCurrency: USD
+firstTradeDateMilliseconds: 350749800000
+fiveYearAvgDividendYield: 0.64
+floatShares: 284618125
+forwardEps: 4.75342
+forwardPE: 14.873502
+freeCashflow: 1209750016
+fullExchangeName: NYSE
+fullTimeEmployees: 22888
+fulldayChange: -1.1900024
+fulldayChangePercent: -1.6553102
+fulldayPrice: 70.7
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.49795
+grossProfits: 3392999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.13417
+heldPercentInstitutions: 0.86100996
+impliedSharesOutstanding: 331691829
+industry: Insurance Brokers
+industryDisp: Insurance Brokers
+industryKey: insurance-brokers
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1793750400
+lastDividendValue: 0.18
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1522281600
+lastSplitFactor: '2:1'
+longBusinessSummary: Brown & Brown, Inc. markets and sells insurance products and
+  services in the United States, the United Kingdom, and internationally. It operates
+  through Retail and Specialty Distribution segments. The Retail segment provides
+  property and casualty insurance products, employee benefits insurance products,
+  personal insurance products, specialties insurance products, risk management strategies,
+  loss control surveys and analysis, consulting, and claims processing services. This
+  segment also offers non-insurance services and products through automobile and recreational
+  vehicle dealer services businesses. It serves commercial, public and quasi-public
+  entities, professionals, and individual customers. The Specialty Distribution segment
+  comprises wholesale brokerage and specialty businesses. This segment offers professional
+  liability and related package insurance products for dentistry, legal, eyecare,
+  financial services, physicians, and real estate title professionals, as well as
+  supplementary insurance products related to weddings, events, medical facilities,
+  and cyber liabilities. This segment also provides public entity-related and specialty
+  programs through a network of independent agents, as well as program management
+  services for insurance carrier partners. In addition, the company's wholesale brokerage
+  businesses underwrite and place excess and surplus commercial and personal lines
+  insurance through independent agents and brokers. Its program businesses operate
+  under the Arrowhead Programs name. The company was formerly known as Poe & Brown,
+  Inc. and changed its name to Brown & Brown, Inc. in April 1999. Brown & Brown, Inc.
+  was founded in 1939 and is headquartered in Daytona Beach, Florida.
+longName: Brown & Brown, Inc.
+market: us_market
+marketCap: 23450611712
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_297244
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1202000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 23845325586
+numberOfAnalystOpinions: 18
+open: 70.87
+operatingCashflow: 1584000000
+operatingMargins: 0.26841998
+overallRisk: 3
+payoutRatio: 0.20889999
+pegRatio: 1.83
+phone: 386 252 9601
+previousClose: 71.89
+priceEpsCurrentYear: 15.952417
+priceHint: 2
+priceToBook: 1.8373181
+priceToSalesTrailing12Months: 3.4415338
+profitMargins: 0.17875
+quickRatio: 0.453
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.57143
+region: US
+regularMarketChange: -1.1900024
+regularMarketChangePercent: -1.6553102
+regularMarketDayHigh: 71.33
+regularMarketDayLow: 70.26
+regularMarketDayRange: 70.26 - 71.33
+regularMarketOpen: 70.87
+regularMarketPreviousClose: 71.89
+regularMarketPrice: 70.7
+regularMarketTime: 1794413695
+regularMarketVolume: 275007
+returnOnAssets: 0.03888
+returnOnEquity: 0.09797
+revenueGrowth: 0.097
+revenuePerShare: 20.68
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 331691829
+sharesPercentSharesOut: 0.0493
+sharesShort: 16360239
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 14145445
+shortName: Brown & Brown, Inc.
+shortPercentOfFloat: 0.0655
+shortRatio: 6.08
+sourceInterval: 15
+state: FL
+symbol: BRO
+targetHighPrice: 85.0
+targetLowPrice: 55.0
+targetMeanPrice: 74.77778
+targetMedianPrice: 75.5
+totalCash: 1099000064
+totalCashPerShare: 3.313
+totalDebt: 8095000064
+totalRevenue: 6814000128
+tradeable: false
+trailingAnnualDividendRate: 0.66
+trailingAnnualDividendYield: 0.009180693
+trailingEps: 3.16
+trailingPE: 22.373417
+trailingPegRatio: 1.8299
+triggerable: true
+twoHundredDayAverage: 66.3817
+twoHundredDayAverageChange: 4.3182983
+twoHundredDayAverageChangePercent: 0.06505255
+typeDisp: Equity
+volume: 275007
+website: https://www.bbrown.com
+zip: '32114'

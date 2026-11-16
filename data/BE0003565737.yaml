@@ -1,0 +1,254 @@
+52WeekChange: 0.10883427
+SandP52WeekChange: 0.097798586
+address1: Havenlaan 2
+allTimeHigh: 134.95
+allTimeLow: 5.02
+ask: 0.0
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 497368
+averageDailyVolume3Month: 415987
+averageVolume: 415987
+averageVolume10days: 497368
+beta: 0.684
+bid: 0.0
+bidSize: 0
+boardRisk: 8
+bookValue: 64.329
+city: Brussels
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Johan  Thijs
+  title: Group CEO, MD & Executive Director
+  totalPay: 4231896
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bartel  Puelinckx
+  title: CFO & Executive Director
+  totalPay: 1929115
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christine  Van Rijsseghem
+  title: Chief Risk Officer & Executive Director
+  totalPay: 1836695
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter Grozdev Andronov
+  title: Chief Executive Officer of International Markets Business Unit
+  totalPay: 1810441
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Moucheron
+  title: Chief Executive Officer of Belgium Business Unit
+  totalPay: 1929462
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Magistrate Ales  Blazek
+  title: Chief Executive Officer of Czech Republic Business Unit
+  totalPay: 1333250
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kurt  De Baenst
+  title: General Manager of Investor Relations Office
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Katleen  Dewaele
+  title: General Manager of Corporate & Internal Communication
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Johan  Thiers
+  title: Chief Financial Officer of Kbc Belgium B.U.
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Filip  Ferrante
+  title: Senior General Manager of Corporate Sustainability
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Belgium
+cryptoTradeable: false
+currency: EUR
+currentPrice: 120.1
+customPriceAlertConfidence: LOW
+dayHigh: 122.75
+dayLow: 119.65
+dividendRate: 5.1
+dividendYield: 4.19
+earningsCallTimestampEnd: 1794472200
+earningsCallTimestampStart: 1794472200
+earningsGrowth: 0.132
+earningsQuarterlyGrowth: 0.132
+earningsTimestamp: 1794501600
+earningsTimestampEnd: 1794501600
+earningsTimestampStart: 1794501600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 4.043
+enterpriseValue: 50742022144
+epsCurrentYear: 9.77618
+epsForward: 11.29125
+epsTrailingTwelveMonths: 9.03
+esgPopulated: false
+exDividendDate: 1793750400
+exchange: BRU
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Brussels
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 124.365
+fiftyDayAverageChange: -4.2649994
+fiftyDayAverageChangePercent: -0.03429421
+fiftyTwoWeekChangePercent: 10.883427
+fiftyTwoWeekHigh: 134.95
+fiftyTwoWeekHighChange: -14.849998
+fiftyTwoWeekHighChangePercent: -0.11004075
+fiftyTwoWeekLow: 99.74
+fiftyTwoWeekLowChange: 20.36
+fiftyTwoWeekLowChangePercent: 0.20413075
+fiftyTwoWeekRange: 99.74 - 134.95
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946972800000
+fiveYearAvgDividendYield: 5.34
+floatShares: 225870685
+forwardEps: 11.29125
+forwardPE: 10.636555
+fullExchangeName: Brussels
+fullTimeEmployees: 39803
+fulldayChange: -1.6500015
+fulldayChangePercent: -1.3552374
+fulldayPrice: 120.1
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 12549999616
+hasPrePostMarketData: false
+heldPercentInsiders: 0.41968
+heldPercentInstitutions: 0.32092
+impliedSharesOutstanding: 396681930
+industry: Banks - Diversified
+industryDisp: Banks - Diversified
+industryKey: banks-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793750400
+lastDividendValue: 1.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: KBC Group NV, together with its subsidiaries, provides banking,
+  insurance, and asset management services in Belgium, Bulgaria, the Czech Republic,
+  Hungary, and Slovakia. The company offers demand deposits, time deposits, and savings
+  and current accounts; home and mortgage loans; home insurance; consumer finance
+  and SME funding services, investment fund, and life and non-life insurance; cash
+  management, payments, trade finance, leasing, corporate finance, money and capital
+  market products; and other financial services, such as factoring and stockbroking
+  services. It also provides digital and mobile banking services. In addition, the
+  company engages in the credit institution, software, driving school/roadside assistance
+  business. It primarily serves retail, private banking, small and medium sized enterprises,
+  and mid-cap clients. The company was formerly known as KBC Bank and Insurance Holding
+  Company NV and changed its name to KBC Group NV in March 2005. KBC Group NV was
+  incorporated in 1935 and is headquartered in Brussels, Belgium.
+longName: KBC Group NV
+market: be_market
+marketCap: 47641497600
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_619616
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 3582000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 48296023638
+numberOfAnalystOpinions: 20
+open: 122.5
+operatingCashflow: -9786999808
+operatingMargins: 0.38916
+overallRisk: 5
+payoutRatio: 0.5648
+pegRatio: 1.28
+phone: 32 7 835 31 37
+previousClose: 121.75
+priceEpsCurrentYear: 12.284962
+priceHint: 2
+priceToBook: 1.866965
+priceToSalesTrailing12Months: 3.7961354
+profitMargins: 0.29586
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.3
+region: US
+regularMarketChange: -1.6500015
+regularMarketChangePercent: -1.3552374
+regularMarketDayHigh: 122.75
+regularMarketDayLow: 119.65
+regularMarketDayRange: 119.65 - 122.75
+regularMarketOpen: 122.5
+regularMarketPreviousClose: 121.75
+regularMarketPrice: 120.1
+regularMarketTime: 1794411568
+regularMarketVolume: 108728
+returnOnAssets: 0.00925
+returnOnEquity: 0.13664
+revenueGrowth: 0.066
+revenuePerShare: 31.612
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 396681919
+shortName: KBC
+sourceInterval: 15
+symbol: KBC.BR
+targetHighPrice: 158.0
+targetLowPrice: 88.0
+targetMeanPrice: 134.1
+targetMedianPrice: 136.0
+totalCash: 50831998976
+totalCashPerShare: 128.143
+totalDebt: 53149999104
+totalRevenue: 12549999616
+tradeable: false
+trailingAnnualDividendRate: 5.1
+trailingAnnualDividendYield: 0.041889116
+trailingEps: 9.03
+trailingPE: 13.300111
+trailingPegRatio: 1.2939
+triggerable: false
+twoHundredDayAverage: 118.78525
+twoHundredDayAverageChange: 1.3147507
+twoHundredDayAverageChangePercent: 0.011068299
+typeDisp: Equity
+volume: 108728
+website: https://www.kbc.com
+zip: '1080'

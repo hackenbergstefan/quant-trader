@@ -1,0 +1,270 @@
+52WeekChange: 0.28232694
+SandP52WeekChange: 0.097798586
+address1: Bahnhofstr. 45
+address2: P.O. Box
+allTimeHigh: 80.9
+allTimeLow: 7.002
+ask: 41.07
+askSize: 0
+auditRisk: 9
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 6218623
+averageDailyVolume3Month: 5376538
+averageVolume: 5376538
+averageVolume10days: 6218623
+beta: 0.84
+bid: 41.06
+bidSize: 0
+boardRisk: 3
+bookValue: 24.104816
+city: Zurich
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sergio P. Ermotti
+  title: Group CEO & President of the Group Executive Board
+  totalPay: 5241193
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Todd  Tuckner
+  title: Group CFO & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. George  Athanasopoulos
+  title: Co-President Investment Bank & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Sabine  Keller-Busse
+  title: President UBS Switzerland, President of Personal & Corporate Banking and
+    Member of the GEB
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert  Karofsky
+  title: President of UBS Americas, Co-President Global Wealth Management & Member
+    of GEB
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marco  Illy
+  title: Co-President of the Investment Bank & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Iqbal  Khan CPA
+  title: President of UBS Asia-Pacific, Co-President Global Wealth Management & Member
+    of Group Exec. Board
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Beatriz Martin Jimenez
+  title: Group COO, Head of Non-Core & Legacy, President of EMEA and Member of Executive
+    Board
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Seiler
+  title: Head of Group HR & Corp. Services, Security and Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Barbara  Levi
+  title: Group General Counsel & Member of Group Executive Board
+  unexercisedValue: 0
+  yearBorn: 1971
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 41.09
+customPriceAlertConfidence: LOW
+dayHigh: 41.13
+dayLow: 40.57
+dividendDate: 1744848000
+dividendRate: 0.86
+dividendYield: 2.13
+earningsCallTimestampEnd: 1793174400
+earningsCallTimestampStart: 1793174400
+earningsGrowth: 0.112
+earningsQuarterlyGrowth: 0.084
+earningsTimestamp: 1793170800
+earningsTimestampEnd: 1793170800
+earningsTimestampStart: 1793170800
+ebitdaMargins: 0.0
+enterpriseToRevenue: 2.931
+enterpriseValue: 159917178880
+epsCurrentYear: 3.1068
+epsForward: 3.58908
+epsTrailingTwelveMonths: 2.41
+esgPopulated: false
+exDividendDate: 1776729600
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 41 44 239 91 11
+fiftyDayAverage: 40.7176
+fiftyDayAverageChange: 0.37239838
+fiftyDayAverageChangePercent: 0.009145882
+fiftyTwoWeekChangePercent: 28.232693
+fiftyTwoWeekHigh: 45.04
+fiftyTwoWeekHighChange: -3.9500008
+fiftyTwoWeekHighChangePercent: -0.08769984
+fiftyTwoWeekLow: 28.25
+fiftyTwoWeekLowChange: 12.84
+fiftyTwoWeekLowChangePercent: 0.45451328
+fiftyTwoWeekRange: 28.25 - 45.04
+financialCurrency: USD
+firstTradeDateMilliseconds: 807433200000
+fiveYearAvgDividendYield: 2.32
+floatShares: 3014407640
+forwardEps: 3.58908
+forwardPE: 11.448616
+fullExchangeName: Swiss
+fullTimeEmployees: 97593
+fulldayChange: 0.5299988
+fulldayChangePercent: 1.3067031
+fulldayPrice: 41.09
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 54562000896
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00066
+heldPercentInstitutions: 0.54383
+impliedSharesOutstanding: 3030255878
+industry: Banks - Diversified
+industryDisp: Banks - Diversified
+industryKey: banks-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776729600
+lastDividendValue: 1.1
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'UBS Group AG operates as a wealth manager and bank worldwide.
+  It operates through five segments: Global Wealth Management, Personal & Corporate
+  Banking, Asset Management, Investment Bank, and Non-Core and Legacy. The Global
+  Wealth Management segment offers financial services, advice, and solutions; investment
+  management, estate planning, and corporate advice services; and wealth management
+  and banking products and services to private wealth and institutional customers.
+  Its Personal & Corporate Banking segment provides banking, retirement, financing,
+  investments, and strategic transactions to private, corporate, and institutional
+  customers through its branch network and digital channels in Switzerland. The Asset
+  Management segment offers diversified asset management services. Its Investment
+  Bank segment provides equities, foreign exchange, precious metals, research, advisory,
+  and capital markets services to institutional, corporate, financial sponsor, and
+  Global Wealth Management customers, as well as focused rates and credit platform.
+  The company also offers lending products, such as securities-based lending, mortgages,
+  structured products, and tailored solutions; collateralized lending residential
+  and commercial real estate, primarily against securities, residential and commercial
+  real estate, other real assets (such as ships and aircraft), private market and
+  hedge fund interest; and unsecured lending. The company was formerly known as UBS
+  AG and changed its name to UBS Group AG in December 2014. UBS Group AG was founded
+  in 1862 and is headquartered in Zurich, Switzerland.'
+longName: UBS Group AG
+market: ch_market
+marketCap: 124513214464
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_416620
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 9729000448
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 122907178411
+numberOfAnalystOpinions: 17
+open: 40.86
+operatingMargins: 0.31797
+overallRisk: 3
+payoutRatio: 0.363
+pegRatio: 0.7
+phone: 41 44 234 11 11
+previousClose: 40.56
+priceEpsCurrentYear: 13.225827
+priceHint: 2
+priceToBook: 1.7046386
+priceToSalesTrailing12Months: 2.28205
+profitMargins: 0.17830999
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.47059
+region: US
+regularMarketChange: 0.5299988
+regularMarketChangePercent: 1.3067031
+regularMarketDayHigh: 41.13
+regularMarketDayLow: 40.57
+regularMarketDayRange: 40.57 - 41.13
+regularMarketOpen: 40.86
+regularMarketPreviousClose: 40.56
+regularMarketPrice: 41.09
+regularMarketTime: 1794411581
+regularMarketVolume: 2489745
+returnOnAssets: 0.0059399996
+returnOnEquity: 0.1091
+revenueGrowth: 0.119
+revenuePerShare: 17.697
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 3030255878
+shortName: UBS GROUP N
+sourceInterval: 15
+symbol: UBSG.SW
+targetHighPrice: 60.0
+targetLowPrice: 33.99
+targetMeanPrice: 44.93471
+targetMedianPrice: 44.0
+totalCash: 525570998272
+totalCashPerShare: 173.441
+totalDebt: 562303991808
+totalRevenue: 54562000896
+tradeable: false
+trailingAnnualDividendRate: 1.1
+trailingAnnualDividendYield: 0.027120315
+trailingEps: 2.41
+trailingPE: 17.049791
+trailingPegRatio: 0.7133
+triggerable: false
+twoHundredDayAverage: 37.78765
+twoHundredDayAverageChange: 3.302349
+twoHundredDayAverageChangePercent: 0.087392285
+typeDisp: Equity
+volume: 2489745
+website: https://www.ubs.com
+zip: '8098'

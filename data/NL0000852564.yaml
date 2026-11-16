@@ -1,0 +1,262 @@
+52WeekChange: 0.5139296
+SandP52WeekChange: 0.097798586
+address1: WTC Utrecht
+address2: Stadsplateau 18
+allTimeHigh: 59.76
+allTimeLow: 2.5625
+ask: 0.0
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 265675
+averageDailyVolume3Month: 262329
+averageVolume: 262329
+averageVolume10days: 265675
+beta: 1.414
+bid: 0.0
+bidSize: 0
+boardRisk: 2
+bookValue: 22.505
+city: Utrecht
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephane  Simonetta
+  title: CEO & Member of the Management Board
+  totalPay: 1762000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. L. F. den Houter
+  title: CFO & Member of Management Board
+  totalPay: 1086231
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Luca  Labriola
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rutger  Relker
+  title: Director Investor Relations
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mattijs  Planken
+  title: Chief Marketing & Digital Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Annelize  van Blerk
+  title: Chief People & Sustainability Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oliver N. Jäger
+  title: CEO of Aalberts Surface Technologies
+  totalPay: 842000
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick  de Groot
+  title: CEO of Advanced Mechatronics
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Steve  Kenny
+  title: CEO Aalberts hydronic flow control
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Moncef  Tanfour
+  title: Chief Strategy Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 42.14
+currentRatio: 1.403
+customPriceAlertConfidence: LOW
+dayHigh: 42.16
+dayLow: 41.72
+debtToEquity: 51.233
+dividendRate: 1.15
+dividendYield: 2.78
+earningsCallTimestampEnd: 1784820600
+earningsCallTimestampStart: 1784820600
+earningsGrowth: 0.028
+earningsQuarterlyGrowth: 0.012
+earningsTimestampEnd: 1772123400
+earningsTimestampStart: 1772123400
+ebitda: 513500000
+ebitdaMargins: 0.16596001
+enterpriseToEbitda: 10.718
+enterpriseToRevenue: 1.779
+enterpriseValue: 5503819776
+epsCurrentYear: 2.97587
+epsForward: 3.37699
+epsTrailingTwelveMonths: 1.38
+esgPopulated: false
+exDividendDate: 1776038400
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 41.8028
+fiftyDayAverageChange: 0.33720016
+fiftyDayAverageChangePercent: 0.008066449
+fiftyTwoWeekChangePercent: 51.39296
+fiftyTwoWeekHigh: 45.22
+fiftyTwoWeekHighChange: -3.0800018
+fiftyTwoWeekHighChangePercent: -0.068111494
+fiftyTwoWeekLow: 25.78
+fiftyTwoWeekLowChange: 16.359999
+fiftyTwoWeekLowChangePercent: 0.6346004
+fiftyTwoWeekRange: 25.78 - 45.22
+financialCurrency: EUR
+firstTradeDateMilliseconds: 900918000000
+fiveYearAvgDividendYield: 2.57
+floatShares: 101832384
+forwardEps: 3.37699
+forwardPE: 12.478568
+freeCashflow: 223524992
+fullExchangeName: Amsterdam
+fullTimeEmployees: 13000
+fulldayChange: 0.84000015
+fulldayChangePercent: 2.0338988
+fulldayPrice: 42.14
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.63949
+grossProfits: 1978700032
+hasPrePostMarketData: false
+heldPercentInsiders: 0.1197
+heldPercentInstitutions: 0.62334
+impliedSharesOutstanding: 105967676
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776038400
+lastDividendValue: 1.15
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1179446400
+lastSplitFactor: '4:1'
+longBusinessSummary: Aalberts N.V., together with its subsidiaries, offers mission-critical
+  technologies for building, industry, and semicon markets in Europe, the United States,
+  the Asia Pacific, the Middle East, and Africa. The company operates through Building,
+  Industry, and Semicon segments. It offers hydronic flow control systems for heating
+  and cooling to enhance energy efficiency; integrated piping systems to distribute
+  and control liquids and gas; advanced mechatronics specializing in vibration isolation,
+  ultra precision frames, and high purity fluid systems; and surface technologies
+  for surface treatments, heat treatments, polymer coatings, brazing, additive manufacturing,
+  and post processing. It sells its products under the BROEN, Henco, ISIFLO, MIFA,
+  and Metalis brands. The company was formerly known as Aalberts Industries N.V. and
+  changed its name to Aalberts N.V. in April 2019. Aalberts N.V. was founded in 1975
+  and is headquartered in Utrecht, the Netherlands.
+longName: Aalberts N.V.
+market: nl_market
+marketCap: 4465478144
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_881736
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 150400000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 4376465018
+numberOfAnalystOpinions: 10
+open: 41.76
+operatingCashflow: 358800000
+operatingMargins: 0.109139994
+overallRisk: 2
+payoutRatio: 0.8273
+pegRatio: 1.32
+phone: 31 30 307 9300
+previousClose: 41.3
+priceEpsCurrentYear: 14.160565
+priceHint: 2
+priceToBook: 1.8724729
+priceToSalesTrailing12Months: 1.443177
+profitMargins: 0.04861
+quickRatio: 0.582
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6
+region: US
+regularMarketChange: 0.84000015
+regularMarketChangePercent: 2.0338988
+regularMarketDayHigh: 42.16
+regularMarketDayLow: 41.72
+regularMarketDayRange: 41.72 - 42.16
+regularMarketOpen: 41.76
+regularMarketPreviousClose: 41.3
+regularMarketPrice: 42.14
+regularMarketTime: 1794411507
+regularMarketVolume: 66722
+returnOnAssets: 0.04765
+returnOnEquity: 0.06217
+revenueGrowth: 0.002
+revenuePerShare: 28.717
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 105967676
+shortName: AALBERTS N.V.
+sourceInterval: 15
+symbol: AALB.AS
+targetHighPrice: 54.0
+targetLowPrice: 46.0
+targetMeanPrice: 49.875
+targetMedianPrice: 49.75
+totalCash: 170700000
+totalCashPerShare: 1.589
+totalDebt: 1238499968
+totalRevenue: 3094200064
+tradeable: false
+trailingAnnualDividendRate: 1.15
+trailingAnnualDividendYield: 0.027845036
+trailingEps: 1.38
+trailingPE: 30.536232
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 38.1742
+twoHundredDayAverageChange: 3.9658012
+twoHundredDayAverageChangePercent: 0.103886954
+typeDisp: Equity
+volume: 66722
+website: https://www.aalberts.com
+zip: 3521 AZ

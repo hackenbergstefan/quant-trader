@@ -1,0 +1,280 @@
+52WeekChange: 0.07467306
+SandP52WeekChange: 0.097798586
+address1: Thurgauerstrasse 34
+allTimeHigh: 68.05
+allTimeLow: 29.0
+ask: 44.24
+askSize: 200
+auditRisk: 9
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 4728420
+averageDailyVolume3Month: 3555798
+averageVolume: 3555798
+averageVolume10days: 4728420
+beta: 0.538
+bid: 44.24
+bidSize: 100
+boardRisk: 3
+bookValue: 25.402
+city: Zurich
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Peter  Konieczny Dip Eng, MBA, MSc Mech Eng
+  title: CEO & Director
+  totalPay: 3669153
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Stephen R. Scherger
+  title: CFO & Executive VP
+  totalPay: 1483186
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Ian G. Wilson LLB (Hons), LLM
+  title: Executive Vice President of Strategy & Development
+  totalPay: 1572794
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Louis Frederick Stephan
+  title: Advisor
+  totalPay: 1860790
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jean-Marc  Galvez
+  title: Division President of Global Rigids Packaging Solutions
+  totalPay: 2147087
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Kate  Pearlman
+  title: Senior VP of Investor Relations & Treasury
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Deborah M. Rasin J.D.
+  title: Executive VP & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Laurel  Spencer
+  title: Senior Vice President of Global Sales and Marketing
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dr. Susana  Suarez-Gonzalez Ph.D.
+  title: Executive VP & Chief Human Resources Officer
+  totalPay: 1772542
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Michael  Schmitt BA, MBA
+  title: Executive Vice President
+  totalPay: 1580499
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 10
+corporateActions:
+- header: Dividend
+  message: AMCR announced a cash dividend of $0.66 with an ex-date of Nov. 25, 2026
+  meta:
+    amount: '0.66'
+    dateEpochMs: 1795582800000
+    eventType: DIVIDEND
+country: Switzerland
+cryptoTradeable: false
+currency: USD
+currentPrice: 44.3199
+currentRatio: 1.398
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 45.0
+dayLow: 44.165
+debtToEquity: 133.986
+displayName: Amcor
+dividendDate: 1797379200
+dividendRate: 2.64
+dividendYield: 5.84
+earningsCallTimestampEnd: 1793831400
+earningsCallTimestampStart: 1793831400
+earningsGrowth: -0.081
+earningsQuarterlyGrowth: -0.076
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1801602000
+earningsTimestampStart: 1801602000
+ebitda: 3472999936
+ebitdaMargins: 0.14536999
+enterpriseToEbitda: 10.303
+enterpriseToRevenue: 1.498
+enterpriseValue: 35783806976
+epsCurrentYear: 3.935
+epsForward: 4.208
+epsTrailingTwelveMonths: 2.33
+esgPopulated: false
+exDividendDate: 1795564800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 43.9338
+fiftyDayAverageChange: 0.38610077
+fiftyDayAverageChangePercent: 0.00878824
+fiftyTwoWeekChangePercent: 7.4673057
+fiftyTwoWeekHigh: 50.94
+fiftyTwoWeekHighChange: -6.620098
+fiftyTwoWeekHighChangePercent: -0.12995875
+fiftyTwoWeekLow: 36.25
+fiftyTwoWeekLowChange: 8.0699005
+fiftyTwoWeekLowChangePercent: 0.22261794
+fiftyTwoWeekRange: 36.25 - 50.94
+financialCurrency: USD
+firstTradeDateMilliseconds: 1337088600000
+fiveYearAvgDividendYield: 4.91
+floatShares: 460099913
+forwardEps: 4.208
+forwardPE: 10.532295
+freeCashflow: 888625024
+fullExchangeName: NYSE
+fullTimeEmployees: 75000
+fulldayChange: -0.8700981
+fulldayChangePercent: -1.9254218
+fulldayPrice: 44.3199
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.19778
+grossProfits: 4725000192
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0025499999
+heldPercentInstitutions: 0.79317003
+impliedSharesOutstanding: 461845690
+industry: Packaging & Containers
+industryDisp: Packaging & Containers
+industryKey: packaging-containers
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788480000
+lastDividendValue: 0.65
+lastFiscalYearEnd: 1782777600
+lastSplitDate: 1768435200
+lastSplitFactor: '1:5'
+longBusinessSummary: Amcor plc, together with its subsidiaries, develops and produces
+  packaging solutions for nutrition, health, beauty, and wellness categories in Europe,
+  North America, Latin America, and the Asia Pacific. Its products include apparel,
+  applicators, bags and bulk bags, bottles and vials, building materials, canisters
+  and jerrycans, drinking cups, films and laminates, jars, lids, tapes and adhesives,
+  trays, tubes, wipes packaging solutions, and miscellaneous and accessories, as well
+  as tubs and pots. The company's Global Flexible Packaging Solutions segment develops
+  and supplies flexible packaging; and supplies polymer resin, aluminum, and fiber
+  based flexible packaging solutions. Its Global Rigid Packaging Solutions segment
+  manufactures rigid packaging containers, closures, dispensing and pharma delivery
+  devices, and related products. The company sells its products through its direct
+  sales force. Amcor plc was incorporated in 1926 and is headquartered in Zurich,
+  Switzerland.
+longName: Amcor plc
+market: us_market
+marketCap: 20468955136
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_401715
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1086000000
+nextFiscalYearEnd: 1814313600
+nonDilutedMarketCap: 20870806731
+numberOfAnalystOpinions: 11
+open: 44.73
+operatingCashflow: 1756999936
+operatingMargins: 0.08686
+overallRisk: 9
+payoutRatio: 1.1158999
+pegRatio: 1.06
+phone: 41 44 316 1717
+previousClose: 45.19
+priceEpsCurrentYear: 11.262999
+priceHint: 2
+priceToBook: 1.7447406
+priceToSalesTrailing12Months: 0.85680014
+profitMargins: 0.04546
+quickRatio: 0.694
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.15385
+region: US
+regularMarketChange: -0.8700981
+regularMarketChangePercent: -1.9254218
+regularMarketDayHigh: 45.0
+regularMarketDayLow: 44.165
+regularMarketDayRange: 44.165 - 45.0
+regularMarketOpen: 44.73
+regularMarketPreviousClose: 45.19
+regularMarketPrice: 44.3199
+regularMarketTime: 1794413720
+regularMarketVolume: 463899
+returnOnAssets: 0.03505
+returnOnEquity: 0.092530005
+revenueGrowth: 0.067
+revenuePerShare: 51.601
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 8
+sharesOutstanding: 461845690
+sharesPercentSharesOut: 0.0494
+sharesShort: 22836741
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 21594818
+shortName: Amcor plc
+shortPercentOfFloat: 0.0496
+shortRatio: 7.37
+sourceInterval: 15
+symbol: AMCR
+targetHighPrice: 57.0
+targetLowPrice: 42.0
+targetMeanPrice: 49.52636
+targetMedianPrice: 49.0
+totalCash: 832000000
+totalCashPerShare: 1.801
+totalDebt: 15733999616
+totalRevenue: 23889999872
+tradeable: false
+trailingAnnualDividendRate: 2.61
+trailingAnnualDividendYield: 0.05775614
+trailingEps: 2.33
+trailingPE: 19.021418
+trailingPegRatio: 1.0481
+triggerable: true
+twoHundredDayAverage: 43.10995
+twoHundredDayAverageChange: 1.2099495
+twoHundredDayAverageChangePercent: 0.028066594
+typeDisp: Equity
+volume: 463899
+website: https://www.amcor.com
+zip: '8050'

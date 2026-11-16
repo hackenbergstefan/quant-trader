@@ -1,0 +1,274 @@
+52WeekChange: 0.19887638
+SandP52WeekChange: 0.097798586
+address1: 127 Public Square
+allTimeHigh: 44.875
+allTimeLow: 4.4
+ask: 21.29
+askSize: 8100
+auditRisk: 3
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 14748790
+averageDailyVolume3Month: 14664439
+averageVolume: 14664439
+averageVolume10days: 14748790
+beta: 1.068
+bid: 21.31
+bidSize: 6900
+boardRisk: 7
+bookValue: 14.963
+city: Cleveland
+companyOfficers:
+- age: 64
+  exercisedValue: 1132230
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher Marrott Gorman
+  title: Chairman, President & CEO
+  totalPay: 4573031
+  unexercisedValue: 815850
+  yearBorn: 1961
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Clark Harold Ibrahim Khayat J.D.
+  title: CFO & Head of Technology
+  totalPay: 2933500
+  unexercisedValue: 167037
+  yearBorn: 1972
+- age: 55
+  exercisedValue: 395586
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew Jackson Paine III
+  title: Head of Institutional Banking & President of Key Institutional Bank
+  totalPay: 3093500
+  unexercisedValue: 481371
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mohit  Ramani
+  title: Chief Risk Officer
+  totalPay: 3915976
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stacy L. Gilbert
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Troy  Gates
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James L. Waters J.D.
+  title: General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Susan E. Donlan
+  title: Chief Communications Officer
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 86924
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Angela G. Mago
+  title: Chief Human Resources Officer
+  totalPay: 1723000
+  unexercisedValue: 417953
+  yearBorn: 1966
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katrina M. Evans
+  title: Chief of Staff & Director of Corporate Center
+  unexercisedValue: 0
+  yearBorn: 1965
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 21.375
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 21.5
+dayLow: 21.25
+dividendDate: 1789430400
+dividendRate: 0.82
+dividendYield: 3.84
+earningsCallTimestampEnd: 1800457200
+earningsCallTimestampStart: 1800457200
+earningsGrowth: 0.244
+earningsQuarterlyGrowth: 0.184
+earningsTimestamp: 1800451800
+earningsTimestampEnd: 1800451800
+earningsTimestampStart: 1800451800
+ebitdaMargins: 0.0
+enterpriseToRevenue: 5.239
+enterpriseValue: 39687606272
+epsCurrentYear: 1.8859
+epsForward: 2.17507
+epsTrailingTwelveMonths: 1.82
+esgPopulated: false
+exDividendDate: 1788220800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 20.8534
+fiftyDayAverageChange: 0.5216007
+fiftyDayAverageChangePercent: 0.025012743
+fiftyTwoWeekChangePercent: 19.887638
+fiftyTwoWeekHigh: 24.07
+fiftyTwoWeekHighChange: -2.6949997
+fiftyTwoWeekHighChangePercent: -0.11196509
+fiftyTwoWeekLow: 16.91
+fiftyTwoWeekLowChange: 4.465
+fiftyTwoWeekLowChangePercent: 0.26404494
+fiftyTwoWeekRange: 16.91 - 24.07
+financialCurrency: USD
+firstTradeDateMilliseconds: 563121000000
+fiveYearAvgDividendYield: 4.59
+floatShares: 1051502415
+forwardEps: 2.17507
+forwardPE: 9.82727
+fullExchangeName: NYSE
+fullTimeEmployees: 17562
+fulldayChange: 0.034999847
+fulldayChangePercent: 0.16401052
+fulldayPrice: 21.375
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 7575000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00301
+heldPercentInstitutions: 0.90695
+impliedSharesOutstanding: 1055979769
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: https://www.snl.com/irweblinkx/corporateprofile.aspx?iid=100334
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788220800
+lastDividendValue: 0.205
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 889401600
+lastSplitFactor: '2:1'
+longBusinessSummary: KeyCorp operates as the holding company for KeyBank National
+  Association that provides various retail and commercial banking products and services
+  in the United States. It operates in two segments, Consumer Bank and Commercial
+  Bank. The company offers various deposits and investment products; personal finance
+  and financial wellness, lending, student loan refinancing, mortgage and home equity,
+  credit card, treasury, and business advisory; commercial leasing, investment management,
+  consumer finance; and wealth management and investment services for institutional,
+  non-profit, and high-net-worth clients. It also provides lending, cash management,
+  equipment financing, and commercial mortgage loans; and capital market products
+  and services, such as syndicated finance, debt and equity underwriting, fixed income
+  and equity sales and trading, derivatives, foreign exchange, mergers and acquisition,
+  other advisory services, and public finance to large corporate and institutional
+  clients. In addition, the company offers personal and institutional trust custody
+  services, personal financial and planning services, access to mutual funds, treasury
+  services, and international banking services. Further, it provides community development
+  financing, securities underwriting, brokerage, and investment banking services,
+  as well as merchant services. The company was founded in 1849 and is headquartered
+  in Cleveland, Ohio.
+longName: KeyCorp
+market: us_market
+marketCap: 22571567104
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_329376
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1968999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 22534608270
+numberOfAnalystOpinions: 20
+open: 21.4
+operatingCashflow: 1636999936
+operatingMargins: 0.35525
+overallRisk: 6
+payoutRatio: 0.45049998
+pegRatio: 1.39
+phone: 216 689 3000
+previousClose: 21.34
+priceEpsCurrentYear: 11.334111
+priceHint: 2
+priceToBook: 1.4285237
+priceToSalesTrailing12Months: 2.979745
+profitMargins: 0.27987
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: 0.034999847
+regularMarketChangePercent: 0.16401052
+regularMarketDayHigh: 21.5
+regularMarketDayLow: 21.25
+regularMarketDayRange: 21.25 - 21.5
+regularMarketOpen: 21.4
+regularMarketPreviousClose: 21.34
+regularMarketPrice: 21.375
+regularMarketTime: 1794413720
+regularMarketVolume: 4160614
+returnOnAssets: 0.01113
+returnOnEquity: 0.11174
+revenueGrowth: 0.115
+revenuePerShare: 7.033
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 2
+sharesOutstanding: 1055979769
+sharesPercentSharesOut: 0.0
+sharesShort: 6617
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 31695500
+shortName: KeyCorp
+shortPercentOfFloat: 0.0
+shortRatio: 0.0
+sourceInterval: 15
+state: OH
+symbol: KEY
+targetHighPrice: 43.0
+targetLowPrice: 22.0
+targetMeanPrice: 25.13
+targetMedianPrice: 24.0
+totalCash: 2807000064
+totalCashPerShare: 2.658
+totalDebt: 17984999424
+totalRevenue: 7575000064
+tradeable: false
+trailingAnnualDividendRate: 0.82
+trailingAnnualDividendYield: 0.03842549
+trailingEps: 1.82
+trailingPE: 11.744505
+trailingPegRatio: 1.391
+triggerable: true
+twoHundredDayAverage: 21.55235
+twoHundredDayAverageChange: -0.17734909
+twoHundredDayAverageChangePercent: -0.008228759
+typeDisp: Equity
+volume: 4160614
+website: https://www.key.com
+zip: 44114-1306

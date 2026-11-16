@@ -1,0 +1,262 @@
+52WeekChange: 0.07628524
+SandP52WeekChange: 0.097798586
+address1: Torshamnsgatan 17
+allTimeHigh: 234.8827
+allTimeLow: 13.008888
+ask: 162.45
+askSize: 0
+auditRisk: 7
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 1312902
+averageDailyVolume3Month: 2046400
+averageVolume: 2046400
+averageVolume10days: 1312902
+beta: 0.39
+bid: 162.35
+bidSize: 0
+boardRisk: 8
+bookValue: 34.954
+city: Kista
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nicholas  Hogberg
+  title: President & CEO
+  totalPay: 469211
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Marc  Harion
+  title: Advisor
+  totalPay: 26700000
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Landgren
+  title: Head of Financial Reporting & Operations, Executive VP and Group CFO
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ove  Wik
+  title: Executive VP, Chief Technology & Information Officer
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Billing
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dmirty  Petrov
+  title: Director of Legal Affairs & Corporate Management
+  unexercisedValue: 0
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Johan  Gustafsson
+  title: Executive Vice President of Corporate Communications & Sustainability
+  unexercisedValue: 0
+  yearBorn: 1986
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karin Wadstrom Sjostedt
+  title: EVP & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dmitriy  Lopatukhin
+  title: Chief Operations Officer of Tele2
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Aleksey  Dmitriyev
+  title: Chief Technology Officer of Tele2 Russia
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 162.4
+currentRatio: 0.773
+customPriceAlertConfidence: HIGH
+dayHigh: 163.0
+dayLow: 161.9
+debtToEquity: 127.922
+dividendRate: 10.5
+dividendYield: 6.47
+earningsCallTimestampEnd: 1792479600
+earningsCallTimestampStart: 1792479600
+earningsGrowth: 0.092
+earningsQuarterlyGrowth: 0.093
+earningsTimestamp: 1792510200
+earningsTimestampEnd: 1792510200
+earningsTimestampStart: 1792510200
+ebitda: 12083000320
+ebitdaMargins: 0.39905998
+enterpriseToEbitda: 11.392
+enterpriseToRevenue: 4.546
+enterpriseValue: 137649340416
+epsCurrentYear: 10.30237
+epsForward: 6.61
+epsTrailingTwelveMonths: 14.66
+esgPopulated: false
+exDividendDate: 1791763200
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 163.269
+fiftyDayAverageChange: -0.8690033
+fiftyDayAverageChangePercent: -0.005322525
+fiftyTwoWeekChangePercent: 7.6285243
+fiftyTwoWeekHigh: 198.3
+fiftyTwoWeekHighChange: -35.90001
+fiftyTwoWeekHighChangePercent: -0.18103887
+fiftyTwoWeekLow: 143.05
+fiftyTwoWeekLowChange: 19.34999
+fiftyTwoWeekLowChangePercent: 0.13526732
+fiftyTwoWeekRange: 143.05 - 198.3
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 5.5
+floatShares: 694140805
+forwardEps: 6.61
+forwardPE: 24.568834
+freeCashflow: 8422499840
+fullExchangeName: Stockholm
+fullTimeEmployees: 3711
+fulldayChange: 0.1499939
+fulldayChangePercent: 0.09244616
+fulldayPrice: 162.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.43344003
+grossProfits: 13123999744
+hasPrePostMarketData: false
+heldPercentInsiders: 0.24542
+heldPercentInstitutions: 0.48006
+impliedSharesOutstanding: 694578389
+industry: Telecom Services
+industryDisp: Telecom Services
+industryKey: telecom-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791763200
+lastDividendValue: 5.25
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1116460800
+lastSplitFactor: '4:1'
+longBusinessSummary: Tele2 AB (publ) provides fixed and mobile connectivity and entertainment
+  services in Sweden, Lithuania, Latvia, and Estonia. The company offers handset related
+  data services, linear and streaming services, mobile telephony and data, fixed broadband
+  and telephony, switch and contact center, cloud services, IT services, network services,
+  workplace, video and collaboration, united communications, and security services.
+  It also provides data network services, including dark fiber, dedicated wavelength,
+  ethernet and IP VPN, and internet services; and unified communications comprising
+  service provider, mobile virtual network operator, and carrier SIP-interconnect
+  services. In addition, the company offers single and dual IMSI solutions for consumer
+  and IoT applications; on-demand roaming services, such as subscription management,
+  data plan management, real time charging, eSIM delivery, SIM management, and set
+  up services; routing and termination solutions for international voice traffic;
+  application-2-person messaging services; and value-added services comprising shortcodes
+  and long numbers for businesses to have 2-way communication with their customers.
+  Tele2 AB (publ) was formerly known as NetCom AB and changed its name to Tele2 AB
+  (publ) in February 2001. The company was incorporated in 1990 and is headquartered
+  in Kista, Sweden.
+longName: Tele2 AB (publ)
+market: se_market
+marketCap: 112799522816
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_413889
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 10225999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 112696458767
+numberOfAnalystOpinions: 19
+open: 162.0
+operatingCashflow: 11891999744
+operatingMargins: 0.24654
+overallRisk: 7
+payoutRatio: 0.573
+pegRatio: 3.88
+phone: 46 8 56 20 00 60
+previousClose: 162.25
+priceEpsCurrentYear: 15.763363
+priceHint: 2
+priceToBook: 4.6461062
+priceToSalesTrailing12Months: 3.7253385
+profitMargins: 0.33796
+quickRatio: 0.721
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.66667
+region: US
+regularMarketChange: 0.1499939
+regularMarketChangePercent: 0.09244616
+regularMarketDayHigh: 163.0
+regularMarketDayLow: 161.9
+regularMarketDayRange: 161.9 - 163.0
+regularMarketOpen: 162.0
+regularMarketPreviousClose: 162.25
+regularMarketPrice: 162.4
+regularMarketTime: 1794412473
+regularMarketVolume: 273537
+returnOnAssets: 0.06933
+returnOnEquity: 0.45128
+revenueGrowth: 0.022
+revenuePerShare: 43.626
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 7
+sharesOutstanding: 690117779
+shortName: Tele2 AB ser. B
+sourceInterval: 15
+symbol: TEL2-B.ST
+targetHighPrice: 215.0
+targetLowPrice: 140.0
+targetMeanPrice: 172.33157
+targetMedianPrice: 170.0
+totalCash: 6103000064
+totalCashPerShare: 8.787
+totalDebt: 31057000448
+totalRevenue: 30279000064
+tradeable: false
+trailingAnnualDividendRate: 10.5
+trailingAnnualDividendYield: 0.064714946
+trailingEps: 14.66
+trailingPE: 11.077763
+trailingPegRatio: 3.916
+triggerable: true
+twoHundredDayAverage: 175.3205
+twoHundredDayAverageChange: -12.920502
+twoHundredDayAverageChangePercent: -0.07369647
+typeDisp: Equity
+volume: 273537
+website: https://www.tele2.com
+zip: 164 40

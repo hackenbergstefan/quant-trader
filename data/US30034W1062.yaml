@@ -1,0 +1,275 @@
+52WeekChange: 0.14352214
+SandP52WeekChange: 0.097798586
+address1: 1200 Main Street
+allTimeHigh: 89.66
+allTimeLow: 7.25
+ask: 92.39
+askSize: 1
+auditRisk: 6
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 3214930
+averageDailyVolume3Month: 2280259
+averageVolume: 2280259
+averageVolume10days: 3214930
+beta: 0.469
+bid: 83.6
+bidSize: 1
+boardRisk: 4
+bookValue: 46.948
+city: Kansas City
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David A. Campbell J.D.
+  title: CEO, President & Chairman of the Board
+  totalPay: 2532572
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. W. Bryan Buckler CPA
+  title: Executive VP & CFO
+  totalPay: 1367502
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Heather A. Humphrey J.D.
+  title: Senior VP, General Counsel & Corporate Secretary
+  totalPay: 973333
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles A. Caisley
+  title: Executive Vice President of Utility Operations & Chief Customer Officer
+  totalPay: 1047293
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Cleveland O. Reasoner III
+  title: Senior VP & Chief Nuclear Officer
+  totalPay: 1039236
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew B. Gummig
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1986
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles L. King
+  title: Senior VP & Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter Francis Flynn
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katie  McDonald
+  title: Vice President of Public Affairs
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lesley Lissette Elwell
+  title: Senior VP & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: EVRG announced a cash dividend of $0.723 with an ex-date of Nov. 20, 2026
+  meta:
+    amount: '0.723'
+    dateEpochMs: 1795150800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 88.31
+currentRatio: 0.491
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 88.41
+dayLow: 87.89
+debtToEquity: 146.623
+displayName: Evergy
+dividendDate: 1797552000
+dividendRate: 2.89
+dividendYield: 3.27
+earningsCallTimestampEnd: 1793887200
+earningsCallTimestampStart: 1793887200
+earningsGrowth: 0.276
+earningsQuarterlyGrowth: 0.29
+earningsTimestamp: 1793885400
+earningsTimestampEnd: 1793885400
+earningsTimestampStart: 1793885400
+ebitda: 3006400000
+ebitdaMargins: 0.47118
+enterpriseToEbitda: 12.307
+enterpriseToRevenue: 5.799
+enterpriseValue: 36998385664
+epsCurrentYear: 4.4
+epsForward: 4.5686
+epsTrailingTwelveMonths: 4.49
+esgPopulated: false
+exDividendDate: 1795132800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 82.0904
+fiftyDayAverageChange: 6.219597
+fiftyDayAverageChangePercent: 0.075765215
+fiftyTwoWeekChangePercent: 14.352215
+fiftyTwoWeekHigh: 89.66
+fiftyTwoWeekHighChange: -1.3500061
+fiftyTwoWeekHighChangePercent: -0.015056949
+fiftyTwoWeekLow: 71.41
+fiftyTwoWeekLowChange: 16.899994
+fiftyTwoWeekLowChangePercent: 0.23666143
+fiftyTwoWeekRange: 71.41 - 89.66
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 3.81
+floatShares: 233143611
+forwardEps: 4.5686
+forwardPE: 19.329771
+freeCashflow: -1466024960
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 4691
+fulldayChange: -0.13000488
+fulldayChangePercent: -0.14699782
+fulldayPrice: 88.31
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.52948004
+grossProfits: 3378400000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0018799999
+heldPercentInstitutions: 0.98175
+impliedSharesOutstanding: 234496657
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+ipoExpectedDate: '2022-12-28'
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787011200
+lastDividendValue: 0.695
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 548640000
+lastSplitFactor: '2:1'
+longBusinessSummary: Evergy, Inc., together with its subsidiaries, engages in the
+  generation, transmission, distribution, and sale of electricity in the United States.
+  The company generates electricity through coal, landfill gas, uranium, and natural
+  gas and oil sources, as well as solar, wind, and other renewable sources. It serves
+  residences, commercial firms, industrials, municipalities, and other electric utilities.
+  The company was incorporated in 2017 and is headquartered in Kansas City, Missouri.
+longName: Evergy, Inc.
+market: us_market
+marketCap: 20708399104
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_283024
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1063699968
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 20738884345
+numberOfAnalystOpinions: 14
+open: 88.11
+operatingCashflow: 2033200000
+operatingMargins: 0.27254
+overallRisk: 3
+payoutRatio: 0.6192
+pegRatio: 2.27
+phone: 816 556 2200
+previousClose: 88.44
+priceEpsCurrentYear: 20.070454
+priceHint: 2
+priceToBook: 1.8810172
+priceToSalesTrailing12Months: 3.2455254
+profitMargins: 0.16670999
+quickRatio: 0.126
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.8125
+region: US
+regularMarketChange: -0.13000488
+regularMarketChangePercent: -0.14699782
+regularMarketDayHigh: 88.41
+regularMarketDayLow: 87.89
+regularMarketDayRange: 87.89 - 88.41
+regularMarketOpen: 88.11
+regularMarketPreviousClose: 88.44
+regularMarketPrice: 88.31
+regularMarketTime: 1794413731
+regularMarketVolume: 456191
+returnOnAssets: 0.031159999
+returnOnEquity: 0.10058
+revenueGrowth: 0.158
+revenuePerShare: 27.637
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 4
+sharesOutstanding: 234496657
+sharesPercentSharesOut: 0.0744
+sharesShort: 17438246
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 18419732
+shortName: Evergy, Inc.
+shortPercentOfFloat: 0.0875
+shortRatio: 8.43
+sourceInterval: 15
+state: MO
+symbol: EVRG
+targetHighPrice: 100.0
+targetLowPrice: 80.0
+targetMeanPrice: 91.85714
+targetMedianPrice: 92.5
+totalCash: 18700000
+totalCashPerShare: 0.08
+totalDebt: 16222499840
+totalRevenue: 6380599808
+tradeable: false
+trailingAnnualDividendRate: 2.78
+trailingAnnualDividendYield: 0.03143374
+trailingEps: 4.49
+trailingPE: 19.668152
+trailingPegRatio: 2.271
+triggerable: true
+twoHundredDayAverage: 82.4354
+twoHundredDayAverageChange: 5.8745956
+twoHundredDayAverageChangePercent: 0.07126302
+typeDisp: Equity
+volume: 456191
+website: https://investors.evergy.com
+zip: '64105'

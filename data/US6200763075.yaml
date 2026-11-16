@@ -1,0 +1,287 @@
+52WeekChange: 0.34546006
+SandP52WeekChange: 0.097798586
+address1: 500 West Monroe Street
+allTimeHigh: 548.29
+allTimeLow: 0.808196
+ask: 527.82
+askSize: 40
+auditRisk: 1
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 1499850
+averageDailyVolume3Month: 994642
+averageVolume: 994642
+averageVolume10days: 1499850
+beta: 0.869
+bid: 527.12
+bidSize: 40
+boardRisk: 8
+bookValue: 18.544
+city: Chicago
+companyOfficers:
+- age: 65
+  exercisedValue: 83790664
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory Q. Brown
+  title: Chairman & CEO
+  totalPay: 6357305
+  unexercisedValue: 311808320
+  yearBorn: 1960
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason J. Winkler
+  title: Executive VP & CFO
+  totalPay: 2539408
+  unexercisedValue: 15617617
+  yearBorn: 1974
+- age: 53
+  exercisedValue: 10622859
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John P. Molloy
+  title: Executive VP & COO
+  totalPay: 2843615
+  unexercisedValue: 6686180
+  yearBorn: 1972
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Mahesh  Saptharishi Ph.D.
+  title: Executive VP & CTO
+  totalPay: 2469300
+  unexercisedValue: 19613212
+  yearBorn: 1978
+- age: 53
+  exercisedValue: 1369872
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Rajan S. Naik Ph.D.
+  title: Senior Vice President of Strategy & Ventures
+  totalPay: 1559814
+  unexercisedValue: 14678901
+  yearBorn: 1972
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katherine A. Maher
+  title: Corporate VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian  Piotrowski
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James A. Niewiara
+  title: Senior VP & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kathryn  Moore
+  title: Senior Vice President of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael D. Annes
+  title: Senior Vice President of Business Development
+  unexercisedValue: 0
+  yearBorn: 1964
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 527.765
+currentRatio: 1.097
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 530.75
+dayLow: 524.45
+debtToEquity: 345.593
+displayName: Motorola
+dividendDate: 1792022400
+dividendRate: 4.84
+dividendYield: 0.92
+earningsCallTimestampEnd: 1793829600
+earningsCallTimestampStart: 1793829600
+earningsGrowth: -0.081
+earningsQuarterlyGrowth: -0.089
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1793826000
+earningsTimestampStart: 1793826000
+ebitda: 3663000064
+ebitdaMargins: 0.29065
+enterpriseToEbitda: 26.509
+enterpriseToRevenue: 7.705
+enterpriseValue: 97101815808
+epsCurrentYear: 17.96855
+epsForward: 19.55001
+epsTrailingTwelveMonths: 12.43
+esgPopulated: false
+exDividendDate: 1789516800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 469.6238
+fiftyDayAverageChange: 58.141205
+fiftyDayAverageChangePercent: 0.12380379
+fiftyTwoWeekChangePercent: 34.546005
+fiftyTwoWeekHigh: 548.29
+fiftyTwoWeekHighChange: -20.524963
+fiftyTwoWeekHighChangePercent: -0.037434503
+fiftyTwoWeekLow: 359.36
+fiftyTwoWeekLowChange: 168.40503
+fiftyTwoWeekLowChangePercent: 0.4686249
+fiftyTwoWeekRange: 359.36 - 548.29
+financialCurrency: USD
+firstTradeDateMilliseconds: -252322200000
+fiveYearAvgDividendYield: 1.09
+floatShares: 164565137
+forwardEps: 19.55001
+forwardPE: 26.995638
+freeCashflow: 1906000000
+fullExchangeName: NYSE
+fullTimeEmployees: 23000
+fulldayChange: 0.38500977
+fulldayChangePercent: 0.07300424
+fulldayPrice: 527.765
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.5175
+grossProfits: 6521999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0039500003
+heldPercentInstitutions: 0.91595
+impliedSharesOutstanding: 165333940
+industry: Communication Equipment
+industryDisp: Communication Equipment
+industryKey: communication-equipment
+irWebsite: http://investors.motorolasolutions.com/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789516800
+lastDividendValue: 1.21
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1294099200
+lastSplitFactor: 10000:40425
+longBusinessSummary: Motorola Solutions, Inc. provides public safety, government,
+  defense, and enterprise security solutions in the United States, the United Kingdom,
+  Canada, and internationally. It operates in two segments, Products and Systems Integration,
+  and Software and Services. The Products and Systems Integration segment offers a
+  portfolio of infrastructure, devices, accessories, and the implementation and integration
+  of systems, devices, software, and applications for government, including defense,
+  public safety, and enterprise customers who operate private communications systems
+  and video security solutions, as well as manage a mobile workforce. This segment
+  also provides mission critical networks, and video security and access control technologies,
+  including two-way portable and vehicle-mounted radios, video cameras, and accessories;
+  communications network core and central processing software, base stations, consoles,
+  and repeaters; and video analytics, network video management hardware and software,
+  and access control solutions. The Software and Services segment offers public safety
+  and enterprise command center, unified communications applications, mobile video
+  equipment, and video software solutions; repair, technical support, and maintenance
+  services; and monitoring, software updates, and cybersecurity services to government,
+  public safety, and commercial communications networks. It serves hospitality; manufacturing;
+  military and defence; police; air transportation; fire and rescue; stadium; emergency
+  medical services; mining; oil and gas; transportation and logistics; utilities;
+  education; retail; and healthcare industries. The company was formerly known as
+  Motorola, Inc. and changed its name to Motorola Solutions, Inc. in January 2011.
+  Motorola Solutions, Inc. was founded in 1928 and is headquartered in Chicago, Illinois.
+longName: Motorola Solutions, Inc.
+market: us_market
+marketCap: 87257464832
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_99186
+mostRecentQuarter: 1790985600
+netIncomeToCommon: 2084000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 87193813277
+numberOfAnalystOpinions: 11
+open: 524.77
+operatingCashflow: 2838000128
+operatingMargins: 0.24430999
+overallRisk: 1
+payoutRatio: 0.38939998
+pegRatio: 2.31
+phone: 847 576 5000
+previousClose: 527.38
+priceEpsCurrentYear: 29.371597
+priceHint: 2
+priceToBook: 28.460148
+priceToSalesTrailing12Months: 6.9235473
+profitMargins: 0.16535999
+quickRatio: 0.778
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.64286
+region: US
+regularMarketChange: 0.38500977
+regularMarketChangePercent: 0.07300424
+regularMarketDayHigh: 530.75
+regularMarketDayLow: 524.45
+regularMarketDayRange: 524.45 - 530.75
+regularMarketOpen: 524.77
+regularMarketPreviousClose: 527.38
+regularMarketPrice: 527.765
+regularMarketTime: 1794413734
+regularMarketVolume: 184901
+returnOnAssets: 0.09636
+returnOnEquity: 0.7698
+revenueGrowth: 0.122
+revenuePerShare: 76.025
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 165333940
+sharesPercentSharesOut: 0.0215
+sharesShort: 3548171
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3225101
+shortName: Motorola Solutions, Inc.
+shortPercentOfFloat: 0.0249
+shortRatio: 4.05
+sourceInterval: 15
+state: IL
+symbol: MSI
+targetHighPrice: 598.0
+targetLowPrice: 476.0
+targetMeanPrice: 547.1818
+targetMedianPrice: 550.0
+totalCash: 774000000
+totalCashPerShare: 4.681
+totalDebt: 10664999936
+totalRevenue: 12602999808
+tradeable: false
+trailingAnnualDividendRate: 4.84
+trailingAnnualDividendYield: 0.009177444
+trailingEps: 12.43
+trailingPE: 42.45897
+trailingPegRatio: 2.3066
+triggerable: true
+twoHundredDayAverage: 443.48514
+twoHundredDayAverageChange: 84.27988
+twoHundredDayAverageChangePercent: 0.19003992
+typeDisp: Equity
+volume: 184901
+website: https://www.motorolasolutions.com
+zip: '60661'

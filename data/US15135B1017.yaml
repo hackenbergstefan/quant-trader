@@ -1,0 +1,266 @@
+52WeekChange: 0.9389503
+SandP52WeekChange: 0.097798586
+address1: Centene Plaza
+address2: 7700 Forsyth Boulevard
+allTimeHigh: 98.53
+allTimeLow: 1.189167
+ask: 70.63
+askSize: 200
+auditRisk: 2
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 6738450
+averageDailyVolume3Month: 4776046
+averageVolume: 4776046
+averageVolume10days: 6738450
+beta: 1.079
+bid: 70.53
+bidSize: 500
+boardRisk: 2
+bookValue: 44.865
+city: Saint Louis
+companyOfficers:
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sarah M. London
+  title: CEO & Director
+  totalPay: 3968565
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew Lynn Asher
+  title: Executive VP & CFO
+  totalPay: 2709957
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Susan R. Smith
+  title: Chief Operating Officer
+  totalPay: 1309301
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher Andrew Koster
+  title: Executive VP, General Counsel & Secretary
+  totalPay: 1397714
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tanya M. McNally
+  title: Senior VP & Chief People Officer
+  totalPay: 1204600
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Theodore Joseph Pienkos
+  title: Corporate Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bradley  Bolivar
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer Lynch Gilligan
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ashlee  Knuckey
+  title: Chief Risk, Ethics & Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Sara  Garland
+  title: Chief Communications Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 70.725
+currentRatio: 1.164
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 70.8099
+dayLow: 69.965
+debtToEquity: 69.673
+displayName: Centene
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793104200
+earningsCallTimestampStart: 1793104200
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1793104200
+earningsTimestampStart: 1793104200
+ebitda: 4691999744
+ebitdaMargins: 0.026010001
+enterpriseToEbitda: 5.713
+enterpriseToRevenue: 0.149
+enterpriseValue: 26804822016
+epsCurrentYear: 5.28339
+epsForward: 5.54508
+epsTrailingTwelveMonths: 2.91
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 66.849
+fiftyDayAverageChange: 3.8759995
+fiftyDayAverageChangePercent: 0.057981413
+fiftyTwoWeekChangePercent: 93.89503
+fiftyTwoWeekHigh: 78.08
+fiftyTwoWeekHighChange: -7.3550034
+fiftyTwoWeekHighChangePercent: -0.0941983
+fiftyTwoWeekLow: 31.63
+fiftyTwoWeekLowChange: 39.095
+fiftyTwoWeekLowChangePercent: 1.2360102
+fiftyTwoWeekRange: 31.63 - 78.08
+financialCurrency: USD
+firstTradeDateMilliseconds: 1008253800000
+floatShares: 464745085
+forwardEps: 5.54508
+forwardPE: 12.754549
+freeCashflow: 3082749952
+fullExchangeName: NYSE
+fullTimeEmployees: 61100
+fulldayChange: 0.53499603
+fulldayChangePercent: 0.76221114
+fulldayPrice: 70.725
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.113409996
+grossProfits: 20459999232
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0035299999
+heldPercentInstitutions: 1.04197
+impliedSharesOutstanding: 495068000
+industry: Healthcare Plans
+industryDisp: Healthcare Plans
+industryKey: healthcare-plans
+irWebsite: http://www.centene.com/investors/
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1549497600
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Centene Corporation operates as a managed care company that
+  provides programs and services to under-insured families, and commercial organizations
+  in the United States. It operates through four segments: Medicaid, Medicare, Commercial,
+  and Other. The Medicaid segment offers the temporary assistance for needy families;
+  medicaid expansion; aged, blind, or disabled; and children''s health insurance programs,
+  as well as long-term services and supports; foster care; and medicare-medicaid plans.
+  This segment also provides healthcare products and services. The Medicare segment
+  offers special needs and medicare supplement, and prescription drug plans. The Commercial
+  segment provides health insurance marketplace product for individual and commercial
+  group. The Other segment operates clinical healthcare and pharmacies, as well as
+  offers vision and dental, behavioral health, and centralized services. It provides
+  services through primary and specialty care physicians, hospitals, behavioral health
+  practitioners, and ancillary providers. The company was founded in 1984 and is headquartered
+  in Saint Louis, Missouri.'
+longName: Centene Corporation
+market: us_market
+marketCap: 35013685248
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_26273
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1460000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 34748822920
+numberOfAnalystOpinions: 18
+open: 70.33
+operatingCashflow: 4723999744
+operatingMargins: 0.019199999
+overallRisk: 1
+payoutRatio: 0.0
+pegRatio: 0.81
+phone: 314 725 4477
+previousClose: 70.19
+priceEpsCurrentYear: 13.3862915
+priceHint: 2
+priceToBook: 1.5763958
+priceToSalesTrailing12Months: 0.19407947
+profitMargins: 0.008090001
+quickRatio: 1.123
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.38095
+region: US
+regularMarketChange: 0.53499603
+regularMarketChangePercent: 0.76221114
+regularMarketDayHigh: 70.8099
+regularMarketDayLow: 69.965
+regularMarketDayRange: 69.965 - 70.8099
+regularMarketOpen: 70.33
+regularMarketPreviousClose: 70.19
+regularMarketPrice: 70.725
+regularMarketTime: 1794413696
+regularMarketVolume: 621588
+returnOnAssets: 0.02683
+returnOnEquity: 0.067389995
+revenueGrowth: 0.002
+revenuePerShare: 366.018
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 495068000
+sharesPercentSharesOut: 0.0212
+sharesShort: 10506217
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 10512889
+shortName: Centene Corporation
+shortPercentOfFloat: 0.024300002
+shortRatio: 2.24
+sourceInterval: 15
+state: MO
+symbol: CNC
+targetHighPrice: 87.0
+targetLowPrice: 62.0
+targetMeanPrice: 75.38889
+targetMedianPrice: 75.0
+totalCash: 23586000896
+totalCashPerShare: 47.642
+totalDebt: 15541999616
+totalRevenue: 180409008128
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 2.91
+trailingPE: 24.304123
+trailingPegRatio: 0.8073
+triggerable: true
+twoHundredDayAverage: 56.20575
+twoHundredDayAverageChange: 14.519249
+twoHundredDayAverageChangePercent: 0.2583232
+typeDisp: Equity
+volume: 621588
+website: https://www.centene.com
+zip: '63105'

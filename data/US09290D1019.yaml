@@ -1,0 +1,294 @@
+52WeekChange: 0.11721039
+SandP52WeekChange: 0.097798586
+address1: 50 Hudson Yards
+allTimeHigh: 1242.12
+allTimeLow: 12.5
+ask: 1228.04
+askSize: 30
+auditRisk: 3
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 701130
+averageDailyVolume3Month: 608756
+averageVolume: 608756
+averageVolume10days: 701130
+beta: 1.382
+bid: 1227.46
+bidSize: 30
+boardRisk: 6
+bookValue: 375.994
+city: New York
+companyOfficers:
+- age: 73
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Laurence Douglas Fink
+  title: Founder, CEO & Chairman
+  totalPay: 13149385
+  unexercisedValue: 0
+  yearBorn: 1952
+- age: 69
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert Steven Kapito
+  title: President & Member of Board of Directors
+  totalPay: 8642500
+  unexercisedValue: 0
+  yearBorn: 1956
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin S. Small
+  title: Senior MD, CFO & Global Head of Corporate Strategy
+  totalPay: 5774350
+  unexercisedValue: 15060851
+  yearBorn: 1976
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert Lawrence Goldstein
+  title: Senior MD & COO
+  totalPay: 5814205
+  unexercisedValue: 30175160
+  yearBorn: 1974
+- exercisedValue: 24951468
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. J. Richard Kushel
+  title: Senior MD & Head of the Portfolio Management Group
+  totalPay: 4188855
+  unexercisedValue: 11136800
+- age: 71
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adebayo O. Ogunlesi J.D.
+  title: Chairman & CEO Global Infrastructure Partners, Senior MD & Member of Board
+    of Director
+  totalPay: 4038215
+  unexercisedValue: 0
+  yearBorn: 1954
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Bennett W. Golub Ph.D.
+  title: Co-Founder
+  unexercisedValue: 0
+  yearBorn: 1958
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark R. McKenna
+  title: Founder, MD, Global Head of Event Driven Equity Strategies & Portfolio Manager
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Raj  Rao
+  title: President, COO of Global Infrastructure Partners, Founding Partner & Senior
+    MD
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scot  French
+  title: Founding Partner, Senior MD & Co-President of HPS
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 1226.91
+currentRatio: 2.575
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 1236.93
+dayLow: 1220.95
+debtToEquity: 22.11
+displayName: BlackRock
+dividendDate: 1790035200
+dividendRate: 22.92
+dividendYield: 1.88
+earningsCallTimestampEnd: 1791977400
+earningsCallTimestampStart: 1791977400
+earningsGrowth: 0.254
+earningsQuarterlyGrowth: 0.254
+earningsTimestamp: 1791981000
+earningsTimestampEnd: 1799933400
+earningsTimestampStart: 1799933400
+ebitda: 12001999872
+ebitdaMargins: 0.42049998
+enterpriseToEbitda: 16.429
+enterpriseToRevenue: 6.908
+enterpriseValue: 197177589760
+epsCurrentYear: 57.84536
+epsForward: 64.82092
+epsTrailingTwelveMonths: 43.92
+esgPopulated: false
+exDividendDate: 1788825600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 1107.2524
+fiftyDayAverageChange: 119.65759
+fiftyDayAverageChangePercent: 0.10806713
+fiftyTwoWeekChangePercent: 11.721039
+fiftyTwoWeekHigh: 1242.12
+fiftyTwoWeekHighChange: -15.209961
+fiftyTwoWeekHighChangePercent: -0.012245162
+fiftyTwoWeekLow: 917.39
+fiftyTwoWeekLowChange: 309.52002
+fiftyTwoWeekLowChangePercent: 0.33739197
+fiftyTwoWeekRange: 917.39 - 1242.12
+financialCurrency: USD
+firstTradeDateMilliseconds: 938784600000
+fiveYearAvgDividendYield: 2.3
+floatShares: 143366704
+forwardEps: 64.82092
+forwardPE: 18.927685
+freeCashflow: 8455499776
+fullExchangeName: NYSE
+fullTimeEmployees: 26000
+fulldayChange: 4.76001
+fulldayChangePercent: 0.38947836
+fulldayPrice: 1226.91
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.48283002
+grossProfits: 13781000192
+hasPrePostMarketData: true
+heldPercentInsiders: 0.01928
+heldPercentInstitutions: 0.85594004
+impliedSharesOutstanding: 154423421
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788825600
+lastDividendValue: 5.73
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: BlackRock, Inc. is a publicly owned investment manager. The firm
+  primarily provides its services to institutional, intermediary, and individual investors
+  including corporate, public, union, and industry pension plans, insurance companies,
+  third-party mutual funds, endowments, public institutions, governments, foundations,
+  charities, sovereign wealth funds, corporations, official institutions, and banks.
+  It also provides global risk management and advisory services. The firm manages
+  separate client-focused equity, fixed income, and balanced portfolios. It also launches
+  and manages open-end and closed-end mutual funds, offshore funds, unit trusts, and
+  alternative investment vehicles including structured funds. The firm launches equity,
+  fixed income, balanced, and real estate mutual funds. It also launches equity, fixed
+  income, balanced, currency, commodity, and multi-asset exchange traded funds. The
+  firm also launches and manages hedge funds. It invests in the public equity, fixed
+  income, real estate, currency, commodity, and alternative markets across the globe.
+  The firm primarily invests in growth and value stocks of small-cap, mid-cap, SMID-cap,
+  large-cap, and multi-cap companies. It also invests in dividend-paying equity securities.
+  The firm invests in investment grade municipal securities, government securities
+  including securities issued or guaranteed by a government or a government agency
+  or instrumentality, corporate bonds, and asset-backed and mortgage-backed securities.
+  It employs fundamental and quantitative analysis with a focus on bottom-up and top-down
+  approach to make its investments. The firm employs liquidity, asset allocation,
+  balanced, real estate, and alternative strategies to make its investments. In real
+  estate sector, it seeks to invest in Poland and Germany. The firm benchmarks the
+  performance of its portfolios against various S&P, Russell, Barclays, MSCI, Citigroup,
+  and Merrill Lynch indices. BlackRock, Inc. was founded in 1988 and is based in New
+  York, New York with additional offices in Atlanta, Georgia; Boston, Massachusetts;
+  Chicago, Illinois; Dallas, Texas; Denver, Colorado; Greenwich, Connecticut; Houston,
+  Texas; Miami, Florida; Newport Beach, California; Palo Alto, California; Philadelphia,
+  Pennsylvania; Princeton, New Jersey; San Francisco, California; Santa Monica, California;
+  Seattle, Washington; Washington, DC; West Palm Beach, Florida; Wilmington, Delaware;
+  Mexico; Canada; South Africa; Netherlands; Greece; Serbia; Belgium; Hungary; Denmark;
+  Ireland; Scotland; Germany; Switzerland; England; Luxembourg; Spain; Italy; France;
+  Sweden; Austria; India; China; Australia; Hong Kong; South Korea; Singapore; Taiwan;
+  Japan; Colombia; Argentina; Peru; Chile; Brazil; UAE; Saudi Arabia; Israel.
+longName: BlackRock, Inc.
+market: us_market
+marketCap: 189463642112
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_403413
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 6912000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 188728583975
+numberOfAnalystOpinions: 17
+open: 1230.59
+operatingCashflow: 5230000128
+operatingMargins: 0.36725
+overallRisk: 8
+payoutRatio: 0.51
+pegRatio: 1.01
+phone: 212 810 5300
+previousClose: 1222.15
+priceEpsCurrentYear: 21.210173
+priceHint: 2
+priceToBook: 3.2631109
+priceToSalesTrailing12Months: 6.638065
+profitMargins: 0.24216999
+quickRatio: 2.055
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.38889
+region: US
+regularMarketChange: 4.76001
+regularMarketChangePercent: 0.38947836
+regularMarketDayHigh: 1236.93
+regularMarketDayLow: 1220.95
+regularMarketDayRange: 1220.95 - 1236.93
+regularMarketOpen: 1230.59
+regularMarketPreviousClose: 1222.15
+regularMarketPrice: 1226.91
+regularMarketTime: 1794413733
+regularMarketVolume: 116679
+returnOnAssets: 0.03847
+returnOnEquity: 0.11607
+revenueGrowth: 0.191
+revenuePerShare: 183.983
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 154423421
+sharesPercentSharesOut: 0.0137
+sharesShort: 2124564
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2040215
+shortName: BlackRock, Inc.
+shortPercentOfFloat: 0.0139999995
+shortRatio: 3.17
+sourceInterval: 15
+state: NY
+symbol: BLK
+targetHighPrice: 1531.0
+targetLowPrice: 1250.0
+targetMeanPrice: 1361.0588
+targetMedianPrice: 1350.0
+totalCash: 16179999744
+totalCashPerShare: 104.777
+totalDebt: 14984999936
+totalRevenue: 28541999104
+tradeable: false
+trailingAnnualDividendRate: 22.4
+trailingAnnualDividendYield: 0.018328356
+trailingEps: 43.92
+trailingPE: 27.935112
+trailingPegRatio: 1.0071
+triggerable: true
+twoHundredDayAverage: 1065.6047
+twoHundredDayAverageChange: 161.3053
+twoHundredDayAverageChangePercent: 0.15137441
+typeDisp: Equity
+volume: 116679
+website: https://www.blackrock.com
+zip: '10001'

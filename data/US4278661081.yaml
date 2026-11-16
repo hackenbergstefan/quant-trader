@@ -1,0 +1,288 @@
+52WeekChange: -0.024178147
+SandP52WeekChange: 0.097798586
+address1: 19 East Chocolate Avenue
+allTimeHigh: 276.88
+allTimeLow: 0.833333
+ask: 173.17
+askSize: 200
+auditRisk: 7
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 2168720
+averageDailyVolume3Month: 1504587
+averageVolume: 1504587
+averageVolume10days: 2168720
+beta: 0.068
+bid: 172.79
+bidSize: 200
+boardRisk: 7
+bookValue: 24.261
+city: Hershey
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kirk C. Tanner
+  title: President, CEO & Director
+  totalPay: 2907359
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Deepak  Bhatia
+  title: Chief Technology Officer
+  totalPay: 2161898
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven E. Voskuil
+  title: Senior Vice President of Strategic Projects
+  totalPay: 2350562
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason R. Reiman
+  title: Senior Vice President of Supply Chain Modernization
+  totalPay: 2048794
+  unexercisedValue: 286049
+  yearBorn: 1972
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dave  Hulays
+  title: Senior VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer L. McCalman
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anoori  Naughton
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James  Turoff
+  title: Senior VP, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stacy  Taffet
+  title: Chief Growth & Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Natalie Rothman S. Schechtman J.D.
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions:
+- header: Dividend
+  message: HSY announced a cash dividend of $1.452 with an ex-date of Nov. 16, 2026
+  meta:
+    amount: '1.452'
+    dateEpochMs: 1794805200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 173.43
+currentRatio: 1.238
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 174.95
+dayLow: 171.58
+debtToEquity: 111.37
+displayName: Hershey
+dividendDate: 1797292800
+dividendRate: 5.81
+dividendYield: 3.34
+earningsCallTimestampEnd: 1793277000
+earningsCallTimestampStart: 1793277000
+earningsGrowth: 1.118
+earningsQuarterlyGrowth: 1.102
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 3136112896
+ebitdaMargins: 0.25584
+enterpriseToEbitda: 12.663
+enterpriseToRevenue: 3.24
+enterpriseValue: 39713951744
+epsCurrentYear: 8.65549
+epsForward: 9.47827
+epsTrailingTwelveMonths: 8.84
+esgPopulated: false
+exDividendDate: 1794787200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 717 534 7464
+fiftyDayAverage: 168.3026
+fiftyDayAverageChange: 5.1273956
+fiftyDayAverageChangePercent: 0.030465338
+fiftyTwoWeekChangePercent: -2.4178147
+fiftyTwoWeekHigh: 239.48
+fiftyTwoWeekHighChange: -66.05
+fiftyTwoWeekHighChangePercent: -0.27580592
+fiftyTwoWeekLow: 156.16
+fiftyTwoWeekLowChange: 17.269989
+fiftyTwoWeekLowChangePercent: 0.11059163
+fiftyTwoWeekRange: 156.16 - 239.48
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 2.26
+floatShares: 90565783
+forwardEps: 9.47827
+forwardPE: 18.297644
+freeCashflow: 1671246720
+fullExchangeName: NYSE
+fullTimeEmployees: 17550
+fulldayChange: -0.5200043
+fulldayChangePercent: -0.29893893
+fulldayPrice: 173.43
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.41949
+grossProfits: 5142166016
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0031299999
+heldPercentInstitutions: 0.90029
+impliedSharesOutstanding: 200980389
+industry: Confectioners
+industryDisp: Confectioners
+industryKey: confectioners
+irWebsite: http://www.thehersheycompany.com/investors.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 1.452
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1087344000
+lastSplitFactor: '2:1'
+longBusinessSummary: 'The Hershey Company, together with its subsidiaries, engages
+  in the manufacture and sale of confectionery products and pantry items in the United
+  States and internationally. It operates through three segments: North America Confectionery,
+  North America Salty Snacks, and International. The company offers chocolate and
+  non-chocolate confectionery products; gum and mint refreshment products, including
+  mints, chewing gums, and bubble gums; protein bars; pantry items, such as baking
+  ingredients, toppings, beverages, and sundae syrups; and snack items comprising
+  spreads, bars, snack bites, mixes, popcorn, and pretzels. It provides its products
+  primarily under the Hershey''s, Reese''s, Kisses, Jolly Rancher, Almond Joy, Brookside,
+  barkTHINS, Cadbury, Good & Plenty, Heath, Kit Kat, Payday, Rolo, Twizzlers, Sour
+  Strips, Whoppers, York, Ice Breakers, Breath Savers, Bubble Yum, Lily''s, SkinnyPop,
+  Pirates Booty, Dot''s Homestyle Pretzels, and ONE Bar brands, as well as under the
+  Pelon Pelo Rico, IO-IO, and Sofit brands. The company markets and sells its products
+  to wholesale distributors, chain grocery stores, mass merchandisers, chain drug
+  stores, vending companies, wholesale clubs, convenience stores, dollar stores, concessionaires,
+  and department stores. It exports its products in approximately 65 countries worldwide.
+  The Hershey Company was founded in 1894 and is based in Hershey, Pennsylvania.'
+longName: The Hershey Company
+market: us_market
+marketCap: 34856026112
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_98873
+mostRecentQuarter: 1790467200
+netIncomeToCommon: 1793601024
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 34960538666
+numberOfAnalystOpinions: 21
+open: 171.58
+operatingCashflow: 2565356032
+operatingMargins: 0.21195999
+overallRisk: 10
+payoutRatio: 0.64769995
+pegRatio: 0.86
+phone: 717 534 4200
+previousClose: 173.95
+priceEpsCurrentYear: 20.036993
+priceHint: 2
+priceToBook: 7.14851
+priceToSalesTrailing12Months: 2.8435318
+profitMargins: 0.14632
+quickRatio: 0.574
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.56522
+region: US
+regularMarketChange: -0.5200043
+regularMarketChangePercent: -0.29893893
+regularMarketDayHigh: 174.95
+regularMarketDayLow: 171.58
+regularMarketDayRange: 171.58 - 174.95
+regularMarketOpen: 171.58
+regularMarketPreviousClose: 173.95
+regularMarketPrice: 173.43
+regularMarketTime: 1794413698
+regularMarketVolume: 1264022
+returnOnAssets: 0.118219994
+returnOnEquity: 0.37999
+revenueGrowth: 0.03
+revenuePerShare: 60.581
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 10
+sharesOutstanding: 146366875
+sharesPercentSharesOut: 0.0476
+sharesShort: 9574518
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8965719
+shortName: The Hershey Company
+shortPercentOfFloat: 0.0767
+shortRatio: 5.84
+sourceInterval: 15
+state: PA
+symbol: HSY
+targetHighPrice: 230.0
+targetLowPrice: 154.0
+targetMeanPrice: 180.90475
+targetMedianPrice: 173.0
+totalCash: 676688000
+totalCashPerShare: 3.367
+totalDebt: 5430100992
+totalRevenue: 12258003968
+tradeable: false
+trailingAnnualDividendRate: 5.726
+trailingAnnualDividendYield: 0.032917503
+trailingEps: 8.84
+trailingPE: 19.618776
+trailingPegRatio: 0.8637
+triggerable: true
+twoHundredDayAverage: 188.1452
+twoHundredDayAverageChange: -14.71521
+twoHundredDayAverageChangePercent: -0.078211986
+typeDisp: Equity
+volume: 1264022
+website: https://www.thehersheycompany.com
+zip: '17033'

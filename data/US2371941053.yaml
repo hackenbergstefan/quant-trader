@@ -1,0 +1,270 @@
+52WeekChange: 0.30164516
+SandP52WeekChange: 0.097798586
+address1: 1000 Darden Center Drive
+allTimeHigh: 233.98
+allTimeLow: 4.02255
+ask: 225.82
+askSize: 200
+auditRisk: 3
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 918610
+averageDailyVolume3Month: 1096400
+averageVolume: 1096400
+averageVolume10days: 918610
+beta: 0.634
+bid: 225.26
+bidSize: 100
+boardRisk: 2
+bookValue: 18.256
+city: Orlando
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Ricardo  Cardenas CPA
+  title: CEO, President & Director
+  totalPay: 6556731
+  unexercisedValue: 6301103
+  yearBorn: 1968
+- age: 51
+  exercisedValue: 286666
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Rajesh  Vennam
+  title: Senior VP & CFO
+  totalPay: 2388127
+  unexercisedValue: 912321
+  yearBorn: 1974
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Sarah H. King
+  title: Senior VP & Chief People Officer
+  totalPay: 1731823
+  unexercisedValue: 2300761
+  yearBorn: 1970
+- age: 62
+  exercisedValue: 1887855
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Todd A. Burrowes
+  title: President of Business Development
+  totalPay: 2415494
+  unexercisedValue: 1836751
+  yearBorn: 1963
+- age: 64
+  exercisedValue: 2061059
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. John Melvin Martin
+  title: President of Specialty Restaurant Group
+  totalPay: 2421611
+  unexercisedValue: 822791
+  yearBorn: 1961
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Christopher  Chang
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Courtney  Aquilla
+  title: Vice President of Finance & Investor Relations
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Lindsay L. Koren
+  title: Senior VP, General Counsel, Chief Compliance Officer & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Susan M. Connelly
+  title: Senior VP and Chief Communications & Public Affairs Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Douglas J. Milanes
+  title: Senior VP & Chief Supply Chain Officer
+  unexercisedValue: 0
+  yearBorn: 1963
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 226.45
+currentRatio: 0.298
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 228.31
+dayLow: 225.02
+debtToEquity: 415.302
+displayName: Darden Restaurants
+dividendDate: 1793577600
+dividendRate: 6.48
+dividendYield: 2.83
+earningsCallTimestampEnd: 1790253000
+earningsCallTimestampStart: 1790253000
+earningsGrowth: -0.067
+earningsQuarterlyGrowth: -0.095
+earningsTimestamp: 1797600600
+earningsTimestampEnd: 1797600600
+earningsTimestampStart: 1797600600
+ebitda: 2142300032
+ebitdaMargins: 0.16027
+enterpriseToEbitda: 15.983
+enterpriseToRevenue: 2.562
+enterpriseValue: 34240929792
+epsCurrentYear: 11.26805
+epsForward: 12.39594
+epsTrailingTwelveMonths: 10.3
+esgPopulated: false
+exDividendDate: 1791504000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 211.7408
+fiftyDayAverageChange: 14.709198
+fiftyDayAverageChangePercent: 0.06946795
+fiftyTwoWeekChangePercent: 30.164516
+fiftyTwoWeekHigh: 233.98
+fiftyTwoWeekHighChange: -7.529999
+fiftyTwoWeekHighChangePercent: -0.03218223
+fiftyTwoWeekLow: 169.0
+fiftyTwoWeekLowChange: 57.449997
+fiftyTwoWeekLowChangePercent: 0.33994082
+fiftyTwoWeekRange: 169.0 - 233.98
+financialCurrency: USD
+firstTradeDateMilliseconds: 800026200000
+fiveYearAvgDividendYield: 3.09
+floatShares: 112628422
+forwardEps: 12.39594
+forwardPE: 18.268078
+freeCashflow: 794787520
+fullExchangeName: NYSE
+fullTimeEmployees: 209931
+fulldayChange: -2.2100067
+fulldayChangePercent: -0.9665034
+fulldayPrice: 226.45
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.21659
+grossProfits: 2895099904
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00301
+heldPercentInstitutions: 1.01818
+impliedSharesOutstanding: 113143224
+industry: Restaurants
+industryDisp: Restaurants
+industryKey: restaurants
+irWebsite: http://investor.darden.com/investors/investor-relations/default.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791504000
+lastDividendValue: 1.62
+lastFiscalYearEnd: 1780185600
+lastSplitDate: 1447113600
+lastSplitFactor: 10000:8939
+longBusinessSummary: Darden Restaurants, Inc., together with its subsidiaries, owns
+  and operates full-service restaurants in the United States and Canada. The company
+  operates under Olive Garden, LongHorn Steakhouse, Cheddar's Scratch Kitchen, Chuy's,
+  Yard House, Ruth's Chris Steak House, The Capital Grille, Seasons 52, Eddie V's
+  Prime Seafood, Bahama Breeze, The Capital Burger, Darden and Darden Restaurants
+  brand names. Darden Restaurants, Inc. was founded in 1938 and is based in Orlando,
+  Florida.
+longName: Darden Restaurants, Inc.
+market: us_market
+marketCap: 25621282816
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_336160
+mostRecentQuarter: 1788048000
+netIncomeToCommon: 1190099968
+nextFiscalYearEnd: 1811721600
+nonDilutedMarketCap: 25871329599
+numberOfAnalystOpinions: 25
+open: 226.66
+operatingCashflow: 1782499968
+operatingMargins: 0.11898
+overallRisk: 1
+payoutRatio: 0.59419996
+pegRatio: 2.35
+phone: 407 245 4000
+previousClose: 228.66
+priceEpsCurrentYear: 20.096643
+priceHint: 2
+priceToBook: 12.40414
+priceToSalesTrailing12Months: 1.916828
+profitMargins: 0.08845
+quickRatio: 0.106
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.82143
+region: US
+regularMarketChange: -2.2100067
+regularMarketChangePercent: -0.9665034
+regularMarketDayHigh: 228.31
+regularMarketDayLow: 225.02
+regularMarketDayRange: 225.02 - 228.31
+regularMarketOpen: 226.66
+regularMarketPreviousClose: 228.66
+regularMarketPrice: 226.45
+regularMarketTime: 1794413695
+regularMarketVolume: 130113
+returnOnAssets: 0.0765
+returnOnEquity: 0.55431
+revenueGrowth: 0.051
+revenuePerShare: 116.509
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 113143224
+sharesPercentSharesOut: 0.0654
+sharesShort: 7396896
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 6751776
+shortName: Darden Restaurants, Inc.
+shortPercentOfFloat: 0.0879
+shortRatio: 7.17
+sourceInterval: 15
+state: FL
+symbol: DRI
+targetHighPrice: 276.0
+targetLowPrice: 163.0
+targetMeanPrice: 233.44
+targetMedianPrice: 235.0
+totalCash: 220500000
+totalCashPerShare: 1.949
+totalDebt: 8590100480
+totalRevenue: 13366500352
+tradeable: false
+trailingAnnualDividendRate: 6.12
+trailingAnnualDividendYield: 0.026764628
+trailingEps: 10.3
+trailingPE: 21.985435
+trailingPegRatio: 2.3488
+triggerable: true
+twoHundredDayAverage: 206.38225
+twoHundredDayAverageChange: 20.067749
+twoHundredDayAverageChangePercent: 0.09723583
+typeDisp: Equity
+volume: 130113
+website: https://www.darden.com
+zip: '32837'

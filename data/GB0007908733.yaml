@@ -1,0 +1,257 @@
+52WeekChange: 0.1573472
+SandP52WeekChange: 0.097798586
+address1: Inveralmond House
+address2: 200 Dunkeld Road
+allTimeHigh: 2767.5
+allTimeLow: 218.0
+ask: 2677.0
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 2192357
+averageDailyVolume3Month: 2393851
+averageVolume: 2393851
+averageVolume10days: 2192357
+beta: 0.534
+bid: 2676.0
+bidSize: 0
+boardRisk: 1
+bookValue: 10.5
+city: Perth
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Martin James Pibworth
+  title: Chief Executive & Executive Director
+  totalPay: 3803000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Barry  O'regan
+  title: CFO & Executive Director
+  totalPay: 1794000
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Elizabeth Anne Tanner
+  title: Group General Counsel & Company Secretary
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. John  Stewart
+  title: Director of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Robert  McDonald
+  title: Managing Director of SSEN Transmission
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Samuel John Peacock
+  title: Managing Director of Corporate Affairs, Regulation & Strategy
+  unexercisedValue: 0
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Finlay  McCutcheon
+  title: Managing Director of SSE Thermal
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Christopher Derek Dyne Burchell
+  title: Managing Director of SSEN Distribution
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Stephen  Wheeler
+  title: Managing Director of SSE Renewables
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Nicola Karen Flanders
+  title: Managing Director of Energy Customer Solutions
+  unexercisedValue: 0
+  yearBorn: 1978
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 2678.0
+currentRatio: 1.199
+customPriceAlertConfidence: LOW
+dayHigh: 2695.0
+dayLow: 2663.0
+debtToEquity: 62.01
+dividendRate: 0.69
+dividendYield: 2.57
+earningsCallTimestampEnd: 1794985200
+earningsCallTimestampStart: 1794985200
+earningsGrowth: 0.278
+earningsQuarterlyGrowth: 0.374
+earningsTimestamp: 1795019400
+earningsTimestampEnd: 1795019400
+earningsTimestampStart: 1795019400
+ebitda: 2722099968
+ebitdaMargins: 0.26723
+enterpriseToEbitda: 15.276
+enterpriseToRevenue: 4.082
+enterpriseValue: 41581969408
+epsCurrentYear: 1.83986
+epsForward: 2.11295
+epsTrailingTwelveMonths: 1.05
+esgPopulated: false
+exDividendDate: 1784764800
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 2491.76
+fiftyDayAverageChange: 186.23999
+fiftyDayAverageChangePercent: 0.07474235
+fiftyTwoWeekChangePercent: 15.73472
+fiftyTwoWeekHigh: 2767.5
+fiftyTwoWeekHighChange: -89.5
+fiftyTwoWeekHighChangePercent: -0.03233966
+fiftyTwoWeekLow: 2050.0
+fiftyTwoWeekLowChange: 628.0
+fiftyTwoWeekLowChangePercent: 0.30634147
+fiftyTwoWeekRange: 2050.0 - 2767.5
+financialCurrency: GBP
+firstTradeDateMilliseconds: 677142000000
+fiveYearAvgDividendYield: 3.94
+floatShares: 1193568621
+forwardEps: 2.11295
+forwardPE: 12.674222
+freeCashflow: -2258637568
+fullExchangeName: LSE
+fullTimeEmployees: 15197
+fulldayChange: 8.0
+fulldayChangePercent: 0.29962546
+fulldayPrice: 2678.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.37050998
+grossProfits: 3774200064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00105
+heldPercentInstitutions: 0.7503
+impliedSharesOutstanding: 1213799664
+industry: Utilities - Diversified
+industryDisp: Utilities - Diversified
+industryKey: utilities-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1784764800
+lastDividendValue: 0.473
+lastFiscalYearEnd: 1774915200
+longBusinessSummary: SSE plc engages in the generation, transmission, distribution,
+  and supply of electricity. The company distributes electricity to approximately
+  4 million homes and businesses in southern central England and the north of Scotland;
+  and owns, develops, and operates the high voltage electricity transmission system
+  in the north of Scotland and other areas. Its diversified portfolio includes onshore
+  and offshore wind farms, hydro-electric power, and batteries, flexible thermal generation,
+  and electricity transmission and distribution networks. In addition, the company
+  provides energy products and services; and invests in, develops, builds, and operates
+  electricity infrastructure and businesses. The company was formerly known as Scottish
+  and Southern Energy plc and changed its name to SSE plc in September 2011. SSE plc
+  was incorporated in 1989 and is based in Perth, the United Kingdom.
+longName: SSE plc
+market: gb_market
+marketCap: 32505554944
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_877219
+mostRecentQuarter: 1774915200
+netIncomeToCommon: 1208700032
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 32408451028
+numberOfAnalystOpinions: 17
+open: 2687.0
+operatingCashflow: 3435200000
+operatingMargins: 0.20141001
+overallRisk: 1
+payoutRatio: 0.611
+pegRatio: 0.82
+phone: 44 17 3845 6000
+previousClose: 2670.0
+priceEpsCurrentYear: 1455.5455
+priceHint: 2
+priceToBook: 2.5504763
+priceToSalesTrailing12Months: 3.1910424
+profitMargins: 0.11866
+quickRatio: 0.695
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.88235
+region: US
+regularMarketChange: 8.0
+regularMarketChangePercent: 0.29962546
+regularMarketDayHigh: 2695.0
+regularMarketDayLow: 2663.0
+regularMarketDayRange: 2663.0 - 2695.0
+regularMarketOpen: 2687.0
+regularMarketPreviousClose: 2670.0
+regularMarketPrice: 2678.0
+regularMarketTime: 1794411579
+regularMarketVolume: 396510
+returnOnAssets: 0.03903
+returnOnEquity: 0.097040005
+revenueGrowth: -0.021
+revenuePerShare: 8.893
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 1
+sharesOutstanding: 1213799664
+shortName: SSE PLC ORD 50P
+sourceInterval: 15
+symbol: SSE.L
+targetHighPrice: 3060.0
+targetLowPrice: 2036.0
+targetMeanPrice: 2764.353
+targetMedianPrice: 2850.0
+totalCash: 1542899968
+totalCashPerShare: 1.279
+totalDebt: 10170399744
+totalRevenue: 10186500096
+tradeable: false
+trailingAnnualDividendRate: 0.687
+trailingAnnualDividendYield: 0.00025730336
+trailingEps: 1.05
+trailingPE: 25.504765
+trailingPegRatio: 0.8165
+triggerable: false
+twoHundredDayAverage: 2497.8591
+twoHundredDayAverageChange: 180.14087
+twoHundredDayAverageChangePercent: 0.0721181
+typeDisp: Equity
+volume: 396510
+website: https://www.sse.com
+zip: PH1 3AQ

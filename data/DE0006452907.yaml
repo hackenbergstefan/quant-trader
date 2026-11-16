@@ -1,0 +1,266 @@
+52WeekChange: -0.31119442
+SandP52WeekChange: 0.097798586
+address1: Konrad-Zuse-Platz 1
+allTimeHigh: 138.5
+allTimeLow: 0.091666
+ask: 64.4
+askSize: 66
+auditRisk: 1
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 250413
+averageDailyVolume3Month: 240147
+averageVolume: 240147
+averageVolume10days: 250413
+beta: 0.641
+bid: 64.3
+bidSize: 76
+boardRisk: 7
+bookValue: 18.561
+city: Munich
+companyOfficers:
+- age: 49
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Yves  Padrines
+  title: CEO & Chairman of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 91
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Prof. Georg  Nemetschek
+  title: Founder & Honorary Chairman of the Supervisory Board
+  totalPay: 82000
+  unexercisedValue: 0
+  yearBorn: 1934
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Ms. Eva Louise Helen Ofverstrom
+  title: CFO & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Usman K. Shuja
+  title: CDO of Build & Construct, CEO of Bluebeam and Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Ms. Stefanie  Zimmermann CEFA
+  title: Senior Vice President of Investor Relations & Corporate Communication
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Ms. Susanne  Kindler
+  title: Chief People & Transformation Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Marc  Nezet
+  title: Chief Division Officer Operate & Manage and Chief Strategy Officer
+  unexercisedValue: 0
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Sunil  Pandita
+  title: Chief Division Officer of Planning & Design and Digital Twin Business Unit
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Alok  Sharma
+  title: MD & VP for India
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. David  McGavran
+  title: Chief Executive Officer of Maxon
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1672444800
+compensationRisk: 10
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 64.3
+currentRatio: 0.672
+customPriceAlertConfidence: LOW
+dayHigh: 65.2
+dayLow: 63.25
+debtToEquity: 25.198
+dividendRate: 0.68
+dividendYield: 1.04
+earningsCallTimestampEnd: 1793883600
+earningsCallTimestampStart: 1793883600
+earningsGrowth: -0.164
+earningsQuarterlyGrowth: -0.157
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 364795008
+ebitdaMargins: 0.27283
+enterpriseToEbitda: 23.742
+enterpriseToRevenue: 6.477
+enterpriseValue: 8661007360
+epsCurrentYear: 2.26088
+epsForward: 2.77457
+epsTrailingTwelveMonths: 2.09
+esgPopulated: false
+exDividendDate: 1779408000
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 89 540459 414
+fiftyDayAverage: 66.605
+fiftyDayAverageChange: -2.3050003
+fiftyDayAverageChangePercent: -0.034607016
+fiftyTwoWeekChangePercent: -31.119442
+fiftyTwoWeekHigh: 96.8
+fiftyTwoWeekHighChange: -32.5
+fiftyTwoWeekHighChangePercent: -0.33574378
+fiftyTwoWeekLow: 50.45
+fiftyTwoWeekLowChange: 13.850002
+fiftyTwoWeekLowChangePercent: 0.27452928
+fiftyTwoWeekRange: 50.45 - 96.8
+financialCurrency: EUR
+firstTradeDateMilliseconds: 921139200000
+fiveYearAvgDividendYield: 0.56
+floatShares: 63168845
+forwardEps: 2.77457
+forwardPE: 23.174763
+freeCashflow: 422529376
+fullExchangeName: XETRA
+fullTimeEmployees: 4797
+fulldayChange: 0.0
+fulldayChangePercent: 0.0
+fulldayPrice: 64.3
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.57597
+grossProfits: 770121984
+hasPrePostMarketData: false
+heldPercentInsiders: 0.45074
+heldPercentInstitutions: 0.29817
+impliedSharesOutstanding: 115490794
+industry: Software - Application
+industryDisp: Software - Application
+industryKey: software-application
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779408000
+lastDividendValue: 0.68
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1561680000
+lastSplitFactor: '3:1'
+longBusinessSummary: 'Nemetschek SE provides software solutions for architecture,
+  engineering, construction, operation, and media industries in Germany, the rest
+  of Europe, the Americas, the Asia Pacific, and internationally. The company operates
+  in four segments: Design, Build, Manage, and Media. The Design segment offers software
+  solutions primarily under the Allplan, Graphisoft, and dRofus brands for architects,
+  designers, engineers, structural engineers, specialist planners, and landscape designers,
+  as well as developers and general contractors. This segment provides building information
+  modeling (BIM) solutions for computer-aided design and engineering. The Build segment
+  offers 5D BIM solutions, commercial enterprise resource planning solutions, and
+  cloud-based workflow solutions under the Nevaris and Bluebeam brands to construction
+  companies, developers, suppliers, general contractors, planning offices, architects,
+  and civil engineers. The Manage segment provides software solutions for property,
+  facility, and workplace management; building platforms for the operation and management
+  of buildings under the Spacewell and Crem Solutions brands to property managers,
+  facility managers, global real estate companies, banks, and insurance companies.
+  The Media segment offers software solutions under the Maxon name, including 3D modeling,
+  painting, animation, sculpting, and rendering solutions to create 3D motion graphics,
+  architectural or product visualizations, graphics for computer games, medical illustrations,
+  industrial designs, and visual effects for architects and designers, film and TV
+  studios, advertising agencies, the video game industry, product and graphic designers,
+  and freelancers. Nemetschek SE was founded in 1963 and is headquartered in Munich,
+  Germany.'
+longName: Nemetschek SE
+market: de_market
+marketCap: 7426058240
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_883072
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 237670000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 7576196086
+numberOfAnalystOpinions: 17
+open: 64.35
+operatingCashflow: 422364992
+operatingMargins: 0.23322001
+overallRisk: 9
+payoutRatio: 0.3192
+pegRatio: 1.31
+phone: 49 89 540459 0
+previousClose: 64.3
+priceEpsCurrentYear: 28.440254
+priceHint: 2
+priceToBook: 3.464253
+priceToSalesTrailing12Months: 5.5538626
+profitMargins: 0.17774999
+quickRatio: 0.604
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.83333
+region: US
+regularMarketChange: 0.0
+regularMarketChangePercent: 0.0
+regularMarketDayHigh: 65.2
+regularMarketDayLow: 63.25
+regularMarketDayRange: 63.25 - 65.2
+regularMarketOpen: 64.35
+regularMarketPreviousClose: 64.3
+regularMarketPrice: 64.3
+regularMarketTime: 1794411518
+regularMarketVolume: 84690
+returnOnAssets: 0.05896
+returnOnEquity: 0.13284999
+revenueGrowth: 0.266
+revenuePerShare: 11.577
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 115490794
+shortName: Nemetschek SE                 I
+sourceInterval: 15
+symbol: NEM.DE
+targetHighPrice: 115.0
+targetLowPrice: 54.5
+targetMeanPrice: 86.70588
+targetMedianPrice: 83.0
+totalCash: 265580000
+totalCashPerShare: 2.3
+totalDebt: 733430976
+totalRevenue: 1337097984
+tradeable: false
+trailingAnnualDividendRate: 0.68
+trailingAnnualDividendYield: 0.010575428
+trailingEps: 2.09
+trailingPE: 30.765553
+trailingPegRatio: 1.3065
+triggerable: false
+twoHundredDayAverage: 63.5755
+twoHundredDayAverageChange: 0.72450256
+twoHundredDayAverageChangePercent: 0.01139594
+typeDisp: Equity
+volume: 84690
+website: https://www.nemetschek.com
+zip: '81829'

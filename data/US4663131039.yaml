@@ -1,0 +1,290 @@
+52WeekChange: 0.16776514
+SandP52WeekChange: 0.097798586
+address1: 10800 Roosevelt Boulevard North
+allTimeHigh: 428.93
+allTimeLow: 0.4375
+ask: 266.0
+askSize: 40
+auditRisk: 9
+averageDailyVolume10Day: 1305170
+averageDailyVolume3Month: 1261160
+averageVolume: 1261160
+averageVolume10days: 1305170
+beta: 1.34
+bid: 265.54
+bidSize: 120
+boardRisk: 10
+bookValue: 15.439
+city: Saint Petersburg
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Dastoor
+  title: CEO & Director
+  totalPay: 4824218
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory B. Hebard
+  title: Chief Financial Officer
+  totalPay: 2127103
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew D. Priestley
+  title: Executive VP & Chief Operations Officer
+  totalPay: 2143915
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven D. Borges
+  title: Executive Vice President of Global Business Units
+  totalPay: 2293333
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ed  Bailey
+  title: CTO & SVP of Intelligent Infrastructure
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. May Yee  Yap
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam E. Berry
+  title: Senior Vice President of Investor Relations & Corporate Affairs
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristine  Melachrino
+  title: Executive VP & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gary K. Schick
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Francis G. McKay
+  title: Senior VP & Chief Supply Chain Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: JBL announced a cash dividend of $0.08 with an ex-date of Nov. 16, 2026
+  meta:
+    amount: '0.08'
+    dateEpochMs: 1794805200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 263.04
+currentRatio: 0.993
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 265.9999
+dayLow: 256.0
+debtToEquity: 268.336
+displayName: Jabil
+dividendDate: 1796169600
+dividendRate: 0.32
+dividendYield: 0.13
+earningsCallTimestampEnd: 1790771400
+earningsCallTimestampStart: 1790771400
+earningsGrowth: 0.888
+earningsQuarterlyGrowth: 0.826
+earningsTimestamp: 1790771400
+earningsTimestampEnd: 1797427800
+earningsTimestampStart: 1797427800
+ebitda: 2512999936
+ebitdaMargins: 0.06989
+enterpriseToEbitda: 11.273
+enterpriseToRevenue: 0.788
+enterpriseValue: 28329082880
+epsCurrentYear: 17.69175
+epsForward: 22.16809
+epsTrailingTwelveMonths: 9.75
+esgPopulated: false
+exDividendDate: 1794787200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 291.9086
+fiftyDayAverageChange: -28.868591
+fiftyDayAverageChangePercent: -0.098896
+fiftyTwoWeekChangePercent: 16.776514
+fiftyTwoWeekHigh: 428.93
+fiftyTwoWeekHighChange: -165.88998
+fiftyTwoWeekHighChangePercent: -0.38675305
+fiftyTwoWeekLow: 189.6
+fiftyTwoWeekLowChange: 73.44
+fiftyTwoWeekLowChangePercent: 0.38734177
+fiftyTwoWeekRange: 189.6 - 428.93
+financialCurrency: USD
+firstTradeDateMilliseconds: 736435800000
+fiveYearAvgDividendYield: 0.22
+floatShares: 100836720
+forwardEps: 22.16809
+forwardPE: 11.865705
+freeCashflow: 1282875008
+fullExchangeName: NYSE
+fullTimeEmployees: 140000
+fulldayChange: 13.220001
+fulldayChangePercent: 5.2918105
+fulldayPrice: 263.04
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.092259996
+grossProfits: 3316999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.01269
+heldPercentInstitutions: 1.0088099
+impliedSharesOutstanding: 102974470
+industry: Electronic Components
+industryDisp: Electronic Components
+industryKey: electronic-components
+irWebsite: http://jbl.client.shareholder.com/index.cfm
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.08
+lastFiscalYearEnd: 1788134400
+lastSplitDate: 954460800
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Jabil Inc. provides engineering, manufacturing, and supply chain
+  solutions worldwide. It operates in three segments: Regulated Industries, Intelligent
+  Infrastructure, and Connected Living and Digital Commerce. The company offers electronic
+  hardware, and embedded software design services for analog, digital, radio frequency,
+  power, sensor, and optical component applications; creates, develops, and connects
+  concepts and specifications that optimize the function, value, and appearance of
+  products for both consumers and manufacturing partners; design of plastic and metal
+  components, enclosures, sub-assemblies, and systems, with advanced modeling and
+  analysis of electronic, electro-mechanical, and optical assemblies; detail design,
+  environmental applications, thermal and tooling management; develop solutions for
+  virtual and/or augmented reality, light detection and ranging, 3D sensing, projection,
+  and imaging; delivering PCBA design with CAD tools; and electrical and mechanical
+  assemblies. The company also offers cloud data center server platforms; medical
+  and consumer health devices; automotive assemblies; a digital commerce ecosystem;
+  and smart controls and security for digital building and utilities. In addition,
+  the company offers systems assembly, test, direct-order fulfillment, and configure-to-order
+  services. It serves automotive and transportation, building infrastructure, consumer,
+  data center, defense and aerospace, digital commerce and robotics, energy, healthcare,
+  public safety and surveillance, semiconductor capital equipment, telecommunications,
+  photonics industries. Jabil Inc. was formerly known as Jabil Circuit, Inc. and changed
+  its name to Jabil Inc. in June 2017. The company was founded in 1966 and is based
+  in Saint Petersburg, Florida.'
+longName: Jabil Inc.
+market: us_market
+marketCap: 27086405632
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_96078
+mostRecentQuarter: 1788134400
+netIncomeToCommon: 1042000000
+nextFiscalYearEnd: 1819670400
+nonDilutedMarketCap: 25725082095
+numberOfAnalystOpinions: 9
+open: 258.44
+operatingCashflow: 2002000000
+operatingMargins: 0.05095
+overallRisk: 8
+payoutRatio: 0.0328
+pegRatio: 0.82
+phone: 727 577 9749
+previousClose: 249.82
+priceEpsCurrentYear: 14.867948
+priceHint: 2
+priceToBook: 17.037373
+priceToSalesTrailing12Months: 0.7533628
+profitMargins: 0.02898
+quickRatio: 0.441
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 13.220001
+regularMarketChangePercent: 5.2918105
+regularMarketDayHigh: 265.9999
+regularMarketDayLow: 256.0
+regularMarketDayRange: 256.0 - 265.9999
+regularMarketOpen: 258.44
+regularMarketPreviousClose: 249.82
+regularMarketPrice: 263.04
+regularMarketTime: 1794413728
+regularMarketVolume: 228412
+returnOnAssets: 0.04981
+returnOnEquity: 0.66369003
+revenueGrowth: 0.286
+revenuePerShare: 339.83
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 5
+sharesOutstanding: 102974470
+sharesPercentSharesOut: 0.0286
+sharesShort: 2940751
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2796578
+shortName: Jabil Inc.
+shortPercentOfFloat: 0.034
+shortRatio: 2.0
+sourceInterval: 15
+state: FL
+symbol: JBL
+targetHighPrice: 475.0
+targetLowPrice: 365.0
+targetMeanPrice: 425.0
+targetMedianPrice: 430.0
+totalCash: 1739000064
+totalCashPerShare: 16.888
+totalDebt: 4338999808
+totalRevenue: 35953999872
+tradeable: false
+trailingAnnualDividendRate: 0.32
+trailingAnnualDividendYield: 0.0012809222
+trailingEps: 9.75
+trailingPE: 26.978462
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 307.97205
+twoHundredDayAverageChange: -44.932037
+twoHundredDayAverageChangePercent: -0.14589648
+typeDisp: Equity
+volume: 228412
+website: https://www.jabil.com
+zip: '33716'

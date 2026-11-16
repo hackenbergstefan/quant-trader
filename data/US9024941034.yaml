@@ -1,0 +1,286 @@
+52WeekChange: 0.11524236
+SandP52WeekChange: 0.097798586
+address1: 2200 West Don Tyson Parkway
+allTimeHigh: 100.72
+allTimeLow: 1.611111
+ask: 59.67
+askSize: 100
+auditRisk: 10
+averageAnalystRating: 2.5 - Hold
+averageDailyVolume10Day: 3974030
+averageDailyVolume3Month: 3425120
+averageVolume: 3425120
+averageVolume10days: 3974030
+beta: 0.374
+bid: 59.65
+bidSize: 200
+boardRisk: 10
+bookValue: 51.39
+city: Springdale
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey K. Schomburger
+  title: CEO, President & Director
+  totalPay: 150000
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Curt T. Calaway
+  title: Chief Financial Officer
+  totalPay: 2774974
+  unexercisedValue: 39427
+  yearBorn: 1974
+- age: 59
+  exercisedValue: 352257
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wes  Morris
+  title: Chief Operating Officer
+  totalPay: 3084529
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam  Deckinger
+  title: Chief Legal & Administrative Officer
+  totalPay: 3032561
+  unexercisedValue: 50113
+  yearBorn: 1976
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Phillip W. Thomas
+  title: Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Jon  Kathol
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jacqueline  Hanson
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jerry  Holbrook
+  title: Senior Vice President of Sales & Marketing of Tyson Fresh Meats
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Daniel
+  title: Senior Vice President of Beef Margin Management
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Rod  Nagel
+  title: Senior Vice President of Human Resources
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions:
+- header: Dividend
+  message: TSN announced a cash dividend of $0.51 with an ex-date of Dec. 1, 2026
+  meta:
+    amount: '0.51'
+    dateEpochMs: 1796101200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 59.725
+currentRatio: 1.433
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 60.33
+dayLow: 59.525
+debtToEquity: 44.025
+displayName: Tyson Foods
+dividendDate: 1797292800
+dividendRate: 2.04
+dividendYield: 3.38
+earningsCallTimestampEnd: 1794837600
+earningsCallTimestampStart: 1794837600
+earningsGrowth: 2.041
+earningsQuarterlyGrowth: 1.984
+earningsTimestamp: 1794835800
+earningsTimestampEnd: 1794835800
+earningsTimestampStart: 1794835800
+ebitda: 2772000000
+ebitdaMargins: 0.04977
+enterpriseToEbitda: 10.311
+enterpriseToRevenue: 0.513
+enterpriseValue: 28582113280
+epsCurrentYear: 3.50612
+epsForward: 3.83853
+epsTrailingTwelveMonths: 1.62
+esgPopulated: false
+exDividendDate: 1796083200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 54.0798
+fiftyDayAverageChange: 5.645199
+fiftyDayAverageChangePercent: 0.10438646
+fiftyTwoWeekChangePercent: 11.524237
+fiftyTwoWeekHigh: 69.48
+fiftyTwoWeekHighChange: -9.755005
+fiftyTwoWeekHighChangePercent: -0.14040017
+fiftyTwoWeekLow: 49.96
+fiftyTwoWeekLowChange: 9.764999
+fiftyTwoWeekLowChangePercent: 0.19545636
+fiftyTwoWeekRange: 49.96 - 69.48
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 3.05
+floatShares: 274493130
+forwardEps: 3.83853
+forwardPE: 15.559341
+freeCashflow: 1191250048
+fullExchangeName: NYSE
+fullTimeEmployees: 133000
+fulldayChange: -0.56500244
+fulldayChangePercent: -0.9371412
+fulldayPrice: 59.725
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.06554
+grossProfits: 3649999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.02615
+heldPercentInstitutions: 0.94748
+impliedSharesOutstanding: 351801512
+industry: Farm Products
+industryDisp: Farm Products
+industryKey: farm-products
+irWebsite: http://ir.tyson.com/phoenix.zhtml?c=65476&p=irol-irHome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788220800
+lastDividendValue: 0.51
+lastFiscalYearEnd: 1758931200
+lastSplitDate: 856224000
+lastSplitFactor: '3:2'
+longBusinessSummary: 'Tyson Foods, Inc., together with its subsidiaries, operates
+  as a food products company worldwide. It operates through four segments: Beef, Pork,
+  Chicken, and Prepared Food products. The company processes live fed cattle and hog;
+  fabricates dressed beef and pork carcasses into primal and sub-primal meat cuts,
+  as well as case ready beef and pork, and fully cooked meats; raises and processes
+  chicken into fresh, frozen, and value-added chicken products, including breaded
+  chicken strips, nuggets, patties, and other ready-to-fix or fully cooked chicken
+  parts; and supplies poultry breeding stock. It also manufactures and markets frozen
+  and refrigerated food products, including ready-to-eat sandwich, flame-grilled hamburger,
+  Philly steak, pepperoni, bacon, breakfast sausage, turkey, lunchmeat, hot dogs,
+  flour and corn tortilla products, appetizers, snacks, prepared meals, ethnic foods,
+  side dishes, meat dishes, breadstick, and processed meats under the Tyson, Jimmy
+  Dean, Hillshire Farm, Ball Park, Wright, Aidells, Gallo Salame, ibp, and State Fair
+  brands. The company sells its products through its sales staff to grocery retailers,
+  grocery wholesalers, meat distributors, warehouse club stores, military commissaries,
+  industrial food processing companies, chain restaurants or their distributors, live
+  markets, international export companies, and domestic distributors who serve restaurants
+  and food service operations, such as plant and school cafeterias, convenience stores,
+  hospitals, and other vendors, as well as through independent brokers and trading
+  companies. The company has a strategic alliance with Allied Beef Company to establish
+  a long-term partnership to strengthen domestic cattle supply. Tyson Foods, Inc.
+  was founded in 1935 and is headquartered in Springdale, Arkansas.'
+longName: Tyson Foods, Inc.
+market: us_market
+marketCap: 21011343360
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_190636
+mostRecentQuarter: 1782518400
+netIncomeToCommon: 574000000
+nextFiscalYearEnd: 1790467200
+nonDilutedMarketCap: 21210113158
+numberOfAnalystOpinions: 12
+open: 59.94
+operatingCashflow: 2004000000
+operatingMargins: 0.02656
+overallRisk: 10
+payoutRatio: 1.2530999
+pegRatio: 1.04
+phone: (479) 290-4000
+previousClose: 60.29
+priceEpsCurrentYear: 17.0345
+priceHint: 2
+priceToBook: 1.162191
+priceToSalesTrailing12Months: 0.37726402
+profitMargins: 0.01031
+quickRatio: 0.484
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.53846
+region: US
+regularMarketChange: -0.56500244
+regularMarketChangePercent: -0.9371412
+regularMarketDayHigh: 60.33
+regularMarketDayLow: 59.525
+regularMarketDayRange: 59.525 - 60.33
+regularMarketOpen: 59.94
+regularMarketPreviousClose: 60.29
+regularMarketPrice: 59.725
+regularMarketTime: 1794413735
+regularMarketVolume: 441459
+returnOnAssets: 0.02565
+returnOnEquity: 0.03263
+revenueGrowth: -0.001
+revenuePerShare: 156.995
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 10
+sharesOutstanding: 281792507
+sharesPercentSharesOut: 0.0313
+sharesShort: 11002837
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8699976
+shortName: Tyson Foods, Inc.
+shortPercentOfFloat: 0.0399
+shortRatio: 3.46
+sourceInterval: 15
+state: AR
+symbol: TSN
+targetHighPrice: 75.0
+targetLowPrice: 56.0
+targetMeanPrice: 63.0
+targetMedianPrice: 62.5
+totalCash: 740000000
+totalCashPerShare: 2.103
+totalDebt: 8006000128
+totalRevenue: 55694000128
+tradeable: false
+trailingAnnualDividendRate: 0.5
+trailingAnnualDividendYield: 0.008293249
+trailingEps: 1.62
+trailingPE: 36.867283
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 59.5671
+twoHundredDayAverageChange: 0.15789795
+twoHundredDayAverageChangePercent: 0.0026507578
+typeDisp: Equity
+volume: 441459
+website: https://www.tysonfoods.com
+zip: 72762-6999

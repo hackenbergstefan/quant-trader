@@ -1,0 +1,256 @@
+52WeekChange: 0.41551387
+SandP52WeekChange: 0.097798586
+address1: Praça D. João I, 28
+allTimeHigh: 25.19092
+allTimeLow: 0.0681
+ask: 0.0
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 46874246
+averageDailyVolume3Month: 44549114
+averageVolume: 44549114
+averageVolume10days: 46874246
+beta: 0.825
+bid: 0.0
+bidSize: 0
+boardRisk: 9
+bookValue: 0.518
+city: Porto
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Miguel Maya Dias Pinheiro
+  title: 3rd Executive Vice Chairman, CEO & Member of Board for Strategic Board
+  totalPay: 1701566
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Miguel  de Campos Pereira de Braganca
+  title: CFO & Executive Director
+  totalPay: 1178539
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. João Nuno de Oliveira Jorge Palma
+  title: Executive Director
+  totalPay: 1135124
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria Jose-Henriques-Barreto De Matos De Campos
+  title: Executive Director
+  totalPay: 1012952
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bernardo Roquette de Aragão de Portugal Collaço
+  title: Market Relations Representative & Head of the IR Division
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mário António Pinho Gaspar Neves
+  title: Group Head of Compliance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ana Cristina Carmo
+  title: Head of Client Coverage Portugal - North
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joaquim  Cavaco
+  title: Deputy Head of Millennium Investment Banking and Head of Coverage International
+    & Institutionals
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Bárbara  Ferreira
+  title: Head of Industry Coverage
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cristina  Andrade
+  title: Head of Capital Markets
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Portugal
+cryptoTradeable: false
+currency: EUR
+currentPrice: 1.1445
+customPriceAlertConfidence: LOW
+dayHigh: 1.157
+dayLow: 1.139
+dividendRate: 0.03
+dividendYield: 3.0
+earningsCallTimestampEnd: 1793286000
+earningsCallTimestampStart: 1793286000
+earningsGrowth: -0.353
+earningsQuarterlyGrowth: -0.405
+earningsTimestamp: 1793208600
+earningsTimestampEnd: 1793208600
+earningsTimestampStart: 1793208600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 4.989
+enterpriseValue: 18642147328
+epsCurrentYear: 0.08062
+epsForward: 0.09628
+epsTrailingTwelveMonths: 0.05
+esgPopulated: false
+exDividendDate: 1780272000
+exchange: LIS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Lisbon
+exchangeTimezoneShortName: WET
+executiveTeam: []
+fiftyDayAverage: 1.14002
+fiftyDayAverageChange: 0.0044800043
+fiftyDayAverageChangePercent: 0.0039297594
+fiftyTwoWeekChangePercent: 41.551388
+fiftyTwoWeekHigh: 1.243
+fiftyTwoWeekHighChange: -0.09850001
+fiftyTwoWeekHighChangePercent: -0.07924377
+fiftyTwoWeekLow: 0.756
+fiftyTwoWeekLowChange: 0.38850003
+fiftyTwoWeekLowChangePercent: 0.51388896
+fiftyTwoWeekRange: 0.756 - 1.243
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946890000000
+fiveYearAvgDividendYield: 2.52
+floatShares: 8532768481
+forwardEps: 0.09628
+forwardPE: 11.887204
+fullExchangeName: Lisbon
+fullTimeEmployees: 15543
+fulldayChange: -0.0015000105
+fulldayChangePercent: -0.1309481
+fulldayPrice: 1.1445
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 3715845888
+hasPrePostMarketData: false
+heldPercentInsiders: 0.40354002
+heldPercentInstitutions: 0.25131
+impliedSharesOutstanding: 14475583179
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: http://ind.millenniumbcp.pt/en/Institucional/investidores/Pages/Inv.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1780272000
+lastDividendValue: 0.0344
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1477267200
+lastSplitFactor: 1:75
+longBusinessSummary: Banco Comercial Português, S.A. engages in the provision of various
+  banking and financial products and services in Portugal and internationally. The
+  company operates through Retail Banking; Companies and Corporate; Private Banking;
+  International Business, and Other segments. It offers a range of financial products
+  and services, including current accounts, payment systems, savings and investment
+  products, private banking, asset management, and investment banking services, such
+  as mortgage loans, personal loans, commercial banking, leasing, factoring, insurance,
+  and other products. The company is also involved in the provision of investment
+  fund and real estate management, e-commerce, web portal, leasing, consulting, brokerage,
+  marketing, and real estate investment fund management services; and internet, telephone,
+  and mobile banking services as well as buying and selling real estate. In addition,
+  it offers credit, debit, and prepaid cards; personal, mortgage, car loan, and salary
+  loan; health, car, life, travel, personal accident, home, pet, work accident, payment
+  protection, and transportation and repatriation insurance; retirement services;
+  structured products, discretionary management, investment funds, and other technology
+  and services. Further, the company provides short, medium, and long term financing
+  solutions; internacional operations financing; and treasury services. Banco Comercial
+  Português, S.A. was incorporated in 1985 and is based in Porto, Portugal.
+longName: Banco Comercial Português, S.A.
+market: pt_market
+marketCap: 16567305216
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_392466
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1083932032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 16589018323
+numberOfAnalystOpinions: 18
+open: 1.155
+operatingMargins: 0.61377
+overallRisk: 7
+payoutRatio: 0.3175
+pegRatio: 21.65
+phone: 351 21 005 24 24
+previousClose: 1.146
+priceEpsCurrentYear: 14.19623
+priceHint: 4
+priceToBook: 2.2094595
+priceToSalesTrailing12Months: 4.4339967
+profitMargins: 0.2988
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -0.0015000105
+regularMarketChangePercent: -0.1309481
+regularMarketDayHigh: 1.157
+regularMarketDayLow: 1.139
+regularMarketDayRange: 1.139 - 1.157
+regularMarketOpen: 1.155
+regularMarketPreviousClose: 1.146
+regularMarketPrice: 1.1445
+regularMarketTime: 1794411553
+regularMarketVolume: 17887232
+returnOnAssets: 0.011519999
+returnOnEquity: 0.14074999
+revenueGrowth: -0.475
+revenuePerShare: 0.258
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 6
+sharesOutstanding: 14475583179
+shortName: B.C.P.-BCO COMERCIAL PORTUGUES
+sourceInterval: 15
+symbol: BCP.LS
+targetHighPrice: 1.4
+targetLowPrice: 0.9
+targetMeanPrice: 1.22611
+targetMedianPrice: 1.225
+totalCash: 5487344128
+totalCashPerShare: 0.378
+totalDebt: 5857123840
+totalRevenue: 3736427008
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 0.05
+trailingPE: 22.89
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 1.001395
+twoHundredDayAverageChange: 0.14310503
+twoHundredDayAverageChangePercent: 0.14290568
+typeDisp: Equity
+volume: 17887232
+website: https://www.millenniumbcp.pt
+zip: 4000-295

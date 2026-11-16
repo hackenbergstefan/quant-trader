@@ -1,0 +1,290 @@
+52WeekChange: 0.07210314
+SandP52WeekChange: 0.097798586
+address1: 777 - 106th Avenue N.E.
+allTimeHigh: 139.24
+allTimeLow: 0.621025
+ask: 112.35
+askSize: 1
+auditRisk: 2
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 4427780
+averageDailyVolume3Month: 3400709
+averageVolume: 3400709
+averageVolume10days: 4427780
+beta: 0.957
+bid: 100.79
+bidSize: 1
+boardRisk: 9
+bookValue: 39.756
+city: Bellevue
+companyOfficers:
+- age: 57
+  exercisedValue: 3542593
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. R. Preston Feight
+  title: CEO & Director
+  totalPay: 3034406
+  unexercisedValue: 2386336
+  yearBorn: 1968
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin D. Baney
+  title: President
+  totalPay: 1026693
+  unexercisedValue: 1644195
+  yearBorn: 1971
+- age: 60
+  exercisedValue: 322556
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brice J. Poplawski
+  title: Senior VP & CFO
+  totalPay: 735568
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 71
+  exercisedValue: 3064514
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark C. Pigott
+  title: Executive Chairman
+  totalPay: 532480
+  unexercisedValue: 5776488
+  yearBorn: 1954
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John N. Rich
+  title: Executive VP & CTO
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. A. Lily Ley
+  title: VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ken  Hastings
+  title: Senior Director of Investor Relations
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael K. Walton
+  title: VP & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Paulo Henrique Bolgar
+  title: VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Laura J. Bloch
+  title: Senior Vice President
+  unexercisedValue: 0
+  yearBorn: 1978
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: PCAR announced a cash dividend of $0.35 with an ex-date of Nov. 11, 2026
+  meta:
+    amount: '0.35'
+    dateEpochMs: 1794373200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 106.69
+currentRatio: 5.469
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 106.79
+dayLow: 105.32
+debtToEquity: 72.152
+displayName: PACCAR
+dividendDate: 1796169600
+dividendRate: 1.4
+dividendYield: 1.33
+earningsCallTimestampEnd: 1793116800
+earningsCallTimestampStart: 1793116800
+earningsGrowth: 0.436
+earningsQuarterlyGrowth: 0.436
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1793104200
+earningsTimestampStart: 1793104200
+ebitda: 3625799936
+ebitdaMargins: 0.124680005
+enterpriseToEbitda: 16.947
+enterpriseToRevenue: 2.113
+enterpriseValue: 61446168576
+epsCurrentYear: 5.87557
+epsForward: 6.86353
+epsTrailingTwelveMonths: 5.24
+esgPopulated: false
+exDividendDate: 1794268800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 425 468 8216
+fiftyDayAverage: 111.4848
+fiftyDayAverageChange: -4.7948
+fiftyDayAverageChangePercent: -0.04300855
+fiftyTwoWeekChangePercent: 7.2103143
+fiftyTwoWeekHigh: 139.24
+fiftyTwoWeekHighChange: -32.550003
+fiftyTwoWeekHighChangePercent: -0.23376904
+fiftyTwoWeekLow: 93.86
+fiftyTwoWeekLowChange: 12.830002
+fiftyTwoWeekLowChangePercent: 0.13669297
+fiftyTwoWeekRange: 93.86 - 139.24
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 1.22
+floatShares: 516138439
+forwardEps: 6.86353
+forwardPE: 15.544479
+freeCashflow: 1735624960
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 25900
+fulldayChange: 1.1200027
+fulldayChangePercent: 1.0609101
+fulldayPrice: 106.69
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.1421
+grossProfits: 4132199936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.01857
+heldPercentInstitutions: 0.75982004
+impliedSharesOutstanding: 526505329
+industry: Farm & Heavy Construction Machinery
+industryDisp: Farm & Heavy Construction Machinery
+industryKey: farm-heavy-construction-machinery
+irWebsite: http://www.paccar.com/investors/investor_resources.asp
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794268800
+lastDividendValue: 0.35
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1675814400
+lastSplitFactor: '3:2'
+longBusinessSummary: 'PACCAR Inc designs, manufactures, and distributes light, medium,
+  and heavy-duty commercial trucks in the United States, Canada, Australia, Mexico,
+  Europe, Central and South America, and internationally. It operates through three
+  segments: Truck, Parts, and Financial Services. The Truck segment designs, manufactures,
+  and distributes trucks for the over-the-road and off-highway hauling of commercial
+  and consumer goods; and diesel engine products. It sells its trucks through a network
+  of independent dealers under the Kenworth, Peterbilt, and DAF nameplates. The Parts
+  segment distributes aftermarket parts for trucks and related commercial vehicles.
+  The Financial Services segment conducts full-service leasing operations under the
+  PacLease trade name, as well as provides finance and leasing products and services
+  to customers and dealers. This segment offers equipment financing and administrative
+  support services for its franchisees; retail loan and leasing services for small,
+  medium, and large commercial trucking companies, as well as independent owners/operators
+  and other businesses; and truck inventory financing services to independent dealers.
+  In addition, this segment offers loans and leases directly to customers for the
+  acquisition of trucks and related equipment; and operates its own full-service lease
+  outlets. The company manufactures and markets industrial winches under the Braden,
+  Carco, and Gearmatic nameplates. PACCAR Inc was founded in 1905 and is headquartered
+  in Bellevue, Washington.'
+longName: PACCAR Inc
+market: us_market
+marketCap: 56172855296
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_294721
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2761700096
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 55583167582
+numberOfAnalystOpinions: 16
+open: 106.27
+operatingCashflow: 3664600064
+operatingMargins: 0.11132
+overallRisk: 6
+payoutRatio: 0.2595
+pegRatio: 0.76
+phone: 425 468 7400
+previousClose: 105.57
+priceEpsCurrentYear: 18.15824
+priceHint: 2
+priceToBook: 2.6836202
+priceToSalesTrailing12Months: 1.931633
+profitMargins: 0.094969995
+quickRatio: 4.858
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.10526
+region: US
+regularMarketChange: 1.1200027
+regularMarketChangePercent: 1.0609101
+regularMarketDayHigh: 106.79
+regularMarketDayLow: 105.32
+regularMarketDayRange: 105.32 - 106.79
+regularMarketOpen: 106.27
+regularMarketPreviousClose: 105.57
+regularMarketPrice: 106.69
+regularMarketTime: 1794413726
+regularMarketVolume: 504011
+returnOnAssets: 0.045289997
+returnOnEquity: 0.13706
+revenueGrowth: 0.19
+revenuePerShare: 55.218
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 5
+sharesOutstanding: 526505329
+sharesPercentSharesOut: 0.0227
+sharesShort: 11960397
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 11869649
+shortName: PACCAR Inc.
+shortPercentOfFloat: 0.026300002
+shortRatio: 3.34
+sourceInterval: 15
+state: WA
+symbol: PCAR
+targetHighPrice: 162.0
+targetLowPrice: 104.0
+targetMeanPrice: 126.875
+targetMedianPrice: 121.5
+totalCash: 9238200320
+totalCashPerShare: 17.546
+totalDebt: 15101200384
+totalRevenue: 29080500224
+tradeable: false
+trailingAnnualDividendRate: 1.36
+trailingAnnualDividendYield: 0.012882448
+trailingEps: 5.24
+trailingPE: 20.36069
+trailingPegRatio: 0.7558
+triggerable: true
+twoHundredDayAverage: 119.48715
+twoHundredDayAverageChange: -12.79715
+twoHundredDayAverageChangePercent: -0.107100636
+typeDisp: Equity
+volume: 504011
+website: https://www.paccar.com
+zip: '98004'

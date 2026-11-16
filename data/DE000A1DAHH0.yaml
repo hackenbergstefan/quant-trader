@@ -1,0 +1,203 @@
+52WeekChange: 0.25228703
+SandP52WeekChange: 0.097798586
+address1: Messeallee 11
+allTimeHigh: 87.4
+allTimeLow: 16.04
+ask: 59.52
+askSize: 602
+auditRisk: 9
+averageAnalystRating: 3.0 - Hold
+averageDailyVolume10Day: 203528
+averageDailyVolume3Month: 236994
+averageVolume: 236994
+averageVolume10days: 203528
+beta: 0.496
+bid: 59.46
+bidSize: 119
+boardRisk: 1
+bookValue: 30.709
+city: Essen
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jens  Birgersson
+  title: Chairman of the Management Board & CEO
+  totalPay: 1861000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Reisten
+  title: CFO & Member of the Management Board
+  totalPay: 1469486
+  unexercisedValue: 0
+  yearBorn: 1972
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 59.44
+currentRatio: 1.703
+customPriceAlertConfidence: LOW
+dayHigh: 60.16
+dayLow: 58.42
+debtToEquity: 80.702
+dividendRate: 1.9
+dividendYield: 3.11
+earningsCallTimestampEnd: 1794402000
+earningsCallTimestampStart: 1794402000
+earningsGrowth: 3.217
+earningsQuarterlyGrowth: 3.262
+earningsTimestamp: 1794414600
+earningsTimestampEnd: 1794414600
+earningsTimestampStart: 1794414600
+ebitda: 1047500032
+ebitdaMargins: 0.069120005
+enterpriseToEbitda: 11.48
+enterpriseToRevenue: 0.793
+enterpriseValue: 12025139200
+epsCurrentYear: 4.14384
+epsForward: 4.16947
+epsTrailingTwelveMonths: 2.54
+esgPopulated: false
+exDividendDate: 1779321600
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 201 6496 2003
+fiftyDayAverage: 61.5372
+fiftyDayAverageChange: -2.0972023
+fiftyDayAverageChangePercent: -0.034080237
+fiftyTwoWeekChangePercent: 25.228703
+fiftyTwoWeekHigh: 66.86
+fiftyTwoWeekHighChange: -7.420002
+fiftyTwoWeekHighChangePercent: -0.11097819
+fiftyTwoWeekLow: 43.72
+fiftyTwoWeekLowChange: 15.719997
+fiftyTwoWeekLowChangePercent: 0.35956076
+fiftyTwoWeekRange: 43.72 - 66.86
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1269846000000
+fiveYearAvgDividendYield: 2.71
+floatShares: 115508298
+forwardEps: 4.16947
+forwardPE: 14.256009
+freeCashflow: 375150016
+fullExchangeName: XETRA
+fullTimeEmployees: 16942
+fulldayChange: -2.1599998
+fulldayChangePercent: -3.5053551
+fulldayPrice: 59.44
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.25956
+grossProfits: 3933700096
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.86845
+impliedSharesOutstanding: 144385372
+industry: Specialty Chemicals
+industryDisp: Specialty Chemicals
+industryKey: specialty-chemicals
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779321600
+lastDividendValue: 1.9
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1406851200
+lastSplitFactor: '3:1'
+longBusinessSummary: Brenntag SE distributes chemicals and ingredients in Germany,
+  the United States, the United Kingdom, China, Canada, Italy, Poland, France, and
+  internationally. The company operates in two segments, Brenntag Essentials and Brenntag
+  Specialties. It provides just-in-time delivery, product mixing, blending, repackaging,
+  inventory management, and drum return handling, as well as application, marketing
+  and supply chain solutions, technical and formulation support, comprehensive regulatory
+  know-how, and digital solutions, such as digital sales channels and product platforms.
+  The company serves customers in various industries, including nutrition, pharma,
+  beauty and care, and water treatment; and industrial markets, as well as coatings,
+  adhesives, sealants and elastomers, and constructions, polymers, and rubber industries.
+  The company was founded in 1874 and is headquartered in Essen, Germany.
+longName: Brenntag SE
+market: de_market
+marketCap: 8582266368
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_2033420
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 364600000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 8894138915
+numberOfAnalystOpinions: 15
+open: 59.74
+operatingCashflow: 802700032
+operatingMargins: 0.05886
+overallRisk: 5
+payoutRatio: 0.754
+pegRatio: 1.14
+phone: 49 201 6496 2100
+prevName: Brenntag AG
+previousClose: 61.6
+priceEpsCurrentYear: 14.344183
+priceHint: 2
+priceToBook: 1.9355888
+priceToSalesTrailing12Months: 0.56628066
+profitMargins: 0.02406
+quickRatio: 1.173
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.0
+region: US
+regularMarketChange: -2.1599998
+regularMarketChangePercent: -3.5053551
+regularMarketDayHigh: 60.16
+regularMarketDayLow: 58.42
+regularMarketDayRange: 58.42 - 60.16
+regularMarketOpen: 59.74
+regularMarketPreviousClose: 61.6
+regularMarketPrice: 59.44
+regularMarketTime: 1794411560
+regularMarketVolume: 217670
+returnOnAssets: 0.049640004
+returnOnEquity: 0.085310005
+revenueGrowth: 0.102
+revenuePerShare: 104.955
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 1
+sharesOutstanding: 144385372
+shortName: Brenntag SE                   N
+sourceInterval: 15
+symbol: BNR.DE
+targetHighPrice: 76.0
+targetLowPrice: 47.0
+targetMeanPrice: 58.4
+targetMedianPrice: 57.0
+totalCash: 516000000
+totalCashPerShare: 3.574
+totalDebt: 3608999936
+totalRevenue: 15155500032
+tradeable: false
+trailingAnnualDividendRate: 1.9
+trailingAnnualDividendYield: 0.030844156
+trailingEps: 2.54
+trailingPE: 23.401575
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 58.23675
+twoHundredDayAverageChange: 1.2032471
+twoHundredDayAverageChangePercent: 0.020661302
+typeDisp: Equity
+volume: 217670
+website: https://www.brenntag.com
+zip: '45131'

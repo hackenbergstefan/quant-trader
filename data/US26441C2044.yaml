@@ -1,0 +1,284 @@
+52WeekChange: 0.040678024
+SandP52WeekChange: 0.097798586
+address1: 525 South Tryon Street
+allTimeHigh: 134.49
+allTimeLow: 6.428419
+ask: 127.92
+askSize: 200
+auditRisk: 4
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 5182570
+averageDailyVolume3Month: 4047950
+averageVolume: 4047950
+averageVolume10days: 5182570
+beta: 0.308
+bid: 127.86
+bidSize: 200
+boardRisk: 3
+bookValue: 69.749
+city: Charlotte
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Harry K. Sideris
+  title: President, CEO & Director
+  totalPay: 3501416
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian D. Savoy
+  title: Executive VP & CFO
+  totalPay: 1852498
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. T. Preston Gillespie Jr.
+  title: Executive Vice President of Nuclear Program Strategy
+  totalPay: 1907964
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kodwo  Ghartey-Tagoe J.D.
+  title: Executive VP & CEO of Duke Energy Carolinas & Natural Gas Business
+  totalPay: 2074220
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Louis E. Renjel
+  title: Executive VP, CEO of Duke Energy Florida & Midwest and Chief Corporate Affairs
+    Officer
+  totalPay: 1488725
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Abigail L. Motsinger
+  title: Senior VP, Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1984
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard  Donaldson
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Bonnie B. Titone
+  title: Executive VP & Chief Administrative Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mike  Switzer
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexander Robert Glenn
+  title: Executive VP & Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: DUK announced a cash dividend of $1.085 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '1.085'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 128.02
+currentRatio: 0.681
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 128.71
+dayLow: 127.81
+debtToEquity: 162.977
+displayName: Duke Energy
+dividendDate: 1797379200
+dividendRate: 4.34
+dividendYield: 3.37
+earningsCallTimestampEnd: 1793890800
+earningsCallTimestampStart: 1793890800
+earningsGrowth: 0.1
+earningsQuarterlyGrowth: 0.101
+earningsTimestamp: 1793885400
+earningsTimestampEnd: 1793885400
+earningsTimestampStart: 1793885400
+ebitda: 16759000064
+ebitdaMargins: 0.50229
+enterpriseToEbitda: 11.755
+enterpriseToRevenue: 5.904
+enterpriseValue: 197002592256
+epsCurrentYear: 6.74196
+epsForward: 7.16564
+epsTrailingTwelveMonths: 6.82
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 120.1688
+fiftyDayAverageChange: 7.851204
+fiftyDayAverageChangePercent: 0.0653348
+fiftyTwoWeekChangePercent: 4.0678024
+fiftyTwoWeekHigh: 134.49
+fiftyTwoWeekHighChange: -6.470001
+fiftyTwoWeekHighChangePercent: -0.048107672
+fiftyTwoWeekLow: 112.4
+fiftyTwoWeekLowChange: 15.620003
+fiftyTwoWeekLowChangePercent: 0.13896799
+fiftyTwoWeekRange: 112.4 - 134.49
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 3.77
+floatShares: 777486128
+forwardEps: 7.16564
+forwardPE: 17.865816
+freeCashflow: -6023875072
+fullExchangeName: NYSE
+fullTimeEmployees: 26441
+fulldayChange: -0.91999817
+fulldayChangePercent: -0.71339816
+fulldayPrice: 128.02
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.52579
+grossProfits: 17543000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00127
+heldPercentInstitutions: 0.71419996
+impliedSharesOutstanding: 779708297
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+irWebsite: http://www.duke-energy.com/investors/stock-information.asp
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 1.085
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1341273600
+lastSplitFactor: '1:3'
+longBusinessSummary: 'Duke Energy Corporation, through its subsidiaries, operates
+  as an energy company in the United States. The company operates through two segments:
+  Electric Utilities and Infrastructure (EU&I); and Gas Utilities and Infrastructure
+  (GU&I). The EU&I segment generates, transmits, distributes, and sells electricity
+  to customers in the Southeast and Midwest regions. It generates electricity through
+  coal, hydroelectric, natural gas, oil, renewables, and nuclear fuel. This segment
+  also engages in the wholesale of electricity to municipalities, electric cooperative
+  utilities, and other load-serving entities. The GU&I segment distributes natural
+  gas to customers in the residential, commercial, industrial, and power generation
+  natural gas sectors; and invests in pipeline transmission projects, renewable natural
+  gas projects, and natural gas storage facilities. The company was formerly known
+  as Duke Energy Holding Corp. and changed its name to Duke Energy Corporation in
+  April 2006. Duke Energy Corporation was founded in 1904 and is headquartered in
+  Charlotte, North Carolina.'
+longName: Duke Energy Corporation
+market: us_market
+marketCap: 99818258432
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_267850
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 5312000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 100535587815
+numberOfAnalystOpinions: 19
+open: 128.01
+operatingCashflow: 11546999808
+operatingMargins: 0.27775
+overallRisk: 2
+payoutRatio: 0.62759995
+pegRatio: 2.39
+phone: 800 488 3853
+previousClose: 128.94
+priceEpsCurrentYear: 18.988544
+priceHint: 2
+priceToBook: 1.8354385
+priceToSalesTrailing12Months: 2.9917057
+profitMargins: 0.16158001
+quickRatio: 0.277
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.13043
+region: US
+regularMarketChange: -0.91999817
+regularMarketChangePercent: -0.71339816
+regularMarketDayHigh: 128.71
+regularMarketDayLow: 127.81
+regularMarketDayRange: 127.81 - 128.71
+regularMarketOpen: 128.01
+regularMarketPreviousClose: 128.94
+regularMarketPrice: 128.02
+regularMarketTime: 1794413734
+regularMarketVolume: 713906
+returnOnAssets: 0.029240001
+returnOnEquity: 0.10099
+revenueGrowth: 0.066
+revenuePerShare: 42.858
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 4
+sharesOutstanding: 779708297
+sharesPercentSharesOut: 0.0231
+sharesShort: 18025574
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 17780284
+shortName: Duke Energy Corporation (Holdin
+shortPercentOfFloat: 0.0257
+shortRatio: 4.68
+sourceInterval: 15
+state: NC
+symbol: DUK
+targetHighPrice: 145.0
+targetLowPrice: 121.0
+targetMeanPrice: 132.26315
+targetMedianPrice: 130.0
+totalCash: 451000000
+totalCashPerShare: 0.578
+totalDebt: 93780000768
+totalRevenue: 33365000192
+tradeable: false
+trailingAnnualDividendRate: 4.28
+trailingAnnualDividendYield: 0.033193734
+trailingEps: 6.82
+trailingPE: 18.771261
+trailingPegRatio: 2.3855
+triggerable: true
+twoHundredDayAverage: 124.7029
+twoHundredDayAverageChange: 3.3171005
+twoHundredDayAverageChangePercent: 0.026600026
+typeDisp: Equity
+volume: 713906
+website: https://www.duke-energy.com
+zip: '28202'

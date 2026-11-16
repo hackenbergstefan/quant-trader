@@ -1,0 +1,287 @@
+52WeekChange: 0.19898486
+SandP52WeekChange: 0.097798586
+address1: 45 Glover Avenue
+address2: 7th Floor
+allTimeHigh: 499.87
+allTimeLow: 3.444444
+ask: 332.54
+askSize: 40
+auditRisk: 10
+averageAnalystRating: 3.2 - Hold
+averageDailyVolume10Day: 890990
+averageDailyVolume3Month: 821382
+averageVolume: 821382
+averageVolume10days: 890990
+beta: 0.695
+bid: 331.82
+bidSize: 80
+boardRisk: 4
+bookValue: 56.779
+city: Norwalk
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Sanoke  Viswanathan
+  title: CEO & Director
+  totalPay: 17357366
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Joshua B. Warren J.D.
+  title: Executive VP & CFO
+  totalPay: 777026
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Christopher  McLoughlin
+  title: Executive VP, Chief Legal Officer & Corporate Secretary
+  totalPay: 1258433
+  unexercisedValue: 0
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Goran  Skoko
+  title: Executive VP, Chief Revenue Officer and MD of EMEA & Asia Pacific
+  totalPay: 1784923
+  unexercisedValue: 1094872
+  yearBorn: 1961
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. John  Costigan
+  title: Executive VP & Co Head of Product
+  totalPay: 1293069
+  unexercisedValue: 50528
+  yearBorn: 1969
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Gregory T. Moskoff
+  title: MD, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Robert  Stolte
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Kevin J. Toomey Jr.
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Dinaz  Hirji
+  title: Executive VP, Chief People & Workforce Transformation Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Christopher R. Ellis
+  title: Executive VP and Head of Strategic Initiatives & Partnership
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 8
+corporateActions:
+- header: Dividend
+  message: FDS announced a cash dividend of $1.16 with an ex-date of Nov. 30, 2026
+  meta:
+    amount: '1.16'
+    dateEpochMs: 1796014800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 332.54
+currentRatio: 0.598
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 332.875
+dayLow: 325.99
+debtToEquity: 77.049
+displayName: FactSet Research Systems
+dividendDate: 1797465600
+dividendRate: 4.64
+dividendYield: 1.42
+earningsCallTimestampEnd: 1790773200
+earningsCallTimestampStart: 1790773200
+earningsGrowth: -0.154
+earningsQuarterlyGrowth: -0.212
+earningsTimestamp: 1790771400
+earningsTimestampEnd: 1797514200
+earningsTimestampStart: 1797514200
+ebitda: 900307968
+ebitdaMargins: 0.36358002
+enterpriseToEbitda: 14.184
+enterpriseToRevenue: 5.157
+enterpriseValue: 12769722368
+epsCurrentYear: 19.62369
+epsForward: 21.73436
+epsTrailingTwelveMonths: 14.57
+esgPopulated: false
+exDividendDate: 1795996800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 296.809
+fiftyDayAverageChange: 35.731018
+fiftyDayAverageChangePercent: 0.12038388
+fiftyTwoWeekChangePercent: 19.898487
+fiftyTwoWeekHigh: 348.0
+fiftyTwoWeekHighChange: -15.459991
+fiftyTwoWeekHighChangePercent: -0.044425264
+fiftyTwoWeekLow: 185.0
+fiftyTwoWeekLowChange: 147.54001
+fiftyTwoWeekLowChangePercent: 0.79751354
+fiftyTwoWeekRange: 185.0 - 348.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 835968600000
+fiveYearAvgDividendYield: 0.97
+floatShares: 35117458
+forwardEps: 21.73436
+forwardPE: 15.300198
+freeCashflow: 653727232
+fullExchangeName: NYSE
+fullTimeEmployees: 12444
+fulldayChange: 6.5599976
+fulldayChangePercent: 2.0123925
+fulldayPrice: 332.54
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.50605
+grossProfits: 1253110016
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00338
+heldPercentInstitutions: 1.17505
+impliedSharesOutstanding: 35269870
+industry: Financial Data & Stock Exchanges
+industryDisp: Financial Data & Stock Exchanges
+industryKey: financial-data-stock-exchanges
+irWebsite: http://investor.factset.com/stockquote.cfm
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788134400
+lastDividendValue: 1.16
+lastFiscalYearEnd: 1788134400
+lastSplitDate: 1107734400
+lastSplitFactor: '3:2'
+longBusinessSummary: FactSet Research Systems Inc., together with its subsidiaries,
+  operates as a global data and artificial intelligence solutions provider for the
+  financial markets in the Americas, Europe, the Middle East, Africa, and Asia Pacific.
+  It offers data, products, and analytical applications; and workstations, portfolio
+  analytics, and enterprise data solutions, as well as managed services for supporting
+  data, performance, risk and reporting, and AI-enabled workflows. The company also
+  provides financial data and market intelligence on securities, companies, industries,
+  and people that enable clients to research advisory, dealmaking and investment ideas,
+  as well as analyze, monitor, and manage portfolios; and solutions covering investment
+  lifecycle of investment research, portfolio construction and analysis, trade execution,
+  performance measurement, risk management, and reporting. In addition, it offers
+  banking solutions that supports company and market research; wealth solutions which
+  supports home office, advisory, and client engagement workflows; and data and technology
+  offerings, including desktop and mobile platform, data solutions, cloud-based digital
+  solutions, application programming interfaces, and model context protocol servers.
+  The company serves professionals, including institutional asset managers, bankers,
+  wealth managers, asset owners, partners, hedge funds, corporate users, private equity
+  and venture capital professionals. FactSet Research Systems Inc. was founded in
+  1978 and is headquartered in Norwalk, Connecticut.
+longName: FactSet Research Systems Inc.
+market: us_market
+marketCap: 11728643072
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_347669
+mostRecentQuarter: 1788134400
+netIncomeToCommon: 533480992
+nextFiscalYearEnd: 1819670400
+nonDilutedMarketCap: 11497272222
+numberOfAnalystOpinions: 16
+open: 324.97
+operatingCashflow: 822200000
+operatingMargins: 0.29055
+overallRisk: 8
+payoutRatio: 0.3102
+pegRatio: 1.09
+phone: 203 810 1000
+previousClose: 325.98
+priceEpsCurrentYear: 16.945845
+priceHint: 2
+priceToBook: 5.856743
+priceToSalesTrailing12Months: 4.736442
+profitMargins: 0.21544
+quickRatio: 0.518
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.22222
+region: US
+regularMarketChange: 6.5599976
+regularMarketChangePercent: 2.0123925
+regularMarketDayHigh: 332.875
+regularMarketDayLow: 325.99
+regularMarketDayRange: 325.99 - 332.875
+regularMarketOpen: 324.97
+regularMarketPreviousClose: 325.98
+regularMarketPrice: 332.54
+regularMarketTime: 1794413709
+regularMarketVolume: 79144
+returnOnAssets: 0.1065
+returnOnEquity: 0.25475
+revenueGrowth: 0.063
+revenuePerShare: 67.904
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 4
+sharesOutstanding: 35269870
+sharesPercentSharesOut: 0.1095
+sharesShort: 3860632
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3179609
+shortName: FactSet Research Systems Inc.
+shortPercentOfFloat: 0.126
+shortRatio: 5.23
+sourceInterval: 15
+state: CT
+symbol: FDS
+targetHighPrice: 340.0
+targetLowPrice: 212.0
+targetMeanPrice: 288.75
+targetMedianPrice: 300.0
+totalCash: 265332000
+totalCashPerShare: 7.526
+totalDebt: 1542413952
+totalRevenue: 2476256000
+tradeable: false
+trailingAnnualDividendRate: 4.52
+trailingAnnualDividendYield: 0.013865881
+trailingEps: 14.57
+trailingPE: 22.82361
+trailingPegRatio: 1.0898
+triggerable: true
+twoHundredDayAverage: 252.0077
+twoHundredDayAverageChange: 80.5323
+twoHundredDayAverageChangePercent: 0.31956285
+typeDisp: Equity
+volume: 79144
+website: https://www.factset.com
+zip: 06850

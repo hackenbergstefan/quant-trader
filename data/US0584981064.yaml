@@ -1,0 +1,273 @@
+52WeekChange: 0.43727136
+SandP52WeekChange: 0.097798586
+address1: 9200 West 108th Circle
+allTimeHigh: 102.76
+allTimeLow: 0.125
+ask: 65.56
+askSize: 100
+auditRisk: 8
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 2957360
+averageDailyVolume3Month: 2150417
+averageVolume: 2150417
+averageVolume10days: 2957360
+beta: 0.95
+bid: 65.51
+bidSize: 200
+boardRisk: 2
+bookValue: 21.821
+city: Westminster
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ronald J. Lewis
+  title: CEO & Director
+  totalPay: 2450512
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel J. Rabbitt
+  title: Senior VP & CFO
+  totalPay: 1438761
+  unexercisedValue: 166670
+  yearBorn: 1969
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott A. Vail
+  title: Senior VP and Chief Supply Chain & Operations Officer
+  totalPay: 689424
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hannah S. Lim-Johnson Esq.
+  title: SVP, Chief Legal Officer & Corporate Secretary
+  totalPay: 1441343
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Carey S. Causey
+  title: Senior VP, Chief Growth Officer and President of Beverage Packaging North
+    & Central America
+  totalPay: 1510892
+  unexercisedValue: 301175
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Edmund J. Doering
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Brandon  Potthoff
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Courtney  K. Reynolds
+  title: Chief Communications & Public Affairs Officer
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer  Cmil
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fauze C. Villatoro
+  title: Senior VP & President of Beverage Packaging South America
+  unexercisedValue: 0
+  yearBorn: 1977
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions:
+- header: Dividend
+  message: BALL announced a cash dividend of $0.20 with an ex-date of Dec. 1, 2026
+  meta:
+    amount: '0.20'
+    dateEpochMs: 1796101200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 65.62
+currentRatio: 1.044
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 66.395
+dayLow: 65.32
+debtToEquity: 133.084
+displayName: Ball
+dividendDate: 1797292800
+dividendRate: 0.8
+dividendYield: 1.2
+earningsCallTimestampEnd: 1793712600
+earningsCallTimestampStart: 1793712600
+earningsTimestamp: 1793712600
+earningsTimestampEnd: 1801575000
+earningsTimestampStart: 1801575000
+ebitda: 2096000000
+ebitdaMargins: 0.13849
+enterpriseToEbitda: 11.75
+enterpriseToRevenue: 1.627
+enterpriseValue: 24628871168
+epsCurrentYear: 4.00233
+epsForward: 4.47312
+epsTrailingTwelveMonths: 1.99
+esgPopulated: false
+exDividendDate: 1796083200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 61.5158
+fiftyDayAverageChange: 4.1042023
+fiftyDayAverageChangePercent: 0.066717856
+fiftyTwoWeekChangePercent: 43.727135
+fiftyTwoWeekHigh: 69.58
+fiftyTwoWeekHighChange: -3.959999
+fiftyTwoWeekHighChangePercent: -0.05691289
+fiftyTwoWeekLow: 46.41
+fiftyTwoWeekLowChange: 19.210003
+fiftyTwoWeekLowChangePercent: 0.41391948
+fiftyTwoWeekRange: 46.41 - 69.58
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 1.29
+floatShares: 259268596
+forwardEps: 4.47312
+forwardPE: 14.66985
+freeCashflow: 263500000
+fullExchangeName: NYSE
+fullTimeEmployees: 16000
+fulldayChange: -1.1699982
+fulldayChangePercent: -1.7517564
+fulldayPrice: 65.62
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.17839001
+grossProfits: 2700000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00262
+heldPercentInstitutions: 0.9432
+impliedSharesOutstanding: 260291542
+industry: Packaging & Containers
+industryDisp: Packaging & Containers
+industryKey: packaging-containers
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=115234&p=irol-IRHome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788220800
+lastDividendValue: 0.2
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1494979200
+lastSplitFactor: '2:1'
+longBusinessSummary: Ball Corporation supplies aluminum packaging products for the
+  beverage, personal care, and household products industries in the United States,
+  Brazil, and internationally. The company manufactures and sells aluminum beverage
+  containers to fillers of carbonated soft drinks, beer, energy drinks, and other
+  beverages. It manufactures and sells extruded aluminum aerosol containers, recloseable
+  aluminum bottles, aluminum cups, and aluminum slugs. The company was founded in
+  1880 and is headquartered in Westminster, Colorado.
+longName: Ball Corporation
+market: us_market
+marketCap: 17080331264
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_170352
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 529000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 17384872090
+numberOfAnalystOpinions: 13
+open: 65.9
+operatingCashflow: 1231000064
+operatingMargins: 0.0958
+overallRisk: 7
+payoutRatio: 0.402
+pegRatio: 1.25
+phone: 303 469 3131
+previousClose: 66.79
+priceEpsCurrentYear: 16.39545
+priceHint: 2
+priceToBook: 3.0071952
+priceToSalesTrailing12Months: 1.128532
+profitMargins: 0.035150003
+quickRatio: 0.596
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.71429
+region: US
+regularMarketChange: -1.1699982
+regularMarketChangePercent: -1.7517564
+regularMarketDayHigh: 66.395
+regularMarketDayLow: 65.32
+regularMarketDayRange: 65.32 - 66.395
+regularMarketOpen: 65.9
+regularMarketPreviousClose: 66.79
+regularMarketPrice: 65.62
+regularMarketTime: 1794413708
+regularMarketVolume: 329217
+returnOnAssets: 0.04651
+returnOnEquity: 0.094890006
+revenueGrowth: 0.239
+revenuePerShare: 57.002
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 9
+sharesOutstanding: 260291542
+sharesPercentSharesOut: 0.0322
+sharesShort: 8386459
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7952765
+shortName: Ball Corporation
+shortPercentOfFloat: 0.0376
+shortRatio: 3.55
+sourceInterval: 15
+state: CO
+symbol: BALL
+targetHighPrice: 80.0
+targetLowPrice: 63.0
+targetMeanPrice: 72.61538
+targetMedianPrice: 74.0
+totalCash: 415000000
+totalCashPerShare: 1.594
+totalDebt: 7639000064
+totalRevenue: 15134999552
+tradeable: false
+trailingAnnualDividendRate: 0.8
+trailingAnnualDividendYield: 0.011977841
+trailingEps: 1.99
+trailingPE: 32.974876
+trailingPegRatio: 1.2476
+triggerable: true
+twoHundredDayAverage: 61.25855
+twoHundredDayAverageChange: 4.361454
+twoHundredDayAverageChangePercent: 0.07119747
+typeDisp: Equity
+volume: 329217
+website: https://www.ball.com
+zip: '80021'

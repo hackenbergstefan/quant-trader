@@ -1,0 +1,279 @@
+52WeekChange: 0.037809372
+SandP52WeekChange: 0.097798586
+address1: 801 East 86th Avenue
+allTimeHigh: 49.21
+allTimeLow: 1.571709
+ask: 45.19
+askSize: 400
+auditRisk: 7
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 6182400
+averageDailyVolume3Month: 5600803
+averageVolume: 5600803
+averageVolume10days: 6182400
+beta: 0.536
+bid: 45.18
+bidSize: 100
+boardRisk: 3
+bookValue: 19.957
+city: Merrillville
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lloyd M. Yates
+  title: President, CEO & Director
+  totalPay: 3577936
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shawn  Anderson
+  title: Executive VP & CFO
+  totalPay: 1478354
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William  Jefferson Jr.
+  title: Executive VP and Chief Operating & Safety Officer
+  totalPay: 1422799
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael S. Luhrs
+  title: Executive VP of Technology & Customer and Chief Commercial Officer
+  totalPay: 1701097
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melody  Birmingham
+  title: Executive VP & Group President of NiSource Utilities
+  totalPay: 1495177
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gunnar J. Gode
+  title: Senior VP, Chief Accounting & Tax Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melanie B. Berman
+  title: Executive VP of Administration & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Durgesh  Chopra
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kimberly S. Cuccia
+  title: Executive VP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1984
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Angela  Sanchez
+  title: Vice President of Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 45.25
+currentRatio: 0.496
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 45.375
+dayLow: 45.13
+debtToEquity: 153.103
+displayName: NiSource
+dividendDate: 1795132800
+dividendRate: 1.2
+dividendYield: 2.65
+earningsCallTimestampEnd: 1793199600
+earningsCallTimestampStart: 1793199600
+earningsGrowth: 0.346
+earningsQuarterlyGrowth: 0.367
+earningsTimestamp: 1793190600
+earningsTimestampEnd: 1793190600
+earningsTimestampStart: 1793190600
+ebitda: 3105700096
+ebitdaMargins: 0.44636002
+enterpriseToEbitda: 13.637
+enterpriseToRevenue: 6.087
+enterpriseValue: 42352492544
+epsCurrentYear: 2.05987
+epsForward: 2.2576
+epsTrailingTwelveMonths: 1.95
+esgPopulated: false
+exDividendDate: 1793318400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 41.7696
+fiftyDayAverageChange: 3.4804
+fiftyDayAverageChangePercent: 0.08332376
+fiftyTwoWeekChangePercent: 3.7809372
+fiftyTwoWeekHigh: 49.21
+fiftyTwoWeekHighChange: -3.959999
+fiftyTwoWeekHighChangePercent: -0.08047143
+fiftyTwoWeekLow: 38.42
+fiftyTwoWeekLowChange: 6.830002
+fiftyTwoWeekLowChangePercent: 0.17777205
+fiftyTwoWeekRange: 38.42 - 49.21
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 3.06
+floatShares: 477893868
+forwardEps: 2.2576
+forwardPE: 20.043407
+freeCashflow: -2224987392
+fullExchangeName: NYSE
+fullTimeEmployees: 7668
+fulldayChange: -0.040000916
+fulldayChangePercent: -0.08832174
+fulldayPrice: 45.25
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.50918
+grossProfits: 3542799872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00336
+heldPercentInstitutions: 0.96222997
+impliedSharesOutstanding: 479668642
+industry: Utilities - Regulated Gas
+industryDisp: Utilities - Regulated Gas
+industryKey: utilities-regulated-gas
+irWebsite: http://ir.nisource.com/index.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793318400
+lastDividendValue: 0.3
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1435795200
+lastSplitFactor: 2545:1000
+longBusinessSummary: NiSource Inc., an energy holding company, operates as a regulated
+  natural gas and electric utility company in the United States. It operates in two
+  segments, Columbia Operations and NIPSCO Operations. The company provides natural
+  gas to residential, commercial, and industrial customers through approximately 37,300
+  miles of distribution main pipeline and the associated individual customer service
+  lines; and 310 miles of transmission main pipeline in Ohio, Pennsylvania, Virginia,
+  Kentucky, and Maryland. It also generates, transmits, and distributes electricity
+  to approximately 0.5 million customers in various counties in the northern part
+  of Indiana, as well as engages in wholesale electric and transmission transactions.
+  It owns and operates steam coal generating stations in Wheatfield and Michigan City;
+  combined cycle gas turbine in West Terre Haute; natural gas generating units in
+  Wheatfield; hydro generating plants in Carroll County and White County; wind generating
+  units in White County; and solar generating units in Sullivan County, Gibson County,
+  Jasper County, and White County. The company was formerly known as NIPSCO Industries,
+  Inc. and changed its name to NiSource Inc. in April 1999. NiSource Inc. was founded
+  in 1847 and is headquartered in Merrillville, Indiana.
+longName: NiSource Inc.
+market: us_market
+marketCap: 21705005056
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_53839770
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 940700032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 21724192796
+numberOfAnalystOpinions: 16
+open: 45.28
+operatingCashflow: 2382099968
+operatingMargins: 0.27379
+overallRisk: 4
+payoutRatio: 0.6051
+pegRatio: 2.6
+phone: 614 460 6000
+previousClose: 45.29
+priceEpsCurrentYear: 21.967405
+priceHint: 2
+priceToBook: 2.2673748
+priceToSalesTrailing12Months: 3.1195214
+profitMargins: 0.13509
+quickRatio: 0.196
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.64706
+region: US
+regularMarketChange: -0.040000916
+regularMarketChangePercent: -0.08832174
+regularMarketDayHigh: 45.375
+regularMarketDayLow: 45.13
+regularMarketDayRange: 45.13 - 45.375
+regularMarketOpen: 45.28
+regularMarketPreviousClose: 45.29
+regularMarketPrice: 45.25
+regularMarketTime: 1794413722
+regularMarketVolume: 624026
+returnOnAssets: 0.0325
+returnOnEquity: 0.08713
+revenueGrowth: 0.06
+revenuePerShare: 14.52
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 5
+sharesOutstanding: 479668642
+sharesPercentSharesOut: 0.0414
+sharesShort: 19866607
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 16742437
+shortName: NiSource Inc
+shortPercentOfFloat: 0.053200003
+shortRatio: 3.43
+sourceInterval: 15
+state: IN
+symbol: NI
+targetHighPrice: 52.0
+targetLowPrice: 43.0
+targetMeanPrice: 48.21875
+targetMedianPrice: 49.0
+totalCash: 57500000
+totalCashPerShare: 0.12
+totalDebt: 18302599168
+totalRevenue: 6957799936
+tradeable: false
+trailingAnnualDividendRate: 0.3
+trailingAnnualDividendYield: 0.0066239787
+trailingEps: 1.95
+trailingPE: 23.205128
+trailingPegRatio: 2.6022
+triggerable: true
+twoHundredDayAverage: 44.9288
+twoHundredDayAverageChange: 0.32120132
+twoHundredDayAverageChangePercent: 0.007149119
+typeDisp: Equity
+volume: 624026
+website: https://www.nisource.com
+zip: '46410'

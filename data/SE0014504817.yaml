@@ -1,0 +1,260 @@
+52WeekChange: 0.41470754
+SandP52WeekChange: 0.097798586
+address1: Drottninggatan 82
+address2: 4th floor
+allTimeHigh: 586.0
+allTimeLow: 46.0
+ask: 523.5
+auditRisk: 10
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 103251
+averageDailyVolume3Month: 85657
+averageVolume: 85657
+averageVolume10days: 103251
+beta: 0.49
+bid: 523.0
+boardRisk: 6
+bookValue: 201.532
+city: Stockholm
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Aritz Larrea Uribiarte
+  title: President & CEO
+  totalPay: 29322000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tobias  Hagglov
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Georges Lopez Periago
+  title: Group Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Jenny  Bostrom
+  title: Head of Sustainability & IR
+  unexercisedValue: 0
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Erik  Aslund
+  title: Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marten  Lundberg
+  title: Chief Human Resources & Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martti  Ojanen
+  title: Head of Group Insurance
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bjorn  Zuger
+  title: President & CEO of Loomis USA
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Johan  Wilsby
+  title: Executive Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Christel Athina Yotis Pehrman
+  title: Chief Risk Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 523.5
+currentRatio: 1.449
+customPriceAlertConfidence: HIGH
+dayHigh: 525.5
+dayLow: 513.0
+debtToEquity: 167.25
+dividendRate: 15.0
+dividendYield: 2.9
+earningsCallTimestampEnd: 1793350800
+earningsCallTimestampStart: 1793350800
+earningsGrowth: 0.32
+earningsQuarterlyGrowth: 0.307
+earningsTimestamp: 1793377800
+earningsTimestampEnd: 1793377800
+earningsTimestampStart: 1793377800
+ebitda: 5922999808
+ebitdaMargins: 0.18952
+enterpriseToEbitda: 7.707
+enterpriseToRevenue: 1.461
+enterpriseValue: 45646262272
+epsCurrentYear: 41.3
+epsForward: 33.76
+epsTrailingTwelveMonths: 30.07
+esgPopulated: false
+exDividendDate: 1778112000
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 546.83
+fiftyDayAverageChange: -23.330017
+fiftyDayAverageChangePercent: -0.04266411
+fiftyTwoWeekChangePercent: 41.470753
+fiftyTwoWeekHigh: 586.0
+fiftyTwoWeekHighChange: -62.5
+fiftyTwoWeekHighChangePercent: -0.10665529
+fiftyTwoWeekLow: 352.2
+fiftyTwoWeekLowChange: 171.29999
+fiftyTwoWeekLowChangePercent: 0.48637134
+fiftyTwoWeekRange: 352.2 - 586.0
+financialCurrency: SEK
+firstTradeDateMilliseconds: 1228809600000
+fiveYearAvgDividendYield: 3.27
+floatShares: 66749588
+forwardEps: 33.76
+forwardPE: 15.506517
+freeCashflow: -2246625024
+fullExchangeName: Stockholm
+fullTimeEmployees: 23100
+fulldayChange: 6.0
+fulldayChangePercent: 1.1594203
+fulldayPrice: 523.5
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.29900998
+grossProfits: 9345000448
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.68627
+impliedSharesOutstanding: 66922248
+industry: Security & Protection Services
+industryDisp: Security & Protection Services
+industryKey: security-protection-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778112000
+lastDividendValue: 20.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Loomis AB (publ) provides secure payment solutions in the United
+  States, France, Switzerland, Spain, the United Kingdom, Sweden, and internationally.
+  The company provides transportation of cash and valuables with logistics systems
+  to and from central banks, financial institutions, retailers, restaurants and other
+  businesses; cash management services, and vault and cash storage outsourcing for
+  central banks and commercial banks; and international valuables logistics services,
+  including collection and coordination of cross-border transportation, as well as
+  customs clearance, storage, and secure delivery. It also offers automated teller
+  machine services; automated cash-handling solutions, such as SafePoint, cash recyclers,
+  and front office solutions; foreign exchange services; and Loomis Pay, an end-to-end
+  payment solution that handles all types of payment instruments comprising cards,
+  cash, and digital options in one system. Loomis AB (publ) was founded in 1852 and
+  is headquartered in Stockholm, Sweden.
+longName: Loomis AB (publ)
+market: se_market
+marketCap: 35033796608
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_25837432
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2022000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 34632262822
+numberOfAnalystOpinions: 4
+open: 513.0
+operatingCashflow: 5242999808
+operatingMargins: 0.13272001
+overallRisk: 8
+payoutRatio: 0.499
+pegRatio: 1.58
+phone: 46 8 52 29 20 00
+previousClose: 517.5
+priceEpsCurrentYear: 12.675545
+priceHint: 2
+priceToBook: 2.5976024
+priceToSalesTrailing12Months: 1.1209738
+profitMargins: 0.0647
+quickRatio: 1.265
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.5
+region: US
+regularMarketChange: 6.0
+regularMarketChangePercent: 1.1594203
+regularMarketDayHigh: 525.5
+regularMarketDayLow: 513.0
+regularMarketDayRange: 513.0 - 525.5
+regularMarketOpen: 513.0
+regularMarketPreviousClose: 517.5
+regularMarketPrice: 523.5
+regularMarketTime: 1794412365
+regularMarketVolume: 56784
+returnOnAssets: 0.06286
+returnOnEquity: 0.15604
+revenueGrowth: 0.068
+revenuePerShare: 466.722
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 4
+sharesOutstanding: 66922247
+shortName: Loomis AB
+sourceInterval: 15
+symbol: LOOMIS.ST
+targetHighPrice: 630.0
+targetLowPrice: 560.0
+targetMeanPrice: 586.25
+targetMedianPrice: 577.5
+totalCash: 11543000064
+totalCashPerShare: 172.484
+totalDebt: 22556999680
+totalRevenue: 31253000192
+tradeable: false
+trailingAnnualDividendRate: 15.0
+trailingAnnualDividendYield: 0.028985508
+trailingEps: 30.07
+trailingPE: 17.409378
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 485.079
+twoHundredDayAverageChange: 38.42099
+twoHundredDayAverageChangePercent: 0.07920563
+typeDisp: Equity
+volume: 56784
+website: https://www.loomis.com
+zip: 111 36

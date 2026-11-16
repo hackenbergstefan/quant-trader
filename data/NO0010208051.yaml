@@ -1,0 +1,277 @@
+52WeekChange: 0.070575714
+SandP52WeekChange: 0.097798586
+address1: Drammensveien 131
+allTimeHigh: 599.4
+allTimeLow: 44.6
+ask: 406.8
+askSize: 180
+auditRisk: 5
+averageDailyVolume10Day: 488157
+averageDailyVolume3Month: 517561
+averageVolume: 517561
+averageVolume10days: 488157
+beta: 0.276
+bid: 406.6
+bidSize: 643
+boardRisk: 5
+bookValue: 341.78506
+city: Oslo
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Svein Tore  Holsether
+  title: President & CEO
+  totalPay: 12944559
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Magnus Krogh Ankarstrand
+  title: EVP & CFO
+  totalPay: 6097618
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristine  Ryssdal
+  title: Executive VP & General Counsel
+  totalPay: 5582458
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Fernanda Lopes Larsen M.Sc.
+  title: Executive VP of Corporate Development
+  totalPay: 7380834
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Chrystel  Monthean
+  title: Executive Vice President of Americas
+  totalPay: 8785815
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Monica Andres Enriquez
+  title: Executive Vice President of Europe
+  totalPay: 6481646
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Johan  Labby
+  title: Executive VP of Global Production
+  totalPay: 5516893
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Luis Alfredo Pérez
+  title: Executive VP of Africa & Asia
+  totalPay: 5123498
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jorge  Noval
+  title: Executive VP & CEO of Yara Industrial Solutions
+  totalPay: 7718030
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 38
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hanna  Opsahl-Ben Ammar
+  title: EVP of People and External Affairs & Chief of Staff
+  totalPay: 4742092
+  unexercisedValue: 0
+  yearBorn: 1987
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Norway
+cryptoTradeable: false
+currency: NOK
+currentPrice: 408.8
+currentRatio: 1.851
+customPriceAlertConfidence: LOW
+dayHigh: 410.3
+dayLow: 401.6
+debtToEquity: 41.118
+dividendRate: 22.0
+dividendYield: 5.45
+earningsCallTimestampEnd: 1792753200
+earningsCallTimestampStart: 1792753200
+earningsGrowth: -0.382
+earningsQuarterlyGrowth: -0.382
+earningsTimestamp: 1792678800
+earningsTimestampEnd: 1792678800
+earningsTimestampStart: 1792678800
+ebitda: 2887000064
+ebitdaMargins: 0.17097001
+enterpriseToEbitda: 36.633
+enterpriseToRevenue: 6.263
+enterpriseValue: 105760792576
+epsCurrentYear: 46.944
+epsForward: 40.20483
+epsTrailingTwelveMonths: 53.68
+esgPopulated: false
+exDividendDate: 1778630400
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 47 24 15 70 01
+fiftyDayAverage: 424.028
+fiftyDayAverageChange: -15.228027
+fiftyDayAverageChangePercent: -0.035912786
+fiftyTwoWeekChangePercent: 7.0575714
+fiftyTwoWeekHigh: 599.4
+fiftyTwoWeekHighChange: -190.60004
+fiftyTwoWeekHighChangePercent: -0.3179847
+fiftyTwoWeekLow: 356.1
+fiftyTwoWeekLowChange: 52.69998
+fiftyTwoWeekLowChangePercent: 0.14799209
+fiftyTwoWeekRange: 356.1 - 599.4
+financialCurrency: USD
+firstTradeDateMilliseconds: 1080115200000
+fiveYearAvgDividendYield: 2.66
+floatShares: 162481836
+forwardEps: 40.20483
+forwardPE: 10.1679325
+freeCashflow: 2223624960
+fullExchangeName: Oslo
+fullTimeEmployees: 15383
+fulldayChange: 5.299988
+fulldayChangePercent: 1.3135039
+fulldayPrice: 408.8
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.28675
+grossProfits: 4841999872
+hasPrePostMarketData: false
+heldPercentInsiders: 0.36668
+heldPercentInstitutions: 0.41761002
+impliedSharesOutstanding: 254666427
+industry: Agricultural Inputs
+industryDisp: Agricultural Inputs
+industryKey: agricultural-inputs
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778630400
+lastDividendValue: 22.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Yara International ASA provides crop nutrition, ammonia, and
+  industrial solutions in Norway, European Union, Europe, Africa, Asia, North America,
+  Latin America, Australia, and New Zealand. The company offers ammonium- and urea-based
+  fertilizers; compound fertilizers that contain nutrients, such as nitrogen, phosphorus,
+  and potassium; coatings; biostimulants; organic-based fertilizers; climate choice
+  fertilizers; and nitrate-based fertilizers, as well as foliar and fertigation solutions;
+  and nitrate, calcium nitrate, micronutrient, and urea fertilizers. It also provides
+  digital solutions, such as YaraFX Insight, an agricultural API that connects unparalleled
+  crop nutrition expertise with digital platforms; N-sensors, a tractor-mounted sensor;
+  N-Tester, a handheld tool that measures chlorophyll content; YaraPlus, a digital
+  platform to support crop nutrition decisions; Atfarm, a digital toolbox for farmer;
+  Tankmix, an app and web solutions that provides guidelines; Yara E-commerce, a platform
+  that enables customer access to nutritional solutions; Yara FarmCare, a mobile app
+  for farmers; Yara AllFarm, a farm management platform; YaraConnect, a mobile app
+  for retailers; and Yara Crop Nutrition Recommendation System, a service that helps
+  farmers to make decisions for crop management. The company sells its products under
+  YaraBela, YaraMila, YaraLiva, YaraVita, YaraAmplix, YaraRega, YaraTera, YaraSuna,
+  and YaraVera brand names. Yara International ASA was founded in 1905 and is based
+  in Oslo, Norway.
+longName: Yara International ASA
+market: no_market
+marketCap: 104107630592
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_9235643
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1410000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 102757903294
+numberOfAnalystOpinions: 19
+open: 402.0
+operatingCashflow: 1914000000
+operatingMargins: 0.11637
+overallRisk: 3
+payoutRatio: 0.4023
+pegRatio: 2.53
+phone: 47 24 15 70 00
+previousClose: 403.5
+priceEpsCurrentYear: 8.708248
+priceHint: 2
+priceToBook: 1.1960733
+priceToSalesTrailing12Months: 6.1653223
+profitMargins: 0.083500005
+quickRatio: 0.728
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 5.299988
+regularMarketChangePercent: 1.3135039
+regularMarketDayHigh: 410.3
+regularMarketDayLow: 401.6
+regularMarketDayRange: 401.6 - 410.3
+regularMarketOpen: 402.0
+regularMarketPreviousClose: 403.5
+regularMarketPrice: 408.8
+regularMarketTime: 1794410974
+regularMarketVolume: 485587
+returnOnAssets: 0.07062
+returnOnEquity: 0.15948
+revenueGrowth: 0.084
+revenuePerShare: 66.291
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 1
+sharesOutstanding: 254666427
+shortName: YARA INTERNATIONAL
+sourceInterval: 15
+symbol: YAR.OL
+targetHighPrice: 580.0
+targetLowPrice: 350.0
+targetMeanPrice: 446.05264
+targetMedianPrice: 445.0
+totalCash: 874000000
+totalCashPerShare: 3.431
+totalDebt: 3831000064
+totalRevenue: 16885999616
+tradeable: false
+trailingAnnualDividendRate: 2.3
+trailingAnnualDividendYield: 0.005700124
+trailingEps: 53.68
+trailingPE: 7.615499
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 468.8075
+twoHundredDayAverageChange: -60.007507
+twoHundredDayAverageChangePercent: -0.12800032
+typeDisp: Equity
+volume: 485587
+website: https://www.yara.com
+zip: '0277'

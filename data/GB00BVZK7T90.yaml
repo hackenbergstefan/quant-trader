@@ -1,0 +1,269 @@
+52WeekChange: 0.0022206306
+SandP52WeekChange: 0.097798586
+address1: Unilever House
+address2: 100 Victoria Embankment
+allTimeHigh: 5914.9614
+allTimeLow: 23.5026
+ask: 4911.5
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 2.5 - Hold
+averageDailyVolume10Day: 4151445
+averageDailyVolume3Month: 3362989
+averageVolume: 3362989
+averageVolume10days: 4151445
+beta: 0.463
+bid: 4911.0
+bidSize: 0
+boardRisk: 4
+bookValue: 6.3081346
+city: London
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fernando  Fernandez
+  title: CEO & Director
+  totalPay: 3218231
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Srinivas  Phatak
+  title: CFO & Director
+  totalPay: 1415910
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hein M. A. Schumacher
+  title: Executive Officer
+  totalPay: 1798744
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wilhelmus  Uijen
+  title: Chief Supply Chain & Operations Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Reema  Jain
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jemma  Spalton
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Prakash  Kakkad
+  title: Chief Legal Officer & Group Company Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Stewart
+  title: Chief Corporate Affairs & Communications Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Leandro  Barreto
+  title: Chief Marketing Officer and Chief Marketing Officer of Beauty & Wellbeing
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mairead  Nayager
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: ULVR.L announced a cash dividend of GBp 0.391 with an ex-date of Nov. 12,
+    2026
+  meta:
+    amount: '0.391'
+    dateEpochMs: 1794441600000
+    eventType: DIVIDEND
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 4913.0
+currentRatio: 0.74
+customPriceAlertConfidence: LOW
+dayHigh: 4977.5
+dayLow: 4905.5
+debtToEquity: 175.397
+dividendRate: 1.56
+dividendYield: 3.16
+earningsCallTimestampEnd: 1785252600
+earningsCallTimestampStart: 1785252600
+earningsGrowth: -0.056
+earningsQuarterlyGrowth: -0.056
+earningsTimestampEnd: 1770913800
+earningsTimestampStart: 1770913800
+ebitda: 10876000256
+ebitdaMargins: 0.21486
+enterpriseToEbitda: 12.379
+enterpriseToRevenue: 2.66
+enterpriseValue: 134631489536
+epsCurrentYear: 3.25635
+epsForward: 2.9300075
+epsTrailingTwelveMonths: 3.69
+esgPopulated: false
+exDividendDate: 1794441600
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 4747.52
+fiftyDayAverageChange: 165.47998
+fiftyDayAverageChangePercent: 0.03485609
+fiftyTwoWeekChangePercent: 0.22206306
+fiftyTwoWeekHigh: 5542.11
+fiftyTwoWeekHighChange: -629.10986
+fiftyTwoWeekHighChangePercent: -0.113514505
+fiftyTwoWeekLow: 3644.0
+fiftyTwoWeekLowChange: 1269.0
+fiftyTwoWeekLowChangePercent: 0.34824368
+fiftyTwoWeekRange: 3644.0 - 5542.11
+financialCurrency: EUR
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 3.55
+floatShares: 2137473245
+forwardEps: 2.9300075
+forwardPE: 16.767876
+freeCashflow: 6732624896
+fullExchangeName: LSE
+fullTimeEmployees: 93731
+fulldayChange: -26.0
+fulldayChangePercent: -0.5264224
+fulldayPrice: 4913.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.47068
+grossProfits: 23825999872
+hasPrePostMarketData: false
+heldPercentInsiders: 0.02261
+heldPercentInstitutions: 0.50019
+impliedSharesOutstanding: 2153366959
+industry: Household & Personal Products
+industryDisp: Household & Personal Products
+industryKey: household-personal-products
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794441600
+lastDividendValue: 0.3907
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1765238400
+lastSplitFactor: '8:9'
+longBusinessSummary: 'Unilever PLC operates as a fast-moving consumer goods company
+  in the Asia Pacific, Africa, the Americas, and Europe. It operates through four
+  segments: Beauty & Wellbeing, Personal Care, Home Care, and Foods. The Beauty &
+  Wellbeing segment offers hair care, such as shampoo, conditioner, and styling; face,
+  hand, and body moisturizer skin care products; and Prestige Beauty and Wellbeing
+  products. The Personal Care segment provides soap and shower skin cleansing products;
+  and deodorant and oral care, including toothpaste, toothbrush, and mouthwash products.
+  The Home Care segment offers washing powders and liquids, and rinse conditioner
+  fabric care products; and a range of home and hygiene cleaning products. The Foods
+  segment provides cooking aids and mini meals comprising soups, bouillons, and seasonings,
+  as well as mayonnaise and ketchup condiments; and Unilever food solutions. The company
+  provides its products under the AXE, Clear, Cif, Closeup, Comfort, Dermalogica,
+  Domestos, Dove, Dove Men+Care, Hellmann''s, Horlicks, Knorr, LUX, Lifebuoy, Liquid
+  I.V., Nexxus, Nutrafol, OMO, Pond''s, Paula''s Choice, Pepsodent, Radiant, Rexona,
+  Sunlight, Sunsilk, Surf, TRESemmé, and Vaseline brand names. Unilever PLC was founded
+  in 1860 and is headquartered in London, the United Kingdom.'
+longName: Unilever PLC
+market: gb_market
+marketCap: 105794920448
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_523191
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 5598000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 106354794105
+numberOfAnalystOpinions: 15
+open: 4977.5
+operatingCashflow: 8636999680
+operatingMargins: 0.20030001
+overallRisk: 3
+payoutRatio: 0.4617
+pegRatio: 6.96
+phone: 44 20 7822 5252
+prevName: The Unilever Group
+previousClose: 4939.0
+priceEpsCurrentYear: 1508.7444
+priceHint: 2
+priceToBook: 7.7883563
+priceToSalesTrailing12Months: 2.0899827
+profitMargins: 0.18319
+quickRatio: 0.568
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.53333
+region: US
+regularMarketChange: -26.0
+regularMarketChangePercent: -0.5264224
+regularMarketDayHigh: 4977.5
+regularMarketDayLow: 4905.5
+regularMarketDayRange: 4905.5 - 4977.5
+regularMarketOpen: 4977.5
+regularMarketPreviousClose: 4939.0
+regularMarketPrice: 4913.0
+regularMarketTime: 1794411579
+regularMarketVolume: 1016890
+returnOnAssets: 0.08287
+returnOnEquity: 0.31869
+revenueGrowth: 0.005
+revenuePerShare: 23.25
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 1
+sharesOutstanding: 2153366959
+shortName: UNILEVER PLC ORD 3.5P
+sourceInterval: 15
+symbol: ULVR.L
+targetHighPrice: 5987.372
+targetLowPrice: 4006.329
+targetMeanPrice: 5277.526
+targetMedianPrice: 5348.687
+totalCash: 5943000064
+totalCashPerShare: 2.76
+totalDebt: 32110000128
+totalRevenue: 50619998208
+tradeable: false
+trailingAnnualDividendRate: 1.886
+trailingAnnualDividendYield: 0.00038185867
+trailingEps: 3.69
+trailingPE: 13.3143635
+trailingPegRatio: 6.9903
+triggerable: false
+twoHundredDayAverage: 4637.465
+twoHundredDayAverageChange: 275.53516
+twoHundredDayAverageChangePercent: 0.05941504
+typeDisp: Equity
+volume: 1016890
+website: https://www.unilever.com
+zip: EC4Y 0DY

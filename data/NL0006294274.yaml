@@ -1,0 +1,280 @@
+52WeekChange: 0.2742188
+SandP52WeekChange: 0.097798586
+address1: Beursplein 5
+allTimeHigh: 178.5
+allTimeLow: 15.620064
+ask: 0.0
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 394631
+averageDailyVolume3Month: 218334
+averageVolume: 218334
+averageVolume10days: 394631
+beta: 0.819
+bid: 0.0
+bidSize: 0
+boardRisk: 2
+bookValue: 47.857
+city: Amsterdam
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stéphane  Boujnah
+  title: Chairman of the Managing Board & Group CEO
+  totalPay: 2555000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Isabel  Ucha
+  title: CEO of Euronext Lisbon & Member of Managing Board
+  totalPay: 402000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daryl  Byrne
+  title: CEO of Euronext Dublin, Head of Debt & Funds Listings and ETFs and Member
+    of the Managing Board
+  totalPay: 549000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Simon Bartholemew Gallagher
+  title: CEO of Euronext London, Head of Global Sales & Member of the Managing Board
+  totalPay: 636000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Øivind  Amundsen
+  title: Member of Managing Board and CEO & President of Oslo Børs
+  totalPay: 457000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Delphine de Sahuguet d'Amarzit
+  title: CEO of Euronext Paris & Member of the Managing Board
+  totalPay: 657000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fabrizio  Testa
+  title: CEO of Borsa Italiana, Head of Fixed Income Trading & Member of Managing
+    Board
+  totalPay: 818000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Manuel  Bento
+  title: COO & Member of the Managing Board
+  totalPay: 982000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Benoit  Van den Hove
+  title: CEO of Euronext Brussels & Member of the Managing Board
+  totalPay: 372000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rene  van Vlerken
+  title: CEO of Euronext Amsterdam & Member of the Managing Board
+  totalPay: 422000
+  unexercisedValue: 0
+  yearBorn: 1971
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 166.4
+currentRatio: 1.003
+customPriceAlertConfidence: LOW
+dayHigh: 166.5
+dayLow: 162.5
+debtToEquity: 60.139
+dividendRate: 3.18
+dividendYield: 1.95
+earningsCallTimestampEnd: 1793952000
+earningsCallTimestampStart: 1793952000
+earningsGrowth: 0.301
+earningsQuarterlyGrowth: 0.302
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 1240946048
+ebitdaMargins: 0.59836
+enterpriseToEbitda: 14.691
+enterpriseToRevenue: 8.79
+enterpriseValue: 18230276096
+epsCurrentYear: 8.63711
+epsForward: 9.32232
+epsTrailingTwelveMonths: 7.32
+esgPopulated: false
+exDividendDate: 1779667200
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 164.92
+fiftyDayAverageChange: 1.4799957
+fiftyDayAverageChangePercent: 0.008974022
+fiftyTwoWeekChangePercent: 27.421879
+fiftyTwoWeekHigh: 178.5
+fiftyTwoWeekHighChange: -12.100006
+fiftyTwoWeekHighChangePercent: -0.06778715
+fiftyTwoWeekLow: 110.0
+fiftyTwoWeekLowChange: 56.399994
+fiftyTwoWeekLowChangePercent: 0.5127272
+fiftyTwoWeekRange: 110.0 - 178.5
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1403247600000
+fiveYearAvgDividendYield: 2.33
+floatShares: 87279494
+forwardEps: 9.32232
+forwardPE: 17.849634
+freeCashflow: 700344128
+fullExchangeName: Paris
+fullTimeEmployees: 3056
+fulldayChange: 3.2999878
+fulldayChangePercent: 2.023291
+fulldayPrice: 166.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 1.0
+grossProfits: 2073927936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.08474
+heldPercentInstitutions: 0.64248
+impliedSharesOutstanding: 99740109
+industry: Financial Data & Stock Exchanges
+industryDisp: Financial Data & Stock Exchanges
+industryKey: financial-data-stock-exchanges
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779667200
+lastDividendValue: 3.18
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Euronext N.V., together with its subsidiaries, operates securities
+  and derivatives exchanges in the Netherlands, France, Italy, Belgium, Portugal,
+  Ireland, the United States, Norway, Denmark, and internationally. The company offers
+  a range of exchange and corporate services, including security listings, cash and
+  derivatives trading, and market data dissemination. It also provides listing venues
+  and cash equities trading venues; and various marketplaces comprising multilateral
+  trading facilities for investors, broker-dealers, and other market participants
+  to meet directly to buy and sell cash equities, fixed income securities, and exchange
+  traded products. In addition, the company offers options contracts based on the
+  blue-chip equities listed on Euronext; commodity derivatives, such as milling wheat
+  futures contracts; and post-trade services, as well as distributes and sells real-time,
+  historic, and reference data to data vendors, and financial institutions and individual
+  investors. Further, it provides listing; cash, derivatives, fixed income, foreign
+  exchange, and power trading; investor; advances data; clearing; custody and settlement;
+  NTI; and other services. Additionally, it offers technology solutions and services
+  to exchanges, venue operators, and financial institutions; colocation and network
+  services; and software and services licensed by third parties. The company was formerly
+  known as Euronext Group N.V. and changed its name to Euronext N.V. in May 2014.
+  Euronext N.V. was founded in 2000 and is headquartered in Amsterdam, the Netherlands.
+longName: Euronext N.V.
+market: fr_market
+marketCap: 16596754432
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_5522530
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 750763008
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 16267611777
+numberOfAnalystOpinions: 17
+open: 162.7
+operatingCashflow: 979059968
+operatingMargins: 0.54833
+overallRisk: 3
+payoutRatio: 0.4344
+pegRatio: 4.5
+phone: 31 20 721 4400
+previousClose: 163.1
+priceEpsCurrentYear: 19.265703
+priceHint: 2
+priceToBook: 3.4770253
+priceToSalesTrailing12Months: 8.00257
+profitMargins: 0.36200002
+quickRatio: 0.005
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.17647
+region: US
+regularMarketChange: 3.2999878
+regularMarketChangePercent: 2.023291
+regularMarketDayHigh: 166.5
+regularMarketDayLow: 162.5
+regularMarketDayRange: 162.5 - 166.5
+regularMarketOpen: 162.7
+regularMarketPreviousClose: 163.1
+regularMarketPrice: 166.4
+regularMarketTime: 1794411540
+regularMarketVolume: 90769
+returnOnAssets: 0.00183
+returnOnEquity: 0.17177
+revenueGrowth: 0.249
+revenuePerShare: 20.468
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 4
+sharesOutstanding: 99740109
+shortName: EURONEXT
+sourceInterval: 15
+symbol: ENX.PA
+targetHighPrice: 200.0
+targetLowPrice: 136.0
+targetMeanPrice: 176.58824
+targetMedianPrice: 180.0
+totalCash: 1529500032
+totalCashPerShare: 15.1
+totalDebt: 3036900096
+totalRevenue: 2073927936
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 7.32
+trailingPE: 22.732239
+trailingPegRatio: 4.5213
+triggerable: false
+twoHundredDayAverage: 149.0035
+twoHundredDayAverageChange: 17.3965
+twoHundredDayAverageChangePercent: 0.1167523
+typeDisp: Equity
+volume: 90769
+website: https://www.euronext.com
+zip: 1012 JW

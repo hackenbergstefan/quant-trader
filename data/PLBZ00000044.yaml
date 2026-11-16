@@ -1,0 +1,193 @@
+52WeekChange: 0.5497836
+SandP52WeekChange: 0.097798586
+address1: Pl. Europejskie 3A
+allTimeHigh: 817.6
+allTimeLow: 27.6
+ask: 787.6
+averageAnalystRating: 3.0 - Hold
+averageDailyVolume10Day: 85004
+averageDailyVolume3Month: 71501
+averageVolume: 71501
+averageVolume10days: 85004
+beta: 0.236
+bid: 787.4
+bookValue: 322.81
+city: Warsaw
+companyOfficers:
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michal  Gajewski
+  title: President of the Management Board & CEO
+  totalPay: 3983000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Magdalena  Proga-Stepien
+  title: Vice President of the Management Board
+  totalPay: 1919000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bernhard  Leder
+  title: CFO & Member of Management Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul  Bartusch
+  title: Member of Management Board & Head of the Digital Transformation Division
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Poland
+cryptoTradeable: false
+currency: PLN
+currentPrice: 787.6
+customPriceAlertConfidence: LOW
+dayHigh: 802.0
+dayLow: 776.4
+dividendRate: 49.98
+dividendYield: 6.35
+earningsCallTimestampEnd: 1793354400
+earningsCallTimestampStart: 1793354400
+earningsGrowth: -0.211
+earningsQuarterlyGrowth: -0.211
+earningsTimestamp: 1793376300
+earningsTimestampEnd: 1793376300
+earningsTimestampStart: 1793376300
+ebitdaMargins: 0.0
+enterpriseToRevenue: 5.158
+enterpriseValue: 80455155712
+epsCurrentYear: 64.36756
+epsTrailingTwelveMonths: 51.49
+esgPopulated: false
+exDividendDate: 1778544000
+exchange: WSE
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Warsaw
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 771.12
+fiftyDayAverageChange: 16.47998
+fiftyDayAverageChangePercent: 0.021371486
+fiftyTwoWeekChangePercent: 54.97836
+fiftyTwoWeekHigh: 817.6
+fiftyTwoWeekHighChange: -30.0
+fiftyTwoWeekHighChangePercent: -0.03669276
+fiftyTwoWeekLow: 476.5
+fiftyTwoWeekLowChange: 311.09998
+fiftyTwoWeekLowChangePercent: 0.65288556
+fiftyTwoWeekRange: 476.5 - 817.6
+financialCurrency: PLN
+firstTradeDateMilliseconds: 993538800000
+fiveYearAvgDividendYield: 1.98
+floatShares: 42089735
+forwardPE: 11.964642
+fullExchangeName: Warsaw
+fullTimeEmployees: 10239
+fulldayChange: -8.0
+fulldayChangePercent: -1.0055305
+fulldayPrice: 787.6
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.0
+grossProfits: 15557030912
+hasPrePostMarketData: false
+heldPercentInsiders: 0.58699
+heldPercentInstitutions: 0.20674999
+impliedSharesOutstanding: 102189314
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: http://www.bzwbk.pl/investor-relations/bz-wbk-investor-relations.html
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778544000
+lastDividendValue: 49.98
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Erste Bank Polska S.A. provides various banking products and
+  services for individuals, small or medium-sized enterprises, corporate clients,
+  and public sector institutions. The company offers personal account, savings accounts
+  and term deposits, currencies, internet and mobile banking, and contactless payments,
+  and debit and credit solutions. It also provides consumer loans and home mortgages;
+  mutual funds, including pension schemes and various investment programmes; and tourist/travel,
+  motor, and home insurance products, as well as bancassurance products. In addition,
+  the company offers foreign exchange, bank guarantees, and foreign letter of credit.
+  The company was formerly known as Santander Bank Polska S.A. and changed its name
+  to Erste Bank Polska S.A. in April 2026. Erste Bank Polska S.A. was founded in 1857
+  and is headquartered in Warsaw, Poland.
+longName: Erste Bank Polska S.A.
+market: pl_market
+marketCap: 80484302848
+marketState: CLOSED
+maxAge: 86400
+messageBoardId: finmb_8100469
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 5168177152
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 80484303706
+numberOfAnalystOpinions: 9
+open: 795.6
+operatingCashflow: -27130765312
+operatingMargins: 0.58675
+payoutRatio: 0.9707
+pegRatio: 0.98
+phone: 48 61 811 9999
+prevName: Santander Bank Polska S.A.
+previousClose: 795.6
+priceEpsCurrentYear: 12.235976
+priceHint: 2
+priceToBook: 2.4398253
+priceToSalesTrailing12Months: 5.1595287
+profitMargins: 0.35448003
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.0
+region: US
+regularMarketChange: -8.0
+regularMarketChangePercent: -1.0055305
+regularMarketDayHigh: 802.0
+regularMarketDayLow: 776.4
+regularMarketDayRange: 776.4 - 802.0
+regularMarketOpen: 795.6
+regularMarketPreviousClose: 795.6
+regularMarketPrice: 787.6
+regularMarketTime: 1794326384
+regularMarketVolume: 97241
+returnOnAssets: 0.01653
+returnOnEquity: 0.15644
+revenueGrowth: 0.035
+revenuePerShare: 152.648
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+sharesOutstanding: 102189314
+shortName: EBP C.XWAR PLN
+sourceInterval: 15
+symbol: EBP.WA
+targetHighPrice: 880.0
+targetLowPrice: 570.0
+targetMeanPrice: 741.9354
+targetMedianPrice: 738.82
+totalCash: 34036465664
+totalCashPerShare: 333.073
+totalDebt: 33925939200
+totalRevenue: 15599158272
+tradeable: false
+trailingAnnualDividendRate: 49.98
+trailingAnnualDividendYield: 0.06282052
+trailingEps: 51.49
+trailingPE: 15.296173
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 667.368
+twoHundredDayAverageChange: 120.231995
+twoHundredDayAverageChangePercent: 0.18015847
+typeDisp: Equity
+volume: 97241
+website: https://www.erste.pl
+zip: 00-844

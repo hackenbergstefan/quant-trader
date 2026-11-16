@@ -1,0 +1,226 @@
+52WeekChange: 0.35725594
+SandP52WeekChange: 0.097798586
+address1: ul. Kosciuszki 111
+allTimeHigh: 1362.0
+allTimeLow: 33.3
+ask: 1286.0
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 17396
+averageDailyVolume3Month: 20172
+averageVolume: 20172
+averageVolume10days: 17396
+beta: 0.796
+bid: 1275.0
+bookValue: 217.034
+city: Kety
+companyOfficers:
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Roman  Przybylski
+  title: President of the Management Board
+  totalPay: 2829000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rafal  Warpechowski
+  title: CFO & Member of Management Board
+  totalPay: 2457000
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tomasz  Grela
+  title: COO & Member of the Management Board
+  totalPay: 2757000
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michal Boleslaw Malina
+  title: Head of Investor Relations
+  totalPay: 297472
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Zbigniew  Paruch
+  title: Chief PR Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Aleksandra  Kubica
+  title: Manager of HR Department
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rafal  Lechowicz
+  title: President of the Management Board - Alupol Packaging & CEO of Alupol Packaging
+  totalPay: 697015
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Poland
+cryptoTradeable: false
+currency: PLN
+currentPrice: 1286.0
+currentRatio: 1.187
+customPriceAlertConfidence: LOW
+dayHigh: 1286.0
+dayLow: 1267.0
+debtToEquity: 57.009
+dividendRate: 48.96
+dividendYield: 3.81
+earningsCallTimestampEnd: 1793095200
+earningsCallTimestampStart: 1793095200
+earningsGrowth: 0.179
+earningsQuarterlyGrowth: 0.182
+earningsTimestamp: 1793030700
+earningsTimestampEnd: 1793030700
+earningsTimestampStart: 1793030700
+ebitda: 1167000064
+ebitdaMargins: 0.19733
+enterpriseToEbitda: 11.848
+enterpriseToRevenue: 2.338
+enterpriseValue: 13826232320
+epsCurrentYear: 71.8
+epsForward: 63.22
+epsTrailingTwelveMonths: 70.35
+esgPopulated: false
+exDividendDate: 1787011200
+exchange: WSE
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Warsaw
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 1252.02
+fiftyDayAverageChange: 33.97998
+fiftyDayAverageChangePercent: 0.027140126
+fiftyTwoWeekChangePercent: 35.725594
+fiftyTwoWeekHigh: 1362.0
+fiftyTwoWeekHighChange: -76.0
+fiftyTwoWeekHighChangePercent: -0.055800293
+fiftyTwoWeekLow: 877.0
+fiftyTwoWeekLowChange: 409.0
+fiftyTwoWeekLowChangePercent: 0.4663626
+fiftyTwoWeekRange: 877.0 - 1362.0
+financialCurrency: PLN
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 6.93
+floatShares: 8775096
+forwardEps: 63.22
+forwardPE: 20.341663
+freeCashflow: 337124992
+fullExchangeName: Warsaw
+fullTimeEmployees: 6000
+fulldayChange: 16.0
+fulldayChangePercent: 1.2598425
+fulldayPrice: 1286.0
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.43388999
+grossProfits: 2566000128
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.70278
+impliedSharesOutstanding: 9860212
+industry: Aluminum
+industryDisp: Aluminum
+industryKey: aluminum
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787011200
+lastDividendValue: 48.96
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: "Grupa Kety S.A. produces and sells aluminum profiles and components\
+  \ in Poland and internationally. It operates through three segments: Extruded Products,\
+  \ Aluminum Systems, and Flexible Packaging. The company produces and sells aluminum\
+  \ profiles and components. It also engages in the production, trading, and sale\
+  \ of aluminum facades systems, doors and windows, internal structures, external\
+  \ aluminum roller shutters, and roller gates for the construction business. In addition,\
+  \ the company produces and sells pergolas, external blinds, awnings, reflex screens,\
+  \ and sunbreakers. Further, it is involved in the production and sale of printed\
+  \ flexible packaging and BOPP films for food manufacturers and other sectors. It\
+  \ sells its products under the Grupa Kety, Aluprof, Alupol Packaging, and Selt Sp.\
+  \ z o.o. brands. The company serves construction, automotive, transport, electrical\
+  \ engineering, household equipment, advertising, tourism, food concentrates, confectionery,\
+  \ fats, dairy, meat, cold meat, pharmaceutical, and chemical industries. The company\
+  \ was formerly known as Zaklady Metali Lekkich \x91Kety' and changed its name to\
+  \ Grupa Kety S.A. in 2000. The company was founded in 1953 and is headquartered\
+  \ in Kety, Poland."
+longName: Grupa Kety S.A.
+market: pl_market
+marketCap: 12680232960
+marketState: CLOSED
+maxAge: 86400
+messageBoardId: finmb_523521
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 696000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 12680232632
+numberOfAnalystOpinions: 6
+open: 1278.0
+operatingCashflow: 863000000
+operatingMargins: 0.15742
+payoutRatio: 0.69589996
+pegRatio: 0.7
+phone: 48 33 844 6000
+previousClose: 1270.0
+priceEpsCurrentYear: 17.910862
+priceHint: 2
+priceToBook: 5.9253387
+priceToSalesTrailing12Months: 2.1441045
+profitMargins: 0.11769
+quickRatio: 0.604
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.66667
+region: US
+regularMarketChange: 16.0
+regularMarketChangePercent: 1.2598425
+regularMarketDayHigh: 1286.0
+regularMarketDayLow: 1267.0
+regularMarketDayRange: 1267.0 - 1286.0
+regularMarketOpen: 1278.0
+regularMarketPreviousClose: 1270.0
+regularMarketPrice: 1286.0
+regularMarketTime: 1794326389
+regularMarketVolume: 19963
+returnOnAssets: 0.12928
+returnOnEquity: 0.3449
+revenueGrowth: 0.13
+revenuePerShare: 598.2
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+sharesOutstanding: 9860212
+shortName: KTY C.XWAR PLN
+sourceInterval: 15
+symbol: KTY.WA
+targetHighPrice: 1418.0
+targetLowPrice: 1091.7
+targetMeanPrice: 1249.7667
+targetMedianPrice: 1237.95
+totalCash: 74000000
+totalCashPerShare: 7.505
+totalDebt: 1220000000
+totalRevenue: 5913999872
+tradeable: false
+trailingAnnualDividendRate: 48.97
+trailingAnnualDividendYield: 0.038559057
+trailingEps: 70.35
+trailingPE: 18.28003
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 1175.355
+twoHundredDayAverageChange: 110.64502
+twoHundredDayAverageChangePercent: 0.094137534
+typeDisp: Equity
+volume: 19963
+website: https://www.grupakety.com
+zip: 32-650

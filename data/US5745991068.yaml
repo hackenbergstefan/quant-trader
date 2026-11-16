@@ -1,0 +1,275 @@
+52WeekChange: 0.35636592
+SandP52WeekChange: 0.097798586
+address1: 17450 College Parkway
+allTimeHigh: 87.86
+allTimeLow: 2.169376
+ask: 84.08
+askSize: 100
+auditRisk: 9
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 2595390
+averageDailyVolume3Month: 2205129
+averageVolume: 2205129
+averageVolume10days: 2595390
+beta: 1.21
+bid: 83.99
+bidSize: 200
+boardRisk: 4
+bookValue: -2.324
+city: Livonia
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathon J. Nudi
+  title: President, CEO & Director
+  totalPay: 2104929
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard J. Westenberg
+  title: VP, CFO & Treasurer
+  totalPay: 1053885
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kenneth G. Cole J.D.
+  title: VP, General Counsel & Secretary
+  totalPay: 846386
+  unexercisedValue: 3131244
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Yaron  Ben David
+  title: Chief Technology and AI Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Renee  Benedict
+  title: Vice President of Investor Relations & Corporate FP&A
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sue  Sabo
+  title: Director of Corporate Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Zack  Gordon
+  title: Vice President of Strategy, Corporate Development & Transformation
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brad  Hiranaga
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer A. Stone
+  title: VP & Chief Human Resource Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jill D. Ehnes
+  title: President of Delta Faucet Company & North America Plumbing
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 84.29
+currentRatio: 1.834
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 84.73
+dayLow: 83.69
+displayName: Masco
+dividendDate: 1795392000
+dividendRate: 1.28
+dividendYield: 1.51
+earningsCallTimestampEnd: 1793188800
+earningsCallTimestampStart: 1793188800
+earningsGrowth: 0.3
+earningsQuarterlyGrowth: 0.217
+earningsTimestamp: 1793190600
+earningsTimestampEnd: 1793190600
+earningsTimestampStart: 1793190600
+ebitda: 1450000000
+ebitdaMargins: 0.1891
+enterpriseToEbitda: 13.433
+enterpriseToRevenue: 2.54
+enterpriseValue: 19477819392
+epsCurrentYear: 4.72106
+epsForward: 4.70159
+epsTrailingTwelveMonths: 4.61
+esgPopulated: false
+exDividendDate: 1793923200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 313 792 4177
+fiftyDayAverage: 72.7932
+fiftyDayAverageChange: 11.496803
+fiftyDayAverageChangePercent: 0.15793788
+fiftyTwoWeekChangePercent: 35.636593
+fiftyTwoWeekHigh: 87.86
+fiftyTwoWeekHighChange: -3.5699997
+fiftyTwoWeekHighChangePercent: -0.04063282
+fiftyTwoWeekLow: 58.16
+fiftyTwoWeekLowChange: 26.130001
+fiftyTwoWeekLowChangePercent: 0.44927788
+fiftyTwoWeekRange: 58.16 - 87.86
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 1.76
+floatShares: 191945979
+forwardEps: 4.70159
+forwardPE: 17.927977
+freeCashflow: 815625024
+fullExchangeName: NYSE
+fullTimeEmployees: 18000
+fulldayChange: -0.51000214
+fulldayChangePercent: -0.6014176
+fulldayPrice: 84.29
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.36606997
+grossProfits: 2807000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00236
+heldPercentInstitutions: 1.08639
+impliedSharesOutstanding: 192769103
+industry: Building Products & Equipment
+industryDisp: Building Products & Equipment
+industryKey: building-products-equipment
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793923200
+lastDividendValue: 0.32
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1435708800
+lastSplitFactor: 1138:1000
+longBusinessSummary: Masco Corporation provides home improvement and building products
+  in North America, Europe, and internationally. The company's Plumbing Products segment
+  offers faucets, showerheads, handheld showers, valves, bath hardware and accessories,
+  bathing units, shower bases and enclosures, shower drains, steam shower systems,
+  water filtration systems, and sinks and kitchen accessories; acrylic tubs, bath
+  and shower enclosures, and shower bases and trays; spas, exercise pools, and aquatic
+  fitness systems and saunas; brass, copper, and composite plumbing system component
+  and other non-decorative plumbing products; water products; and thermoplastic products,
+  extruded plastic profiles, and specialized fabrication products, as well as PEX
+  tubing products. This segment provides its products under the DELTA, BRIZO, PEERLESS,
+  HANSGROHE, AXOR, KRAUS, NEWPORT BRASS, GINGER, WALTEC, BRISTAN, HERITAGE, MIROLIN,
+  HOT SPRING, CALDERA, FREEFLOW SPAS, FANTASY SPAS, AQUATERRA, LIFESMART, ENDLESS
+  POOLS, TYLO, FINNLEO, HELO, BRASSCRAFT, PLUMBSHOP, and MASTER PLUMBER brands, as
+  well as under private label to home center and online retailers, mass merchandisers,
+  wholesalers and distributors, plumbers, building contractors, remodelers, smaller
+  retailers, and consumers and homebuilders. Its Decorative Architectural Products
+  segment offers paints, primers, specialty coatings, stains, and waterproofing products,
+  as well as paint applicators and accessories; cabinet and door hardware, functional
+  hardware, hook and hook rail products, and outdoor living hardware; and decorative
+  bath hardware, shower accessories, and shower doors. This segment provides its products
+  under the BEHR, KILZ, WHIZZ, LIBERTY, and FRANKLIN BRASS brands to home center and
+  other retailers, mass and online retailers, other specialty retailers, and original
+  equipment manufacturers and wholesalers. The company was incorporated in 1929 and
+  is headquartered in Livonia, Michigan.
+longName: Masco Corporation
+market: us_market
+marketCap: 16248508416
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_181478
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 925000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 16346819934
+numberOfAnalystOpinions: 19
+open: 84.0
+operatingCashflow: 1206000000
+operatingMargins: 0.16941
+overallRisk: 7
+payoutRatio: 0.2755
+pegRatio: 1.94
+phone: 313 274 7400
+previousClose: 84.8
+priceEpsCurrentYear: 17.854042
+priceHint: 2
+priceToBook: -36.269367
+priceToSalesTrailing12Months: 2.119002
+profitMargins: 0.12076
+quickRatio: 1.125
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.5
+region: US
+regularMarketChange: -0.51000214
+regularMarketChangePercent: -0.6014176
+regularMarketDayHigh: 84.73
+regularMarketDayLow: 83.69
+regularMarketDayRange: 83.69 - 84.73
+regularMarketOpen: 84.0
+regularMarketPreviousClose: 84.8
+regularMarketPrice: 84.29
+regularMarketTime: 1794413708
+regularMarketVolume: 219850
+returnOnAssets: 0.15248
+revenueGrowth: 0.026
+revenuePerShare: 38.34
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 7
+sharesOutstanding: 192769103
+sharesPercentSharesOut: 0.040900003
+sharesShort: 7889208
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8283018
+shortName: Masco Corporation
+shortPercentOfFloat: 0.0477
+shortRatio: 3.54
+sourceInterval: 15
+state: MI
+symbol: MAS
+targetHighPrice: 98.0
+targetLowPrice: 70.0
+targetMeanPrice: 82.73684
+targetMedianPrice: 82.0
+totalCash: 610000000
+totalCashPerShare: 3.164
+totalDebt: 3484999936
+totalRevenue: 7667999744
+tradeable: false
+trailingAnnualDividendRate: 1.27
+trailingAnnualDividendYield: 0.014976414
+trailingEps: 4.61
+trailingPE: 18.284164
+trailingPegRatio: 1.9448
+triggerable: true
+twoHundredDayAverage: 71.3782
+twoHundredDayAverageChange: 12.911804
+twoHundredDayAverageChangePercent: 0.18089284
+typeDisp: Equity
+volume: 219850
+website: https://masco.com
+zip: '48152'

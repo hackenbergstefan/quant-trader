@@ -1,0 +1,283 @@
+52WeekChange: 0.17225921
+SandP52WeekChange: 0.097798586
+address1: 1 Ecolab Place
+allTimeHigh: 318.93
+allTimeLow: 1.0
+ask: 305.37
+askSize: 120
+auditRisk: 6
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 1820900
+averageDailyVolume3Month: 1437364
+averageVolume: 1437364
+averageVolume10days: 1820900
+beta: 0.857
+bid: 305.11
+bidSize: 120
+boardRisk: 7
+bookValue: 37.166
+city: Saint Paul
+companyOfficers:
+- age: 57
+  exercisedValue: 3296961
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christophe  Beck
+  title: CEO, President & Chairman of the Board
+  totalPay: 5176049
+  unexercisedValue: 30706382
+  yearBorn: 1968
+- age: 51
+  exercisedValue: 427100
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott D. Kirkland
+  title: Chief Financial Officer
+  totalPay: 2242960
+  unexercisedValue: 8341791
+  yearBorn: 1974
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Margeaux M. King
+  title: Executive Vice President of Human Resources
+  totalPay: 1149631
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Darrell R. Brown
+  title: Co-Chief Operating Officer of Global Markets
+  totalPay: 2416925
+  unexercisedValue: 12732582
+  yearBorn: 1964
+- age: 56
+  exercisedValue: 301981
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory Russell B. Cook
+  title: Co-Chief Operating Officer of Global Businesses
+  totalPay: 1604355
+  unexercisedValue: 3587016
+  yearBorn: 1969
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bryce L. Mewhorter
+  title: Senior VP, Corporate Controller & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Dan D. LeCloux
+  title: Executive VP & Chief Technical Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew C. Hedberg
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jandeen M. Boone J.D.
+  title: Executive VP, General Counsel, Secretary & Interim Chief Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Chris  Leong
+  title: Executive VP and Chief Marketing & Innovation Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 305.3
+currentRatio: 1.113
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 306.41
+dayLow: 302.5
+debtToEquity: 133.334
+displayName: Ecolab
+dividendDate: 1792022400
+dividendRate: 2.92
+dividendYield: 0.95
+earningsCallTimestampEnd: 1793120400
+earningsCallTimestampStart: 1793120400
+earningsGrowth: -0.049
+earningsQuarterlyGrowth: -0.058
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1793104200
+earningsTimestampStart: 1793104200
+ebitda: 4283200000
+ebitdaMargins: 0.24655001
+enterpriseToEbitda: 23.132
+enterpriseToRevenue: 5.703
+enterpriseValue: 99079258112
+epsCurrentYear: 8.15904
+epsForward: 9.40558
+epsTrailingTwelveMonths: 7.35
+esgPopulated: false
+exDividendDate: 1789430400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 651 225 3098
+fiftyDayAverage: 284.8182
+fiftyDayAverageChange: 20.481781
+fiftyDayAverageChangePercent: 0.07191177
+fiftyTwoWeekChangePercent: 17.225922
+fiftyTwoWeekHigh: 318.93
+fiftyTwoWeekHighChange: -13.630005
+fiftyTwoWeekHighChangePercent: -0.04273667
+fiftyTwoWeekLow: 243.15
+fiftyTwoWeekLowChange: 62.149994
+fiftyTwoWeekLowChangePercent: 0.25560352
+fiftyTwoWeekRange: 243.15 - 318.93
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 1.05
+floatShares: 279875998
+forwardEps: 9.40558
+forwardPE: 32.459454
+freeCashflow: 1440199936
+fullExchangeName: NYSE
+fullTimeEmployees: 48000
+fulldayChange: -0.730011
+fulldayChangePercent: -0.2385423
+fulldayPrice: 305.3
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.44043
+grossProfits: 7651200000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00162
+heldPercentInstitutions: 0.94891
+impliedSharesOutstanding: 280467785
+industry: Specialty Chemicals
+industryDisp: Specialty Chemicals
+industryKey: specialty-chemicals
+irWebsite: http://investor.ecolab.com/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789430400
+lastDividendValue: 0.73
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1055116800
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Ecolab Inc. provides water, hygiene, and infection prevention
+  solutions and services in the United States and internationally. The company operates
+  through four segments: Global Water, Global Institutional & Specialty, Global Pest
+  Elimination, and Global Life Sciences. The Global Water segment offers water treatment
+  and process applications, and cleaning and sanitizing solutions to manufacturing,
+  food and beverage processing, transportation, chemical, primary metals and mining,
+  power generation, global refining, petrochemical, pulp and paper industries. The
+  Global Institutional & Specialty segment provides cleaning and sanitizing products
+  to the foodservice, healthcare, hospitality, lodging, government, education and
+  retail industries. The Global Pest Elimination segment provides pest elimination
+  services to detect, prevent, and eliminate pests comprising rodents and insects
+  in full-service and quick-service restaurants, food and beverage processors, hotels,
+  grocery operations, and other commercial segments, including education, life sciences,
+  and healthcare. The Global Life Sciences segment provides cleaning and contamination
+  control solutions to pharmaceutical and personal care manufacturers. It offers its
+  products under the Ecolab, Kay, Purolite, and Bioquell brand names. The company
+  sells its products through field sales and corporate account personnel, distributors,
+  and dealers. Ecolab Inc. was founded in 1923 and is headquartered in Saint Paul,
+  Minnesota.'
+longName: Ecolab Inc.
+market: us_market
+marketCap: 85626806272
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_268799
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2082700032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 85831556243
+numberOfAnalystOpinions: 21
+open: 305.15
+operatingCashflow: 3029199872
+operatingMargins: 0.18465
+overallRisk: 3
+payoutRatio: 0.3973
+pegRatio: 2.44
+phone: 800 232 6522
+previousClose: 306.03
+priceEpsCurrentYear: 37.418613
+priceHint: 2
+priceToBook: 8.214497
+priceToSalesTrailing12Months: 4.9289274
+profitMargins: 0.119890004
+quickRatio: 0.775
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.54167
+region: US
+regularMarketChange: -0.730011
+regularMarketChangePercent: -0.2385423
+regularMarketDayHigh: 306.41
+regularMarketDayLow: 302.5
+regularMarketDayRange: 302.5 - 306.41
+regularMarketOpen: 305.15
+regularMarketPreviousClose: 306.03
+regularMarketPrice: 305.3
+regularMarketTime: 1794413728
+regularMarketVolume: 232745
+returnOnAssets: 0.0729
+returnOnEquity: 0.20767
+revenueGrowth: 0.127
+revenuePerShare: 61.73
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 2
+sharesOutstanding: 280467785
+sharesPercentSharesOut: 0.0150999995
+sharesShort: 4246010
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5367992
+shortName: Ecolab Inc.
+shortPercentOfFloat: 0.0173
+shortRatio: 2.92
+sourceInterval: 15
+state: MN
+symbol: ECL
+targetHighPrice: 360.0
+targetLowPrice: 300.0
+targetMeanPrice: 330.57144
+targetMedianPrice: 330.0
+totalCash: 722300032
+totalCashPerShare: 2.575
+totalDebt: 13939399680
+totalRevenue: 17372299264
+tradeable: false
+trailingAnnualDividendRate: 2.92
+trailingAnnualDividendYield: 0.009541549
+trailingEps: 7.35
+trailingPE: 41.537415
+trailingPegRatio: 2.4366
+triggerable: true
+twoHundredDayAverage: 276.91046
+twoHundredDayAverageChange: 28.389526
+twoHundredDayAverageChangePercent: 0.1025224
+typeDisp: Equity
+volume: 232745
+website: https://www.ecolab.com
+zip: 55102-2233

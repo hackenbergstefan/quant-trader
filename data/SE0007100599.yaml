@@ -1,0 +1,254 @@
+52WeekChange: 0.2778858
+SandP52WeekChange: 0.097798586
+address1: KungstrAedgArdsgatan 2
+allTimeHigh: 164.9
+allTimeLow: 26.105682
+ask: 162.9
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 3.8 - Underperform
+averageDailyVolume10Day: 3247879
+averageDailyVolume3Month: 4039646
+averageVolume: 4039646
+averageVolume10days: 3247879
+beta: 0.491
+bid: 162.85
+bidSize: 0
+boardRisk: 7
+bookValue: 98.088
+city: Stockholm
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Green
+  title: President & Group CEO
+  totalPay: 19800000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carl  Cederschiold
+  title: Head of Savings & Financing
+  totalPay: 10500000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marten  Bjurman
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Henrik  Ageback
+  title: Interim Group Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Grabe
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Wasteson
+  title: Chief Legal Officer & Company Secretary
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Monika  Bergström
+  title: Chief Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Pernilla  Eldestrand
+  title: Head of Communications
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cecilia  Lundin
+  title: Head of HR
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tommy  Bylund
+  title: Senior Vice President
+  unexercisedValue: 0
+  yearBorn: 1959
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 162.95
+customPriceAlertConfidence: HIGH
+dayHigh: 165.3
+dayLow: 162.9
+dividendRate: 8.0
+dividendYield: 4.87
+earningsCallTimestampEnd: 1792563300
+earningsCallTimestampStart: 1792563300
+earningsGrowth: -0.043
+earningsQuarterlyGrowth: -0.033
+earningsTimestamp: 1792596600
+earningsTimestampEnd: 1792596600
+earningsTimestampStart: 1792596600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 26.17
+enterpriseValue: 1436621733888
+epsCurrentYear: 11.41729
+epsForward: 11.41
+epsTrailingTwelveMonths: 11.76
+esgPopulated: false
+exDividendDate: 1774483200
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 153.564
+fiftyDayAverageChange: 9.386002
+fiftyDayAverageChangePercent: 0.06112111
+fiftyTwoWeekChangePercent: 27.78858
+fiftyTwoWeekHigh: 165.3
+fiftyTwoWeekHighChange: -2.350006
+fiftyTwoWeekHighChangePercent: -0.014216613
+fiftyTwoWeekLow: 116.8
+fiftyTwoWeekLowChange: 46.149994
+fiftyTwoWeekLowChangePercent: 0.3951198
+fiftyTwoWeekRange: 116.8 - 165.3
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 5.46
+floatShares: 1621564135
+forwardEps: 11.41
+forwardPE: 14.281332
+fullExchangeName: Stockholm
+fullTimeEmployees: 11726
+fulldayChange: -1.449997
+fulldayChangePercent: -0.8819933
+fulldayPrice: 162.95
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 54896001024
+hasPrePostMarketData: false
+heldPercentInsiders: 0.26302
+heldPercentInstitutions: 0.42885
+impliedSharesOutstanding: 2004766018
+industry: Banks - Diversified
+industryDisp: Banks - Diversified
+industryKey: banks-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1774483200
+lastDividendValue: 17.5
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1431993600
+lastSplitFactor: '3:1'
+longBusinessSummary: Svenska Handelsbanken AB (publ) provides various banking products
+  and services for private and corporate customers primarily in Sweden, the United
+  Kingdom, Norway, the Netherlands, and internationally. The company offers personal
+  and corporate banking, and financial institutions. It provides green loans, pension,
+  advisory, investment and other financing services. In addition, the company's financial
+  services, includes asset management, transaction banking, corporate finance, financing,
+  markets, trade finance, market information and research services to large corporations;
+  trading and execution. Further, it provides cash management, and securities finance
+  solutions; and various corporate banking services to small and medium-sized companies
+  and large corporates, as well as digital and private banking services. Svenska Handelsbanken
+  AB (publ) was incorporated in 1871 and is headquartered in Stockholm, Sweden.
+longName: Svenska Handelsbanken AB (publ)
+market: se_market
+marketCap: 326676611072
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_631722
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 23520000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 328759806681
+numberOfAnalystOpinions: 16
+open: 165.05
+operatingCashflow: -97693999104
+operatingMargins: 0.52833
+overallRisk: 6
+payoutRatio: 0.6803
+pegRatio: 7.12
+phone: 46 87 01 10 00
+previousClose: 164.4
+priceEpsCurrentYear: 14.272214
+priceHint: 2
+priceToBook: 1.6612633
+priceToSalesTrailing12Months: 5.950827
+profitMargins: 0.42455003
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: underperform
+recommendationMean: 3.8125
+region: US
+regularMarketChange: -1.449997
+regularMarketChangePercent: -0.8819933
+regularMarketDayHigh: 165.3
+regularMarketDayLow: 162.9
+regularMarketDayRange: 162.9 - 165.3
+regularMarketOpen: 165.05
+regularMarketPreviousClose: 164.4
+regularMarketPrice: 162.95
+regularMarketTime: 1794412441
+regularMarketVolume: 1681249
+returnOnAssets: 0.00625
+returnOnEquity: 0.12124
+revenueGrowth: -0.021
+revenuePerShare: 27.725
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 9
+sharesOutstanding: 1944777165
+shortName: Svenska Handelsbanken ser. A
+sourceInterval: 15
+symbol: SHB-A.ST
+targetHighPrice: 176.0
+targetLowPrice: 127.0
+targetMeanPrice: 144.9375
+targetMedianPrice: 145.5
+totalCash: 600396988416
+totalCashPerShare: 303.226
+totalDebt: 1711498985472
+totalRevenue: 54896001024
+tradeable: false
+trailingAnnualDividendRate: 8.0
+trailingAnnualDividendYield: 0.048661802
+trailingEps: 11.76
+trailingPE: 13.856292
+trailingPegRatio: 7.1687
+triggerable: true
+twoHundredDayAverage: 142.22525
+twoHundredDayAverageChange: 20.724747
+twoHundredDayAverageChangePercent: 0.14571777
+typeDisp: Equity
+volume: 1681249
+website: https://www.handelsbanken.se
+zip: 106 70

@@ -1,0 +1,280 @@
+52WeekChange: 0.15460598
+SandP52WeekChange: 0.097798586
+address1: 55 Glenlake Parkway, N.E.
+allTimeHigh: 233.72
+allTimeLow: 37.99
+ask: 111.78
+askSize: 100
+auditRisk: 6
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 5640230
+averageDailyVolume3Month: 4814914
+averageVolume: 4814914
+averageVolume10days: 5640230
+beta: 0.948
+bid: 111.76
+bidSize: 200
+boardRisk: 8
+bookValue: 17.619
+city: Atlanta
+companyOfficers:
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Carol B. Tome
+  title: CEO & Director
+  totalPay: 3969488
+  unexercisedValue: 0
+  yearBorn: 1957
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian  Dykes
+  title: Chief Financial Officer & Executive Vice President
+  totalPay: 1669306
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nando  Cesarone
+  title: Executive VP & Chief Global Operations Officer
+  totalPay: 1865744
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bala  Subramanian
+  title: EVP and Chief Digital & Technology Officer
+  totalPay: 1611871
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kathleen M. Gutmann
+  title: Strategic Advisor
+  totalPay: 1903309
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: PJ  Guido
+  title: Investor Relations Officer
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Norman M. Brothers Jr.
+  title: Executive VP, Chief Legal, Compliance Officer & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Darrell L. Ford
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ralph  Ozoude
+  title: Managing Director of Nigerian Operations & Special Projects Manager for West
+    Africa
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Harrison  Park
+  title: Managing Director of UPS Korea
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions:
+- header: Dividend
+  message: UPS announced a cash dividend of $1.64 with an ex-date of Nov. 16, 2026
+  meta:
+    amount: '1.64'
+    dateEpochMs: 1794805200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 111.8796
+currentRatio: 1.239
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 112.28
+dayLow: 111.13
+debtToEquity: 203.115
+displayName: United Parcel Service
+dividendDate: 1796256000
+dividendRate: 6.56
+dividendYield: 5.91
+earningsCallTimestampEnd: 1793104200
+earningsCallTimestampStart: 1793104200
+earningsGrowth: -0.116
+earningsQuarterlyGrowth: -0.113
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1800970200
+earningsTimestampStart: 1800970200
+ebitda: 12177999872
+ebitdaMargins: 0.13329001
+enterpriseToEbitda: 9.712
+enterpriseToRevenue: 1.294
+enterpriseValue: 118270672896
+epsCurrentYear: 7.28197
+epsForward: 8.09574
+epsTrailingTwelveMonths: 5.19
+esgPopulated: false
+exDividendDate: 1794787200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 100.0788
+fiftyDayAverageChange: 11.800804
+fiftyDayAverageChangePercent: 0.11791513
+fiftyTwoWeekChangePercent: 15.460598
+fiftyTwoWeekHigh: 122.41
+fiftyTwoWeekHighChange: -10.530403
+fiftyTwoWeekHighChangePercent: -0.08602568
+fiftyTwoWeekLow: 90.84
+fiftyTwoWeekLowChange: 21.039604
+fiftyTwoWeekLowChangePercent: 0.23161168
+fiftyTwoWeekRange: 90.84 - 122.41
+financialCurrency: USD
+firstTradeDateMilliseconds: 942244200000
+fiveYearAvgDividendYield: 4.07
+floatShares: 750774604
+forwardEps: 8.09574
+forwardPE: 13.819564
+freeCashflow: 6259624960
+fullExchangeName: NYSE
+fullTimeEmployees: 460000
+fulldayChange: 0.8295975
+fulldayChangePercent: 0.74704856
+fulldayPrice: 111.8796
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.2237
+grossProfits: 20438999040
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00017999999
+heldPercentInstitutions: 0.72949
+impliedSharesOutstanding: 851469372
+industry: Integrated Freight & Logistics
+industryDisp: Integrated Freight & Logistics
+industryKey: integrated-freight-logistics
+irWebsite: http://www.investors.ups.com/phoenix.zhtml?c=62900&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786924800
+lastDividendValue: 1.64
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: United Parcel Service, Inc., a package delivery and logistics
+  provider, offers transportation and delivery services. It operates through two segments,
+  U.S. Domestic Package and International Package. The U.S. Domestic Package segment
+  offers time-definite delivery services for express letters, documents, packages
+  and palletized freight through air and ground services. The International Package
+  segment provides small package operations in Europe, the Middle East and Africa,
+  Canada and Latin America, and Asia. The company offers a range of guaranteed day-
+  and time-definite international transportation services; day-definite services;
+  cross-border ground package delivery; contract-only, e-commerce solutions for non-urgent,
+  and cross-border shipments; and international service for urgent and palletized
+  shipments. It also provides international air and ocean freight forwarding, contract
+  logistics, customs brokerage and insurance, mail services, healthcare logistics,
+  distribution, and post-sales services. United Parcel Service, Inc. was founded in
+  1907 and is headquartered in Atlanta, Georgia.
+longName: United Parcel Service, Inc.
+market: us_market
+marketCap: 95262056448
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_238570
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4422000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 94555673759
+numberOfAnalystOpinions: 26
+open: 111.25
+operatingCashflow: 9287999488
+operatingMargins: 0.09121
+overallRisk: 9
+payoutRatio: 1.264
+pegRatio: 1.6
+phone: 404 828 6000
+previousClose: 111.05
+priceEpsCurrentYear: 15.363919
+priceHint: 2
+priceToBook: 6.349941
+priceToSalesTrailing12Months: 1.0426195
+profitMargins: 0.0484
+quickRatio: 1.123
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.17241
+region: US
+regularMarketChange: 0.8295975
+regularMarketChangePercent: 0.74704856
+regularMarketDayHigh: 112.28
+regularMarketDayLow: 111.13
+regularMarketDayRange: 111.13 - 112.28
+regularMarketOpen: 111.25
+regularMarketPreviousClose: 111.05
+regularMarketPrice: 111.8796
+regularMarketTime: 1794413744
+regularMarketVolume: 884478
+returnOnAssets: 0.07229
+returnOnEquity: 0.28645
+revenueGrowth: 0.067
+revenuePerShare: 107.429
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 751657335
+sharesPercentSharesOut: 0.0307
+sharesShort: 26119467
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 28345106
+shortName: United Parcel Service, Inc.
+shortPercentOfFloat: 0.0348
+shortRatio: 5.31
+sourceInterval: 15
+state: GA
+symbol: UPS
+targetHighPrice: 135.0
+targetLowPrice: 76.0
+targetMeanPrice: 115.46154
+targetMedianPrice: 117.5
+totalCash: 6837000192
+totalCashPerShare: 8.03
+totalDebt: 30520000512
+totalRevenue: 91367997440
+tradeable: false
+trailingAnnualDividendRate: 6.56
+trailingAnnualDividendYield: 0.059072487
+trailingEps: 5.19
+trailingPE: 21.556763
+trailingPegRatio: 1.6043
+triggerable: true
+twoHundredDayAverage: 104.68325
+twoHundredDayAverageChange: 7.19635
+twoHundredDayAverageChangePercent: 0.06874405
+typeDisp: Equity
+volume: 884478
+website: https://www.ups.com
+zip: '30328'

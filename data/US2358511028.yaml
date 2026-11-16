@@ -1,0 +1,289 @@
+52WeekChange: 0.07616222
+SandP52WeekChange: 0.097798586
+address1: 2200 Pennsylvania Avenue N.W.
+address2: Suite 800W
+allTimeHigh: 296.06384
+allTimeLow: 0.044633
+ask: 237.33
+askSize: 200
+auditRisk: 6
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 3472100
+averageDailyVolume3Month: 4003940
+averageVolume: 4003940
+averageVolume10days: 3472100
+beta: 0.803
+bid: 237.22
+bidSize: 300
+boardRisk: 10
+bookValue: 76.231
+city: Washington
+companyOfficers:
+- age: 74
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven M. Rales
+  title: Co-Founder & Chairman
+  unexercisedValue: 0
+  yearBorn: 1951
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie Sawyer Montgomery
+  title: President, CEO & Director
+  totalPay: 2575503
+  unexercisedValue: 6712826
+  yearBorn: 1972
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mitchell P. Rales
+  title: Co-Founder & Director
+  unexercisedValue: 0
+  yearBorn: 1957
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jose-Carlos  Gutierrez-Ramos Ph.D.
+  title: Senior VP & Chief Science Officer
+  totalPay: 2516026
+  unexercisedValue: 351744
+  yearBorn: 1962
+- age: 53
+  exercisedValue: 2454421
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew R. McGrew
+  title: Executive Vice President
+  totalPay: 3174924
+  unexercisedValue: 16601387
+  yearBorn: 1972
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rainer M. Blair
+  title: Senior Advisor
+  totalPay: 6116253
+  unexercisedValue: 33903072
+  yearBorn: 1964
+- age: 51
+  exercisedValue: 947665
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher Paul Riley
+  title: Executive VP of Biotechnology Group & CEO of Cytiva
+  totalPay: 2536072
+  unexercisedValue: 7269279
+  yearBorn: 1974
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew E. Gugino C.F.A., CPA
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher M. Bouda
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rachel Marie Vatnsdal Olson
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 237.76
+currentRatio: 1.634
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 237.95
+dayLow: 234.11
+debtToEquity: 51.8
+displayName: Danaher
+dividendDate: 1793318400
+dividendRate: 1.6
+dividendYield: 0.68
+earningsCallTimestampEnd: 1792584000
+earningsCallTimestampStart: 1792584000
+earningsGrowth: 0.378
+earningsQuarterlyGrowth: 0.36
+earningsTimestamp: 1792585800
+earningsTimestampEnd: 1801056600
+earningsTimestampStart: 1801056600
+ebitda: 8256000000
+ebitdaMargins: 0.3224
+enterpriseToEbitda: 22.798
+enterpriseToRevenue: 7.35
+enterpriseValue: 188222668800
+epsCurrentYear: 8.59131
+epsForward: 9.31991
+epsTrailingTwelveMonths: 6.04
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 202 828 0860
+fiftyDayAverage: 221.0566
+fiftyDayAverageChange: 16.7034
+fiftyDayAverageChangePercent: 0.07556164
+fiftyTwoWeekChangePercent: 7.616222
+fiftyTwoWeekHigh: 242.8
+fiftyTwoWeekHighChange: -5.0400085
+fiftyTwoWeekHighChangePercent: -0.02075786
+fiftyTwoWeekLow: 160.93
+fiftyTwoWeekLowChange: 76.83
+fiftyTwoWeekLowChangePercent: 0.47741258
+fiftyTwoWeekRange: 160.93 - 242.8
+financialCurrency: USD
+firstTradeDateMilliseconds: 283789800000
+fiveYearAvgDividendYield: 0.44
+floatShares: 626353485
+forwardEps: 9.31991
+forwardPE: 25.510975
+freeCashflow: 4746250240
+fullExchangeName: NYSE
+fullTimeEmployees: 58000
+fulldayChange: 1.6499939
+fulldayChangePercent: 0.6988242
+fulldayPrice: 237.76
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.59360003
+grossProfits: 15201000448
+hasPrePostMarketData: true
+heldPercentInsiders: 0.10815
+heldPercentInstitutions: 0.84700996
+impliedSharesOutstanding: 703530815
+industry: Diagnostics & Research
+industryDisp: Diagnostics & Research
+industryKey: diagnostics-research
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=82105&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 0.4
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1696204800
+lastSplitFactor: 1128:1000
+longBusinessSummary: Danaher Corporation designs, manufactures, and markets professional,
+  medical, research, and industrial products and services in the United States, China,
+  and internationally. The company operates through Biotechnology, Life Sciences,
+  and Diagnostics segments. The Biotechnology segment provides technologies, consumables,
+  services, and solutions that advance, accelerate, and integrate the development
+  and manufacture of therapeutics; cell line and cell culture media development services;
+  cell culture media, process liquids and buffers for manufacturing, chromatography
+  resins, filtration technologies, and aseptic fill finish; single-use hardware, consumables,
+  and services, such as the design and installation of full manufacturing suites;
+  lab filtration, separation, and purification; lab-scale protein purification and
+  analytical tools; reagents, membranes, and services for diagnostic and assay development;
+  and healthcare filtration solutions. The Life Sciences segment provides mass spectrometers;
+  bioanalytical measurement systems; flow cytometry, genomics, lab automation, centrifugation,
+  liquid handling automation instruments, antibodies and reagents, and particle counting
+  and characterization; genome sample preparation; microscopes; protein consumables;
+  filtration products; and genomic medicines, such as custom nucleic acid products,
+  and plasmid DNA, RNA, and proteins under the ABCAM, ALDEVRON, BECKMAN COULTER, GENEDATA,
+  IDT, LEICA MICROSYSTEMS, MOLECULAR DEVICES, PALL, PHENOMENEX, and SCIEX brands.
+  The Diagnostics segment offers clinical instruments, consumables, software, and
+  services that hospitals, physicians' offices, reference laboratories and other critical
+  care settings use to diagnose disease and make treatment decisions. The company
+  was formerly known as Diversified Mortgage Investors, Inc. and changed its name
+  to Danaher Corporation in 1984. Danaher Corporation was incorporated in 1969 and
+  is headquartered in Washington, the District Of Columbia.
+longName: Danaher Corporation
+market: us_market
+marketCap: 167271481344
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_265621
+mostRecentQuarter: 1790294400
+netIncomeToCommon: 4288999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 166110660729
+numberOfAnalystOpinions: 21
+open: 236.0
+operatingCashflow: 6858999808
+operatingMargins: 0.2197
+overallRisk: 7
+payoutRatio: 0.2517
+pegRatio: 1.33
+phone: 202 828 0850
+previousClose: 236.11
+priceEpsCurrentYear: 27.674477
+priceHint: 2
+priceToBook: 3.1189408
+priceToSalesTrailing12Months: 6.532001
+profitMargins: 0.16913
+quickRatio: 1.194
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.45833
+region: US
+regularMarketChange: 1.6499939
+regularMarketChangePercent: 0.6988242
+regularMarketDayHigh: 237.95
+regularMarketDayLow: 234.11
+regularMarketDayRange: 234.11 - 237.95
+regularMarketOpen: 236.0
+regularMarketPreviousClose: 236.11
+regularMarketPrice: 237.76
+regularMarketTime: 1794413723
+regularMarketVolume: 896769
+returnOnAssets: 0.04061
+returnOnEquity: 0.081920005
+revenueGrowth: 0.083
+revenuePerShare: 36.267
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 2
+sharesOutstanding: 703530815
+sharesPercentSharesOut: 0.0119
+sharesShort: 8383201
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8969401
+shortName: Danaher Corporation
+shortPercentOfFloat: 0.013300001
+shortRatio: 1.85
+sourceInterval: 15
+state: DC
+symbol: DHR
+targetHighPrice: 310.0
+targetLowPrice: 220.0
+targetMeanPrice: 259.90475
+targetMedianPrice: 260.0
+totalCash: 5681999872
+totalCashPerShare: 8.076
+totalDebt: 27782000640
+totalRevenue: 25607999488
+tradeable: false
+trailingAnnualDividendRate: 1.52
+trailingAnnualDividendYield: 0.0064376774
+trailingEps: 6.04
+trailingPE: 39.36424
+trailingPegRatio: 1.3347
+triggerable: true
+twoHundredDayAverage: 200.8952
+twoHundredDayAverageChange: 36.86479
+twoHundredDayAverageChangePercent: 0.1835026
+typeDisp: Equity
+volume: 896769
+website: https://www.danaher.com
+zip: 20037-1701

@@ -1,0 +1,280 @@
+52WeekChange: 0.13504899
+SandP52WeekChange: 0.097798586
+address1: 1095 Avenue of the Americas
+allTimeHigh: 62.502934
+allTimeLow: 7.306997
+ask: 46.0
+askSize: 1000
+auditRisk: 7
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 24478680
+averageDailyVolume3Month: 23472717
+averageVolume: 23472717
+averageVolume10days: 24478680
+beta: 0.26
+bid: 45.99
+bidSize: 1700
+boardRisk: 1
+bookValue: 25.572
+city: New York
+companyOfficers:
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel H. Schulman
+  title: Director & CEO
+  totalPay: 2890221
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anthony T. Skiadas CPA
+  title: Executive VP & CFO
+  totalPay: 3006860
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Vandana  Venkatesh
+  title: Executive VP & Chief Legal Officer
+  totalPay: 2426257
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kyle  Malady
+  title: Executive VP & CEO of Verizon Business Group
+  totalPay: 3007531
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mary-Lee  Stillwell
+  title: Senior VP of Accounting & External Reporting and Controller
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Santiago  Tenorio
+  title: CTO & Senior VP of Strategy and Technology Enablement
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Colleen  Ostrowski
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Leslie  Berland
+  title: Executive VP & Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Iris  Meijer
+  title: Senior Vice President of Business Marketing & Revenue Operations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sanjiv  Gossain
+  title: Group VP & Head of EMEA
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 46.065
+currentRatio: 0.626
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 46.435
+dayLow: 45.85
+debtToEquity: 182.021
+displayName: Verizon Communications
+dividendDate: 1793577600
+dividendRate: 2.83
+dividendYield: 6.11
+earningsCallTimestampEnd: 1793017800
+earningsCallTimestampStart: 1793017800
+earningsGrowth: 0.068
+earningsQuarterlyGrowth: 0.05
+earningsTimestamp: 1793017800
+earningsTimestampEnd: 1801143000
+earningsTimestampStart: 1801143000
+ebitda: 52081999872
+ebitdaMargins: 0.37365
+enterpriseToEbitda: 7.373
+enterpriseToRevenue: 2.755
+enterpriseValue: 384001343488
+epsCurrentYear: 5.0551
+epsForward: 5.30617
+epsTrailingTwelveMonths: 3.92
+esgPopulated: false
+exDividendDate: 1791504000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 46.465
+fiftyDayAverageChange: -0.40000153
+fiftyDayAverageChangePercent: -0.0086086625
+fiftyTwoWeekChangePercent: 13.504898
+fiftyTwoWeekHigh: 51.68
+fiftyTwoWeekHighChange: -5.6150017
+fiftyTwoWeekHighChangePercent: -0.10864941
+fiftyTwoWeekLow: 38.68
+fiftyTwoWeekLowChange: 7.3849983
+fiftyTwoWeekLowChangePercent: 0.1909255
+fiftyTwoWeekRange: 38.68 - 51.68
+financialCurrency: USD
+firstTradeDateMilliseconds: 438273000000
+fiveYearAvgDividendYield: 6.2
+floatShares: 4138671560
+forwardEps: 5.30617
+forwardPE: 8.681403
+freeCashflow: 15992750080
+fullExchangeName: NYSE
+fullTimeEmployees: 93300
+fulldayChange: -0.24500275
+fulldayChangePercent: -0.52904934
+fulldayPrice: 46.065
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.59781
+grossProfits: 83327000576
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00051
+heldPercentInstitutions: 0.71205
+impliedSharesOutstanding: 4144598336
+industry: Telecom Services
+industryDisp: Telecom Services
+industryKey: telecom-services
+irWebsite: http://www22.verizon.com/investor/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1791504000
+lastDividendValue: 0.708
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1278028800
+lastSplitFactor: 1000000:937889
+longBusinessSummary: Verizon Communications Inc., through its subsidiaries, engages
+  in the provision of communications, technology, information, and streaming products
+  and services to consumers, businesses, and governmental entities worldwide. It operates
+  in two segments, Verizon Consumer Group (Consumer) and Verizon Business Group (Business).
+  The Consumer segment provides wireless services across the wireless networks in
+  the United States under the Verizon and TracFone brands and through wholesale and
+  other arrangements; and fixed wireless access (FWA) broadband through its wireless
+  networks, as well as related equipment and devices, such as smartphones, tablets,
+  smartwatches, and other wireless-enabled connected devices. The segment also offers
+  wireline services in the Mid-Atlantic and Northeastern United States, as well as
+  Washington D.C. through its fiber-optic network, Verizon Fios product portfolio,
+  and a copper-based network. The Business segment provides wireless and wireline
+  communications services and products, including FWA and wireline broadband, advanced
+  communication services, corporate networking, security and managed network, local
+  and long-distance voice, and network access services to deliver various IoT services
+  and products to businesses, government customers, and wireless and wireline carriers
+  in the United States and internationally. The company distributes its products and
+  services through direct channels, company-operated stores, digital and omnichannel
+  platforms, indirect agents, business solution resellers, and national retailers.
+  The company was formerly known as Bell Atlantic Corporation and changed its name
+  to Verizon Communications Inc. in June 2000. Verizon Communications Inc. was incorporated
+  in 1983 and is headquartered in New York, New York.
+longName: Verizon Communications Inc.
+market: us_market
+marketCap: 190920916992
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_415798
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 16419999744
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 191936348940
+numberOfAnalystOpinions: 22
+open: 46.0
+operatingCashflow: 39049998336
+operatingMargins: 0.23365
+overallRisk: 2
+payoutRatio: 0.7175
+pegRatio: 0.97
+phone: 212 395 1000
+previousClose: 46.31
+priceEpsCurrentYear: 9.112579
+priceHint: 2
+priceToBook: 1.8013842
+priceToSalesTrailing12Months: 1.3697183
+profitMargins: 0.1178
+quickRatio: 0.473
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.125
+region: US
+regularMarketChange: -0.24500275
+regularMarketChangePercent: -0.52904934
+regularMarketDayHigh: 46.435
+regularMarketDayLow: 45.85
+regularMarketDayRange: 45.85 - 46.435
+regularMarketOpen: 46.0
+regularMarketPreviousClose: 46.31
+regularMarketPrice: 46.065
+regularMarketTime: 1794413753
+regularMarketVolume: 5020396
+returnOnAssets: 0.050640002
+returnOnEquity: 0.15787
+revenueGrowth: 0.015
+revenuePerShare: 33.273
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 3
+sharesOutstanding: 4144598336
+sharesPercentSharesOut: 0.020399999
+sharesShort: 84436996
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 88896054
+shortName: Verizon Communications Inc.
+shortPercentOfFloat: 0.020399999
+shortRatio: 2.88
+sourceInterval: 15
+state: NY
+symbol: VZ
+targetHighPrice: 62.0
+targetLowPrice: 44.0
+targetMeanPrice: 50.65
+targetMedianPrice: 50.0
+totalCash: 4535000064
+totalCashPerShare: 1.094
+totalDebt: 195294003200
+totalRevenue: 139386994688
+tradeable: false
+trailingAnnualDividendRate: 2.813
+trailingAnnualDividendYield: 0.060742818
+trailingEps: 3.92
+trailingPE: 11.751275
+trailingPegRatio: 0.9728
+triggerable: true
+twoHundredDayAverage: 47.0459
+twoHundredDayAverageChange: -0.9808998
+twoHundredDayAverageChangePercent: -0.020849848
+typeDisp: Equity
+volume: 5020396
+website: https://www.verizon.com
+zip: '10036'

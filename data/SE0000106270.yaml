@@ -1,0 +1,262 @@
+52WeekChange: -0.013491213
+SandP52WeekChange: 0.097798586
+address1: Mäster Samuelsgatan 46A
+allTimeHigh: 368.5
+allTimeLow: 19.25
+ask: 176.05
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 3.7 - Underperform
+averageDailyVolume10Day: 1744503
+averageDailyVolume3Month: 2007665
+averageVolume: 2007665
+averageVolume10days: 1744503
+beta: 1.072
+bid: 175.95
+bidSize: 0
+boardRisk: 9
+bookValue: 24.737
+city: Stockholm
+companyOfficers:
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Daniel  Erver
+  title: CEO & President
+  totalPay: 16400000
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Adam  Karlsson
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Diego  Teijeiro
+  title: Global Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Joseph  Ahlberg
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Fredrik  Björkstedt
+  title: Head of Legal & Security
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Hendrik  Alpen
+  title: Communications Director
+  unexercisedValue: 0
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Mehmet  Arisoy
+  title: Chief Sales Officer
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. John  Ehrnst
+  title: Acting Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Asa  Ageback
+  title: Chief HR Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Anna Birgitta Attemark
+  title: Chief Executive Officer of Portfolio Brands
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1735603200
+compensationRisk: 8
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 176.0
+currentRatio: 1.132
+customPriceAlertConfidence: HIGH
+dayHigh: 178.95
+dayLow: 176.0
+debtToEquity: 200.652
+dividendRate: 7.1
+dividendYield: 3.96
+earningsCallTimestampEnd: 1790233200
+earningsCallTimestampStart: 1790233200
+earningsGrowth: 0.283
+earningsQuarterlyGrowth: 0.277
+earningsTimestamp: 1790263800
+earningsTimestampEnd: 1790263800
+earningsTimestampStart: 1790263800
+ebitda: 24970000384
+ebitdaMargins: 0.11307
+enterpriseToEbitda: 13.573
+enterpriseToRevenue: 1.535
+enterpriseValue: 338929221632
+epsCurrentYear: 8.01683
+epsForward: 8.85
+epsTrailingTwelveMonths: 8.25
+esgPopulated: false
+exDividendDate: 1793750400
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 169.044
+fiftyDayAverageChange: 6.9559937
+fiftyDayAverageChangePercent: 0.04114901
+fiftyTwoWeekChangePercent: -1.3491213
+fiftyTwoWeekHigh: 194.3
+fiftyTwoWeekHighChange: -18.300003
+fiftyTwoWeekHighChangePercent: -0.094184265
+fiftyTwoWeekLow: 156.35
+fiftyTwoWeekLowChange: 19.649994
+fiftyTwoWeekLowChangePercent: 0.12567952
+fiftyTwoWeekRange: 156.35 - 194.3
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 4.4
+floatShares: 450033513
+forwardEps: 8.85
+forwardPE: 19.887005
+freeCashflow: 19920250880
+fullExchangeName: Stockholm
+fullTimeEmployees: 63292
+fulldayChange: -3.149994
+fulldayChangePercent: -1.7582997
+fulldayPrice: 176.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.54415
+grossProfits: 120172003328
+hasPrePostMarketData: false
+heldPercentInsiders: 0.71098
+heldPercentInstitutions: 0.20992
+impliedSharesOutstanding: 1596373003
+industry: Apparel Manufacturing
+industryDisp: Apparel Manufacturing
+industryKey: apparel-manufacturing
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793750400
+lastDividendValue: 3.55
+lastFiscalYearEnd: 1764460800
+lastSplitDate: 1275350400
+lastSplitFactor: '2:1'
+longBusinessSummary: H & M Hennes & Mauritz AB (publ) provides clothing, accessories,
+  footwear, cosmetics, home textiles, and homeware for women, men, and children worldwide.
+  It offers sportswear, shoes, bags, accessories, ready-to-wear, activewear, and jeans;
+  interior products, including bed linens, towels and tablecloths, tableware, furniture,
+  and lighting; and beauty products, such as make-up and fragrance collections. The
+  company provides its products under the H&M, H&M HOME, H&M Move, H&M Beauty, COS,
+  Cheap Monday, Weekday, Monki, & Other Stories, ARKET, and Singular Society brand
+  names. In addition, it operates Sellpy, a broad digital platform for second-hand
+  fashion and other products; Smartex.ai, a platform that detects faults in real time
+  and helps in textile production; Syre, a platform which focuses on scaling textile-to-textile
+  recycling primarily polyester; and A Retro Tale offers selected vintage and secondhand
+  accessories, as well as provides collecting and sorting solutions to extend the
+  useful life of no longer used garments through reuse and recycling under Looper
+  Textile name. Further, the company operates seasonal vegetarian cafés and coffee
+  shops. It offers its products through online and physical stores. H & M Hennes &
+  Mauritz AB (publ) was incorporated in 1943 and is headquartered in Stockholm, Sweden.
+longName: H & M Hennes & Mauritz AB (publ)
+market: se_market
+marketCap: 280961646592
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_770402
+mostRecentQuarter: 1788134400
+netIncomeToCommon: 13194999808
+nextFiscalYearEnd: 1795996800
+nonDilutedMarketCap: 285990223487
+numberOfAnalystOpinions: 26
+open: 178.15
+operatingCashflow: 34929999872
+operatingMargins: 0.089899994
+overallRisk: 9
+payoutRatio: 0.84239995
+pegRatio: 2.99
+phone: 46 87 96 55 00
+previousClose: 179.15
+priceEpsCurrentYear: 21.953814
+priceHint: 2
+priceToBook: 7.114848
+priceToSalesTrailing12Months: 1.2722119
+profitMargins: 0.05975
+quickRatio: 0.583
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: underperform
+recommendationMean: 3.73077
+region: US
+regularMarketChange: -3.149994
+regularMarketChangePercent: -1.7582997
+regularMarketDayHigh: 178.95
+regularMarketDayLow: 176.0
+regularMarketDayRange: 176.0 - 178.95
+regularMarketOpen: 178.15
+regularMarketPreviousClose: 179.15
+regularMarketPrice: 176.0
+regularMarketTime: 1794412464
+regularMarketVolume: 666779
+returnOnAssets: 0.07033
+returnOnEquity: 0.33251
+revenueGrowth: 0.003
+revenuePerShare: 138.151
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 9
+sharesOutstanding: 1401973003
+shortName: Hennes & Mauritz AB, H & M ser.
+sourceInterval: 15
+symbol: HM-B.ST
+targetHighPrice: 200.0
+targetLowPrice: 114.0
+targetMeanPrice: 154.65768
+targetMedianPrice: 155.0
+totalCash: 26506999808
+totalCashPerShare: 16.605
+totalDebt: 79375998976
+totalRevenue: 220844998656
+tradeable: false
+trailingAnnualDividendRate: 7.1
+trailingAnnualDividendYield: 0.039631594
+trailingEps: 8.25
+trailingPE: 21.333334
+trailingPegRatio: 3.0038
+triggerable: true
+twoHundredDayAverage: 171.8915
+twoHundredDayAverageChange: 4.1085052
+twoHundredDayAverageChangePercent: 0.023901736
+typeDisp: Equity
+volume: 666779
+website: https://hmgroup.com
+zip: 106 38

@@ -1,0 +1,281 @@
+52WeekChange: 0.8164034
+SandP52WeekChange: 0.097798586
+address1: 2331 CityWest Boulevard
+allTimeHigh: 299.39
+allTimeLow: 28.75
+ask: 255.87
+askSize: 120
+auditRisk: 8
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 3671930
+averageDailyVolume3Month: 2954850
+averageVolume: 2954850
+averageVolume10days: 3671930
+beta: 0.672
+bid: 255.63
+bidSize: 120
+boardRisk: 8
+bookValue: 88.012
+city: Houston
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Mark E. Lashier
+  title: CEO & Chairman
+  totalPay: 6369641
+  unexercisedValue: 12002705
+  yearBorn: 1962
+- age: 59
+  exercisedValue: 1568540
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin J. Mitchell
+  title: Executive VP & CFO
+  totalPay: 2690238
+  unexercisedValue: 10901913
+  yearBorn: 1966
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Vanessa L. Allen Sutherland
+  title: Executive VP of Government Affairs, General Counsel & Corporate Secretary
+  totalPay: 2120603
+  unexercisedValue: 1723252
+  yearBorn: 1972
+- age: 61
+  exercisedValue: 2956855
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian M. Mandell
+  title: Executive Vice President of Marketing & Commercial
+  totalPay: 2175348
+  unexercisedValue: 6977947
+  yearBorn: 1964
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard G. Harbison
+  title: Executive Vice President of Refining
+  totalPay: 2258781
+  unexercisedValue: 1779289
+  yearBorn: 1965
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tandra C. Perkins
+  title: Executive VP and Chief Digital & Administrative Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sean M. Maher
+  title: VP of Investor Relations & Chief Economist
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrez  Carberry
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Donald A. Baldridge
+  title: Executive Vice President of Midstream & Chemicals
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: PSX announced a cash dividend of $1.33 with an ex-date of Nov. 17, 2026
+  meta:
+    amount: '1.33'
+    dateEpochMs: 1794891600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 255.19
+currentRatio: 1.344
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 256.97
+dayLow: 252.54
+debtToEquity: 52.193
+dividendDate: 1796083200
+dividendRate: 5.32
+dividendYield: 2.12
+earningsCallTimestampEnd: 1793203200
+earningsCallTimestampStart: 1793203200
+earningsGrowth: 42.99
+earningsQuarterlyGrowth: 41.226
+earningsTimestamp: 1793190600
+earningsTimestampEnd: 1793190600
+earningsTimestampStart: 1793190600
+ebitda: 15379999744
+ebitdaMargins: 0.09144
+enterpriseToEbitda: 7.259
+enterpriseToRevenue: 0.664
+enterpriseValue: 111645138944
+epsCurrentYear: 34.7604
+epsForward: 32.27819
+epsTrailingTwelveMonths: 31.18
+esgPopulated: false
+exDividendDate: 1794873600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 268.4234
+fiftyDayAverageChange: -13.233398
+fiftyDayAverageChangePercent: -0.049300466
+fiftyTwoWeekChangePercent: 81.640335
+fiftyTwoWeekHigh: 299.39
+fiftyTwoWeekHighChange: -44.200012
+fiftyTwoWeekHighChangePercent: -0.14763355
+fiftyTwoWeekLow: 127.16
+fiftyTwoWeekLowChange: 128.03
+fiftyTwoWeekLowChangePercent: 1.0068418
+fiftyTwoWeekRange: 127.16 - 299.39
+financialCurrency: USD
+firstTradeDateMilliseconds: 1334237400000
+fiveYearAvgDividendYield: 3.39
+floatShares: 389155692
+forwardEps: 32.27819
+forwardPE: 7.9059577
+freeCashflow: 9516749824
+fullExchangeName: NYSE
+fullTimeEmployees: 12600
+fulldayChange: 4.4900055
+fulldayChangePercent: 1.7909875
+fulldayPrice: 255.19
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.15079
+grossProfits: 25361000448
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0021600001
+heldPercentInstitutions: 0.82362
+impliedSharesOutstanding: 390072362
+industry: Oil & Gas Refining & Marketing
+industryDisp: Oil & Gas Refining & Marketing
+industryKey: oil-gas-refining-marketing
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787011200
+lastDividendValue: 1.27
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Phillips 66 operates as an integrated downstream energy provider
+  in the United States, the United Kingdom, Germany, and internationally. It operates
+  through five segments: Midstream, Chemicals, Refining, Marketing and Specialties
+  (M&S), and Renewable Fuels. The Midstream segment provides crude oil and refined
+  petroleum product transportation, terminaling, and storage services, as well as
+  natural gas and natural gas liquids (NGL) gathering, processing, transportation,
+  fractionation, storage and marketing services. It also exports liquefied petroleum
+  gas. The Chemicals segment produces and markets ethylene and other olefin products;
+  aromatics and styrenics products, such as benzene, cyclohexane, styrene, and polystyrene;
+  various specialty chemical products, including organosulfur chemicals, solvents,
+  catalysts, and chemicals used in drilling and mining; and petrochemicals and plastics.
+  The Refining segment refines crude oil and other feedstocks into petroleum products,
+  such as gasolines and distillates, including aviation fuels. The M&S segment purchases
+  for resale and markets refined products, including gasolines, distillates, and aviation
+  fuels. This segment also manufactures and markets specialty products, such as automotive,
+  commercial, industrial, and specialty lubricants, as well as base oils. The Renewable
+  Fuels segment processes renewable feedstocks into renewable products, as well as
+  supplies sustainable aviation fuel. This segment also procures renewable feedstocks,
+  manages certain regulatory credits, and markets renewable diesel, renewable jet
+  fuel, and other renewable fuels. The company markets its products under the Phillips
+  66, Conoco and 76, JET, Kendall, Red Line, and other private label brands. Phillips
+  66 was founded in 1875 and is headquartered in Houston, Texas.'
+longName: Phillips 66
+market: us_market
+marketCap: 99542564864
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_27306532
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 12567000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 97791141153
+numberOfAnalystOpinions: 19
+open: 254.85
+operatingCashflow: 15027999744
+operatingMargins: 0.081999995
+overallRisk: 8
+payoutRatio: 0.1607
+pegRatio: 0.81
+phone: 832 765 3010
+previousClose: 250.7
+priceEpsCurrentYear: 7.3414
+priceHint: 2
+priceToBook: 2.899491
+priceToSalesTrailing12Months: 0.5918389
+profitMargins: 0.07477
+quickRatio: 0.918
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.1
+region: US
+regularMarketChange: 4.4900055
+regularMarketChangePercent: 1.7909875
+regularMarketDayHigh: 256.97
+regularMarketDayLow: 252.54
+regularMarketDayRange: 252.54 - 256.97
+regularMarketOpen: 254.85
+regularMarketPreviousClose: 250.7
+regularMarketPrice: 255.19
+regularMarketTime: 1794413743
+regularMarketVolume: 503792
+returnOnAssets: 0.10637
+returnOnEquity: 0.39835998
+revenueGrowth: 0.464
+revenuePerShare: 419.542
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 9
+sharesOutstanding: 390072362
+sharesPercentSharesOut: 0.019
+sharesShort: 7406742
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5504613
+shortName: Phillips 66
+shortPercentOfFloat: 0.0219
+shortRatio: 3.05
+sourceInterval: 15
+state: TX
+symbol: PSX
+targetHighPrice: 350.0
+targetLowPrice: 188.0
+targetMeanPrice: 292.3684
+targetMedianPrice: 297.0
+totalCash: 5848000000
+totalCashPerShare: 14.992
+totalDebt: 18530000896
+totalRevenue: 168192000000
+tradeable: false
+trailingAnnualDividendRate: 5.01
+trailingAnnualDividendYield: 0.019984046
+trailingEps: 31.18
+trailingPE: 8.184413
+trailingPegRatio: 0.802
+triggerable: true
+twoHundredDayAverage: 203.0169
+twoHundredDayAverageChange: 52.173096
+twoHundredDayAverageChangePercent: 0.2569889
+typeDisp: Equity
+volume: 503792
+website: https://www.phillips66.com
+zip: '77042'

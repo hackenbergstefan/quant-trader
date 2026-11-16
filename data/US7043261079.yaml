@@ -1,0 +1,283 @@
+52WeekChange: 0.046092868
+SandP52WeekChange: 0.097798586
+address1: 911 Panorama Trail South
+allTimeHigh: 161.24
+allTimeLow: 0.134397
+ask: 120.53
+askSize: 1
+auditRisk: 2
+averageDailyVolume10Day: 3039390
+averageDailyVolume3Month: 2946193
+averageVolume: 2946193
+averageVolume10days: 3039390
+beta: 0.796
+bid: 108.84
+bidSize: 1
+boardRisk: 7
+bookValue: 10.409
+city: Rochester
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. John B. Gibson Jr.
+  title: President, CEO & Director
+  totalPay: 1821045
+  unexercisedValue: 2195988
+  yearBorn: 1967
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Robert Lewis Schrader
+  title: Senior VP & CFO
+  totalPay: 873002
+  unexercisedValue: 387371
+  yearBorn: 1973
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Ryan Norman Bergstrom
+  title: Chief Product & Technology Officer
+  totalPay: 796767
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Chad  Parodi
+  title: Senior VP of HR & Benefits Services
+  totalPay: 864110
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Adam Brooks Ante
+  title: Senior Vice President of HCM
+  totalPay: 838742
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Todd K. Card
+  title: Deputy General Counsel & Interim Chief Legal Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Katy  Bunn
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Mason  Argiropoulos
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Thomas J. Hammond
+  title: Managing Director of Emerging & Ancillary Services
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Bradley J. Schaufenbuel J.D., L.L.M.
+  title: VP & Chief Information Security Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 115.2
+currentRatio: 1.277
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 116.08
+dayLow: 114.65
+debtToEquity: 124.704
+displayName: Paychex
+dividendDate: 1795564800
+dividendRate: 4.76
+dividendYield: 4.1
+earningsCallTimestampEnd: 1790170200
+earningsCallTimestampStart: 1790170200
+earningsGrowth: 0.139
+earningsQuarterlyGrowth: 0.12
+earningsTimestamp: 1790166600
+earningsTimestampEnd: 1797600600
+earningsTimestampStart: 1797600600
+ebitda: 3078000128
+ebitdaMargins: 0.46618998
+enterpriseToEbitda: 14.637
+enterpriseToRevenue: 6.823
+enterpriseValue: 45051629568
+epsCurrentYear: 5.96074
+epsForward: 6.38856
+epsTrailingTwelveMonths: 5.04
+esgPopulated: false
+exDividendDate: 1792972800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 111.5272
+fiftyDayAverageChange: 3.6727982
+fiftyDayAverageChangePercent: 0.03293186
+fiftyTwoWeekChangePercent: 4.609287
+fiftyTwoWeekHigh: 127.98
+fiftyTwoWeekHighChange: -12.780006
+fiftyTwoWeekHighChangePercent: -0.0998594
+fiftyTwoWeekLow: 85.45
+fiftyTwoWeekLowChange: 29.75
+fiftyTwoWeekLowChangePercent: 0.34815684
+fiftyTwoWeekRange: 85.45 - 127.98
+financialCurrency: USD
+firstTradeDateMilliseconds: 430752600000
+fiveYearAvgDividendYield: 2.84
+floatShares: 319577910
+forwardEps: 6.38856
+forwardPE: 18.032232
+freeCashflow: 1887112448
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 17600
+fulldayChange: -1.0
+fulldayChangePercent: -0.8605852
+fulldayPrice: 115.2
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.74391997
+grossProfits: 4911699968
+hasPrePostMarketData: true
+heldPercentInsiders: 0.10191
+heldPercentInstitutions: 0.86109
+impliedSharesOutstanding: 355980473
+industry: Software - Application
+industryDisp: Software - Application
+industryKey: software-application
+irWebsite: http://investor.paychex.com/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1792972800
+lastDividendValue: 1.19
+lastFiscalYearEnd: 1780185600
+lastSplitDate: 959040000
+lastSplitFactor: '3:2'
+longBusinessSummary: Paychex, Inc., together with its subsidiaries, provides human
+  capital management solutions (HCM) for human resources, payroll processing, employee
+  benefits, and insurance services for small to medium-sized businesses in the United
+  States, Europe, Canada, India, and Israel. It offers technology and advisory solutions;
+  and payroll tax administration services. The company also provides retirement solutions,
+  such as plan implementation, ongoing compliance with government regulations, employee
+  and employer reporting, participant and employer online access, electronic funds
+  transfer, and other administrative services; HCM solutions from recruiting and hiring
+  to retirement; and talent management and talent acquisition services. In addition,
+  it offers payroll solutions, including calculation, preparation, and delivery of
+  employee payroll checks; production of internal accounting records and management
+  reports; preparation of federal, state, and local payroll tax returns; and collection
+  and remittance of clients' payroll obligations. Further, the company provides workforce
+  management solutions; benefits administration solutions; digital marketplace for
+  earned wages, financial wellness solutions, and voluntary lifestyle benefits; administrative
+  services organization HR outsourcing solutions; solutions to payroll and non-payroll
+  customers; retirement and funding solutions; and insurance services for property
+  and casualty coverage, such as workers' compensation, business-owner policies, cyber
+  security protection, and commercial auto, as well as health and benefits coverage,
+  including health, dental, vision, and life. Additionally, it offers payroll, HR,
+  employee benefits administration, retirement, insurance, risk management outsourcing,
+  and access to professionally trained HR representatives, virtually and on-site.
+  It markets and sells its solutions primarily through its direct sales force. Paychex,
+  Inc. was founded in 1971 and is headquartered in Rochester, New York.
+longName: Paychex, Inc.
+market: us_market
+marketCap: 41008951296
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_295368
+mostRecentQuarter: 1788134400
+netIncomeToCommon: 1806000000
+nextFiscalYearEnd: 1811721600
+nonDilutedMarketCap: 41361371157
+numberOfAnalystOpinions: 14
+open: 115.32
+operatingCashflow: 2251800064
+operatingMargins: 0.39908
+overallRisk: 3
+payoutRatio: 0.9008
+pegRatio: 2.14
+phone: 585 385 6666
+previousClose: 116.2
+priceEpsCurrentYear: 19.326458
+priceHint: 2
+priceToBook: 11.067345
+priceToSalesTrailing12Months: 6.211125
+profitMargins: 0.27353
+quickRatio: 0.516
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -1.0
+regularMarketChangePercent: -0.8605852
+regularMarketDayHigh: 116.08
+regularMarketDayLow: 114.65
+regularMarketDayRange: 114.65 - 116.08
+regularMarketOpen: 115.32
+regularMarketPreviousClose: 116.2
+regularMarketPrice: 115.2
+regularMarketTime: 1794413744
+regularMarketVolume: 514862
+returnOnAssets: 0.1019
+returnOnEquity: 0.47055
+revenueGrowth: 0.059
+revenuePerShare: 18.452
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 2
+sharesOutstanding: 355980473
+sharesPercentSharesOut: 0.0558
+sharesShort: 19866791
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 18828544
+shortName: Paychex, Inc.
+shortPercentOfFloat: 0.0622
+shortRatio: 6.83
+sourceInterval: 15
+state: NY
+symbol: PAYX
+targetHighPrice: 150.0
+targetLowPrice: 96.0
+targetMeanPrice: 114.57143
+targetMedianPrice: 111.5
+totalCash: 934200000
+totalCashPerShare: 2.624
+totalDebt: 4620899840
+totalRevenue: 6602500096
+tradeable: false
+trailingAnnualDividendRate: 4.54
+trailingAnnualDividendYield: 0.03907057
+trailingEps: 5.04
+trailingPE: 22.857141
+trailingPegRatio: 2.143
+triggerable: true
+twoHundredDayAverage: 103.72625
+twoHundredDayAverageChange: 11.473747
+twoHundredDayAverageChangePercent: 0.110615656
+typeDisp: Equity
+volume: 514862
+website: https://www.paychex.com
+zip: 14625-2396

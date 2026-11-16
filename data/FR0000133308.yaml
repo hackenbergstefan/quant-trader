@@ -1,0 +1,269 @@
+52WeekChange: 0.08090043
+SandP52WeekChange: 0.097798586
+address1: 111, quai du Président Roosevelt
+allTimeHigh: 219.0
+allTimeLow: 6.75
+ask: 0.0
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 4784138
+averageDailyVolume3Month: 5126906
+averageVolume: 5126906
+averageVolume10days: 4784138
+beta: 0.269
+bid: 0.0
+bidSize: 0
+boardRisk: 3
+bookValue: 11.974
+city: Issy-les-Moulineaux
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christel  Heydemann
+  title: CEO & Executive Director
+  totalPay: 2399681
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Laurent  Martinez
+  title: Executive Vice President of Finance, Performance & Development
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bruno  Zerbib
+  title: Executive VP and Group Chief Technology & Innovation Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Constance  Gest
+  title: Group Head of Investor Relations & Financial Communication
+  unexercisedValue: 0
+- age: 71
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Brigitte  Bourgoin
+  title: Group Chief Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1954
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Caroline  Guillaumin
+  title: Executive Vice President of Communications
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vincent  Lecerf
+  title: Executive Vice President of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jerome  Henique
+  title: Executive VP, CEO of Orange France & Director of Orange Middle East and Africa
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marie-Noelle  Jego-Laveissiere
+  title: Executive VP & CEO of Orange in Europe
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Trabbia
+  title: Executive VP & CEO of Orange Wholesale
+  unexercisedValue: 0
+  yearBorn: 1976
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: ORA.PA announced a cash dividend of EUR 0.30 with an ex-date of Dec. 1,
+    2026
+  meta:
+    amount: '0.30'
+    dateEpochMs: 1796079600000
+    eventType: DIVIDEND
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 15.39
+currentRatio: 0.867
+customPriceAlertConfidence: LOW
+dayHigh: 15.415
+dayLow: 15.285
+debtToEquity: 161.477
+dividendRate: 0.75
+dividendYield: 4.88
+earningsCallTimestampEnd: 1793088000
+earningsCallTimestampStart: 1793088000
+earningsTimestamp: 1793118600
+earningsTimestampEnd: 1793118600
+earningsTimestampStart: 1793118600
+ebitda: 12103000064
+ebitdaMargins: 0.2917
+enterpriseToEbitda: 7.391
+enterpriseToRevenue: 2.156
+enterpriseValue: 89448628224
+epsCurrentYear: 1.30139
+epsForward: 1.13405
+epsTrailingTwelveMonths: 4.06
+esgPopulated: false
+exDividendDate: 1796083200
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 14.6343
+fiftyDayAverageChange: 0.7557001
+fiftyDayAverageChangePercent: 0.051638965
+fiftyTwoWeekChangePercent: 8.090043
+fiftyTwoWeekHigh: 18.805
+fiftyTwoWeekHighChange: -3.415
+fiftyTwoWeekHighChangePercent: -0.18160063
+fiftyTwoWeekLow: 13.49
+fiftyTwoWeekLowChange: 1.9000006
+fiftyTwoWeekLowChangePercent: 0.14084512
+fiftyTwoWeekRange: 13.49 - 18.805
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 5.97
+floatShares: 1921939318
+forwardEps: 1.13405
+forwardPE: 13.57083
+freeCashflow: 6392249856
+fullExchangeName: Paris
+fullTimeEmployees: 121242
+fulldayChange: 0.025000572
+fulldayChangePercent: 0.16271117
+fulldayPrice: 15.39
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.41115
+grossProfits: 17059000320
+hasPrePostMarketData: false
+heldPercentInsiders: 0.21542
+heldPercentInstitutions: 0.50343
+impliedSharesOutstanding: 2651421454
+industry: Telecom Services
+industryDisp: Telecom Services
+industryKey: telecom-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1796083200
+lastDividendValue: 0.3
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Orange S.A. operates as a telecommunications operator in France
+  and internationally. The company offers mobile services, such as voice, SMS, and
+  data; and fixed broadband and narrowband services, as well as B2B fixed solutions
+  and network services, including voice and data services. It also sells handsets,
+  broadband equipment, connected devices, and accessories. In addition, it provides
+  IT and integration services comprising unified communication and collaboration services,
+  such as LAN and telephony, consultancy, integration, and project management; hosting
+  and infrastructure services, including cloud computing; customer relations management
+  and other applications services; security services; and video conferencing, as well
+  as sells related equipment. Further, the company offers national and international
+  roaming services; online advertising services; and mobile virtual network operator,
+  network sharing, and mobile financial services, as well as sells equipment to external
+  distributors, brokers, and operators. It markets its products and services under
+  the Orange brand name. The company has a strategic collaboration with Nokia and
+  NVIDIA for the development and evaluation of AI-RAN technologies The company was
+  formerly known as France Telecom and changed its name to Orange S.A. in July 2013.
+  Orange S.A. was incorporated in 1991 and is headquartered in Issy-les-Moulineaux,
+  France.
+longName: Orange S.A.
+market: fr_market
+marketCap: 40805376000
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_367964
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 3974000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 40268443137
+numberOfAnalystOpinions: 16
+open: 15.31
+operatingCashflow: 12344999936
+operatingMargins: 0.14292
+overallRisk: 2
+payoutRatio: 0.1849
+pegRatio: 0.36
+phone: 33 1 44 44 22 22
+previousClose: 15.365
+priceEpsCurrentYear: 11.825817
+priceHint: 2
+priceToBook: 1.2852848
+priceToSalesTrailing12Months: 0.9834753
+profitMargins: 0.09983
+quickRatio: 0.652
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.73333
+region: US
+regularMarketChange: 0.025000572
+regularMarketChangePercent: 0.16271117
+regularMarketDayHigh: 15.415
+regularMarketDayLow: 15.285
+regularMarketDayRange: 15.285 - 15.415
+regularMarketOpen: 15.31
+regularMarketPreviousClose: 15.365
+regularMarketPrice: 15.39
+regularMarketTime: 1794411570
+regularMarketVolume: 1386120
+returnOnAssets: 0.032509997
+returnOnEquity: 0.14163
+revenueGrowth: 0.055
+revenuePerShare: 13.919
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 7
+sharesOutstanding: 2651421454
+shortName: ORANGE
+sourceInterval: 15
+symbol: ORA.PA
+targetHighPrice: 22.6
+targetLowPrice: 15.0
+targetMeanPrice: 18.8875
+targetMedianPrice: 19.3
+totalCash: 11459999744
+totalCashPerShare: 4.312
+totalDebt: 56751001600
+totalRevenue: 41491001344
+tradeable: false
+trailingAnnualDividendRate: 0.75
+trailingAnnualDividendYield: 0.048812237
+trailingEps: 4.06
+trailingPE: 3.7906406
+trailingPegRatio: 0.3562
+triggerable: false
+twoHundredDayAverage: 16.516476
+twoHundredDayAverageChange: -1.1264753
+twoHundredDayAverageChangePercent: -0.06820313
+typeDisp: Equity
+volume: 1386120
+website: https://www.orange.com
+zip: '92130'

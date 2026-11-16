@@ -1,0 +1,293 @@
+52WeekChange: 0.1270752
+SandP52WeekChange: 0.097798586
+address1: 1000 Wilson Boulevard
+allTimeHigh: 226.88
+allTimeLow: 0.408079
+ask: 198.99
+askSize: 100
+auditRisk: 8
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 6002240
+averageDailyVolume3Month: 4675645
+averageVolume: 4675645
+averageVolume10days: 6002240
+beta: 0.282
+bid: 198.87
+bidSize: 200
+boardRisk: 7
+bookValue: 51.318
+city: Arlington
+companyOfficers:
+- age: 51
+  exercisedValue: 858639
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher T. Calio J.D.
+  title: Chairman & CEO
+  totalPay: 7169269
+  unexercisedValue: 34963212
+  yearBorn: 1974
+- age: 49
+  exercisedValue: 872723
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Neil G. Mitchill Jr.
+  title: Executive VP & CFO
+  totalPay: 3925302
+  unexercisedValue: 22854948
+  yearBorn: 1976
+- age: 60
+  exercisedValue: 4559226
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shane G. Eddy
+  title: President of Pratt & Whitney
+  totalPay: 2489045
+  unexercisedValue: 15022444
+  yearBorn: 1965
+- age: 57
+  exercisedValue: 2029569
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philip J. Jasper
+  title: President of Raytheon
+  totalPay: 2597293
+  unexercisedValue: 10266953
+  yearBorn: 1968
+- age: 55
+  exercisedValue: 1187901
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Troy D. Brunk
+  title: President of Collins Aerospace
+  totalPay: 2272771
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amy L. Johnson
+  title: Senior VP & Controller
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juan M. de Bedout
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Nathan  Ware
+  title: Vice President of Investor Relations.
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ramsaran  Maharajh Jr., J.D.
+  title: Executive VP & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Pamela M. Erickson
+  title: Chief Communications Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: RTX announced a cash dividend of $0.73 with an ex-date of Nov. 20, 2026
+  meta:
+    amount: '0.73'
+    dateEpochMs: 1795150800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 198.83
+currentRatio: 1.045
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 200.51
+dayLow: 198.3501
+debtToEquity: 54.758
+displayName: RTX
+dividendDate: 1796860800
+dividendRate: 2.92
+dividendYield: 1.46
+earningsCallTimestampEnd: 1792499400
+earningsCallTimestampStart: 1792499400
+earningsGrowth: 0.34
+earningsQuarterlyGrowth: 0.347
+earningsTimestamp: 1792499400
+earningsTimestampEnd: 1800970200
+earningsTimestampStart: 1800970200
+ebitda: 16960000000
+ebitdaMargins: 0.17669001
+enterpriseToEbitda: 17.789
+enterpriseToRevenue: 3.143
+enterpriseValue: 301695467520
+epsCurrentYear: 7.70328
+epsForward: 8.09163
+epsTrailingTwelveMonths: 6.15
+esgPopulated: false
+exDividendDate: 1795132800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 192.9962
+fiftyDayAverageChange: 5.8338013
+fiftyDayAverageChangePercent: 0.030227544
+fiftyTwoWeekChangePercent: 12.70752
+fiftyTwoWeekHigh: 226.88
+fiftyTwoWeekHighChange: -28.050003
+fiftyTwoWeekHighChangePercent: -0.12363365
+fiftyTwoWeekLow: 166.74
+fiftyTwoWeekLowChange: 32.089996
+fiftyTwoWeekLowChangePercent: 0.19245529
+fiftyTwoWeekRange: 166.74 - 226.88
+financialCurrency: USD
+firstTradeDateMilliseconds: -244546200000
+fiveYearAvgDividendYield: 1.97
+floatShares: 1251538636
+forwardEps: 8.09163
+forwardPE: 24.572306
+freeCashflow: 8301749760
+fullExchangeName: NYSE
+fullTimeEmployees: 180000
+fulldayChange: -1.4400024
+fulldayChangePercent: -0.7190305
+fulldayPrice: 198.83
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.21096
+grossProfits: 20248999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00093000004
+heldPercentInstitutions: 0.82065004
+impliedSharesOutstanding: 1349440548
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+irWebsite: http://www.utc.com/Investor+Relations
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.73
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1585872000
+lastSplitFactor: 15890:10000
+longBusinessSummary: 'RTX Corporation, an aerospace and defense company, provides
+  systems and services for commercial, military, and government customers worldwide.
+  It operates through three segments: Collins Aerospace (Collins), Pratt & Whitney,
+  and Raytheon. The Collins segment offers aerospace and defense products, and aftermarket
+  services for civil and military aircraft manufacturers and commercial airlines,
+  as well as regional, business, and general aviation, defense, and commercial space
+  operations. This segment designs, manufactures, and supplies electric power generation
+  and management and distribution, environmental control, flight control, air data
+  and aircraft sensing, engine control, and engine nacelle systems, as well as engine
+  components; cabin interiors, including seating, oxygen, food and beverage preparation,
+  storage and galley, lavatory, and wastewater management systems; connected aviation
+  solutions and services; and systems solutions for connected battlespace, test and
+  training range systems, crew escape systems, and simulation and training. It also
+  provides spare parts, overhaul and repair, engineering and technical support, training
+  and fleet management solutions, and asset and information management services. The
+  Pratt & Whitney segment supplies aircraft engines for commercial, military, business
+  jet, and general aviation customers; and produces, sells, and services military
+  and commercial auxiliary power units, as well as offers fleet management and aftermarket
+  maintenance, repair, and overhaul services. The Raytheon segment provides defensive
+  and offensive threat detection, tracking, and mitigation capabilities for government
+  and commercial customers. This segment offers sensors, mission orchestration and
+  satellite control products, and software. The company was formerly known as Raytheon
+  Technologies Corporation and changed its name to RTX Corporation in July 2023. RTX
+  Corporation was incorporated in 1934 and is headquartered in Arlington, Virginia.'
+longName: RTX Corporation
+market: us_market
+marketCap: 268309266432
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_159230
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 8402999808
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 270252458547
+numberOfAnalystOpinions: 23
+open: 198.91
+operatingCashflow: 12435000320
+operatingMargins: 0.13109
+overallRisk: 2
+payoutRatio: 0.4585
+pegRatio: 2.1
+phone: 781 522 3000
+prevName: Raytheon Technologies Corporation
+previousClose: 200.27
+priceEpsCurrentYear: 25.811083
+priceHint: 2
+priceToBook: 3.874469
+priceToSalesTrailing12Months: 2.7952666
+profitMargins: 0.08754
+quickRatio: 0.673
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.91667
+region: US
+regularMarketChange: -1.4400024
+regularMarketChangePercent: -0.7190305
+regularMarketDayHigh: 200.51
+regularMarketDayLow: 198.3501
+regularMarketDayRange: 198.3501 - 200.51
+regularMarketOpen: 198.91
+regularMarketPreviousClose: 200.27
+regularMarketPrice: 198.83
+regularMarketTime: 1794413703
+regularMarketVolume: 747170
+returnOnAssets: 0.045560002
+returnOnEquity: 0.1285
+revenueGrowth: 0.111
+revenuePerShare: 71.159
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 2
+sharesOutstanding: 1349440548
+sharesPercentSharesOut: 0.010199999
+sharesShort: 13772030
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 13654643
+shortName: RTX Corporation
+shortPercentOfFloat: 0.010199999
+shortRatio: 2.55
+sourceInterval: 15
+state: VA
+symbol: RTX
+targetHighPrice: 250.0
+targetLowPrice: 200.0
+targetMeanPrice: 227.91304
+targetMedianPrice: 235.0
+totalCash: 9173000192
+totalCashPerShare: 6.798
+totalDebt: 38874001408
+totalRevenue: 95986999296
+tradeable: false
+trailingAnnualDividendRate: 2.82
+trailingAnnualDividendYield: 0.01408099
+trailingEps: 6.15
+trailingPE: 32.330082
+trailingPegRatio: 2.0973
+triggerable: true
+twoHundredDayAverage: 195.31145
+twoHundredDayAverageChange: 3.5185547
+twoHundredDayAverageChangePercent: 0.018015098
+typeDisp: Equity
+volume: 747170
+website: https://www.rtx.com
+zip: '22209'

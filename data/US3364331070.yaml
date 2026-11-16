@@ -1,0 +1,272 @@
+52WeekChange: -0.32348984
+SandP52WeekChange: 0.097798586
+address1: 4300 E Camelback Road
+address2: Suite 220
+allTimeHigh: 320.95
+allTimeLow: 11.43
+ask: 188.88
+askSize: 1
+auditRisk: 5
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 4226190
+averageDailyVolume3Month: 2461279
+averageVolume: 2461279
+averageVolume10days: 4226190
+beta: 1.709
+bid: 168.45
+bidSize: 1
+boardRisk: 9
+bookValue: 101.234
+city: Phoenix
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark R. Widmar
+  title: CEO & Director
+  totalPay: 2638573
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexander R. Bradley
+  title: Chief Financial Officer
+  totalPay: 1165375
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason E. Dymbort
+  title: General Counsel & Secretary
+  totalPay: 967847
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Georges J. Antoun
+  title: Chief Commercial Officer
+  totalPay: 1232644
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kuntal Kumar Verma
+  title: Chief Manufacturing Officer
+  totalPay: 951062
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nathan B. Theurer
+  title: VP, Global Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Markus  Gloeckler
+  title: Chief Technology Officer
+  totalPay: 560074
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Byron Michael Jeffers
+  title: VP, Treasurer & Head of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Caroline  Stockdale
+  title: Chief People & Communications Officer
+  totalPay: 923801
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Koralewski
+  title: Chief Supply Chain Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 177.9325
+currentRatio: 2.571
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 183.3655
+dayLow: 176.5401
+debtToEquity: 2.987
+displayName: First Solar
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793305800
+earningsCallTimestampStart: 1793305800
+earningsGrowth: 0.25
+earningsQuarterlyGrowth: 0.252
+earningsTimestamp: 1793304000
+earningsTimestampEnd: 1793304000
+earningsTimestampStart: 1793304000
+ebitda: 2481668096
+ebitdaMargins: 0.49493
+enterpriseToEbitda: 7.315
+enterpriseToRevenue: 3.62
+enterpriseValue: 18152837120
+epsCurrentYear: 17.54634
+epsForward: 23.16438
+epsTrailingTwelveMonths: 17.29
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 186.3184
+fiftyDayAverageChange: -8.38591
+fiftyDayAverageChangePercent: -0.045008488
+fiftyTwoWeekChangePercent: -32.348984
+fiftyTwoWeekHigh: 320.95
+fiftyTwoWeekHighChange: -143.01752
+fiftyTwoWeekHighChangePercent: -0.44560683
+fiftyTwoWeekLow: 165.86
+fiftyTwoWeekLowChange: 12.0724945
+fiftyTwoWeekLowChangePercent: 0.072787255
+fiftyTwoWeekRange: 165.86 - 320.95
+financialCurrency: USD
+firstTradeDateMilliseconds: 1163773800000
+floatShares: 101665346
+forwardEps: 23.16438
+forwardPE: 7.681298
+freeCashflow: 687752768
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 7900
+fulldayChange: -3.0475006
+fulldayChangePercent: -1.6838881
+fulldayPrice: 177.9325
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.49251
+grossProfits: 2469536000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.05361
+heldPercentInstitutions: 1.0231099
+impliedSharesOutstanding: 107481151
+industry: Solar
+industryDisp: Solar
+industryKey: solar
+irWebsite: http://investor.firstsolar.com/index.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: First Solar, Inc., a solar technology company, provides photovoltaic
+  (PV) solar energy solutions in the United States, France, India, Chile, and internationally.
+  The company manufactures and sells PV solar modules with thin film semiconductor
+  technology that provides conventional crystalline silicon PV solar modules. It also
+  designs, manufactures, and sells cadmium telluride solar modules that convert sunlight
+  into electricity. The company serves system developers, independent power producers,
+  utilities, commercial and industrial companies, large corporate energy buyers, and
+  other system owners and operators. The company was formerly known as First Solar
+  Holdings, Inc. and changed its name to First Solar, Inc. in 2006. First Solar, Inc.
+  was founded in 1999 and is headquartered in Phoenix, Arizona.
+longName: First Solar, Inc.
+market: us_market
+marketCap: 19124389888
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_4593731
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1861133952
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 19451938707
+numberOfAnalystOpinions: 30
+open: 182.28
+operatingCashflow: 839179008
+operatingMargins: 0.37688
+overallRisk: 8
+payoutRatio: 0.0
+pegRatio: 0.34
+phone: 602 414 9300
+previousClose: 180.98
+priceEpsCurrentYear: 10.1407175
+priceHint: 2
+priceToBook: 1.7576357
+priceToSalesTrailing12Months: 3.8140833
+profitMargins: 0.37118
+quickRatio: 1.756
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.75
+region: US
+regularMarketChange: -3.0475006
+regularMarketChangePercent: -1.6838881
+regularMarketDayHigh: 183.3655
+regularMarketDayLow: 176.5401
+regularMarketDayRange: 176.5401 - 183.3655
+regularMarketOpen: 182.28
+regularMarketPreviousClose: 180.98
+regularMarketPrice: 177.9325
+regularMarketTime: 1794413732
+regularMarketVolume: 1102723
+returnOnAssets: 0.08596
+returnOnEquity: 0.18709
+revenueGrowth: -0.228
+revenuePerShare: 46.687
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 7
+sharesOutstanding: 107481151
+sharesPercentSharesOut: 0.104499996
+sharesShort: 11230097
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 11126598
+shortName: First Solar, Inc.
+shortPercentOfFloat: 0.1366
+shortRatio: 5.42
+sourceInterval: 15
+state: AZ
+symbol: FSLR
+targetHighPrice: 328.0
+targetLowPrice: 169.0
+targetMeanPrice: 253.538
+targetMedianPrice: 254.0
+totalCash: 1624075008
+totalCashPerShare: 15.11
+totalDebt: 324974016
+totalRevenue: 5014151168
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 17.29
+trailingPE: 10.291063
+trailingPegRatio: 0.3223
+triggerable: true
+twoHundredDayAverage: 214.09116
+twoHundredDayAverageChange: -36.15866
+twoHundredDayAverageChangePercent: -0.16889377
+typeDisp: Equity
+volume: 1102723
+website: https://www.firstsolar.com
+zip: '85018'

@@ -1,0 +1,274 @@
+52WeekChange: 0.029302597
+SandP52WeekChange: 0.097798586
+address1: 1390 Enclave Parkway
+allTimeHigh: 91.85
+allTimeLow: 0.059896
+ask: 77.05
+askSize: 100
+auditRisk: 4
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 4745820
+averageDailyVolume3Month: 3665254
+averageVolume: 3665254
+averageVolume10days: 4745820
+beta: 0.647
+bid: 76.98
+bidSize: 100
+boardRisk: 8
+bookValue: 8.217
+city: Houston
+companyOfficers:
+- age: 51
+  exercisedValue: 2094503
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Kevin P. Hourican
+  title: CEO & Chairman
+  totalPay: 4927624
+  unexercisedValue: 8443242
+  yearBorn: 1974
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Ms. Jennifer Kaplan Schott
+  title: Executive VP, Chief Legal Officer & Secretary
+  totalPay: 1851177
+  unexercisedValue: 15225
+  yearBorn: 1974
+- age: 59
+  exercisedValue: 90361
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Ronald L. Phillips
+  title: Executive VP & Chief Human Resources Officer
+  totalPay: 1622533
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Greg D. Bertrand
+  title: Non-Executive Officer Senior Advisor
+  totalPay: 1805988
+  unexercisedValue: 1825742
+  yearBorn: 1964
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Stephen Dale Higgs
+  title: Senior Vice President of US Broadline Foodservice Operations
+  totalPay: 1192142
+  unexercisedValue: 672940
+  yearBorn: 1971
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Ms. Jennifer L. Johnson
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Navin  Advani
+  title: Interim Chief Information & Digital Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Kevin J. Kim
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Jose  Colondres
+  title: Vice President of Compliance
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Gregory Scott Keller
+  title: Executive Vice President, President of National Sales & Specialty Businesses
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1672444800
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 76.915
+currentRatio: 1.464
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 77.83
+dayLow: 76.81
+debtToEquity: 382.583
+displayName: Sysco
+dividendDate: 1792713600
+dividendRate: 2.2
+dividendYield: 2.83
+earningsCallTimestampEnd: 1793718000
+earningsCallTimestampStart: 1793718000
+earningsGrowth: 0.101
+earningsQuarterlyGrowth: 0.105
+earningsTimestamp: 1793712600
+earningsTimestampEnd: 1801575000
+earningsTimestampStart: 1801575000
+ebitda: 4524000256
+ebitdaMargins: 0.05313
+enterpriseToEbitda: 11.164
+enterpriseToRevenue: 0.593
+enterpriseValue: 50507980800
+epsCurrentYear: 5.05838
+epsForward: 5.38478
+epsTrailingTwelveMonths: 3.76
+esgPopulated: false
+exDividendDate: 1790899200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 79.759
+fiftyDayAverageChange: -2.8440018
+fiftyDayAverageChangePercent: -0.03565744
+fiftyTwoWeekChangePercent: 2.9302597
+fiftyTwoWeekHigh: 91.85
+fiftyTwoWeekHighChange: -14.934998
+fiftyTwoWeekHighChangePercent: -0.16260205
+fiftyTwoWeekLow: 68.19
+fiftyTwoWeekLowChange: 8.724998
+fiftyTwoWeekLowChangePercent: 0.12795128
+fiftyTwoWeekRange: 68.19 - 91.85
+financialCurrency: USD
+firstTradeDateMilliseconds: 105715800000
+fiveYearAvgDividendYield: 2.59
+floatShares: 490887475
+forwardEps: 5.38478
+forwardPE: 14.283778
+freeCashflow: 2407624960
+fullExchangeName: NYSE
+fullTimeEmployees: 75000
+fulldayChange: -0.71499634
+fulldayChangePercent: -0.921031
+fulldayPrice: 76.915
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.18542999
+grossProfits: 15788999680
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0018099999
+heldPercentInstitutions: 0.87491
+impliedSharesOutstanding: 492270756
+industry: Food Distribution
+industryDisp: Food Distribution
+industryKey: food-distribution
+irWebsite: http://www.sysco.com/investors.html
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1790899200
+lastDividendValue: 0.55
+lastFiscalYearEnd: 1782518400
+lastSplitDate: 977097600
+lastSplitFactor: '2:1'
+longBusinessSummary: Sysco Corporation, through its subsidiaries, engages in the sale,
+  marketing, and distribution of food and related products to restaurants, healthcare
+  and educational facilities, lodging establishments, and other foodservice customers.
+  It operates through U.S. Foodservice Operations, International Foodservice Operations,
+  SYGMA, and Other segments. The company distributes frozen food, such as meats, seafood,
+  fully prepared entrées, fruits, vegetables, and desserts; canned and dry food; fresh
+  meats and seafood; dairy and beverage products; imported specialties; and fresh
+  produce. It also supplies paper products, including disposable napkins, plates,
+  and cups; tableware comprising glassware and silverware; cookware consisting of
+  pots, pans, and utensils; restaurant and kitchen equipment and supplies; and cleaning
+  supplies. The company operates in the United States, Canada, the United Kingdom,
+  France, Sweden, and internationally. Sysco Corporation was incorporated in 1969
+  and is headquartered in Houston, Texas.
+longName: Sysco Corporation
+market: us_market
+marketCap: 37863006208
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_189096
+mostRecentQuarter: 1790380800
+netIncomeToCommon: 1807000064
+nextFiscalYearEnd: 1814054400
+nonDilutedMarketCap: 38214978788
+numberOfAnalystOpinions: 12
+open: 77.48
+operatingCashflow: 2830000128
+operatingMargins: 0.04133
+overallRisk: 7
+payoutRatio: 0.5798
+pegRatio: 1.1
+phone: 281 584 1390
+previousClose: 77.63
+priceEpsCurrentYear: 15.205461
+priceHint: 2
+priceToBook: 9.360473
+priceToSalesTrailing12Months: 0.44466767
+profitMargins: 0.02122
+quickRatio: 0.9
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.28571
+region: US
+regularMarketChange: -0.71499634
+regularMarketChangePercent: -0.921031
+regularMarketDayHigh: 77.83
+regularMarketDayLow: 76.81
+regularMarketDayRange: 76.81 - 77.83
+regularMarketOpen: 77.48
+regularMarketPreviousClose: 77.63
+regularMarketPrice: 76.915
+regularMarketTime: 1794413720
+regularMarketVolume: 357270
+returnOnAssets: 0.07651
+returnOnEquity: 0.58736
+revenueGrowth: 0.028
+revenuePerShare: 177.481
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 6
+sharesOutstanding: 492270756
+sharesPercentSharesOut: 0.0298
+sharesShort: 14666009
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 12143482
+shortName: Sysco Corporation
+shortPercentOfFloat: 0.0341
+shortRatio: 4.82
+sourceInterval: 15
+state: TX
+symbol: SYY
+targetHighPrice: 102.0
+targetLowPrice: 78.0
+targetMeanPrice: 91.25
+targetMedianPrice: 91.0
+totalCash: 3171000064
+totalCashPerShare: 6.442
+totalDebt: 15463999488
+totalRevenue: 85148999680
+tradeable: false
+trailingAnnualDividendRate: 2.18
+trailingAnnualDividendYield: 0.02808193
+trailingEps: 3.76
+trailingPE: 20.456118
+trailingPegRatio: 1.0964
+triggerable: true
+twoHundredDayAverage: 80.4881
+twoHundredDayAverageChange: -3.5730972
+twoHundredDayAverageChangePercent: -0.044392865
+typeDisp: Equity
+volume: 357270
+website: https://www.sysco.com
+zip: 77077-2099

@@ -1,0 +1,248 @@
+52WeekChange: 0.106716394
+SandP52WeekChange: 0.097798586
+address1: Avenida de América, number 38
+allTimeHigh: 38.970085
+allTimeLow: 8.36
+ask: 29.76
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 2046318
+averageDailyVolume3Month: 1290987
+averageVolume: 1290987
+averageVolume10days: 2046318
+beta: 0.495
+bid: 29.74
+bidSize: 0
+boardRisk: 10
+bookValue: 9.081
+city: Madrid
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Francisco Miguel Reynes Massanet
+  title: CEO & Executive Chairman
+  totalPay: 2478000
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rafael Blesa Martinez
+  title: Technology & Systems Manager
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gabriel Alejandro Deseff Rodríguez
+  title: Consolidation & Administration Manager
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Abel  Arbat
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria Isabel Gonzalez Alfaro
+  title: Compliance Officer
+  unexercisedValue: 0
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jordi Garcia Tabernero
+  title: Public Affairs & Sustainability Manager
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven Douglas Fernandez Fernandez
+  title: Financial Markets & Corporate Development Manager
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Enrique Tapia Lopez
+  title: People & Resources Manager
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Manuel Garcia Cobaleda
+  title: Secretary of the Company and the Board
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jon Ganuza Fernandez de Arroyabe
+  title: Energy Procurement & Wholesale Markets Manager
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: Spain
+cryptoTradeable: false
+currency: EUR
+currentPrice: 29.76
+currentRatio: 1.263
+customPriceAlertConfidence: LOW
+dayHigh: 29.8
+dayLow: 29.58
+debtToEquity: 162.961
+dividendRate: 2.37
+dividendYield: 7.99
+earningsCallTimestampEnd: 1784710800
+earningsCallTimestampStart: 1784710800
+earningsQuarterlyGrowth: 0.042
+earningsTimestampEnd: 1784734200
+earningsTimestampStart: 1784734200
+ebitda: 5160750080
+ebitdaMargins: 0.25494
+enterpriseToEbitda: 8.171
+enterpriseToRevenue: 2.083
+enterpriseValue: 42166902784
+epsCurrentYear: 2.23
+epsForward: 2.161
+epsTrailingTwelveMonths: 2.16
+esgPopulated: false
+exDividendDate: 1793664000
+exchange: MCE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Madrid
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 29.7344
+fiftyDayAverageChange: 0.025600433
+fiftyDayAverageChangePercent: 0.00086097023
+fiftyTwoWeekChangePercent: 10.671639
+fiftyTwoWeekHigh: 31.12
+fiftyTwoWeekHighChange: -1.3600006
+fiftyTwoWeekHighChangePercent: -0.043701816
+fiftyTwoWeekLow: 24.3
+fiftyTwoWeekLowChange: 5.460001
+fiftyTwoWeekLowChangePercent: 0.2246914
+fiftyTwoWeekRange: 24.3 - 31.12
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 5.73
+floatShares: 298454375
+forwardEps: 2.161
+forwardPE: 13.771402
+fullExchangeName: MCE
+fullTimeEmployees: 6639
+fulldayChange: 0.10000038
+fulldayChangePercent: 0.3371557
+fulldayPrice: 29.76
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.38294998
+grossProfits: 7752000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.45613
+heldPercentInstitutions: 0.25639
+impliedSharesOutstanding: 926393571
+industry: Utilities - Regulated Gas
+industryDisp: Utilities - Regulated Gas
+industryKey: utilities-regulated-gas
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793664000
+lastDividendValue: 0.6
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Naturgy Energy Group, S.A., together with its subsidiaries, engages
+  in the supply, liquefaction, regasification, transport, storage, distribution, and
+  sale of gas. It operates through Distribution Networks and Energy Markets segments.
+  The company is involved in the regulated gas and electricity distribution; management
+  of transport infrastructure; trade and shipping of liquefied natural gas; supply,
+  procurement, and management of other gas infrastructure; and management of gas pipeline.
+  It also manages conventional thermal generation facilities; facilities and generation
+  projects using wind energy, mini hydro, solar and cogeneration, as well as hydroelectric
+  power; photovoltaic generation projects; and renewable electricity generation projects.
+  In addition, the company is involved in renewable gas projects, such as biomethane
+  and green hydrogen; supply of gas, electricity and services to end customers. It
+  operates in Spain, Australia, the United States, Argentina, Brazil, Chile, Mexico,
+  Panama, the rest of Latin America, and the rest of Europe. The company was formerly
+  known as Gas Natural SDG, S.A. and changed its name to Naturgy Energy Group, S.A.
+  in June 2018. Naturgy Energy Group, S.A. was incorporated in 1843 and is based in
+  Madrid, Spain.
+longName: Naturgy Energy Group, S.A.
+market: es_market
+marketCap: 27569473536
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_878889
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2112999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 27476833315
+numberOfAnalystOpinions: 18
+open: 29.6
+operatingMargins: 0.18604
+overallRisk: 9
+payoutRatio: 0.7592
+pegRatio: 6.98
+phone: 34 921 44 31 36
+previousClose: 29.66
+priceEpsCurrentYear: 13.345291
+priceHint: 2
+priceToBook: 3.277172
+priceToSalesTrailing12Months: 1.3619263
+profitMargins: 0.10438
+quickRatio: 1.058
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.38889
+region: US
+regularMarketChange: 0.10000038
+regularMarketChangePercent: 0.3371557
+regularMarketDayHigh: 29.8
+regularMarketDayLow: 29.58
+regularMarketDayRange: 29.58 - 29.8
+regularMarketOpen: 29.6
+regularMarketPreviousClose: 29.66
+regularMarketPrice: 29.76
+regularMarketTime: 1794411567
+regularMarketVolume: 164739
+returnOnAssets: 0.05865
+returnOnEquity: 0.23698999
+revenueGrowth: 0.141
+revenuePerShare: 21.843
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 1
+sharesOutstanding: 926393571
+shortName: NATURGY ENERGY GROUP, S.A.
+sourceInterval: 15
+symbol: NTGY.MC
+targetHighPrice: 35.5
+targetLowPrice: 24.3
+targetMeanPrice: 31.27667
+targetMedianPrice: 31.55
+totalCash: 4840999936
+totalCashPerShare: 5.224
+totalDebt: 17312999424
+totalRevenue: 20242999296
+tradeable: false
+trailingAnnualDividendRate: 1.77
+trailingAnnualDividendYield: 0.05967633
+trailingEps: 2.16
+trailingPE: 13.777778
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 28.1008
+twoHundredDayAverageChange: 1.6592007
+twoHundredDayAverageChangePercent: 0.059044607
+typeDisp: Equity
+volume: 164739
+website: https://www.naturgy.com
+zip: '28008'

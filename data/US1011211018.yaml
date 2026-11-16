@@ -1,0 +1,281 @@
+52WeekChange: -0.1131891
+SandP52WeekChange: 0.097798586
+address1: Prudential Center, 800 Boylston Street
+address2: Suite 1900
+allTimeHigh: 147.83
+allTimeLow: 23.4375
+ask: 63.36
+askSize: 300
+auditRisk: 6
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 1767550
+averageDailyVolume3Month: 1392448
+averageVolume: 1392448
+averageVolume10days: 1767550
+beta: 1.045
+bid: 63.3
+bidSize: 200
+boardRisk: 9
+bookValue: 32.513
+city: Boston
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Owen David Thomas
+  title: CEO & Chairman of the Board
+  totalPay: 3729362
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Douglas T. Linde
+  title: President & Director
+  totalPay: 3072065
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Michael E. LaBelle
+  title: Executive VP, Treasurer & CFO
+  totalPay: 2048885
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Bryan J. Koop
+  title: Executive Vice President of Boston Region
+  totalPay: 2039065
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Ms. Hilary J. Spann
+  title: Executive Vice President of New York Region
+  totalPay: 1620998
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 87
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Mortimer B. Zuckerman
+  title: Co-Founder & Chairman Emeritus
+  totalPay: 273972
+  unexercisedValue: 0
+  yearBorn: 1938
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Michael R. Walsh
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Colin  Joynt
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Ms. Helen  Han
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Eric G. Kevorkian
+  title: Senior VP, Chief Legal Officer & Secretary
+  unexercisedValue: 0
+  yearBorn: 1972
+compensationAsOfEpochDate: 1483142400
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 63.425
+currentRatio: 0.701
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 63.86
+dayLow: 62.51
+debtToEquity: 222.013
+displayName: BXP
+dividendDate: 1793318400
+dividendRate: 2.8
+dividendYield: 4.41
+earningsCallTimestampEnd: 1793196000
+earningsCallTimestampStart: 1793196000
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1800997200
+earningsTimestampStart: 1800997200
+ebitda: 1658919040
+ebitdaMargins: 0.51265
+enterpriseToEbitda: 17.243
+enterpriseToRevenue: 8.84
+enterpriseValue: 28604620800
+epsCurrentYear: 1.95033
+epsForward: 2.08575
+epsTrailingTwelveMonths: 3.34
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 617 236 3311
+fiftyDayAverage: 62.5046
+fiftyDayAverageChange: 0.9203987
+fiftyDayAverageChangePercent: 0.014725296
+fiftyTwoWeekChangePercent: -11.318911
+fiftyTwoWeekHigh: 74.94
+fiftyTwoWeekHighChange: -11.515003
+fiftyTwoWeekHighChangePercent: -0.15365629
+fiftyTwoWeekLow: 49.72
+fiftyTwoWeekLowChange: 13.704998
+fiftyTwoWeekLowChangePercent: 0.27564356
+fiftyTwoWeekRange: 49.72 - 74.94
+financialCurrency: USD
+firstTradeDateMilliseconds: 866640600000
+fiveYearAvgDividendYield: 5.11
+floatShares: 158275845
+forwardEps: 2.08575
+forwardPE: 30.408724
+freeCashflow: 1114296960
+fullExchangeName: NYSE
+fullTimeEmployees: 826
+fulldayChange: -0.11500168
+fulldayChangePercent: -0.180991
+fulldayPrice: 63.425
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.56988
+grossProfits: 1844109056
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00374
+heldPercentInstitutions: 1.12355
+impliedSharesOutstanding: 180641152
+industry: REIT - Office
+industryDisp: REIT - Office
+industryKey: reit-office
+irWebsite: http://ir.bostonproperties.com/phoenix.zhtml?c=120176&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 0.7
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: BXP, Inc. is the largest publicly traded developer, owner, and
+  manager of premier workplaces in the United States. It is concentrated in six dynamic
+  gateway markets - Boston, Los Angeles, New York, San Francisco, Seattle, and Washington,
+  DC. BXP has delivered places that power progress for our clients and communities
+  for more than 55 years. BXP is a fully integrated real estate company, organized
+  as a real estate investment trust (REIT). As of June 30, 2026, including properties
+  owned by joint ventures, BXP's portfolio totals 51.1 million square feet and 164
+  properties, including six properties under construction/redevelopment. BXP's portfolio
+  consists of 143 office properties, 13 retail properties, seven residential properties
+  (including four residential properties under construction) and one hotel. BXP is
+  well known for its in-house building management expertise and responsiveness to
+  clients' needs. BXP holds a superior track record of developing premium Central
+  Business District (CBD) office buildings, successful mixed-use complexes, suburban
+  office centers and build-to-suit projects for a diverse array of creditworthy clients.
+  BXP actively works to promote its growth and operations in a sustainable and responsible
+  manner. BXP, Inc. was incorporated in 1970 in Delaware and is based in Massachusetts,
+  Boston.
+longName: BXP, Inc.
+market: us_market
+marketCap: 11457165312
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_368278
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 532956000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 10148180794
+numberOfAnalystOpinions: 20
+open: 62.945
+operatingCashflow: 1345144064
+operatingMargins: 0.22659999
+overallRisk: 9
+payoutRatio: 0.8383
+pegRatio: 2.46
+phone: 617 236 3300
+prevName: Boston Properties, Inc.
+previousClose: 63.54
+priceEpsCurrentYear: 32.520138
+priceHint: 2
+priceToBook: 1.9507581
+priceToSalesTrailing12Months: 3.5405583
+profitMargins: 0.16469999
+quickRatio: 0.646
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.18182
+region: US
+regularMarketChange: -0.11500168
+regularMarketChangePercent: -0.180991
+regularMarketDayHigh: 63.86
+regularMarketDayLow: 62.51
+regularMarketDayRange: 62.51 - 63.86
+regularMarketOpen: 62.945
+regularMarketPreviousClose: 63.54
+regularMarketPrice: 63.425
+regularMarketTime: 1794413698
+regularMarketVolume: 144349
+returnOnAssets: 0.01754
+returnOnEquity: 0.08957
+revenueGrowth: 0.053
+revenuePerShare: 20.359
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 8
+sharesOutstanding: 159713264
+sharesPercentSharesOut: 0.0795
+sharesShort: 12698156
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 12505578
+shortName: BXP, Inc.
+shortPercentOfFloat: 0.1058
+shortRatio: 8.76
+sourceInterval: 15
+state: MA
+symbol: BXP
+targetHighPrice: 95.0
+targetLowPrice: 54.0
+targetMeanPrice: 73.6
+targetMedianPrice: 70.0
+totalCash: 1481635968
+totalCashPerShare: 9.277
+totalDebt: 17325688832
+totalRevenue: 3235976960
+tradeable: false
+trailingAnnualDividendRate: 2.8
+trailingAnnualDividendYield: 0.044066727
+trailingEps: 3.34
+trailingPE: 18.989521
+trailingPegRatio: 2.4581
+triggerable: true
+twoHundredDayAverage: 62.0026
+twoHundredDayAverageChange: 1.4223976
+twoHundredDayAverageChangePercent: 0.022940934
+typeDisp: Equity
+volume: 144349
+website: https://www.bxp.com
+zip: 02199-8103

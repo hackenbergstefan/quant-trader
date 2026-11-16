@@ -1,0 +1,295 @@
+52WeekChange: 0.03866732
+SandP52WeekChange: 0.097798586
+address1: One Hartford Plaza
+allTimeHigh: 146.07
+allTimeLow: 3.33
+ask: 134.94
+askSize: 100
+auditRisk: 8
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 2057150
+averageDailyVolume3Month: 1676025
+averageVolume: 1676025
+averageVolume10days: 2057150
+beta: 0.465
+bid: 134.92
+bidSize: 300
+boardRisk: 3
+bookValue: 69.087
+city: Hartford
+companyOfficers:
+- age: 64
+  exercisedValue: 24142998
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher Jerome Swift CPA
+  title: Chairman & CEO
+  totalPay: 7688454
+  unexercisedValue: 168041904
+  yearBorn: 1961
+- age: 55
+  exercisedValue: 3243356
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adin Morris Tooker
+  title: President & Director
+  totalPay: 3879630
+  unexercisedValue: 10766423
+  yearBorn: 1970
+- age: 57
+  exercisedValue: 2636717
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Beth A. Costello CPA
+  title: Executive VP & CFO
+  totalPay: 3829795
+  unexercisedValue: 34636928
+  yearBorn: 1968
+- age: 56
+  exercisedValue: 3251110
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amy Marie Stepnowski
+  title: Executive VP & Chief Investment Officer
+  totalPay: 2743200
+  unexercisedValue: 1913566
+  yearBorn: 1969
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Donald Christian Hunt J.D.
+  title: Executive VP & General Counsel
+  totalPay: 2112500
+  unexercisedValue: 135980
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffery  Hawkins
+  title: Chief Data, AI & Operations Officer
+  unexercisedValue: 0
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Allison Gayle Niderno
+  title: Senior VP, Controller & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shekar  Pannala
+  title: Executive VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kate  Jorens
+  title: SVP, Treasurer & Head of Investor Relations
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Claire H. Burns
+  title: Chief Marketing & Customer Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: HIG announced a cash dividend of $0.67 with an ex-date of Dec. 1, 2026
+  meta:
+    amount: '0.67'
+    dateEpochMs: 1796101200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 135.12
+currentRatio: 1.667
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 137.11
+dayLow: 134.73
+debtToEquity: 23.16
+displayName: Hartford Insurance
+dividendDate: 1799107200
+dividendRate: 2.68
+dividendYield: 1.94
+earningsCallTimestampEnd: 1793106000
+earningsCallTimestampStart: 1793106000
+earningsGrowth: 0.28
+earningsQuarterlyGrowth: 0.225
+earningsTimestamp: 1793044800
+earningsTimestampEnd: 1801170000
+earningsTimestampStart: 1801170000
+ebitda: 5957000192
+ebitdaMargins: 0.20135
+enterpriseToEbitda: 6.218
+enterpriseToRevenue: 1.252
+enterpriseValue: 37040566272
+epsCurrentYear: 13.27371
+epsForward: 13.6226
+epsTrailingTwelveMonths: 14.94
+esgPopulated: false
+exDividendDate: 1796083200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 132.653
+fiftyDayAverageChange: 2.4669952
+fiftyDayAverageChangePercent: 0.018597357
+fiftyTwoWeekChangePercent: 3.8667321
+fiftyTwoWeekHigh: 146.07
+fiftyTwoWeekHighChange: -10.950012
+fiftyTwoWeekHighChangePercent: -0.074964136
+fiftyTwoWeekLow: 120.42
+fiftyTwoWeekLowChange: 14.699997
+fiftyTwoWeekLowChangePercent: 0.12207272
+fiftyTwoWeekRange: 120.42 - 146.07
+financialCurrency: USD
+firstTradeDateMilliseconds: 819037800000
+fiveYearAvgDividendYield: 1.87
+floatShares: 266119116
+forwardEps: 13.6226
+forwardPE: 9.918811
+freeCashflow: 7383000064
+fullExchangeName: NYSE
+fullTimeEmployees: 19200
+fulldayChange: -2.680008
+fulldayChangePercent: -1.9448533
+fulldayPrice: 135.12
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.38571998
+grossProfits: 11411999744
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00369
+heldPercentInstitutions: 0.96403
+impliedSharesOutstanding: 267413397
+industry: Insurance - Diversified
+industryDisp: Insurance - Diversified
+industryKey: insurance-diversified
+irWebsite: http://ir.thehartford.com/index.cfm
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788220800
+lastDividendValue: 0.6
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 900547200
+lastSplitFactor: '2:1'
+longBusinessSummary: The Hartford Insurance Group, Inc., together with its subsidiaries,
+  provides insurance and financial services to individual and business customers in
+  the United States, the United Kingdom, and internationally. It operates through
+  Business Insurance, Personal Insurance, Property & Casualty Other Operations, Employee
+  Benefits and Hartford Funds. The company offers insurance coverage, including workers'
+  compensation, property, automobile, general and professional liability, package
+  business, umbrella, fidelity and surety, marine, livestock, accident, health, and
+  reinsurance through regional offices, branches, sales and policyholder service centers,
+  independent retail agents and brokers, wholesale agents, and reinsurance brokers.
+  The company also provides automobiles, homeowners, and personal umbrella coverages.
+  The Property & Casualty Other Operations segment offers coverage for asbestos and
+  environmental exposures. In addition, it provides group life, disability, and other
+  group coverages to members of employer groups, associations, and affinity groups
+  through direct insurance policies; reinsurance to other insurance companies; employer
+  paid and voluntary product coverages; disability underwriting, administration, and
+  claims processing to self-funded employer plans; leave management solution; distributes
+  its group insurance products and services through brokers, consultants, third-party
+  administrators, trade associations, and private exchanges. Further, the company
+  offers managed mutual funds across various asset classes; and exchange-traded funds
+  through broker-dealer organizations, independent financial advisers, defined contribution
+  plans, financial consultants, bank trust, and registered investment advisers, as
+  well as investment management, distribution, and administrative services, such as
+  product design, implementation, and oversight. The company was founded in 1810 and
+  is headquartered in Hartford, Connecticut.
+longName: The Hartford Insurance Group, Inc.
+market: us_market
+marketCap: 36132896768
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_341546
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 4318000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 36849566106
+numberOfAnalystOpinions: 21
+open: 136.37
+operatingCashflow: 6992999936
+operatingMargins: 0.19012
+overallRisk: 5
+payoutRatio: 0.1548
+pegRatio: 0.12
+phone: (860) 547-5000
+prevName: The Hartford Financial Services Group, Inc.
+previousClose: 137.8
+priceEpsCurrentYear: 10.17952
+priceHint: 2
+priceToBook: 1.9557948
+priceToSalesTrailing12Months: 1.2212836
+profitMargins: 0.15574999
+quickRatio: 1.022
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.41667
+region: US
+regularMarketChange: -2.680008
+regularMarketChangePercent: -1.9448533
+regularMarketDayHigh: 137.11
+regularMarketDayLow: 134.73
+regularMarketDayRange: 134.73 - 137.11
+regularMarketOpen: 136.37
+regularMarketPreviousClose: 137.8
+regularMarketPrice: 135.12
+regularMarketTime: 1794413742
+regularMarketVolume: 462592
+returnOnAssets: 0.04085
+returnOnEquity: 0.23251
+revenueGrowth: 0.039
+revenuePerShare: 107.801
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 7
+sharesOutstanding: 267413397
+sharesPercentSharesOut: 0.0001
+sharesShort: 27542
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3928889
+shortName: The Hartford Insurance Group, I
+shortPercentOfFloat: 0.0001
+shortRatio: 0.01
+sourceInterval: 15
+state: CT
+symbol: HIG
+targetHighPrice: 163.0
+targetLowPrice: 135.0
+targetMeanPrice: 146.14285
+targetMedianPrice: 145.0
+totalCash: 4513999872
+totalCashPerShare: 16.88
+totalDebt: 4370999808
+totalRevenue: 29585999872
+tradeable: false
+trailingAnnualDividendRate: 2.4
+trailingAnnualDividendYield: 0.017416546
+trailingEps: 14.94
+trailingPE: 9.044177
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 135.6139
+twoHundredDayAverageChange: -0.49391174
+twoHundredDayAverageChangePercent: -0.0036420436
+typeDisp: Equity
+volume: 462592
+website: https://www.thehartford.com
+zip: '06155'

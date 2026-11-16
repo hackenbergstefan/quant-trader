@@ -1,0 +1,271 @@
+52WeekChange: -0.07964373
+SandP52WeekChange: 0.097798586
+address1: 6400 Poplar Avenue
+allTimeHigh: 63.390152
+allTimeLow: 3.670208
+ask: 34.9
+askSize: 100
+auditRisk: 5
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 6793920
+averageDailyVolume3Month: 5224173
+averageVolume: 5224173
+averageVolume10days: 6793920
+beta: 0.941
+bid: 34.86
+bidSize: 100
+boardRisk: 8
+bookValue: 24.827
+city: Memphis
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew K. Silvernail
+  title: CEO & Chairman
+  totalPay: 2663506
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lance T. Loeffler
+  title: Senior VP & CFO
+  totalPay: 1676548
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph R. Saab
+  title: Senior VP, General Counsel & Corporate Secretary
+  totalPay: 1308098
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy S. Nicholls
+  title: Executive VP & President of DS Smith
+  totalPay: 2896378
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William Thomas Hamic
+  title: EVP & President of North American Packaging Solutions
+  totalPay: 1600429
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Michael H. Anderson
+  title: VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mandi  Gilliland
+  title: Senior Director of Investor Relations
+  unexercisedValue: 0
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melissa S. Flores
+  title: Senior Vice President & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sophie N. Beckham
+  title: VP & Chief Sustainability Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Errol A. Harris
+  title: VP & Treasurer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: IP announced a cash dividend of $0.463 with an ex-date of Nov. 16, 2026
+  meta:
+    amount: '0.463'
+    dateEpochMs: 1794805200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 34.86
+currentRatio: 0.987
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 35.065
+dayLow: 34.7605
+debtToEquity: 78.746
+displayName: International Paper
+dividendDate: 1797292800
+dividendRate: 1.85
+dividendYield: 5.27
+earningsCallTimestampEnd: 1793196000
+earningsCallTimestampStart: 1793196000
+earningsTimestamp: 1793190600
+earningsTimestampEnd: 1801143000
+earningsTimestampStart: 1801143000
+ebitda: 3974000128
+ebitdaMargins: 0.16436
+enterpriseToEbitda: 7.082
+enterpriseToRevenue: 1.164
+enterpriseValue: 28141936640
+epsCurrentYear: 1.0506
+epsForward: 2.74999
+epsTrailingTwelveMonths: -6.43
+esgPopulated: false
+exDividendDate: 1794787200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 34.2454
+fiftyDayAverageChange: 0.61460114
+fiftyDayAverageChangePercent: 0.01794697
+fiftyTwoWeekChangePercent: -7.9643726
+fiftyTwoWeekHigh: 50.25
+fiftyTwoWeekHighChange: -15.389999
+fiftyTwoWeekHighChangePercent: -0.30626863
+fiftyTwoWeekLow: 29.26
+fiftyTwoWeekLowChange: 5.6000004
+fiftyTwoWeekLowChangePercent: 0.19138756
+fiftyTwoWeekRange: 29.26 - 50.25
+financialCurrency: USD
+firstTradeDateMilliseconds: -252322200000
+fiveYearAvgDividendYield: 4.49
+floatShares: 527155776
+forwardEps: 2.74999
+forwardPE: 12.67641
+freeCashflow: 2291000064
+fullExchangeName: NYSE
+fullTimeEmployees: 62602
+fulldayChange: -0.27000046
+fulldayChangePercent: -0.76857513
+fulldayPrice: 34.86
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.29775
+grossProfits: 7199000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00253
+heldPercentInstitutions: 1.0222499
+impliedSharesOutstanding: 529602540
+industry: Packaging & Containers
+industryDisp: Packaging & Containers
+industryKey: packaging-containers
+irWebsite: http://www.internationalpaper.com/US/EN/Company/Investors/index.html
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.463
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1633046400
+lastSplitFactor: 1056:1000
+longBusinessSummary: International Paper Company produces and sells renewable fiber-based
+  packaging in North America, Latin America, Europe, South America, and North Africa.
+  It operates through two segments, Packaging Solutions North America and Packaging
+  Solutions EMEA. The company offers linerboard, medium, whitetop, and saturating
+  kraft; and converts containerboard into corrugated boxes, bulk bins, shipping containers
+  and specialty packaging through its converting facilities. Its products support
+  customers in various industries, such as food and beverage, agriculture, industrial
+  manufacturing, personal care pharmaceuticals and consumer goods. The company was
+  founded in 1898 and is headquartered in Memphis, Tennessee.
+longName: International Paper Company
+market: us_market
+marketCap: 18461943808
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_61036
+mostRecentQuarter: 1790726400
+netIncomeToCommon: -3396000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 18604937230
+numberOfAnalystOpinions: 10
+open: 34.99
+operatingCashflow: 2380999936
+operatingMargins: 0.04028
+overallRisk: 3
+payoutRatio: 4.0217
+pegRatio: 1.58
+phone: 901 419 9000
+previousClose: 35.13
+priceEpsCurrentYear: 33.181038
+priceHint: 2
+priceToBook: 1.4041165
+priceToSalesTrailing12Months: 0.76358443
+profitMargins: -0.14319
+quickRatio: 0.59
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.54545
+region: US
+regularMarketChange: -0.27000046
+regularMarketChangePercent: -0.76857513
+regularMarketDayHigh: 35.065
+regularMarketDayLow: 34.7605
+regularMarketDayRange: 34.7605 - 35.065
+regularMarketOpen: 34.99
+regularMarketPreviousClose: 35.13
+regularMarketPrice: 34.86
+regularMarketTime: 1794413703
+regularMarketVolume: 835576
+returnOnAssets: 0.01598
+returnOnEquity: -0.22296
+revenueGrowth: -0.004
+revenuePerShare: 45.703
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 2
+sharesOutstanding: 529602540
+sharesPercentSharesOut: 0.0874
+sharesShort: 46288605
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 44897200
+shortName: International Paper Company
+shortPercentOfFloat: 0.1598
+shortRatio: 7.84
+sourceInterval: 15
+state: TN
+symbol: IP
+targetHighPrice: 51.0
+targetLowPrice: 35.0
+targetMeanPrice: 42.3
+targetMedianPrice: 41.5
+totalCash: 815000000
+totalCashPerShare: 1.539
+totalDebt: 10352000000
+totalRevenue: 24177999872
+tradeable: false
+trailingAnnualDividendRate: 1.85
+trailingAnnualDividendYield: 0.05266154
+trailingEps: -6.43
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 37.0494
+twoHundredDayAverageChange: -2.1893997
+twoHundredDayAverageChangePercent: -0.059094068
+typeDisp: Equity
+volume: 835576
+website: https://www.internationalpaper.com
+zip: '38197'

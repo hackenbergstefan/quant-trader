@@ -1,0 +1,262 @@
+52WeekChange: 0.07609427
+SandP52WeekChange: 0.097798586
+address1: Piazza San Carlo, 156
+allTimeHigh: 6.937
+allTimeLow: 0.571808
+ask: 6.275
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 51907154
+averageDailyVolume3Month: 44520959
+averageVolume: 44520959
+averageVolume10days: 51907154
+beta: 0.825
+bid: 6.273
+bidSize: 0
+boardRisk: 3
+bookValue: 3.882
+city: Turin
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carlo  Messina
+  title: MD, CEO, GM & Executive Director
+  totalPay: 6132600
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Luca  Bocca
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Nicola Maria Fioravanti
+  title: Chief Governance, Operating & Transformation Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Massimo Enrico Proverbio
+  title: Chief Data, A.I & Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1958
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Fabrizio  Dabbene
+  title: Head of Administration & Tax Department and Manager
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrea  Tamagnini
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Flavio  Gianetti
+  title: Chief Equity, Legal and M&A Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Francesca  Nieddu
+  title: Chief Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefano  Lucchini
+  title: Chief Institutional Affairs & External Communication Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Roberto  Cascella
+  title: Chief People & Culture Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: ISP.MI announced a cash dividend of EUR 0.22 with an ex-date of Nov. 23,
+    2026
+  meta:
+    amount: '0.22'
+    dateEpochMs: 1795388400000
+    eventType: DIVIDEND
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 6.283
+customPriceAlertConfidence: LOW
+dayHigh: 6.455
+dayLow: 6.255
+dividendRate: 0.44
+dividendYield: 6.88
+earningsCallTimestampEnd: 1793714400
+earningsCallTimestampStart: 1793714400
+earningsGrowth: 0.115
+earningsQuarterlyGrowth: 0.115
+earningsTimestamp: 1793723400
+earningsTimestampEnd: 1801585800
+earningsTimestampStart: 1801585800
+ebitdaMargins: 0.0
+enterpriseToRevenue: -0.193
+enterpriseValue: -5099978752
+epsCurrentYear: 0.59605
+epsForward: 0.65703
+epsTrailingTwelveMonths: 0.57
+esgPopulated: false
+exDividendDate: 1795392000
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 6.3812
+fiftyDayAverageChange: -0.098199844
+fiftyDayAverageChangePercent: -0.015388931
+fiftyTwoWeekChangePercent: 7.609427
+fiftyTwoWeekHigh: 6.937
+fiftyTwoWeekHighChange: -0.6539998
+fiftyTwoWeekHighChangePercent: -0.09427704
+fiftyTwoWeekLow: 4.8135
+fiftyTwoWeekLowChange: 1.4695001
+fiftyTwoWeekLowChangePercent: 0.30528724
+fiftyTwoWeekRange: 4.8135 - 6.937
+financialCurrency: EUR
+firstTradeDateMilliseconds: 796032000000
+fiveYearAvgDividendYield: 5.82
+floatShares: 15492690855
+forwardEps: 0.65703
+forwardPE: 9.56273
+fullExchangeName: Milan
+fullTimeEmployees: 89335
+fulldayChange: -0.109000206
+fulldayChangePercent: -1.7055266
+fulldayPrice: 6.283
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 26482999296
+hasPrePostMarketData: false
+heldPercentInsiders: 0.05547
+heldPercentInstitutions: 0.44601002
+impliedSharesOutstanding: 17292100338
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1795392000
+lastDividendValue: 0.22
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1082332800
+lastSplitFactor: '43:41'
+longBusinessSummary: 'Intesa Sanpaolo S.p.A. engages in the provision of various financial
+  products and services in Italy, Central/Eastern Europe, the Middle East, and North
+  Africa. It operates through six segments: Banca dei Territori, IMI Corporate & Investment
+  Banking, International Banks, Asset Management, Private Banking, and Insurance.
+  The company offers lending and deposit products; private and commercial banking,
+  corporate and transaction banking, structured finance, investment banking, public
+  finance, and capital market services; life and non-life insurance and pension products;
+  asset and wealth management services; private investments; and bancassurance products.
+  It also provides industrial loans, leases, and factoring services, as well as digital
+  banking services. The company serves individuals, small and medium-sized businesses,
+  non-profit customers, corporates and financial institutions, public administration,
+  private clients and high net worth individuals, and other customers. Intesa Sanpaolo
+  S.p.A. is headquartered in Turin, Italy.'
+longName: Intesa Sanpaolo S.p.A.
+market: it_market
+marketCap: 108646260736
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_661063
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 9932000256
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 110531105360
+numberOfAnalystOpinions: 14
+open: 6.448
+operatingMargins: 0.59433997
+overallRisk: 2
+payoutRatio: 0.6714
+pegRatio: 1.67
+phone: 39 01 15551
+previousClose: 6.392
+priceEpsCurrentYear: 10.541061
+priceHint: 2
+priceToBook: 1.6184956
+priceToSalesTrailing12Months: 4.102491
+profitMargins: 0.37502998
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.71429
+region: US
+regularMarketChange: -0.109000206
+regularMarketChangePercent: -1.7055266
+regularMarketDayHigh: 6.455
+regularMarketDayLow: 6.255
+regularMarketDayRange: 6.255 - 6.455
+regularMarketOpen: 6.448
+regularMarketPreviousClose: 6.392
+regularMarketPrice: 6.283
+regularMarketTime: 1794411566
+regularMarketVolume: 38780892
+returnOnAssets: 0.010319999
+returnOnEquity: 0.14694001
+revenueGrowth: 0.055
+revenuePerShare: 1.5
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 17292100338
+shortName: INTESA SANPAOLO
+sourceInterval: 20
+state: TO
+symbol: ISP.MI
+targetHighPrice: 8.2
+targetLowPrice: 6.4
+targetMeanPrice: 7.455
+targetMedianPrice: 7.65
+totalCash: 223756992512
+totalCashPerShare: 12.676
+totalDebt: 105694003200
+totalRevenue: 26482999296
+tradeable: false
+trailingAnnualDividendRate: 0.224
+trailingAnnualDividendYield: 0.035043806
+trailingEps: 0.57
+trailingPE: 11.022807
+trailingPegRatio: 1.6721
+triggerable: false
+twoHundredDayAverage: 6.043285
+twoHundredDayAverageChange: 0.2397151
+twoHundredDayAverageChangePercent: 0.03966636
+typeDisp: Equity
+volume: 38780892
+website: https://www.intesasanpaolo.com
+zip: '10121'

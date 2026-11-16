@@ -1,0 +1,263 @@
+52WeekChange: 0.120417476
+SandP52WeekChange: 0.097798586
+address1: Venloer Strasse 151-153
+allTimeHigh: 22.30964
+allTimeLow: 4.853024
+ask: 8.858
+askSize: 19008
+auditRisk: 1
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 6004869
+averageDailyVolume3Month: 4261481
+averageVolume: 4261481
+averageVolume10days: 6004869
+beta: 1.193
+bid: 8.854
+bidSize: 9482
+boardRisk: 3
+bookValue: 11.711
+city: Cologne
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carsten  Spohr
+  title: Chairman of the Executive Board & CEO
+  totalPay: 5118000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Till  Streichert
+  title: CFO & Member of Executive Board
+  totalPay: 3746000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Michael  Niggemann
+  title: Chief HR & Legal Officer and Member of the Executive Board
+  totalPay: 2339000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dieter  Vranckx
+  title: Chief Commercial Officer & Member of Management Board
+  totalPay: 2621000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Grazia  Vittadini
+  title: CTO & Member of the Executive Board
+  totalPay: 2576000
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc-Dominic  Nettesheim
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jorg  Eberhart
+  title: Head of Strategy & Organizational Development
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steffan  Harbarth
+  title: Chief Commercial Officer for Munich Hub
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Markus  Binkert
+  title: Chief Commercial Officer of Swiss International Airlines
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Stefan  Kreuzpaintner
+  title: Chief Commercial Officer, Head of Sales, Member of Executive Board of Lufthansa
+    Airlines
+  unexercisedValue: 0
+  yearBorn: 1974
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 8.858
+currentRatio: 0.967
+customPriceAlertConfidence: LOW
+dayHigh: 8.916
+dayLow: 8.8
+debtToEquity: 106.468
+dividendRate: 0.33
+dividendYield: 3.8
+earningsCallTimestampEnd: 1793701800
+earningsCallTimestampStart: 1793701800
+earningsGrowth: 0.296
+earningsQuarterlyGrowth: 0.301
+earningsTimestamp: 1793723400
+earningsTimestampEnd: 1793723400
+earningsTimestampStart: 1793723400
+ebitda: 3236999936
+ebitdaMargins: 0.07681
+enterpriseToEbitda: 5.111
+enterpriseToRevenue: 0.393
+enterpriseValue: 16543706112
+epsCurrentYear: 0.99237
+epsForward: 1.24702
+epsTrailingTwelveMonths: 0.81
+esgPopulated: false
+exDividendDate: 1778630400
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 7.5698
+fiftyDayAverageChange: 1.2881999
+fiftyDayAverageChangePercent: 0.17017622
+fiftyTwoWeekChangePercent: 12.041748
+fiftyTwoWeekHigh: 10.285
+fiftyTwoWeekHighChange: -1.427
+fiftyTwoWeekHighChangePercent: -0.13874575
+fiftyTwoWeekLow: 6.936
+fiftyTwoWeekLowChange: 1.9219999
+fiftyTwoWeekLowChangePercent: 0.27710494
+fiftyTwoWeekRange: 6.936 - 10.285
+financialCurrency: EUR
+firstTradeDateMilliseconds: 850723200000
+fiveYearAvgDividendYield: 3.41
+floatShares: 1021611551
+forwardEps: 1.24702
+forwardPE: 7.103334
+freeCashflow: -4887000064
+fullExchangeName: XETRA
+fullTimeEmployees: 101979
+fulldayChange: 0.055999756
+fulldayChangePercent: 0.6362163
+fulldayPrice: 8.858
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.17707
+grossProfits: 7462000128
+hasPrePostMarketData: false
+heldPercentInsiders: 0.20037001
+heldPercentInstitutions: 0.30264
+impliedSharesOutstanding: 1202046921
+industry: Airlines
+industryDisp: Airlines
+industryKey: airlines
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778630400
+lastDividendValue: 0.33
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Deutsche Lufthansa AG operates as an aviation company in Europe,
+  North America, Central and South America, Aisa/Pacific, the Middle East, and Africa.
+  It operates in three segments: Passenger Airlines; Logistics; and Maintenance, Repair
+  and Overhaul (MRO). The Passenger Airlines segment offers products and services
+  to passengers of Lufthansa Airlines, SWISS, Austrian Airlines, Brussels Airlines,
+  and Eurowings. The Logistics segment provides airfreight container management, time-critical
+  shipments, and customs clearance services; and digital and modular logistics solutions
+  for cross-border e-commerce solutions. The MRO segment provides maintenance, repair,
+  and overhaul services for civil commercial aircraft serving original equipment manufacturers,
+  aircraft leasing companies, VIP jet operators, government, armed forces, and airlines.
+  It also sells flight tickets and related ancillary services through agents, its
+  own websites, or other airlines; offers vocational and professional training for
+  cockpit and cabin crew; and IT solutions. The company operates a fleet of 737 aircraft.
+  Deutsche Lufthansa AG was founded in 1926 and is headquartered in Cologne, Germany.'
+longName: Deutsche Lufthansa AG
+market: de_market
+marketCap: 10647732224
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_410152
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 968000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 10450881694
+numberOfAnalystOpinions: 18
+open: 8.868
+operatingCashflow: 3505999872
+operatingMargins: 0.028900001
+overallRisk: 5
+payoutRatio: 0.4104
+pegRatio: 0.7
+phone: 49 69 696 28008
+previousClose: 8.802
+priceEpsCurrentYear: 8.9261055
+priceHint: 2
+priceToBook: 0.7563828
+priceToSalesTrailing12Months: 0.2526692
+profitMargins: 0.0228
+quickRatio: 0.728
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.77778
+region: US
+regularMarketChange: 0.055999756
+regularMarketChangePercent: 0.6362163
+regularMarketDayHigh: 8.916
+regularMarketDayLow: 8.8
+regularMarketDayRange: 8.8 - 8.916
+regularMarketOpen: 8.868
+regularMarketPreviousClose: 8.802
+regularMarketPrice: 8.858
+regularMarketTime: 1794411560
+regularMarketVolume: 2347086
+returnOnAssets: 0.01501
+returnOnEquity: 0.0769
+revenueGrowth: 0.093
+revenuePerShare: 35.145
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 1202046921
+shortName: DEUTSCHE LUFTHANSA AG         V
+sourceInterval: 15
+symbol: LHA.DE
+targetHighPrice: 21.0
+targetLowPrice: 6.0
+targetMeanPrice: 9.36667
+targetMedianPrice: 8.75
+totalCash: 9168000000
+totalCashPerShare: 7.627
+totalDebt: 15061999616
+totalRevenue: 42140999680
+tradeable: false
+trailingAnnualDividendRate: 0.33
+trailingAnnualDividendYield: 0.03749148
+trailingEps: 0.81
+trailingPE: 10.935802
+trailingPegRatio: 0.7038
+triggerable: false
+twoHundredDayAverage: 8.178115
+twoHundredDayAverageChange: 0.6798849
+twoHundredDayAverageChangePercent: 0.08313467
+typeDisp: Equity
+volume: 2347086
+website: https://www.lufthansagroup.com
+zip: '50672'

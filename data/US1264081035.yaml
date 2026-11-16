@@ -1,0 +1,285 @@
+52WeekChange: 0.44334555
+SandP52WeekChange: 0.097798586
+address1: 500 Water Street
+address2: 15th Floor
+allTimeHigh: 53.6
+allTimeLow: 0.335648
+ask: 53.93
+askSize: 1
+auditRisk: 9
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 14051650
+averageDailyVolume3Month: 10787040
+averageVolume: 10787040
+averageVolume10days: 14051650
+beta: 1.108
+bid: 48.45
+bidSize: 1
+boardRisk: 3
+bookValue: 7.804
+city: Jacksonville
+companyOfficers:
+- age: 70
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephen F. Angel
+  title: CEO, President & Director
+  totalPay: 2187456
+  unexercisedValue: 0
+  yearBorn: 1955
+- age: 48
+  exercisedValue: 569201
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin S. Boone
+  title: Executive VP & CFO
+  totalPay: 1371303
+  unexercisedValue: 6353499
+  yearBorn: 1977
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael A. Cory
+  title: Executive Officer
+  totalPay: 3698121
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Doug  Ryhorchuk
+  title: Senior Vice President of Operations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Angela C. Williams
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steve  Watkins
+  title: Chief Digital and Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew James Korn C.F.A.
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael S. Burns
+  title: Senior VP, Chief Legal Officer & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. M. Rizwan Chand
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maryclare T. Kenney
+  title: Senior VP & Chief Commercial Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions:
+- header: Dividend
+  message: CSX announced a cash dividend of $0.14 with an ex-date of Nov. 30, 2026
+  meta:
+    amount: '0.14'
+    dateEpochMs: 1796014800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 51.71
+currentRatio: 0.843
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 51.73
+dayLow: 51.22
+debtToEquity: 135.169
+displayName: CSX
+dividendDate: 1797292800
+dividendRate: 0.56
+dividendYield: 1.1
+earningsCallTimestampEnd: 1792612800
+earningsCallTimestampStart: 1792612800
+earningsGrowth: 0.538
+earningsQuarterlyGrowth: 0.516
+earningsTimestamp: 1792612800
+earningsTimestampEnd: 1801170000
+earningsTimestampStart: 1801170000
+ebitda: 7138999808
+ebitdaMargins: 0.47777998
+enterpriseToEbitda: 15.679
+enterpriseToRevenue: 7.491
+enterpriseValue: 111934652416
+epsCurrentYear: 2.05844
+epsForward: 2.34363
+epsTrailingTwelveMonths: 1.92
+esgPopulated: false
+exDividendDate: 1795996800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 48.7852
+fiftyDayAverageChange: 2.9248009
+fiftyDayAverageChangePercent: 0.059952628
+fiftyTwoWeekChangePercent: 44.334557
+fiftyTwoWeekHigh: 53.6
+fiftyTwoWeekHighChange: -1.8899994
+fiftyTwoWeekHighChangePercent: -0.035261184
+fiftyTwoWeekLow: 33.63
+fiftyTwoWeekLowChange: 18.079998
+fiftyTwoWeekLowChangePercent: 0.5376151
+fiftyTwoWeekRange: 33.63 - 53.6
+financialCurrency: USD
+firstTradeDateMilliseconds: 342109800000
+fiveYearAvgDividendYield: 1.29
+floatShares: 1838381411
+forwardEps: 2.34363
+forwardPE: 22.064062
+freeCashflow: 2421499904
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 21900
+fulldayChange: 0.62999725
+fulldayChangePercent: 1.233354
+fulldayPrice: 51.71
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.47777998
+grossProfits: 7138999808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00224
+heldPercentInstitutions: 0.81805
+impliedSharesOutstanding: 1843398210
+industry: Railroads
+industryDisp: Railroads
+industryKey: railroads
+irWebsite: http://investors.csx.com/phoenix.zhtml?c=92932&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788134400
+lastDividendValue: 0.14
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1624924800
+lastSplitFactor: '3:1'
+longBusinessSummary: 'CSX Corporation, together with its subsidiaries, provides rail-based
+  freight transportation services in the United States and Canada. It operates through
+  two segments: rail and trucking. The company offers rail services; and transportation
+  of intermodal containers and trailers, as well as other transportation services,
+  such as rail-to-truck transfers and bulk commodity operations. It also transports
+  chemicals, agricultural and food products, minerals, automotive, forest products,
+  fertilizers, and metals and equipment; and coal, coke, and iron ore to electricity-generating
+  power plants, steel manufacturers, and industrial plants, as well as exports coal
+  to deep-water port facilities. In addition, the company provides intermodal services
+  through a network of approximately 30 terminals transporting manufactured consumer
+  goods in containers; and drayage services, including the pickup and delivery of
+  intermodal shipments. It serves the automotive industry with distribution centers
+  and storage locations, as well as connects non-rail served customers through transferring
+  products, such as plastics and ethanol from rail to trucks. The company operates
+  approximately 20,000 route mile rail network, which serves various population centers
+  in 26 states east of the Mississippi River, the District of Columbia, and the Canadian
+  provinces of Ontario and Quebec, as well as owns 3400 locomotives. It serves production
+  and distribution facilities through track connections. CSX Corporation was incorporated
+  in 1978 and is headquartered in Jacksonville, Florida.'
+longName: CSX Corporation
+market: us_market
+marketCap: 95322120192
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_257948
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3580999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 94160780566
+numberOfAnalystOpinions: 23
+open: 51.22
+operatingCashflow: 5601999872
+operatingMargins: 0.36782002
+overallRisk: 3
+payoutRatio: 0.2865
+pegRatio: 1.79
+phone: 904 359 3200
+previousClose: 51.08
+priceEpsCurrentYear: 25.120966
+priceHint: 2
+priceToBook: 6.626089
+priceToSalesTrailing12Months: 6.379475
+profitMargins: 0.23966
+quickRatio: 0.717
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.92
+region: US
+regularMarketChange: 0.62999725
+regularMarketChangePercent: 1.233354
+regularMarketDayHigh: 51.73
+regularMarketDayLow: 51.22
+regularMarketDayRange: 51.22 - 51.73
+regularMarketOpen: 51.22
+regularMarketPreviousClose: 51.08
+regularMarketPrice: 51.71
+regularMarketTime: 1794413734
+regularMarketVolume: 1378774
+returnOnAssets: 0.07769
+returnOnEquity: 0.26389
+revenueGrowth: 0.12
+revenuePerShare: 8.052
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 2
+sharesOutstanding: 1843398210
+sharesPercentSharesOut: 0.0202
+sharesShort: 37223592
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 42982741
+shortName: CSX Corporation
+shortPercentOfFloat: 0.0202
+shortRatio: 3.41
+sourceInterval: 15
+state: FL
+symbol: CSX
+targetHighPrice: 60.0
+targetLowPrice: 32.0
+targetMeanPrice: 53.80739
+targetMedianPrice: 54.57
+totalCash: 1604999936
+totalCashPerShare: 0.871
+totalDebt: 19440001024
+totalRevenue: 14942000128
+tradeable: false
+trailingAnnualDividendRate: 0.55
+trailingAnnualDividendYield: 0.010767424
+trailingEps: 1.92
+trailingPE: 26.932291
+trailingPegRatio: 1.7934
+triggerable: true
+twoHundredDayAverage: 46.11065
+twoHundredDayAverageChange: 5.59935
+twoHundredDayAverageChangePercent: 0.1214329
+typeDisp: Equity
+volume: 1378774
+website: https://www.csx.com
+zip: '32202'

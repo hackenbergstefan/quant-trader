@@ -1,0 +1,286 @@
+52WeekChange: 0.38468397
+SandP52WeekChange: 0.097798586
+address1: 333 Lakeside Drive
+allTimeHigh: 176.58
+allTimeLow: 0.207031
+ask: 179.23
+askSize: 1
+auditRisk: 9
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 7644810
+averageDailyVolume3Month: 6004134
+averageVolume: 6004134
+averageVolume10days: 7644810
+beta: 0.372
+bid: 159.79
+bidSize: 1
+boardRisk: 5
+bookValue: 10.508
+city: Foster City
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel Patrick  O'Day
+  title: Chairman & CEO
+  totalPay: 8698736
+  unexercisedValue: 80606328
+  yearBorn: 1965
+- age: 55
+  exercisedValue: 10007385
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew D. Dickinson
+  title: Executive VP & CFO
+  totalPay: 3143899
+  unexercisedValue: 8502497
+  yearBorn: 1970
+- age: 55
+  exercisedValue: 3799988
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Johanna  Mercier
+  title: Chief Commercial & Corporate Affairs Officer
+  totalPay: 3436150
+  unexercisedValue: 27628624
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Dietmar P. Berger M.D., Ph.D.
+  title: Chief Medical Officer
+  totalPay: 5923077
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Erin E. Burkhart
+  title: Senior VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jacquie  Ross C.F.A.
+  title: Senior Vice President of Treasury & Investor Relations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Keeley M. Cain Wettan
+  title: Executive VP, General Counsel of Legal & Compliance and Secretary
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jyoti K. Mehra
+  title: Executive Vice President of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Linda Slanec Higgins Ph.D.
+  title: Senior Vice President of Research, Innovation & Portfolio
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Flavius  Martin M.D.
+  title: Executive Vice President of Research
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 169.755
+currentRatio: 1.379
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 170.4125
+dayLow: 168.37
+debtToEquity: 202.462
+displayName: Gilead Sciences
+dividendDate: 1798588800
+dividendRate: 3.28
+dividendYield: 1.92
+earningsCallTimestampEnd: 1793305800
+earningsCallTimestampStart: 1793305800
+earningsGrowth: -0.202
+earningsQuarterlyGrowth: -0.204
+earningsTimestamp: 1793304000
+earningsTimestampEnd: 1793304000
+earningsTimestampStart: 1793304000
+ebitda: 14659999744
+ebitdaMargins: 0.47309
+enterpriseToEbitda: 15.698
+enterpriseToRevenue: 7.426
+enterpriseValue: 230131662848
+epsCurrentYear: -0.98224
+epsForward: 10.12094
+epsTrailingTwelveMonths: -3.13
+esgPopulated: false
+exDividendDate: 1797292800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 650 522 5853
+fiftyDayAverage: 153.9992
+fiftyDayAverageChange: 15.755798
+fiftyDayAverageChangePercent: 0.1023109
+fiftyTwoWeekChangePercent: 38.468395
+fiftyTwoWeekHigh: 176.58
+fiftyTwoWeekHighChange: -6.824997
+fiftyTwoWeekHighChangePercent: -0.03865102
+fiftyTwoWeekLow: 116.88
+fiftyTwoWeekLowChange: 52.875008
+fiftyTwoWeekLowChangePercent: 0.45238715
+fiftyTwoWeekRange: 116.88 - 176.58
+financialCurrency: USD
+firstTradeDateMilliseconds: 696090600000
+fiveYearAvgDividendYield: 3.28
+floatShares: 1237709096
+forwardEps: 10.12094
+forwardPE: 16.772652
+freeCashflow: 10676875264
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 17000
+fulldayChange: -1.1149902
+fulldayChangePercent: -0.65253717
+fulldayPrice: 169.755
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.79947
+grossProfits: 24774000640
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0010800001
+heldPercentInstitutions: 0.91476
+impliedSharesOutstanding: 1240338614
+industry: Drug Manufacturers - General
+industryDisp: Drug Manufacturers - General
+industryKey: drug-manufacturers-general
+irWebsite: http://investors.gilead.com/phoenix.zhtml?c=69964&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789430400
+lastDividendValue: 0.82
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1359331200
+lastSplitFactor: '2:1'
+longBusinessSummary: Gilead Sciences, Inc., a biopharmaceutical company, discovers,
+  develops, and commercializes medicines in the areas of unmet medical need in the
+  United States, Europe, and internationally. The company provides Biktarvy, Descovy,
+  Genvoya, Odefsey, Sunlenca, Symtuza, and YeztugoFor the treatment of HIV-1 infection
+  in patients. It also provides Epclusa, Livdelzi, and Vemlidy to treat chronic hepatitis
+  C virus, primary biliary cholangitis, and chronic hepatitis B virus; Tecartus, a
+  T-cell therapy for the treatment of adult patients; Trodelvy, an injection for intravenous
+  use; and Yescarta, a suspension for intravenous infusion, is a CAR T-cell therapy
+  for the treatment of adult patients. Further, it provides AmBisome, for the treatment
+  of serious invasive fungal infections; and Veklury for the treatment of COVID-19.
+  Additionally, the company engages in the development of various immunotherapies
+  for patients with cancer and other incurable diseases. The company has collaboration
+  agreements with Shenzhen Pregene Biopharma Co., Ltd.; Abingworth; Arcus Biosciences,
+  Inc.; Merck Sharp & Dohme Corp.; Janssen Sciences Ireland Unlimited Company; Japan
+  Tobacco, Inc.; Everest Medicines; Merck & Co, Inc.; Tentarix Biotherapeutics Inc.;
+  and Assembly Biosciences, Inc. It also has research collaboration, option, and license
+  agreement with Merus N.V. for the discovery of novel dual tumor-associated antigens
+  (TAA) targeting trispecific antibodies. The company has a collaboration with Terray
+  Therapeutics, Inc. to discover and develop small molecule therapies; and LEO Pharma
+  to develop, manufacture, and commercialize the small molecule oral STAT6 program.
+  The company has a partnership with Pan American Health Organization (PAHO) to accelerate
+  access to lenacapavir for HIV prevention as pre-exposure prophylaxis (PrEP) across
+  all PAHO member states in Latin America and the Caribbean. The company was incorporated
+  in 1987 and is headquartered in Foster City, California.
+longName: Gilead Sciences, Inc.
+market: us_market
+marketCap: 210553683968
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_29002
+mostRecentQuarter: 1790726400
+netIncomeToCommon: -3862000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 211936658974
+numberOfAnalystOpinions: 26
+open: 169.45
+operatingCashflow: 14478999552
+operatingMargins: 0.38228
+overallRisk: 5
+payoutRatio: 0.4346
+pegRatio: 2.32
+phone: 650 574 3000
+previousClose: 170.87
+priceEpsCurrentYear: -172.82436
+priceHint: 2
+priceToBook: 16.154835
+priceToSalesTrailing12Months: 6.794685
+profitMargins: -0.124630004
+quickRatio: 1.08
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.67857
+region: US
+regularMarketChange: -1.1149902
+regularMarketChangePercent: -0.65253717
+regularMarketDayHigh: 170.4125
+regularMarketDayLow: 168.37
+regularMarketDayRange: 168.37 - 170.4125
+regularMarketOpen: 169.45
+regularMarketPreviousClose: 170.87
+regularMarketPrice: 169.755
+regularMarketTime: 1794413735
+regularMarketVolume: 910916
+returnOnAssets: 0.13469
+returnOnEquity: -0.22445999
+revenueGrowth: 0.068
+revenuePerShare: 24.955
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 2
+sharesOutstanding: 1240338614
+sharesPercentSharesOut: 0.0172
+sharesShort: 21271970
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 21828725
+shortName: Gilead Sciences, Inc.
+shortPercentOfFloat: 0.0172
+shortRatio: 3.49
+sourceInterval: 15
+state: CA
+symbol: GILD
+targetHighPrice: 200.0
+targetLowPrice: 131.0
+targetMeanPrice: 174.76923
+targetMedianPrice: 175.0
+totalCash: 7952000000
+totalCashPerShare: 6.411
+totalDebt: 26230999040
+totalRevenue: 30987999232
+tradeable: false
+trailingAnnualDividendRate: 3.25
+trailingAnnualDividendYield: 0.019020308
+trailingEps: -3.13
+trailingPegRatio: 2.3171
+triggerable: true
+twoHundredDayAverage: 141.29485
+twoHundredDayAverageChange: 28.46016
+twoHundredDayAverageChangePercent: 0.2014239
+typeDisp: Equity
+volume: 911185
+website: https://www.gilead.com
+zip: '94404'

@@ -1,0 +1,287 @@
+52WeekChange: 0.12017298
+SandP52WeekChange: 0.097798586
+address1: 900 Cottage Grove Road
+allTimeHigh: 370.83
+allTimeLow: 3.0
+ask: 294.86
+askSize: 80
+auditRisk: 1
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1851780
+averageDailyVolume3Month: 1562359
+averageVolume: 1562359
+averageVolume10days: 1851780
+beta: 0.246
+bid: 294.84
+bidSize: 80
+boardRisk: 4
+bookValue: 164.454
+city: Bloomfield
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Michael Cordani
+  title: Executive Chairman of the Board
+  totalPay: 5439392
+  unexercisedValue: 41406644
+  yearBorn: 1965
+- age: 48
+  exercisedValue: 1016940
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian Case Evanko C.F.A.
+  title: President, CEO & Director
+  totalPay: 3276923
+  unexercisedValue: 5166627
+  yearBorn: 1977
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ann M. Dennison
+  title: Executive VP & CFO
+  totalPay: 1884132
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 54
+  exercisedValue: 2991050
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nicole Susan Jones J.D.
+  title: Executive Vice President, Chief Administrative Officer & Chief Human Resources
+    Officer
+  totalPay: 2033401
+  unexercisedValue: 3178807
+  yearBorn: 1971
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. F. Everett Neville
+  title: Executive VP & Special Advisor to the CEO
+  totalPay: 1838050
+  unexercisedValue: 174617
+  yearBorn: 1965
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jamie  Kates
+  title: Senior VP & Tax and Global Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Durga Prasad Koka
+  title: Executive Vice President & Global Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ralph  Giacobbe
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Andrea  Nelson
+  title: EVP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melissa  Skottegaard
+  title: Executive Vice President, Chief Marketing & Communications Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions:
+- header: Dividend
+  message: CI announced a cash dividend of $1.56 with an ex-date of Dec. 3, 2026
+  meta:
+    amount: '1.56'
+    dateEpochMs: 1796274000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 295.28
+currentRatio: 0.843
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 302.22
+dayLow: 293.21
+debtToEquity: 71.227
+displayName: Cigna
+dividendDate: 1797465600
+dividendRate: 6.24
+dividendYield: 2.06
+earningsCallTimestampEnd: 1801747800
+earningsCallTimestampStart: 1801747800
+earningsGrowth: -0.216
+earningsQuarterlyGrowth: -0.228
+earningsTimestamp: 1801747800
+earningsTimestampEnd: 1801747800
+earningsTimestampStart: 1801747800
+ebitda: 12743999488
+ebitdaMargins: 0.044510003
+enterpriseToEbitda: 8.166
+enterpriseToRevenue: 0.363
+enterpriseValue: 104061534208
+epsCurrentYear: 30.61039
+epsForward: 33.33023
+epsTrailingTwelveMonths: 22.68
+esgPopulated: false
+exDividendDate: 1796256000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 286.6892
+fiftyDayAverageChange: 8.59079
+fiftyDayAverageChangePercent: 0.029965514
+fiftyTwoWeekChangePercent: 12.017298
+fiftyTwoWeekHigh: 318.05
+fiftyTwoWeekHighChange: -22.769989
+fiftyTwoWeekHighChangePercent: -0.07159249
+fiftyTwoWeekLow: 257.85
+fiftyTwoWeekLowChange: 37.429993
+fiftyTwoWeekLowChangePercent: 0.14516188
+fiftyTwoWeekRange: 257.85 - 318.05
+financialCurrency: USD
+firstTradeDateMilliseconds: 386433000000
+fiveYearAvgDividendYield: 1.73
+floatShares: 262198223
+forwardEps: 33.33023
+forwardPE: 8.859224
+freeCashflow: 8189125120
+fullExchangeName: NYSE
+fullTimeEmployees: 65669
+fulldayChange: -7.850006
+fulldayChangePercent: -2.58965
+fulldayPrice: 295.28
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.09087
+grossProfits: 26019000320
+hasPrePostMarketData: true
+heldPercentInsiders: 0.01449
+heldPercentInstitutions: 0.93345
+impliedSharesOutstanding: 263502561
+industry: Healthcare Plans
+industryDisp: Healthcare Plans
+industryKey: healthcare-plans
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788825600
+lastDividendValue: 1.56
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1181001600
+lastSplitFactor: '3:1'
+longBusinessSummary: 'The Cigna Group, together with its subsidiaries, provides insurance
+  and related products and services in the United States. It operates through two
+  segments: Evernorth Health Services and Cigna Healthcare. The Evernorth Health Services
+  segment includes Pharmacy Benefit Services and Specialty and Care Services, offering
+  pharmacy benefit management, drug claim adjudication, retail pharmacy network administration,
+  benefit design consultation, drug utilization review, drug formulary management,
+  pharmacy benefits, home delivery pharmacy, specialty pharmacy, specialty pharmaceutical
+  distribution, and clinical programs for whole-person health outcomes. The Cigna
+  Healthcare segment comprises U.S. Healthcare and International Health, delivering
+  comprehensive medical and coordinated solutions such as employer medical plans,
+  individual and family plans, behavioral health, consumer health engagement, dental,
+  pharmacy management, stop-loss insurance, global health care, and local health care
+  solutions, as well as health care benefits for mobile individuals and employees
+  of multinational organizations. The company offers other operations, including corporate-owned
+  life insurance, reinsurance, and certain run-off and non-strategic businesses. The
+  company distributes its products and services through brokers and consultants; directly
+  to employers, unions and other groups, or individuals; and private and public exchanges.
+  The company was formerly known as Cigna Corporation and changed its name to The
+  Cigna Group in February 2023. The company was founded in 1792 and is headquartered
+  in Bloomfield, Connecticut.'
+longName: The Cigna Group
+market: us_market
+marketCap: 77807034368
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_172899
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 5990000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 79875531315
+numberOfAnalystOpinions: 24
+open: 300.73
+operatingCashflow: 9429999616
+operatingMargins: 0.03785
+overallRisk: 5
+payoutRatio: 0.27290002
+pegRatio: 0.81
+phone: 860 226 6000
+prevName: Cigna Corporation
+previousClose: 303.13
+priceEpsCurrentYear: 9.646398
+priceHint: 2
+priceToBook: 1.7955173
+priceToSalesTrailing12Months: 0.27175137
+profitMargins: 0.020920001
+quickRatio: 0.694
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.84
+region: US
+regularMarketChange: -7.850006
+regularMarketChangePercent: -2.58965
+regularMarketDayHigh: 302.22
+regularMarketDayLow: 293.21
+regularMarketDayRange: 293.21 - 302.22
+regularMarketOpen: 300.73
+regularMarketPreviousClose: 303.13
+regularMarketPrice: 295.28
+regularMarketTime: 1794413719
+regularMarketVolume: 367558
+returnOnAssets: 0.042930003
+returnOnEquity: 0.15648
+revenueGrowth: 0.056
+revenuePerShare: 1088.043
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 7
+sharesOutstanding: 263502561
+sharesPercentSharesOut: 0.023599999
+sharesShort: 6230904
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 6951241
+shortName: The Cigna Group
+shortPercentOfFloat: 0.026400002
+shortRatio: 4.0
+sourceInterval: 15
+state: CT
+symbol: CI
+targetHighPrice: 400.0
+targetLowPrice: 288.0
+targetMeanPrice: 342.66833
+targetMedianPrice: 340.0
+totalCash: 7295000064
+totalCashPerShare: 27.685
+totalDebt: 31142000640
+totalRevenue: 286316986368
+tradeable: false
+trailingAnnualDividendRate: 6.19
+trailingAnnualDividendYield: 0.020420281
+trailingEps: 22.68
+trailingPE: 13.019401
+trailingPegRatio: 0.8113
+triggerable: true
+twoHundredDayAverage: 282.4172
+twoHundredDayAverageChange: 12.862793
+twoHundredDayAverageChangePercent: 0.04554536
+typeDisp: Equity
+volume: 367558
+website: https://www.thecignagroup.com
+zip: '06002'

@@ -1,0 +1,283 @@
+52WeekChange: -0.047896862
+SandP52WeekChange: 0.097798586
+address1: 3000 Schwab Way
+allTimeHigh: 114.53
+allTimeLow: 0.1262
+ask: 92.4
+askSize: 200
+auditRisk: 7
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 8788330
+averageDailyVolume3Month: 8370675
+averageVolume: 8370675
+averageVolume10days: 8788330
+beta: 0.753
+bid: 92.35
+bidSize: 600
+boardRisk: 9
+bookValue: 26.215
+city: Westlake
+companyOfficers:
+- age: 88
+  exercisedValue: 9371041
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles Robert Schwab
+  title: Founder & Co-Chairman
+  totalPay: 3540089
+  unexercisedValue: 48052808
+  yearBorn: 1937
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard Andrew Wurster C.F.A., CMT
+  title: CEO, President & Director
+  totalPay: 6067650
+  unexercisedValue: 11352519
+  yearBorn: 1974
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Daniel Verdeschi
+  title: MD & Chief Financial Officer
+  totalPay: 3767676
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 5499866
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathan M. Craig
+  title: MD, Head of Investor Service & Head of Retail Investing
+  totalPay: 2770290
+  unexercisedValue: 12947899
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tim  Heier
+  title: MD & CTO
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shannon L. Jurecka
+  title: Managing Director & Chief Administrative Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kartikeya  Sharma
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter J. Morgan III
+  title: MD, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stacy  Hammond
+  title: MD & Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lisa Kidd Hunt
+  title: MD & Head of International Services
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions:
+- header: Dividend
+  message: SCHW announced a cash dividend of $0.32 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.32'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 92.3299
+currentRatio: 0.679
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 93.65
+dayLow: 91.83
+debtToEquity: 150.811
+displayName: Charles Schwab
+dividendDate: 1795737600
+dividendRate: 1.28
+dividendYield: 1.38
+earningsCallTimestampEnd: 1792067400
+earningsCallTimestampStart: 1792067400
+earningsGrowth: 0.286
+earningsQuarterlyGrowth: 0.232
+earningsTimestamp: 1792067400
+earningsTimestampEnd: 1800538200
+earningsTimestampStart: 1800538200
+ebitdaMargins: 0.0
+enterpriseToRevenue: 5.457
+enterpriseValue: 147665502208
+epsCurrentYear: 6.4458
+epsForward: 7.80315
+epsTrailingTwelveMonths: 5.85
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 97.8048
+fiftyDayAverageChange: -5.4748993
+fiftyDayAverageChangePercent: -0.055977818
+fiftyTwoWeekChangePercent: -4.789686
+fiftyTwoWeekHigh: 114.53
+fiftyTwoWeekHighChange: -22.200096
+fiftyTwoWeekHighChangePercent: -0.19383653
+fiftyTwoWeekLow: 83.96
+fiftyTwoWeekLowChange: 8.369904
+fiftyTwoWeekLowChangePercent: 0.09968918
+fiftyTwoWeekRange: 83.96 - 114.53
+financialCurrency: USD
+firstTradeDateMilliseconds: 559315800000
+fiveYearAvgDividendYield: 1.23
+floatShares: 1622671624
+forwardEps: 7.80315
+forwardPE: 11.832388
+fullExchangeName: NYSE
+fullTimeEmployees: 33900
+fulldayChange: -0.70009613
+fulldayChangePercent: -0.7525488
+fulldayPrice: 92.3299
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.97506
+grossProfits: 26385999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0622
+heldPercentInstitutions: 0.85585
+impliedSharesOutstanding: 1726007705
+industry: Capital Markets
+industryDisp: Capital Markets
+industryKey: capital-markets
+irWebsite: http://www.aboutschwab.com/investor_relations
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.32
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 959731200
+lastSplitFactor: '3:2'
+longBusinessSummary: The Charles Schwab Corporation, together with its subsidiaries,
+  operates as a savings and loan holding company that provides wealth management,
+  securities brokerage, banking, asset management, custody, and financial advisory
+  services in the United States and internationally. The company operates in two segments,
+  Investor Services and Advisor Services. It offers brokerage accounts with equity
+  and fixed income trading, margin lending, options trading, futures and forex trading,
+  and cash management capabilities, including money market funds, and certificates
+  of deposit; third-party mutual funds through the Mutual Fund Marketplace and Mutual
+  Fund OneSource service, as well as mutual fund trading and clearing services to
+  broker-dealers; exchange-traded funds; advisory solutions for managed portfolios,
+  separately managed accounts, customized personal advice for tailored portfolios,
+  specialized planning, and full-time portfolio management; banking products comprising
+  checking and savings accounts, first lien residential real estate mortgage loans,
+  home equity lines of credit, and pledged asset lines; and trust custody services,
+  personal trust reporting services, and administrative trustee services. It provides
+  digital and software based trading platforms; research tools, and multichannel support,
+  real-time market data, options trading; equity compensation plan sponsors full-service
+  recordkeeping for stock plans, stock options, restricted stock, performance shares,
+  and stock appreciation rights; retirement plan services; mutual fund clearing services;
+  and advisor services, including interactive tools and educational content. The Company
+  operates through branch offices. The Charles Schwab Corporation was founded in 1971
+  and is headquartered in Westlake, Texas.
+longName: The Charles Schwab Corporation
+market: us_market
+marketCap: 159362121728
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_34093
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 10256499712
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 160570496796
+numberOfAnalystOpinions: 22
+open: 93.24
+operatingCashflow: 12492999680
+operatingMargins: 0.51107
+overallRisk: 9
+payoutRatio: 0.21030001
+pegRatio: 0.77
+phone: 817 859 5000
+previousClose: 93.03
+priceEpsCurrentYear: 14.324041
+priceHint: 2
+priceToBook: 3.5220256
+priceToSalesTrailing12Months: 5.888996
+profitMargins: 0.39333
+quickRatio: 0.679
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.83333
+region: US
+regularMarketChange: -0.70009613
+regularMarketChangePercent: -0.7525488
+regularMarketDayHigh: 93.65
+regularMarketDayLow: 91.83
+regularMarketDayRange: 91.83 - 93.65
+regularMarketOpen: 93.24
+regularMarketPreviousClose: 93.03
+regularMarketPrice: 92.3299
+regularMarketTime: 1794413733
+regularMarketVolume: 1876002
+returnOnAssets: 0.02159
+returnOnEquity: 0.21113001
+revenueGrowth: 0.169
+revenuePerShare: 15.51
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 9
+sharesOutstanding: 1726007705
+sharesPercentSharesOut: 0.0
+sharesShort: 58497
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 19150407
+shortName: Charles Schwab Corporation (The
+shortPercentOfFloat: 0.0
+shortRatio: 0.01
+sourceInterval: 15
+state: TX
+symbol: SCHW
+targetHighPrice: 147.0
+targetLowPrice: 82.0
+targetMeanPrice: 116.86364
+targetMedianPrice: 118.5
+totalCash: 96704004096
+totalCashPerShare: 56.028
+totalDebt: 77585997824
+totalRevenue: 27061000192
+tradeable: false
+trailingAnnualDividendRate: 1.23
+trailingAnnualDividendYield: 0.013221541
+trailingEps: 5.85
+trailingPE: 15.782889
+trailingPegRatio: 0.7677
+triggerable: true
+twoHundredDayAverage: 97.1749
+twoHundredDayAverageChange: -4.8449936
+twoHundredDayAverageChangePercent: -0.04985849
+typeDisp: Equity
+volume: 1876002
+website: https://www.aboutschwab.com
+zip: '76262'

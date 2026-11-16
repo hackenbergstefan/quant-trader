@@ -1,0 +1,285 @@
+52WeekChange: 0.70633066
+SandP52WeekChange: 0.097798586
+address1: 1000 Stanley Drive
+allTimeHigh: 225.0
+allTimeLow: 4.25
+ask: 115.63
+askSize: 100
+auditRisk: 5
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 2453350
+averageDailyVolume3Month: 1688110
+averageVolume: 1688110
+averageVolume10days: 2453350
+beta: 1.158
+bid: 115.5
+bidSize: 100
+boardRisk: 1
+bookValue: 59.465
+city: New Britain
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher John Nelson
+  title: President, CEO & Director
+  totalPay: 2369978
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick D. Hallinan
+  title: Executive VP, CFO & Chief Administrative Officer
+  totalPay: 1761644
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Deborah K. Wintner
+  title: Senior VP & Chief Human Resources Officer
+  totalPay: 1280751
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William D. Beck
+  title: Senior VP and President of Tools & Outdoor
+  totalPay: 1230398
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Agustin  Lopez Diaz
+  title: Senior VP & Chief Supply Chain Officer
+  totalPay: 188797
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scot D. Greulach
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael J. Wherley
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Francesca  Campbell
+  title: Senior VP & Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1984
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas D. Ehrhardt
+  title: President of Engineered Fastening
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions:
+- header: Dividend
+  message: SWK announced a cash dividend of $0.84 with an ex-date of Dec. 1, 2026
+  meta:
+    amount: '0.84'
+    dateEpochMs: 1796101200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 115.41
+currentRatio: 1.42
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 116.95
+dayLow: 114.5
+debtToEquity: 58.249
+displayName: Stanley Black & Decker
+dividendDate: 1797897600
+dividendRate: 3.36
+dividendYield: 2.89
+earningsCallTimestampEnd: 1793797200
+earningsCallTimestampStart: 1793797200
+earningsGrowth: 4.388
+earningsQuarterlyGrowth: 4.294
+earningsTimestamp: 1793799000
+earningsTimestampEnd: 1801661400
+earningsTimestampStart: 1801661400
+ebitda: 1640800000
+ebitdaMargins: 0.10778
+enterpriseToEbitda: 13.239
+enterpriseToRevenue: 1.427
+enterpriseValue: 21723088896
+epsCurrentYear: 5.94588
+epsForward: 6.52541
+epsTrailingTwelveMonths: 5.58
+esgPopulated: false
+exDividendDate: 1796083200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 95.5116
+fiftyDayAverageChange: 19.898407
+fiftyDayAverageChangePercent: 0.20833498
+fiftyTwoWeekChangePercent: 70.633064
+fiftyTwoWeekHigh: 122.68
+fiftyTwoWeekHighChange: -7.2699966
+fiftyTwoWeekHighChangePercent: -0.059259836
+fiftyTwoWeekLow: 61.9
+fiftyTwoWeekLowChange: 53.510002
+fiftyTwoWeekLowChangePercent: 0.8644588
+fiftyTwoWeekRange: 61.9 - 122.68
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 3.41
+floatShares: 148199581
+forwardEps: 6.52541
+forwardPE: 17.686245
+freeCashflow: 1942300032
+fullExchangeName: NYSE
+fullTimeEmployees: 43500
+fulldayChange: -1.0299988
+fulldayChangePercent: -0.88457465
+fulldayPrice: 115.41
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.32157
+grossProfits: 4895399936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0032300001
+heldPercentInstitutions: 1.0341101
+impliedSharesOutstanding: 148696226
+industry: Tools & Accessories
+industryDisp: Tools & Accessories
+industryKey: tools-accessories
+irWebsite: http://ir.stanleyblackanddecker.com/phoenix.zhtml?c=114416&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788825600
+lastDividendValue: 0.84
+lastFiscalYearEnd: 1767398400
+lastSplitDate: 833846400
+lastSplitFactor: '2:1'
+longBusinessSummary: Stanley Black & Decker, Inc. provides hand tools, power tools,
+  outdoor products, and related accessories in the United States, Canada, Other Americas,
+  Europe, and Asia. Its Tools & Outdoor segment offers professional grade corded and
+  cordless electric power tools and equipment, including drills, impact wrenches and
+  drivers, grinders, saws, routers, concrete prep and placement tools, and sanders;
+  pneumatic tools and fasteners; corded and cordless electric power tools; household
+  power tools, hand-held vacuums, and small appliances; leveling and layout tools,
+  planes, hammers, demolition tools, clamps, vises, knives, saws, chisels, and industrial
+  and automotive tools; drill, screwdriver, router bits, abrasives, saw blades, and
+  threading products; tool boxes, sawhorses, medical cabinets, and engineered storage
+  solutions; and electric and gas-powered lawn and garden products. This segment sells
+  its products under the DEWALT, CRAFTSMAN, CUB CADET, STANLEY, BLACK+DECKER, and
+  HUSTLER brands through retailers, third-party distributors, independent dealers,
+  and a direct sales force. Its Industrial segment provides threaded fasteners, blind
+  rivets and tools, blind inserts and tools, drawn arc weld studs and systems, engineered
+  plastic and mechanical fasteners, self-piercing riveting systems, precision nut
+  running systems, micro fasteners, high-strength structural fasteners, axel swage,
+  latches, heat shields, pins, couplings, fitting, and other engineered products.
+  This segment sells its products through direct sales force and third-party distributors
+  to the automotive, manufacturing, electronics, construction, aerospace, and other
+  industries. Stanley Black & Decker, Inc. has a strategic partnership with I4F Licensing
+  Nv. The company was formerly known as The Stanley Works and changed its name to
+  Stanley Black & Decker, Inc. in March 2010. The company was founded in 1843 and
+  is headquartered in New Britain, Connecticut.
+longName: Stanley Black & Decker, Inc.
+market: us_market
+marketCap: 17161031680
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_304977
+mostRecentQuarter: 1790985600
+netIncomeToCommon: 841200000
+nextFiscalYearEnd: 1798934400
+nonDilutedMarketCap: 17314188555
+numberOfAnalystOpinions: 11
+open: 116.06
+operatingCashflow: 1988499968
+operatingMargins: 0.07646
+overallRisk: 2
+payoutRatio: 0.5968
+pegRatio: 1.39
+phone: 860 225 5111
+previousClose: 116.44
+priceEpsCurrentYear: 19.41008
+priceHint: 2
+priceToBook: 1.9408056
+priceToSalesTrailing12Months: 1.1272873
+profitMargins: 0.05526
+quickRatio: 0.467
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.46667
+region: US
+regularMarketChange: -1.0299988
+regularMarketChangePercent: -0.88457465
+regularMarketDayHigh: 116.95
+regularMarketDayLow: 114.5
+regularMarketDayRange: 114.5 - 116.95
+regularMarketOpen: 116.06
+regularMarketPreviousClose: 116.44
+regularMarketPrice: 115.41
+regularMarketTime: 1794413703
+regularMarketVolume: 198699
+returnOnAssets: 0.03481
+returnOnEquity: 0.09442
+revenueGrowth: -0.007
+revenuePerShare: 101.389
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 3
+sharesOutstanding: 148696226
+sharesPercentSharesOut: 0.0508
+sharesShort: 7547982
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7276347
+shortName: Stanley Black & Decker, Inc.
+shortPercentOfFloat: 0.0583
+shortRatio: 5.0
+sourceInterval: 15
+state: CT
+symbol: SWK
+targetHighPrice: 140.0
+targetLowPrice: 96.0
+targetMeanPrice: 112.0
+targetMedianPrice: 108.0
+totalCash: 741200000
+totalCashPerShare: 4.985
+totalDebt: 5150099968
+totalRevenue: 15223300096
+tradeable: false
+trailingAnnualDividendRate: 3.33
+trailingAnnualDividendYield: 0.028598418
+trailingEps: 5.58
+trailingPE: 20.682796
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 86.60075
+twoHundredDayAverageChange: 28.80925
+twoHundredDayAverageChangePercent: 0.33266744
+typeDisp: Equity
+volume: 198699
+website: https://www.stanleyblackanddecker.com
+zip: '06053'

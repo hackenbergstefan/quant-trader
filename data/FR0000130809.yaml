@@ -1,0 +1,241 @@
+52WeekChange: 0.15412247
+SandP52WeekChange: 0.097798586
+address1: 29 Boulevard Haussmann
+allTimeHigh: 144.7361
+allTimeLow: 10.774
+ask: 0.0
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 1958839
+averageDailyVolume3Month: 2046324
+averageVolume: 2046324
+averageVolume10days: 1958839
+beta: 0.993
+bid: 0.0
+bidSize: 0
+boardRisk: 2
+bookValue: 102.364
+city: Paris
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pierre  Palmieri
+  title: Deputy Chief executive Officer
+  totalPay: 2577146
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Leopoldo Alvear Trenor
+  title: Group Chief Financial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laura  Mather
+  title: Group Chief Operating Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexis  Kohler
+  title: Deputy CEO, Executive VP & Chairman of Investment Banking
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alain  Voiment
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bruno  Delas
+  title: Group Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vincent  Robillard
+  title: Head of Financial Communication & Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dominique  Bourrinet
+  title: Group General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregoire  Simon-Barboux
+  title: Group Chief Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laetitia  Maurel
+  title: Group Chief Communication Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 67.23
+customPriceAlertConfidence: LOW
+dayHigh: 68.27
+dayLow: 67.05
+dividendRate: 1.75
+dividendYield: 2.59
+earningsCallTimestampEnd: 1793268000
+earningsCallTimestampStart: 1793268000
+earningsGrowth: 0.311
+earningsQuarterlyGrowth: 0.241
+earningsTimestamp: 1793291400
+earningsTimestampEnd: 1793291400
+earningsTimestampStart: 1793291400
+ebitdaMargins: 0.0
+enterpriseToRevenue: -16.79
+enterpriseValue: -445562290176
+epsCurrentYear: 8.23461
+epsForward: 9.30082
+epsTrailingTwelveMonths: 8.15
+esgPopulated: false
+exDividendDate: 1791158400
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 67.4456
+fiftyDayAverageChange: -0.21559906
+fiftyDayAverageChangePercent: -0.0031966362
+fiftyTwoWeekChangePercent: 15.412247
+fiftyTwoWeekHigh: 84.82
+fiftyTwoWeekHighChange: -17.589996
+fiftyTwoWeekHighChangePercent: -0.2073803
+fiftyTwoWeekLow: 55.52
+fiftyTwoWeekLowChange: 11.710003
+fiftyTwoWeekLowChangePercent: 0.21091503
+fiftyTwoWeekRange: 55.52 - 84.82
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 3.29
+floatShares: 716440666
+forwardEps: 9.30082
+forwardPE: 7.228395
+fullExchangeName: Paris
+fullTimeEmployees: 110000
+fulldayChange: -0.23999786
+fulldayChangePercent: -0.35571048
+fulldayPrice: 67.23
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 26538000384
+hasPrePostMarketData: false
+heldPercentInsiders: 0.08813
+heldPercentInstitutions: 0.50294
+impliedSharesOutstanding: 716670000
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791158400
+lastDividendValue: 0.75
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Société Générale Société anonyme provides banking and financial
+  services to individuals, corporates, and institutional clients in Europe and internationally.
+  It operates through French Retail, Private Banking and Insurance; International
+  Retail, Mobility and Leasing Services; and Global Banking and Investor Solutions.
+  The company offers retail banking services, such as consumer credit, vehicle leasing
+  and fleet management, online banking, wealth management, and equipment and vendor
+  finance services; and insurance products, including home, vehicle, family, health,
+  and mortgage insurance. It also provides corporate and investment banking, securities,
+  clearing services, execution, prime brokerage, and custody services; and consumer
+  finance, advisory and financing, and asset management and private banking services.
+  Société Générale Société anonyme was incorporated in 1864 and is headquartered in
+  Paris, France.
+longName: Société Générale Société anonyme
+market: fr_market
+marketCap: 48181727232
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_23005
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 6032000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 47199886200
+numberOfAnalystOpinions: 20
+open: 68.07
+operatingMargins: 0.35933
+overallRisk: 2
+payoutRatio: 0.2156
+pegRatio: 0.62
+phone: 33 1 42 14 20 00
+previousClose: 67.47
+priceEpsCurrentYear: 8.164322
+priceHint: 2
+priceToBook: 0.6567739
+priceToSalesTrailing12Months: 1.8155749
+profitMargins: 0.25601
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.85
+region: US
+regularMarketChange: -0.23999786
+regularMarketChangePercent: -0.35571048
+regularMarketDayHigh: 68.27
+regularMarketDayLow: 67.05
+regularMarketDayRange: 67.05 - 68.27
+regularMarketOpen: 68.07
+regularMarketPreviousClose: 67.47
+regularMarketPrice: 67.23
+regularMarketTime: 1794411568
+regularMarketVolume: 510157
+returnOnAssets: 0.0047299997
+returnOnEquity: 0.09625
+revenueGrowth: 0.076
+revenuePerShare: 35.875
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 716670000
+shortName: SOCIETE GENERALE
+sourceInterval: 15
+symbol: GLE.PA
+targetHighPrice: 103.0
+targetLowPrice: 76.0
+targetMeanPrice: 88.45
+targetMedianPrice: 89.5
+totalCash: 806908002304
+totalCashPerShare: 1125.913
+totalDebt: 304160014336
+totalRevenue: 26538000384
+tradeable: false
+trailingAnnualDividendRate: 1.75
+trailingAnnualDividendYield: 0.025937453
+trailingEps: 8.15
+trailingPE: 8.249081
+trailingPegRatio: 0.6215
+triggerable: false
+twoHundredDayAverage: 71.18205
+twoHundredDayAverageChange: -3.9520493
+twoHundredDayAverageChangePercent: -0.055520304
+typeDisp: Equity
+volume: 510157
+website: https://www.societegenerale.com
+zip: '75009'

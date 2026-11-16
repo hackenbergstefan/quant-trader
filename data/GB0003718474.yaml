@@ -1,0 +1,223 @@
+52WeekChange: 0.007965684
+SandP52WeekChange: 0.097798586
+address1: Willow Road
+address2: Lenton
+allTimeHigh: 23540.0
+allTimeLow: 98.0
+ask: 16550.0
+askSize: 0
+auditRisk: 6
+averageDailyVolume10Day: 64693
+averageDailyVolume3Month: 83926
+averageVolume: 83926
+averageVolume10days: 64693
+beta: 0.908
+bid: 16530.0
+bidSize: 0
+boardRisk: 7
+bookValue: 10.147
+city: Nottingham
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Kevin Derek Rountree C.M.A.
+  title: CEO & Executive Director
+  totalPay: 2307000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Elizabeth Claire Harrison
+  title: Group Finance Director & Director
+  totalPay: 806000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Neil James Tomlinson
+  title: COO & Director
+  totalPay: 805000
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Max  Bottrill
+  title: Operational IP & Design Director
+  totalPay: 400000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Ross M. Matthews
+  title: Company Secretary
+  unexercisedValue: 0
+  yearBorn: 1982
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 9
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 16550.0
+currentRatio: 3.631
+customPriceAlertConfidence: LOW
+dayHigh: 16830.0
+dayLow: 16380.0
+debtToEquity: 16.701
+dividendRate: 4.1
+dividendYield: 2.49
+earningsGrowth: -0.006
+earningsQuarterlyGrowth: -0.004
+earningsTimestamp: 1799771400
+earningsTimestampEnd: 1799771400
+earningsTimestampStart: 1799771400
+ebitda: 292300000
+ebitdaMargins: 0.44307998
+enterpriseToEbitda: 18.163
+enterpriseToRevenue: 8.048
+enterpriseValue: 5308976128
+epsCurrentYear: 6.17825
+epsForward: 6.53225
+epsTrailingTwelveMonths: 6.23
+esgPopulated: false
+exDividendDate: 1792627200
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 17029.4
+fiftyDayAverageChange: -479.4004
+fiftyDayAverageChangePercent: -0.028151337
+fiftyTwoWeekChangePercent: 0.7965684
+fiftyTwoWeekHigh: 23540.0
+fiftyTwoWeekHighChange: -6990.0
+fiftyTwoWeekHighChangePercent: -0.29694137
+fiftyTwoWeekLow: 15430.0
+fiftyTwoWeekLowChange: 1120.0
+fiftyTwoWeekLowChangePercent: 0.07258587
+fiftyTwoWeekRange: 15430.0 - 23540.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 780908400000
+fiveYearAvgDividendYield: 2.69
+floatShares: 32568995
+forwardEps: 6.53225
+forwardPE: 25.335835
+freeCashflow: 178350000
+fullExchangeName: LSE
+fullTimeEmployees: 3321
+fulldayChange: 100.0
+fulldayChangePercent: 0.60790277
+fulldayPrice: 16550.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.72518
+grossProfits: 478400000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00447
+heldPercentInstitutions: 0.69623
+impliedSharesOutstanding: 33079475
+industry: Leisure
+industryDisp: Leisure
+industryKey: leisure
+irWebsite: http://investor.games-workshop.com/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792627200
+lastDividendValue: 0.7
+lastFiscalYearEnd: 1780185600
+longBusinessSummary: 'Games Workshop Group PLC, together with its subsidiaries, engages
+  in the design, manufacture, distribution, and sale of fantasy miniature figures
+  and games in the United Kingdom, Continental Europe, North America, Australia, New
+  Zealand, Asia, and internationally. The company operates in two segments, Core and
+  Licensing. It offers games under the Warhammer 40,000; Warhammer: The Horus Heresy;
+  Warhammer: The Old World; Warhammer: Age of Sigmar; and Necromunda and Blood Bowl
+  brand names, as well as has a licensed property for the Lord of the Rings. The company
+  also publishes short stories, audio dramas, full length novels, and audio books
+  under the Black Library name. In addition, it engages in the magazine newsstand
+  business; and grants licences to third parties for the development of video games,
+  PC games, media, and other products. The company sells its products through its
+  own retail stores, third party independent retailers, and online stores. The company
+  was incorporated in 1991 and is headquartered in Nottingham, the United Kingdom.'
+longName: Games Workshop Group PLC
+market: gb_market
+marketCap: 5474653184
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_28819
+mostRecentQuarter: 1780185600
+netIncomeToCommon: 206000000
+nextFiscalYearEnd: 1811721600
+nonDilutedMarketCap: 5441573637
+numberOfAnalystOpinions: 2
+open: 16640.0
+operatingCashflow: 267700000
+operatingMargins: 0.41686
+overallRisk: 8
+payoutRatio: 0.77910006
+phone: 44 11 5900 4000
+previousClose: 16450.0
+priceEpsCurrentYear: 2678.7522
+priceHint: 2
+priceToBook: 16.31024
+priceToSalesTrailing12Months: 8.298701
+profitMargins: 0.31226
+quickRatio: 2.775
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 100.0
+regularMarketChangePercent: 0.60790277
+regularMarketDayHigh: 16830.0
+regularMarketDayLow: 16380.0
+regularMarketDayRange: 16380.0 - 16830.0
+regularMarketOpen: 16640.0
+regularMarketPreviousClose: 16450.0
+regularMarketPrice: 16550.0
+regularMarketTime: 1794411548
+regularMarketVolume: 21433
+returnOnAssets: 0.4046
+returnOnEquity: 0.66872
+revenueGrowth: 0.03
+revenuePerShare: 19.983
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 33079475
+shortName: GAMES WORKSHOP GROUP PLC ORD 5P
+sourceInterval: 15
+symbol: GAW.L
+targetHighPrice: 22150.0
+targetLowPrice: 22000.0
+targetMeanPrice: 22075.0
+targetMedianPrice: 22075.0
+totalCash: 182900000
+totalCashPerShare: 5.535
+totalDebt: 56000000
+totalRevenue: 659699968
+tradeable: false
+trailingAnnualDividendRate: 4.85
+trailingAnnualDividendYield: 0.00029483283
+trailingEps: 6.23
+trailingPE: 26.565008
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 18496.322
+twoHundredDayAverageChange: -1946.3223
+twoHundredDayAverageChangePercent: -0.10522753
+typeDisp: Equity
+volume: 21433
+website: https://investor.games-workshop.com
+zip: NG7 2WS

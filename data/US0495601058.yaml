@@ -1,0 +1,283 @@
+52WeekChange: -0.013833463
+SandP52WeekChange: 0.097798586
+address1: 1800 Three Lincoln Centre
+address2: 5430 LBJ Freeway
+allTimeHigh: 192.51
+allTimeLow: 5.041667
+ask: 173.62
+askSize: 100
+auditRisk: 9
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 1080600
+averageDailyVolume3Month: 1043132
+averageVolume: 1043132
+averageVolume10days: 1080600
+beta: 0.547
+bid: 173.48
+bidSize: 100
+boardRisk: 8
+bookValue: 90.292
+city: Dallas
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Kevin Akers
+  title: CEO, President & Director
+  totalPay: 3266136
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher T. Forsythe
+  title: Senior VP & CFO
+  totalPay: 1659156
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jessica W. Bateman Pulliam
+  title: Senior VP, General Counsel & Corporate Secretary
+  totalPay: 1037800
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John S. McDill
+  title: Executive Officer
+  totalPay: 1377083
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Michelle H. Faulk
+  title: Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Matt Robbins
+  title: Senior Vice President of Human Resources
+  totalPay: 942433
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John A. Paris
+  title: President of Mid-Tex Division
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeff D. Martinez
+  title: Senior Vice President of Utility Operations
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard M. Thomas
+  title: VP & Controller
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer  Wernicki
+  title: Director of Investor Relations & Assistant Treasurer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions:
+- header: Dividend
+  message: ATO announced a cash dividend of $1.09 with an ex-date of Nov. 23, 2026
+  meta:
+    amount: '1.09'
+    dateEpochMs: 1795410000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 174.07
+currentRatio: 0.814
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 175.24
+dayLow: 173.61
+debtToEquity: 67.662
+displayName: Atmos Energy
+dividendDate: 1796601600
+dividendRate: 4.0
+dividendYield: 2.28
+earningsCallTimestampEnd: 1793890800
+earningsCallTimestampStart: 1793890800
+earningsGrowth: 0.233
+earningsQuarterlyGrowth: 0.302
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1801688400
+earningsTimestampStart: 1801688400
+ebitda: 2624299008
+ebitdaMargins: 0.53323
+enterpriseToEbitda: 15.028
+enterpriseToRevenue: 8.013
+enterpriseValue: 39438438400
+epsCurrentYear: 9.09739
+epsForward: 9.7774
+epsTrailingTwelveMonths: 8.39
+esgPopulated: false
+exDividendDate: 1795392000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 165.1566
+fiftyDayAverageChange: 8.913406
+fiftyDayAverageChangePercent: 0.053969424
+fiftyTwoWeekChangePercent: -1.3833463
+fiftyTwoWeekHigh: 192.51
+fiftyTwoWeekHighChange: -18.439987
+fiftyTwoWeekHighChangePercent: -0.09578717
+fiftyTwoWeekLow: 154.72
+fiftyTwoWeekLowChange: 19.350006
+fiftyTwoWeekLowChangePercent: 0.12506467
+fiftyTwoWeekRange: 154.72 - 192.51
+financialCurrency: USD
+firstTradeDateMilliseconds: 441469800000
+fiveYearAvgDividendYield: 2.35
+floatShares: 168130091
+forwardEps: 9.7774
+forwardPE: 17.803303
+freeCashflow: -2220956928
+fullExchangeName: NYSE
+fullTimeEmployees: 5487
+fulldayChange: -1.2999878
+fulldayChangePercent: -0.7412829
+fulldayPrice: 174.07
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.62212
+grossProfits: 3061798912
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0044299997
+heldPercentInstitutions: 0.99404
+impliedSharesOutstanding: 168988553
+industry: Utilities - Regulated Gas
+industryDisp: Utilities - Regulated Gas
+industryKey: utilities-regulated-gas
+irWebsite: http://www.investquest.com/iq/a/ato/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1787529600
+lastDividendValue: 1.0
+lastFiscalYearEnd: 1759190400
+lastSplitDate: 769132800
+lastSplitFactor: '3:2'
+longBusinessSummary: Atmos Energy Corporation, together with its subsidiaries, engages
+  in the regulated natural gas distribution, and pipeline and storage businesses in
+  the United States. It operates through two segments, Distribution, and Pipeline
+  and Storage. The Distribution segment is involved in the regulated natural gas distribution
+  and related sales operations in eight states. This segment distributes natural gas
+  to approximately 3.4 million residential, commercial, public authority, and industrial
+  customers; and owned 76,000 miles of underground distribution and transmission mains.
+  The Pipeline and Storage segment engages in the pipeline and storage operations.
+  This segment transports natural gas for third parties and manages five underground
+  storage facilities in Texas; provides ancillary services customary to the pipeline
+  industry, including parking arrangements, lending, and inventory sales; and owned
+  5,700 miles of gas transmission lines. Atmos Energy Corporation was founded in 1906
+  and is based in Dallas, Texas.
+longName: Atmos Energy Corporation
+market: us_market
+marketCap: 29415839744
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_252684
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1402008064
+nextFiscalYearEnd: 1790726400
+nonDilutedMarketCap: 29635522539
+numberOfAnalystOpinions: 11
+open: 174.58
+operatingCashflow: 2019590016
+operatingMargins: 0.37523997
+overallRisk: 8
+payoutRatio: 0.46130002
+pegRatio: 2.07
+phone: 972 934 9227
+previousClose: 175.37
+priceEpsCurrentYear: 19.13406
+priceHint: 2
+priceToBook: 1.9278563
+priceToSalesTrailing12Months: 5.9769754
+profitMargins: 0.28496
+quickRatio: 0.537
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.71429
+region: US
+regularMarketChange: -1.2999878
+regularMarketChangePercent: -0.7412829
+regularMarketDayHigh: 175.24
+regularMarketDayLow: 173.61
+regularMarketDayRange: 173.61 - 175.24
+regularMarketOpen: 174.58
+regularMarketPreviousClose: 175.37
+regularMarketPrice: 174.07
+regularMarketTime: 1794413675
+regularMarketVolume: 129158
+returnOnAssets: 0.03893
+returnOnEquity: 0.09792
+revenueGrowth: 0.048
+revenuePerShare: 29.892
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 7
+sharesOutstanding: 168988553
+sharesPercentSharesOut: 0.024300002
+sharesShort: 4110762
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4502560
+shortName: Atmos Energy Corporation
+shortPercentOfFloat: 0.0276
+shortRatio: 3.94
+sourceInterval: 15
+state: TX
+symbol: ATO
+targetHighPrice: 201.0
+targetLowPrice: 167.0
+targetMeanPrice: 182.72726
+targetMedianPrice: 182.0
+totalCash: 520952992
+totalCashPerShare: 3.083
+totalDebt: 10323866624
+totalRevenue: 4921525760
+tradeable: false
+trailingAnnualDividendRate: 3.87
+trailingAnnualDividendYield: 0.022067629
+trailingEps: 8.39
+trailingPE: 20.747318
+trailingPegRatio: 2.0732
+triggerable: true
+twoHundredDayAverage: 174.52235
+twoHundredDayAverageChange: -0.4523468
+twoHundredDayAverageChangePercent: -0.0025919133
+typeDisp: Equity
+volume: 129158
+website: https://www.atmosenergy.com
+zip: '75240'

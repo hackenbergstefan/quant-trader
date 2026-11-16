@@ -1,0 +1,279 @@
+52WeekChange: 0.9753858
+SandP52WeekChange: 0.097798586
+address1: One Valero Way
+allTimeHigh: 461.52
+allTimeLow: 1.028336
+ask: 361.27
+askSize: 80
+auditRisk: 7
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 3709960
+averageDailyVolume3Month: 3093601
+averageVolume: 3093601
+averageVolume10days: 3709960
+beta: 0.552
+bid: 360.62
+bidSize: 40
+boardRisk: 5
+bookValue: 100.306
+city: San Antonio
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. R. Lane Riggs
+  title: CEO, President & Chairman
+  totalPay: 7628070
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gary K. Simmons
+  title: Executive VP & COO
+  totalPay: 3321726
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard Joe Walsh
+  title: Executive VP & General Counsel
+  totalPay: 2582528
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Harminder S. Bhullar
+  title: Senior VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mike  Zacho
+  title: VP of Information  Services & Technology
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian  Donovan
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Lillian  Riojas
+  title: Executive Director of Media Relations & Communications
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard F. Lashway
+  title: Senior Vice President of Corporate Development & Strategy
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julia Rendon Reinhart
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric  Honeyman
+  title: Senior Vice President of Renewables Operations & Low Carbon Fuels
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: VLO announced a cash dividend of $1.20 with an ex-date of Nov. 24, 2026
+  meta:
+    amount: '1.20'
+    dateEpochMs: 1795496400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 360.195
+currentRatio: 1.724
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 362.36
+dayLow: 352.54
+debtToEquity: 35.391
+displayName: Valero Energy
+dividendDate: 1797811200
+dividendRate: 4.8
+dividendYield: 1.37
+earningsCallTimestampEnd: 1792677600
+earningsCallTimestampStart: 1792677600
+earningsGrowth: 5.768
+earningsQuarterlyGrowth: 5.236
+earningsTimestamp: 1792672200
+earningsTimestampEnd: 1801143000
+earningsTimestampStart: 1801143000
+ebitda: 20747999232
+ebitdaMargins: 0.1416
+enterpriseToEbitda: 4.92
+enterpriseToRevenue: 0.697
+enterpriseValue: 102078545920
+epsCurrentYear: 59.80853
+epsForward: 53.49457
+epsTrailingTwelveMonths: 43.97
+esgPopulated: false
+exDividendDate: 1795478400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 399.5764
+fiftyDayAverageChange: -39.38138
+fiftyDayAverageChangePercent: -0.09855782
+fiftyTwoWeekChangePercent: 97.53858
+fiftyTwoWeekHigh: 461.52
+fiftyTwoWeekHighChange: -101.32498
+fiftyTwoWeekHighChangePercent: -0.21954624
+fiftyTwoWeekLow: 159.9
+fiftyTwoWeekLowChange: 200.29501
+fiftyTwoWeekLowChangePercent: 1.2526268
+fiftyTwoWeekRange: 159.9 - 461.52
+financialCurrency: USD
+firstTradeDateMilliseconds: 379002600000
+fiveYearAvgDividendYield: 2.74
+floatShares: 277342169
+forwardEps: 53.49457
+forwardPE: 6.7333
+freeCashflow: 12579375104
+fullExchangeName: NYSE
+fullTimeEmployees: 9785
+fulldayChange: 9.485016
+fulldayChangePercent: 2.7045183
+fulldayPrice: 360.195
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.19519
+grossProfits: 28600999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00437
+heldPercentInstitutions: 0.89198995
+impliedSharesOutstanding: 278884400
+industry: Oil & Gas Refining & Marketing
+industryDisp: Oil & Gas Refining & Marketing
+industryKey: oil-gas-refining-marketing
+irWebsite: http://www.valero.com/InvestorRelations/Pages/Home.aspx
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1785456000
+lastDividendValue: 1.2
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1367452800
+lastSplitFactor: 1094:1000
+longBusinessSummary: 'Valero Energy Corporation manufactures, markets, and sells petroleum-based
+  and low-carbon liquid transportation fuels and petrochemical products in the United
+  States, Canada, the United Kingdom, Ireland, Latin America, Mexico, Peru, and internationally.
+  It operates through three segments: Refining, Renewable Diesel, and Ethanol. The
+  company produces California Reformulated Gasoline Blendstock for Oxygenate Blending
+  (CARBOB) and Conventional Blendstock for Oxygenate Blending (CBOB) gasolines, CARB
+  diesel, diesel, jet fuel, heating oil, and asphalt; feedstocks; aromatics; sulfur
+  and residual fuel oil; intermediate oils; and sulfur, sweet, and sour crude oils.
+  It sells its refined products through wholesale rack and bulk markets; and through
+  outlets under the Valero, Beacon, Diamond Shamrock, Shamrock, Ultramar, and Texaco
+  brands. The company also owns and operates renewable diesel and ethanol plants,
+  as well as produces and sells renewable diesel, renewable naphtha, and neat sustainable
+  aviation fuel under the Diamond Green Diesel brand name. In addition, it offers
+  ethanol and various co-products, including dry distillers grains, syrup, and inedible
+  distillers corn oil to animal feed customers. The company was formerly known as
+  Valero Refining and Marketing Company and changed its name to Valero Energy Corporation
+  in August 1997. Valero Energy Corporation was founded in 1980 and is headquartered
+  in San Antonio, Texas.'
+longName: Valero Energy Corporation
+market: us_market
+marketCap: 100452777984
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_311679
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 12908000256
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 97807547924
+numberOfAnalystOpinions: 19
+open: 357.17
+operatingCashflow: 15959000064
+operatingMargins: 0.12218001
+overallRisk: 5
+payoutRatio: 0.1076
+pegRatio: 1.29
+phone: 210 345 2000
+previousClose: 350.71
+priceEpsCurrentYear: 6.022469
+priceHint: 2
+priceToBook: 3.5909617
+priceToSalesTrailing12Months: 0.68554884
+profitMargins: 0.08834
+quickRatio: 1.129
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.5
+region: US
+regularMarketChange: 9.485016
+regularMarketChangePercent: 2.7045183
+regularMarketDayHigh: 362.36
+regularMarketDayLow: 352.54
+regularMarketDayRange: 352.54 - 362.36
+regularMarketOpen: 357.17
+regularMarketPreviousClose: 350.71
+regularMarketPrice: 360.195
+regularMarketTime: 1794413735
+regularMarketVolume: 532740
+returnOnAssets: 0.17681
+returnOnEquity: 0.46872002
+revenueGrowth: 0.465
+revenuePerShare: 497.13
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 7
+sharesOutstanding: 278884400
+sharesPercentSharesOut: 0.0249
+sharesShort: 6931945
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8999474
+shortName: Valero Energy Corporation
+shortPercentOfFloat: 0.029000001
+shortRatio: 2.61
+sourceInterval: 15
+state: TX
+symbol: VLO
+targetHighPrice: 530.0
+targetLowPrice: 238.0
+targetMeanPrice: 427.0
+targetMedianPrice: 440.0
+totalCash: 9840000000
+totalCashPerShare: 35.283
+totalDebt: 11000999936
+totalRevenue: 146528993280
+tradeable: false
+trailingAnnualDividendRate: 4.73
+trailingAnnualDividendYield: 0.013486926
+trailingEps: 43.97
+trailingPE: 8.191835
+trailingPegRatio: 1.2859
+triggerable: true
+twoHundredDayAverage: 291.9185
+twoHundredDayAverageChange: 68.27652
+twoHundredDayAverageChangePercent: 0.23388898
+typeDisp: Equity
+volume: 532740
+website: https://www.valero.com
+zip: '78249'

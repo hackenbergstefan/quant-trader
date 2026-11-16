@@ -1,0 +1,257 @@
+52WeekChange: 0.11658168
+SandP52WeekChange: 0.097798586
+address1: Wilhelminakade 123
+allTimeHigh: 45.850285
+allTimeLow: 1.230758
+ask: 0.0
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 15289040
+averageDailyVolume3Month: 11618680
+averageVolume: 11618680
+averageVolume10days: 15289040
+beta: 0.264
+bid: 0.0
+bidSize: 0
+boardRisk: 2
+bookValue: 0.857
+city: Rotterdam
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joost F. E. Farwerck
+  title: Chairman of Management Board & CEO
+  totalPay: 2003020
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hans Christian Figee MSc
+  title: CFO & Member of Management Board
+  totalPay: 1343098
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wouter  Stammeijer
+  title: COO & Member of Management Board
+  totalPay: 1204568
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marieke W. M. Snoep
+  title: Chief Consumer Market & Member of Management Board
+  totalPay: 1554356
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Chantal  Vergouw
+  title: Chief of Business Market & Member of the Management Board
+  totalPay: 1214939
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthijs  van Leijenhorst
+  title: Head of IR
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jasper  Spanbroek
+  title: Chief Legal Officer, General Counsel & Company Secretary
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paolo  Nanni
+  title: Chief Transformation Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jan Maarten Van Osch
+  title: Treasury Director
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 4.365
+currentRatio: 0.551
+customPriceAlertConfidence: LOW
+dayHigh: 4.38
+dayLow: 4.346
+debtToEquity: 222.834
+dividendRate: 0.19
+dividendYield: 4.32
+earningsCallTimestampEnd: 1793188800
+earningsCallTimestampStart: 1793188800
+earningsGrowth: 0.0
+earningsQuarterlyGrowth: 0.055
+earningsTimestamp: 1801153800
+earningsTimestampEnd: 1801153800
+earningsTimestampStart: 1801153800
+ebitda: 2408999936
+ebitdaMargins: 0.40976003
+enterpriseToEbitda: 9.725
+enterpriseToRevenue: 3.985
+enterpriseValue: 23426576384
+epsCurrentYear: 0.25041
+epsForward: 0.26947
+epsTrailingTwelveMonths: 0.22
+esgPopulated: false
+exDividendDate: 1784851200
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 4.09568
+fiftyDayAverageChange: 0.26931953
+fiftyDayAverageChangePercent: 0.06575698
+fiftyTwoWeekChangePercent: 11.658168
+fiftyTwoWeekHigh: 4.908
+fiftyTwoWeekHighChange: -0.5430002
+fiftyTwoWeekHighChangePercent: -0.11063574
+fiftyTwoWeekLow: 3.751
+fiftyTwoWeekLowChange: 0.61399984
+fiftyTwoWeekLowChangePercent: 0.16368964
+fiftyTwoWeekRange: 3.751 - 4.908
+financialCurrency: EUR
+firstTradeDateMilliseconds: 796287600000
+fiveYearAvgDividendYield: 4.4
+floatShares: 3767067065
+forwardEps: 0.26947
+forwardPE: 16.198462
+freeCashflow: 1110875008
+fullExchangeName: Amsterdam
+fullTimeEmployees: 9162
+fulldayChange: -0.012000084
+fulldayChangePercent: -0.27416232
+fulldayPrice: 4.365
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.52679
+grossProfits: 3096999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00135
+heldPercentInstitutions: 0.71557
+impliedSharesOutstanding: 3772121708
+industry: Telecom Services
+industryDisp: Telecom Services
+industryKey: telecom-services
+irWebsite: http://www.kpn.com/corporate/aboutkpn/investor-relations.htm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1784851200
+lastDividendValue: 0.08
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 960163200
+lastSplitFactor: '2:1'
+longBusinessSummary: Koninklijke KPN N.V. provides telecommunications and information
+  technology (IT) services in the Netherlands. The company operates through Consumer,
+  Business, Wholesale and Network, and Operations & IT segments. It offers fixed and
+  mobile telephony, fixed and mobile broadband internet, and TV to retail and business
+  consumers; infrastructure and network-related IT solutions to business customers;
+  and wholesale network services to third parties. The company also provides network-related
+  ICT solutions, such as security, internet of things, cloud, connectivity, and smart
+  combinations; interconnect traffic, visitor roaming, digital products, and NL-ix
+  interconnect exchange services; and sale of handsets and peripheral equipment, as
+  well as software licenses. It offers its products and services under the KPN, XS4ALL,
+  Simyo, KPN Security, KPN Health, Solcon, Inspark, and KPN Partner Network, KPN IoT,
+  and youfone brands. The company was formerly known as Koninklijke PTT Nederland
+  NV and changed its name to Koninklijke KPN N.V. in June 1998. Koninklijke KPN N.V.
+  was founded in 1881 and is headquartered in Rotterdam, the Netherlands.
+longName: Koninklijke KPN N.V.
+market: nl_market
+marketCap: 16465309696
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_410778
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 841000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 16510576715
+numberOfAnalystOpinions: 20
+open: 4.353
+operatingCashflow: 2292999936
+operatingMargins: 0.24664
+overallRisk: 1
+payoutRatio: 0.8273
+pegRatio: 2.29
+phone: 31 70 343 4343
+previousClose: 4.377
+priceEpsCurrentYear: 17.431412
+priceHint: 4
+priceToBook: 5.0933485
+priceToSalesTrailing12Months: 2.800699
+profitMargins: 0.15241
+quickRatio: 0.12
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.25
+region: US
+regularMarketChange: -0.012000084
+regularMarketChangePercent: -0.27416232
+regularMarketDayHigh: 4.38
+regularMarketDayLow: 4.346
+regularMarketDayRange: 4.346 - 4.38
+regularMarketOpen: 4.353
+regularMarketPreviousClose: 4.377
+regularMarketPrice: 4.365
+regularMarketTime: 1794411568
+regularMarketVolume: 2522486
+returnOnAssets: 0.07221
+returnOnEquity: 0.27262
+revenueGrowth: 0.03
+revenuePerShare: 1.528
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 6
+sharesOutstanding: 3772121708
+shortName: KPN KON
+sourceInterval: 15
+symbol: KPN.AS
+targetHighPrice: 5.4
+targetLowPrice: 2.3
+targetMeanPrice: 4.539
+targetMedianPrice: 4.74
+totalCash: 286000000
+totalCashPerShare: 0.076
+totalDebt: 7201999872
+totalRevenue: 5879000064
+tradeable: false
+trailingAnnualDividendRate: 0.189
+trailingAnnualDividendYield: 0.04318026
+trailingEps: 0.22
+trailingPE: 19.840908
+trailingPegRatio: 2.2833
+triggerable: false
+twoHundredDayAverage: 4.37914
+twoHundredDayAverageChange: -0.014140129
+twoHundredDayAverageChangePercent: -0.003228974
+typeDisp: Equity
+volume: 2522486
+website: https://www.kpn.com
+zip: 3072 AP

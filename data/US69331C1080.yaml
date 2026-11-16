@@ -1,0 +1,283 @@
+52WeekChange: -0.21296847
+SandP52WeekChange: 0.097798586
+address1: 300 Lakeside Drive
+allTimeHigh: 71.57
+allTimeLow: 3.55
+ask: 13.16
+askSize: 6000
+auditRisk: 5
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 26325810
+averageDailyVolume3Month: 40046835
+averageVolume: 40046835
+averageVolume10days: 26325810
+beta: 0.177
+bid: 13.15
+bidSize: 17500
+boardRisk: 2
+bookValue: 14.981
+city: Oakland
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Patricia Kessler Poppe
+  title: CEO & Director
+  totalPay: 8629661
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Carolyn J. Burke
+  title: CFO & Executive VP
+  totalPay: 1733736
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ajay  Waghray
+  title: Executive VP & Chief Information Officer
+  totalPay: 1680363
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John R. Simon
+  title: EVP, General Counsel, Chief Ethics & Compliance Officer and Corporate Secretary
+  totalPay: 1904549
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alejandro T. Vallejo
+  title: Executive VP & Chief People Officer
+  totalPay: 988571
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason M. Glickman
+  title: Executive Vice President of Strategy & Growth
+  totalPay: 1765836
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marlene M. Santos
+  title: Chief Transformation Officer & Executive VP of Enterprise Transformation
+    Office
+  totalPay: 2387890
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sumeet  Singh
+  title: CEO of Pacific Gas & Electric Company and Executive VP of Energy Delivery
+  totalPay: 2351812
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stephanie N. Williams
+  title: VP & Controller
+  totalPay: 795814
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Carla J. Peterman
+  title: President & Executive VP of Customer & Corporate Affairs
+  unexercisedValue: 0
+  yearBorn: 1979
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 13.165
+currentRatio: 1.03
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 13.32
+dayLow: 13.115
+debtToEquity: 188.02
+displayName: PG&E
+dividendDate: 1792022400
+dividendRate: 0.2
+dividendYield: 1.51
+earningsCallTimestampEnd: 1792681200
+earningsCallTimestampStart: 1792681200
+earningsGrowth: -0.089
+earningsQuarterlyGrowth: -0.09
+earningsTimestamp: 1792672200
+earningsTimestampEnd: 1792672200
+earningsTimestampStart: 1792672200
+ebitda: 10679000064
+ebitdaMargins: 0.41432
+enterpriseToEbitda: 8.947
+enterpriseToRevenue: 3.707
+enterpriseValue: 95545147392
+epsCurrentYear: 1.64783
+epsForward: 1.80181
+epsTrailingTwelveMonths: 1.35
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 13.1008
+fiftyDayAverageChange: 0.0642004
+fiftyDayAverageChangePercent: 0.004900495
+fiftyTwoWeekChangePercent: -21.296846
+fiftyTwoWeekHigh: 19.16
+fiftyTwoWeekHighChange: -5.995
+fiftyTwoWeekHighChangePercent: -0.31289142
+fiftyTwoWeekLow: 11.77
+fiftyTwoWeekLowChange: 1.3949995
+fiftyTwoWeekLowChangePercent: 0.118521616
+fiftyTwoWeekRange: 11.77 - 19.16
+financialCurrency: USD
+firstTradeDateMilliseconds: 76253400000
+fiveYearAvgDividendYield: 2.86
+floatShares: 2082507406
+forwardEps: 1.80181
+forwardPE: 7.3065414
+freeCashflow: -6491624960
+fullExchangeName: NYSE
+fullTimeEmployees: 29010
+fulldayChange: -0.06499958
+fulldayChangePercent: -0.4913045
+fulldayPrice: 13.165
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.40574002
+grossProfits: 10458000384
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00352
+heldPercentInstitutions: 1.03504
+impliedSharesOutstanding: 2202429703
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+irWebsite: http://www.pgecorp.com/investors/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 0.05
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 427334400
+lastSplitFactor: '2:1'
+longBusinessSummary: PG&E Corporation, through its subsidiary, Pacific Gas and Electric
+  Company, engages in the sale and delivery of electricity and natural gas to customers
+  in northern and central California, the United States. It generates electricity
+  using nuclear, hydroelectric, fossil fuel-fired, fuel cells, and photovoltaic sources.
+  The company owns and operates interconnected transmission lines; electric transmission
+  substations, distribution lines, switching and distribution substations; and natural
+  gas transmission, storage, and distribution systems consisting of distribution pipelines,
+  backbone and local transmission pipelines, and various storage facilities. It serves
+  residential, commercial, industrial, and agricultural customers, as well as natural
+  gas-fired electric generation facilities. The company was incorporated in 1995 and
+  is based in Oakland, California.
+longName: PG&E Corporation
+market: us_market
+marketCap: 28994985984
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_139813
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2982000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 29138144970
+numberOfAnalystOpinions: 17
+open: 13.22
+operatingCashflow: 7800000000
+operatingMargins: 0.22941
+overallRisk: 1
+payoutRatio: 0.1481
+pegRatio: 0.55
+phone: 415 973 1000
+previousClose: 13.23
+priceEpsCurrentYear: 7.989295
+priceHint: 2
+priceToBook: 0.87877977
+priceToSalesTrailing12Months: 1.1249267
+profitMargins: 0.11569
+quickRatio: 0.444
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.11111
+region: US
+regularMarketChange: -0.06499958
+regularMarketChangePercent: -0.4913045
+regularMarketDayHigh: 13.32
+regularMarketDayLow: 13.115
+regularMarketDayRange: 13.115 - 13.32
+regularMarketOpen: 13.22
+regularMarketPreviousClose: 13.23
+regularMarketPrice: 13.165
+regularMarketTime: 1794413732
+regularMarketVolume: 3822326
+returnOnAssets: 0.025880001
+returnOnEquity: 0.08894
+revenueGrowth: -0.01
+revenuePerShare: 11.716
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 1
+sharesOutstanding: 2202429703
+sharesPercentSharesOut: 0.0
+sharesShort: 1938
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 36412634
+shortName: Pacific Gas & Electric Co.
+shortPercentOfFloat: 0.0
+shortRatio: 0.0
+sourceInterval: 15
+state: CA
+symbol: PCG
+targetHighPrice: 24.0
+targetLowPrice: 14.0
+targetMeanPrice: 17.61765
+targetMedianPrice: 17.0
+totalCash: 902000000
+totalCashPerShare: 0.41
+totalDebt: 65478000640
+totalRevenue: 25774999552
+tradeable: false
+trailingAnnualDividendRate: 0.2
+trailingAnnualDividendYield: 0.015117159
+trailingEps: 1.35
+trailingPE: 9.751852
+trailingPegRatio: 0.5489
+triggerable: true
+twoHundredDayAverage: 16.1702
+twoHundredDayAverageChange: -3.0052004
+twoHundredDayAverageChangePercent: -0.18584806
+typeDisp: Equity
+volume: 3822326
+website: https://www.pgecorp.com
+zip: '94612'

@@ -1,0 +1,257 @@
+52WeekChange: 0.298823
+SandP52WeekChange: 0.097798586
+address1: Bijlmerdreef 106
+allTimeHigh: 34.358707
+allTimeLow: 1.766119
+ask: 0.0
+askSize: 0
+auditRisk: 7
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 8025217
+averageDailyVolume3Month: 6079160
+averageVolume: 6079160
+averageVolume10days: 8025217
+beta: 0.906
+bid: 0.0
+bidSize: 0
+boardRisk: 3
+bookValue: 17.576
+city: Amsterdam
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven J. A. van Rijswijk
+  title: CEO and Chairman of the Executive Board & Management Board Banking
+  totalPay: 2825100
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ljiljana  Cortan
+  title: Member Executive Board, Member Management Board Banking & Head of Wholesale
+    Banking
+  totalPay: 2136400
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ida  Lerner
+  title: CFO & Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Pinar  Abay
+  title: Head of Retail, Market Leaders, Challengers & Growth Markets and Member of
+    Management Board Banking
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marnix  van Stiphout
+  title: COO, Member of Executive Board & Member of Management Board Banking
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniele  Tonella
+  title: CTO, Member of Executive Board & Management Board Member
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrea  Cesaroni
+  title: Member of Executive Board, Member of Management Board Banking & Chief Risk
+    Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hilde  Garssen
+  title: Chief Human Resources Officer, Member of Executive Board & Member of Management
+    Board Banking
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Erwin H. M. Olijslager
+  title: Principal Accounting Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Rob Van Veldhuizen
+  title: Head of Corporate Finance Benelux
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 30.02
+customPriceAlertConfidence: LOW
+dayHigh: 30.21
+dayLow: 29.76
+dividendRate: 1.14
+dividendYield: 3.81
+earningsCallTimestampEnd: 1793260800
+earningsCallTimestampStart: 1793260800
+earningsGrowth: 0.075
+earningsQuarterlyGrowth: 0.035
+earningsTimestamp: 1801153800
+earningsTimestampEnd: 1801153800
+earningsTimestampStart: 1801153800
+ebitdaMargins: 0.0
+enterpriseToRevenue: 10.082
+enterpriseValue: 256742047744
+epsCurrentYear: 2.49417
+epsForward: 2.99866
+epsTrailingTwelveMonths: 2.34
+esgPopulated: false
+exDividendDate: 1785715200
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 30.472
+fiftyDayAverageChange: -0.45199966
+fiftyDayAverageChangePercent: -0.014833279
+fiftyTwoWeekChangePercent: 29.8823
+fiftyTwoWeekHigh: 32.395
+fiftyTwoWeekHighChange: -2.375
+fiftyTwoWeekHighChangePercent: -0.07331378
+fiftyTwoWeekLow: 20.985
+fiftyTwoWeekLowChange: 9.035
+fiftyTwoWeekLowChangePercent: 0.4305456
+fiftyTwoWeekRange: 20.985 - 32.395
+financialCurrency: EUR
+firstTradeDateMilliseconds: 796287600000
+fiveYearAvgDividendYield: 5.34
+floatShares: 2843358756
+forwardEps: 2.99866
+forwardPE: 10.011138
+fullExchangeName: Amsterdam
+fullTimeEmployees: 60000
+fulldayChange: 0.22500038
+fulldayChangePercent: 0.7551615
+fulldayPrice: 30.02
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 25465999360
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00716
+heldPercentInstitutions: 0.54188997
+impliedSharesOutstanding: 2836209297
+industry: Banks - Diversified
+industryDisp: Banks - Diversified
+industryKey: banks-diversified
+irWebsite: http://www.ing.com/Our-Company/Investor-relations.htm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1785715200
+lastDividendValue: 0.4
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'ING Groep N.V. provides various banking products and services
+  in the Netherlands, Belgium, Germany, rest of Europe, and internationally. The company
+  operates through five segments: Retail Netherlands, Retail Belgium, Retail Germany,
+  Retail Other, and Wholesale Banking. It accepts current and savings accounts; and
+  time deposits. The company also offers business lending products; SME loans; consumer
+  lending products, such as residential mortgage loans and other consumer lending
+  loans; and mortgages. In addition, it provides working capital solutions; debt and
+  equity market solutions; various loans; payments; and cash management, trade and
+  corporate finance, and treasury services, as well as savings, investment, insurance,
+  and digital banking services. The company serves individual customers, corporate
+  clients, and financial institutions. ING Groep N.V. was founded in 1762 and is headquartered
+  in Amsterdam, the Netherlands.'
+longName: ING Groep N.V.
+market: nl_market
+marketCap: 85143011328
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_383462
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 8760000512
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 84504856004
+numberOfAnalystOpinions: 20
+open: 30.18
+operatingMargins: 0.52025
+overallRisk: 2
+payoutRatio: 0.48139998
+pegRatio: 1.18
+phone: 31 20 563 9111
+previousClose: 29.795
+priceEpsCurrentYear: 12.036069
+priceHint: 2
+priceToBook: 1.7080109
+priceToSalesTrailing12Months: 3.3433995
+profitMargins: 0.34398997
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.95
+region: US
+regularMarketChange: 0.22500038
+regularMarketChangePercent: 0.7551615
+regularMarketDayHigh: 30.21
+regularMarketDayLow: 29.76
+regularMarketDayRange: 29.76 - 30.21
+regularMarketOpen: 30.18
+regularMarketPreviousClose: 29.795
+regularMarketPrice: 30.02
+regularMarketTime: 1794411567
+regularMarketVolume: 2461223
+returnOnAssets: 0.00794
+returnOnEquity: 0.17757
+revenueGrowth: 0.045
+revenuePerShare: 8.86
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 4
+sharesOutstanding: 2836209297
+shortName: ING GROEP N.V.
+sourceInterval: 15
+symbol: INGA.AS
+targetHighPrice: 42.4
+targetLowPrice: 26.0
+targetMeanPrice: 34.7065
+targetMedianPrice: 35.5
+totalCash: 135527997440
+totalCashPerShare: 47.659
+totalDebt: 306458984448
+totalRevenue: 25465999360
+tradeable: false
+trailingAnnualDividendRate: 1.486
+trailingAnnualDividendYield: 0.049874138
+trailingEps: 2.34
+trailingPE: 12.829061
+trailingPegRatio: 1.1988
+triggerable: false
+twoHundredDayAverage: 27.2924
+twoHundredDayAverageChange: 2.7276
+twoHundredDayAverageChangePercent: 0.09993991
+typeDisp: Equity
+volume: 2461223
+website: https://www.ing.com
+zip: 1102 CT

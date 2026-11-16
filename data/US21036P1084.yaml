@@ -1,0 +1,274 @@
+52WeekChange: 0.116045356
+SandP52WeekChange: 0.097798586
+address1: 50 East Broad Street
+allTimeHigh: 274.87
+allTimeLow: 1.34375
+ask: 143.57
+askSize: 100
+auditRisk: 7
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 2567550
+averageDailyVolume3Month: 2335254
+averageVolume: 2335254
+averageVolume10days: 2567550
+beta: 0.396
+bid: 143.37
+bidSize: 200
+boardRisk: 3
+bookValue: 50.569
+city: Rochester
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Nicholas Ian Fink J.D.
+  title: President, CEO & Director
+  totalPay: 118173
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Garth  Hankinson
+  title: Executive VP & CFO
+  totalPay: 1525902
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. James O. Bourdeau Esq., J.D.
+  title: Executive VP & Strategic Advisor
+  totalPay: 1184623
+  unexercisedValue: 107303
+  yearBorn: 1965
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. James A. Sabia Jr.
+  title: Executive VP & President of Beer Division
+  totalPay: 1459529
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Samuel James Glaetzer
+  title: Executive VP & President of Wine & Spirits Division
+  totalPay: 1037669
+  unexercisedValue: 31905
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Michael  Becka
+  title: Senior VP of Corporate Finance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Blair  Veenema
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jeffrey H. LaBarge J.D.
+  title: Executive VP, Chief Legal Officer & Secretary
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Michael  McGrew
+  title: EVP and Chief Communications, CSR & Inclusion Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Steve  King
+  title: SVP of Corporate Development and Financial Planning & Analytics
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 143.63
+currentRatio: 0.999
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 144.94
+dayLow: 143.0001
+debtToEquity: 116.176
+displayName: Constellation Brands
+dividendDate: 1794528000
+dividendRate: 4.12
+dividendYield: 2.83
+earningsCallTimestampEnd: 1791374400
+earningsCallTimestampStart: 1791374400
+earningsGrowth: 0.253
+earningsQuarterlyGrowth: 0.214
+earningsTimestamp: 1791316800
+earningsTimestampEnd: 1799355600
+earningsTimestampStart: 1799355600
+ebitda: 3425900032
+ebitdaMargins: 0.37203
+enterpriseToEbitda: 10.254
+enterpriseToRevenue: 3.815
+enterpriseValue: 35129769984
+epsCurrentYear: 11.81719
+epsForward: 12.09017
+epsTrailingTwelveMonths: 11.17
+esgPopulated: false
+exDividendDate: 1793318400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 126.7322
+fiftyDayAverageChange: 16.897804
+fiftyDayAverageChangePercent: 0.13333474
+fiftyTwoWeekChangePercent: 11.604536
+fiftyTwoWeekHigh: 168.6
+fiftyTwoWeekHighChange: -24.970001
+fiftyTwoWeekHighChangePercent: -0.14810202
+fiftyTwoWeekLow: 110.6
+fiftyTwoWeekLowChange: 33.030006
+fiftyTwoWeekLowChangePercent: 0.29864383
+fiftyTwoWeekRange: 110.6 - 168.6
+financialCurrency: USD
+firstTradeDateMilliseconds: 700842600000
+fiveYearAvgDividendYield: 1.67
+floatShares: 156254803
+forwardEps: 12.09017
+forwardPE: 11.8799
+freeCashflow: 1118400000
+fullExchangeName: NYSE
+fullTimeEmployees: 9400
+fulldayChange: -1.8799896
+fulldayChangePercent: -1.2920003
+fulldayPrice: 143.63
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.52771
+grossProfits: 4859500032
+hasPrePostMarketData: true
+heldPercentInsiders: 0.12684
+heldPercentInstitutions: 0.88654
+impliedSharesOutstanding: 169224220
+industry: Beverages - Brewers
+industryDisp: Beverages - Brewers
+industryKey: beverages-brewers
+irWebsite: http://www.cbrands.com/investors
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1793318400
+lastDividendValue: 1.03
+lastFiscalYearEnd: 1772236800
+lastSplitDate: 1116201600
+lastSplitFactor: '2:1'
+longBusinessSummary: Constellation Brands, Inc., together with its subsidiaries, produces,
+  imports, markets, and sells beer, wine, and spirits in the United States, Canada,
+  Mexico, New Zealand, and Italy. It offers beer under the Corona Extra, Corona Familiar,
+  Corona Sunbrew, Corona Light, Corona Non-Alcoholic, Corona Premier, Modelo Especial,
+  Modelo Chelada, Modelo Negra, Modelo Spiked Aguas Frescas, Modelo Oro, Modelo Noche
+  Especial, Victoria, Vicky Chamoy, and Pacifico brand names. The company also offers
+  wine under the Sea Smoke, Schrader Cellars, Kim Crawford, Mount Veeder, Ruffino,
+  My Favorite Neighbor, Robert Mondavi Winery, and The Prisoner Wine Company brand
+  names; and spirits under the Casa Noble, High West, Mi CAMPO, and Nelson's Green
+  Brier brand names. Additionally, it offers a spirit-based, ready-to-drink alcoholic
+  beverage under the SpikedAde brand. It provides its products to wholesale distributors,
+  retailers, and state alcohol beverage control agencies. Constellation Brands, Inc.
+  was founded in 1945 and is headquartered in Rochester, New York.
+longName: Constellation Brands, Inc.
+market: us_market
+marketCap: 24305676288
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_258589
+mostRecentQuarter: 1788134400
+netIncomeToCommon: 1924199936
+nextFiscalYearEnd: 1803772800
+nonDilutedMarketCap: 24623816251
+numberOfAnalystOpinions: 23
+open: 143.63
+operatingCashflow: 2658299904
+operatingMargins: 0.32789
+overallRisk: 3
+payoutRatio: 0.3671
+pegRatio: 1.78
+phone: 585 678 7100
+previousClose: 145.51
+priceEpsCurrentYear: 12.154328
+priceHint: 2
+priceToBook: 2.8402777
+priceToSalesTrailing12Months: 2.6394253
+profitMargins: 0.20895
+quickRatio: 0.262
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -1.8799896
+regularMarketChangePercent: -1.2920003
+regularMarketDayHigh: 144.94
+regularMarketDayLow: 143.0001
+regularMarketDayRange: 143.0001 - 144.94
+regularMarketOpen: 143.63
+regularMarketPreviousClose: 145.51
+regularMarketPrice: 143.63
+regularMarketTime: 1794413713
+regularMarketVolume: 209584
+returnOnAssets: 0.0868
+returnOnEquity: 0.24014999
+revenueGrowth: 0.061
+revenuePerShare: 53.33
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 4
+sharesOutstanding: 169198487
+sharesPercentSharesOut: 0.052800003
+sharesShort: 8938828
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 9633960
+shortName: Constellation Brands, Inc.
+shortPercentOfFloat: 0.060300004
+shortRatio: 3.4
+sourceInterval: 15
+state: NY
+symbol: STZ
+targetHighPrice: 209.0
+targetLowPrice: 99.0
+targetMeanPrice: 152.91304
+targetMedianPrice: 150.0
+totalCash: 98500000
+totalCashPerShare: 0.582
+totalDebt: 10315700224
+totalRevenue: 9208699904
+tradeable: false
+trailingAnnualDividendRate: 4.1
+trailingAnnualDividendYield: 0.028176758
+trailingEps: 11.17
+trailingPE: 12.85855
+trailingPegRatio: 1.7816
+triggerable: true
+twoHundredDayAverage: 141.21545
+twoHundredDayAverageChange: 2.4145508
+twoHundredDayAverageChangePercent: 0.017098347
+typeDisp: Equity
+volume: 209584
+website: https://www.cbrands.com
+zip: '14614'

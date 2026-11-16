@@ -1,0 +1,265 @@
+52WeekChange: 0.043707132
+SandP52WeekChange: 0.097798586
+address1: 231 West Michigan Street
+address2: PO Box 1331
+allTimeHigh: 120.15
+allTimeLow: 2.166667
+ask: 116.33
+askSize: 200
+auditRisk: 6
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 3736750
+averageDailyVolume3Month: 2776857
+averageVolume: 2776857
+averageVolume10days: 3736750
+beta: 0.416
+bid: 116.27
+bidSize: 200
+boardRisk: 5
+bookValue: 44.303
+city: Milwaukee
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Xia  Liu C.F.A.
+  title: Executive VP & CFO
+  totalPay: 2917256
+  unexercisedValue: 1303684
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael W. Hooper
+  title: Executive VP, COO and President of We Energies & Wisconsin Public Service
+  totalPay: 2363441
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Margaret C. Kelsey
+  title: EVP, General Counsel, Corporate Secretary & Compliance Officer
+  totalPay: 1854346
+  unexercisedValue: 2218227
+  yearBorn: 1965
+- age: 58
+  exercisedValue: 706442
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert M. Garvin J.D.
+  title: Executive Vice President of External Affairs
+  totalPay: 1636539
+  unexercisedValue: 1715652
+  yearBorn: 1967
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James A. Schubilske
+  title: VP & Chief Audit Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Molly A. Mulroy
+  title: Executive VP & Chief Administrative Officer - WBS
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott  Cherveny
+  title: Senior Vice President of Power Generation
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: WEC announced a cash dividend of $0.952 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.952'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 116.63
+currentRatio: 0.53
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 116.87
+dayLow: 115.81
+debtToEquity: 154.388
+displayName: WEC Energy
+dividendDate: 1796083200
+dividendRate: 3.81
+dividendYield: 3.26
+earningsCallTimestampEnd: 1793296800
+earningsCallTimestampStart: 1793296800
+earningsGrowth: 0.422
+earningsQuarterlyGrowth: 0.435
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 4085199872
+ebitdaMargins: 0.3957
+enterpriseToEbitda: 15.188
+enterpriseToRevenue: 6.01
+enterpriseValue: 62045093888
+epsCurrentYear: 5.62062
+epsForward: 6.02702
+epsTrailingTwelveMonths: 5.5
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 107.2736
+fiftyDayAverageChange: 9.3564
+fiftyDayAverageChangePercent: 0.08721997
+fiftyTwoWeekChangePercent: 4.370713
+fiftyTwoWeekHigh: 120.15
+fiftyTwoWeekHighChange: -3.5200043
+fiftyTwoWeekHighChangePercent: -0.029296748
+fiftyTwoWeekLow: 99.8
+fiftyTwoWeekLowChange: 16.829994
+fiftyTwoWeekLowChangePercent: 0.16863722
+fiftyTwoWeekRange: 99.8 - 120.15
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 3.27
+floatShares: 328064571
+forwardEps: 6.02702
+forwardPE: 19.351189
+freeCashflow: -1967299968
+fullExchangeName: NYSE
+fullTimeEmployees: 7000
+fulldayChange: -0.38000488
+fulldayChangePercent: -0.32476273
+fulldayPrice: 116.63
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.42363998
+grossProfits: 4373700096
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00153
+heldPercentInstitutions: 0.89087
+impliedSharesOutstanding: 328992329
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+irWebsite: http://www.wisconsinenergy.com/invest/investor.htm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.953
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1299024000
+lastSplitFactor: '2:1'
+longBusinessSummary: WEC Energy Group, Inc., through its subsidiaries, provides regulated
+  natural gas and electricity, and renewable and nonregulated renewable energy services
+  in the United States. The company operates through Wisconsin, Illinois, Other States,
+  Electric Transmission, and Non-Utility Energy Infrastructure segments. It generates
+  and distributes electricity from coal, natural gas, oil, and nuclear, as well as
+  renewable energy resources, including wind, solar, hydroelectric, and biomass; and
+  distributes and hydroelectric natural gas. The company also owns, maintains, monitors,
+  and operates electric transmission systems; and generates, distributes, and sells
+  steam. As of December 31, 2025, the company operated approximately 35,200 miles
+  of overhead distribution lines and 37,600 miles of underground distribution cables,
+  as well as 420 electric distribution substations and 649,500 line transformers;
+  approximately 47,200 miles of natural gas distribution mains; 1,300 miles of natural
+  gas transmission mains; 2.4 million natural gas lateral services; 510 natural gas
+  distribution and transmission gate stations; and 67.0 billion cubic feet of working
+  gas capacities in underground natural gas storage fields. The company was formerly
+  known as Wisconsin Energy Corporation and changed its name to WEC Energy Group,
+  Inc. in June 2015. WEC Energy Group, Inc. was founded in 1896 and is headquartered
+  in Milwaukee, Wisconsin.
+longName: WEC Energy Group, Inc.
+market: us_market
+marketCap: 38370373632
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_315117
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1809500032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 38495392416
+numberOfAnalystOpinions: 18
+open: 116.22
+operatingCashflow: 3837700096
+operatingMargins: 0.2475
+overallRisk: 3
+payoutRatio: 0.6818
+pegRatio: 2.12
+phone: 414 221 2345
+previousClose: 117.01
+priceEpsCurrentYear: 20.75038
+priceHint: 2
+priceToBook: 2.6325529
+priceToSalesTrailing12Months: 3.716619
+profitMargins: 0.17527
+quickRatio: 0.282
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.4
+region: US
+regularMarketChange: -0.38000488
+regularMarketChangePercent: -0.32476273
+regularMarketDayHigh: 116.87
+regularMarketDayLow: 115.81
+regularMarketDayRange: 115.81 - 116.87
+regularMarketOpen: 116.22
+regularMarketPreviousClose: 117.01
+regularMarketPrice: 116.63
+regularMarketTime: 1794413749
+regularMarketVolume: 641003
+returnOnAssets: 0.0308
+returnOnEquity: 0.12494001
+revenueGrowth: 0.089
+revenuePerShare: 31.681
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 4
+sharesOutstanding: 328992329
+sharesPercentSharesOut: 0.0433
+sharesShort: 14257568
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 14252449
+shortName: WEC Energy Group, Inc.
+shortPercentOfFloat: 0.0497
+shortRatio: 5.23
+sourceInterval: 15
+state: WI
+symbol: WEC
+targetHighPrice: 131.0
+targetLowPrice: 106.5
+targetMeanPrice: 118.5
+targetMedianPrice: 117.0
+totalCash: 58800000
+totalCashPerShare: 0.179
+totalDebt: 23173799936
+totalRevenue: 10323999744
+tradeable: false
+trailingAnnualDividendRate: 3.75
+trailingAnnualDividendYield: 0.032048542
+trailingEps: 5.5
+trailingPE: 21.205454
+trailingPegRatio: 2.1223
+triggerable: true
+twoHundredDayAverage: 111.8062
+twoHundredDayAverageChange: 4.823799
+twoHundredDayAverageChangePercent: 0.04314429
+typeDisp: Equity
+volume: 641003
+website: https://www.wecenergygroup.com
+zip: '53201'

@@ -1,0 +1,269 @@
+52WeekChange: 0.013340354
+SandP52WeekChange: 0.097798586
+address1: Karl-Wiechert-Allee 23
+allTimeHigh: 159.39548
+allTimeLow: 4.366
+ask: 7.746
+askSize: 2240
+auditRisk: 7
+averageDailyVolume10Day: 3917490
+averageDailyVolume3Month: 2907985
+averageVolume: 2907985
+averageVolume10days: 3917490
+beta: 1.38
+bid: 7.74
+bidSize: 416
+boardRisk: 3
+bookValue: 3.543
+city: Hanover
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sebastian  Ebel
+  title: CEO & Chairman of Executive Board
+  totalPay: 2630300
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank  Jakobi
+  title: Employee Representative Deputy Chairman of Supervisory Board & Group Works
+    Council Chairman
+  totalPay: 284000
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mathias  Kiep
+  title: Member of Executive Board & CFO
+  totalPay: 1401700
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Krueger
+  title: Chief Strategy Officer, CEO of Holiday Experiences & Member of the Executive
+    Board
+  totalPay: 1523400
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Schelp
+  title: Member of Executive Board and CEO of Markets & Airlines
+  totalPay: 1401700
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sybille  Reiss
+  title: Member of the Executive Board, Chief People Officer & Labour Director
+  totalPay: 1523400
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wolfgang  Flintermann
+  title: Group Director of Financial Accounting & Reporting and Employee Rep. Member
+    of Supervisory Board
+  totalPay: 97000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Janina  Kugel
+  title: Member of Supervisory Board & Senior Advisor
+  totalPay: 97000
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pieter  Jordaan
+  title: Chief Information Officer
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nicola  Gehrt
+  title: Group Director of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 7.744
+currentRatio: 0.546
+customPriceAlertConfidence: LOW
+dayHigh: 7.8
+dayLow: 7.656
+debtToEquity: 160.575
+dividendRate: 0.1
+dividendYield: 1.3
+earningsCallTimestampEnd: 1786518000
+earningsCallTimestampStart: 1786518000
+earningsGrowth: -0.556
+earningsQuarterlyGrowth: -0.549
+earningsTimestamp: 1796833800
+earningsTimestampEnd: 1796833800
+earningsTimestampStart: 1796833800
+ebitda: 1123000064
+ebitdaMargins: 0.04721
+enterpriseToEbitda: 6.561
+enterpriseToRevenue: 0.31
+enterpriseValue: 7367862272
+epsCurrentYear: 1.04867
+epsForward: 1.32998
+epsTrailingTwelveMonths: 1.11
+esgPopulated: false
+exDividendDate: 1770768000
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 511 566 1901
+fiftyDayAverage: 6.8372
+fiftyDayAverageChange: 0.9067998
+fiftyDayAverageChangePercent: 0.13262735
+fiftyTwoWeekChangePercent: 1.3340354
+fiftyTwoWeekHigh: 9.558
+fiftyTwoWeekHighChange: -1.8139997
+fiftyTwoWeekHighChangePercent: -0.18978862
+fiftyTwoWeekLow: 6.08
+fiftyTwoWeekLowChange: 1.664
+fiftyTwoWeekLowChangePercent: 0.27368423
+fiftyTwoWeekRange: 6.08 - 9.558
+financialCurrency: EUR
+firstTradeDateMilliseconds: 886752000000
+fiveYearAvgDividendYield: 5.78
+floatShares: 440312813
+forwardEps: 1.32998
+forwardPE: 5.8226438
+freeCashflow: -596587520
+fullExchangeName: XETRA
+fullTimeEmployees: 65322
+fulldayChange: -0.004000187
+fulldayChangePercent: -0.051628638
+fulldayPrice: 7.744
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.081920005
+grossProfits: 1948700032
+hasPrePostMarketData: false
+heldPercentInsiders: 0.11974
+heldPercentInstitutions: 0.37275
+impliedSharesOutstanding: 507431033
+industry: Travel Services
+industryDisp: Travel Services
+industryKey: travel-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1770768000
+lastDividendValue: 0.1
+lastFiscalYearEnd: 1759190400
+lastSplitDate: 1677196800
+lastSplitFactor: '1:10'
+longBusinessSummary: TUI AG, together with its subsidiaries, provides tourism services
+  internationally. The company operates hotels and resorts under the Mora, Royalton,
+  Riu, Robinson, TUI Blue, TUI Magic Life, Atlantica, Grupotel, Iberotel, Akra, TUI
+  Suneo, and AQI brands; and cruises under the TUI Cruises, Hapag-Lloyd Cruises, and
+  Marella brands. It also provides an online market for tours and activities, including
+  experiences and tours; and operates aircraft. It distributes its services through
+  markets and airlines, direct to customers, and via third parties, such as online
+  travel agents and tour operators. The company was formerly known as Preussag AG
+  and changed its name to TUI AG in June 2002. TUI AG was founded in 1968 and is headquartered
+  in Hanover, Germany.
+longName: TUI AG
+market: de_market
+marketCap: 3929545984
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_552711
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 601400000
+nextFiscalYearEnd: 1790726400
+nonDilutedMarketCap: 3906204092
+numberOfAnalystOpinions: 13
+open: 7.746
+operatingCashflow: 1539600000
+operatingMargins: 0.033269998
+overallRisk: 4
+payoutRatio: 0.090900004
+pegRatio: 1.3
+phone: 49 511 566 00
+previousClose: 7.748
+priceEpsCurrentYear: 7.3845916
+priceHint: 2
+priceToBook: 2.1857183
+priceToSalesTrailing12Months: 0.16520068
+profitMargins: 0.02528
+quickRatio: 0.322
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -0.004000187
+regularMarketChangePercent: -0.051628638
+regularMarketDayHigh: 7.8
+regularMarketDayLow: 7.656
+regularMarketDayRange: 7.656 - 7.8
+regularMarketOpen: 7.746
+regularMarketPreviousClose: 7.748
+regularMarketPrice: 7.744
+regularMarketTime: 1794411537
+regularMarketVolume: 1135705
+returnOnAssets: 0.02569
+returnOnEquity: 0.35744998
+revenueGrowth: -0.061
+revenuePerShare: 47.033
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 507431033
+shortName: TUI AG                        N
+sourceInterval: 15
+symbol: TUI1.DE
+targetHighPrice: 13.5
+targetLowPrice: 7.0
+targetMeanPrice: 9.85
+targetMedianPrice: 9.6
+totalCash: 2230799872
+totalCashPerShare: 4.326
+totalDebt: 4578800128
+totalRevenue: 23786500096
+tradeable: false
+trailingAnnualDividendRate: 0.1
+trailingAnnualDividendYield: 0.012906556
+trailingEps: 1.11
+trailingPE: 6.9765763
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 7.07329
+twoHundredDayAverageChange: 0.6707101
+twoHundredDayAverageChangePercent: 0.094822936
+typeDisp: Equity
+volume: 1135705
+website: https://www.tuigroup.com/
+zip: '30625'

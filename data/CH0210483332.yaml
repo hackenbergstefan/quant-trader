@@ -1,0 +1,262 @@
+52WeekChange: 0.06916511
+SandP52WeekChange: 0.097798586
+address1: Chemin de la Chênaie 50
+address2: CP30
+allTimeHigh: 202.2
+allTimeLow: 7.867
+ask: 175.95
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 870344
+averageDailyVolume3Month: 801062
+averageVolume: 801062
+averageVolume10days: 870344
+beta: 1.19
+bid: 175.9
+bidSize: 0
+boardRisk: 6
+bookValue: 37.894913
+city: Bellevue
+companyOfficers:
+- age: 75
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Johann Peter Rupert
+  title: Founder & Executive Chairman
+  totalPay: 3084221
+  unexercisedValue: 0
+  yearBorn: 1950
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Nicolas  Bos
+  title: Group CEO & Executive Director
+  totalPay: 7259014
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Burkhart  Grund
+  title: CFO & Executive Director
+  totalPay: 4263511
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 77
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Eloy Urbain Paul Ghislain Michotte
+  title: Corporate Finance Director
+  unexercisedValue: 0
+  yearBorn: 1948
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Cédric  Bossert
+  title: Group General Counsel
+  unexercisedValue: 0
+  yearBorn: 1959
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Edward  Walsh
+  title: Corporate Communications Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Marie-Aude  Stocker
+  title: Chief People Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dr. Berangere  Ruchat
+  title: Chief Sustainability Officer
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Renaud  Litre
+  title: Chief Platforms Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Swen H. Grundmann
+  title: Group Company Secretary & Director of Corporate Affairs
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 7
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 175.95
+currentRatio: 3.098
+customPriceAlertConfidence: LOW
+dayHigh: 176.55
+dayLow: 174.55
+debtToEquity: 55.981
+dividendDate: 1727049600
+dividendRate: 3.3
+dividendYield: 1.88
+earningsCallTimestampEnd: 1794587400
+earningsCallTimestampStart: 1794587400
+earningsGrowth: -0.272
+earningsQuarterlyGrowth: -0.271
+earningsTimestamp: 1794587400
+earningsTimestampEnd: 1794587400
+earningsTimestampStart: 1794587400
+ebitda: 5359000064
+ebitdaMargins: 0.23903
+enterpriseToEbitda: 18.58
+enterpriseToRevenue: 4.441
+enterpriseValue: 99570302976
+epsCurrentYear: 7.37144
+epsForward: 7.901027
+epsTrailingTwelveMonths: 5.47
+esgPopulated: false
+exDividendDate: 1789516800
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 172.656
+fiftyDayAverageChange: 3.293991
+fiftyDayAverageChangePercent: 0.019078346
+fiftyTwoWeekChangePercent: 6.916511
+fiftyTwoWeekHigh: 202.2
+fiftyTwoWeekHighChange: -26.25
+fiftyTwoWeekHighChangePercent: -0.12982196
+fiftyTwoWeekLow: 127.2
+fiftyTwoWeekLowChange: 48.75
+fiftyTwoWeekLowChangePercent: 0.38325474
+fiftyTwoWeekRange: 127.2 - 202.2
+financialCurrency: EUR
+firstTradeDateMilliseconds: 796892400000
+fiveYearAvgDividendYield: 1.82
+floatShares: 534583645
+forwardEps: 7.901027
+forwardPE: 22.269257
+freeCashflow: 2592000000
+fullExchangeName: Swiss
+fullTimeEmployees: 39601
+fulldayChange: 0.5
+fulldayChangePercent: 0.2849815
+fulldayPrice: 175.95
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.64389
+grossProfits: 14435999744
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0058399998
+heldPercentInstitutions: 0.52432996
+impliedSharesOutstanding: 587940297
+industry: Luxury Goods
+industryDisp: Luxury Goods
+industryKey: luxury-goods
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789516800
+lastDividendValue: 4.3
+lastFiscalYearEnd: 1774915200
+longBusinessSummary: Compagnie Financière Richemont SA, an investment holding company,
+  engages in the luxury goods business. The company operates through Jewellery Maisons,
+  Specialist Watchmakers, and Other segments. It is involved in the design, manufacture,
+  and distribution of jewelry products, precision timepieces, watches, writing instruments,
+  clothing, and leather goods and accessories. The company provides its products under
+  the Cartier, Van Cleef & Arpels, Vhernier, Buccellati, A. Lange & Söhne, Baume &
+  Mercier, IWC Schaffhausen, Jaeger-LeCoultre, Panerai, Piaget, Roger Dubuis, Vacheron
+  Constantin, Alaïa, Chloé, Delvaux, dunhill, G/FORE, Gianvito Rossi, Montblanc, Peter
+  Millar, Purdey, Serapian, Watchfinder&Co., TIMEVALLEE, and brand names through retail
+  online retail, and wholesale distribution channels. It offers its products in France,
+  the United Kingdom, Italy, Switzerland, rest of Europe, the United Arab Emirates,
+  rest of the Middle East, Africa, China, Hong Kong, Macau, Japan, South Korea, rest
+  of Asia, the United States, and rest of the Americas. The company was incorporated
+  in 1979 and is headquartered in Bellevue, Switzerland.
+longName: Compagnie Financière Richemont SA
+market: ch_market
+marketCap: 103448092672
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_877159
+mostRecentQuarter: 1774915200
+netIncomeToCommon: 3464000000
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 100420202881
+numberOfAnalystOpinions: 26
+open: 176.0
+operatingCashflow: 4880000000
+operatingMargins: 0.20745
+overallRisk: 9
+payoutRatio: 0.5439
+pegRatio: 1.84
+phone: 41 22 721 3500
+previousClose: 175.45
+priceEpsCurrentYear: 23.869148
+priceHint: 2
+priceToBook: 4.6431036
+priceToSalesTrailing12Months: 4.6140985
+profitMargins: 0.1554
+quickRatio: 2.027
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.88462
+region: US
+regularMarketChange: 0.5
+regularMarketChangePercent: 0.2849815
+regularMarketDayHigh: 176.55
+regularMarketDayLow: 174.55
+regularMarketDayRange: 174.55 - 176.55
+regularMarketOpen: 176.0
+regularMarketPreviousClose: 175.45
+regularMarketPrice: 175.95
+regularMarketTime: 1794411564
+regularMarketVolume: 224182
+returnOnAssets: 0.069520004
+returnOnEquity: 0.14961
+revenueGrowth: 0.042
+revenuePerShare: 38.136
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 9
+sharesOutstanding: 534182089
+shortName: RICHEMONT N
+sourceInterval: 15
+symbol: CFR.SW
+targetHighPrice: 243.87256
+targetLowPrice: 140.88692
+targetMeanPrice: 206.19057
+targetMedianPrice: 209.62541
+totalCash: 17234999296
+totalCashPerShare: 29.294
+totalDebt: 13514999808
+totalRevenue: 22420000768
+tradeable: false
+trailingAnnualDividendRate: 3.568
+trailingAnnualDividendYield: 0.02033628
+trailingEps: 5.47
+trailingPE: 32.166363
+trailingPegRatio: 1.8428
+triggerable: false
+twoHundredDayAverage: 168.079
+twoHundredDayAverageChange: 7.871002
+twoHundredDayAverageChangePercent: 0.046829183
+typeDisp: Equity
+volume: 224182
+website: https://www.richemont.com
+zip: '1293'

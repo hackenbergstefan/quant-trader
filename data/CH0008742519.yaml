@@ -1,0 +1,275 @@
+52WeekChange: 0.18592966
+SandP52WeekChange: 0.097798586
+address1: Alte Tiefenaustrasse 6
+allTimeHigh: 740.801
+allTimeLow: 291.25
+ask: 706.5
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 3.9 - Underperform
+averageDailyVolume10Day: 71337
+averageDailyVolume3Month: 80635
+averageVolume: 80635
+averageVolume10days: 71337
+beta: 0.421
+bid: 706.0
+bidSize: 0
+boardRisk: 2
+bookValue: 233.099
+city: Worblaufen
+companyOfficers:
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christoph  Aeschlimann
+  title: CEO & Head of Swisscom - Switzerland
+  totalPay: 1595000
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Eugen  Stermetz Ph.D.
+  title: Group CFO & Head of Group Finance
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Louis  Schmid
+  title: Head of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Myriam  Kaeser
+  title: Head of Group Communications & Responsibility
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Klementina  Pejic
+  title: CPO & Head of Group Human Resources
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Vogeli
+  title: Head of Group Security & Corporate Affairs
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dirk  Wierzbitzki
+  title: Head of Residential Customers
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Urs  Lehner
+  title: Head of Business Customers
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Thomas  Wettstein
+  title: Head of Infrastructure Solutions
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Isa  Mueller-Wegner
+  title: Head of Group Strategy & Business Development and Group CSO
+  unexercisedValue: 0
+  yearBorn: 1977
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 706.0
+currentRatio: 0.756
+customPriceAlertConfidence: LOW
+dayHigh: 709.5
+dayLow: 704.0
+debtToEquity: 128.407
+dividendDate: 1743465600
+dividendRate: 26.0
+dividendYield: 3.67
+earningsCallTimestampEnd: 1793865600
+earningsCallTimestampStart: 1793865600
+earningsGrowth: -0.057
+earningsQuarterlyGrowth: -0.055
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 4303000064
+ebitdaMargins: 0.29057
+enterpriseToEbitda: 12.035
+enterpriseToRevenue: 3.497
+enterpriseValue: 51787776000
+epsCurrentYear: 27.7354
+epsForward: 30.12107
+epsTrailingTwelveMonths: 24.98
+esgPopulated: false
+exDividendDate: 1774569600
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 662.51
+fiftyDayAverageChange: 43.48999
+fiftyDayAverageChangePercent: 0.06564428
+fiftyTwoWeekChangePercent: 18.592966
+fiftyTwoWeekHigh: 734.5
+fiftyTwoWeekHighChange: -28.5
+fiftyTwoWeekHighChangePercent: -0.038801905
+fiftyTwoWeekLow: 545.0
+fiftyTwoWeekLowChange: 161.0
+fiftyTwoWeekLowChangePercent: 0.29541284
+fiftyTwoWeekRange: 545.0 - 734.5
+financialCurrency: CHF
+firstTradeDateMilliseconds: 907570800000
+fiveYearAvgDividendYield: 4.04
+forwardEps: 30.12107
+forwardPE: 23.438742
+freeCashflow: 2929870080
+fullExchangeName: Swiss
+fullTimeEmployees: 22647
+fulldayChange: -2.0
+fulldayChangePercent: -0.28248587
+fulldayPrice: 706.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.57938
+grossProfits: 8579999744
+hasPrePostMarketData: false
+heldPercentInsiders: 0.50979
+heldPercentInstitutions: 0.25488
+impliedSharesOutstanding: 51801943
+industry: Telecom Services
+industryDisp: Telecom Services
+industryKey: telecom-services
+irWebsite: http://www.swisscom.ch/en/ghq/investor-relations.html
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1774569600
+lastDividendValue: 26.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Swisscom AG provides telecommunication services in Switzerland,
+  Italy, and internationally. It operates through Switzerland, Italy, and Other segments.
+  The company offers mobile communications, fixed network telephony, broadband, and
+  TV to residential customers; telecommunications services and IT service solutions
+  for corporate, public administration, and SME customers; business ICT infrastructure;
+  range from individual products to end-to-end solutions to ICT infrastructure business;
+  and makes network infrastructure to other telecommunications; and plans, operates,
+  and maintains the network and IT infrastructure. It also provides network construction
+  and maintenance, broadcasting services, and local search activities, as well as
+  electronic signatures, digital certificates, and other trust services. In addition,
+  the company offers integrated communication solutions, IT infrastructure, security,
+  and cloud services to various workplace and other software solutions, IoT, and artificial
+  intelligence; outsourcing services for financial and healthcare and public sectors;
+  AI-supported services; and telecommunications provide a range of wholesale services
+  for own use, refinement or resale based on copper, fibre-optic or mobile networks.
+  Further, it provides broadband connections, leased lines, network connections, mobile
+  virtual network operators, IP peering, co-location, and cable ducts; wholesale voice
+  connections and roaming contracts; manages and markets digital booking platform;
+  builds radio networks for broadcasting, security, and professional mobile radio
+  networks; safety and security solutions; and ICT and network infrastructures for
+  bandwidth, as well as road and tunnel construction. Additionally, the company provides
+  FastwebAI Suite, a platform of generative artificial intelligence (AI) solutions
+  designed for businesses and public authorities. Swisscom AG was incorporated in
+  1998 and is headquartered in Worblaufen, Switzerland.
+longName: Swisscom AG
+market: ch_market
+marketCap: 36572172288
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_392154
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1294000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 36675775644
+numberOfAnalystOpinions: 17
+open: 705.0
+operatingCashflow: 6309000192
+operatingMargins: 0.13161
+overallRisk: 4
+payoutRatio: 1.0408
+pegRatio: 2.85
+phone: 41 58 221 99 11
+previousClose: 708.0
+priceEpsCurrentYear: 25.454834
+priceHint: 2
+priceToBook: 3.0287561
+priceToSalesTrailing12Months: 2.469591
+profitMargins: 0.08738
+quickRatio: 0.576
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: underperform
+recommendationMean: 3.875
+region: US
+regularMarketChange: -2.0
+regularMarketChangePercent: -0.28248587
+regularMarketDayHigh: 709.5
+regularMarketDayLow: 704.0
+regularMarketDayRange: 704.0 - 709.5
+regularMarketOpen: 705.0
+regularMarketPreviousClose: 708.0
+regularMarketPrice: 706.0
+regularMarketTime: 1794411543
+regularMarketVolume: 16539
+returnOnAssets: 0.03425
+returnOnEquity: 0.10551
+revenueGrowth: -0.004
+revenuePerShare: 285.836
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 51801943
+shortName: SWISSCOM N
+sourceInterval: 15
+symbol: SCMN.SW
+targetHighPrice: 740.0
+targetLowPrice: 460.0
+targetMeanPrice: 575.2941
+targetMedianPrice: 590.0
+totalCash: 986000000
+totalCashPerShare: 19.034
+totalDebt: 16101000192
+totalRevenue: 14808999936
+tradeable: false
+trailingAnnualDividendRate: 26.0
+trailingAnnualDividendYield: 0.036723163
+trailingEps: 24.98
+trailingPE: 28.262611
+trailingPegRatio: 2.844
+triggerable: false
+twoHundredDayAverage: 661.0025
+twoHundredDayAverageChange: 44.997498
+twoHundredDayAverageChangePercent: 0.06807463
+typeDisp: Equity
+volume: 16539
+website: https://www.swisscom.ch
+zip: '3050'

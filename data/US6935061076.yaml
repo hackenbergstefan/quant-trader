@@ -1,0 +1,284 @@
+52WeekChange: 0.27623343
+SandP52WeekChange: 0.097798586
+address1: One PPG Place
+allTimeHigh: 182.97
+allTimeLow: 1.632813
+ask: 124.7
+askSize: 200
+auditRisk: 4
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 2474670
+averageDailyVolume3Month: 1745314
+averageVolume: 1745314
+averageVolume10days: 2474670
+beta: 0.987
+bid: 124.55
+bidSize: 100
+boardRisk: 7
+bookValue: 38.416
+city: Pittsburgh
+companyOfficers:
+- age: 59
+  exercisedValue: 123330
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy M. Knavish
+  title: CEO & Chairman
+  totalPay: 3566861
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anne M. Foulkes
+  title: Senior Vice President of Law & Special Projects
+  totalPay: 1334441
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin D. Braun
+  title: Senior Vice President of Operations
+  totalPay: 1122120
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Karl Henrik Bergstrom
+  title: Senior Vice President of Global Architectural Coatings Segment
+  totalPay: 1266113
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jamie A. Beggs
+  title: Senior VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian Richard Williams
+  title: VP & Controller
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. David Stanley Bem Ph.D.
+  title: Senior VP of Science & Technology and CTO
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bhaskar  Ramachandran
+  title: VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alejandro  Lopez
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph R. Gette
+  title: SVP, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: PPG announced a cash dividend of $0.74 with an ex-date of Nov. 10, 2026
+  meta:
+    amount: '0.74'
+    dateEpochMs: 1794286800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 124.49
+currentRatio: 1.579
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 125.05
+dayLow: 123.63
+debtToEquity: 86.615
+displayName: PPG Industries
+dividendDate: 1796947200
+dividendRate: 2.96
+dividendYield: 2.38
+earningsCallTimestampEnd: 1793188800
+earningsCallTimestampStart: 1793188800
+earningsGrowth: 0.011
+earningsQuarterlyGrowth: -0.004
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1800997200
+earningsTimestampStart: 1800997200
+ebitda: 2758000128
+ebitdaMargins: 0.16523
+enterpriseToEbitda: 12.132
+enterpriseToRevenue: 2.005
+enterpriseValue: 33459378176
+epsCurrentYear: 8.00484
+epsForward: 8.65374
+epsTrailingTwelveMonths: 7.12
+esgPopulated: false
+exDividendDate: 1794268800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 110.2492
+fiftyDayAverageChange: 14.240799
+fiftyDayAverageChangePercent: 0.12916918
+fiftyTwoWeekChangePercent: 27.623344
+fiftyTwoWeekHigh: 133.43
+fiftyTwoWeekHighChange: -8.939995
+fiftyTwoWeekHighChangePercent: -0.06700139
+fiftyTwoWeekLow: 93.39
+fiftyTwoWeekLowChange: 31.099998
+fiftyTwoWeekLowChangePercent: 0.33301207
+fiftyTwoWeekRange: 93.39 - 133.43
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 2.04
+floatShares: 220416229
+forwardEps: 8.65374
+forwardPE: 14.385688
+freeCashflow: 1097374976
+fullExchangeName: NYSE
+fullTimeEmployees: 43500
+fulldayChange: 0.069999695
+fulldayChangePercent: 0.056260806
+fulldayPrice: 124.49
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.41181
+grossProfits: 6873999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0010899999
+heldPercentInstitutions: 0.9492
+impliedSharesOutstanding: 220900000
+industry: Specialty Chemicals
+industryDisp: Specialty Chemicals
+industryKey: specialty-chemicals
+irWebsite: http://www.ppg.com/corporate/investorcenter/Pages/new.aspx
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1794268800
+lastDividendValue: 0.74
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1434326400
+lastSplitFactor: '2:1'
+longBusinessSummary: 'PPG Industries, Inc. manufactures and distributes paints, coatings,
+  and specialty materials in the United States, Canada, the Asia Pacific, Latin America,
+  Europe, the Middle East, and Africa. It operates through three segments: Global
+  Architectural Coatings, Performance Coatings, and Industrial Coatings. The Global
+  Architectural Coatings segment supplies a variety of decorative coatings, adhesives,
+  sealants, and finishes, as well as paint strippers, stains, and related chemicals.
+  Its Performance Coatings segment offers aerospace coatings, automotive refinishing
+  coatings, protective and marine coatings, and traffic solutions comprising paints,
+  thermoplastics, raised pavement markers, and other technologies for pavement marking.
+  The Industrial Coatings segment provides automotive OEM coatings, industrial coatings,
+  and packaging coatings, as well as specialty products, such as optical monomers
+  and coatings, low-friction coatings, and other specialty products. The company delivers
+  its products to company-owned stores, home centers and other consumer retail outlets,
+  paint dealers, concessionaires and independent distributors, company-owned distribution
+  networks, and directly to manufacturing companies and retail customers. PPG Industries,
+  Inc. was incorporated in 1883 and is headquartered in Pittsburgh, Pennsylvania.'
+longName: PPG Industries, Inc.
+market: us_market
+marketCap: 27499841536
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_294639
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1596000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 27484378000
+numberOfAnalystOpinions: 22
+open: 124.08
+operatingCashflow: 2044999936
+operatingMargins: 0.13324
+overallRisk: 5
+payoutRatio: 0.4031
+pegRatio: 1.71
+phone: 412 434 3131
+previousClose: 124.42
+priceEpsCurrentYear: 15.551841
+priceHint: 2
+priceToBook: 3.2405767
+priceToSalesTrailing12Months: 1.6474863
+profitMargins: 0.094060004
+quickRatio: 1.053
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.12
+region: US
+regularMarketChange: 0.069999695
+regularMarketChangePercent: 0.056260806
+regularMarketDayHigh: 125.05
+regularMarketDayLow: 123.63
+regularMarketDayRange: 123.63 - 125.05
+regularMarketOpen: 124.08
+regularMarketPreviousClose: 124.42
+regularMarketPrice: 124.49
+regularMarketTime: 1794413726
+regularMarketVolume: 160624
+returnOnAssets: 0.06217
+returnOnEquity: 0.19487
+revenueGrowth: 0.066
+revenuePerShare: 74.726
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 5
+sharesOutstanding: 220900000
+sharesPercentSharesOut: 0.0317
+sharesShort: 7003303
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 6517391
+shortName: PPG Industries, Inc.
+shortPercentOfFloat: 0.0365
+shortRatio: 3.61
+sourceInterval: 15
+state: PA
+symbol: PPG
+targetHighPrice: 140.0
+targetLowPrice: 115.0
+targetMeanPrice: 130.13635
+targetMedianPrice: 130.5
+totalCash: 1642000000
+totalCashPerShare: 7.433
+totalDebt: 7473999872
+totalRevenue: 16691999744
+tradeable: false
+trailingAnnualDividendRate: 2.87
+trailingAnnualDividendYield: 0.023067031
+trailingEps: 7.12
+trailingPE: 17.48455
+trailingPegRatio: 1.7142
+triggerable: true
+twoHundredDayAverage: 112.88095
+twoHundredDayAverageChange: 11.609047
+twoHundredDayAverageChangePercent: 0.10284328
+typeDisp: Equity
+volume: 160624
+website: https://www.ppg.com
+zip: '15272'

@@ -1,0 +1,275 @@
+52WeekChange: 0.5063907
+SandP52WeekChange: 0.097798586
+address1: Piazzale Enrico Mattei 1
+allTimeHigh: 28.95
+allTimeLow: 5.09228
+ask: 25.245
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 8195191
+averageDailyVolume3Month: 7899512
+averageVolume: 7899512
+averageVolume10days: 8195191
+beta: 0.212
+bid: 25.225
+bidSize: 0
+boardRisk: 1
+bookValue: 18.884
+city: Rome
+companyOfficers:
+- age: 70
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Claudio  Descalzi
+  title: CEO, GM & Director
+  totalPay: 6262000
+  unexercisedValue: 0
+  yearBorn: 1955
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Francesco  Gattei
+  title: Chief Transition & Financial Officer, COO and GM
+  totalPay: 2316000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Guido  Brusco
+  title: COO of Global Natural Resources & GM
+  totalPay: 2205000
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Francesco  Esposito
+  title: Head of Accounting & Financial Statements
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lorenzo  Fiorillo
+  title: Director of Technology, R&D & Digital
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathon  Rigby C.F.A.
+  title: Head of Investor Relations & Strategic Analysis
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Luca  Franceschini
+  title: Integrated Compliance Director, Board Counsel & Board Secretary
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefano  Speroni
+  title: Director of Legal Affairs & Commercial Negotiations
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lapo  Pistelli
+  title: Director of Public Affairs
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Claudia  Carloni
+  title: Senior Vice President of International Negotiations - R&M business
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions:
+- header: Dividend
+  message: ENI.MI announced a cash dividend of EUR 0.46 with an ex-date of Dec. 7,
+    2026
+  meta:
+    amount: '0.46'
+    dateEpochMs: 1796598000000
+    eventType: DIVIDEND
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 25.23
+currentRatio: 1.214
+customPriceAlertConfidence: LOW
+dayHigh: 25.245
+dayLow: 24.75
+debtToEquity: 69.219
+dividendRate: 1.08
+dividendYield: 4.36
+earningsCallTimestampEnd: 1792756800
+earningsCallTimestampStart: 1792756800
+earningsGrowth: 3.438
+earningsQuarterlyGrowth: 2.991
+earningsTimestamp: 1792769400
+earningsTimestampEnd: 1792769400
+earningsTimestampStart: 1792769400
+ebitda: 14659999744
+ebitdaMargins: 0.15069
+enterpriseToEbitda: 6.435
+enterpriseToRevenue: 0.97
+enterpriseValue: 94332878848
+epsCurrentYear: 3.04697
+epsForward: 2.79397
+epsTrailingTwelveMonths: 1.46
+esgPopulated: false
+exDividendDate: 1795392000
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 39 06 59 82 21 41
+fiftyDayAverage: 24.9413
+fiftyDayAverageChange: 0.2887001
+fiftyDayAverageChangePercent: 0.011575183
+fiftyTwoWeekChangePercent: 50.63907
+fiftyTwoWeekHigh: 27.76
+fiftyTwoWeekHighChange: -2.5300007
+fiftyTwoWeekHighChangePercent: -0.091138355
+fiftyTwoWeekLow: 15.554
+fiftyTwoWeekLowChange: 9.676
+fiftyTwoWeekLowChangePercent: 0.62209076
+fiftyTwoWeekRange: 15.554 - 27.76
+financialCurrency: EUR
+firstTradeDateMilliseconds: 817632000000
+fiveYearAvgDividendYield: 5.99
+floatShares: 1726588840
+forwardEps: 2.79397
+forwardPE: 9.030161
+freeCashflow: 5831249920
+fullExchangeName: Milan
+fullTimeEmployees: 32349
+fulldayChange: 0.47999954
+fulldayChangePercent: 1.9393921
+fulldayPrice: 25.23
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.2194
+grossProfits: 21344000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.36356997
+heldPercentInstitutions: 0.26378
+impliedSharesOutstanding: 2847845556
+industry: Oil & Gas Integrated
+industryDisp: Oil & Gas Integrated
+industryKey: oil-gas-integrated
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1796601600
+lastDividendValue: 0.46
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 992822400
+lastSplitFactor: '1:2'
+longBusinessSummary: Eni S.p.A. operates as an integrated energy company in Italy,
+  Other European Union, Rest of Europe, the United States, Asia, Africa, and internationally.
+  The company engages in exploration, development, extracting, manufacturing, trading,
+  and marketing crude oil and natural gas, oil-based fuels, chemical products, and
+  gas-fired power, as well as energy products from renewable sources. The company
+  operates through Exploration & Production; Global Gas & LNG Portfolio and Power;
+  Refining and Chemicals; Enilive; Plenitude; and Corporate and Other Activities segments.
+  The company engages in research, development, and production of oil, condensates,
+  and natural gas. It is also involved in the supply and sale of wholesale natural
+  gas through pipelines; electricity; and international transport, and purchase and
+  marketing of liquefied natural gas. In addition, the company supplies bio-feedstock
+  and crude oil; and stores, produces, distributes, and markets biofuels, oil products,
+  biomethane, basic chemical and petrochemical products, intermediates, plastics and
+  elastomers, and other chemicals, as well as provides smart mobility solutions and
+  services. Further, the company engages in the retail marketing of gas, power, and
+  related services; production and wholesale sale of electricity from renewable plants;
+  and building and managing a network of charging points for electric vehicles. Eni
+  S.p.A. was founded in 1953 and is headquartered in Rome, Italy.
+longName: Eni S.p.A.
+market: it_market
+marketCap: 71851147264
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_358534
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 6893000192
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 70484177511
+numberOfAnalystOpinions: 22
+open: 24.8
+operatingCashflow: 14405999616
+operatingMargins: 0.08464
+overallRisk: 6
+payoutRatio: 0.4629
+pegRatio: 0.42
+phone: 39 06 59821
+previousClose: 24.75
+priceEpsCurrentYear: 8.280357
+priceHint: 2
+priceToBook: 1.3360516
+priceToSalesTrailing12Months: 0.7385787
+profitMargins: 0.079
+quickRatio: 0.853
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.36364
+region: US
+regularMarketChange: 0.47999954
+regularMarketChangePercent: 1.9393921
+regularMarketDayHigh: 25.245
+regularMarketDayLow: 24.75
+regularMarketDayRange: 24.75 - 25.245
+regularMarketOpen: 24.8
+regularMarketPreviousClose: 24.75
+regularMarketPrice: 25.23
+regularMarketTime: 1794411568
+regularMarketVolume: 4261177
+returnOnAssets: 0.03561
+returnOnEquity: 0.1314
+revenueGrowth: 0.267
+revenuePerShare: 33.14
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 7
+sharesOutstanding: 2847845556
+shortName: ENI
+sourceInterval: 20
+state: RM
+symbol: ENI.MI
+targetHighPrice: 32.8
+targetLowPrice: 21.8
+targetMeanPrice: 27.84545
+targetMedianPrice: 27.5
+totalCash: 20138000384
+totalCashPerShare: 6.977
+totalDebt: 39898001408
+totalRevenue: 97282998272
+tradeable: false
+trailingAnnualDividendRate: 0.27
+trailingAnnualDividendYield: 0.010909092
+trailingEps: 1.46
+trailingPE: 17.28082
+trailingPegRatio: 0.4206
+triggerable: false
+twoHundredDayAverage: 22.880135
+twoHundredDayAverageChange: 2.349865
+twoHundredDayAverageChangePercent: 0.10270328
+typeDisp: Equity
+volume: 4261177
+website: https://www.eni.com
+zip: '00144'

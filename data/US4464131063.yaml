@@ -1,0 +1,282 @@
+52WeekChange: -0.013589621
+SandP52WeekChange: 0.097798586
+address1: 4101 Washington Avenue
+allTimeHigh: 460.0
+allTimeLow: 22.62
+ask: 313.74
+askSize: 40
+auditRisk: 8
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 700500
+averageDailyVolume3Month: 512018
+averageVolume: 512018
+averageVolume10days: 700500
+beta: 0.147
+bid: 313.14
+bidSize: 120
+boardRisk: 4
+bookValue: 139.371
+city: Newport News
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher Douglas Kastner
+  title: President, CEO & Director
+  totalPay: 4243227
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas E. Stiehle
+  title: Executive VP & CFO
+  totalPay: 1533244
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chad N. Boudreaux J.D.
+  title: Executive VP & Chief Legal Officer
+  totalPay: 1589669
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Edgar Andy Green III
+  title: Executive VP & President of Mission Technologies
+  totalPay: 1642477
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian D. Blanchette
+  title: Executive VP & President of Ingalls Shipbuilding Division
+  totalPay: 1394687
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Garry  Schwartz
+  title: Chief Operating Officer
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nicolas G. Schuck
+  title: Corporate VP, Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Bell
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher W. Soong
+  title: Executive VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christie  Thomas
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions:
+- header: Dividend
+  message: HII announced a cash dividend of $1.41 with an ex-date of Nov. 27, 2026
+  meta:
+    amount: '1.41'
+    dateEpochMs: 1795755600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 313.03
+currentRatio: 1.265
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 313.805
+dayLow: 309.328
+debtToEquity: 53.332
+displayName: Huntington Ingalls Industries
+dividendDate: 1796947200
+dividendRate: 5.64
+dividendYield: 1.8
+earningsCallTimestampEnd: 1793278800
+earningsCallTimestampStart: 1793278800
+earningsGrowth: 0.489
+earningsQuarterlyGrowth: 0.497
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 1240999936
+ebitdaMargins: 0.09172
+enterpriseToEbitda: 12.005
+enterpriseToRevenue: 1.101
+enterpriseValue: 14898557952
+epsCurrentYear: 19.67304
+epsForward: 20.44956
+epsTrailingTwelveMonths: 18.57
+esgPopulated: false
+exDividendDate: 1795737600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 279.3852
+fiftyDayAverageChange: 33.644806
+fiftyDayAverageChangePercent: 0.12042444
+fiftyTwoWeekChangePercent: -1.358962
+fiftyTwoWeekHigh: 460.0
+fiftyTwoWeekHighChange: -146.97
+fiftyTwoWeekHighChangePercent: -0.3195
+fiftyTwoWeekLow: 255.36
+fiftyTwoWeekLowChange: 57.67
+fiftyTwoWeekLowChangePercent: 0.22583802
+fiftyTwoWeekRange: 255.36 - 460.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 1300800600000
+fiveYearAvgDividendYield: 2.04
+floatShares: 38822456
+forwardEps: 20.44956
+forwardPE: 15.30742
+freeCashflow: 193375008
+fullExchangeName: NYSE
+fullTimeEmployees: 46000
+fulldayChange: -0.54000854
+fulldayChangePercent: -0.17221308
+fulldayPrice: 313.03
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.1272
+grossProfits: 1720999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0047299997
+heldPercentInstitutions: 0.92708
+impliedSharesOutstanding: 39406060
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787875200
+lastDividendValue: 1.38
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Huntington Ingalls Industries, Inc. designs, builds, overhauls,
+  and repairs military ships in the United States. It operates through three segments:
+  Ingalls, Newport News, and Mission Technologies. The company is involved in the
+  design and construction of non-nuclear ships comprising amphibious assault ships,
+  surface combatants, and national security cutters for the U.S. Navy and U.S. Coast
+  Guard. It also provides nuclear-powered ships, such as aircraft carriers and submarines,
+  as well as refueling and overhaul, and inactivation services of nuclear-powered
+  aircraft carriers. In addition, the company offers naval nuclear support services,
+  including fleet services comprising design, construction, maintenance, and disposal
+  activities for in-service the U.S. Navy nuclear ships; and maintenance services
+  on nuclear reactor prototypes. Further, the company provides C5ISR systems and operations;
+  application of artificial intelligence and machine learning to battlefield decisions;
+  defensive and offensive cyberspace strategies and electronic warfare; uncrewed autonomous
+  systems; live, virtual, and constructive solutions; platform modernization; and
+  critical nuclear operations. The company has a strategic partnership with HD Hyundai
+  Heavy Industries to implement intelligent mechanized welding systems at Huntington
+  Ingalls Industries, Inc.''s Ingalls Shipbuilding division. Huntington Ingalls Industries,
+  Inc. was founded in 1886 and is headquartered in Newport News, Virginia.'
+longName: Huntington Ingalls Industries, Inc.
+market: us_market
+marketCap: 12335279104
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_363263
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 733000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 12356558234
+numberOfAnalystOpinions: 12
+open: 313.51
+operatingCashflow: 749000000
+operatingMargins: 0.06829
+overallRisk: 3
+payoutRatio: 0.29729998
+pegRatio: 0.91
+phone: 757 380 2000
+previousClose: 313.57
+priceEpsCurrentYear: 15.911623
+priceHint: 2
+priceToBook: 2.2460196
+priceToSalesTrailing12Months: 0.91169834
+profitMargins: 0.054180004
+quickRatio: 1.141
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.08333
+region: US
+regularMarketChange: -0.54000854
+regularMarketChangePercent: -0.17221308
+regularMarketDayHigh: 313.805
+regularMarketDayLow: 309.328
+regularMarketDayRange: 309.328 - 313.805
+regularMarketOpen: 313.51
+regularMarketPreviousClose: 313.57
+regularMarketPrice: 313.03
+regularMarketTime: 1794413712
+regularMarketVolume: 103647
+returnOnAssets: 0.04567
+returnOnEquity: 0.13994001
+revenueGrowth: 0.108
+revenuePerShare: 343.619
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 2
+sharesOutstanding: 39406060
+sharesPercentSharesOut: 0.041500002
+sharesShort: 1633700
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1476880
+shortName: 'Huntington Ingalls Industries, '
+shortPercentOfFloat: 0.0478
+shortRatio: 2.71
+sourceInterval: 15
+state: VA
+symbol: HII
+targetHighPrice: 407.0
+targetLowPrice: 281.0
+targetMeanPrice: 356.08334
+targetMedianPrice: 352.0
+totalCash: 387000000
+totalCashPerShare: 9.821
+totalDebt: 2928999936
+totalRevenue: 13530000384
+tradeable: false
+trailingAnnualDividendRate: 5.52
+trailingAnnualDividendYield: 0.017603725
+trailingEps: 18.57
+trailingPE: 16.856758
+trailingPegRatio: 0.9089
+triggerable: true
+twoHundredDayAverage: 331.60294
+twoHundredDayAverageChange: -18.572937
+twoHundredDayAverageChangePercent: -0.05600957
+typeDisp: Equity
+volume: 103647
+website: https://www.hii.com
+zip: '23607'

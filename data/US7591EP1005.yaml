@@ -1,0 +1,281 @@
+52WeekChange: 0.13036633
+SandP52WeekChange: 0.097798586
+address1: 1900 Fifth Avenue North
+allTimeHigh: 39.15
+allTimeLow: 1.564732
+ask: 28.5
+askSize: 4200
+auditRisk: 3
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 9836400
+averageDailyVolume3Month: 9477592
+averageVolume: 9477592
+averageVolume10days: 9836400
+beta: 1.021
+bid: 28.49
+bidSize: 4600
+boardRisk: 5
+bookValue: 19.392
+city: Birmingham
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John M. Turner Jr.
+  title: President, CEO & Chairman
+  totalPay: 5813850
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles Dandridge Massey
+  title: Senior EVP and Chief Enterprise Operations & Technology Officer
+  totalPay: 2631828
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David R. Keenan
+  title: Senior Advisor
+  totalPay: 1971727
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Russell K. Zusi
+  title: Senior EVP & Chief Risk Officer
+  totalPay: 1753347
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anil D. Chadha
+  title: Senior Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karin K. Allen
+  title: Executive VP & Chief Accounting Officer
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katherine Randall Danella
+  title: Senior EVP & Chief Administrative Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tara Ann Plimpton
+  title: Senior EVP, Chief Legal Officer & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anna  Brackin
+  title: Chief Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ryan  Sladek
+  title: Head of Sales
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: RF announced a cash dividend of $0.30 with an ex-date of Dec. 1, 2026
+  meta:
+    amount: '0.30'
+    dateEpochMs: 1796101200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 28.575
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 28.81
+dayLow: 28.414
+displayName: Regions Financial
+dividendDate: 1799020800
+dividendRate: 1.2
+dividendYield: 4.18
+earningsCallTimestampEnd: 1800630000
+earningsCallTimestampStart: 1800630000
+earningsGrowth: 0.164
+earningsQuarterlyGrowth: 0.109
+earningsTimestamp: 1800624600
+earningsTimestampEnd: 1800624600
+earningsTimestampStart: 1800624600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 4.656
+enterpriseValue: 34134919168
+epsCurrentYear: 2.71325
+epsForward: 2.84918
+epsTrailingTwelveMonths: 2.55
+esgPopulated: false
+exDividendDate: 1796083200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 28.2784
+fiftyDayAverageChange: 0.29660034
+fiftyDayAverageChangePercent: 0.010488583
+fiftyTwoWeekChangePercent: 13.036633
+fiftyTwoWeekHigh: 32.47
+fiftyTwoWeekHighChange: -3.8950005
+fiftyTwoWeekHighChangePercent: -0.119956896
+fiftyTwoWeekLow: 23.59
+fiftyTwoWeekLowChange: 4.9850006
+fiftyTwoWeekLowChangePercent: 0.21131837
+fiftyTwoWeekRange: 23.59 - 32.47
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 3.84
+floatShares: 844883223
+forwardEps: 2.84918
+forwardPE: 10.0292015
+fullExchangeName: NYSE
+fullTimeEmployees: 19968
+fulldayChange: -0.125
+fulldayChangePercent: -0.4354642
+fulldayPrice: 28.575
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 7331999744
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0028900001
+heldPercentInstitutions: 0.85852
+impliedSharesOutstanding: 848847340
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: http://ir.regions.com/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788220800
+lastDividendValue: 0.3
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1088640000
+lastSplitFactor: 12346:10000
+longBusinessSummary: 'Regions Financial Corporation, a financial holding company,
+  provides various banking and related products and services to individual and corporate
+  customers. It operates through three segments: Corporate Bank, Consumer Bank, and
+  Wealth Management. The Corporate Bank segment offers commercial banking services,
+  such as commercial and industrial, commercial real estate, and investor real estate
+  lending; equipment lease financing; deposit products; capital markets activities,
+  such as securities underwriting and placement; and loan syndication and placement,
+  foreign exchange, derivatives, merger and acquisition, and other advisory services
+  to corporate, middle market, and commercial real estate developers and investors.
+  The Consumer Bank segment provides consumer banking products and services related
+  to residential first mortgages, home equity lines and loans, consumer credit cards,
+  and other consumer loans, as well as the corresponding deposit relationships. The
+  Wealth Management segment offers credit related products, and retirement and savings
+  solutions; and trust and investment management, asset management, and estate planning
+  to individuals, businesses, governmental institutions, and non-profit entities.
+  It also provides investment and insurance products; home improvement lending, investment
+  advisory services, equipment financing for commercial clients, small business customers,
+  low-income housing tax credit corporate fund syndication services, financing to
+  CRA-qualified customers, and broker-dealer services to commercial clients, as well
+  as other specialty financing services. The company was founded in 1971 and is headquartered
+  in Birmingham, Alabama.'
+longName: Regions Financial Corporation
+market: us_market
+marketCap: 24255813632
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_271409
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2212999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 24361918658
+numberOfAnalystOpinions: 21
+open: 28.67
+operatingCashflow: 902000000
+operatingMargins: 0.39988998
+overallRisk: 4
+payoutRatio: 0.4294
+pegRatio: 1.54
+phone: 800 734 4667
+previousClose: 28.7
+priceEpsCurrentYear: 10.531651
+priceHint: 2
+priceToBook: 1.4735458
+priceToSalesTrailing12Months: 3.3082125
+profitMargins: 0.31288
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.69565
+region: US
+regularMarketChange: -0.125
+regularMarketChangePercent: -0.4354642
+regularMarketDayHigh: 28.81
+regularMarketDayLow: 28.414
+regularMarketDayRange: 28.414 - 28.81
+regularMarketOpen: 28.67
+regularMarketPreviousClose: 28.7
+regularMarketPrice: 28.575
+regularMarketTime: 1794413750
+regularMarketVolume: 2092130
+returnOnAssets: 0.014199999
+returnOnEquity: 0.1238
+revenueGrowth: 0.052
+revenuePerShare: 8.521
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 7
+sharesOutstanding: 848847340
+sharesPercentSharesOut: 0.0761
+sharesShort: 64696878
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 63449335
+shortName: Regions Financial Corporation
+shortPercentOfFloat: 0.1008
+shortRatio: 5.66
+sourceInterval: 15
+state: AL
+symbol: RF
+targetHighPrice: 35.0
+targetLowPrice: 28.0
+targetMeanPrice: 31.22143
+targetMedianPrice: 31.0
+totalCash: 3366000128
+totalCashPerShare: 3.965
+totalDebt: 11651000320
+totalRevenue: 7331999744
+tradeable: false
+trailingAnnualDividendRate: 1.095
+trailingAnnualDividendYield: 0.03815331
+trailingEps: 2.55
+trailingPE: 11.205883
+trailingPegRatio: 1.538
+triggerable: true
+twoHundredDayAverage: 28.70215
+twoHundredDayAverageChange: -0.12714958
+twoHundredDayAverageChangePercent: -0.004429967
+typeDisp: Equity
+volume: 2092130
+website: https://www.regions.com
+zip: '35203'

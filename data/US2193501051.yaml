@@ -1,0 +1,294 @@
+52WeekChange: 0.25974607
+SandP52WeekChange: 0.097798586
+address1: One Riverfront Plaza
+allTimeHigh: 271.78
+allTimeLow: 1.1
+ask: 122.68
+askSize: 200
+auditRisk: 3
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 11664480
+averageDailyVolume3Month: 9199245
+averageVolume: 9199245
+averageVolume10days: 11664480
+beta: 1.225
+bid: 122.45
+bidSize: 100
+boardRisk: 8
+bookValue: 15.089
+city: Corning
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wendell P. Weeks
+  title: Chairman, President & CEO
+  totalPay: 11486167
+  unexercisedValue: 28063184
+  yearBorn: 1960
+- age: 57
+  exercisedValue: 507027
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Edward A. Schlesinger
+  title: Executive VP & CFO
+  totalPay: 3285301
+  unexercisedValue: 606097
+  yearBorn: 1968
+- age: 56
+  exercisedValue: 748616
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Avery H. Nelson III
+  title: Executive VP & COO
+  totalPay: 2691203
+  unexercisedValue: 1231829
+  yearBorn: 1969
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lewis A. Steverson J.D.
+  title: Vice Chairman, Executive VP and Chief Legal & Administrative Officer
+  totalPay: 3980768
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 52
+  exercisedValue: 236278
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Z. Zhang
+  title: Executive VP & Chief Corporate Development Officer
+  totalPay: 4357926
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jaymin  Amin
+  title: Senior VP & CTO
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Soumya  Seetharam
+  title: Senior VP and Chief Digital & Information Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Christopher  Keenan
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Kevin G. Corliss
+  title: VP of Global Employee Relations & Chief Compliance Officer
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Michelle L. Gullo
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions:
+- header: Dividend
+  message: GLW announced a cash dividend of $0.28 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.28'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 121.205
+currentRatio: 1.722
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 122.74
+dayLow: 116.5
+debtToEquity: 64.187
+displayName: Corning
+dividendDate: 1796947200
+dividendRate: 1.12
+dividendYield: 1.0
+earningsCallTimestampEnd: 1793104200
+earningsCallTimestampStart: 1793104200
+earningsGrowth: 0.56
+earningsQuarterlyGrowth: 0.581
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1800970200
+earningsTimestampStart: 1800970200
+ebitda: 4463000064
+ebitdaMargins: 0.25188
+enterpriseToEbitda: 23.267
+enterpriseToRevenue: 5.86
+enterpriseValue: 103839907840
+epsCurrentYear: 3.37425
+epsForward: 4.54278
+epsTrailingTwelveMonths: 2.47
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 143.0984
+fiftyDayAverageChange: -21.893402
+fiftyDayAverageChangePercent: -0.15299544
+fiftyTwoWeekChangePercent: 25.974607
+fiftyTwoWeekHigh: 271.78
+fiftyTwoWeekHighChange: -150.575
+fiftyTwoWeekHighChangePercent: -0.5540327
+fiftyTwoWeekLow: 77.39
+fiftyTwoWeekLowChange: 43.815002
+fiftyTwoWeekLowChangePercent: 0.5661585
+fiftyTwoWeekRange: 77.39 - 271.78
+financialCurrency: USD
+firstTradeDateMilliseconds: 378657000000
+fiveYearAvgDividendYield: 1.81
+floatShares: 790697303
+forwardEps: 4.54278
+forwardPE: 26.6808
+freeCashflow: 870124992
+fullExchangeName: NYSE
+fullTimeEmployees: 67200
+fulldayChange: 9.075005
+fulldayChangePercent: 8.093289
+fulldayPrice: 121.205
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.36481
+grossProfits: 6464000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.08067001
+heldPercentInstitutions: 0.73880994
+impliedSharesOutstanding: 861401106
+industry: Electronic Components
+industryDisp: Electronic Components
+industryKey: electronic-components
+irWebsite: http://www.corning.com/investor_relations/index.aspx
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788134400
+lastDividendValue: 0.28
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 970617600
+lastSplitFactor: '3:1'
+longBusinessSummary: Corning Incorporated operates in optical communications, display,
+  specialty materials, automotive, and life sciences businesses in the United States,
+  Canada, Mexico, Japan, Taiwan, China, South Korea, Germany, and internationally.
+  The company provides optical fibers and cables; and hardware and equipment products,
+  such as cable assemblies, fiber optic hardware and connectors, optical components
+  and couplers, closures, network interface devices, and other accessories for the
+  telecommunications industry, businesses, governments, and individuals. It also offers
+  glass substrates for flat panel displays, including liquid crystal displays and
+  organic light-emitting diodes that are used in televisions, notebook computers,
+  desktop monitors, tablets, and handheld devices. In addition, it manufactures products
+  that offer material formulations for glass, glass ceramics, crystals, precision
+  metrology instruments, and software, as well as glass wafers and substrates, tinted
+  sunglasses, and radiation shielding products for markets, such as mobile consumer
+  electronics, semiconductor equipment optics and consumables, aerospace and defense
+  optics, radiation shielding products, sunglasses, and telecommunications components.
+  Further, the company provides ceramic substrates and filter products for emissions
+  control in mobile, gasoline, and diesel applications, as well as technical glass
+  and optic products and solutions for the interior and exterior of vehicles. Additionally,
+  it offers laboratory products, including plastic vessels, liquid handling plastics,
+  specialty surfaces, cell culture media, and serum, as well as general labware, and
+  glassware and equipment under the Corning, Falcon, PYREX, and Axygen brands. It
+  also offers polysilicon products and pharmaceutical glass tubing and vials. The
+  company was formerly known as Corning Glass Works and changed its name to Corning
+  Incorporated in April 1989. Corning Incorporated was founded in 1851 and is headquartered
+  in Corning, New York.
+longName: Corning Incorporated
+market: us_market
+marketCap: 104406122496
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_173840
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2150000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 96588906015
+numberOfAnalystOpinions: 17
+open: 119.54
+operatingCashflow: 4192000000
+operatingMargins: 0.16767
+overallRisk: 7
+payoutRatio: 0.45340002
+pegRatio: 0.67
+phone: 607-974-9000
+previousClose: 112.13
+priceEpsCurrentYear: 35.920578
+priceHint: 2
+priceToBook: 8.032673
+priceToSalesTrailing12Months: 5.8923264
+profitMargins: 0.12134
+quickRatio: 0.92
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: 9.075005
+regularMarketChangePercent: 8.093289
+regularMarketDayHigh: 122.74
+regularMarketDayLow: 116.5
+regularMarketDayRange: 116.5 - 122.74
+regularMarketOpen: 119.54
+regularMarketPreviousClose: 112.13
+regularMarketPrice: 121.205
+regularMarketTime: 1794413726
+regularMarketVolume: 3112768
+returnOnAssets: 0.05799
+returnOnEquity: 0.17875
+revenueGrowth: 0.184
+revenuePerShare: 20.615
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 6
+sharesOutstanding: 861401106
+sharesPercentSharesOut: 0.019199999
+sharesShort: 16554486
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 16842925
+shortName: Corning Incorporated
+shortPercentOfFloat: 0.0217
+shortRatio: 1.83
+sourceInterval: 15
+state: NY
+symbol: GLW
+targetHighPrice: 220.0
+targetLowPrice: 120.0
+targetMeanPrice: 177.35294
+targetMedianPrice: 180.0
+totalCash: 2536999936
+totalCashPerShare: 2.945
+totalDebt: 9171000320
+totalRevenue: 17718999040
+tradeable: false
+trailingAnnualDividendRate: 1.12
+trailingAnnualDividendYield: 0.009988407
+trailingEps: 2.47
+trailingPE: 49.07085
+trailingPegRatio: 0.6666
+triggerable: true
+twoHundredDayAverage: 156.4008
+twoHundredDayAverageChange: -35.1958
+twoHundredDayAverageChangePercent: -0.22503594
+typeDisp: Equity
+volume: 3112768
+website: https://www.corning.com
+zip: '14831'

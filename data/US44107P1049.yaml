@@ -1,0 +1,268 @@
+52WeekChange: 0.43576968
+SandP52WeekChange: 0.097798586
+address1: 4747 Bethesda Avenue
+address2: Suite 1300
+allTimeHigh: 38.160793
+allTimeLow: 3.009251
+ask: 27.27
+askSize: 1
+auditRisk: 3
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 10524420
+averageDailyVolume3Month: 8626517
+averageVolume: 8626517
+averageVolume10days: 10524420
+beta: 1.108
+bid: 24.67
+bidSize: 1
+boardRisk: 8
+bookValue: 9.256
+city: Bethesda
+companyOfficers:
+- age: 69
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James F. Risoleo
+  title: President, CEO & Director
+  totalPay: 5265344
+  unexercisedValue: 0
+  yearBorn: 1956
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sourav  Ghosh
+  title: Executive VP & CFO
+  totalPay: 2563186
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nathan S. Tyrrell
+  title: Executive VP & Chief Investment Officer
+  totalPay: 2426766
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie P. Aslaksen J.D.
+  title: Executive VP, General Counsel & Secretary
+  totalPay: 1946798
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael E. Lentz
+  title: Executive Vice President of Development, Design & Construction
+  totalPay: 1916460
+  unexercisedValue: 12023
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jaime N. Marcus
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Rock
+  title: Senior Vice President of Asset Management
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Deanne  Brand
+  title: Senior VP of Strategy & Analytics and Treasurer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Padmanabh  Yardi
+  title: Senior Vice President of Information Technology
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Raj  Contractor
+  title: Senior Vice President of Investments
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 25.81
+currentRatio: 5.399
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 26.015
+dayLow: 25.69
+debtToEquity: 86.104
+displayName: Host Hotels & Resorts
+dividendDate: 1792022400
+dividendRate: 0.8
+dividendYield: 3.09
+earningsCallTimestampEnd: 1793890800
+earningsCallTimestampStart: 1793890800
+earningsGrowth: -0.565
+earningsQuarterlyGrowth: -0.565
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1793826000
+earningsTimestampStart: 1793826000
+ebitda: 1714000000
+ebitdaMargins: 0.27411
+enterpriseToEbitda: 12.914
+enterpriseToRevenue: 3.54
+enterpriseValue: 22134095872
+epsCurrentYear: 1.41133
+epsForward: 1.12206
+epsTrailingTwelveMonths: 1.35
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 23.3482
+fiftyDayAverageChange: 2.4617996
+fiftyDayAverageChangePercent: 0.10543852
+fiftyTwoWeekChangePercent: 43.57697
+fiftyTwoWeekHigh: 26.19
+fiftyTwoWeekHighChange: -0.38000107
+fiftyTwoWeekHighChangePercent: -0.014509395
+fiftyTwoWeekLow: 16.77
+fiftyTwoWeekLowChange: 9.039999
+fiftyTwoWeekLowChangePercent: 0.5390578
+fiftyTwoWeekRange: 16.77 - 26.19
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 1.37
+floatShares: 674255230
+forwardEps: 1.12206
+forwardPE: 23.002337
+freeCashflow: 1364499968
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 162
+fulldayChange: -0.12000084
+fulldayChangePercent: -0.46278766
+fulldayPrice: 25.81
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.29458
+grossProfits: 1842000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.014680001
+heldPercentInstitutions: 1.05051
+impliedSharesOutstanding: 694553808
+industry: REIT - Hotel & Motel
+industryDisp: REIT - Hotel & Motel
+industryKey: reit-hotel-motel
+irWebsite: http://ir.hosthotels.com/phoenix.zhtml?c=60734&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 0.2
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1257292800
+lastSplitFactor: 10215:10000
+longBusinessSummary: Host Hotels & Resorts, Inc. is an S&P 500 company and is the
+  largest lodging real estate investment trust and one of the largest owners of luxury
+  and upper-upscale hotels. The Company currently owns 70 properties in the United
+  States and five properties internationally totaling approximately 41,300 rooms.
+  The Company also holds non-controlling interests in seven domestic joint ventures.
+  Guided by a disciplined approach to capital allocation and aggressive asset management,
+  the Company partners with premium brands such as Marriott, Ritz-Carlton, Westin,
+  W, The Luxury Collection, Hyatt, Fairmont, 1 Hotels, Hilton, Swissôtel, ibis and
+  Novotel, as well as independent brands. Host Hotels & Resorts, Inc. was established
+  in 1927 and was incorporated in Maryland.
+longName: Host Hotels & Resorts, Inc.
+market: us_market
+marketCap: 17926432768
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_29574
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 936000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 17766096713
+numberOfAnalystOpinions: 20
+open: 25.98
+operatingCashflow: 1732999936
+operatingMargins: 0.14969
+overallRisk: 8
+payoutRatio: 0.5926
+pegRatio: 3.83
+phone: 240 744 1000
+previousClose: 25.93
+priceEpsCurrentYear: 18.287714
+priceHint: 2
+priceToBook: 2.7884617
+priceToSalesTrailing12Months: 2.866853
+profitMargins: 0.14969
+quickRatio: 5.392
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.90476
+region: US
+regularMarketChange: -0.12000084
+regularMarketChangePercent: -0.46278766
+regularMarketDayHigh: 26.015
+regularMarketDayLow: 25.69
+regularMarketDayRange: 25.69 - 26.015
+regularMarketOpen: 25.98
+regularMarketPreviousClose: 25.93
+regularMarketPrice: 25.81
+regularMarketTime: 1794413735
+regularMarketVolume: 1156975
+returnOnAssets: 0.04536
+returnOnEquity: 0.14212
+revenueGrowth: 0.014
+revenuePerShare: 9.11
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 9
+sharesOutstanding: 685156063
+sharesPercentSharesOut: 0.057800002
+sharesShort: 39572688
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 39319368
+shortName: Host Hotels & Resorts, Inc.
+shortPercentOfFloat: 0.081
+shortRatio: 4.78
+sourceInterval: 15
+state: MD
+symbol: HST
+targetHighPrice: 30.0
+targetLowPrice: 23.0
+targetMeanPrice: 26.02783
+targetMedianPrice: 26.5
+totalCash: 1492000000
+totalCashPerShare: 2.178
+totalDebt: 5645000192
+totalRevenue: 6253000192
+tradeable: false
+trailingAnnualDividendRate: 0.8
+trailingAnnualDividendYield: 0.030852295
+trailingEps: 1.35
+trailingPE: 19.118517
+trailingPegRatio: 3.8318
+triggerable: true
+twoHundredDayAverage: 22.17465
+twoHundredDayAverageChange: 3.6353493
+twoHundredDayAverageChangePercent: 0.16394168
+typeDisp: Equity
+volume: 1156975
+website: https://www.hosthotels.com
+zip: 20814-1109

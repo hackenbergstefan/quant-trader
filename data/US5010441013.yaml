@@ -1,0 +1,275 @@
+52WeekChange: 0.04892969
+SandP52WeekChange: 0.097798586
+address1: 1014 Vine Street
+allTimeHigh: 76.58
+allTimeLow: 0.445313
+ask: 68.2
+askSize: 100
+auditRisk: 4
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 5539880
+averageDailyVolume3Month: 6911053
+averageVolume: 6911053
+averageVolume10days: 5539880
+beta: 0.356
+bid: 68.15
+bidSize: 200
+boardRisk: 7
+bookValue: 9.799
+city: Cincinnati
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David John Christopher Kennerley
+  title: Executive VP & CFO
+  totalPay: 2682419
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 49
+  exercisedValue: 4185414
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mary Ellen Adcock
+  title: Executive VP and Chief Merchant & Marketing Officer
+  totalPay: 1785136
+  unexercisedValue: 1848387
+  yearBorn: 1976
+- age: 51
+  exercisedValue: 9414072
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Yael  Cosset
+  title: Executive VP & Chief Digital Officer
+  totalPay: 2128474
+  unexercisedValue: 3055168
+  yearBorn: 1974
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory S. Foran
+  title: CEO & Director
+  unexercisedValue: 0
+  yearBorn: 1961
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robinson C. Quast CPA
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. George H. Vincent Esq., J.D.
+  title: Executive VP, Secretary & General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Emilee F. Demartino
+  title: Executive VP & Chief People Officer
+  unexercisedValue: 0
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Keith G. Dailey
+  title: Group VP of Corporate Affairs,
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Marx
+  title: Senior Vice President of Retail Divisions
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew  Perin
+  title: Head of Government Relations & Regulatory Affairs
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions:
+- header: Dividend
+  message: KR announced a cash dividend of $0.39 with an ex-date of Nov. 16, 2026
+  meta:
+    amount: '0.39'
+    dateEpochMs: 1794805200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 68.435
+currentRatio: 0.702
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 68.53
+dayLow: 67.6903
+debtToEquity: 413.24
+displayName: Kroger
+dividendDate: 1796083200
+dividendRate: 1.56
+dividendYield: 2.27
+earningsCallTimestampEnd: 1741273200
+earningsCallTimestampStart: 1741273200
+earningsGrowth: 0.153
+earningsQuarterlyGrowth: 0.053
+earningsTimestamp: 1796304600
+earningsTimestampEnd: 1796304600
+earningsTimestampStart: 1796304600
+ebitda: 8042999808
+ebitdaMargins: 0.05386
+enterpriseToEbitda: 7.833
+enterpriseToRevenue: 0.422
+enterpriseValue: 63002386432
+epsCurrentYear: 5.18948
+epsForward: 5.4808
+epsTrailingTwelveMonths: 1.8
+esgPopulated: false
+exDividendDate: 1794787200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 62.076
+fiftyDayAverageChange: 6.3589973
+fiftyDayAverageChangePercent: 0.102438904
+fiftyTwoWeekChangePercent: 4.892969
+fiftyTwoWeekHigh: 76.58
+fiftyTwoWeekHighChange: -8.145004
+fiftyTwoWeekHighChangePercent: -0.106359415
+fiftyTwoWeekLow: 54.15
+fiftyTwoWeekLowChange: 14.284996
+fiftyTwoWeekLowChangePercent: 0.26380417
+fiftyTwoWeekRange: 54.15 - 76.58
+financialCurrency: USD
+firstTradeDateMilliseconds: -252322200000
+fiveYearAvgDividendYield: 2.01
+floatShares: 587877898
+forwardEps: 5.4808
+forwardPE: 12.486315
+freeCashflow: 2535500032
+fullExchangeName: NYSE
+fullTimeEmployees: 400000
+fulldayChange: -0.16500092
+fulldayChangePercent: -0.24052612
+fulldayPrice: 68.435
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.23900999
+grossProfits: 35690999808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.06861
+heldPercentInstitutions: 0.86474997
+impliedSharesOutstanding: 590588700
+industry: Grocery Stores
+industryDisp: Grocery Stores
+industryKey: grocery-stores
+irWebsite: http://www.thekrogerco.com/finance/financialinfo.htm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.39
+lastFiscalYearEnd: 1769817600
+lastSplitDate: 1436832000
+lastSplitFactor: '2:1'
+longBusinessSummary: The Kroger Co. operates as a food and drug retailer in the United
+  States. The company operates combination food and drug stores, multi-department
+  stores, marketplace stores, and price impact warehouses. Its combination food and
+  drug stores offer natural food and organic sections, pharmacies, general merchandise,
+  pet centers, fresh seafood, and organic produce; and its multi-department stores
+  provide apparel, home fashion and furnishings, outdoor living, electronics, automotive
+  products, and toys. The company's marketplace stores offer full-service grocery,
+  pharmacy, health and beauty care, and perishable goods, as well as general merchandise,
+  including apparel, home goods, and toys; and its price impact warehouse stores provide
+  grocery, and health and beauty care items, as well as meat, dairy, baked goods,
+  and fresh produce items. It also manufactures and processes food products for sale
+  in its supermarkets and online; and sells fuel through its fuel centers. The company
+  sells its products through its stores, fuel centers, and online platforms. The Kroger
+  Co. was founded in 1883 and is based in Cincinnati, Ohio.
+longName: The Kroger Co.
+market: us_market
+marketCap: 40416935936
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_284342
+mostRecentQuarter: 1786752000
+netIncomeToCommon: 1078000000
+nextFiscalYearEnd: 1801353600
+nonDilutedMarketCap: 40514384820
+numberOfAnalystOpinions: 22
+open: 67.54
+operatingCashflow: 6707999744
+operatingMargins: 0.03204
+overallRisk: 7
+payoutRatio: 0.77779996
+pegRatio: 0.66
+phone: 513 762 4000
+previousClose: 68.6
+priceEpsCurrentYear: 13.187256
+priceHint: 2
+priceToBook: 6.9838758
+priceToSalesTrailing12Months: 0.2706624
+profitMargins: 0.0072600003
+quickRatio: 0.21
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -0.16500092
+regularMarketChangePercent: -0.24052612
+regularMarketDayHigh: 68.53
+regularMarketDayLow: 67.6903
+regularMarketDayRange: 67.6903 - 68.53
+regularMarketOpen: 67.54
+regularMarketPreviousClose: 68.6
+regularMarketPrice: 68.435
+regularMarketTime: 1794413746
+regularMarketVolume: 676111
+returnOnAssets: 0.05801
+returnOnEquity: 0.14442
+revenueGrowth: 0.02
+revenuePerShare: 238.35
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 7
+sharesOutstanding: 590588700
+sharesPercentSharesOut: 0.049200002
+sharesShort: 29065349
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 31357280
+shortName: Kroger Company (The)
+shortPercentOfFloat: 0.0494
+shortRatio: 4.26
+sourceInterval: 15
+state: OH
+symbol: KR
+targetHighPrice: 85.0
+targetLowPrice: 57.0
+targetMeanPrice: 69.27273
+targetMedianPrice: 69.0
+totalCash: 1676000000
+totalCashPerShare: 2.838
+totalDebt: 24157999104
+totalRevenue: 149326004224
+tradeable: false
+trailingAnnualDividendRate: 1.44
+trailingAnnualDividendYield: 0.020991255
+trailingEps: 1.8
+trailingPE: 38.019444
+trailingPegRatio: 0.6572
+triggerable: true
+twoHundredDayAverage: 63.8207
+twoHundredDayAverageChange: 4.614296
+twoHundredDayAverageChangePercent: 0.072300926
+typeDisp: Equity
+volume: 676111
+website: https://www.thekrogerco.com
+zip: '45202'

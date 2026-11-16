@@ -1,0 +1,225 @@
+52WeekChange: 0.12136412
+SandP52WeekChange: 0.097798586
+address1: Crane Court
+address2: Hesslewood Country Office Park Ferriby Road
+allTimeHigh: 5810.0
+allTimeLow: 28.303
+ask: 5510.0
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.3 - Strong Buy
+averageDailyVolume10Day: 133322
+averageDailyVolume3Month: 144474
+averageVolume: 144474
+averageVolume10days: 133322
+beta: 0.562
+bid: 5500.0
+bidSize: 0
+boardRisk: 7
+bookValue: 20.354
+city: Hessle
+companyOfficers:
+- age: 57
+  exercisedValue: 2060373
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Adam Hartley Couch
+  title: CEO & Executive Director
+  totalPay: 3055000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 62
+  exercisedValue: 1370563
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. John Mark Bottomley B.Sc., F.C.A.
+  title: CFO & Executive Director
+  totalPay: 1723000
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 53
+  exercisedValue: 1373921
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Christopher  Aldersley
+  title: Executive Director & COO
+  totalPay: 1721000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 51
+  exercisedValue: 1373921
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. James  Brisby
+  title: Chief Commercial Officer & Executive Director
+  totalPay: 1723000
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Steven Garrick Glover LLB
+  title: Company Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 4
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 5510.0
+currentRatio: 1.765
+customPriceAlertConfidence: LOW
+dayHigh: 5600.0
+dayLow: 5490.0
+debtToEquity: 23.262
+dividendRate: 1.13
+dividendYield: 2.01
+earningsCallTimestampEnd: 1747729800
+earningsCallTimestampStart: 1747729800
+earningsGrowth: 0.16
+earningsQuarterlyGrowth: 0.152
+earningsTimestamp: 1795537800
+earningsTimestampEnd: 1795537800
+earningsTimestampStart: 1795537800
+ebitda: 314900000
+ebitdaMargins: 0.105579995
+enterpriseToEbitda: 10.262
+enterpriseToRevenue: 1.084
+enterpriseValue: 3231548672
+epsCurrentYear: 3.1679
+epsForward: 3.38673
+epsTrailingTwelveMonths: 2.9
+esgPopulated: false
+exDividendDate: 1784160000
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 5183.0
+fiftyDayAverageChange: 327.0
+fiftyDayAverageChangePercent: 0.063090876
+fiftyTwoWeekChangePercent: 12.136412
+fiftyTwoWeekHigh: 5810.0
+fiftyTwoWeekHighChange: -300.0
+fiftyTwoWeekHighChangePercent: -0.051635113
+fiftyTwoWeekLow: 4775.0
+fiftyTwoWeekLowChange: 735.0
+fiftyTwoWeekLowChangePercent: 0.1539267
+fiftyTwoWeekRange: 4775.0 - 5810.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 2.06
+floatShares: 51449437
+forwardEps: 3.38673
+forwardPE: 16.26938
+freeCashflow: 53162500
+fullExchangeName: LSE
+fullTimeEmployees: 12902
+fulldayChange: -80.0
+fulldayChangePercent: -1.4311271
+fulldayPrice: 5510.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.15876001
+grossProfits: 473500000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.03505
+heldPercentInstitutions: 0.73056
+impliedSharesOutstanding: 53509745
+industry: Packaged Foods
+industryDisp: Packaged Foods
+industryKey: packaged-foods
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1784160000
+lastDividendValue: 0.855
+lastFiscalYearEnd: 1774656000
+lastSplitDate: 1027987200
+lastSplitFactor: '2:1'
+longBusinessSummary: Cranswick plc engages in the production and supply of food products
+  to grocery retailers, food service sector, and other food producers in the United
+  Kingdom, Continental Europe, and internationally. The company offers fresh pork,
+  gourmet sausages, gourmet bacon and gammon, fresh and coated chicken, ready to eat
+  chicken, gourmet pastries, charcuterie, houmous and dips, cooked meats, olives and
+  antipasti, and cheese, as well as provides food services, such as culinary solutions
+  for pubs, restaurants, quick service restaurants, and coffee shops. It also offers
+  mediterranean food products; olives, olive oil, nuts, grains, and pulses under the
+  Cypressa brand; snacks and sharing boxes under the Bodega brand; and pet food and
+  supplies under the Vitalin and Alpha Feeds, as well as operates export business.
+  The company was incorporated in 1972 and is based in Hessle, the United Kingdom.
+longName: Cranswick plc
+market: gb_market
+marketCap: 2948387072
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_877480
+mostRecentQuarter: 1774656000
+netIncomeToCommon: 158300000
+nextFiscalYearEnd: 1806192000
+nonDilutedMarketCap: 2991194745
+numberOfAnalystOpinions: 10
+open: 5490.0
+operatingCashflow: 275000000
+operatingMargins: 0.07896
+overallRisk: 5
+payoutRatio: 0.3549
+pegRatio: 2.86
+phone: 44 14 8227 5000
+previousClose: 5590.0
+priceEpsCurrentYear: 1739.3225
+priceHint: 2
+priceToBook: 2.7070847
+priceToSalesTrailing12Months: 0.9885623
+profitMargins: 0.05308
+quickRatio: 1.079
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.3
+region: US
+regularMarketChange: -80.0
+regularMarketChangePercent: -1.4311271
+regularMarketDayHigh: 5600.0
+regularMarketDayLow: 5490.0
+regularMarketDayRange: 5490.0 - 5600.0
+regularMarketOpen: 5490.0
+regularMarketPreviousClose: 5590.0
+regularMarketPrice: 5510.0
+regularMarketTime: 1794411215
+regularMarketVolume: 87449
+returnOnAssets: 0.090059996
+returnOnEquity: 0.15245
+revenueGrowth: 0.087
+revenuePerShare: 55.746
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 1
+sharesOutstanding: 53509745
+shortName: CRANSWICK PLC ORD 10P
+sourceInterval: 15
+symbol: CWK.L
+targetHighPrice: 6750.0
+targetLowPrice: 6080.0
+targetMeanPrice: 6350.5
+targetMedianPrice: 6290.0
+totalCash: 12500000
+totalCashPerShare: 0.234
+totalDebt: 253300000
+totalRevenue: 2982500096
+tradeable: false
+trailingAnnualDividendRate: 1.125
+trailingAnnualDividendYield: 0.00020125223
+trailingEps: 2.9
+trailingPE: 18.999998
+trailingPegRatio: 2.8567
+triggerable: false
+twoHundredDayAverage: 5324.144
+twoHundredDayAverageChange: 185.85596
+twoHundredDayAverageChangePercent: 0.03490814
+typeDisp: Equity
+volume: 87449
+website: https://www.cranswick.plc.uk
+zip: HU13 0PA

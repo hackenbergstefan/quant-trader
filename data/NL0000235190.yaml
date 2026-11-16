@@ -1,0 +1,243 @@
+52WeekChange: -0.017688692
+SandP52WeekChange: 0.097798586
+address1: PO Box 32008
+allTimeHigh: 221.3
+allTimeLow: 6.33
+ask: 0.0
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1259591
+averageDailyVolume3Month: 1015580
+averageVolume: 1015580
+averageVolume10days: 1259591
+beta: 0.861
+bid: 0.0
+bidSize: 0
+boardRisk: 1
+bookValue: 33.887
+city: Leiden
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Guillaume M. J. D. Faury
+  title: CEO & Executive Director
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 53
+  exercisedValue: 0
+  maxAge: 1
+  name: Dr. Thomas  Toepfer Ph.D.
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Benoit  Klein
+  title: Executive Vice President Operations
+  unexercisedValue: 0
+- age: 45
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Remi  Maillard
+  title: EVP of Engineering for Commercial Aircraft Business & Head of Technology
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  maxAge: 1
+  name: Jean-Christophe  Henoux
+  title: Head of Investor Relations & Financial Communication
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. John  Harrison
+  title: General Counsel & Head of Airbus Public Affairs
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  maxAge: 1
+  name: Ms. Julie  Kitcher
+  title: Chief Sustainability Officer & Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Ms. Carmen-Maja  Rex
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+- age: 64
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Didier  Lux
+  title: Head of Customer Services & Senior VP
+  unexercisedValue: 0
+  yearBorn: 1961
+- exercisedValue: 0
+  maxAge: 1
+  name: Geneviève  Laurens-Chassagne
+  title: Head of Supplier Support Management
+  unexercisedValue: 0
+compensationRisk: 1
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 209.35
+currentRatio: 1.154
+customPriceAlertConfidence: LOW
+dayHigh: 211.5
+dayLow: 208.15
+debtToEquity: 51.538
+dividendRate: 3.2
+dividendYield: 1.54
+earningsCallTimestampEnd: 1793212200
+earningsCallTimestampStart: 1793212200
+earningsGrowth: 0.206
+earningsQuarterlyGrowth: 0.204
+earningsTimestamp: 1793205000
+earningsTimestampEnd: 1793205000
+earningsTimestampStart: 1793205000
+ebitda: 8970999808
+ebitdaMargins: 0.11707
+enterpriseToEbitda: 18.543
+enterpriseToRevenue: 2.171
+enterpriseValue: 166348652544
+epsCurrentYear: 7.32035
+epsForward: 8.66899
+epsTrailingTwelveMonths: 7.8
+esgPopulated: false
+exDividendDate: 1776729600
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 194.3358
+fiftyDayAverageChange: 15.014206
+fiftyDayAverageChangePercent: 0.077259086
+fiftyTwoWeekChangePercent: -1.7688692
+fiftyTwoWeekHigh: 221.3
+fiftyTwoWeekHighChange: -11.949997
+fiftyTwoWeekHighChangePercent: -0.05399908
+fiftyTwoWeekLow: 157.42
+fiftyTwoWeekLowChange: 51.930008
+fiftyTwoWeekLowChangePercent: 0.3298819
+fiftyTwoWeekRange: 157.42 - 221.3
+financialCurrency: EUR
+firstTradeDateMilliseconds: 999500400000
+fiveYearAvgDividendYield: 1.28
+floatShares: 703621967
+forwardEps: 8.66899
+forwardPE: 24.149296
+freeCashflow: 978875008
+fullExchangeName: Paris
+fullTimeEmployees: 171027
+fulldayChange: 1.1000061
+fulldayChangePercent: 0.52827764
+fulldayPrice: 209.35
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.16653
+grossProfits: 12760999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.257
+heldPercentInstitutions: 0.38321
+impliedSharesOutstanding: 789141199
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+irWebsite: http://www.eads.com/eads/int/en/investor-relations.html
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776729600
+lastDividendValue: 3.2
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Airbus SE, together with its subsidiaries, engages in the design,
+  manufacture, and delivery of aeronautics and aerospace products, services, and solutions
+  worldwide. It operates through three segments: Airbus, Airbus Helicopters, and Airbus
+  Defence and Space. The Airbus segment develops, manufactures, markets, and sells
+  commercial jet passenger aircraft, freighter aircraft, regional turboprop aircraft,
+  and aircraft components, as well as provides aircraft conversion and related services.
+  The Airbus Helicopters segment develops, manufactures, markets, and sells civil
+  and military helicopters; and provides uncrewed aerial systems and their related
+  services. The Airbus Defence and Space segment designs, develops, delivers, and
+  supports crewed and uncrewed military air systems and related services. This segment
+  also offers civil and defence space systems for telecommunications, earth observations,
+  navigation, and science and orbital systems; and services around data processing
+  from platforms, secure communication, and cyber security. The company was formerly
+  known as Airbus Group SE and changed its name to Airbus SE in April 2017. The company
+  was incorporated in 1998 and is headquartered in Leiden, the Netherlands.'
+longName: Airbus SE
+market: fr_market
+marketCap: 165206704128
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_561001
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 6167000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 162563086994
+numberOfAnalystOpinions: 24
+open: 210.75
+operatingCashflow: 7894000128
+operatingMargins: 0.08767
+overallRisk: 1
+payoutRatio: 0.4103
+pegRatio: 1.5
+previousClose: 208.25
+priceEpsCurrentYear: 28.59836
+priceHint: 2
+priceToBook: 6.1778855
+priceToSalesTrailing12Months: 2.1559293
+profitMargins: 0.08048
+quickRatio: 0.335
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.79167
+region: US
+regularMarketChange: 1.1000061
+regularMarketChangePercent: 0.52827764
+regularMarketDayHigh: 211.5
+regularMarketDayLow: 208.15
+regularMarketDayRange: 208.15 - 211.5
+regularMarketOpen: 210.75
+regularMarketPreviousClose: 208.25
+regularMarketPrice: 209.35
+regularMarketTime: 1794411559
+regularMarketVolume: 331982
+returnOnAssets: 0.03112
+returnOnEquity: 0.23534
+revenueGrowth: -0.02
+revenuePerShare: 97.048
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 7
+sharesOutstanding: 789141199
+shortName: AIRBUS SE
+sourceInterval: 15
+symbol: AIR.PA
+targetHighPrice: 263.0
+targetLowPrice: 186.0
+targetMeanPrice: 231.54167
+targetMedianPrice: 233.5
+totalCash: 11900999680
+totalCashPerShare: 15.081
+totalDebt: 13825999872
+totalRevenue: 76629000192
+tradeable: false
+trailingAnnualDividendRate: 3.2
+trailingAnnualDividendYield: 0.015366146
+trailingEps: 7.8
+trailingPE: 26.839745
+trailingPegRatio: 1.4964
+triggerable: false
+twoHundredDayAverage: 187.7295
+twoHundredDayAverageChange: 21.620499
+twoHundredDayAverageChangePercent: 0.115168355
+typeDisp: Equity
+volume: 331982
+website: https://www.airbus.com
+zip: 2303 DA

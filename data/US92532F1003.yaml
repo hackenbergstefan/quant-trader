@@ -1,0 +1,284 @@
+52WeekChange: 0.26186693
+SandP52WeekChange: 0.097798586
+address1: 50 Northern Avenue
+allTimeHigh: 568.67
+allTimeLow: 3.25
+ask: 545.85
+askSize: 1
+auditRisk: 5
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 1946940
+averageDailyVolume3Month: 1242201
+averageVolume: 1242201
+averageVolume10days: 1946940
+beta: 0.28
+bid: 543.14
+bidSize: 1
+boardRisk: 6
+bookValue: 82.468
+city: Boston
+companyOfficers:
+- age: 69
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jeffrey Marc Leiden M.D., Ph.D.
+  title: Executive Chairman
+  unexercisedValue: 0
+  yearBorn: 1956
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Reshma  Kewalramani FASN, M.D.
+  title: CEO, President & Director
+  totalPay: 6141991
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles F. Wagner Jr.
+  title: Executive VP, COO & CFO
+  totalPay: 2990992
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Amit K. Sachdev J.D.
+  title: Executive VP & Chief Patient and External Affairs Officer
+  totalPay: 1876721
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Ourania  Tatsis Ph.D.
+  title: Executive VP & Chief Product Affairs Officer
+  totalPay: 2074398
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Carmen  Bozic M.D.
+  title: Executive VP of Global Medicines Development & Medical Affairs and Chief
+    Medical Officer
+  totalPay: 2270790
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristen C. Ambrose CPA
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Mark  Bunnage D.Phil
+  title: Executive VP & Chief Scientific Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Susie  Lisa C.F.A.
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Joy  Liu J.D.
+  title: EVP, Chief Legal Officer & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1978
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 540.625
+currentRatio: 2.337
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 545.32
+dayLow: 535.46
+debtToEquity: 30.986
+displayName: Vertex Pharmaceuticals
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793655000
+earningsCallTimestampStart: 1793655000
+earningsGrowth: -0.39
+earningsQuarterlyGrowth: -0.396
+earningsTimestamp: 1793653200
+earningsTimestampEnd: 1793653200
+earningsTimestampStart: 1793653200
+ebitda: 5100800000
+ebitdaMargins: 0.39384
+enterpriseToEbitda: 27.267
+enterpriseToRevenue: 10.739
+enterpriseValue: 139085856768
+epsCurrentYear: 18.1198
+epsForward: 19.91796
+epsTrailingTwelveMonths: 15.54
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 523.0496
+fiftyDayAverageChange: 17.575378
+fiftyDayAverageChangePercent: 0.033601742
+fiftyTwoWeekChangePercent: 26.186693
+fiftyTwoWeekHigh: 568.67
+fiftyTwoWeekHighChange: -28.044983
+fiftyTwoWeekHighChangePercent: -0.049316797
+fiftyTwoWeekLow: 412.27
+fiftyTwoWeekLowChange: 128.35501
+fiftyTwoWeekLowChangePercent: 0.31133726
+fiftyTwoWeekRange: 412.27 - 568.67
+financialCurrency: USD
+firstTradeDateMilliseconds: 680362200000
+floatShares: 252761849
+forwardEps: 19.91796
+forwardPE: 27.14259
+freeCashflow: 2337787392
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 6400
+fulldayChange: -7.2650146
+fulldayChangePercent: -1.3259988
+fulldayPrice: 540.625
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.54809
+grossProfits: 7098699776
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00214
+heldPercentInstitutions: 0.98428
+impliedSharesOutstanding: 253537674
+industry: Biotechnology
+industryDisp: Biotechnology
+industryKey: biotechnology
+irWebsite: http://www.vrtx.com/finances.html
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 967075200
+lastSplitFactor: '2:1'
+longBusinessSummary: Vertex Pharmaceuticals Incorporated operates as a biotechnology
+  company in the United States, Europe, and internationally. The company offers transformative
+  medicines for people with serious diseases with a focus on specialty markets, such
+  as cystic fibrosis (CF), sickle cell disease (SCD), transfusion dependent beta thalassemia
+  (TDT), and acute pain. It markets TRIKAFTA/KAFTRIO for people with CF with at least
+  one F508del mutation for 2 years of age and older; ALYFTREK for the treatment for
+  people with CF 6 years of age and older; SYMDEKO/SYMKEVI for treatment of patients
+  with CF 6 years of age and older; ORKAMBI for CF patients 1 year or older; and KALYDECO
+  for the treatment of patients with 1 month or older who have CF with ivacaftor.
+  The company also develops CASGEVY for the treatment of SCD and TDT; JOURNAVX for
+  the treatment of acute pain in adults; VX-522, a CFTR mRNA therapeutic designed
+  to treat the underlying cause of CF, which is in Phase 1/2 clinical trial; inaxaplin
+  for the treatment of APOL1-mediated kidney disease, which is in single Phase 2 trial;
+  VX-264 for treating Type 1 Diabetes; VX-670 for the treatment of myotonic dystrophy
+  type 1; and VX-407, a small molecule corrector for the treatment of autosomal dominant
+  polycystic kidney disease. In addition, the company also operates as a clinical-stage
+  pharmaceutical company, that focuses on the discovery, development, and commercialization
+  of novel therapeutics for rare endocrine diseases and endocrine-related tumors.
+  The company sells its products primarily to specialty pharmacy and distributors,
+  wholesalers, retail pharmacies, hospitals, and clinics. Vertex Pharmaceuticals Incorporated
+  has a strategic collaboration with AbCellera Biologics Inc. to research, develop,
+  manufacture, and commercialize multispecific T-cell engagers (TCEs) for autoimmune
+  diseases and other conditions. Vertex Pharmaceuticals Incorporated was founded in
+  1989 and is headquartered in Boston, Massachusetts.
+longName: Vertex Pharmaceuticals Incorporated
+market: us_market
+marketCap: 137068806144
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_36235
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3975899904
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 138910756207
+numberOfAnalystOpinions: 28
+open: 543.96
+operatingCashflow: 3694599936
+operatingMargins: 0.37792
+overallRisk: 6
+payoutRatio: 0.0
+pegRatio: 2.39
+phone: 617 341 6100
+previousClose: 547.89
+priceEpsCurrentYear: 29.836145
+priceHint: 2
+priceToBook: 6.555573
+priceToSalesTrailing12Months: 10.583157
+profitMargins: 0.30698
+quickRatio: 1.723
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.625
+region: US
+regularMarketChange: -7.2650146
+regularMarketChangePercent: -1.3259988
+regularMarketDayHigh: 545.32
+regularMarketDayLow: 535.46
+regularMarketDayRange: 535.46 - 545.32
+regularMarketOpen: 543.96
+regularMarketPreviousClose: 547.89
+regularMarketPrice: 540.625
+regularMarketTime: 1794413757
+regularMarketVolume: 226515
+returnOnAssets: 0.10622
+returnOnEquity: 0.20802
+revenueGrowth: 0.118
+revenuePerShare: 51.056
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 6
+sharesOutstanding: 253537674
+sharesPercentSharesOut: 0.019
+sharesShort: 4811837
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4503200
+shortName: Vertex Pharmaceuticals Incorpor
+shortPercentOfFloat: 0.0214
+shortRatio: 3.55
+sourceInterval: 15
+state: MA
+symbol: VRTX
+targetHighPrice: 725.0
+targetLowPrice: 350.0
+targetMeanPrice: 595.3571
+targetMedianPrice: 609.5
+totalCash: 6303300096
+totalCashPerShare: 24.861
+totalDebt: 6478400000
+totalRevenue: 12951600128
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 15.54
+trailingPE: 34.789253
+trailingPegRatio: 2.3925
+triggerable: true
+twoHundredDayAverage: 482.33994
+twoHundredDayAverageChange: 58.285065
+twoHundredDayAverageChangePercent: 0.12083815
+typeDisp: Equity
+volume: 226515
+website: https://www.vrtx.com
+zip: '02210'

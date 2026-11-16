@@ -1,0 +1,246 @@
+52WeekChange: 0.31868136
+SandP52WeekChange: 0.097798586
+address1: 10-11 Charterhouse Square
+allTimeHigh: 7980.0
+allTimeLow: 34.0
+ask: 7320.0
+askSize: 0
+auditRisk: 4
+averageDailyVolume10Day: 472520
+averageDailyVolume3Month: 667205
+averageVolume: 667205
+averageVolume10days: 472520
+beta: 0.923
+bid: 7315.0
+bidSize: 0
+boardRisk: 1
+bookValue: 7.838
+city: London
+companyOfficers:
+- age: 53
+  exercisedValue: 2528831
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathan David Thomson
+  title: CEO & Director
+  totalPay: 2824000
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wilson  Ng
+  title: Group CFO, Group Financial Controller & Director
+  totalPay: 520552
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Holly  Gillis
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anna  Lawrence
+  title: Group General Counsel & Company Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Steve  Sargeant
+  title: Group Corporate Development Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Donna  Catley
+  title: Group HR Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Neil  Yazdani
+  title: Chief Executive Officer of North American Seals Sector
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Goode
+  title: Sector CEO of International Controls
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alessandro  Lala
+  title: Sector Chief Executive Officer of International Seals
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Phillip  Pratt
+  title: Group Sustainability Director
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 7320.0
+currentRatio: 2.059
+customPriceAlertConfidence: LOW
+dayHigh: 7345.0
+dayLow: 7260.0
+debtToEquity: 47.45
+dividendRate: 0.63
+dividendYield: 0.88
+earningsCallTimestampEnd: 1794933000
+earningsCallTimestampStart: 1794933000
+earningsGrowth: 0.045
+earningsQuarterlyGrowth: 0.047
+earningsTimestamp: 1794933000
+earningsTimestampEnd: 1794933000
+earningsTimestampStart: 1794933000
+ebitda: 400000000
+ebitdaMargins: 0.24285
+enterpriseToEbitda: 25.257
+enterpriseToRevenue: 6.134
+enterpriseValue: 10102681600
+epsCurrentYear: 2.51526
+epsForward: 2.64568
+epsTrailingTwelveMonths: 1.41
+esgPopulated: false
+exDividendDate: 1779926400
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 7424.1
+fiftyDayAverageChange: -104.1001
+fiftyDayAverageChangePercent: -0.014021914
+fiftyTwoWeekChangePercent: 31.868135
+fiftyTwoWeekHigh: 7980.0
+fiftyTwoWeekHighChange: -660.0
+fiftyTwoWeekHighChangePercent: -0.082706764
+fiftyTwoWeekLow: 4970.0
+fiftyTwoWeekLowChange: 2350.0
+fiftyTwoWeekLowChangePercent: 0.47283703
+fiftyTwoWeekRange: 4970.0 - 7980.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 1.34
+floatShares: 133350089
+forwardEps: 2.64568
+forwardPE: 27.667747
+freeCashflow: 244275008
+fullExchangeName: LSE
+fullTimeEmployees: 3400
+fulldayChange: 120.0
+fulldayChangePercent: 1.6666666
+fulldayPrice: 7320.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.4752
+grossProfits: 782700032
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00494
+heldPercentInstitutions: 0.83265996
+impliedSharesOutstanding: 134094839
+industry: Industrial Distribution
+industryDisp: Industrial Distribution
+industryKey: industrial-distribution
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779926400
+lastDividendValue: 0.191
+lastFiscalYearEnd: 1759190400
+lastSplitDate: 1200873600
+lastSplitFactor: '4:1'
+longBusinessSummary: 'Diploma PLC, together with its subsidiaries, supplies specialized
+  technical products and services in the United Kingdom, Europe, North America, and
+  internationally. It operates through three business sectors: Controls, Seals, and
+  Life Sciences. The Controls sector offers wire and cabling, interconnect, specialty
+  fasteners, specialty adhesive and industrial automation solutions for various applications.
+  The Seals sector supplies sealing and fluid power products, gaskets, hoses and fittings,
+  pumps and valves, and solutions for aftermarket repairs, original equipment manufacturing,
+  and maintenance, repair and overhaul projects. The Life Sciences sector supplies
+  and services equipment; provides consumables and instrumentation for surgery, diagnosis
+  of disease, and critical care support; and supplies diagnostic and scientific technologies,
+  surgical instruments, medical devices, endoscopes, patient monitoring equipment,
+  specialist hospital supplies, and clinical nutrition. It serves public and private
+  hospitals, clinics and diagnostics laboratories. Diploma PLC was incorporated in
+  1999 and is based in London, the United Kingdom.'
+longName: Diploma PLC
+market: gb_market
+marketCap: 9815742464
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_876539
+mostRecentQuarter: 1774915200
+netIncomeToCommon: 189400000
+nextFiscalYearEnd: 1790726400
+nonDilutedMarketCap: 9654828408
+numberOfAnalystOpinions: 16
+open: 7275.0
+operatingCashflow: 283900000
+operatingMargins: 0.19507
+overallRisk: 2
+payoutRatio: 0.4425
+phone: 44 20 7549 5700
+previousClose: 7200.0
+priceEpsCurrentYear: 2910.2358
+priceHint: 2
+priceToBook: 9.339117
+priceToSalesTrailing12Months: 5.9594088
+profitMargins: 0.114989996
+quickRatio: 1.007
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 120.0
+regularMarketChangePercent: 1.6666666
+regularMarketDayHigh: 7345.0
+regularMarketDayLow: 7260.0
+regularMarketDayRange: 7260.0 - 7345.0
+regularMarketOpen: 7275.0
+regularMarketPreviousClose: 7200.0
+regularMarketPrice: 7320.0
+regularMarketTime: 1794411533
+regularMarketVolume: 226143
+returnOnAssets: 0.10781
+returnOnEquity: 0.18952999
+revenueGrowth: 0.168
+revenuePerShare: 12.276
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 134094839
+shortName: DIPLOMA PLC ORD 5P
+sourceInterval: 15
+symbol: DPLM.L
+targetHighPrice: 9000.0
+targetLowPrice: 7000.0
+targetMeanPrice: 8329.375
+targetMedianPrice: 8500.0
+totalCash: 68700000
+totalCashPerShare: 0.512
+totalDebt: 501400000
+totalRevenue: 1647100032
+tradeable: false
+trailingAnnualDividendRate: 0.632
+trailingAnnualDividendYield: 8.777778e-05
+trailingEps: 1.41
+trailingPE: 51.914894
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 6831.4985
+twoHundredDayAverageChange: 488.50146
+twoHundredDayAverageChangePercent: 0.07150722
+typeDisp: Equity
+volume: 226143
+website: https://www.diplomaplc.com
+zip: EC1M 6EE

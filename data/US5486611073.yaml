@@ -1,0 +1,274 @@
+52WeekChange: -0.01205796
+SandP52WeekChange: 0.097798586
+address1: 1000 Lowes Boulevard
+allTimeHigh: 293.06
+allTimeLow: 0.328125
+ask: 228.34
+askSize: 100
+auditRisk: 4
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 3596940
+averageDailyVolume3Month: 3286568
+averageVolume: 3286568
+averageVolume10days: 3596940
+beta: 0.811
+bid: 228.21
+bidSize: 100
+boardRisk: 5
+bookValue: -13.257
+city: Mooresville
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marvin R. Ellison
+  title: President, CEO & Chairman
+  totalPay: 4838527
+  unexercisedValue: 74083552
+  yearBorn: 1965
+- age: 49
+  exercisedValue: 516176
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brandon J. Sink CPA
+  title: Executive VP & CFO
+  totalPay: 1814175
+  unexercisedValue: 2449951
+  yearBorn: 1976
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Seemantini  Godbole
+  title: Executive VP and Chief Information & AI Officer
+  totalPay: 1801639
+  unexercisedValue: 2518895
+  yearBorn: 1970
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William P. Boltz
+  title: Executive Vice President of Merchandising
+  totalPay: 1935156
+  unexercisedValue: 2963136
+  yearBorn: 1963
+- age: 55
+  exercisedValue: 6945033
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph Michael McFarland III
+  title: Executive Vice President of Pro & Home Services
+  totalPay: 1849858
+  unexercisedValue: 15674549
+  yearBorn: 1970
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dan Clayton Griggs Jr.
+  title: Senior VP of Tax & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shelly  Hubbard
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Juliette Williams Pryor J.D.
+  title: Executive VP, Chief Legal Officer & Corporate Secretary
+  totalPay: 4257676
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Luis A. Avila Esq.
+  title: Senior VP of Corporate Governance & Chief Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer E. Wilson
+  title: Executive VP & Chief Marketing Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 228.91
+currentRatio: 1.105
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 230.17
+dayLow: 227.33
+displayName: Lowe's
+dividendDate: 1793750400
+dividendRate: 5.0
+dividendYield: 2.16
+earningsCallTimestampEnd: 1747832400
+earningsCallTimestampStart: 1747832400
+earningsGrowth: 0.0
+earningsQuarterlyGrowth: 0.0
+earningsTimestamp: 1795008600
+earningsTimestampEnd: 1795008600
+earningsTimestampStart: 1795008600
+ebitda: 12728999936
+ebitdaMargins: 0.14076
+enterpriseToEbitda: 13.273
+enterpriseToRevenue: 1.868
+enterpriseValue: 168950595584
+epsCurrentYear: 12.30514
+epsForward: 12.94951
+epsTrailingTwelveMonths: 11.83
+esgPopulated: false
+exDividendDate: 1792540800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 198.167
+fiftyDayAverageChange: 30.742996
+fiftyDayAverageChangePercent: 0.15513681
+fiftyTwoWeekChangePercent: -1.205796
+fiftyTwoWeekHigh: 293.06
+fiftyTwoWeekHighChange: -64.149994
+fiftyTwoWeekHighChangePercent: -0.21889713
+fiftyTwoWeekLow: 178.45
+fiftyTwoWeekLowChange: 50.460007
+fiftyTwoWeekLowChangePercent: 0.28276834
+fiftyTwoWeekRange: 178.45 - 293.06
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 1.83
+floatShares: 559791647
+forwardEps: 12.94951
+forwardPE: 17.677118
+freeCashflow: 4615374848
+fullExchangeName: NYSE
+fullTimeEmployees: 300000
+fulldayChange: -2.9599915
+fulldayChangePercent: -1.2768215
+fulldayPrice: 228.91
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.32994
+grossProfits: 29837000704
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0010899999
+heldPercentInstitutions: 0.81754994
+impliedSharesOutstanding: 561054019
+industry: Home Improvement Retail
+industryDisp: Home Improvement Retail
+industryKey: home-improvement-retail
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=95223&p=irol-IRHome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792540800
+lastDividendValue: 1.25
+lastFiscalYearEnd: 1769731200
+lastSplitDate: 1151884800
+lastSplitFactor: '2:1'
+longBusinessSummary: Lowe's Companies, Inc., together with its subsidiaries, operates
+  as a home improvement retailer in the United States and Canada. It provides a line
+  of products for construction, maintenance, repair, remodeling, and decorating. The
+  company also offers home improvement products, such as appliances, seasonal and
+  outdoor living, lumber, lawn and garden, kitchens and bath, hardware, building materials,
+  millwork, paint, rough plumbing, tools, electrical, flooring, and décor. In addition,
+  it provides installation services through independent contractors in various product
+  categories; and extended protection plans and repair services. Further, the company
+  provides design, distribution, and installation services for interior surface finishes
+  to home builders and property managers. It sells its national brand-name merchandise
+  and private brand products to professional customers, individual homeowners, and
+  renters. The company serves its products through Lowes.com website, mobile applications,
+  retail home improvement stores and outlet stores, and its branches. Lowe's Companies,
+  Inc. was founded in 1921 and is based in Mooresville, North Carolina.
+longName: Lowe's Companies, Inc.
+market: us_market
+marketCap: 128430874624
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_180871
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 6624999936
+nextFiscalYearEnd: 1801267200
+nonDilutedMarketCap: 130091595385
+numberOfAnalystOpinions: 33
+open: 228.87
+operatingCashflow: 9262999552
+operatingMargins: 0.11351
+overallRisk: 3
+payoutRatio: 0.41
+pegRatio: 1.48
+phone: 704 758 1000
+previousClose: 231.87
+priceEpsCurrentYear: 18.602797
+priceHint: 2
+priceToBook: -17.267105
+priceToSalesTrailing12Months: 1.4201928
+profitMargins: 0.073460005
+quickRatio: 0.209
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.74286
+region: US
+regularMarketChange: -2.9599915
+regularMarketChangePercent: -1.2768215
+regularMarketDayHigh: 230.17
+regularMarketDayLow: 227.33
+regularMarketDayRange: 227.33 - 230.17
+regularMarketOpen: 228.87
+regularMarketPreviousClose: 231.87
+regularMarketPrice: 228.91
+regularMarketTime: 1794413741
+regularMarketVolume: 474065
+returnOnAssets: 0.12519
+revenueGrowth: 0.083
+revenuePerShare: 161.775
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 3
+sharesOutstanding: 561054019
+sharesPercentSharesOut: 0.0199
+sharesShort: 11140092
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 10398099
+shortName: Lowe's Companies, Inc.
+shortPercentOfFloat: 0.0221
+shortRatio: 3.45
+sourceInterval: 15
+state: NC
+symbol: LOW
+targetHighPrice: 300.0
+targetLowPrice: 191.0
+targetMeanPrice: 252.63635
+targetMedianPrice: 255.0
+totalCash: 3172000000
+totalCashPerShare: 5.654
+totalDebt: 42031001600
+totalRevenue: 90431995904
+tradeable: false
+trailingAnnualDividendRate: 4.85
+trailingAnnualDividendYield: 0.020916892
+trailingEps: 11.83
+trailingPE: 19.349958
+trailingPegRatio: 1.4799
+triggerable: true
+twoHundredDayAverage: 224.18695
+twoHundredDayAverageChange: 4.723053
+twoHundredDayAverageChangePercent: 0.021067476
+typeDisp: Equity
+volume: 474065
+website: https://corporate.lowes.com
+zip: '28117'

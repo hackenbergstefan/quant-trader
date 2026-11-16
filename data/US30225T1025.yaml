@@ -1,0 +1,275 @@
+52WeekChange: 0.19844675
+SandP52WeekChange: 0.097798586
+address1: 2795 East Cottonwood Parkway
+address2: Suite 300
+allTimeHigh: 228.84
+allTimeLow: 4.93
+ask: 158.1
+askSize: 100
+auditRisk: 3
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 1792000
+averageDailyVolume3Month: 1334800
+averageVolume: 1334800
+averageVolume10days: 1792000
+beta: 1.089
+bid: 157.93
+bidSize: 100
+boardRisk: 9
+bookValue: 61.499
+city: Salt Lake City
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph Daniel Margolis J.D.
+  title: CEO & Director
+  totalPay: 3048172
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. W. Noah Springer
+  title: President
+  totalPay: 1283956
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey  Norman
+  title: Executive VP & CFO
+  totalPay: 891675
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Zachary  Dickens
+  title: Executive VP & Chief Investment Officer
+  totalPay: 1275816
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Samrat  Sondhi
+  title: Executive VP & Chief Digital Officer
+  totalPay: 1296462
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew T. Herrington
+  title: Executive VP & COO
+  totalPay: 719013
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Grace  Kunde
+  title: Senior VP of Accounting & Finance and Corporate Controller
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Gwyn Goodson McNeal J.D.
+  title: Executive VP & Chief Legal Officer
+  totalPay: 1087346
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy  Arthurs
+  title: Senior Vice President of Operations
+  totalPay: 203118
+  unexercisedValue: 0
+  yearBorn: 1959
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jared  Conley
+  title: Vice President of Financial Planning Analysis
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 158.165
+currentRatio: 0.87
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 159.25
+dayLow: 157.05
+debtToEquity: 102.976
+displayName: Extra Space Storage
+dividendDate: 1798675200
+dividendRate: 6.48
+dividendYield: 4.08
+earningsCallTimestampEnd: 1793206800
+earningsCallTimestampStart: 1793206800
+earningsGrowth: 0.503
+earningsQuarterlyGrowth: 0.493
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1793131200
+earningsTimestampStart: 1793131200
+ebitda: 2314341888
+ebitdaMargins: 0.65738
+enterpriseToEbitda: 20.804
+enterpriseToRevenue: 13.676
+enterpriseValue: 48147550208
+epsCurrentYear: 4.66136
+epsForward: 4.84303
+epsTrailingTwelveMonths: 4.92
+esgPopulated: false
+exDividendDate: 1797292800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 801 365 4855
+fiftyDayAverage: 140.5922
+fiftyDayAverageChange: 17.5728
+fiftyDayAverageChangePercent: 0.12499129
+fiftyTwoWeekChangePercent: 19.844675
+fiftyTwoWeekHigh: 163.18
+fiftyTwoWeekHighChange: -5.0149994
+fiftyTwoWeekHighChangePercent: -0.03073293
+fiftyTwoWeekLow: 125.71
+fiftyTwoWeekLowChange: 32.454994
+fiftyTwoWeekLowChangePercent: 0.25817353
+fiftyTwoWeekRange: 125.71 - 163.18
+financialCurrency: USD
+firstTradeDateMilliseconds: 1092663000000
+fiveYearAvgDividendYield: 3.65
+floatShares: 206313291
+forwardEps: 4.84303
+forwardPE: 32.65827
+freeCashflow: 1597774208
+fullExchangeName: NYSE
+fullTimeEmployees: 8393
+fulldayChange: -0.78500366
+fulldayChangePercent: -0.49386832
+fulldayPrice: 158.165
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.74853
+grossProfits: 2635237888
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00953
+heldPercentInstitutions: 1.0035601
+impliedSharesOutstanding: 218152821
+industry: REIT - Industrial
+industryDisp: REIT - Industrial
+industryKey: reit-industrial
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789430400
+lastDividendValue: 1.62
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Extra Space Storage Inc. is a self-administered and self-managed
+  REIT. As of September 30, 2026, the Company owned and/or operated 4,411 self-storage
+  properties, which comprise approximately 3.0 million units and approximately 342.2
+  million square feet of rentable storage space operating under the Extra Space brand.
+  The Company offers customers a wide selection of conveniently located and secure
+  storage units across the country, including boat storage, RV storage and business
+  storage. It is the largest operator of self-storage properties in the United States.
+  Extra Space Storage Inc. was incorporated in 1977 and is based in Maryland, USA.
+longName: Extra Space Storage Inc.
+market: us_market
+marketCap: 34504138752
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_8057672
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1037804032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 33176017137
+numberOfAnalystOpinions: 20
+open: 157.86
+operatingCashflow: 1911190016
+operatingMargins: 0.44807997
+overallRisk: 9
+payoutRatio: 1.3171
+pegRatio: 6.36
+phone: 801 365 4600
+previousClose: 158.95
+priceEpsCurrentYear: 33.931084
+priceHint: 2
+priceToBook: 2.5718303
+priceToSalesTrailing12Months: 9.800778
+profitMargins: 0.2953
+quickRatio: 0.119
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.19048
+region: US
+regularMarketChange: -0.78500366
+regularMarketChangePercent: -0.49386832
+regularMarketDayHigh: 159.25
+regularMarketDayLow: 157.05
+regularMarketDayRange: 157.05 - 159.25
+regularMarketOpen: 157.86
+regularMarketPreviousClose: 158.95
+regularMarketPrice: 158.165
+regularMarketTime: 1794413729
+regularMarketVolume: 152993
+returnOnAssets: 0.03388
+returnOnEquity: 0.07705
+revenueGrowth: 0.011
+revenuePerShare: 16.682
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 9
+sharesOutstanding: 208719831
+sharesPercentSharesOut: 0.0234
+sharesShort: 4875045
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5501883
+shortName: Extra Space Storage Inc
+shortPercentOfFloat: 0.0321
+shortRatio: 3.64
+sourceInterval: 15
+state: UT
+symbol: EXR
+targetHighPrice: 178.0
+targetLowPrice: 140.0
+targetMeanPrice: 159.85
+targetMedianPrice: 157.5
+totalCash: 115883000
+totalCashPerShare: 0.555
+totalDebt: 14171582464
+totalRevenue: 3520550912
+tradeable: false
+trailingAnnualDividendRate: 6.48
+trailingAnnualDividendYield: 0.04076754
+trailingEps: 4.92
+trailingPE: 32.147354
+trailingPegRatio: 6.3609
+triggerable: true
+twoHundredDayAverage: 142.82375
+twoHundredDayAverageChange: 15.341248
+twoHundredDayAverageChangePercent: 0.10741384
+typeDisp: Equity
+volume: 152993
+website: https://www.extraspace.com
+zip: 84121-7033

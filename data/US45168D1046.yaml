@@ -1,0 +1,278 @@
+52WeekChange: -0.023712099
+SandP52WeekChange: 0.097798586
+address1: One IDEXX Drive
+allTimeHigh: 769.98
+allTimeLow: 0.84375
+ask: 645.63
+askSize: 1
+auditRisk: 4
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 919600
+averageDailyVolume3Month: 572503
+averageVolume: 572503
+averageVolume10days: 919600
+beta: 1.536
+bid: 668.97
+bidSize: 1
+boardRisk: 7
+bookValue: 23.724
+city: Westbrook
+companyOfficers:
+- age: 64
+  exercisedValue: 16517254
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathan J. Mazelsky
+  title: Executive Chairman
+  totalPay: 3780240
+  unexercisedValue: 79333760
+  yearBorn: 1961
+- age: 42
+  exercisedValue: 940143
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew  Emerson
+  title: Executive VP, CFO & Treasurer
+  totalPay: 1133266
+  unexercisedValue: 1751179
+  yearBorn: 1983
+- age: 57
+  exercisedValue: 2956212
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael J. Lane
+  title: Executive VP and GM Global Reference Laboratories, Diagnostic Solutions &
+    Information Technology
+  totalPay: 1319612
+  unexercisedValue: 2708936
+  yearBorn: 1968
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Martin  Smith Ph.D.
+  title: Executive Vice President of Global Operations and R&D
+  totalPay: 1244730
+  unexercisedValue: 1328177
+  yearBorn: 1968
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael G. Erickson Ph.D.
+  title: CEO, President & Director
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bob  Asmann
+  title: Senior Vice President of Global Operations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Amit  Gupta
+  title: Senior VP, Chief Digital & Information Officer
+  unexercisedValue: 0
+- age: 64
+  exercisedValue: 84312
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sharon E. Underberg J.D.
+  title: Executive VP, General Counsel, & Corporate Secretary
+  totalPay: 881053
+  unexercisedValue: 319294
+  yearBorn: 1961
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie  Godon
+  title: Senior VP & Global Marketing Officer
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael P. Johnson
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 697.64
+currentRatio: 1.187
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 702.88
+dayLow: 680.0
+debtToEquity: 52.053
+displayName: IDEXX Laboratories
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793626200
+earningsCallTimestampStart: 1793626200
+earningsGrowth: 0.179
+earningsQuarterlyGrowth: 0.155
+earningsTimestamp: 1793626200
+earningsTimestampEnd: 1801488600
+earningsTimestampStart: 1801488600
+ebitda: 1673122944
+ebitdaMargins: 0.35887
+enterpriseToEbitda: 33.268
+enterpriseToRevenue: 11.939
+enterpriseValue: 55661088768
+epsCurrentYear: 14.99908
+epsForward: 16.88303
+epsTrailingTwelveMonths: 14.84
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 207 556 4346
+fiftyDayAverage: 552.5804
+fiftyDayAverageChange: 145.05963
+fiftyDayAverageChangePercent: 0.2625132
+fiftyTwoWeekChangePercent: -2.3712099
+fiftyTwoWeekHigh: 769.98
+fiftyTwoWeekHighChange: -72.339966
+fiftyTwoWeekHighChangePercent: -0.09395045
+fiftyTwoWeekLow: 500.61
+fiftyTwoWeekLowChange: 197.03003
+fiftyTwoWeekLowChangePercent: 0.3935799
+fiftyTwoWeekRange: 500.61 - 769.98
+financialCurrency: USD
+firstTradeDateMilliseconds: 677511000000
+floatShares: 78510513
+forwardEps: 16.88303
+forwardPE: 41.321968
+freeCashflow: 1064129600
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 11000
+fulldayChange: 1.0
+fulldayChangePercent: 0.14354616
+fulldayPrice: 697.64
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.62722
+grossProfits: 2924238080
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00213
+heldPercentInstitutions: 0.96700996
+impliedSharesOutstanding: 78786265
+industry: Diagnostics & Research
+industryDisp: Diagnostics & Research
+industryKey: diagnostics-research
+isEarningsDateEstimate: true
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1434412800
+lastSplitFactor: '2:1'
+longBusinessSummary: 'IDEXX Laboratories, Inc. develops, manufactures, and distributes
+  products for the companion animal veterinary, livestock and poultry, dairy, and
+  water testing industries in the United States and internationally. It operates through
+  three segments: Companion Animal Group; Water Quality Products; and Livestock, Poultry
+  and Dairy. The company offers point-of-care diagnostic solutions, blood and urine
+  chemistry, hematology, immunoassay, urinalysis, cytology/morphology, and coagulation
+  analyzers; and SNAP rapid assays test kits. It also provides commercial reference
+  laboratory diagnostic and consulting services to veterinarians; veterinary consultation,
+  telemedicine, and advisory services, including radiology, dental radiography, cardiology,
+  internal medicine, and ultrasound consulting; Colilert, Colilert-18, and Colisure
+  tests, which detect the presence of total coliforms and E. coli in water; Enterolert,
+  Pseudalert, Filta-Max and Filta-Max xpress, Legiolert, Quanti-Tray products, and
+  Tecta system instruments; UV Viewer Plus, a UV light cabinet which aids in the visual
+  interpretation of fluorescent-based water tests; and veterinary software and services
+  for independent veterinary clinics and corporate groups. In addition, the company
+  offers diagnostic tests, services, and related instrumentation to manage the health
+  status of livestock and poultry; human medical diagnostic products and services;
+  and VetConnect PLUS, a cloud-based technology that enables veterinarians to access
+  and analyze patients, as well as operates VetLab Station. It markets its products
+  through marketing, customer service, sales, and technical service groups, as well
+  as through independent distributors and other resellers. IDEXX Laboratories, Inc.
+  was incorporated in 1983 and is headquartered in Westbrook, Maine.'
+longName: IDEXX Laboratories, Inc.
+market: us_market
+marketCap: 54964449280
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_29729
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1182190976
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 54885663649
+numberOfAnalystOpinions: 12
+open: 688.04
+operatingCashflow: 1418887040
+operatingMargins: 0.32497
+overallRisk: 7
+payoutRatio: 0.0
+pegRatio: 3.28
+phone: 207 556 0300
+previousClose: 696.64
+priceEpsCurrentYear: 46.512188
+priceHint: 2
+priceToBook: 29.406507
+priceToSalesTrailing12Months: 11.789328
+profitMargins: 0.25357
+quickRatio: 0.727
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.14286
+region: US
+regularMarketChange: 1.0
+regularMarketChangePercent: 0.14354616
+regularMarketDayHigh: 702.88
+regularMarketDayLow: 680.0
+regularMarketDayRange: 680.0 - 702.88
+regularMarketOpen: 688.04
+regularMarketPreviousClose: 696.64
+regularMarketPrice: 697.64
+regularMarketTime: 1794413729
+regularMarketVolume: 85886
+returnOnAssets: 0.26698
+returnOnEquity: 0.68925005
+revenueGrowth: 0.099
+revenuePerShare: 58.772
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 7
+sharesOutstanding: 78786265
+sharesPercentSharesOut: 0.0299
+sharesShort: 2354117
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1940639
+shortName: IDEXX Laboratories, Inc.
+shortPercentOfFloat: 0.0342
+shortRatio: 4.38
+sourceInterval: 15
+state: ME
+symbol: IDXX
+targetHighPrice: 810.0
+targetLowPrice: 470.0
+targetMeanPrice: 717.1667
+targetMedianPrice: 717.5
+totalCash: 197536000
+totalCashPerShare: 2.507
+totalDebt: 972963008
+totalRevenue: 4662220800
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 14.84
+trailingPE: 47.01078
+trailingPegRatio: 3.2827
+triggerable: true
+twoHundredDayAverage: 572.121
+twoHundredDayAverageChange: 125.51904
+twoHundredDayAverageChangePercent: 0.2193925
+typeDisp: Equity
+volume: 85886
+website: https://www.idexx.com
+zip: 04092

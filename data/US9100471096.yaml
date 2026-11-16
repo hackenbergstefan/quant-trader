@@ -1,0 +1,270 @@
+52WeekChange: 0.20596182
+SandP52WeekChange: 0.097798586
+address1: 233 South Wacker Drive
+allTimeHigh: 138.77
+allTimeLow: 2.8
+ask: 126.0
+askSize: 1
+auditRisk: 9
+averageAnalystRating: 1.3 - Strong Buy
+averageDailyVolume10Day: 5591800
+averageDailyVolume3Month: 4358417
+averageVolume: 4358417
+averageVolume10days: 5591800
+beta: 1.366
+bid: 112.81
+bidSize: 1
+boardRisk: 3
+bookValue: 54.646
+city: Chicago
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. J. Scott Kirby
+  title: CEO & Director
+  totalPay: 9716449
+  unexercisedValue: 8736452
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brett J. Hart J.D.
+  title: President
+  totalPay: 6380578
+  unexercisedValue: 737309
+  yearBorn: 1970
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael D. Leskinen CFA
+  title: Executive VP & CFO
+  totalPay: 2251715
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Torbjorn J. Enqvist
+  title: Executive VP & COO
+  totalPay: 4664644
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew P. Nocella
+  title: Executive VP & Chief Commercial Officer
+  totalPay: 3915272
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Brigitte  Bokemeier
+  title: VP, Principal Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason  Birnbaum
+  title: Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristina Munoz Edwards
+  title: Managing Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Josh  Earnest
+  title: Executive VP of Communications & Advertising
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Doreen  Burse
+  title: Senior Vice President of Worldwide Sales
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 119.05
+currentRatio: 0.75
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 119.79
+dayLow: 118.11
+debtToEquity: 193.162
+displayName: United Airlines
+dividendDate: 1201046400
+dividendYield: 0.0
+earningsCallTimestampEnd: 1792593000
+earningsCallTimestampStart: 1792593000
+earningsGrowth: 0.083
+earningsQuarterlyGrowth: 0.084
+earningsTimestamp: 1792526400
+earningsTimestampEnd: 1800997200
+earningsTimestampStart: 1800997200
+ebitda: 7041999872
+ebitdaMargins: 0.10742
+enterpriseToEbitda: 8.351
+enterpriseToRevenue: 0.897
+enterpriseValue: 58810265600
+epsCurrentYear: 7.07624
+epsForward: 11.75413
+epsTrailingTwelveMonths: 10.92
+esgPopulated: false
+exDividendDate: 1199664000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 107.7746
+fiftyDayAverageChange: 11.275406
+fiftyDayAverageChangePercent: 0.104620256
+fiftyTwoWeekChangePercent: 20.596182
+fiftyTwoWeekHigh: 138.77
+fiftyTwoWeekHighChange: -19.720001
+fiftyTwoWeekHighChangePercent: -0.14210565
+fiftyTwoWeekLow: 84.64
+fiftyTwoWeekLowChange: 34.410004
+fiftyTwoWeekLowChangePercent: 0.4065454
+fiftyTwoWeekRange: 84.64 - 138.77
+financialCurrency: USD
+firstTradeDateMilliseconds: 1139236200000
+floatShares: 322574629
+forwardEps: 11.75413
+forwardPE: 10.128355
+freeCashflow: -576124992
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 117900
+fulldayChange: -1.5099945
+fulldayChangePercent: -1.2524838
+fulldayPrice: 119.05
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.30868
+grossProfits: 20234999808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0057200002
+heldPercentInstitutions: 0.91691
+impliedSharesOutstanding: 324894375
+industry: Airlines
+industryDisp: Airlines
+industryKey: airlines
+irWebsite: http://ir.unitedcontinentalholdings.com/phoenix.zhtml?c=83680&p=irol-IRHome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1199664000
+lastDividendValue: 2.15
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: United Airlines Holdings, Inc., through its subsidiaries, provides
+  air transportation services in the United States, Canada, Atlantic, the Pacific,
+  and Latin America. It transports people and cargo through its mainline and regional
+  fleets. The company also offers ground handling, flight academy, frequent flyer
+  award non-travel redemptions, and maintenance services for third parties. In addition,
+  it provides freight and mail transportation services to commercial businesses, freight
+  forwarders, logistics firms, and national postal services, as well as loyalty programs.
+  The company distributes its products through direct channels, such as the Company's
+  website and the Company's mobile app; and traditional travel agencies, online travel
+  agencies, and other intermediaries. The company was formerly known as United Continental
+  Holdings, Inc. and changed its name to United Airlines Holdings, Inc. in June 2019.
+  United Airlines Holdings, Inc. was incorporated in 1968 and is based in Chicago,
+  Illinois.
+longName: United Airlines Holdings, Inc.
+market: us_market
+marketCap: 38678675456
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_309845
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3576999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 39169265850
+numberOfAnalystOpinions: 23
+open: 119.375
+operatingCashflow: 8160000000
+operatingMargins: 0.06526
+overallRisk: 9
+payoutRatio: 0.0
+pegRatio: 6.5
+phone: 872 825 4000
+previousClose: 120.56
+priceEpsCurrentYear: 16.823906
+priceHint: 2
+priceToBook: 2.1785676
+priceToSalesTrailing12Months: 0.5900367
+profitMargins: 0.054569997
+quickRatio: 0.649
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.32
+region: US
+regularMarketChange: -1.5099945
+regularMarketChangePercent: -1.2524838
+regularMarketDayHigh: 119.79
+regularMarketDayLow: 118.11
+regularMarketDayRange: 118.11 - 119.79
+regularMarketOpen: 119.375
+regularMarketPreviousClose: 120.56
+regularMarketPrice: 119.05
+regularMarketTime: 1794413751
+regularMarketVolume: 1455044
+returnOnAssets: 0.03313
+returnOnEquity: 0.22312
+revenueGrowth: 0.174
+revenuePerShare: 202.137
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 324894375
+sharesPercentSharesOut: 0.026400002
+sharesShort: 8590345
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 16782849
+shortName: United Airlines Holdings, Inc.
+shortPercentOfFloat: 0.026600001
+shortRatio: 1.68
+sourceInterval: 15
+state: IL
+symbol: UAL
+targetHighPrice: 203.0
+targetLowPrice: 98.0
+targetMeanPrice: 150.56522
+targetMedianPrice: 145.0
+totalCash: 14652999680
+totalCashPerShare: 45.101
+totalDebt: 34293999616
+totalRevenue: 65552998400
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 10.92
+trailingPE: 10.902015
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 108.16085
+twoHundredDayAverageChange: 10.889153
+twoHundredDayAverageChangePercent: 0.100675546
+typeDisp: Equity
+volume: 1455044
+website: https://www.united.com
+zip: '60606'

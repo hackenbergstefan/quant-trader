@@ -1,0 +1,264 @@
+52WeekChange: 0.28322434
+SandP52WeekChange: 0.097798586
+address1: Allée de la Recherche, 60
+allTimeHigh: 301.2
+allTimeLow: 16.8
+ask: 0.0
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 263434
+averageDailyVolume3Month: 266215
+averageVolume: 266215
+averageVolume10days: 263434
+beta: 0.107
+bid: 0.0
+bidSize: 0
+boardRisk: 2
+bookValue: 61.124
+city: Brussels
+companyOfficers:
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jean-Christophe  Tellier
+  title: CEO & Executive Director
+  totalPay: 5681299
+  unexercisedValue: 32130964
+  yearBorn: 1959
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sandrine  Dufour CFA
+  title: Executive VP & CFO
+  unexercisedValue: 1289182
+  yearBorn: 1966
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alistair  Henry
+  title: Executive VP & Chief Scientific Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Denelle J. Waynick Johnson J.D.
+  title: Executive VP & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Luc  Fleurial
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 257900
+  yearBorn: 1965
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Emmanuel  Caeymaex
+  title: Executive VP & Head of Patient Evidence
+  unexercisedValue: 880444
+  yearBorn: 1969
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Fiona Du Monceau
+  title: Executive VP of Patient Impact & Chief Commercial Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Caroline  Vancoillie
+  title: Chief Accounting Officer & Head of Group Finance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Gwendoline  Ornigg
+  title: Head of Global Corporate Communication
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Veronique  Toully
+  title: Head of Sustainability, Corporate Affairs & Enterprise Risk Management
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Belgium
+cryptoTradeable: false
+currency: EUR
+currentPrice: 290.6
+currentRatio: 1.203
+customPriceAlertConfidence: LOW
+dayHigh: 295.6
+dayLow: 289.9
+debtToEquity: 30.788
+dividendRate: 1.45
+dividendYield: 0.49
+earningsCallTimestampEnd: 1785412800
+earningsCallTimestampStart: 1785412800
+earningsGrowth: 1.348
+earningsQuarterlyGrowth: 1.339
+earningsTimestampEnd: 1785426000
+earningsTimestampStart: 1785426000
+ebitda: 3137999872
+ebitdaMargins: 0.36813998
+enterpriseToEbitda: 18.793
+enterpriseToRevenue: 6.918
+enterpriseValue: 58972127232
+epsCurrentYear: 13.17721
+epsForward: 14.94454
+epsTrailingTwelveMonths: 11.32
+esgPopulated: false
+exDividendDate: 1777852800
+exchange: BRU
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Brussels
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 32 2 559 99 00
+fiftyDayAverage: 227.916
+fiftyDayAverageChange: 62.684006
+fiftyDayAverageChangePercent: 0.27503118
+fiftyTwoWeekChangePercent: 28.322433
+fiftyTwoWeekHigh: 301.2
+fiftyTwoWeekHighChange: -10.600006
+fiftyTwoWeekHighChangePercent: -0.035192583
+fiftyTwoWeekLow: 197.45
+fiftyTwoWeekLowChange: 93.15001
+fiftyTwoWeekLowChangePercent: 0.47176507
+fiftyTwoWeekRange: 197.45 - 301.2
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946972800000
+fiveYearAvgDividendYield: 0.95
+floatShares: 120100261
+forwardEps: 14.94454
+forwardPE: 19.445229
+freeCashflow: 970499968
+fullExchangeName: Brussels
+fullTimeEmployees: 9000
+fulldayChange: -3.899994
+fulldayChangePercent: -1.3242763
+fulldayPrice: 290.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.7622
+grossProfits: 6496999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.36278
+heldPercentInstitutions: 0.39719
+impliedSharesOutstanding: 190662572
+industry: Biotechnology
+industryDisp: Biotechnology
+industryKey: biotechnology
+irWebsite: http://www.ucb.com/investors.asp
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777852800
+lastDividendValue: 1.45
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: UCB SA, a biopharmaceutical company, develops products and solutions
+  for people with neurology and immunology diseases worldwide. The company offers
+  Cimzia for ankylosing spondylitis (AS), axial spondyloarthritis, Crohn's disease,
+  non-radiographic axial spondyloarthritis, plaque psoriasis, psoriatic arthritis,
+  polyarticular juvenile idiopathic arthritis, and rheumatoid arthritis; Vimpat, Keppra,
+  and Briviact for epilepsy; and Neupro for Parkinson's disease and restless legs
+  syndrome. It also provides Nayzilam, a nasal spray rescue treatment for epilepsy
+  seizure clusters; and Zyrtec and Xyzal for allergies. In addition, the company offers
+  Evenity for the treatment of osteoporosis in postmenopausal women; Bimzelx to treat
+  plaque psoriasis, psoriatic arthritis, hidradenitis suppurativa, and axial spondyloarthritis;
+  Fintepla for the treatment of Dravet and Lennox-Gastaut syndrome; and RYSTIGGO and
+  ZILBRYSQ to treat people living with generalized myasthenia gravis. Further, it
+  develops KYGEVVI (doxecitine/doxribtimine) for thymidine kinase 2 deficiency disorder;
+  fenfluramine to treat CDKL5 deficiency disorder, and RETT-Syndrome; dapirolizumab
+  pegol for systemic lupus erythematosus; STACCATO alprazolam for treating stereotypical
+  prolonged seizures; bepranemab to treat Alzheimer's disease; and UCB9741 for atopic
+  dermatitis, non cystic fibrosis bronchiectasis, and chronic obstructive pulmonary
+  disease. Additionally, it engages in the contract manufacturing activities. The
+  company was incorporated in 1925 and is headquartered in Brussels, Belgium.
+longName: UCB SA
+market: be_market
+marketCap: 55406546944
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874491
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 2193999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 56150127454
+numberOfAnalystOpinions: 19
+open: 294.3
+operatingCashflow: 1948999936
+operatingMargins: 0.2947
+overallRisk: 2
+payoutRatio: 0.12810001
+pegRatio: 1.57
+phone: 32 2 559 99 99
+previousClose: 294.5
+priceEpsCurrentYear: 22.053228
+priceHint: 2
+priceToBook: 4.75427
+priceToSalesTrailing12Months: 6.500064
+profitMargins: 0.25739
+quickRatio: 0.724
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.65
+region: US
+regularMarketChange: -3.899994
+regularMarketChangePercent: -1.3242763
+regularMarketDayHigh: 295.6
+regularMarketDayLow: 289.9
+regularMarketDayRange: 289.9 - 295.6
+regularMarketOpen: 294.3
+regularMarketPreviousClose: 294.5
+regularMarketPrice: 290.6
+regularMarketTime: 1794411577
+regularMarketVolume: 64223
+returnOnAssets: 0.08302
+returnOnEquity: 0.20565
+revenueGrowth: 0.225
+revenuePerShare: 44.765
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 190662572
+shortName: UCB
+sourceInterval: 15
+symbol: UCB.BR
+targetHighPrice: 343.0
+targetLowPrice: 208.0
+targetMeanPrice: 296.0
+targetMedianPrice: 303.0
+totalCash: 766000000
+totalCashPerShare: 4.018
+totalDebt: 3588000000
+totalRevenue: 8524000256
+tradeable: false
+trailingAnnualDividendRate: 1.45
+trailingAnnualDividendYield: 0.0049235993
+trailingEps: 11.32
+trailingPE: 25.67138
+trailingPegRatio: 1.5465
+triggerable: false
+twoHundredDayAverage: 243.147
+twoHundredDayAverageChange: 47.453003
+twoHundredDayAverageChangePercent: 0.19516179
+typeDisp: Equity
+volume: 64223
+website: https://www.ucb.com
+zip: '1070'

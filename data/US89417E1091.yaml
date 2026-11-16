@@ -1,0 +1,291 @@
+52WeekChange: 0.400692
+SandP52WeekChange: 0.097798586
+address1: 485 Lexington Avenue
+allTimeHigh: 418.0
+allTimeLow: 6.28125
+ask: 395.2
+askSize: 40
+auditRisk: 3
+averageDailyVolume10Day: 1545650
+averageDailyVolume3Month: 1476484
+averageVolume: 1476484
+averageVolume10days: 1545650
+beta: 0.397
+bid: 395.06
+bidSize: 120
+boardRisk: 7
+bookValue: 141.508
+city: New York
+companyOfficers:
+- age: 59
+  exercisedValue: 21772048
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alan David Schnitzer J.D.
+  title: Chairman & CEO
+  totalPay: 10593146
+  unexercisedValue: 129060472
+  yearBorn: 1966
+- age: 60
+  exercisedValue: 6318727
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel Stephen Frey CPA
+  title: Executive VP & CFO
+  totalPay: 4145239
+  unexercisedValue: 4621188
+  yearBorn: 1965
+- age: 56
+  exercisedValue: 14314544
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Avrohom J. Kess
+  title: Vice Chairman & Chief Legal Officer
+  totalPay: 5287308
+  unexercisedValue: 39473876
+  yearBorn: 1969
+- age: 57
+  exercisedValue: 3816711
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Frederick Klein
+  title: Executive VP & President of Personal Insurance
+  totalPay: 4481203
+  unexercisedValue: 13957293
+  yearBorn: 1968
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory Cheshire Toczydlowski
+  title: Executive VP & President of Business Insurance
+  totalPay: 5073751
+  unexercisedValue: 30240418
+  yearBorn: 1967
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mojgan Mehdian Lefebvre
+  title: Executive VP, Chief Technology & Operations Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Donnay Rowland CFA
+  title: Executive VP & Co-Chief Investment Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel Tei-Hwa Yin
+  title: Executive VP & Co-Chief Investment Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul Edward Munson
+  title: Senior VP of Finance, Corporate Controller & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 71
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andy Francis Bessette
+  title: Executive VP & Chief Administrative Officer
+  unexercisedValue: 0
+  yearBorn: 1954
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: TRV announced a cash dividend of $1.25 with an ex-date of Dec. 10, 2026
+  meta:
+    amount: '1.25'
+    dateEpochMs: 1796878800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 396.43
+currentRatio: 0.329
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 400.0
+dayLow: 394.69
+debtToEquity: 33.844
+displayName: Travelers
+dividendDate: 1798675200
+dividendRate: 5.0
+dividendYield: 1.25
+earningsCallTimestampEnd: 1792155600
+earningsCallTimestampStart: 1792155600
+earningsGrowth: 0.097
+earningsQuarterlyGrowth: 0.015
+earningsTimestamp: 1792153800
+earningsTimestampEnd: 1800451800
+earningsTimestampStart: 1800451800
+ebitda: 11520000000
+ebitdaMargins: 0.23548001
+enterpriseToEbitda: 7.445
+enterpriseToRevenue: 1.753
+enterpriseValue: 85771395072
+epsCurrentYear: 36.79606
+epsForward: 31.11071
+epsTrailingTwelveMonths: 38.03
+esgPopulated: false
+exDividendDate: 1796860800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 378.9246
+fiftyDayAverageChange: 17.505402
+fiftyDayAverageChangePercent: 0.046197586
+fiftyTwoWeekChangePercent: 40.0692
+fiftyTwoWeekHigh: 418.0
+fiftyTwoWeekHighChange: -21.570007
+fiftyTwoWeekHighChangePercent: -0.05160289
+fiftyTwoWeekLow: 268.0
+fiftyTwoWeekLowChange: 128.43
+fiftyTwoWeekLowChangePercent: 0.4792164
+fiftyTwoWeekRange: 268.0 - 418.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 185466600000
+fiveYearAvgDividendYield: 1.77
+floatShares: 203755609
+forwardEps: 31.11071
+forwardPE: 12.742557
+freeCashflow: 15819750400
+fullExchangeName: NYSE
+fullTimeEmployees: 34000
+fulldayChange: -4.350006
+fulldayChangePercent: -1.0853851
+fulldayPrice: 396.43
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.34858
+grossProfits: 17052999680
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0028
+heldPercentInstitutions: 0.92369
+impliedSharesOutstanding: 204900000
+industry: Insurance - Property & Casualty
+industryDisp: Insurance - Property & Casualty
+industryKey: insurance-property-casualty
+irWebsite: http://investor.travelers.com/phoenix.zhtml?c=177842&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788998400
+lastDividendValue: 1.25
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 894931200
+lastSplitFactor: '2:1'
+longBusinessSummary: 'The Travelers Companies, Inc., through its subsidiaries, provides
+  a range of commercial and personal property, and casualty insurance products and
+  services to businesses, government units, associations, and individuals in the United
+  States, Canada, and internationally. It operates through three segments: Business
+  Insurance, Bond & Specialty Insurance, and Personal Insurance. The Business Insurance
+  segment offers workers'' compensation, commercial automobile and property, general
+  liability, commercial multi-peril, employers'' liability, public and product liability,
+  professional indemnity, marine, aviation, commercial property and automobile, onshore
+  and offshore energy, construction, terrorism, personal accident, and kidnap and
+  ransom insurance products. This segment operates through select accounts, which
+  serve small businesses; middle accounts that serve mid-sized businesses; national
+  accounts, which serve large companies; and national property and others that serve
+  large and mid-sized customers, commercial trucking industry, and agricultural businesses,
+  as well as markets and distributes its products through brokers, wholesale agents,
+  and program managers. The Bond & Specialty Insurance segment provides surety, fidelity,
+  management and professional liability, and other property and casualty coverages
+  and related risk management services through independent agencies and brokers. The
+  Personal Insurance segment offers property and casualty insurance covering personal
+  risks, primarily automobile and homeowners'' insurance to individuals. The Travelers
+  Companies, Inc. was founded in 1853 and is based in New York, New York.'
+longName: The Travelers Companies, Inc.
+market: us_market
+marketCap: 81228505088
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_392856
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 8272000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 82119822000
+numberOfAnalystOpinions: 24
+open: 397.66
+operatingCashflow: 10677000192
+operatingMargins: 0.22118999
+overallRisk: 2
+payoutRatio: 0.1236
+pegRatio: 2.36
+phone: (917) 778-6000
+previousClose: 400.78
+priceEpsCurrentYear: 10.773708
+priceHint: 2
+priceToBook: 2.8014672
+priceToSalesTrailing12Months: 1.6604015
+profitMargins: 0.17031999
+quickRatio: 0.198
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -4.350006
+regularMarketChangePercent: -1.0853851
+regularMarketDayHigh: 400.0
+regularMarketDayLow: 394.69
+regularMarketDayRange: 394.69 - 400.0
+regularMarketOpen: 397.66
+regularMarketPreviousClose: 400.78
+regularMarketPrice: 396.43
+regularMarketTime: 1794413737
+regularMarketVolume: 288500
+returnOnAssets: 0.04733
+returnOnEquity: 0.27497
+revenueGrowth: -0.005
+revenuePerShare: 229.488
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 204900000
+sharesPercentSharesOut: 0.0218
+sharesShort: 4460511
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5893496
+shortName: The Travelers Companies, Inc.
+shortPercentOfFloat: 0.024500001
+shortRatio: 3.21
+sourceInterval: 15
+state: NY
+symbol: TRV
+targetHighPrice: 460.0
+targetLowPrice: 262.0
+targetMeanPrice: 376.54166
+targetMedianPrice: 379.5
+totalCash: 6179999744
+totalCashPerShare: 30.154
+totalDebt: 9813000192
+totalRevenue: 48921001984
+tradeable: false
+trailingAnnualDividendRate: 4.7
+trailingAnnualDividendYield: 0.011727132
+trailingEps: 38.03
+trailingPE: 10.424139
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 334.2351
+twoHundredDayAverageChange: 62.194885
+twoHundredDayAverageChangePercent: 0.18608125
+typeDisp: Equity
+volume: 288500
+website: https://www.travelers.com
+zip: '10017'

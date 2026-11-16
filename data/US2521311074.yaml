@@ -1,0 +1,266 @@
+52WeekChange: 0.3407147
+SandP52WeekChange: 0.097798586
+address1: 6340 Sequence Drive
+allTimeHigh: 164.8625
+allTimeLow: 0.34
+ask: 86.23
+askSize: 2
+auditRisk: 2
+averageAnalystRating: 1.3 - Strong Buy
+averageDailyVolume10Day: 4941940
+averageDailyVolume3Month: 4285176
+averageVolume: 4285176
+averageVolume10days: 4941940
+beta: 1.443
+bid: 73.29
+bidSize: 2
+boardRisk: 7
+bookValue: 6.797
+city: San Diego
+companyOfficers:
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin Ronald Sayer
+  title: Executive Chairman of the Board
+  totalPay: 2428875
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jacob Steven Leach
+  title: President, CEO & Director
+  totalPay: 2049898
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jereme M. Sylvain CPA
+  title: Executive VP, CFO, COO & Chief Accounting Officer
+  totalPay: 1141840
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Jon Brown J.D.
+  title: Executive VP, Chief Legal & Compliance Officer
+  totalPay: 1101361
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sadie M. Stern
+  title: Executive VP, Chief People & Culture Officer
+  totalPay: 1010636
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jon  Coleman
+  title: Executive VP & Chief Commercial Officer
+  totalPay: 1012551
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Simpson
+  title: Executive VP & CTO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sean  Christensen
+  title: Vice President of Finance and Investor Relations
+  unexercisedValue: 0
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew  Dolan
+  title: Executive Vice President of Strategy & Corporate Development
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Keri  Leone
+  title: Senior Director of Global Medical Science & Education
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 79.195
+currentRatio: 1.738
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 80.365
+dayLow: 78.93
+debtToEquity: 54.938
+displayName: DexCom
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793305800
+earningsCallTimestampStart: 1793305800
+earningsGrowth: 0.026
+earningsQuarterlyGrowth: -0.031
+earningsTimestamp: 1793304000
+earningsTimestampEnd: 1793304000
+earningsTimestampStart: 1793304000
+ebitda: 1498800000
+ebitdaMargins: 0.29363
+enterpriseToEbitda: 19.603
+enterpriseToRevenue: 5.756
+enterpriseValue: 29381236736
+epsCurrentYear: 2.70066
+epsForward: 3.13483
+epsTrailingTwelveMonths: 2.54
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 84.789
+fiftyDayAverageChange: -5.594002
+fiftyDayAverageChangePercent: -0.06597556
+fiftyTwoWeekChangePercent: 34.07147
+fiftyTwoWeekHigh: 92.59
+fiftyTwoWeekHighChange: -13.394997
+fiftyTwoWeekHighChangePercent: -0.14467002
+fiftyTwoWeekLow: 56.72
+fiftyTwoWeekLowChange: 22.474998
+fiftyTwoWeekLowChangePercent: 0.39624467
+fiftyTwoWeekRange: 56.72 - 92.59
+financialCurrency: USD
+firstTradeDateMilliseconds: 1113485400000
+floatShares: 371593381
+forwardEps: 3.13483
+forwardPE: 25.262934
+freeCashflow: 811900032
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 11000
+fulldayChange: -0.7249985
+fulldayChangePercent: -0.9071553
+fulldayPrice: 79.195
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.63424
+grossProfits: 3237400064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00262
+heldPercentInstitutions: 1.0708799
+impliedSharesOutstanding: 372950922
+industry: Medical Devices
+industryDisp: Medical Devices
+industryKey: medical-devices
+irWebsite: http://www.dexcom.com/about-dexcom/investor-relations
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1655078400
+lastSplitFactor: '4:1'
+longBusinessSummary: DexCom, Inc., a medical device company, focuses on the design,
+  development, and commercialization of continuous glucose monitoring (CGM) systems
+  for the management of diabetes and metabolic health in the United States and internationally.
+  The company offers Dexcom G7 and G7 15 Day, an integrated continuous glucose monitoring
+  system; Dexcom G6, a CGM system; Dexcom ONE+ to replace fingerstick blood glucose
+  testing for diabetes treatment decisions; Stelo, a biosensor designed for adults
+  with prediabetes and Type 2 diabetes who do not use insulin; Dexcom Share, a remote
+  monitoring system; and Dexcom Follow application. It markets its products directly
+  to endocrinologists, physicians, and diabetes educators. The company was incorporated
+  in 1999 and is headquartered in San Diego, California.
+longName: DexCom, Inc.
+market: us_market
+marketCap: 29535846400
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_114039
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 991000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 29806237686
+numberOfAnalystOpinions: 26
+open: 79.8
+operatingCashflow: 1414400000
+operatingMargins: 0.23975
+overallRisk: 5
+payoutRatio: 0.0
+pegRatio: 1.28
+phone: 858 200 0200
+previousClose: 79.92
+priceEpsCurrentYear: 29.324314
+priceHint: 2
+priceToBook: 11.6514635
+priceToSalesTrailing12Months: 5.7863503
+profitMargins: 0.19415002
+quickRatio: 1.342
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.34483
+region: US
+regularMarketChange: -0.7249985
+regularMarketChangePercent: -0.9071553
+regularMarketDayHigh: 80.365
+regularMarketDayLow: 78.93
+regularMarketDayRange: 78.93 - 80.365
+regularMarketOpen: 79.8
+regularMarketPreviousClose: 79.92
+regularMarketPrice: 79.195
+regularMarketTime: 1794413729
+regularMarketVolume: 758194
+returnOnAssets: 0.11135
+returnOnEquity: 0.37669998
+revenueGrowth: 0.112
+revenuePerShare: 13.359
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 6
+sharesOutstanding: 372950922
+sharesPercentSharesOut: 0.0427
+sharesShort: 15933006
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 14017639
+shortName: DexCom, Inc.
+shortPercentOfFloat: 0.0494
+shortRatio: 3.52
+sourceInterval: 15
+state: CA
+symbol: DXCM
+targetHighPrice: 120.0
+targetLowPrice: 79.0
+targetMeanPrice: 98.57692
+targetMedianPrice: 96.5
+totalCash: 1817900032
+totalCashPerShare: 4.874
+totalDebt: 1392899968
+totalRevenue: 5104399872
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 2.54
+trailingPE: 31.179134
+trailingPegRatio: 1.2777
+triggerable: true
+twoHundredDayAverage: 74.95805
+twoHundredDayAverageChange: 4.236946
+twoHundredDayAverageChangePercent: 0.05652423
+typeDisp: Equity
+volume: 758194
+website: https://www.dexcom.com
+zip: '92121'

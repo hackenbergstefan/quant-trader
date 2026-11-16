@@ -1,0 +1,269 @@
+52WeekChange: 0.31507325
+SandP52WeekChange: 0.097798586
+address1: 6601 West Broad Street
+allTimeHigh: 90.5
+allTimeLow: 0.10612
+ask: 76.35
+askSize: 300
+auditRisk: 6
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 10287470
+averageDailyVolume3Month: 8407550
+averageVolume: 8407550
+averageVolume10days: 10287470
+beta: 0.463
+bid: 76.32
+bidSize: 300
+boardRisk: 2
+bookValue: -1.337
+city: Richmond
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Salvatore  Mancuso
+  title: CEO & Director
+  totalPay: 3609274
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Heather A. Newman
+  title: Executive VP & CFO
+  totalPay: 2344042
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jody L. Begley
+  title: Executive VP & COO
+  totalPay: 3383920
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles N. Whitaker J.D.
+  title: Senior VP, Chief Human Resources Officer & Chief Compliance Officer
+  totalPay: 2539550
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William F. Gifford Jr.
+  title: Consultant
+  totalPay: 10275278
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel J. Bryant
+  title: VP, Senior Vice President Technology & Corporate Development and Treasurer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mac  Livingston
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert A. McCarter III, J.D.
+  title: Executive VP & General Counsel
+  totalPay: 2070638
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer  Hunter
+  title: Senior VP of Corporate Citizenship & Chief Sustainability Officer - Altria
+    Client Services LLC
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shannon  Leistra
+  title: President & CEO of NJOY, LLC, Senior VP and Chief Growth Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 76.53
+currentRatio: 0.579
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 76.57
+dayLow: 75.53
+displayName: Altria
+dividendDate: 1791504000
+dividendRate: 4.44
+dividendYield: 5.82
+earningsCallTimestampEnd: 1793278800
+earningsCallTimestampStart: 1793278800
+earningsGrowth: 0.067
+earningsQuarterlyGrowth: 0.06
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1801143000
+earningsTimestampStart: 1801143000
+ebitda: 12862999552
+ebitdaMargins: 0.62339
+enterpriseToEbitda: 11.537
+enterpriseToRevenue: 7.192
+enterpriseValue: 148402782208
+epsCurrentYear: 5.69321
+epsForward: 5.92201
+epsTrailingTwelveMonths: 4.85
+esgPopulated: false
+exDividendDate: 1789430400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 71.6876
+fiftyDayAverageChange: 4.8423996
+fiftyDayAverageChangePercent: 0.06754864
+fiftyTwoWeekChangePercent: 31.507324
+fiftyTwoWeekHigh: 79.87
+fiftyTwoWeekHighChange: -3.340004
+fiftyTwoWeekHighChangePercent: -0.041818004
+fiftyTwoWeekLow: 54.7
+fiftyTwoWeekLowChange: 21.829998
+fiftyTwoWeekLowChangePercent: 0.39908588
+fiftyTwoWeekRange: 54.7 - 79.87
+financialCurrency: USD
+firstTradeDateMilliseconds: -252322200000
+fiveYearAvgDividendYield: 7.38
+floatShares: 1660143310
+forwardEps: 5.92201
+forwardPE: 12.922977
+freeCashflow: 7057249792
+fullExchangeName: NYSE
+fullTimeEmployees: 5900
+fulldayChange: 0.19000244
+fulldayChangePercent: 0.24888977
+fulldayPrice: 76.53
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.72433996
+grossProfits: 14945999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0012899999
+heldPercentInstitutions: 0.65494
+impliedSharesOutstanding: 1663436915
+industry: Tobacco
+industryDisp: Tobacco
+industryKey: tobacco
+irWebsite: http://investor.altria.com/phoenix.zhtml?c=80855&p=irol-irhome&src=top_nav
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1789430400
+lastDividendValue: 1.11
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 860716800
+lastSplitFactor: '3:1'
+longBusinessSummary: Altria Group, Inc., through its subsidiaries, manufactures and
+  sells smokeable and oral tobacco products in the United States. It offers cigarettes
+  primarily under the Marlboro brand; large cigars and pipe tobacco under the Black
+  & Mild brand; moist smokeless tobacco and oral tobacco products under the Copenhagen,
+  Skoal, Red Seal, and Husky brands; oral nicotine pouches under the on! brand; and
+  e-vapor products under the NJOY ACE brand. The company sells its products to distributors,
+  as well as large retail organizations, such as chain stores. Altria Group, Inc.
+  was founded in 1822 and is headquartered in Richmond, Virginia.
+longName: Altria Group, Inc.
+market: us_market
+marketCap: 127302828032
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_53839346
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 8096000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 126986774091
+numberOfAnalystOpinions: 11
+open: 75.58
+operatingCashflow: 9422000128
+operatingMargins: 0.61244
+overallRisk: 3
+payoutRatio: 0.88449997
+pegRatio: 2.9
+phone: 804 274 2200
+previousClose: 76.34
+priceEpsCurrentYear: 13.442328
+priceHint: 2
+priceToBook: -57.24009
+priceToSalesTrailing12Months: 6.169566
+profitMargins: 0.39333
+quickRatio: 0.367
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.64286
+region: US
+regularMarketChange: 0.19000244
+regularMarketChangePercent: 0.24888977
+regularMarketDayHigh: 76.57
+regularMarketDayLow: 75.53
+regularMarketDayRange: 75.53 - 76.57
+regularMarketOpen: 75.58
+regularMarketPreviousClose: 76.34
+regularMarketPrice: 76.53
+regularMarketTime: 1794413723
+regularMarketVolume: 1716080
+returnOnAssets: 0.22733
+revenueGrowth: 0.036
+revenuePerShare: 12.337
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 6
+sharesOutstanding: 1663436915
+sharesPercentSharesOut: 0.024300002
+sharesShort: 40483939
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 37631259
+shortName: Altria Group, Inc.
+shortPercentOfFloat: 0.024400001
+shortRatio: 4.9
+sourceInterval: 15
+state: VA
+symbol: MO
+targetHighPrice: 85.0
+targetLowPrice: 59.0
+targetMeanPrice: 73.45455
+targetMedianPrice: 73.0
+totalCash: 2696999936
+totalCashPerShare: 1.621
+totalDebt: 24060999680
+totalRevenue: 20633999360
+tradeable: false
+trailingAnnualDividendRate: 4.29
+trailingAnnualDividendYield: 0.056195967
+trailingEps: 4.85
+trailingPE: 15.779382
+trailingPegRatio: 2.9046
+triggerable: true
+twoHundredDayAverage: 69.41075
+twoHundredDayAverageChange: 7.1192474
+twoHundredDayAverageChangePercent: 0.10256693
+typeDisp: Equity
+volume: 1716080
+website: https://www.altria.com
+zip: '23230'

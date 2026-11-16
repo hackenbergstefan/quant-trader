@@ -1,0 +1,264 @@
+52WeekChange: 0.14403558
+SandP52WeekChange: 0.097798586
+address1: Avenida de Pio XII, 102
+allTimeHigh: 141.2
+allTimeLow: 8.735079
+ask: 91.85
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 463950
+averageDailyVolume3Month: 457896
+averageVolume: 457896
+averageVolume10days: 463950
+beta: 0.633
+bid: 91.8
+bidSize: 0
+boardRisk: 5
+bookValue: 22.719
+city: Madrid
+companyOfficers:
+- age: 78
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Florentino  Pérez Rodríguez
+  title: Executive Chairman
+  totalPay: 9137000
+  unexercisedValue: 0
+  yearBorn: 1947
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juan Santamaria Cases
+  title: CEO & Director
+  totalPay: 8459000
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 75
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jose-Luis  del Valle Perez L.L.B.
+  title: General Secretary & Executive Director
+  totalPay: 4978000
+  unexercisedValue: 0
+  yearBorn: 1950
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Emilio Grande Royo-Villanova L.L.B.
+  title: Chief Financial Officer
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cristina  Aldamiz-Echevarría González de Durana
+  title: Head of Associates, Operations & Sustainability
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Paula Garcia Arango
+  title: Head of Compliance & Corporate Governance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alfonso Esteban Morena Garcia
+  title: Chief Legal Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juan Jose Diaz Clavel
+  title: Head of Communications
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Martina  Steffen
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 76
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ángel Manuel García Altozano
+  title: Corporate General Manager
+  unexercisedValue: 0
+  yearBorn: 1949
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: Spain
+cryptoTradeable: false
+currency: EUR
+currentPrice: 91.85
+currentRatio: 1.25
+customPriceAlertConfidence: LOW
+dayHigh: 92.7
+dayLow: 90.15
+debtToEquity: 256.777
+dividendRate: 2.32
+dividendYield: 2.58
+earningsCallTimestampEnd: 1794564000
+earningsCallTimestampStart: 1794564000
+earningsGrowth: 0.05
+earningsQuarterlyGrowth: 0.073
+earningsTimestamp: 1794501000
+earningsTimestampEnd: 1794501000
+earningsTimestampStart: 1794501000
+ebitda: 2322007040
+ebitdaMargins: 0.04473
+enterpriseToEbitda: 10.658
+enterpriseToRevenue: 0.477
+enterpriseValue: 24747644928
+epsCurrentYear: 4.15913
+epsForward: 5.02516
+epsTrailingTwelveMonths: 4.58
+esgPopulated: false
+exDividendDate: 1782691200
+exchange: MCE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Madrid
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 92.893
+fiftyDayAverageChange: -1.0429993
+fiftyDayAverageChangePercent: -0.011227964
+fiftyTwoWeekChangePercent: 14.403558
+fiftyTwoWeekHigh: 141.2
+fiftyTwoWeekHighChange: -49.35
+fiftyTwoWeekHighChangePercent: -0.34950423
+fiftyTwoWeekLow: 71.35
+fiftyTwoWeekLowChange: 20.5
+fiftyTwoWeekLowChangePercent: 0.28731605
+fiftyTwoWeekRange: 71.35 - 141.2
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1009958400000
+fiveYearAvgDividendYield: 3.99
+floatShares: 176956487
+forwardEps: 5.02516
+forwardPE: 18.278025
+freeCashflow: 2974129664
+fullExchangeName: MCE
+fullTimeEmployees: 152300
+fulldayChange: 1.699997
+fulldayChangePercent: 1.8857425
+fulldayPrice: 91.85
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.30715
+grossProfits: 15943461888
+hasPrePostMarketData: false
+heldPercentInsiders: 0.20138
+heldPercentInstitutions: 0.31826
+impliedSharesOutstanding: 260074584
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1782691200
+lastDividendValue: 1.866
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'ACS, Actividades de Construcción y Servicios, S.A. provides
+  construction and related services in Spain, the United States, Australia, Canada,
+  Germany, the rest of Europe, and internationally. It operates through five segments:
+  Turner, CIMIC, Engineering and Construction, Infrastructure, and Other. The Turner
+  segment offers comprehensive construction and project management services, focusing
+  on high-tech growth markets, including data centers and battery plants, primarily
+  in North America. The CIMIC segment delivers construction, services, and public-private
+  partnership (PPP) solutions, and includes mining services through Thiess. The Engineering
+  and Construction segment encompasses Dragados'' activities in Europe and North America,
+  as well as Hochtief''s construction and PPP operations in Europe. The Infrastructure
+  segment covers Iridium and ACS Digital & Energy, and manages a 50% equity interest
+  in Abertis Infraestructuras, S.A., focusing on digitalization, energy transition,
+  sustainable mobility, concessions, and traditional infrastructure across Europe,
+  Latin America, and North America. The Other segment comprises real estate, renewable
+  energy, water assets, facilities management, social and health services, and insurance
+  activities. The company offers services such as public and private works construction,
+  maintenance and operation of transport and urban infrastructure, building restoration,
+  development and management of energy and digital infrastructure, environmental services,
+  waste treatment, logistics, and auxiliary urban services. ACS, Actividades de Construcción
+  y Servicios, S.A. was incorporated in 1942 and is based in Madrid, Spain.'
+longName: ACS, Actividades de Construcción y Servicios, S.A.
+market: es_market
+marketCap: 23887851520
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_780678
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1010313984
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 23445723747
+numberOfAnalystOpinions: 17
+open: 91.05
+operatingCashflow: 3208617984
+operatingMargins: 0.03265
+overallRisk: 6
+payoutRatio: 0.6102
+pegRatio: 1.08
+phone: 34 91 343 92 00
+previousClose: 90.15
+priceEpsCurrentYear: 22.083944
+priceHint: 2
+priceToBook: 4.0428715
+priceToSalesTrailing12Months: 0.46020356
+profitMargins: 0.01946
+quickRatio: 1.122
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.70588
+region: US
+regularMarketChange: 1.699997
+regularMarketChangePercent: 1.8857425
+regularMarketDayHigh: 92.7
+regularMarketDayLow: 90.15
+regularMarketDayRange: 90.15 - 92.7
+regularMarketOpen: 91.05
+regularMarketPreviousClose: 90.15
+regularMarketPrice: 91.85
+regularMarketTime: 1794411554
+regularMarketVolume: 253594
+returnOnAssets: 0.023239998
+returnOnEquity: 0.2408
+revenueGrowth: 0.122
+revenuePerShare: 199.273
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 260074584
+shortName: ACS,ACTIVIDADES DE CONSTRUCCION
+sourceInterval: 15
+symbol: ACS.MC
+targetHighPrice: 153.1
+targetLowPrice: 99.75
+targetMeanPrice: 128.29706
+targetMedianPrice: 130.0
+totalCash: 15832857600
+totalCashPerShare: 59.535
+totalDebt: 16299728896
+totalRevenue: 51907141632
+tradeable: false
+trailingAnnualDividendRate: 2.323
+trailingAnnualDividendYield: 0.025768163
+trailingEps: 4.58
+trailingPE: 20.054585
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 109.86175
+twoHundredDayAverageChange: -18.01175
+twoHundredDayAverageChangePercent: -0.16394924
+typeDisp: Equity
+volume: 253594
+website: https://www.grupoacs.com
+zip: '28036'

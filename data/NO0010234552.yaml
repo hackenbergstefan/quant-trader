@@ -1,0 +1,259 @@
+52WeekChange: 0.3456335
+SandP52WeekChange: 0.097798586
+address1: Oksenøyveien 10
+allTimeHigh: 1638.0
+allTimeLow: 2.58
+ask: 1126.0
+askSize: 1117
+auditRisk: 7
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 120175
+averageDailyVolume3Month: 133482
+averageVolume: 133482
+averageVolume10days: 120175
+beta: 0.402
+bid: 1122.0
+bidSize: 1084
+boardRisk: 10
+bookValue: 910.751
+city: Lysaker
+companyOfficers:
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kjell Inge Roekke
+  title: Chairman
+  totalPay: 736000
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oyvind  Eriksen
+  title: President & CEO
+  totalPay: 36558512
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Svein Oskar Stoknes
+  title: Chief Financial Officer
+  totalPay: 14936397
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard  Silén
+  title: Chief Investment Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fredrik  Berge
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Charlotte Cecilie Solberg Hakonsen
+  title: General Counsel
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 37
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christina Chappell Schartum
+  title: Head of Communications and Office of the CEO
+  unexercisedValue: 0
+  yearBorn: 1988
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Atle  Kigen
+  title: Head of Media Relations & Public Affairs
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Torbjorn  Kjus
+  title: Chief Economist
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kristian Monsen Rokke
+  title: Chief Executive Officer of Aker Horizon
+  totalPay: 5571383
+  unexercisedValue: 0
+  yearBorn: 1983
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: Norway
+cryptoTradeable: false
+currency: NOK
+currentPrice: 1130.0
+currentRatio: 1.725
+customPriceAlertConfidence: LOW
+dayHigh: 1130.0
+dayLow: 1098.0
+debtToEquity: 63.644
+dividendRate: 58.0
+dividendYield: 5.3
+earningsCallTimestampEnd: 1793779200
+earningsCallTimestampStart: 1793779200
+earningsTimestamp: 1793805600
+earningsTimestampEnd: 1793805600
+earningsTimestampStart: 1793805600
+ebitda: 28946999296
+ebitdaMargins: 0.71898
+enterpriseToEbitda: 4.428
+enterpriseToRevenue: 3.184
+enterpriseValue: 128190472192
+epsForward: 26.25
+epsTrailingTwelveMonths: 378.91
+esgPopulated: false
+exDividendDate: 1793923200
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 1356.92
+fiftyDayAverageChange: -226.92004
+fiftyDayAverageChangePercent: -0.1672317
+fiftyTwoWeekChangePercent: 34.56335
+fiftyTwoWeekHigh: 1638.0
+fiftyTwoWeekHighChange: -508.0
+fiftyTwoWeekHighChangePercent: -0.31013432
+fiftyTwoWeekLow: 718.0
+fiftyTwoWeekLowChange: 412.0
+fiftyTwoWeekLowChangePercent: 0.5738162
+fiftyTwoWeekRange: 718.0 - 1638.0
+financialCurrency: NOK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 4.03
+floatShares: 24032582
+forwardEps: 26.25
+forwardPE: 43.04762
+freeCashflow: 12094249984
+fullExchangeName: Oslo
+fullTimeEmployees: 2799
+fulldayChange: 36.0
+fulldayChangePercent: 3.2906764
+fulldayPrice: 1130.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.90296
+grossProfits: 36353998848
+hasPrePostMarketData: false
+heldPercentInsiders: 0.72374
+heldPercentInstitutions: 0.14926
+impliedSharesOutstanding: 73724281
+industry: Conglomerates
+industryDisp: Conglomerates
+industryKey: conglomerates
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793923200
+lastDividendValue: 29.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Aker ASA operates as an industrial investment company in Norway,
+  Europa, North America, South America, and internationally. The company operates
+  in two segments: Listed Equity Investments and Unlisted Equity Investments. It is
+  involved in exploration and production of oil and gas; provision of offshore supply
+  vessels to global offshore energy markets. In addition, the company develops and
+  supplies krill-based products, and health and nutrition products; long-term property
+  development and management; industrial software, artificial intelligence (AI) solutions
+  and infrastructure, that improve efficiency and decision-making across capital-intensive
+  industries; oil and gas production and energy services; renewable energy sector;
+  and harvesting and processing of marine biomass for human, and animal nutrition.
+  Further, it offers subscriptions to access the software-as-a-service (SaaS) applications.
+  Additionally, the company engages in real estate activities. The company was founded
+  in 1841 and is based in Lysaker, Norway. Aker ASA operates as a subsidiary of TRG
+  Holding AS.'
+longName: Aker ASA
+market: no_market
+marketCap: 83308437504
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_12074458
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 28064999424
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 80654363414
+numberOfAnalystOpinions: 4
+open: 1098.0
+operatingCashflow: 4908000256
+operatingMargins: 0.682
+overallRisk: 10
+payoutRatio: 0.1457
+pegRatio: 1.88
+phone: 47 24 13 00 00
+previousClose: 1094.0
+priceHint: 2
+priceToBook: 1.2407343
+priceToSalesTrailing12Months: 2.0692093
+profitMargins: 0.693
+quickRatio: 0.403
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.75
+region: US
+regularMarketChange: 36.0
+regularMarketChangePercent: 3.2906764
+regularMarketDayHigh: 1130.0
+regularMarketDayLow: 1098.0
+regularMarketDayRange: 1098.0 - 1130.0
+regularMarketOpen: 1098.0
+regularMarketPreviousClose: 1094.0
+regularMarketPrice: 1130.0
+regularMarketTime: 1794410948
+regularMarketVolume: 144968
+returnOnAssets: 0.15858
+returnOnEquity: 0.45133
+revenueGrowth: 3.605
+revenuePerShare: 541.997
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 4
+sharesOutstanding: 73724281
+shortName: AKER
+sourceInterval: 15
+symbol: AKER.OL
+targetHighPrice: 2100.0
+targetLowPrice: 1425.0
+targetMeanPrice: 1755.0
+targetMedianPrice: 1747.5
+totalCash: 3097999872
+totalCashPerShare: 41.702
+totalDebt: 45766000640
+totalRevenue: 40261001216
+tradeable: false
+trailingAnnualDividendRate: 29.0
+trailingAnnualDividendYield: 0.026508227
+trailingEps: 378.91
+trailingPE: 2.9822385
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 1202.915
+twoHundredDayAverageChange: -72.91504
+twoHundredDayAverageChangePercent: -0.060615286
+typeDisp: Equity
+volume: 144968
+website: https://www.akerasa.com
+zip: '1366'

@@ -1,0 +1,258 @@
+52WeekChange: 0.026600122
+SandP52WeekChange: 0.097798586
+address1: Hardturmstrasse 181
+allTimeHigh: 2382.0
+allTimeLow: 108.0
+ask: 1225.0
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 3.2 - Hold
+averageDailyVolume10Day: 14709
+averageDailyVolume3Month: 11119
+averageVolume: 11119
+averageVolume10days: 14709
+beta: 0.101
+bid: 1222.0
+bidSize: 0
+boardRisk: 5
+bookValue: 511.025
+city: Zurich
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Hein M. A. Schumacher
+  title: Chief Executive Officer
+  totalPay: 3100157
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Peter  Vanneste
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Sophie  Lang
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Victoria  Gazzo
+  title: Chief People & Culture Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Steven  Retzlaff
+  title: Executive Chairman of Future Farming Initiative
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Erich  Steinegger
+  title: Head of Group Reporting & Risk Management
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dries  Roekaerts
+  title: President of Customer Experience
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Dhruv  Bhatia
+  title: Managing Director of Japan
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Ben  De Schryver
+  title: President North America
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Dhruva Jyoti Sanyal
+  title: Managing Director of India
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 5
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 1222.0
+currentRatio: 1.602
+customPriceAlertConfidence: LOW
+dayHigh: 1241.0
+dayLow: 1210.0
+debtToEquity: 149.362
+dividendDate: 1736380800
+dividendRate: 29.0
+dividendYield: 2.35
+earningsCallTimestampEnd: 1793809800
+earningsCallTimestampStart: 1793809800
+earningsGrowth: -0.561
+earningsQuarterlyGrowth: -0.559
+earningsTimestamp: 1793809800
+earningsTimestampEnd: 1793809800
+earningsTimestampStart: 1793809800
+ebitda: 776270976
+ebitdaMargins: 0.06368
+enterpriseToEbitda: 11.91
+enterpriseToRevenue: 0.758
+enterpriseValue: 9245488128
+epsCurrentYear: 53.6517
+epsForward: 63.02532
+epsTrailingTwelveMonths: 28.54
+esgPopulated: false
+exDividendDate: 1768176000
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 1127.6
+fiftyDayAverageChange: 94.400024
+fiftyDayAverageChangePercent: 0.08371765
+fiftyTwoWeekChangePercent: 2.6600122
+fiftyTwoWeekHigh: 1538.0
+fiftyTwoWeekHighChange: -316.0
+fiftyTwoWeekHighChangePercent: -0.20546164
+fiftyTwoWeekLow: 1024.0
+fiftyTwoWeekLowChange: 198.0
+fiftyTwoWeekLowChangePercent: 0.19335938
+fiftyTwoWeekRange: 1024.0 - 1538.0
+financialCurrency: CHF
+firstTradeDateMilliseconds: 900658800000
+fiveYearAvgDividendYield: 1.86
+floatShares: 3810312
+forwardEps: 63.02532
+forwardPE: 19.389034
+freeCashflow: 1848281344
+fullExchangeName: Swiss
+fullTimeEmployees: 13267
+fulldayChange: -13.0
+fulldayChangePercent: -1.0526316
+fulldayPrice: 1222.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.109960005
+grossProfits: 1340375040
+hasPrePostMarketData: false
+heldPercentInsiders: 0.35854
+heldPercentInstitutions: 0.41013
+impliedSharesOutstanding: 5484120
+industry: Confectioners
+industryDisp: Confectioners
+industryKey: confectioners
+irWebsite: http://www.barry-callebaut.com/investors
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1768176000
+lastDividendValue: 29.0
+lastFiscalYearEnd: 1788134400
+longBusinessSummary: Barry Callebaut AG, together with its subsidiaries, engages in
+  the manufacture and sale of chocolate and cocoa products in Western Europe, North
+  America, Central and Eastern Europe, Latin America, and internationally. It operates
+  in two segments, Global Chocolate and Global Cocoa. It offers chocolates, chips
+  and chunks, cocoa, cacao fruit, fillings, coatings, nuts, decorations and inclusions,
+  and food colorants, as well as beverage products for vending machines. The company
+  is also involved in the sourcing of ingredients for chocolate production and cocoa-processing
+  business, as well as offers dairy products and drinks, ice cream, and desserts.
+  In addition, it provides centralized treasury and management services, captive reinsurance,
+  research and development services, and conference and training services through
+  CHOCOLATE ACADEMY centers. The company markets its products under the American Almond,
+  Barry Callebaut, Cacao Barry, Cacaofruit, Callebaut, Caprimo, Carma, Dings Décor,
+  Gertrude Hawk Ingredients, Mona Lisa, Van Houten, and Van Leer Chocolates brands.
+  It serves food manufacturers and artisans, as well as professional users of chocolate,
+  including chocolatiers, pastry chefs, bakers, hotels, restaurants and caterers.
+  Barry Callebaut AG was founded in 1996 and is headquartered in Zurich, Switzerland.
+longName: Barry Callebaut AG
+market: ch_market
+marketCap: 6701594624
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_828895
+mostRecentQuarter: 1788134400
+netIncomeToCommon: 157240000
+nextFiscalYearEnd: 1819670400
+nonDilutedMarketCap: 6772888200
+numberOfAnalystOpinions: 12
+open: 1233.0
+operatingCashflow: 2236899072
+operatingMargins: 0.04966
+overallRisk: 3
+payoutRatio: 1.0161
+pegRatio: 0.55
+phone: 41 43 204 04 04
+previousClose: 1235.0
+priceEpsCurrentYear: 22.776539
+priceHint: 2
+priceToBook: 2.3912725
+priceToSalesTrailing12Months: 0.54978096
+profitMargins: 0.0128999995
+quickRatio: 0.558
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.23077
+region: US
+regularMarketChange: -13.0
+regularMarketChangePercent: -1.0526316
+regularMarketDayHigh: 1241.0
+regularMarketDayLow: 1210.0
+regularMarketDayRange: 1210.0 - 1241.0
+regularMarketOpen: 1233.0
+regularMarketPreviousClose: 1235.0
+regularMarketPrice: 1222.0
+regularMarketTime: 1794411554
+regularMarketVolume: 8145
+returnOnAssets: 0.031070001
+returnOnEquity: 0.05804
+revenueGrowth: -0.275
+revenuePerShare: 2222.505
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 1
+sharesOutstanding: 5484120
+shortName: BARRY CALLEBAUT N
+sourceInterval: 15
+symbol: BARN.SW
+targetHighPrice: 1430.0
+targetLowPrice: 960.0
+targetMeanPrice: 1195.0
+targetMedianPrice: 1205.0
+totalCash: 1724817024
+totalCashPerShare: 314.511
+totalDebt: 4192802048
+totalRevenue: 12189572096
+tradeable: false
+trailingAnnualDividendRate: 29.0
+trailingAnnualDividendYield: 0.02348178
+trailingEps: 28.54
+trailingPE: 42.817097
+trailingPegRatio: 0.5392
+triggerable: false
+twoHundredDayAverage: 1202.16
+twoHundredDayAverageChange: 19.839966
+twoHundredDayAverageChangePercent: 0.016503599
+typeDisp: Equity
+volume: 8145
+website: https://www.barry-callebaut.com
+zip: '8005'

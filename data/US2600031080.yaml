@@ -1,0 +1,295 @@
+52WeekChange: 0.1545583
+SandP52WeekChange: 0.097798586
+address1: 3005 Highland Parkway
+allTimeHigh: 237.54
+allTimeLow: 1.382567
+ask: 212.8
+askSize: 100
+auditRisk: 5
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 1570290
+averageDailyVolume3Month: 1238475
+averageVolume: 1238475
+averageVolume10days: 1570290
+beta: 1.095
+bid: 212.44
+bidSize: 200
+boardRisk: 6
+bookValue: 57.41
+city: Downers Grove
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard Joseph Tobin
+  title: President, CEO & Chairman of the Board
+  totalPay: 4154461
+  unexercisedValue: 64864776
+  yearBorn: 1961
+- age: 42
+  exercisedValue: 429170
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher B. Woenker
+  title: Senior VP & CFO
+  totalPay: 982555
+  unexercisedValue: 1749322
+  yearBorn: 1983
+- age: 58
+  exercisedValue: 5602309
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ivonne M. Cabrera
+  title: Senior VP, General Counsel & Secretary
+  totalPay: 1288803
+  unexercisedValue: 10648096
+  yearBorn: 1967
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey C. Yehle
+  title: Chief Human Resources Officer & Senior VP
+  totalPay: 1034245
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Girish  Juneja
+  title: Senior VP & Chief Digital Officer
+  totalPay: 1114297
+  unexercisedValue: 3931059
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ryan W. Paulson
+  title: Principal Accounting Officer, VP & Controller
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jack  Dickens
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adrian W. Sakowicz
+  title: Vice President of Communications
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James M. Moran
+  title: VP & Treasurer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Karl  Buscher
+  title: President of Pump Solutions Group
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: DOV announced a cash dividend of $0.525 with an ex-date of Nov. 30, 2026
+  meta:
+    amount: '0.525'
+    dateEpochMs: 1796014800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 212.57
+currentRatio: 1.946
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 214.345
+dayLow: 211.235
+debtToEquity: 42.753
+displayName: Dover
+dividendDate: 1797292800
+dividendRate: 2.1
+dividendYield: 0.99
+earningsCallTimestampEnd: 1792675800
+earningsCallTimestampStart: 1792675800
+earningsGrowth: 0.129
+earningsQuarterlyGrowth: 0.104
+earningsTimestamp: 1792672200
+earningsTimestampEnd: 1801143000
+earningsTimestampStart: 1801143000
+ebitda: 1959284992
+ebitdaMargins: 0.22845
+enterpriseToEbitda: 15.194
+enterpriseToRevenue: 3.471
+enterpriseValue: 29769043968
+epsCurrentYear: 10.68561
+epsForward: 11.78157
+epsTrailingTwelveMonths: 8.57
+esgPopulated: false
+exDividendDate: 1795996800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 630 743 2671
+fiftyDayAverage: 195.3422
+fiftyDayAverageChange: 17.227814
+fiftyDayAverageChangePercent: 0.088193
+fiftyTwoWeekChangePercent: 15.45583
+fiftyTwoWeekHigh: 237.54
+fiftyTwoWeekHighChange: -24.969986
+fiftyTwoWeekHighChangePercent: -0.10511908
+fiftyTwoWeekLow: 177.87
+fiftyTwoWeekLowChange: 34.700012
+fiftyTwoWeekLowChangePercent: 0.19508637
+fiftyTwoWeekRange: 177.87 - 237.54
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 1.2
+floatShares: 132046041
+forwardEps: 11.78157
+forwardPE: 18.042587
+freeCashflow: 863526400
+fullExchangeName: NYSE
+fullTimeEmployees: 24000
+fulldayChange: 0.5700073
+fulldayChangePercent: 0.26887137
+fulldayPrice: 212.57
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.40228
+grossProfits: 3450210048
+hasPrePostMarketData: true
+heldPercentInsiders: 0.01272
+heldPercentInstitutions: 0.93634003
+impliedSharesOutstanding: 133007687
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=85517&p=irol-stockchart
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788134400
+lastDividendValue: 0.525
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1525824000
+lastSplitFactor: 1238:1000
+longBusinessSummary: Dover Corporation provides equipment and components, consumable
+  supplies, aftermarket parts, software and digital solutions, and support services
+  worldwide. The company's Engineered Products segment provides various equipment,
+  component, software, solution, and services that are used in vehicle aftermarket,
+  aerospace and defense, industrial winch and hoist, and fluid dispensing end-market.
+  This segment offers software solutions and services used in light and heavy-duty
+  vehicle lifts, wheel service equipment, vehicle diagnostics, and vehicle collision
+  repair solutions; winches, hoists, bearings, drives, and electric monitoring system;
+  and radio frequency and microwave filters and switches, and signal intelligence
+  solutions, as well as soldering and fluid dispensing solutions. Its Clean Energy
+  & Fueling segment offers component, equipment, and software and service solution
+  enabling safe storage and transport of fuel, cryogenic gases, and hazardous fluids,
+  as well as operation of retail fueling and vehicle wash establishment. The company's
+  Imaging & Identification segment provides precision marking and coding, product
+  traceability equipment, brand protection, and digital textile printing equipment
+  and solution, as well as consumable, software, and service to packaged and consumer
+  goods, pharmaceutical, industrial manufacturing, textile, and other end-market.
+  Its Pumps & Process Solutions segment manufactures specialty pump, connector, flow
+  meter, fluid connecting solution, plastics and polymer processing equipment, and
+  engineered components for rotating and reciprocating machines. The company's Climate
+  & Sustainability Technologies segment manufactures refrigeration system, refrigeration
+  display case, commercial glass refrigerator and freezer door, and brazed plate heat
+  exchanger for industrial heating and cooling, and residential climate control applications.
+  Dover Corporation was incorporated in 1947 and is headquartered in Downers Grove,
+  Illinois.
+longName: Dover Corporation
+market: us_market
+marketCap: 28273444864
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_174901
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1162880000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 28197629644
+numberOfAnalystOpinions: 19
+open: 213.43
+operatingCashflow: 1406178048
+operatingMargins: 0.18280001
+overallRisk: 3
+payoutRatio: 0.2433
+pegRatio: 1.43
+phone: 630 541 1540
+previousClose: 212.0
+priceEpsCurrentYear: 19.89311
+priceHint: 2
+priceToBook: 3.702665
+priceToSalesTrailing12Months: 3.2965941
+profitMargins: 0.13596
+quickRatio: 1.281
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.57895
+region: US
+regularMarketChange: 0.5700073
+regularMarketChangePercent: 0.26887137
+regularMarketDayHigh: 214.345
+regularMarketDayLow: 211.235
+regularMarketDayRange: 211.235 - 214.345
+regularMarketOpen: 213.43
+regularMarketPreviousClose: 212.0
+regularMarketPrice: 212.57
+regularMarketTime: 1794413730
+regularMarketVolume: 179394
+returnOnAssets: 0.07231
+returnOnEquity: 0.15201999
+revenueGrowth: 0.075
+revenuePerShare: 63.541
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 4
+sharesOutstanding: 133007687
+sharesPercentSharesOut: 0.033
+sharesShort: 4391692
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4918028
+shortName: Dover Corporation
+shortPercentOfFloat: 0.0382
+shortRatio: 3.59
+sourceInterval: 15
+state: IL
+symbol: DOV
+targetHighPrice: 284.0
+targetLowPrice: 178.0
+targetMeanPrice: 238.78947
+targetMedianPrice: 245.0
+totalCash: 1693175040
+totalCashPerShare: 12.73
+totalDebt: 3264590080
+totalRevenue: 8576562176
+tradeable: false
+trailingAnnualDividendRate: 2.085
+trailingAnnualDividendYield: 0.009834906
+trailingEps: 8.57
+trailingPE: 24.803968
+trailingPegRatio: 1.4349
+triggerable: true
+twoHundredDayAverage: 209.9051
+twoHundredDayAverageChange: 2.6649017
+twoHundredDayAverageChangePercent: 0.012695746
+typeDisp: Equity
+volume: 179394
+website: https://www.dovercorporation.com
+zip: '60515'

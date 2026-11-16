@@ -1,0 +1,259 @@
+52WeekChange: 0.02934277
+SandP52WeekChange: 0.097798586
+address1: 33 Charterhouse Street
+allTimeHigh: 668.0
+allTimeLow: 168.7
+ask: 349.3
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 9188120
+averageDailyVolume3Month: 8032420
+averageVolume: 8032420
+averageVolume10days: 9188120
+beta: 0.958
+bid: 349.2
+bidSize: 0
+boardRisk: 1
+bookValue: 2.475
+city: London
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Simon John Roberts
+  title: CEO, Chairman of Operating Board & Director
+  totalPay: 3004000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Blathnaid  Bergin
+  title: CFO, Member of Operating Board & Director
+  totalPay: 1839000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Mark  Given
+  title: Chief Technology, Marketing & Data Officer and Member of Operating Board
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Patrick  Dunne
+  title: Chief Property & Procurement Officer, MD Smart Charge and Member of Operating
+    Board
+  unexercisedValue: 0
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Graham  Biggart
+  title: Managing Director Argos, Chief Strategy & Supply Officer and Member of Operating
+    Board
+  unexercisedValue: 0
+  yearBorn: 1986
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Rhian Helen Bartlett
+  title: Chief Commercial & Sustainability Officer and Member of Operating Board
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Tracey  Clements
+  title: Chief Retail, Logistics & Supply Chain Officer and Member of Operating Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Amy  Morgan
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Nicolas  Grant
+  title: General Counsel & Company Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. James  Collins
+  title: Director of Investor Relations & Financial Planning
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: SBRY.L announced a cash dividend of GBp 0.041 with an ex-date of Nov. 12,
+    2026
+  meta:
+    amount: '0.041'
+    dateEpochMs: 1794441600000
+    eventType: DIVIDEND
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 349.218
+currentRatio: 0.592
+customPriceAlertConfidence: LOW
+dayHigh: 352.4
+dayLow: 348.4
+debtToEquity: 115.359
+dividendRate: 0.14
+dividendYield: 3.91
+earningsCallTimestampEnd: 1792656000
+earningsCallTimestampStart: 1792656000
+earningsTimestamp: 1792683000
+earningsTimestampEnd: 1792683000
+earningsTimestampStart: 1792683000
+ebitda: 1528999936
+ebitdaMargins: 0.04459
+enterpriseToEbitda: 8.723
+enterpriseToRevenue: 0.389
+enterpriseValue: 13338110976
+epsCurrentYear: 0.23925
+epsForward: 0.26469
+epsTrailingTwelveMonths: 0.19
+esgPopulated: false
+exDividendDate: 1794441600
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 341.024
+fiftyDayAverageChange: 8.194
+fiftyDayAverageChangePercent: 0.024027636
+fiftyTwoWeekChangePercent: 2.934277
+fiftyTwoWeekHigh: 380.3
+fiftyTwoWeekHighChange: -31.082
+fiftyTwoWeekHighChangePercent: -0.08173022
+fiftyTwoWeekLow: 293.7
+fiftyTwoWeekLowChange: 55.517975
+fiftyTwoWeekLowChangePercent: 0.18902953
+fiftyTwoWeekRange: 293.7 - 380.3
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 4.7
+floatShares: 1625823632
+forwardEps: 0.26469
+forwardPE: 13.19347
+freeCashflow: 1105500032
+fullExchangeName: LSE
+fullTimeEmployees: 139087
+fulldayChange: -1.5820007
+fulldayChangePercent: -0.45096943
+fulldayPrice: 349.218
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.0664
+grossProfits: 2276999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.05624
+heldPercentInstitutions: 0.66403997
+impliedSharesOutstanding: 2177093466
+industry: Grocery Stores
+industryDisp: Grocery Stores
+industryKey: grocery-stores
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794441600
+lastDividendValue: 0.041
+lastFiscalYearEnd: 1772236800
+lastSplitDate: 1090195200
+lastSplitFactor: '7:8'
+longBusinessSummary: J Sainsbury plc, together with its subsidiaries, engages in the
+  food, general merchandise and clothing retailing, and financial services activities
+  in the United Kingdom. The company operates through Retail and Financial Services
+  segments. It sells food, household, general merchandise, clothing, and fuel through
+  convenience stores and supermarkets, as well as online channels. The company also
+  provides banking and insurance services. It offers its products under the Sainsbury's,
+  Argos, Habitat, Tu, Smart Charge, Nectar, Nectar360, and Sainsbury's Bank brand
+  names. The company was founded in 1869 and is headquartered in London, the United
+  Kingdom.
+longName: J Sainsbury plc
+market: gb_market
+marketCap: 7602801664
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_409932
+mostRecentQuarter: 1789171200
+netIncomeToCommon: 436000000
+nextFiscalYearEnd: 1803772800
+nonDilutedMarketCap: 7637243878
+numberOfAnalystOpinions: 14
+open: 349.9
+operatingCashflow: 1506000000
+operatingMargins: 0.02992
+overallRisk: 1
+payoutRatio: 0.72110003
+pegRatio: 1.49
+phone: 44 20 7695 6000
+previousClose: 350.8
+priceEpsCurrentYear: 1459.6362
+priceHint: 2
+priceToBook: 1.4109818
+priceToSalesTrailing12Months: 0.22169481
+profitMargins: 0.0021600001
+quickRatio: 0.172
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.71429
+region: US
+regularMarketChange: -1.5820007
+regularMarketChangePercent: -0.45096943
+regularMarketDayHigh: 352.4
+regularMarketDayLow: 348.4
+regularMarketDayRange: 348.4 - 352.4
+regularMarketOpen: 349.9
+regularMarketPreviousClose: 350.8
+regularMarketPrice: 349.218
+regularMarketTime: 1794411580
+regularMarketVolume: 3991002
+returnOnAssets: 0.03383
+returnOnEquity: 0.07335
+revenueGrowth: 0.041
+revenuePerShare: 15.321
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 1
+sharesOutstanding: 2177093466
+shortName: SAINSBURY (J) PLC ORD 28 4/7P
+sourceInterval: 15
+symbol: SBRY.L
+targetHighPrice: 402.0
+targetLowPrice: 300.0
+targetMeanPrice: 360.643
+targetMedianPrice: 360.0
+totalCash: 789000000
+totalCashPerShare: 0.355
+totalDebt: 6338999808
+totalRevenue: 34293999616
+tradeable: false
+trailingAnnualDividendRate: 0.137
+trailingAnnualDividendYield: 0.00039053592
+trailingEps: 0.19
+trailingPE: 18.379894
+trailingPegRatio: 1.4942
+triggerable: false
+twoHundredDayAverage: 335.71
+twoHundredDayAverageChange: 13.507996
+twoHundredDayAverageChangePercent: 0.0402371
+typeDisp: Equity
+volume: 3991002
+website: https://www.about.sainsburys.co.uk
+zip: EC1M 6HA

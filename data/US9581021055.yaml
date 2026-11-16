@@ -1,0 +1,279 @@
+52WeekChange: 0.74101496
+SandP52WeekChange: 0.097798586
+address1: 5601 Great Oaks Parkway
+allTimeHigh: 799.87
+allTimeLow: 0.519652
+ask: 307.1
+askSize: 1
+auditRisk: 10
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 8747290
+averageDailyVolume3Month: 8095921
+averageVolume: 8095921
+averageVolume10days: 8747290
+beta: 2.344
+bid: 250.0
+bidSize: 8
+boardRisk: 3
+bookValue: 24.995
+city: San Jose
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Tiang Yew  Tan
+  title: CEO & Director
+  totalPay: 4544706
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Kris A.  Sennesael
+  title: Executive VP & CFO
+  totalPay: 2164050
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Vidyadhara K. Gubbi
+  title: Executive VP & Chief of Global Operations
+  totalPay: 1650731
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Cynthia Lock Tregillis
+  title: Executive VP, Chief Legal Officer & Secretary
+  totalPay: 1759805
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Ahmed M. Shihab
+  title: Executive VP & Chief Product Officer
+  totalPay: 3452672
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 78
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. C. Wesley M. Scott
+  title: Chief Investment Officer
+  unexercisedValue: 0
+  yearBorn: 1947
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Brad D. Feller
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Sesh  Tirumala
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dr. Ambrish  Srivastava Ph.D.
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Brian Scott Davis
+  title: Executive VP and Chief Sales & Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: WDC announced a cash dividend of $0.175 with an ex-date of Dec. 4, 2026
+  meta:
+    amount: '0.175'
+    dateEpochMs: 1796360400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 313.815
+currentRatio: 1.434
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 317.1
+dayLow: 301.71
+debtToEquity: 9.863
+displayName: Western Digital
+dividendDate: 1797465600
+dividendRate: 0.7
+dividendYield: 0.24
+earningsCallTimestampEnd: 1792701000
+earningsCallTimestampStart: 1792701000
+earningsGrowth: 0.509
+earningsQuarterlyGrowth: 0.505
+earningsTimestamp: 1792699200
+earningsTimestampEnd: 1801170000
+earningsTimestampStart: 1801170000
+ebitda: 6312000000
+ebitdaMargins: 0.43585
+enterpriseToEbitda: 17.088
+enterpriseToRevenue: 7.448
+enterpriseValue: 107862286336
+epsCurrentYear: 24.72477
+epsForward: 40.40484
+epsTrailingTwelveMonths: 28.43
+esgPopulated: false
+exDividendDate: 1796342400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 400.1332
+fiftyDayAverageChange: -86.31821
+fiftyDayAverageChangePercent: -0.21572368
+fiftyTwoWeekChangePercent: 74.101494
+fiftyTwoWeekHigh: 799.87
+fiftyTwoWeekHighChange: -486.055
+fiftyTwoWeekHighChangePercent: -0.6076675
+fiftyTwoWeekLow: 132.43
+fiftyTwoWeekLowChange: 181.38501
+fiftyTwoWeekLowChangePercent: 1.3696672
+fiftyTwoWeekRange: 132.43 - 799.87
+financialCurrency: USD
+firstTradeDateMilliseconds: 278692200000
+fiveYearAvgDividendYield: 2.55
+floatShares: 371927600
+forwardEps: 40.40484
+forwardPE: 7.766768
+freeCashflow: 2729499904
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 40000
+fulldayChange: 24.61499
+fulldayChangePercent: 8.511407
+fulldayPrice: 313.815
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.52603
+grossProfits: 7617999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00275
+heldPercentInstitutions: 0.90852
+impliedSharesOutstanding: 374323269
+industry: Computer Hardware
+industryDisp: Computer Hardware
+industryKey: computer-hardware
+irWebsite: http://investor.wdc.com/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788825600
+lastDividendValue: 0.15
+lastFiscalYearEnd: 1783036800
+lastSplitDate: 1740355200
+lastSplitFactor: 1323:1000
+longBusinessSummary: Western Digital Corporation engages in the development, manufacture,
+  and sale of data storage devices and solutions based on hard disk drive (HDD) technology
+  in the United States, Asia, Europe, the Middle East, and Africa. The company offers
+  internal HDDs, data center drives, data center platforms, external drives, portable
+  drives, NAS for home and office, and accessories. It sells its data storage devices
+  and solutions through its computer sales personnel, dealers, distributors, retailers,
+  and subsidiaries. The company has a collaboration with Open Quantum Design for the
+  development of quantum error correction technology and related systems to advance
+  reliable quantum computing. Western Digital Corporation was founded in 1970 and
+  is headquartered in San Jose, California.
+longName: Western Digital Corporation
+market: us_market
+marketCap: 117468258304
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_314057
+mostRecentQuarter: 1790899200
+netIncomeToCommon: 9912999936
+nextFiscalYearEnd: 1814572800
+nonDilutedMarketCap: 108254289394
+numberOfAnalystOpinions: 24
+open: 308.32
+operatingCashflow: 4861000192
+operatingMargins: 0.40884998
+overallRisk: 4
+payoutRatio: 0.019299999
+pegRatio: 0.42
+phone: 408 717 6000
+previousClose: 289.2
+priceEpsCurrentYear: 12.692332
+priceHint: 2
+priceToBook: 12.555111
+priceToSalesTrailing12Months: 8.111328
+profitMargins: 0.69196
+quickRatio: 0.867
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: 24.61499
+regularMarketChangePercent: 8.511407
+regularMarketDayHigh: 317.1
+regularMarketDayLow: 301.71
+regularMarketDayRange: 301.71 - 317.1
+regularMarketOpen: 308.32
+regularMarketPreviousClose: 289.2
+regularMarketPrice: 313.815
+regularMarketTime: 1794413751
+regularMarketVolume: 2268504
+returnOnAssets: 0.2588
+returnOnEquity: 1.29596
+revenueGrowth: 0.555
+revenuePerShare: 41.348
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 5
+sharesOutstanding: 374323269
+sharesPercentSharesOut: 0.051799998
+sharesShort: 19373548
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 18293625
+shortName: Western Digital Corporation
+shortPercentOfFloat: 0.051799998
+shortRatio: 1.98
+sourceInterval: 15
+state: CA
+symbol: WDC
+targetHighPrice: 900.0
+targetLowPrice: 405.0
+targetMeanPrice: 613.375
+targetMedianPrice: 622.5
+totalCash: 1314000000
+totalCashPerShare: 3.51
+totalDebt: 922000000
+totalRevenue: 14481999872
+tradeable: false
+trailingAnnualDividendRate: 0.55
+trailingAnnualDividendYield: 0.0019017981
+trailingEps: 28.43
+trailingPE: 11.038164
+trailingPegRatio: 0.4157
+triggerable: true
+twoHundredDayAverage: 421.43756
+twoHundredDayAverageChange: -107.62256
+twoHundredDayAverageChangePercent: -0.2553701
+typeDisp: Equity
+volume: 2268504
+website: https://www.westerndigital.com
+zip: '95119'

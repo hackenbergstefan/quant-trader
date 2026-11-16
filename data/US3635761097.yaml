@@ -1,0 +1,287 @@
+52WeekChange: 0.10470569
+SandP52WeekChange: 0.097798586
+address1: 2850 Golf Road
+allTimeHigh: 351.23
+allTimeLow: 1.71875
+ask: 277.35
+askSize: 200
+auditRisk: 5
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 2272630
+averageDailyVolume3Month: 1548275
+averageVolume: 1548275
+averageVolume10days: 2272630
+beta: 0.464
+bid: 276.8
+bidSize: 200
+boardRisk: 6
+bookValue: 93.752
+city: Rolling Meadows
+companyOfficers:
+- age: 73
+  exercisedValue: 10650150
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. J. Patrick Gallagher Jr.
+  title: Chairman & CEO
+  totalPay: 11738049
+  unexercisedValue: 27640690
+  yearBorn: 1952
+- age: 66
+  exercisedValue: 3613938
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas Joseph Gallagher
+  title: President
+  totalPay: 6275437
+  unexercisedValue: 13845473
+  yearBorn: 1959
+- age: 63
+  exercisedValue: 229050
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Douglas K. Howell CPA
+  title: Corporate VP & CFO
+  totalPay: 6646466
+  unexercisedValue: 8697987
+  yearBorn: 1962
+- age: 45
+  exercisedValue: 1373689
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick M. Gallagher
+  title: Executive VP & COO
+  totalPay: 5393291
+  unexercisedValue: 2795565
+  yearBorn: 1980
+- age: 62
+  exercisedValue: 2780249
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Walter D. Bay
+  title: VP, General Counsel & Secretary
+  totalPay: 5500292
+  unexercisedValue: 5562322
+  yearBorn: 1963
+- age: 73
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David R. Long
+  title: Vice President
+  unexercisedValue: 0
+  yearBorn: 1952
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kyle Graham Koreyva
+  title: Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark H. Bloom
+  title: Corporate VP & Global Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sara  Walsh
+  title: Treasurer, VP of Corporate Finance & Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Linda J. Collins
+  title: Vice President of Corporate Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions:
+- header: Dividend
+  message: AJG announced a cash dividend of $0.70 with an ex-date of Dec. 7, 2026
+  meta:
+    amount: '0.70'
+    dateEpochMs: 1796619600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 278.455
+currentRatio: 1.053
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 279.9
+dayLow: 276.885
+debtToEquity: 56.038
+displayName: Arthur J. Gallagher
+dividendDate: 1797552000
+dividendRate: 2.8
+dividendYield: 0.99
+earningsCallTimestampEnd: 1793308500
+earningsCallTimestampStart: 1793308500
+earningsGrowth: 0.49
+earningsQuarterlyGrowth: 0.482
+earningsTimestamp: 1793304000
+earningsTimestampEnd: 1801170000
+earningsTimestampStart: 1801170000
+ebitda: 4604000256
+ebitdaMargins: 0.29198
+enterpriseToEbitda: 18.415
+enterpriseToRevenue: 5.377
+enterpriseValue: 84780457984
+epsCurrentYear: 13.09207
+epsForward: 14.80904
+epsTrailingTwelveMonths: 6.55
+esgPopulated: false
+exDividendDate: 1796601600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 250.6596
+fiftyDayAverageChange: 27.79538
+fiftyDayAverageChangePercent: 0.11088894
+fiftyTwoWeekChangePercent: 10.47057
+fiftyTwoWeekHigh: 294.53
+fiftyTwoWeekHighChange: -16.075012
+fiftyTwoWeekHighChangePercent: -0.054578524
+fiftyTwoWeekLow: 190.75
+fiftyTwoWeekLowChange: 87.70499
+fiftyTwoWeekLowChangePercent: 0.45979023
+fiftyTwoWeekRange: 190.75 - 294.53
+financialCurrency: USD
+firstTradeDateMilliseconds: 456586200000
+fiveYearAvgDividendYield: 0.97
+floatShares: 253630880
+forwardEps: 14.80904
+forwardPE: 18.803041
+freeCashflow: 2761325056
+fullExchangeName: NYSE
+fullTimeEmployees: 69041
+fulldayChange: -4.1950073
+fulldayChangePercent: -1.4841703
+fulldayPrice: 278.455
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.43956003
+grossProfits: 6930999808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0086199995
+heldPercentInstitutions: 0.97723
+impliedSharesOutstanding: 256415000
+industry: Insurance Brokers
+industryDisp: Insurance Brokers
+industryKey: insurance-brokers
+irWebsite: http://investor.ajg.com/phoenix.zhtml?c=104111&p=irol-IRHome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788825600
+lastDividendValue: 0.7
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 979862400
+lastSplitFactor: '2:1'
+longBusinessSummary: Arthur J. Gallagher & Co., together with its subsidiaries, provides
+  insurance and reinsurance brokerage, consulting, and third-party property/casualty
+  claims settlement and administration services to entities and individuals worldwide.
+  The company operates in Brokerage and Risk Management segments. Its Brokerage segment
+  offers retail and wholesale insurance and reinsurance brokerage services; assists
+  retail brokers and other non-affiliated brokers in the placement of specialized
+  and hard-to-place insurance; and acts as a brokerage wholesaler, managing general
+  agent, and managing general underwriter for distributing specialized insurance coverages
+  to underwriting enterprises. This segment performs activities, including marketing,
+  underwriting, issuing policies, collecting premiums, appointing and supervising
+  other agents, paying claims, and negotiating reinsurance; and offers services in
+  the areas of insurance and reinsurance placement, risk of loss management, and management
+  of employer sponsored benefit programs. The Risk Management segment provides contract
+  claim settlement and administration services; and claims management, loss control
+  consulting, and insurance property appraisal services. The company offers its services
+  through a network of correspondent brokers and consultants. It serves commercial,
+  industrial, public, religious, and nonprofit entities, as well as underwriting enterprises.
+  The company was founded in 1927 and is headquartered in Rolling Meadows, Illinois.
+longName: Arthur J. Gallagher & Co.
+market: us_market
+marketCap: 71400038400
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_252186
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1699000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 72475699750
+numberOfAnalystOpinions: 18
+open: 276.67
+operatingCashflow: 3063000064
+operatingMargins: 0.20605
+overallRisk: 6
+payoutRatio: 0.41979998
+pegRatio: 1.01
+phone: (630) 773-3800
+previousClose: 282.65
+priceEpsCurrentYear: 21.268982
+priceHint: 2
+priceToBook: 2.9701233
+priceToSalesTrailing12Months: 4.5281606
+profitMargins: 0.10775
+quickRatio: 0.179
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -4.1950073
+regularMarketChangePercent: -1.4841703
+regularMarketDayHigh: 279.9
+regularMarketDayLow: 276.885
+regularMarketDayRange: 276.885 - 279.9
+regularMarketOpen: 276.67
+regularMarketPreviousClose: 282.65
+regularMarketPrice: 278.455
+regularMarketTime: 1794413670
+regularMarketVolume: 176708
+returnOnAssets: 0.02568
+returnOnEquity: 0.072119996
+revenueGrowth: 0.209
+revenuePerShare: 61.408
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 5
+sharesOutstanding: 256415000
+sharesPercentSharesOut: 0.0296
+sharesShort: 7583871
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8234507
+shortName: Arthur J. Gallagher & Co.
+shortPercentOfFloat: 0.0299
+shortRatio: 4.7
+sourceInterval: 15
+state: IL
+symbol: AJG
+targetHighPrice: 388.0
+targetLowPrice: 253.0
+targetMeanPrice: 300.1111
+targetMedianPrice: 296.5
+totalCash: 1212999936
+totalCashPerShare: 4.731
+totalDebt: 13489000448
+totalRevenue: 15768000512
+tradeable: false
+trailingAnnualDividendRate: 2.75
+trailingAnnualDividendYield: 0.009729347
+trailingEps: 6.55
+trailingPE: 42.51221
+trailingPegRatio: 1.0062
+triggerable: true
+twoHundredDayAverage: 233.02756
+twoHundredDayAverageChange: 45.42743
+twoHundredDayAverageChangePercent: 0.19494446
+typeDisp: Equity
+volume: 176708
+website: https://www.ajg.com
+zip: 60008-4050

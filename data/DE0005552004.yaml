@@ -1,0 +1,278 @@
+52WeekChange: 0.30013275
+SandP52WeekChange: 0.097798586
+address1: Charles-de-Gaulle-Str. 20
+allTimeHigh: 61.38
+allTimeLow: 6.6
+ask: 59.8
+auditRisk: 1
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 1736824
+averageDailyVolume3Month: 1496126
+averageVolume: 1496126
+averageVolume10days: 1736824
+beta: 1.115
+bid: 59.78
+boardRisk: 4
+bookValue: 21.077
+city: Bonn
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Tobias  Meyer C.F.A.
+  title: CEO of Global Business Services & Chairman of the Management Board
+  totalPay: 2693397
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melanie  Kreis
+  title: CFO & Member of the Management Board
+  totalPay: 1805106
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Thomas  Ogilvie Ph.D.
+  title: Member of the Management Board
+  totalPay: 1746033
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Pearson
+  title: Member of the Management Board
+  totalPay: 1812663
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oscar  De Bok
+  title: Member of the Management Board
+  totalPay: 1681114
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nikola  Hagleitner
+  title: Head of Post?&?Parcel Germany Division and Member of the Management Board
+  totalPay: 1710912
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pablo  Ciano
+  title: Member of the Management Board
+  totalPay: 1720128
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hendrik  Venter
+  title: Member of the Management Board
+  totalPay: 1097306
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Travis  Cobb
+  title: Executive Vice President of Global Operations and Aviation
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Ziegenbalg
+  title: Head of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 59.78
+currentRatio: 1.045
+customPriceAlertConfidence: LOW
+dayHigh: 59.86
+dayLow: 59.0
+debtToEquity: 118.045
+dividendRate: 1.9
+dividendYield: 3.24
+earningsCallTimestampEnd: 1793869200
+earningsCallTimestampStart: 1793869200
+earningsGrowth: 0.095
+earningsQuarterlyGrowth: 0.08
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 8705000448
+ebitdaMargins: 0.09879
+enterpriseToEbitda: 10.145
+enterpriseToRevenue: 1.002
+enterpriseValue: 88309170176
+epsCurrentYear: 3.5888
+epsForward: 3.94627
+epsTrailingTwelveMonths: 3.33
+esgPopulated: false
+exDividendDate: 1778025600
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 228 182 96799
+fiftyDayAverage: 56.9884
+fiftyDayAverageChange: 2.7915993
+fiftyDayAverageChangePercent: 0.048985396
+fiftyTwoWeekChangePercent: 30.013275
+fiftyTwoWeekHigh: 61.3
+fiftyTwoWeekHighChange: -1.5200005
+fiftyTwoWeekHighChangePercent: -0.024796093
+fiftyTwoWeekLow: 41.86
+fiftyTwoWeekLowChange: 17.919998
+fiftyTwoWeekLowChangePercent: 0.42809358
+fiftyTwoWeekRange: 41.86 - 61.3
+financialCurrency: EUR
+firstTradeDateMilliseconds: 974707200000
+fiveYearAvgDividendYield: 4.17
+floatShares: 907541987
+forwardEps: 3.94627
+forwardPE: 15.148481
+freeCashflow: 4691874816
+fullExchangeName: XETRA
+fullTimeEmployees: 583977
+fulldayChange: 1.0399971
+fulldayChangePercent: 1.7705091
+fulldayPrice: 59.78
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.17971
+grossProfits: 15834999808
+hasPrePostMarketData: false
+heldPercentInsiders: 0.17727
+heldPercentInstitutions: 0.43453
+impliedSharesOutstanding: 1119243239
+industry: Integrated Freight & Logistics
+industryDisp: Integrated Freight & Logistics
+industryKey: integrated-freight-logistics
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778025600
+lastDividendValue: 1.9
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'DHL AG provides logistics and mail communication services in
+  Germany and Internationally. The company operates through five segments: Express,
+  Global Forwarding, Supply Chain, eCommerce, and Post and Parcel Germany. Its Express
+  segment offers time-definite courier and express delivery services for business
+  and private customers, including Time Definite International cross-border transport
+  with standardized transit times, medical express temperature-controlled shipment
+  solutions, general cargo air freight, door-to-door courier services, and customs
+  clearance, operating a global air freight network with dedicated aircraft and service
+  points across Europe, the Middle East and Africa, the Americas, and Asia Pacific.
+  The Global Forwarding segment provides international air, ocean, and overland freight
+  forwarding services through its Global Forwarding and Freight business units. The
+  Supply Chain segment delivers contract logistics services and supply chain solutions
+  built on modular components, including warehousing, transport, e-fulfillment, and
+  value-added services. The eCommerce segment provides international and domestic
+  parcel delivery services in selected countries across Europe, Asia, and the United
+  States, along with non-TDI cross-border parcel services. The Post and Parcel Germany
+  segment transports, sorts, and delivers documents and goods within Germany and provides
+  export services through its Post Germany, Parcel Germany, and International business
+  units, offering physical and hybrid letter delivery, registered mail, insured items,
+  redirection and storage services, dialogue marketing, national and international
+  parcel and goods shipments, Packstation automated parcel lockers, Poststation combined
+  parcel and postal services, and electronic communications services. DHL AG was formerly
+  known as Deutsche Post AG and changed its name to DHL AG in September, 2026. DHL
+  AG was incorporated in 1995 and is based in Bonn, Germany.'
+longName: DHL AG
+market: de_market
+marketCap: 66908360704
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1901010
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 3784999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 65090400000
+numberOfAnalystOpinions: 19
+open: 59.16
+operatingCashflow: 9927000064
+operatingMargins: 0.070760004
+overallRisk: 2
+payoutRatio: 0.5689
+pegRatio: 2.67
+phone: 49 228 189 66701
+prevName: Deutsche Post AG
+previousClose: 58.74
+priceEpsCurrentYear: 16.65738
+priceHint: 2
+priceToBook: 2.836267
+priceToSalesTrailing12Months: 0.75933
+profitMargins: 0.04296
+quickRatio: 0.852
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.61905
+region: US
+regularMarketChange: 1.0399971
+regularMarketChangePercent: 1.7705091
+regularMarketDayHigh: 59.86
+regularMarketDayLow: 59.0
+regularMarketDayRange: 59.0 - 59.86
+regularMarketOpen: 59.16
+regularMarketPreviousClose: 58.74
+regularMarketPrice: 59.78
+regularMarketTime: 1794411557
+regularMarketVolume: 325420
+returnOnAssets: 0.05452
+returnOnEquity: 0.17865999
+revenueGrowth: 0.126
+revenuePerShare: 79.082
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 1119243239
+shortName: DHL AG                        N
+sourceInterval: 15
+symbol: DHL.DE
+targetHighPrice: 70.0
+targetLowPrice: 45.0
+targetMeanPrice: 58.84678
+targetMedianPrice: 61.0
+totalCash: 5175000064
+totalCashPerShare: 4.679
+totalDebt: 28056999936
+totalRevenue: 88115003392
+tradeable: false
+trailingAnnualDividendRate: 1.9
+trailingAnnualDividendYield: 0.03234593
+trailingEps: 3.33
+trailingPE: 17.951952
+trailingPegRatio: 2.6675
+triggerable: false
+twoHundredDayAverage: 52.4694
+twoHundredDayAverageChange: 7.3106003
+twoHundredDayAverageChangePercent: 0.13933074
+typeDisp: Equity
+volume: 325420
+website: https://group.dhl.com
+zip: '53113'

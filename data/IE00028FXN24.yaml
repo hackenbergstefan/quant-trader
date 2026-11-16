@@ -1,0 +1,283 @@
+52WeekChange: 0.25381577
+SandP52WeekChange: 0.097798586
+address1: Beech Hill
+address2: Clonskeagh
+allTimeHigh: 60.07
+allTimeLow: 1.7
+ask: 43.93
+askSize: 100
+auditRisk: 9
+averageAnalystRating: 1.3 - Strong Buy
+averageDailyVolume10Day: 6412910
+averageDailyVolume3Month: 4675684
+averageVolume: 4675684
+averageVolume10days: 6412910
+beta: 0.942
+bid: 43.85
+bidSize: 400
+boardRisk: 3
+bookValue: 34.35
+city: Dublin
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anthony Paul J. Smurfit
+  title: President, Group CEO & Director
+  totalPay: 4776044
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ken  Bowles
+  title: Executive VP, Group CFO & Executive Director
+  totalPay: 3799417
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles B. Garren Jr.
+  title: EVP & Group General Counsel
+  totalPay: 1313201
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Laurent  Sellier
+  title: President & Chief Executive Officer North America (Including Mexico)
+  totalPay: 2723586
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Saverio  Mayer
+  title: President & Chief Executive Officer of Europe, MEA & APAC
+  totalPay: 2354740
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Irene  Page
+  title: Group Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ciaran  Potts
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sharon  Whitehead
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Garrett  Quinn
+  title: Group Chief Sustainability Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alvaro Jose Henao
+  title: President & CEO of LATAM
+  unexercisedValue: 0
+  yearBorn: 1966
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: SW announced a cash dividend of $0.452 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.452'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: Ireland
+cryptoTradeable: false
+currency: USD
+currentPrice: 43.935
+currentRatio: 1.476
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 44.44
+dayLow: 43.82
+debtToEquity: 77.989
+displayName: Smurfit Westrock
+dividendDate: 1796860800
+dividendRate: 1.81
+dividendYield: 4.08
+earningsCallTimestampEnd: 1793187000
+earningsCallTimestampStart: 1793187000
+earningsGrowth: -0.106
+earningsQuarterlyGrowth: -0.098
+earningsTimestamp: 1793190600
+earningsTimestampEnd: 1793190600
+earningsTimestampStart: 1793190600
+ebitda: 4502000128
+ebitdaMargins: 0.14299
+enterpriseToEbitda: 8.126
+enterpriseToRevenue: 1.162
+enterpriseValue: 36583694336
+epsCurrentYear: 1.85522
+epsForward: 3.22122
+epsTrailingTwelveMonths: 0.9
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 43.3534
+fiftyDayAverageChange: 0.5816002
+fiftyDayAverageChangePercent: 0.01341533
+fiftyTwoWeekChangePercent: 25.381577
+fiftyTwoWeekHigh: 52.65
+fiftyTwoWeekHighChange: -8.715
+fiftyTwoWeekHighChangePercent: -0.16552706
+fiftyTwoWeekLow: 32.729
+fiftyTwoWeekLowChange: 11.206001
+fiftyTwoWeekLowChangePercent: 0.34238753
+fiftyTwoWeekRange: 32.729 - 52.65
+financialCurrency: USD
+firstTradeDateMilliseconds: 1213709400000
+fiveYearAvgDividendYield: 3.67
+floatShares: 520625540
+forwardEps: 3.22122
+forwardPE: 13.639242
+freeCashflow: 986000000
+fullExchangeName: NYSE
+fullTimeEmployees: 96000
+fulldayChange: -0.42499924
+fulldayChangePercent: -0.9580686
+fulldayPrice: 43.935
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.17669001
+grossProfits: 5562999808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00511
+heldPercentInstitutions: 1.03097
+impliedSharesOutstanding: 524526976
+industry: Packaging & Containers
+industryDisp: Packaging & Containers
+industryKey: packaging-containers
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.452
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Smurfit Westrock Plc, together with its subsidiaries, manufactures,
+  distributes, and sells containerboard, corrugated containers, and other paper-based
+  packaging products in North America, South America, Europe, Asia, Africa, Australia,
+  and internationally. The company produces containerboard and paperboard; packaging
+  of corrugated containers; consumer packaging; and offers solid board, kraft paper,
+  and graphic board, as well as other packaging products, such as solidboard packaging,
+  paper sacks and bag-in-box. It produces linerboard and corrugated medium and paperboard;
+  and other paper-based packaging, such as folding cartons, inserts, labels and displays.
+  The company primarily serves food and beverage, healthcare, beauty and personal
+  care, garden, consumer goods, industrial, and foodservice markets. It markets its
+  products through its own sales force, independent sales representatives, and independent
+  distributors. Smurfit Westrock Plc was founded in 1934 and is headquartered in Dublin,
+  Ireland.
+longName: Smurfit Westrock Plc
+market: us_market
+marketCap: 23045093376
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_30384
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 473000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 23178847069
+numberOfAnalystOpinions: 15
+open: 44.11
+operatingCashflow: 3038000128
+operatingMargins: 0.05771
+overallRisk: 5
+payoutRatio: 1.9863
+pegRatio: 0.26
+phone: 353 1 202 7000
+prevName: Smurfit Kappa Group Plc
+previousClose: 44.36
+priceEpsCurrentYear: 23.68183
+priceHint: 2
+priceToBook: 1.2790394
+priceToSalesTrailing12Months: 0.731962
+profitMargins: 0.01502
+quickRatio: 0.775
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.3125
+region: US
+regularMarketChange: -0.42499924
+regularMarketChangePercent: -0.9580686
+regularMarketDayHigh: 44.44
+regularMarketDayLow: 43.82
+regularMarketDayRange: 43.82 - 44.44
+regularMarketOpen: 44.11
+regularMarketPreviousClose: 44.36
+regularMarketPrice: 43.935
+regularMarketTime: 1794413739
+regularMarketVolume: 526489
+returnOnAssets: 0.025039999
+returnOnEquity: 0.02566
+revenueGrowth: 0.02
+revenuePerShare: 60.055
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 8
+sharesOutstanding: 524526976
+sharesPercentSharesOut: 0.0466
+sharesShort: 24420861
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 26395328
+shortName: Smurfit WestRock plc
+shortPercentOfFloat: 0.053000003
+shortRatio: 5.17
+sourceInterval: 15
+symbol: SW
+targetHighPrice: 57.0
+targetLowPrice: 46.0
+targetMeanPrice: 53.84667
+targetMedianPrice: 55.0
+totalCash: 723000000
+totalCashPerShare: 1.38
+totalDebt: 14049000448
+totalRevenue: 31484000256
+tradeable: false
+trailingAnnualDividendRate: 1.79
+trailingAnnualDividendYield: 0.040351667
+trailingEps: 0.9
+trailingPE: 48.81667
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 43.5055
+twoHundredDayAverageChange: 0.42950058
+twoHundredDayAverageChangePercent: 0.0098723285
+typeDisp: Equity
+volume: 526489
+website: https://www.smurfitwestrock.com
+zip: D04 N2R2

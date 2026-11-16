@@ -1,0 +1,273 @@
+52WeekChange: 0.34475505
+SandP52WeekChange: 0.097798586
+address1: 1400 Douglas Street
+allTimeHigh: 315.99
+allTimeLow: 2.458463
+ask: 299.99
+askSize: 40
+auditRisk: 8
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 2961040
+averageDailyVolume3Month: 2519664
+averageVolume: 2519664
+averageVolume10days: 2961040
+beta: 0.845
+bid: 299.87
+bidSize: 80
+boardRisk: 1
+bookValue: 37.053
+city: Omaha
+companyOfficers:
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vincenzo James Vena
+  title: CEO & Director
+  totalPay: 5296229
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 57
+  exercisedValue: 453460
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer L. Hamann
+  title: Executive VP & CFO
+  totalPay: 1838444
+  unexercisedValue: 2665164
+  yearBorn: 1968
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rahul  Jalali
+  title: Executive VP & Chief Information Officer
+  totalPay: 1445964
+  unexercisedValue: 363750
+  yearBorn: 1974
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kenny G. Rocker
+  title: Executive Vice President of Marketing & Sales
+  totalPay: 1653571
+  unexercisedValue: 2141681
+  yearBorn: 1972
+- age: 59
+  exercisedValue: 663225
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elizabeth F. Whited
+  title: Advisor
+  totalPay: 1289351
+  unexercisedValue: 1521505
+  yearBorn: 1966
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric J. Gehringer
+  title: Executive Vice President of Operations
+  totalPay: 1778453
+  unexercisedValue: 1243533
+  yearBorn: 1979
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Carrie J. Powers
+  title: VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rebecca B. Gregory
+  title: Senior Vice President of Administration
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Kate  Ottoson
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christina B. Conlin
+  title: Executive VP, Chief Legal Officer & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 300.74
+currentRatio: 1.163
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 301.95
+dayLow: 299.28
+debtToEquity: 141.303
+displayName: Union Pacific
+dividendDate: 1790726400
+dividendRate: 5.68
+dividendYield: 1.89
+earningsCallTimestampEnd: 1792673100
+earningsCallTimestampStart: 1792673100
+earningsGrowth: 0.159
+earningsQuarterlyGrowth: 0.161
+earningsTimestamp: 1792672200
+earningsTimestampEnd: 1800970200
+earningsTimestampStart: 1800970200
+ebitda: 13281000448
+ebitdaMargins: 0.50377
+enterpriseToEbitda: 15.561
+enterpriseToRevenue: 7.839
+enterpriseValue: 206669561856
+epsCurrentYear: 13.16885
+epsForward: 14.39406
+epsTrailingTwelveMonths: 12.82
+esgPopulated: false
+exDividendDate: 1788134400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 286.4914
+fiftyDayAverageChange: 14.248596
+fiftyDayAverageChangePercent: 0.049734812
+fiftyTwoWeekChangePercent: 34.475506
+fiftyTwoWeekHigh: 315.99
+fiftyTwoWeekHighChange: -15.25
+fiftyTwoWeekHighChangePercent: -0.048261024
+fiftyTwoWeekLow: 219.89
+fiftyTwoWeekLowChange: 80.84999
+fiftyTwoWeekLowChangePercent: 0.3676838
+fiftyTwoWeekRange: 219.89 - 315.99
+financialCurrency: USD
+firstTradeDateMilliseconds: 315671400000
+fiveYearAvgDividendYield: 2.19
+floatShares: 592901468
+forwardEps: 14.39406
+forwardPE: 20.89334
+freeCashflow: 5069624832
+fullExchangeName: NYSE
+fullTimeEmployees: 28658
+fulldayChange: 0.11999512
+fulldayChangePercent: 0.039915882
+fulldayPrice: 300.74
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.55768
+grossProfits: 14702000128
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00071000005
+heldPercentInstitutions: 0.91950995
+impliedSharesOutstanding: 594250416
+industry: Railroads
+industryDisp: Railroads
+industryKey: railroads
+irWebsite: http://www.up.com/investors/index.shtml
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788134400
+lastDividendValue: 1.42
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1402272000
+lastSplitFactor: '2:1'
+longBusinessSummary: Union Pacific Corporation, through its subsidiary, Union Pacific
+  Railroad Company, operates in the railroad business in the United States. It offers
+  transportation services for grain and grain products, fertilizers, food and refrigerated
+  products, and coal and renewables to grain processors, animal feeders, and ethanol
+  and renewable biofuel producers; and construction products, industrial chemicals,
+  plastics, forest products, specialized products, metals and ores, petroleum, liquid
+  petroleum gases, soda ash, and sand, as well as finished automobiles, automotive
+  parts, and merchandise in intermodal containers. The company was founded in 1862
+  and is headquartered in Omaha, Nebraska.
+longName: Union Pacific Corporation
+market: us_market
+marketCap: 178714869760
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_310078
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 7617999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 178643560057
+numberOfAnalystOpinions: 24
+open: 299.96
+operatingCashflow: 10526999552
+operatingMargins: 0.4075
+overallRisk: 1
+payoutRatio: 0.4337
+pegRatio: 2.87
+phone: 402 544 5000
+previousClose: 300.62
+priceEpsCurrentYear: 22.837225
+priceHint: 2
+priceToBook: 8.116481
+priceToSalesTrailing12Months: 6.779003
+profitMargins: 0.28897
+quickRatio: 0.932
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.8
+region: US
+regularMarketChange: 0.11999512
+regularMarketChangePercent: 0.039915882
+regularMarketDayHigh: 301.95
+regularMarketDayLow: 299.28
+regularMarketDayRange: 299.28 - 301.95
+regularMarketOpen: 299.96
+regularMarketPreviousClose: 300.62
+regularMarketPrice: 300.74
+regularMarketTime: 1794413753
+regularMarketVolume: 622694
+returnOnAssets: 0.09507
+returnOnEquity: 0.38747
+revenueGrowth: 0.153
+revenuePerShare: 44.442
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 594250416
+sharesPercentSharesOut: 0.0513
+sharesShort: 30468049
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 27763071
+shortName: Union Pacific Corporation
+shortPercentOfFloat: 0.056999996
+shortRatio: 12.44
+sourceInterval: 15
+state: NE
+symbol: UNP
+targetHighPrice: 375.0
+targetLowPrice: 245.0
+targetMeanPrice: 329.95834
+targetMedianPrice: 335.0
+totalCash: 3086000128
+totalCashPerShare: 5.193
+totalDebt: 31111999488
+totalRevenue: 26363000832
+tradeable: false
+trailingAnnualDividendRate: 5.56
+trailingAnnualDividendYield: 0.01849511
+trailingEps: 12.82
+trailingPE: 23.458658
+trailingPegRatio: 2.8697
+triggerable: true
+twoHundredDayAverage: 272.8927
+twoHundredDayAverageChange: 27.84729
+twoHundredDayAverageChangePercent: 0.102044836
+typeDisp: Equity
+volume: 622694
+website: https://www.up.com
+zip: '68179'

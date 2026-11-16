@@ -1,0 +1,249 @@
+52WeekChange: 0.61984193
+SandP52WeekChange: 0.097798586
+address1: Kongebakken 9
+allTimeHigh: 394.7
+allTimeLow: 22.1
+ask: 371.8
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 377307
+averageDailyVolume3Month: 313838
+averageVolume: 313838
+averageVolume10days: 377307
+beta: 0.708
+bid: 371.6
+bidSize: 0
+boardRisk: 3
+bookValue: 53.267
+city: Smørum
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Søren  Nielsen
+  title: CEO, President & Member of Executive Board
+  totalPay: 13900000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. René  Schneider M.Sc
+  title: CFO, President of Group Services & Member of Executive Board
+  totalPay: 6700000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Niels  Wagner
+  title: President of Hearing Care & Member of Executive Board
+  totalPay: 5700000
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Sara Munch Andersen
+  title: Head of Group Privacy & Compliance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Stine  Brandenhof
+  title: Group General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Trine  Kromann-Mikkelsen
+  title: Vice President of Corporate Communication and Sustainability
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Pudselykke
+  title: Head of Investor Relations (Leave of Absence)
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anne-Karen  Hunt
+  title: President of Diagnostics Business Area
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bassel  Rifai
+  title: President of Hearing Aids Business Area
+  unexercisedValue: 0
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Gustav Kallehave Hoegh
+  title: Investor Relations Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: Denmark
+cryptoTradeable: false
+currency: DKK
+currentPrice: 371.6
+currentRatio: 0.821
+customPriceAlertConfidence: HIGH
+dayHigh: 373.2
+dayLow: 369.0
+debtToEquity: 179.217
+dividendYield: 0.0
+earningsCallTimestampEnd: 1786546800
+earningsCallTimestampStart: 1786546800
+earningsGrowth: 0.064
+earningsQuarterlyGrowth: 0.062
+earningsTimestampEnd: 1786460400
+earningsTimestampStart: 1786460400
+ebitda: 4972000256
+ebitdaMargins: 0.20186001
+enterpriseToEbitda: 19.456
+enterpriseToRevenue: 3.927
+enterpriseValue: 96732815360
+epsCurrentYear: 14.8424
+epsForward: 17.41905
+epsTrailingTwelveMonths: 11.72
+esgPopulated: false
+exDividendDate: 956707200
+exchange: CPH
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Copenhagen
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 331.576
+fiftyDayAverageChange: 40.024017
+fiftyDayAverageChangePercent: 0.12070843
+fiftyTwoWeekChangePercent: 61.98419
+fiftyTwoWeekHigh: 386.0
+fiftyTwoWeekHighChange: -14.399994
+fiftyTwoWeekHighChangePercent: -0.037305683
+fiftyTwoWeekLow: 175.0
+fiftyTwoWeekLowChange: 196.6
+fiftyTwoWeekLowChangePercent: 1.1234286
+fiftyTwoWeekRange: 175.0 - 386.0
+financialCurrency: DKK
+firstTradeDateMilliseconds: 957769200000
+floatShares: 83828252
+forwardEps: 17.41905
+forwardPE: 21.332966
+freeCashflow: 3759375104
+fullExchangeName: Copenhagen
+fullTimeEmployees: 26616
+fulldayChange: 2.600006
+fulldayChangePercent: 0.7046087
+fulldayPrice: 371.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.76254
+grossProfits: 18781999104
+hasPrePostMarketData: false
+heldPercentInsiders: 0.60003
+heldPercentInstitutions: 0.18778
+impliedSharesOutstanding: 210898609
+industry: Medical Devices
+industryDisp: Medical Devices
+industryKey: medical-devices
+irWebsite: http://www.demant.com/investor.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 956707200
+lastDividendValue: 0.6
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1464134400
+lastSplitFactor: '5:1'
+longBusinessSummary: Demant A/S operates as a hearing healthcare company in Europe,
+  North America, Asia, Pacific region, and internationally. It engages in the development,
+  manufacture, and wholesale of hearing aids; owning and operating hearing care clinics;
+  and offers hearing and balance assessment solutions used by audiologists, ENT doctors,
+  and balance clinics. The company was formerly known as William Demant Holding A/S
+  and changed its name to Demant A/S in March 2019. Demant A/S was founded in 1904
+  and is headquartered in Smørum, Denmark.
+longName: Demant A/S
+market: dk_market
+marketCap: 78369923072
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_426471
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 2424000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 77821586721
+numberOfAnalystOpinions: 20
+open: 369.2
+operatingCashflow: 3918000128
+operatingMargins: 0.17202
+overallRisk: 4
+payoutRatio: 0.0
+pegRatio: 1.36
+phone: 45 39 17 73 00
+previousClose: 369.0
+priceEpsCurrentYear: 25.036383
+priceHint: 2
+priceToBook: 6.9761767
+priceToSalesTrailing12Months: 3.1817598
+profitMargins: 0.06553
+quickRatio: 0.531
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.25
+region: US
+regularMarketChange: 2.600006
+regularMarketChangePercent: 0.7046087
+regularMarketDayHigh: 373.2
+regularMarketDayLow: 369.0
+regularMarketDayRange: 369.0 - 373.2
+regularMarketOpen: 369.2
+regularMarketPreviousClose: 369.0
+regularMarketPrice: 371.6
+regularMarketTime: 1794412450
+regularMarketVolume: 100636
+returnOnAssets: 0.07289
+returnOnEquity: 0.23297001
+revenueGrowth: 0.148
+revenuePerShare: 116.707
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 4
+sharesOutstanding: 210898609
+shortName: Demant A/S
+sourceInterval: 15
+symbol: DEMANT.CO
+targetHighPrice: 430.0
+targetLowPrice: 260.0
+targetMeanPrice: 359.85
+targetMedianPrice: 373.0
+totalCash: 1496000000
+totalCashPerShare: 7.089
+totalDebt: 20281999360
+totalRevenue: 24630999040
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 11.72
+trailingPE: 31.706484
+trailingPegRatio: 1.3353
+triggerable: true
+twoHundredDayAverage: 258.429
+twoHundredDayAverageChange: 113.17102
+twoHundredDayAverageChangePercent: 0.43791923
+typeDisp: Equity
+volume: 100636
+website: https://www.demant.com
+zip: '2765'

@@ -1,0 +1,260 @@
+52WeekChange: 0.11148143
+SandP52WeekChange: 0.097798586
+address1: 60 East Rio Salado Parkway
+address2: Suite 1000
+allTimeHigh: 34.2
+allTimeLow: 0.6875
+ask: 31.27
+askSize: 1
+auditRisk: 8
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 7863960
+averageDailyVolume3Month: 8487248
+averageVolume: 8487248
+averageVolume10days: 7863960
+beta: 1.237
+bid: 28.55
+bidSize: 1
+boardRisk: 5
+bookValue: 4.622
+city: Tempe
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Vincent  Pilette
+  title: CEO, President & Chairman
+  totalPay: 3086464
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Natalie Marie Derse
+  title: Chief Financial Officer
+  totalPay: 1520442
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Bryan Seuk Ko J.D.
+  title: COO, Chief Legal Officer & Corporate Secretary
+  totalPay: 1454719
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Benjamin  Lu C.F.A.
+  title: Head of Investor relations
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Spring  Harris
+  title: Head of Global Corporate Communications & PR
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Kara  Jordan
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Travis  Witteveen
+  title: Head of Products & Portfolios
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 10
+corporateActions:
+- header: Delisting
+  message: GEN was delisted effective Oct. 26, 2026
+  meta:
+    dateEpochMs: 1792990800000
+    eventType: DELISTING
+- header: Dividend
+  message: GEN announced a cash dividend of $0.125 with an ex-date of Nov. 16, 2026
+  meta:
+    amount: '0.125'
+    dateEpochMs: 1794805200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 29.85
+currentRatio: 0.373
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 30.26
+dayLow: 29.675
+debtToEquity: 296.096
+displayName: Gen Digital
+dividendDate: 1796774400
+dividendRate: 0.5
+dividendYield: 1.67
+earningsCallTimestampEnd: 1793221200
+earningsCallTimestampStart: 1793221200
+earningsGrowth: 1.286
+earningsQuarterlyGrowth: 1.142
+earningsTimestamp: 1793217600
+earningsTimestampEnd: 1793217600
+earningsTimestampStart: 1793217600
+ebitda: 2496999936
+ebitdaMargins: 0.47762
+enterpriseToEbitda: 10.147
+enterpriseToRevenue: 4.846
+enterpriseValue: 25337214976
+epsCurrentYear: 2.95521
+epsForward: 3.33736
+epsTrailingTwelveMonths: 1.97
+esgPopulated: false
+exDividendDate: 1794787200
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 26.5266
+fiftyDayAverageChange: 3.3234005
+fiftyDayAverageChangePercent: 0.12528558
+fiftyTwoWeekChangePercent: 11.148143
+fiftyTwoWeekHigh: 31.65
+fiftyTwoWeekHighChange: -1.7999992
+fiftyTwoWeekHighChangePercent: -0.056872014
+fiftyTwoWeekLow: 17.78
+fiftyTwoWeekLowChange: 12.07
+fiftyTwoWeekLowChangePercent: 0.6788526
+fiftyTwoWeekRange: 17.78 - 31.65
+financialCurrency: USD
+firstTradeDateMilliseconds: 614611800000
+fiveYearAvgDividendYield: 2.07
+floatShares: 534031531
+forwardEps: 3.33736
+forwardPE: 8.944196
+freeCashflow: 1811250048
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 3900
+fulldayChange: -0.15999985
+fulldayChangePercent: -0.5331551
+fulldayPrice: 29.85
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.77410007
+grossProfits: 4047000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.09814999
+heldPercentInstitutions: 0.96830004
+impliedSharesOutstanding: 593276080
+industry: Software - Infrastructure
+industryDisp: Software - Infrastructure
+industryKey: software-infrastructure
+irWebsite: http://investor.symantec.com/phoenix.zhtml?c=89422&p=irol-irhomeNews
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786924800
+lastDividendValue: 0.125
+lastFiscalYearEnd: 1775174400
+lastSplitDate: 1101859200
+lastSplitFactor: '2:1'
+longBusinessSummary: Gen Digital Inc. engages in the provision of cyber safety and
+  trust-based solutions for individuals, families, and small businesses. The company
+  offers security and performance management, identity protection, and online privacy,
+  as well as technology platforms. It also provides restoration support services,
+  digital reputation, and secure financial wellness. The company offers its products
+  under the Norton, Avast, LifeLock, MoneyLion, Avira, AVG, ReputationDefender, and
+  CCleaner brands. The company was formerly known as NortonLifeLock Inc. and changed
+  its name to Gen Digital Inc. in November 2022. Gen Digital Inc. was founded in 1982
+  and is headquartered in Tempe, Arizona.
+longName: Gen Digital Inc.
+market: us_market
+marketCap: 17709291520
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_35000
+mostRecentQuarter: 1790899200
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1206000000
+nextFiscalYearEnd: 1806710400
+nonDilutedMarketCap: 17804215160
+numberOfAnalystOpinions: 10
+open: 29.9
+operatingCashflow: 1780000000
+operatingMargins: 0.43229
+overallRisk: 9
+payoutRatio: 0.2538
+pegRatio: 1.77
+phone: 650 527 8000
+prevName: NortonLifeLock Inc.
+previousClose: 30.01
+priceEpsCurrentYear: 10.100805
+priceHint: 2
+priceToBook: 6.458243
+priceToSalesTrailing12Months: 3.387393
+profitMargins: 0.23068
+quickRatio: 0.238
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.09091
+region: US
+regularMarketChange: -0.15999985
+regularMarketChangePercent: -0.5331551
+regularMarketDayHigh: 30.26
+regularMarketDayLow: 29.675
+regularMarketDayRange: 29.675 - 30.26
+regularMarketOpen: 29.9
+regularMarketPreviousClose: 30.01
+regularMarketPrice: 29.85
+regularMarketTime: 1794413727
+regularMarketVolume: 990150
+returnOnAssets: 0.08939999
+returnOnEquity: 0.46402
+revenueGrowth: 0.122
+revenuePerShare: 8.677
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 2
+sharesOutstanding: 593276080
+sharesPercentSharesOut: 0.059499998
+sharesShort: 35291760
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 35357325
+shortName: Gen Digital Inc.
+shortPercentOfFloat: 0.0659
+shortRatio: 4.05
+sourceInterval: 15
+state: AZ
+symbol: GEN
+targetHighPrice: 46.0
+targetLowPrice: 25.0
+targetMeanPrice: 32.275
+targetMedianPrice: 30.5
+totalCash: 583000000
+totalCashPerShare: 0.983
+totalDebt: 8115999744
+totalRevenue: 5228000256
+tradeable: false
+trailingAnnualDividendRate: 0.5
+trailingAnnualDividendYield: 0.016661113
+trailingEps: 1.97
+trailingPE: 15.152285
+trailingPegRatio: 1.7722
+triggerable: true
+twoHundredDayAverage: 24.48165
+twoHundredDayAverageChange: 5.368351
+twoHundredDayAverageChangePercent: 0.21928062
+typeDisp: Equity
+volume: 990150
+website: https://www.gendigital.com
+zip: '85281'

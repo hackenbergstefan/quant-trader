@@ -1,0 +1,226 @@
+52WeekChange: 0.29979086
+SandP52WeekChange: 0.097798586
+address1: Avenida 24 de Julho 12
+address2: 4th Floor
+allTimeHigh: 5.66
+allTimeLow: 1.348733
+ask: 0.0
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 8459062
+averageDailyVolume3Month: 7916039
+averageVolume: 7916039
+averageVolume10days: 8459062
+beta: 0.551
+bid: 0.0
+bidSize: 0
+boardRisk: 3
+bookValue: 2.796
+city: Lisbon
+companyOfficers:
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Miguel Stilwell de Andrade
+  title: Chairman of the Executive Board of Directors & CEO
+  totalPay: 1517547
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rui Manuel Rodrigues Lopes Teixeira
+  title: CFO & Member of the Executive Board of Directors
+  totalPay: 1047666
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jose Miguel Henriques Viana
+  title: Head of Investor Relations & Sustainability
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ana Rita Pontífice Ferreira De Almeida Côrte-Real
+  title: Company Secretary
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Paula Cristina Santos Guerra
+  title: Treasurer
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Portugal
+cryptoTradeable: false
+currency: EUR
+currentPrice: 5.018
+currentRatio: 1.181
+customPriceAlertConfidence: LOW
+dayHigh: 5.03
+dayLow: 4.983
+debtToEquity: 141.146
+dividendRate: 0.21
+dividendYield: 4.12
+earningsCallTimestampEnd: 1793953800
+earningsCallTimestampStart: 1793953800
+earningsGrowth: 0.833
+earningsQuarterlyGrowth: 0.899
+earningsTimestamp: 1793986200
+earningsTimestampEnd: 1793986200
+earningsTimestampStart: 1793986200
+ebitda: 3884443904
+ebitdaMargins: 0.23816
+enterpriseToEbitda: 12.202
+enterpriseToRevenue: 2.906
+enterpriseValue: 47398658048
+epsCurrentYear: 0.32182
+epsForward: 0.32068
+epsTrailingTwelveMonths: 0.35
+esgPopulated: false
+exDividendDate: 1777939200
+exchange: LIS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Lisbon
+exchangeTimezoneShortName: WET
+executiveTeam: []
+fax: 351 21 001 2899
+fiftyDayAverage: 4.80888
+fiftyDayAverageChange: 0.20912027
+fiftyDayAverageChangePercent: 0.043486275
+fiftyTwoWeekChangePercent: 29.979086
+fiftyTwoWeekHigh: 5.122
+fiftyTwoWeekHighChange: -0.10400009
+fiftyTwoWeekHighChangePercent: -0.020304585
+fiftyTwoWeekLow: 3.693
+fiftyTwoWeekLowChange: 1.325
+fiftyTwoWeekLowChangePercent: 0.3587869
+fiftyTwoWeekRange: 3.693 - 5.122
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946890000000
+fiveYearAvgDividendYield: 4.65
+floatShares: 2960010507
+forwardEps: 0.32068
+forwardPE: 15.647999
+freeCashflow: -1815629440
+fullExchangeName: Lisbon
+fullTimeEmployees: 11858
+fulldayChange: 0.045000076
+fulldayChangePercent: 0.9048879
+fulldayPrice: 5.018
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.393
+grossProfits: 6409787904
+hasPrePostMarketData: false
+heldPercentInsiders: 0.29064
+heldPercentInstitutions: 0.40076
+impliedSharesOutstanding: 4133921625
+industry: Utilities - Diversified
+industryDisp: Utilities - Diversified
+industryKey: utilities-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777939200
+lastDividendValue: 0.205
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 963792000
+lastSplitFactor: '5:1'
+longBusinessSummary: EDP, S.A. engages in the generation, transmission, distribution,
+  and supply of electricity in Portugal, Spain, France, Poland, Romania, Italy, Belgium,
+  the United Kingdom, Greece, Colombia, Brazil, North America, and internationally.
+  It operates through Renewables, Networks, and Client Solutions & Energy Management
+  segments. The company generates and sells electricity through hydro, combined-cycle
+  gas turbine, coal, wind, solar, nuclear, and cogeneration and waste sources. The
+  company is also involved in the supply of natural gas. In addition, it offers engineering,
+  laboratory tests, professional training, and energy services, as well as property
+  management services. The company was formerly known as EDP - Energias de Portugal,
+  S.A. and changed its name to EDP, S.A. in April 2024. The company was incorporated
+  in 1976 and is headquartered in Lisbon, Portugal.
+longName: EDP, S.A.
+market: pt_market
+marketCap: 20744017920
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_410485
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1391292032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 20557992236
+numberOfAnalystOpinions: 22
+open: 5.01
+operatingCashflow: 3238853120
+operatingMargins: 0.117189996
+overallRisk: 2
+payoutRatio: 0.6029
+pegRatio: 1.98
+phone: 351 21 001 2834
+prevName: EDP - Energias de Portugal, S.A.
+previousClose: 4.973
+priceEpsCurrentYear: 15.592568
+priceHint: 2
+priceToBook: 1.7947068
+priceToSalesTrailing12Months: 1.271863
+profitMargins: 0.0853
+quickRatio: 0.924
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.68182
+region: US
+regularMarketChange: 0.045000076
+regularMarketChangePercent: 0.9048879
+regularMarketDayHigh: 5.03
+regularMarketDayLow: 4.983
+regularMarketDayRange: 4.983 - 5.03
+regularMarketOpen: 5.01
+regularMarketPreviousClose: 4.973
+regularMarketPrice: 5.018
+regularMarketTime: 1794411451
+regularMarketVolume: 2220661
+returnOnAssets: 0.021930002
+returnOnEquity: 0.1043
+revenueGrowth: 0.157
+revenuePerShare: 3.957
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 6
+sharesOutstanding: 4133921624
+shortName: EDP, SA
+sourceInterval: 15
+symbol: EDP.LS
+targetHighPrice: 6.0
+targetLowPrice: 4.5
+targetMeanPrice: 5.29091
+targetMedianPrice: 5.3
+totalCash: 2915260928
+totalCashPerShare: 0.694
+totalDebt: 24097046528
+totalRevenue: 16309946368
+tradeable: false
+trailingAnnualDividendRate: 0.205
+trailingAnnualDividendYield: 0.041222602
+trailingEps: 0.35
+trailingPE: 14.337144
+trailingPegRatio: 1.9426
+triggerable: false
+twoHundredDayAverage: 4.55754
+twoHundredDayAverageChange: 0.4604602
+twoHundredDayAverageChangePercent: 0.101032615
+typeDisp: Equity
+volume: 2220661
+website: https://edp.com
+zip: 1249-300

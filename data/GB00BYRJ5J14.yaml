@@ -1,0 +1,220 @@
+52WeekChange: 0.012461066
+SandP52WeekChange: 0.097798586
+address1: 5th Floor, Burdett House
+address2: 15-16 Buckingham Street
+allTimeHigh: 170.2
+allTimeLow: 19.9477
+ask: 96.85
+askSize: 0
+auditRisk: 9
+averageDailyVolume10Day: 10503429
+averageDailyVolume3Month: 10611322
+averageVolume: 10611322
+averageVolume10days: 10503429
+beta: 0.772
+bid: 96.8
+bidSize: 0
+boardRisk: 5
+bookValue: 0.987
+city: London
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark Anthony Philip Davies A.C.A.
+  title: CEO & Director
+  totalPay: 1387000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard  Howell ACA, BA (Hons)
+  title: CFO & Director
+  totalPay: 1024000
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven  Noble
+  title: Chief Investment Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Purcell
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sarah  Taylor
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philip  Higgins
+  title: Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 96.8
+currentRatio: 0.377
+customPriceAlertConfidence: LOW
+dayHigh: 97.8
+dayLow: 96.65
+debtToEquity: 131.367
+dividendRate: 0.07
+dividendYield: 7.49
+earningsCallTimestampEnd: 1785407400
+earningsCallTimestampStart: 1785407400
+earningsGrowth: -0.136
+earningsQuarterlyGrowth: 0.678
+earningsTimestampEnd: 1785425400
+earningsTimestampStart: 1785425400
+ebitda: 304500000
+ebitdaMargins: 0.8297
+enterpriseToEbitda: 19.252
+enterpriseToRevenue: 15.973
+enterpriseValue: 5862125056
+epsCurrentYear: 0.07344
+epsForward: 0.07609
+epsTrailingTwelveMonths: 0.06
+esgPopulated: false
+exDividendDate: 1792022400
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 92.546
+fiftyDayAverageChange: 4.2540054
+fiftyDayAverageChangePercent: 0.04596639
+fiftyTwoWeekChangePercent: 1.2461066
+fiftyTwoWeekHigh: 109.6
+fiftyTwoWeekHighChange: -12.799995
+fiftyTwoWeekHighChangePercent: -0.11678828
+fiftyTwoWeekLow: 88.3
+fiftyTwoWeekLowChange: 8.5
+fiftyTwoWeekLowChangePercent: 0.09626274
+fiftyTwoWeekRange: 88.3 - 109.6
+financialCurrency: GBP
+firstTradeDateMilliseconds: 827222400000
+fiveYearAvgDividendYield: 6.39
+floatShares: 2548523550
+forwardEps: 0.07609
+forwardPE: 12.721777
+freeCashflow: 180650000
+fullExchangeName: LSE
+fullTimeEmployees: 156
+fulldayChange: -0.69999695
+fulldayChangePercent: -0.7179456
+fulldayPrice: 96.8
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.89918
+grossProfits: 330000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.05884
+heldPercentInstitutions: 0.65363
+impliedSharesOutstanding: 2595000000
+industry: REIT - Healthcare Facilities
+industryDisp: REIT - Healthcare Facilities
+industryKey: reit-healthcare-facilities
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792022400
+lastDividendValue: 0.01825
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1447286400
+lastSplitFactor: '4:1'
+longBusinessSummary: Primary Health Properties PLC (PHP) is a UK Real Estate Investment
+  Trust and leading investor in modern primary healthcare premises. We invest in flexible,
+  modern properties for local primary healthcare. The overall objective of the group
+  is to create progressive returns to shareholders through a combination of earnings
+  growth and capital appreciation. To achieve this, PHP invests in healthcare real
+  estate let on long-term leases, backed by secure underlying covenants where the
+  majority of rental income is funded directly or indirectly by a government body.
+  Primary Health Properties Plc was incorporated in 1994 in United Kingdom.
+longName: Primary Health Properties Plc
+market: gb_market
+marketCap: 2511960064
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_881927
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 159000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 2530125000
+numberOfAnalystOpinions: 9
+open: 97.5
+operatingCashflow: 255000000
+operatingMargins: 0.82834
+overallRisk: 4
+payoutRatio: 1.2083
+phone: 44 20 3824 1841
+previousClose: 97.5
+priceEpsCurrentYear: 1318.0828
+priceHint: 2
+priceToBook: 0.98074985
+priceToSalesTrailing12Months: 6.844578
+profitMargins: 0.43324003
+quickRatio: 0.354
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -0.69999695
+regularMarketChangePercent: -0.7179456
+regularMarketDayHigh: 97.8
+regularMarketDayLow: 96.65
+regularMarketDayRange: 96.65 - 97.8
+regularMarketOpen: 97.5
+regularMarketPreviousClose: 97.5
+regularMarketPrice: 96.8
+regularMarketTime: 1794411553
+regularMarketVolume: 4163757
+returnOnAssets: 0.04239
+returnOnEquity: 0.0805
+revenueGrowth: 1.189
+revenuePerShare: 0.152
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 1
+sharesOutstanding: 2595000000
+shortName: PRIMARY HEALTH PROPERTIES PLC O
+sourceInterval: 15
+symbol: PHP.L
+targetHighPrice: 131.0
+targetLowPrice: 104.99999
+targetMeanPrice: 113.222
+targetMedianPrice: 115.0
+totalCash: 31000000
+totalCashPerShare: 0.012
+totalDebt: 3363000064
+totalRevenue: 367000000
+tradeable: false
+trailingAnnualDividendRate: 0.072
+trailingAnnualDividendYield: 0.0007384615
+trailingEps: 0.06
+trailingPE: 16.133335
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 95.131
+twoHundredDayAverageChange: 1.6690063
+twoHundredDayAverageChangePercent: 0.017544296
+typeDisp: Equity
+volume: 4163757
+website: https://www.phpgroup.co.uk
+zip: WC2N 6DU

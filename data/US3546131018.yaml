@@ -1,0 +1,259 @@
+52WeekChange: 0.5744035
+SandP52WeekChange: 0.097798586
+address1: One Franklin Parkway
+allTimeHigh: 59.43
+allTimeLow: 0.048148
+ask: 36.32
+askSize: 300
+auditRisk: 7
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 4762260
+averageDailyVolume3Month: 3790503
+averageVolume: 3790503
+averageVolume10days: 4762260
+beta: 1.602
+bid: 36.3
+bidSize: 400
+boardRisk: 6
+bookValue: 23.129
+city: San Mateo
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer M. Johnson
+  title: CEO & Non-Independent Director
+  totalPay: 7885045
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Terrence James Murphy
+  title: Co-President & Head of Public Market Investments
+  totalPay: 12394363
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel Ernesto Gamba CFA
+  title: Co-President & Chief Commercial Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Avinash Deepak Satwalekar CFA
+  title: President of India
+  unexercisedValue: 0
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lindsey Harumi Oshita
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bassel  Khatoun
+  title: Head of Research & Director of Portfolio Management
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anupama  Sawhney
+  title: Chief Administrative Officer & Head of Business Development
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Selene  Oh
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas Clifton Merchant J.D.
+  title: Executive VP, General Counsel & Assistant Secretary
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sandeep  Singh
+  title: Head of CEEMEA & India
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 36.36
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 36.48
+dayLow: 36.01
+debtToEquity: 24.805
+displayName: Franklin Templeton
+dividendDate: 1791504000
+dividendRate: 1.32
+dividendYield: 3.64
+earningsCallTimestampEnd: 1793980800
+earningsCallTimestampStart: 1793980800
+earningsGrowth: 2.452
+earningsQuarterlyGrowth: 2.232
+earningsTimestamp: 1793971800
+earningsTimestampEnd: 1801229400
+earningsTimestampStart: 1801229400
+ebitda: 1537833216
+ebitdaMargins: 0.16333
+enterpriseToEbitda: 14.412
+enterpriseToRevenue: 2.354
+enterpriseValue: 22162925568
+epsCurrentYear: 3.26655
+epsForward: 3.62287
+epsTrailingTwelveMonths: 1.97
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 32.6476
+fiftyDayAverageChange: 3.7124023
+fiftyDayAverageChangePercent: 0.11371135
+fiftyTwoWeekChangePercent: 57.440353
+fiftyTwoWeekHigh: 36.79
+fiftyTwoWeekHighChange: -0.4300003
+fiftyTwoWeekHighChangePercent: -0.011687967
+fiftyTwoWeekLow: 21.11
+fiftyTwoWeekLowChange: 15.25
+fiftyTwoWeekLowChangePercent: 0.72240645
+fiftyTwoWeekRange: 21.11 - 36.79
+financialCurrency: USD
+firstTradeDateMilliseconds: 433171800000
+fiveYearAvgDividendYield: 4.69
+floatShares: 294559375
+forwardEps: 3.62287
+forwardPE: 10.0362425
+fullExchangeName: NYSE
+fulldayChange: 0.069999695
+fulldayChangePercent: 0.19291635
+fulldayPrice: 36.36
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.34533
+grossProfits: 3251399936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.48361
+heldPercentInstitutions: 0.49295
+impliedSharesOutstanding: 512500000
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=111222&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 0.33
+lastFiscalYearEnd: 1790726400
+lastSplitDate: 1374796800
+lastSplitFactor: '3:1'
+longBusinessSummary: Franklin Templeton Inc. is a publicly owned asset investment
+  manager. Through its subsidiaries, the firm provides its services to individuals,
+  institutions, pension plans, trusts, and partnerships. It launches equity, fixed
+  income, balanced, and multi-asset mutual funds through its subsidiaries. The firm
+  invests in the public equity, fixed income, and alternative markets. Franklin Resources,
+  Inc. was founded in 1947 and is based in San Mateo, California with an additional
+  office in Calgary, Alberta; Dubai, United Arab Emirates; Edinburgh, Midlothian;
+  Fort Lauderdale, Florida; Hyderabad, India; London, Greater London; Rancho Cordova,
+  California; Shanghai, Shanghai Province; Singapore; Stamford, Connecticut; and Vienna.
+longName: Franklin Templeton Inc.
+market: us_market
+marketCap: 18634500096
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_28703
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1075299968
+nextFiscalYearEnd: 1822262400
+nonDilutedMarketCap: 18598625000
+numberOfAnalystOpinions: 13
+open: 36.49
+operatingMargins: 0.1284
+overallRisk: 6
+payoutRatio: 0.67010003
+pegRatio: 0.45
+phone: 650-312-2000
+prevName: Franklin Resources, Inc.
+previousClose: 36.29
+priceEpsCurrentYear: 11.13101
+priceHint: 2
+priceToBook: 1.5720525
+priceToSalesTrailing12Months: 1.9791722
+profitMargins: 0.114209995
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.61538
+region: US
+regularMarketChange: 0.069999695
+regularMarketChangePercent: 0.19291635
+regularMarketDayHigh: 36.48
+regularMarketDayLow: 36.01
+regularMarketDayRange: 36.01 - 36.48
+regularMarketOpen: 36.49
+regularMarketPreviousClose: 36.29
+regularMarketPrice: 36.36
+regularMarketTime: 1794413736
+regularMarketVolume: 548437
+returnOnEquity: 0.105129994
+revenueGrowth: 0.039
+revenuePerShare: 18.296
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 4
+sharesOutstanding: 512500000
+sharesPercentSharesOut: 0.033
+sharesShort: 16919290
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 18424935
+shortName: Franklin Templeton, Inc.
+shortPercentOfFloat: 0.0433
+shortRatio: 4.39
+sourceInterval: 15
+state: CA
+symbol: BEN
+targetHighPrice: 44.0
+targetLowPrice: 30.0
+targetMeanPrice: 36.92308
+targetMedianPrice: 36.0
+totalCash: 2670299904
+totalCashPerShare: 5.21
+totalDebt: 3572100096
+totalRevenue: 9415300096
+tradeable: false
+trailingAnnualDividendRate: 1.32
+trailingAnnualDividendYield: 0.036373656
+trailingEps: 1.97
+trailingPE: 18.456852
+trailingPegRatio: 0.4462
+triggerable: true
+twoHundredDayAverage: 30.5253
+twoHundredDayAverageChange: 5.8347015
+twoHundredDayAverageChangePercent: 0.19114314
+typeDisp: Equity
+volume: 548437
+website: https://www.franklintempleton.com/corporate
+zip: '94403'

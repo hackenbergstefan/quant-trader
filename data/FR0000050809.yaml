@@ -1,0 +1,259 @@
+52WeekChange: 0.49392092
+SandP52WeekChange: 0.097798586
+address1: 6 avenue Kleber
+allTimeHigh: 239.6
+allTimeLow: 7.375805
+ask: 0.0
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 44572
+averageDailyVolume3Month: 41840
+averageVolume: 41840
+averageVolume10days: 44572
+beta: 0.897
+bid: 0.0
+bidSize: 0
+boardRisk: 5
+bookValue: 108.549
+city: Paris
+companyOfficers:
+- age: 90
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pierre  Pasquier
+  title: Founder & Chairman
+  totalPay: 588704
+  unexercisedValue: 0
+  yearBorn: 1935
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kathleen  Clark
+  title: Director of Corporate Development & Representative Director
+  totalPay: 54024
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rajesh  Krishnamurthy
+  title: Chief Executive Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Etienne  du Vignaux
+  title: Group Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dominique  Lapere
+  title: Chief Operating Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mohammed  Sijelmassi
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Olivier  Psaume
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Yvane  Bernard-Hulin
+  title: Legal Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ayedin  Manzari
+  title: Chief Sustainability & Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Malika  Kaoua
+  title: Group Consulting Head of Marketing & Image
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 197.2
+currentRatio: 0.876
+customPriceAlertConfidence: LOW
+dayHigh: 198.2
+dayLow: 195.1
+debtToEquity: 65.109
+dividendRate: 5.3
+dividendYield: 2.7
+earningsCallTimestampEnd: 1785306600
+earningsCallTimestampStart: 1785306600
+earningsGrowth: 0.053
+earningsQuarterlyGrowth: 0.03
+earningsTimestampEnd: 1772123400
+earningsTimestampStart: 1772123400
+ebitda: 556700032
+ebitdaMargins: 0.096599996
+enterpriseToEbitda: 8.888
+enterpriseToRevenue: 0.859
+enterpriseValue: 4948185088
+epsCurrentYear: 18.14096
+epsForward: 19.95726
+epsTrailingTwelveMonths: 15.54
+esgPopulated: false
+exDividendDate: 1780358400
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 173.428
+fiftyDayAverageChange: 23.772003
+fiftyDayAverageChangePercent: 0.13707131
+fiftyTwoWeekChangePercent: 49.392094
+fiftyTwoWeekHigh: 202.2
+fiftyTwoWeekHighChange: -5.0
+fiftyTwoWeekHighChangePercent: -0.024727993
+fiftyTwoWeekLow: 109.4
+fiftyTwoWeekLowChange: 87.799995
+fiftyTwoWeekLowChangePercent: 0.8025594
+fiftyTwoWeekRange: 109.4 - 202.2
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 2.21
+floatShares: 13538378
+forwardEps: 19.95726
+forwardPE: 9.881116
+freeCashflow: 423212512
+fullExchangeName: Paris
+fullTimeEmployees: 51929
+fulldayChange: 0.59999084
+fulldayChangePercent: 0.30518353
+fulldayPrice: 197.2
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.14926
+grossProfits: 860200000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.29949
+heldPercentInstitutions: 0.47162
+impliedSharesOutstanding: 19418067
+industry: Information Technology Services
+industryDisp: Information Technology Services
+industryKey: information-technology-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1780358400
+lastDividendValue: 5.3
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Sopra Steria Group SA provides consulting, digital, and software
+  development services in France and internationally. The company offers digital transformation
+  consulting services; artificial intelligence; technology services in the field of
+  artificial intelligence, blockchain, cloud, data, internet of things, digital interactions,
+  emerging technologies, 5G design center, industrial metaverse, and intelligent process
+  automation; systems integration comprising smart application modernization and product
+  lifecycle management; infrastructure management services, including consulting,
+  cloud, end-user support, digital workplace, and legacy services; and cybersecurity
+  services. It also provides software solution, such as HR solutions and innovations,
+  and property management solutions; and information warfare solutions. In addition,
+  the company offers business process services, such as creation or on-boarding, and
+  operation of multi-function shared services; and operation of finance and administration,
+  and human resource functions, as well as operation of specialized industry-specific
+  business processes comprising operating and executing services in police control
+  rooms, managing compliance in financial services, and managing customer services
+  for large utilities. It serves aerospace, defense and security, energy and utilities,
+  financial services, insurance and social, government, retail, telecommunication,
+  media and entertainment, space, and transport industries. The company was formerly
+  known as Sopra Group and changed its name to Sopra Steria Group SA in September
+  2014. Sopra Steria Group SA was incorporated in 1968 and is headquartered in Paris,
+  France.
+longName: Sopra Steria Group SA
+market: fr_market
+marketCap: 3829242880
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_879381
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 301100000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 3813708358
+numberOfAnalystOpinions: 9
+open: 196.2
+operatingCashflow: 553400000
+operatingMargins: 0.08705
+overallRisk: 4
+payoutRatio: 0.3411
+pegRatio: 0.9
+phone: 33 1 40 67 29 29
+previousClose: 196.6
+priceEpsCurrentYear: 10.870427
+priceHint: 2
+priceToBook: 1.816691
+priceToSalesTrailing12Months: 0.66442996
+profitMargins: 0.052249998
+quickRatio: 0.701
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: 0.59999084
+regularMarketChangePercent: 0.30518353
+regularMarketDayHigh: 198.2
+regularMarketDayLow: 195.1
+regularMarketDayRange: 195.1 - 198.2
+regularMarketOpen: 196.2
+regularMarketPreviousClose: 196.6
+regularMarketPrice: 197.2
+regularMarketTime: 1794411335
+regularMarketVolume: 8540
+returnOnAssets: 0.05495
+returnOnEquity: 0.14576
+revenueGrowth: 0.041
+revenuePerShare: 297.891
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 6
+sharesOutstanding: 19418067
+shortName: SOPRA STERIA GROUP
+sourceInterval: 15
+symbol: SOP.PA
+targetHighPrice: 259.0
+targetLowPrice: 160.0
+targetMeanPrice: 222.88889
+targetMedianPrice: 220.0
+totalCash: 270400000
+totalCashPerShare: 14.125
+totalDebt: 1393200000
+totalRevenue: 5763200000
+tradeable: false
+trailingAnnualDividendRate: 5.3
+trailingAnnualDividendYield: 0.02695829
+trailingEps: 15.54
+trailingPE: 12.689833
+trailingPegRatio: 0.8987
+triggerable: false
+twoHundredDayAverage: 150.789
+twoHundredDayAverageChange: 46.410995
+twoHundredDayAverageChangePercent: 0.30778766
+typeDisp: Equity
+volume: 8540
+website: https://www.soprasteria.com
+zip: '75116'

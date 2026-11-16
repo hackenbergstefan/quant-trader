@@ -1,0 +1,250 @@
+52WeekChange: 0.1426307
+SandP52WeekChange: 0.097798586
+address1: Lakeside
+address2: Solihull Parkway Birmingham Business Park
+allTimeHigh: 3202.0
+allTimeLow: 190.8228
+ask: 2928.0
+askSize: 0
+auditRisk: 9
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 1171074
+averageDailyVolume3Month: 801350
+averageVolume: 801350
+averageVolume10days: 1171074
+beta: 1.067
+bid: 2924.0
+bidSize: 0
+boardRisk: 2
+bookValue: 3.926
+city: Birmingham
+companyOfficers:
+- age: 37
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Luke Robert Grant
+  title: CFO & Executive Director
+  totalPay: 885000
+  unexercisedValue: 0
+  yearBorn: 1988
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jackie  Hu
+  title: Chief Operating Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Edward  Hann
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Louise  Waldek
+  title: Chief Legal Officer & Company Secretary
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Liz  Rose
+  title: Chief People Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Giuseppe  Buscemi
+  title: President of Europe Oil & Gas & Power
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tarak  Chhaya
+  title: President of Industrial Automation
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Neville  Rudd
+  title: President of Transport
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin  Curtin
+  title: President of Life Science
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefano  D'Agostino Ph.D.
+  title: President of Climate Control
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 2928.0
+currentRatio: 1.305
+customPriceAlertConfidence: LOW
+dayHigh: 2950.0
+dayLow: 2914.0
+debtToEquity: 80.298
+dividendRate: 0.35
+dividendYield: 1.22
+earningsCallTimestampEnd: 1785511800
+earningsCallTimestampStart: 1785511800
+earningsGrowth: 0.26
+earningsQuarterlyGrowth: 0.21
+earningsTimestampEnd: 1785511800
+earningsTimestampStart: 1785511800
+ebitda: 560899968
+ebitdaMargins: 0.23647
+enterpriseToEbitda: 13.688
+enterpriseToRevenue: 3.237
+enterpriseValue: 7677552128
+epsCurrentYear: 1.42139
+epsForward: 1.55224
+epsTrailingTwelveMonths: 1.36
+esgPopulated: false
+exDividendDate: 1786579200
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fax: 44 12 1717 3701
+fiftyDayAverage: 3001.76
+fiftyDayAverageChange: -73.76001
+fiftyDayAverageChangePercent: -0.024572253
+fiftyTwoWeekChangePercent: 14.263069
+fiftyTwoWeekHigh: 3202.0
+fiftyTwoWeekHighChange: -274.0
+fiftyTwoWeekHighChangePercent: -0.08557152
+fiftyTwoWeekLow: 2346.0
+fiftyTwoWeekLowChange: 582.0
+fiftyTwoWeekLowChangePercent: 0.24808185
+fiftyTwoWeekRange: 2346.0 - 3202.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 1.5
+floatShares: 239400800
+forwardEps: 1.55224
+forwardPE: 18.863062
+freeCashflow: 315249984
+fullExchangeName: LSE
+fullTimeEmployees: 10000
+fulldayChange: 44.0
+fulldayChangePercent: 1.5256588
+fulldayPrice: 2928.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.48334998
+grossProfits: 1146499968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00424
+heldPercentInstitutions: 0.80917
+impliedSharesOutstanding: 232659945
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786579200
+lastDividendValue: 0.121
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1392595200
+lastSplitFactor: '7:8'
+longBusinessSummary: IMI plc designs and manufactures fluid and motion control solutions
+  in the United Kingdom, Germany, rest of Europe, the United States, rest of the Americas,
+  China, rest of the Asia Pacific, the Middle East, and Africa. It operates through
+  Automation and Life Technology segments. The company provides engineer advanced
+  fluid control automation solutions; creates fluid and motion control solutions;
+  pneumatic and electric motion systems for creating smart, safe, and sustainable
+  factories, production lines, and operations; valves, actuators, and digitally connected
+  products. It also develops solutions that reduce emissions from commercial vehicles;
+  and develops new products to support zero emission technologies. In addition, the
+  company offers heating and cooling systems; syringe pumps; and detection technologies.
+  It serves process automation, industrial automation, climate control, life science
+  and fluid control, and transportation sectors. The company was formerly known as
+  Imperial Metal Industries Limited and changed its name to IMI plc in December 1978.
+  IMI plc was founded in 1862 and is headquartered in Birmingham, the United Kingdom.
+longName: IMI plc
+market: gb_market
+marketCap: 6812283904
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_677583
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 334200000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 6709912813
+numberOfAnalystOpinions: 17
+open: 2920.0
+operatingCashflow: 509200000
+operatingMargins: 0.20704001
+overallRisk: 2
+payoutRatio: 0.252
+pegRatio: 1.92
+phone: 44 12 1717 3700
+previousClose: 2884.0
+priceEpsCurrentYear: 2059.9553
+priceHint: 2
+priceToBook: 7.4579725
+priceToSalesTrailing12Months: 2.8719578
+profitMargins: 0.14089
+quickRatio: 0.746
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.16667
+region: US
+regularMarketChange: 44.0
+regularMarketChangePercent: 1.5256588
+regularMarketDayHigh: 2950.0
+regularMarketDayLow: 2914.0
+regularMarketDayRange: 2914.0 - 2950.0
+regularMarketOpen: 2920.0
+regularMarketPreviousClose: 2884.0
+regularMarketPrice: 2928.0
+regularMarketTime: 1794411573
+regularMarketVolume: 618992
+returnOnAssets: 0.12297
+returnOnEquity: 0.35782
+revenueGrowth: 0.062
+revenuePerShare: 9.707
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 232659945
+shortName: IMI PLC ORD 28 4/7P
+sourceInterval: 15
+symbol: IMI.L
+targetHighPrice: 4000.0
+targetLowPrice: 2560.0
+targetMeanPrice: 3255.5881
+targetMedianPrice: 3300.0
+totalCash: 90200000
+totalCashPerShare: 0.371
+totalDebt: 765400000
+totalRevenue: 2372000000
+tradeable: false
+trailingAnnualDividendRate: 0.353
+trailingAnnualDividendYield: 0.00012239943
+trailingEps: 1.36
+trailingPE: 21.529411
+trailingPegRatio: 1.9356
+triggerable: false
+twoHundredDayAverage: 2891.8
+twoHundredDayAverageChange: 36.19995
+twoHundredDayAverageChangePercent: 0.012518138
+typeDisp: Equity
+volume: 618992
+website: https://www.imiplc.com
+zip: B37 7XZ

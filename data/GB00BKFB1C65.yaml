@@ -1,0 +1,248 @@
+52WeekChange: 0.21254611
+SandP52WeekChange: 0.097798586
+address1: 10 Fenchurch Avenue
+allTimeHigh: 367.1
+allTimeLow: 86.4
+ask: 329.4
+auditRisk: 5
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 4543974
+averageDailyVolume3Month: 5584396
+averageVolume: 5584396
+averageVolume10days: 4543974
+beta: 0.969
+bid: 329.2
+boardRisk: 4
+bookValue: 1.092
+city: London
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paolo Andrea Rossi
+  title: Group CEO & Executive Director
+  totalPay: 2602000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kathryn  McLeland
+  title: CFO & Executive Director
+  totalPay: 1617000
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matt  Mansour M.B.A.
+  title: Chief Technology & AI officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Luca  Gagliardi
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Charlotte Dawn Alethea Heiss
+  title: Group General Counsel & Company Secretary
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shawn  Gamble
+  title: Group Chief Risk & Compliance Officer
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew  Howells
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ben  Constable-Maxwell
+  title: Head of Impact
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Yi Low Guan
+  title: Head of Fixed Income- Asia Pacific
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph Gilou Pinto
+  title: Chief Executive Officer of M&G Asset Management
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 329.2
+currentRatio: 1.455
+customPriceAlertConfidence: LOW
+dayHigh: 332.5
+dayLow: 328.1
+debtToEquity: 242.439
+dividendRate: 0.21
+dividendYield: 6.27
+earningsCallTimestampEnd: 1788424200
+earningsCallTimestampStart: 1788424200
+earningsTimestamp: 1788449400
+earningsTimestampEnd: 1788449400
+earningsTimestampStart: 1788449400
+ebitda: 2439000064
+ebitdaMargins: 0.34328
+enterpriseToEbitda: 3.679
+enterpriseToRevenue: 1.263
+enterpriseValue: 8972113920
+epsCurrentYear: 0.28009
+epsForward: 0.31147
+epsTrailingTwelveMonths: -0.05
+esgPopulated: false
+exDividendDate: 1788998400
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 324.344
+fiftyDayAverageChange: 4.856018
+fiftyDayAverageChangePercent: 0.014971814
+fiftyTwoWeekChangePercent: 21.254612
+fiftyTwoWeekHigh: 367.1
+fiftyTwoWeekHighChange: -37.899994
+fiftyTwoWeekHighChangePercent: -0.10324161
+fiftyTwoWeekLow: 259.3
+fiftyTwoWeekLowChange: 69.900024
+fiftyTwoWeekLowChangePercent: 0.26957202
+fiftyTwoWeekRange: 259.3 - 367.1
+financialCurrency: GBP
+firstTradeDateMilliseconds: 1571641200000
+fiveYearAvgDividendYield: 8.51
+floatShares: 1801720970
+forwardEps: 0.31147
+forwardPE: 10.569237
+freeCashflow: 765124992
+fullExchangeName: LSE
+fullTimeEmployees: 6455
+fulldayChange: 0.6000061
+fulldayChangePercent: 0.18259467
+fulldayPrice: 329.2
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.57945
+grossProfits: 4116999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.17524
+heldPercentInstitutions: 0.48630002
+impliedSharesOutstanding: 2382488792
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788998400
+lastDividendValue: 0.068
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: M&G plc, through its subsidiaries, provides investment and savings
+  products to institutional clients and individual policyholders in the United Kingdom
+  and internationally. The company operates through Asset Management and Life segments.
+  The Asset Management segment offers managed investment products, such as equities,
+  fixed income, and multi-asset, as well as real estate investment products and services
+  to wholesale clients and institutional investors. The Life segment provides corporate
+  pension solutions, individual life and pensions, and international solutions and
+  advice; and Prudential guaranteed income plan. This segment also offers level annuities,
+  which provide a fixed annuity payment; fixed increase annuities, which incorporate
+  a periodic automatic fixed increase in annuity payments; inflation-linked annuities,
+  which incorporate a periodic increase based on a defined inflation index; and with-profits
+  annuities, written in the with-profits fund, combining income features of annuity
+  contracts with the investment-smoothing features of with-profits products. The company
+  was formerly known as M&G Prudential PLC and changed its name to M&G plc in September
+  2019. M&G plc was founded in 1848 and is headquartered in London, the United Kingdom.
+longName: M&G plc
+market: gb_market
+marketCap: 7843153920
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_595778772
+mostRecentQuarter: 1782777600
+netIncomeToCommon: -111000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 7828858170
+numberOfAnalystOpinions: 12
+open: 329.8
+operatingCashflow: 869000000
+operatingMargins: 0.32498002
+overallRisk: 3
+payoutRatio: 1.6423
+phone: 44 20 7626 4588
+previousClose: 328.6
+priceEpsCurrentYear: 1175.3365
+priceHint: 2
+priceToBook: 3.014652
+priceToSalesTrailing12Months: 1.1038922
+profitMargins: -0.015620001
+quickRatio: 0.256
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.81818
+region: US
+regularMarketChange: 0.6000061
+regularMarketChangePercent: 0.18259467
+regularMarketDayHigh: 332.5
+regularMarketDayLow: 328.1
+regularMarketDayRange: 328.1 - 332.5
+regularMarketOpen: 329.8
+regularMarketPreviousClose: 328.6
+regularMarketPrice: 329.2
+regularMarketTime: 1794411534
+regularMarketVolume: 1293691
+returnOnAssets: 0.0076099997
+returnOnEquity: -0.03337
+revenueGrowth: -0.066
+revenuePerShare: 2.955
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 2382488792
+shortName: M&G PLC
+sourceInterval: 15
+symbol: MNG.L
+targetHighPrice: 370.0
+targetLowPrice: 215.00002
+targetMeanPrice: 326.105
+targetMedianPrice: 330.0
+totalCash: 5416999936
+totalCashPerShare: 2.258
+totalDebt: 6461000192
+totalRevenue: 7104999936
+tradeable: false
+trailingAnnualDividendRate: 0.206
+trailingAnnualDividendYield: 0.000626902
+trailingEps: -0.05
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 320.6696
+twoHundredDayAverageChange: 8.530426
+twoHundredDayAverageChangePercent: 0.026601918
+typeDisp: Equity
+volume: 1293691
+website: https://group.mandg.com
+zip: EC3M 5AG

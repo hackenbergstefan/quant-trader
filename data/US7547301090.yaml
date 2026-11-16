@@ -1,0 +1,282 @@
+52WeekChange: 0.013260245
+SandP52WeekChange: 0.097798586
+address1: 880 Carillon Parkway
+allTimeHigh: 182.73
+allTimeLow: 0.243865
+ask: 167.15
+askSize: 200
+auditRisk: 9
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 1314450
+averageDailyVolume3Month: 1218170
+averageVolume: 1218170
+averageVolume10days: 1314450
+beta: 0.945
+bid: 166.86
+bidSize: 100
+boardRisk: 8
+bookValue: 66.098
+city: Saint Petersburg
+companyOfficers:
+- age: 70
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul Christopher Reilly CPA
+  title: Executive Chair
+  totalPay: 9420843
+  unexercisedValue: 0
+  yearBorn: 1955
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul Marone Shoukry
+  title: CEO & Director
+  totalPay: 8728127
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathan W. Oorlog Jr.
+  title: Senior VP, CFO & Controller
+  totalPay: 2990325
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott Alan Curtis
+  title: Chief Operating Officer
+  totalPay: 4007795
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tashtego Spring Elwyn
+  title: President of Private Client Group
+  totalPay: 4724775
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James E. Bunn
+  title: President of Capital Markets & Advisory
+  totalPay: 4625073
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katherine H. Larson
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andy  Zolper
+  title: Chief information officer
+  unexercisedValue: 0
+- age: 72
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Bella Loykhter Allaire
+  title: Chief Administrative Officer
+  totalPay: 4646783
+  unexercisedValue: 0
+  yearBorn: 1953
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristina  Waugh
+  title: Senior Vice President of Investor Relations and FP&A
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 167.33
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 168.69
+dayLow: 166.71
+debtToEquity: 47.594
+displayName: Raymond James Financial
+dividendDate: 1792022400
+dividendRate: 2.16
+dividendYield: 1.28
+earningsCallTimestampEnd: 1793221200
+earningsCallTimestampStart: 1793221200
+earningsGrowth: 0.151
+earningsQuarterlyGrowth: 0.103
+earningsTimestamp: 1801083600
+earningsTimestampEnd: 1801083600
+earningsTimestampStart: 1801083600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 1.417
+enterpriseValue: 22425120768
+epsCurrentYear: 14.22523
+epsForward: 16.38064
+epsTrailingTwelveMonths: 11.91
+esgPopulated: false
+exDividendDate: 1790812800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 162.9962
+fiftyDayAverageChange: 4.3338013
+fiftyDayAverageChangePercent: 0.026588358
+fiftyTwoWeekChangePercent: 1.3260245
+fiftyTwoWeekHigh: 182.73
+fiftyTwoWeekHighChange: -15.399994
+fiftyTwoWeekHighChangePercent: -0.08427732
+fiftyTwoWeekLow: 138.82
+fiftyTwoWeekLowChange: 28.509995
+fiftyTwoWeekLowChangePercent: 0.20537381
+fiftyTwoWeekRange: 138.82 - 182.73
+financialCurrency: USD
+firstTradeDateMilliseconds: 425914200000
+fiveYearAvgDividendYield: 1.31
+floatShares: 171419520
+forwardEps: 16.38064
+forwardPE: 10.215108
+fullExchangeName: NYSE
+fulldayChange: -0.7799988
+fulldayChangePercent: -0.46398118
+fulldayPrice: 167.33
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.93294996
+grossProfits: 14762000384
+hasPrePostMarketData: true
+heldPercentInsiders: 0.10566
+heldPercentInstitutions: 0.81558996
+impliedSharesOutstanding: 192361711
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+irWebsite: http://www.raymondjames.com/about/investor_relations.htm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790812800
+lastDividendValue: 0.54
+lastFiscalYearEnd: 1790726400
+lastSplitDate: 1632268800
+lastSplitFactor: '3:2'
+longBusinessSummary: Raymond James Financial, Inc., a diversified financial services
+  company, provides private client group, capital markets, asset management, banking,
+  and other services to individuals, corporations, and municipalities in the United
+  States, Canada, and Europe. The Private Client Group segment offers financial planning,
+  investment advisory, securities transaction, investment services, portfolio management
+  services, insurance and annuity products, and mutual funds; support to third-party
+  mutual fund and annuity companies, including sales and marketing support, as well
+  as distribution and accounting, and administrative services; margin loans; securities
+  borrowing and lending services; and custodial, trade execution, research, and other
+  support and services. The Capital Markets segment provides investment banking services,
+  such as equity and debt underwriting, and merger and acquisition advisory; and fixed
+  income and equity brokerage services. This segment also offers institutional sales,
+  securities trading, equity research, and the syndication and management of investments
+  in low-income housing funds and funds of a similar nature. The Asset Management
+  segment provides asset management, portfolio management, and related administrative
+  services to retail and institutional clients; and administrative support services,
+  such as record-keeping. The Bank segment offers various types of loans, including
+  securities-based, corporate, commercial and industrial, commercial real estate and
+  construction, real estate investment trust, residential mortgage, and tax-exempt
+  loans; Federal Deposit Insurance Corporation-insured deposit accounts; retail and
+  corporate deposit; and liquidity management products and services. The Other segment
+  engages in the private equity investments comprising investments in third-party
+  funds. The company offers corporate, retail banking and trust services. Raymond
+  James Financial, Inc. was founded in 1962 and is headquartered in Saint Petersburg,
+  Florida.
+longName: Raymond James Financial, Inc.
+market: us_market
+marketCap: 32187885568
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_22623
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2361999872
+nextFiscalYearEnd: 1822262400
+nonDilutedMarketCap: 32337927236
+numberOfAnalystOpinions: 14
+open: 168.45
+operatingMargins: 0.19914
+overallRisk: 7
+payoutRatio: 0.1848
+pegRatio: 1.07
+phone: 727 567 1000
+previousClose: 168.11
+priceEpsCurrentYear: 11.762903
+priceHint: 2
+priceToBook: 2.5315442
+priceToSalesTrailing12Months: 2.0342467
+profitMargins: 0.14965999
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.4375
+region: US
+regularMarketChange: -0.7799988
+regularMarketChangePercent: -0.46398118
+regularMarketDayHigh: 168.69
+regularMarketDayLow: 166.71
+regularMarketDayRange: 166.71 - 168.69
+regularMarketOpen: 168.45
+regularMarketPreviousClose: 168.11
+regularMarketPrice: 167.33
+regularMarketTime: 1794413746
+regularMarketVolume: 95840
+returnOnEquity: 0.18729
+revenueGrowth: 0.153
+revenuePerShare: 81.227
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 5
+sharesOutstanding: 192361711
+sharesPercentSharesOut: 0.028299998
+sharesShort: 5440966
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 6557480
+shortName: Raymond James Financial, Inc.
+shortPercentOfFloat: 0.0322
+shortRatio: 4.5
+sourceInterval: 15
+state: FL
+symbol: RJF
+targetHighPrice: 205.0
+targetLowPrice: 160.0
+targetMeanPrice: 182.2143
+targetMedianPrice: 182.0
+totalCash: 16019999744
+totalCashPerShare: 83.438
+totalDebt: 6083999744
+totalRevenue: 15822999552
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 11.91
+trailingPE: 14.049539
+trailingPegRatio: 1.0663
+triggerable: true
+twoHundredDayAverage: 159.95026
+twoHundredDayAverageChange: 7.3797455
+twoHundredDayAverageChangePercent: 0.046137754
+typeDisp: Equity
+volume: 95840
+website: https://www.raymondjames.com
+zip: '33716'

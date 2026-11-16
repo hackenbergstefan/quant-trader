@@ -1,0 +1,281 @@
+52WeekChange: 0.15713692
+SandP52WeekChange: 0.097798586
+address1: 639 Loyola Avenue
+allTimeHigh: 118.45
+allTimeLow: 3.875
+ask: 111.52
+askSize: 100
+auditRisk: 7
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 3830620
+averageDailyVolume3Month: 2808790
+averageVolume: 2808790
+averageVolume10days: 3830620
+beta: 0.427
+bid: 111.46
+bidSize: 100
+boardRisk: 5
+bookValue: 41.44
+city: New Orleans
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew S. Marsh
+  title: Chairman of the Board & CEO
+  totalPay: 4181112
+  unexercisedValue: 26390064
+  yearBorn: 1972
+- age: 51
+  exercisedValue: 1033119
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kimberly A. Fontan
+  title: Executive VP & CFO
+  totalPay: 1880013
+  unexercisedValue: 2001319
+  yearBorn: 1974
+- age: 52
+  exercisedValue: 806105
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kimberly S. Cook-Nelson
+  title: Executive VP & COO
+  totalPay: 1769569
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 55
+  exercisedValue: 242273
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John C. Dinelli
+  title: Executive VP & Chief Nuclear Officer
+  totalPay: 1308723
+  unexercisedValue: 797700
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick J. Stack Jr.
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason M. Chapman
+  title: Senior VP and Chief Technology & Business Services Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael A. Rhymes
+  title: Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Liz  Hunter
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel T. Falstad
+  title: Senior VP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1961
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert  Hatley
+  title: Group Vice President of Corporate Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions:
+- header: Dividend
+  message: ETR announced a cash dividend of $0.68 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.68'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 111.69
+currentRatio: 1.184
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 111.71
+dayLow: 110.93
+debtToEquity: 173.099
+displayName: Entergy
+dividendDate: 1796083200
+dividendRate: 2.72
+dividendYield: 2.43
+earningsCallTimestampEnd: 1793635200
+earningsCallTimestampStart: 1793635200
+earningsGrowth: 0.294
+earningsQuarterlyGrowth: 0.355
+earningsTimestamp: 1793626200
+earningsTimestampEnd: 1793626200
+earningsTimestampStart: 1793626200
+ebitda: 5917136896
+ebitdaMargins: 0.42159
+enterpriseToEbitda: 14.245
+enterpriseToRevenue: 6.006
+enterpriseValue: 84289970176
+epsCurrentYear: 4.40122
+epsForward: 5.11352
+epsTrailingTwelveMonths: 4.37
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 105.0224
+fiftyDayAverageChange: 6.6676025
+fiftyDayAverageChangePercent: 0.06348743
+fiftyTwoWeekChangePercent: 15.713692
+fiftyTwoWeekHigh: 118.45
+fiftyTwoWeekHighChange: -6.7599945
+fiftyTwoWeekHighChangePercent: -0.05707045
+fiftyTwoWeekLow: 90.87
+fiftyTwoWeekLowChange: 20.82
+fiftyTwoWeekLowChangePercent: 0.22911851
+fiftyTwoWeekRange: 90.87 - 118.45
+financialCurrency: USD
+firstTradeDateMilliseconds: 76253400000
+fiveYearAvgDividendYield: 3.21
+floatShares: 475629116
+forwardEps: 5.11352
+forwardPE: 21.842096
+freeCashflow: -5097647616
+fullExchangeName: NYSE
+fullTimeEmployees: 12233
+fulldayChange: -0.019996643
+fulldayChangePercent: -0.017900495
+fulldayPrice: 111.69
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.47926
+grossProfits: 6726545920
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00219
+heldPercentInstitutions: 0.98932
+impliedSharesOutstanding: 477827121
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+irWebsite: http://www.entergy.com/investor_relations/default.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786579200
+lastDividendValue: 0.64
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1734048000
+lastSplitFactor: '2:1'
+longBusinessSummary: Entergy Corporation, together with its subsidiaries, engages
+  in the production and retail distribution of electricity in the United States. It
+  generates, transmits, distributes, and sells electric power in portions of Arkansas,
+  Louisiana, Mississippi, and Texas, including the City of New Orleans. It also engages
+  in the ownership of interests in non-nuclear power plants that sell electric power
+  to wholesale customers, as well as provides decommissioning services to other nuclear
+  power plant owners. It generates electricity through gas, nuclear, coal, hydro,
+  and solar power sources. The company sells energy to retail power providers, utilities,
+  electric power co-operatives, power trading organizations, and other power generation
+  companies. The company's power plants have approximately 25,000 megawatts of electric
+  generating capacity. It delivers electricity to 3.1 million utility customers in
+  Arkansas, Louisiana, Mississippi, and Texas. Entergy Corporation was founded in
+  1913 and is headquartered in New Orleans, Louisiana.
+longName: Entergy Corporation
+market: us_market
+marketCap: 53368512512
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_269764
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2043619968
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 53378067686
+numberOfAnalystOpinions: 21
+open: 111.43
+operatingCashflow: 6174752768
+operatingMargins: 0.25015
+overallRisk: 4
+payoutRatio: 0.5858
+pegRatio: 1.72
+phone: 504 576 4000
+previousClose: 111.71
+priceEpsCurrentYear: 25.377056
+priceHint: 2
+priceToBook: 2.6952221
+priceToSalesTrailing12Months: 3.8024285
+profitMargins: 0.1456
+quickRatio: 0.833
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.70833
+region: US
+regularMarketChange: -0.019996643
+regularMarketChangePercent: -0.017900495
+regularMarketDayHigh: 111.71
+regularMarketDayLow: 110.93
+regularMarketDayRange: 110.93 - 111.71
+regularMarketOpen: 111.43
+regularMarketPreviousClose: 111.71
+regularMarketPrice: 111.69
+regularMarketTime: 1794413710
+regularMarketVolume: 341313
+returnOnAssets: 0.02893
+returnOnEquity: 0.11021
+revenueGrowth: 0.145
+revenuePerShare: 30.567
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 2
+sharesOutstanding: 477827121
+sharesPercentSharesOut: 0.0348
+sharesShort: 16650525
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 17851672
+shortName: Entergy Corporation
+shortPercentOfFloat: 0.0392
+shortRatio: 6.17
+sourceInterval: 15
+state: LA
+symbol: ETR
+targetHighPrice: 131.0
+targetLowPrice: 91.0
+targetMeanPrice: 120.38095
+targetMedianPrice: 123.5
+totalCash: 4211040000
+totalCashPerShare: 8.813
+totalDebt: 34812522496
+totalRevenue: 14035376128
+tradeable: false
+trailingAnnualDividendRate: 2.56
+trailingAnnualDividendYield: 0.022916479
+trailingEps: 4.37
+trailingPE: 25.558353
+trailingPegRatio: 1.7169
+triggerable: true
+twoHundredDayAverage: 108.0689
+twoHundredDayAverageChange: 3.6211014
+twoHundredDayAverageChangePercent: 0.03350734
+typeDisp: Equity
+volume: 341313
+website: https://www.entergy.com
+zip: '70113'

@@ -1,0 +1,272 @@
+52WeekChange: 0.1867634
+SandP52WeekChange: 0.097798586
+address1: HDI-Platz 1
+allTimeHigh: 135.9
+allTimeLow: 18.39
+ask: 131.0
+askSize: 321
+auditRisk: 9
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 103926
+averageDailyVolume3Month: 113704
+averageVolume: 113704
+averageVolume10days: 103926
+beta: 0.305
+bid: 130.7
+bidSize: 108
+boardRisk: 8
+bookValue: 55.823
+city: Hanover
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Torsten  Leue
+  title: Chairman of the Management Board & CEO
+  totalPay: 3236000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jan Martin Wicke Ph.D.
+  title: CFO & Member of the Management Board
+  totalPay: 1678000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Edgar  Puls
+  title: Member of the Management Board
+  totalPay: 1352000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Wilm  Langenbach
+  title: Member of Management Board
+  totalPay: 1650000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Caroline  Schlienkamp
+  title: Member of the Management Board
+  totalPay: 1351000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jens  Warkentin
+  title: Member of the Board of Management
+  totalPay: 1369000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Clemens  Jungsthofel
+  title: Member of the Management Board
+  totalPay: 2143738
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bernd  Sablowsky
+  title: Head of Investor Relations and Mergers & Acquisitions
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andreas  Krosta
+  title: Head of Group Communications.
+  unexercisedValue: 0
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Simone  Auer
+  title: Chief Risk Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 130.9
+currentRatio: 16.281
+customPriceAlertConfidence: LOW
+dayHigh: 131.3
+dayLow: 130.1
+debtToEquity: 40.356
+dividendRate: 3.6
+dividendYield: 2.78
+earningsCallTimestampEnd: 1794465000
+earningsCallTimestampStart: 1794465000
+earningsGrowth: -0.059
+earningsQuarterlyGrowth: -0.057
+earningsTimestamp: 1794501000
+earningsTimestampEnd: 1794501000
+earningsTimestampStart: 1794501000
+ebitda: 5545999872
+ebitdaMargins: 0.13041
+enterpriseToEbitda: 4.764
+enterpriseToRevenue: 0.621
+enterpriseValue: 26423175168
+epsCurrentYear: 11.0679
+epsForward: 11.70291
+epsTrailingTwelveMonths: 10.19
+esgPopulated: false
+exDividendDate: 1778198400
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 511 3747 2525
+fiftyDayAverage: 123.696
+fiftyDayAverageChange: 7.2039948
+fiftyDayAverageChangePercent: 0.058239512
+fiftyTwoWeekChangePercent: 18.67634
+fiftyTwoWeekHigh: 135.9
+fiftyTwoWeekHighChange: -5.0
+fiftyTwoWeekHighChangePercent: -0.03679176
+fiftyTwoWeekLow: 97.65
+fiftyTwoWeekLowChange: 33.249992
+fiftyTwoWeekLowChangePercent: 0.3405017
+fiftyTwoWeekRange: 97.65 - 135.9
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1349247600000
+fiveYearAvgDividendYield: 3.12
+floatShares: 59248060
+forwardEps: 11.70291
+forwardPE: 11.185251
+freeCashflow: 2646036992
+fullExchangeName: XETRA
+fullTimeEmployees: 29408
+fulldayChange: 0.0
+fulldayChangePercent: 0.0
+fulldayPrice: 130.9
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.16876
+grossProfits: 7176999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.76699996
+heldPercentInstitutions: 0.16148001
+impliedSharesOutstanding: 258228991
+industry: Insurance - Diversified
+industryDisp: Insurance - Diversified
+industryKey: insurance-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778198400
+lastDividendValue: 3.6
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Talanx AG provides insurance and reinsurance products and services
+  worldwide. The company offers life, casualty, third-party liability, space insurance,
+  legal protection, fire, burglary and theft, tap water, plate glass, storm damage,
+  comprehensive householders, comprehensive homeowners, hail, livestock, engineering,
+  omnium, marine, business interruption, travel assistance, aviation and space liability,
+  credit and surety, extended coverage, fire and fire business interruption insurance
+  products, other property, and other non-life products. It also provides bancassurance
+  activities; motor, life and property, fire, casualty, health, personal accident,
+  and specialty insurance products, unit-linked life, annuity, term life, occupation
+  disability; aviation and agricultural business; coverage for cyber and digital risks;
+  parametric solutions; and structured reinsurance, as well as facultative and nat
+  cat business; and asset management businesses. In addition, the company offers insurance
+  cover, as well as customized products; and financial services. It has operations
+  in Germany, the United Kingdom, Türkiye, Central and Eastern Europe, Rest of Europe,
+  the United States, Rest of North America, Latin America, Asia, Australia, and Africa.
+  The company was founded in 1903 and is based in Hanover, Germany. Talanx AG is a
+  subsidiary of HDI Haftpflichtverband der Deutschen Industrie V.a.G.
+longName: Talanx AG
+market: de_market
+marketCap: 33802174464
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_8201008
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 2606000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 33802174921
+numberOfAnalystOpinions: 7
+open: 130.9
+operatingCashflow: 9621000192
+operatingMargins: 0.12432
+overallRisk: 9
+payoutRatio: 0.35709998
+pegRatio: 3.42
+phone: 49 511 3747 0
+previousClose: 130.9
+priceEpsCurrentYear: 11.826995
+priceHint: 2
+priceToBook: 2.3449113
+priceToSalesTrailing12Months: 0.79484034
+profitMargins: 0.061279997
+quickRatio: 12.265
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.28571
+region: US
+regularMarketChange: 0.0
+regularMarketChangePercent: 0.0
+regularMarketDayHigh: 131.3
+regularMarketDayLow: 130.1
+regularMarketDayRange: 130.1 - 131.3
+regularMarketOpen: 130.9
+regularMarketPreviousClose: 130.9
+regularMarketPrice: 130.9
+regularMarketTime: 1794411514
+regularMarketVolume: 28173
+returnOnAssets: 0.018029999
+returnOnEquity: 0.20372
+revenueGrowth: -0.216
+revenuePerShare: 164.687
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 6
+sharesOutstanding: 258228991
+shortName: Talanx AG                     N
+sourceInterval: 15
+symbol: TLX.DE
+targetHighPrice: 163.0
+targetLowPrice: 94.0
+targetMeanPrice: 131.42857
+targetMedianPrice: 135.0
+totalCash: 23911000064
+totalCashPerShare: 92.596
+totalDebt: 8897999872
+totalRevenue: 42526998528
+tradeable: false
+trailingAnnualDividendRate: 3.6
+trailingAnnualDividendYield: 0.02750191
+trailingEps: 10.19
+trailingPE: 12.845927
+trailingPegRatio: 3.4608
+triggerable: false
+twoHundredDayAverage: 113.4105
+twoHundredDayAverageChange: 17.489494
+twoHundredDayAverageChangePercent: 0.15421407
+typeDisp: Equity
+volume: 28173
+website: https://www.talanx.com
+zip: '30659'

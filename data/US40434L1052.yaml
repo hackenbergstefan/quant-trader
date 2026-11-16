@@ -1,0 +1,271 @@
+52WeekChange: 0.12733042
+SandP52WeekChange: 0.097798586
+address1: 1501 Page Mill Road
+allTimeHigh: 41.47
+allTimeLow: 0.054106
+ask: 29.39
+askSize: 400
+auditRisk: 5
+averageAnalystRating: 3.3 - Hold
+averageDailyVolume10Day: 15601330
+averageDailyVolume3Month: 14585195
+averageVolume: 14585195
+averageVolume10days: 15601330
+beta: 1.211
+bid: 29.37
+bidSize: 600
+boardRisk: 2
+bookValue: -0.102
+city: Palo Alto
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bruce Dale Broussard
+  title: Interim CEO & Director
+  totalPay: 28338
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karen L. Parkhill
+  title: Chief Financial Officer
+  totalPay: 3694607
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie M. Jacobs
+  title: Chief Legal Officer & General Counsel
+  totalPay: 1430181
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  McQuarrie
+  title: Chief Commercial Officer
+  totalPay: 1409743
+  unexercisedValue: 889549
+  yearBorn: 1976
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Manpreet S. Grewal
+  title: Chief Accounting Officer & Global Controller
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alok  Juyal
+  title: Global Head of IR
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Koller
+  title: Interim Chief Marketing & Corporate Affairs Officer
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Carol A. Surface Ph.D.
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Rozzion
+  title: Managing Director for South African Business
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Elaine  Beddome
+  title: Global Head of HP Compensation, Benefits & Employee Mobility
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 29.28
+currentRatio: 0.788
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 29.395
+dayLow: 28.46
+displayName: HP
+dividendDate: 1791331200
+dividendRate: 1.2
+dividendYield: 4.22
+earningsCallTimestampEnd: 1795557600
+earningsCallTimestampStart: 1795557600
+earningsGrowth: -0.113
+earningsQuarterlyGrowth: -0.134
+earningsTimestamp: 1795554000
+earningsTimestampEnd: 1795554000
+earningsTimestampStart: 1795554000
+ebitda: 4636000256
+ebitdaMargins: 0.07836
+enterpriseToEbitda: 6.859
+enterpriseToRevenue: 0.537
+enterpriseValue: 31798898688
+epsCurrentYear: 3.24053
+epsForward: 3.15375
+epsTrailingTwelveMonths: 2.62
+esgPopulated: false
+exDividendDate: 1788912000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 31.5688
+fiftyDayAverageChange: -2.2887993
+fiftyDayAverageChangePercent: -0.07250194
+fiftyTwoWeekChangePercent: 12.733042
+fiftyTwoWeekHigh: 36.23
+fiftyTwoWeekHighChange: -6.949999
+fiftyTwoWeekHighChangePercent: -0.19182995
+fiftyTwoWeekLow: 17.56
+fiftyTwoWeekLowChange: 11.720001
+fiftyTwoWeekLowChangePercent: 0.66742605
+fiftyTwoWeekRange: 17.56 - 36.23
+financialCurrency: USD
+firstTradeDateMilliseconds: -252322200000
+fiveYearAvgDividendYield: 3.5
+floatShares: 898932292
+forwardEps: 3.15375
+forwardPE: 9.284185
+freeCashflow: 3389874944
+fullExchangeName: NYSE
+fullTimeEmployees: 55000
+fulldayChange: 0.8600006
+fulldayChangePercent: 3.02604
+fulldayPrice: 29.28
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.1966
+grossProfits: 11630999552
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00298
+heldPercentInstitutions: 0.96986
+impliedSharesOutstanding: 901790969
+industry: Computer Hardware
+industryDisp: Computer Hardware
+industryKey: computer-hardware
+irWebsite: http://h30261.www3.hp.com/phoenix.zhtml?c=71087&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788912000
+lastDividendValue: 0.3
+lastFiscalYearEnd: 1761868800
+lastSplitDate: 1446422400
+lastSplitFactor: 2202:1000
+longBusinessSummary: 'HP Inc. provides personal computing, printing, 3D printing,
+  hybrid work, gaming, and other related technologies in the United States and internationally.
+  The company operates through three segments: Personal Systems, Printing, and Corporate
+  Investments. The Personal Systems segment offers commercial and consumer desktops
+  and notebooks, workstations, thin clients, retail point-of-sale systems, displays,
+  software, hybrid systems, and endpoint security and services, as well as lifecycle
+  services, including support and deployment, configurations, and extended warranty
+  services. The Printing segment provides consumer and commercial printer hardware,
+  supplies, and solutions, as well as office and home printing solutions; and focuses
+  on graphics, 3D printing, and personalization solutions for the commercial and industrial
+  markets. The Corporate Investments segment is involved in the business incubation
+  and investment projects. It serves small- and medium-sized businesses, public sector,
+  and enterprises. The company was formerly known as Hewlett-Packard Company and changed
+  its name to HP Inc. in October 2015. HP Inc. was founded in 1939 and is headquartered
+  in Palo Alto, California.'
+longName: HP Inc.
+market: us_market
+marketCap: 26404440064
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_108856
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 2451000064
+nextFiscalYearEnd: 1793404800
+nonDilutedMarketCap: 25628899338
+numberOfAnalystOpinions: 17
+open: 28.4
+operatingCashflow: 4668000256
+operatingMargins: 0.06513
+overallRisk: 1
+payoutRatio: 0.45400003
+pegRatio: 3.02
+phone: (650)-857-1501
+previousClose: 28.42
+priceEpsCurrentYear: 9.035559
+priceHint: 2
+priceToBook: -287.05884
+priceToSalesTrailing12Months: 0.44630742
+profitMargins: 0.04143
+quickRatio: 0.44
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.33333
+region: US
+regularMarketChange: 0.8600006
+regularMarketChangePercent: 3.02604
+regularMarketDayHigh: 29.395
+regularMarketDayLow: 28.46
+regularMarketDayRange: 28.46 - 29.395
+regularMarketOpen: 28.4
+regularMarketPreviousClose: 28.42
+regularMarketPrice: 29.28
+regularMarketTime: 1794413738
+regularMarketVolume: 3199555
+returnOnAssets: 0.05629
+revenueGrowth: 0.125
+revenuePerShare: 63.855
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 3
+sharesOutstanding: 901790969
+sharesPercentSharesOut: 0.0847
+sharesShort: 76420381
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 73087274
+shortName: HP Inc.
+shortPercentOfFloat: 0.099
+shortRatio: 6.06
+sourceInterval: 15
+state: CA
+symbol: HPQ
+targetHighPrice: 33.4
+targetLowPrice: 19.0
+targetMeanPrice: 27.43529
+targetMedianPrice: 29.0
+totalCash: 4168999936
+totalCashPerShare: 4.623
+totalDebt: 10339000320
+totalRevenue: 59162001408
+tradeable: false
+trailingAnnualDividendRate: 1.189
+trailingAnnualDividendYield: 0.041836735
+trailingEps: 2.62
+trailingPE: 11.175573
+trailingPegRatio: 3.0159
+triggerable: true
+twoHundredDayAverage: 24.84635
+twoHundredDayAverageChange: 4.433651
+twoHundredDayAverageChangePercent: 0.17844275
+typeDisp: Equity
+volume: 3199555
+website: https://www.hp.com
+zip: '94304'

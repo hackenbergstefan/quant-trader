@@ -1,0 +1,285 @@
+52WeekChange: -0.01777327
+SandP52WeekChange: 0.097798586
+address1: 5775 Morehouse Drive
+allTimeHigh: 259.92
+allTimeLow: 0.390625
+ask: 183.93
+askSize: 1
+auditRisk: 2
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 17231500
+averageDailyVolume3Month: 12529985
+averageVolume: 12529985
+averageVolume10days: 17231500
+beta: 1.762
+bid: 165.3
+bidSize: 1
+boardRisk: 3
+bookValue: 28.359
+city: San Diego
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Cristiano Renno Amon
+  title: CEO, President & Director
+  totalPay: 5539054
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ann N. Cathcart Chaplin
+  title: Executive VP, General Counsel & Corporate Secretary
+  totalPay: 1912775
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexander H. Rogers J.D.
+  title: Executive VP, President of Qualcomm Technology Licensing (QTL) & Global Affairs
+  totalPay: 2349262
+  unexercisedValue: 0
+  yearBorn: 1957
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Patricia Y. Grech
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brett William Simpson
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Don  McGuire
+  title: Executive VP & Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Colin  Ryan
+  title: Executive VP and Chief Strategy & Corporate Development Officer
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Heather  Ace J.D.
+  title: Executive VP & Chief Human Resources Officer
+  totalPay: 2952043
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nakul  Duggal
+  title: EVP, Group GM of Automotive, Industrial, Embedded IoT, & Robotics - Qualcomm
+    Technologies
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Luiz  Tonisi
+  title: President of Qualcomm Latin America & VP of Qualcomm Servicos de Telecomunicacões
+    Ltda
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: QCOM announced a cash dividend of $0.92 with an ex-date of Dec. 3, 2026
+  meta:
+    amount: '0.92'
+    dateEpochMs: 1796274000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 176.52
+currentRatio: 1.859
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 178.99
+dayLow: 172.94
+debtToEquity: 52.604
+displayName: QUALCOMM
+dividendDate: 1797465600
+dividendRate: 3.68
+dividendYield: 2.12
+earningsCallTimestampEnd: 1793828700
+earningsCallTimestampStart: 1793828700
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1801688400
+earningsTimestampStart: 1801688400
+ebitda: 10620000256
+ebitdaMargins: 0.24629
+enterpriseToEbitda: 18.266
+enterpriseToRevenue: 4.499
+enterpriseValue: 193988100096
+epsCurrentYear: 9.58971
+epsForward: 12.21037
+epsTrailingTwelveMonths: 12.7
+esgPopulated: false
+exDividendDate: 1796256000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 178.312
+fiftyDayAverageChange: -1.7919922
+fiftyDayAverageChangePercent: -0.010049757
+fiftyTwoWeekChangePercent: -1.7773271
+fiftyTwoWeekHigh: 259.92
+fiftyTwoWeekHighChange: -83.40001
+fiftyTwoWeekHighChangePercent: -0.320868
+fiftyTwoWeekLow: 121.99
+fiftyTwoWeekLowChange: 54.530006
+fiftyTwoWeekLowChangePercent: 0.4470039
+fiftyTwoWeekRange: 121.99 - 259.92
+financialCurrency: USD
+firstTradeDateMilliseconds: 692634600000
+fiveYearAvgDividendYield: 2.09
+floatShares: 1068148900
+forwardEps: 12.21037
+forwardPE: 14.456565
+freeCashflow: 9107125248
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 57000
+fulldayChange: 2.9900055
+fulldayChangePercent: 1.7230482
+fulldayPrice: 176.52
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.53103
+grossProfits: 22897999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00119
+heldPercentInstitutions: 0.82106
+impliedSharesOutstanding: 1070000000
+industry: Semiconductors
+industryDisp: Semiconductors
+industryKey: semiconductors
+irWebsite: http://www.qualcomm.com/connect/investor-relations
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788393600
+lastDividendValue: 0.92
+lastFiscalYearEnd: 1790467200
+lastSplitDate: 1092614400
+lastSplitFactor: '2:1'
+longBusinessSummary: 'QUALCOMM Incorporated engages in the development and commercialization
+  of foundational technologies for the wireless industry in China, the United States,
+  South Korea, and internationally. It operates through three segments: Qualcomm CDMA
+  Technologies (QCT); Qualcomm Technology Licensing (QTL); and Qualcomm Strategic
+  Initiatives (QSI). The QCT segment develops and supplies integrated circuits and
+  system software with connectivity and computing technologies for use in mobile devices;
+  automotive systems for connectivity, digital cockpit, and ADAS/AD; and IoT, including
+  personal AI and compute devices and industrial, networking, and robotics products.
+  The QTL segment grants licenses or provides rights to use portions of its intellectual
+  property portfolio, which include various patent rights useful in the manufacture
+  and sale of wireless products comprising products implementing LTE, and/or OFDMA-based
+  5G products and derivatives; and grants licenses to use cellular standard-essential
+  patents, including 3G, 4G and 5G for cellular devices. The QSI segment invests in
+  early-stage companies in various industries, including AI, automotive, consumer,
+  enterprise, IoT, and data center, as well as non-marketable and marketable equity
+  securities, and convertible debt instruments. It is also involved in Qualcomm government
+  technologies and data center businesses; and modular businesses that provides software
+  platforms, tools, and cloud-based services that enable developers and enterprises
+  to build, deploy, and scale AI applications across heterogeneous computing environments.
+  QUALCOMM Incorporated was incorporated in 1985 and is headquartered in San Diego,
+  California.'
+longName: QUALCOMM Incorporated
+market: us_market
+marketCap: 188876406784
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_33493
+mostRecentQuarter: 1790467200
+netIncomeToCommon: 13628000256
+nextFiscalYearEnd: 1822003200
+nonDilutedMarketCap: 185677100000
+numberOfAnalystOpinions: 28
+open: 178.15
+operatingCashflow: 11144999936
+operatingMargins: 0.20849001
+overallRisk: 3
+payoutRatio: 0.285
+pegRatio: 1.01
+phone: 858 587 1121
+previousClose: 173.53
+priceEpsCurrentYear: 18.40723
+priceHint: 2
+priceToBook: 6.224479
+priceToSalesTrailing12Months: 4.3802505
+profitMargins: 0.31605
+quickRatio: 0.992
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.62162
+region: US
+regularMarketChange: 2.9900055
+regularMarketChangePercent: 1.7230482
+regularMarketDayHigh: 178.99
+regularMarketDayLow: 172.94
+regularMarketDayRange: 172.94 - 178.99
+regularMarketOpen: 178.15
+regularMarketPreviousClose: 173.53
+regularMarketPrice: 176.52
+regularMarketTime: 1794413750
+regularMarketVolume: 3385178
+returnOnAssets: 0.10126001
+returnOnEquity: 0.52814996
+revenueGrowth: -0.084
+revenuePerShare: 40.526
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 7
+sharesOutstanding: 1070000000
+sharesPercentSharesOut: 0.0271
+sharesShort: 28923930
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 35328275
+shortName: QUALCOMM Incorporated
+shortPercentOfFloat: 0.030299999
+shortRatio: 2.78
+sourceInterval: 15
+state: CA
+symbol: QCOM
+targetHighPrice: 320.0
+targetLowPrice: 100.0
+targetMeanPrice: 185.25
+targetMedianPrice: 175.0
+totalCash: 7680999936
+totalCashPerShare: 7.179
+totalDebt: 15992000512
+totalRevenue: 43120001024
+tradeable: false
+trailingAnnualDividendRate: 3.62
+trailingAnnualDividendYield: 0.020860946
+trailingEps: 12.7
+trailingPE: 13.899213
+trailingPegRatio: 1.0126
+triggerable: true
+twoHundredDayAverage: 169.8587
+twoHundredDayAverageChange: 6.6613007
+twoHundredDayAverageChangePercent: 0.039216716
+typeDisp: Equity
+volume: 3385178
+website: https://www.qualcomm.com
+zip: 92121-1714

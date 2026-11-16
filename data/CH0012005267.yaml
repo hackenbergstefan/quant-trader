@@ -1,0 +1,279 @@
+52WeekChange: 0.2844317
+SandP52WeekChange: 0.097798586
+address1: Lichtstrasse 35
+allTimeHigh: 135.22
+allTimeLow: 13.409527
+ask: 132.64
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 3732801
+averageDailyVolume3Month: 3207895
+averageVolume: 3207895
+averageVolume10days: 3732801
+beta: 0.453
+bid: 132.62
+bidSize: 0
+boardRisk: 2
+bookValue: 16.248474
+city: Basel
+companyOfficers:
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Vasant  Narasimhan M.D.
+  title: Chief Executive Officer
+  totalPay: 7575013
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Victor  Bulto
+  title: President of US
+  totalPay: 3344097
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Patrick  Horber M.D.
+  title: President of International
+  totalPay: 2736354
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mukul  Mehta
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Steffen  Lang Ph.D.
+  title: President of Operations
+  totalPay: 2136901
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Paul  Penepent
+  title: Head of Group Financial Reporting and Accounting
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sloan  Simpson
+  title: Global Head of Investor Relations
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karen L. Hale
+  title: Chief Legal & Compliance Officer
+  totalPay: 2142889
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Robert  Kowalski Pharm.D.
+  title: Chief People & Organization Officer
+  totalPay: 1921381
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Evan  Beckman
+  title: Global Head of Translational Medicine at Novartis Institute for BioMedical
+    Research
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 132.64
+currentRatio: 0.884
+customPriceAlertConfidence: LOW
+dayHigh: 134.72
+dayLow: 132.52
+debtToEquity: 128.607
+dividendDate: 1741824000
+dividendRate: 3.7
+dividendYield: 2.75
+earningsCallTimestampEnd: 1793102400
+earningsCallTimestampStart: 1793102400
+earningsGrowth: -0.688
+earningsQuarterlyGrowth: -0.694
+earningsTimestamp: 1793118600
+earningsTimestampEnd: 1793118600
+earningsTimestampStart: 1793118600
+ebitda: 24066000896
+ebitdaMargins: 0.41953
+enterpriseToEbitda: 12.206
+enterpriseToRevenue: 5.121
+enterpriseValue: 293756108800
+epsCurrentYear: 9.03933
+epsForward: 8.26853
+epsTrailingTwelveMonths: 4.17
+esgPopulated: false
+exDividendDate: 1773100800
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 41 61 324 78 26
+fiftyDayAverage: 122.9116
+fiftyDayAverageChange: 9.728401
+fiftyDayAverageChangePercent: 0.07914958
+fiftyTwoWeekChangePercent: 28.443169
+fiftyTwoWeekHigh: 135.22
+fiftyTwoWeekHighChange: -2.5800018
+fiftyTwoWeekHighChangePercent: -0.019080032
+fiftyTwoWeekLow: 99.45
+fiftyTwoWeekLowChange: 33.190002
+fiftyTwoWeekLowChangePercent: 0.3337356
+fiftyTwoWeekRange: 99.45 - 135.22
+financialCurrency: USD
+firstTradeDateMilliseconds: 796892400000
+fiveYearAvgDividendYield: 3.51
+floatShares: 1844316463
+forwardEps: 8.26853
+forwardPE: 16.041546
+freeCashflow: 11266124800
+fullExchangeName: Swiss
+fullTimeEmployees: 75267
+fulldayChange: -1.8399963
+fulldayChangePercent: -1.3682305
+fulldayPrice: 132.64
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.75209
+grossProfits: 43143000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.02111
+heldPercentInstitutions: 0.46492
+impliedSharesOutstanding: 1888623572
+industry: Drug Manufacturers - General
+industryDisp: Drug Manufacturers - General
+industryKey: drug-manufacturers-general
+irWebsite: http://www.novartis.com/investors/index.shtml
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1773100800
+lastDividendValue: 3.7
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 989193600
+lastSplitFactor: '40:1'
+longBusinessSummary: Novartis AG researches, develops, manufactures, distributes,
+  markets, and sells pharmaceutical medicines in Switzerland and internationally.
+  The company offers Entresto, an angiotensin receptorneprilysin inhibitor to treat
+  symptomatic chronic heart failure; Cosentyx to treat plaque psoriasis, pso riatic
+  arthritis, ankylosing spondylitis, and nonradiographic axial spondy loarthritis;
+  Kisqali, a selective oral cyclin dependent inhibitor of kinases 4 and 6; Promacta/Revolade
+  for immune thrombocytopenia (ITP), thrombocytopenia, and aplastic anemia patients;
+  Tafinlar+Mekinist, an oral combination therapy to treat cancer patients; and Jakavi
+  for treating myelofibrosis, polycythemia vera, and acute or chronic graftversushost
+  disease. It also provides Tasigna to treat philadelphia chromosomepositive chronic
+  myeloid leukemia in chronic and/or accelerated phase; Xolair for treating allergic
+  asthma and nasal polyps or severe chronic rhinosi nusitis with nasal polyps; Ilaris
+  to treat fever syndromes, Stills disease, and acute gouty arthritis; Pluvicto to
+  treat prostatespecific membrane anti genpositive metastatic castrationresistant
+  prostate cancer; Sandostatin SC and Sandostatin LAR to treat acromegaly carcinoid
+  tumors and functional gastro intestinal and pancreatic neuroendocrine tumors; Zolgensma
+  to treat genetic root cause of spinal muscular atrophy; Lucentis; Leqvio to reduce
+  LDL cholesterol; Lutathera; Scemblix; and Fabhalta. The company focuses on therapeutic
+  areas, such as cardiovascular, renal and metabolic, immunology, neuroscience, oncology,
+  and hematology. It has a license and collaboration agreement with Alnylam Pharmaceuticals,
+  Inc. to develop, manufacture, and commercialize Leqvio (inclisiran) to reduce LDL
+  cholesterol. Novartis AG has a strategic alliance with CAS for enhancing reaction
+  data accessibility and supporting AI-enabled research. Novartis AG was incorporated
+  in 1996 and is headquartered in Basel, Switzerland.
+longName: Novartis AG
+market: ch_market
+marketCap: 250507034624
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_382553
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 10030999552
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 253982097962
+numberOfAnalystOpinions: 22
+open: 134.18
+operatingCashflow: 17325000704
+operatingMargins: 0.33983
+overallRisk: 1
+payoutRatio: 0.8707
+pegRatio: 3.87
+phone: 41 61 324 11 11
+previousClose: 134.48
+priceEpsCurrentYear: 14.673655
+priceHint: 2
+priceToBook: 8.163228
+priceToSalesTrailing12Months: 4.366973
+profitMargins: 0.17487
+quickRatio: 0.579
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.78261
+region: US
+regularMarketChange: -1.8399963
+regularMarketChangePercent: -1.3682305
+regularMarketDayHigh: 134.72
+regularMarketDayLow: 132.52
+regularMarketDayRange: 132.52 - 134.72
+regularMarketOpen: 134.18
+regularMarketPreviousClose: 134.48
+regularMarketPrice: 132.64
+regularMarketTime: 1794411566
+regularMarketVolume: 1770611
+returnOnAssets: 0.10857
+returnOnEquity: 0.24328
+revenueGrowth: 0.047
+revenuePerShare: 30.097
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 9
+sharesOutstanding: 1888623572
+shortName: NOVARTIS N
+sourceInterval: 15
+symbol: NOVN.SW
+targetHighPrice: 153.17868
+targetLowPrice: 101.59336
+targetMeanPrice: 127.983604
+targetMedianPrice: 127.839226
+totalCash: 8871999488
+totalCashPerShare: 4.698
+totalDebt: 48310001664
+totalRevenue: 57364000768
+tradeable: false
+trailingAnnualDividendRate: 4.666
+trailingAnnualDividendYield: 0.03469661
+trailingEps: 4.17
+trailingPE: 31.808153
+trailingPegRatio: 3.9024
+triggerable: false
+twoHundredDayAverage: 122.1623
+twoHundredDayAverageChange: 10.477699
+twoHundredDayAverageChangePercent: 0.08576868
+typeDisp: Equity
+volume: 1770611
+website: https://www.novartis.com
+zip: '4056'

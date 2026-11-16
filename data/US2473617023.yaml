@@ -1,0 +1,273 @@
+52WeekChange: 0.5244709
+SandP52WeekChange: 0.097798586
+address1: 1030 Delta Boulevard
+allTimeHigh: 95.68
+allTimeLow: 3.51
+ask: 91.63
+askSize: 200
+auditRisk: 6
+averageAnalystRating: 1.3 - Strong Buy
+averageDailyVolume10Day: 6338850
+averageDailyVolume3Month: 6566851
+averageVolume: 6566851
+averageVolume10days: 6338850
+beta: 1.421
+bid: 91.56
+bidSize: 200
+boardRisk: 1
+bookValue: 34.405
+city: Atlanta
+companyOfficers:
+- age: 67
+  exercisedValue: 2174444
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Edward H. Bastian
+  title: CEO & Director
+  totalPay: 7308170
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter W. Carter J.D.
+  title: President
+  totalPay: 3233702
+  unexercisedValue: 5080102
+  yearBorn: 1964
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel Charles Janki
+  title: Executive VP & COO
+  totalPay: 3336630
+  unexercisedValue: 2273833
+  yearBorn: 1969
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Glen William Hauenstein
+  title: Strategic Advisor
+  totalPay: 4302633
+  unexercisedValue: 15379400
+  yearBorn: 1961
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alain M. Bellemare
+  title: EVP, President of Intl., Chairman of Delta TechOps & Chairman of Advisory
+    Board of Delta MRO
+  totalPay: 3399666
+  unexercisedValue: 2015937
+  yearBorn: 1961
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Erik Storey Snell
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julia Ann McConnell
+  title: Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie  Stewart
+  title: Vice President of Investor Relations & Corporate Development
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Captain Brad  Sheehan
+  title: Senior VP of Corporate Safety, Security & Compliance
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tim  Mapes
+  title: Senior VP & Chief Communications Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 91.63
+currentRatio: 0.402
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 92.0583
+dayLow: 90.97
+debtToEquity: 88.549
+displayName: Delta Air Lines
+dividendDate: 1793836800
+dividendRate: 0.86
+dividendYield: 0.93
+earningsCallTimestampEnd: 1791554400
+earningsCallTimestampStart: 1791554400
+earningsGrowth: -0.47
+earningsQuarterlyGrowth: -0.466
+earningsTimestamp: 1791549000
+earningsTimestampEnd: 1799847000
+earningsTimestampStart: 1799847000
+ebitda: 7506999808
+ebitdaMargins: 0.10455
+enterpriseToEbitda: 10.188
+enterpriseToRevenue: 1.065
+enterpriseValue: 76479913984
+epsCurrentYear: 5.35085
+epsForward: 7.30684
+epsTrailingTwelveMonths: 5.01
+esgPopulated: false
+exDividendDate: 1792022400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 81.3082
+fiftyDayAverageChange: 10.3218
+fiftyDayAverageChangePercent: 0.12694661
+fiftyTwoWeekChangePercent: 52.447094
+fiftyTwoWeekHigh: 95.68
+fiftyTwoWeekHighChange: -4.050003
+fiftyTwoWeekHighChangePercent: -0.042328626
+fiftyTwoWeekLow: 55.27
+fiftyTwoWeekLowChange: 36.359997
+fiftyTwoWeekLowChangePercent: 0.65786135
+fiftyTwoWeekRange: 55.27 - 95.68
+financialCurrency: USD
+firstTradeDateMilliseconds: 1178199000000
+fiveYearAvgDividendYield: 2.12
+floatShares: 650151588
+forwardEps: 7.30684
+forwardPE: 12.540304
+freeCashflow: 2492124928
+fullExchangeName: NYSE
+fullTimeEmployees: 100000
+fulldayChange: -0.5699997
+fulldayChangePercent: -0.6182209
+fulldayPrice: 91.63
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.17896
+grossProfits: 12849000448
+hasPrePostMarketData: true
+heldPercentInsiders: 0.09156
+heldPercentInstitutions: 0.80221003
+impliedSharesOutstanding: 657912380
+industry: Airlines
+industryDisp: Airlines
+industryKey: airlines
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=71481&p=irol-stockQuote
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1792022400
+lastDividendValue: 0.215
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Delta Air Lines, Inc. provides scheduled air transportation for
+  passengers and cargo in the United States and internationally. The company operates
+  through two segments, Airline and Refinery. Its domestic network centered on core
+  hubs in Atlanta, Detroit, Minneapolis-St. Paul, and Salt Lake City, as well as coastal
+  hub positions in Boston, Los Angeles, New York-LaGuardia, New York-JFK, and Seattle;
+  and international network centered on hubs and market presence in Amsterdam, Bogota,
+  Lima, Mexico City, London-Heathrow, Paris-Charles de Gaulle, Santiago (Chile), Sao
+  Paulo, Seoul-Incheon, and Tokyo. It also provides aircraft maintenance and engineering
+  support, repair, and overhaul services; and vacation packages. The company operates
+  through a fleet of approximately 1,314 aircraft. Delta Air Lines, Inc. was founded
+  in 1924 and is headquartered in Atlanta, Georgia.
+longName: Delta Air Lines, Inc.
+market: us_market
+marketCap: 60284510208
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_266311
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3288999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 60659521436
+numberOfAnalystOpinions: 24
+open: 91.82
+operatingCashflow: 8000000000
+operatingMargins: 0.07294
+overallRisk: 1
+payoutRatio: 0.1552
+pegRatio: 0.21
+phone: 404-715-2191
+previousClose: 92.2
+priceEpsCurrentYear: 17.124382
+priceHint: 2
+priceToBook: 2.6632757
+priceToSalesTrailing12Months: 0.8396172
+profitMargins: 0.04581
+quickRatio: 0.242
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.32
+region: US
+regularMarketChange: -0.5699997
+regularMarketChangePercent: -0.6182209
+regularMarketDayHigh: 92.0583
+regularMarketDayLow: 90.97
+regularMarketDayRange: 90.97 - 92.0583
+regularMarketOpen: 91.82
+regularMarketPreviousClose: 92.2
+regularMarketPrice: 91.63
+regularMarketTime: 1794413708
+regularMarketVolume: 1315017
+returnOnAssets: 0.03951
+returnOnEquity: 0.15913999
+revenueGrowth: 0.211
+revenuePerShare: 110.038
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 3
+sharesOutstanding: 657912380
+sharesPercentSharesOut: 0.024300002
+sharesShort: 15990280
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 25570890
+shortName: Delta Air Lines, Inc.
+shortPercentOfFloat: 0.024400001
+shortRatio: 2.27
+sourceInterval: 15
+state: GA
+symbol: DAL
+targetHighPrice: 125.0
+targetLowPrice: 53.0
+targetMeanPrice: 100.98333
+targetMedianPrice: 101.5
+totalCash: 3787000064
+totalCashPerShare: 5.787
+totalDebt: 19935000576
+totalRevenue: 71799996416
+tradeable: false
+trailingAnnualDividendRate: 0.805
+trailingAnnualDividendYield: 0.00873102
+trailingEps: 5.01
+trailingPE: 18.28942
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 77.3467
+twoHundredDayAverageChange: 14.283295
+twoHundredDayAverageChangePercent: 0.18466586
+typeDisp: Equity
+volume: 1315017
+website: https://www.delta.com
+zip: 30354-1989

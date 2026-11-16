@@ -1,0 +1,271 @@
+52WeekChange: 0.20872164
+SandP52WeekChange: 0.097798586
+address1: Dronning Eufemias gate 30
+allTimeHigh: 329.1
+allTimeLow: 14.148703
+ask: 326.5
+askSize: 2464
+auditRisk: 3
+averageAnalystRating: 3.0 - Hold
+averageDailyVolume10Day: 1778313
+averageDailyVolume3Month: 1434291
+averageVolume: 1434291
+averageVolume10days: 1778313
+beta: 0.373
+bid: 326.4
+bidSize: 3277
+boardRisk: 3
+bookValue: 181.918
+city: Oslo
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kjerstin Rasmussen Braathen
+  title: Group Chief Executive Officer
+  totalPay: 16239000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rasmus Aage T. Figenschou
+  title: CFO & EVP of Corporate Market
+  totalPay: 6683000
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria Ervik Loevold
+  title: Group EVP of the Retail Market & Personal Banking and COO
+  totalPay: 6294000
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 37
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elin  Sandnes
+  title: Group Executive Vice President of Technology & Services
+  totalPay: 5328000
+  unexercisedValue: 0
+  yearBorn: 1988
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fredrik  Berger
+  title: Group Executive VP of Group Compliance & Group Chief Compliance Officer
+  totalPay: 5240000
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Even Graff Westerveld
+  title: Group Executive Vice President of People & Communication
+  totalPay: 4912000
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Harald  Serck-Hanssen
+  title: Group Executive Vice President of Large Corporates & International
+  totalPay: 9249000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hakon Elvekrok Hansen
+  title: Group Executive Vice President of Wealth Management
+  totalPay: 6240000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Morten  Opstad
+  title: Group Executive Vice President of DNB Carnegie
+  totalPay: 14637000
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Per Kristian Naess-Fladset
+  title: Group Executive Vice President of Products, Data & Innovation
+  totalPay: 4696000
+  unexercisedValue: 0
+  yearBorn: 1979
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Norway
+cryptoTradeable: false
+currency: NOK
+currentPrice: 326.0
+customPriceAlertConfidence: LOW
+dayHigh: 327.8
+dayLow: 324.6
+dividendRate: 18.0
+dividendYield: 5.55
+earningsCallTimestampEnd: 1792582200
+earningsCallTimestampStart: 1792582200
+earningsGrowth: -0.059
+earningsQuarterlyGrowth: -0.082
+earningsTimestamp: 1792592400
+earningsTimestampEnd: 1792592400
+earningsTimestampStart: 1792592400
+ebitdaMargins: 0.0
+enterpriseToRevenue: 17.181
+enterpriseValue: 1495140401152
+epsCurrentYear: 26.6235
+epsForward: 28.66776
+epsTrailingTwelveMonths: 27.12
+esgPopulated: false
+exDividendDate: 1776816000
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 315.52
+fiftyDayAverageChange: 10.480011
+fiftyDayAverageChangePercent: 0.033215046
+fiftyTwoWeekChangePercent: 20.872164
+fiftyTwoWeekHigh: 329.1
+fiftyTwoWeekHighChange: -3.100006
+fiftyTwoWeekHighChangePercent: -0.009419648
+fiftyTwoWeekLow: 259.0
+fiftyTwoWeekLowChange: 67.0
+fiftyTwoWeekLowChangePercent: 0.25868726
+fiftyTwoWeekRange: 259.0 - 329.1
+financialCurrency: NOK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 5.82
+floatShares: 693953216
+forwardEps: 28.66776
+forwardPE: 11.371659
+fullExchangeName: Oslo
+fullTimeEmployees: 11182
+fulldayChange: 1.7000122
+fulldayChangePercent: 0.52420974
+fulldayPrice: 326.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 87024001024
+hasPrePostMarketData: false
+heldPercentInsiders: 0.45593
+heldPercentInstitutions: 0.45619
+impliedSharesOutstanding: 1419231796
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776816000
+lastDividendValue: 18.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: DNB Bank ASA provides financial services to individuals and businesses
+  in Norway and internationally. The company offers savings, current, currency, client,
+  tax withholding, and pension accounts; fixed rate and security deposits; home and
+  cabin mortgages, construction and fixed-rate loans, car and consumer loans, business
+  loans, and refinancing; home equity credit lines; car, house, home contents, travel,
+  personal, and non-life insurance products; payment services; and online and mobile
+  banking services, as well as cards. It also provides overdraft facilities; leasing;
+  factoring, supply chain, and receivable purchase financing; bank guarantees; secure
+  trading, documentary collection, and letter of credit; investment banking services,
+  such as mergers and acquisitions, equity and debt capital market, loans, bonds,
+  convertible bonds, direct lending, and other private placements; and private financing
+  and commodities services. In addition, the company offers equity trading, foreign
+  exchange, research, share and stock market, securities, and risk advisory services.
+  Further, it provides treasury management, working capital, trade finance, equipment
+  financing, real estate broking, and corporate finance services. DNB Bank ASA was
+  founded in 1822 and is headquartered in Oslo, Norway.
+longName: DNB Bank ASA
+market: no_market
+marketCap: 462669545472
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_9778651
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 39281000448
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 460256871442
+numberOfAnalystOpinions: 16
+open: 326.1
+operatingCashflow: -22976000000
+operatingMargins: 0.59496
+overallRisk: 2
+payoutRatio: 0.66370004
+pegRatio: 5.22
+phone: 47 91 50 48 00
+prevName: DNB ASA
+previousClose: 324.3
+priceEpsCurrentYear: 12.244821
+priceHint: 2
+priceToBook: 1.7920161
+priceToSalesTrailing12Months: 5.316574
+profitMargins: 0.47180998
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.0
+region: US
+regularMarketChange: 1.7000122
+regularMarketChangePercent: 0.52420974
+regularMarketDayHigh: 327.8
+regularMarketDayLow: 324.6
+regularMarketDayRange: 324.6 - 327.8
+regularMarketOpen: 326.1
+regularMarketPreviousClose: 324.3
+regularMarketPrice: 326.0
+regularMarketTime: 1794410996
+regularMarketVolume: 1539096
+returnOnAssets: 0.0107
+returnOnEquity: 0.14436
+revenueGrowth: -0.031
+revenuePerShare: 60.111
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 4
+sharesOutstanding: 1419231796
+shortName: DNB BANK ASA
+sourceInterval: 15
+symbol: DNB.OL
+targetHighPrice: 410.0
+targetLowPrice: 286.0
+targetMeanPrice: 330.1875
+targetMedianPrice: 322.5
+totalCash: 478097014784
+totalCashPerShare: 335.193
+totalDebt: 1510116032512
+totalRevenue: 87024001024
+tradeable: false
+trailingAnnualDividendRate: 18.0
+trailingAnnualDividendYield: 0.055504166
+trailingEps: 27.12
+trailingPE: 12.020649
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 300.7035
+twoHundredDayAverageChange: 25.296509
+twoHundredDayAverageChangePercent: 0.08412442
+typeDisp: Equity
+volume: 1539096
+website: https://www.dnb.no
+zip: 0191

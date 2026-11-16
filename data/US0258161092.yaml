@@ -1,0 +1,279 @@
+52WeekChange: -0.13227993
+SandP52WeekChange: 0.097798586
+address1: 200 Vesey Street
+allTimeHigh: 387.49
+allTimeLow: 1.134539
+ask: 320.6
+askSize: 120
+auditRisk: 4
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 2945260
+averageDailyVolume3Month: 2954551
+averageVolume: 2954551
+averageVolume10days: 2945260
+beta: 1.077
+bid: 320.63
+bidSize: 80
+boardRisk: 9
+bookValue: 53.349
+city: New York
+companyOfficers:
+- age: 65
+  exercisedValue: 22249908
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephen Joseph Squeri
+  title: Chairman & CEO
+  totalPay: 17287408
+  unexercisedValue: 36281056
+  yearBorn: 1960
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christophe Y. Le Caillec
+  title: Chief Financial Officer
+  totalPay: 6992536
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 59
+  exercisedValue: 3000551
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Raymond Donald Joabar
+  title: Group President of Global Commercial Services
+  totalPay: 6363786
+  unexercisedValue: 8343986
+  yearBorn: 1966
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Howard Martin Grosfield
+  title: Group President of US Consumer Services
+  totalPay: 6975740
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ravikumar  Radhakrishnan
+  title: Executive VP & CIO
+  totalPay: 7427926
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kartik  Ramachandran
+  title: Senior VP & Head of Investor Relations
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 5433533
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laureen E. Seeger
+  title: Chief Legal Officer
+  totalPay: 6155660
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elizabeth  Rutledge
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Glenda G. McNeal
+  title: Chief Partner Officer
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Denise  Pickett
+  title: President of Enterprise Shared Services
+  unexercisedValue: 0
+  yearBorn: 1966
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 320.94
+currentRatio: 1.578
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 323.2501
+dayLow: 319.45
+debtToEquity: 167.573
+displayName: American Express
+dividendDate: 1794268800
+dividendRate: 3.8
+dividendYield: 1.17
+earningsCallTimestampEnd: 1792758600
+earningsCallTimestampStart: 1792758600
+earningsGrowth: 0.309
+earningsQuarterlyGrowth: 0.279
+earningsTimestamp: 1792758600
+earningsTimestampEnd: 1801229400
+earningsTimestampStart: 1801229400
+ebitdaMargins: 0.0
+enterpriseToRevenue: 3.204
+enterpriseValue: 233419751424
+epsCurrentYear: 17.82965
+epsForward: 20.21571
+epsTrailingTwelveMonths: 17.75
+esgPopulated: false
+exDividendDate: 1791504000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 315.9366
+fiftyDayAverageChange: 5.0033875
+fiftyDayAverageChangePercent: 0.01583668
+fiftyTwoWeekChangePercent: -13.227993
+fiftyTwoWeekHigh: 387.49
+fiftyTwoWeekHighChange: -66.54999
+fiftyTwoWeekHighChangePercent: -0.17174634
+fiftyTwoWeekLow: 290.97
+fiftyTwoWeekLowChange: 29.970001
+fiftyTwoWeekLowChangePercent: 0.10300031
+fiftyTwoWeekRange: 290.97 - 387.49
+financialCurrency: USD
+firstTradeDateMilliseconds: 76253400000
+fiveYearAvgDividendYield: 1.09
+floatShares: 517599103
+forwardEps: 20.21571
+forwardPE: 15.875772
+fullExchangeName: NYSE
+fullTimeEmployees: 76800
+fulldayChange: -2.519989
+fulldayChangePercent: -0.7790729
+fulldayPrice: 320.94
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.61954
+grossProfits: 45134999552
+hasPrePostMarketData: true
+heldPercentInsiders: 0.22719
+heldPercentInstitutions: 0.65503997
+impliedSharesOutstanding: 670552018
+industry: Credit Services
+industryDisp: Credit Services
+industryKey: credit-services
+irWebsite: http://ir.americanexpress.com/phoenix.zhtml?c=64467&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1791504000
+lastDividendValue: 0.95
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1128297600
+lastSplitFactor: 10000:8753
+longBusinessSummary: 'American Express Company, together with its subsidiaries, operates
+  as an integrated payments company in the United States, Europe, the Middle East
+  and Africa, the Asia Pacific, Australia, New Zealand, Latin America, Canada, the
+  Caribbean, and internationally. It operates through four segments: U.S. Consumer
+  Services, Commercial Services, International Card Services, and Global Merchant
+  and Network Services. The company offers credit and charge cards and complementary
+  products and services, including travel, dining, and lifestyle and expense management
+  products and services; and banking and other payment and financing products and
+  services, including deposits and non-card lending. It also provides merchant acquisition
+  and processing, servicing and settlement, fraud prevention, and point-of-sale marketing
+  and information products and services, as well as network services. The company
+  offers its products and services to consumers, small businesses, mid-sized companies,
+  and large corporations through mobile and online applications, affiliate marketing,
+  customer referral programs, third-party service providers and business partners,
+  in-house sales teams, direct mail, telephone, and direct response advertising. American
+  Express Company was founded in 1850 and is headquartered in New York, New York.'
+longName: American Express Company
+market: us_market
+marketCap: 215206952960
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_92001
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 12092000256
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 216896755742
+numberOfAnalystOpinions: 24
+open: 323.23
+operatingCashflow: 17625999360
+operatingMargins: 0.19356
+overallRisk: 5
+payoutRatio: 0.1532
+pegRatio: 1.34
+phone: (212) 640-2000
+previousClose: 323.46
+priceEpsCurrentYear: 18.000353
+priceHint: 2
+priceToBook: 6.015858
+priceToSalesTrailing12Months: 2.9540296
+profitMargins: 0.16823
+quickRatio: 1.577
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.2069
+region: US
+regularMarketChange: -2.519989
+regularMarketChangePercent: -0.7790729
+regularMarketDayHigh: 323.2501
+regularMarketDayLow: 319.45
+regularMarketDayRange: 319.45 - 323.2501
+regularMarketOpen: 323.23
+regularMarketPreviousClose: 323.46
+regularMarketPrice: 320.94
+regularMarketTime: 1794413728
+regularMarketVolume: 717888
+returnOnAssets: 0.04033
+returnOnEquity: 0.35933998
+revenueGrowth: 0.113
+revenuePerShare: 107.017
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 6
+sharesOutstanding: 670552018
+sharesPercentSharesOut: 0.0164
+sharesShort: 10976234
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 10816289
+shortName: American Express Company
+shortPercentOfFloat: 0.0212
+shortRatio: 3.51
+sourceInterval: 15
+state: NY
+symbol: AXP
+targetHighPrice: 425.0
+targetLowPrice: 329.0
+targetMeanPrice: 364.78708
+targetMedianPrice: 361.0
+totalCash: 43463000064
+totalCashPerShare: 64.817
+totalDebt: 59986001920
+totalRevenue: 72851996672
+tradeable: false
+trailingAnnualDividendRate: 3.67
+trailingAnnualDividendYield: 0.011346071
+trailingEps: 17.75
+trailingPE: 18.081127
+trailingPegRatio: 1.3409
+triggerable: true
+twoHundredDayAverage: 324.8353
+twoHundredDayAverageChange: -3.8952942
+twoHundredDayAverageChangePercent: -0.011991598
+typeDisp: Equity
+volume: 717888
+website: https://www.americanexpress.com
+zip: '10285'

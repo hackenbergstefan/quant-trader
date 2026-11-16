@@ -1,0 +1,255 @@
+52WeekChange: -0.123051465
+SandP52WeekChange: 0.097798586
+address1: 6101 Bollinger Canyon Road
+address2: Suite 500
+allTimeHigh: 115.8975
+allTimeLow: 0.105469
+ask: 62.39
+askSize: 1
+auditRisk: 9
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 3036260
+averageDailyVolume3Month: 3519907
+averageVolume: 3519907
+averageVolume10days: 3036260
+beta: 0.818
+bid: 57.62
+bidSize: 2
+boardRisk: 3
+bookValue: 43.81
+city: San Ramon
+companyOfficers:
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian G. Andrews
+  title: Executive VP, CFO & Principal Accounting Officer
+  totalPay: 1305945
+  unexercisedValue: 947403
+  yearBorn: 1979
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel G. McBride Esq.
+  title: Executive VP, COO General Counsel & Secretary
+  totalPay: 1452588
+  unexercisedValue: 2774107
+  yearBorn: 1964
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Albert G. White III
+  title: Strategic Advisor
+  totalPay: 2712720
+  unexercisedValue: 5917193
+  yearBorn: 1970
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Holly R. Sheffield
+  title: President of CooperSurgical, Inc.
+  totalPay: 1118082
+  unexercisedValue: 1241936
+  yearBorn: 1971
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gerard H. Warner III
+  title: President of CooperVision, Inc.
+  totalPay: 1085151
+  unexercisedValue: 191832
+  yearBorn: 1965
+- age: 71
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Walter M. Rosebrough Jr.
+  title: Interim Executive Chair
+  unexercisedValue: 0
+  yearBorn: 1954
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kim  Duncan
+  title: Vice President of Investor Relations & Risk Management
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 62.525
+currentRatio: 1.222
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 63.08
+dayLow: 62.28
+debtToEquity: 33.634
+displayName: Cooper
+dividendDate: 1691712000
+dividendYield: 0.0
+earningsCallTimestampEnd: 1796335200
+earningsCallTimestampStart: 1796335200
+earningsGrowth: 3.571
+earningsQuarterlyGrowth: 3.403
+earningsTimestamp: 1796331600
+earningsTimestampEnd: 1796331600
+earningsTimestampStart: 1796331600
+ebitda: 932000000
+ebitdaMargins: 0.21997
+enterpriseToEbitda: 15.81
+enterpriseToRevenue: 3.478
+enterpriseValue: 14734871552
+epsCurrentYear: 4.53036
+epsForward: 4.69251
+epsTrailingTwelveMonths: 2.91
+esgPopulated: false
+exDividendDate: 1690329600
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 58.9256
+fiftyDayAverageChange: 3.5994034
+fiftyDayAverageChangePercent: 0.06108387
+fiftyTwoWeekChangePercent: -12.305146
+fiftyTwoWeekHigh: 89.83
+fiftyTwoWeekHighChange: -27.305
+fiftyTwoWeekHighChangePercent: -0.30396304
+fiftyTwoWeekLow: 51.01
+fiftyTwoWeekLowChange: 11.515003
+fiftyTwoWeekLowChangePercent: 0.22574012
+fiftyTwoWeekRange: 51.01 - 89.83
+financialCurrency: USD
+firstTradeDateMilliseconds: 412007400000
+fiveYearAvgDividendYield: 0.01
+floatShares: 188767160
+forwardEps: 4.69251
+forwardPE: 13.324426
+freeCashflow: 542649984
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 15000
+fulldayChange: -1.0449982
+fulldayChangePercent: -1.6438543
+fulldayPrice: 62.525
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.65928
+grossProfits: 2793299968
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00632
+heldPercentInstitutions: 1.11177
+impliedSharesOutstanding: 190155294
+industry: Medical Instruments & Supplies
+industryDisp: Medical Instruments & Supplies
+industryKey: medical-instruments-supplies
+ipoExpectedDate: '2023-09-26'
+irWebsite: http://investor.coopercos.com/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1690329600
+lastDividendValue: 0.0075
+lastFiscalYearEnd: 1761868800
+lastSplitDate: 1708387200
+lastSplitFactor: '4:1'
+longBusinessSummary: The Cooper Companies, Inc., together with its subsidiaries, develops,
+  manufactures, and markets contact lens wearers. The company operates in two segments,
+  CooperVision and CooperSurgical. The CooperVision segment offers spherical, toric,
+  and multifocal contact lenses that address vision challenges, such as astigmatism,
+  presbyopia, and myopia. Its CooperSurgical segment focuses on family and women's
+  health care, which provides fertility products and services, medical devices, and
+  contraception, as well as cryostorage, such as cord blood and cord tissue storage.
+  This segment offers Paragard, a hormone-free intrauterine device; and fertility
+  consumables and equipment, donor gamete services, and genomic services, including
+  genetic testing. The company sells its products to distributors, group purchasing
+  organizations, eye care and health care professionals, including independent practices,
+  corporate retailers, hospitals and clinics, and authorized resellers. The Cooper
+  Companies, Inc. was founded in 1958 and is headquartered in San Ramon, California.
+longName: The Cooper Companies, Inc.
+market: us_market
+marketCap: 11889460224
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_263609
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 570300032
+nextFiscalYearEnd: 1793404800
+nonDilutedMarketCap: 12088172039
+numberOfAnalystOpinions: 15
+open: 62.67
+operatingCashflow: 1033299968
+operatingMargins: 0.12934
+overallRisk: 7
+payoutRatio: 0.0
+pegRatio: 0.6
+phone: 925 460 3600
+previousClose: 63.57
+priceEpsCurrentYear: 13.8013315
+priceHint: 2
+priceToBook: 1.4271855
+priceToSalesTrailing12Months: 2.8061695
+profitMargins: 0.1346
+quickRatio: 0.506
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.47059
+region: US
+regularMarketChange: -1.0449982
+regularMarketChangePercent: -1.6438543
+regularMarketDayHigh: 63.08
+regularMarketDayLow: 62.28
+regularMarketDayRange: 62.28 - 63.08
+regularMarketOpen: 62.67
+regularMarketPreviousClose: 63.57
+regularMarketPrice: 62.525
+regularMarketTime: 1794413737
+regularMarketVolume: 316812
+returnOnAssets: 0.02735
+returnOnEquity: 0.06838
+revenueGrowth: 0.006
+revenuePerShare: 21.689
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 3
+sharesOutstanding: 190155294
+sharesPercentSharesOut: 0.053200003
+sharesShort: 10113279
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8331649
+shortName: The Cooper Companies, Inc.
+shortPercentOfFloat: 0.060900003
+shortRatio: 2.88
+sourceInterval: 15
+state: CA
+symbol: COO
+targetHighPrice: 75.0
+targetLowPrice: 58.0
+targetMeanPrice: 65.8
+targetMedianPrice: 65.0
+totalCash: 154700000
+totalCashPerShare: 0.814
+totalDebt: 2801200128
+totalRevenue: 4236900096
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 2.91
+trailingPE: 21.486254
+trailingPegRatio: 0.6011
+triggerable: true
+twoHundredDayAverage: 68.23295
+twoHundredDayAverageChange: -5.707947
+twoHundredDayAverageChangePercent: -0.08365382
+typeDisp: Equity
+volume: 316812
+website: https://www.coopercos.com
+zip: '94583'

@@ -1,0 +1,260 @@
+52WeekChange: 0.14045596
+SandP52WeekChange: 0.097798586
+address1: General-Guisan-Quai 40
+address2: PO Box 2831
+allTimeHigh: 994.8
+allTimeLow: 41.75
+ask: 974.0
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 3.2 - Hold
+averageDailyVolume10Day: 60638
+averageDailyVolume3Month: 50175
+averageVolume: 50175
+averageVolume10days: 60638
+beta: 0.552
+bid: 973.6
+bidSize: 0
+boardRisk: 8
+bookValue: 225.94
+city: Zurich
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthias  Aellig
+  title: Group CEO & Member of Corporate Executive Board
+  totalPay: 2950562
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marco  Gerussi
+  title: Group CFO & Member of Corporate Executive Board
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tanguy  Polet
+  title: CEO of France & Member of the Corporate Executive Board
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Theo  Iaponas
+  title: CEO of International & Member of the Corporate Executive Board
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Roman  Stein
+  title: CEO of Switzerland & Member of Corporate Executive Board
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dirk von der Crone
+  title: CEO of Germany & Member of the Corporate Executive Board
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Per  Erikson
+  title: Group Chief Investment Officer & Member of Corporate Executive Board
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rudolf  Keller
+  title: Head of Corporate Finance and M&A
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert  Moser
+  title: Head of Group Controlling
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. José Antonio Blanco
+  title: Head of Investment Management for Third-Party Asset Management - Swiss Life
+    Asset Managers
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 974.0
+currentRatio: 14.46
+customPriceAlertConfidence: LOW
+dayHigh: 977.4
+dayLow: 960.0
+debtToEquity: 257.891
+dividendDate: 1747699200
+dividendRate: 36.5
+dividendYield: 3.68
+earningsCallTimestampEnd: 1794384000
+earningsCallTimestampStart: 1794384000
+earningsGrowth: 0.119
+earningsQuarterlyGrowth: 0.099
+earningsTimestamp: 1794414600
+earningsTimestampEnd: 1794414600
+earningsTimestampStart: 1794414600
+ebitda: 2007000064
+ebitdaMargins: 0.16857
+enterpriseToEbitda: -22.297
+enterpriseToRevenue: -3.759
+enterpriseValue: -44750331904
+epsCurrentYear: 47.57616
+epsForward: 51.38384
+epsTrailingTwelveMonths: 45.92
+esgPopulated: false
+exDividendDate: 1778457600
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 925.508
+fiftyDayAverageChange: 48.492004
+fiftyDayAverageChangePercent: 0.052395012
+fiftyTwoWeekChangePercent: 14.045596
+fiftyTwoWeekHigh: 994.8
+fiftyTwoWeekHighChange: -20.799988
+fiftyTwoWeekHighChangePercent: -0.020908713
+fiftyTwoWeekLow: 793.0
+fiftyTwoWeekLowChange: 181.0
+fiftyTwoWeekLowChangePercent: 0.22824717
+fiftyTwoWeekRange: 793.0 - 994.8
+financialCurrency: CHF
+firstTradeDateMilliseconds: 796892400000
+fiveYearAvgDividendYield: 4.47
+floatShares: 27814917
+forwardEps: 51.38384
+forwardPE: 18.955376
+freeCashflow: -9873375232
+fullExchangeName: Swiss
+fullTimeEmployees: 10000
+fulldayChange: -16.599976
+fulldayChangePercent: -1.6754113
+fulldayPrice: 974.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.35957
+grossProfits: 4280999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00397
+heldPercentInstitutions: 0.39659
+impliedSharesOutstanding: 27945498
+industry: Insurance - Diversified
+industryDisp: Insurance - Diversified
+industryKey: insurance-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778457600
+lastDividendValue: 36.5
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Swiss Life Holding AG provides life, pensions, and financial
+  solutions for private and corporate clients. It operates through Switzerland, France,
+  Germany, International, Asset Managers, and Other segments. The company offers a
+  various life, pension, health, annuity, and investment-type policies to groups and
+  individuals, as well as disability coverage. It also provides property and casualty,
+  liability and motor, accident, health, and payment protection insurance products.
+  In addition, the company manages assets and provides advisory services. Further,
+  it engages in the private equity, information technology, real estate, finance,
+  banking, reinsurance, brokering, and investment funds businesses. Additionally,
+  the company distributes its products through its sales force and distribution partners.
+  It provides its products under the Swiss Life Select, Tecis, Horbach, Proventus,
+  and Chase de Vere brands. The company also operates in the United Kingdom and Luxembourg.
+  Swiss Life Holding AG was founded in 1857 and is headquartered in Zurich, Switzerland.
+longName: Swiss Life Holding AG
+market: ch_market
+marketCap: 27218915328
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874688
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1288999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 27682810318
+numberOfAnalystOpinions: 11
+open: 971.0
+operatingCashflow: 1251000064
+operatingMargins: 0.16622
+overallRisk: 6
+payoutRatio: 0.7949
+pegRatio: 2.47
+phone: 41 43 284 33 11
+previousClose: 990.6
+priceEpsCurrentYear: 20.472439
+priceHint: 2
+priceToBook: 4.3108788
+priceToSalesTrailing12Months: 2.2861512
+profitMargins: 0.10852
+quickRatio: 13.286
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.18182
+region: US
+regularMarketChange: -16.599976
+regularMarketChangePercent: -1.6754113
+regularMarketDayHigh: 977.4
+regularMarketDayLow: 960.0
+regularMarketDayRange: 960.0 - 977.4
+regularMarketOpen: 971.0
+regularMarketPreviousClose: 990.6
+regularMarketPrice: 974.0
+regularMarketTime: 1794411583
+regularMarketVolume: 44011
+returnOnAssets: 0.00559
+returnOnEquity: 0.19368
+revenueGrowth: 0.034
+revenuePerShare: 425.542
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 9
+sharesOutstanding: 27945498
+shortName: SWISS LIFE HOLDING AG N
+sourceInterval: 15
+symbol: SLHN.SW
+targetHighPrice: 1125.0
+targetLowPrice: 775.0
+targetMeanPrice: 889.12726
+targetMedianPrice: 895.0
+totalCash: 89286000640
+totalCashPerShare: 3196.522
+totalDebt: 16700999680
+totalRevenue: 11905999872
+tradeable: false
+trailingAnnualDividendRate: 36.5
+trailingAnnualDividendYield: 0.03684636
+trailingEps: 45.92
+trailingPE: 21.210802
+trailingPegRatio: 2.4947
+triggerable: false
+twoHundredDayAverage: 897.944
+twoHundredDayAverageChange: 76.05603
+twoHundredDayAverageChangePercent: 0.0847002
+typeDisp: Equity
+volume: 44011
+website: https://www.swisslife.com
+zip: '8022'

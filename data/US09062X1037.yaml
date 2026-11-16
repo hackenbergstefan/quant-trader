@@ -1,0 +1,276 @@
+52WeekChange: 0.56830573
+SandP52WeekChange: 0.097798586
+address1: 225 Binney Street
+allTimeHigh: 480.18
+allTimeLow: 0.354167
+ask: 265.65
+askSize: 1
+auditRisk: 8
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1263240
+averageDailyVolume3Month: 1063689
+averageVolume: 1063689
+averageVolume10days: 1263240
+beta: 0.086
+bid: 237.26
+bidSize: 1
+boardRisk: 2
+bookValue: 128.025
+city: Cambridge
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher A. Viehbacher
+  title: President, CEO & Director
+  totalPay: 5277129
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Robin C. Kramer
+  title: Executive VP & CFO
+  totalPay: 1632803
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nicole  Murphy
+  title: Executive VP and Head of Pharmaceutical Operations & Technology
+  totalPay: 2009424
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Priya  Singhal M.D., M.P.H.
+  title: Executive VP & Head of Development
+  totalPay: 2005306
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sean  Godbout
+  title: VP, Chief Accounting Officer & Global Corporate Controller
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Guy  Hadari
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tim  Power M.B.A., Ph.D.
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael John Parini J.D.
+  title: Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Natacha  Gassenbach
+  title: Chief Communication Officer & Head of Corporate Affairs
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam  Keeney Ph.D.
+  title: Executive VP & Head of Corporate Development
+  unexercisedValue: 0
+  yearBorn: 1977
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 251.98
+currentRatio: 1.946
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 252.5
+dayLow: 249.44
+debtToEquity: 41.229
+displayName: Biogen
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793190600
+earningsCallTimestampStart: 1793190600
+earningsTimestamp: 1793190600
+earningsTimestampEnd: 1793190600
+earningsTimestampStart: 1793190600
+ebitda: 3302099968
+ebitdaMargins: 0.32068002
+enterpriseToEbitda: 13.305
+enterpriseToRevenue: 4.266
+enterpriseValue: 43932872704
+epsCurrentYear: 12.53368
+epsForward: 16.25869
+epsTrailingTwelveMonths: 2.31
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 231.4664
+fiftyDayAverageChange: 20.513596
+fiftyDayAverageChangePercent: 0.08862451
+fiftyTwoWeekChangePercent: 56.830574
+fiftyTwoWeekHigh: 261.0
+fiftyTwoWeekHighChange: -9.020004
+fiftyTwoWeekHighChangePercent: -0.034559403
+fiftyTwoWeekLow: 158.05
+fiftyTwoWeekLowChange: 93.92999
+fiftyTwoWeekLowChangePercent: 0.5943055
+fiftyTwoWeekRange: 158.05 - 261.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 685114200000
+floatShares: 147285114
+forwardEps: 16.25869
+forwardPE: 15.498174
+freeCashflow: 808124992
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 7500
+fulldayChange: -1.2700043
+fulldayChangePercent: -0.5014824
+fulldayPrice: 251.98
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.75765
+grossProfits: 7801800192
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00187
+heldPercentInstitutions: 0.98873
+impliedSharesOutstanding: 147820223
+industry: Drug Manufacturers - General
+industryDisp: Drug Manufacturers - General
+industryKey: drug-manufacturers-general
+irWebsite: http://www.biogenidec.com/INVESTORS.aspx?ID=5494
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 979776000
+lastSplitFactor: '3:1'
+longBusinessSummary: Biogen Inc. discovers, develops, manufactures, and delivers therapies
+  in the United States, Europe, Germany, Asia, and internationally. The company provides
+  TECFIDERA, VUMERITY, AVONEX, PLEGRIDY, and TYSABRI for multiple sclerosis (MS);
+  SPINRAZA for spinal muscular atrophy; SKYCLARYS to treat Friedreich's Ataxia; QALSODY
+  for treating amyotrophic lateral sclerosis; FUMADERM to treat plaque psoriasis;
+  BENEPALI, an etanercept biosimilar referencing ENBREL; IMRALDI, an adalimumab biosimilar
+  referencing HUMIRA; FLIXABI, an infliximab biosimilar referencing REMICADE. It offers
+  LEQEMBI for the treatment of Alzheimer's disease; ZURZUVAE for the treatment of
+  postpartum depression; RITUXAN to treat non-Hodgkin's lymphoma, chronic lymphocytic
+  leukemia (CLL), rheumatoid arthritis, two forms of ANCA-associated vasculitis, and
+  pemphigus vulgaris; RITUXAN HYCELA for non-Hodgkin's lymphoma and CLL; GAZYVA to
+  treat CLL and follicular lymphoma; OCREVUS for relapsing MS and primary progressive
+  MS; LUNSUMIO to treat relapsed or refractory follicular lymphoma; glofitamab for
+  aRelapsed or refractory diffuse large B-cell lymphoma; and other anti-CD20 therapies.
+  Biogen Inc. has collaboration and license agreements with Merz Therapeutics; Alkermes
+  Pharma Ireland Limited; Denali Therapeutics Inc.; UCB; Eisai Co., Ltd.; Genentech,
+  Inc.; Neurimmune SubOne AG; Ionis Pharmaceuticals, Inc.; Samsung Bioepis; and Sage
+  Therapeutics, Inc., as well as collaborations with Stoke Therapeutics, Inc. for
+  the development and commercialization of zorevunersen, a disease modifying medicine
+  for the treatment of Dravet syndrome; Dayra Therapeutics, Inc. to develop oral macrocyclic
+  peptides; Vanqua Bio, Inc. for developing Vanqua's preclinical oral C5aR1 antagonist
+  compound; City Therapeutics, Inc. to develop select novel RNAi therapies; and ALTEOGEN
+  Inc. to develop subcutaneous (SC) formulations of biologics utilizing ALT-B4. The
+  company was founded in 1978 and is headquartered in Cambridge, Massachusetts.
+longName: Biogen Inc.
+market: us_market
+marketCap: 37247737856
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_29726
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 347500000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 37435471474
+numberOfAnalystOpinions: 32
+open: 249.78
+operatingCashflow: 2247099904
+operatingMargins: 0.23504
+overallRisk: 5
+payoutRatio: 0.0
+pegRatio: 3.47
+phone: 617 679 2000
+previousClose: 253.25
+priceEpsCurrentYear: 20.10423
+priceHint: 2
+priceToBook: 1.9682094
+priceToSalesTrailing12Months: 3.6172335
+profitMargins: 0.03375
+quickRatio: 0.946
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.77778
+region: US
+regularMarketChange: -1.2700043
+regularMarketChangePercent: -0.5014824
+regularMarketDayHigh: 252.5
+regularMarketDayLow: 249.44
+regularMarketDayRange: 249.44 - 252.5
+regularMarketOpen: 249.78
+regularMarketPreviousClose: 253.25
+regularMarketPrice: 251.98
+regularMarketTime: 1794413700
+regularMarketVolume: 118388
+returnOnAssets: 0.04938
+returnOnEquity: 0.01872
+revenueGrowth: 0.106
+revenuePerShare: 69.895
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 2
+sharesOutstanding: 147820223
+sharesPercentSharesOut: 0.0369
+sharesShort: 5453103
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5965892
+shortName: Biogen Inc.
+shortPercentOfFloat: 0.041100003
+shortRatio: 4.05
+sourceInterval: 15
+state: MA
+symbol: BIIB
+targetHighPrice: 350.0
+targetLowPrice: 175.0
+targetMeanPrice: 268.2603
+targetMedianPrice: 271.0
+totalCash: 1303900032
+totalCashPerShare: 8.821
+totalDebt: 7801299968
+totalRevenue: 10297299968
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 2.31
+trailingPE: 109.08225
+trailingPegRatio: 3.4718
+triggerable: true
+twoHundredDayAverage: 203.99295
+twoHundredDayAverageChange: 47.987045
+twoHundredDayAverageChangePercent: 0.23523875
+typeDisp: Equity
+volume: 118388
+website: https://www.biogen.com
+zip: '02142'

@@ -1,0 +1,200 @@
+52WeekChange: 0.28594244
+SandP52WeekChange: 0.097798586
+address1: Tweede Weteringplantsoen 5
+allTimeHigh: 97.05
+allTimeLow: 16.25
+ask: 0.0
+askSize: 0
+auditRisk: 10
+averageDailyVolume10Day: 219851
+averageDailyVolume3Month: 182943
+averageVolume: 182943
+averageVolume10days: 219851
+beta: 0.575
+bid: 0.0
+bidSize: 0
+boardRisk: 10
+bookValue: 33.346
+city: Amsterdam
+companyOfficers:
+- age: 71
+  exercisedValue: 0
+  maxAge: 1
+  name: Ms. Charlene Lucille de Carvalho-Heineken
+  title: Executive Director
+  unexercisedValue: 0
+  yearBorn: 1954
+- age: 81
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Michel M. Ray De Carvalho
+  title: Executive Director
+  unexercisedValue: 0
+  yearBorn: 1944
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Raoul-Tristan  Van Strien
+  title: Global Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Christiaan  Prins
+  title: Director of Global Communication
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Ms. Martha  Bulhak
+  title: Chief Executive Officer of Pivovarna Lasko Union (PLU)
+  unexercisedValue: 0
+compensationRisk: 3
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 79.2
+currentRatio: 0.751
+customPriceAlertConfidence: LOW
+dayHigh: 80.2
+dayLow: 79.05
+debtToEquity: 96.58
+dividendRate: 1.92
+dividendYield: 2.39
+earningsCallTimestampEnd: 1785943800
+earningsCallTimestampStart: 1785943800
+earningsGrowth: 0.53
+earningsQuarterlyGrowth: 0.495
+earningsTimestampEnd: 1785943800
+earningsTimestampStart: 1785943800
+ebitda: 5685000192
+ebitdaMargins: 0.19328
+enterpriseToEbitda: 9.176
+enterpriseToRevenue: 1.773
+enterpriseValue: 52164812800
+epsCurrentYear: 5.45
+epsForward: 6.31
+epsTrailingTwelveMonths: 4.1
+esgPopulated: false
+exDividendDate: 1786060800
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 70.262
+fiftyDayAverageChange: 8.937996
+fiftyDayAverageChangePercent: 0.12720953
+fiftyTwoWeekChangePercent: 28.594244
+fiftyTwoWeekHigh: 80.7
+fiftyTwoWeekHighChange: -1.5
+fiftyTwoWeekHighChangePercent: -0.018587362
+fiftyTwoWeekLow: 58.75
+fiftyTwoWeekLowChange: 20.449997
+fiftyTwoWeekLowChangePercent: 0.34808505
+fiftyTwoWeekRange: 58.75 - 80.7
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1083654000000
+fiveYearAvgDividendYield: 2.26
+floatShares: 125633554
+forwardEps: 6.31
+forwardPE: 12.551505
+freeCashflow: 2940375040
+fullExchangeName: Amsterdam
+fullTimeEmployees: 85000
+fulldayChange: -1.300003
+fulldayChangePercent: -1.6149106
+fulldayPrice: 79.2
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.36982
+grossProfits: 10878000128
+hasPrePostMarketData: false
+heldPercentInsiders: 0.56553
+heldPercentInstitutions: 0.23087
+impliedSharesOutstanding: 272856753
+industry: Beverages - Brewers
+industryDisp: Beverages - Brewers
+industryKey: beverages-brewers
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786060800
+lastDividendValue: 0.76
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Heineken Holding N.V., together with its subsidiaries, engages
+  in brewing and selling beer and cider in the Netherlands, Europe, the Americas,
+  Africa & Middle East, Asia Pacific and internationally. The company's portfolio
+  consists of approximately 340 international, regional, local, and specialty beers
+  and ciders. The company was founded in 1864 and is based in Amsterdam, the Netherlands.
+  Heineken Holding N.V. is a subsidiary of L'Arche Green N.V.
+longName: Heineken Holding N.V.
+market: nl_market
+marketCap: 21610254336
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_5870004
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1140000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 21964968616
+numberOfAnalystOpinions: 2
+open: 80.0
+operatingCashflow: 5808000000
+operatingMargins: 0.13864
+overallRisk: 8
+payoutRatio: 0.4634
+pegRatio: 1.99
+phone: 31 20 622 1152
+previousClose: 80.5
+priceEpsCurrentYear: 14.53211
+priceHint: 2
+priceToBook: 2.3750973
+priceToSalesTrailing12Months: 0.7346928
+profitMargins: 0.03876
+quickRatio: 0.515
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -1.300003
+regularMarketChangePercent: -1.6149106
+regularMarketDayHigh: 80.2
+regularMarketDayLow: 79.05
+regularMarketDayRange: 79.05 - 80.2
+regularMarketOpen: 80.0
+regularMarketPreviousClose: 80.5
+regularMarketPrice: 79.2
+regularMarketTime: 1794411548
+regularMarketVolume: 91790
+returnOnAssets: 0.04675
+returnOnEquity: 0.12321
+revenueGrowth: 0.047
+revenuePerShare: 105.938
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 7
+sharesOutstanding: 272856753
+shortName: HEINEKEN HOLDING
+sourceInterval: 15
+symbol: HEIO.AS
+targetHighPrice: 117.0
+targetLowPrice: 79.0
+targetMeanPrice: 98.0
+targetMedianPrice: 98.0
+totalCash: 2844000000
+totalCashPerShare: 10.324
+totalDebt: 20643999744
+totalRevenue: 29414000640
+tradeable: false
+trailingAnnualDividendRate: 1.92
+trailingAnnualDividendYield: 0.02385093
+trailingEps: 4.1
+trailingPE: 19.317074
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 67.09075
+twoHundredDayAverageChange: 12.109245
+twoHundredDayAverageChangePercent: 0.18049052
+typeDisp: Equity
+volume: 91790
+website: https://www.heinekenholding.com
+zip: 1017 ZD

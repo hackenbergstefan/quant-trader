@@ -1,0 +1,245 @@
+52WeekChange: 0.045272946
+SandP52WeekChange: 0.097798586
+address1: Esplanade de Pont-Rouge 9C
+address2: Grand-Lancy
+allTimeHigh: 184.55
+allTimeLow: 1.05
+ask: 79.7
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 223486
+averageDailyVolume3Month: 188828
+averageVolume: 188828
+averageVolume10days: 223486
+beta: 0.496
+bid: 79.6
+bidSize: 0
+boardRisk: 3
+bookValue: 6.7064524
+city: Lancy
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Panagiotis  Spiliopoulos CEFA
+  title: Chief Executive Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 57
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Daniel  Schmucki
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  maxAge: 1
+  name: Rohit  Chauhan
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Michael  Sonne
+  title: Chief Information Officer
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  maxAge: 1
+  name: Ms. Deirdre  Dempsey-Leclercq
+  title: Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 42
+  exercisedValue: 0
+  maxAge: 1
+  name: Ms. Jayde  Tipper
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 51
+  exercisedValue: 0
+  maxAge: 1
+  name: Ms. Kalliopi  Chioti
+  title: Chief ESG Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 49
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Ganesan  Sriraman
+  title: Global Head of Product Engineering
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 50
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. William  Moroney
+  title: Chief Revenue Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Cormac  Flanagan
+  title: Chief Product Officer
+  unexercisedValue: 0
+compensationRisk: 8
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 79.6
+currentRatio: 0.52
+customPriceAlertConfidence: LOW
+dayHigh: 80.2
+dayLow: 77.55
+debtToEquity: 171.624
+dividendDate: 1747612800
+dividendRate: 1.4
+dividendYield: 1.78
+earningsCallTimestampEnd: 1793122200
+earningsCallTimestampStart: 1793122200
+earningsGrowth: 0.415
+earningsQuarterlyGrowth: 0.429
+earningsTimestamp: 1793118600
+earningsTimestampEnd: 1793118600
+earningsTimestampStart: 1793118600
+ebitda: 322255008
+ebitdaMargins: 0.28229
+enterpriseToEbitda: 19.124
+enterpriseToRevenue: 5.398
+enterpriseValue: 6162789888
+epsCurrentYear: 4.72844
+epsForward: 4.3144846
+epsTrailingTwelveMonths: 2.5
+esgPopulated: false
+exDividendDate: 1779062400
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 71.357
+fiftyDayAverageChange: 8.242996
+fiftyDayAverageChangePercent: 0.11551769
+fiftyTwoWeekChangePercent: 4.5272946
+fiftyTwoWeekHigh: 87.0
+fiftyTwoWeekHighChange: -7.4000015
+fiftyTwoWeekHighChangePercent: -0.08505749
+fiftyTwoWeekLow: 59.2
+fiftyTwoWeekLowChange: 20.399998
+fiftyTwoWeekLowChangePercent: 0.34459454
+fiftyTwoWeekRange: 59.2 - 87.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 993538800000
+fiveYearAvgDividendYield: 1.54
+floatShares: 51036513
+forwardEps: 4.3144846
+forwardPE: 18.44948
+freeCashflow: 267934624
+fullExchangeName: Swiss
+fullTimeEmployees: 5039
+fulldayChange: 1.0999985
+fulldayChangePercent: 1.4012719
+fulldayPrice: 79.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.7547
+grossProfits: 861552000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.2515
+heldPercentInstitutions: 0.65689003
+impliedSharesOutstanding: 67959019
+industry: Software - Application
+industryDisp: Software - Application
+industryKey: software-application
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779062400
+lastDividendValue: 1.4
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Temenos AG develops, markets, and sells integrated banking software
+  systems to banking and other financial services institutions in North America, Europe,
+  the Middle East and Africa, Latin America, and the Asia-Pacific. It operates through
+  two segments, The Product and Service. The Product segment is primarily engaged
+  in marketing, licensing and maintaining the Group's software solutions, including
+  software development fees for requested functionality, as well as providing hosting
+  and subscription arrangements. The Services segment represents various implementation
+  tasks, such as consulting and training. It also offers retail and business; corporate
+  and commercial; and wealth management solutions. The company was formerly known
+  as Temenos Group AG and changed its name to Temenos AG in May 2018. Temenos AG was
+  founded in 1993 and is headquartered in Lancy, Switzerland.
+longName: Temenos AG
+market: ch_market
+marketCap: 5409537536
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1059156
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 212838000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5334782991
+numberOfAnalystOpinions: 16
+open: 77.55
+operatingCashflow: 401939008
+operatingMargins: 0.26409
+overallRisk: 4
+payoutRatio: 0.6137
+pegRatio: 2.68
+phone: 41 22 708 11 50
+previousClose: 78.5
+priceEpsCurrentYear: 16.834305
+priceHint: 2
+priceToBook: 11.869166
+priceToSalesTrailing12Months: 4.738641
+profitMargins: 0.18643999
+quickRatio: 0.52
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.5
+region: US
+regularMarketChange: 1.0999985
+regularMarketChangePercent: 1.4012719
+regularMarketDayHigh: 80.2
+regularMarketDayLow: 77.55
+regularMarketDayRange: 77.55 - 80.2
+regularMarketOpen: 77.55
+regularMarketPreviousClose: 78.5
+regularMarketPrice: 79.6
+regularMarketTime: 1794411572
+regularMarketVolume: 57413
+returnOnAssets: 0.07953
+returnOnEquity: 0.43058
+revenueGrowth: 0.131
+revenuePerShare: 16.988
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 67959019
+shortName: TEMENOS N
+sourceInterval: 15
+symbol: TEMN.SW
+targetHighPrice: 102.34829
+targetLowPrice: 54.68575
+targetMeanPrice: 84.926
+targetMedianPrice: 87.83995
+totalCash: 138027008
+totalCashPerShare: 2.026
+totalDebt: 951505984
+totalRevenue: 1141580032
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 2.5
+trailingPE: 31.84
+trailingPegRatio: 2.6766
+triggerable: false
+twoHundredDayAverage: 70.4395
+twoHundredDayAverageChange: 9.1605
+twoHundredDayAverageChangePercent: 0.13004777
+typeDisp: Equity
+volume: 57413
+website: https://www.temenos.com
+zip: '1212'

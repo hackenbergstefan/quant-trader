@@ -1,0 +1,256 @@
+52WeekChange: 0.45635676
+SandP52WeekChange: 0.097798586
+address1: Peberlyk 4
+allTimeHigh: 768.0
+allTimeLow: 2.5
+ask: 766.5
+averageAnalystRating: 1.0 - Strong Buy
+averageDailyVolume10Day: 137013
+averageDailyVolume3Month: 161940
+averageVolume: 161940
+averageVolume10days: 137013
+beta: 0.379
+bid: 766.0
+bookValue: 423.111
+city: Aabenraa
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark Alexander Luscombe
+  title: Chief Executive Officer
+  totalPay: 11479412
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jørn Adam Møller
+  title: Chief Financial Officer
+  totalPay: 6291663
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stig  Westergaard
+  title: C.R.O
+  totalPay: 5884311
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Gry  Bandholm
+  title: Deputy Group Chief Executive
+  totalPay: 4772557
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Svend  Randers
+  title: Deputy Group Chief Executive
+  totalPay: 4812238
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank Finne Mortensen
+  title: Deputy Chief Executive Officer
+  totalPay: 5383490
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Hupfeld
+  title: Deputy Group Chief Executive
+  totalPay: 4939876
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Louise  Degn-Hansen
+  title: Head of Communication
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Else  Guldager
+  title: Head of Human Resources
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steen  Sandager
+  title: Head of Retail Clients & Private Banking
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Denmark
+cryptoTradeable: false
+currency: DKK
+currentPrice: 766.5
+customPriceAlertConfidence: HIGH
+dayHigh: 774.0
+dayLow: 765.0
+dividendRate: 25.0
+dividendYield: 3.26
+earningsCallTimestampEnd: 1793861700
+earningsCallTimestampStart: 1793861700
+earningsGrowth: -0.103
+earningsQuarterlyGrowth: 0.518
+earningsTimestamp: 1793894400
+earningsTimestampEnd: 1793894400
+earningsTimestampStart: 1793894400
+ebitdaMargins: 0.0
+enterpriseToRevenue: 1.923
+enterpriseValue: 23757154304
+epsCurrentYear: 49.89
+epsForward: 64.5025
+epsTrailingTwelveMonths: 30.2
+esgPopulated: false
+exDividendDate: 1773964800
+exchange: CPH
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Copenhagen
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 45 74 37 35 49
+fiftyDayAverage: 708.04
+fiftyDayAverageChange: 58.460022
+fiftyDayAverageChangePercent: 0.08256599
+fiftyTwoWeekChangePercent: 45.635677
+fiftyTwoWeekHigh: 774.0
+fiftyTwoWeekHighChange: -7.5
+fiftyTwoWeekHighChangePercent: -0.009689922
+fiftyTwoWeekLow: 489.8
+fiftyTwoWeekLowChange: 276.7
+fiftyTwoWeekLowChangePercent: 0.5649245
+fiftyTwoWeekRange: 489.8 - 774.0
+financialCurrency: DKK
+firstTradeDateMilliseconds: 946800000000
+fiveYearAvgDividendYield: 4.66
+floatShares: 84519645
+forwardEps: 64.5025
+forwardPE: 11.88326
+fullExchangeName: Copenhagen
+fullTimeEmployees: 3897
+fulldayChange: -1.0
+fulldayChangePercent: -0.13029316
+fulldayPrice: 766.5
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.0
+grossProfits: 12355999744
+hasPrePostMarketData: false
+heldPercentInsiders: 0.25052
+heldPercentInstitutions: 0.22580999
+impliedSharesOutstanding: 84869847
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: http://www.sydbank.com/sydbankcom/about/ir/share
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1773964800
+lastDividendValue: 25.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1111104000
+lastSplitFactor: '10:1'
+longBusinessSummary: AL Sydbank A/S, together with its subsidiaries, provides various
+  banking products and services to retail clients, corporates, and associations in
+  Denmark and internationally. The company operates through Banking, Asset Management,
+  AL Sydbank Markets, Treasury, and Other segments. The company offers various deposits
+  and loans and advances, advisory services, securities trading, asset management,
+  distribution of mortgage credit products, investment products, pension, and insurance
+  products. It also provides private banking solutions; services for investment funds,
+  pooled pension plans, foundations, institutional clients, and wealthy customers;
+  and economic research and equity research. Further, it provides retail banking services,
+  such as insurance, housing, pension, and mortgage credit services to retail clients;
+  mortgage bonds; and advice and quotes prices as regards bonds, shares, and foreign
+  exchange, as well as undertakes market-making obligations for institutional clients,
+  central banks, foreign and other clients, and banks. The company was formerly known
+  as Sydbank A/S and changed its name to AL Sydbank A/S in December 2025. AL Sydbank
+  A/S was founded in 1986 and is headquartered in Aabenraa, Denmark.
+longName: AL Sydbank A/S
+market: dk_market
+marketCap: 65052737536
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_4480944
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 2727000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 65137607572
+numberOfAnalystOpinions: 4
+open: 768.0
+operatingCashflow: -3295000064
+operatingMargins: 0.50162
+payoutRatio: 0.8278
+phone: 45 74 37 37 37
+prevName: Sydbank A/S
+previousClose: 767.5
+priceEpsCurrentYear: 15.363801
+priceHint: 2
+priceToBook: 1.8115814
+priceToSalesTrailing12Months: 5.2648706
+profitMargins: 0.22766
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.0
+region: US
+regularMarketChange: -1.0
+regularMarketChangePercent: -0.13029316
+regularMarketDayHigh: 774.0
+regularMarketDayLow: 765.0
+regularMarketDayRange: 765.0 - 774.0
+regularMarketOpen: 768.0
+regularMarketPreviousClose: 767.5
+regularMarketPrice: 766.5
+regularMarketTime: 1794412448
+regularMarketVolume: 82198
+returnOnAssets: 0.01017
+returnOnEquity: 0.10586
+revenueGrowth: 0.748
+revenuePerShare: 157.62
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+sharesOutstanding: 84869847
+shortName: AL Sydbank A/S
+sourceInterval: 15
+symbol: ALSYDB.CO
+targetHighPrice: 830.0
+targetLowPrice: 790.0
+targetMeanPrice: 812.0
+targetMedianPrice: 814.0
+totalCash: 77770997760
+totalCashPerShare: 919.978
+totalDebt: 36646998016
+totalRevenue: 12355999744
+tradeable: false
+trailingAnnualDividendRate: 25.0
+trailingAnnualDividendYield: 0.03257329
+trailingEps: 30.2
+trailingPE: 25.380795
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 602.221
+twoHundredDayAverageChange: 164.27899
+twoHundredDayAverageChangePercent: 0.27278855
+typeDisp: Equity
+volume: 82198
+website: https://www.sydbank.com
+zip: '6200'

@@ -1,0 +1,229 @@
+52WeekChange: 0.429793
+SandP52WeekChange: 0.097798586
+address1: 2, rue Jean Monnet
+allTimeHigh: 33.88
+allTimeLow: 17.71
+ask: 31.77
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 1457145
+averageDailyVolume3Month: 2814146
+averageVolume: 2814146
+averageVolume10days: 1457145
+beta: 0.09
+bid: 31.76
+bookValue: 2.738
+city: Luxembourg
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tomasz Zenon Suchanski
+  title: Group CEO & Chairperson
+  totalPay: 246000
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marta Wrochna Lastowska
+  title: Group Chief Financial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jolanta  Banczerowska
+  title: Group Chief People Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam  Manikowski Ph.D.
+  title: Chief Executive Officer of Zabka Polska business unit
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wojciech  Krok
+  title: Managing Director of Zabka Future
+  totalPay: 905000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wojtek  Zengteler
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Filip  Paszke
+  title: Corporate Development & Investor Relations Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tomasz  Blicharski
+  title: Group Chief Strategy & Development Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anna  Grabowska
+  title: Managing Director of Zabka International
+  totalPay: 57000
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Luxembourg
+cryptoTradeable: false
+currency: PLN
+currentPrice: 31.77
+currentRatio: 0.608
+customPriceAlertConfidence: LOW
+dayHigh: 31.77
+dayLow: 31.71
+debtToEquity: 344.929
+dividendRate: 0.52
+dividendYield: 1.63
+earningsCallTimestampEnd: 1793185200
+earningsCallTimestampStart: 1793185200
+earningsQuarterlyGrowth: 0.14
+earningsTimestamp: 1793117100
+earningsTimestampEnd: 1793117100
+earningsTimestampStart: 1793117100
+ebitda: 3238651904
+ebitdaMargins: 0.10777
+enterpriseToEbitda: 12.289
+enterpriseToRevenue: 1.324
+enterpriseValue: 39800971264
+epsCurrentYear: 1.26257
+epsTrailingTwelveMonths: 1.34
+esgPopulated: false
+exDividendDate: 1784851200
+exchange: WSE
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Warsaw
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 31.638
+fiftyDayAverageChange: 0.13199997
+fiftyDayAverageChangePercent: 0.004172197
+fiftyTwoWeekChangePercent: 42.9793
+fiftyTwoWeekHigh: 33.88
+fiftyTwoWeekHighChange: -2.1100006
+fiftyTwoWeekHighChangePercent: -0.062278647
+fiftyTwoWeekLow: 19.92
+fiftyTwoWeekLowChange: 11.85
+fiftyTwoWeekLowChangePercent: 0.5948795
+fiftyTwoWeekRange: 19.92 - 33.88
+financialCurrency: PLN
+firstTradeDateMilliseconds: 1729148400000
+floatShares: 996699903
+forwardPE: 20.186682
+freeCashflow: 1872822912
+fullExchangeName: Warsaw
+fullTimeEmployees: 4158
+fulldayChange: 0.020000458
+fulldayChangePercent: 0.06299357
+fulldayPrice: 31.77
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.19049999
+grossProfits: 5724831232
+hasPrePostMarketData: false
+heldPercentInsiders: 0.47637
+heldPercentInstitutions: 0.10818
+impliedSharesOutstanding: 999194605
+industry: Grocery Stores
+industryDisp: Grocery Stores
+industryKey: grocery-stores
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1784851200
+lastDividendValue: 0.12
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Zabka Group S.A. operates as an ultimate convenience ecosystem
+  in Poland. The company operates convenience retail stores and Zabka Nano Stores,
+  an autonomous store. It also provides digital offering solutions, including Maczfit,
+  a direct-to-consumer (D2C) meal solution; Dietly, an online D2C meal solutions marketplace.;
+  and eGrocery and e-commerce services under the Zappka, delio and Zabka Jush brands.
+  In addition, the company franchises retail stores; and engages in the IT consultancy
+  related activities, real estate construction, warehousing and storage of goods,
+  rental and management of own or leased real estate, and sale of merchandise. Further,
+  it is involved in the retail sale of tobacco products in specialised stores; production
+  and distribution of ready meals; software related activities connected with catering
+  platform; transport of goods; distribution of FMCG products; and other activities
+  supporting financial services. It sells its products through physical convenience
+  stores and online. The company was founded in 1998 and is headquartered in Luxembourg,
+  Luxembourg.
+longName: Zabka Group S.A.
+market: pl_market
+marketCap: 31744413696
+marketState: CLOSED
+maxAge: 86400
+messageBoardId: finmb_1769843130
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1336406016
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 31687971257
+numberOfAnalystOpinions: 13
+open: 31.74
+operatingCashflow: 4480316928
+operatingMargins: 0.076620005
+payoutRatio: 0.3818
+phone: 352 2 8994045
+previousClose: 31.75
+priceEpsCurrentYear: 25.162962
+priceHint: 2
+priceToBook: 11.60336
+priceToSalesTrailing12Months: 1.0563315
+profitMargins: 0.04488
+quickRatio: 0.482
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.33333
+region: US
+regularMarketChange: 0.020000458
+regularMarketChangePercent: 0.06299357
+regularMarketDayHigh: 31.77
+regularMarketDayLow: 31.71
+regularMarketDayRange: 31.71 - 31.77
+regularMarketOpen: 31.74
+regularMarketPreviousClose: 31.75
+regularMarketPrice: 31.77
+regularMarketTime: 1794326683
+regularMarketVolume: 1070074
+returnOnAssets: 0.07343
+returnOnEquity: 0.55505
+revenueGrowth: 0.138
+revenuePerShare: 30.129
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+sharesOutstanding: 999194605
+shortName: ZAB C.XWAR PLN
+sourceInterval: 15
+symbol: ZAB.WA
+targetHighPrice: 37.0
+targetLowPrice: 24.5
+targetMeanPrice: 31.71538
+targetMedianPrice: 32.0
+totalCash: 1307000064
+totalCashPerShare: 1.31
+totalDebt: 9420000256
+totalRevenue: 30051563520
+tradeable: false
+trailingAnnualDividendRate: 0.506
+trailingAnnualDividendYield: 0.015937008
+trailingEps: 1.34
+trailingPE: 23.708956
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 26.97195
+twoHundredDayAverageChange: 4.79805
+twoHundredDayAverageChangePercent: 0.17789036
+typeDisp: Equity
+volume: 1070074
+website: https://zabkagroup.com
+zip: '2180'

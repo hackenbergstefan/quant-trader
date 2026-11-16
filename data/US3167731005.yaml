@@ -1,0 +1,277 @@
+52WeekChange: 0.25410783
+SandP52WeekChange: 0.097798586
+address1: 38 Fountain Square Plaza
+allTimeHigh: 69.7
+allTimeLow: 0.474724
+ask: 54.03
+askSize: 400
+auditRisk: 7
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 6259750
+averageDailyVolume3Month: 6417934
+averageVolume: 6417934
+averageVolume10days: 6259750
+beta: 0.989
+bid: 54.06
+bidSize: 300
+boardRisk: 8
+bookValue: 34.29
+city: Cincinnati
+companyOfficers:
+- age: 46
+  exercisedValue: 478874
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy N. Spence
+  title: Chairman, CEO & President
+  totalPay: 3912326
+  unexercisedValue: 3234151
+  yearBorn: 1979
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bryan D. Preston
+  title: Executive VP & CFO
+  totalPay: 1708663
+  unexercisedValue: 295638
+  yearBorn: 1977
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James C. Leonard CPA
+  title: Executive VP & COO
+  totalPay: 2065143
+  unexercisedValue: 1356800
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jude A. Schramm
+  title: Executive VP & Chief Information Officer
+  totalPay: 1510015
+  unexercisedValue: 913633
+  yearBorn: 1973
+- age: 55
+  exercisedValue: 267788
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert P. Shaffer
+  title: Executive VP & Chief Risk Officer
+  totalPay: 1654543
+  unexercisedValue: 1233171
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey A. Lopper
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matt  Curoe
+  title: Senior Director of Investor Relations
+  unexercisedValue: 0
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian  Gonzalez Esq.
+  title: Executive VP & Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melissa S. Stevens
+  title: Executive VP & Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David F. Girodat
+  title: Regional President
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 54.145
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 54.38
+dayLow: 53.835
+dividendDate: 1792022400
+dividendRate: 1.68
+dividendYield: 3.1
+earningsCallTimestampEnd: 1800370800
+earningsCallTimestampStart: 1800370800
+earningsGrowth: -0.011
+earningsQuarterlyGrowth: 0.334
+earningsTimestamp: 1800365400
+earningsTimestampEnd: 1800365400
+earningsTimestampStart: 1800365400
+ebitdaMargins: 0.0
+enterpriseToRevenue: 5.72
+enterpriseValue: 63817564160
+epsCurrentYear: 4.20429
+epsForward: 4.96579
+epsTrailingTwelveMonths: 2.98
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 52.6438
+fiftyDayAverageChange: 1.5012016
+fiftyDayAverageChangePercent: 0.02851621
+fiftyTwoWeekChangePercent: 25.410784
+fiftyTwoWeekHigh: 59.5
+fiftyTwoWeekHighChange: -5.3549995
+fiftyTwoWeekHighChangePercent: -0.08999999
+fiftyTwoWeekLow: 40.68
+fiftyTwoWeekLowChange: 13.465
+fiftyTwoWeekLowChangePercent: 0.33099803
+fiftyTwoWeekRange: 40.68 - 59.5
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 3.46
+floatShares: 899561286
+forwardEps: 4.96579
+forwardPE: 10.903603
+fullExchangeName: NYSE
+fullTimeEmployees: 25069
+fulldayChange: -0.04499817
+fulldayChangePercent: -0.08303777
+fulldayPrice: 54.145
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 11157000192
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00373
+heldPercentInstitutions: 0.94117
+impliedSharesOutstanding: 903645765
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=72735&p=irol-IRHome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 0.42
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 963792000
+lastSplitFactor: '3:2'
+longBusinessSummary: 'Fifth Third Bancorp operates as the bank holding company for
+  Fifth Third Bank, National Association that provides a range of financial products
+  and services in the United States. It operates through three segments: Commercial
+  Banking, Consumer and Small Business Banking, and Wealth and Asset Management. The
+  Commercial Banking segment offers credit intermediation, cash management, and financial
+  services; lending and depository products; and cash management, foreign exchange
+  and international trade finance, derivatives and capital markets services, asset-based
+  lending, real estate finance, public finance, commercial leasing, and syndicated
+  finance for business, government, and professional customers. Its Consumer and Small
+  Banking segment engages in the provision of a range of deposit and loan products
+  to individuals and small businesses; residential mortgage activities, including
+  the origination, retention and servicing of residential mortgage loans, sales and
+  securitizations of loans, and associated hedging activities; home equity loans and
+  lines of credit, credit cards, automobile and other indirect lending, and other
+  consumer lending services; and home improvement and solar energy installation loans
+  through contractors and installers. The Wealth and Asset Management segment provides
+  various wealth management services, such as wealth planning, investment management,
+  banking, insurance, trust, and estate services for individuals, companies, and not-for-profit
+  organizations; retail brokerage services for individual clients; and advisory services
+  for institutional clients. Fifth Third Bancorp was founded in 1858 and is headquartered
+  in Cincinnati, Ohio.'
+longName: Fifth Third Bancorp
+market: us_market
+marketCap: 48927899648
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_270961
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2417999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 48968564005
+numberOfAnalystOpinions: 21
+open: 54.21
+operatingCashflow: 3454000128
+operatingMargins: 0.38881
+overallRisk: 9
+payoutRatio: 0.5436
+pegRatio: 1.63
+phone: 800 972 3030
+previousClose: 54.19
+priceEpsCurrentYear: 12.878512
+priceHint: 2
+priceToBook: 1.5790317
+priceToSalesTrailing12Months: 4.3853993
+profitMargins: 0.22972
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.54545
+region: US
+regularMarketChange: -0.04499817
+regularMarketChangePercent: -0.08303777
+regularMarketDayHigh: 54.38
+regularMarketDayLow: 53.835
+regularMarketDayRange: 53.835 - 54.38
+regularMarketOpen: 54.21
+regularMarketPreviousClose: 54.19
+regularMarketPrice: 54.145
+regularMarketTime: 1794413731
+regularMarketVolume: 1018655
+returnOnAssets: 0.00997
+returnOnEquity: 0.09422
+revenueGrowth: 0.505
+revenuePerShare: 13.467
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 9
+sharesOutstanding: 903645765
+sharesPercentSharesOut: 0.0
+sharesShort: 7988
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 36264798
+shortName: Fifth Third Bancorp
+shortPercentOfFloat: 0.0
+shortRatio: 0.0
+sourceInterval: 15
+state: OH
+symbol: FITB
+targetHighPrice: 67.0
+targetLowPrice: 55.0
+targetMeanPrice: 61.53571
+targetMedianPrice: 61.0
+totalCash: 9505999872
+totalCashPerShare: 10.52
+totalDebt: 22172999680
+totalRevenue: 11157000192
+tradeable: false
+trailingAnnualDividendRate: 1.62
+trailingAnnualDividendYield: 0.029894816
+trailingEps: 2.98
+trailingPE: 18.169462
+trailingPegRatio: 1.6315
+triggerable: true
+twoHundredDayAverage: 52.15705
+twoHundredDayAverageChange: 1.9879494
+twoHundredDayAverageChangePercent: 0.03811468
+typeDisp: Equity
+volume: 1018655
+website: https://www.53.com
+zip: '45263'

@@ -1,0 +1,290 @@
+52WeekChange: 0.27954364
+SandP52WeekChange: 0.097798586
+address1: Route 206 & Province Line Road
+allTimeHigh: 81.44
+allTimeLow: 0.91088
+ask: 61.49
+askSize: 200
+auditRisk: 4
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 10419930
+averageDailyVolume3Month: 10925603
+averageVolume: 10925603
+averageVolume10days: 10419930
+beta: 0.186
+bid: 61.47
+bidSize: 100
+boardRisk: 8
+bookValue: 11.45
+city: Princeton
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Christopher S. Boerner Ph.D.
+  title: CEO & Chairman
+  totalPay: 5818520
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David V. Elkins
+  title: Executive VP & CFO
+  totalPay: 3196077
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Greg  Meyers
+  title: Executive VP and Chief Digital & Technology Officer
+  totalPay: 2972005
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam  Lenkowsky
+  title: Executive VP & Chief Commercialization Officer
+  totalPay: 3176492
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Cristian  Massacesi M.D.
+  title: Executive VP, Chief Medical Officer & Head of Development
+  totalPay: 2218956
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karin  Shanahan
+  title: Executive VP, Chief Supply Chain & Operations Officer
+  totalPay: 2420673
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles E. Triano
+  title: SVP & Head of Investor Relations
+  unexercisedValue: 0
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cari  Gallman
+  title: Executive VP, General Counsel & Chief Policy Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ahn Amanda Poole
+  title: Executive VP & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 76
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Joseph J. Eiden Jr.
+  title: Head of Medical Affairs
+  unexercisedValue: 0
+  yearBorn: 1949
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 61.715
+currentRatio: 1.587
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 62.1125
+dayLow: 61.31
+debtToEquity: 191.463
+displayName: Bristol-Myers Squibb
+dividendDate: 1793577600
+dividendRate: 2.52
+dividendYield: 4.01
+earningsCallTimestampEnd: 1793275200
+earningsCallTimestampStart: 1793275200
+earningsGrowth: -0.028
+earningsQuarterlyGrowth: -0.018
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 18242000896
+ebitdaMargins: 0.3646
+enterpriseToEbitda: 8.804
+enterpriseToRevenue: 3.21
+enterpriseValue: 160597590016
+epsCurrentYear: 6.44253
+epsForward: 6.69934
+epsTrailingTwelveMonths: 4.51
+esgPopulated: false
+exDividendDate: 1790899200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 62.1786
+fiftyDayAverageChange: -0.46360016
+fiftyDayAverageChangePercent: -0.007455944
+fiftyTwoWeekChangePercent: 27.954365
+fiftyTwoWeekHigh: 68.64
+fiftyTwoWeekHighChange: -6.924999
+fiftyTwoWeekHighChangePercent: -0.100888684
+fiftyTwoWeekLow: 45.27
+fiftyTwoWeekLowChange: 16.445
+fiftyTwoWeekLowChangePercent: 0.36326486
+fiftyTwoWeekRange: 45.27 - 68.64
+financialCurrency: USD
+firstTradeDateMilliseconds: 76253400000
+fiveYearAvgDividendYield: 3.86
+floatShares: 2040917498
+forwardEps: 6.69934
+forwardPE: 9.212102
+freeCashflow: 6364624896
+fullExchangeName: NYSE
+fullTimeEmployees: 32500
+fulldayChange: -1.0849991
+fulldayChangePercent: -1.7277056
+fulldayPrice: 61.715
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.70502996
+grossProfits: 35275001856
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00081
+heldPercentInstitutions: 0.85257006
+impliedSharesOutstanding: 2044085831
+industry: Drug Manufacturers - General
+industryDisp: Drug Manufacturers - General
+industryKey: drug-manufacturers-general
+irWebsite: http://www.bms.com/investors/Pages/home.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790899200
+lastDividendValue: 0.63
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 997142400
+lastSplitFactor: 1000000:951777
+longBusinessSummary: Bristol-Myers Squibb Company discovers, develops, licenses, manufactures,
+  markets, distributes, and sells biopharmaceutical products worldwide. The company
+  offers products for oncology, hematology, immunology, cardiovascular, and neuroscience
+  indications. Its products include Opdivo for anti-cancer indications; Opdivo Qvantig,
+  a subcutaneous PD-1 inhibitor for solid tumors; Orencia for active rheumatoid arthritis
+  and psoriatic arthritis; Yervoy for the treatment of unresectable or metastatic
+  melanoma; Reblozyl to treat anemia; Breyanzi for the treatment of relapsed or refractory
+  large B-cell lymphoma; Opdualag to treat unresectable or metastatic melanoma; and
+  Camzyos for the treatment of symptomatic obstructive HCM. The company also offers
+  Zeposia to treat relapsing forms of multiple sclerosis; Abecma for the treatment
+  of patients with relapsed or refractory multiple myeloma; Sotyktu to treat moderate-to-severe
+  plaque psoriasis; Krazati for the treatment of KRASG12C-mutated locally advanced
+  or metastatic non-small cell lung cancer (NSCLC); and Cobenfy to treat schizophrenia.
+  In addition, it offers Eliquis for the reduction of risk of stroke/systemic embolism
+  and for the treatment of DVT/PE; Revlimid, an oral immunomodulatory drug for multiple
+  myeloma; Pomalyst/Imnovid for multiple myeloma; Sprycel for Philadelphia chromosome-positive
+  chronic myeloid leukemia; and Abraxane to treat breast cancer. Further, the company
+  provides Augtyro for the treatment of locally advanced or metastatic ROS1-positive
+  NSCLC, as well as NSCLC and pancreatic cancer. It sells its products to wholesalers,
+  distributors, specialty pharmacies, retailers, hospitals, clinics, and government
+  agencies. The company has a strategic collaboration with Arcus Biosciences, Inc.
+  to develop a treatment regimen that delivers tumor control in kidney cancer. The
+  company was formerly known as Bristol-Myers Company. The company was founded in
+  1887 and is headquartered in Princeton, New Jersey.
+longName: Bristol-Myers Squibb Company
+market: us_market
+marketCap: 126150762496
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_25798
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 9242999808
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 128368590186
+numberOfAnalystOpinions: 24
+open: 62.0
+operatingCashflow: 10652000256
+operatingMargins: 0.32365
+overallRisk: 4
+payoutRatio: 0.5588
+pegRatio: 17.04
+phone: 609 252 4621
+previousClose: 62.8
+priceEpsCurrentYear: 9.579311
+priceHint: 2
+priceToBook: 5.3899565
+priceToSalesTrailing12Months: 2.521351
+profitMargins: 0.18474
+quickRatio: 1.356
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.5
+region: US
+regularMarketChange: -1.0849991
+regularMarketChangePercent: -1.7277056
+regularMarketDayHigh: 62.1125
+regularMarketDayLow: 61.31
+regularMarketDayRange: 61.31 - 62.1125
+regularMarketOpen: 62.0
+regularMarketPreviousClose: 62.8
+regularMarketPrice: 61.715
+regularMarketTime: 1794413734
+regularMarketVolume: 1658574
+returnOnAssets: 0.10902
+returnOnEquity: 0.44005
+revenueGrowth: 0.069
+revenuePerShare: 24.535
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 2
+sharesOutstanding: 2044085831
+sharesPercentSharesOut: 0.0229
+sharesShort: 46849171
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 45847626
+shortName: Bristol-Myers Squibb Company
+shortPercentOfFloat: 0.0229
+shortRatio: 3.74
+sourceInterval: 15
+state: NJ
+symbol: BMY
+targetHighPrice: 80.0
+targetLowPrice: 40.0
+targetMeanPrice: 65.25
+targetMedianPrice: 65.5
+totalCash: 12581000192
+totalCashPerShare: 6.155
+totalDebt: 44809998336
+totalRevenue: 50033000448
+tradeable: false
+trailingAnnualDividendRate: 2.52
+trailingAnnualDividendYield: 0.04012739
+trailingEps: 4.51
+trailingPE: 13.684034
+trailingPegRatio: 17.041
+triggerable: true
+twoHundredDayAverage: 60.2198
+twoHundredDayAverageChange: 1.4952011
+twoHundredDayAverageChangePercent: 0.024829062
+typeDisp: Equity
+volume: 1658574
+website: https://www.bms.com
+zip: 08543

@@ -1,0 +1,223 @@
+52WeekChange: 0.069423914
+SandP52WeekChange: 0.097798586
+address1: Am Hof 6a
+allTimeHigh: 114.9
+allTimeLow: 6.849179
+ask: 73.55
+askSize: 91
+auditRisk: 1
+averageAnalystRating: 3.8 - Underperform
+averageDailyVolume10Day: 137373
+averageDailyVolume3Month: 133421
+averageVolume: 133421
+averageVolume10days: 137373
+beta: 0.143
+bid: 73.35
+bidSize: 100
+boardRisk: 5
+bookValue: 27.727
+city: Vienna
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Michael  Strugl M.B.A.
+  title: CEO & Chairman of Executive Board
+  totalPay: 1958902
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Achim  Kaspar
+  title: COO & Member of Executive Board
+  totalPay: 1241473
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Susanna  Zapreva-Hennerbichler
+  title: Chief Renewables Officer & Member of Executive Board
+  totalPay: 809902
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Waldner
+  title: CFO & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andreas  Wollein
+  title: Head of Group Finance & Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Austria
+cryptoTradeable: false
+currency: EUR
+currentPrice: 73.35
+currentRatio: 0.798
+customPriceAlertConfidence: LOW
+dayHigh: 73.5
+dayLow: 72.0
+debtToEquity: 32.765
+dividendDate: 20217600
+dividendRate: 2.0
+dividendYield: 2.76
+earningsCallTimestampEnd: 1793872800
+earningsCallTimestampStart: 1793872800
+earningsGrowth: -0.593
+earningsQuarterlyGrowth: -0.593
+earningsTimestamp: 1793896500
+earningsTimestampEnd: 1793896500
+earningsTimestampStart: 1793896500
+ebitda: 2099101952
+ebitdaMargins: 0.27201998
+enterpriseToEbitda: 14.003
+enterpriseToRevenue: 3.809
+enterpriseValue: 29393895424
+epsCurrentYear: 3.12962
+epsForward: 4.28764
+epsTrailingTwelveMonths: 2.77
+esgPopulated: false
+exDividendDate: 1777334400
+exchange: VIE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 43 50 313 54191
+fiftyDayAverage: 64.829
+fiftyDayAverageChange: 8.520996
+fiftyDayAverageChangePercent: 0.13143803
+fiftyTwoWeekChangePercent: 6.9423914
+fiftyTwoWeekHigh: 75.35
+fiftyTwoWeekHighChange: -2.0
+fiftyTwoWeekHighChangePercent: -0.026542801
+fiftyTwoWeekLow: 54.25
+fiftyTwoWeekLowChange: 19.099998
+fiftyTwoWeekLowChangePercent: 0.3520737
+fiftyTwoWeekRange: 54.25 - 75.35
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886100000
+fiveYearAvgDividendYield: 2.14
+floatShares: 66008980
+forwardEps: 4.28764
+forwardPE: 17.107313
+freeCashflow: 5252750
+fullExchangeName: Vienna
+fullTimeEmployees: 4546
+fulldayChange: 0.94999695
+fulldayChangePercent: 1.3121505
+fulldayPrice: 73.35
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.40505
+grossProfits: 3125647872
+hasPrePostMarketData: false
+heldPercentInsiders: 0.29999
+heldPercentInstitutions: 0.14631
+impliedSharesOutstanding: 347415686
+industry: Utilities - Renewable
+industryDisp: Utilities - Renewable
+industryKey: utilities-renewable
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777334400
+lastDividendValue: 3.15
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1148342400
+lastSplitFactor: '10:1'
+longBusinessSummary: VERBUND AG, together with its subsidiaries, generates, trades,
+  and sells electricity in Austria, Germany, France, Romania, Spain, and Luxembourg.
+  It operates through Hydro, New Renewables, Sales, Grid, and All Other segments.
+  The company engages in the generation of hydropower, wind power, photovoltaic systems,
+  and flexible storage systems; trading and sale activities, and business activities
+  related to battery storage systems; electricity and thermal generation; and holds
+  equity interests. It also offers electricity, gas, e-mobility, and large-scale photovoltaic
+  systems. The company serves participants in energy exchange markets, traders, electric
+  utilities, industrial companies, and household and commercial customers. VERBUND
+  AG was founded in 1947 and is headquartered in Vienna, Austria.
+longName: VERBUND AG
+market: at_market
+marketCap: 25482940416
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_875310
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 962001984
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 25152895666
+numberOfAnalystOpinions: 14
+open: 72.3
+operatingCashflow: 1481044992
+operatingMargins: 0.19510001
+overallRisk: 3
+payoutRatio: 0.7228
+pegRatio: 1.87
+phone: 43 50 313 0
+previousClose: 72.4
+priceEpsCurrentYear: 23.43735
+priceHint: 2
+priceToBook: 2.6454358
+priceToSalesTrailing12Months: 3.3023257
+profitMargins: 0.12467
+quickRatio: 0.455
+quoteType: EQUITY
+recommendationKey: underperform
+recommendationMean: 3.78571
+region: US
+regularMarketChange: 0.94999695
+regularMarketChangePercent: 1.3121505
+regularMarketDayHigh: 73.5
+regularMarketDayLow: 72.0
+regularMarketDayRange: 72.0 - 73.5
+regularMarketOpen: 72.3
+regularMarketPreviousClose: 72.4
+regularMarketPrice: 73.35
+regularMarketTime: 1794411365
+regularMarketVolume: 83522
+returnOnAssets: 0.04953
+returnOnEquity: 0.0979
+revenueGrowth: 0.069
+revenuePerShare: 22.212
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 9
+sharesOutstanding: 170233686
+shortName: VERBUND AG Kat. A
+sourceInterval: 15
+symbol: VER.VI
+targetHighPrice: 87.2
+targetLowPrice: 55.0
+targetMeanPrice: 62.97857
+targetMedianPrice: 62.0
+totalCash: 84100000
+totalCashPerShare: 0.242
+totalDebt: 3444600064
+totalRevenue: 7716664832
+tradeable: false
+trailingAnnualDividendRate: 2.0
+trailingAnnualDividendYield: 0.027624309
+trailingEps: 2.77
+trailingPE: 26.480145
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 61.49625
+twoHundredDayAverageChange: 11.853748
+twoHundredDayAverageChangePercent: 0.19275562
+typeDisp: Equity
+volume: 83522
+website: https://www.verbund.com
+zip: '1010'

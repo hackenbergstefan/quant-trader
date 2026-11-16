@@ -1,0 +1,272 @@
+52WeekChange: -0.15475637
+SandP52WeekChange: 0.097798586
+address1: Berliner Strasse 6
+allTimeHigh: 241.8
+allTimeLow: 16.15953
+ask: 180.15
+askSize: 179
+auditRisk: 2
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 568963
+averageDailyVolume3Month: 460322
+averageVolume: 460322
+averageVolume10days: 568963
+beta: 0.884
+bid: 180.05
+bidSize: 508
+boardRisk: 6
+bookValue: 105.994
+city: Heidelberg
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Dominik  von Achten Ph.D.
+  title: Chairman of Managing Board
+  totalPay: 4430000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rene S. Aldach
+  title: CFO & Member of the Managing Board
+  totalPay: 1838000
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hayrullah Hakan Gurdal
+  title: Member of Managing Board
+  totalPay: 2108000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jon  Morrish
+  title: Member of Managing Board
+  totalPay: 2112000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Axel  Conrads
+  title: CTO & Member of Management Board
+  totalPay: 1455000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dennis  Lentz
+  title: Chief Digital Officer & Member of Managing Board
+  totalPay: 2171000
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Ward
+  title: Member of Managing Board
+  totalPay: 2347000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Roberto  Callieri
+  title: Member of the Managing Board
+  totalPay: 2594000
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Katharina  Beumelburg
+  title: Chief Sustainability & New Technologies Officer and Member of the Managing
+    Board
+  totalPay: 1939000
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Anna  Toborek-Kacar
+  title: Member of Supervisory Board & Director of Group Corporate Finance
+  totalPay: 132000
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 180.15
+currentRatio: 1.374
+customPriceAlertConfidence: LOW
+dayHigh: 182.85
+dayLow: 179.4
+debtToEquity: 50.409
+dividendRate: 3.6
+dividendYield: 2.0
+earningsCallTimestampEnd: 1793793600
+earningsCallTimestampStart: 1793793600
+earningsGrowth: 0.088
+earningsQuarterlyGrowth: 0.075
+earningsTimestamp: 1793809800
+earningsTimestampEnd: 1793809800
+earningsTimestampStart: 1793809800
+ebitda: 4081900032
+ebitdaMargins: 0.18781
+enterpriseToEbitda: 10.04
+enterpriseToRevenue: 1.886
+enterpriseValue: 40983416832
+epsCurrentYear: 13.06424
+epsForward: 14.59296
+epsTrailingTwelveMonths: 11.58
+esgPopulated: false
+exDividendDate: 1778716800
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 6221 481 13217
+fiftyDayAverage: 151.45
+fiftyDayAverageChange: 28.699997
+fiftyDayAverageChangePercent: 0.18950146
+fiftyTwoWeekChangePercent: -15.4756365
+fiftyTwoWeekHigh: 241.8
+fiftyTwoWeekHighChange: -61.65001
+fiftyTwoWeekHighChangePercent: -0.2549628
+fiftyTwoWeekLow: 137.2
+fiftyTwoWeekLowChange: 42.949997
+fiftyTwoWeekLowChangePercent: 0.31304663
+fiftyTwoWeekRange: 137.2 - 241.8
+financialCurrency: EUR
+firstTradeDateMilliseconds: 901522800000
+fiveYearAvgDividendYield: 2.64
+floatShares: 124993399
+forwardEps: 14.59296
+forwardPE: 12.344993
+freeCashflow: 1235725056
+fullExchangeName: XETRA
+fullTimeEmployees: 50603
+fulldayChange: -2.0
+fulldayChangePercent: -1.0982976
+fulldayPrice: 180.15
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.64252
+grossProfits: 13964699648
+hasPrePostMarketData: false
+heldPercentInsiders: 0.284
+heldPercentInstitutions: 0.47779
+impliedSharesOutstanding: 175801909
+industry: Building Materials
+industryDisp: Building Materials
+industryKey: building-materials
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778716800
+lastDividendValue: 3.6
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Heidelberg Materials AG, together with its subsidiaries, produces
+  and distributes cement, aggregates, ready-mixed concrete, and asphalt worldwide.
+  The company provides cement products; natural stone aggregates, including sand and
+  gravel; crushed aggregates comprising stone chippings and crushed stones; and ready-mixed
+  concrete for use in the construction of tunnels or bridges, office buildings, or
+  schools, as well as to produce precast concrete parts, such as stairs, ceiling elements,
+  or structural components. It also offers asphalt; and trades in cement, clinker,
+  secondary cementitious materials, solid, alternative fuels, other building materials,
+  and additives. The company was formerly known as HeidelbergCement AG and changed
+  its name to Heidelberg Materials AG in May 2023. Heidelberg Materials AG was founded
+  in 1873 and is headquartered in Heidelberg, Germany.
+longName: Heidelberg Materials AG
+market: de_market
+marketCap: 31670712320
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_4108892
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 2033900032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 31670713906
+numberOfAnalystOpinions: 18
+open: 182.8
+operatingCashflow: 3175300096
+operatingMargins: 0.14088
+overallRisk: 3
+payoutRatio: 0.31440002
+pegRatio: 1.76
+phone: 49 6221 481 13227
+prevName: HeidelbergCement AG
+previousClose: 182.15
+priceEpsCurrentYear: 13.78955
+priceHint: 2
+priceToBook: 1.6996244
+priceToSalesTrailing12Months: 1.4571899
+profitMargins: 0.091680005
+quickRatio: 0.924
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.77778
+region: US
+regularMarketChange: -2.0
+regularMarketChangePercent: -1.0982976
+regularMarketDayHigh: 182.85
+regularMarketDayLow: 179.4
+regularMarketDayRange: 179.4 - 182.85
+regularMarketOpen: 182.8
+regularMarketPreviousClose: 182.15
+regularMarketPrice: 180.15
+regularMarketTime: 1794411533
+regularMarketVolume: 118790
+returnOnAssets: 0.05243
+returnOnEquity: 0.11698
+revenueGrowth: 0.017
+revenuePerShare: 123.048
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 1
+sharesOutstanding: 175801909
+shortName: Heidelberg Materials AG       I
+sourceInterval: 15
+symbol: HEI.DE
+targetHighPrice: 286.0
+targetLowPrice: 140.0
+targetMeanPrice: 207.27779
+targetMedianPrice: 210.5
+totalCash: 2192199936
+totalCashPerShare: 12.47
+totalDebt: 9983099904
+totalRevenue: 21734100992
+tradeable: false
+trailingAnnualDividendRate: 3.6
+trailingAnnualDividendYield: 0.019763932
+trailingEps: 11.58
+trailingPE: 15.556994
+trailingPegRatio: 1.764
+triggerable: false
+twoHundredDayAverage: 172.0355
+twoHundredDayAverageChange: 8.114487
+twoHundredDayAverageChangePercent: 0.04716751
+typeDisp: Equity
+volume: 118790
+website: https://www.heidelbergmaterials.de
+zip: '69120'

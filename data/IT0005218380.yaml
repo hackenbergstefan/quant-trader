@@ -1,0 +1,271 @@
+52WeekChange: 0.11307955
+SandP52WeekChange: 0.097798586
+address1: Piazza Nogara 2
+allTimeHigh: 146.15062
+allTimeLow: 1.0115
+ask: 14.61
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 5819011
+averageDailyVolume3Month: 5096432
+averageVolume: 5096432
+averageVolume10days: 5819011
+beta: 0.47
+bid: 14.615
+bidSize: 0
+boardRisk: 1
+bookValue: 10.536
+city: Verona
+companyOfficers:
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Giuseppe  Castagna
+  title: CEO & Director
+  totalPay: 2214046
+  unexercisedValue: 0
+  yearBorn: 1959
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Edoardo Maria Ginevra
+  title: Co-GM & CFO
+  totalPay: 891312
+  unexercisedValue: 0
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Domenico  De Angelis
+  title: Co-GM & Chief Business Officer
+  totalPay: 967690
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Alberto  Gasparri
+  title: Head of Investments
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Gianpietro  Val
+  title: Executive in charge of Corporate Accounting Documents
+  unexercisedValue: 0
+  yearBorn: 1960
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Arne  Riscassi
+  title: Investor Relations Manager
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Maurizio  Nigro
+  title: Compliance Manager
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Matteo  Cidda
+  title: Head of Communication
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Roberto  Speziotto
+  title: Head of Human Resources
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Tom  Lucassen
+  title: Head of Shareholder Strategy, Investor Coverage & Rating Agencies
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1735603200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: BAMI.MI announced a cash dividend of EUR 0.50 with an ex-date of Nov. 23,
+    2026
+  meta:
+    amount: '0.50'
+    dateEpochMs: 1795388400000
+    eventType: DIVIDEND
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 14.62
+customPriceAlertConfidence: LOW
+dayHigh: 15.04
+dayLow: 14.49
+dividendRate: 1.0
+dividendYield: 6.77
+earningsCallTimestampEnd: 1793898000
+earningsCallTimestampStart: 1793898000
+earningsGrowth: 0.003
+earningsQuarterlyGrowth: 0.005
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1801758600
+earningsTimestampStart: 1801758600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 5.754
+enterpriseValue: 32154740736
+epsCurrentYear: 1.29305
+epsForward: 1.39357
+epsTrailingTwelveMonths: 1.28
+esgPopulated: false
+exDividendDate: 1795392000
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 39 04 52030128
+fiftyDayAverage: 14.9617
+fiftyDayAverageChange: -0.34170055
+fiftyDayAverageChangePercent: -0.02283835
+fiftyTwoWeekChangePercent: 11.307955
+fiftyTwoWeekHigh: 17.45
+fiftyTwoWeekHighChange: -2.8300009
+fiftyTwoWeekHighChangePercent: -0.1621777
+fiftyTwoWeekLow: 10.94
+fiftyTwoWeekLowChange: 3.6800003
+fiftyTwoWeekLowChangePercent: 0.3363803
+fiftyTwoWeekRange: 10.94 - 17.45
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 5.64
+floatShares: 1201103876
+forwardEps: 1.39357
+forwardPE: 10.491041
+fullExchangeName: Milan
+fullTimeEmployees: 18871
+fulldayChange: -0.14500046
+fulldayChangePercent: -0.98205525
+fulldayPrice: 14.62
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 5588335104
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.61046004
+impliedSharesOutstanding: 1505404019
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1795392000
+lastDividendValue: 0.5
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1394409600
+lastSplitFactor: '1:10'
+longBusinessSummary: 'Banco BPM S.p.A. provides banking and financial products and
+  services to individual, business, and corporate customers in Italy. The company
+  operates through six segments: Commercial; Corporate and Investment Banking; Asset
+  Management and Insurance; Other Partnerships; Finance; and Corporate Centre. It
+  offers current account and digital services; safety deposit boxes; home, personal,
+  property, and car and vehicle insurances; credit, telepass family, debit, payment,
+  and prepaid cards; T3 Trading, web, and T3 mobile platforms; home and surrogacy
+  mortgagees; long term car rental; personal loans, including salary-backed loan;
+  calculate mortgage payments; mutual funds, insurance investment, saving, and certificate
+  products; and supplementary pension securities comprising true life secure retirement
+  and anima arts and crafts pension funds. The company also provides business current
+  accounts; green and sustainable, ordinary financing, dedicated, subsidized, and
+  condominium credit financing products; international payments and collections, trade
+  and export finance, and digital international solutions; license plate, equipment,
+  real estate, renewable energy, operating, and nautical leasing services; POS receipts;
+  and RIBA, MAV and SDD collections. In addition, it offers multi-risk, personal,
+  property, and motor vehicle insurance; corporate cards; digital services; foreign
+  risk coverage, exchange risk hedging, and interest rate risk coverage; investment
+  banking, including equity capital market, mergers and acquisitions, securitization,
+  and debt capital markets; documentary box office receipts, electronic collections
+  abroad, international guarantees, and pro-soluto assignment of export credits services;
+  structured finances; and collection and payment services. The company was formerly
+  known as Banco Popolare Societa Cooperativa Scarl and changed its name to Banco
+  BPM Società per Azioni in January 2017. Banco BPM S.p.A. was founded in 2017 and
+  is headquartered in Verona, Italy.'
+longName: Banco BPM S.p.A.
+market: it_market
+marketCap: 22009006080
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_6243836
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1930087040
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 22227290340
+numberOfAnalystOpinions: 12
+open: 15.03
+operatingMargins: 0.46686
+overallRisk: 1
+payoutRatio: 0.7874
+pegRatio: 1.81
+phone: 39 02 77002057
+prevName: Banco BPM Società per Azioni
+previousClose: 14.765
+priceEpsCurrentYear: 11.306601
+priceHint: 2
+priceToBook: 1.3876233
+priceToSalesTrailing12Months: 3.9383833
+profitMargins: 0.34537998
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.83333
+region: US
+regularMarketChange: -0.14500046
+regularMarketChangePercent: -0.98205525
+regularMarketDayHigh: 15.04
+regularMarketDayLow: 14.49
+regularMarketDayRange: 14.49 - 15.04
+regularMarketOpen: 15.03
+regularMarketPreviousClose: 14.765
+regularMarketPrice: 14.62
+regularMarketTime: 1794411561
+regularMarketVolume: 2657433
+returnOnAssets: 0.00923
+returnOnEquity: 0.1236
+revenueGrowth: 0.024
+revenuePerShare: 3.711
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 1505404019
+shortName: BANCO BPM
+sourceInterval: 20
+state: VR
+symbol: BAMI.MI
+targetHighPrice: 16.8
+targetLowPrice: 13.3
+targetMeanPrice: 15.30833
+targetMedianPrice: 15.4
+totalCash: 24164646912
+totalCashPerShare: 16.047
+totalDebt: 33993385984
+totalRevenue: 5588335104
+tradeable: false
+trailingAnnualDividendRate: 1.04
+trailingAnnualDividendYield: 0.07043684
+trailingEps: 1.28
+trailingPE: 11.421875
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 14.1075
+twoHundredDayAverageChange: 0.5124998
+twoHundredDayAverageChangePercent: 0.03632818
+typeDisp: Equity
+volume: 2657433
+website: https://www.bancobpm.it
+zip: '37121'

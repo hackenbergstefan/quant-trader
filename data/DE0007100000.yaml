@@ -1,0 +1,270 @@
+52WeekChange: -0.30408818
+SandP52WeekChange: 0.097798586
+address1: Mercedesstraße 120
+allTimeHigh: 92.28238
+allTimeLow: 14.306056
+ask: 41.61
+auditRisk: 10
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 2651224
+averageDailyVolume3Month: 2376887
+averageVolume: 2376887
+averageVolume10days: 2651224
+beta: 0.736
+bid: 41.595
+boardRisk: 3
+bookValue: 100.792
+city: Stuttgart
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ola  Kallenius
+  title: Chairman of the Management Board & CEO
+  totalPay: 4390000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Harald  Wilhelm
+  title: Head of Finance & Controlling and Member of the Management Board
+  totalPay: 2247000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Britta  Seeger
+  title: Director of People & Enterprise Tech and Labor Relations and Member of Management
+    Board
+  totalPay: 2237000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Olaf  Schick
+  title: Head of Integrity, Governance & Sustainability and Member of Management Board
+  totalPay: 1221000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jorg  Burzer
+  title: CTO & Member of Management Board
+  totalPay: 2471000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oliver  Thone
+  title: Head of Greater China & Member of Management Board
+  totalPay: 2314000
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mathias  Geisen
+  title: Head of Sales & Customer Experience and Member of Management Board
+  totalPay: 2058260
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Schiebe
+  title: Head of Production, Quality & Supply Chain Management & Member of Management
+    Board
+  totalPay: 1035000
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christina  Schenck
+  title: VP, Head of Investor Relations & Treasury
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Volker  Mornhinweg
+  title: Head of Mercedes-Benz Vans
+  unexercisedValue: 0
+  yearBorn: 1960
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 41.605
+currentRatio: 1.314
+customPriceAlertConfidence: LOW
+dayHigh: 41.87
+dayLow: 41.17
+debtToEquity: 102.738
+dividendRate: 3.5
+dividendYield: 8.36
+earningsCallTimestampEnd: 1793175300
+earningsCallTimestampStart: 1793175300
+earningsGrowth: 0.344
+earningsQuarterlyGrowth: 0.294
+earningsTimestamp: 1793205000
+earningsTimestampEnd: 1793205000
+earningsTimestampStart: 1793205000
+ebitda: 13075999744
+ebitdaMargins: 0.10212
+enterpriseToEbitda: 8.921
+enterpriseToRevenue: 0.911
+enterpriseValue: 116648845312
+epsCurrentYear: 5.11061
+epsForward: 5.93835
+epsTrailingTwelveMonths: 5.7
+esgPopulated: false
+exDividendDate: 1776384000
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 42.3738
+fiftyDayAverageChange: -0.7687988
+fiftyDayAverageChangePercent: -0.018143259
+fiftyTwoWeekChangePercent: -30.408817
+fiftyTwoWeekHigh: 62.34
+fiftyTwoWeekHighChange: -20.735
+fiftyTwoWeekHighChangePercent: -0.3326115
+fiftyTwoWeekLow: 38.89
+fiftyTwoWeekLowChange: 2.7150002
+fiftyTwoWeekLowChangePercent: 0.0698123
+fiftyTwoWeekRange: 38.89 - 62.34
+financialCurrency: EUR
+firstTradeDateMilliseconds: 846662400000
+fiveYearAvgDividendYield: 6.17
+floatShares: 710025988
+forwardEps: 5.93835
+forwardPE: 7.0061545
+freeCashflow: -879000000
+fullExchangeName: XETRA
+fullTimeEmployees: 152528
+fulldayChange: 0.23999786
+fulldayChangePercent: 0.5801955
+fulldayPrice: 41.605
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.16736999
+grossProfits: 21432000512
+hasPrePostMarketData: false
+heldPercentInsiders: 0.20101
+heldPercentInstitutions: 0.3803
+impliedSharesOutstanding: 949232324
+industry: Auto Manufacturers
+industryDisp: Auto Manufacturers
+industryKey: auto-manufacturers
+irWebsite: http://www.daimler.com/investor-relations/en
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776384000
+lastDividendValue: 3.5
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Mercedes-Benz Group AG operates as an automotive company in Europe,
+  Germany, North America, the United States, Asia, China, and internationally. It
+  operates through Mercedes-Benz Cars, Mercedes-Benz Vans, and Mercedes-Benz Financial
+  Services segments. The company develops, manufactures, and sells cars and vans under
+  the Mercedes-Benz, Mercedes-AMG, Mercedes-Maybach, G-Class brands, as well as related
+  spare parts and accessories. It also provides financing, leasing, vehicle subscription
+  and rental, fleet management, insurance, and digital services related to charging
+  electric vehicles. The company was formerly known as Daimler AG and changed its
+  name to Mercedes-Benz Group AG in February 2022. Mercedes-Benz Group AG was founded
+  in 1886 and is headquartered in Stuttgart, Germany.
+longName: Mercedes-Benz Group AG
+market: de_market
+marketCap: 39492808704
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_106772
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 5376000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 39734865082
+numberOfAnalystOpinions: 20
+open: 41.68
+operatingCashflow: 10387000320
+operatingMargins: 0.0684
+overallRisk: 3
+payoutRatio: 0.614
+pegRatio: 0.59
+phone: 49 7 11 17 0
+prevName: Daimler AG
+previousClose: 41.365
+priceEpsCurrentYear: 8.140906
+priceHint: 2
+priceToBook: 0.41278076
+priceToSalesTrailing12Months: 0.30841467
+profitMargins: 0.04198
+quickRatio: 0.842
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.38095
+region: US
+regularMarketChange: 0.23999786
+regularMarketChangePercent: 0.5801955
+regularMarketDayHigh: 41.87
+regularMarketDayLow: 41.17
+regularMarketDayRange: 41.17 - 41.87
+regularMarketOpen: 41.68
+regularMarketPreviousClose: 41.365
+regularMarketPrice: 41.605
+regularMarketTime: 1794411564
+regularMarketVolume: 819064
+returnOnAssets: 0.021370001
+returnOnEquity: 0.05875
+revenueGrowth: -0.045
+revenuePerShare: 135.741
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 949232324
+shortName: Mercedes-Benz Group AG        N
+sourceInterval: 15
+symbol: MBG.DE
+targetHighPrice: 70.0
+targetLowPrice: 32.0
+targetMeanPrice: 50.5525
+targetMedianPrice: 51.0
+totalCash: 19484000256
+totalCashPerShare: 21.05
+totalDebt: 96859996160
+totalRevenue: 128051003392
+tradeable: false
+trailingAnnualDividendRate: 3.5
+trailingAnnualDividendYield: 0.08461259
+trailingEps: 5.7
+trailingPE: 7.299123
+trailingPegRatio: 0.5888
+triggerable: false
+twoHundredDayAverage: 48.24105
+twoHundredDayAverageChange: -6.636051
+twoHundredDayAverageChangePercent: -0.13756025
+typeDisp: Equity
+volume: 819064
+website: https://group.mercedes-benz.com
+zip: '70372'

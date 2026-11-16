@@ -1,0 +1,284 @@
+52WeekChange: 0.36888492
+SandP52WeekChange: 0.097798586
+address1: 600 Riverpark Drive
+allTimeHigh: 487.91
+allTimeLow: 0.3125
+ask: 240.29
+askSize: 1
+auditRisk: 4
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 5631230
+averageDailyVolume3Month: 3113764
+averageVolume: 3113764
+averageVolume10days: 5631230
+beta: 1.747
+bid: 250.0
+bidSize: 4
+boardRisk: 2
+bookValue: 23.618
+city: North Reading
+companyOfficers:
+- age: 61
+  exercisedValue: 290702
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory Stephen Smith
+  title: President, CEO & Director
+  totalPay: 2887740
+  unexercisedValue: 2488975
+  yearBorn: 1964
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Michelle L. Turner
+  title: VP, CFO, Treasurer & Principal Accounting Officer
+  totalPay: 697723
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ryan E. Driscoll
+  title: Vice President, General Counsel & Secretary
+  totalPay: 1108930
+  unexercisedValue: 52458
+  yearBorn: 1978
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sanjay  Mehta
+  title: Executive Advisor
+  totalPay: 1806948
+  unexercisedValue: 1404952
+  yearBorn: 1969
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shannon John Poulin
+  title: President of Semiconductor Test Division
+  totalPay: 2602187
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Regan  Mills
+  title: President of Product Test Group
+  totalPay: 751323
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shannon  Gath
+  title: VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jim  Mahon
+  title: VP & Chief Human Resources Officer
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Pierre  Hathout
+  title: President of the Teradyne Robotics
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James  Davidson
+  title: Chief Artificial Intelligence Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 267.49
+currentRatio: 2.08
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 268.385
+dayLow: 254.75
+debtToEquity: 3.669
+displayName: Teradyne
+dividendDate: 1790294400
+dividendRate: 0.52
+dividendYield: 0.21
+earningsCallTimestampEnd: 1793190600
+earningsCallTimestampStart: 1793190600
+earningsGrowth: 1.893
+earningsQuarterlyGrowth: 1.864
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1801083600
+earningsTimestampStart: 1801083600
+ebitda: 1764819968
+ebitdaMargins: 0.35291
+enterpriseToEbitda: 21.55
+enterpriseToRevenue: 7.605
+enterpriseValue: 38032605184
+epsCurrentYear: 9.44052
+epsForward: 11.99092
+epsTrailingTwelveMonths: 8.7
+esgPopulated: false
+exDividendDate: 1788480000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 347.3386
+fiftyDayAverageChange: -79.8486
+fiftyDayAverageChangePercent: -0.22988693
+fiftyTwoWeekChangePercent: 36.888493
+fiftyTwoWeekHigh: 487.91
+fiftyTwoWeekHighChange: -220.42001
+fiftyTwoWeekHighChangePercent: -0.45176366
+fiftyTwoWeekLow: 151.52
+fiftyTwoWeekLowChange: 115.969986
+fiftyTwoWeekLowChangePercent: 0.7653774
+fiftyTwoWeekRange: 151.52 - 487.91
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 0.31
+floatShares: 155821869
+forwardEps: 11.99092
+forwardPE: 22.307713
+freeCashflow: 600952640
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 6600
+fulldayChange: 22.089996
+fulldayChangePercent: 9.001628
+fulldayPrice: 267.49
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.59322
+grossProfits: 2966535936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00198
+heldPercentInstitutions: 1.03291
+impliedSharesOutstanding: 156124751
+industry: Semiconductor Equipment & Materials
+industryDisp: Semiconductor Equipment & Materials
+industryKey: semiconductor-equipment-materials
+irWebsite: http://investor.teradyne.com/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788480000
+lastDividendValue: 0.13
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 936144000
+lastSplitFactor: '2:1'
+longBusinessSummary: Teradyne, Inc. engages in the design, development, manufacture,
+  and sale of automated test systems and robotics products in the United States, Asia
+  Pacific, Europe, the Middle East, and Africa. The company operates through Semiconductor
+  Test, Robotics, and Other segments. The Semiconductor Test segment offers products
+  and services for wafer level and device package testing, and system level testing
+  of semiconductor devices in automotive, industrial, communications, consumer, smartphones,
+  cloud, computer and electronic game, and other applications. This segment also provides
+  FLEX test platform systems; J750 test system to address the volume semiconductor
+  devices, including microcontrollers; Magnum platform that tests memory devices,
+  such as flash memory and DRAM; and ETS platform for semiconductor manufacturers,
+  and assembly and test subcontractors in the analog/mixed signal markets. It serves
+  integrated device manufacturers that integrate the fabrication of silicon wafers
+  into their business; fabless companies that outsource the manufacturing of silicon
+  wafers; foundries; and semiconductor assembly and test providers. The Robotics segment
+  provides collaborative robotic arms and autonomous mobile robots for manufacturing,
+  logistics, and industrial customers. It also provides product test instruments which
+  includes operations related to the design, manufacturing and marketing of products
+  and services for defense/aerospace test, circuit-board test, wireless test systems,
+  and silicon photonics testing. The company has a strategic collaboration with Tokyo
+  Electron Limited for the development of a test cell solution for device screening
+  in AI and data center applications. Teradyne, Inc. was incorporated in 1960 and
+  is headquartered in North Reading, Massachusetts.
+longName: Teradyne, Inc.
+market: us_market
+marketCap: 41761808384
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_94728
+mostRecentQuarter: 1790467200
+netIncomeToCommon: 1373069056
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 38313013895
+numberOfAnalystOpinions: 15
+open: 264.95
+operatingCashflow: 1329513984
+operatingMargins: 0.32512
+overallRisk: 1
+payoutRatio: 0.0586
+pegRatio: 0.41
+phone: 978 370 2700
+previousClose: 245.4
+priceEpsCurrentYear: 28.334242
+priceHint: 2
+priceToBook: 11.325684
+priceToSalesTrailing12Months: 8.351074
+profitMargins: 0.27457002
+quickRatio: 1.176
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.58824
+region: US
+regularMarketChange: 22.089996
+regularMarketChangePercent: 9.001628
+regularMarketDayHigh: 268.385
+regularMarketDayLow: 254.75
+regularMarketDayRange: 254.75 - 268.385
+regularMarketOpen: 264.95
+regularMarketPreviousClose: 245.4
+regularMarketPrice: 267.49
+regularMarketTime: 1794413753
+regularMarketVolume: 1024927
+returnOnAssets: 0.21591
+returnOnEquity: 0.42723998
+revenueGrowth: 0.698
+revenuePerShare: 31.976
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 156124751
+sharesPercentSharesOut: 0.0514
+sharesShort: 8031344
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8629094
+shortName: Teradyne, Inc.
+shortPercentOfFloat: 0.059499998
+shortRatio: 2.41
+sourceInterval: 15
+state: MA
+symbol: TER
+targetHighPrice: 550.0
+targetLowPrice: 340.0
+targetMeanPrice: 424.66666
+targetMedianPrice: 430.0
+totalCash: 466588992
+totalCashPerShare: 2.989
+totalDebt: 137115008
+totalRevenue: 5000771072
+tradeable: false
+trailingAnnualDividendRate: 0.51
+trailingAnnualDividendYield: 0.0020782396
+trailingEps: 8.7
+trailingPE: 30.745977
+trailingPegRatio: 0.4126
+triggerable: true
+twoHundredDayAverage: 350.03015
+twoHundredDayAverageChange: -82.54016
+twoHundredDayAverageChangePercent: -0.23580872
+typeDisp: Equity
+volume: 1024927
+website: https://www.teradyne.com
+zip: 01864

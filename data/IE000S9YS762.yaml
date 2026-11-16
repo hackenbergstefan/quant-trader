@@ -1,0 +1,277 @@
+52WeekChange: 0.21638381
+SandP52WeekChange: 0.097798586
+address1: Forge, 43 Church Street West
+allTimeHigh: 548.2
+allTimeLow: 6.8125
+ask: 520.98
+askSize: 4
+auditRisk: 10
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 2460280
+averageDailyVolume3Month: 2078354
+averageVolume: 2078354
+averageVolume10days: 2460280
+beta: 0.68
+bid: 491.62
+bidSize: 1
+boardRisk: 8
+bookValue: 85.871
+city: Woking
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sanjiv  Lamba
+  title: CEO & Chairman of the Board
+  totalPay: 4960158
+  unexercisedValue: 31225560
+  yearBorn: 1964
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew J. White C.F.A.
+  title: Executive VP & CFO
+  totalPay: 2373314
+  unexercisedValue: 73164592
+  yearBorn: 1972
+- age: 54
+  exercisedValue: 2184081
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sean F. Durbin
+  title: COO & EVP
+  totalPay: 1914226
+  unexercisedValue: 7511608
+  yearBorn: 1971
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Guillermo  Bichara
+  title: Executive VP & Chief Legal Officer
+  totalPay: 1894107
+  unexercisedValue: 19582772
+  yearBorn: 1975
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Benjamin W. Glazer
+  title: Senior VP of Americas
+  totalPay: 1495496
+  unexercisedValue: 12038388
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Denny  Brown
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juan  Pelaez
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Karin  Griggel
+  title: Chief Compliance Officer
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Desiree Co Bacher
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Moloy  Banerjee
+  title: President of ASEAN & South Asia
+  unexercisedValue: 0
+  yearBorn: 1966
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: LIN announced a cash dividend of $1.60 with an ex-date of Dec. 3, 2026
+  meta:
+    amount: '1.60'
+    dateEpochMs: 1796274000000
+    eventType: DIVIDEND
+country: United Kingdom
+cryptoTradeable: false
+currency: USD
+currentPrice: 523.33
+currentRatio: 0.858
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 524.72
+dayLow: 519.3
+debtToEquity: 65.135
+displayName: Linde
+dividendDate: 1797465600
+dividendRate: 6.4
+dividendYield: 1.23
+earningsCallTimestampEnd: 1793278800
+earningsCallTimestampStart: 1793278800
+earningsGrowth: -0.105
+earningsQuarterlyGrowth: -0.123
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 13818000384
+ebitdaMargins: 0.38131002
+enterpriseToEbitda: 19.096
+enterpriseToRevenue: 7.282
+enterpriseValue: 263868727296
+epsCurrentYear: 17.89829
+epsForward: 19.54616
+epsTrailingTwelveMonths: 15.06
+esgPopulated: false
+exDividendDate: 1796256000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 487.8266
+fiftyDayAverageChange: 35.503418
+fiftyDayAverageChangePercent: 0.07277877
+fiftyTwoWeekChangePercent: 21.638382
+fiftyTwoWeekHigh: 548.2
+fiftyTwoWeekHighChange: -24.869995
+fiftyTwoWeekHighChangePercent: -0.045366645
+fiftyTwoWeekLow: 387.78
+fiftyTwoWeekLowChange: 135.55002
+fiftyTwoWeekLowChangePercent: 0.3495539
+fiftyTwoWeekRange: 387.78 - 548.2
+financialCurrency: USD
+firstTradeDateMilliseconds: 708787800000
+fiveYearAvgDividendYield: 1.29
+floatShares: 457591757
+forwardEps: 19.54616
+forwardPE: 26.774057
+freeCashflow: 4192624896
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 64512
+fulldayChange: 1.5499878
+fulldayChangePercent: 0.29705772
+fulldayPrice: 523.33
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.47864
+grossProfits: 17344999424
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0025099998
+heldPercentInstitutions: 0.89118
+impliedSharesOutstanding: 459083779
+industry: Specialty Chemicals
+industryDisp: Specialty Chemicals
+industryKey: specialty-chemicals
+ipoExpectedDate: '2023-11-07'
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788393600
+lastDividendValue: 1.6
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1071532800
+lastSplitFactor: '2:1'
+longBusinessSummary: Linde plc operates as an industrial gas company worldwide. The
+  company offers atmospheric gases, including oxygen, nitrogen, argon, and rare gases;
+  and process gases, such as hydrogen, helium, carbon dioxide, carbon monoxide, electronic
+  gases, specialty gases, and acetylene. It also engages in the design and construction
+  of turnkey process plants for third-party customers, as well as for its gas businesses,
+  including air separation, hydrogen, synthesis, olefin, and natural gas plants. The
+  company serves the healthcare, chemicals and energy, manufacturing, metals and mining,
+  food and beverage, and electronics industries. It operates in the United States,
+  Brazil, Mexico, Canada, Germany, the United Kingdom, Eastern Europe, China, Australia,
+  South Korea, and India. Linde plc was founded in 1879 and is based in Woking, the
+  United Kingdom.
+longName: Linde plc
+market: us_market
+marketCap: 240252321792
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_318049
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 7007000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 239540734206
+numberOfAnalystOpinions: 27
+open: 522.675
+operatingCashflow: 10709999616
+operatingMargins: 0.27565
+overallRisk: 5
+payoutRatio: 0.41830003
+pegRatio: 2.04
+phone: 44 14 8324 2200
+previousClose: 521.78
+priceEpsCurrentYear: 29.239105
+priceHint: 2
+priceToBook: 6.094374
+priceToSalesTrailing12Months: 6.629845
+profitMargins: 0.19336
+quickRatio: 0.639
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.68966
+region: US
+regularMarketChange: 1.5499878
+regularMarketChangePercent: 0.29705772
+regularMarketDayHigh: 524.72
+regularMarketDayLow: 519.3
+regularMarketDayRange: 519.3 - 524.72
+regularMarketOpen: 522.675
+regularMarketPreviousClose: 521.78
+regularMarketPrice: 523.33
+regularMarketTime: 1794413715
+regularMarketVolume: 374853
+returnOnAssets: 0.071729995
+returnOnEquity: 0.17723
+revenueGrowth: 0.092
+revenuePerShare: 78.227
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 4
+sharesOutstanding: 459083779
+sharesPercentSharesOut: 0.0145000005
+sharesShort: 6651825
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5987857
+shortName: Linde plc
+shortPercentOfFloat: 0.0145000005
+shortRatio: 3.12
+sourceInterval: 15
+symbol: LIN
+targetHighPrice: 600.0
+targetLowPrice: 400.0
+targetMeanPrice: 551.03705
+targetMedianPrice: 560.0
+totalCash: 3947000064
+totalCashPerShare: 8.598
+totalDebt: 26702000128
+totalRevenue: 36238000128
+tradeable: false
+trailingAnnualDividendRate: 6.3
+trailingAnnualDividendYield: 0.012074054
+trailingEps: 15.06
+trailingPE: 34.74967
+trailingPegRatio: 2.0432
+triggerable: true
+twoHundredDayAverage: 495.59494
+twoHundredDayAverageChange: 27.735077
+twoHundredDayAverageChangePercent: 0.055963196
+typeDisp: Equity
+volume: 374853
+website: https://www.linde.com
+zip: GU21 6HT

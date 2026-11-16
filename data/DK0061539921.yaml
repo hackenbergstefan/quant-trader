@@ -1,0 +1,256 @@
+52WeekChange: 0.21023762
+SandP52WeekChange: 0.097798586
+address1: Hedeager 42
+address2: Aarhus N
+allTimeHigh: 524.0
+allTimeLow: 4.65
+ask: 191.1
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 2573973
+averageDailyVolume3Month: 2423244
+averageVolume: 2423244
+averageVolume10days: 2573973
+beta: 0.938
+bid: 190.9
+bidSize: 0
+boardRisk: 3
+bookValue: 30.097013
+city: Aarhus
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Henrik  Andersen
+  title: Group President & CEO
+  totalPay: 21129883
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jakob  Wegge-Larsen
+  title: EVP & CFO
+  totalPay: 8485496
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rasmus  Gram
+  title: Senior VP & Head of Group Financial Performance
+  totalPay: 5255667
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Felix  Henseler
+  title: Chief Technology & Operations Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel  Patterson
+  title: VP & Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Anders  Riis
+  title: Vice President of Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Morten  Dyrholm
+  title: Group Senior Vice President of Marketing, Communications & Public Affairs
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Javier Rodriguez Diez
+  title: Executive VP of Sales & Chief Sales Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anne  Pearce
+  title: Executive Vice President of People & Culture
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anders Jakob Vedel
+  title: Chief Scientific Advisor
+  unexercisedValue: 0
+  yearBorn: 1957
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Denmark
+cryptoTradeable: false
+currency: DKK
+currentPrice: 191.0
+currentRatio: 1.026
+customPriceAlertConfidence: HIGH
+dayHigh: 194.85
+dayLow: 179.95
+debtToEquity: 89.155
+dividendRate: 0.74
+dividendYield: 0.37
+earningsCallTimestampEnd: 1794387600
+earningsCallTimestampStart: 1794387600
+earningsGrowth: 8.333
+earningsQuarterlyGrowth: 7.75
+earningsTimestamp: 1794412800
+earningsTimestampEnd: 1794412800
+earningsTimestampStart: 1794412800
+ebitda: 2086000000
+ebitdaMargins: 0.10277
+enterpriseToEbitda: 93.545
+enterpriseToRevenue: 9.613
+enterpriseValue: 195134799872
+epsCurrentYear: 1.32968
+epsForward: 12.307107
+epsTrailingTwelveMonths: 8.22
+esgPopulated: false
+exDividendDate: 1775692800
+exchange: CPH
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Copenhagen
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 45 97 30 31 30
+fiftyDayAverage: 198.972
+fiftyDayAverageChange: -7.972
+fiftyDayAverageChangePercent: -0.04006594
+fiftyTwoWeekChangePercent: 21.023762
+fiftyTwoWeekHigh: 220.2
+fiftyTwoWeekHighChange: -29.199997
+fiftyTwoWeekHighChangePercent: -0.13260671
+fiftyTwoWeekLow: 147.05
+fiftyTwoWeekLowChange: 43.949997
+fiftyTwoWeekLowChangePercent: 0.2988779
+fiftyTwoWeekRange: 147.05 - 220.2
+financialCurrency: EUR
+firstTradeDateMilliseconds: 957942000000
+fiveYearAvgDividendYield: 0.45
+floatShares: 982188419
+forwardEps: 12.307107
+forwardPE: 15.519488
+freeCashflow: 521500000
+fullExchangeName: Copenhagen
+fullTimeEmployees: 39520
+fulldayChange: -7.600006
+fulldayChangePercent: -3.8267906
+fulldayPrice: 191.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.14745
+grossProfits: 2992999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00071000005
+heldPercentInstitutions: 0.52782
+impliedSharesOutstanding: 970107759
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+irWebsite: http://www.vestas.com/en/investor.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1775692800
+lastDividendValue: 0.74
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1619481600
+lastSplitFactor: '5:1'
+longBusinessSummary: Vestas Wind Systems A/S engages in the design, manufacture, installation,
+  and services of wind turbines the United States, Denmark, and internationally. It
+  operates through two segments, Power Solutions and Service. The Power Solutions
+  segment offers onshore and offshore wind power plants, wind turbines, development
+  sites, etc. The Service segment engages in the sale of service contracts, spare
+  parts, and related activities. Vestas Wind Systems A/S was founded in 1898 and is
+  headquartered in Aarhus, Denmark.
+longName: Vestas Wind Systems A/S
+market: dk_market
+marketCap: 185290588160
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_36246
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1103000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 192663400937
+numberOfAnalystOpinions: 24
+open: 187.5
+operatingCashflow: 2268000000
+operatingMargins: 0.07725
+overallRisk: 2
+payoutRatio: 0.090100005
+pegRatio: 0.52
+phone: 45 97 30 00 00
+previousClose: 198.6
+priceEpsCurrentYear: 143.64359
+priceHint: 2
+priceToBook: 6.3461447
+priceToSalesTrailing12Months: 9.128514
+profitMargins: 0.05434
+quickRatio: 0.606
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.16
+region: US
+regularMarketChange: -7.600006
+regularMarketChangePercent: -3.8267906
+regularMarketDayHigh: 194.85
+regularMarketDayLow: 179.95
+regularMarketDayRange: 179.95 - 194.85
+regularMarketOpen: 187.5
+regularMarketPreviousClose: 198.6
+regularMarketPrice: 191.0
+regularMarketTime: 1794412477
+regularMarketVolume: 6613807
+returnOnAssets: 0.0375
+returnOnEquity: 0.30938998
+revenueGrowth: 0.261
+revenuePerShare: 19.798
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 970107759
+shortName: Vestas Wind Systems A/S
+sourceInterval: 15
+symbol: VWS.CO
+targetHighPrice: 294.85617
+targetLowPrice: 90.00502
+targetMeanPrice: 217.0184
+targetMedianPrice: 235.01103
+totalCash: 3627000064
+totalCashPerShare: 3.69
+totalDebt: 3535000064
+totalRevenue: 20298000384
+tradeable: false
+trailingAnnualDividendRate: 0.1
+trailingAnnualDividendYield: 0.0005035247
+trailingEps: 8.22
+trailingPE: 23.23601
+trailingPegRatio: 0.5233
+triggerable: true
+twoHundredDayAverage: 185.2395
+twoHundredDayAverageChange: 5.760498
+twoHundredDayAverageChangePercent: 0.031097569
+typeDisp: Equity
+volume: 6613807
+website: https://www.vestas.com
+zip: '8200'

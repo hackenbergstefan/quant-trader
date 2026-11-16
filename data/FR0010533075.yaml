@@ -1,0 +1,262 @@
+52WeekChange: 0.2802024
+SandP52WeekChange: 0.097798586
+address1: 37-39 rue de la Bienfaisance
+allTimeHigh: 20.4
+allTimeLow: 2.65
+ask: 0.0
+askSize: 0
+auditRisk: 5
+averageDailyVolume10Day: 704930
+averageDailyVolume3Month: 687926
+averageVolume: 687926
+averageVolume10days: 704930
+beta: 0.532
+bid: 0.0
+bidSize: 0
+boardRisk: 4
+bookValue: 4.503
+city: Paris
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Yann  Leriche
+  title: CEO & Vice-Chairman of the Board
+  totalPay: 1316576
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Geraldine  Perichon
+  title: CFO & Deputy CEO
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven  Moore
+  title: CEO of ElecLink and Group Chief Investments & Safety Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Claire  Piccolin
+  title: Company Secretary & Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anne-Sophie  de Faucigny
+  title: Group Chief Communication Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nicola  Lyons
+  title: Group Chief Human Resources Officer
+  unexercisedValue: 0
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Keefe
+  title: Group Chief Corporate & Public Affairs Officer
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frédéric  Riga
+  title: Chief Digital Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Deborah  Merrens
+  title: Chief Commercial & Marketing Officer of Eurotunnel
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Guillaume  Rault
+  title: Chief Operating Officer of Eurotunnel
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 20.26
+currentRatio: 2.692
+customPriceAlertConfidence: LOW
+dayHigh: 20.3
+dayLow: 20.16
+debtToEquity: 217.021
+dividendRate: 0.8
+dividendYield: 3.95
+earningsGrowth: 0.044
+earningsQuarterlyGrowth: 0.044
+earningsTimestampEnd: 1772123400
+earningsTimestampStart: 1772123400
+ebitda: 877000000
+ebitdaMargins: 0.50694
+enterpriseToEbitda: 17.018
+enterpriseToRevenue: 8.627
+enterpriseValue: 14924475392
+epsCurrentYear: 0.58129
+epsForward: 0.63448
+epsTrailingTwelveMonths: 0.6
+esgPopulated: false
+exDividendDate: 1780358400
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 19.0312
+fiftyDayAverageChange: 1.2287998
+fiftyDayAverageChangePercent: 0.06456765
+fiftyTwoWeekChangePercent: 28.020239
+fiftyTwoWeekHigh: 20.4
+fiftyTwoWeekHighChange: -0.13999939
+fiftyTwoWeekHighChangePercent: -0.0068627154
+fiftyTwoWeekLow: 15.06
+fiftyTwoWeekLowChange: 5.2
+fiftyTwoWeekLowChangePercent: 0.3452855
+fiftyTwoWeekRange: 15.06 - 20.4
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1183359600000
+fiveYearAvgDividendYield: 1.15
+floatShares: 252149470
+forwardEps: 0.63448
+forwardPE: 31.931662
+freeCashflow: 282500000
+fullExchangeName: Paris
+fullTimeEmployees: 3626
+fulldayChange: 0.020000458
+fulldayChangePercent: 0.09871894
+fulldayPrice: 20.26
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.5185
+grossProfits: 897000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.46793
+heldPercentInstitutions: 0.23261999
+impliedSharesOutstanding: 542547073
+industry: Railroads
+industryDisp: Railroads
+industryKey: railroads
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1780358400
+lastDividendValue: 0.8
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1209513600
+lastSplitFactor: '2:1'
+longBusinessSummary: Getlink SE, together with its subsidiaries, engages in the design,
+  finance, construction, and operation of fixed link infrastructure and transport
+  system in France and the United Kingdom. It operates through Eurotunnel, Europorte,
+  and ElecLink segments. The Eurotunnel segment operates tunnels of a length of approximately
+  50 kilometres each under the English Channel, as well as terminals at Folkestone
+  in the United Kingdom and the Coquelles in France. It also provides passenger shuttle
+  services for the transport of trucks, cars, motor homes, caravans, coaches, motorcycles,
+  trailers, commercial vans, and other vehicles. In addition, this segment manages
+  passenger trains and rail freight, as well as fixed equipment and related installations.
+  Its Europorte segment offers a range of integrated rail freight services, including
+  national and international haulage, local services for secondary lines, individual
+  junction management, infrastructure maintenance, and wagon loading and unloading
+  services. The ElecLink segment engages in the construction and operation of a 1-gigawatt
+  electricity interconnector between France and the Great Britain. The company also
+  engages in consultancy and custom services; professional training services for the
+  rail sector; and third-party retail, telecommunication cables, and property businesses,
+  as well as the sale of travel insurance products. The company was formerly known
+  as Groupe Eurotunnel S.E. and changed its name to Getlink SE in April 2018. Getlink
+  SE was founded in 1802 and is based in Paris, France.
+longName: Getlink SE
+market: fr_market
+marketCap: 10992004096
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_33737463
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 325000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 10937748991
+numberOfAnalystOpinions: 16
+open: 20.24
+operatingCashflow: 916000000
+operatingMargins: 0.38612998
+overallRisk: 3
+payoutRatio: 1.3333
+pegRatio: 0.55
+phone: 33 1 30 32 88 749
+previousClose: 20.24
+priceEpsCurrentYear: 34.853516
+priceHint: 2
+priceToBook: 4.499223
+priceToSalesTrailing12Months: 6.35376
+profitMargins: 0.18786
+quickRatio: 2.669
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 0.020000458
+regularMarketChangePercent: 0.09871894
+regularMarketDayHigh: 20.3
+regularMarketDayLow: 20.16
+regularMarketDayRange: 20.16 - 20.3
+regularMarketOpen: 20.24
+regularMarketPreviousClose: 20.24
+regularMarketPrice: 20.26
+regularMarketTime: 1794411450
+regularMarketVolume: 117896
+returnOnAssets: 0.047319997
+returnOnEquity: 0.13260001
+revenueGrowth: 0.108
+revenuePerShare: 3.192
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 6
+sharesOutstanding: 542547073
+shortName: GETLINK SE
+sourceInterval: 15
+symbol: GET.PA
+targetHighPrice: 23.0
+targetLowPrice: 14.0
+targetMeanPrice: 19.90312
+targetMedianPrice: 19.675
+totalCash: 1360999936
+totalCashPerShare: 2.509
+totalDebt: 5304000000
+totalRevenue: 1730000000
+tradeable: false
+trailingAnnualDividendRate: 0.8
+trailingAnnualDividendYield: 0.03952569
+trailingEps: 0.6
+trailingPE: 33.766666
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 18.62505
+twoHundredDayAverageChange: 1.6349506
+twoHundredDayAverageChangePercent: 0.08778235
+typeDisp: Equity
+volume: 117896
+website: https://www.getlinkgroup.com
+zip: '75008'

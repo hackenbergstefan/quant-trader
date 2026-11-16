@@ -1,0 +1,275 @@
+52WeekChange: 0.05850911
+SandP52WeekChange: 0.097798586
+address1: 1307 Point Street
+allTimeHigh: 224.56
+allTimeLow: 0.546875
+ask: 115.14
+askSize: 1
+auditRisk: 7
+averageAnalystRating: 3.4 - Hold
+averageDailyVolume10Day: 2359160
+averageDailyVolume3Month: 1751365
+averageVolume: 1751365
+averageVolume10days: 2359160
+beta: 1.446
+bid: 105.19
+bidSize: 1
+boardRisk: 8
+bookValue: 53.303
+city: Baltimore
+companyOfficers:
+- age: 54
+  exercisedValue: 42142
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert W. Sharps C.F.A., CPA
+  title: CEO & Chair of the Board
+  totalPay: 8844103
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric Lanoue Veiel C.F.A.
+  title: President, Co-Head of Global Investments & Chief Investment Officer
+  totalPay: 6094451
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Glenn Russell August
+  title: Founder, VP & Director
+  totalPay: 8717502
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer Benson Dardis
+  title: CFO & Treasurer
+  totalPay: 2823234
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 48
+  exercisedValue: 394318
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sébastien  Page C.F.A.
+  title: Co-Head of Global Investments & Chief Investment Officer
+  totalPay: 4703361
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ramon  Richards
+  title: CTO, Global Head of Technology, Data & Operations
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jessica M. Hiebler
+  title: Principal Accounting Officer, Controller & VP
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Linsley  Carruth
+  title: Director of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Oestreicher Esq., J.D.
+  title: General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Pedersen
+  title: Managing Director of Sales & Client Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 110.3068
+currentRatio: 3.614
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 111.03
+dayLow: 109.3
+debtToEquity: 6.674
+displayName: T. Rowe Price
+dividendDate: 1798502400
+dividendRate: 5.2
+dividendYield: 4.69
+earningsCallTimestampEnd: 1793275200
+earningsCallTimestampStart: 1793275200
+earningsGrowth: -0.028
+earningsQuarterlyGrowth: -0.052
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 3050899968
+ebitdaMargins: 0.39605
+enterpriseToEbitda: 7.2
+enterpriseToRevenue: 2.852
+enterpriseValue: 21967446016
+epsCurrentYear: 10.29191
+epsForward: 10.14348
+epsTrailingTwelveMonths: 9.88
+esgPopulated: false
+exDividendDate: 1797379200
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 105.2412
+fiftyDayAverageChange: 5.0655975
+fiftyDayAverageChangePercent: 0.048133217
+fiftyTwoWeekChangePercent: 5.850911
+fiftyTwoWeekHigh: 122.0
+fiftyTwoWeekHighChange: -11.693199
+fiftyTwoWeekHighChangePercent: -0.09584589
+fiftyTwoWeekLow: 85.22
+fiftyTwoWeekLowChange: 25.0868
+fiftyTwoWeekLowChangePercent: 0.2943769
+fiftyTwoWeekRange: 85.22 - 122.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 512836200000
+fiveYearAvgDividendYield: 4.22
+floatShares: 209217272
+forwardEps: 10.14348
+forwardPE: 10.87465
+freeCashflow: 2093425024
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 7640
+fulldayChange: -0.5932007
+fulldayChangePercent: -0.5348969
+fulldayPrice: 110.3068
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.52248
+grossProfits: 4024900096
+hasPrePostMarketData: true
+heldPercentInsiders: 0.01702
+heldPercentInstitutions: 0.91980004
+impliedSharesOutstanding: 213325929
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+irWebsite: http://trow.client.shareholder.com/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789430400
+lastDividendValue: 1.3
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1151280000
+lastSplitFactor: '2:1'
+longBusinessSummary: T. Rowe Price Group, Inc. is a publicly owned investment manager.
+  The firm provides its services to individuals, institutional investors, retirement
+  plans, financial intermediaries, and institutions. It launches and manages equity
+  and fixed income mutual funds. The firm invests in the public equity and fixed income
+  markets across the globe. It employs fundamental and quantitative analysis with
+  a bottom-up approach. The firm utilizes in-house and external research to make its
+  investments. It employs socially responsible investing with a focus on environmental,
+  social, and governance issues. It makes investment in late-stage venture capital
+  transactions and usually invests between $3 million and $5 million. The firm was
+  previously known as T. Rowe Group, Inc. and T. Rowe Price Associates, Inc. T. Rowe
+  Price Group, Inc. was founded in 1937 and is based in Baltimore, Maryland, with
+  additional offices in North America, Europe, Asia, Australia.
+longName: T. Rowe Price Group, Inc.
+market: us_market
+marketCap: 23531300864
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_23217
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2131000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 23657845526
+numberOfAnalystOpinions: 13
+open: 111.03
+operatingCashflow: 1866200064
+operatingMargins: 0.342
+overallRisk: 8
+payoutRatio: 0.5233
+pegRatio: 2.28
+phone: 410 345 2000
+previousClose: 110.9
+priceEpsCurrentYear: 10.717816
+priceHint: 2
+priceToBook: 2.0694294
+priceToSalesTrailing12Months: 3.0546644
+profitMargins: 0.284
+quickRatio: 3.614
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.35714
+region: US
+regularMarketChange: -0.5932007
+regularMarketChangePercent: -0.5348969
+regularMarketDayHigh: 111.03
+regularMarketDayLow: 109.3
+regularMarketDayRange: 109.3 - 111.03
+regularMarketOpen: 111.03
+regularMarketPreviousClose: 110.9
+regularMarketPrice: 110.3068
+regularMarketTime: 1794413714
+regularMarketVolume: 315945
+returnOnAssets: 0.10665
+returnOnEquity: 0.18202
+revenueGrowth: 0.059
+revenuePerShare: 35.709
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 7
+sharesOutstanding: 213325929
+sharesPercentSharesOut: 0.1276
+sharesShort: 27221848
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 26898202
+shortName: T. Rowe Price Group, Inc.
+shortPercentOfFloat: 0.1481
+shortRatio: 12.71
+sourceInterval: 15
+state: MD
+symbol: TROW
+targetHighPrice: 116.0
+targetLowPrice: 89.0
+targetMeanPrice: 105.38462
+targetMedianPrice: 107.0
+totalCash: 3774299904
+totalCashPerShare: 17.693
+totalDebt: 841800000
+totalRevenue: 7703399936
+tradeable: false
+trailingAnnualDividendRate: 5.17
+trailingAnnualDividendYield: 0.046618577
+trailingEps: 9.88
+trailingPE: 11.164656
+trailingPegRatio: 2.277
+triggerable: true
+twoHundredDayAverage: 103.79205
+twoHundredDayAverageChange: 6.5147476
+twoHundredDayAverageChangePercent: 0.062767304
+typeDisp: Equity
+volume: 315945
+website: https://www.troweprice.com
+zip: '21231'

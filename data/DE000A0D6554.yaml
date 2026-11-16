@@ -1,0 +1,225 @@
+52WeekChange: 0.48074174
+SandP52WeekChange: 0.097798586
+address1: Langenhorner Chaussee 600
+allTimeHigh: 97.062164
+allTimeLow: 1.258051
+ask: 41.4
+askSize: 315
+auditRisk: 5
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 634381
+averageDailyVolume3Month: 549779
+averageVolume: 549779
+averageVolume10days: 634381
+beta: 1.13
+bid: 41.32
+bidSize: 180
+boardRisk: 7
+bookValue: 6.749
+city: Hamburg
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jose Luis Blanco Diéguez
+  title: Chairman of Management Board & CEO
+  totalPay: 1843072
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Ilya  Hartmann Ph.D.
+  title: CFO & Member of Management Board
+  totalPay: 1394116
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Anja  Siehler
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ralf  Peters
+  title: Head of Corporate Communications
+  unexercisedValue: 0
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kumar Manav Sharma
+  title: Chief Executive Officer of North America
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  McComas
+  title: Chief Operating Officer of North America
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ibrahim  Oezarslan
+  title: Chief Commercial Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 41.34
+currentRatio: 1.223
+customPriceAlertConfidence: LOW
+dayHigh: 42.3
+dayLow: 40.78
+debtToEquity: 28.049
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793883600
+earningsCallTimestampStart: 1793883600
+earningsGrowth: 1.695
+earningsQuarterlyGrowth: 1.845
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 960796032
+ebitdaMargins: 0.11314
+enterpriseToEbitda: 8.291
+enterpriseToRevenue: 0.938
+enterpriseValue: 7966393856
+epsCurrentYear: 2.36272
+epsForward: 2.75272
+epsTrailingTwelveMonths: 1.94
+esgPopulated: false
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 40 300 30 1101
+fiftyDayAverage: 38.456
+fiftyDayAverageChange: 2.8839989
+fiftyDayAverageChangePercent: 0.074994765
+fiftyTwoWeekChangePercent: 48.074173
+fiftyTwoWeekHigh: 51.7
+fiftyTwoWeekHighChange: -10.360001
+fiftyTwoWeekHighChangePercent: -0.20038685
+fiftyTwoWeekLow: 24.94
+fiftyTwoWeekLowChange: 16.4
+fiftyTwoWeekLowChangePercent: 0.6575782
+fiftyTwoWeekRange: 24.94 - 51.7
+financialCurrency: EUR
+firstTradeDateMilliseconds: 986454000000
+floatShares: 118535354
+forwardEps: 2.75272
+forwardPE: 15.017873
+freeCashflow: 618603264
+fullExchangeName: XETRA
+fullTimeEmployees: 12376
+fulldayChange: -0.1800003
+fulldayChangePercent: -0.43352675
+fulldayPrice: 41.34
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.27094
+grossProfits: 2300894976
+hasPrePostMarketData: false
+heldPercentInsiders: 0.47
+heldPercentInstitutions: 0.42602003
+impliedSharesOutstanding: 236880554
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1113177600
+lastSplitFactor: '1:10'
+longBusinessSummary: Nordex SE, together with its subsidiaries, develops, manufactures,
+  and distributes multi-megawatt onshore wind turbines in Europe, North America, Latin
+  America, and internationally. It operates in Projects and Services segments. The
+  company offers Delta4000 and Delta series turbine platforms. It also provides project
+  development; maintenance and repair; spare parts; remote monitoring services for
+  wind farms; upgrades; and technical and efficiency enhancements for existing turbines.
+  Nordex SE was incorporated in 1985 and is headquartered in Hamburg, Germany with
+  a production facility in Izmir, Türkiye.
+longName: Nordex SE
+market: de_market
+marketCap: 9792642048
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_5060870
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 496284992
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 10176388599
+numberOfAnalystOpinions: 15
+open: 41.1
+operatingCashflow: 1177570944
+operatingMargins: 0.10058
+overallRisk: 8
+payoutRatio: 0.0
+pegRatio: 1.5
+phone: 49 40 300 30 1000
+previousClose: 41.52
+priceEpsCurrentYear: 17.496784
+priceHint: 2
+priceToBook: 6.125352
+priceToSalesTrailing12Months: 1.1531149
+profitMargins: 0.05844
+quickRatio: 0.885
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.73333
+region: US
+regularMarketChange: -0.1800003
+regularMarketChangePercent: -0.43352675
+regularMarketDayHigh: 42.3
+regularMarketDayLow: 40.78
+regularMarketDayRange: 40.78 - 42.3
+regularMarketOpen: 41.1
+regularMarketPreviousClose: 41.52
+regularMarketPrice: 41.34
+regularMarketTime: 1794411540
+regularMarketVolume: 171847
+returnOnAssets: 0.07919
+returnOnEquity: 0.36991
+revenueGrowth: 0.282
+revenuePerShare: 35.879
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 236880554
+shortName: Nordex SE                     I
+sourceInterval: 15
+symbol: NDX1.DE
+targetHighPrice: 63.0
+targetLowPrice: 36.0
+targetMeanPrice: 51.06667
+targetMedianPrice: 53.5
+totalCash: 2326535936
+totalCashPerShare: 9.822
+totalDebt: 450487008
+totalRevenue: 8492338176
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 1.94
+trailingPE: 21.309278
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 41.0438
+twoHundredDayAverageChange: 0.2961998
+twoHundredDayAverageChangePercent: 0.0072166757
+typeDisp: Equity
+volume: 171847
+website: https://www.nordex-online.com
+zip: '22419'

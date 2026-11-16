@@ -1,0 +1,279 @@
+52WeekChange: -0.008732557
+SandP52WeekChange: 0.097798586
+address1: 1600 Amphitheatre Parkway
+allTimeHigh: 404.47
+allTimeLow: 2.390042
+ask: 300.0
+askSize: 1
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 36278870
+averageDailyVolume3Month: 19323421
+averageVolume: 19323421
+averageVolume10days: 36278870
+beta: 1.226
+bid: 288.0
+bidSize: 1
+bookValue: 53.646
+city: Mountain View
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sundar  Pichai
+  title: CEO & Director
+  totalPay: 10906079
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ruth M. Porat
+  title: President & Chief Investment Officer
+  totalPay: 1015596
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Lawrence Edward Page II
+  title: Co-Founder & Director
+  totalPay: 1
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sergey  Brin
+  title: Co-Founder & Director
+  totalPay: 1
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anat  Ashkenazi
+  title: Senior VP & CFO
+  totalPay: 1087961
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. J. Kent Walker
+  title: President of Global Affairs, Chief Legal Officer & Company Secretary
+  totalPay: 1015596
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philipp  Schindler
+  title: Senior Vice President & Chief Business Officer of Google
+  totalPay: 1623997
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marsida  Saraci
+  title: Principal Accounting Officer, VP & Controller
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Sir Demis  Hassabis Ph.D.
+  title: Chief Scientist
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James H. Friedland
+  title: Head of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+corporateActions:
+- header: Dividend
+  message: GOOG announced a cash dividend of $0.22 with an ex-date of Dec. 7, 2026
+  meta:
+    amount: '0.22'
+    dateEpochMs: 1796619600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 289.225
+currentRatio: 2.786
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 289.58
+dayLow: 286.9
+debtToEquity: 22.187
+displayName: Alphabet
+dividendDate: 1797206400
+dividendRate: 0.88
+dividendYield: 0.31
+earningsCallTimestampEnd: 1793219400
+earningsCallTimestampStart: 1793219400
+earningsGrowth: -0.253
+earningsQuarterlyGrowth: -0.243
+earningsTimestamp: 1793217600
+earningsTimestampEnd: 1793217600
+earningsTimestampStart: 1793217600
+ebitda: 185515999232
+ebitdaMargins: 0.39379
+enterpriseToEbitda: 18.36
+enterpriseToRevenue: 7.23
+enterpriseValue: 3406062419968
+epsCurrentYear: 13.08946
+epsForward: 15.43511
+epsTrailingTwelveMonths: 19.15
+esgPopulated: false
+exDividendDate: 1796601600
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 327.6384
+fiftyDayAverageChange: -38.41339
+fiftyDayAverageChangePercent: -0.11724325
+fiftyTwoWeekChangePercent: -0.8732557
+fiftyTwoWeekHigh: 404.47
+fiftyTwoWeekHighChange: -115.244995
+fiftyTwoWeekHighChangePercent: -0.2849284
+fiftyTwoWeekLow: 271.41
+fiftyTwoWeekLowChange: 17.815002
+fiftyTwoWeekLowChangePercent: 0.065638706
+fiftyTwoWeekRange: 271.41 - 404.47
+financialCurrency: USD
+firstTradeDateMilliseconds: 1092922200000
+floatShares: 10951741080
+forwardEps: 15.43511
+forwardPE: 18.738125
+freeCashflow: -1162499968
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 204757
+fulldayChange: 4.3049927
+fulldayChangePercent: 1.5109478
+fulldayPrice: 289.225
+gmtOffSetMilliseconds: -18000000
+grossMargins: 0.60857
+grossProfits: 286698012672
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0051700003
+heldPercentInstitutions: 0.61642
+impliedSharesOutstanding: 12294000000
+industry: Internet Content & Information
+industryDisp: Internet Content & Information
+industryKey: internet-content-information
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788480000
+lastDividendValue: 0.22
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1658102400
+lastSplitFactor: '20:1'
+longBusinessSummary: Alphabet Inc. offers various products and platforms in the United
+  States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America.
+  It operates through Google Services, Google Cloud, and Other Bets segments. The
+  Google Services segment provides products and services, including ads, Android,
+  Chrome, devices, Gmail, Google Drive, Google Maps, Google Photos, Google Play, Search,
+  and YouTube. It is also involved in the sale of apps and in-app purchases and digital
+  content in Google Play and YouTube; and devices, as well as the provision of YouTube
+  consumer subscription services, such as YouTube TV, YouTube Music and Premium, NFL
+  Sunday Ticket, and Google One. The Google Cloud segment offers consumption-based
+  fees and subscriptions for AI solutions, including AI infrastructure, Vertex AI
+  platform, and Gemini enterprise. It also provides cybersecurity, and data and analytics
+  services; Google Workspace that include cloud-based communication and collaboration
+  tools for enterprises, such as Calendar, Gmail, Docs, Drive, and Meet; and other
+  enterprise services. The Other Bets segment sells transportation and internet services.
+  Alphabet Inc. was incorporated in 1998 and is headquartered in Mountain View, California.
+longName: Alphabet Inc.
+market: us_market
+marketCap: 3555732226048
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_29096
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 235693621248
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 3519325380000
+numberOfAnalystOpinions: 14
+open: 287.565
+operatingCashflow: 179550994432
+operatingMargins: 0.33321
+payoutRatio: 0.044899996
+pegRatio: 1.01
+phone: 650-253-0000
+previousClose: 284.92
+priceEpsCurrentYear: 22.096022
+priceHint: 2
+priceToBook: 5.391362
+priceToSalesTrailing12Months: 7.547755
+profitMargins: 0.50031
+quickRatio: 2.512
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.38333
+region: US
+regularMarketChange: 4.3049927
+regularMarketChangePercent: 1.5109478
+regularMarketDayHigh: 289.58
+regularMarketDayLow: 286.9
+regularMarketDayRange: 286.9 - 289.58
+regularMarketOpen: 287.565
+regularMarketPreviousClose: 284.92
+regularMarketPrice: 289.225
+regularMarketTime: 1794413735
+regularMarketVolume: 5894933
+returnOnAssets: 0.12743
+returnOnEquity: 0.44286
+revenueGrowth: 0.247
+revenuePerShare: 38.789
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+sharesOutstanding: 5579000000
+sharesPercentSharesOut: 0.0049
+sharesShort: 59796131
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 51856041
+shortName: Alphabet Inc.
+shortRatio: 2.79
+sourceInterval: 15
+state: CA
+symbol: GOOG
+targetHighPrice: 460.0
+targetLowPrice: 340.0
+targetMeanPrice: 393.92856
+targetMedianPrice: 380.0
+totalCash: 265098002432
+totalCashPerShare: 21.563
+totalDebt: 150330998784
+totalRevenue: 471097999360
+tradeable: false
+trailingAnnualDividendRate: 0.86
+trailingAnnualDividendYield: 0.003018391
+trailingEps: 19.15
+trailingPE: 15.103134
+trailingPegRatio: 1.0064
+triggerable: true
+twoHundredDayAverage: 337.0687
+twoHundredDayAverageChange: -47.84369
+twoHundredDayAverageChangePercent: -0.14194047
+typeDisp: Equity
+volume: 5894933
+website: https://abc.xyz
+zip: '94043'

@@ -1,0 +1,241 @@
+52WeekChange: 0.1712439
+SandP52WeekChange: 0.097798586
+address1: 16 Bartley Wood Business Park
+address2: Bartley Way
+allTimeHigh: 558.3278
+allTimeLow: 6.1446
+ask: 287.6
+askSize: 0
+auditRisk: 9
+averageDailyVolume10Day: 1848392
+averageDailyVolume3Month: 1832827
+averageVolume: 1832827
+averageVolume10days: 1848392
+beta: 0.547
+bid: 287.2
+bidSize: 0
+boardRisk: 2
+bookValue: 0.878
+city: Hook
+companyOfficers:
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anthony Andrew Kirby
+  title: Group Chief Executive & Director
+  totalPay: 2000810
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark James Reid
+  title: CFO & Director
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tom  Read
+  title: Group Chief Digital & Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amanda  Miller
+  title: Group General Counsel & Company Secretary
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Gillian  Duggan M.D.
+  title: Group Chief People & Culture Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Phil  Malem
+  title: Chief Executive Officer of Serco Middle East
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew  Head B.A.
+  title: Chief Executive Officer of Serco Asia Pacific
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Teren  Tan
+  title: Head of Emergency Services for the Middle East
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hana  Abu Kharmeh
+  title: Chief Operating Officer of Shared Services
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 287.4
+currentRatio: 0.922
+customPriceAlertConfidence: LOW
+dayHigh: 292.572
+dayLow: 286.4
+debtToEquity: 104.162
+dividendRate: 0.05
+dividendYield: 1.6
+earningsCallTimestampEnd: 1786006800
+earningsCallTimestampStart: 1786006800
+earningsGrowth: 0.105
+earningsQuarterlyGrowth: 0.084
+earningsTimestampEnd: 1786030200
+earningsTimestampStart: 1786030200
+ebitda: 268400000
+ebitdaMargins: 0.054050002
+enterpriseToEbitda: 13.398
+enterpriseToRevenue: 0.724
+enterpriseValue: 3596150016
+epsCurrentYear: 0.18958
+epsForward: 0.20545
+epsTrailingTwelveMonths: 0.15
+esgPopulated: false
+exDividendDate: 1787788800
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fax: 44 1256 744111
+fiftyDayAverage: 264.928
+fiftyDayAverageChange: 22.471985
+fiftyDayAverageChangePercent: 0.08482298
+fiftyTwoWeekChangePercent: 17.12439
+fiftyTwoWeekHigh: 325.8
+fiftyTwoWeekHighChange: -38.399994
+fiftyTwoWeekHighChangePercent: -0.11786371
+fiftyTwoWeekLow: 218.4
+fiftyTwoWeekLowChange: 69.0
+fiftyTwoWeekLowChangePercent: 0.31593406
+fiftyTwoWeekRange: 218.4 - 325.8
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 1.77
+floatShares: 978009795
+forwardEps: 0.20545
+forwardPE: 13.988805
+freeCashflow: 361200000
+fullExchangeName: LSE
+fullTimeEmployees: 54000
+fulldayChange: -2.600006
+fulldayChangePercent: -0.8965538
+fulldayPrice: 287.4
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.10435
+grossProfits: 518200000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.01153
+heldPercentInstitutions: 0.63496
+impliedSharesOutstanding: 956638164
+industry: Specialty Business Services
+industryDisp: Specialty Business Services
+industryKey: specialty-business-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787788800
+lastDividendValue: 0.016
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 955324800
+lastSplitFactor: '5:1'
+longBusinessSummary: Serco Group plc provides public services in the United Kingdom,
+  Europe, North America, the Asia Pacific, and the Middle East. It offers service
+  design and advisory, resourcing, programme management, systems integration, case
+  management, engineering, and assets and facilities management services. The company
+  also provides administrative and back office, asylum seeker accommodation or passenger
+  transport services; and supports in the decarbonization journeys of customers. It
+  serves the United Kingdom and Canadian governments, devolved authorities, and other
+  public sector customers; and federal and civilian agencies, and various state and
+  municipal governments in citizen services, defense, health and other facilities
+  management, justice and immigration, and transport sectors. Serco Group plc was
+  founded in 1929 and is based in Hook, the United Kingdom.
+longName: Serco Group plc
+market: gb_market
+marketCap: 2749378048
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_877582
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 153000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 2774250675
+numberOfAnalystOpinions: 12
+open: 290.4
+operatingCashflow: 434000000
+operatingMargins: 0.04481
+overallRisk: 2
+payoutRatio: 0.3006
+phone: 44 1256 745900
+previousClose: 290.0
+priceEpsCurrentYear: 1515.9827
+priceHint: 2
+priceToBook: 3.2733483
+priceToSalesTrailing12Months: 0.55366266
+profitMargins: 0.03081
+quickRatio: 0.899
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -2.600006
+regularMarketChangePercent: -0.8965538
+regularMarketDayHigh: 292.572
+regularMarketDayLow: 286.4
+regularMarketDayRange: 286.4 - 292.572
+regularMarketOpen: 290.4
+regularMarketPreviousClose: 290.0
+regularMarketPrice: 287.4
+regularMarketTime: 1794411358
+regularMarketVolume: 272882
+returnOnAssets: 0.048850004
+returnOnEquity: 0.17576
+revenueGrowth: 0.037
+revenuePerShare: 4.966
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 956638164
+shortName: SERCO GROUP PLC ORD 2P
+sourceInterval: 15
+symbol: SRP.L
+targetHighPrice: 412.0
+targetLowPrice: 140.0
+targetMeanPrice: 317.917
+targetMedianPrice: 327.0
+totalCash: 182200000
+totalCashPerShare: 0.184
+totalDebt: 905900032
+totalRevenue: 4965799936
+tradeable: false
+trailingAnnualDividendRate: 0.047
+trailingAnnualDividendYield: 0.00016206896
+trailingEps: 0.15
+trailingPE: 19.159998
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 269.661
+twoHundredDayAverageChange: 17.738983
+twoHundredDayAverageChangePercent: 0.06578253
+typeDisp: Equity
+volume: 272882
+website: https://www.serco.com
+zip: RG27 9UY

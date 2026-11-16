@@ -1,0 +1,273 @@
+52WeekChange: 0.18914795
+SandP52WeekChange: 0.097798586
+address1: Waterloo House
+address2: Ground Floor 100 Pitts Bay Road
+allTimeHigh: 116.47
+allTimeLow: 1.222222
+ask: 116.82
+askSize: 2
+auditRisk: 6
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 2153070
+averageDailyVolume3Month: 2885954
+averageVolume: 2885954
+averageVolume10days: 2153070
+beta: 0.194
+bid: 99.25
+bidSize: 2
+boardRisk: 4
+bookValue: 68.193
+city: Pembroke
+companyOfficers:
+- age: 63
+  exercisedValue: 706130
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nicolas Alain Emmanuel Papadopoulo
+  title: CEO & Director
+  totalPay: 7285628
+  unexercisedValue: 30243432
+  yearBorn: 1962
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Maamoun Jamil Rajeh
+  title: President
+  totalPay: 4826231
+  unexercisedValue: 20120932
+  yearBorn: 1970
+- age: 58
+  exercisedValue: 955869
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Francois  Morin
+  title: Executive VP, CFO & Treasurer
+  totalPay: 3721770
+  unexercisedValue: 18800476
+  yearBorn: 1967
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christine Lee Todd CFA
+  title: Executive VP & Chief Investment Officer
+  totalPay: 3615726
+  unexercisedValue: 2745698
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Prashant  Nema
+  title: Executive VP & COO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Linda Marie Fallon
+  title: Executive Vice President of Travel, Accident & Health of Arch Insurance North
+    America
+  unexercisedValue: 0
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Seamus  Fearon
+  title: Chief Executive Officer of International Mortgage
+  unexercisedValue: 0
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Greg  Habay
+  title: MD and Head of Business Development & ILS Partners Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Matthew  Smith
+  title: Managing Director of Arch Insurance Bermuda
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sebastian  Terry
+  title: Head of Accident & Health
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Bermuda
+cryptoTradeable: false
+currency: USD
+currentPrice: 107.895
+currentRatio: 0.577
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 108.55
+dayLow: 107.38
+debtToEquity: 18.641
+displayName: Arch Capital
+dividendDate: 1733270400
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793196000
+earningsCallTimestampStart: 1793196000
+earningsGrowth: -0.157
+earningsQuarterlyGrowth: -0.233
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1793131200
+earningsTimestampStart: 1793131200
+ebitda: 5224999936
+ebitdaMargins: 0.27825
+enterpriseToEbitda: 6.895
+enterpriseToRevenue: 1.918
+enterpriseValue: 36024893440
+epsCurrentYear: 10.23157
+epsForward: 9.97777
+epsTrailingTwelveMonths: 12.23
+esgPopulated: false
+exDividendDate: 1731888000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 441 278 9255
+fiftyDayAverage: 99.2476
+fiftyDayAverageChange: 8.6474
+fiftyDayAverageChangePercent: 0.08712956
+fiftyTwoWeekChangePercent: 18.914795
+fiftyTwoWeekHigh: 113.63
+fiftyTwoWeekHighChange: -5.7350006
+fiftyTwoWeekHighChangePercent: -0.050470833
+fiftyTwoWeekLow: 87.05
+fiftyTwoWeekLowChange: 20.844994
+fiftyTwoWeekLowChangePercent: 0.23945999
+fiftyTwoWeekRange: 87.05 - 113.63
+financialCurrency: USD
+firstTradeDateMilliseconds: 811085400000
+floatShares: 311198875
+forwardEps: 9.97777
+forwardPE: 10.813539
+freeCashflow: 3900875008
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 8000
+fulldayChange: -1.2450027
+fulldayChangePercent: -1.1407392
+fulldayPrice: 107.895
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.3764
+grossProfits: 7068000256
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0292
+heldPercentInstitutions: 0.95764
+impliedSharesOutstanding: 325525336
+industry: Insurance - Diversified
+industryDisp: Insurance - Diversified
+industryKey: insurance-diversified
+irWebsite: http://www.archcapgroup.bm/InvestorRelations.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1731888000
+lastDividendValue: 5.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1529539200
+lastSplitFactor: '3:1'
+longBusinessSummary: 'Arch Capital Group Ltd., together with its subsidiaries, provides
+  insurance, reinsurance, and mortgage insurance products in the United States, Canada,
+  Bermuda, the United Kingdom, Europe, and Australia. The company operates through
+  three segments: Insurance, Reinsurance, and Mortgage. The Insurance segment offers
+  commercial automobile; commercial multiperil; financial and professional line liability;
+  admitted, excess, and surplus casualty lines; property and short-tail specialty;
+  workers compensation; and casualty insurance. Its Reinsurance segment provides reinsurance
+  products for casualty; marine and aviation; property catastrophe; property excluding
+  property catastrophe; and other specialty products. The Mortgage segment offers
+  U.S. primary mortgage insurance business written predominantly on loans sold to
+  the Federal National Mortgage Association and Federal Home Loan Mortgage Corporation;
+  reinsurance and underwriting services related to the U.S. credit-risk transfer business
+  and other U.S. mortgage reinsurance transactions; and international mortgage insurance
+  and reinsurance business covering loans. It markets its products through a group
+  of licensed independent retail and wholesale brokers. The company was formerly known
+  as Risk Capital Holdings, Inc. Arch Capital Group Ltd. was founded in 1995 and is
+  headquartered in Pembroke, Bermuda.'
+longName: Arch Capital Group Ltd.
+market: us_market
+marketCap: 35122556928
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_346919
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4336999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 35527835171
+numberOfAnalystOpinions: 19
+open: 107.725
+operatingCashflow: 5672999936
+operatingMargins: 0.27096
+overallRisk: 5
+payoutRatio: 0.0
+pegRatio: 1.05
+phone: 441 278 9250
+previousClose: 109.14
+priceEpsCurrentYear: 10.545301
+priceHint: 2
+priceToBook: 1.5822004
+priceToSalesTrailing12Months: 1.87041
+profitMargins: 0.23309
+quickRatio: 0.275
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.3
+region: US
+regularMarketChange: -1.2450027
+regularMarketChangePercent: -1.1407392
+regularMarketDayHigh: 108.55
+regularMarketDayLow: 107.38
+regularMarketDayRange: 107.38 - 108.55
+regularMarketOpen: 107.725
+regularMarketPreviousClose: 109.14
+regularMarketPrice: 107.895
+regularMarketTime: 1794413712
+regularMarketVolume: 225616
+returnOnAssets: 0.03896
+returnOnEquity: 0.18741
+revenueGrowth: -0.089
+revenuePerShare: 53.983
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 8
+sharesOutstanding: 325525336
+sharesPercentSharesOut: 0.026800001
+sharesShort: 8722094
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7677465
+shortName: Arch Capital Group Ltd.
+shortPercentOfFloat: 0.0318
+shortRatio: 3.46
+sourceInterval: 15
+symbol: ACGL
+targetHighPrice: 140.0
+targetLowPrice: 97.0
+targetMeanPrice: 113.57895
+targetMedianPrice: 111.0
+totalCash: 4464999936
+totalCashPerShare: 13.776
+totalDebt: 4286000128
+totalRevenue: 18777999360
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 12.23
+trailingPE: 8.822159
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 97.38635
+twoHundredDayAverageChange: 10.508644
+twoHundredDayAverageChangePercent: 0.107906744
+typeDisp: Equity
+volume: 225616
+website: https://www.archgroup.com
+zip: HM 08

@@ -1,0 +1,262 @@
+52WeekChange: 0.02710247
+SandP52WeekChange: 0.097798586
+address1: Piazza Monte Grappa n. 4
+allTimeHigh: 66.26
+allTimeLow: 2.564
+ask: 50.57
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 2188652
+averageDailyVolume3Month: 1782279
+averageVolume: 1782279
+averageVolume10days: 2188652
+beta: 0.379
+bid: 50.53
+bidSize: 0
+boardRisk: 2
+bookValue: 17.243
+city: Rome
+companyOfficers:
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Lorenzo  Mariani
+  title: GM & CEO
+  totalPay: 1647000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Giuseppe  Aurilio
+  title: Chief Financial Officer
+  unexercisedValue: 0
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Angelo  Pansini
+  title: Chief Strategy & Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1960
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Francesco  Rogo
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Valeria  Ricciotti
+  title: Head of Investor Relations & Credit Rating Agencies
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Federico  Bonaiuto
+  title: General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Elena  Napolitano
+  title: Chief Compliance Officer
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Stefano  Amoroso
+  title: Chief Communication Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Giuseppe  Maresca
+  title: Senior Vice President of Marketing & Commercial Affairs
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Antonio  Liotti
+  title: Chief People & Organization Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1735603200
+compensationRisk: 1
+corporateActions: []
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 50.56
+currentRatio: 0.775
+customPriceAlertConfidence: LOW
+dayHigh: 52.25
+dayLow: 50.0
+debtToEquity: 39.85
+dividendRate: 0.63
+dividendYield: 1.22
+earningsCallTimestampEnd: 1793890800
+earningsCallTimestampStart: 1793890800
+earningsGrowth: 0.809
+earningsQuarterlyGrowth: 0.804
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 2729999872
+ebitdaMargins: 0.12753001
+enterpriseToEbitda: 12.569
+enterpriseToRevenue: 1.603
+enterpriseValue: 34314293248
+epsCurrentYear: 2.49773
+epsForward: 2.89639
+epsTrailingTwelveMonths: 2.13
+esgPopulated: false
+exDividendDate: 1782086400
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 39 06 3208621
+fiftyDayAverage: 49.3921
+fiftyDayAverageChange: 1.1679001
+fiftyDayAverageChangePercent: 0.023645483
+fiftyTwoWeekChangePercent: 2.710247
+fiftyTwoWeekHigh: 66.26
+fiftyTwoWeekHighChange: -15.700001
+fiftyTwoWeekHighChangePercent: -0.23694538
+fiftyTwoWeekLow: 44.25
+fiftyTwoWeekLowChange: 6.3100014
+fiftyTwoWeekLowChangePercent: 0.1425989
+fiftyTwoWeekRange: 44.25 - 66.26
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1121670000000
+fiveYearAvgDividendYield: 1.02
+floatShares: 576407176
+forwardEps: 2.89639
+forwardPE: 17.456213
+freeCashflow: 1629250048
+fullExchangeName: Milan
+fullTimeEmployees: 67313
+fulldayChange: -0.97999954
+fulldayChangePercent: -1.9014349
+fulldayPrice: 50.56
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.38209
+grossProfits: 8178999808
+hasPrePostMarketData: false
+heldPercentInsiders: 0.30200002
+heldPercentInstitutions: 0.34183997
+impliedSharesOutstanding: 576797352
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1782086400
+lastDividendValue: 0.63
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1121644800
+lastSplitFactor: '1:20'
+longBusinessSummary: "Leonardo S.p.a., an industrial and technological company, engages\
+  \ in the helicopters, defense electronics and security, cyber security and solutions,\
+  \ aircraft, aerostructures, and space sectors in Italy, the United Kingdom, rest\
+  \ of Europe, the United States of America, and internationally. It offers a range\
+  \ of helicopters for battlefield/personnel recovery, combat, maritime, training,\
+  \ VIP/executive transport, medical and rescue, energy, security, and utility services,\
+  \ as well as provides support and training services. The company also provides trainers,\
+  \ fighters, multi-mission transport, and multi-mission surveillance aircraft; command\
+  \ and controls, radars and sensors, optronics, communication systems, electronic\
+  \ warfare, avionics, defense system, and air traffic management; defense systems\
+  \ comprising turrets and canons, munitions, and torpedoes; and cyber security and\
+  \ resilience, critical communications, digitalization, and global monitoring solutions.\
+  \ In addition, it offers geoinformation, satellite communications, ground systems,\
+  \ navigation, and satellite operations; interplanetary probes and orbiting modules;\
+  \ and robotics and drilling, electro-optics, laser transmitters, atomic clocks,\
+  \ photovoltaic panels, power distributors and amplifiers, attitude sensors, and\
+  \ orbital micro propulsion. Further, the company engages in the production and assembly\
+  \ of major structural composite and metallic components for commercial and military\
+  \ aircraft, helicopters, and uncrewed aircraft. Additionally, it designs and manufactures\
+  \ heavy-duty quarry and construction vehicles for the mining and construction industry.\
+  \ The company was formerly known as Leonardo \x96 Finmeccanica S.p.a. and changed\
+  \ its name to Leonardo S.p.a. in January 2017. Leonardo S.p.a. was founded in 1948\
+  \ and is headquartered in Rome, Italy."
+longName: Leonardo S.p.a.
+market: it_market
+marketCap: 29162876928
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_688713
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1256999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 29728135522
+numberOfAnalystOpinions: 19
+open: 52.15
+operatingCashflow: 2380999936
+operatingMargins: 0.101560004
+overallRisk: 2
+payoutRatio: 0.2892
+pegRatio: 1.31
+phone: 39 06 324731
+previousClose: 51.54
+priceEpsCurrentYear: 20.24238
+priceHint: 2
+priceToBook: 2.9322045
+priceToSalesTrailing12Months: 1.3623693
+profitMargins: 0.058720004
+quickRatio: 0.595
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.89474
+region: US
+regularMarketChange: -0.97999954
+regularMarketChangePercent: -1.9014349
+regularMarketDayHigh: 52.25
+regularMarketDayLow: 50.0
+regularMarketDayRange: 50.0 - 52.25
+regularMarketOpen: 52.15
+regularMarketPreviousClose: 51.54
+regularMarketPrice: 50.56
+regularMarketTime: 1794411563
+regularMarketVolume: 1052081
+returnOnAssets: 0.05738
+returnOnEquity: 0.13012
+revenueGrowth: 0.181
+revenuePerShare: 37.133
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 576797352
+shortName: LEONARDO
+sourceInterval: 20
+state: RM
+symbol: LDO.MI
+targetHighPrice: 82.0
+targetLowPrice: 55.0
+targetMeanPrice: 67.43684
+targetMedianPrice: 69.0
+totalCash: 1080999936
+totalCashPerShare: 1.875
+totalDebt: 4451999744
+totalRevenue: 21405999104
+tradeable: false
+trailingAnnualDividendRate: 0.63
+trailingAnnualDividendYield: 0.012223516
+trailingEps: 2.13
+trailingPE: 23.73709
+trailingPegRatio: 1.3082
+triggerable: false
+twoHundredDayAverage: 53.56055
+twoHundredDayAverageChange: -3.0005493
+twoHundredDayAverageChangePercent: -0.05602163
+typeDisp: Equity
+underlyingSymbol: LD.MI
+volume: 1052081
+website: https://www.leonardo.com/en/home
+zip: 00195

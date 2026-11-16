@@ -1,0 +1,279 @@
+52WeekChange: 0.09348905
+SandP52WeekChange: 0.097798586
+address1: 1 Neumann Way
+allTimeHigh: 388.84
+allTimeLow: 2.708226
+ask: 341.93
+askSize: 40
+auditRisk: 9
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 5273910
+averageDailyVolume3Month: 4563901
+averageVolume: 4563901
+averageVolume10days: 5273910
+beta: 1.409
+bid: 341.78
+bidSize: 80
+boardRisk: 7
+bookValue: 16.956
+city: Evendale
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. H. Lawrence Culp Jr.
+  title: Chairman & CEO
+  totalPay: 10262962
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rahul  Ghai
+  title: Senior VP & CFO
+  totalPay: 3251678
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John R. Phillips III
+  title: Senior VP, General Counsel & Secretary
+  totalPay: 2419640
+  unexercisedValue: 1333309
+  yearBorn: 1978
+- age: 55
+  exercisedValue: 342288
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mohamed  Ali
+  title: President & CEO of Commercial Engines and Services
+  totalPay: 2355842
+  unexercisedValue: 4932000
+  yearBorn: 1970
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert M. Giglietti
+  title: VP, Chief Accounting Officer, Controller & Treasurer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Burns
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Blaire  Shoor
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian E. Meisner
+  title: Chief Human Resources Officer
+  totalPay: 2267604
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christoph A. Pereira
+  title: CEO of SaaS & Aerospace Carbon Solutions and Sustainability
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Riccardo  Procacci Ph.D.
+  title: President and CEO of Propulsion & Additive Technologies
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 342.12
+currentRatio: 0.98
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 342.285
+dayLow: 336.7814
+debtToEquity: 115.989
+dividendDate: 1792972800
+dividendRate: 1.88
+dividendYield: 0.56
+earningsCallTimestampEnd: 1792495800
+earningsCallTimestampStart: 1792495800
+earningsGrowth: 0.089
+earningsQuarterlyGrowth: 0.061
+earningsTimestamp: 1792499400
+earningsTimestampEnd: 1800538200
+earningsTimestampStart: 1800538200
+ebitda: 11616000000
+ebitdaMargins: 0.22094
+enterpriseToEbitda: 31.008
+enterpriseToRevenue: 6.851
+enterpriseValue: 360193949696
+epsCurrentYear: 8.15895
+epsForward: 9.31279
+epsTrailingTwelveMonths: 8.75
+esgPopulated: false
+exDividendDate: 1791158400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 314.5548
+fiftyDayAverageChange: 27.565186
+fiftyDayAverageChangePercent: 0.08763237
+fiftyTwoWeekChangePercent: 9.348906
+fiftyTwoWeekHigh: 388.84
+fiftyTwoWeekHighChange: -46.72
+fiftyTwoWeekHighChangePercent: -0.12015225
+fiftyTwoWeekLow: 268.91
+fiftyTwoWeekLowChange: 73.20999
+fiftyTwoWeekLowChangePercent: 0.2722472
+fiftyTwoWeekRange: 268.91 - 388.84
+financialCurrency: USD
+firstTradeDateMilliseconds: -252322200000
+fiveYearAvgDividendYield: 0.39
+floatShares: 1029538852
+forwardEps: 9.31279
+forwardPE: 36.736572
+freeCashflow: 6332375040
+fullExchangeName: NYSE
+fullTimeEmployees: 57000
+fulldayChange: 4.2099915
+fulldayChangePercent: 1.2458913
+fulldayPrice: 342.12
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.30065
+grossProfits: 15806999552
+hasPrePostMarketData: true
+heldPercentInsiders: 0.003
+heldPercentInstitutions: 0.81447
+impliedSharesOutstanding: 1037562513
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+irWebsite: http://www.ge.com/investor-relations
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1791158400
+lastDividendValue: 0.47
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1712016000
+lastSplitFactor: 1253:1000
+longBusinessSummary: General Electric Company, doing business as GE Aerospace, designs
+  and produces commercial and defense aircraft engines, integrated engine components,
+  electric power, and aircraft systems. The company operates through two segments,
+  Commercial Engines & Services, and Defense & Propulsion Technologies. The Commercial
+  Engines & Services segment designs, develops, manufactures, maintenance, repair,
+  and overhaul (MRO) services of jet engines and sale of spare parts for commercial
+  airframes, business aviation, and aeroderivative applications. The Defense & Propulsion
+  Technologies designs, develops, manufactures, and services jet engines and avionics
+  and power systems for governments, militaries, and commercial airframers, as well
+  as MRO of engines and the sale of spare parts. This segment also offers aircraft
+  components and systems, such as small turboprop engines, aeroengine mechanical transmissions,
+  turbines, combustors and controls, additive manufacturing, propeller systems, ignition
+  systems, sensors and engine accessories for fixed wing and rotorcraft applications
+  for commercial and military end users under the Avio Aero, Unison, Dowty Propellers,
+  and Colibrium Additive brands. The company operates in the United States, Europe,
+  Asia, the Americas, the Middle East, and Africa. General Electric Company was incorporated
+  in 1892 and is based in Evendale, Ohio.
+longName: GE Aerospace
+market: us_market
+marketCap: 354970861568
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_177031
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 9201999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 350602748767
+numberOfAnalystOpinions: 21
+open: 339.0
+operatingCashflow: 9450999808
+operatingMargins: 0.19681999
+overallRisk: 7
+payoutRatio: 0.2023
+pegRatio: 3.93
+phone: (513) 243-2000
+previousClose: 337.91
+priceEpsCurrentYear: 41.931866
+priceHint: 2
+priceToBook: 20.17693
+priceToSalesTrailing12Months: 6.751576
+profitMargins: 0.17313999
+quickRatio: 0.639
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.52174
+region: US
+regularMarketChange: 4.2099915
+regularMarketChangePercent: 1.2458913
+regularMarketDayHigh: 342.285
+regularMarketDayLow: 336.7814
+regularMarketDayRange: 336.7814 - 342.285
+regularMarketOpen: 339.0
+regularMarketPreviousClose: 337.91
+regularMarketPrice: 342.12
+regularMarketTime: 1794413741
+regularMarketVolume: 725827
+returnOnAssets: 0.050640002
+returnOnEquity: 0.50165004
+revenueGrowth: 0.159
+revenuePerShare: 50.372
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 3
+sharesOutstanding: 1037562513
+sharesPercentSharesOut: 0.0124
+sharesShort: 12846642
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 11440418
+shortName: GE Aerospace
+shortPercentOfFloat: 0.0124
+shortRatio: 2.52
+sourceInterval: 15
+state: OH
+symbol: GE
+targetHighPrice: 431.0
+targetLowPrice: 280.0
+targetMeanPrice: 378.42856
+targetMedianPrice: 380.0
+totalCash: 9802000384
+totalCashPerShare: 9.486
+totalDebt: 20587999232
+totalRevenue: 52576002048
+tradeable: false
+trailingAnnualDividendRate: 1.77
+trailingAnnualDividendYield: 0.005238081
+trailingEps: 8.75
+trailingPE: 39.099426
+trailingPegRatio: 3.9301
+triggerable: true
+twoHundredDayAverage: 323.3061
+twoHundredDayAverageChange: 18.813904
+twoHundredDayAverageChangePercent: 0.058192234
+typeDisp: Equity
+volume: 725827
+website: https://www.geaerospace.com
+zip: '45215'

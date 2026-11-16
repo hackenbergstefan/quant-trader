@@ -1,0 +1,265 @@
+52WeekChange: 0.41152263
+SandP52WeekChange: 0.097798586
+address1: Norra Stationsgatan 93A
+allTimeHigh: 507.0
+allTimeLow: 10.888956
+ask: 482.2
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 517968
+averageDailyVolume3Month: 321033
+averageVolume: 321033
+averageVolume10days: 517968
+beta: 0.332
+bid: 481.6
+bidSize: 0
+boardRisk: 3
+bookValue: 130.507
+city: Stockholm
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Guido  Oelkers Ph.D.
+  title: CEO & President
+  totalPay: 28700000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Henrik  Stenqvist M.Sc.
+  title: Chief Financial Officer
+  totalPay: 9228000
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Gerard  Tobin
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Torbjörn  Hallberg
+  title: General Counsel & Head of Legal Affairs
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lena  Bjurner
+  title: Head of People & Communication
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Norbert  Oppitz
+  title: Head of International
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sofiane  Fahmy
+  title: Head of Europe
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Duane H. Barnes
+  title: Head of North America
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel  Rankin
+  title: Chief Business Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mahmood  Ladha
+  title: Head of Strategic Transformation Operations
+  unexercisedValue: 0
+  yearBorn: 1964
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 481.8
+currentRatio: 0.992
+customPriceAlertConfidence: HIGH
+dayHigh: 487.0
+dayLow: 479.4
+debtToEquity: 35.563
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793109600
+earningsCallTimestampStart: 1793109600
+earningsTimestamp: 1793118600
+earningsTimestampEnd: 1793118600
+earningsTimestampStart: 1793118600
+ebitda: 12839999488
+ebitdaMargins: 0.40161
+enterpriseToEbitda: 14.195
+enterpriseToRevenue: 5.701
+enterpriseValue: 182267789312
+epsCurrentYear: 20.4974
+epsForward: 15.55
+epsTrailingTwelveMonths: 18.94
+esgPopulated: false
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 450.968
+fiftyDayAverageChange: 30.832
+fiftyDayAverageChangePercent: 0.068368495
+fiftyTwoWeekChangePercent: 41.152264
+fiftyTwoWeekHigh: 507.0
+fiftyTwoWeekHighChange: -25.200012
+fiftyTwoWeekHighChangePercent: -0.049704164
+fiftyTwoWeekLow: 314.4
+fiftyTwoWeekLowChange: 167.4
+fiftyTwoWeekLowChangePercent: 0.53244275
+fiftyTwoWeekRange: 314.4 - 507.0
+financialCurrency: SEK
+firstTradeDateMilliseconds: 1158303600000
+floatShares: 346845704
+forwardEps: 15.55
+forwardPE: 30.983921
+freeCashflow: 4068499968
+fullExchangeName: Stockholm
+fullTimeEmployees: 2207
+fulldayChange: 1.5999756
+fulldayChangePercent: 0.3331894
+fulldayPrice: 481.8
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.78246003
+grossProfits: 25016000512
+hasPrePostMarketData: false
+heldPercentInsiders: 0.1009
+heldPercentInstitutions: 0.7007
+impliedSharesOutstanding: 348004559
+industry: Drug Manufacturers - Specialty & Generic
+industryDisp: Drug Manufacturers - Specialty & Generic
+industryKey: drug-manufacturers-specialty-generic
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Swedish Orphan Biovitrum AB (publ), a biopharma company, provides
+  medicines in the areas of haematology, immunology, and specialty care in Europe,
+  North America, the Middle East, Asia, and Australia. The company operates through
+  three segments: Haematology, Immunology, and Specialty Care. It offers Alprolix
+  for haemophilia B; ALTUVOCT for the treatment and prophylaxis of bleeding in patients
+  with haemophilia A; Aspaveli/Empaveli for treating adult patients with paroxysmal
+  nocturnal haemoglobinuria; Doptelet for the treatment of immune thrombocytopenia
+  and thrombocytopenia; Elocta/Eloctate for the treatment and prophylaxis of bleeding
+  in patients with haemophilia A; Gamifant for treating hemophagocytic lymphohistiocytosis;
+  Kineret for the treatment of cryopyrin-associated periodic syndrome, rheumatoid
+  arthritis, familial Mediterranean fever, deficiency of interleukin-1 receptor antagonist,
+  and systemic juvenile idiopathic arthritis; Orfadin for hereditary tyrosinemia type
+  1 and alkaptonuria; Synagis for the prevention of serious lower respiratory tract
+  infection caused by respiratory syncytial virus in infants and young children; VONJO,
+  a kinase inhibitor indicated for the treatment of post-polycythemia vera or post-essential
+  thrombocythemia myelofibrosis; and Zynlonta for treating adult patients with relapsed
+  or refractory diffuse large and high grade B-cell lymphoma. The company also provides
+  other medicines, such as Akynzeo, Jyseleca, Tegsedi, and Waylivra, as well as develops
+  drug substances for ReFacto AF/Xyntha for Pfizer. The company has collaboration
+  agreements with Sanofi, Apellis Pharmaceuticals, Inc., ADC Therapeutics SA, and
+  Cartesian Therapeutics, Inc. The company is in strategic partnership with Innate
+  Pharma SA to enable initiation of the TELLOMAK-3 confirmatory Phase 3 study in cutaneous
+  T cell lymphoma. The company was incorporated in 1939 and is headquartered in Stockholm,
+  Sweden.'
+longName: Swedish Orphan Biovitrum AB (publ)
+market: se_market
+marketCap: 167668580352
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1072270
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 6627999744
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 167111789231
+numberOfAnalystOpinions: 12
+open: 483.6
+operatingCashflow: 7888999936
+operatingMargins: 0.30868998
+overallRisk: 4
+payoutRatio: 0.0
+pegRatio: 0.26
+phone: 46 86 97 20 00
+previousClose: 480.2
+priceEpsCurrentYear: 23.505419
+priceHint: 2
+priceToBook: 3.6917558
+priceToSalesTrailing12Months: 5.2443957
+profitMargins: 0.20731
+quickRatio: 0.65
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.25
+region: US
+regularMarketChange: 1.5999756
+regularMarketChangePercent: 0.3331894
+regularMarketDayHigh: 487.0
+regularMarketDayLow: 479.4
+regularMarketDayRange: 479.4 - 487.0
+regularMarketOpen: 483.6
+regularMarketPreviousClose: 480.2
+regularMarketPrice: 481.8
+regularMarketTime: 1794412475
+regularMarketVolume: 137062
+returnOnAssets: 0.08093
+returnOnEquity: 0.16284001
+revenueGrowth: 0.173
+revenuePerShare: 92.327
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 348004559
+shortName: Swedish Orphan Biovitrum AB
+sourceInterval: 15
+symbol: SOBI.ST
+targetHighPrice: 600.0
+targetLowPrice: 308.0
+targetMeanPrice: 508.5
+targetMedianPrice: 515.0
+totalCash: 1005000000
+totalCashPerShare: 2.888
+totalDebt: 16154000384
+totalRevenue: 31971000320
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 18.94
+trailingPE: 25.438225
+trailingPegRatio: 0.2547
+triggerable: true
+twoHundredDayAverage: 433.702
+twoHundredDayAverageChange: 48.097992
+twoHundredDayAverageChangePercent: 0.11090101
+typeDisp: Equity
+volume: 137062
+website: https://www.sobi.com

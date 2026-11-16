@@ -1,0 +1,279 @@
+52WeekChange: 0.27566504
+SandP52WeekChange: 0.097798586
+address1: 225 West Washington Street
+allTimeHigh: 238.5
+allTimeLow: 18.968924
+ask: 234.29
+askSize: 100
+auditRisk: 9
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 1609680
+averageDailyVolume3Month: 1283443
+averageVolume: 1283443
+averageVolume10days: 1609680
+beta: 1.306
+bid: 234.1
+bidSize: 600
+boardRisk: 5
+bookValue: 12.544
+city: Indianapolis
+companyOfficers:
+- age: 37
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eli M. Simon
+  title: President, CEO, COO & Director
+  totalPay: 2145201
+  unexercisedValue: 0
+  yearBorn: 1988
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian J. McDade
+  title: Executive VP & CFO
+  totalPay: 1740146
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 69
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Rulli
+  title: Chief Administrative Officer
+  totalPay: 1724021
+  unexercisedValue: 0
+  yearBorn: 1956
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven E. Fivel J.D.
+  title: General Counsel & Secretary
+  totalPay: 1721985
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam J. Reuille
+  title: Senior VP & Chief Accounting Officer
+  totalPay: 742891
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Wasif  Awan
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Ward
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lee  Sterling
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Tim  Chmielewski
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Victoria J. Hanor
+  title: Senior Executive VP & MD of Luxury Leasing
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions:
+- header: Dividend
+  message: SPG announced a cash dividend of $2.30 with an ex-date of Dec. 10, 2026
+  meta:
+    amount: '2.30'
+    dateEpochMs: 1796878800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 234.5
+currentRatio: 0.26
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 235.07
+dayLow: 233.09
+debtToEquity: 540.113
+displayName: Simon Property
+dividendDate: 1798675200
+dividendRate: 9.2
+dividendYield: 3.92
+earningsCallTimestampEnd: 1793916000
+earningsCallTimestampStart: 1793916000
+earningsGrowth: -0.171
+earningsQuarterlyGrowth: -0.177
+earningsTimestamp: 1793912400
+earningsTimestampEnd: 1801515600
+earningsTimestampStart: 1801515600
+ebitda: 5287326208
+ebitdaMargins: 0.73910004
+enterpriseToEbitda: 19.976
+enterpriseToRevenue: 14.764
+enterpriseValue: 105620135936
+epsCurrentYear: 6.155
+epsForward: 6.78
+epsTrailingTwelveMonths: 13.85
+esgPopulated: false
+exDividendDate: 1796860800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 208.7836
+fiftyDayAverageChange: 25.7164
+fiftyDayAverageChangePercent: 0.123172514
+fiftyTwoWeekChangePercent: 27.566505
+fiftyTwoWeekHigh: 238.5
+fiftyTwoWeekHighChange: -4.0
+fiftyTwoWeekHighChangePercent: -0.016771488
+fiftyTwoWeekLow: 177.88
+fiftyTwoWeekLowChange: 56.619995
+fiftyTwoWeekLowChangePercent: 0.31830445
+fiftyTwoWeekRange: 177.88 - 238.5
+financialCurrency: USD
+firstTradeDateMilliseconds: 755879400000
+fiveYearAvgDividendYield: 5.0
+floatShares: 318710208
+forwardEps: 6.78
+forwardPE: 34.58702
+freeCashflow: 2844865536
+fullExchangeName: NYSE
+fullTimeEmployees: 3100
+fulldayChange: 0.020004272
+fulldayChangePercent: 0.008531335
+fulldayPrice: 234.5
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.81308
+grossProfits: 5816567808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.01801
+heldPercentInstitutions: 0.95878
+impliedSharesOutstanding: 378534169
+industry: REIT - Retail
+industryDisp: REIT - Retail
+industryKey: reit-retail
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788912000
+lastDividendValue: 2.25
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1401321600
+lastSplitFactor: 1063:1000
+longBusinessSummary: Simon Property Group, Inc. is a self-administered and self-managed
+  real estate investment trust (REIT). Simon Property Group, L.P., or the Operating
+  Partnership, is our majority-owned partnership subsidiary that owns all of our real
+  estate properties and other assets. In this package, the terms Simon, we, our, or
+  the Company refer to Simon Property Group, Inc., the Operating Partnership, and
+  its subsidiaries. We own, develop and manage premier shopping, dining, entertainment
+  and mixed-use destinations, which consist primarily of malls, Premium Outlets, The
+  Mills, and International Properties. At December 31, 2024, we owned or had an interest
+  in 229 properties comprising 183 million square feet in North America, Asia and
+  Europe. We also owned an 88% interest in The Taubman Realty Group, or TRG, which
+  owns 22 regional, super-regional, and outlet malls in the U.S. and Asia. Additionally,
+  at December 31, 2024, we had a 22.4% ownership interest in Klepierre, a publicly
+  traded, Paris-based real estate company, which owns shopping centers in 14 European
+  countries. Simon Property Group, Inc. was incorporated in 1960 and is based in Indianapolis,
+  Indiana.
+longName: Simon Property Group, Inc.
+market: us_market
+marketCap: 88766267392
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_34378
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4509937152
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 75612815075
+numberOfAnalystOpinions: 19
+open: 233.09
+operatingCashflow: 4304358912
+operatingMargins: 0.4587
+overallRisk: 9
+payoutRatio: 0.6426
+pegRatio: 4.58
+phone: 317 636 1600
+previousClose: 234.48
+priceEpsCurrentYear: 38.099106
+priceHint: 2
+priceToBook: 18.694197
+priceToSalesTrailing12Months: 12.408425
+profitMargins: 0.6309
+quickRatio: 0.257
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.47619
+region: US
+regularMarketChange: 0.020004272
+regularMarketChangePercent: 0.008531335
+regularMarketDayHigh: 235.07
+regularMarketDayLow: 233.09
+regularMarketDayRange: 233.09 - 235.07
+regularMarketOpen: 233.09
+regularMarketPreviousClose: 234.48
+regularMarketPrice: 234.5
+regularMarketTime: 1794413719
+regularMarketVolume: 245522
+returnOnAssets: 0.05644
+returnOnEquity: 1.2519699
+revenueGrowth: 0.133
+revenuePerShare: 22.036
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 10
+sharesOutstanding: 322462211
+sharesPercentSharesOut: 0.0
+sharesShort: 487
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 9995023
+shortName: Simon Property Group, Inc.
+shortPercentOfFloat: 0.0
+shortRatio: 0.0
+sourceInterval: 15
+state: IN
+symbol: SPG
+targetHighPrice: 275.0
+targetLowPrice: 205.0
+targetMeanPrice: 232.28947
+targetMedianPrice: 225.0
+totalCash: 569940992
+totalCashPerShare: 1.767
+totalDebt: 29213440000
+totalRevenue: 7153709056
+tradeable: false
+trailingAnnualDividendRate: 8.9
+trailingAnnualDividendYield: 0.037956327
+trailingEps: 13.85
+trailingPE: 16.931408
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 207.41515
+twoHundredDayAverageChange: 27.084854
+twoHundredDayAverageChangePercent: 0.13058282
+typeDisp: Equity
+volume: 245522
+website: https://www.simon.com
+zip: 46204-3438

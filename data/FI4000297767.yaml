@@ -1,0 +1,256 @@
+52WeekChange: 0.1332326
+SandP52WeekChange: 0.097798586
+address1: Satamaradankatu 5
+address2: Nordea
+allTimeHigh: 205.0
+allTimeLow: 23.514736
+ask: 187.3
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 2638362
+averageDailyVolume3Month: 2274685
+averageVolume: 2274685
+averageVolume10days: 2638362
+beta: 0.717
+bid: 187.2
+bidSize: 0
+boardRisk: 1
+bookValue: 9.225
+city: Helsinki
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank  Vang-Jensen
+  title: President & Group CEO
+  totalPay: 3203262
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jussi  Koskinen
+  title: Chief Legal Officer & Deputy MD
+  totalPay: 1207019
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ian Stuart Smith
+  title: Group Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kirsten  Renner
+  title: Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ilkka  Ottoila
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James  Graham
+  title: Chief Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ulrika Alexandra Elisabeth Romantschuk B.Sc. (Pol.), M.Sc.Pol.
+  title: Head of Group Brand, Communications & Marketing
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christina  Gadeberg
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Johan  Ekwall
+  title: Chief of Staff
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Holger  Otterheim
+  title: Head of Group Credit Control
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Finland
+cryptoTradeable: false
+currency: SEK
+currentPrice: 187.2
+customPriceAlertConfidence: HIGH
+dayHigh: 188.7
+dayLow: 187.15
+dividendRate: 14.24
+dividendYield: 7.59
+earningsCallTimestampEnd: 1792051200
+earningsCallTimestampStart: 1792051200
+earningsGrowth: -0.028
+earningsQuarterlyGrowth: -0.038
+earningsTimestamp: 1792078200
+earningsTimestampEnd: 1792078200
+earningsTimestampStart: 1792078200
+ebitdaMargins: 0.0
+enterpriseToRevenue: 69.744
+enterpriseValue: 807848443904
+epsCurrentYear: 1.42656
+epsForward: 1.37
+epsTrailingTwelveMonths: 14.63
+esgPopulated: false
+exDividendDate: 1785888000
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 188.736
+fiftyDayAverageChange: -1.5359955
+fiftyDayAverageChangePercent: -0.008138329
+fiftyTwoWeekChangePercent: 13.323259
+fiftyTwoWeekHigh: 205.0
+fiftyTwoWeekHighChange: -17.800003
+fiftyTwoWeekHighChangePercent: -0.08682928
+fiftyTwoWeekLow: 153.85
+fiftyTwoWeekLowChange: 33.34999
+fiftyTwoWeekLowChangePercent: 0.21676952
+fiftyTwoWeekRange: 153.85 - 205.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 7.19
+floatShares: 3176505396
+forwardEps: 1.37
+forwardPE: 136.64233
+fullExchangeName: Stockholm
+fullTimeEmployees: 28376
+fulldayChange: -0.3500061
+fulldayChangePercent: -0.18662015
+fulldayPrice: 187.2
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 11582999552
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0124
+heldPercentInstitutions: 0.59727
+impliedSharesOutstanding: 3393753656
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1785888000
+lastDividendValue: 0.34
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Nordea Bank Abp offers banking products and services for individuals,
+  families, and businesses in Sweden, Finland, Norway, Denmark, and internationally.
+  It operates through Personal Banking, Business Banking, Large Corporates & Institutions,
+  and Asset & Wealth Management segments. The company provides various financial services
+  to customers through mobile banking, over the phone, online meetings, and branch
+  offices. It also offers payments, cash management, cards, working capital management,
+  and cards and finance solutions. In addition, the company provides financing, payment,
+  investment banking, capital market products, and securities services; and investment,
+  savings, and risk management solutions. Further, it offers savings products and
+  asset management, including investment funds, discretionary management, portfolio
+  advice, and equity trading and pension accounts; and asset-based financing through
+  leasing, hire purchase, factoring, and sales to finance partners, such as dealers,
+  vendors and retailers, as well as life insurance and pension products and services.
+  The company was founded in 1820 and is headquartered in Helsinki, Finland.
+longName: Nordea Bank Abp
+market: se_market
+marketCap: 635310637056
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_99505
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4670000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 636498498182
+numberOfAnalystOpinions: 10
+open: 188.0
+operatingCashflow: -1106000000
+operatingMargins: 0.52784
+overallRisk: 1
+payoutRatio: 0.95589995
+pegRatio: 8.4
+phone: 358 2007 0000
+previousClose: 187.55
+priceEpsCurrentYear: 131.22476
+priceHint: 2
+priceToBook: 20.292683
+priceToSalesTrailing12Months: 54.84854
+profitMargins: 0.40318
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.1
+region: US
+regularMarketChange: -0.3500061
+regularMarketChangePercent: -0.18662015
+regularMarketDayHigh: 188.7
+regularMarketDayLow: 187.15
+regularMarketDayRange: 187.15 - 188.7
+regularMarketOpen: 188.0
+regularMarketPreviousClose: 187.55
+regularMarketPrice: 187.2
+regularMarketTime: 1794412386
+regularMarketVolume: 1578979
+returnOnAssets: 0.00691
+returnOnEquity: 0.1487
+revenueGrowth: -0.014
+revenuePerShare: 3.382
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 3393753656
+shortName: Nordea Bank Abp
+sourceInterval: 15
+symbol: NDA-SE.ST
+targetHighPrice: 233.5531
+targetLowPrice: 157.23007
+targetMeanPrice: 203.06374
+targetMedianPrice: 212.18309
+totalCash: 66088001536
+totalCashPerShare: 19.483
+totalDebt: 237767000064
+totalRevenue: 11582999552
+tradeable: false
+trailingAnnualDividendRate: 1.3
+trailingAnnualDividendYield: 0.0069314847
+trailingEps: 14.63
+trailingPE: 12.795625
+trailingPegRatio: 8.5757
+triggerable: true
+twoHundredDayAverage: 180.80125
+twoHundredDayAverageChange: 6.3987427
+twoHundredDayAverageChangePercent: 0.03539103
+typeDisp: Equity
+volume: 1578979
+website: https://www.nordea.com
+zip: '00020'

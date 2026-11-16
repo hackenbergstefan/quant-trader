@@ -1,0 +1,266 @@
+52WeekChange: 0.003237605
+SandP52WeekChange: 0.097798586
+address1: 341 White Pond Drive
+allTimeHigh: 84.0
+allTimeLow: 18.0
+ask: 46.31
+askSize: 200
+auditRisk: 6
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 5575230
+averageDailyVolume3Month: 4408020
+averageVolume: 4408020
+averageVolume10days: 5575230
+beta: 0.374
+bid: 46.31
+bidSize: 300
+boardRisk: 5
+bookValue: 22.413
+city: Akron
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian X. Tierney
+  title: CEO, President & Chairman
+  totalPay: 3931049
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. K. Jon Taylor
+  title: Senior VP of Strategy & CFO
+  totalPay: 1740761
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Toby L. Thomas
+  title: Chief Operating Officer
+  totalPay: 1112001
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hyun  Park
+  title: Senior VP & Chief Legal Officer
+  totalPay: 1401901
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Allan Wade Smith
+  title: President of FirstEnergy Utilities
+  totalPay: 1433037
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason J. Lisowski
+  title: VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel  Puscas
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karen  Sagot
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Deandra  Williams-Lewis
+  title: Chief Ethics & Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tabrina L. Davis
+  title: Vice President of Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 46.42
+currentRatio: 0.375
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 46.47
+dayLow: 46.21
+debtToEquity: 207.269
+displayName: FirstEnergy
+dividendDate: 1796083200
+dividendRate: 1.86
+dividendYield: 4.0
+earningsCallTimestampEnd: 1793192400
+earningsCallTimestampStart: 1793192400
+earningsGrowth: 0.263
+earningsQuarterlyGrowth: 0.263
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1793131200
+earningsTimestampStart: 1793131200
+ebitda: 5133000192
+ebitdaMargins: 0.31991
+enterpriseToEbitda: 11.384
+enterpriseToRevenue: 3.642
+enterpriseValue: 58434961408
+epsCurrentYear: 2.74299
+epsForward: 2.94586
+epsTrailingTwelveMonths: 2.07
+esgPopulated: false
+exDividendDate: 1793923200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 45.5156
+fiftyDayAverageChange: 0.9043999
+fiftyDayAverageChangePercent: 0.019870108
+fiftyTwoWeekChangePercent: 0.3237605
+fiftyTwoWeekHigh: 52.34
+fiftyTwoWeekHighChange: -5.920002
+fiftyTwoWeekHighChangePercent: -0.113106646
+fiftyTwoWeekLow: 42.67
+fiftyTwoWeekLowChange: 3.75
+fiftyTwoWeekLowChangePercent: 0.08788376
+fiftyTwoWeekRange: 42.67 - 52.34
+financialCurrency: USD
+firstTradeDateMilliseconds: 879172200000
+fiveYearAvgDividendYield: 3.97
+floatShares: 548518797
+forwardEps: 2.94586
+forwardPE: 15.757708
+freeCashflow: -2547124992
+fullExchangeName: NYSE
+fullTimeEmployees: 11186
+fulldayChange: -0.060001373
+fulldayChangePercent: -0.12909074
+fulldayPrice: 46.42
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.69628996
+grossProfits: 11171999744
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0013799999
+heldPercentInstitutions: 0.95723
+impliedSharesOutstanding: 578893330
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+irWebsite: http://investors.firstenergycorp.com/phoenix.zhtml?c=102230&p=irol-IRHome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793923200
+lastDividendValue: 0.465
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: FirstEnergy Corp., together with its subsidiaries, engages in
+  the generation, distribution, and transmission of electricity in the United States.
+  It operates through Distribution, Integrated, and Stand-Alone Transmission segments.
+  The company owns and operates coal-fired, nuclear, hydroelectric, wind, and solar
+  power generating facilities. The company operates 252,959 distribution line miles
+  and 24,157 transmission line miles, including overhead pole line and underground
+  conduit carrying primary, secondary, and street lighting circuits. The company serves
+  customers in Ohio, Pennsylvania, New Jersey, West Virginia, Maryland, and New York.
+  FirstEnergy Corp. was incorporated in 1996 and is headquartered in Akron, Ohio.
+longName: FirstEnergy Corp.
+market: us_market
+marketCap: 26872225792
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_293515
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1200999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 26906961978
+numberOfAnalystOpinions: 14
+open: 46.33
+operatingCashflow: 3193999872
+operatingMargins: 0.21115999
+overallRisk: 3
+payoutRatio: 0.8792
+pegRatio: 1.95
+phone: 800-736-3402
+previousClose: 46.48
+priceEpsCurrentYear: 16.923138
+priceHint: 2
+priceToBook: 2.0711193
+priceToSalesTrailing12Months: 1.6748037
+profitMargins: 0.07485
+quickRatio: 0.251
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.05556
+region: US
+regularMarketChange: -0.060001373
+regularMarketChangePercent: -0.12909074
+regularMarketDayHigh: 46.47
+regularMarketDayLow: 46.21
+regularMarketDayRange: 46.21 - 46.47
+regularMarketOpen: 46.33
+regularMarketPreviousClose: 46.48
+regularMarketPrice: 46.42
+regularMarketTime: 1794413737
+regularMarketVolume: 563312
+returnOnAssets: 0.0366
+returnOnEquity: 0.10041001
+revenueGrowth: 0.099
+revenuePerShare: 27.772
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 3
+sharesOutstanding: 578893330
+sharesPercentSharesOut: 0.053400002
+sharesShort: 30889604
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 31924588
+shortName: FirstEnergy Corp.
+shortPercentOfFloat: 0.071100004
+shortRatio: 6.47
+sourceInterval: 15
+state: OH
+symbol: FE
+targetHighPrice: 56.0
+targetLowPrice: 46.0
+targetMeanPrice: 50.64286
+targetMedianPrice: 50.0
+totalCash: 48000000
+totalCashPerShare: 0.083
+totalDebt: 30051999744
+totalRevenue: 16044999680
+tradeable: false
+trailingAnnualDividendRate: 1.82
+trailingAnnualDividendYield: 0.039156627
+trailingEps: 2.07
+trailingPE: 22.425121
+trailingPegRatio: 1.9462
+triggerable: true
+twoHundredDayAverage: 47.5087
+twoHundredDayAverageChange: -1.0887032
+twoHundredDayAverageChangePercent: -0.022915868
+typeDisp: Equity
+volume: 563312
+website: https://www.firstenergycorp.com
+zip: '44320'

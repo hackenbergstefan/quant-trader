@@ -1,0 +1,271 @@
+52WeekChange: -0.092921495
+SandP52WeekChange: 0.097798586
+address1: South Tower
+address2: 8th Floor 303 2nd Street
+allTimeHigh: 285.5
+allTimeLow: 41.365
+ask: 193.43
+askSize: 2
+auditRisk: 8
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 7563770
+averageDailyVolume3Month: 4489803
+averageVolume: 4489803
+averageVolume10days: 7563770
+beta: 1.972
+bid: 164.39
+bidSize: 2
+boardRisk: 10
+bookValue: 24.583
+city: San Francisco
+companyOfficers:
+- age: 41
+  exercisedValue: 122921944
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tony  Xu
+  title: Co-Founder, CEO & Chair
+  totalPay: 431864
+  unexercisedValue: 263360768
+  yearBorn: 1984
+- age: 47
+  exercisedValue: 76737712
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Prabir  Adarkar
+  title: President & COO
+  totalPay: 457729
+  unexercisedValue: 21613986
+  yearBorn: 1978
+- age: 48
+  exercisedValue: 2048728
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ravi  Inukonda
+  title: Chief Financial Officer
+  totalPay: 373520
+  unexercisedValue: 2669604
+  yearBorn: 1977
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tia  Sherringham
+  title: General Counsel & Secretary
+  totalPay: 366536
+  unexercisedValue: 274150
+  yearBorn: 1982
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Keith  Yandell
+  title: International COO
+  totalPay: 447579
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 32
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andy  Fang
+  title: Head of LaunchPad & Director
+  totalPay: 357610
+  unexercisedValue: 0
+  yearBorn: 1993
+- age: 32
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stanley  Tang
+  title: Head of DoorDash Labs & Director
+  totalPay: 357399
+  unexercisedValue: 0
+  yearBorn: 1993
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gordon  Lee
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew Rex Hargreaves C.F.A.
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ali  Musa
+  title: Director of Corporate Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 177.78
+currentRatio: 1.465
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 180.0
+dayLow: 174.5
+debtToEquity: 30.745
+displayName: DoorDash
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793277000
+earningsCallTimestampStart: 1793277000
+earningsGrowth: 0.916
+earningsQuarterlyGrowth: 0.91
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 1710000000
+ebitdaMargins: 0.10023
+enterpriseToEbitda: 43.882
+enterpriseToRevenue: 4.398
+enterpriseValue: 75038777344
+epsCurrentYear: 5.8807
+epsForward: 7.62651
+epsTrailingTwelveMonths: 2.41
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 191.1906
+fiftyDayAverageChange: -13.410599
+fiftyDayAverageChangePercent: -0.07014257
+fiftyTwoWeekChangePercent: -9.29215
+fiftyTwoWeekHigh: 239.0
+fiftyTwoWeekHighChange: -61.22
+fiftyTwoWeekHighChangePercent: -0.25615063
+fiftyTwoWeekLow: 143.3
+fiftyTwoWeekLowChange: 34.479996
+fiftyTwoWeekLowChangePercent: 0.24061406
+fiftyTwoWeekRange: 143.3 - 239.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 1607524200000
+floatShares: 408047687
+forwardEps: 7.62651
+forwardPE: 23.310793
+freeCashflow: 6371375104
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 31400
+fulldayChange: -0.47000122
+fulldayChangePercent: -0.2636753
+fulldayPrice: 177.78
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.52664
+grossProfits: 8984999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0058399998
+heldPercentInstitutions: 0.91414
+impliedSharesOutstanding: 435976331
+industry: Internet Retail
+industryDisp: Internet Retail
+industryKey: internet-retail
+ipoExpectedDate: '2023-09-27'
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: DoorDash, Inc., together with its subsidiaries, operates a commerce
+  platform that connects merchants, consumers, and dashers in the United States and
+  internationally. The company operates DoorDash Marketplace, Wolt Marketplace, and
+  Deliveroo Marketplace, which provide various services, such as customer acquisition,
+  demand generation, order fulfillment, merchandising, payment processing, and customer
+  support. It also offers consumer membership programs, DashPass, Wolt+, and Deliveroo
+  Plus; advertising as a value-added service through its marketplaces; and white-label
+  delivery fulfillment services, as well as services that help merchants establish
+  online ordering, build branded mobile apps, manage reservations and in-store dining,
+  manage consumer relationships, enable tableside order and pay, and improve customer
+  support. The company was formerly known as Palo Alto Delivery Inc. and changed its
+  name to DoorDash, Inc. in 2015. DoorDash, Inc. was founded in 2013 and is headquartered
+  in San Francisco, California.
+longName: DoorDash, Inc.
+market: us_market
+marketCap: 77507870720
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_243735719
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1063000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 77712781000
+numberOfAnalystOpinions: 40
+open: 176.92
+operatingCashflow: 2952999936
+operatingMargins: 0.06184
+overallRisk: 10
+payoutRatio: 0.0
+pegRatio: 1.03
+phone: 650 487 3970
+previousClose: 178.25
+priceEpsCurrentYear: 30.231094
+priceHint: 2
+priceToBook: 7.231827
+priceToSalesTrailing12Months: 4.542985
+profitMargins: 0.06231
+quickRatio: 1.16
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.57143
+region: US
+regularMarketChange: -0.47000122
+regularMarketChangePercent: -0.2636753
+regularMarketDayHigh: 180.0
+regularMarketDayLow: 174.5
+regularMarketDayRange: 174.5 - 180.0
+regularMarketOpen: 176.92
+regularMarketPreviousClose: 178.25
+regularMarketPrice: 177.78
+regularMarketTime: 1794413734
+regularMarketVolume: 852867
+returnOnAssets: 0.03421
+returnOnEquity: 0.104770005
+revenueGrowth: 0.34
+revenuePerShare: 39.291
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 10
+sharesOutstanding: 411998576
+sharesPercentSharesOut: 0.0355
+sharesShort: 15478422
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 15743379
+shortName: DoorDash, Inc.
+shortPercentOfFloat: 0.0378
+shortRatio: 3.84
+sourceInterval: 15
+state: CA
+symbol: DASH
+targetHighPrice: 340.0
+targetLowPrice: 172.0
+targetMeanPrice: 248.7215
+targetMedianPrice: 250.0
+totalCash: 5982000128
+totalCashPerShare: 13.721
+totalDebt: 3297999872
+totalRevenue: 17061000192
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 2.41
+trailingPE: 73.76763
+trailingPegRatio: 1.0184
+triggerable: true
+twoHundredDayAverage: 181.89398
+twoHundredDayAverageChange: -4.113983
+twoHundredDayAverageChangePercent: -0.022617478
+typeDisp: Equity
+volume: 852867
+website: https://www.doordash.com
+zip: '94107'

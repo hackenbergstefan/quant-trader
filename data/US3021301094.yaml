@@ -1,0 +1,282 @@
+52WeekChange: 0.34482515
+SandP52WeekChange: 0.097798586
+address1: Sterling Plaza 2
+address2: 3rd Floor 3545 Factoria Blvd. SE
+allTimeHigh: 207.93
+allTimeLow: 0.151042
+ask: 193.01
+askSize: 100
+auditRisk: 8
+averageAnalystRating: 3.1 - Hold
+averageDailyVolume10Day: 1692290
+averageDailyVolume3Month: 1090526
+averageVolume: 1090526
+averageVolume10days: 1692290
+beta: 1.068
+bid: 192.71
+bidSize: 100
+boardRisk: 1
+bookValue: 18.073
+city: Bellevue
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel R. Wall
+  title: CEO, President & Director
+  totalPay: 3703729
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David A. Hackett
+  title: SVP & Chief Financial Officer
+  totalPay: 1228217
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Blake R. Bell
+  title: Senior Vice President of Professional Services
+  totalPay: 2336519
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kelly K. Blacker
+  title: President of Global Geographies
+  totalPay: 2331519
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Roberto A. Martinez
+  title: President of Global Products
+  totalPay: 1905095
+  unexercisedValue: 0
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven J. Grimmer
+  title: Senior Vice President of Account Management
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Courtney A. Hawkins
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Geoffrey W. Buscher
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey F. Dickerman
+  title: Senior VP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kanishka  Satar
+  title: Senior Vice President Global of Sales & Marketing
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions:
+- header: Dividend
+  message: EXPD announced a cash dividend of $0.81 with an ex-date of Dec. 1, 2026
+  meta:
+    amount: '0.81'
+    dateEpochMs: 1796101200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 192.56
+currentRatio: 1.558
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 193.755
+dayLow: 190.055
+debtToEquity: 24.569
+displayName: Expeditors Intl of Washington
+dividendDate: 1797292800
+dividendRate: 1.62
+dividendYield: 0.86
+earningsGrowth: 0.616
+earningsQuarterlyGrowth: 0.55
+earningsTimestamp: 1793712600
+earningsTimestampEnd: 1793712600
+earningsTimestampStart: 1793712600
+ebitda: 1421017984
+ebitdaMargins: 0.107259996
+enterpriseToEbitda: 16.827
+enterpriseToRevenue: 1.805
+enterpriseValue: 23912124416
+epsCurrentYear: 8.64231
+epsForward: 8.72282
+epsTrailingTwelveMonths: 7.87
+esgPopulated: false
+exDividendDate: 1796083200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 192.321
+fiftyDayAverageChange: 0.23899841
+fiftyDayAverageChangePercent: 0.0012427057
+fiftyTwoWeekChangePercent: 34.482513
+fiftyTwoWeekHigh: 207.93
+fiftyTwoWeekHighChange: -15.369995
+fiftyTwoWeekHighChangePercent: -0.07391909
+fiftyTwoWeekLow: 129.59
+fiftyTwoWeekLowChange: 62.97
+fiftyTwoWeekLowChangePercent: 0.48591715
+fiftyTwoWeekRange: 129.59 - 207.93
+financialCurrency: USD
+firstTradeDateMilliseconds: 465053400000
+fiveYearAvgDividendYield: 1.12
+floatShares: 128152668
+forwardEps: 8.72282
+forwardPE: 22.075428
+freeCashflow: 788741760
+fullExchangeName: NYSE
+fullTimeEmployees: 20463
+fulldayChange: 3.369995
+fulldayChangePercent: 1.7812755
+fulldayPrice: 192.56
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.13505
+grossProfits: 1789223040
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00638
+heldPercentInstitutions: 1.00924
+impliedSharesOutstanding: 129110669
+industry: Integrated Freight & Logistics
+industryDisp: Integrated Freight & Logistics
+industryKey: integrated-freight-logistics
+irWebsite: http://investor.expeditors.com/index.asp
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1780272000
+lastDividendValue: 0.81
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1151280000
+lastSplitFactor: '2:1'
+longBusinessSummary: Expeditors International of Washington, Inc., together with its
+  subsidiaries, provides logistics services in the Americas, North Asia, South Asia,
+  Europe, and Middle East, Africa, and India. The company offers airfreight services,
+  such as air freight consolidation and forwarding; ocean freight and ocean services,
+  including ocean freight consolidation, direct ocean forwarding, and order management;
+  customs brokerage and other services, import, intra-continental ground transportation
+  and delivery, and warehousing and distribution services; and customs clearance,
+  purchase order management, vendor consolidation, time-definite transportation services,
+  temperature-controlled transit, cargo insurance, specialized cargo monitoring and
+  tracking, and other logistics solutions. It also provides optimization, trade compliance
+  consulting, cargo insurance, cargo security, and solutions. In addition, it acts
+  as a freight consolidator or as an agent for the airline that carries the shipment.
+  Further, the company provides ancillary services that include preparation of shipping
+  and customs documentation, packing, crating, insurance services, and the preparation
+  of documentation to comply with local export and import laws. The company was incorporated
+  in 1979 and is headquartered in Bellevue, Washington.
+longName: Expeditors International of Washington, Inc.
+market: us_market
+marketCap: 24861550592
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_270071
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1041054976
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 24426447468
+numberOfAnalystOpinions: 15
+open: 190.25
+operatingCashflow: 983736000
+operatingMargins: 0.10312
+overallRisk: 2
+payoutRatio: 0.2008
+pegRatio: 2.58
+phone: 206 674 3400
+previousClose: 189.19
+priceEpsCurrentYear: 22.28108
+priceHint: 2
+priceToBook: 10.654568
+priceToSalesTrailing12Months: 1.8764992
+profitMargins: 0.07858
+quickRatio: 1.403
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.11111
+region: US
+regularMarketChange: 3.369995
+regularMarketChangePercent: 1.7812755
+regularMarketDayHigh: 193.755
+regularMarketDayLow: 190.055
+regularMarketDayRange: 190.055 - 193.755
+regularMarketOpen: 190.25
+regularMarketPreviousClose: 189.19
+regularMarketPrice: 192.56
+regularMarketTime: 1794413688
+regularMarketVolume: 151175
+returnOnAssets: 0.16163
+returnOnEquity: 0.45082
+revenueGrowth: 0.419
+revenuePerShare: 100.261
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 2
+sharesOutstanding: 129110669
+sharesPercentSharesOut: 0.0378
+sharesShort: 4880391
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4369302
+shortName: Expeditors International of Was
+shortPercentOfFloat: 0.0436
+shortRatio: 4.16
+sourceInterval: 15
+state: WA
+symbol: EXPD
+targetHighPrice: 245.0
+targetLowPrice: 100.0
+targetMeanPrice: 193.73334
+targetMedianPrice: 197.0
+totalCash: 1092464000
+totalCashPerShare: 8.461
+totalDebt: 575835008
+totalRevenue: 13248900096
+tradeable: false
+trailingAnnualDividendRate: 1.58
+trailingAnnualDividendYield: 0.008351393
+trailingEps: 7.87
+trailingPE: 24.467598
+trailingPegRatio: 2.5817
+triggerable: true
+twoHundredDayAverage: 168.0328
+twoHundredDayAverageChange: 24.527191
+twoHundredDayAverageChangePercent: 0.14596668
+typeDisp: Equity
+volume: 151175
+website: https://www.expeditors.com
+zip: '98006'

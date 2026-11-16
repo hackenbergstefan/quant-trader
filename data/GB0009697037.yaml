@@ -1,0 +1,258 @@
+52WeekChange: -0.09923667
+SandP52WeekChange: 0.097798586
+address1: 33 Wigmore Street
+allTimeHigh: 1527.0
+allTimeLow: 48.4583
+ask: 1038.5
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1878578
+averageDailyVolume3Month: 1750229
+averageVolume: 1750229
+averageVolume10days: 1878578
+beta: 0.894
+bid: 1037.0
+bidSize: 0
+boardRisk: 3
+bookValue: 1.241
+city: London
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Harry  Holt O.B.E.
+  title: Group Chief Executive & Director
+  totalPay: 233000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. David Anthony Mellors ACA, MA
+  title: CFO & Executive Director
+  totalPay: 1281000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. David Charles Lockwood B.A., F.C.A., O.B.E., RSA
+  title: Executive Officer
+  totalPay: 1959000
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Andrew Paul Gollan
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Nicholas James William Borrett
+  title: Group Company Secretary & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Jennifer  McElhinney
+  title: Interim Chief People Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Bob  Whiley
+  title: Managing Director of Babcock Networks
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Kate  Hill
+  title: Group Head of Financial Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Neal  Misell
+  title: Chief Executive of Nuclear
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Louise  Atkinson
+  title: Chief Executive of Land & Mission Systems
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 1039.5
+currentRatio: 0.803
+customPriceAlertConfidence: LOW
+dayHigh: 1071.5
+dayLow: 1029.5
+debtToEquity: 174.511
+dividendRate: 0.08
+dividendYield: 0.71
+earningsCallTimestampEnd: 1795078800
+earningsCallTimestampStart: 1795078800
+earningsGrowth: -0.639
+earningsQuarterlyGrowth: -0.644
+earningsTimestamp: 1795105800
+earningsTimestampEnd: 1795105800
+earningsTimestampStart: 1795105800
+ebitda: 357600000
+ebitdaMargins: 0.069070004
+enterpriseToEbitda: 15.741
+enterpriseToRevenue: 1.087
+enterpriseValue: 5628973568
+epsCurrentYear: 0.64895
+epsForward: 0.71753
+epsTrailingTwelveMonths: 0.41
+esgPopulated: false
+exDividendDate: 1786579200
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 975.702
+fiftyDayAverageChange: 63.797974
+fiftyDayAverageChangePercent: 0.06538674
+fiftyTwoWeekChangePercent: -9.923667
+fiftyTwoWeekHigh: 1527.0
+fiftyTwoWeekHighChange: -487.5
+fiftyTwoWeekHighChangePercent: -0.31925344
+fiftyTwoWeekLow: 871.2
+fiftyTwoWeekLowChange: 168.29999
+fiftyTwoWeekLowChangePercent: 0.1931818
+fiftyTwoWeekRange: 871.2 - 1527.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 618822000000
+fiveYearAvgDividendYield: 4.27
+floatShares: 456252525
+forwardEps: 0.71753
+forwardPE: 14.487199
+freeCashflow: 187362496
+fullExchangeName: LSE
+fullTimeEmployees: 30481
+fulldayChange: -22.5
+fulldayChangePercent: -2.118644
+fulldayPrice: 1039.5
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.57668
+grossProfits: 2985900032
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00922
+heldPercentInstitutions: 0.65580004
+impliedSharesOutstanding: 486904775
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786579200
+lastDividendValue: 0.05
+lastFiscalYearEnd: 1774915200
+lastSplitDate: 972259200
+lastSplitFactor: '5:6'
+longBusinessSummary: 'Babcock International Group PLC, together with its subsidiaries,
+  engages in the design, development, manufacture, and integration of specialist systems
+  for aerospace, defense, and security in the United Kingdom, rest of Europe, Africa,
+  North America, Australasia, and internationally. The company operates through four
+  segments: Marine, Nuclear, Land, and Aviation. The company offers type 31 frigates,
+  arrowhead 140, arrowhead 120, ARMOR force, project lurcher, jackal contract, ground
+  deployed advanced mortar system, general logistics vehicle, Babcock''s LGE, and
+  armored land cruiser 300. It also provides weapons handling systems, autonomous
+  and uncrewed aerial systems, and engineering and systems integration. In addition,
+  the company is involved in the design, integration, and through-life support of
+  various connected combat, support, and surveillance vehicles; integration of long-range
+  fires, and command, control, communications, computers, intelligence, surveillance,
+  targeting, acquisition and reconnaissance systems; provision of system engineering
+  and general vehicle architecture services; and specialist vehicle conversions. Further,
+  it provides equipment support, frontline support, and training services. Babcock
+  International Group PLC was founded in 1891 and is based in London, the United Kingdom.'
+longName: Babcock International Group PLC
+market: gb_market
+marketCap: 5061374976
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_873887
+mostRecentQuarter: 1774915200
+netIncomeToCommon: 211200000
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 5170928710
+numberOfAnalystOpinions: 11
+open: 1055.5
+operatingCashflow: 402400000
+operatingMargins: 0.054390002
+overallRisk: 1
+payoutRatio: 0.16950001
+pegRatio: 1.37
+phone: 44 20 7355 5300
+previousClose: 1062.0
+priceEpsCurrentYear: 1601.8184
+priceHint: 2
+priceToBook: 8.376309
+priceToSalesTrailing12Months: 0.97753346
+profitMargins: 0.04079
+quickRatio: 0.659
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.81818
+region: US
+regularMarketChange: -22.5
+regularMarketChangePercent: -2.118644
+regularMarketDayHigh: 1071.5
+regularMarketDayLow: 1029.5
+regularMarketDayRange: 1029.5 - 1071.5
+regularMarketOpen: 1055.5
+regularMarketPreviousClose: 1062.0
+regularMarketPrice: 1039.5
+regularMarketTime: 1794411555
+regularMarketVolume: 355521
+returnOnAssets: 0.04619
+returnOnEquity: 0.33682
+revenueGrowth: 0.089
+revenuePerShare: 10.328
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 486904775
+shortName: BABCOCK INTERNATIONAL GROUP PLC
+sourceInterval: 15
+symbol: BAB.L
+targetHighPrice: 1556.0
+targetLowPrice: 1000.0
+targetMeanPrice: 1322.618
+targetMedianPrice: 1390.0
+totalCash: 739900032
+totalCashPerShare: 1.495
+totalDebt: 1098200064
+totalRevenue: 5177699840
+tradeable: false
+trailingAnnualDividendRate: 0.075
+trailingAnnualDividendYield: 7.062147e-05
+trailingEps: 0.41
+trailingPE: 25.35366
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 1116.1824
+twoHundredDayAverageChange: -76.68237
+twoHundredDayAverageChangePercent: -0.068700574
+typeDisp: Equity
+volume: 355521
+website: https://www.babcockinternational.com
+zip: W1U 1QX

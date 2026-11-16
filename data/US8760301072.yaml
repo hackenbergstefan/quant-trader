@@ -1,0 +1,281 @@
+52WeekChange: 0.30428934
+SandP52WeekChange: 0.097798586
+address1: 10 Hudson Yards
+allTimeHigh: 164.8
+allTimeLow: 2.0
+ask: 131.57
+askSize: 200
+auditRisk: 3
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 3306610
+averageDailyVolume3Month: 3218151
+averageVolume: 3218151
+averageVolume10days: 3306610
+beta: 1.46
+bid: 131.43
+bidSize: 400
+boardRisk: 3
+bookValue: 1.739
+city: New York
+companyOfficers:
+- age: 61
+  exercisedValue: 29831720
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Joanne C. Crevoiserat
+  title: President, CEO & Director
+  totalPay: 7329726
+  unexercisedValue: 109723784
+  yearBorn: 1964
+- age: 60
+  exercisedValue: 14081059
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Scott A. Roe CPA
+  title: CFO & COO
+  totalPay: 3671011
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 50
+  exercisedValue: 2341487
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. David E. Howard CPA
+  title: General Counsel & Secretary
+  totalPay: 1727722
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 56
+  exercisedValue: 2824405
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Denise M. Kulikowsky
+  title: Chief People Officer
+  totalPay: 1696496
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 61
+  exercisedValue: 20994348
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Todd  Kahn J.D.
+  title: CEO & Brand President of Coach
+  totalPay: 4085843
+  unexercisedValue: 15943115
+  yearBorn: 1964
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Manesh B. Dadlani
+  title: VP, Principal Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Yang  Lu
+  title: Chief Information & Digital Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Christina  Colone
+  title: Global Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Peter  Charles
+  title: Chief Supply Chain Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Sandeep  Seth
+  title: Chief Growth Officer & President of Tapestry International
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 6
+corporateActions:
+- header: Dividend
+  message: TPR announced a cash dividend of $0.463 with an ex-date of Dec. 4, 2026
+  meta:
+    amount: '0.463'
+    dateEpochMs: 1796360400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 131.655
+currentRatio: 1.24
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 134.67
+dayLow: 130.46
+debtToEquity: 1236.628
+displayName: Tapestry
+dividendDate: 1797811200
+dividendRate: 1.85
+dividendYield: 1.36
+earningsCallTimestampEnd: 1793883600
+earningsCallTimestampStart: 1793883600
+earningsGrowth: 0.375
+earningsQuarterlyGrowth: 0.309
+earningsTimestamp: 1801747800
+earningsTimestampEnd: 1801747800
+earningsTimestampStart: 1801747800
+ebitda: 2103500032
+ebitdaMargins: 0.25674
+enterpriseToEbitda: 14.321
+enterpriseToRevenue: 3.677
+enterpriseValue: 30123567104
+epsCurrentYear: 8.33404
+epsForward: 9.19852
+epsTrailingTwelveMonths: 7.78
+esgPopulated: false
+exDividendDate: 1796342400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 117.9304
+fiftyDayAverageChange: 13.724602
+fiftyDayAverageChangePercent: 0.11637883
+fiftyTwoWeekChangePercent: 30.428934
+fiftyTwoWeekHigh: 164.8
+fiftyTwoWeekHighChange: -33.145004
+fiftyTwoWeekHighChangePercent: -0.2011226
+fiftyTwoWeekLow: 99.01
+fiftyTwoWeekLowChange: 32.644997
+fiftyTwoWeekLowChangePercent: 0.32971412
+fiftyTwoWeekRange: 99.01 - 164.8
+financialCurrency: USD
+firstTradeDateMilliseconds: 970839000000
+fiveYearAvgDividendYield: 1.88
+floatShares: 195427795
+forwardEps: 9.19852
+forwardPE: 14.312629
+freeCashflow: 1368075008
+fullExchangeName: NYSE
+fullTimeEmployees: 12600
+fulldayChange: -3.9649963
+fulldayChangePercent: -2.9236076
+fulldayPrice: 131.655
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.77135
+grossProfits: 6319799808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0043
+heldPercentInstitutions: 1.03108
+impliedSharesOutstanding: 196516496
+industry: Luxury Goods
+industryDisp: Luxury Goods
+industryKey: luxury-goods
+irWebsite: http://www.coach.com/online/handbags/genWCM-10551-10051-en-/Coach_US/CompanyInformation/InvestorRelations/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788480000
+lastDividendValue: 0.463
+lastFiscalYearEnd: 1782518400
+lastSplitDate: 1112659200
+lastSplitFactor: '2:1'
+longBusinessSummary: Tapestry, Inc. provides accessories and lifestyle brand products
+  in North America, Greater China, rest of Asia, and internationally. The company
+  operates in two segments, Coach and Kate Spade. It offers handbags, fashion designs,
+  business cases, computer bags, messenger style bags, backpacks, travel bags, and
+  totes; accessories, such as small leather goods which includes mini and micro handbags,
+  money pieces, wristlets, pouches, and cosmetic cases, as well as novelty accessories,
+  including address books, time management and travel accessories, sketchbooks, and
+  portfolios; and belts, key rings, technology accessories, gifting, straps, and charms.
+  The company also provides women's and men's footwear, which casual and dress shoes,
+  boots, sneakers, and sandals; and other products which includes outerwear, ready-to-wear,
+  jewelry, watches, eyewear, fragrance, scarves, hats, gloves, and other products.
+  It offers its products through retail and outlet stores, brand e-commerce sites,
+  and concession shop-in-shops, as well as third-party digital platforms, including
+  marketplaces. The company was formerly known as Coach, Inc. and changed its name
+  to Tapestry, Inc. in October 2017. Tapestry, Inc. was founded in 1941 and is headquartered
+  in New York, New York.
+longName: Tapestry, Inc.
+market: us_market
+marketCap: 25872379904
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_526573
+mostRecentQuarter: 1790380800
+netIncomeToCommon: 1612700032
+nextFiscalYearEnd: 1814054400
+nonDilutedMarketCap: 26651567187
+numberOfAnalystOpinions: 20
+open: 134.79
+operatingCashflow: 2062499968
+operatingMargins: 0.23674999
+overallRisk: 4
+payoutRatio: 0.21370001
+pegRatio: 1.95
+phone: 212 946 8400
+previousClose: 135.62
+priceEpsCurrentYear: 15.797261
+priceHint: 2
+priceToBook: 75.707306
+priceToSalesTrailing12Months: 3.1577868
+profitMargins: 0.19683
+quickRatio: 0.648
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.77273
+region: US
+regularMarketChange: -3.9649963
+regularMarketChangePercent: -2.9236076
+regularMarketDayHigh: 134.67
+regularMarketDayLow: 130.46
+regularMarketDayRange: 130.46 - 134.67
+regularMarketOpen: 134.79
+regularMarketPreviousClose: 135.62
+regularMarketPrice: 131.655
+regularMarketTime: 1794413751
+regularMarketVolume: 533864
+returnOnAssets: 0.18681999
+returnOnEquity: 4.33813
+revenueGrowth: 0.111
+revenuePerShare: 40.575
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 6
+sharesOutstanding: 196516496
+sharesPercentSharesOut: 0.0857
+sharesShort: 16838176
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 15625468
+shortName: Tapestry, Inc.
+shortPercentOfFloat: 0.0861
+shortRatio: 6.57
+sourceInterval: 15
+state: NY
+symbol: TPR
+targetHighPrice: 211.0
+targetLowPrice: 96.0
+targetMeanPrice: 163.55
+targetMedianPrice: 159.5
+totalCash: 782000000
+totalCashPerShare: 3.979
+totalDebt: 4254000128
+totalRevenue: 8193200128
+tradeable: false
+trailingAnnualDividendRate: 1.663
+trailingAnnualDividendYield: 0.012262204
+trailingEps: 7.78
+trailingPE: 16.922235
+trailingPegRatio: 1.9474
+triggerable: true
+twoHundredDayAverage: 137.17195
+twoHundredDayAverageChange: -5.5169525
+twoHundredDayAverageChangePercent: -0.040219247
+typeDisp: Equity
+volume: 533864
+website: https://www.tapestry.com
+zip: '10001'

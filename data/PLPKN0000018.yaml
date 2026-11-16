@@ -1,0 +1,261 @@
+52WeekChange: 0.23671496
+SandP52WeekChange: 0.097798586
+address1: 7 Chemików Street
+allTimeHigh: 164.12
+allTimeLow: 14.75
+ask: 128.0
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 1591371
+averageDailyVolume3Month: 1286555
+averageVolume: 1286555
+averageVolume10days: 1591371
+beta: 0.395
+bid: 127.98
+bookValue: 127.558
+city: Plock
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ireneusz  Fafara
+  title: CEO & President of the Management Board
+  totalPay: 2971000
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Slawomir Robert Jedrzejczyk
+  title: CFO & Vice President of the Management Board for Financials
+  totalPay: 727000
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ireneusz  Sitarski
+  title: Vice President of the Management Board for Downstream
+  totalPay: 2955000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Witold  Literacki
+  title: Deputy CEO for Corporate Affairs & Vice President of the Management Board
+    for Corporate Affairs
+  totalPay: 2954000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert  Soszynski
+  title: VP of the Management Board & COO
+  totalPay: 2957000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wieslaw  Prugar
+  title: Member of Management Board for Upstream
+  totalPay: 2960000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marek  Balawejder
+  title: Member of the Management Board for Retail Sales
+  totalPay: 3032000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marcin  Wasilewski
+  title: Member of the Management Board for Digital Transformation
+  totalPay: 2959000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Slawomir  Staszak
+  title: Member of the Management Board for Energy
+  totalPay: 711000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katarzyna  Lobos
+  title: Secretary & Independent Member of the Supervisory Board
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Poland
+cryptoTradeable: false
+currency: PLN
+currentPrice: 128.0
+currentRatio: 1.323
+customPriceAlertConfidence: LOW
+dayHigh: 128.8
+dayLow: 125.8
+debtToEquity: 30.178
+dividendRate: 8.0
+dividendYield: 6.25
+earningsCallTimestampEnd: 1740653940
+earningsCallTimestampStart: 1740653940
+earningsGrowth: 1.614
+earningsQuarterlyGrowth: 1.609
+earningsTimestamp: 1793894700
+earningsTimestampEnd: 1793894700
+earningsTimestampStart: 1793894700
+ebitda: 57282998272
+ebitdaMargins: 0.18804
+enterpriseToEbitda: 2.782
+enterpriseToRevenue: 0.523
+enterpriseValue: 159386583040
+epsCurrentYear: 24.71882
+epsForward: 11.3
+epsTrailingTwelveMonths: 21.08
+esgPopulated: false
+exDividendDate: 1781654400
+exchange: WSE
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Warsaw
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 150.7168
+fiftyDayAverageChange: -22.716797
+fiftyDayAverageChangePercent: -0.15072505
+fiftyTwoWeekChangePercent: 23.671495
+fiftyTwoWeekHigh: 164.12
+fiftyTwoWeekHighChange: -36.119995
+fiftyTwoWeekHighChangePercent: -0.22008285
+fiftyTwoWeekLow: 90.4
+fiftyTwoWeekLowChange: 37.6
+fiftyTwoWeekLowChangePercent: 0.41592917
+fiftyTwoWeekRange: 90.4 - 164.12
+financialCurrency: PLN
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 6.02
+floatShares: 581434606
+forwardEps: 11.3
+forwardPE: 11.327434
+freeCashflow: 14649875456
+fullExchangeName: Warsaw
+fullTimeEmployees: 65889
+fulldayChange: 2.0599976
+fulldayChangePercent: 1.6356975
+fulldayPrice: 128.0
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.23415
+grossProfits: 71328997376
+hasPrePostMarketData: false
+heldPercentInsiders: 0.499
+heldPercentInstitutions: 0.18997
+impliedSharesOutstanding: 1160942050
+industry: Oil & Gas Integrated
+industryDisp: Oil & Gas Integrated
+industryKey: oil-gas-integrated
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1781654400
+lastDividendValue: 8.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Orlen S.A. operates in refining, petrochemical, energy, retail,
+  gas, and upstream business. It engages in the processing and wholesale of refinery
+  products, such as crude oil; production and sale of fuel, oil, chemicals, and petrochemicals,
+  as well as provision of supporting services; production, distribution, and sale
+  of electricity and heat from conventional and renewable energy sources comprising
+  solar photovoltaics, as well as natural gas; trading of electricity; exploration
+  and extraction of mineral resources; exploration, production, and import of natural
+  gas; and trading and storage of gas and liquid gas. The company is also involved
+  in the exploration, recognition, and extraction of hydrocarbons; fuel station activities;
+  and provision of transportation, maintenance and overhaul, laboratory, security,
+  design, administrative, courier, insurance, and financial services, as well as press
+  distribution, and media activities, such as newspapers and websites. It offers petrol,
+  diesel, LPG, and biofuels; aviation and marine fuels; heating oils; aromatics, including
+  phenol, benzene, paraxylene, purified terephthalic acid, benzene-toulene fraction,
+  and naphthalene concentrate; olefins; polyolefins comprising polyethylene; plastics,
+  including polyvinyl chloride polanvil, compounds creovil, and PVC neralit; glycols;
+  nitrogen fertilizers; and other products, such as acetone, ethylene oxide, masterbatch,
+  advanced technical carbon black Chezacarb, caprolactam, soda lye, and sodium hypochlorite.
+  In addition, the company provides base, car and motorbike, truck, marine, industrial,
+  and agricultural oils, as well as paraffin and solvents; table, pickling, iodized
+  table, feed, scrap, and industrial salt, as well as industrial salt brine and dishwasher
+  salt granules; and bitumen. The company was formerly known as Polski Koncern Naftowy
+  ORLEN Spólka Akcyjna and changed its name to Orlen S.A. in July 2023. The company
+  was founded in 1999 and is headquartered in Plock, Poland.
+longName: Orlen S.A.
+market: pl_market
+marketCap: 148600586240
+marketState: CLOSED
+maxAge: 86400
+messageBoardId: finmb_883676
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 16145000448
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 148600582272
+numberOfAnalystOpinions: 11
+open: 127.0
+operatingCashflow: 49528999936
+operatingMargins: 0.14355999
+payoutRatio: 0.5751
+pegRatio: 1.16
+phone: 48 24 256 0000
+prevName: Polski Koncern Naftowy ORLEN Spólka Akcyjna
+previousClose: 125.94
+priceEpsCurrentYear: 5.178241
+priceHint: 2
+priceToBook: 1.003465
+priceToSalesTrailing12Months: 0.4877972
+profitMargins: 0.053000003
+quickRatio: 0.805
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.63636
+region: US
+regularMarketChange: 2.0599976
+regularMarketChangePercent: 1.6356975
+regularMarketDayHigh: 128.8
+regularMarketDayLow: 125.8
+regularMarketDayRange: 125.8 - 128.8
+regularMarketOpen: 127.0
+regularMarketPreviousClose: 125.94
+regularMarketPrice: 128.0
+regularMarketTime: 1794326671
+regularMarketVolume: 1712775
+returnOnAssets: 0.097629994
+returnOnEquity: 0.1094
+revenueGrowth: 0.311
+revenuePerShare: 262.55
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+sharesOutstanding: 1160942049
+shortName: PKN C.XWAR PLN
+sourceInterval: 15
+symbol: PKN.WA
+targetHighPrice: 185.0
+targetLowPrice: 103.0
+targetMeanPrice: 156.29091
+targetMedianPrice: 158.2
+totalCash: 34656002048
+totalCashPerShare: 29.852
+totalDebt: 44864000000
+totalRevenue: 304636002304
+tradeable: false
+trailingAnnualDividendRate: 8.0
+trailingAnnualDividendYield: 0.06352231
+trailingEps: 21.08
+trailingPE: 6.0721064
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 138.4765
+twoHundredDayAverageChange: -10.476501
+twoHundredDayAverageChangePercent: -0.075655445
+typeDisp: Equity
+volume: 1712775
+website: https://www.orlen.pl
+zip: 09-411

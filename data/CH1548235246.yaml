@@ -1,0 +1,267 @@
+52WeekChange: -0.29099876
+SandP52WeekChange: 0.097798586
+address1: Chemin de la Crétaux 33
+address2: Case postale 319
+allTimeHigh: 57.65
+allTimeLow: 0.1155
+ask: 34.46
+askSize: 0
+auditRisk: 1
+averageDailyVolume10Day: 434981
+averageDailyVolume3Month: 510974
+averageVolume: 510974
+averageVolume10days: 434981
+beta: 1.131
+bid: 34.42
+bidSize: 0
+boardRisk: 2
+bookValue: 9.32
+city: Gland
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc  Burki
+  title: Co-Founder & CEO
+  totalPay: 1017169
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Yvan  Cardenas CPA
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nestor  Verrier
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexandru  Craciun
+  title: Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Morgan  Lavanchy
+  title: Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jan Elias De Schepper
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tara  Yip
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paolo  Buzzi
+  title: Founding Partner & Non-Executive Non-Independent Director
+  totalPay: 122524
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gilles  Chantrier
+  title: Chief Risk Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Keller
+  title: Head of Digital Assets
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 34.42
+currentRatio: 0.688
+customPriceAlertConfidence: LOW
+dayHigh: 34.78
+dayLow: 34.1
+debtToEquity: 23.19
+dividendDate: 1747180800
+dividendRate: 0.74
+dividendYield: 2.14
+earningsCallTimestampEnd: 1786608000
+earningsCallTimestampStart: 1786608000
+earningsGrowth: -0.029
+earningsQuarterlyGrowth: -0.029
+earningsTimestamp: 1786635000
+earningsTimestampEnd: 1786635000
+earningsTimestampStart: 1786635000
+ebitdaMargins: 0.0
+enterpriseToRevenue: -0.408
+enterpriseValue: -313702464
+epsCurrentYear: 2.09397
+epsForward: 2.42434
+epsTrailingTwelveMonths: 2.4
+esgPopulated: false
+exDividendDate: 1778457600
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 41 22 999 94 12
+fiftyDayAverage: 36.89
+fiftyDayAverageChange: -2.4700012
+fiftyDayAverageChangePercent: -0.06695585
+fiftyTwoWeekChangePercent: -29.099876
+fiftyTwoWeekHigh: 50.9
+fiftyTwoWeekHighChange: -16.480003
+fiftyTwoWeekHighChangePercent: -0.32377216
+fiftyTwoWeekLow: 33.36
+fiftyTwoWeekLowChange: 1.0599976
+fiftyTwoWeekLowChangePercent: 0.031774506
+fiftyTwoWeekRange: 33.36 - 50.9
+financialCurrency: CHF
+firstTradeDateMilliseconds: 959583600000
+fiveYearAvgDividendYield: 1.28
+floatShares: 115581797
+forwardEps: 2.42434
+forwardPE: 14.197678
+fullExchangeName: Swiss
+fullTimeEmployees: 1300
+fulldayChange: -0.08000183
+fulldayChangePercent: -0.23188937
+fulldayPrice: 34.42
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.52633
+grossProfits: 404991552
+hasPrePostMarketData: false
+heldPercentInsiders: 0.22062999
+heldPercentInstitutions: 0.35916
+impliedSharesOutstanding: 149883120
+industry: Capital Markets
+industryDisp: Capital Markets
+industryKey: capital-markets
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778457600
+lastDividendValue: 0.74
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1779926400
+lastSplitFactor: '10:1'
+longBusinessSummary: Swissquote Group Holding SA provides online financial services
+  to retail investors, affluent investors, and professional and institutional customers
+  in Switzerland and internationally. It operates through Securities Trading and Leveraged
+  Forex segments. The company operates an online bank that accepts multi-currency
+  deposits/withdrawals, including crypto assets and precious metals. It also offers
+  securities trading services, such as custody services by means of tools to trade
+  in real time in a palette of asset classes and access a set of investment, decision
+  making, risk monitoring, and margin lending services to retail, affluent, and high-net-worth
+  individuals; corporate and family offices; fund managers; asset managers; and brokers
+  and banks. In addition, the company provides access to over-the-counter trading
+  of foreign exchange and contracts-for-differences. Further, it offers securities,
+  forex, CFDs, cryptocurrencies, and thematic trading; portfolio solutions, sustainable
+  investing, and savings plans; debit cards, online payments, eMortgages, and loans.
+  The company was founded in 1996 and is headquartered in Gland, Switzerland.
+longName: Swissquote Group Holding SA
+market: ch_market
+marketCap: 5158976512
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_973404
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 361798080
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5170967640
+numberOfAnalystOpinions: 11
+open: 34.72
+operatingCashflow: 1327880576
+operatingMargins: 0.46275002
+overallRisk: 1
+payoutRatio: 0.3094
+pegRatio: 1.26
+phone: 41 22 999 94 11
+prevName: Swissquote Group Holding Ltd
+previousClose: 34.5
+priceEpsCurrentYear: 16.437674
+priceHint: 2
+priceToBook: 3.6931329
+priceToSalesTrailing12Months: 6.70468
+profitMargins: 0.4702
+quickRatio: 0.688
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -0.08000183
+regularMarketChangePercent: -0.23188937
+regularMarketDayHigh: 34.78
+regularMarketDayLow: 34.1
+regularMarketDayRange: 34.1 - 34.78
+regularMarketOpen: 34.72
+regularMarketPreviousClose: 34.5
+regularMarketPrice: 34.42
+regularMarketTime: 1794411503
+regularMarketVolume: 113220
+returnOnAssets: 0.02311
+returnOnEquity: 0.27981
+revenueGrowth: 0.023
+revenuePerShare: 5.143
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 149883120
+shortName: SWISSQUOTE N
+sourceInterval: 15
+symbol: SQN.SW
+targetHighPrice: 59.0
+targetLowPrice: 36.0
+targetMeanPrice: 47.19091
+targetMedianPrice: 47.0
+totalCash: 5785728512
+totalCashPerShare: 38.763
+totalDebt: 322586112
+totalRevenue: 769459008
+tradeable: false
+trailingAnnualDividendRate: 0.74
+trailingAnnualDividendYield: 0.021449275
+trailingEps: 2.4
+trailingPE: 14.341665
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 39.4607
+twoHundredDayAverageChange: -5.040703
+twoHundredDayAverageChangePercent: -0.12773982
+typeDisp: Equity
+volume: 113220
+website: https://www.swissquote.com
+zip: '1196'

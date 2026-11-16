@@ -1,0 +1,268 @@
+52WeekChange: 0.94166064
+SandP52WeekChange: 0.097798586
+address1: 39 Chemin du Champ des Filles
+allTimeHigh: 70.85
+allTimeLow: 2.97
+auditRisk: 4
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 2741549
+averageDailyVolume3Month: 2308481
+averageVolume: 2308481
+averageVolume10days: 2741549
+beta: 1.544
+boardRisk: 2
+bookValue: 17.760944
+city: Plan-les-Ouates
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Marc  Chery
+  title: Chairman of the Managing Board, President & CEO
+  totalPay: 2967201
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lorenzo  Grandi
+  title: President & CFO
+  totalPay: 2499355
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bertrand  Stoltz
+  title: Executive Vice President of Corporate Finance & Asia Public Affairs
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fabio  Gualandris
+  title: President of Quality, Manufacturing & Technology
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alessandro  Cremonesi
+  title: Executive VP, Chief Innovation Officer and GM of System Research & Applications
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ricardo  De-Sa-Earp
+  title: Executive VP of Microcontrollers, Digital ICs and RF products Group Deputy
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hiroshi  Noguchi
+  title: Executive Vice President of Sales, Marketing & Asia Pacific Excluding China
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rino  Peruzzi
+  title: Executive Vice President of Sales & Marketing, Americas and Global Key Account
+    Cluster
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Laurent  Malier
+  title: Executive Vice President of Global Technology R&D
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chouaib  Rokbi
+  title: Executive VP of Digital Transformation & Information Tech, and Global Procurement
+  unexercisedValue: 0
+  yearBorn: 1971
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: EUR
+currentPrice: 41.68
+currentRatio: 3.125
+customPriceAlertConfidence: LOW
+dayHigh: 42.225
+dayLow: 40.96
+debtToEquity: 18.743
+dividendRate: 0.32
+dividendYield: 0.8
+earningsCallTimestampEnd: 1793262600
+earningsCallTimestampStart: 1793262600
+earningsGrowth: 0.21
+earningsQuarterlyGrowth: 0.228
+earningsTimestamp: 1801153800
+earningsTimestampEnd: 1801153800
+earningsTimestampStart: 1801153800
+ebitda: 3012999936
+ebitdaMargins: 0.22042999
+enterpriseToEbitda: 11.435
+enterpriseToRevenue: 2.521
+enterpriseValue: 34454908928
+epsCurrentYear: 1.35831
+epsForward: 2.425059
+epsTrailingTwelveMonths: 0.49
+esgPopulated: false
+exDividendDate: 1797206400
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 43.8948
+fiftyDayAverageChange: -2.214798
+fiftyDayAverageChangePercent: -0.050456956
+fiftyTwoWeekChangePercent: 94.16606
+fiftyTwoWeekHigh: 70.85
+fiftyTwoWeekHighChange: -29.169998
+fiftyTwoWeekHighChangePercent: -0.41171488
+fiftyTwoWeekLow: 18.2
+fiftyTwoWeekLowChange: 23.48
+fiftyTwoWeekLowChangePercent: 1.2901098
+fiftyTwoWeekRange: 18.2 - 70.85
+financialCurrency: USD
+firstTradeDateMilliseconds: 999500400000
+fiveYearAvgDividendYield: 0.69
+floatShares: 644794314
+forwardEps: 2.425059
+forwardPE: 17.18721
+freeCashflow: 110000000
+fullExchangeName: Paris
+fullTimeEmployees: 49000
+fulldayChange: 1.5750008
+fulldayChangePercent: 3.9262142
+fulldayPrice: 41.68
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.35533002
+grossProfits: 4856999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.27526
+heldPercentInstitutions: 0.27199
+impliedSharesOutstanding: 893548818
+industry: Semiconductors
+industryDisp: Semiconductors
+industryKey: semiconductors
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1805068800
+lastDividendValue: 0.09
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: "STMicroelectronics N.V., together with its subsidiaries, designs,\
+  \ develops, manufactures, and sells semiconductor products in Europe, the Middle\
+  \ East, Africa, the Americas, and the Asia Pacific. The company operates through\
+  \ Analog products, MEMS and Sensors Group (AM&S); Power and Discrete products (P&D);\
+  \ Embedded Processing (\x93EMP\x94); and RF Products (D&RF) segments. It offers\
+  \ industrial application-specific integrated circuits (ASICs) and application-specific\
+  \ standard products (ASSPs); power management solutions; custom analog ICs, wireless\
+  \ charging solutions; galvanic isolated gate and LED drivers; converters, transistors,\
+  \ intelligent power switches, clocks and timers, comparators, and current-sense\
+  \ amplifiers; micro-electro-mechanical systems (MEMS) sensors, including accelerometers,\
+  \ gyroscopes, magnetic sensors, pressure, temperature, presence detection, biosensors,\
+  \ machine learning, and edge AI processing smart sensors, as well as thermal and\
+  \ piezoelectric actuators; and optical sensing solutions. The company also provides\
+  \ silicon MOSFETs, SiC MOSFETs, IGBTs, thyristors, rectifiers, and power modules\
+  \ and bipolar transistors; microcontrollers, and automotive microcontrollers and\
+  \ secured; radio frequency (RF) communications and ASICs; car infotainment products;\
+  \ ultra-wide band and radar systems; and Connected Security Products; and automotive\
+  \ driver assistance systems. It serves automotive, industrial, personal electronics\
+  \ and communications equipment, and computers and peripherals markets. STMicroelectronics\
+  \ N.V. was incorporated in 1987 and is headquartered in Plan-les-Ouates, Switzerland."
+longName: STMicroelectronics N.V.
+market: fr_market
+marketCap: 37243113472
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_138644
+mostRecentQuarter: 1790380800
+netIncomeToCommon: 520000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 35411339657
+numberOfAnalystOpinions: 19
+open: 41.12
+operatingCashflow: 2729999872
+operatingMargins: 0.07916
+overallRisk: 3
+payoutRatio: 0.6316
+pegRatio: 0.17
+phone: 41 22 929 2929
+previousClose: 40.105
+priceEpsCurrentYear: 30.68519
+priceHint: 2
+priceToBook: 2.3467221
+priceToSalesTrailing12Months: 2.7246406
+profitMargins: 0.038039997
+quickRatio: 2.183
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.8
+region: US
+regularMarketChange: 1.5750008
+regularMarketChangePercent: 3.9262142
+regularMarketDayHigh: 42.225
+regularMarketDayLow: 40.96
+regularMarketDayRange: 40.96 - 42.225
+regularMarketOpen: 41.12
+regularMarketPreviousClose: 40.105
+regularMarketPrice: 41.68
+regularMarketTime: 1794411577
+regularMarketVolume: 1173517
+returnOnAssets: 0.02634
+returnOnEquity: 0.02952
+revenueGrowth: 0.179
+revenuePerShare: 15.346
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 9
+sharesOutstanding: 893548818
+shortName: STMICROELECTRONICS
+sourceInterval: 15
+symbol: STMPA.PA
+targetHighPrice: 80.49158
+targetLowPrice: 45.215908
+targetMeanPrice: 64.95223
+targetMedianPrice: 67.41157
+totalCash: 5312000000
+totalCashPerShare: 5.929
+totalDebt: 3427000064
+totalRevenue: 13669000192
+tradeable: false
+trailingAnnualDividendRate: 0.36
+trailingAnnualDividendYield: 0.008976437
+trailingEps: 0.49
+trailingPE: 85.061226
+trailingPegRatio: 0.1712
+triggerable: false
+twoHundredDayAverage: 44.52035
+twoHundredDayAverageChange: -2.840351
+twoHundredDayAverageChangePercent: -0.063798934
+typeDisp: Equity
+volume: 1173517
+website: https://www.st.com/content/st_com/en.html
+zip: '1228'

@@ -1,0 +1,291 @@
+52WeekChange: 0.27601194
+SandP52WeekChange: 0.097798586
+address1: One Technology Drive
+allTimeHigh: 307.37
+allTimeLow: 0.060417
+ask: 168.01
+askSize: 2
+auditRisk: 3
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 17487870
+averageDailyVolume3Month: 10959200
+averageVolume: 10959200
+averageVolume10days: 17487870
+beta: 1.497
+bid: 150.0
+bidSize: 37
+boardRisk: 3
+bookValue: 5.005
+city: Milpitas
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Richard P. Wallace
+  title: President, CEO & Executive Director
+  totalPay: 6480589
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Bren D. Higgins
+  title: Executive VP & CFO
+  totalPay: 2829313
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Mary Beth Wilkinson
+  title: Executive VP, Chief Legal Officer & Corporate Secretary
+  totalPay: 1374819
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Ahmad A. Khan
+  title: President of Semiconductor Products & Customers
+  totalPay: 2822174
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Brian W. Lorig
+  title: Executive Vice President of KLA Global Services
+  totalPay: 1792407
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 62
+  exercisedValue: 3040
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Virendra A. Kirloskar
+  title: Senior VP & Chief Accounting Officer
+  totalPay: 455182
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dr. Ben Bin-Ming Tsai
+  title: CTO & Executive VP of Corporate Alliances
+  totalPay: 998019
+  unexercisedValue: 0
+  yearBorn: 1959
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Kevin M. Kessel C.F.A.
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Randi  Polanich
+  title: Senior VP & Chief Communications Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. John  Van Camp
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: KLAC announced a cash dividend of $0.23 with an ex-date of Nov. 16, 2026
+  meta:
+    amount: '0.23'
+    dateEpochMs: 1794805200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 161.63
+currentRatio: 2.76
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 162.13
+dayLow: 155.35
+debtToEquity: 91.864
+displayName: KLA
+dividendDate: 1796083200
+dividendRate: 0.92
+dividendYield: 0.6
+earningsCallTimestampEnd: 1793221200
+earningsCallTimestampStart: 1793221200
+earningsGrowth: 0.388
+earningsQuarterlyGrowth: 0.381
+earningsTimestamp: 1793217600
+earningsTimestampEnd: 1801170000
+earningsTimestampStart: 1801170000
+ebitda: 6579658752
+ebitdaMargins: 0.45359
+enterpriseToEbitda: 30.487
+enterpriseToRevenue: 13.828
+enterpriseValue: 200591671296
+epsCurrentYear: 5.76775
+epsForward: 7.09884
+epsTrailingTwelveMonths: 3.99
+esgPopulated: false
+exDividendDate: 1794787200
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 408 875 4875
+fiftyDayAverage: 173.9036
+fiftyDayAverageChange: -12.27359
+fiftyDayAverageChangePercent: -0.07057698
+fiftyTwoWeekChangePercent: 27.601194
+fiftyTwoWeekHigh: 307.37
+fiftyTwoWeekHighChange: -145.73999
+fiftyTwoWeekHighChangePercent: -0.47415164
+fiftyTwoWeekLow: 107.196
+fiftyTwoWeekLowChange: 54.434006
+fiftyTwoWeekLowChangePercent: 0.50779885
+fiftyTwoWeekRange: 107.196 - 307.37
+financialCurrency: USD
+firstTradeDateMilliseconds: 339859800000
+fiveYearAvgDividendYield: 0.78
+floatShares: 1299874414
+forwardEps: 7.09884
+forwardPE: 22.768509
+freeCashflow: 2816840192
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 17000
+fulldayChange: 8.639999
+fulldayChangePercent: 5.6474276
+fulldayPrice: 161.63
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.61465
+grossProfits: 8916014080
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0011100001
+heldPercentInstitutions: 0.93719
+impliedSharesOutstanding: 1302962435
+industry: Semiconductor Equipment & Materials
+industryDisp: Semiconductor Equipment & Materials
+industryKey: semiconductor-equipment-materials
+irWebsite: http://ir.kla-tencor.com/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786924800
+lastDividendValue: 0.23
+lastFiscalYearEnd: 1782777600
+lastSplitDate: 1781222400
+lastSplitFactor: '10:1'
+longBusinessSummary: 'KLA Corporation, together with its subsidiaries, provides process
+  control and process-enabling solutions for manufacturing wafers, reticles/masks,
+  chemicals/materials, integrated circuits (ICs), packaged ICs, and printed circuit
+  boards. It operates through three segments: Semiconductor Process Control; Specialty
+  Semiconductor Process; and PCB and Component Inspection. The company offers inspection
+  and review tools to identify, locate, characterize, review, and analyze defects
+  on various surfaces of patterned and unpatterned wafers; chemical process control
+  equipment; wired and wireless sensor wafers and reticles; wafer defect inspection,
+  review, and metrology systems; reticle inspection and metrology systems; wafer inspection
+  and metrology systems; semiconductor software solutions; KLA Pro systems; and specialty
+  semiconductor manufacturing, benchtop metrology, surface characterization, material
+  strength characterization, and electrical property measurement products. It also
+  provides etch, plasma dicing, deposition and other wafer processing technologies
+  and solutions; direct imaging, inspection, optical shaping, inkjet, and additive
+  printing, as well as computer-aided manufacturing and engineering solutions; and
+  components. In addition, the company offers service programs. It serves semiconductor,
+  and semiconductor-related and electronic device manufacturers. The company operates
+  in China, Taiwan, Korea, North America, Japan, Europe, Israel, and rest of Asia.
+  The company was formerly known as KLA-Tencor Corporation and changed its name to
+  KLA Corporation in July 2019. KLA Corporation was incorporated in 1975 and is headquartered
+  in Milpitas, California.'
+longName: KLA Corporation
+market: us_market
+marketCap: 210597822464
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_282225
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 5258318848
+nextFiscalYearEnd: 1814313600
+nonDilutedMarketCap: 199340222930
+numberOfAnalystOpinions: 26
+open: 160.868
+operatingCashflow: 4512427008
+operatingMargins: 0.4264
+overallRisk: 5
+payoutRatio: 0.21030001
+pegRatio: 1.37
+phone: 408 875 3000
+previousClose: 152.99
+priceEpsCurrentYear: 28.023062
+priceHint: 2
+priceToBook: 32.293705
+priceToSalesTrailing12Months: 14.518186
+profitMargins: 0.3625
+quickRatio: 1.744
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.75862
+region: US
+regularMarketChange: 8.639999
+regularMarketChangePercent: 5.6474276
+regularMarketDayHigh: 162.13
+regularMarketDayLow: 155.35
+regularMarketDayRange: 155.35 - 162.13
+regularMarketOpen: 160.868
+regularMarketPreviousClose: 152.99
+regularMarketPrice: 161.63
+regularMarketTime: 1794413732
+regularMarketVolume: 4211975
+returnOnAssets: 0.22267
+returnOnEquity: 0.91382
+revenueGrowth: 0.289
+revenuePerShare: 11.086
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 8
+sharesOutstanding: 1302962435
+sharesPercentSharesOut: 0.0165
+sharesShort: 21541175
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 24261297
+shortName: KLA Corporation
+shortPercentOfFloat: 0.0165
+shortRatio: 1.92
+sourceInterval: 15
+state: CA
+symbol: KLAC
+targetHighPrice: 275.0
+targetLowPrice: 175.0
+targetMeanPrice: 219.61539
+targetMedianPrice: 220.0
+totalCash: 4741191168
+totalCashPerShare: 3.639
+totalDebt: 5992644096
+totalRevenue: 14505794560
+tradeable: false
+trailingAnnualDividendRate: 0.84
+trailingAnnualDividendYield: 0.0054905545
+trailingEps: 3.99
+trailingPE: 40.508774
+trailingPegRatio: 1.3653
+triggerable: true
+twoHundredDayAverage: 181.88264
+twoHundredDayAverageChange: -20.25264
+twoHundredDayAverageChangePercent: -0.11135004
+typeDisp: Equity
+volume: 4211975
+website: https://www.kla.com
+zip: '95035'

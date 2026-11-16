@@ -1,0 +1,270 @@
+52WeekChange: 0.35403728
+SandP52WeekChange: 0.097798586
+address1: Am Campeon 1-15
+address2: Neubiberg near Munich
+allTimeHigh: 88.83
+allTimeLow: 0.338795
+ask: 51.81
+askSize: 81
+auditRisk: 1
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 5258652
+averageDailyVolume3Month: 4044416
+averageVolume: 4044416
+averageVolume10days: 5258652
+beta: 1.947
+bid: 51.79
+bidSize: 4279
+boardRisk: 2
+bookValue: 13.818
+city: Neubiberg
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jochen  Hanebeck
+  title: CEO, Labor Director & Chairman of Management Board
+  totalPay: 2098751
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Sven  Schneider
+  title: CFO & Member of Management Board
+  totalPay: 1644438
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andreas  Urschitz
+  title: Chief Marketing Officer & Member of Management Board
+  totalPay: 1319141
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elke  Reichart
+  title: Chief Digital & Sustainability Officer and Member of the Management Board
+  totalPay: 1404648
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexander  Gorski
+  title: COO & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexander  Foltin
+  title: Head of Finance, Treasury & Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Florian  Martens
+  title: Global Head of Communications & Public Policy
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Friedrichs
+  title: Senior Director of Silicon Carbide Technology
+  unexercisedValue: 0
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew T. Epstein C.F.A.
+  title: Senior Analyst
+  unexercisedValue: 0
+  yearBorn: 1983
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 51.83
+currentRatio: 1.619
+customPriceAlertConfidence: LOW
+dayHigh: 53.19
+dayLow: 51.04
+debtToEquity: 39.435
+dividendRate: 0.35
+dividendYield: 0.72
+earningsCallTimestampEnd: 1794299400
+earningsCallTimestampStart: 1794299400
+earningsGrowth: 1.296
+earningsQuarterlyGrowth: 1.293
+earningsTimestamp: 1801672200
+earningsTimestampEnd: 1801672200
+earningsTimestampStart: 1801672200
+ebitda: 4110000128
+ebitdaMargins: 0.25133
+enterpriseToEbitda: 16.785
+enterpriseToRevenue: 4.219
+enterpriseValue: 68985143296
+epsCurrentYear: 2.81742
+epsForward: 3.86313
+epsTrailingTwelveMonths: 0.93
+esgPopulated: false
+exDividendDate: 1771545600
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 89 234 955 2987
+fiftyDayAverage: 55.2609
+fiftyDayAverageChange: -3.4308968
+fiftyDayAverageChangePercent: -0.06208543
+fiftyTwoWeekChangePercent: 35.40373
+fiftyTwoWeekHigh: 88.83
+fiftyTwoWeekHighChange: -37.0
+fiftyTwoWeekHighChangePercent: -0.41652593
+fiftyTwoWeekLow: 31.27
+fiftyTwoWeekLowChange: 20.560001
+fiftyTwoWeekLowChangePercent: 0.65749925
+fiftyTwoWeekRange: 31.27 - 88.83
+financialCurrency: EUR
+firstTradeDateMilliseconds: 952934400000
+fiveYearAvgDividendYield: 0.87
+floatShares: 1300655393
+forwardEps: 3.86313
+forwardPE: 13.416582
+freeCashflow: 922000000
+fullExchangeName: XETRA
+fullTimeEmployees: 58058
+fulldayChange: 2.7800026
+fulldayChangePercent: 5.667691
+fulldayPrice: 51.83
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.40415
+grossProfits: 6608999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.58958
+impliedSharesOutstanding: 1300655393
+industry: Semiconductors
+industryDisp: Semiconductors
+industryKey: semiconductors
+irWebsite: http://www.infineon.com/cms/en/corporate/investor/index.html
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1771545600
+lastDividendValue: 0.35
+lastFiscalYearEnd: 1790726400
+longBusinessSummary: Infineon Technologies AG develops, manufactures, and markets
+  semiconductors and semiconductor-based solutions in Germany, Europe, the Middle
+  East, Africa, Mainland China, Hong Kong, Taiwan, the Asia-Pacific, Japan, the United
+  States, and the Americas. The Automotive segment offers automotive and industrial
+  microcontrollers; analog and memory ICs; ethernet; power diodes and modules; power
+  switches; sensors; transceivers; and voltage regulators for assistance and safety
+  systems, comfort electronics, infotainment, powertrain, and security applications.
+  Its Green Industrial Power segment provides discrete and bare die IGBTs; IGBT modules;
+  and SiC discretes and modules for air conditioning technology, energy generation
+  and storage, energy transmission, home appliances, industrial drives, industrial
+  power supplies and vehicles, and traction applications. The Power & Sensor Systems
+  segment offers 3D ToF sensors; chips for gas and pressure sensors, and MEMS microphones;
+  control ICs; customized chips; discrete low-, mid-, and high-voltage power MOSFETs;
+  ESD protection diodes; GaN power switches; GPS low-noise amplifiers; low- and high-voltage
+  driver ICs; radar sensor ICs; RF antenna switches and power transistors; SiC diode
+  and MOSFETs; and USB controllers for audio amplifiers, automotive electronics, BLDC
+  motors, cellular communications infrastructure, charging stations for electric vehicles,
+  human machine interaction, IoT, LED and conventional lighting systems, microinverters,
+  mobile devices, power management, and harsh environment applications. Its Connected
+  Secure Systems segment provides connectivity solutions, embedded security controllers,
+  microcontrollers, and security controllers for authentication, automotive, consumer
+  electronics, government identification document, IoT, mobile communication, payment
+  system, ticketing, access control, and trusted computing applications. The company
+  was founded in 1952 and is headquartered in Neubiberg, Germany.
+longName: Infineon Technologies AG
+market: de_market
+marketCap: 67412971520
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_105448
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1495000064
+nextFiscalYearEnd: 1822262400
+nonDilutedMarketCap: 63244368484
+numberOfAnalystOpinions: 24
+open: 51.84
+operatingCashflow: 4160000000
+operatingMargins: 0.13539
+overallRisk: 2
+payoutRatio: 0.3804
+pegRatio: 0.42
+phone: 49 89 234 0
+previousClose: 49.05
+priceEpsCurrentYear: 18.396263
+priceHint: 2
+priceToBook: 3.7509048
+priceToSalesTrailing12Months: 4.122361
+profitMargins: 0.09246001
+quickRatio: 0.743
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: 2.7800026
+regularMarketChangePercent: 5.667691
+regularMarketDayHigh: 53.19
+regularMarketDayLow: 51.04
+regularMarketDayRange: 51.04 - 53.19
+regularMarketOpen: 51.84
+regularMarketPreviousClose: 49.05
+regularMarketPrice: 51.83
+regularMarketTime: 1794411572
+regularMarketVolume: 3736463
+returnOnAssets: 0.04329
+returnOnEquity: 0.08483
+revenueGrowth: 0.193
+revenuePerShare: 12.55
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 1300655393
+shortName: INFINEON TECHNOLOGIES AG      N
+sourceInterval: 15
+symbol: IFX.DE
+targetHighPrice: 124.0
+targetLowPrice: 50.0
+targetMeanPrice: 85.04167
+targetMedianPrice: 87.5
+totalCash: 2136999936
+totalCashPerShare: 1.643
+totalDebt: 7325000192
+totalRevenue: 16353000448
+tradeable: false
+trailingAnnualDividendRate: 0.38
+trailingAnnualDividendYield: 0.0077471966
+trailingEps: 0.93
+trailingPE: 55.731186
+trailingPegRatio: 0.4188
+triggerable: false
+twoHundredDayAverage: 57.44705
+twoHundredDayAverageChange: -5.6170464
+twoHundredDayAverageChangePercent: -0.097777806
+typeDisp: Equity
+volume: 3736463
+website: https://www.infineon.com
+zip: '85579'

@@ -1,0 +1,268 @@
+52WeekChange: 0.22756016
+SandP52WeekChange: 0.097798586
+address1: 34 Maple Street
+allTimeHigh: 482.28
+allTimeLow: 3.3125
+ask: 476.89
+askSize: 80
+auditRisk: 8
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 1179270
+averageDailyVolume3Month: 831429
+averageVolume: 831429
+averageVolume10days: 1179270
+beta: 1.148
+bid: 476.29
+bidSize: 120
+boardRisk: 5
+bookValue: 155.626
+city: Milford
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Udit  Batra Ph.D.
+  title: President, CEO & Director
+  totalPay: 3542875
+  unexercisedValue: 10028010
+  yearBorn: 1971
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Amol  Chaubal
+  title: Senior VP & CFO
+  totalPay: 1421750
+  unexercisedValue: 1077835
+  yearBorn: 1976
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jianqing Y. Bennett
+  title: Senior Vice President of Waters Advanced Diagnostics Division
+  totalPay: 1176225
+  unexercisedValue: 902188
+  yearBorn: 1970
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark  Gladwell
+  title: SVP of Global Operations
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brook M. Colangelo
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Caspar  Tudor
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Keeley A. Aleman J.D.
+  title: Senior VP, General Counsel, Head of Global Human Resources & Corporate Secretary
+  totalPay: 897333
+  unexercisedValue: 2556758
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristen  Garvey
+  title: Senior Vice President of Global Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Daniel  Rush Ph.D.
+  title: Senior Vice President of Global Research & Strategy
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Allan  Jaenicke
+  title: Senior Vice President of Transformation
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 476.84
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 483.33
+dayLow: 474.1
+debtToEquity: 33.569
+displayName: Waters
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793710800
+earningsCallTimestampStart: 1793710800
+earningsGrowth: -0.672
+earningsQuarterlyGrowth: -0.456
+earningsTimestamp: 1793712600
+earningsTimestampEnd: 1793712600
+earningsTimestampStart: 1793712600
+ebitda: 1407047936
+ebitdaMargins: 0.2508
+enterpriseToEbitda: 36.432
+enterpriseToRevenue: 9.137
+enterpriseValue: 51262218240
+epsCurrentYear: 14.66658
+epsForward: 16.52772
+epsTrailingTwelveMonths: 2.39
+esgPopulated: false
+exDividendDate: 848966400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 508 872 1990
+fiftyDayAverage: 436.971
+fiftyDayAverageChange: 39.868988
+fiftyDayAverageChangePercent: 0.09123944
+fiftyTwoWeekChangePercent: 22.756016
+fiftyTwoWeekHigh: 483.33
+fiftyTwoWeekHighChange: -6.48999
+fiftyTwoWeekHighChangePercent: -0.013427659
+fiftyTwoWeekLow: 282.77
+fiftyTwoWeekLowChange: 194.07
+fiftyTwoWeekLowChangePercent: 0.68631756
+fiftyTwoWeekRange: 282.77 - 483.33
+financialCurrency: USD
+firstTradeDateMilliseconds: 816618600000
+floatShares: 98065368
+forwardEps: 16.52772
+forwardPE: 28.850925
+fullExchangeName: NYSE
+fullTimeEmployees: 15000
+fulldayChange: 1.3200073
+fulldayChangePercent: 0.2775924
+fulldayPrice: 476.84
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.49827
+grossProfits: 2795463936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0011100001
+heldPercentInstitutions: 1.04795
+impliedSharesOutstanding: 98185855
+industry: Diagnostics & Research
+industryDisp: Diagnostics & Research
+industryKey: diagnostics-research
+irWebsite: http://www.waters.com/waters/en_US/Investors/nav.htm?locale=en_US&cid=134614445
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 967420800
+lastSplitFactor: '2:1'
+longBusinessSummary: Waters Corporation provides analytical workflow solutions in
+  Asia, the Americas, and Europe. The company operates through two segments, Waters
+  and TA. The company designs, manufactures, sells, and services liquid chromatography,
+  as well as mass spectrometry (MS) technology systems and supports products, including
+  chromatography columns, and other consumable products. It also designs, manufactures,
+  sells, and services thermal analysis, rheometry, and calorimetry instruments for
+  use in predicting the suitability and stability of fine chemicals, pharmaceuticals,
+  water, polymers, metals, and viscous liquids for various industrial, consumer goods,
+  and healthcare products, as well as for life science research; and develops and
+  supplies software-based products that interface with its instruments, as well as
+  other manufacturers' instruments. In addition, the company offers MS technology,
+  which is used in drug discovery and development comprising clinical trial testing,
+  the analysis of proteins in disease processes, nutritional safety analysis, and
+  environmental testing. Its products are used by clinical, pharmaceutical, biochemical,
+  industrial, nutritional safety, environmental, academic, and governmental customers
+  working in research and development, quality assurance, and other laboratory applications.
+  The company was founded in 1958 and is headquartered in Milford, Massachusetts.
+longName: Waters Corporation
+market: us_market
+marketCap: 46818942976
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_36475
+mostRecentQuarter: 1790985600
+netIncomeToCommon: 98629000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 46689337769
+numberOfAnalystOpinions: 23
+open: 479.25
+operatingCashflow: 460555008
+operatingMargins: 0.09747
+overallRisk: 6
+payoutRatio: 0.0
+pegRatio: 1.91
+phone: 508 478 2000
+previousClose: 475.52
+priceEpsCurrentYear: 32.51201
+priceHint: 2
+priceToBook: 3.0640123
+priceToSalesTrailing12Months: 8.345197
+profitMargins: 0.01758
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.66667
+region: US
+regularMarketChange: 1.3200073
+regularMarketChangePercent: 0.2775924
+regularMarketDayHigh: 483.33
+regularMarketDayLow: 474.1
+regularMarketDayRange: 474.1 - 483.33
+regularMarketOpen: 479.25
+regularMarketPreviousClose: 475.52
+regularMarketPrice: 476.84
+regularMarketTime: 1794413730
+regularMarketVolume: 119243
+returnOnAssets: 0.02359
+returnOnEquity: 0.01119
+revenueGrowth: 1.209
+revenuePerShare: 66.433
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 4
+sharesOutstanding: 98185855
+sharesPercentSharesOut: 0.0339
+sharesShort: 3330131
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3404650
+shortName: Waters Corporation
+shortPercentOfFloat: 0.0339
+shortRatio: 3.63
+sourceInterval: 15
+state: MA
+symbol: WAT
+targetHighPrice: 550.0
+targetLowPrice: 387.0
+targetMeanPrice: 503.28912
+targetMedianPrice: 504.0
+totalCash: 593000000
+totalCashPerShare: 6.035
+totalDebt: 5133000192
+totalRevenue: 5610286080
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 2.39
+trailingPE: 199.51463
+trailingPegRatio: 1.9078
+triggerable: true
+twoHundredDayAverage: 371.98465
+twoHundredDayAverageChange: 104.85535
+twoHundredDayAverageChangePercent: 0.28188086
+typeDisp: Equity
+volume: 119243
+website: https://www.waters.com
+zip: '01757'

@@ -1,0 +1,263 @@
+52WeekChange: 0.28471637
+SandP52WeekChange: 0.097798586
+address1: Plaza Euskadi 5
+allTimeHigh: 23.12
+allTimeLow: 2.63
+ask: 23.1
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 7864534
+averageDailyVolume3Month: 8482887
+averageVolume: 8482887
+averageVolume10days: 7864534
+beta: 0.45
+bid: 23.09
+bidSize: 0
+boardRisk: 2
+bookValue: 7.737
+city: Bilbao
+companyOfficers:
+- age: 75
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jose Ignacio Sanchez Galan
+  title: Executive Chairman
+  totalPay: 6763000
+  unexercisedValue: 0
+  yearBorn: 1950
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pedro Azagra  Blazquez
+  title: Group CEO & Director
+  totalPay: 1418715
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jose Sainz Armada
+  title: Director of Finance, Control & Resources and CFO
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ignacio  Cuenca Arambarri
+  title: Director of Investor Relations & Communications
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Santiago Matias Martinez Garrido Ph.D.
+  title: Director of Legal Services & Secretary
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria Dolores Herrera Pereda
+  title: Director of Compliance
+  unexercisedValue: 0
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Jose Mesonero Molina
+  title: Global Head of Corporate Development
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Agustín  Delgado Martin
+  title: Chief Innovation & Sustainability Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ainara  De Elejoste Echebarria
+  title: Second Deputy Secretary of the Board and Head of the Corporate Documentation
+    & Corporate Affairs
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katya Minerva Somohano Silva
+  title: CEO of Iberdrola Mexico
+  unexercisedValue: 0
+  yearBorn: 1975
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Spain
+cryptoTradeable: false
+currency: EUR
+currentPrice: 23.1
+currentRatio: 0.741
+customPriceAlertConfidence: LOW
+dayHigh: 23.18
+dayLow: 23.01
+debtToEquity: 101.846
+dividendRate: 0.68
+dividendYield: 2.96
+earningsCallTimestampEnd: 1792567800
+earningsCallTimestampStart: 1792567800
+earningsGrowth: -0.134
+earningsQuarterlyGrowth: -0.152
+earningsTimestamp: 1792596600
+earningsTimestampEnd: 1792596600
+earningsTimestampStart: 1792596600
+ebitda: 14493949952
+ebitdaMargins: 0.31454
+enterpriseToEbitda: 15.08
+enterpriseToRevenue: 4.743
+enterpriseValue: 218563067904
+epsCurrentYear: 1.02665
+epsForward: 1.11359
+epsTrailingTwelveMonths: 0.74
+esgPopulated: false
+exDividendDate: 1799712000
+exchange: MCE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Madrid
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 21.0787
+fiftyDayAverageChange: 2.0213013
+fiftyDayAverageChangePercent: 0.09589308
+fiftyTwoWeekChangePercent: 28.471638
+fiftyTwoWeekHigh: 23.18
+fiftyTwoWeekHighChange: -0.07999992
+fiftyTwoWeekHighChangePercent: -0.0034512477
+fiftyTwoWeekLow: 17.54
+fiftyTwoWeekLowChange: 5.5599995
+fiftyTwoWeekLowChangePercent: 0.3169897
+fiftyTwoWeekRange: 17.54 - 23.18
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 3.99
+floatShares: 6127903626
+forwardEps: 1.11359
+forwardPE: 20.743721
+fullExchangeName: MCE
+fullTimeEmployees: 45363
+fulldayChange: 0.11000061
+fulldayChangePercent: 0.47847155
+fulldayPrice: 23.1
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.52637
+grossProfits: 24255399936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0023999999
+heldPercentInstitutions: 0.4484
+impliedSharesOutstanding: 6638144188
+industry: Utilities - Diversified
+industryDisp: Utilities - Diversified
+industryKey: utilities-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1799712000
+lastDividendValue: 0.275
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1191801600
+lastSplitFactor: '4:1'
+longBusinessSummary: Iberdrola, S.A. engages in the generation, production, transmission,
+  distribution, and supply of electricity in Spain, the United Kingdom, the United
+  States, Mexico, Brazil, Germany, France, and Australia. It generates electricity
+  from renewable sources, such as onshore and offshore wind, photovoltaic, hydro,
+  other energy sources, conventional nuclear, and combined cycle plants, as well as
+  through batteries. The company is involved in the purchase and sale of electricity
+  and gas on wholesale markets; energy retail supply activities, such as gas and electricity,
+  and other products and services, including hydrogen, as well as non-renewable generation;
+  and production of green hydrogen. It has a total installed capacity of 46,177 MW.
+  In addition, the company offers heat pumps, self-consumption, solar, electric mobility,
+  solar, etc. services to residential customers; and management of energy facilities,
+  as well as supplies green H2, industrial heat, etc. to industrial customers. Iberdrola,
+  S.A. was founded in 1840 and is headquartered in Bilbao, Spain.
+longName: Iberdrola, S.A.
+market: es_market
+marketCap: 153341132800
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_517300
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 5438099968
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 152610934882
+numberOfAnalystOpinions: 24
+open: 23.09
+operatingMargins: 0.21357
+overallRisk: 2
+payoutRatio: 0.8706
+pegRatio: 3.2
+phone: 34 91 577 65 00
+previousClose: 22.99
+priceEpsCurrentYear: 22.500366
+priceHint: 2
+priceToBook: 2.9856534
+priceToSalesTrailing12Months: 3.3276794
+profitMargins: 0.14744
+quickRatio: 0.551
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.5
+region: US
+regularMarketChange: 0.11000061
+regularMarketChangePercent: 0.47847155
+regularMarketDayHigh: 23.18
+regularMarketDayLow: 23.01
+regularMarketDayRange: 23.01 - 23.18
+regularMarketOpen: 23.09
+regularMarketPreviousClose: 22.99
+regularMarketPrice: 23.1
+regularMarketTime: 1794411570
+regularMarketVolume: 1504740
+returnOnAssets: 0.03716
+returnOnEquity: 0.09493
+revenueGrowth: 0.159
+revenuePerShare: 6.849
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 7
+sharesOutstanding: 6638144188
+shortName: ACCIONES IBERDROLA
+sourceInterval: 15
+symbol: IBE.MC
+targetHighPrice: 26.0
+targetLowPrice: 18.0
+targetMeanPrice: 21.56875
+targetMedianPrice: 21.05
+totalCash: 6633999872
+totalCashPerShare: 1.025
+totalDebt: 63836999680
+totalRevenue: 46080499712
+tradeable: false
+trailingAnnualDividendRate: 0.702
+trailingAnnualDividendYield: 0.030535016
+trailingEps: 0.74
+trailingPE: 31.216217
+trailingPegRatio: 3.2031
+triggerable: false
+twoHundredDayAverage: 20.37895
+twoHundredDayAverageChange: 2.7210503
+twoHundredDayAverageChangePercent: 0.1335226
+typeDisp: Equity
+volume: 1504740
+website: https://www.iberdrola.com
+zip: '48009'

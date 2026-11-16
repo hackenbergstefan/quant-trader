@@ -1,0 +1,284 @@
+52WeekChange: -0.0068965554
+SandP52WeekChange: 0.097798586
+address1: Huntington Center
+address2: 41 South High Street
+allTimeHigh: 30.88843
+allTimeLow: 1.0
+ask: 16.57
+askSize: 1
+auditRisk: 3
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 19270410
+averageDailyVolume3Month: 24667534
+averageVolume: 24667534
+averageVolume10days: 19270410
+beta: 0.979
+bid: 14.97
+bidSize: 1
+boardRisk: 8
+bookValue: 14.537
+city: Columbus
+companyOfficers:
+- age: 66
+  exercisedValue: 951178
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephen D. Steinour
+  title: Chairman & CEO
+  totalPay: 5224375
+  unexercisedValue: 13942709
+  yearBorn: 1959
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brantley J. Standridge
+  title: President
+  totalPay: 2830309
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Zachary J. Wasserman
+  title: CFO & Senior EVP
+  totalPay: 2701494
+  unexercisedValue: 1055222
+  yearBorn: 1975
+- age: 64
+  exercisedValue: 52781
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Helga S. Houston
+  title: Senior Executive Vice President
+  totalPay: 1883772
+  unexercisedValue: 3331291
+  yearBorn: 1961
+- age: 55
+  exercisedValue: 47116
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott D. Kleinman
+  title: Senior Executive VP & President of Commercial Banking
+  totalPay: 2239972
+  unexercisedValue: 430310
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nancy E. Maloney
+  title: Executive VP, Controller & Principal Accounting Officer
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kendall  Kowalski
+  title: Executive VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric Edmund Wasserstrom
+  title: Executive VP & Head of Investor Relations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marcy C. Hingst J.D.
+  title: Senior EVP, General Counsel & Corporate Secretary
+  totalPay: 2266167
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy W. Miller
+  title: Executive VP & Chief Communications Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 15.875
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 15.945
+dayLow: 15.775
+displayName: Huntington Bancshares
+dividendDate: 1799020800
+dividendRate: 0.62
+dividendYield: 3.91
+earningsCallTimestampEnd: 1792674000
+earningsCallTimestampStart: 1792674000
+earningsGrowth: -0.195
+earningsQuarterlyGrowth: 0.146
+earningsTimestamp: 1792672200
+earningsTimestampEnd: 1800538200
+earningsTimestampStart: 1800538200
+ebitdaMargins: 0.0
+enterpriseToRevenue: 4.213
+enterpriseValue: 41349734400
+epsCurrentYear: 1.53494
+epsForward: 1.74945
+epsTrailingTwelveMonths: 1.22
+esgPopulated: false
+exDividendDate: 1797552000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 15.8052
+fiftyDayAverageChange: 0.06980038
+fiftyDayAverageChangePercent: 0.004416292
+fiftyTwoWeekChangePercent: -0.68965554
+fiftyTwoWeekHigh: 19.46
+fiftyTwoWeekHighChange: -3.584999
+fiftyTwoWeekHighChangePercent: -0.18422401
+fiftyTwoWeekLow: 14.82
+fiftyTwoWeekLowChange: 1.0550003
+fiftyTwoWeekLowChangePercent: 0.07118761
+fiftyTwoWeekRange: 14.82 - 19.46
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 4.24
+floatShares: 2002146157
+forwardEps: 1.74945
+forwardPE: 9.074281
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 25898
+fulldayChange: 0.034999847
+fulldayChangePercent: 0.22095864
+fulldayPrice: 15.875
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 9815000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00803
+heldPercentInstitutions: 0.89846003
+impliedSharesOutstanding: 2015387251
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: http://www.investquest.com/iq/h/hban/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1789603200
+lastDividendValue: 0.155
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 963360000
+lastSplitFactor: '11:10'
+longBusinessSummary: Huntington Bancshares Incorporated operates as the bank holding
+  company for The Huntington National Bank that provides commercial, consumer, and
+  mortgage banking services. It offers financial products and services to consumer
+  and business customers, including deposits, lending, payments, mortgage banking,
+  dealer financing, investment management, trust, brokerage, insurance, and other
+  financial products and services. The company also provides 24-Hour Grace, Asterisk-Free
+  Checking, Money Scout, $50 Safety Zone, Standby Cash, Early Pay, Instant Access,
+  Savings Goal Getter, And Huntington Heads Up; digitally powered consumer and business
+  financial solutions to consumer finance, regional banking, branch banking, and wealth
+  management customers; direct and indirect consumer loans; dealer finance loans and
+  deposits; and private banking, wealth management and legacy planning through investment
+  and portfolio management, fiduciary administration and trust, institutional custody,
+  and full-service retail brokerage investment services. In addition, it offers equipment
+  financing, asset-based lending, distribution finance, structured lending, municipal
+  financing solutions, and Huntington ChoicePay. Additionally, the company provides
+  lending, liquidity, treasury management and other payment services, and capital
+  markets; government and non-profits, healthcare, technology and telecommunications,
+  franchises, financial sponsors, fund finance, Native American financial, and global
+  services; and corporate risk management, institutional sales and trading, debt and
+  equity issuance, and additional advisory services. The company offers its products
+  through a network of channels, including branches and ATMs, online and mobile banking,
+  and through customer call centers to customers in middle market banking, corporate,
+  specialty, and government banking, asset finance, commercial real estate banking,
+  and capital markets. The company was founded in 1866 and is headquartered in Columbus,
+  Ohio.
+longName: Huntington Bancshares Incorporated
+market: us_market
+marketCap: 31994273792
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_278614
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2324000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 31923734055
+numberOfAnalystOpinions: 19
+open: 15.84
+operatingCashflow: 3348000000
+operatingMargins: 0.40458
+overallRisk: 9
+payoutRatio: 0.5082
+pegRatio: 1.9
+phone: 614 480 2265
+previousClose: 15.84
+priceEpsCurrentYear: 10.342423
+priceHint: 2
+priceToBook: 1.092041
+priceToSalesTrailing12Months: 3.2597325
+profitMargins: 0.25369
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.80952
+region: US
+regularMarketChange: 0.034999847
+regularMarketChangePercent: 0.22095864
+regularMarketDayHigh: 15.945
+regularMarketDayLow: 15.775
+regularMarketDayRange: 15.775 - 15.945
+regularMarketOpen: 15.84
+regularMarketPreviousClose: 15.84
+regularMarketPrice: 15.875
+regularMarketTime: 1794413730
+regularMarketVolume: 3651045
+returnOnAssets: 0.01006
+returnOnEquity: 0.09192
+revenueGrowth: 0.322
+revenuePerShare: 5.265
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 9
+sharesOutstanding: 2015387251
+sharesPercentSharesOut: 0.029000001
+sharesShort: 58542910
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 54908234
+shortName: Huntington Bancshares Incorpora
+shortPercentOfFloat: 0.0292
+shortRatio: 2.4
+sourceInterval: 15
+state: OH
+symbol: HBAN
+targetHighPrice: 22.5
+targetLowPrice: 17.0
+targetMeanPrice: 18.77895
+targetMedianPrice: 19.0
+totalCash: 18239000576
+totalCashPerShare: 9.05
+totalDebt: 24746000384
+totalRevenue: 9815000064
+tradeable: false
+trailingAnnualDividendRate: 0.62
+trailingAnnualDividendYield: 0.039141413
+trailingEps: 1.22
+trailingPE: 13.012295
+trailingPegRatio: 1.9029
+triggerable: true
+twoHundredDayAverage: 16.61915
+twoHundredDayAverageChange: -0.74415016
+twoHundredDayAverageChangePercent: -0.044776667
+typeDisp: Equity
+volume: 3651045
+website: https://www.huntington.com
+zip: '43287'

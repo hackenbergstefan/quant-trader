@@ -1,0 +1,265 @@
+52WeekChange: 0.28518057
+SandP52WeekChange: 0.097798586
+address1: Professor Kohts vei 9
+allTimeHigh: 208.2
+allTimeLow: 9.26
+ask: 206.0
+askSize: 814
+auditRisk: 5
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 600930
+averageDailyVolume3Month: 555554
+averageVolume: 555554
+averageVolume10days: 600930
+beta: 0.538
+bid: 205.8
+bidSize: 1152
+boardRisk: 2
+bookValue: 78.097
+city: Lysaker
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Odd Arild Grefstad
+  title: Group Chief Executive Officer
+  totalPay: 12572000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kjetil Ramberg Krokje
+  title: Group CFO & Executive VP of Sustainability
+  totalPay: 5433678
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tove  Selnes
+  title: Executive VP of People, Brand & Communications
+  totalPay: 5651000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jan Erik Saugestad
+  title: Executive Vice President of Asset Management
+  totalPay: 10084000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Trygve Saue Hakedal
+  title: Executive Vice President of Digital
+  totalPay: 6516000
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jenny  Rundbladh
+  title: Executive Vice President of SPP
+  totalPay: 7333000
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Vivi Mahede Gevelt
+  title: Executive Vice President of Corporate Market
+  totalPay: 6366000
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Camilla  Leikvoll
+  title: Executive VP of Retail Markets
+  totalPay: 5079000
+  unexercisedValue: 0
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Johannes  Narum
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stig-Oyvind  Blystad
+  title: SVP Group Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Norway
+cryptoTradeable: false
+currency: NOK
+currentPrice: 205.2
+currentRatio: 0.218
+customPriceAlertConfidence: LOW
+dayHigh: 207.2
+dayLow: 205.0
+debtToEquity: 186.937
+dividendRate: 5.4
+dividendYield: 2.62
+earningsCallTimestampEnd: 1792569600
+earningsCallTimestampStart: 1792569600
+earningsGrowth: -0.272
+earningsQuarterlyGrowth: -0.289
+earningsTimestamp: 1792592400
+earningsTimestampEnd: 1792592400
+earningsTimestampStart: 1792592400
+ebitda: 81744003072
+ebitdaMargins: 0.8307
+enterpriseToEbitda: 1.657
+enterpriseToRevenue: 1.376
+enterpriseValue: 135413456896
+epsCurrentYear: 11.39269
+epsForward: 13.58767
+epsTrailingTwelveMonths: 10.47
+esgPopulated: false
+exDividendDate: 1775779200
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 195.666
+fiftyDayAverageChange: 9.533997
+fiftyDayAverageChangePercent: 0.048725873
+fiftyTwoWeekChangePercent: 28.518057
+fiftyTwoWeekHigh: 208.2
+fiftyTwoWeekHighChange: -3.0
+fiftyTwoWeekHighChangePercent: -0.014409222
+fiftyTwoWeekLow: 155.1
+fiftyTwoWeekLowChange: 50.09999
+fiftyTwoWeekLowChangePercent: 0.32301733
+fiftyTwoWeekRange: 155.1 - 208.2
+financialCurrency: NOK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 3.56
+floatShares: 356915694
+forwardEps: 13.58767
+forwardPE: 15.101927
+freeCashflow: 43734126592
+fullExchangeName: Oslo
+fullTimeEmployees: 2490
+fulldayChange: -1.199997
+fulldayChangePercent: -0.5813939
+fulldayPrice: 205.2
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.89262
+grossProfits: 87836999680
+hasPrePostMarketData: false
+heldPercentInsiders: 0.03194
+heldPercentInstitutions: 0.68464
+impliedSharesOutstanding: 417485079
+industry: Financial Conglomerates
+industryDisp: Financial Conglomerates
+industryKey: financial-conglomerates
+irWebsite: http://www.storebrand.no/site/stb.nsf/Pages/hovedsideinvestorrelationsenglish.html
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1775779200
+lastDividendValue: 5.4
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Storebrand ASA provides insurance products and services in Norway,
+  the United States, Germany, Sweden, the United Kingdom, and internationally. It
+  operates through four segments: Savings, Insurance, Guaranteed Pensions, and Other.
+  The Savings segment offers retirement savings, defined contribution pensions, asset
+  management, and retail banking products. The Insurance segment provides personal
+  insurance, non-life insurance, personal risk, and pension-related insurance products.
+  The Guaranteed Pensions segment offers long-term pension savings products, such
+  as defined contribution pensions, paid-up policies, and individual capital and pension
+  insurance products. The Other segment provides life insurance products. The company
+  serves private individuals, businesses, public enterprises, and corporate and retail
+  markets. Storebrand ASA was founded in 1767 and is headquartered in Lysaker, Norway.'
+longName: Storebrand ASA
+market: no_market
+marketCap: 85667938304
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_876161
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4465999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 86168920305
+numberOfAnalystOpinions: 10
+open: 206.0
+operatingCashflow: 2380999936
+operatingMargins: 0.82822996
+overallRisk: 1
+payoutRatio: 0.516
+pegRatio: 3.46
+phone: 47 91 50 88 80
+previousClose: 206.4
+priceEpsCurrentYear: 18.011549
+priceHint: 2
+priceToBook: 2.6275017
+priceToSalesTrailing12Months: 0.87057376
+profitMargins: 0.04567
+quickRatio: 0.187
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.9
+region: US
+regularMarketChange: -1.199997
+regularMarketChangePercent: -0.5813939
+regularMarketDayHigh: 207.2
+regularMarketDayLow: 205.0
+regularMarketDayRange: 205.0 - 207.2
+regularMarketOpen: 206.0
+regularMarketPreviousClose: 206.4
+regularMarketPrice: 205.2
+regularMarketTime: 1794410948
+regularMarketVolume: 389362
+returnOnAssets: 0.04918
+returnOnEquity: 0.13686
+revenueGrowth: -0.409
+revenuePerShare: 233.545
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 417485079
+shortName: STOREBRAND
+sourceInterval: 15
+symbol: STB.OL
+targetHighPrice: 245.0
+targetLowPrice: 150.0
+targetMeanPrice: 209.1
+targetMedianPrice: 218.5
+totalCash: 12947999744
+totalCashPerShare: 31.118
+totalDebt: 62106001408
+totalRevenue: 98403999744
+tradeable: false
+trailingAnnualDividendRate: 5.4
+trailingAnnualDividendYield: 0.026162792
+trailingEps: 10.47
+trailingPE: 19.598852
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 185.763
+twoHundredDayAverageChange: 19.436996
+twoHundredDayAverageChangePercent: 0.1046333
+typeDisp: Equity
+volume: 389362
+website: https://www.storebrand.no
+zip: '1366'

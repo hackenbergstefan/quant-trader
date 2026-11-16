@@ -1,0 +1,287 @@
+52WeekChange: 0.12026298
+SandP52WeekChange: 0.097798586
+address1: 505 N. Cleveland Ave.
+allTimeHigh: 379.935
+allTimeLow: 4.75
+ask: 209.72
+askSize: 40
+auditRisk: 8
+averageAnalystRating: 1.3 - Strong Buy
+averageDailyVolume10Day: 10427360
+averageDailyVolume3Month: 6046885
+averageVolume: 6046885
+averageVolume10days: 10427360
+beta: 2.108
+bid: 209.63
+bidSize: 80
+boardRisk: 10
+bookValue: 14.29
+city: Westerville
+companyOfficers:
+- age: 72
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David M. Cote J.D.
+  title: Executive Chairman of the Board
+  totalPay: 17024
+  unexercisedValue: 0
+  yearBorn: 1953
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Giordano  Albertazzi
+  title: CEO & Director
+  totalPay: 5271719
+  unexercisedValue: 160044656
+  yearBorn: 1967
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Craig  Chamberlin
+  title: Executive VP & CFO
+  totalPay: 391767
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott  Armul
+  title: Chief Product & Technology Officer
+  totalPay: 934578
+  unexercisedValue: 3981230
+  yearBorn: 1983
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stephanie L. Gill Esq.
+  title: Chief Legal Officer & Corporate Secretary
+  totalPay: 1432854
+  unexercisedValue: 35027512
+  yearBorn: 1972
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David J. Fallon CPA
+  title: Consultant
+  totalPay: 1530747
+  unexercisedValue: 111676744
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anand  Sanghi
+  title: President of Americas
+  totalPay: 1871833
+  unexercisedValue: 29724208
+  yearBorn: 1972
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric M. Johnson
+  title: Chief Accounting Officer & Corporate Controller
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Giresi
+  title: Global Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lynne M. Maxeiner
+  title: Vice President of Global Treasury & Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 207.77
+currentRatio: 1.392
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 210.4399
+dayLow: 202.0102
+debtToEquity: 61.012
+displayName: Vertiv
+dividendDate: 1790208000
+dividendRate: 0.25
+dividendYield: 0.13
+earningsCallTimestampEnd: 1793199600
+earningsCallTimestampStart: 1793199600
+earningsGrowth: 0.912
+earningsQuarterlyGrowth: 0.918
+earningsTimestamp: 1793190600
+earningsTimestampEnd: 1793190600
+earningsTimestampStart: 1793190600
+ebitda: 3188199936
+ebitdaMargins: 0.24306999
+enterpriseToEbitda: 23.346
+enterpriseToRevenue: 5.675
+enterpriseValue: 74431635456
+epsCurrentYear: 7.18808
+epsForward: 9.84233
+epsTrailingTwelveMonths: 5.35
+esgPopulated: false
+exDividendDate: 1789344000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 614 841 6882
+fiftyDayAverage: 234.575
+fiftyDayAverageChange: -26.804993
+fiftyDayAverageChangePercent: -0.114270456
+fiftyTwoWeekChangePercent: 12.0262985
+fiftyTwoWeekHigh: 379.935
+fiftyTwoWeekHighChange: -172.165
+fiftyTwoWeekHighChangePercent: -0.4531433
+fiftyTwoWeekLow: 147.82
+fiftyTwoWeekLowChange: 59.949997
+fiftyTwoWeekLowChangePercent: 0.40556076
+fiftyTwoWeekRange: 147.82 - 379.935
+financialCurrency: USD
+firstTradeDateMilliseconds: 1533216600000
+fiveYearAvgDividendYield: 0.06
+floatShares: 383920642
+forwardEps: 9.84233
+forwardPE: 21.109838
+freeCashflow: 2962249984
+fullExchangeName: NYSE
+fullTimeEmployees: 34000
+fulldayChange: 13.550003
+fulldayChangePercent: 6.9766254
+fulldayPrice: 207.77
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.38115
+grossProfits: 4999399936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00234
+heldPercentInstitutions: 0.84336
+impliedSharesOutstanding: 385060421
+industry: Electrical Equipment & Parts
+industryDisp: Electrical Equipment & Parts
+industryKey: electrical-equipment-parts
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789344000
+lastDividendValue: 0.063
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Vertiv Holdings Co designs, manufactures, and services critical
+  digital infrastructure technologies and life cycle services for data centers, communication
+  networks, and commercial and industrial environments in the Americas, the Asia Pacific,
+  Europe, the Middle East, and Africa. The company offers AC and DC power management
+  products, low/medium voltage switchgear, busbar, thermal management products, air
+  cooled and liquid cooled thermal management products, integrated modular solutions,
+  racks, single phase UPS, rack power distribution, rack thermal systems, configurable
+  integrated solutions, energy storage solutions, hardware, and software infrastructure
+  that are integral to the technologies used for various services, including artificial
+  intelligence, e-commerce, online banking, file sharing, video on-demand, energy
+  storage, wireless communications, Internet of Things, and online gaming. It also
+  provides lifecycle management services, predictive analytics, and professional services
+  for deploying, maintaining, and optimizing its products and their related systems;
+  and preventative maintenance, acceptance testing, engineering and consulting, fluid
+  management, performance assessments, remote monitoring, training, spare parts, and
+  critical digital infrastructure software services. The company offers its products
+  primarily under the Vertiv, Liebert, NetSure, Geist, Energy Labs, ERS, Albér, and
+  Avocent brands. It serves through a network of direct sales professionals, independent
+  sales representatives, channel partners, and original equipment manufacturers. The
+  company is headquartered in Westerville, Ohio.
+longName: Vertiv Holdings Co
+market: us_market
+marketCap: 80004005888
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_579312452
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 2098000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 74786434966
+numberOfAnalystOpinions: 29
+open: 205.95
+operatingCashflow: 3665499904
+operatingMargins: 0.21107
+overallRisk: 10
+payoutRatio: 0.0467
+pegRatio: 0.59
+phone: 614 888 0246
+prevName: Vertiv Holdings Co.
+previousClose: 194.22
+priceEpsCurrentYear: 28.904799
+priceHint: 2
+priceToBook: 14.539538
+priceToSalesTrailing12Months: 6.099447
+profitMargins: 0.15995
+quickRatio: 0.929
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.33333
+region: US
+regularMarketChange: 13.550003
+regularMarketChangePercent: 6.9766254
+regularMarketDayHigh: 210.4399
+regularMarketDayLow: 202.0102
+regularMarketDayRange: 202.0102 - 210.4399
+regularMarketOpen: 205.95
+regularMarketPreviousClose: 194.22
+regularMarketPrice: 207.77
+regularMarketTime: 1794413757
+regularMarketVolume: 2803213
+returnOnAssets: 0.119370006
+returnOnEquity: 0.46567002
+revenueGrowth: 0.612
+revenuePerShare: 34.181
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 385060421
+sharesPercentSharesOut: 0.028800001
+sharesShort: 11071450
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 14384504
+shortName: Vertiv Holdings, LLC
+shortPercentOfFloat: 0.028800001
+shortRatio: 1.65
+sourceInterval: 15
+state: OH
+symbol: VRT
+targetHighPrice: 427.0
+targetLowPrice: 250.0
+targetMeanPrice: 337.53723
+targetMedianPrice: 336.0
+totalCash: 3711699968
+totalCashPerShare: 9.639
+totalDebt: 3356900096
+totalRevenue: 13116600320
+tradeable: false
+trailingAnnualDividendRate: 0.2
+trailingAnnualDividendYield: 0.0010297601
+trailingEps: 5.35
+trailingPE: 38.835514
+trailingPegRatio: 0.5732
+triggerable: true
+twoHundredDayAverage: 271.37726
+twoHundredDayAverageChange: -63.607254
+twoHundredDayAverageChangePercent: -0.23438683
+typeDisp: Equity
+volume: 2803234
+website: https://www.vertiv.com
+zip: '43082'

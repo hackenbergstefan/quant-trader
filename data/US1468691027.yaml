@@ -1,0 +1,263 @@
+52WeekChange: 0.11246538
+SandP52WeekChange: 0.097798586
+address1: 300 East Rio Salado Parkway
+allTimeHigh: 97.378
+allTimeLow: 0.71
+ask: 72.59
+askSize: 200
+auditRisk: 9
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 14996070
+averageDailyVolume3Month: 9021650
+averageVolume: 9021650
+averageVolume10days: 14996070
+beta: 3.65
+bid: 72.48
+bidSize: 300
+boardRisk: 10
+bookValue: 6.029
+city: Tempe
+companyOfficers:
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Ernest C. Garcia III
+  title: Co-Founder, President, CEO & Chairman
+  totalPay: 963434
+  unexercisedValue: 214591280
+  yearBorn: 1983
+- age: 42
+  exercisedValue: 77559488
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Benjamin  Huston J.D.
+  title: Co-Founder & COO
+  totalPay: 974178
+  unexercisedValue: 121007368
+  yearBorn: 1983
+- age: 46
+  exercisedValue: 60865904
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Mark  Jenkins Ph.D.
+  title: Chief Financial Officer
+  totalPay: 976082
+  unexercisedValue: 9082476
+  yearBorn: 1979
+- age: 42
+  exercisedValue: 148210128
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Daniel  Gill
+  title: Chief Product Officer
+  totalPay: 876837
+  unexercisedValue: 12514913
+  yearBorn: 1983
+- age: 54
+  exercisedValue: 25899656
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Thomas  Taira
+  title: President of Special Projects
+  totalPay: 845894
+  unexercisedValue: 46128284
+  yearBorn: 1971
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Ryan S. Keeton
+  title: Co-Founder & Chief Brand Officer
+  totalPay: 544522
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Stephen R. Palmer
+  title: Vice President of Accounting & Finance
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Michael  McKeever
+  title: Head of Capital Markets, Investor Relations and Treasury
+  unexercisedValue: 0
+- age: 41
+  exercisedValue: 8176505
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Paul  Breaux J.D.
+  title: VP, General Counsel, Secretary & Chief Compliance Officer
+  totalPay: 594424
+  unexercisedValue: 31668696
+  yearBorn: 1984
+- exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Ms. Christina  Keiser
+  title: Executive Vice President of Strategy
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1483142400
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 72.46
+currentRatio: 4.051
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 73.11
+dayLow: 71.22
+debtToEquity: 100.778
+displayName: Carvana
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793223000
+earningsCallTimestampStart: 1793223000
+earningsGrowth: 0.857
+earningsQuarterlyGrowth: 0.914
+earningsTimestamp: 1793217600
+earningsTimestampEnd: 1793217600
+earningsTimestampStart: 1793217600
+ebitda: 2671000064
+ebitdaMargins: 0.09729999
+enterpriseToEbitda: 21.028
+enterpriseToRevenue: 2.046
+enterpriseValue: 56164556800
+epsCurrentYear: 1.52283
+epsForward: 2.12433
+epsTrailingTwelveMonths: 2.08
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 65.8362
+fiftyDayAverageChange: 6.623802
+fiftyDayAverageChangePercent: 0.10061034
+fiftyTwoWeekChangePercent: 11.246538
+fiftyTwoWeekHigh: 97.378
+fiftyTwoWeekHighChange: -24.918
+fiftyTwoWeekHighChangePercent: -0.25588942
+fiftyTwoWeekLow: 54.464
+fiftyTwoWeekLowChange: 17.995998
+fiftyTwoWeekLowChangePercent: 0.33042005
+fiftyTwoWeekRange: 54.464 - 97.378
+financialCurrency: USD
+firstTradeDateMilliseconds: 1493386200000
+floatShares: 709401358
+forwardEps: 2.12433
+forwardPE: 34.109577
+freeCashflow: 652499968
+fullExchangeName: NYSE
+fullTimeEmployees: 23100
+fulldayChange: -0.55999756
+fulldayChangePercent: -0.76690984
+fulldayPrice: 72.46
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.19041
+grossProfits: 5226999808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.020469999
+heldPercentInstitutions: 1.05379
+impliedSharesOutstanding: 1491908100
+industry: Auto & Truck Dealerships
+industryDisp: Auto & Truck Dealerships
+industryKey: auto-truck-dealerships
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1778198400
+lastSplitFactor: '5:1'
+longBusinessSummary: Carvana Co., together with its subsidiaries, operates an e-commerce
+  platform for buying and selling used cars. It provides vehicle acquisition, inspection
+  and reconditioning, online search and shopping experience, financing, complementary
+  products, logistics network and distinctive fulfillment experience, and post-sale
+  customer support services. The company also operates auction sites. Carvana Co.
+  was founded in 2012 and is based in Tempe, Arizona.
+longName: Carvana Co.
+market: us_market
+marketCap: 108103655424
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_424080297
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1706000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 80560099599
+numberOfAnalystOpinions: 21
+open: 73.11
+operatingCashflow: 1330000000
+operatingMargins: 0.08743
+overallRisk: 10
+payoutRatio: 0.0
+phone: 602 922 9866
+previousClose: 73.02
+priceEpsCurrentYear: 47.582462
+priceHint: 2
+priceToBook: 12.018578
+priceToSalesTrailing12Months: 3.9380589
+profitMargins: 0.06215
+quickRatio: 1.849
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -0.55999756
+regularMarketChangePercent: -0.76690984
+regularMarketDayHigh: 73.11
+regularMarketDayLow: 71.22
+regularMarketDayRange: 71.22 - 73.11
+regularMarketOpen: 73.11
+regularMarketPreviousClose: 73.02
+regularMarketPrice: 72.46
+regularMarketTime: 1794413732
+regularMarketVolume: 1508095
+returnOnAssets: 0.119770005
+returnOnEquity: 0.54672
+revenueGrowth: 0.424
+revenuePerShare: 38.375
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 10
+sharesOutstanding: 722713745
+sharesPercentSharesOut: 0.059
+sharesShort: 65093337
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 67380242
+shortName: Carvana Co.
+shortPercentOfFloat: 0.12100001
+shortRatio: 6.81
+sourceInterval: 15
+state: AZ
+symbol: CVNA
+targetHighPrice: 100.0
+targetLowPrice: 65.0
+targetMeanPrice: 81.14286
+targetMedianPrice: 83.0
+totalCash: 3606000128
+totalCashPerShare: 4.99
+totalDebt: 5696999936
+totalRevenue: 27451000832
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 2.08
+trailingPE: 34.83654
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 68.53169
+twoHundredDayAverageChange: 3.9283066
+twoHundredDayAverageChangePercent: 0.05732102
+typeDisp: Equity
+volume: 1508095
+website: https://www.carvana.com
+zip: '85281'

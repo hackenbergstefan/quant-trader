@@ -1,0 +1,235 @@
+52WeekChange: 0.06412637
+SandP52WeekChange: 0.097798586
+address1: Via Rivoluzione d'Ottobre 16,
+allTimeHigh: 25.05
+allTimeLow: 3.512
+ask: 22.87
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 2496091
+averageDailyVolume3Month: 1742437
+averageVolume: 1742437
+averageVolume10days: 2496091
+beta: 0.726
+bid: 22.86
+bidSize: 0
+boardRisk: 1
+bookValue: 4.21
+city: Reggio Emilia
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alessandro  Foti
+  title: CEO, GM & Executive Director
+  totalPay: 1448441
+  unexercisedValue: 0
+  yearBorn: 1960
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Erick  Vecchi
+  title: Manager
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fabio  Melisso
+  title: Chief Operating Officer & Deputy GM
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gianluca  Fontanella
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Silvio  Puchar
+  title: Chief Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrea  Pepe
+  title: Chief Legal & Corporate Affairs
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Fabrizio  Lingesso
+  title: Chief Marketing & Communication Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Marco  Longobardi
+  title: Chief People Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fabio  Milanesi
+  title: Deputy GM and Chief Private Bankers & PFA Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Patrizia  Verdesca
+  title: Chief Audit Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 22.86
+customPriceAlertConfidence: LOW
+dayHigh: 23.11
+dayLow: 22.63
+dividendRate: 0.79
+dividendYield: 3.45
+earningsCallTimestampEnd: 1793874600
+earningsCallTimestampStart: 1793874600
+earningsQuarterlyGrowth: 0.156
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1801845000
+earningsTimestampStart: 1801845000
+ebitdaMargins: 0.0
+enterpriseToRevenue: 9.745
+enterpriseValue: 13910590464
+epsCurrentYear: 1.13515
+epsForward: 1.29495
+epsTrailingTwelveMonths: 1.1
+esgPopulated: false
+exDividendDate: 1779062400
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 21.963
+fiftyDayAverageChange: 0.89700127
+fiftyDayAverageChangePercent: 0.040841475
+fiftyTwoWeekChangePercent: 6.412637
+fiftyTwoWeekHigh: 25.05
+fiftyTwoWeekHighChange: -2.1899986
+fiftyTwoWeekHighChangePercent: -0.0874251
+fiftyTwoWeekLow: 17.555
+fiftyTwoWeekLowChange: 5.3050003
+fiftyTwoWeekLowChangePercent: 0.3021931
+fiftyTwoWeekRange: 17.555 - 25.05
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1404284400000
+fiveYearAvgDividendYield: 3.58
+floatShares: 611782512
+forwardEps: 1.29495
+forwardPE: 17.653193
+fullExchangeName: Milan
+fullTimeEmployees: 1529
+fulldayChange: -0.03999901
+fulldayChangePercent: -0.17466816
+fulldayPrice: 22.86
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 1425325952
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.76267
+impliedSharesOutstanding: 611819221
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1779062400
+lastDividendValue: 0.79
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: FinecoBank Banca Fineco S.p.A. provides banking, credit, trading
+  and investment services in Italy. It offers banking services, including current
+  account services, payment services, mortgages, overdrafts, and personal loans, as
+  well as debit, credit, and prepaid cards; and brokerage services comprising order
+  execution services on behalf of customers with direct access to global equity markets,
+  as well as trading of CFDs, futures, options, bonds, ETFs, and certificates. The
+  company also provides asset management services, such as placement and distribution
+  services of various products, including UCITS and SICAV units, and insurance and
+  pension products, as well as investment advisory services. In addition, it operates
+  financial shops. The company serves through a network of personal financial advisors,
+  and online and mobile channels. FinecoBank Banca Fineco S.p.A. was founded in 1999
+  and is headquartered in Reggio Emilia, Italy.
+longName: FinecoBank Banca Fineco S.p.A.
+market: it_market
+marketCap: 13986187264
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_13619757
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 695028992
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 14010660160
+numberOfAnalystOpinions: 16
+open: 23.05
+operatingMargins: 0.72347
+overallRisk: 1
+payoutRatio: 0.71819997
+previousClose: 22.9
+priceEpsCurrentYear: 20.13831
+priceHint: 2
+priceToBook: 5.429929
+priceToSalesTrailing12Months: 9.797584
+profitMargins: 0.48688
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.4375
+region: US
+regularMarketChange: -0.03999901
+regularMarketChangePercent: -0.17466816
+regularMarketDayHigh: 23.11
+regularMarketDayLow: 22.63
+regularMarketDayRange: 22.63 - 23.11
+regularMarketOpen: 23.05
+regularMarketPreviousClose: 22.9
+regularMarketPrice: 22.86
+regularMarketTime: 1794411561
+regularMarketVolume: 618983
+returnOnAssets: 0.01862
+returnOnEquity: 0.27969998
+revenueGrowth: 0.145
+revenuePerShare: 2.333
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 611819221
+shortName: FINECOBANK
+sourceInterval: 20
+state: RE
+symbol: FBK.MI
+targetHighPrice: 30.3
+targetLowPrice: 24.0
+targetMeanPrice: 27.35938
+targetMedianPrice: 27.35
+totalCash: 2532943872
+totalCashPerShare: 4.14
+totalDebt: 2432873984
+totalRevenue: 1427513984
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 1.1
+trailingPE: 20.781818
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 21.669325
+twoHundredDayAverageChange: 1.1906757
+twoHundredDayAverageChangePercent: 0.05494752
+typeDisp: Equity
+volume: 618983
+website: https://it.finecobank.com
+zip: '42123'

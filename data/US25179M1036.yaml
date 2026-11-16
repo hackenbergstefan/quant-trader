@@ -1,0 +1,269 @@
+52WeekChange: 0.23253834
+SandP52WeekChange: 0.097798586
+address1: Three Memorial City Plaza
+address2: 840 Gessner Road STE 1400
+allTimeHigh: 127.43
+allTimeLow: 0.875
+ask: 44.4
+askSize: 200
+auditRisk: 3
+averageAnalystRating: 1.3 - Strong Buy
+averageDailyVolume10Day: 12485190
+averageDailyVolume3Month: 11008650
+averageVolume: 11008650
+averageVolume10days: 12485190
+beta: 0.477
+bid: 44.39
+bidSize: 1300
+boardRisk: 4
+bookValue: 36.824
+city: Houston
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Clay M. Gaspar
+  title: President, CEO & Director
+  totalPay: 2932695
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey L. Ritenour CPA
+  title: Executive VP & Chief Corporate Development Officer
+  totalPay: 1823427
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 83
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. J. Larry Nichols
+  title: Co-Founder & Chairman Emeritus
+  totalPay: 155177
+  unexercisedValue: 0
+  yearBorn: 1942
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shannon E. Young III
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Blake A. Sirgo
+  title: Executive Vice President of Operations
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory F. Conaway CPA
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel Dennis Guffey C.F.A.
+  title: Senior Vice President of Corporate Finance
+  unexercisedValue: 0
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin William Smith
+  title: Executive VP & CTO
+  unexercisedValue: 0
+  yearBorn: 1986
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Andrea M. Alexander
+  title: Senior VP & Chief Administrative Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher  Carr
+  title: Director of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 44.45
+currentRatio: 0.704
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 44.615
+dayLow: 43.51
+debtToEquity: 26.661
+displayName: Devon Energy
+dividendDate: 1798588800
+dividendRate: 1.28
+dividendYield: 2.95
+earningsCallTimestampEnd: 1793980800
+earningsCallTimestampStart: 1793980800
+earningsGrowth: -0.193
+earningsQuarterlyGrowth: 0.467
+earningsTimestamp: 1793912400
+earningsTimestampEnd: 1793912400
+earningsTimestampStart: 1793912400
+ebitda: 10204000256
+ebitdaMargins: 0.46147
+enterpriseToEbitda: 5.912
+enterpriseToRevenue: 2.728
+enterpriseValue: 60323999744
+epsCurrentYear: 5.62502
+epsForward: 5.22236
+epsTrailingTwelveMonths: 4.26
+esgPopulated: false
+exDividendDate: 1789430400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 48.4534
+fiftyDayAverageChange: -4.003399
+fiftyDayAverageChangePercent: -0.0826237
+fiftyTwoWeekChangePercent: 23.253834
+fiftyTwoWeekHigh: 52.71
+fiftyTwoWeekHighChange: -8.259998
+fiftyTwoWeekHighChangePercent: -0.15670648
+fiftyTwoWeekLow: 34.23
+fiftyTwoWeekLowChange: 10.220001
+fiftyTwoWeekLowChangePercent: 0.29856855
+fiftyTwoWeekRange: 34.23 - 52.71
+financialCurrency: USD
+firstTradeDateMilliseconds: 490887000000
+fiveYearAvgDividendYield: 3.93
+floatShares: 1130186298
+forwardEps: 5.22236
+forwardPE: 8.511477
+freeCashflow: 1330875008
+fullExchangeName: NYSE
+fullTimeEmployees: 2200
+fulldayChange: 1.0400009
+fulldayChangePercent: 2.3957634
+fulldayPrice: 44.45
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.53478
+grossProfits: 11825000448
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0074
+heldPercentInstitutions: 0.93271005
+impliedSharesOutstanding: 1139714310
+industry: Oil & Gas E&P
+industryDisp: Oil & Gas E&P
+industryKey: oil-gas-e-p
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=67097&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789430400
+lastDividendValue: 0.32
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1100563200
+lastSplitFactor: '2:1'
+longBusinessSummary: Devon Energy Corporation, an independent energy company, engages
+  in the exploration, development, and production of oil, natural gas, and natural
+  gas liquids in the United States. The company operates in Delaware Basin located
+  in southeast New Mexico and west Texas, Eagle Ford located in North America, Anadarko
+  Basin located in western Oklahoma, Williston Basin located in North Dakota, and
+  Powder River Basin located in Wyoming. Devon Energy Corporation was founded in 1971
+  and is headquartered in Houston, Texas.
+longName: Devon Energy Corporation
+market: us_market
+marketCap: 50660302848
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_266510
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3600999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 49474998197
+numberOfAnalystOpinions: 27
+open: 43.96
+operatingCashflow: 9671000064
+operatingMargins: 0.24014
+overallRisk: 4
+payoutRatio: 0.2629
+pegRatio: 2.92
+phone: 281-589-4600
+previousClose: 43.41
+priceEpsCurrentYear: 7.902194
+priceHint: 2
+priceToBook: 1.2070931
+priceToSalesTrailing12Months: 2.2910774
+profitMargins: 0.16284999
+quickRatio: 0.568
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.25
+region: US
+regularMarketChange: 1.0400009
+regularMarketChangePercent: 2.3957634
+regularMarketDayHigh: 44.615
+regularMarketDayLow: 43.51
+regularMarketDayRange: 43.51 - 44.615
+regularMarketOpen: 43.96
+regularMarketPreviousClose: 43.41
+regularMarketPrice: 44.45
+regularMarketTime: 1794413734
+regularMarketVolume: 3134132
+returnOnAssets: 0.06505
+returnOnEquity: 0.12555
+revenueGrowth: 0.74
+revenuePerShare: 26.641
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 7
+sharesOutstanding: 1139714310
+sharesPercentSharesOut: 0.0235
+sharesShort: 26778876
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 28433630
+shortName: Devon Energy Corporation
+shortPercentOfFloat: 0.024600001
+shortRatio: 3.11
+sourceInterval: 15
+state: TX
+symbol: DVN
+targetHighPrice: 71.0
+targetLowPrice: 48.0
+targetMeanPrice: 61.2963
+targetMedianPrice: 62.0
+totalCash: 352000000
+totalCashPerShare: 0.309
+totalDebt: 11201000448
+totalRevenue: 22112000000
+tradeable: false
+trailingAnnualDividendRate: 1.12
+trailingAnnualDividendYield: 0.025800508
+trailingEps: 4.26
+trailingPE: 10.434272
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 46.2163
+twoHundredDayAverageChange: -1.7663002
+twoHundredDayAverageChangePercent: -0.038218122
+typeDisp: Equity
+volume: 3134132
+website: https://www.devonenergy.com
+zip: '77024'

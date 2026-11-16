@@ -1,0 +1,273 @@
+52WeekChange: 0.093434334
+SandP52WeekChange: 0.097798586
+address1: Einsteinstraße 11
+allTimeHigh: 51.91
+allTimeLow: 0.888888
+ask: 43.48
+askSize: 88
+auditRisk: 3
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 136938
+averageDailyVolume3Month: 104744
+averageVolume: 104744
+averageVolume10days: 136938
+beta: 0.725
+bid: 43.44
+bidSize: 160
+boardRisk: 1
+bookValue: 15.084
+city: Mannheim
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan Rudolf Fuchs
+  title: Chairman of Executive Board & CEO
+  totalPay: 2036000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Timo  Reister
+  title: Head of Asia-Pacific, North & South America and Deputy Chairman of Executive
+    Board
+  totalPay: 1747000
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Esma  Saglik
+  title: CFO & Member of the Executive Board
+  totalPay: 1057000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Ralph  Rheinboldt
+  title: Head of EMEA, Specialty & Industry Division and Member of Executive Board
+  totalPay: 1176000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mathieu  Boulandet
+  title: CTO & Member of the Executive Board
+  totalPay: 887000
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andreas  Schaller
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Christine  Vornbaumen
+  title: Head of Human Resources
+  unexercisedValue: 0
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Reiner  Schmidt
+  title: Head of Finance, Controlling & Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1959
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Knapp
+  title: Head of Germany, Switzerland & Benelux
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carsten  Meyer
+  title: Head of Automotive Aftermarket Div., OEM Division & Mining Division
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 43.46
+currentRatio: 2.091
+customPriceAlertConfidence: LOW
+dayHigh: 43.64
+dayLow: 43.24
+debtToEquity: 6.62
+dividendRate: 1.23
+dividendYield: 2.86
+earningsCallTimestampEnd: 1761908400
+earningsCallTimestampStart: 1761908400
+earningsQuarterlyGrowth: 0.226
+earningsTimestampEnd: 1753938000
+earningsTimestampStart: 1753938000
+ebitda: 609000000
+ebitdaMargins: 0.15267
+enterpriseToEbitda: 9.252
+enterpriseToRevenue: 1.412
+enterpriseValue: 5634299904
+epsCurrentYear: 2.7204
+epsForward: 2.73007
+epsTrailingTwelveMonths: 2.76
+esgPopulated: false
+exDividendDate: 1778112000
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 621 3802 7190
+fiftyDayAverage: 43.3148
+fiftyDayAverageChange: 0.14519882
+fiftyDayAverageChangePercent: 0.0033521757
+fiftyTwoWeekChangePercent: 9.343433
+fiftyTwoWeekHigh: 46.6
+fiftyTwoWeekHighChange: -3.1399994
+fiftyTwoWeekHighChangePercent: -0.06738196
+fiftyTwoWeekLow: 31.8
+fiftyTwoWeekLowChange: 11.66
+fiftyTwoWeekLowChangePercent: 0.36666667
+fiftyTwoWeekRange: 31.8 - 46.6
+financialCurrency: EUR
+firstTradeDateMilliseconds: 921571200000
+fiveYearAvgDividendYield: 2.86
+floatShares: 90427990
+forwardEps: 2.73007
+forwardPE: 15.919004
+freeCashflow: 144499008
+fullExchangeName: XETRA
+fullTimeEmployees: 7213
+fulldayChange: 0.15999985
+fulldayChangePercent: 0.36951467
+fulldayPrice: 43.46
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.34293997
+grossProfits: 1368000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.40263
+impliedSharesOutstanding: 131000000
+industry: Specialty Chemicals
+industryDisp: Specialty Chemicals
+industryKey: specialty-chemicals
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778112000
+lastDividendValue: 1.23
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1401926400
+lastSplitFactor: '2:1'
+longBusinessSummary: Fuchs SE, together with its subsidiaries, develops, produces,
+  and distributes specialty lubricants and functional fluids in Europe, the Middle
+  East, Africa, the Asia Pacific, and North and South America. The company offers
+  automotive and industrial lubricants, such as biodegradable lubricants, central
+  and mobile hydraulic oils, dry coatings, engine and gear oils, motorcycle/two wheelers,
+  service fluids, chain lubricants, machine oils, open gear lubricants, compressor
+  and refrigeration oils, release agents, slideways oils, fluids and industrial oils,
+  hydraulic oils, and textile machine and turbine oils, as well as various oils for
+  the agriculture sector. It also provides lubricating greases comprising assembly
+  pastes, biodegradable and food grade greases, multi-purpose/long-life greases, pastes
+  for extreme temperatures, perfluorinated pastes, and wheel bearing greases, as well
+  as gear boxes; and greases for central lubricating systems, extreme temperature,
+  machine tools, plain and roller bearings, rail vehicles, spray cans or rattle cans,
+  and solid lubricants. In addition, the company offers metal processing lubricants
+  consisting of cleaners, corrosion preventives, cutting and grinding, forming lubricants,
+  and quenching oils; and special application lubricants for lubricating oils and
+  pastes, adhesive lubricants, concrete and asphalt release agents, solid film and
+  food grade lubricants, metal forming lubricants, corrosion protection and rust looseners,
+  cleaners and protective agents, sprays, and application equipment. Further, it offers
+  open gear and surface coating services. The company serves the automotive, industry,
+  engineering, construction, mining, transport, heavy duty, steel and cement, aerospace,
+  wind energy, and food sectors. The company was formerly known as Fuchs Petrolub
+  SE and changed its name to Fuchs SE in July 2023. Fuchs SE was founded in 1931 and
+  is headquartered in Mannheim, Germany.
+longName: Fuchs SE
+market: de_market
+marketCap: 5693259776
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_877182
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 359000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5253755000
+numberOfAnalystOpinions: 10
+open: 43.3
+operatingCashflow: 327000000
+operatingMargins: 0.13136
+overallRisk: 2
+payoutRatio: 0.44889998
+phone: 49 621 3802 0
+prevName: Fuchs Petrolub SE
+previousClose: 43.3
+priceEpsCurrentYear: 15.975591
+priceHint: 2
+priceToBook: 2.8811986
+priceToSalesTrailing12Months: 1.4272399
+profitMargins: 0.09
+quickRatio: 1.176
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.9
+region: US
+regularMarketChange: 0.15999985
+regularMarketChangePercent: 0.36951467
+regularMarketDayHigh: 43.64
+regularMarketDayLow: 43.24
+regularMarketDayRange: 43.24 - 43.64
+regularMarketOpen: 43.3
+regularMarketPreviousClose: 43.3
+regularMarketPrice: 43.46
+regularMarketTime: 1794411352
+regularMarketVolume: 28422
+returnOnAssets: 0.11326
+returnOnEquity: 0.17702
+revenueGrowth: 0.253
+revenuePerShare: 27.198
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 10
+sharesOutstanding: 65500000
+shortName: FUCHS SE                      N
+sourceInterval: 15
+symbol: FPE3.DE
+targetHighPrice: 54.0
+targetLowPrice: 43.0
+targetMeanPrice: 49.25
+targetMedianPrice: 51.0
+totalCash: 184000000
+totalCashPerShare: 1.405
+totalDebt: 143000000
+totalRevenue: 3988999936
+tradeable: false
+trailingAnnualDividendRate: 1.23
+trailingAnnualDividendYield: 0.028406467
+trailingEps: 2.76
+trailingPE: 15.746377
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 39.4685
+twoHundredDayAverageChange: 3.9915009
+twoHundredDayAverageChangePercent: 0.101131305
+typeDisp: Equity
+volume: 28422
+website: https://www.fuchs.com/group
+zip: '68169'

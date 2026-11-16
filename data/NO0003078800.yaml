@@ -1,0 +1,260 @@
+52WeekChange: 0.39522827
+SandP52WeekChange: 0.097798586
+address1: Lilleakerveien 4C
+allTimeHigh: 350.5
+allTimeLow: 5.75
+ask: 138.1
+askSize: 200
+auditRisk: 1
+averageAnalystRating: 2.9 - Hold
+averageDailyVolume10Day: 408790
+averageDailyVolume3Month: 397219
+averageVolume: 397219
+averageVolume10days: 408790
+beta: -0.012
+bid: 137.9
+bidSize: 210
+boardRisk: 2
+bookValue: 94.0588
+city: Oslo
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kristian Kuvaas Johansen
+  title: Chief Executive Officer
+  totalPay: 17253168
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sven Børre Larsen
+  title: Chief Financial Officer
+  totalPay: 6912507
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wadii El Karkouri
+  title: Executive Vice President of Technology
+  totalPay: 7671197
+  unexercisedValue: 0
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tana L. Pool J.D.
+  title: Executive VP of Legal & Sustainability and General Counsel
+  totalPay: 6659611
+  unexercisedValue: 0
+  yearBorn: 1960
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Whitney  Eaton J.D.
+  title: Executive Vice President of People & Communication
+  totalPay: 5329562
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Will  Ashby
+  title: Executive Vice President of Business Development
+  totalPay: 6366981
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Hajovsky
+  title: Executive Vice President of Multi-Client
+  totalPay: 7015539
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carel  Hooijkaas
+  title: Executive Vice President of Marine Data Acquisition
+  totalPay: 7062372
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bård  Stenberg
+  title: VP of IR & Business Intelligence
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott  Michell
+  title: Senior VP of Imaging
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Norway
+cryptoTradeable: false
+currency: NOK
+currentPrice: 138.1
+currentRatio: 0.64
+customPriceAlertConfidence: LOW
+dayHigh: 138.4
+dayLow: 135.9
+debtToEquity: 37.482
+dividendRate: 5.85
+dividendYield: 4.35
+earningsCallTimestampEnd: 1792652400
+earningsCallTimestampStart: 1792652400
+earningsGrowth: -0.037
+earningsQuarterlyGrowth: -0.039
+earningsTimestamp: 1792678800
+earningsTimestampEnd: 1792678800
+earningsTimestampStart: 1792678800
+ebitda: 565900032
+ebitdaMargins: 0.41597998
+enterpriseToEbitda: 47.81
+enterpriseToRevenue: 19.888
+enterpriseValue: 27055886336
+epsCurrentYear: 0.95775
+epsForward: 12.631436
+epsTrailingTwelveMonths: 3.49
+esgPopulated: false
+exDividendDate: 1793232000
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 138.362
+fiftyDayAverageChange: -0.2619934
+fiftyDayAverageChangePercent: -0.0018935358
+fiftyTwoWeekChangePercent: 39.522827
+fiftyTwoWeekHigh: 159.9
+fiftyTwoWeekHighChange: -21.799988
+fiftyTwoWeekHighChangePercent: -0.13633513
+fiftyTwoWeekLow: 84.65
+fiftyTwoWeekLowChange: 53.450005
+fiftyTwoWeekLowChangePercent: 0.63142353
+fiftyTwoWeekRange: 84.65 - 159.9
+financialCurrency: USD
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 4.65
+floatShares: 195925726
+forwardEps: 12.631436
+forwardPE: 10.933041
+freeCashflow: 70012496
+fullExchangeName: Oslo
+fullTimeEmployees: 1640
+fulldayChange: 3.600006
+fulldayChangePercent: 2.6765845
+fulldayPrice: 138.1
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.79240996
+grossProfits: 1078000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.73498
+impliedSharesOutstanding: 196502987
+industry: Oil & Gas Equipment & Services
+industryDisp: Oil & Gas Equipment & Services
+industryKey: oil-gas-equipment-services
+irWebsite: http://www.tgs.com/investor-relations.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793232000
+lastDividendValue: 1.45
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1150329600
+lastSplitFactor: '4:1'
+longBusinessSummary: TGS ASA provides geoscience data services to the oil and gas
+  industry in Norway and internationally. It operates through Multi client, Marine
+  Data Acquisition (MDA), Imaging, New Energy Solutions (NES), and Shared Services
+  segments. The company offers seismic data using robust technology and imaging solutions;
+  well data recorded expertly matched and validated, from permit to abandonment; carbon
+  storage and monitoring solutions; wind energy data partner throughout the wind development
+  lifecycle; solar operations; and asset management services. It also offers applications
+  for oil and gas, new energies, data platforms, and ai/machine learning. TGS ASA
+  has a agreement with Ministry of Hydrocarbon and Mining Development of the Republic
+  of Equatorial Guinea to create an offshore MegaSurvey. The company was formerly
+  known as TGS-NOPEC Geophysical Company ASA and changed its name to TGS ASA in June
+  2021. TGS ASA was founded in 1981 and is headquartered in Oslo, Norway.
+longName: TGS ASA
+market: no_market
+marketCap: 27137064960
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_883703
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 72800000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 26056296076
+numberOfAnalystOpinions: 8
+open: 136.0
+operatingCashflow: 696400000
+operatingMargins: 0.26551
+overallRisk: 2
+payoutRatio: 1.7006
+pegRatio: 0.92
+phone: 47 67 52 64 00
+prevName: TGS-NOPEC Geophysical Company ASA
+previousClose: 134.5
+priceEpsCurrentYear: 144.19212
+priceHint: 2
+priceToBook: 1.4682306
+priceToSalesTrailing12Months: 19.947857
+profitMargins: 0.05351
+quickRatio: 0.47
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.875
+region: US
+regularMarketChange: 3.600006
+regularMarketChangePercent: 2.6765845
+regularMarketDayHigh: 138.4
+regularMarketDayLow: 135.9
+regularMarketDayRange: 135.9 - 138.4
+regularMarketOpen: 136.0
+regularMarketPreviousClose: 134.5
+regularMarketPrice: 138.1
+regularMarketTime: 1794410712
+regularMarketVolume: 365590
+returnOnAssets: 0.05886
+returnOnEquity: 0.03662
+revenueGrowth: 0.009
+revenuePerShare: 6.83
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 1
+sharesOutstanding: 196502987
+shortName: TGS ASA
+sourceInterval: 15
+symbol: TGS.OL
+targetHighPrice: 203.57436
+targetLowPrice: 90.93764
+targetMeanPrice: 155.01021
+targetMedianPrice: 163.51122
+totalCash: 148400000
+totalCashPerShare: 0.754
+totalDebt: 740600000
+totalRevenue: 1360400000
+tradeable: false
+trailingAnnualDividendRate: 0.62
+trailingAnnualDividendYield: 0.0046096654
+trailingEps: 3.49
+trailingPE: 39.5702
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 132.83376
+twoHundredDayAverageChange: 5.2662506
+twoHundredDayAverageChangePercent: 0.039645426
+typeDisp: Equity
+volume: 365590
+website: https://www.tgs.com
+zip: 0283

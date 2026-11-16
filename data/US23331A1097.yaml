@@ -1,0 +1,273 @@
+52WeekChange: 0.025131822
+SandP52WeekChange: 0.097798586
+address1: 1341 Horton Circle
+allTimeHigh: 199.85
+allTimeLow: 1.051366
+ask: 146.75
+askSize: 100
+auditRisk: 7
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 4118940
+averageDailyVolume3Month: 2855214
+averageVolume: 2855214
+averageVolume10days: 4118940
+beta: 1.369
+bid: 146.65
+bidSize: 200
+boardRisk: 6
+bookValue: 85.138
+city: Arlington
+companyOfficers:
+- age: 69
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David V. Auld
+  title: Executive Chairman
+  totalPay: 3150401
+  unexercisedValue: 0
+  yearBorn: 1956
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul J. Romanowski
+  title: President, CEO & Director
+  totalPay: 4335427
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bill W. Wheat
+  title: Executive VP & CFO
+  totalPay: 2930401
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael J. Murray
+  title: Executive VP & COO
+  totalPay: 3522990
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Aron M. Odom
+  title: Senior VP & Corporate Controller
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Collin Michael Dawson
+  title: Vice President of Corporate Finance & Treasurer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jessica Leigh Hansen
+  title: Senior VP of Communications & People and Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas B. Montano
+  title: Senior VP, Corporate Compliance Officer & Corporate Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rick  Horton
+  title: President of South Region
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Matt  Farris
+  title: President of West Region
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions:
+- header: Dividend
+  message: DHI announced a cash dividend of $0.50 with an ex-date of Nov. 12, 2026
+  meta:
+    amount: '0.50'
+    dateEpochMs: 1794459600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 147.205
+currentRatio: 4.297
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 149.09
+dayLow: 146.4
+debtToEquity: 25.529
+displayName: D.R. Horton
+dividendDate: 1795046400
+dividendRate: 2.0
+dividendYield: 1.34
+earningsCallTimestampEnd: 1800365400
+earningsCallTimestampStart: 1800365400
+earningsGrowth: -0.124
+earningsQuarterlyGrowth: -0.181
+earningsTimestamp: 1800365400
+earningsTimestampEnd: 1800365400
+earningsTimestampStart: 1800365400
+ebitda: 3809700096
+ebitdaMargins: 0.11529
+enterpriseToEbitda: 11.873
+enterpriseToRevenue: 1.369
+enterpriseValue: 45232111616
+epsCurrentYear: 8.86915
+epsForward: 10.80315
+epsTrailingTwelveMonths: 10.11
+esgPopulated: false
+exDividendDate: 1794441600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 141.5248
+fiftyDayAverageChange: 5.6802063
+fiftyDayAverageChangePercent: 0.040135767
+fiftyTwoWeekChangePercent: 2.5131822
+fiftyTwoWeekHigh: 170.79
+fiftyTwoWeekHighChange: -23.584991
+fiftyTwoWeekHighChangePercent: -0.13809352
+fiftyTwoWeekLow: 130.4
+fiftyTwoWeekLowChange: 16.805008
+fiftyTwoWeekLowChangePercent: 0.12887277
+fiftyTwoWeekRange: 130.4 - 170.79
+financialCurrency: USD
+firstTradeDateMilliseconds: 707751000000
+fiveYearAvgDividendYield: 0.95
+floatShares: 242163994
+forwardEps: 10.80315
+forwardPE: 13.626119
+freeCashflow: 7815450112
+fullExchangeName: NYSE
+fulldayChange: -2.494995
+fulldayChangePercent: -1.6666634
+fulldayPrice: 147.205
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.20583999
+grossProfits: 6801500160
+hasPrePostMarketData: true
+heldPercentInsiders: 0.10795999
+heldPercentInstitutions: 0.8891
+impliedSharesOutstanding: 271435610
+industry: Residential Construction
+industryDisp: Residential Construction
+industryKey: residential-construction
+irWebsite: http://www.drhorton.com/Company-Information/Investors.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1785974400
+lastDividendValue: 0.45
+lastFiscalYearEnd: 1790726400
+lastSplitDate: 1111017600
+lastSplitFactor: '4:3'
+longBusinessSummary: D.R. Horton, Inc. operates as a homebuilding company in East,
+  North, Southeast, South Central, Southwest, and Northwest regions in the United
+  States. It engages in the acquisition and development of land; and construction
+  and sale of residential homes in 126 markets across 36 states under the names of
+  D.R. Horton. The company also constructs and sells single-family detached homes;
+  and attached homes, such as townhomes and duplexes. In addition, it provides mortgage
+  financing and title agency services; and engages in the residential lot development
+  business. Further, the company develops, constructs, owns, leases, and sells multi-family
+  and single-family rental properties; conducts insurance-related operations; and
+  owns water rights and other water-related assets, as well as non-residential real
+  estate, including ranch land and improvements. It primarily serves homebuyers. D.R.
+  Horton, Inc. was founded in 1978 and is headquartered in Arlington, Texas.
+longName: D.R. Horton, Inc.
+market: us_market
+marketCap: 39956680704
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_107405
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2889400064
+nextFiscalYearEnd: 1822262400
+nonDilutedMarketCap: 40633910817
+numberOfAnalystOpinions: 14
+open: 147.44
+operatingCashflow: 3507200000
+operatingMargins: 0.111770004
+overallRisk: 7
+payoutRatio: 0.1668
+pegRatio: 1.94
+phone: 817 390 8200
+previousClose: 149.7
+priceEpsCurrentYear: 16.59742
+priceHint: 2
+priceToBook: 1.7290164
+priceToSalesTrailing12Months: 1.2092181
+profitMargins: 0.08744001
+quickRatio: 0.298
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.80952
+region: US
+regularMarketChange: -2.494995
+regularMarketChangePercent: -1.6666634
+regularMarketDayHigh: 149.09
+regularMarketDayLow: 146.4
+regularMarketDayRange: 146.4 - 149.09
+regularMarketOpen: 147.44
+regularMarketPreviousClose: 149.7
+regularMarketPrice: 147.205
+regularMarketTime: 1794413725
+regularMarketVolume: 406642
+returnOnAssets: 0.06568
+returnOnEquity: 0.12124
+revenueGrowth: -0.032
+revenuePerShare: 116.023
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 8
+sharesOutstanding: 271435610
+sharesPercentSharesOut: 0.0438
+sharesShort: 11896403
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 10883144
+shortName: D.R. Horton, Inc.
+shortPercentOfFloat: 0.0583
+shortRatio: 3.64
+sourceInterval: 15
+state: TX
+symbol: DHI
+targetHighPrice: 186.0
+targetLowPrice: 114.0
+targetMeanPrice: 146.5
+targetMedianPrice: 148.5
+totalCash: 2060400000
+totalCashPerShare: 7.591
+totalDebt: 6053899776
+totalRevenue: 33043400704
+tradeable: false
+trailingAnnualDividendRate: 1.8
+trailingAnnualDividendYield: 0.012024048
+trailingEps: 10.11
+trailingPE: 14.560337
+trailingPegRatio: 1.9411
+triggerable: true
+twoHundredDayAverage: 147.51524
+twoHundredDayAverageChange: -0.3102417
+twoHundredDayAverageChangePercent: -0.0021031161
+typeDisp: Equity
+volume: 406642
+website: https://www.drhorton.com
+zip: '76011'

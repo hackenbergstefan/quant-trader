@@ -1,0 +1,270 @@
+52WeekChange: 0.8886564
+SandP52WeekChange: 0.097798586
+address1: 2000 W. Sam Houston Pkwy. S.
+address2: Suite 200
+allTimeHigh: 149.23
+allTimeLow: 2.597403
+ask: 48.28
+askSize: 1
+auditRisk: 5
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 6492850
+averageDailyVolume3Month: 5687996
+averageVolume: 5687996
+averageVolume10days: 6492850
+beta: 0.282
+bid: 43.48
+bidSize: 1
+boardRisk: 2
+bookValue: 21.124
+city: Houston
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John J. Christmann IV
+  title: CEO & Director
+  totalPay: 5286085
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephen J. Riney
+  title: President
+  totalPay: 3400459
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ben C. Rodgers
+  title: Executive VP & CFO
+  totalPay: 1793169
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kimberly O. Warnica J.D.
+  title: Executive VP, Chief Legal Officer & Corporate Secretary
+  totalPay: 2372748
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tracey K. Henderson
+  title: Executive Vice President of Exploration
+  totalPay: 2019140
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert P. Rayphole
+  title: VP, Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mandeep  Walia
+  title: Vice President & Chief Information Officer
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark D. Maddox
+  title: Executive Vice President of Administration
+  totalPay: 1381793
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephane M. Aka
+  title: Managing Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott R. Grandt
+  title: Senior Vice President of U.S. Assets & Corporate Development
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 46.28
+currentRatio: 0.845
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 46.48
+dayLow: 45.44
+debtToEquity: 42.234
+displayName: APA
+dividendDate: 1795392000
+dividendRate: 1.0
+dividendYield: 2.22
+earningsCallTimestampEnd: 1793894400
+earningsCallTimestampStart: 1793894400
+earningsGrowth: 2.509
+earningsQuarterlyGrowth: 2.405
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1793826000
+earningsTimestampStart: 1793826000
+ebitda: 6370999808
+ebitdaMargins: 0.68973
+enterpriseToEbitda: 3.049
+enterpriseToRevenue: 2.103
+enterpriseValue: 19426310144
+epsCurrentYear: 6.91843
+epsForward: 5.51787
+epsTrailingTwelveMonths: 6.15
+esgPopulated: false
+exDividendDate: 1792627200
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 45.9912
+fiftyDayAverageChange: 0.2887993
+fiftyDayAverageChangePercent: 0.0062794467
+fiftyTwoWeekChangePercent: 88.86564
+fiftyTwoWeekHigh: 52.96
+fiftyTwoWeekHighChange: -6.6800003
+fiftyTwoWeekHighChangePercent: -0.12613294
+fiftyTwoWeekLow: 23.06
+fiftyTwoWeekLowChange: 23.22
+fiftyTwoWeekLowChangePercent: 1.0069385
+fiftyTwoWeekRange: 23.06 - 52.96
+financialCurrency: USD
+firstTradeDateMilliseconds: 295623000000
+fiveYearAvgDividendYield: 1.86
+floatShares: 333647457
+forwardEps: 5.51787
+forwardPE: 8.387294
+freeCashflow: 2110249984
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 1791
+fulldayChange: 1.1599998
+fulldayChangePercent: 2.5709217
+fulldayPrice: 46.28
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.78976
+grossProfits: 7295000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0046200003
+heldPercentInstitutions: 1.13611
+impliedSharesOutstanding: 335756005
+industry: Oil & Gas E&P
+industryDisp: Oil & Gas E&P
+industryKey: oil-gas-e-p
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792627200
+lastDividendValue: 0.25
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1074124800
+lastSplitFactor: '2:1'
+longBusinessSummary: APA Corporation, an independent energy company, explores for,
+  develops, and produces natural gas, crude oil, and natural gas liquids. The company
+  has oil and gas operations in the United States, Egypt, and North Sea. It also has
+  exploration and appraisal activities in Suriname, as well as holds interests in
+  projects located in Uruguay and internationally. APA Corporation was incorporated
+  in 1954 and is headquartered in Houston, Texas.
+longName: APA Corporation
+market: us_market
+marketCap: 15538787328
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_169838
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 2169999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 15156026065
+numberOfAnalystOpinions: 26
+open: 45.9
+operatingCashflow: 4444000256
+operatingMargins: 0.43315
+overallRisk: 7
+payoutRatio: 0.1626
+pegRatio: 1.1
+phone: 713 296 6000
+prevName: Apache Corporation
+previousClose: 45.12
+priceEpsCurrentYear: 6.6893787
+priceHint: 2
+priceToBook: 2.190873
+priceToSalesTrailing12Months: 1.6822331
+profitMargins: 0.23492001
+quickRatio: 0.615
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.57143
+region: US
+regularMarketChange: 1.1599998
+regularMarketChangePercent: 2.5709217
+regularMarketDayHigh: 46.48
+regularMarketDayLow: 45.44
+regularMarketDayRange: 45.44 - 46.48
+regularMarketOpen: 45.9
+regularMarketPreviousClose: 45.12
+regularMarketPrice: 46.28
+regularMarketTime: 1794413721
+regularMarketVolume: 910268
+returnOnAssets: 0.14056
+returnOnEquity: 0.33321998
+revenueGrowth: 0.315
+revenuePerShare: 26.223
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 7
+sharesOutstanding: 335756005
+sharesPercentSharesOut: 0.0682
+sharesShort: 23200030
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 25522151
+shortName: APA Corporation
+shortPercentOfFloat: 0.0907
+shortRatio: 4.53
+sourceInterval: 15
+state: TX
+symbol: APA
+targetHighPrice: 62.0
+targetLowPrice: 37.0
+targetMeanPrice: 49.84615
+targetMedianPrice: 51.0
+totalCash: 75000000
+totalCashPerShare: 0.223
+totalDebt: 3425999872
+totalRevenue: 9237000192
+tradeable: false
+trailingAnnualDividendRate: 1.0
+trailingAnnualDividendYield: 0.022163121
+trailingEps: 6.15
+trailingPE: 7.5252028
+trailingPegRatio: 1.0956
+triggerable: true
+twoHundredDayAverage: 38.419
+twoHundredDayAverageChange: 7.861
+twoHundredDayAverageChangePercent: 0.20461231
+typeDisp: Equity
+volume: 910268
+website: https://www.apacorp.com
+zip: 77042-3643

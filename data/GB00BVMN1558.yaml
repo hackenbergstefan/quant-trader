@@ -1,0 +1,225 @@
+52WeekChange: -0.34335685
+SandP52WeekChange: 0.097798586
+address1: 111 Buckingham Palace Road
+address2: Victoria Street
+allTimeHigh: 16.615
+allTimeLow: 7.7
+ask: 10.83
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 1534729
+averageDailyVolume3Month: 1408662
+averageVolume: 1408662
+averageVolume10days: 1534729
+bid: 10.815
+bookValue: 8.566
+city: London
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Austin  Lally
+  title: CEO & Director
+  totalPay: 2984000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Colin  Smith
+  title: Chief Financial Officer
+  totalPay: 1250000
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cristina Rivas Saiz
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kate  Stewart
+  title: Group Investor Relations Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nina  Cronstedt
+  title: Chief Legal Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marta  Panzano Barbero
+  title: Chief Human Resources, Communications & ESG Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Olivier  Horps
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Olivier  Allender
+  title: President of Central Europe, UK, Ireland & Arlo
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Antonio  Anguita
+  title: President of Southern Europe, Nordics & Latin America
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexandre  Froment-Curtil
+  title: Managing Director of France
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: EUR
+currentPrice: 10.82
+currentRatio: 0.729
+customPriceAlertConfidence: HIGH
+dayHigh: 10.9
+dayLow: 10.54
+debtToEquity: 59.18
+earningsCallTimestampEnd: 1793696400
+earningsCallTimestampStart: 1793696400
+earningsTimestamp: 1793723400
+earningsTimestampEnd: 1793723400
+earningsTimestampStart: 1793723400
+ebitda: 1388199936
+ebitdaMargins: 0.34375
+enterpriseToEbitda: 11.746
+enterpriseToRevenue: 4.038
+enterpriseValue: 16306037760
+epsCurrentYear: 0.56025
+epsForward: 0.67343
+esgPopulated: false
+exDividendDate: 1788912000
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 9.11034
+fiftyDayAverageChange: 1.7096596
+fiftyDayAverageChangePercent: 0.18766144
+fiftyTwoWeekChangePercent: -34.335686
+fiftyTwoWeekHigh: 16.522
+fiftyTwoWeekHighChange: -5.7019997
+fiftyTwoWeekHighChangePercent: -0.3451156
+fiftyTwoWeekLow: 7.7
+fiftyTwoWeekLowChange: 3.12
+fiftyTwoWeekLowChangePercent: 0.4051948
+fiftyTwoWeekRange: 7.7 - 16.522
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1759906800000
+floatShares: 275118174
+forwardEps: 0.67343
+forwardPE: 16.067
+freeCashflow: 186037504
+fullExchangeName: Stockholm
+fullTimeEmployees: 30000
+fulldayChange: 0.119999886
+fulldayChangePercent: 1.1214943
+fulldayPrice: 10.82
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.48950002
+grossProfits: 1976800000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.21372999
+heldPercentInstitutions: 0.71042997
+impliedSharesOutstanding: 1036031534
+industry: Security & Protection Services
+industryDisp: Security & Protection Services
+industryKey: security-protection-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788912000
+lastDividendValue: 0.1
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Verisure plc provides security services for families and small
+  businesses in Europe and Latin America. It provides professional installation, 24/7
+  monitoring, expert verification and response, customer care, maintenance, and technical
+  support, as well as protecting against intrusion, burglary, fire, physical attack,
+  theft, life-threatening emergencies, and other hazards. The company was founded
+  in 1988 and is based in London, the United Kingdom.
+longName: Verisure plc
+market: se_market
+marketCap: 11209861120
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1954594020
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 19400000
+nextFiscalYearEnd: 1798675200
+numberOfAnalystOpinions: 11
+open: 10.9
+operatingCashflow: 1523900032
+operatingMargins: 0.0937
+payoutRatio: 5.0
+phone: 44 20 8987 6400
+prevName: LunaDefi
+previousClose: 10.7
+priceEpsCurrentYear: 19.312807
+priceHint: 2
+priceToBook: 1.2631333
+priceToSalesTrailing12Months: 2.7758174
+profitMargins: 0.0047999998
+quickRatio: 0.326
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.36364
+region: US
+regularMarketChange: 0.119999886
+regularMarketChangePercent: 1.1214943
+regularMarketDayHigh: 10.9
+regularMarketDayLow: 10.54
+regularMarketDayRange: 10.54 - 10.9
+regularMarketOpen: 10.9
+regularMarketPreviousClose: 10.7
+regularMarketPrice: 10.82
+regularMarketTime: 1794412472
+regularMarketVolume: 233932
+returnOnAssets: 0.0146200005
+returnOnEquity: 0.00264
+revenueGrowth: 0.105
+revenuePerShare: 3.921
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+sharesOutstanding: 1036031534
+shortName: Verisure plc
+sourceInterval: 15
+symbol: VSURE.ST
+targetHighPrice: 19.0
+targetLowPrice: 11.9
+targetMeanPrice: 14.81
+targetMedianPrice: 15.1
+totalCash: 31400000
+totalCashPerShare: 0.03
+totalDebt: 5251899904
+totalRevenue: 4038400000
+tradeable: false
+trailingAnnualDividendRate: 0.1
+trailingAnnualDividendYield: 0.009345795
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 10.01758
+twoHundredDayAverageChange: 0.80241966
+twoHundredDayAverageChangePercent: 0.08010115
+typeDisp: Equity
+volume: 233932
+website: https://www.verisure.com
+zip: SW1W 0SR

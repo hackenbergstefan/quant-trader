@@ -1,0 +1,246 @@
+52WeekChange: 0.15211976
+SandP52WeekChange: 0.097798586
+address1: 103 Mount Street
+allTimeHigh: 4475.0
+allTimeLow: 10.6351
+ask: 3303.0
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 923387
+averageDailyVolume3Month: 1072769
+averageVolume: 1072769
+averageVolume10days: 923387
+beta: 1.439
+bid: 3300.0
+bidSize: 0
+boardRisk: 5
+bookValue: 8.143077
+city: London
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ivan  Arriagada Herrera
+  title: Chief Executive Officer
+  totalPay: 2862433
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mauricio  Ortiz
+  title: Chief Financial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Octavio Araneda Oses
+  title: Chief Operating Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patricio  Enei
+  title: Vice President of Legal
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rodrigo  Bravo
+  title: Vice President of Sales
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Georgeanne  Barcelo
+  title: Vice President of People & Organisation
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Alejandra  Vial
+  title: Vice President of Sustainability
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sergio  Giglio
+  title: Vice President of Exploration and Mineral Resources
+  unexercisedValue: 0
+- age: 84
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nelson  Pizarro
+  title: Chief Executive Officer of Corporation Nacional Del Cobre De Chile
+  unexercisedValue: 0
+  yearBorn: 1941
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Julian Thomas Roddan Anderson
+  title: Company Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 3304.0
+currentRatio: 2.578
+customPriceAlertConfidence: LOW
+dayHigh: 3390.42
+dayLow: 3254.0
+debtToEquity: 53.875
+dividendRate: 0.58
+dividendYield: 1.8
+earningsCallTimestampEnd: 1786626000
+earningsCallTimestampStart: 1786626000
+earningsGrowth: 0.624
+earningsQuarterlyGrowth: 0.624
+earningsTimestamp: 1786635000
+earningsTimestampEnd: 1786635000
+earningsTimestampStart: 1786635000
+ebitda: 5425399808
+ebitdaMargins: 0.58338
+enterpriseToEbitda: 7.406
+enterpriseToRevenue: 4.32
+enterpriseValue: 40179605504
+epsCurrentYear: 2.00131
+epsForward: 1.4437145
+epsTrailingTwelveMonths: 1.25
+esgPopulated: false
+exDividendDate: 1788393600
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 3554.1
+fiftyDayAverageChange: -250.1001
+fiftyDayAverageChangePercent: -0.07036946
+fiftyTwoWeekChangePercent: 15.211975
+fiftyTwoWeekHigh: 4475.0
+fiftyTwoWeekHighChange: -1171.0
+fiftyTwoWeekHighChangePercent: -0.26167598
+fiftyTwoWeekLow: 2496.0
+fiftyTwoWeekLowChange: 808.0
+fiftyTwoWeekLowChangePercent: 0.32371795
+fiftyTwoWeekRange: 2496.0 - 4475.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 1.89
+floatShares: 339627631
+forwardEps: 1.4437145
+forwardPE: 22.88541
+freeCashflow: 574662528
+fullExchangeName: LSE
+fullTimeEmployees: 8457
+fulldayChange: 70.0
+fulldayChangePercent: 2.1645021
+fulldayPrice: 3304.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.53832
+grossProfits: 5006300160
+hasPrePostMarketData: false
+heldPercentInsiders: 0.65474
+heldPercentInstitutions: 0.22513
+impliedSharesOutstanding: 985856695
+industry: Copper
+industryDisp: Copper
+industryKey: copper
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788393600
+lastDividendValue: 0.301
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1150675200
+lastSplitFactor: '5:1'
+longBusinessSummary: Antofagasta plc operates as a mining company. It operates through
+  Los Pelambres, Centinela, Antucoya, Zaldívar, Exploration and Evaluation, and Transport
+  Division segments. The company produces copper cathodes and copper concentrates;
+  molybdenum concentrates; and gold and silver by-products. It also provides rail
+  and road cargo services to mining customers in northern Chile. In addition, the
+  company has exploration projects in various countries. It has operations in the
+  United Kingdom, Switzerland, Spain, Germany, rest of Europe, Chile, rest of Latin
+  America, the United States, Japan, China, Singapore, South Korea, Hong Kong, and
+  rest of Asia. The company was incorporated in 1888 and is headquartered in London,
+  the United Kingdom. Antofagasta plc is a subsidiary of Metalinvest Anstalt.
+longName: Antofagasta plc
+market: gb_market
+marketCap: 32572704768
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_877330
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1654599936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 31882605516
+numberOfAnalystOpinions: 21
+open: 3376.0
+operatingCashflow: 3511200000
+operatingMargins: 0.42632
+overallRisk: 6
+payoutRatio: 0.3821
+pegRatio: 0.92
+phone: 44 20 7808 0988
+previousClose: 3234.0
+priceEpsCurrentYear: 1650.9186
+priceHint: 2
+priceToBook: 4.0574346
+priceToSalesTrailing12Months: 3.5024788
+profitMargins: 0.17792
+quickRatio: 2.203
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.72727
+region: US
+regularMarketChange: 70.0
+regularMarketChangePercent: 2.1645021
+regularMarketDayHigh: 3390.42
+regularMarketDayLow: 3254.0
+regularMarketDayRange: 3254.0 - 3390.42
+regularMarketOpen: 3376.0
+regularMarketPreviousClose: 3234.0
+regularMarketPrice: 3304.0
+regularMarketTime: 1794411553
+regularMarketVolume: 261383
+returnOnAssets: 0.096269995
+returnOnEquity: 0.17846
+revenueGrowth: 0.179
+revenuePerShare: 9.433
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 10
+sharesOutstanding: 985856695
+shortName: ANTOFAGASTA PLC ORD 5P
+sourceInterval: 15
+symbol: ANTO.L
+targetHighPrice: 4990.893
+targetLowPrice: 2485.4797
+targetMeanPrice: 3814.146
+targetMedianPrice: 3992.7744
+totalCash: 4160100096
+totalCashPerShare: 4.22
+totalDebt: 8126199808
+totalRevenue: 9299900416
+tradeable: false
+trailingAnnualDividendRate: 0.781
+trailingAnnualDividendYield: 0.0002414966
+trailingEps: 1.25
+trailingPE: 26.432001
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 3736.705
+twoHundredDayAverageChange: -432.70508
+twoHundredDayAverageChangePercent: -0.11579856
+typeDisp: Equity
+volume: 261383
+website: https://www.antofagasta.co.uk
+zip: W1K 2TJ

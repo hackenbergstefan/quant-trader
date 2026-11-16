@@ -1,0 +1,230 @@
+52WeekChange: 0.82328355
+SandP52WeekChange: 0.097798586
+address1: Laufengasse 18
+allTimeHigh: 28.56
+allTimeLow: 7.685
+ask: 15.39
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 854949
+averageDailyVolume3Month: 984508
+averageVolume: 984508
+averageVolume10days: 854949
+beta: 0.784
+bid: 15.37
+bidSize: 0
+boardRisk: 1
+bookValue: 7.0498505
+city: Neuhausen am Rheinfall
+companyOfficers:
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Christoph  Wegener
+  title: Chief Markets Officer, President Region Europe & Member of Executive Board
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  maxAge: 1
+  name: Ms. Ann-Kristin  Erkens
+  title: CEO, Interim CFO & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Ricardo  Rodriguez
+  title: President & GM of Americas and Member of the Executive Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Abdelghany  Eladib
+  title: President & GM of India, Africa, Middle East and Member of Executive board
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Ms. Angela  Lu
+  title: President & GM of Asia Pacific and Member of the Executive Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Gavin  Steiner
+  title: CTO & Member of Executive Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Jessica  Spence
+  title: Head of Group Accounting & Financial Reporting
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Christoph  Ladner
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Philippe A. Huber
+  title: Chief Legal Officer, Chief Compliance Officer & Company Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Ingo  Buttgen
+  title: Head of Corporate Communication
+  unexercisedValue: 0
+compensationRisk: 10
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 15.39
+currentRatio: 0.873
+customPriceAlertConfidence: LOW
+dayHigh: 15.47
+dayLow: 15.22
+debtToEquity: 84.079
+dividendDate: 1744675200
+dividendYield: 0.0
+earningsCallTimestampEnd: 1785222000
+earningsCallTimestampStart: 1785222000
+earningsGrowth: 0.47
+earningsQuarterlyGrowth: 0.474
+earningsTimestampEnd: 1772555400
+earningsTimestampStart: 1772555400
+ebitda: 669400000
+ebitdaMargins: 0.20726
+enterpriseToEbitda: 11.942
+enterpriseToRevenue: 2.475
+enterpriseValue: 7993910784
+epsCurrentYear: 0.79851
+epsForward: 0.7809656
+epsTrailingTwelveMonths: -0.11
+esgPopulated: false
+exDividendDate: 1744329600
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 13.7902
+fiftyDayAverageChange: 1.5998001
+fiftyDayAverageChangePercent: 0.11600993
+fiftyTwoWeekChangePercent: 82.328354
+fiftyTwoWeekHigh: 15.81
+fiftyTwoWeekHighChange: -0.42000008
+fiftyTwoWeekHighChangePercent: -0.02656547
+fiftyTwoWeekLow: 8.06
+fiftyTwoWeekLowChange: 7.33
+fiftyTwoWeekLowChangePercent: 0.90942925
+fiftyTwoWeekRange: 8.06 - 15.81
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1538118000000
+fiveYearAvgDividendYield: 2.48
+floatShares: 315099381
+forwardEps: 0.7809656
+forwardPE: 19.706373
+freeCashflow: 311062496
+fullExchangeName: Swiss
+fullTimeEmployees: 9700
+fulldayChange: 0.119999886
+fulldayChangePercent: 0.78585386
+fulldayPrice: 15.39
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.25636998
+grossProfits: 828000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.11356
+heldPercentInstitutions: 0.59157
+impliedSharesOutstanding: 382097138
+industry: Packaging & Containers
+industryDisp: Packaging & Containers
+industryKey: packaging-containers
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1744329600
+lastDividendValue: 0.49
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: SIG Group AG provides aseptic carton packaging systems and solutions
+  for beverage and food products primarily in Europe, India, the Middle East, Africa,
+  the Asia Pacific, and the Americas. The company provides carton, bag-in-box, and
+  spouted pouch packaging solutions; filling lines and other related equipment, packaging
+  material, and after-sales services; carton sleeves, closures, and barrier film and
+  fitments; and commodity hedging products. It operates in China, the United States,
+  Germany, India, Brazil, the Netherlands, Australia, Austria, Mexico, Russia, Saudi
+  Arabia, South Korea, Switzerland, Taiwan, Thailand, Spain, and the United Arab Emirates.
+  The company was formerly known as SIG Combibloc Group AG and changed its name to
+  SIG Group AG in April 2022. SIG Group AG was founded in 1853 and is headquartered
+  in Neuhausen am Rheinfall, Switzerland.
+longName: SIG Group AG
+market: ch_market
+marketCap: 5880475136
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874468
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: -43900000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5834623297
+numberOfAnalystOpinions: 13
+open: 15.29
+operatingCashflow: 608800000
+operatingMargins: 0.13003999
+overallRisk: 4
+payoutRatio: 0.97120005
+phone: 41 52 543 1200
+prevName: SIG Combibloc Group AG
+previousClose: 15.27
+priceEpsCurrentYear: 19.273397
+priceHint: 2
+priceToBook: 2.1830251
+priceToSalesTrailing12Months: 1.8207496
+profitMargins: -0.01359
+quickRatio: 0.531
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.92857
+region: US
+regularMarketChange: 0.119999886
+regularMarketChangePercent: 0.78585386
+regularMarketDayHigh: 15.47
+regularMarketDayLow: 15.22
+regularMarketDayRange: 15.22 - 15.47
+regularMarketOpen: 15.29
+regularMarketPreviousClose: 15.27
+regularMarketPrice: 15.39
+regularMarketTime: 1794411296
+regularMarketVolume: 275914
+returnOnAssets: 0.03608
+returnOnEquity: -0.015369999
+revenueGrowth: -0.012
+revenuePerShare: 8.451
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 382097138
+shortName: SIG GROUP N
+sourceInterval: 15
+symbol: SIGN.SW
+targetHighPrice: 19.816723
+targetLowPrice: 13.856564
+targetMeanPrice: 17.023972
+targetMedianPrice: 17.854626
+totalCash: 288100000
+totalCashPerShare: 0.754
+totalDebt: 2446200064
+totalRevenue: 3229700096
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: -0.11
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 12.95995
+twoHundredDayAverageChange: 2.43005
+twoHundredDayAverageChangePercent: 0.18750456
+typeDisp: Equity
+volume: 275914
+website: https://www.sig.biz
+zip: '8212'

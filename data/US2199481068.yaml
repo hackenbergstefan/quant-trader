@@ -1,0 +1,272 @@
+52WeekChange: 0.6030971
+SandP52WeekChange: 0.097798586
+address1: 3280 Peachtree Road
+address2: Suite 2400
+allTimeHigh: 479.53
+allTimeLow: 24.28
+ask: 460.03
+askSize: 40
+auditRisk: 10
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 686070
+averageDailyVolume3Month: 491803
+averageVolume: 491803
+averageVolume10days: 686070
+beta: 0.922
+bid: 459.11
+bidSize: 40
+boardRisk: 10
+bookValue: 51.183
+city: Atlanta
+companyOfficers:
+- age: 69
+  exercisedValue: 63128600
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ronald F. Clarke
+  title: Chairman, President & CEO
+  totalPay: 1406747
+  unexercisedValue: 127661504
+  yearBorn: 1956
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Walker CPA
+  title: Chief Financial Officer
+  totalPay: 755236
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Alissa B. Vickery
+  title: Chief Accounting Officer
+  totalPay: 304813
+  unexercisedValue: 618011
+  yearBorn: 1979
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Armando Lins Netto
+  title: Group President of Brazil Vehicle Payments & Strategic Transformation
+  totalPay: 1094579
+  unexercisedValue: 5150314
+  yearBorn: 1968
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alan  King
+  title: Group President of Vehicle Payments in UK, Europe, Australasia and Mexico
+  totalPay: 1004967
+  unexercisedValue: 6739515
+  yearBorn: 1977
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott A. Dufour
+  title: Global Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James P. Eglseder
+  title: Senior Vice President of Global Investor Relations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steve C. Greene
+  title: Executive Vice President of Corporate Development & Strategy
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Byrne
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Crystal  Williams
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 460.975
+currentRatio: 0.955
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 461.81
+dayLow: 456.78
+debtToEquity: 310.597
+displayName: Corpay
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793831400
+earningsCallTimestampStart: 1793831400
+earningsGrowth: 0.448
+earningsQuarterlyGrowth: 0.362
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1801688400
+earningsTimestampStart: 1801688400
+ebitda: 2966083072
+ebitdaMargins: 0.56713
+enterpriseToEbitda: 12.82
+enterpriseToRevenue: 7.271
+enterpriseValue: 38025781248
+epsCurrentYear: 28.0015
+epsForward: 31.80885
+epsTrailingTwelveMonths: 18.19
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 407.0356
+fiftyDayAverageChange: 53.939392
+fiftyDayAverageChangePercent: 0.13251762
+fiftyTwoWeekChangePercent: 60.309708
+fiftyTwoWeekHigh: 479.53
+fiftyTwoWeekHighChange: -18.554993
+fiftyTwoWeekHighChangePercent: -0.038694125
+fiftyTwoWeekLow: 271.22
+fiftyTwoWeekLowChange: 189.755
+fiftyTwoWeekLowChangePercent: 0.69963497
+fiftyTwoWeekRange: 271.22 - 479.53
+financialCurrency: USD
+firstTradeDateMilliseconds: 1292423400000
+floatShares: 61404638
+forwardEps: 31.80885
+forwardPE: 14.492037
+freeCashflow: 1995098624
+fullExchangeName: NYSE
+fullTimeEmployees: 11800
+fulldayChange: 1.3349915
+fulldayChangePercent: 0.29044282
+fulldayPrice: 460.975
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.80834
+grossProfits: 4227566080
+hasPrePostMarketData: true
+heldPercentInsiders: 0.038829997
+heldPercentInstitutions: 1.0369201
+impliedSharesOutstanding: 63971827
+industry: Software - Infrastructure
+industryDisp: Software - Infrastructure
+industryKey: software-infrastructure
+isEarningsDateEstimate: true
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Corpay, Inc. operates as a payments company that helps businesses
+  and consumers to manage and pay their expenses.
+
+  It operates through Corporate Payments, Vehicle Payments, Lodging Payments, and
+  Other segments. The company offers vehicle payment solutions for fuel, tolls and
+  parking, vehicle compliance, auto insurance and road assistance, fleet maintenance,
+  and long-haul transportation services, as well as prepaid food and transportation
+  vouchers and cards. It also provides corporate payment solutions, such as cross-border
+  payments, spend management solutions, AP modernization, virtual cards, and purchasing
+  and T&E cards. Additionally, it offers lodging payments solutions for employees
+  who travel overnight for work purposes; traveling crews and stranded passengers
+  from airlines and cruise lines; workforce lodging solutions for business travel
+  programs; airline logistics, crew management, insurance, and other payments solutions.
+  Further, the company offers gifts and payroll cards. It serves business, merchant,
+  consumer, and payment network customers. The company was formerly known as FLEETCOR
+  Technologies, Inc. and changed its name to Corpay, Inc. in June 2002. Corpay, Inc.
+  was founded in 1986 and is headquartered in Atlanta, Georgia.'
+longName: Corpay, Inc.
+market: us_market
+marketCap: 29489414144
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_28756
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1231110016
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 29404010562
+numberOfAnalystOpinions: 15
+open: 458.0
+operatingCashflow: 1529021056
+operatingMargins: 0.49785998
+overallRisk: 9
+payoutRatio: 0.0
+pegRatio: 0.87
+phone: 770 449 0479
+prevName: VaporWallet
+previousClose: 459.64
+priceEpsCurrentYear: 16.462511
+priceHint: 2
+priceToBook: 9.006409
+priceToSalesTrailing12Months: 5.6385617
+profitMargins: 0.23733999
+quickRatio: 0.493
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6875
+region: US
+regularMarketChange: 1.3349915
+regularMarketChangePercent: 0.29044282
+regularMarketDayHigh: 461.81
+regularMarketDayLow: 456.78
+regularMarketDayRange: 456.78 - 461.81
+regularMarketOpen: 458.0
+regularMarketPreviousClose: 459.64
+regularMarketPrice: 460.975
+regularMarketTime: 1794413663
+regularMarketVolume: 54866
+returnOnAssets: 0.06804
+returnOnEquity: 0.32209998
+revenueGrowth: 0.179
+revenuePerShare: 78.052
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 2
+sharesOutstanding: 63971827
+sharesPercentSharesOut: 0.0559
+sharesShort: 3575249
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3474782
+shortName: Corpay, Inc.
+shortPercentOfFloat: 0.0582
+shortRatio: 7.37
+sourceInterval: 15
+state: GA
+symbol: CPAY
+targetHighPrice: 539.0
+targetLowPrice: 460.0
+targetMeanPrice: 492.0
+targetMedianPrice: 481.0
+totalCash: 3123687936
+totalCashPerShare: 48.829
+totalDebt: 11378806784
+totalRevenue: 5229953024
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 18.19
+trailingPE: 25.34222
+trailingPegRatio: 0.8693
+triggerable: true
+twoHundredDayAverage: 359.4925
+twoHundredDayAverageChange: 101.48251
+twoHundredDayAverageChangePercent: 0.28229383
+typeDisp: Equity
+volume: 54866
+website: https://www.corpay.com
+zip: '30305'

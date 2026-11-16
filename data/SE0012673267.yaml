@@ -1,0 +1,255 @@
+52WeekChange: 0.31417155
+SandP52WeekChange: 0.097798586
+address1: Hamngatan 11
+allTimeHigh: 1709.0
+allTimeLow: 17.45
+ask: 859.8
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 3.1 - Hold
+averageDailyVolume10Day: 286206
+averageDailyVolume3Month: 539377
+averageVolume: 539377
+averageVolume10days: 286206
+beta: 0.599
+bid: 859.6
+bidSize: 0
+boardRisk: 3
+bookValue: 19.783
+city: Stockholm
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jens  von Bahr
+  title: Co-Founder, Chairman & President
+  totalPay: 526000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Carlesund
+  title: Group Chief Executive Officer
+  totalPay: 8596000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fredrik  Österberg
+  title: Co-Founder & Director
+  totalPay: 175000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joakim  Andersson
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carl Herman Linton
+  title: Head of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Amy  Riches
+  title: Head of Marketing
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Louise  Wivén-Nilsson
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Todd  Haushalter
+  title: Chief Product Officer & Games Operations
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jesper  Von Bahr
+  title: Chief Strategy Officer & Secretary
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 859.6
+currentRatio: 1.441
+customPriceAlertConfidence: HIGH
+dayHigh: 860.0
+dayLow: 848.4
+debtToEquity: 3.031
+dividendRate: 0.0
+dividendYield: 0.0
+earningsCallTimestampEnd: 1792738800
+earningsCallTimestampStart: 1792738800
+earningsGrowth: 0.032
+earningsQuarterlyGrowth: -0.036
+earningsTimestamp: 1792769400
+earningsTimestampEnd: 1792769400
+earningsTimestampStart: 1792769400
+ebitda: 1250439040
+ebitdaMargins: 0.60374
+enterpriseToEbitda: 124.213
+enterpriseToRevenue: 74.992
+enterpriseValue: 155320270848
+epsCurrentYear: 5.35481
+epsForward: 71.71
+epsTrailingTwelveMonths: 58.63
+esgPopulated: false
+exDividendDate: 1747008000
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 833.892
+fiftyDayAverageChange: 25.707947
+fiftyDayAverageChangePercent: 0.030828867
+fiftyTwoWeekChangePercent: 31.417156
+fiftyTwoWeekHigh: 911.0
+fiftyTwoWeekHighChange: -51.400024
+fiftyTwoWeekHighChangePercent: -0.05642154
+fiftyTwoWeekLow: 515.4
+fiftyTwoWeekLowChange: 344.19995
+fiftyTwoWeekLowChangePercent: 0.6678307
+fiftyTwoWeekRange: 515.4 - 911.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1426838400000
+fiveYearAvgDividendYield: 1.83
+floatShares: 94431933
+forwardEps: 71.71
+forwardPE: 11.98717
+freeCashflow: 813699968
+fullExchangeName: Stockholm
+fullTimeEmployees: 17020
+fulldayChange: 4.5999756
+fulldayChangePercent: 0.53800887
+fulldayPrice: 859.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 1.0
+grossProfits: 2071159040
+hasPrePostMarketData: false
+heldPercentInsiders: 0.47119
+heldPercentInstitutions: 0.31628
+impliedSharesOutstanding: 179814416
+industry: Gambling
+industryDisp: Gambling
+industryKey: gambling
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1747008000
+lastDividendValue: 2.8
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1558569600
+lastSplitFactor: '5:1'
+longBusinessSummary: Evolution AB (publ) develops, produces, markets, and licenses
+  live casino and slots solutions to gaming operators in Europe, Asia, North America,
+  Latin America, and internationally. It offers casino and live games shows under
+  the Evolution and Ezugi brands; online casino under the NetEnt brand name; and casino
+  games and software comprising jackpot system, a smart spins bonus management application,
+  and tournaments gamification under the Red Tiger brand. It also provides slots titles
+  and game mechanics under the Big Time Gaming brand; online casino platform and games
+  under the Nolimit City brand name; HD spinning gaming wheels under the DigiWheel
+  brand; and B2B social streaming games under the Livespins brand name. The company
+  was formerly known as Evolution Gaming Group AB (publ). Evolution AB (publ) was
+  founded in 2006 and is headquartered in Stockholm, Sweden.
+longName: Evolution AB (publ)
+market: se_market
+marketCap: 154568474624
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_285223104
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1053449024
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 151943181520
+numberOfAnalystOpinions: 17
+open: 852.4
+operatingCashflow: 1301602048
+operatingMargins: 0.56966
+overallRisk: 5
+payoutRatio: 0.0
+prevName: Evolution Gaming Group AB (publ)
+previousClose: 855.0
+priceEpsCurrentYear: 160.52856
+priceHint: 2
+priceToBook: 43.451447
+priceToSalesTrailing12Months: 74.628975
+profitMargins: 0.50863
+quickRatio: 1.411
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.0625
+region: US
+regularMarketChange: 4.5999756
+regularMarketChangePercent: 0.53800887
+regularMarketDayHigh: 860.0
+regularMarketDayLow: 848.4
+regularMarketDayRange: 848.4 - 860.0
+regularMarketOpen: 852.4
+regularMarketPreviousClose: 855.0
+regularMarketPrice: 859.6
+regularMarketTime: 1794412469
+regularMarketVolume: 158214
+returnOnAssets: 0.14509
+returnOnEquity: 0.28372
+revenueGrowth: 0.037
+revenuePerShare: 10.591
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 179814416
+shortName: Evolution AB
+sourceInterval: 15
+symbol: EVO.ST
+targetHighPrice: 1045.8585
+targetLowPrice: 538.01056
+targetMeanPrice: 791.85504
+targetMedianPrice: 784.03955
+totalCash: 656408000
+totalCashPerShare: 3.601
+totalDebt: 109306000
+totalRevenue: 2071159040
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 58.63
+trailingPE: 14.661435
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 701.252
+twoHundredDayAverageChange: 158.34796
+twoHundredDayAverageChangePercent: 0.2258075
+typeDisp: Equity
+volume: 158214
+website: https://www.evolution.com
+zip: 111 47

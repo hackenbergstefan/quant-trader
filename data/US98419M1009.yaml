@@ -1,0 +1,286 @@
+52WeekChange: -0.35384
+SandP52WeekChange: 0.097798586
+address1: 301 Water Street SE
+address2: Suite 200
+allTimeHigh: 154.27
+allTimeLow: 22.43
+ask: 94.96
+askSize: 200
+auditRisk: 2
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 4057040
+averageDailyVolume3Month: 2677392
+averageVolume: 2677392
+averageVolume10days: 4057040
+beta: 0.994
+bid: 94.9
+bidSize: 100
+boardRisk: 2
+bookValue: 44.59
+city: Washington
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew Francis Pine
+  title: CEO, President & Director
+  totalPay: 3271464
+  unexercisedValue: 13325905
+  yearBorn: 1972
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Claudia S. Toussaint Esq., J.D.
+  title: Executive VP and Chief People & Sustainability Officer
+  totalPay: 1131447
+  unexercisedValue: 3411842
+  yearBorn: 1964
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hayati  Yarkadas
+  title: Executive VP & President of Water Infrastructure
+  totalPay: 1377393
+  unexercisedValue: 441729
+  yearBorn: 1969
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rodney O. Aulick
+  title: Executive VP and President of Integrated Services & Solutions
+  totalPay: 1387920
+  unexercisedValue: 2501173
+  yearBorn: 1967
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Andrea  van der Berg
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas F. Pettit
+  title: Executive VP & COO
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Geri-Michelle  McShane
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Travers
+  title: Senior Director of Investor Relations
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stacy Lancaster Cozad J.D.
+  title: Executive VP & Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Albert H. Cho
+  title: Executive VP and Chief Strategy & External Affairs Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 94.91
+currentRatio: 1.391
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 96.703
+dayLow: 94.7
+debtToEquity: 28.789
+displayName: Xylem
+dividendDate: 1790208000
+dividendRate: 1.72
+dividendYield: 1.78
+earningsCallTimestampEnd: 1793106000
+earningsCallTimestampStart: 1793106000
+earningsGrowth: 0.344
+earningsQuarterlyGrowth: 0.282
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1793104200
+earningsTimestampStart: 1793104200
+ebitda: 1964999936
+ebitdaMargins: 0.21691
+enterpriseToEbitda: 12.605
+enterpriseToRevenue: 2.734
+enterpriseValue: 24768761856
+epsCurrentYear: 5.4291
+epsForward: 5.8741
+epsTrailingTwelveMonths: 4.51
+esgPopulated: false
+exDividendDate: 1787788800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 103.0428
+fiftyDayAverageChange: -8.132797
+fiftyDayAverageChangePercent: -0.0789264
+fiftyTwoWeekChangePercent: -35.384
+fiftyTwoWeekHigh: 151.99
+fiftyTwoWeekHighChange: -57.08
+fiftyTwoWeekHighChangePercent: -0.37555102
+fiftyTwoWeekLow: 87.4
+fiftyTwoWeekLowChange: 7.510002
+fiftyTwoWeekLowChangePercent: 0.08592679
+fiftyTwoWeekRange: 87.4 - 151.99
+financialCurrency: USD
+firstTradeDateMilliseconds: 1318512600000
+fiveYearAvgDividendYield: 1.19
+floatShares: 228719975
+forwardEps: 5.8741
+forwardPE: 16.15737
+freeCashflow: 1210375040
+fullExchangeName: NYSE
+fullTimeEmployees: 22000
+fulldayChange: -1.9299927
+fulldayChangePercent: -1.9929706
+fulldayPrice: 94.91
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.3932
+grossProfits: 3561999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0034599998
+heldPercentInstitutions: 0.99263
+impliedSharesOutstanding: 229334592
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787788800
+lastDividendValue: 0.43
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Xylem Inc., together with its subsidiaries, engages in the design,
+  manufacture, and servicing of engineered products and solutions for utility, industrial,
+  and residential and commercial building services settings worldwide. It operates
+  through Water Infrastructure; Applied Water; Measurement and Control Solutions;
+  and Water Solutions and Services segments. The company offers water, wastewater,
+  and storm water pumps and controls and systems; filtration, disinfection, and biological
+  treatment equipment under the Flygt, Ionpure, Leopold, Neptune Benson, Sanitare,
+  Wallace & Tiernan, and Wedeco brands; and pumps, valves, heat exchangers, controls,
+  and dispensing equipment used for water and focuses on the residential, commercial
+  and industrial markets under the Rule, Bell & Gossett, Flojet, Goulds Water Technology,
+  Jabsco, and Lowara brands. It also provides smart meters, network communication
+  devices, data analytics, test instruments, controls, sensor devices, software and
+  managed services, critical infrastructure services, cloud-based analytics, and remote
+  monitoring and data management under the Ebro, Sensus, Sentec, Smith Blair, WTW,
+  YSI, and Xylem Vue brands. In addition, the company offers preventative maintenance
+  services, rapid response mobile services, digitally enabled/outsourced solutions,
+  process and wastewater treatment systems, environmental remediation, odor and corrosion
+  control, filtration, reverse osmosis, continuous deionization, and mobile dewatering
+  equipment and rental services; and municipal services comprising odor and corrosion
+  control services, as well as condition assessment and asset management, and pressure
+  monitoring solutions under the Grindex, Mar Cor, and Godwin brands. Xylem Inc. was
+  formerly known as ITT WCO, Inc. and changed its name to Xylem Inc. in July 2011.
+  The company was incorporated in 2011 and is headquartered in Washington, District
+  Of Columbia.
+longName: Xylem Inc.
+market: us_market
+marketCap: 21766146048
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_118218449
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1082000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 22208761889
+numberOfAnalystOpinions: 16
+open: 96.48
+operatingCashflow: 1272000000
+operatingMargins: 0.15509
+overallRisk: 2
+payoutRatio: 0.3747
+pegRatio: 1.33
+phone: 202-869-9150
+previousClose: 96.84
+priceEpsCurrentYear: 17.48172
+priceHint: 2
+priceToBook: 2.1285043
+priceToSalesTrailing12Months: 2.4027095
+profitMargins: 0.119440004
+quickRatio: 0.943
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.04762
+region: US
+regularMarketChange: -1.9299927
+regularMarketChangePercent: -1.9929706
+regularMarketDayHigh: 96.703
+regularMarketDayLow: 94.7
+regularMarketDayRange: 94.7 - 96.703
+regularMarketOpen: 96.48
+regularMarketPreviousClose: 96.84
+regularMarketPrice: 94.91
+regularMarketTime: 1794413728
+regularMarketVolume: 1132538
+returnOnAssets: 0.05073
+returnOnEquity: 0.097559996
+revenueGrowth: -0.03
+revenuePerShare: 37.932
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 4
+sharesOutstanding: 229334592
+sharesPercentSharesOut: 0.0378
+sharesShort: 8657614
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 10370953
+shortName: Xylem Inc.
+shortPercentOfFloat: 0.049099997
+shortRatio: 2.76
+sourceInterval: 15
+state: DC
+symbol: XYL
+targetHighPrice: 180.0
+targetLowPrice: 90.0
+targetMeanPrice: 125.4375
+targetMedianPrice: 127.0
+totalCash: 708000000
+totalCashPerShare: 3.087
+totalDebt: 3025999872
+totalRevenue: 9059000320
+tradeable: false
+trailingAnnualDividendRate: 1.69
+trailingAnnualDividendYield: 0.017451467
+trailingEps: 4.51
+trailingPE: 21.044346
+trailingPegRatio: 1.2933
+triggerable: true
+twoHundredDayAverage: 115.751
+twoHundredDayAverageChange: -20.840996
+twoHundredDayAverageChangePercent: -0.18005024
+typeDisp: Equity
+volume: 1132538
+website: https://www.xylem.com
+zip: '20003'

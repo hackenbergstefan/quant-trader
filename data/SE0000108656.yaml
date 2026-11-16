@@ -1,0 +1,269 @@
+52WeekChange: 0.09113979
+SandP52WeekChange: 0.097798586
+address1: Torshamnsgatan 21
+address2: Kista
+allTimeHigh: 832.37036
+allTimeLow: 14.8
+ask: 106.2
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 3.4 - Hold
+averageDailyVolume10Day: 6908614
+averageDailyVolume3Month: 8549997
+averageVolume: 8549997
+averageVolume10days: 6908614
+beta: 0.495
+bid: 106.15
+bidSize: 0
+boardRisk: 2
+bookValue: 33.919
+city: Stockholm
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Per  Narvinger
+  title: CEO & President
+  totalPay: 16020461
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. E. Borje Ekholm MBA, MSc
+  title: Executive Advisor to the CEO
+  totalPay: 53606706
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lars  Sandstrom M.Sc.
+  title: Senior VP, Head of Group Function Finance & CFO
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Houghton
+  title: Senior VP, COO and Head of Group Function & Group Support
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Eva-Britt  Allenius
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Erik  Ekudden
+  title: Senior VP, CTO & Head of Group Function Technology
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Daniel  Morris
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott  Dresser
+  title: Sr. VP, Chief Legal Officer, Secretary and Head of Group Function Legal Affairs
+    & Compliance
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rebecca  Rohr
+  title: Chief Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Peter  Olofsson
+  title: Head of Corporate Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 106.15
+currentRatio: 1.159
+customPriceAlertConfidence: HIGH
+dayHigh: 106.65
+dayLow: 104.75
+debtToEquity: 40.748
+dividendRate: 3.0
+dividendYield: 2.91
+earningsCallTimestampEnd: 1792047600
+earningsCallTimestampStart: 1792047600
+earningsGrowth: -0.468
+earningsQuarterlyGrowth: -0.479
+earningsTimestamp: 1800635400
+earningsTimestampEnd: 1800635400
+earningsTimestampStart: 1800635400
+ebitda: 37270999040
+ebitdaMargins: 0.16149999
+enterpriseToEbitda: 8.679
+enterpriseToRevenue: 1.402
+enterpriseValue: 323473375232
+epsCurrentYear: 7.00379
+epsForward: 6.36
+epsTrailingTwelveMonths: 5.81
+esgPopulated: false
+exDividendDate: 1790553600
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 99.7328
+fiftyDayAverageChange: 6.417198
+fiftyDayAverageChangePercent: 0.06434391
+fiftyTwoWeekChangePercent: 9.113979
+fiftyTwoWeekHigh: 128.45
+fiftyTwoWeekHighChange: -22.299995
+fiftyTwoWeekHighChangePercent: -0.17360838
+fiftyTwoWeekLow: 84.56
+fiftyTwoWeekLowChange: 21.590004
+fiftyTwoWeekLowChangePercent: 0.2553217
+fiftyTwoWeekRange: 84.56 - 128.45
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 3.32
+floatShares: 2829917107
+forwardEps: 6.36
+forwardPE: 16.690252
+freeCashflow: 28756250624
+fullExchangeName: Stockholm
+fullTimeEmployees: 85417
+fulldayChange: 2.9500046
+fulldayChangePercent: 2.8585317
+fulldayPrice: 106.15
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.48014
+grossProfits: 110809997312
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00098
+heldPercentInstitutions: 0.67455
+impliedSharesOutstanding: 3239935841
+industry: Communication Equipment
+industryDisp: Communication Equipment
+industryKey: communication-equipment
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790553600
+lastDividendValue: 1.5
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1212364800
+lastSplitFactor: '1:5'
+longBusinessSummary: Telefonaktiebolaget LM Ericsson (publ), together with its subsidiaries,
+  provides mobile connectivity solutions to communications service providers, enterprises,
+  and the public sector in the Americas, Europe, the Middle East, Africa, Northeast
+  Asia, Southeast Asia, Oceania, and India. It operates through Networks; Cloud Software
+  and Services; Enterprise; and Other segments. The Networks segment offers hardware,
+  software, and service offerings for intelligent, reliable and flexible 5G networks.
+  This segment also provides energy-efficient RAN with an AI-native software architecture
+  deployable on Ericsson silicon and third-party CPUs/GPUs; transport networks; and
+  active/ passive antennas, as well as deployment and lifecycle management services.
+  The Cloud Software and Services segment provides core networks, network management,
+  business and operations support systems, and network operations delivered as managed
+  services, including secure data and voice connectivity, service monetization and
+  orchestration tools, and network management services. The Enterprise segment offers
+  intelligent networking and advanced communications software solutions comprising
+  global communications platform, wireless wide area networks (WWAN), and private
+  5G networks. The Other segment includes RedBee Media that prepares and distributes
+  live and on-demand video services for broadcasters, sports leagues, and communications
+  service providers. The company has a strategic collaboration with T-Mobile US, Inc
+  for the development of AI-native Scheduler with Link Adaptation software. The company
+  was formerly known as Allmanna Telefon AB LM Ericsson and changed its name to Telefonaktiebolaget
+  LM Ericsson (publ) in January 1926. Telefonaktiebolaget LM Ericsson (publ) was founded
+  in 1876 and is headquartered in Stockholm, Sweden.
+longName: Telefonaktiebolaget LM Ericsson (publ)
+market: se_market
+marketCap: 343919198208
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_269706
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 19303000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 334884890756
+numberOfAnalystOpinions: 20
+open: 104.75
+operatingCashflow: 32312000512
+operatingMargins: 0.14302
+overallRisk: 3
+payoutRatio: 0.5164
+pegRatio: 1.93
+phone: 46 10 719 00 00
+previousClose: 103.2
+priceEpsCurrentYear: 15.15608
+priceHint: 2
+priceToBook: 3.1295147
+priceToSalesTrailing12Months: 1.4902146
+profitMargins: 0.08364
+quickRatio: 0.88
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.4
+region: US
+regularMarketChange: 2.9500046
+regularMarketChangePercent: 2.8585317
+regularMarketDayHigh: 106.65
+regularMarketDayLow: 104.75
+regularMarketDayRange: 104.75 - 106.65
+regularMarketOpen: 104.75
+regularMarketPreviousClose: 103.2
+regularMarketPrice: 106.15
+regularMarketTime: 1794412469
+regularMarketVolume: 4346817
+returnOnAssets: 0.070650004
+returnOnEquity: 0.18088
+revenueGrowth: 0.058
+revenuePerShare: 69.681
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 8
+sharesOutstanding: 2978179858
+shortName: Ericsson, Telefonab. L M ser. B
+sourceInterval: 15
+symbol: ERIC-B.ST
+targetHighPrice: 135.0
+targetLowPrice: 73.0
+targetMeanPrice: 100.55
+targetMedianPrice: 101.0
+totalCash: 58783997952
+totalCashPerShare: 18.047
+totalDebt: 45333999616
+totalRevenue: 230785007616
+tradeable: false
+trailingAnnualDividendRate: 3.0
+trailingAnnualDividendYield: 0.029069768
+trailingEps: 5.81
+trailingPE: 18.270224
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 104.4561
+twoHundredDayAverageChange: 1.6939011
+twoHundredDayAverageChangePercent: 0.016216392
+typeDisp: Equity
+volume: 4346817
+website: https://www.ericsson.com
+zip: 164 83

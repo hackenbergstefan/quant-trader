@@ -1,0 +1,272 @@
+52WeekChange: 0.048594475
+SandP52WeekChange: 0.097798586
+address1: 1 Grand Canal Square
+address2: Grand Canal Harbour Dublin 2
+allTimeHigh: 417.37
+allTimeLow: 11.3
+ask: 251.37
+askSize: 300
+auditRisk: 1
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 5885240
+averageDailyVolume3Month: 6263681
+averageVolume: 6263681
+averageVolume10days: 5885240
+beta: 1.004
+bid: 251.1
+bidSize: 100
+boardRisk: 3
+bookValue: 53.007
+city: Dublin
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie T. Spellman Sweet J.D.
+  title: CEO & Chairman
+  totalPay: 6765671
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Angie  Park
+  title: Chief Financial Officer
+  totalPay: 2031116
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Manish  Sharma
+  title: Chief Strategy & Reinvention Services Officer
+  totalPay: 3208848
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Walsh
+  title: CEO of the Americas & Market Unit Lead of US
+  totalPay: 3078144
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mauro  Macchi
+  title: Chief Executive Officer of EMEA
+  totalPay: 2618830
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kate  Hogan
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melissa A. Burgum
+  title: Chief Accounting Officer & Corporate Controller
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Marc  Warner
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tony  Leraris
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Alexia Skouras Quadrani
+  title: Executive Director of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: Ireland
+cryptoTradeable: false
+currency: USD
+currentPrice: 252.605
+currentRatio: 1.427
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 255.87
+dayLow: 250.98
+debtToEquity: 40.283
+displayName: Accenture
+dividendDate: 1794528000
+dividendRate: 6.84
+dividendYield: 2.65
+earningsCallTimestampEnd: 1797512400
+earningsCallTimestampStart: 1797512400
+earningsGrowth: 0.464
+earningsQuarterlyGrowth: 0.408
+earningsTimestamp: 1797514200
+earningsTimestampEnd: 1797514200
+earningsTimestampStart: 1797514200
+ebitda: 13419352064
+ebitdaMargins: 0.18089001
+enterpriseToEbitda: 11.548
+enterpriseToRevenue: 2.089
+enterpriseValue: 154960625664
+epsCurrentYear: 14.67161
+epsForward: 15.90779
+epsTrailingTwelveMonths: 13.56
+esgPopulated: false
+exDividendDate: 1791849600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 212.9876
+fiftyDayAverageChange: 39.6174
+fiftyDayAverageChangePercent: 0.18600802
+fiftyTwoWeekChangePercent: 4.8594475
+fiftyTwoWeekHigh: 291.09
+fiftyTwoWeekHighChange: -38.485
+fiftyTwoWeekHighChangePercent: -0.13220997
+fiftyTwoWeekLow: 118.15
+fiftyTwoWeekLowChange: 134.45499
+fiftyTwoWeekLowChangePercent: 1.1380024
+fiftyTwoWeekRange: 118.15 - 291.09
+financialCurrency: USD
+firstTradeDateMilliseconds: 995549400000
+fiveYearAvgDividendYield: 1.63
+floatShares: 589733221
+forwardEps: 15.90779
+forwardPE: 15.879327
+freeCashflow: 10684486656
+fullExchangeName: NYSE
+fullTimeEmployees: 814000
+fulldayChange: -5.905014
+fulldayChangePercent: -2.2842498
+fulldayPrice: 252.605
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.3205
+grossProfits: 23775598592
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00045000002
+heldPercentInstitutions: 0.86095
+impliedSharesOutstanding: 590737475
+industry: Information Technology Services
+industryDisp: Information Technology Services
+industryKey: information-technology-services
+irWebsite: http://investor.accenture.com/phoenix.zhtml?c=129731&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791849600
+lastDividendValue: 1.71
+lastFiscalYearEnd: 1788134400
+longBusinessSummary: Accenture plc provides consulting and managed services in the
+  Americas, Europe, the Middle East, Africa, and the Asia Pacific. It offers artificial
+  intelligence and data; cloud consulting; cybersecurity consulting; digital engineering
+  and manufacturing; ecosystem partners; emerging technology; finance and risk management
+  consulting; infrastructure and capital projects; digital learning; supply chain
+  consulting; technology consulting; sustainability consulting; and metaverse solutions,
+  as well as customer services. The company also provides proprietary assets and platforms,
+  such as GenWizard, SynOps and reinvention.AI to clients. It serves aerospace and
+  defense, automotive, banking, capital markets, chemicals, communications and media,
+  consumer goods and services, energy, health, high tech, industrial, insurance, life
+  sciences, natural resources, private equity, public service, retail, software and
+  platforms, travel, and utilities industries. Accenture plc was founded in 1951 and
+  is based in Dublin, Ireland.
+longName: Accenture plc
+market: us_market
+marketCap: 149223243776
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_972190
+mostRecentQuarter: 1788134400
+netIncomeToCommon: 8367055872
+nextFiscalYearEnd: 1819670400
+nonDilutedMarketCap: 152711544662
+numberOfAnalystOpinions: 24
+open: 255.18
+operatingCashflow: 12363345920
+operatingMargins: 0.16419001
+overallRisk: 2
+payoutRatio: 0.48080003
+pegRatio: 2.42
+phone: 353 1 646 2000
+previousClose: 258.51
+priceEpsCurrentYear: 17.217264
+priceHint: 2
+priceToBook: 4.7655025
+priceToSalesTrailing12Months: 2.0115438
+profitMargins: 0.11279
+quickRatio: 1.308
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.33333
+region: US
+regularMarketChange: -5.905014
+regularMarketChangePercent: -2.2842498
+regularMarketDayHigh: 255.87
+regularMarketDayLow: 250.98
+regularMarketDayRange: 250.98 - 255.87
+regularMarketOpen: 255.18
+regularMarketPreviousClose: 258.51
+regularMarketPrice: 252.605
+regularMarketTime: 1794413703
+regularMarketVolume: 993103
+returnOnAssets: 0.10954001
+returnOnEquity: 0.26025
+revenueGrowth: 0.062
+revenuePerShare: 121.12
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 4
+sharesOutstanding: 590737475
+sharesPercentSharesOut: 0.0357
+sharesShort: 21090193
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 19725390
+shortName: Accenture plc
+shortPercentOfFloat: 0.04
+shortRatio: 2.6
+sourceInterval: 15
+symbol: ACN
+targetHighPrice: 300.0
+targetLowPrice: 163.0
+targetMeanPrice: 233.21208
+targetMedianPrice: 235.0
+totalCash: 12837769216
+totalCashPerShare: 21.732
+totalDebt: 13396989952
+totalRevenue: 74183442432
+tradeable: false
+trailingAnnualDividendRate: 6.6
+trailingAnnualDividendYield: 0.025530925
+trailingEps: 13.56
+trailingPE: 18.628687
+trailingPegRatio: 2.4551
+triggerable: true
+twoHundredDayAverage: 190.6017
+twoHundredDayAverageChange: 62.003296
+twoHundredDayAverageChangePercent: 0.32530296
+typeDisp: Equity
+volume: 993103
+website: https://www.accenture.com
+zip: D02 P820

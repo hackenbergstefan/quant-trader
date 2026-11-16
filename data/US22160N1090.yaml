@@ -1,0 +1,274 @@
+52WeekChange: -0.56056213
+SandP52WeekChange: 0.097798586
+address1: 1201 Wilson Blvd
+allTimeHigh: 101.05
+allTimeLow: 0.55
+ask: 32.63
+askSize: 2
+auditRisk: 2
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 7390720
+averageDailyVolume3Month: 6419826
+averageVolume: 6419826
+averageVolume10days: 7390720
+beta: 0.78
+bid: 27.75
+bidSize: 2
+boardRisk: 1
+bookValue: 19.843
+city: Arlington
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew C. Florance
+  title: President, Founder, CEO & Director
+  totalPay: 4688154
+  unexercisedValue: 32597620
+  yearBorn: 1964
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lisa C. Ruggles
+  title: Senior Vice President of Global Operations
+  totalPay: 1655230
+  unexercisedValue: 1777190
+  yearBorn: 1967
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank A. Simuro
+  title: Chief Technology Officer
+  totalPay: 1964776
+  unexercisedValue: 1801963
+  yearBorn: 1967
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frederick G. Saint
+  title: President of Marketplaces
+  totalPay: 1960779
+  unexercisedValue: 1253370
+  yearBorn: 1966
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robin  Rossmann
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cyndi  Eakin
+  title: CAO & Cotroller
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason  Butler
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard  Simonelli
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gene  Boxer
+  title: General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew R. Blocher
+  title: Vice President of Marketing & Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 29.87
+currentRatio: 1.321
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 30.375
+dayLow: 29.77
+debtToEquity: 14.665
+displayName: CoStar
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793131200
+earningsCallTimestampStart: 1793131200
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1793131200
+earningsTimestampStart: 1793131200
+ebitda: 558000000
+ebitdaMargins: 0.15188
+enterpriseToEbitda: 23.104
+enterpriseToRevenue: 3.509
+enterpriseValue: 12891890688
+epsCurrentYear: 1.4053
+epsForward: 1.7693
+epsTrailingTwelveMonths: 0.43
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 30.212
+fiftyDayAverageChange: -0.34199905
+fiftyDayAverageChangePercent: -0.011319974
+fiftyTwoWeekChangePercent: -56.056213
+fiftyTwoWeekHigh: 70.57
+fiftyTwoWeekHighChange: -40.699997
+fiftyTwoWeekHighChangePercent: -0.5767323
+fiftyTwoWeekLow: 25.89
+fiftyTwoWeekLowChange: 3.9800014
+fiftyTwoWeekLowChangePercent: 0.15372737
+fiftyTwoWeekRange: 25.89 - 70.57
+financialCurrency: USD
+firstTradeDateMilliseconds: 899299800000
+floatShares: 398893320
+forwardEps: 1.7693
+forwardPE: 16.882383
+freeCashflow: 442449984
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 8441
+fulldayChange: -0.45999908
+fulldayChangePercent: -1.5166472
+fulldayPrice: 29.87
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.78306997
+grossProfits: 2876999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0076
+heldPercentInstitutions: 1.0290799
+impliedSharesOutstanding: 402337328
+industry: Real Estate Services
+industryDisp: Real Estate Services
+industryKey: real-estate-services
+irWebsite: http://www.costar.com/investors.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1624838400
+lastSplitFactor: '10:1'
+longBusinessSummary: CoStar Group, Inc. provides information, analytics, and online
+  marketplace services to real estate and related business communities in the United
+  States, Australia, Canada, Europe, the Asia Pacific, and Latin America. It offers
+  CoStar Property that provides inventory of office, industrial, retail, multifamily,
+  hospitality, and student housing, and land properties; CoStar Leasing, a data on
+  lease transactions and tools to manage user-entered lease data; CoStar Sales, a
+  database of commercial real estate sales transactions; CoStar Owners provides detailed
+  portfolio information; CoStar Markets to view and report on market and submarket
+  trends; and CoStar Tenant that provides tenant information. The company also provides
+  hospitality benchmarking that allows hotels to measure performance against competitors;
+  Debt Solutions, a tool for lenders to manage loan portfolios and risk; and real
+  estate and lease management technology solutions, such as lease administration,
+  lease accounting, and transaction management services. In addition, it offers Apartamentos.com,
+  an apartment marketing sites; LoopNet.com, a commercial property marketing sites;
+  Homes.com, a home for sale listings site; Ten-X, an online auction platform for
+  commercial real estate; Land.com, a marketplace for rural land sales; and BizBuySell.com,
+  a marketplace for operating businesses and franchises for sale. It serves sales,
+  leasing, and mortgage brokers; property, real estate investment trust, insurance
+  companies, and asset managers; and government agencies, property owners, mortgage-backed
+  security issuers, appraisers, design and construction professionals, pension fund
+  managers, real estate developers, reporters tenant vendors, bankers, building services
+  vendors, mortgage bankers, communications providers, retailers, institutional advisors,
+  hospitality owners, investors, and real estate agents. The company was founded in
+  1986 and is headquartered in Arlington, Virginia.
+longName: CoStar Group, Inc.
+market: us_market
+marketCap: 12017816576
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_387127
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 179000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 12202891158
+numberOfAnalystOpinions: 20
+open: 29.82
+operatingCashflow: 617000000
+operatingMargins: 0.0577
+overallRisk: 4
+payoutRatio: 0.0
+pegRatio: 0.12
+phone: 202 346 6500
+previousClose: 30.33
+priceEpsCurrentYear: 21.255249
+priceHint: 2
+priceToBook: 1.5053167
+priceToSalesTrailing12Months: 3.2710443
+profitMargins: 0.048720002
+quickRatio: 1.131
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.14286
+region: US
+regularMarketChange: -0.45999908
+regularMarketChangePercent: -1.5166472
+regularMarketDayHigh: 30.375
+regularMarketDayLow: 29.77
+regularMarketDayRange: 29.77 - 30.375
+regularMarketOpen: 29.82
+regularMarketPreviousClose: 30.33
+regularMarketPrice: 29.87
+regularMarketTime: 1794413728
+regularMarketVolume: 409801
+returnOnAssets: 0.012569999
+returnOnEquity: 0.02155
+revenueGrowth: 0.141
+revenuePerShare: 8.985
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 4
+sharesOutstanding: 402337328
+sharesPercentSharesOut: 0.0311
+sharesShort: 12499298
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 13284736
+shortName: CoStar Group, Inc.
+shortPercentOfFloat: 0.0313
+shortRatio: 1.98
+sourceInterval: 15
+state: VA
+symbol: CSGP
+targetHighPrice: 50.0
+targetLowPrice: 26.0
+targetMeanPrice: 35.85
+targetMedianPrice: 34.5
+totalCash: 500000000
+totalCashPerShare: 1.243
+totalDebt: 1172000000
+totalRevenue: 3673999872
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 0.43
+trailingPE: 69.46512
+trailingPegRatio: 0.1233
+triggerable: true
+twoHundredDayAverage: 35.4946
+twoHundredDayAverageChange: -5.6245975
+twoHundredDayAverageChangePercent: -0.15846348
+typeDisp: Equity
+volume: 409801
+website: https://www.costargroup.com
+zip: '22209'

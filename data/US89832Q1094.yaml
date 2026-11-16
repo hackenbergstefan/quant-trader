@@ -1,0 +1,279 @@
+52WeekChange: 0.101227045
+SandP52WeekChange: 0.097798586
+address1: 214 North Tryon Street
+allTimeHigh: 68.95
+allTimeLow: 1.644444
+ask: 50.11
+askSize: 500
+auditRisk: 4
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 7862490
+averageDailyVolume3Month: 7492840
+averageVolume: 7492840
+averageVolume10days: 7862490
+beta: 0.871
+bid: 50.08
+bidSize: 1100
+boardRisk: 7
+bookValue: 46.776
+city: Charlotte
+companyOfficers:
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William Henry Rogers Jr.
+  title: Executive Chairman
+  totalPay: 5756576
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Baron Maguire
+  title: Senior EVP & CFO
+  totalPay: 2532293
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristin  Lesher
+  title: Senior EVP & Chief Wholesale Banking Officer
+  totalPay: 2740561
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bradley D. Bender
+  title: Senior EVP & Chief Risk Officer
+  totalPay: 1975033
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Patrick Lyons
+  title: President, CEO & Director
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steve  Hagerman
+  title: Chief Technology & Operations Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bradley Jason Milsaps C.F.A.
+  title: Executive VP & Head of Investor Relations
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott A. Stengel J.D.
+  title: Senior EVP, Chief Legal Officer, Head of Government Affairs & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stacy Sandon Davidson
+  title: Head of Enterprise Marketing & Communications
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jodie E. Hughes
+  title: Director of Regional Commercial Real Estate & President of Washington Region
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions:
+- header: Dividend
+  message: TFC announced a cash dividend of $0.52 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.52'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 50.14
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 50.4
+dayLow: 49.86
+displayName: Truist Financial
+dividendDate: 1796083200
+dividendRate: 2.08
+dividendYield: 4.14
+earningsCallTimestampEnd: 1800450000
+earningsCallTimestampStart: 1800450000
+earningsGrowth: -0.462
+earningsQuarterlyGrowth: -0.45
+earningsTimestamp: 1800451800
+earningsTimestampEnd: 1800451800
+earningsTimestampStart: 1800451800
+ebitdaMargins: 0.0
+enterpriseToRevenue: 4.343
+enterpriseValue: 79385026560
+epsCurrentYear: 4.67011
+epsForward: 4.88998
+epsTrailingTwelveMonths: 3.88
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 48.3424
+fiftyDayAverageChange: 1.7975998
+fiftyDayAverageChangePercent: 0.037184745
+fiftyTwoWeekChangePercent: 10.1227045
+fiftyTwoWeekHigh: 56.2
+fiftyTwoWeekHighChange: -6.0600014
+fiftyTwoWeekHighChangePercent: -0.107829206
+fiftyTwoWeekLow: 43.13
+fiftyTwoWeekLowChange: 7.0099983
+fiftyTwoWeekLowChangePercent: 0.16253184
+fiftyTwoWeekRange: 43.13 - 56.2
+financialCurrency: USD
+firstTradeDateMilliseconds: 322237800000
+fiveYearAvgDividendYield: 4.61
+floatShares: 1195180584
+forwardEps: 4.88998
+forwardPE: 10.253621
+fullExchangeName: NYSE
+fullTimeEmployees: 37833
+fulldayChange: -0.11999893
+fulldayChangePercent: -0.23875634
+fulldayPrice: 50.14
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 18276999168
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00183
+heldPercentInstitutions: 0.7953
+impliedSharesOutstanding: 1198488412
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: http://www.bbt.com/bbtdotcom/about/investor-relations/default.page
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.52
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 902188800
+lastSplitFactor: '2:1'
+longBusinessSummary: Truist Financial Corporation, a financial services company, provides
+  banking and trust services in the Southeastern and Mid-Atlantic United States. The
+  company operates through two segments, Consumer and Small Business Banking; and
+  Wholesale Banking. Its deposit products include noninterest-bearing checking, interest-bearing
+  checking, savings, and money market deposit accounts, as well as certificates of
+  deposit and individual retirement accounts. The company also provides funding; asset
+  management; credit card lending; home equity and mortgage lending; other direct
+  retail lending; home mortgage lending; Investment brokerage services; mobile/online
+  banking; payment solutions; point-of-sale lending; retail and small business deposit
+  products; and small business lending. In addition, it offers asset-based lending,
+  commercial deposit and treasury services; commercial lending; floor plan lending;
+  derivatives; institutional trust services; insurance premium finance; international
+  banking; investment banking and capital markets services; leasing; merchant services;
+  mortgage warehouse lending; real estate lending; supply chain financing; and wealth
+  management/private banking. The company was formerly known as BB&T Corporation and
+  changed its name to Truist Financial Corporation in December 2019. Truist Financial
+  Corporation was founded in 1872 and is headquartered in Charlotte, North Carolina.
+longName: Truist Financial Corporation
+market: us_market
+marketCap: 60092211200
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_19109
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 4869000192
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 60236027587
+numberOfAnalystOpinions: 19
+open: 50.13
+operatingCashflow: 6063000064
+operatingMargins: 0.35126
+overallRisk: 6
+payoutRatio: 0.53610003
+pegRatio: 1.43
+phone: 844 487 8478
+prevName: Supernova
+previousClose: 50.26
+priceEpsCurrentYear: 10.736363
+priceHint: 2
+priceToBook: 1.0719172
+priceToSalesTrailing12Months: 3.28786
+profitMargins: 0.2838
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.63636
+region: US
+regularMarketChange: -0.11999893
+regularMarketChangePercent: -0.23875634
+regularMarketDayHigh: 50.4
+regularMarketDayLow: 49.86
+regularMarketDayRange: 49.86 - 50.4
+regularMarketOpen: 50.13
+regularMarketPreviousClose: 50.26
+regularMarketPrice: 50.14
+regularMarketTime: 1794413756
+regularMarketVolume: 1499217
+returnOnAssets: 0.00945
+returnOnEquity: 0.08161
+revenueGrowth: -0.158
+revenuePerShare: 14.768
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 5
+sharesOutstanding: 1198488412
+sharesPercentSharesOut: 0.0239
+sharesShort: 28591339
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 30267238
+shortName: Truist Financial Corporation
+shortPercentOfFloat: 0.0239
+shortRatio: 3.37
+sourceInterval: 15
+state: NC
+symbol: TFC
+targetHighPrice: 58.0
+targetLowPrice: 45.0
+targetMeanPrice: 53.29737
+targetMedianPrice: 54.0
+totalCash: 56547999744
+totalCashPerShare: 47.183
+totalDebt: 70286000128
+totalRevenue: 18276999168
+tradeable: false
+trailingAnnualDividendRate: 2.08
+trailingAnnualDividendYield: 0.041384798
+trailingEps: 3.88
+trailingPE: 12.92268
+trailingPegRatio: 1.4323
+triggerable: true
+twoHundredDayAverage: 49.5042
+twoHundredDayAverageChange: 0.6357994
+twoHundredDayAverageChangePercent: 0.0128433425
+typeDisp: Equity
+volume: 1499217
+website: https://www.truist.com
+zip: '28202'

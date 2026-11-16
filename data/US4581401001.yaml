@@ -1,0 +1,271 @@
+52WeekChange: 0.5341779
+SandP52WeekChange: 0.097798586
+address1: 2200 Mission College Boulevard
+allTimeHigh: 142.35
+allTimeLow: 0.216146
+ask: 64.86
+askSize: 1
+auditRisk: 8
+averageAnalystRating: 2.5 - Hold
+averageDailyVolume10Day: 193372420
+averageDailyVolume3Month: 116034646
+averageVolume: 116034646
+averageVolume10days: 193372420
+beta: 2.426
+bid: 61.39
+bidSize: 2
+boardRisk: 4
+bookValue: 21.641
+city: Santa Clara
+companyOfficers:
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lip-Bu  Tan
+  title: CEO & Director
+  totalPay: 3828200
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David A. Zinsner
+  title: Executive VP, CFO and Principal Financial & Accounting Officer
+  totalPay: 4218200
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nagasubramaniyan  Chandrasekaran
+  title: Executive VP, Chief Technology and Operations Officer & GM of Intel Foundry
+  totalPay: 3473100
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pushkar  Ranade Ph.D.
+  title: CTO & Chief of Staff to the CEO
+  unexercisedValue: 0
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cynthia A. Stoddard
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1957
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John William Pitzer
+  title: Corporate Vice President of Corporate Planning & Investor Relations
+  unexercisedValue: 0
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Aparna  Bawa Esq.
+  title: Executive VP and Chief Legal & People Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Annie Shea Weckesser
+  title: Senior VP and Chief Marketing & Communications Officer
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dean E. Jarnac Jr.
+  title: Executive VP & Chief Sales Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James A. Murray
+  title: Chief Antitrust Counsel and VP of Law & Policy Group
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 62.7
+currentRatio: 2.208
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 63.345
+dayLow: 60.955
+debtToEquity: 38.108
+displayName: Intel
+dividendDate: 1725148800
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793307600
+earningsCallTimestampStart: 1793307600
+earningsGrowth: -0.327
+earningsQuarterlyGrowth: -0.183
+earningsTimestamp: 1793304000
+earningsTimestampEnd: 1801170000
+earningsTimestampStart: 1801170000
+ebitda: 19135000576
+ebitdaMargins: 0.31949
+enterpriseToEbitda: 16.814
+enterpriseToRevenue: 5.372
+enterpriseValue: 321731952640
+epsCurrentYear: 1.48664
+epsForward: 1.79046
+epsTrailingTwelveMonths: -2.35
+esgPopulated: false
+exDividendDate: 1722988800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 96.72
+fiftyDayAverageChange: -34.02
+fiftyDayAverageChangePercent: -0.35173696
+fiftyTwoWeekChangePercent: 53.41779
+fiftyTwoWeekHigh: 142.35
+fiftyTwoWeekHighChange: -79.65001
+fiftyTwoWeekHighChangePercent: -0.5595364
+fiftyTwoWeekLow: 32.89
+fiftyTwoWeekLowChange: 29.810001
+fiftyTwoWeekLowChangePercent: 0.90635455
+fiftyTwoWeekRange: 32.89 - 142.35
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 1.9
+floatShares: 4872473100
+forwardEps: 1.79046
+forwardPE: 35.018936
+freeCashflow: 806499968
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 81100
+fulldayChange: 4.5699997
+fulldayChangePercent: 7.8623652
+fulldayPrice: 62.7
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.40152
+grossProfits: 24048001024
+hasPrePostMarketData: true
+heldPercentInsiders: 0.13913
+heldPercentInstitutions: 0.64
+impliedSharesOutstanding: 5315000000
+industry: Semiconductors
+industryDisp: Semiconductors
+industryKey: semiconductors
+irWebsite: http://www.intc.com/?iid=ftr+invrel
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1722988800
+lastDividendValue: 0.125
+lastFiscalYearEnd: 1766793600
+lastSplitDate: 965001600
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Intel Corporation designs, develops, manufactures, markets,
+  sells, and services computing and related end products and services in the United
+  States, Ireland, Israel, and internationally. It operates through three segments:
+  CCG, DCAI, and Intel Foundry. The company offers client computing group products,
+  including client and commercial CPUs, discrete client GPUs, edge computing, and
+  connectivity products; data center and AI products, such as server CPUs, discrete
+  GPUs, and networking products; and semiconductors comprising wafer fabrication,
+  substrates, and other related products and services. It also provides driving assistance
+  and self-driving solutions; and develops and manufactures multi-beam mask writing
+  tools. The company sells its products through sales organizations, distributors,
+  resellers, retailers, and OEM partners. It serves original equipment manufacturers,
+  original design manufacturers, cloud service providers, and other manufacturers
+  and service providers. Intel Corporation has a strategic collaboration with Infosys
+  Limited to develop a multi-layer AI fabric that unifies infrastructure, models,
+  data, applications, and workflows into a composable and agent-ready ecosystem. The
+  company was incorporated in 1968 and is headquartered in Santa Clara, California.'
+longName: Intel Corporation
+market: us_market
+marketCap: 333250494464
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_21127
+mostRecentQuarter: 1790380800
+netIncomeToCommon: -12032000000
+nextFiscalYearEnd: 1798329600
+nonDilutedMarketCap: 308960950000
+numberOfAnalystOpinions: 43
+open: 61.78
+operatingCashflow: 17472000000
+operatingMargins: 0.10317001
+overallRisk: 7
+payoutRatio: 0.0
+pegRatio: 1.36
+phone: 408 765 8080
+previousClose: 58.13
+priceEpsCurrentYear: 42.175644
+priceHint: 2
+priceToBook: 2.8972783
+priceToSalesTrailing12Months: 5.5641904
+profitMargins: -0.20089
+quickRatio: 1.751
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.5102
+region: US
+regularMarketChange: 4.5699997
+regularMarketChangePercent: 7.8623652
+regularMarketDayHigh: 63.345
+regularMarketDayLow: 60.955
+regularMarketDayRange: 60.955 - 63.345
+regularMarketOpen: 61.78
+regularMarketPreviousClose: 58.13
+regularMarketPrice: 62.7
+regularMarketTime: 1794413739
+regularMarketVolume: 55529750
+returnOnAssets: 0.01783
+returnOnEquity: -0.0962
+revenueGrowth: 0.209
+revenuePerShare: 11.813
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 2
+sharesOutstanding: 5315000000
+sharesPercentSharesOut: 0.028800001
+sharesShort: 152855264
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 167199908
+shortName: Intel Corporation
+shortPercentOfFloat: 0.028800001
+shortRatio: 1.34
+sourceInterval: 15
+state: CA
+symbol: INTC
+targetHighPrice: 160.0
+targetLowPrice: 63.0
+targetMeanPrice: 91.11628
+targetMedianPrice: 88.0
+totalCash: 54004998144
+totalCashPerShare: 10.161
+totalDebt: 50133999616
+totalRevenue: 59891998720
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: -2.35
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 87.18925
+twoHundredDayAverageChange: -24.489246
+twoHundredDayAverageChangePercent: -0.2808746
+typeDisp: Equity
+volume: 55529750
+website: https://www.intel.com
+zip: 95054-1549

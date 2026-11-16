@@ -1,0 +1,275 @@
+52WeekChange: -0.082296014
+SandP52WeekChange: 0.097798586
+address1: Revontulenkuja 1
+allTimeHigh: 46.62
+allTimeLow: 4.16
+ask: 26.56
+askSize: 0
+auditRisk: 7
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 392811
+averageDailyVolume3Month: 251345
+averageVolume: 251345
+averageVolume10days: 392811
+beta: 0.46
+bid: 26.54
+bidSize: 0
+boardRisk: 1
+bookValue: 18.525
+city: Espoo
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ralf Klaus Wunderlich
+  title: President, CEO & Chair
+  totalPay: 1320380
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Geust M.Sc. (Econ)
+  title: Chief Financial Officer
+  totalPay: 156462
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kristian  Tammela
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Riikka  Tieaho
+  title: EVP of Sustainability, Corporate Affairs & Legal, and General Counsel
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katariina  Kravi
+  title: Executive VP of Human Resources, Safety & Communications
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fredrik  Davidsson
+  title: President of Foodservice Packaging
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Hans-Peter  Edelbluth
+  title: Interim President of Flexible Packaging
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Changsheng  Wu
+  title: Executive Vice President of Procurement
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sara  Engber
+  title: President of North America
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Axel  Glade
+  title: President of Flexible Packaging
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Finland
+cryptoTradeable: false
+currency: EUR
+currentPrice: 26.54
+currentRatio: 1.445
+customPriceAlertConfidence: HIGH
+dayHigh: 26.66
+dayLow: 26.44
+debtToEquity: 76.832
+dividendRate: 1.14
+dividendYield: 4.3
+earningsCallTimestampEnd: 1793259000
+earningsCallTimestampStart: 1793259000
+earningsGrowth: 0.024
+earningsQuarterlyGrowth: 0.026
+earningsTimestamp: 1793291400
+earningsTimestampEnd: 1793291400
+earningsTimestampStart: 1793291400
+ebitda: 500900000
+ebitdaMargins: 0.12668
+enterpriseToEbitda: 8.134
+enterpriseToRevenue: 1.03
+enterpriseValue: 4074132992
+epsCurrentYear: 2.4372
+epsForward: 2.46982
+epsTrailingTwelveMonths: 1.99
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: HEL
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Helsinki
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fax: 358 1068 67992
+fiftyDayAverage: 28.3672
+fiftyDayAverageChange: -1.8271999
+fiftyDayAverageChangePercent: -0.064412415
+fiftyTwoWeekChangePercent: -8.229601
+fiftyTwoWeekHigh: 32.72
+fiftyTwoWeekHighChange: -6.1800003
+fiftyTwoWeekHighChangePercent: -0.1888753
+fiftyTwoWeekLow: 25.16
+fiftyTwoWeekLowChange: 1.3800011
+fiftyTwoWeekLowChangePercent: 0.05484901
+fiftyTwoWeekRange: 25.16 - 32.72
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 3.04
+floatShares: 95780983
+forwardEps: 2.46982
+forwardPE: 10.745723
+freeCashflow: 172337504
+fullExchangeName: Helsinki
+fullTimeEmployees: 17314
+fulldayChange: 0.0
+fulldayChangePercent: 0.0
+fulldayPrice: 26.54
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.18704
+grossProfits: 739600000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.03337
+heldPercentInstitutions: 0.53595
+impliedSharesOutstanding: 104986170
+industry: Packaging & Containers
+industryDisp: Packaging & Containers
+industryKey: packaging-containers
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 0.57
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1030406400
+lastSplitFactor: '4:1'
+longBusinessSummary: Huhtamäki Oyj provides packaging solutions in the United States,
+  Germany, the United Kingdom, India, Turkey, Australia, Thailand, Poland, South Africa,
+  Spain, Finland, and internationally. It operates through Foodservice Packaging,
+  North America, Flexible Packaging, and Fiber Packaging segments. The company offers
+  beverage-to-go packaging solutions, which includes single and double-wall paper,
+  coffee and cold drinks cups, cup carriers, lids, accessories and short run prints
+  customized paper cups; food-to-go packaging solutions, such as trays, containers,
+  clamshells, scoops, bowls, wraps, and various accessories for take-away and dining;
+  and egg trays, egg cartons, fruit trays, and wine bottle separators. In addition,
+  it provides stickpacks, sachets, and valve pouches for coffee packaging; stand-up
+  and spouted pouches for liquid drinks; and tea bag envelopes, paper tags, and outer
+  packaging for tea packaging, as well as powder drinks packaging. Further, the company
+  offers packaged food consisting of satchets, stand up pouches, cube laminates, and
+  cartons for culinary, ice cream, confectionary, stock cube, and other retail food
+  markets; and pet food packaging, such as 4-side seal pouches and stand-up pouches
+  for dry food, wet food, and snacks and treats. Additionally, it provides wicketed
+  bags, stand-up pouches, sachets, and flowwraps for beauty, cleaning and laundry,
+  and family care products; OTC/nutritional supplements, prescriptive, and transdermal
+  patches packaging; and paper-based products for ice cream, yoghurt, dairy, spreads,
+  and other snacks. The company also provides retail, catering disposables, and vending
+  cups packaging products under the Chinet brand. It serves food, beverage, and petfood
+  companies, quick service and fast casual restaurants, foodservice operators, fresh
+  produce packers, and retailers, as well as home and personal care, industrial, FMCG,
+  and healthcare sectors. Huhtamäki Oyj was founded in 1920 and is headquartered in
+  Espoo, Finland.
+longName: Huhtamäki Oyj
+market: fi_market
+marketCap: 2786332928
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_873955
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 209100000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 2786332951
+numberOfAnalystOpinions: 10
+open: 26.6
+operatingCashflow: 402400000
+operatingMargins: 0.08429
+overallRisk: 1
+payoutRatio: 0.5729
+pegRatio: 1.63
+phone: 358 1068 67000
+previousClose: 26.54
+priceEpsCurrentYear: 10.889545
+priceHint: 2
+priceToBook: 1.4326587
+priceToSalesTrailing12Months: 0.7046515
+profitMargins: 0.05288
+quickRatio: 0.871
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: 0.0
+regularMarketChangePercent: 0.0
+regularMarketDayHigh: 26.66
+regularMarketDayLow: 26.44
+regularMarketDayRange: 26.44 - 26.66
+regularMarketOpen: 26.6
+regularMarketPreviousClose: 26.54
+regularMarketPrice: 26.54
+regularMarketTime: 1794412433
+regularMarketVolume: 53709
+returnOnAssets: 0.04417
+returnOnEquity: 0.11101
+revenueGrowth: 0.049
+revenuePerShare: 37.667
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 4
+sharesOutstanding: 104986170
+shortName: Huhtamäki Oyj
+sourceInterval: 15
+symbol: HUH1V.HE
+targetHighPrice: 35.0
+targetLowPrice: 29.0
+targetMeanPrice: 32.25
+targetMedianPrice: 32.0
+totalCash: 363700000
+totalCashPerShare: 3.464
+totalDebt: 1562599936
+totalRevenue: 3954200064
+tradeable: false
+trailingAnnualDividendRate: 1.14
+trailingAnnualDividendYield: 0.04295403
+trailingEps: 1.99
+trailingPE: 13.336684
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 28.7001
+twoHundredDayAverageChange: -2.160099
+twoHundredDayAverageChangePercent: -0.07526451
+typeDisp: Equity
+volume: 53709
+website: https://www.huhtamaki.com
+zip: '02100'

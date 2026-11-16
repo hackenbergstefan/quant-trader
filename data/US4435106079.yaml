@@ -1,0 +1,291 @@
+52WeekChange: -0.03357613
+SandP52WeekChange: 0.097798586
+address1: 40 Waterview Drive
+allTimeHigh: 565.4999
+allTimeLow: 2.795327
+ask: 447.86
+askSize: 40
+auditRisk: 1
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 824637
+averageDailyVolume3Month: 566719
+averageVolume: 566719
+averageVolume10days: 824637
+beta: 0.836
+bid: 446.6
+bidSize: 160
+boardRisk: 7
+bookValue: 77.706
+city: Shelton
+companyOfficers:
+- age: 60
+  exercisedValue: 5538125
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gerben W. Bakker
+  title: President, CEO & Chairman
+  totalPay: 2703253
+  unexercisedValue: 14098359
+  yearBorn: 1965
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katherine Anne Lane
+  title: Executive VP, General Counsel & Corporate Secretary
+  totalPay: 1044018
+  unexercisedValue: 9641063
+  yearBorn: 1978
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William R. Sperry
+  title: Executive Vice President
+  totalPay: 1527465
+  unexercisedValue: 5607405
+  yearBorn: 1962
+- age: 60
+  exercisedValue: 2110707
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark E. Mikes
+  title: President of Hubbell Electrical Solutions Segment
+  totalPay: 1147567
+  unexercisedValue: 661811
+  yearBorn: 1965
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory A. Gumbs
+  title: President of Hubbell Utility Solutions Segment
+  totalPay: 1157192
+  unexercisedValue: 473716
+  yearBorn: 1970
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph Anthony Capozzoli
+  title: Senior VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Guillermo  Locht
+  title: Vice President of Global Operations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Alexis P. Bernard
+  title: Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Drew M. Marquardt
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel Joseph Innamorato
+  title: Director of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: HUBB announced a cash dividend of $1.52 with an ex-date of Nov. 30, 2026
+  meta:
+    amount: '1.52'
+    dateEpochMs: 1796014800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 445.01
+currentRatio: 1.529
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 447.07
+dayLow: 436.99
+debtToEquity: 128.87
+displayName: Hubbell
+dividendDate: 1797292800
+dividendRate: 6.08
+dividendYield: 1.39
+earningsCallTimestampEnd: 1793109600
+earningsCallTimestampStart: 1793109600
+earningsGrowth: 0.036
+earningsQuarterlyGrowth: 0.027
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1793104200
+earningsTimestampStart: 1793104200
+ebitda: 1603299968
+ebitdaMargins: 0.24316
+enterpriseToEbitda: 17.523
+enterpriseToRevenue: 4.261
+enterpriseValue: 28094449664
+epsCurrentYear: 20.58643
+epsForward: 23.05321
+epsTrailingTwelveMonths: 17.05
+esgPopulated: false
+exDividendDate: 1795996800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 455.387
+fiftyDayAverageChange: -10.376984
+fiftyDayAverageChangePercent: -0.022787176
+fiftyTwoWeekChangePercent: -3.357613
+fiftyTwoWeekHigh: 565.4999
+fiftyTwoWeekHighChange: -120.48987
+fiftyTwoWeekHighChangePercent: -0.21306789
+fiftyTwoWeekLow: 403.82
+fiftyTwoWeekLowChange: 41.190002
+fiftyTwoWeekLowChangePercent: 0.10200089
+fiftyTwoWeekRange: 403.82 - 565.4999
+financialCurrency: USD
+firstTradeDateMilliseconds: 76599000000
+fiveYearAvgDividendYield: 1.39
+floatShares: 52576143
+forwardEps: 23.05321
+forwardPE: 19.303604
+freeCashflow: 552825024
+fullExchangeName: NYSE
+fullTimeEmployees: 19600
+fulldayChange: 7.220001
+fulldayChangePercent: 1.6491928
+fulldayPrice: 445.01
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.35015
+grossProfits: 2308800000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00345
+heldPercentInstitutions: 0.99132
+impliedSharesOutstanding: 52835035
+industry: Electrical Equipment & Parts
+industryDisp: Electrical Equipment & Parts
+industryKey: electrical-equipment-parts
+irWebsite: http://www.hubbell.com/Investor/Overview.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1795996800
+lastDividendValue: 1.52
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 839808000
+lastSplitFactor: '2:1'
+longBusinessSummary: Hubbell Incorporated, together with its subsidiaries, manufactures
+  and sells electrical and utility solutions in the United States and internationally.
+  It operates through two segments, Electrical Solutions and Utility Solutions. The
+  Utility Solution segment offers critical components that allow the grid to transmit
+  and distribute energy, as well as the communications and controls technologies,
+  including utility transmission and distribution components, such as arresters, insulators,
+  connectors, anchors, bushings, enclosures, cutouts, and switches; and solutions
+  that serve the edge of the utility infrastructure comprising smart meters, communications
+  systems, and protection and control devices. It sells its products under various
+  brands and/or trademarks to the electrical distribution, substation and transmission
+  markets, as well as markets for grid protection and controls, utility meters and
+  advanced metering infrastructure and telcom and gas distribution markets. The Electrical
+  Solution segment offers standard and special application wiring device products,
+  rough-in electrical products, connector and grounding products, and other electrical
+  equipment for use in industrial, commercial, and institutional facilities by electrical
+  contractors, maintenance personnel, electricians, utilities, and telecommunications
+  companies. It also designs and manufactures various industrial controls, and communication
+  systems for use in the non-residential and industrial markets, as well as in the
+  oil and gas, and mining industries. This segment sells its products through electrical
+  and industrial distributors, home centers, retail and hardware outlets, and residential
+  product-oriented internet sites; and special application products primarily through
+  wholesale distributors to contractors, industrial customers, and original equipment
+  manufacturers. The company was founded in 1888 and is headquartered in Shelton,
+  Connecticut.
+longName: Hubbell Incorporated
+market: us_market
+marketCap: 23512119296
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_279750
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 907600000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 23130649972
+numberOfAnalystOpinions: 13
+open: 444.61
+operatingCashflow: 1106499968
+operatingMargins: 0.20103
+overallRisk: 2
+payoutRatio: 0.33310002
+pegRatio: 1.62
+phone: 475 882 4000
+previousClose: 437.79
+priceEpsCurrentYear: 21.616669
+priceHint: 2
+priceToBook: 5.7268424
+priceToSalesTrailing12Months: 3.5658462
+profitMargins: 0.13784
+quickRatio: 0.785
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: 7.220001
+regularMarketChangePercent: 1.6491928
+regularMarketDayHigh: 447.07
+regularMarketDayLow: 436.99
+regularMarketDayRange: 436.99 - 447.07
+regularMarketOpen: 444.61
+regularMarketPreviousClose: 437.79
+regularMarketPrice: 445.01
+regularMarketTime: 1794413736
+regularMarketVolume: 86967
+returnOnAssets: 0.0853
+returnOnEquity: 0.23429
+revenueGrowth: 0.246
+revenuePerShare: 124.645
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 3
+sharesOutstanding: 52835035
+sharesPercentSharesOut: 0.05
+sharesShort: 2640789
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2553948
+shortName: Hubbell Inc
+shortPercentOfFloat: 0.0575
+shortRatio: 4.08
+sourceInterval: 15
+state: CT
+symbol: HUBB
+targetHighPrice: 600.0
+targetLowPrice: 486.0
+targetMeanPrice: 538.8461
+targetMedianPrice: 540.0
+totalCash: 355000000
+totalCashPerShare: 6.719
+totalDebt: 5306599936
+totalRevenue: 6593699840
+tradeable: false
+trailingAnnualDividendRate: 5.68
+trailingAnnualDividendYield: 0.012974257
+trailingEps: 17.05
+trailingPE: 26.100294
+trailingPegRatio: 1.6244
+triggerable: true
+twoHundredDayAverage: 486.5151
+twoHundredDayAverageChange: -41.505096
+twoHundredDayAverageChangePercent: -0.08531101
+typeDisp: Equity
+volume: 86967
+website: https://www.hubbell.com
+zip: 06484

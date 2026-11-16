@@ -1,0 +1,215 @@
+52WeekChange: 0.035834312
+SandP52WeekChange: 0.097798586
+address1: 1, route de Versailles
+allTimeHigh: 227.0
+allTimeLow: 21.66
+ask: 0.0
+askSize: 0
+auditRisk: 8
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 159386
+averageDailyVolume3Month: 113264
+averageVolume: 113264
+averageVolume10days: 159386
+beta: 0.422
+bid: 0.0
+bidSize: 0
+boardRisk: 4
+bookValue: 16.554
+city: Saint-Rémy-lès-Chevreuse
+companyOfficers:
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Francois  Michel
+  title: Chief Executive Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Thierry  Hochoa
+  title: Director of Administrative & Financial and CFO
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Karim  Chapot
+  title: Technical Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Michel  Vanhaesbroucke
+  title: Group Marketing Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Youssef  Bouni
+  title: Director of Human Resource
+  unexercisedValue: 0
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: GTT.PA announced a cash dividend of EUR 4.30 with an ex-date of Dec. 8,
+    2026
+  meta:
+    amount: '4.30'
+    dateEpochMs: 1796684400000
+    eventType: DIVIDEND
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 187.7
+currentRatio: 1.951
+customPriceAlertConfidence: LOW
+dayHigh: 189.0
+dayLow: 186.5
+debtToEquity: 16.626
+dividendRate: 8.6
+dividendYield: 4.65
+earningsCallTimestampEnd: 1785339000
+earningsCallTimestampStart: 1785339000
+earningsGrowth: 0.166
+earningsQuarterlyGrowth: 0.169
+earningsTimestampEnd: 1771518600
+earningsTimestampStart: 1771518600
+ebitda: 542300032
+ebitdaMargins: 0.67644
+enterpriseToEbitda: 12.136
+enterpriseToRevenue: 8.209
+enterpriseValue: 6581532160
+epsCurrentYear: 11.26589
+epsForward: 12.25798
+epsTrailingTwelveMonths: 11.92
+esgPopulated: false
+exDividendDate: 1796688000
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 33 1 30 23 20 87
+fiftyDayAverage: 207.754
+fiftyDayAverageChange: -20.054
+fiftyDayAverageChangePercent: -0.09652763
+fiftyTwoWeekChangePercent: 3.5834312
+fiftyTwoWeekHigh: 227.0
+fiftyTwoWeekHighChange: -39.300003
+fiftyTwoWeekHighChangePercent: -0.17312777
+fiftyTwoWeekLow: 153.8
+fiftyTwoWeekLowChange: 33.899994
+fiftyTwoWeekLowChangePercent: 0.22041608
+fiftyTwoWeekRange: 153.8 - 227.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1393488000000
+fiveYearAvgDividendYield: 3.37
+floatShares: 36712011
+forwardEps: 12.25798
+forwardPE: 15.312473
+freeCashflow: 331628000
+fullExchangeName: Paris
+fullTimeEmployees: 732
+fulldayChange: 2.699997
+fulldayChangePercent: 1.4594578
+fulldayPrice: 187.7
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.96769
+grossProfits: 775800000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.01476
+heldPercentInstitutions: 0.59308
+impliedSharesOutstanding: 37059315
+industry: Oil & Gas Equipment & Services
+industryDisp: Oil & Gas Equipment & Services
+industryKey: oil-gas-equipment-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1796688000
+lastDividendValue: 4.3
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Gaztransport & Technigaz SA, a technology and engineering company,
+  provides cryogenic membrane containment systems for the maritime transportation
+  and storage of liquefied gases in South Korea, China, and internationally. It operates
+  through the Core Business and Hydrogen segments. The. company offers onshore membrane
+  storage tank solutions for the storage of LNG (Liquefied Natural Gas); LNG floating
+  storage solution; solutions for the transportation and storage of other liquefied
+  gases such as ethane, ethylene, propane, butane, and propylene; solutions for the
+  offshore LNG industry, including floating storage and regasification units (FSRUs),
+  floating storage and unloading units (FLNGs), and floating storage units (FSUs);
+  and consultancy services, engineering studies, operational support, and maintenance
+  and repairs of GTT membrane systems. It also sells decision-making support tools
+  for ship-owners and operators, including data analysis and vessel performance optimization;
+  designs and assembles electrolysers to produce green hydrogen from renewable energy;
+  and adapts containment technology for LNG-fuelled vessels. It serves ship-owners,
+  gas companies, terminal operators, and shipyards. Gaztransport & Technigaz SA was
+  founded in 1963 and is headquartered in Saint-Rémy-lès-Chevreuse, France.
+longName: Gaztransport & Technigaz SA
+market: fr_market
+marketCap: 6956033536
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_34181819
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 444000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 6855973275
+numberOfAnalystOpinions: 12
+open: 186.7
+operatingCashflow: 488800000
+operatingMargins: 0.70088995
+overallRisk: 3
+payoutRatio: 0.75
+phone: 33 1 30 23 47 89
+previousClose: 185.0
+priceEpsCurrentYear: 16.660912
+priceHint: 2
+priceToBook: 11.338649
+priceToSalesTrailing12Months: 8.676604
+profitMargins: 0.55382
+quickRatio: 1.868
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.41667
+region: US
+regularMarketChange: 2.699997
+regularMarketChangePercent: 1.4594578
+regularMarketDayHigh: 189.0
+regularMarketDayLow: 186.5
+regularMarketDayRange: 186.5 - 189.0
+regularMarketOpen: 186.7
+regularMarketPreviousClose: 185.0
+regularMarketPrice: 187.7
+regularMarketTime: 1794411475
+regularMarketVolume: 26190
+returnOnAssets: 0.36543
+returnOnEquity: 0.79594004
+revenueGrowth: -0.004
+revenuePerShare: 21.629
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 1
+sharesOutstanding: 37059315
+shortName: GAZTRANSPORT & TECHNIGAZ
+sourceInterval: 15
+symbol: GTT.PA
+targetHighPrice: 275.0
+targetLowPrice: 184.0
+targetMeanPrice: 233.83333
+targetMedianPrice: 234.0
+totalCash: 381900000
+totalCashPerShare: 10.3
+totalDebt: 102300000
+totalRevenue: 801699968
+tradeable: false
+trailingAnnualDividendRate: 9.24
+trailingAnnualDividendYield: 0.049945943
+trailingEps: 11.92
+trailingPE: 15.746644
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 199.8215
+twoHundredDayAverageChange: -12.121506
+twoHundredDayAverageChangePercent: -0.06066167
+typeDisp: Equity
+volume: 26190
+website: https://www.gtt.fr
+zip: '78470'

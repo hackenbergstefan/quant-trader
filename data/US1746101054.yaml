@@ -1,0 +1,277 @@
+52WeekChange: 0.23091531
+SandP52WeekChange: 0.097798586
+address1: One Citizens Plaza
+allTimeHigh: 75.33
+allTimeLow: 14.12
+ask: 65.3
+askSize: 400
+auditRisk: 3
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 4083440
+averageDailyVolume3Month: 4041934
+averageVolume: 4041934
+averageVolume10days: 4083440
+beta: 1.095
+bid: 65.25
+bidSize: 600
+boardRisk: 6
+bookValue: 54.489
+city: Providence
+companyOfficers:
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Bruce Winfield Van Saun
+  title: CEO & Chairman of the Board
+  totalPay: 4468550
+  unexercisedValue: 0
+  yearBorn: 1957
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Brendan  Coughlin
+  title: President and Head of Consumer, Private Banking & Wealth
+  totalPay: 2184700
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Aunoy  Banerjee
+  title: Executive VP & CFO
+  totalPay: 1647836
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Chris  Emerson
+  title: Head of Investor Relations
+  totalPay: 805200
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Theodore C. Swimmer
+  title: Executive VP & Head of Commercial Banking
+  totalPay: 3746082
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Christopher J. Schnirel
+  title: Executive VP, Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Michael  Ruttledge
+  title: Executive VP, Chief Information Officer and Head of Enterprise Security &
+    Technology
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Ms. Michelle  Moosally
+  title: Executive Vice President, General Counsel and Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Ms. Susan A. LaMonica
+  title: Executive VP & Chief HR Officer
+  totalPay: 1162792
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 73
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Thomas M. Metzger
+  title: Head of Citizens Private Wealth Manager
+  unexercisedValue: 0
+  yearBorn: 1952
+compensationAsOfEpochDate: 1483142400
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 65.39
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 65.7
+dayLow: 64.95
+displayName: Citizens Financial
+dividendDate: 1794528000
+dividendRate: 2.08
+dividendYield: 3.21
+earningsCallTimestampEnd: 1800021600
+earningsCallTimestampStart: 1800021600
+earningsGrowth: 0.343
+earningsQuarterlyGrowth: 0.287
+earningsTimestamp: 1800019800
+earningsTimestampEnd: 1800019800
+earningsTimestampStart: 1800019800
+ebitdaMargins: 0.0
+enterpriseToRevenue: 4.01
+enterpriseValue: 33656221696
+epsCurrentYear: 5.29784
+epsForward: 6.49202
+epsTrailingTwelveMonths: 4.95
+esgPopulated: false
+exDividendDate: 1793318400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 65.6982
+fiftyDayAverageChange: -0.30819702
+fiftyDayAverageChangePercent: -0.004691103
+fiftyTwoWeekChangePercent: 23.09153
+fiftyTwoWeekHigh: 75.33
+fiftyTwoWeekHighChange: -9.940002
+fiftyTwoWeekHighChangePercent: -0.13195278
+fiftyTwoWeekLow: 49.0
+fiftyTwoWeekLowChange: 16.39
+fiftyTwoWeekLowChangePercent: 0.3344898
+fiftyTwoWeekRange: 49.0 - 75.33
+financialCurrency: USD
+firstTradeDateMilliseconds: 1411565400000
+fiveYearAvgDividendYield: 3.82
+floatShares: 415061766
+forwardEps: 6.49202
+forwardPE: 10.072366
+fullExchangeName: NYSE
+fullTimeEmployees: 17609
+fulldayChange: 0.5699997
+fulldayChangePercent: 0.87935776
+fulldayPrice: 65.39
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 8393999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0072600003
+heldPercentInstitutions: 1.00243
+impliedSharesOutstanding: 419195029
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793318400
+lastDividendValue: 0.52
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Citizens Financial Group, Inc. operates as the bank holding company
+  that provides retail and commercial banking products and services to individuals,
+  small businesses, middle-market companies, large corporations, and institutions
+  in the United States. The company operates through two segments, Consumer Banking
+  and Commercial Banking. The Consumer Banking segment offers deposit products, mortgage
+  and home equity lending products, credit cards, business loans, and wealth management
+  services; and education and point-of-sale finance loans, as well as digital deposit
+  products. This segment serves its customers through telephone service centers, as
+  well as through its online and mobile platforms. The Commercial Banking segment
+  provides various financial products and solutions, including lending and leasing,
+  deposit and treasury management services, foreign exchange, and interest rate and
+  commodity risk management solutions, as well as syndicated loans, corporate finance,
+  mergers and acquisitions, and debt and equity capital markets services. The company
+  serves customers and small businesses, high- and ultra-high-net-worth individuals
+  and families, as well as investors, entrepreneurs, and companies and institutions,
+  as well as multifamily, office, industrial, retail, healthcare, and hospitality
+  sectors. The company was formerly known as RBS Citizens Financial Group, Inc. and
+  changed its name to Citizens Financial Group, Inc. in April 2014. Citizens Financial
+  Group, Inc. was founded in 1828 and is headquartered in Providence, Rhode Island.
+longName: Citizens Financial Group, Inc.
+market: us_market
+marketCap: 27411163136
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_46051729
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2126000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 27172221779
+numberOfAnalystOpinions: 19
+open: 65.1
+operatingCashflow: 1258000000
+operatingMargins: 0.34072
+overallRisk: 6
+payoutRatio: 0.3717
+pegRatio: 1.65
+phone: 203 900 6715
+previousClose: 64.82
+priceEpsCurrentYear: 12.342766
+priceHint: 2
+priceToBook: 1.2000587
+priceToSalesTrailing12Months: 3.2655663
+profitMargins: 0.27019
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.55
+region: US
+regularMarketChange: 0.5699997
+regularMarketChangePercent: 0.87935776
+regularMarketDayHigh: 65.7
+regularMarketDayLow: 64.95
+regularMarketDayRange: 64.95 - 65.7
+regularMarketOpen: 65.1
+regularMarketPreviousClose: 64.82
+regularMarketPrice: 65.39
+regularMarketTime: 1794413715
+regularMarketVolume: 1336542
+returnOnAssets: 0.00992
+returnOnEquity: 0.08896
+revenueGrowth: 0.119
+revenuePerShare: 19.765
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 7
+sharesOutstanding: 419195029
+sharesPercentSharesOut: 0.0
+sharesShort: 13673
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 16975977
+shortName: Citizens Financial Group, Inc.
+shortPercentOfFloat: 0.0
+shortRatio: 0.0
+sourceInterval: 15
+state: RI
+symbol: CFG
+targetHighPrice: 87.0
+targetLowPrice: 65.0
+targetMeanPrice: 76.39474
+targetMedianPrice: 76.0
+totalCash: 13557999616
+totalCashPerShare: 32.343
+totalDebt: 17831999488
+totalRevenue: 8393999872
+tradeable: false
+trailingAnnualDividendRate: 1.84
+trailingAnnualDividendYield: 0.0283863
+trailingEps: 4.95
+trailingPE: 13.210101
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 65.67555
+twoHundredDayAverageChange: -0.28555298
+twoHundredDayAverageChangePercent: -0.0043479344
+typeDisp: Equity
+volume: 1336542
+website: https://www.citizensbank.com
+zip: 02903

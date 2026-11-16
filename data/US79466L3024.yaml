@@ -1,0 +1,287 @@
+52WeekChange: -0.13226569
+SandP52WeekChange: 0.097798586
+address1: Salesforce Tower
+address2: 3rd Floor 415 Mission Street
+allTimeHigh: 369.0
+allTimeLow: 2.25
+ask: 216.21
+askSize: 200
+auditRisk: 2
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 7143310
+averageDailyVolume3Month: 11417810
+averageVolume: 11417810
+averageVolume10days: 7143310
+beta: 1.233
+bid: 216.12
+bidSize: 600
+boardRisk: 7
+bookValue: 46.632
+city: San Francisco
+companyOfficers:
+- age: 60
+  exercisedValue: 17568536
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Marc R. Benioff
+  title: Co-Founder, Chairman & CEO
+  totalPay: 11370795
+  unexercisedValue: 21184708
+  yearBorn: 1965
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Miguel  Milano
+  title: President & COO
+  totalPay: 4340416
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 58
+  exercisedValue: 9857124
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Parker  Harris
+  title: Co-Founder, Advisor to the CEO & Director
+  totalPay: 2291250
+  unexercisedValue: 8066859
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 947960
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Srinivas  Tallapragada
+  title: Special Advisor to the Chief Executive Officer
+  totalPay: 3139934
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Sabastian V. Niles
+  title: President, Chief Legal Officer & Corporate Secretary
+  totalPay: 3918008
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Alexa  Vignone
+  title: President & Chief Revenue Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Erin  Oles
+  title: President & Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Rohan  Kumar
+  title: President & Chief Platform and Engineering Officer
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Guy  Wanger
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Andy  White
+  title: Senior Vice President of Technology
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 217.0
+currentRatio: 0.839
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 217.17
+dayLow: 213.63
+debtToEquity: 110.417
+displayName: Salesforce
+dividendDate: 1791417600
+dividendRate: 1.76
+dividendYield: 0.82
+earningsCallTimestampEnd: 1796248800
+earningsCallTimestampStart: 1796248800
+earningsGrowth: 1.189
+earningsQuarterlyGrowth: 0.869
+earningsTimestamp: 1796245200
+earningsTimestampEnd: 1796245200
+earningsTimestampStart: 1796245200
+ebitda: 12899000320
+ebitdaMargins: 0.29357
+enterpriseToEbitda: 16.022
+enterpriseToRevenue: 4.704
+enterpriseValue: 206667038720
+epsCurrentYear: 16.75484
+epsForward: 16.01523
+epsTrailingTwelveMonths: 10.93
+esgPopulated: false
+exDividendDate: 1789603200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 415 901 7040
+fiftyDayAverage: 237.798
+fiftyDayAverageChange: -20.798004
+fiftyDayAverageChangePercent: -0.0874608
+fiftyTwoWeekChangePercent: -13.226568
+fiftyTwoWeekHigh: 269.11
+fiftyTwoWeekHighChange: -52.109985
+fiftyTwoWeekHighChangePercent: -0.19363825
+fiftyTwoWeekLow: 146.32
+fiftyTwoWeekLowChange: 70.67999
+fiftyTwoWeekLowChangePercent: 0.48305076
+fiftyTwoWeekRange: 146.32 - 269.11
+financialCurrency: USD
+firstTradeDateMilliseconds: 1087997400000
+floatShares: 797528150
+forwardEps: 16.01523
+forwardPE: 13.5496025
+freeCashflow: 17731874816
+fullExchangeName: NYSE
+fullTimeEmployees: 83334
+fulldayChange: 3.5200043
+fulldayChangePercent: 1.6488684
+fulldayPrice: 217.0
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.77282
+grossProfits: 33955999744
+hasPrePostMarketData: true
+heldPercentInsiders: 0.03557
+heldPercentInstitutions: 0.87446
+impliedSharesOutstanding: 823000000
+industry: Software - Application
+industryDisp: Software - Application
+industryKey: software-application
+industrySymbol: h885
+irWebsite: http://www.salesforce.com/company/investor/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789603200
+lastDividendValue: 0.44
+lastFiscalYearEnd: 1769817600
+lastSplitDate: 1366243200
+lastSplitFactor: '4:1'
+longBusinessSummary: Salesforce, Inc. provides customer relationship management technology
+  services that connect companies and customers together in the United States, Europe,
+  and the Asia Pacific. The company offers Agentforce, which enables customers to
+  build, deploy, and manage enterprise-grade, autonomous AI agents at scale, enabling
+  humans and agents to work together; Agentforce Sales, an integrated platform that
+  brings together the power of humans with AI agents to help sales teams for selling,
+  managing, and automating entire sales processes; Agentforce Service, which enables
+  companies in every industry to bring all of their customer, employee, IT, and field
+  service needs onto one integrated AI-powered platform; Data 360, a data engine that
+  gives AI agents their context and serves as the foundation for how customers unify
+  service offerings, making their data actionable for both humans and agents; Informatica,
+  an AI-powered data management platform that enables customers to discover, integrate,
+  govern, and deliver trusted data at scale across hybrid and multi-cloud environments;
+  and Slack, a conversational interface for the agentic enterprise where people and
+  agents work together, connecting knowledge, actions, and data in real time. It also
+  provides marketing platforms; commerce services, which empower shopping experiences
+  across various customer touchpoints; integration and analytics solutions; Salesforce
+  Starter, a suite for small and medium-sized businesses that brings sales, service,
+  marketing, and commerce together; and a field service solution that enables companies
+  to connect service agents, dispatchers, and mobile employees through one centralized
+  platform to schedule and dispatch work, as well as track and manage jobs. It serves
+  financial services, healthcare and life sciences, manufacturing, automotive, and
+  government sectors. Salesforce, Inc. was incorporated in 1999 and is headquartered
+  in San Francisco, California.
+longName: Salesforce, Inc.
+market: us_market
+marketCap: 178591006720
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_122917
+mostRecentQuarter: 1785456000
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 9662000128
+nextFiscalYearEnd: 1801353600
+nonDilutedMarketCap: 175694040000
+numberOfAnalystOpinions: 53
+open: 214.91
+operatingCashflow: 15749999616
+operatingMargins: 0.21519
+overallRisk: 6
+payoutRatio: 0.1566
+pegRatio: 0.77
+phone: 415 901 7000
+prevName: salesforce.com, inc.
+previousClose: 213.48
+priceEpsCurrentYear: 12.951481
+priceHint: 2
+priceToBook: 4.6534567
+priceToSalesTrailing12Months: 4.064614
+profitMargins: 0.2199
+quickRatio: 0.673
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.67857
+region: US
+regularMarketChange: 3.5200043
+regularMarketChangePercent: 1.6488684
+regularMarketDayHigh: 217.17
+regularMarketDayLow: 213.63
+regularMarketDayRange: 213.63 - 217.17
+regularMarketOpen: 214.91
+regularMarketPreviousClose: 213.48
+regularMarketPrice: 217.0
+regularMarketTime: 1794413743
+regularMarketVolume: 1670100
+returnOnAssets: 0.05704
+returnOnEquity: 0.19381
+revenueGrowth: 0.108
+revenuePerShare: 49.203
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 2
+sharesOutstanding: 823000000
+sharesPercentSharesOut: 0.0319
+sharesShort: 26242468
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 32888398
+shortName: Salesforce, Inc.
+shortPercentOfFloat: 0.0368
+shortRatio: 3.52
+sourceInterval: 15
+state: CA
+symbol: CRM
+targetHighPrice: 475.0
+targetLowPrice: 165.0
+targetMeanPrice: 287.0836
+targetMedianPrice: 285.0
+totalCash: 11402999808
+totalCashPerShare: 13.855
+totalDebt: 42375999488
+totalRevenue: 43938000896
+tradeable: false
+trailingAnnualDividendRate: 1.712
+trailingAnnualDividendYield: 0.008019486
+trailingEps: 10.93
+trailingPE: 19.853613
+trailingPegRatio: 0.7673
+triggerable: true
+twoHundredDayAverage: 198.0716
+twoHundredDayAverageChange: 18.928406
+twoHundredDayAverageChangePercent: 0.09556346
+typeDisp: Equity
+volume: 1670100
+website: https://www.salesforce.com
+zip: '94105'

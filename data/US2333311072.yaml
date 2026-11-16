@@ -1,0 +1,282 @@
+52WeekChange: -0.009195864
+SandP52WeekChange: 0.097798586
+address1: One Energy Plaza
+allTimeHigh: 155.75
+allTimeLow: 6.382979
+ask: 138.21
+askSize: 100
+auditRisk: 6
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 1575060
+averageDailyVolume3Month: 1545725
+averageVolume: 1545725
+averageVolume10days: 1575060
+beta: 0.355
+bid: 138.09
+bidSize: 100
+boardRisk: 6
+bookValue: 60.847
+city: Detroit
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gerardo  Norcia
+  title: Executive Chairman
+  totalPay: 4107661
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Joi M. Harris
+  title: President, CEO & Director
+  totalPay: 2495720
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Trevor F. Lauer
+  title: Vice Chairman & Group President
+  totalPay: 1710367
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David S. Ruud
+  title: Vice Chairman & CFO
+  totalPay: 2167803
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew T. Paul
+  title: "President & Chief Operating Officer \x96 DTE Electric"
+  totalPay: 1390427
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tracy J. Myrick
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bill  Chiu
+  title: Vice President of Distribution Engineering & Technology
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven B. Ambrose
+  title: Chief Information Officer & VP
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Angie  Pizzuti
+  title: Senior VP & Chief Administrative Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Dermody
+  title: Manager of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 138.48
+currentRatio: 0.622
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 138.94
+dayLow: 137.99
+debtToEquity: 227.149
+displayName: DTE Energy
+dividendDate: 1799971200
+dividendRate: 4.66
+dividendYield: 3.35
+earningsCallTimestampEnd: 1793887200
+earningsCallTimestampStart: 1793887200
+earningsGrowth: 0.119
+earningsQuarterlyGrowth: 0.122
+earningsTimestamp: 1793885400
+earningsTimestampEnd: 1793885400
+earningsTimestampStart: 1793885400
+ebitda: 3592000000
+ebitdaMargins: 0.21554
+enterpriseToEbitda: 16.06
+enterpriseToRevenue: 3.462
+enterpriseValue: 57686585344
+epsCurrentYear: 7.70268
+epsForward: 8.16269
+epsTrailingTwelveMonths: 6.56
+esgPopulated: false
+exDividendDate: 1797811200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 130.3178
+fiftyDayAverageChange: 8.162201
+fiftyDayAverageChangePercent: 0.06263305
+fiftyTwoWeekChangePercent: -0.9195864
+fiftyTwoWeekHigh: 155.75
+fiftyTwoWeekHighChange: -17.270004
+fiftyTwoWeekHighChangePercent: -0.110882856
+fiftyTwoWeekLow: 119.68
+fiftyTwoWeekLowChange: 18.799995
+fiftyTwoWeekLowChangePercent: 0.15708552
+fiftyTwoWeekRange: 119.68 - 155.75
+financialCurrency: USD
+firstTradeDateMilliseconds: -252322200000
+fiveYearAvgDividendYield: 3.24
+floatShares: 207020266
+forwardEps: 8.16269
+forwardPE: 16.964994
+freeCashflow: -2702000128
+fullExchangeName: NYSE
+fullTimeEmployees: 9490
+fulldayChange: -0.51000977
+fulldayChangePercent: -0.36693987
+fulldayPrice: 138.48
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.28886998
+grossProfits: 4814000128
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00416
+heldPercentInstitutions: 0.82671
+impliedSharesOutstanding: 208163081
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+irWebsite: http://www.dteenergy.com/dteEnergyCompany/investors/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789948800
+lastDividendValue: 1.165
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1625097600
+lastSplitFactor: 1175:1000
+longBusinessSummary: 'DTE Energy Company engages in energy-related businesses and
+  services. The company operates through four segments: Electric, Gas, DTE Vantage,
+  and Energy Trading. The company''s Electric segment generates, purchases, distributes,
+  and sells electricity to approximately 2.3 million residential, commercial, and
+  industrial customers in southeastern Michigan. It generates electricity through
+  coal-fired plants, natural gas plant, hydroelectric pumped storage, and nuclear
+  plants, as well as wind and solar assets. This segment owns and operates 702 distribution
+  substations with a capacity of approximately 37,870,000 kilovolt-amperes (kVA) and
+  approximately 4,56,900 line transformers with a capacity of approximately 33,770,000
+  kVA. The company''s Gas segment purchases, stores, transports, distributes, and
+  sells natural gas to approximately 1.4 million residential, commercial, and industrial
+  customers throughout Michigan; and sells storage and transportation capacity. This
+  segment has approximately 21,000 miles of distribution mains; 1,242,000 service
+  pipelines; and 1,361,000 active meters, as well as owns approximately 2,000 miles
+  of transmission pipelines. Its DTE Vantage segment offers metallurgical and petroleum
+  coke to steel and other industries; and power generation, steam production, chilled
+  water production, and wastewater treatment services, as well as compressed air supply
+  to industrial customers. This segment also owns and operates 2 renewable generating
+  plants with a capacity of 70 MWs; and 22 gas recovery sites. Its Energy Trading
+  segment engages in power, natural gas, and environmental marketing and trading;
+  structured transactions; and the optimization of contracted natural gas pipeline
+  transportation and storage positions. The company was founded in 1849 and is based
+  in Detroit, Michigan.'
+longName: DTE Energy Company
+market: us_market
+marketCap: 28826423296
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_266598
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1364999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 28932586628
+numberOfAnalystOpinions: 14
+open: 138.39
+operatingCashflow: 3495000064
+operatingMargins: 0.13765
+overallRisk: 5
+payoutRatio: 0.7104
+pegRatio: 1.78
+phone: 313 235 4000
+previousClose: 138.99
+priceEpsCurrentYear: 17.978157
+priceHint: 2
+priceToBook: 2.2758722
+priceToSalesTrailing12Months: 1.7297584
+profitMargins: 0.08209
+quickRatio: 0.281
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.05882
+region: US
+regularMarketChange: -0.51000977
+regularMarketChangePercent: -0.36693987
+regularMarketDayHigh: 138.94
+regularMarketDayLow: 137.99
+regularMarketDayRange: 137.99 - 138.94
+regularMarketOpen: 138.39
+regularMarketPreviousClose: 138.99
+regularMarketPrice: 138.48
+regularMarketTime: 1794413683
+regularMarketVolume: 180722
+returnOnAssets: 0.02616
+returnOnEquity: 0.11017
+revenueGrowth: 0.057
+revenuePerShare: 80.217
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 3
+sharesOutstanding: 208163081
+sharesPercentSharesOut: 0.030199999
+sharesShort: 6288064
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5556863
+shortName: DTE Energy Company
+shortPercentOfFloat: 0.0345
+shortRatio: 4.48
+sourceInterval: 15
+state: MI
+symbol: DTE
+targetHighPrice: 168.0
+targetLowPrice: 135.0
+targetMeanPrice: 148.39285
+targetMedianPrice: 147.5
+totalCash: 33000000
+totalCashPerShare: 0.159
+totalDebt: 28782000128
+totalRevenue: 16664999936
+tradeable: false
+trailingAnnualDividendRate: 4.66
+trailingAnnualDividendYield: 0.03352759
+trailingEps: 6.56
+trailingPE: 21.109756
+trailingPegRatio: 1.7773
+triggerable: true
+twoHundredDayAverage: 140.9955
+twoHundredDayAverageChange: -2.515503
+twoHundredDayAverageChangePercent: -0.017841015
+typeDisp: Equity
+volume: 180722
+website: https://www.dteenergy.com
+zip: 48226-1221

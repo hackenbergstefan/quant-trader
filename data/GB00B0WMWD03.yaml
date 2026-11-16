@@ -1,0 +1,247 @@
+52WeekChange: 0.21095514
+SandP52WeekChange: 0.097798586
+address1: Cody Technology Park
+address2: Ively Road
+allTimeHigh: 579.5
+allTimeLow: 96.0
+ask: 519.0
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1345203
+averageDailyVolume3Month: 1470462
+averageVolume: 1470462
+averageVolume10days: 1345203
+beta: 0.337
+bid: 518.0
+bidSize: 0
+boardRisk: 5
+bookValue: 1.059
+city: Farnborough
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Stephen John Wadey
+  title: Group CEO & Executive Director
+  totalPay: 1944000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Martin Stephen Cooper
+  title: Group CFO & Executive Director
+  totalPay: 1199000
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Iain  Stevenson
+  title: Chief Operating Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Stephen  Lamacraft
+  title: Interim Group Investor Relations Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Meg  Hunt
+  title: Chief People Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Vicky  Weise
+  title: Chief Enterprise Services Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. James  Willis
+  title: Chief Executive of UK Intelligence
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Stephen  Iwicki
+  title: Executive VP of C5ISR Business - QinetiQ US
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Will  Blamey
+  title: Chief Executive of UK Defence
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Lindsay  Walls
+  title: Chief Corporate Affairs Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 518.5
+currentRatio: 1.131
+customPriceAlertConfidence: LOW
+dayHigh: 542.5
+dayLow: 512.81
+debtToEquity: 76.655
+dividendRate: 0.11
+dividendYield: 2.06
+earningsCallTimestampEnd: 1794475800
+earningsCallTimestampStart: 1794475800
+earningsTimestamp: 1794501000
+earningsTimestampEnd: 1794501000
+earningsTimestampStart: 1794501000
+ebitda: 319400000
+ebitdaMargins: 0.16613
+enterpriseToEbitda: 9.26
+enterpriseToRevenue: 1.538
+enterpriseValue: 2957791488
+epsCurrentYear: 0.33926
+epsForward: 0.37785
+epsTrailingTwelveMonths: 0.2
+esgPopulated: false
+exDividendDate: 1784764800
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 492.39
+fiftyDayAverageChange: 26.109985
+fiftyDayAverageChangePercent: 0.05302704
+fiftyTwoWeekChangePercent: 21.095514
+fiftyTwoWeekHigh: 576.5
+fiftyTwoWeekHighChange: -58.0
+fiftyTwoWeekHighChangePercent: -0.10060711
+fiftyTwoWeekLow: 398.454
+fiftyTwoWeekLowChange: 120.04599
+fiftyTwoWeekLowChangePercent: 0.30127943
+fiftyTwoWeekRange: 398.454 - 576.5
+financialCurrency: GBP
+firstTradeDateMilliseconds: 1139558400000
+fiveYearAvgDividendYield: 2.05
+floatShares: 420545618
+forwardEps: 0.37785
+forwardPE: 13.722377
+freeCashflow: 153050000
+fullExchangeName: LSE
+fullTimeEmployees: 7378
+fulldayChange: -16.5
+fulldayChangePercent: -3.0841122
+fulldayPrice: 518.5
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.16368
+grossProfits: 314700000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.15103
+heldPercentInstitutions: 0.60221
+impliedSharesOutstanding: 507916175
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1784764800
+lastDividendValue: 0.08
+lastFiscalYearEnd: 1774915200
+longBusinessSummary: 'QinetiQ Group plc provides science and technology solution in
+  the defense, security, and infrastructure markets in the United States, Australia,
+  Canada, and Germany. The company operates through four segments: Test and Training;
+  Mission Support and Operations; Research and Development; and Engineering Services.
+  It offers test and evaluation, training and simulation, mission rehearsal, and threat
+  representation; cyber and intelligence capabilities, mission data, and persistent
+  surveillance. The company also provides advanced materials, AI and Analytics, autonomous
+  systems, cyber and electromagnetic spectrum, directed energy systems, human factors
+  integration, immersive technology, navigation and communication systems, quantum
+  technology, secure communication solutions, and sensing and processing systems.
+  It serves ministry of defense, government agencies, department of defense and commercial
+  sectors. QinetiQ Group plc was founded in 2001 and is based in Farnborough, the
+  United Kingdom.'
+longName: QinetiQ Group plc
+market: gb_market
+marketCap: 2633545216
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_25667953
+mostRecentQuarter: 1774915200
+netIncomeToCommon: 107500000
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 2717351536
+numberOfAnalystOpinions: 12
+open: 524.5
+operatingCashflow: 231800000
+operatingMargins: 0.120249994
+overallRisk: 5
+payoutRatio: 0.4571
+pegRatio: 1.74
+phone: 44 1252 392 000
+previousClose: 535.0
+priceEpsCurrentYear: 1528.3263
+priceHint: 2
+priceToBook: 4.896128
+priceToSalesTrailing12Months: 1.3697833
+profitMargins: 0.055910002
+quickRatio: 0.967
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.75
+region: US
+regularMarketChange: -16.5
+regularMarketChangePercent: -3.0841122
+regularMarketDayHigh: 542.5
+regularMarketDayLow: 512.81
+regularMarketDayRange: 512.81 - 542.5
+regularMarketOpen: 524.5
+regularMarketPreviousClose: 535.0
+regularMarketPrice: 518.5
+regularMarketTime: 1794411545
+regularMarketVolume: 275097
+returnOnAssets: 0.08103
+returnOnEquity: 0.18228
+revenueGrowth: 0.038
+revenuePerShare: 3.591
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 507916175
+shortName: QINETIQ GROUP PLC ORD 1P
+sourceInterval: 15
+symbol: QQ.L
+targetHighPrice: 620.0
+targetLowPrice: 450.0
+targetMeanPrice: 572.5
+targetMedianPrice: 585.0
+totalCash: 259200000
+totalCashPerShare: 0.496
+totalDebt: 423900000
+totalRevenue: 1922599936
+tradeable: false
+trailingAnnualDividendRate: 0.11
+trailingAnnualDividendYield: 0.00020560747
+trailingEps: 0.2
+trailingPE: 25.925
+trailingPegRatio: 1.7451
+triggerable: false
+twoHundredDayAverage: 483.373
+twoHundredDayAverageChange: 35.127014
+twoHundredDayAverageChangePercent: 0.072670616
+typeDisp: Equity
+volume: 275097
+website: https://www.qinetiq.com
+zip: GU14 0LX

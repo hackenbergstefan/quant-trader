@@ -1,0 +1,265 @@
+52WeekChange: -0.11785716
+SandP52WeekChange: 0.097798586
+address1: 100, rue de Courcelles
+allTimeHigh: 67.8
+allTimeLow: 2.666666
+ask: 0.0
+askSize: 0
+auditRisk: 5
+averageDailyVolume10Day: 1065225
+averageDailyVolume3Month: 780148
+averageVolume: 780148
+averageVolume10days: 1065225
+beta: 1.366
+bid: 0.0
+bidSize: 0
+boardRisk: 2
+bookValue: 14.099
+city: Paris
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christophe  Perillat-Piratoine
+  title: CEO & Director
+  totalPay: 2183758
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Edouard  de Pirey
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marisa  Baldo
+  title: Group Vice President of Financial Communication & Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Catherine  Delhaye
+  title: Chief Ethics, Compliance & Data Protection Officer
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric Antoine Fredette
+  title: Group General Counsel & General Secretary
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Francois  Marion
+  title: Chief Communications & Sustainability Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Detlef W. Juerss
+  title: Chief Sales & Business Development Officer
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Magali  Castano
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric  Schuler
+  title: Chief Executive Officer of Valeo Service Activity
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc  Vrecko
+  title: CEO of Valeo Brain Division & Executive VP of Valeo Group
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 11.59
+currentRatio: 0.87
+customPriceAlertConfidence: LOW
+dayHigh: 11.715
+dayLow: 11.2
+debtToEquity: 165.275
+dividendRate: 0.44
+dividendYield: 3.96
+earningsCallTimestampEnd: 1740677400
+earningsCallTimestampStart: 1740677400
+earningsGrowth: 0.012
+earningsQuarterlyGrowth: 0.01
+earningsTimestampEnd: 1784734200
+earningsTimestampStart: 1784734200
+ebitda: 2182000128
+ebitdaMargins: 0.10581
+enterpriseToEbitda: 3.341
+enterpriseToRevenue: 0.354
+enterpriseValue: 7290435584
+epsCurrentYear: 1.50602
+epsForward: 1.91555
+epsTrailingTwelveMonths: 0.82
+esgPopulated: false
+exDividendDate: 1779753600
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 13.4833
+fiftyDayAverageChange: -1.8933
+fiftyDayAverageChangePercent: -0.14041814
+fiftyTwoWeekChangePercent: -11.785716
+fiftyTwoWeekHigh: 17.325
+fiftyTwoWeekHighChange: -5.7350006
+fiftyTwoWeekHighChangePercent: -0.33102456
+fiftyTwoWeekLow: 9.438
+fiftyTwoWeekLowChange: 2.1520004
+fiftyTwoWeekLowChangePercent: 0.22801447
+fiftyTwoWeekRange: 9.438 - 17.325
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 2.54
+floatShares: 202324098
+forwardEps: 1.91555
+forwardPE: 6.050482
+freeCashflow: 589500032
+fullExchangeName: Paris
+fullTimeEmployees: 86226
+fulldayChange: 0.47500038
+fulldayChangePercent: 4.2735076
+fulldayPrice: 11.59
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.2076
+grossProfits: 4280999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.14985
+heldPercentInstitutions: 0.53799
+impliedSharesOutstanding: 241416255
+industry: Auto Parts
+industryDisp: Auto Parts
+industryKey: auto-parts
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779753600
+lastDividendValue: 0.44
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1465171200
+lastSplitFactor: '3:1'
+longBusinessSummary: 'Valeo SE, a technology company, designs, produces, and sells
+  products and systems for the automotive markets in France, other European countries,
+  Africa, North America, South America, and Asia. It operates through three segments:
+  Power, Brain, and Light. The Power segment offers automotive thermal systems, including
+  electric vehicle (EV) cooling systems, which comprise XL plate liquid coolers, high
+  performance chillers, electrically driven compressors, front end cooling modules,
+  and air intake modules; EV range extension, which includes heat pump systems, flexheater,
+  and ultra-thin HVAC; thermal management of EV battery systems comprising battery
+  coolers and composite battery casing. This segment also develops thermal comfort
+  solutions, such as smart cocoon demo car, Valeo odor free, air-conditioning loop,
+  active grille shutter, and HVAC unit; and air quality systems, which include PM
+  sensor, Cabin filt''air range, and two-vane rotary compressors, as well as UV air
+  purifiers for public transport. The Brain segment offers driving assistance systems
+  that design ultrasonic sensors, radars, and cameras, including Valeo Scala Lidar,
+  Valeo 360VUE, Park4U, an automated parking system, Valeo Xtravue trailer, front
+  cameras, and domain controllers; intuitive controls, such as heads-up display, interior
+  cocoon, display, and steering wheel hub; connectivity solutions, which include vehicle
+  telematics systems; and access solution such as, phone as key, and passive entry
+  passive start systems. The Light segment provides lighting system solutions, such
+  as picturebeam moonlighic, 360° light projection on the ground, LED rear lighting,
+  front and rear fascias, non-blinding road beams; and wiper systems including, sensor
+  cleaning systems, aquablade, and remote clean4U. The company also offers aftermarket
+  services, original equipment spares, and spare parts and services. The company was
+  incorporated in 1923 and is headquartered in Paris, France.'
+longName: Valeo SE
+market: fr_market
+marketCap: 2798014464
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_688262
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 201000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 2697826649
+numberOfAnalystOpinions: 14
+open: 11.285
+operatingCashflow: 2464000000
+operatingMargins: 0.05921
+overallRisk: 2
+payoutRatio: 0.5366
+pegRatio: 0.18
+phone: 33 1 40 55 20 20
+prevName: Valeo SA
+previousClose: 11.115
+priceEpsCurrentYear: 7.695781
+priceHint: 2
+priceToBook: 0.82204413
+priceToSalesTrailing12Months: 0.13568762
+profitMargins: 0.00975
+quickRatio: 0.616
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 0.47500038
+regularMarketChangePercent: 4.2735076
+regularMarketDayHigh: 11.715
+regularMarketDayLow: 11.2
+regularMarketDayRange: 11.2 - 11.715
+regularMarketOpen: 11.285
+regularMarketPreviousClose: 11.115
+regularMarketPrice: 11.59
+regularMarketTime: 1794411563
+regularMarketVolume: 228357
+returnOnAssets: 0.03669
+returnOnEquity: 0.06558
+revenueGrowth: -0.026
+revenuePerShare: 84.834
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 5
+sharesOutstanding: 241416255
+shortName: VALEO
+sourceInterval: 15
+symbol: FR.PA
+targetHighPrice: 22.0
+targetLowPrice: 11.0
+targetMeanPrice: 14.03214
+targetMedianPrice: 13.0
+totalCash: 3043000064
+totalCashPerShare: 12.6
+totalDebt: 6887000064
+totalRevenue: 20621000704
+tradeable: false
+trailingAnnualDividendRate: 0.44
+trailingAnnualDividendYield: 0.039586145
+trailingEps: 0.82
+trailingPE: 14.134147
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 12.839615
+twoHundredDayAverageChange: -1.2496147
+twoHundredDayAverageChangePercent: -0.09732494
+typeDisp: Equity
+volume: 228357
+website: https://www.valeo.com
+zip: '75017'

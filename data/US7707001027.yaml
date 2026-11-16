@@ -1,0 +1,265 @@
+52WeekChange: -0.38840425
+SandP52WeekChange: 0.097798586
+address1: 85 Willow Road
+allTimeHigh: 153.86
+allTimeLow: 6.81
+ask: 88.0
+askSize: 225
+auditRisk: 3
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 21576170
+averageDailyVolume3Month: 20903068
+averageVolume: 20903068
+averageVolume10days: 21576170
+beta: 2.528
+bid: 77.59
+bidSize: 2
+boardRisk: 10
+bookValue: 11.1
+city: Menlo Park
+companyOfficers:
+- age: 38
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vladimir  Tenev
+  title: Co-Founder, President, CEO & Chairman of the Board
+  totalPay: 3004978
+  unexercisedValue: 0
+  yearBorn: 1987
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Baiju Prafulkumar Bhatt
+  title: Co-Founder & Director
+  unexercisedValue: 0
+  yearBorn: 1985
+- age: 52
+  exercisedValue: 4817625
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel M. Gallagher Jr., J.D.
+  title: Chief Legal, Compliance & Corporate Affairs Officer
+  totalPay: 1347616
+  unexercisedValue: 9288258
+  yearBorn: 1973
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven M. Quirk
+  title: Chief Brokerage Officer
+  totalPay: 1344415
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shiv Kumar Verma
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1985
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stephanie Jannie Guild C.F.A.
+  title: Chief Investment Officer
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Dara Ann Bazzano
+  title: Chief Accounting Officer & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Koegel
+  title: Vice President of Corporate Finance & Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nora  Chan
+  title: Senior Director of Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Connie  Schan
+  title: Chief People Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 84.39
+currentRatio: 1.131
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 84.86
+dayLow: 82.23
+debtToEquity: 223.775
+displayName: Robinhood Markets
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793134800
+earningsCallTimestampStart: 1793134800
+earningsGrowth: -0.164
+earningsQuarterlyGrowth: -0.158
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1793131200
+earningsTimestampStart: 1793131200
+ebitdaMargins: 0.0
+enterpriseToRevenue: 13.978
+enterpriseValue: 71036952576
+epsCurrentYear: 2.47804
+epsForward: 3.41192
+epsTrailingTwelveMonths: 2.17
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 105.083
+fiftyDayAverageChange: -20.693
+fiftyDayAverageChangePercent: -0.19692054
+fiftyTwoWeekChangePercent: -38.840424
+fiftyTwoWeekHigh: 139.75
+fiftyTwoWeekHighChange: -55.36
+fiftyTwoWeekHighChangePercent: -0.39613596
+fiftyTwoWeekLow: 63.515
+fiftyTwoWeekLowChange: 20.875
+fiftyTwoWeekLowChangePercent: 0.3286625
+fiftyTwoWeekRange: 63.515 - 139.75
+financialCurrency: USD
+firstTradeDateMilliseconds: 1627565400000
+floatShares: 786110875
+forwardEps: 3.41192
+forwardPE: 24.733873
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 2900
+fulldayChange: 3.0599976
+fulldayChangePercent: 3.7624462
+fulldayPrice: 84.39
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.90988
+grossProfits: 4624000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.009509999
+heldPercentInstitutions: 0.79675
+impliedSharesOutstanding: 900491277
+industry: Capital Markets
+industryDisp: Capital Markets
+industryKey: capital-markets
+ipoExpectedDate: '2021-07-29'
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Robinhood Markets, Inc. operates financial services platform
+  in the United States. The company's platform allows users to invest in stocks, exchange-traded
+  funds (ETFs), and American depository receipts. It offers fractional trading, recurring
+  investments, access to investing on margin, fully-paid securities lending, cash
+  sweep, instant withdrawals, retirement program, around-the-clock trading, joint
+  investing accounts, event contracts, future contract services, and short selling.
+  The company also provides various learning and education solutions comprise Snacks,
+  an accessible digest of business news stories for a new generation of investors;
+  Learn, which is an online collection of guides, feature tutorials, and financial
+  dictionary; Newsfeeds that offer access to free, premium news from sites from various
+  sites, such as Barron's, Reuters, and Dow Jones. In addition, the company offers
+  In-App Education, a resource that covers investing fundamentals, including why people
+  invest, a stock market overview, and tips on how to define investing goals, as well
+  as allows customers to understand the basics of investing before their first trade;
+  and Crypto Learn and Earn, an educational module available to various crypto customers
+  through Robinhood Learn to teach customers the basics related to cryptocurrency.
+  Further, it provides Robinhood credit cards, cash card and spending accounts, and
+  wallets. Robinhood Markets, Inc. was incorporated in 2013 and is headquartered in
+  Menlo Park, California.
+longName: Robinhood Markets, Inc.
+market: us_market
+marketCap: 75992457216
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_276763615
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1984000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 73236955557
+numberOfAnalystOpinions: 30
+open: 83.07
+operatingCashflow: 3046000128
+operatingMargins: 0.45651
+overallRisk: 10
+payoutRatio: 0.0
+pegRatio: 1.35
+phone: 844 428 5411
+previousClose: 81.33
+priceEpsCurrentYear: 34.05514
+priceHint: 2
+priceToBook: 7.6027026
+priceToSalesTrailing12Months: 14.9532585
+profitMargins: 0.39040002
+quickRatio: 1.089
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.65625
+region: US
+regularMarketChange: 3.0599976
+regularMarketChangePercent: 3.7624462
+regularMarketDayHigh: 84.86
+regularMarketDayLow: 82.23
+regularMarketDayRange: 82.23 - 84.86
+regularMarketOpen: 83.07
+regularMarketPreviousClose: 81.33
+regularMarketPrice: 84.39
+regularMarketTime: 1794413743
+regularMarketVolume: 5015174
+returnOnAssets: 0.040110003
+returnOnEquity: 0.21452999
+revenueGrowth: 0.118
+revenuePerShare: 5.653
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 793425151
+sharesPercentSharesOut: 0.039100002
+sharesShort: 35247620
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 40026285
+shortName: Robinhood Markets, Inc.
+shortPercentOfFloat: 0.044899996
+shortRatio: 1.72
+sourceInterval: 15
+state: CA
+symbol: HOOD
+targetHighPrice: 170.0
+targetLowPrice: 59.0
+targetMeanPrice: 128.87132
+targetMedianPrice: 130.0
+totalCash: 24828999680
+totalCashPerShare: 27.573
+totalDebt: 22552000512
+totalRevenue: 5081999872
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 2.17
+trailingPE: 38.8894
+trailingPegRatio: 1.3186
+triggerable: true
+twoHundredDayAverage: 91.73968
+twoHundredDayAverageChange: -7.349678
+twoHundredDayAverageChangePercent: -0.0801145
+typeDisp: Equity
+volume: 5015174
+website: https://robinhood.com
+zip: '94025'

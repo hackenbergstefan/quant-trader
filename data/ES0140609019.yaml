@@ -1,0 +1,261 @@
+52WeekChange: 0.30310285
+SandP52WeekChange: 0.097798586
+address1: Calle Pintor Sorolla 2-4
+allTimeHigh: 13.555
+allTimeLow: 1.5
+ask: 12.38
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 9428856
+averageDailyVolume3Month: 6338383
+averageVolume: 6338383
+averageVolume10days: 9428856
+beta: 0.117
+bid: 12.375
+bidSize: 0
+boardRisk: 4
+bookValue: 5.723
+city: Valencia
+companyOfficers:
+- age: 73
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tomas  Muniesa Arantegui
+  title: President & Chairman
+  totalPay: 1641000
+  unexercisedValue: 0
+  yearBorn: 1952
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gonzalo Maria Gortazar Rotaeche
+  title: CEO & Executive Director
+  totalPay: 2671000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Javier  Pano Riera
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Luis Javier Blas Agueros
+  title: COO & Media Director
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marta  Noguer
+  title: Head of Investor and Shareholder Relations
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oscar Calderon de Oya
+  title: Board Secretary & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Natividad Pilar Capella Pifarre
+  title: Head of Risk Management & Compliance
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Lopez Puig
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jordi Mondejar Lopez
+  title: Head of Retail, Private & Business Banking
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ignacio  Moliner Robredo
+  title: Managing Director of M&A, Equity Capital Markets and Debt Capital Markets
+    Divisions
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Spain
+cryptoTradeable: false
+currency: EUR
+currentPrice: 12.39
+customPriceAlertConfidence: LOW
+dayHigh: 12.67
+dayLow: 12.33
+dividendRate: 0.52
+dividendYield: 4.13
+earningsCallTimestampEnd: 1793354400
+earningsCallTimestampStart: 1793354400
+earningsGrowth: 0.233
+earningsQuarterlyGrowth: 0.217
+earningsTimestamp: 1793377800
+earningsTimestampEnd: 1801153800
+earningsTimestampStart: 1801153800
+ebitdaMargins: 0.0
+enterpriseToRevenue: 6.561
+enterpriseValue: 104442806272
+epsCurrentYear: 0.93086
+epsForward: 1.0841
+epsTrailingTwelveMonths: 0.92
+esgPopulated: false
+exDividendDate: 1793750400
+exchange: MCE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Madrid
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 12.3333
+fiftyDayAverageChange: 0.056700706
+fiftyDayAverageChangePercent: 0.0045973673
+fiftyTwoWeekChangePercent: 30.310286
+fiftyTwoWeekHigh: 13.555
+fiftyTwoWeekHighChange: -1.165
+fiftyTwoWeekHighChangePercent: -0.08594614
+fiftyTwoWeekLow: 8.962
+fiftyTwoWeekLowChange: 3.4280005
+fiftyTwoWeekLowChangePercent: 0.38250396
+fiftyTwoWeekRange: 8.962 - 13.555
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1191999600000
+fiveYearAvgDividendYield: 3.79
+floatShares: 3478707437
+forwardEps: 1.0841
+forwardPE: 11.428835
+fullExchangeName: MCE
+fullTimeEmployees: 47747
+fulldayChange: -0.125
+fulldayChangePercent: -0.9988014
+fulldayPrice: 12.39
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 15918999552
+hasPrePostMarketData: false
+heldPercentInsiders: 0.49363
+heldPercentInstitutions: 0.25278
+impliedSharesOutstanding: 6940144432
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1793750400
+lastDividendValue: 0.1844
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'CaixaBank, S.A., together with its subsidiaries, provides various
+  banking products and services for individuals and businesses in Spain, Portugal,
+  and internationally. It operates through four segments: Retail Banking, Business
+  Banking, Private Banking, and CIB segments. The company offers retail, private,
+  business, institutional, corporate and investment, premier, InTouch, and international
+  banking; payment methods; savings and investment products; financing; life, life-risk,
+  and non-life insurance; traditional financial and independent advice, and broker
+  services; ATMs; pension fund management; asset and wealth management; securitisation
+  fund management; consumer finance; IT services; and back-office administration services.
+  It also engages in the management of collective investment institutions; holding
+  of property assets; venture capital company; promotion of business and entrepreneurial
+  initiatives; development of digital projects; vehicle and equipment leasing; project
+  management, maintenance, logistics, and procurement; marketing of products and cashless
+  platforms; mortgage loan management; digital business; hotels; private security
+  of goods and people; shopping center real estate; administration, management, development,
+  and operation of real estate; and reinsurance activities. The company was formerly
+  known as Criteria CaixaCorp, S.A. and changed its name to CaixaBank, S.A. in July
+  2011. CaixaBank, S.A. was founded in 1904 and is based in Valencia, Spain.'
+longName: CaixaBank, S.A.
+market: es_market
+marketCap: 85988392960
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_36394859
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 6176000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 84079849793
+numberOfAnalystOpinions: 21
+open: 12.63
+operatingMargins: 0.58584
+overallRisk: 2
+payoutRatio: 0.56810004
+pegRatio: 0.94
+phone: 34 935 82 98 03
+previousClose: 12.515
+priceEpsCurrentYear: 13.310273
+priceHint: 2
+priceToBook: 2.1649485
+priceToSalesTrailing12Months: 5.4016204
+profitMargins: 0.40555
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.19048
+region: US
+regularMarketChange: -0.125
+regularMarketChangePercent: -0.9988014
+regularMarketDayHigh: 12.67
+regularMarketDayLow: 12.33
+regularMarketDayRange: 12.33 - 12.67
+regularMarketOpen: 12.63
+regularMarketPreviousClose: 12.515
+regularMarketPrice: 12.39
+regularMarketTime: 1794411562
+regularMarketVolume: 1909286
+returnOnAssets: 0.00959
+returnOnEquity: 0.16523
+revenueGrowth: 0.077
+revenuePerShare: 2.292
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 6940144432
+shortName: CAIXABANK, S.A.
+sourceInterval: 15
+symbol: CABK.MC
+targetHighPrice: 15.3
+targetLowPrice: 6.8
+targetMeanPrice: 13.31857
+targetMedianPrice: 13.6
+totalCash: 36864999424
+totalCashPerShare: 5.308
+totalDebt: 54370000896
+totalRevenue: 15918999552
+tradeable: false
+trailingAnnualDividendRate: 0.517
+trailingAnnualDividendYield: 0.04131043
+trailingEps: 0.92
+trailingPE: 13.467391
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 11.69666
+twoHundredDayAverageChange: 0.6933403
+twoHundredDayAverageChangePercent: 0.059276775
+typeDisp: Equity
+volume: 1909286
+website: https://www.caixabank.com
+zip: '46002'

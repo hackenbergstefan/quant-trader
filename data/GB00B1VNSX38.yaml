@@ -1,0 +1,253 @@
+52WeekChange: 0.13663769
+SandP52WeekChange: 0.097798586
+address1: Drax Power Station
+allTimeHigh: 1128.6033
+allTimeLow: 118.9
+ask: 854.5
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 790428
+averageDailyVolume3Month: 890622
+averageVolume: 890622
+averageVolume10days: 790428
+beta: 0.674
+bid: 853.5
+bidSize: 0
+boardRisk: 3
+bookValue: 5.155
+city: Selby
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dwight Daniel Willard Gardiner
+  title: Group CEO & Executive Director
+  totalPay: 1809000
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank Hendrikus Lemmink
+  title: CFO & Executive Director
+  totalPay: 740000
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lee  Dawes
+  title: Chief Operations Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark  Strafford
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hillary  Berger
+  title: Group General Counsel
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Farnaz  Ranjbar
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul  Sheffield
+  title: Chief Commercial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tim  Cole
+  title: Head of Customer Marketing
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ross  McKenzie
+  title: Chief Corporate Affairs & Sustainability Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Hannah  Steedman
+  title: Chief Strategy & Transformation Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 854.0
+currentRatio: 1.069
+customPriceAlertConfidence: LOW
+dayHigh: 862.0
+dayLow: 849.0
+debtToEquity: 68.766
+dividendRate: 0.3
+dividendYield: 3.57
+earningsCallTimestampEnd: 1785398400
+earningsCallTimestampStart: 1785398400
+earningsGrowth: -0.195
+earningsQuarterlyGrowth: -0.245
+earningsTimestampEnd: 1785425400
+earningsTimestampStart: 1785425400
+ebitda: 755000000
+ebitdaMargins: 0.1445
+enterpriseToEbitda: 5.141
+enterpriseToRevenue: 0.743
+enterpriseValue: 3881387520
+epsCurrentYear: 0.81263
+epsForward: 0.56478
+epsTrailingTwelveMonths: 0.09
+esgPopulated: false
+exDividendDate: 1790208000
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 809.13
+fiftyDayAverageChange: 44.869995
+fiftyDayAverageChangePercent: 0.05545462
+fiftyTwoWeekChangePercent: 13.663769
+fiftyTwoWeekHigh: 937.5
+fiftyTwoWeekHighChange: -83.5
+fiftyTwoWeekHighChangePercent: -0.08906667
+fiftyTwoWeekLow: 702.0
+fiftyTwoWeekLowChange: 152.0
+fiftyTwoWeekLowChangePercent: 0.21652421
+fiftyTwoWeekRange: 702.0 - 937.5
+financialCurrency: GBP
+firstTradeDateMilliseconds: 1134633600000
+fiveYearAvgDividendYield: 3.52
+floatShares: 333315000
+forwardEps: 0.56478
+forwardPE: 15.120933
+freeCashflow: 273624992
+fullExchangeName: LSE
+fullTimeEmployees: 2974
+fulldayChange: 5.5
+fulldayChangePercent: 0.6482027
+fulldayPrice: 854.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.24257
+grossProfits: 1267399936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00754
+heldPercentInstitutions: 0.60174
+impliedSharesOutstanding: 336860319
+industry: Utilities - Renewable
+industryDisp: Utilities - Renewable
+industryKey: utilities-renewable
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790208000
+lastDividendValue: 0.129
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1177891200
+lastSplitFactor: 64:67
+longBusinessSummary: 'Drax Group plc, together with its subsidiaries, engages in renewable
+  power generation in the United Kingdom. The company operates through four segments:
+  Pellet Production, Biomass Generation, Flexible Generation, and Energy Solutions.
+  The company provides renewable, dispatchable power, and system support services.
+  It is involved in production and sale of biomass pellets; generation and sale of
+  electricity from biomass assets, pumped storage, run-of-river hydro, and OCGTs assets;
+  and processing and sale of waste-derived pellets, as well as supply of electricity
+  to non-domestic customers. The company owns and operates Drax Power Station located
+  in Selby, North Yorkshire; Cruachan Power Station, a pumped storage hydro station,
+  with an installed capacity of 440 megawatts (MW) located in Argyll and Bute; and
+  Lanark and Galloway hydro-electric power stations with an installed capacity of
+  126 MW located in south-west Scotland. In addition, it owns and operates Daldowie
+  fuel plant that processes sludge, a plant that converts it into dry low-odour fuel
+  pellets. Further, the company manufactures and sells compressed wood pellets; and
+  supplies renewable electricity. Drax Group plc was incorporated in 2005 and is based
+  in Selby, the United Kingdom.'
+longName: Drax Group plc
+market: gb_market
+marketCap: 2876787200
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_11323462
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 19000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 2858259806
+numberOfAnalystOpinions: 8
+open: 862.0
+operatingCashflow: 529100000
+operatingMargins: 0.10825
+overallRisk: 2
+payoutRatio: 3.4118
+phone: 44 17 5761 8381
+previousClose: 848.5
+priceEpsCurrentYear: 1050.9088
+priceHint: 2
+priceToBook: 1.656644
+priceToSalesTrailing12Months: 0.5505918
+profitMargins: 0.00364
+quickRatio: 0.327
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.125
+region: US
+regularMarketChange: 5.5
+regularMarketChangePercent: 0.6482027
+regularMarketDayHigh: 862.0
+regularMarketDayLow: 849.0
+regularMarketDayRange: 849.0 - 862.0
+regularMarketOpen: 862.0
+regularMarketPreviousClose: 848.5
+regularMarketPrice: 854.0
+regularMarketTime: 1794411492
+regularMarketVolume: 74110
+returnOnAssets: 0.070489995
+returnOnEquity: 0.00819
+revenueGrowth: -0.063
+revenuePerShare: 15.313
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 1
+sharesOutstanding: 336860319
+shortName: DRAX GROUP PLC ORD 11 16/29P
+sourceInterval: 15
+symbol: DRX.L
+targetHighPrice: 1120.0
+targetLowPrice: 795.0
+targetMeanPrice: 942.875
+targetMedianPrice: 930.0
+totalCash: 179600000
+totalCashPerShare: 0.532
+totalDebt: 1196800000
+totalRevenue: 5224900096
+tradeable: false
+trailingAnnualDividendRate: 0.303
+trailingAnnualDividendYield: 0.00035710077
+trailingEps: 0.09
+trailingPE: 94.888885
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 816.236
+twoHundredDayAverageChange: 37.763977
+twoHundredDayAverageChangePercent: 0.046266
+typeDisp: Equity
+volume: 74110
+website: https://www.drax.com
+zip: YO8 8PH

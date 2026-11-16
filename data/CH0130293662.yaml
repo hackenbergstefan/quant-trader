@@ -1,0 +1,265 @@
+52WeekChange: -0.23434705
+SandP52WeekChange: 0.097798586
+address1: Viktoriaplatz 2
+allTimeHigh: 184.4
+allTimeLow: 26.1
+ask: 127.2
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 63547
+averageDailyVolume3Month: 66283
+averageVolume: 66283
+averageVolume10days: 63547
+beta: 0.09
+bid: 127.0
+bidSize: 0
+boardRisk: 4
+bookValue: 104.419
+city: Bern
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert  Itschner
+  title: Chairman of the Executive Board & CEO
+  totalPay: 1281000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Martin  Zwyssig Dr. oec. HSG
+  title: CFO, Deputy to CEO & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Corinne  Montandon
+  title: Executive VP of Power Grid & Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Schweikert
+  title: Chief Communications Officer & Member of Extended Group Executive Board
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Fecke
+  title: Executive VP of Engineering & Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Antonin  Guez
+  title: Executive VP of Building Solutions & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sven  Behrend
+  title: Executive VP of Infra Services & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Sewckow
+  title: Executive VP of Energy Markets & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Manuela  Wendland
+  title: Chief Human Resources Officer & Member of the Extended Executive Board
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kinga  Frater
+  title: Chief Legal & Compliance Officer and Member of the Extended Executive Board
+  unexercisedValue: 0
+  yearBorn: 1965
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 127.1
+currentRatio: 1.777
+customPriceAlertConfidence: LOW
+dayHigh: 128.0
+dayLow: 126.5
+debtToEquity: 31.646
+dividendDate: 1746489600
+dividendRate: 3.8
+dividendYield: 2.96
+earningsCallTimestampEnd: 1787124600
+earningsCallTimestampStart: 1787124600
+earningsGrowth: 0.079
+earningsQuarterlyGrowth: 0.08
+earningsTimestamp: 1787153400
+earningsTimestampEnd: 1787153400
+earningsTimestampStart: 1787153400
+ebitda: 714800000
+ebitdaMargins: 0.16937
+enterpriseToEbitda: 11.62
+enterpriseToRevenue: 1.968
+enterpriseValue: 8305993216
+epsCurrentYear: 9.03333
+epsForward: 8.34667
+epsTrailingTwelveMonths: 7.05
+esgPopulated: false
+exDividendDate: 1777507200
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 121.934
+fiftyDayAverageChange: 5.1660004
+fiftyDayAverageChangePercent: 0.042367186
+fiftyTwoWeekChangePercent: -23.434704
+fiftyTwoWeekHigh: 180.2
+fiftyTwoWeekHighChange: -53.1
+fiftyTwoWeekHighChangePercent: -0.29467258
+fiftyTwoWeekLow: 115.1
+fiftyTwoWeekLowChange: 12.0
+fiftyTwoWeekLowChangePercent: 0.10425717
+fiftyTwoWeekRange: 115.1 - 180.2
+financialCurrency: CHF
+firstTradeDateMilliseconds: 1323676800000
+fiveYearAvgDividendYield: 2.16
+floatShares: 19765244
+forwardEps: 8.34667
+forwardPE: 15.22763
+freeCashflow: 169600000
+fullExchangeName: Swiss
+fullTimeEmployees: 12592
+fulldayChange: -1.2999954
+fulldayChangePercent: -1.0124575
+fulldayPrice: 127.1
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.47604
+grossProfits: 2009100032
+hasPrePostMarketData: false
+heldPercentInsiders: 0.62606996
+heldPercentInstitutions: 0.16035
+impliedSharesOutstanding: 52770453
+industry: Utilities - Renewable
+industryDisp: Utilities - Renewable
+industryKey: utilities-renewable
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777507200
+lastDividendValue: 3.8
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'BKW AG, an energy and infrastructure company, plans, builds,
+  and operates infrastructure to produce and supply energy to businesses, households,
+  and the public sector in Switzerland, Germany, Italy, France, and internationally.
+  It operates in three segments: Energy Solutions, Power Grid, and Infrastructure
+  & Buildings. The Energy Solutions segment builds, operates, and maintains its portfolio
+  of power plants. This segment also sells energy; trades in electricity, certificates,
+  and raw materials; and offers wind, solar, and smart energy services. Its Power
+  Grid segment builds, operates, and maintains the company''s distribution grid. The
+  Infrastructure and Buildings segment offers engineering planning and consulting
+  services for energy, infrastructure, and environmental projects; integrated building
+  technology solutions; and construction and maintenance services in the fields of
+  energy, telecommunications, transport and water utility networks. It also provides
+  digital business models for renewable energy. The company was formerly known as
+  BKW FMB Energie AG and changed its name to BKW AG in December 2011. BKW AG was founded
+  in 1898 and is headquartered in Bern, Switzerland.'
+longName: BKW AG
+market: ch_market
+marketCap: 6707124224
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874913
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 371800000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 6775726165
+numberOfAnalystOpinions: 6
+open: 127.9
+operatingCashflow: 646800000
+operatingMargins: 0.1116
+overallRisk: 3
+payoutRatio: 0.53900003
+phone: 41 58 477 51 11
+previousClose: 128.4
+priceEpsCurrentYear: 14.070116
+priceHint: 2
+priceToBook: 1.2172115
+priceToSalesTrailing12Months: 1.5892153
+profitMargins: 0.0881
+quickRatio: 1.425
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.66667
+region: US
+regularMarketChange: -1.2999954
+regularMarketChangePercent: -1.0124575
+regularMarketDayHigh: 128.0
+regularMarketDayLow: 126.5
+regularMarketDayRange: 126.5 - 128.0
+regularMarketOpen: 127.9
+regularMarketPreviousClose: 128.4
+regularMarketPrice: 127.1
+regularMarketTime: 1794411117
+regularMarketVolume: 25613
+returnOnAssets: 0.02631
+returnOnEquity: 0.06959
+revenueGrowth: 0.009
+revenuePerShare: 80.005
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 10
+sharesOutstanding: 52770453
+shortName: BKW N
+sourceInterval: 15
+symbol: BKW.SW
+targetHighPrice: 170.0
+targetLowPrice: 115.0
+targetMeanPrice: 142.66667
+targetMedianPrice: 140.0
+totalCash: 816099968
+totalCashPerShare: 15.464
+totalDebt: 1888600064
+totalRevenue: 4220400128
+tradeable: false
+trailingAnnualDividendRate: 3.8
+trailingAnnualDividendYield: 0.029595017
+trailingEps: 7.05
+trailingPE: 18.028368
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 138.67
+twoHundredDayAverageChange: -11.57
+twoHundredDayAverageChangePercent: -0.08343549
+typeDisp: Equity
+volume: 25613
+website: https://www.bkw.ch
+zip: '3013'

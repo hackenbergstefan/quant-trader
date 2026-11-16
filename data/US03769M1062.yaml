@@ -1,0 +1,295 @@
+52WeekChange: -0.081149876
+SandP52WeekChange: 0.097798586
+address1: 9 West 57th Street
+address2: 41st Floor
+allTimeHigh: 189.49
+allTimeLow: 8.85
+ask: 124.86
+askSize: 100
+auditRisk: 9
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 4681560
+averageDailyVolume3Month: 3325371
+averageVolume: 3325371
+averageVolume10days: 4681560
+beta: 1.495
+bid: 124.77
+bidSize: 200
+boardRisk: 9
+bookValue: 27.002
+city: New York
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc Jeffrey Rowan
+  title: Co-Founder, CEO & Chairman of the Board
+  totalPay: 913367
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James Richard Belardi
+  title: Co- Founder, Executive Chairman, Chief Investment Officer of Athene and Partner
+    & Director
+  totalPay: 67784181
+  unexercisedValue: 54300008
+  yearBorn: 1957
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin Bernard Kelly
+  title: Partner & CFO
+  totalPay: 4373437
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Whitney A Chatterjee
+  title: Partner & Chief Legal Officer
+  totalPay: 2482908
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John T. Zito C.F.A.
+  title: Co-President of Apollo Asset Management
+  totalPay: 23043660
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James Charles Zelter
+  title: President & Director
+  totalPay: 8994057
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory W. Sills
+  title: Partner, MD & COO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jacob Frederick Walker
+  title: Partner and COO of Client & Product Solutions
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Byron C. Vielehr
+  title: Partner & COO of Apollo Asset Management
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tristram  Leach
+  title: Chief Investment Officer of EMEA & Co-Head of European Credit & Hybrid Equity
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions:
+- header: Dividend
+  message: APO announced a cash dividend of $0.562 with an ex-date of Nov. 18, 2026
+  meta:
+    amount: '0.562'
+    dateEpochMs: 1794978000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 124.49
+currentRatio: 1.799
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 125.32
+dayLow: 123.01
+debtToEquity: 124.196
+displayName: Apollo Global Management
+dividendDate: 1795996800
+dividendRate: 2.25
+dividendYield: 1.83
+earningsCallTimestampEnd: 1793712600
+earningsCallTimestampStart: 1793712600
+earningsTimestamp: 1793712600
+earningsTimestampEnd: 1793712600
+earningsTimestampStart: 1793712600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 3.225
+enterpriseValue: 98340691968
+epsCurrentYear: 8.5605
+epsForward: 10.59804
+epsTrailingTwelveMonths: -1.79
+esgPopulated: false
+exDividendDate: 1794960000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 120.1972
+fiftyDayAverageChange: 4.292801
+fiftyDayAverageChangePercent: 0.035714652
+fiftyTwoWeekChangePercent: -8.114987
+fiftyTwoWeekHigh: 153.29
+fiftyTwoWeekHighChange: -28.799995
+fiftyTwoWeekHighChangePercent: -0.18787916
+fiftyTwoWeekLow: 99.56
+fiftyTwoWeekLowChange: 24.93
+fiftyTwoWeekLowChangePercent: 0.25040177
+fiftyTwoWeekRange: 99.56 - 153.29
+financialCurrency: USD
+firstTradeDateMilliseconds: 1301491800000
+fiveYearAvgDividendYield: 1.79
+floatShares: 464936138
+forwardEps: 10.59804
+forwardPE: 11.746511
+fullExchangeName: NYSE
+fullTimeEmployees: 6140
+fulldayChange: 1.75
+fulldayChangePercent: 1.4257782
+fulldayPrice: 124.49
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.26504
+grossProfits: 8081999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.26248
+heldPercentInstitutions: 0.67546
+impliedSharesOutstanding: 590432584
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787097600
+lastDividendValue: 0.563
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Apollo Global Management, Inc. is a private equity firm specializing
+  in investments in credit, private equity, infrastructure, secondaries and real estate
+  markets. The firm prefers to invest in private and public markets. The firm's private
+  equity investments include traditional buyouts, recapitalization, distressed buyouts
+  and debt investments in real estate, corporate partner buyouts, distressed asset,
+  corporate carve-outs, middle market, growth capital, venture capital, turnaround,
+  bridge, PIPES, corporate restructuring, special situation, acquisition, and industry
+  consolidation transactions. For credit strategies, the firm focuses on investing
+  in multi-sector credit, semi-liquid credit, direct lending, first lien, unitranche,
+  whole loans and private credit. The firm provides its services to endowment and
+  sovereign wealth funds, as well as other institutional and individual investors.
+  It manages client focused portfolios. The firm launches and manages hedge funds
+  for its clients. It also manages real estate funds and private equity funds for
+  its clients. The firm invests in the fixed income and alternative investment markets
+  across the globe. Its fixed income investments include income-oriented senior loans,
+  bonds, collateralized loan obligations, structured credit, opportunistic credit,
+  non-performing loans, distressed debt, mezzanine debt, and value oriented fixed
+  income securities. The firm seeks to invest in chemicals, commodities, consumer
+  and retail, oil and gas, metals, mining, agriculture, commodities, distribution
+  and transportation, financial and business services, manufacturing and industrial,
+  media distribution, cable, entertainment and leisure, telecom, technology, natural
+  resources, energy, packaging and materials, and satellite and wireless industries.
+  It also focuses on clean energy, sustainable industry, climate solutions, energy
+  transition, industrial decarbonization, sustainable mobility, sustainable resource
+  use, and sustainable real estate. It seeks to invest in companies based in across
+  Africa, Asia, North America with a focus on United States, Western Europe and Europe.
+  It employs a combination of contrarian, value, and distressed strategies to make
+  its investments. The firm seeks to make investments in the range of $20 million
+  and $1500 million. The firm seeks to invest in companies with enterprise value between
+  $750 million to $2500 million and EBITDA up to $75 million. The firm conducts in-house
+  research to create its investment portfolio. It seeks to acquire minority and majority
+  positions in its portfolio companies. Apollo Global Management, Inc. was founded
+  in 1990 and is based in New York, New York with additional offices in North America,
+  Asia, Africa and Europe.
+longName: Apollo Global Management, Inc.
+market: us_market
+marketCap: 73502949376
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_18833
+mostRecentQuarter: 1790726400
+netIncomeToCommon: -851000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 72469695360
+numberOfAnalystOpinions: 20
+open: 123.46
+operatingCashflow: 9306000384
+operatingMargins: 0.092209995
+overallRisk: 9
+payoutRatio: 0.75
+pegRatio: 0.46
+phone: 212 515 3200
+previousClose: 122.74
+priceEpsCurrentYear: 14.542375
+priceHint: 2
+priceToBook: 4.6103992
+priceToSalesTrailing12Months: 2.410407
+profitMargins: -0.0301
+quickRatio: 1.764
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.77273
+region: US
+regularMarketChange: 1.75
+regularMarketChangePercent: 1.4257782
+regularMarketDayHigh: 125.32
+regularMarketDayLow: 123.01
+regularMarketDayRange: 123.01 - 125.32
+regularMarketOpen: 123.46
+regularMarketPreviousClose: 122.74
+regularMarketPrice: 124.49
+regularMarketTime: 1794413728
+regularMarketVolume: 487490
+returnOnAssets: 0.00151
+returnOnEquity: 0.018860001
+revenueGrowth: -0.523
+revenuePerShare: 51.169
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 5
+sharesOutstanding: 590432584
+sharesPercentSharesOut: 0.036199998
+sharesShort: 21371655
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 23881331
+shortName: 'Apollo Global Management, Inc. '
+shortPercentOfFloat: 0.0394
+shortRatio: 5.92
+sourceInterval: 15
+state: NY
+symbol: APO
+targetHighPrice: 173.0
+targetLowPrice: 124.0
+targetMeanPrice: 146.45
+targetMedianPrice: 145.5
+totalCash: 40616001536
+totalCashPerShare: 68.79
+totalDebt: 44892000256
+totalRevenue: 30493999104
+tradeable: false
+trailingAnnualDividendRate: 2.198
+trailingAnnualDividendYield: 0.017907772
+trailingEps: -1.79
+trailingPegRatio: 0.4593
+triggerable: true
+twoHundredDayAverage: 122.71165
+twoHundredDayAverageChange: 1.7783508
+twoHundredDayAverageChangePercent: 0.014492111
+typeDisp: Equity
+volume: 487490
+website: https://www.apollo.com/institutional/homepage
+zip: '10019'

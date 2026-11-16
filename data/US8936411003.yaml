@@ -1,0 +1,260 @@
+52WeekChange: -0.0630213
+SandP52WeekChange: 0.097798586
+address1: 1350 Euclid Avenue
+address2: Suite 1600
+allTimeHigh: 1623.83
+allTimeLow: 21.42
+ask: 1228.47
+askSize: 60
+auditRisk: 7
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 424700
+averageDailyVolume3Month: 377060
+averageVolume: 377060
+averageVolume10days: 424700
+bid: 1227.54
+bidSize: 10
+boardRisk: 9
+bookValue: -177.475
+city: Cleveland
+companyOfficers:
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael J. Lisman
+  title: CEO, President & Director
+  totalPay: 28530024
+  unexercisedValue: 135383744
+  yearBorn: 1983
+- age: 52
+  exercisedValue: 4457965
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sarah Louise Wynne
+  title: Chief Financial Officer
+  totalPay: 11399291
+  unexercisedValue: 33381436
+  yearBorn: 1973
+- age: 55
+  exercisedValue: 40545216
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joel B. Reiss
+  title: Co-Chief Operating Officer
+  totalPay: 31053671
+  unexercisedValue: 127567960
+  yearBorn: 1970
+- age: 53
+  exercisedValue: 3266663
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick Joseph Murphy
+  title: Co-Chief Operating Officer
+  totalPay: 13843634
+  unexercisedValue: 49532668
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mary  Hartman
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Armani  Vadiee
+  title: General Counsel, Chief Compliance Officer & Secretary
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin  McHenry
+  title: Executive Vice President
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Paula  Wheeler
+  title: Executive Vice President
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason  Marlin
+  title: Executive Vice President
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alex  Feil
+  title: Executive Vice President
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 1230.2
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 1233.55
+dayLow: 1198.21
+displayName: TransDigm
+dividendDate: 1757635200
+dividendYield: 0.0
+earningsCallTimestampEnd: 1794322800
+earningsCallTimestampStart: 1794322800
+earningsGrowth: 0.331
+earningsQuarterlyGrowth: -0.039
+earningsTimestamp: 1794317400
+earningsTimestampEnd: 1801575000
+earningsTimestampStart: 1801575000
+ebitda: 5242999808
+ebitdaMargins: 0.49664003
+epsCurrentYear: 47.47986
+epsForward: 55.65849
+epsTrailingTwelveMonths: 35.51
+esgPopulated: false
+exDividendDate: 1756771200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 1131.7762
+fiftyDayAverageChange: 98.423706
+fiftyDayAverageChangePercent: 0.08696393
+fiftyTwoWeekChangePercent: -6.30213
+fiftyTwoWeekHigh: 1463.03
+fiftyTwoWeekHighChange: -232.83008
+fiftyTwoWeekHighChangePercent: -0.15914237
+fiftyTwoWeekLow: 1071.25
+fiftyTwoWeekLowChange: 158.94995
+fiftyTwoWeekLowChangePercent: 0.14837801
+fiftyTwoWeekRange: 1071.25 - 1463.03
+financialCurrency: USD
+firstTradeDateMilliseconds: 1142433000000
+forwardEps: 55.65849
+forwardPE: 22.102648
+fullExchangeName: NYSE
+fulldayChange: 4.659912
+fulldayChangePercent: 0.38023338
+fulldayPrice: 1230.2
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.5924
+grossProfits: 6254000128
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00411
+heldPercentInstitutions: 0.97486997
+impliedSharesOutstanding: 55933583
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1756771200
+lastDividendValue: 90.0
+lastFiscalYearEnd: 1790726400
+longBusinessSummary: TransDigm Group Incorporated designs, produces, and supplies
+  aircraft components in the United States and internationally. The Power & Control
+  segment offers mechanical/electro-mechanical actuators and controls, ignition systems
+  and engine technology, specialized pumps and valves, power conditioning devices,
+  specialized AC/DC electric motors and generators, batteries and chargers, databus
+  and power controls, sensor products, switches and relay panels, hoists, winches
+  and lifting devices, cargo loading and handling and delivery systems, and electronic
+  components. Its Airframe segment provides engineered latching and locking devices,
+  engineered rods, engineered connectors and elastomer sealing solutions, cockpit
+  security components and systems, cockpit displays, lavatory components, seat belts
+  and safety restraints, engineered and customized interior surfaces and related components,
+  thermal protection and insulation products, lighting and control technology, parachutes,
+  specialized flight, wind tunnel and jet engine testing services and equipment, and
+  testing and instrumentation solutions, as well as engineered audio, radio, and antenna
+  systems. The Non-Aviation segment offers seat belts and safety restraints; mechanical/electromechanical
+  actuators and controls; hydraulic/electromechanical actuators and fuel valves; refueling
+  systems; and turbine controls. It serves engine and power system and subsystem suppliers,
+  airlines, third party maintenance suppliers, military buying agencies, and repair
+  depots; airframe manufacturers, cabin system and subsystem suppliers, airlines,
+  and maintenance suppliers; and off-road vehicle and subsystem suppliers, child restraint
+  system suppliers, and satellite and space system suppliers, as well as manufacturers
+  of heavy equipment. The company was formerly known as TD Holding Corporation and
+  changed its name to TransDigm Group Incorporated in January 2006. The company was
+  founded in 1993 and is headquartered in Cleveland, Ohio.
+longName: TransDigm Group Incorporated
+market: us_market
+marketCap: 68809490432
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_22800180
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2107000064
+nextFiscalYearEnd: 1822262400
+nonDilutedMarketCap: 67743592448
+numberOfAnalystOpinions: 20
+open: 1228.66
+operatingMargins: 0.45571998
+overallRisk: 9
+payoutRatio: 0.0
+pegRatio: 3.05
+phone: 216 706 2960
+previousClose: 1225.54
+priceEpsCurrentYear: 25.909933
+priceHint: 2
+priceToBook: -6.93168
+priceToSalesTrailing12Months: 6.517902
+profitMargins: 0.19958
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.08696
+region: US
+regularMarketChange: 4.659912
+regularMarketChangePercent: 0.38023338
+regularMarketDayHigh: 1233.55
+regularMarketDayLow: 1198.21
+regularMarketDayRange: 1198.21 - 1233.55
+regularMarketOpen: 1228.66
+regularMarketPreviousClose: 1225.54
+regularMarketPrice: 1230.2
+regularMarketTime: 1794413747
+regularMarketVolume: 130791
+revenueGrowth: 0.226
+revenuePerShare: 183.281
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 9
+sharesOutstanding: 55933583
+sharesPercentSharesOut: 0.018
+sharesShort: 994087
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1199613
+shortName: Transdigm Group Incorporated
+shortPercentOfFloat: 0.024
+shortRatio: 2.85
+sourceInterval: 15
+state: OH
+symbol: TDG
+targetHighPrice: 1745.0
+targetLowPrice: 1100.0
+targetMeanPrice: 1414.3
+targetMedianPrice: 1405.0
+totalRevenue: 10556999680
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 35.51
+trailingPE: 34.64376
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 1218.2802
+twoHundredDayAverageChange: 11.9198
+twoHundredDayAverageChangePercent: 0.00978412
+typeDisp: Equity
+volume: 130791
+website: https://www.transdigm.com
+zip: '44115'

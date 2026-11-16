@@ -1,0 +1,290 @@
+52WeekChange: 0.00912118
+SandP52WeekChange: 0.097798586
+address1: 55 Water Street
+allTimeHigh: 547.82404
+allTimeLow: 0.317822
+ask: 472.29
+askSize: 40
+auditRisk: 3
+averageAnalystRating: 1.3 - Strong Buy
+averageDailyVolume10Day: 1685180
+averageDailyVolume3Month: 1871823
+averageVolume: 1871823
+averageVolume10days: 1685180
+beta: 1.033
+bid: 471.83
+bidSize: 40
+boardRisk: 2
+bookValue: 67.989
+city: New York
+companyOfficers:
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Martina L. Cheung
+  title: President, CEO & Director
+  totalPay: 3850628
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric Walter Aboaf
+  title: CFO & Executive VP
+  totalPay: 4905668
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher  Craig
+  title: Senior VP, Controller & Chief Accounting Officer
+  totalPay: 1458735
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven  Kemps CPA
+  title: Special Advisor
+  totalPay: 1941260
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sally  Moore
+  title: Executive VP, Chief Client Officer & Co-Head of Market Intelligence Kensho
+    Data & Platforms
+  totalPay: 2093472
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christina  Twomey
+  title: Chief Communications Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Girish  Ganesan
+  title: Executive VP & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Ernsberger
+  title: President of S&P Global Energy
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Yann  Le Pallec
+  title: President of S&P Global Ratings
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Catherine R. Clay
+  title: Chief Executive Officer of S&P Dow Jones Indices
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: SPGI announced a cash dividend of $0.97 with an ex-date of Nov. 25, 2026
+  meta:
+    amount: '0.97'
+    dateEpochMs: 1795582800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 472.46
+currentRatio: 0.736
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 473.29
+dayLow: 470.1
+debtToEquity: 53.948
+displayName: S&P Global
+dividendDate: 1796860800
+dividendRate: 3.88
+dividendYield: 0.82
+earningsCallTimestampEnd: 1793104200
+earningsCallTimestampStart: 1793104200
+earningsGrowth: 0.101
+earningsQuarterlyGrowth: 0.054
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1793104200
+earningsTimestampStart: 1793104200
+ebitda: 8402999808
+ebitdaMargins: 0.51574004
+enterpriseToEbitda: 18.308
+enterpriseToRevenue: 9.442
+enterpriseValue: 153842860032
+epsCurrentYear: 17.94616
+epsForward: 20.17569
+epsTrailingTwelveMonths: 16.74
+esgPopulated: false
+exDividendDate: 1795564800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 426.6696
+fiftyDayAverageChange: 45.790405
+fiftyDayAverageChangePercent: 0.107320525
+fiftyTwoWeekChangePercent: 0.91211796
+fiftyTwoWeekHigh: 522.46924
+fiftyTwoWeekHighChange: -50.009247
+fiftyTwoWeekHighChangePercent: -0.09571711
+fiftyTwoWeekLow: 361.03122
+fiftyTwoWeekLowChange: 111.42877
+fiftyTwoWeekLowChangePercent: 0.30864027
+fiftyTwoWeekRange: 361.03122 - 522.46924
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 0.82
+floatShares: 289181048
+forwardEps: 20.17569
+forwardPE: 23.417292
+freeCashflow: 6038875136
+fullExchangeName: NYSE
+fullTimeEmployees: 44500
+fulldayChange: -0.9200134
+fulldayChangePercent: -0.19434987
+fulldayPrice: 472.46
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.70994
+grossProfits: 11566999552
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0010800001
+heldPercentInstitutions: 0.92997
+impliedSharesOutstanding: 289900000
+industry: Financial Data & Stock Exchanges
+industryDisp: Financial Data & Stock Exchanges
+industryKey: financial-data-stock-exchanges
+irWebsite: http://investor.mhfi.com/phoenix.zhtml?c=96562&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787702400
+lastDividendValue: 0.97
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1782864000
+lastSplitFactor: 1057:1000
+longBusinessSummary: 'S&P Global Inc., together with its subsidiaries, provides benchmarks,
+  data, analytics, and workflow solutions in the global capital, energy and commodity,
+  and automotive markets. It operates through four segments: S&P Global Market Intelligence,
+  S&P Global Ratings, S&P Global Energy, and S&P Dow Jones Indices. The S&P Global
+  Market Intelligence segment provides multi-asset-class data and analytics integrated
+  with purpose-built workflow solutions. This segment offers Data, Analytics & Insights,
+  a desktop product suite that provides data, analytics, and third-party research
+  for global finance and corporate professionals; research, reference data, market
+  data, derived analytics, and valuation services; enterprise solutions, such as software
+  and workflow solutions; and credit and risk solutions for selling Ratings'' credit
+  ratings and related data and research, analytics, and financial risk solutions.
+  The S&P Global Ratings segment operates as an independent provider of credit ratings,
+  research, and analytics offering investors information and independent benchmarks
+  for their investment and financial decisions as well as access to the capital markets.
+  The S&P Global Energy segment provides information and benchmark prices for the
+  energy and commodity markets. The S&P Dow Jones Indices segment operates as an index
+  provider that maintains various valuation and index benchmarks for investment advisors,
+  wealth managers, and institutional investors. It has operations in the United States,
+  European region, Asia, and internationally. S&P Global Inc. was founded in 1860
+  and is headquartered in New York, New York.'
+longName: S&P Global Inc.
+market: us_market
+marketCap: 136966152192
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_21719
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 5207000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 137232862000
+numberOfAnalystOpinions: 20
+open: 470.21
+operatingCashflow: 5830000128
+operatingMargins: 0.44092998
+overallRisk: 3
+payoutRatio: 0.2206
+pegRatio: 1.89
+phone: 212-438-1000
+previousClose: 473.38
+priceEpsCurrentYear: 26.326525
+priceHint: 2
+priceToBook: 6.949065
+priceToSalesTrailing12Months: 8.406442
+profitMargins: 0.30602
+quickRatio: 0.635
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.34783
+region: US
+regularMarketChange: -0.9200134
+regularMarketChangePercent: -0.19434987
+regularMarketDayHigh: 473.29
+regularMarketDayLow: 470.1
+regularMarketDayRange: 470.1 - 473.29
+regularMarketOpen: 470.21
+regularMarketPreviousClose: 473.38
+regularMarketPrice: 472.46
+regularMarketTime: 1794413749
+regularMarketVolume: 193018
+returnOnAssets: 0.08332
+returnOnEquity: 0.17875999
+revenueGrowth: 0.068
+revenuePerShare: 54.956
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 6
+sharesOutstanding: 289900000
+sharesPercentSharesOut: 0.0152
+sharesShort: 4408090
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 6457167
+shortName: S&P Global Inc.
+shortPercentOfFloat: 0.0152
+shortRatio: 2.22
+sourceInterval: 15
+state: NY
+symbol: SPGI
+targetHighPrice: 572.0
+targetLowPrice: 485.0
+targetMeanPrice: 526.7
+targetMedianPrice: 525.0
+totalCash: 2440999936
+totalCashPerShare: 8.42
+totalDebt: 13582999552
+totalRevenue: 16293000192
+tradeable: false
+trailingAnnualDividendRate: 3.87
+trailingAnnualDividendYield: 0.00817525
+trailingEps: 16.74
+trailingPE: 28.223417
+trailingPegRatio: 1.8854
+triggerable: true
+twoHundredDayAverage: 415.83688
+twoHundredDayAverageChange: 56.623108
+twoHundredDayAverageChangePercent: 0.13616663
+typeDisp: Equity
+volume: 192954
+website: https://www.spglobal.com
+zip: '10041'

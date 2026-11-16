@@ -1,0 +1,266 @@
+52WeekChange: 0.31996942
+SandP52WeekChange: 0.097798586
+address1: 86 Eolou Street
+allTimeHigh: 62802.613
+allTimeLow: 0.815
+ask: 15.56
+askSize: 28643
+auditRisk: 1
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 3653403
+averageDailyVolume3Month: 3292087
+averageVolume: 3292087
+averageVolume10days: 3653403
+beta: 0.512
+bid: 17.32
+bidSize: 22386
+boardRisk: 2
+bookValue: 10.417
+city: Athens
+companyOfficers:
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Pavlos Konstantinos Mylonas Ph.D.
+  title: CEO & Executive Director
+  totalPay: 1883772
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christina T. Theofilidi
+  title: Executive Director & GM of Retail Banking
+  totalPay: 1106717
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christos D. Christodoulou
+  title: GM & Group CFO
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stratos  Molyviatis
+  title: GM & Group COO
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vasilis  Karamouzis
+  title: General Manager of Corporate & Investment Banking
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eleftherios  Kororos
+  title: Assistant GM & Group Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory  Papagrigoris
+  title: Head of IR
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Panagiotis-Ioannis A. Dasmanoglou
+  title: GM of Group Compliance & Corporate Governance and Secretary
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Georgios  Triantafillakis
+  title: General Manager of Group Legal Services
+  unexercisedValue: 0
+  yearBorn: 1957
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Chara  Dalekou
+  title: General Manager of Group Marketing
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: Greece
+cryptoTradeable: false
+currency: EUR
+currentPrice: 17.33
+customPriceAlertConfidence: LOW
+dayHigh: 17.4
+dayLow: 17.075
+dividendDate: 1109030400
+dividendRate: 0.51
+dividendYield: 2.98
+earningsCallTimestampEnd: 1793808000
+earningsCallTimestampStart: 1793808000
+earningsGrowth: 0.133
+earningsQuarterlyGrowth: 0.172
+earningsTimestamp: 1793805600
+earningsTimestampEnd: 1793805600
+earningsTimestampStart: 1793805600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 5.618
+enterpriseValue: 15456310272
+epsCurrentYear: 1.42554
+epsForward: 1.68431
+epsTrailingTwelveMonths: 1.28
+esgPopulated: false
+exDividendDate: 1781049600
+exchange: ATH
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Athens
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fiftyDayAverage: 16.7778
+fiftyDayAverageChange: 0.5522003
+fiftyDayAverageChangePercent: 0.03291256
+fiftyTwoWeekChangePercent: 31.99694
+fiftyTwoWeekHigh: 18.025
+fiftyTwoWeekHighChange: -0.6949997
+fiftyTwoWeekHighChangePercent: -0.038557544
+fiftyTwoWeekLow: 12.06
+fiftyTwoWeekLowChange: 5.2699995
+fiftyTwoWeekLowChangePercent: 0.4369817
+fiftyTwoWeekRange: 12.06 - 18.025
+financialCurrency: EUR
+firstTradeDateMilliseconds: 505038600000
+fiveYearAvgDividendYield: 3.32
+floatShares: 809185785
+forwardEps: 1.68431
+forwardPE: 10.28908
+fullExchangeName: Athens
+fullTimeEmployees: 7877
+fulldayChange: 0.045000076
+fulldayChangePercent: 0.26034176
+fulldayPrice: 17.33
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 2728999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.08498
+heldPercentInstitutions: 0.5091
+impliedSharesOutstanding: 886798379
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1781049600
+lastDividendValue: 0.293967
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1535500800
+lastSplitFactor: '1:10'
+longBusinessSummary: National Bank of Greece S.A., together with its subsidiaries,
+  provides banking, financial products, and services primarily in Greece, Cyprus,
+  North Macedonia, Romania, Bulgaria, Luxembourg, the Netherlands, and the United
+  Kingdom, and internationally. It operates through Retail Banking, Corporate & Investment
+  Banking, Trouble Assets Units, Global Markets and Asset Management, International
+  Banking Operations, and other segments. The Retail Banking segment provides deposit,
+  investment, bancassurance products, mortgage loans, consumer and small business
+  lending, debit and credit cards, prepaid cards, and other traditional products and
+  services for individual customers, professionals, and small-medium and small sized
+  companies through its network of branches and digital businesses. Its Corporate
+  & Investment Banking segment offers financial and investment advisory services,
+  deposit accounts, loans, foreign exchange, and trade services for corporate customers;
+  and lending services for large and medium-sized companies, as well as shipping finance
+  services. The Trouble Assets Unit segment manages various non-performing and denounced
+  loans. Its Global Markets and Asset Management segment is involved in treasury activities;
+  and asset management, custody, private equity, and brokerage services. The International
+  Banking Operations segment offers traditional commercial banking, such as commercial
+  and retail credit, trade financing, foreign exchange, and deposits; shipping finance;
+  investment banking; and brokerage services. Its Other segment engages in the real
+  estate management and warehousing businesses. It also provides factoring, capital
+  markets, mutual fund management, and insurance brokerage services. National Bank
+  of Greece S.A. was founded in 1841 and is headquartered in Athens, Greece.
+longName: National Bank of Greece S.A.
+market: gr_market
+marketCap: 15368216576
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_408107
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1148000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 15328309981
+numberOfAnalystOpinions: 17
+open: 17.39
+operatingCashflow: -1418000000
+operatingMargins: 0.58779
+overallRisk: 2
+payoutRatio: 0.4023
+pegRatio: 0.72
+phone: 30 210 334 1000
+previousClose: 17.285
+priceEpsCurrentYear: 12.156796
+priceHint: 2
+priceToBook: 1.6636268
+priceToSalesTrailing12Months: 5.586411
+profitMargins: 0.42276
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.47059
+region: US
+regularMarketChange: 0.045000076
+regularMarketChangePercent: 0.26034176
+regularMarketDayHigh: 17.4
+regularMarketDayLow: 17.075
+regularMarketDayRange: 17.075 - 17.4
+regularMarketOpen: 17.39
+regularMarketPreviousClose: 17.285
+regularMarketPrice: 17.33
+regularMarketTime: 1794410138
+regularMarketVolume: 2066008
+returnOnAssets: 0.01461
+returnOnEquity: 0.124239996
+revenueGrowth: 0.05
+revenuePerShare: 3.064
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 5
+sharesOutstanding: 886798379
+shortName: NATIONAL BANK OF GREECE S.A.
+sourceInterval: 10
+symbol: ETE.AT
+targetHighPrice: 21.8
+targetLowPrice: 14.7754
+targetMeanPrice: 18.86914
+targetMedianPrice: 19.2
+totalCash: 7249999872
+totalCashPerShare: 8.175
+totalDebt: 7349000192
+totalRevenue: 2751000064
+tradeable: false
+trailingAnnualDividendRate: 0.546
+trailingAnnualDividendYield: 0.03158808
+trailingEps: 1.28
+trailingPE: 13.5390625
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 15.264575
+twoHundredDayAverageChange: 2.065425
+twoHundredDayAverageChangePercent: 0.13530838
+typeDisp: Equity
+volume: 2066008
+website: https://www.nbg.gr
+zip: '10559'

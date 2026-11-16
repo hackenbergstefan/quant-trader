@@ -1,0 +1,253 @@
+52WeekChange: 1.3071196
+SandP52WeekChange: 0.097798586
+address1: 1001 Ridder Park Drive
+allTimeHigh: 1143.0
+allTimeLow: 13.97
+ask: 675.17
+askSize: 1
+auditRisk: 5
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 7951520
+averageDailyVolume3Month: 5268079
+averageVolume: 5268079
+averageVolume10days: 7951520
+beta: 1.645
+bid: 657.0
+bidSize: 1
+boardRisk: 6
+bookValue: 50.47
+city: San Jose
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Michael E.  Hurlston
+  title: President, CEO & Director
+  totalPay: 3101154
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Wajid  Ali B.A., C.M.A., M.A., M.B.A.
+  title: Executive VP & CFO
+  totalPay: 1595450
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jae  Kim Esq.
+  title: Senior VP, General Counsel & Secretary
+  totalPay: 1088749
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dr. Wupen  Yuen Ph.D.
+  title: President of Global Business Units
+  totalPay: 1452854
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Kathryn  Ta
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Rafik  Ward
+  title: Executive VP, Chief Strategy Officer & Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Heather  Paschall
+  title: Executive Vice President & Chief Human Resources Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. John  Bagatelos
+  title: Senior Vice President of Worldwide Sales
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Michael  Brooker
+  title: Executive VP & Chief Transformation Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jeff  Brown
+  title: Executive Vice President of Fab Operations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 666.005
+currentRatio: 1.611
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 678.67
+dayLow: 633.59
+debtToEquity: 31.278
+displayName: Lumentum
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793912400
+earningsCallTimestampStart: 1793912400
+earningsGrowth: 69.8
+earningsQuarterlyGrowth: 84.786
+earningsTimestamp: 1793626200
+earningsTimestampEnd: 1801575000
+earningsTimestampStart: 1801575000
+ebitda: 1150300032
+ebitdaMargins: 0.30734
+enterpriseToEbitda: 45.694
+enterpriseToRevenue: 14.043
+enterpriseValue: 52561797120
+epsCurrentYear: 24.93987
+epsForward: 40.13453
+epsTrailingTwelveMonths: -89.62
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 881.5829
+fiftyDayAverageChange: -215.57788
+fiftyDayAverageChangePercent: -0.24453501
+fiftyTwoWeekChangePercent: 130.71196
+fiftyTwoWeekHigh: 1143.0
+fiftyTwoWeekHighChange: -476.995
+fiftyTwoWeekHighChangePercent: -0.41731846
+fiftyTwoWeekLow: 215.35
+fiftyTwoWeekLowChange: 450.655
+fiftyTwoWeekLowChangePercent: 2.092663
+fiftyTwoWeekRange: 215.35 - 1143.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 1437658200000
+floatShares: 90234709
+forwardEps: 40.13453
+forwardPE: 16.594315
+freeCashflow: 142850000
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 13757
+fulldayChange: 80.435
+fulldayChangePercent: 13.736189
+fulldayPrice: 666.005
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.47974998
+grossProfits: 1795600000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0030500002
+heldPercentInstitutions: 0.95278
+impliedSharesOutstanding: 90684914
+industry: Communication Equipment
+industryDisp: Communication Equipment
+industryKey: communication-equipment
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1782518400
+longBusinessSummary: Lumentum Holdings Inc. manufactures and sells optical and photonic
+  products in the Americas, the Asia-Pacific, Europe, the Middle East, and Africa.
+  It offers component products, including semiconductor laser chips, laser sub-assemblies,
+  line subsystems, and wavelength management systems. The company also offers system
+  products, such as optical modules, optical circuit switches, and industrial lasers,
+  including short-pulse solid-state lasers and kilowatt-class fiber lasers. Its products
+  and solutions are used in cloud, artificial intelligence and machine learning (AI/ML),
+  telecommunications, consumer, and industrial end-market applications. The company
+  was incorporated in 2015 and is headquartered in San Jose, California.
+longName: Lumentum Holdings Inc.
+market: us_market
+marketCap: 60396605440
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_272054403
+mostRecentQuarter: 1790380800
+netIncomeToCommon: -6578999808
+nextFiscalYearEnd: 1814054400
+nonDilutedMarketCap: 53102365090
+numberOfAnalystOpinions: 25
+open: 642.5961
+operatingCashflow: 961200000
+operatingMargins: 0.23354
+overallRisk: 7
+payoutRatio: 0.0
+pegRatio: 0.63
+phone: 408 546 5483
+previousClose: 585.57
+priceEpsCurrentYear: 26.70443
+priceHint: 2
+priceToBook: 13.196056
+priceToSalesTrailing12Months: 16.136745
+profitMargins: -1.75777
+quickRatio: 1.135
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6
+region: US
+regularMarketChange: 80.435
+regularMarketChangePercent: 13.736189
+regularMarketDayHigh: 678.67
+regularMarketDayLow: 633.59
+regularMarketDayRange: 633.59 - 678.67
+regularMarketOpen: 642.5961
+regularMarketPreviousClose: 585.57
+regularMarketPrice: 666.005
+regularMarketTime: 1794413737
+regularMarketVolume: 3228371
+returnOnAssets: 0.09192
+returnOnEquity: -2.45788
+revenueGrowth: 1.365
+revenuePerShare: 46.697
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 7
+sharesOutstanding: 90684914
+sharesPercentSharesOut: 0.08939999
+sharesShort: 8111548
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7446554
+shortName: Lumentum Holdings Inc.
+shortPercentOfFloat: 0.089700006
+shortRatio: 1.55
+sourceInterval: 15
+state: CA
+symbol: LITE
+targetHighPrice: 1425.0
+targetLowPrice: 685.0
+targetMeanPrice: 1069.194
+targetMedianPrice: 1150.0
+totalCash: 1979600000
+totalCashPerShare: 21.826
+totalDebt: 1430200064
+totalRevenue: 3742799872
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: -89.62
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 810.2156
+twoHundredDayAverageChange: -144.21057
+twoHundredDayAverageChangePercent: -0.17799038
+typeDisp: Equity
+volume: 3228371
+website: https://www.lumentum.com
+zip: '95131'

@@ -1,0 +1,268 @@
+52WeekChange: -0.1445145
+SandP52WeekChange: 0.097798586
+address1: Universal Corporate Center
+address2: 367 South Gulph Road PO Box 61558
+allTimeHigh: 246.33
+allTimeLow: 0.375
+ask: 192.73
+askSize: 100
+auditRisk: 9
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 972030
+averageDailyVolume3Month: 713870
+averageVolume: 713870
+averageVolume10days: 972030
+beta: 1.108
+bid: 192.28
+bidSize: 100
+boardRisk: 10
+bookValue: 129.209
+city: King of Prussia
+companyOfficers:
+- age: 87
+  exercisedValue: 52799960
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alan B. Miller
+  title: Founder & Executive Chairman of the Board
+  totalPay: 3011093
+  unexercisedValue: 15729247
+  yearBorn: 1938
+- age: 54
+  exercisedValue: 18746576
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc D. Miller
+  title: CEO, President & Director
+  totalPay: 6064664
+  unexercisedValue: 19027480
+  yearBorn: 1971
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steve G. Filton
+  title: Executive VP, CFO & Secretary
+  totalPay: 2607084
+  unexercisedValue: 8979007
+  yearBorn: 1958
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Edward H. Sim
+  title: Executive VP & President of Acute Care Division
+  totalPay: 2426108
+  unexercisedValue: 1809250
+  yearBorn: 1972
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Darren P. Lehrich
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew David Klein
+  title: Senior VP & General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria  Zangardi
+  title: Senior Vice President of Human Resources
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael S. Nelson
+  title: Senior Vice President of Strategic Services
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jim  Clark
+  title: Senior Vice President of Finance - Acute Care Division
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Thomas  Day
+  title: Senior Vice President of Finance - Behavioral Health Division
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 192.995
+currentRatio: 1.369
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 194.13
+dayLow: 191.02
+debtToEquity: 79.776
+displayName: Universal Health Services
+dividendDate: 1789430400
+dividendRate: 0.8
+dividendYield: 0.41
+earningsCallTimestampEnd: 1793188800
+earningsCallTimestampStart: 1793188800
+earningsGrowth: -0.109
+earningsQuarterlyGrowth: -0.172
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1793131200
+earningsTimestampStart: 1793131200
+ebitda: 2652158976
+ebitdaMargins: 0.14451
+enterpriseToEbitda: 6.568
+enterpriseToRevenue: 0.949
+enterpriseValue: 17418588160
+epsCurrentYear: 22.47708
+epsForward: 23.00879
+epsTrailingTwelveMonths: 23.89
+esgPopulated: false
+exDividendDate: 1788220800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 179.6434
+fiftyDayAverageChange: 13.351593
+fiftyDayAverageChangePercent: 0.07432276
+fiftyTwoWeekChangePercent: -14.45145
+fiftyTwoWeekHigh: 246.33
+fiftyTwoWeekHighChange: -53.335007
+fiftyTwoWeekHighChangePercent: -0.21651852
+fiftyTwoWeekLow: 140.08
+fiftyTwoWeekLowChange: 52.914993
+fiftyTwoWeekLowChangePercent: 0.37774837
+fiftyTwoWeekRange: 140.08 - 246.33
+financialCurrency: USD
+firstTradeDateMilliseconds: 363533400000
+fiveYearAvgDividendYield: 0.49
+floatShares: 47454611
+forwardEps: 23.00879
+forwardPE: 8.387881
+freeCashflow: 745047616
+fullExchangeName: NYSE
+fullTimeEmployees: 102000
+fulldayChange: -2.4150085
+fulldayChangePercent: -1.2358674
+fulldayPrice: 192.995
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.44505
+grossProfits: 8167905792
+hasPrePostMarketData: true
+heldPercentInsiders: 0.05105
+heldPercentInstitutions: 1.0819
+impliedSharesOutstanding: 57652117
+industry: Medical Care Facilities
+industryDisp: Medical Care Facilities
+industryKey: medical-care-facilities
+irWebsite: http://ir.uhsinc.com/phoenix.zhtml?c=105817&p=irol-IRHome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788220800
+lastDividendValue: 0.2
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1260921600
+lastSplitFactor: '2:1'
+longBusinessSummary: Universal Health Services, Inc., through its subsidiaries, owns
+  and operates acute care hospitals, and outpatient and behavioral health care facilities
+  in the United States. It operates through Acute Care Hospital Services and Behavioral
+  Health Care Services segments. The company's hospitals offer general and specialty
+  surgery, internal medicine, obstetrics, emergency room care, radiology, oncology,
+  diagnostic and coronary care, pediatric, pharmacy, and/or behavioral health services.
+  It also provides commercial health insurance services; capital resources; and various
+  management services, including central purchasing, information services, finance
+  and control systems, facilities planning, physician recruitment, administrative
+  personnel management, marketing, and public relations services. Universal Health
+  Services, Inc. was founded in 1978 and is headquartered in King of Prussia, Pennsylvania.
+longName: Universal Health Services, Inc.
+market: us_market
+marketCap: 11126569984
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_36040
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1461753984
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 11265800181
+numberOfAnalystOpinions: 17
+open: 193.03
+operatingCashflow: 2056179968
+operatingMargins: 0.108500004
+overallRisk: 10
+payoutRatio: 0.0335
+pegRatio: 1.49
+phone: 610 768 3300
+previousClose: 195.41
+priceEpsCurrentYear: 8.586302
+priceHint: 2
+priceToBook: 1.4936652
+priceToSalesTrailing12Months: 0.60626686
+profitMargins: 0.07965
+quickRatio: 1.11
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.4
+region: US
+regularMarketChange: -2.4150085
+regularMarketChangePercent: -1.2358674
+regularMarketDayHigh: 194.13
+regularMarketDayLow: 191.02
+regularMarketDayRange: 191.02 - 194.13
+regularMarketOpen: 193.03
+regularMarketPreviousClose: 195.41
+regularMarketPrice: 192.995
+regularMarketTime: 1794413690
+regularMarketVolume: 97834
+returnOnAssets: 0.076519996
+returnOnEquity: 0.1974
+revenueGrowth: 0.053
+revenuePerShare: 303.918
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 10
+sharesOutstanding: 50403612
+sharesPercentSharesOut: 0.0432
+sharesShort: 2548231
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2556807
+shortName: Universal Health Services, Inc.
+shortPercentOfFloat: 0.0617
+shortRatio: 4.07
+sourceInterval: 15
+state: PA
+symbol: UHS
+targetHighPrice: 250.0
+targetLowPrice: 156.0
+targetMeanPrice: 193.82353
+targetMedianPrice: 194.0
+totalCash: 168748992
+totalCashPerShare: 2.927
+totalDebt: 6176318976
+totalRevenue: 18352594944
+tradeable: false
+trailingAnnualDividendRate: 0.2
+trailingAnnualDividendYield: 0.001023489
+trailingEps: 23.89
+trailingPE: 8.078485
+trailingPegRatio: 1.4896
+triggerable: true
+twoHundredDayAverage: 176.5659
+twoHundredDayAverageChange: 16.429092
+twoHundredDayAverageChangePercent: 0.09304793
+typeDisp: Equity
+volume: 97834
+website: https://uhs.com
+zip: 19406-0958

@@ -1,0 +1,282 @@
+52WeekChange: -0.11835414
+SandP52WeekChange: 0.097798586
+address1: 1680 Capital One Drive
+allTimeHigh: 259.64
+allTimeLow: 4.625
+ask: 195.5
+askSize: 100
+auditRisk: 3
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 4999790
+averageDailyVolume3Month: 3800798
+averageVolume: 3800798
+averageVolume10days: 4999790
+beta: 1.088
+bid: 195.46
+bidSize: 300
+boardRisk: 7
+bookValue: 174.948
+city: McLean
+companyOfficers:
+- age: 74
+  exercisedValue: 17057164
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard D. Fairbank
+  title: Founder, Chairman, CEO & President
+  totalPay: 6833277
+  unexercisedValue: 12713446
+  yearBorn: 1951
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew M. Young
+  title: Chief Financial Officer
+  totalPay: 3910891
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew W. Cooper
+  title: President of Discover Integration, General Counsel & Secretary
+  totalPay: 6579752
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank G. LaPrade III, J.D.
+  title: Chief Enterprise Services Officer & Chief of Staff to the CEO
+  totalPay: 4439174
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark Daniel Mouadeb
+  title: President of Card
+  totalPay: 4499914
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy P. Golden
+  title: Senior VP, Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert M. Alexander
+  title: Chief Information Officer
+  totalPay: 3407942
+  unexercisedValue: 955919
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Danielle  Dietz
+  title: Managing Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kaitlin Burek Haggerty
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sanjiv  Yajnik
+  title: President of Financial Services
+  totalPay: 3981334
+  unexercisedValue: 0
+  yearBorn: 1957
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions:
+- header: Dividend
+  message: COF announced a cash dividend of $0.80 with an ex-date of Nov. 16, 2026
+  meta:
+    amount: '0.80'
+    dateEpochMs: 1794805200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 196.135
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 196.99
+dayLow: 194.0
+displayName: Capital One Financial
+dividendDate: 1796083200
+dividendRate: 3.2
+dividendYield: 1.63
+earningsCallTimestampEnd: 1792530000
+earningsCallTimestampStart: 1792530000
+earningsGrowth: 0.162
+earningsQuarterlyGrowth: 0.109
+earningsTimestamp: 1792526400
+earningsTimestampEnd: 1800392400
+earningsTimestampStart: 1800392400
+ebitdaMargins: 0.0
+enterpriseToRevenue: 2.558
+enterpriseValue: 125083254784
+epsCurrentYear: 21.62356
+epsForward: 23.86316
+epsTrailingTwelveMonths: 16.32
+esgPopulated: false
+exDividendDate: 1794787200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 202.9144
+fiftyDayAverageChange: -6.7794037
+fiftyDayAverageChangePercent: -0.033410165
+fiftyTwoWeekChangePercent: -11.835414
+fiftyTwoWeekHigh: 259.64
+fiftyTwoWeekHighChange: -63.50502
+fiftyTwoWeekHighChangePercent: -0.24458872
+fiftyTwoWeekLow: 174.24
+fiftyTwoWeekLowChange: 21.894989
+fiftyTwoWeekLowChangePercent: 0.12565994
+fiftyTwoWeekRange: 174.24 - 259.64
+financialCurrency: USD
+firstTradeDateMilliseconds: 784996200000
+fiveYearAvgDividendYield: 1.6
+floatShares: 593003413
+forwardEps: 23.86316
+forwardPE: 8.219154
+fullExchangeName: NYSE
+fullTimeEmployees: 77500
+fulldayChange: 0.29499817
+fulldayChangePercent: 0.15063223
+fulldayPrice: 196.135
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 48893001728
+hasPrePostMarketData: true
+heldPercentInsiders: 0.012359999
+heldPercentInstitutions: 0.91122
+impliedSharesOutstanding: 601533153
+industry: Credit Services
+industryDisp: Credit Services
+industryKey: credit-services
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=70667&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786924800
+lastDividendValue: 0.8
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 928281600
+lastSplitFactor: '3:1'
+longBusinessSummary: 'Capital One Financial Corporation operates as the financial
+  services holding company for the Capital One, National Association, which engages
+  in the provision of various financial products and services in the United States,
+  Canada, and the United Kingdom. It operates through three segments: Credit Card,
+  Consumer Banking, and Commercial Banking. The company accepts checking accounts,
+  money market deposits, negotiable order of withdrawals, savings deposits, time deposits,
+  and sweep accounts. Its loan products include credit card and personal loans; auto
+  and retail banking loans; and commercial and multifamily real estate, and commercial
+  and industrial loans. The company offers credit and debit card products; bank lending;
+  and provides advisory, capital markets, net interchange, treasury management, and
+  depository services. It serves consumers, small businesses, and commercial clients
+  through digital channels, branches, cafés, and other distribution channels located
+  in New York, Louisiana, Texas, Maryland, Virginia, New Jersey, and the District
+  of Columbia. Capital One Financial Corporation was founded in 1988 and is headquartered
+  in McLean, Virginia.'
+longName: Capital One Financial Corporation
+market: us_market
+marketCap: 117981708288
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_336241
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 10129000448
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 117804252683
+numberOfAnalystOpinions: 21
+open: 196.94
+operatingCashflow: 28010000384
+operatingMargins: 0.31129
+overallRisk: 6
+payoutRatio: 0.19610001
+pegRatio: 0.18
+phone: 703 720 1000
+previousClose: 195.84
+priceEpsCurrentYear: 9.070431
+priceHint: 2
+priceToBook: 1.1211045
+priceToSalesTrailing12Months: 2.4130592
+profitMargins: 0.22226
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.56522
+region: US
+regularMarketChange: 0.29499817
+regularMarketChangePercent: 0.15063223
+regularMarketDayHigh: 196.99
+regularMarketDayLow: 194.0
+regularMarketDayRange: 194.0 - 196.99
+regularMarketOpen: 196.94
+regularMarketPreviousClose: 195.84
+regularMarketPrice: 196.135
+regularMarketTime: 1794413723
+regularMarketVolume: 947852
+returnOnAssets: 0.01572
+returnOnEquity: 0.09392
+revenueGrowth: 0.062
+revenuePerShare: 78.739
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 2
+sharesOutstanding: 601533153
+sharesPercentSharesOut: 0.0121
+sharesShort: 7248652
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8951001
+shortName: Capital One Financial Corporati
+shortPercentOfFloat: 0.0136
+shortRatio: 1.83
+sourceInterval: 15
+state: VA
+symbol: COF
+targetHighPrice: 290.0
+targetLowPrice: 225.0
+targetMeanPrice: 255.19048
+targetMedianPrice: 252.0
+totalCash: 52224000000
+totalCashPerShare: 86.818
+totalDebt: 55083999232
+totalRevenue: 48893001728
+tradeable: false
+trailingAnnualDividendRate: 3.2
+trailingAnnualDividendYield: 0.01633987
+trailingEps: 16.32
+trailingPE: 12.018076
+trailingPegRatio: 0.1775
+triggerable: true
+twoHundredDayAverage: 200.2974
+twoHundredDayAverageChange: -4.1623993
+twoHundredDayAverageChangePercent: -0.020781096
+typeDisp: Equity
+volume: 947852
+website: https://www.capitalone.com
+zip: '22102'

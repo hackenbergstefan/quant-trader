@@ -1,0 +1,233 @@
+52WeekChange: 0.0044242144
+SandP52WeekChange: 0.097798586
+address1: 700 Universe Boulevard
+allTimeHigh: 98.75
+allTimeLow: 0.84375
+ask: 85.72
+askSize: 1000
+auditRisk: 7
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 15072880
+averageDailyVolume3Month: 12133806
+averageVolume: 12133806
+averageVolume10days: 15072880
+beta: 0.6
+bid: 85.71
+bidSize: 300
+boardRisk: 6
+bookValue: 29.322
+city: Juno Beach
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John W. Ketchum J.D.
+  title: President, CEO & Chairman
+  totalPay: 7241427
+  unexercisedValue: 20513980
+  yearBorn: 1971
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael H. Dunne
+  title: CFO & Executive VP of Finance
+  totalPay: 2127377
+  unexercisedValue: 569324
+  yearBorn: 1976
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles E. Sieving J.D.
+  title: Executive VP and Chief Legal, Environmental & Federal Regulatory Affairs
+    Officer
+  totalPay: 3666743
+  unexercisedValue: 3579983
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions:
+- header: Dividend
+  message: NEE announced a cash dividend of $0.623 with an ex-date of Nov. 27, 2026
+  meta:
+    amount: '0.623'
+    dateEpochMs: 1795755600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 85.86
+currentRatio: 0.529
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 86.23
+dayLow: 85.59
+debtToEquity: 153.254
+displayName: NextEra Energy
+dividendDate: 1797292800
+dividendRate: 2.49
+dividendYield: 2.89
+earningsCallTimestampEnd: 1792587600
+earningsCallTimestampStart: 1792587600
+earningsGrowth: 0.932
+earningsQuarterlyGrowth: 0.959
+earningsTimestamp: 1792585800
+earningsTimestampEnd: 1801056600
+earningsTimestampStart: 1801056600
+ebitda: 13400999936
+ebitdaMargins: 0.46491
+enterpriseToEbitda: 22.545
+enterpriseToRevenue: 10.482
+enterpriseValue: 302131576832
+epsCurrentYear: 4.02862
+epsForward: 4.37527
+epsTrailingTwelveMonths: 5.55
+esgPopulated: false
+exDividendDate: 1795737600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 80.6818
+fiftyDayAverageChange: 5.1782
+fiftyDayAverageChangePercent: 0.064180516
+fiftyTwoWeekChangePercent: 0.44242144
+fiftyTwoWeekHigh: 98.75
+fiftyTwoWeekHighChange: -12.889999
+fiftyTwoWeekHighChangePercent: -0.13053164
+fiftyTwoWeekLow: 74.41
+fiftyTwoWeekLowChange: 11.449997
+fiftyTwoWeekLowChangePercent: 0.15387712
+fiftyTwoWeekRange: 74.41 - 98.75
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 2.5
+floatShares: 2092671003
+forwardEps: 4.37527
+forwardPE: 19.623932
+freeCashflow: -21211250688
+fullExchangeName: NYSE
+fullTimeEmployees: 17400
+fulldayChange: -0.40999603
+fulldayChangePercent: -0.47524753
+fulldayPrice: 85.86
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.60173
+grossProfits: 17344999424
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00119
+heldPercentInstitutions: 0.86799
+impliedSharesOutstanding: 2097306049
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1787875200
+lastDividendValue: 0.623
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1603756800
+lastSplitFactor: '4:1'
+longBusinessSummary: NextEra Energy, Inc., through its subsidiaries, generates, stores,
+  transmits, distributes, and sells electric power to retail and wholesale customers
+  in North America. It operates through Florida Power & Light Company (FPL) and NEER
+  segments. The company generates electricity from wind, solar, nuclear, natural gas,
+  and other clean energy assets. It also invests in generation, storage, transmission,
+  and distribution facilities; owns, develops, constructs, manages, and operates generation
+  facilities, including renewables, nuclear and natural gas, and battery storage facilities
+  in the wholesale energy market in the United States and Canada, as well as electric
+  and gas transmission assets, and natural gas pipelines; provides full energy and
+  capacity requirement services; markets and trades in energy-related commodities;
+  and participates in the production of natural gas, natural gas liquids, and oil.
+  As of December 31, 2025, the company had approximately 35,963 megawatts of net generating
+  capacity; approximately 93,000 circuit miles of transmission and distribution lines;
+  and 932 substations. It serves approximately 12 million people through approximately
+  6 million customer accounts on the east and lower west coasts of Florida. The company
+  was formerly known as FPL Group, Inc. and changed its name to NextEra Energy, Inc.
+  in 2010. NextEra Energy, Inc. was founded in 1925 and is headquartered in Juno Beach,
+  Florida.
+longName: NextEra Energy, Inc.
+market: us_market
+marketCap: 180074708992
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_270586
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 11637000192
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 180934592847
+numberOfAnalystOpinions: 19
+open: 85.81
+operatingCashflow: 14821000192
+operatingMargins: 0.30025998
+overallRisk: 5
+payoutRatio: 0.4389
+pegRatio: 1.77
+phone: 561 694 4000
+previousClose: 86.27
+priceEpsCurrentYear: 21.31251
+priceHint: 2
+priceToBook: 2.9281769
+priceToSalesTrailing12Months: 6.2471714
+profitMargins: 0.40370998
+quickRatio: 0.348
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.90909
+region: US
+regularMarketChange: -0.40999603
+regularMarketChangePercent: -0.47524753
+regularMarketDayHigh: 86.23
+regularMarketDayLow: 85.59
+regularMarketDayRange: 85.59 - 86.23
+regularMarketOpen: 85.81
+regularMarketPreviousClose: 86.27
+regularMarketPrice: 85.86
+regularMarketTime: 1794413731
+regularMarketVolume: 2454853
+returnOnAssets: 0.02407
+returnOnEquity: 0.14064
+revenueGrowth: 0.016
+revenuePerShare: 13.831
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 3
+sharesOutstanding: 2097306049
+sharesPercentSharesOut: 0.0
+sharesShort: 12477
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 59319916
+shortName: NextEra Energy, Inc.
+shortPercentOfFloat: 0.0
+shortRatio: 0.0
+sourceInterval: 15
+state: FL
+symbol: NEE
+targetHighPrice: 110.0
+targetLowPrice: 56.0
+targetMeanPrice: 94.0
+targetMedianPrice: 99.0
+totalCash: 5578999808
+totalCashPerShare: 2.66
+totalDebt: 113932001280
+totalRevenue: 28824999936
+tradeable: false
+trailingAnnualDividendRate: 2.436
+trailingAnnualDividendYield: 0.028236933
+trailingEps: 5.55
+trailingPE: 15.47027
+trailingPegRatio: 1.7719
+triggerable: true
+twoHundredDayAverage: 87.40175
+twoHundredDayAverageChange: -1.541748
+twoHundredDayAverageChangePercent: -0.017639784
+typeDisp: Equity
+volume: 2454853
+website: https://www.nexteraenergy.com
+zip: '33408'

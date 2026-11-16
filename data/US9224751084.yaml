@@ -1,0 +1,254 @@
+52WeekChange: 0.028926492
+SandP52WeekChange: 0.097798586
+address1: 4280 Hacienda Drive
+allTimeHigh: 343.96
+allTimeLow: 17.11
+ask: 307.82
+askSize: 200
+auditRisk: 2
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 1502330
+averageDailyVolume3Month: 1640843
+averageVolume: 1640843
+averageVolume10days: 1502330
+beta: 0.881
+bid: 307.53
+bidSize: 80
+boardRisk: 8
+bookValue: 45.92
+city: Pleasanton
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Peter P. Gassner
+  title: Founder, CEO & Director
+  totalPay: 470833
+  unexercisedValue: 408536352
+  yearBorn: 1965
+- age: 55
+  exercisedValue: 1026754
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Eleni Nitsa Zuppas
+  title: President & Chief of Staff
+  totalPay: 470833
+  unexercisedValue: 1346949
+  yearBorn: 1970
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Brian  Van Wagener
+  title: Chief Financial Officer
+  totalPay: 470833
+  unexercisedValue: 29888
+  yearBorn: 1983
+- age: 53
+  exercisedValue: 1492655
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jonathan W. Faddis J.D.
+  title: Senior VP, General Counsel & Corporate Secretary
+  totalPay: 470833
+  unexercisedValue: 123874
+  yearBorn: 1972
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Vipin  Kondath
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Catherine  Allshouse
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Gunnar Georg Hansen
+  title: Director of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 307.85
+currentRatio: 5.458
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 311.3799
+dayLow: 305.38
+debtToEquity: 2.041
+displayName: Veeva Systems
+dividendYield: 0.0
+earningsCallTimestampEnd: 1787778000
+earningsCallTimestampStart: 1787778000
+earningsGrowth: 0.395
+earningsQuarterlyGrowth: 0.365
+earningsTimestamp: 1787774400
+earningsTimestampEnd: 1795640400
+earningsTimestampStart: 1795640400
+ebitda: 1075341056
+ebitdaMargins: 0.31096
+enterpriseToEbitda: 39.411
+enterpriseToRevenue: 12.255
+enterpriseValue: 42379997184
+epsCurrentYear: 9.23503
+epsForward: 10.26076
+epsTrailingTwelveMonths: 6.1
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 925 452 6504
+fiftyDayAverage: 290.139
+fiftyDayAverageChange: 17.710999
+fiftyDayAverageChangePercent: 0.061043147
+fiftyTwoWeekChangePercent: 2.8926492
+fiftyTwoWeekHigh: 325.99
+fiftyTwoWeekHighChange: -18.139984
+fiftyTwoWeekHighChangePercent: -0.05564583
+fiftyTwoWeekLow: 148.05
+fiftyTwoWeekLowChange: 159.8
+fiftyTwoWeekLowChangePercent: 1.0793651
+fiftyTwoWeekRange: 148.05 - 325.99
+financialCurrency: USD
+firstTradeDateMilliseconds: 1381930200000
+floatShares: 148271268
+forwardEps: 10.26076
+forwardPE: 30.002651
+freeCashflow: 1257709824
+fullExchangeName: NYSE
+fullTimeEmployees: 7928
+fulldayChange: 2.3000183
+fulldayChangePercent: 0.752747
+fulldayPrice: 307.85
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.74961
+grossProfits: 2592219904
+hasPrePostMarketData: true
+heldPercentInsiders: 0.086169995
+heldPercentInstitutions: 0.91672
+impliedSharesOutstanding: 161908850
+industry: Health Information Services
+industryDisp: Health Information Services
+industryKey: health-information-services
+isEarningsDateEstimate: true
+language: en-US
+lastFiscalYearEnd: 1769817600
+longBusinessSummary: Veeva Systems Inc. provides cloud-based software for the life
+  sciences industry in North America, Europe, the Asia Pacific, the Middle East, Africa,
+  and Latin America. The company offers Veeva Commercial Cloud comprising Veeva Vault
+  CRM Suite for pharmaceutical and biotechnology companies; Veeva Medical that provides
+  source of medical content across multiple channels and geographies; Veeva PromoMats,
+  an end-to-end content and digital asset management solution; and Veeva Crossix,
+  an analytics platform for pharmaceutical brands. It also provides Veeva Data Cloud,
+  such as Veeva OpenData, a customer reference data solution; Veeva Link, which provides
+  deep data; Veeva Compass, which includes de-identified and longitudinal patient
+  data; and Veeva CRM Pulse that provides access and multichannel engagement metrics.
+  In addition, the company offers Veeva Development Cloud consisting of Veeva Clinical
+  Platform, which advances clinical trial execution; Veeva Clinical Data Management
+  that helps sponsors and CROs design and run trials; Veeva Safety, which unifies
+  systems and processes; Veeva RIM that provides regulatory information management
+  capabilities, as well as Veeva Quality Cloud, which is used by the life sciences
+  and consumer products industries; and Veeva Business Consulting services. Further,
+  it provides professional and support services, including implementation and deployment
+  planning, and project management; requirements analysis, solution design, and configuration;
+  systems environment management and deployment; services focused on advancing or
+  transforming business and operating processes; technical consulting services on
+  data migration and systems integrations; training; and ongoing managed services,
+  such as outsourced systems administration. The company was formerly known as Verticals
+  onDemand, Inc. and changed its name to Veeva Systems Inc. in April 2009. Veeva Systems
+  Inc. was incorporated in 2007 and is headquartered in Pleasanton, California.
+longName: Veeva Systems Inc.
+market: us_market
+marketCap: 49843638272
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_33414482
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 1014771968
+nextFiscalYearEnd: 1801353600
+nonDilutedMarketCap: 49471249117
+numberOfAnalystOpinions: 27
+open: 309.93
+operatingCashflow: 1665458944
+operatingMargins: 0.29926002
+overallRisk: 10
+payoutRatio: 0.0
+pegRatio: 1.18
+phone: 925 452 6500
+previousClose: 305.55
+priceEpsCurrentYear: 33.33503
+priceHint: 2
+priceToBook: 6.704051
+priceToSalesTrailing12Months: 14.413599
+profitMargins: 0.29345
+quickRatio: 5.363
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.93103
+region: US
+regularMarketChange: 2.3000183
+regularMarketChangePercent: 0.752747
+regularMarketDayHigh: 311.3799
+regularMarketDayLow: 305.38
+regularMarketDayRange: 305.38 - 311.3799
+regularMarketOpen: 309.93
+regularMarketPreviousClose: 305.55
+regularMarketPrice: 307.85
+regularMarketTime: 1794413743
+regularMarketVolume: 276093
+returnOnAssets: 0.075830005
+returnOnEquity: 0.14425
+revenueGrowth: 0.176
+revenuePerShare: 21.148
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 9
+sharesOutstanding: 161908850
+sharesPercentSharesOut: 0.0239
+sharesShort: 3864293
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4896341
+shortName: Veeva Systems Inc.
+shortPercentOfFloat: 0.026099999
+shortRatio: 2.62
+sourceInterval: 15
+state: CA
+symbol: VEEV
+targetHighPrice: 375.0
+targetLowPrice: 180.0
+targetMeanPrice: 323.07407
+targetMedianPrice: 325.0
+totalCash: 7242947072
+totalCashPerShare: 44.735
+totalDebt: 151695008
+totalRevenue: 3458097920
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 6.1
+trailingPE: 50.467216
+trailingPegRatio: 1.178
+triggerable: true
+twoHundredDayAverage: 212.2163
+twoHundredDayAverageChange: 95.63371
+twoHundredDayAverageChangePercent: 0.45064265
+typeDisp: Equity
+volume: 276093
+website: https://www.veeva.com
+zip: '94588'

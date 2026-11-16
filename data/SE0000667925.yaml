@@ -1,0 +1,260 @@
+52WeekChange: 0.2800944
+SandP52WeekChange: 0.097798586
+address1: Stjärntorget 1
+allTimeHigh: 94.0
+allTimeLow: 20.98
+ask: 48.83
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 2.9 - Hold
+averageDailyVolume10Day: 5758256
+averageDailyVolume3Month: 6120269
+averageVolume: 6120269
+averageVolume10days: 5758256
+beta: 0.24
+bid: 48.81
+bidSize: 0
+boardRisk: 3
+bookValue: 14.231
+city: Solna
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrik  Hofbauer
+  title: CEO & President
+  totalPay: 23743000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. W. T. J. Hageman
+  title: Group CFO & Executive VP
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hein  Muskens
+  title: Acting Group Chief Operating Officer
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Alexandra  Furst
+  title: Senior VP and Chief Technology & Information Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Erik Strandin Pers
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Backman
+  title: Executive VP, Group General Counsel & Head of Corporate Affairs
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ola  Rembe
+  title: Senior VP & Head of Communications, Brand and Sustainability
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria Romberg Ewerth
+  title: Senior VP & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andreas Christian Ekström
+  title: Head of Mergers & Acquisitions
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jannike  Grüner
+  title: Head of Global Business Transformation
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 48.81
+currentRatio: 0.662
+customPriceAlertConfidence: HIGH
+dayHigh: 48.89
+dayLow: 48.5
+debtToEquity: 151.616
+dividendRate: 2.08
+dividendYield: 4.26
+earningsCallTimestampEnd: 1792652400
+earningsCallTimestampStart: 1792652400
+earningsGrowth: 0.149
+earningsQuarterlyGrowth: 0.149
+earningsTimestamp: 1792683000
+earningsTimestampEnd: 1792683000
+earningsTimestampStart: 1792683000
+ebitda: 27122999296
+ebitdaMargins: 0.32568002
+enterpriseToEbitda: 10.165
+enterpriseToRevenue: 3.311
+enterpriseValue: 275705266176
+epsCurrentYear: 2.41367
+epsForward: 1.95
+epsTrailingTwelveMonths: 1.35
+esgPopulated: false
+exDividendDate: 1801699200
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 46.1692
+fiftyDayAverageChange: 2.6408005
+fiftyDayAverageChangePercent: 0.057198316
+fiftyTwoWeekChangePercent: 28.009438
+fiftyTwoWeekHigh: 51.68
+fiftyTwoWeekHighChange: -2.869999
+fiftyTwoWeekHighChangePercent: -0.055534035
+fiftyTwoWeekLow: 36.19
+fiftyTwoWeekLowChange: 12.620003
+fiftyTwoWeekLowChangePercent: 0.34871522
+fiftyTwoWeekRange: 36.19 - 51.68
+financialCurrency: SEK
+firstTradeDateMilliseconds: 960879600000
+fiveYearAvgDividendYield: 5.78
+floatShares: 2314675452
+forwardEps: 1.95
+forwardPE: 25.03077
+freeCashflow: 16155750400
+fullExchangeName: Stockholm
+fullTimeEmployees: 14094
+fulldayChange: 0.0
+fulldayChangePercent: 0.0
+fulldayPrice: 48.81
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.49712002
+grossProfits: 41400000512
+hasPrePostMarketData: false
+heldPercentInsiders: 0.41132998
+heldPercentInstitutions: 0.32477
+impliedSharesOutstanding: 3932109287
+industry: Telecom Services
+industryDisp: Telecom Services
+industryKey: telecom-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1801699200
+lastDividendValue: 0.52
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Telia Company AB (publ) provides communication services to businesses,
+  individuals, families, and communities in Sweden, Finland, Norway, Denmark, Lithuania,
+  Estonia, and Latvia. It offers mobile, broadband, television, and fixed-line services;
+  and networking, cloud and security, mobility, enterprise mobile network, contact
+  center, managed mobility services, collaboration solutions, and telephony. The company
+  also offers Internet of Things (IoT), broadband services via mobile network and
+  fiber, LAN and WiFi, SD-WAN, mobile LAN, dedicated private networks, and data analysis
+  services, as well as colocation solutions. In addition, it provides smart public
+  transport, and smart utilities, as well as transport and logistics solutions comprising
+  connected vehicle, GPS positioning, and fleet management services. It also provides
+  data communication and security solutions to individuals and companies. The company
+  markets its products and services under the Telia, Telia Cygate, TV4, Halebop, Fello,
+  MTV, Phonero, Onecall, MyCall, Ezys, and Diil brand names for transport and logistics,
+  forestry, healthcare and community, agriculture, and energy and mining, as well
+  as manufacturing industries. Telia Company AB (publ) was formerly known as TeliaSonera
+  AB (publ) and changed its name to Telia Company AB (publ) in April 2016. The company
+  was founded in 1853 and is based in Solna, Sweden.
+longName: Telia Company AB (publ)
+market: se_market
+marketCap: 191926255616
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_4058367
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 5288999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 191926254249
+numberOfAnalystOpinions: 20
+open: 48.54
+operatingCashflow: 27734999040
+operatingMargins: 0.13061
+overallRisk: 2
+payoutRatio: 1.4963001
+pegRatio: 2.22
+phone: 46 7 71 99 01 00
+previousClose: 48.81
+priceEpsCurrentYear: 20.222317
+priceHint: 2
+priceToBook: 3.4298363
+priceToSalesTrailing12Months: 2.30459
+profitMargins: 0.06351
+quickRatio: 0.511
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.89474
+region: US
+regularMarketChange: 0.0
+regularMarketChangePercent: 0.0
+regularMarketDayHigh: 48.89
+regularMarketDayLow: 48.5
+regularMarketDayRange: 48.5 - 48.89
+regularMarketOpen: 48.54
+regularMarketPreviousClose: 48.81
+regularMarketPrice: 48.81
+regularMarketTime: 1794412473
+regularMarketVolume: 1192861
+returnOnAssets: 0.0344
+returnOnEquity: 0.10375
+revenueGrowth: 0.073
+revenuePerShare: 21.18
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 3932109286
+shortName: Telia Company AB
+sourceInterval: 15
+symbol: TELIA.ST
+targetHighPrice: 59.0
+targetLowPrice: 39.2
+targetMeanPrice: 48.049
+targetMedianPrice: 49.0
+totalCash: 11034000384
+totalCashPerShare: 2.806
+totalDebt: 90850000896
+totalRevenue: 83280003072
+tradeable: false
+trailingAnnualDividendRate: 2.05
+trailingAnnualDividendYield: 0.04199959
+trailingEps: 1.35
+trailingPE: 36.155556
+trailingPegRatio: 2.2088
+triggerable: true
+twoHundredDayAverage: 46.5086
+twoHundredDayAverageChange: 2.301403
+twoHundredDayAverageChangePercent: 0.04948339
+typeDisp: Equity
+volume: 1192861
+website: https://www.teliacompany.com

@@ -1,0 +1,237 @@
+52WeekChange: -0.00033181906
+SandP52WeekChange: 0.097798586
+address1: 1211 Avenue of the Americas
+allTimeHigh: 68.175
+allTimeLow: 19.13
+ask: 64.58
+askSize: 2
+averageDailyVolume10Day: 1221650
+averageDailyVolume3Month: 1046575
+averageVolume: 1046575
+averageVolume10days: 1221650
+beta: 0.623
+bid: 54.86
+bidSize: 2
+bookValue: 29.558
+city: New York
+companyOfficers:
+- age: 54
+  exercisedValue: 18020356
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Lachlan Keith Murdoch
+  title: Executive Chairman & CEO
+  totalPay: 16518862
+  unexercisedValue: 20168150
+  yearBorn: 1971
+- age: 68
+  exercisedValue: 8740332
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. John P. Nallen
+  title: President & COO
+  totalPay: 9759652
+  unexercisedValue: 4415526
+  yearBorn: 1957
+- age: 56
+  exercisedValue: 3928126
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Steven Silvester Tomsic
+  title: Chief Financial Officer
+  totalPay: 7006973
+  unexercisedValue: 4116778
+  yearBorn: 1969
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Adam G. Ciongoli J.D.
+  title: Chief Legal & Policy Officer
+  totalPay: 7008121
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Gabrielle  Brown
+  title: Executive VP & Chief Investor Relations Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Brian  Nick
+  title: Chief Communications Officer & Executive VP
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jeff  Collins
+  title: President of Advertising Sales, Marketing & Brand Partnership
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Kevin E. Lord
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1963
+compensationAsOfEpochDate: 1798675200
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 59.92
+currentRatio: 3.788
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 60.565
+dayLow: 59.43
+debtToEquity: 59.88
+dividendDate: 1790121600
+dividendRate: 0.58
+dividendYield: 0.96
+earningsCallTimestampEnd: 1793626200
+earningsCallTimestampStart: 1793626200
+earningsGrowth: 0.667
+earningsQuarterlyGrowth: 0.574
+earningsTimestamp: 1793626200
+earningsTimestampEnd: 1793626200
+earningsTimestampStart: 1793626200
+ebitda: 4433999872
+ebitdaMargins: 0.2469
+enterpriseToEbitda: 6.461
+enterpriseToRevenue: 1.595
+enterpriseValue: 28647534592
+epsForward: 5.5
+epsTrailingTwelveMonths: 4.7
+esgPopulated: false
+exDividendDate: 1788307200
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 57.903
+fiftyDayAverageChange: 2.0169983
+fiftyDayAverageChangePercent: 0.03483409
+fiftyTwoWeekChangePercent: -0.033181906
+fiftyTwoWeekHigh: 68.175
+fiftyTwoWeekHighChange: -8.255005
+fiftyTwoWeekHighChangePercent: -0.12108551
+fiftyTwoWeekLow: 44.08
+fiftyTwoWeekLowChange: 15.839996
+fiftyTwoWeekLowChangePercent: 0.35934654
+fiftyTwoWeekRange: 44.08 - 68.175
+financialCurrency: USD
+firstTradeDateMilliseconds: 1552483800000
+fiveYearAvgDividendYield: 1.29
+floatShares: 354802477
+forwardEps: 5.5
+forwardPE: 10.894546
+freeCashflow: 1195124992
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 10550
+fulldayChange: -0.33000183
+fulldayChangePercent: -0.5477209
+fulldayPrice: 59.92
+gmtOffSetMilliseconds: -18000000
+grossMargins: 0.3822
+grossProfits: 6864000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.39868
+heldPercentInstitutions: 0.64514
+impliedSharesOutstanding: 421801414
+industry: Entertainment
+industryDisp: Entertainment
+industryKey: entertainment
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788307200
+lastDividendValue: 0.29
+lastFiscalYearEnd: 1782777600
+longBusinessSummary: Fox Corporation operates as a news, sports, and entertainment
+  company in the United States. It operates in two segments, Cable Network Programming
+  and Television. The Cable Network Programming segment produces and licenses news
+  and sports content for distribution through traditional cable television systems,
+  direct broadcast satellite operators, telecommunication companies, virtual multi-channel
+  video programming distributors, and other digital platforms. The Television segment
+  produces, acquires, markets, and distributes programming through the FOX broadcast
+  network; advertising-supported video-on-demand service Tubi; and operates full power
+  broadcast television stations, including duopolies and other digital platforms.
+  This segment also produces content for third parties. It also engages in the consumer
+  finance marketplace; and provision of television and film production services along
+  with office space, studio operation services, and all operations of the facility.
+  Fox Corporation was incorporated in 2018 and is headquartered in New York, New York.
+longName: Fox Corporation
+market: us_market
+marketCap: 25274339328
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_546623668
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2028999936
+nextFiscalYearEnd: 1814313600
+nonDilutedMarketCap: 26858293771
+open: 60.25
+operatingCashflow: 2716000000
+operatingMargins: 0.22295
+payoutRatio: 0.121300004
+phone: 212 852 7000
+previousClose: 60.25
+priceHint: 2
+priceToBook: 2.0272007
+priceToSalesTrailing12Months: 1.4073355
+profitMargins: 0.11298
+quickRatio: 3.373
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -0.33000183
+regularMarketChangePercent: -0.5477209
+regularMarketDayHigh: 60.565
+regularMarketDayLow: 59.43
+regularMarketDayRange: 59.43 - 60.565
+regularMarketOpen: 60.25
+regularMarketPreviousClose: 60.25
+regularMarketPrice: 59.92
+regularMarketTime: 1794413697
+regularMarketVolume: 118632
+returnOnAssets: 0.109139994
+returnOnEquity: 0.16568
+revenueGrowth: 0.223
+revenuePerShare: 42.306
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+sharesOutstanding: 220248764
+sharesPercentSharesOut: 0.0214
+sharesShort: 9047161
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 9257746
+shortName: Fox Corporation
+shortPercentOfFloat: 0.0416
+shortRatio: 10.75
+sourceInterval: 15
+state: NY
+symbol: FOX
+totalCash: 4536000000
+totalCashPerShare: 10.754
+totalDebt: 7578999808
+totalRevenue: 17959000064
+tradeable: false
+trailingAnnualDividendRate: 0.57
+trailingAnnualDividendYield: 0.009460581
+trailingEps: 4.7
+trailingPE: 12.748937
+trailingPegRatio: 1.0343
+triggerable: true
+twoHundredDayAverage: 55.69885
+twoHundredDayAverageChange: 4.2211494
+twoHundredDayAverageChangePercent: 0.07578522
+typeDisp: Equity
+volume: 118632
+website: https://www.foxcorporation.com
+zip: '10036'

@@ -1,0 +1,207 @@
+52WeekChange: 0.75
+SandP52WeekChange: 0.097798586
+address1: 6, rue Eugène Ruppert
+allTimeHigh: 98.78
+allTimeLow: 17.9
+ask: 60.9
+auditRisk: 8
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 4461679
+averageDailyVolume3Month: 4313503
+averageVolume: 4313503
+averageVolume10days: 4461679
+beta: 0.458
+bid: 60.88
+boardRisk: 1
+bookValue: 10.916
+city: Luxembourg
+companyOfficers:
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marcin  Kusmierz
+  title: CEO & Executive Director
+  totalPay: 106000
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katarzyna  Ostap-Tomann
+  title: Group Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tomasz  Pozniak
+  title: Investor Relations Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Sandra  Bichl
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Luxembourg
+cryptoTradeable: false
+currency: PLN
+currentPrice: 60.9
+currentRatio: 1.775
+customPriceAlertConfidence: LOW
+dayHigh: 61.2
+dayLow: 60.39
+debtToEquity: 52.391
+dividendYield: 0.0
+earningsCallTimestampEnd: 1794474000
+earningsCallTimestampStart: 1794474000
+earningsGrowth: 0.417
+earningsQuarterlyGrowth: 0.372
+earningsTimestamp: 1794499500
+earningsTimestampEnd: 1794499500
+earningsTimestampStart: 1794499500
+ebitda: 3425400064
+ebitdaMargins: 0.27841
+enterpriseToEbitda: 18.535
+enterpriseToRevenue: 5.16
+enterpriseValue: 63490306048
+epsCurrentYear: 2.14825
+epsForward: 1.97
+epsTrailingTwelveMonths: 1.94
+esgPopulated: false
+exchange: WSE
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Warsaw
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 52.5004
+fiftyDayAverageChange: 8.399601
+fiftyDayAverageChangePercent: 0.15999117
+fiftyTwoWeekChangePercent: 75.0
+fiftyTwoWeekHigh: 61.2
+fiftyTwoWeekHighChange: -0.29999924
+fiftyTwoWeekHighChangePercent: -0.0049019484
+fiftyTwoWeekLow: 25.53
+fiftyTwoWeekLowChange: 35.370003
+fiftyTwoWeekLowChangePercent: 1.385429
+fiftyTwoWeekRange: 25.53 - 61.2
+financialCurrency: PLN
+firstTradeDateMilliseconds: 1602572400000
+floatShares: 949340707
+forwardEps: 1.97
+forwardPE: 30.913706
+freeCashflow: 1234391040
+fullExchangeName: Warsaw
+fullTimeEmployees: 5754
+fulldayChange: 0.70000076
+fulldayChangePercent: 1.1627918
+fulldayPrice: 60.9
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.3411
+grossProfits: 4196699904
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.51491
+impliedSharesOutstanding: 1000369558
+industry: Internet Retail
+industryDisp: Internet Retail
+industryKey: internet-retail
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Allegro.eu S.A. operates a commerce platform for consumers in
+  Poland, Czech Republic, Slovakia, Hungary, and internationally. It operates through
+  Allegro, Ceneo, Allegro International, and Other segments. The company engages in
+  operating B2C, C2C, and B2B e-commerce platforms comprising online marketplace;
+  and various services, such as consumer lending and logistics services. It also provides
+  multi-category price comparison services allowing the customer to find prices among
+  the different websites and marketplaces. In addition, it operates eBilet, an event
+  ticket sales site. Further, the company operates Allegro. pl, an online marketplace;
+  Ceneo.pl, a price comparison platform. Additionally, the company engages in online
+  marketplace; retail sale via the Internet; advertising; logistic services; online
+  price comparison services; consumer lending to marketplace buyers; online tickets
+  distribution; software and solutions for delivery logistics; and provides payment
+  services to partners. The company was formerly known as Adinan Super Topco S.a r.l.
+  and changed its name to Allegro.eu S.A. in August 2020. The company was incorporated
+  in 2017 and is based in Luxembourg, Luxembourg.
+longName: Allegro.eu S.A.
+market: pl_market
+marketCap: 60922507264
+marketState: CLOSED
+maxAge: 86400
+messageBoardId: finmb_684129716
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1961400064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 60922506082
+numberOfAnalystOpinions: 14
+open: 60.52
+operatingCashflow: 3311899904
+operatingMargins: 0.19376
+overallRisk: 3
+payoutRatio: 0.0
+pegRatio: 0.41
+prevName: Allegro.eu SA
+previousClose: 60.2
+priceEpsCurrentYear: 28.348656
+priceHint: 2
+priceToBook: 5.5789666
+priceToSalesTrailing12Months: 4.9516807
+profitMargins: 0.13859999
+quickRatio: 1.062
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.8
+region: US
+regularMarketChange: 0.70000076
+regularMarketChangePercent: 1.1627918
+regularMarketDayHigh: 61.2
+regularMarketDayLow: 60.39
+regularMarketDayRange: 60.39 - 61.2
+regularMarketOpen: 60.52
+regularMarketPreviousClose: 60.2
+regularMarketPrice: 60.9
+regularMarketTime: 1794326564
+regularMarketVolume: 6637004
+returnOnAssets: 0.0728
+returnOnEquity: 0.17900999
+revenueGrowth: 0.16
+revenuePerShare: 12.055
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 1000369558
+shortName: ALLEGRO.EU SA
+sourceInterval: 15
+symbol: ALE.WA
+targetHighPrice: 67.5
+targetLowPrice: 41.0
+targetMeanPrice: 53.38571
+targetMedianPrice: 55.0
+totalCash: 3253100032
+totalCashPerShare: 3.252
+totalDebt: 5820899840
+totalRevenue: 12303399936
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 1.94
+trailingPE: 31.391752
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 39.034225
+twoHundredDayAverageChange: 21.865776
+twoHundredDayAverageChangePercent: 0.56016934
+typeDisp: Equity
+volume: 6637004
+website: https://www.allegro.eu
+zip: '2453'

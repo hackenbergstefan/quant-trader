@@ -1,0 +1,270 @@
+52WeekChange: 0.24204564
+SandP52WeekChange: 0.097798586
+address1: 12061 Bluemont Way
+allTimeHigh: 324.63
+allTimeLow: 3.92
+ask: 309.04
+askSize: 2
+auditRisk: 4
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 1201410
+averageDailyVolume3Month: 872340
+averageVolume: 872340
+averageVolume10days: 1201410
+beta: 0.67
+bid: 305.67
+bidSize: 1
+boardRisk: 6
+bookValue: -25.442
+city: Reston
+companyOfficers:
+- age: 70
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. D. James Bidzos
+  title: Executive Chairman, CEO & President
+  totalPay: 2536745
+  unexercisedValue: 0
+  yearBorn: 1955
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John D. Calys
+  title: Executive VP & CFO
+  totalPay: 1219941
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas C. Indelicarto J.D.
+  title: Executive VP, General Counsel & Secretary
+  totalPay: 1211492
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Danny R. McPherson
+  title: Executive VP of Technology & Chief Security Officer
+  totalPay: 1223242
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Burt  Kaliski Jr.
+  title: Senior VP & CTO
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Atchley CFA
+  title: VP,  Treasury & Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ebrahim  Keshavarz
+  title: Senior Vice President of Marketing, Product & Channel Management
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ellen  Petrocci
+  title: Senior VP of Human Resources & Chief Human Resources Officer
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 843439
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick S. Kane
+  title: Senior Vice President of Naming & Registry Services
+  totalPay: 565492
+  unexercisedValue: 182285
+  yearBorn: 1962
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott T. Schnell
+  title: Senior VP & Executive Strategic Advisor
+  unexercisedValue: 0
+  yearBorn: 1958
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: VRSN announced a cash dividend of $0.81 with an ex-date of Nov. 17, 2026
+  meta:
+    amount: '0.81'
+    dateEpochMs: 1794891600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 315.38
+currentRatio: 0.415
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 316.0097
+dayLow: 310.9
+displayName: VeriSign
+dividendDate: 1795478400
+dividendRate: 3.24
+dividendYield: 1.04
+earningsCallTimestampEnd: 1792701000
+earningsCallTimestampStart: 1792701000
+earningsGrowth: 0.035
+earningsQuarterlyGrowth: -0.001
+earningsTimestamp: 1792699200
+earningsTimestampEnd: 1792699200
+earningsTimestampStart: 1792699200
+ebitda: 1205200000
+ebitdaMargins: 0.69592005
+enterpriseToEbitda: 24.247
+enterpriseToRevenue: 16.874
+enterpriseValue: 29222715392
+epsCurrentYear: 9.53
+epsForward: 10.96282
+epsTrailingTwelveMonths: 9.29
+esgPopulated: false
+exDividendDate: 1794873600
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 298.8522
+fiftyDayAverageChange: 16.527802
+fiftyDayAverageChangePercent: 0.055304267
+fiftyTwoWeekChangePercent: 24.204563
+fiftyTwoWeekHigh: 324.63
+fiftyTwoWeekHighChange: -9.25
+fiftyTwoWeekHighChangePercent: -0.028493978
+fiftyTwoWeekLow: 208.86
+fiftyTwoWeekLowChange: 106.520004
+fiftyTwoWeekLowChangePercent: 0.5100067
+fiftyTwoWeekRange: 208.86 - 324.63
+financialCurrency: USD
+firstTradeDateMilliseconds: 886170600000
+floatShares: 84322485
+forwardEps: 10.96282
+forwardPE: 28.768147
+freeCashflow: 800412480
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 926
+fulldayChange: 4.2650146
+fulldayChangePercent: 1.3708805
+fulldayPrice: 315.38
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.88567
+grossProfits: 1533799936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.10623
+heldPercentInstitutions: 0.92178
+impliedSharesOutstanding: 89700000
+industry: Software - Infrastructure
+industryDisp: Software - Infrastructure
+industryKey: software-infrastructure
+irWebsite: https://investor.verisign.com/index.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787097600
+lastDividendValue: 0.81
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 944524800
+lastSplitFactor: '2:1'
+longBusinessSummary: VeriSign, Inc., together with its subsidiaries, provides internet
+  infrastructure and domain name registry services that enable internet navigation
+  for various recognized domain names worldwide. The company provides root zone maintainer
+  services operating two of thirteen internet root servers; and registration services
+  and authoritative resolution for the .com and .net domains, which support global
+  e-commerce. It also operates directory for .name and .cc; and back-end systems for
+  .edu domain names. The company was incorporated in 1995 and is headquartered in
+  Reston, Virginia.
+longName: VeriSign, Inc.
+market: us_market
+marketCap: 28289587200
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_36216
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 849800000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 27907015500
+numberOfAnalystOpinions: 5
+open: 311.61
+operatingCashflow: 1061900032
+operatingMargins: 0.68061996
+overallRisk: 2
+payoutRatio: 0.3445
+pegRatio: 2.18
+phone: 703 948 3200
+previousClose: 311.115
+priceEpsCurrentYear: 33.09339
+priceHint: 2
+priceToBook: -12.396038
+priceToSalesTrailing12Months: 16.335365
+profitMargins: 0.4907
+quickRatio: 0.368
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: 4.2650146
+regularMarketChangePercent: 1.3708805
+regularMarketDayHigh: 316.0097
+regularMarketDayLow: 310.9
+regularMarketDayRange: 310.9 - 316.0097
+regularMarketOpen: 311.61
+regularMarketPreviousClose: 311.115
+regularMarketPrice: 315.38
+regularMarketTime: 1794413741
+regularMarketVolume: 172610
+returnOnAssets: 0.54899
+revenueGrowth: 0.057
+revenuePerShare: 18.994
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 89700000
+sharesPercentSharesOut: 0.024300002
+sharesShort: 2179000
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1978336
+shortName: VeriSign, Inc.
+shortPercentOfFloat: 0.024400001
+shortRatio: 2.17
+sourceInterval: 15
+state: VA
+symbol: VRSN
+targetHighPrice: 380.0
+targetLowPrice: 290.0
+targetMeanPrice: 339.6
+targetMedianPrice: 345.0
+totalCash: 476100000
+totalCashPerShare: 5.308
+totalDebt: 1791800064
+totalRevenue: 1731800064
+tradeable: false
+trailingAnnualDividendRate: 3.2
+trailingAnnualDividendYield: 0.010285586
+trailingEps: 9.29
+trailingPE: 33.948334
+trailingPegRatio: 2.1781
+triggerable: true
+twoHundredDayAverage: 273.7577
+twoHundredDayAverageChange: 41.622314
+twoHundredDayAverageChangePercent: 0.15204072
+typeDisp: Equity
+volume: 172610
+website: https://www.verisign.com
+zip: '20190'

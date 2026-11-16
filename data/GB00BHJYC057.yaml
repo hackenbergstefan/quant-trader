@@ -1,0 +1,248 @@
+52WeekChange: 0.33413553
+SandP52WeekChange: 0.097798586
+address1: 1 Windsor Dials
+address2: Arthur Road
+allTimeHigh: 182.25
+allTimeLow: 6.252217
+ask: 180.25
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 416640
+averageDailyVolume3Month: 365877
+averageVolume: 365877
+averageVolume10days: 416640
+beta: 0.96
+bid: 180.15
+bidSize: 0
+boardRisk: 2
+bookValue: -19.853
+city: Windsor
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Elie Wajih Maalouf
+  title: CEO & Executive Director
+  totalPay: 4658503
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Glover
+  title: CFO & Executive Director
+  totalPay: 2500697
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jolie  Fleming
+  title: Executive VP and Chief Product & Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stuart  Ford
+  title: Senior VP & Head of Investor Relations
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nicolette  Henfrey
+  title: Executive VP, General Counsel & Company Secretary
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Torres
+  title: Chief Communications Officer & VP of Corporate Communications - Americas
+    Region
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Heather  Balsley
+  title: Chief Commercial & Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Leanne  Harwood
+  title: Senior Vice President of Global Sales
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tejas  Katre
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Moloney
+  title: Chief Operating Officer of South West Asia
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: USD
+currentPrice: 180.25
+currentRatio: 0.664
+customPriceAlertConfidence: LOW
+dayHigh: 181.7
+dayLow: 179.65
+dividendRate: 1.89
+dividendYield: 1.06
+earningsCallTimestampEnd: 1786437000
+earningsCallTimestampStart: 1786437000
+earningsGrowth: -0.054
+earningsQuarterlyGrowth: -0.094
+earningsTimestampEnd: 1786462200
+earningsTimestampStart: 1786462200
+ebitda: 1286000000
+ebitdaMargins: 0.24132
+enterpriseToEbitda: 23.774
+enterpriseToRevenue: 5.737
+enterpriseValue: 30574000128
+epsCurrentYear: 5.81179
+epsForward: 6.48014
+epsTrailingTwelveMonths: 4.71
+esgPopulated: false
+exDividendDate: 1787184000
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 162.008
+fiftyDayAverageChange: 18.242004
+fiftyDayAverageChangePercent: 0.11259941
+fiftyTwoWeekChangePercent: 33.41355
+fiftyTwoWeekHigh: 182.25
+fiftyTwoWeekHighChange: -2.0
+fiftyTwoWeekHighChangePercent: -0.010973937
+fiftyTwoWeekLow: 125.05
+fiftyTwoWeekLowChange: 55.199997
+fiftyTwoWeekLowChangePercent: 0.4414234
+fiftyTwoWeekRange: 125.05 - 182.25
+financialCurrency: USD
+firstTradeDateMilliseconds: 1049094000000
+fiveYearAvgDividendYield: 1.42
+floatShares: 139687500
+forwardEps: 6.48014
+forwardPE: 27.815756
+freeCashflow: 913875008
+fullExchangeName: LSE
+fullTimeEmployees: 13049
+fulldayChange: 1.25
+fulldayChangePercent: 0.698324
+fulldayPrice: 180.25
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.60968
+grossProfits: 3248999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.06106
+heldPercentInstitutions: 0.56961
+impliedSharesOutstanding: 145547251
+industry: Lodging
+industryDisp: Lodging
+industryKey: lodging
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787184000
+lastDividendValue: 0.476
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1547424000
+lastSplitFactor: '19:20'
+longBusinessSummary: InterContinental Hotels Group PLC owns, manages, franchises,
+  and leases hotels in the United Kingdom, the United States, and internationally.
+  It operates hotels under the Six Senses, Regent, InterContinental Hotels & Resorts,
+  Vignette Collection, Kimpton Hotel, Hotel Indigo, voco, Ruby, HUALUXE, Crowne Plaza,
+  Iberostar Beachfront Resorts, EVEN Hotels, Holiday Inn Express, Holiday Inn, Garner,
+  avid hotels, Atwell Suites, Staybridge Suites, IHG, Holiday Inn Club Vacations,
+  and Candlewood Suites brand names. The company also provides IHG Rewards loyalty
+  program. InterContinental Hotels Group PLC was formerly known as Six Continents
+  PLC and changed its name to InterContinental Hotels Group PLC in June 2003. The
+  company was founded in 1777 and is headquartered in Windsor, United Kingdom.
+longName: InterContinental Hotels Group PLC
+market: gb_market
+marketCap: 26234892288
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_322193
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 714000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 26052957929
+numberOfAnalystOpinions: 17
+open: 180.2
+operatingCashflow: 941000000
+operatingMargins: 0.23663001
+overallRisk: 5
+payoutRatio: 0.38869998
+pegRatio: 1.45
+phone: 44 1753 972 000
+previousClose: 179.0
+priceEpsCurrentYear: 31.014542
+priceHint: 2
+priceToBook: -9.079232
+priceToSalesTrailing12Months: 4.9230423
+profitMargins: 0.13397999
+quickRatio: 0.661
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.47059
+region: US
+regularMarketChange: 1.25
+regularMarketChangePercent: 0.698324
+regularMarketDayHigh: 181.7
+regularMarketDayLow: 179.65
+regularMarketDayRange: 179.65 - 181.7
+regularMarketOpen: 180.2
+regularMarketPreviousClose: 179.0
+regularMarketPrice: 180.25
+regularMarketTime: 1794411559
+regularMarketVolume: 181441
+returnOnAssets: 0.15505
+revenueGrowth: 0.056
+revenuePerShare: 35.233
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 145547251
+shortName: INTERCONTINENTAL HOTELS GROUP P
+sourceInterval: 15
+symbol: IHG.L
+targetHighPrice: 195.4
+targetLowPrice: 125.0
+targetMeanPrice: 167.9647
+targetMedianPrice: 177.0
+totalCash: 831000000
+totalCashPerShare: 5.54
+totalDebt: 4551000064
+totalRevenue: 5328999936
+tradeable: false
+trailingAnnualDividendRate: 1.904
+trailingAnnualDividendYield: 0.010636872
+trailingEps: 4.71
+trailingPE: 38.269638
+trailingPegRatio: 1.4469
+triggerable: false
+twoHundredDayAverage: 153.41725
+twoHundredDayAverageChange: 26.832748
+twoHundredDayAverageChangePercent: 0.17490046
+typeDisp: Equity
+volume: 181441
+website: https://www.ihgplc.com
+zip: SL4 1RS

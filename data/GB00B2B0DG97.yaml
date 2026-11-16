@@ -1,0 +1,260 @@
+52WeekChange: -0.052295923
+SandP52WeekChange: 0.097798586
+address1: 1-3 Strand
+allTimeHigh: 4205.0
+allTimeLow: 146.1113
+ask: 2998.0
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 3368351
+averageDailyVolume3Month: 4044585
+averageVolume: 4044585
+averageVolume10days: 3368351
+beta: 0.27
+bid: 2996.0
+bidSize: 0
+boardRisk: 3
+bookValue: 0.708
+city: London
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Erik  Engstrom M.Sc Econ, M.Sc Eng., MBA
+  title: CEO & Executive Director
+  totalPay: 4045000
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nicholas Lawrence Luff
+  title: CFO & Executive Director
+  totalPay: 2498000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Bianca Elisabeth Maria Tetteroo
+  title: Workforce Engagement Director & Independent Non-Executive Director
+  totalPay: 127000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul Daniel Alexander Sullivan
+  title: Head of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Henry Adam Udow IV, J.D.
+  title: Chief Legal Officer & Company Secretary
+  unexercisedValue: 0
+  yearBorn: 1957
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul  Abrahams
+  title: Head of Corporate Communications
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rosemary  Thomson
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Marcia  Balisciano
+  title: Chief Sustainability Officer & Global Head of Corporate Responsibility
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Walsh
+  title: Chief Executive Officer of Legal & Risk
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vijay  Raghavan
+  title: Chief Technology Officer of Risk
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 2996.656
+currentRatio: 0.449
+customPriceAlertConfidence: LOW
+dayHigh: 3013.0
+dayLow: 2939.0
+debtToEquity: 709.641
+dividendRate: 0.69
+dividendYield: 2.32
+earningsCallTimestampEnd: 1784791800
+earningsCallTimestampStart: 1784791800
+earningsGrowth: 0.243
+earningsQuarterlyGrowth: 0.202
+earningsTimestampEnd: 1784820600
+earningsTimestampStart: 1784820600
+ebitda: 3292000000
+ebitdaMargins: 0.33868
+enterpriseToEbitda: 18.441
+enterpriseToRevenue: 6.246
+enterpriseValue: 60707057664
+epsCurrentYear: 1.41624
+epsForward: 1.57352
+epsTrailingTwelveMonths: 1.25
+esgPopulated: false
+exDividendDate: 1785974400
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 2721.34
+fiftyDayAverageChange: 275.31592
+fiftyDayAverageChangePercent: 0.10116924
+fiftyTwoWeekChangePercent: -5.2295923
+fiftyTwoWeekHigh: 3448.5
+fiftyTwoWeekHighChange: -451.844
+fiftyTwoWeekHighChangePercent: -0.13102624
+fiftyTwoWeekLow: 1991.0
+fiftyTwoWeekLowChange: 1005.656
+fiftyTwoWeekLowChangePercent: 0.50510097
+fiftyTwoWeekRange: 1991.0 - 3448.5
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 1.97
+floatShares: 1735486636
+forwardEps: 1.57352
+forwardPE: 19.044283
+freeCashflow: 2232375040
+fullExchangeName: LSE
+fullTimeEmployees: 37000
+fulldayChange: 24.656006
+fulldayChangePercent: 0.8296099
+fulldayPrice: 2996.656
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.6642
+grossProfits: 6456000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0055400003
+heldPercentInstitutions: 0.60902
+impliedSharesOutstanding: 1734691514
+industry: Specialty Business Services
+industryDisp: Specialty Business Services
+industryKey: specialty-business-services
+irWebsite: http://www.reedelsevier.com/InvestorCentre/Pages/Home.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1785974400
+lastDividendValue: 0.209
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1199664000
+lastSplitFactor: 58:67
+longBusinessSummary: 'RELX PLC, together with its subsidiaries, provides information-based
+  analytics and decision tools for professional and business customers in North America,
+  Europe, and internationally. It operates through four segments: Risk; Scientific,
+  Technical & Medical; Legal; and Exhibitions. The Risk segment offers information-based
+  analytics and decision tools that combine public and industry specific content with
+  technology and algorithms to assist clients in evaluating and predicting risk, as
+  well as a portfolio of commercial healthcare products. Its Scientific, Technical
+  & Medical segment provides scientific and medical information and data sets for
+  science and healthcare. The Legal segment provides legal, regulatory, and business
+  information and analytics. Its Exhibitions segment combines digital tools and data
+  to help customers connect in-person and online, discover new markets, source products,
+  generate leads, and transact. The company was formerly known as Reed Elsevier PLC
+  and changed its name to RELX PLC in July 2015. RELX PLC was incorporated in 1903
+  and is headquartered in London, the United Kingdom.'
+longName: RELX PLC
+market: gb_market
+marketCap: 51982737408
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_380521
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 2262000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 51555031796
+numberOfAnalystOpinions: 17
+open: 2952.0
+operatingCashflow: 2880999936
+operatingMargins: 0.31708
+overallRisk: 2
+payoutRatio: 0.5409
+pegRatio: 1.34
+phone: 44 20 7166 5500
+previousClose: 2972.0
+priceEpsCurrentYear: 2115.9238
+priceHint: 2
+priceToBook: 42.32565
+priceToSalesTrailing12Months: 5.348018
+profitMargins: 0.23271999
+quickRatio: 0.394
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.52941
+region: US
+regularMarketChange: 24.656006
+regularMarketChangePercent: 0.8296099
+regularMarketDayHigh: 3013.0
+regularMarketDayLow: 2939.0
+regularMarketDayRange: 2939.0 - 3013.0
+regularMarketOpen: 2952.0
+regularMarketPreviousClose: 2972.0
+regularMarketPrice: 2996.656
+regularMarketTime: 1794411532
+regularMarketVolume: 4233270
+returnOnAssets: 0.13123
+returnOnEquity: 1.31864
+revenueGrowth: 0.027
+revenuePerShare: 5.385
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 1734691514
+shortName: RELX PLC ORD 14 51/116P
+sourceInterval: 15
+symbol: REL.L
+targetHighPrice: 5070.0
+targetLowPrice: 2200.0
+targetMeanPrice: 3509.118
+targetMedianPrice: 3400.0
+totalCash: 220000000
+totalCashPerShare: 0.126
+totalDebt: 8906000384
+totalRevenue: 9720000512
+tradeable: false
+trailingAnnualDividendRate: 0.689
+trailingAnnualDividendYield: 0.00023183042
+trailingEps: 1.25
+trailingPE: 23.973248
+trailingPegRatio: 1.3377
+triggerable: false
+twoHundredDayAverage: 2555.44
+twoHundredDayAverageChange: 441.21606
+twoHundredDayAverageChangePercent: 0.17265758
+typeDisp: Equity
+volume: 4233270
+website: https://www.relx.com
+zip: WC2N 5JR

@@ -1,0 +1,261 @@
+52WeekChange: 0.17230773
+SandP52WeekChange: 0.097798586
+address1: 30, rue Madeleine Vionnet
+allTimeHigh: 63.876354
+allTimeLow: 7.112692
+auditRisk: 2
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1667261
+averageDailyVolume3Month: 1614873
+averageVolume: 1614873
+averageVolume10days: 1667261
+beta: 0.986
+boardRisk: 4
+bookValue: 9.744
+city: Aubervilliers
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Estelle K. Brachlianoff
+  title: CEO & Director
+  totalPay: 2436259
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stuart  Stock
+  title: Vice-President of Digital Business & Technology
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Selma  Bekhechi
+  title: Vice-President of Investor Relations and Financial Communication
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric  Haza
+  title: Chief Legal Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Fabrice  Gardon
+  title: Chief Compliance & Security officer
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Laurent  Obadia
+  title: Deputy CEO of Stakeholders, Communication & Africa Middle East Zone
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Isabelle  Quainon
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Helman le Pas de Sécheval Ph.D.
+  title: General Counsel & Overseeing Italy BU
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 70
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Régis  Calmels
+  title: Senior Executive Vice President of Asia
+  unexercisedValue: 0
+  yearBorn: 1955
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philippe  Guitard
+  title: Chief Executive Officer of Central & Eastern Europe Zone
+  unexercisedValue: 0
+  yearBorn: 1960
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 34.24
+currentRatio: 0.818
+customPriceAlertConfidence: LOW
+dayHigh: 34.56
+dayLow: 34.19
+debtToEquity: 250.259
+dividendRate: 1.5
+dividendYield: 4.37
+earningsCallTimestampEnd: 1785425400
+earningsCallTimestampStart: 1785425400
+earningsGrowth: 0.056
+earningsQuarterlyGrowth: 0.038
+earningsTimestampEnd: 1785425400
+earningsTimestampStart: 1785425400
+ebitda: 5768999936
+ebitdaMargins: 0.12952
+enterpriseToEbitda: 9.011
+enterpriseToRevenue: 1.167
+enterpriseValue: 51984900096
+epsCurrentYear: 2.37076
+epsForward: 2.63846
+epsTrailingTwelveMonths: 1.72
+esgPopulated: false
+exDividendDate: 1778457600
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 31.9566
+fiftyDayAverageChange: 2.2834015
+fiftyDayAverageChangePercent: 0.071453206
+fiftyTwoWeekChangePercent: 17.230774
+fiftyTwoWeekHigh: 37.66
+fiftyTwoWeekHighChange: -3.4199982
+fiftyTwoWeekHighChangePercent: -0.09081248
+fiftyTwoWeekLow: 27.85
+fiftyTwoWeekLowChange: 6.3900013
+fiftyTwoWeekLowChangePercent: 0.22944349
+fiftyTwoWeekRange: 27.85 - 37.66
+financialCurrency: EUR
+firstTradeDateMilliseconds: 964076400000
+fiveYearAvgDividendYield: 3.82
+floatShares: 565492288
+forwardEps: 2.63846
+forwardPE: 12.977268
+freeCashflow: 2206125056
+fullExchangeName: Paris
+fullTimeEmployees: 203100
+fulldayChange: -0.049999237
+fulldayChangePercent: -0.14581288
+fulldayPrice: 34.24
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.17864001
+grossProfits: 7957000192
+hasPrePostMarketData: false
+heldPercentInsiders: 0.083620004
+heldPercentInstitutions: 0.64075994
+impliedSharesOutstanding: 731998150
+industry: Waste Management
+industryDisp: Waste Management
+industryKey: waste-management
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778457600
+lastDividendValue: 1.5
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Veolia Environnement SA designs and provides water, waste, and
+  energy management solutions. It operates through France and Hazardous Waste Europe;
+  Europe; Americas, Asia Pacific, Africa Middle-East; Water Technologies; and Other
+  segments. The company is involved in resource management; production, treatment,
+  distribution, and delivery of drinking and industrial process water; customer relationship
+  management; collection, treatment, and recycling of wastewater; provision of organic
+  matter, salts, metals, complex molecules, and energy; design and construction of
+  water treatment and network infrastructure; and sale of water treatment equipment,
+  technologies, and facilities. It also provides waste collection, product and waste
+  material recovery, and waste-to-energy processing, including sale of recycled products;
+  material recovery of organic waste; dismantling and remediation; hazardous waste
+  processing and treatment; urban cleaning; and industrial maintenance and cleaning
+  services. In addition, the company engages in the operation and maintenance of heating
+  and cooling networks; optimization of industrial utilities, such as steam generation,
+  cooling, electricity, and compressed air; installation and maintenance of production
+  equipment; development of energy services to reduce energy consumption and CO2 emissions
+  of buildings; integrated services for building management; production of electricity
+  from renewable and alternative energy sources, including geothermy, biomass, co-generation,
+  and wastewater plants, etc.; and provision of Hubgrade, a management platform for
+  building and infrastructure energy efficiency monitoring, as well as thermal and
+  multi-technical services. It serves industrial and service sector companies, public
+  authorities, and individuals. The company was formerly known as Vivendi Environnement
+  and changed its name to Veolia Environnement SA in January 2003. Veolia Environnement
+  SA was founded in 1853 and is headquartered in Aubervilliers, France.
+longName: Veolia Environnement SA
+market: fr_market
+marketCap: 25063618560
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_895251
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1254000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 25261256156
+numberOfAnalystOpinions: 18
+open: 34.46
+operatingCashflow: 5184999936
+operatingMargins: 0.07874
+overallRisk: 2
+payoutRatio: 0.8721
+pegRatio: 1.05
+phone: 33 1 85 57 70 00
+prevName: Veolia Environnement S.A.
+previousClose: 34.29
+priceEpsCurrentYear: 14.442627
+priceHint: 2
+priceToBook: 3.5139573
+priceToSalesTrailing12Months: 0.5627089
+profitMargins: 0.027880002
+quickRatio: 0.75
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.83333
+region: US
+regularMarketChange: -0.049999237
+regularMarketChangePercent: -0.14581288
+regularMarketDayHigh: 34.56
+regularMarketDayLow: 34.19
+regularMarketDayRange: 34.19 - 34.56
+regularMarketOpen: 34.46
+regularMarketPreviousClose: 34.29
+regularMarketPrice: 34.24
+regularMarketTime: 1794411547
+regularMarketVolume: 416772
+returnOnAssets: 0.03053
+returnOnEquity: 0.13434
+revenueGrowth: 0.007
+revenuePerShare: 64.618
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 731998150
+shortName: VEOLIA ENVIRON.
+sourceInterval: 15
+symbol: VIE.PA
+targetHighPrice: 45.3
+targetLowPrice: 30.0
+targetMeanPrice: 38.09444
+targetMedianPrice: 37.95
+totalCash: 9509000192
+totalCashPerShare: 12.996
+totalDebt: 33780000768
+totalRevenue: 44541001728
+tradeable: false
+trailingAnnualDividendRate: 1.5
+trailingAnnualDividendYield: 0.04374453
+trailingEps: 1.72
+trailingPE: 19.906977
+trailingPegRatio: 1.0469
+triggerable: false
+twoHundredDayAverage: 33.94215
+twoHundredDayAverageChange: 0.29785156
+twoHundredDayAverageChangePercent: 0.008775271
+typeDisp: Equity
+volume: 416772
+website: https://www.veolia.com
+zip: '93300'

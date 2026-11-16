@@ -1,0 +1,280 @@
+52WeekChange: 0.1266911
+SandP52WeekChange: 0.097798586
+address1: 358 Hall Avenue
+address2: PO Box 5030
+allTimeHigh: 89.93
+allTimeLow: 0.040039
+ask: 82.67
+askSize: 100
+auditRisk: 6
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 18198020
+averageDailyVolume3Month: 12729675
+averageVolume: 12729675
+averageVolume10days: 18198020
+beta: 1.279
+bid: 82.61
+bidSize: 100
+boardRisk: 8
+bookValue: 6.937
+city: Wallingford
+companyOfficers:
+- age: 55
+  exercisedValue: 85334320
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Craig A. Lampo CPA
+  title: Executive VP & CFO
+  totalPay: 2327924
+  unexercisedValue: 218374432
+  yearBorn: 1970
+- age: 66
+  exercisedValue: 78473376
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Luc  Walter
+  title: President of Harsh Environment Solutions Division
+  totalPay: 2258680
+  unexercisedValue: 14723112
+  yearBorn: 1959
+- age: 66
+  exercisedValue: 60368144
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William J. Doherty
+  title: President of Communications Solutions Division
+  totalPay: 2086809
+  unexercisedValue: 34096764
+  yearBorn: 1959
+- age: 57
+  exercisedValue: 23451120
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter J. Straub
+  title: President of the Interconnect & Sensor Systems Division
+  totalPay: 1599986
+  unexercisedValue: 35042932
+  yearBorn: 1968
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael R. Ivas
+  title: Senior VP & Corporate Controller
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sherri Ann Scribner
+  title: Vice President of Strategy & Investor Relations
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 4586250
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lance E. D'Amico J.D.
+  title: Executive VP, General Counsel & Secretary
+  totalPay: 670665
+  unexercisedValue: 26096992
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ben J. Reed
+  title: Vice President of Corporate Development
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David M. Silverman
+  title: Executive Vice President of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie B. Hoben
+  title: Vice President of Environmental, Health, Safety & Sustainability
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 82.31
+currentRatio: 1.941
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 83.82
+dayLow: 81.725
+debtToEquity: 103.47
+displayName: Amphenol
+dividendDate: 1799798400
+dividendRate: 0.6
+dividendYield: 0.75
+earningsCallTimestampEnd: 1801072800
+earningsCallTimestampStart: 1801072800
+earningsGrowth: 0.612
+earningsQuarterlyGrowth: 0.633
+earningsTimestamp: 1801056600
+earningsTimestampEnd: 1801056600
+earningsTimestampStart: 1801056600
+ebitda: 10917799936
+ebitdaMargins: 0.33036998
+enterpriseToEbitda: 19.247
+enterpriseToRevenue: 6.359
+enterpriseValue: 210134728704
+epsCurrentYear: 2.83502
+epsForward: 3.62465
+epsTrailingTwelveMonths: 2.31
+esgPopulated: false
+exDividendDate: 1797897600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 81.3052
+fiftyDayAverageChange: 1.0047989
+fiftyDayAverageChangePercent: 0.01235836
+fiftyTwoWeekChangePercent: 12.66911
+fiftyTwoWeekHigh: 89.93
+fiftyTwoWeekHighChange: -7.6200027
+fiftyTwoWeekHighChangePercent: -0.0847326
+fiftyTwoWeekLow: 59.005
+fiftyTwoWeekLowChange: 23.304996
+fiftyTwoWeekLowChangePercent: 0.39496645
+fiftyTwoWeekRange: 59.005 - 89.93
+financialCurrency: USD
+firstTradeDateMilliseconds: 689610600000
+fiveYearAvgDividendYield: 0.76
+floatShares: 2453383839
+forwardEps: 3.62465
+forwardPE: 22.708399
+freeCashflow: 4296674816
+fullExchangeName: NYSE
+fullTimeEmployees: 170000
+fulldayChange: 2.3600006
+fulldayChangePercent: 2.951846
+fulldayPrice: 82.31
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.39209
+grossProfits: 12957500416
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0052300002
+heldPercentInstitutions: 0.95879
+impliedSharesOutstanding: 2469261188
+industry: Electronic Components
+industryDisp: Electronic Components
+industryKey: electronic-components
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790035200
+lastDividendValue: 0.125
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1788393600
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Amphenol Corporation, together with its subsidiaries, designs,
+  manufactures, and markets electrical, electronic, and fiber optic connectors in
+  the United States, China, and internationally. It operates through three segments:
+  Communications Solutions, Harsh Environment Solutions, and Interconnect and Sensor
+  Systems. The company offers connectors and connector systems, including high speed,
+  radio frequency, power, fiber optic and other interconnect products; busbars and
+  power distribution systems; power interconnect products; and other products. It
+  also provides value-add products, such as backplane interconnect systems, cable
+  assemblies and harnesses, and cable management products; and other products comprising
+  flexible and rigid printed circuit boards, hinges, other mechanical, and production
+  related products. In addition, the company offers consumer device, network infrastructure,
+  and other antennas; coaxial, power, and specialty cables; and sensors and sensor-based
+  products. It sells its products through its sales force, independent representatives,
+  and a network of electronics distributors to original equipment manufacturers, electronic
+  manufacturing services companies, original design manufacturers, and service providers
+  in the automotive, commercial aerospace, communications networks, defense, industrial,
+  information technology and data communications, mobile devices markets. Additionally,
+  the company provides telecommunication and IT networking solutions. The company
+  was founded in 1932 and is headquartered in Wallingford, Connecticut.'
+longName: Amphenol Corporation
+market: us_market
+marketCap: 203244896256
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_24827
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 5932000256
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 197417431980
+numberOfAnalystOpinions: 19
+open: 83.99
+operatingCashflow: 6479399936
+operatingMargins: 0.28728
+overallRisk: 6
+payoutRatio: 0.2174
+pegRatio: 0.74
+phone: 203 265 8900
+previousClose: 79.95
+priceEpsCurrentYear: 29.033304
+priceHint: 2
+priceToBook: 11.865359
+priceToSalesTrailing12Months: 6.1501956
+profitMargins: 0.17950001
+quickRatio: 1.303
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.42105
+region: US
+regularMarketChange: 2.3600006
+regularMarketChangePercent: 2.951846
+regularMarketDayHigh: 83.82
+regularMarketDayLow: 81.725
+regularMarketDayRange: 81.725 - 83.82
+regularMarketOpen: 83.99
+regularMarketPreviousClose: 79.95
+regularMarketPrice: 82.31
+regularMarketTime: 1794413727
+regularMarketVolume: 2697500
+returnOnAssets: 0.16001
+returnOnEquity: 0.40078
+revenueGrowth: 0.651
+revenuePerShare: 13.437
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 2
+sharesOutstanding: 2469261188
+sharesPercentSharesOut: 0.0113
+sharesShort: 27926321
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 30631574
+shortName: Amphenol Corporation
+shortPercentOfFloat: 0.0128
+shortRatio: 2.25
+sourceInterval: 15
+state: CT
+symbol: APH
+targetHighPrice: 130.0
+targetLowPrice: 85.0
+targetMeanPrice: 106.97368
+targetMedianPrice: 107.0
+totalCash: 5301400064
+totalCashPerShare: 2.147
+totalDebt: 17870800896
+totalRevenue: 33046900736
+tradeable: false
+trailingAnnualDividendRate: 0.5
+trailingAnnualDividendYield: 0.006253909
+trailingEps: 2.31
+trailingPE: 35.632034
+trailingPegRatio: 0.7357
+triggerable: true
+twoHundredDayAverage: 75.48765
+twoHundredDayAverageChange: 6.8223495
+twoHundredDayAverageChangePercent: 0.09037703
+typeDisp: Equity
+volume: 2697453
+website: https://www.amphenol.com
+zip: 06492

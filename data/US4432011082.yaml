@@ -1,0 +1,232 @@
+52WeekChange: 0.06817186
+SandP52WeekChange: 0.097798586
+address1: 201 Isabella Street
+address2: Suite 200
+allTimeHigh: 310.0
+allTimeLow: 8.726994
+ask: 224.5
+askSize: 200
+auditRisk: 7
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 4767410
+averageDailyVolume3Month: 3576073
+averageVolume: 3576073
+averageVolume10days: 4767410
+beta: 1.295
+bid: 224.43
+bidSize: 400
+boardRisk: 5
+bookValue: 14.49
+city: Pittsburgh
+companyOfficers:
+- age: 71
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John C. Plant FCA
+  title: Executive Chairman & CEO
+  totalPay: 8447500
+  unexercisedValue: 0
+  yearBorn: 1954
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick Joseph Winterlich
+  title: Executive VP & CFO
+  totalPay: 1126749
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Neil E. Marchuk
+  title: Executive VP & Chief Administrative Officer
+  totalPay: 2284824
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Niem Chanatry
+  title: VP & Chief Commercial Officer
+  totalPay: 1528348
+  unexercisedValue: 5691869
+  yearBorn: 1960
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 224.295
+currentRatio: 1.859
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 224.5397
+dayLow: 219.12
+debtToEquity: 80.198
+displayName: Howmet Aerospace
+dividendDate: 1795564800
+dividendRate: 0.56
+dividendYield: 0.26
+earningsCallTimestampEnd: 1793282400
+earningsCallTimestampStart: 1793282400
+earningsGrowth: 0.495
+earningsQuarterlyGrowth: 0.473
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 3056999936
+ebitdaMargins: 0.31415
+enterpriseToEbitda: 29.84
+enterpriseToRevenue: 9.374
+enterpriseValue: 91221532672
+epsCurrentYear: 5.50233
+epsForward: 6.6468
+epsTrailingTwelveMonths: 5.1
+esgPopulated: false
+exDividendDate: 1793923200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 221.9534
+fiftyDayAverageChange: 2.3415985
+fiftyDayAverageChangePercent: 0.010549956
+fiftyTwoWeekChangePercent: 6.817186
+fiftyTwoWeekHigh: 310.0
+fiftyTwoWeekHighChange: -85.705
+fiftyTwoWeekHighChangePercent: -0.27646774
+fiftyTwoWeekLow: 183.52
+fiftyTwoWeekLowChange: 40.774994
+fiftyTwoWeekLowChangePercent: 0.22218283
+fiftyTwoWeekRange: 183.52 - 310.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 1478007000000
+fiveYearAvgDividendYield: 0.22
+floatShares: 394077569
+forwardEps: 6.6468
+forwardPE: 33.74481
+freeCashflow: 1291250048
+fullExchangeName: NYSE
+fullTimeEmployees: 25430
+fulldayChange: 5.244995
+fulldayChangePercent: 2.3944283
+fulldayPrice: 224.295
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.36625
+grossProfits: 3564000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00885
+heldPercentInstitutions: 0.93357
+impliedSharesOutstanding: 397660490
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793923200
+lastDividendValue: 0.14
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Howmet Aerospace Inc. provides advanced engineered solutions
+  for the aerospace and transportation industries in the United States, Japan, France,
+  Germany, the United Kingdom, Mexico, Italy, Canada, Poland, China, and internationally.
+  It operates through four segments: Engine Products, Fastening Systems, Engineered
+  Structures, and Forged Wheels. The Engine Products segment offers airfoils and seamless
+  rolled rings primarily for aircraft engines and industrial gas turbines; and rotating
+  and structural parts. The Fastening Systems segment produces aerospace fastening
+  systems, as well as commercial transportation, industrial, and other fasteners;
+  and latches, bearings, fluid fittings, and installation tools. The Engineered Structures
+  segment provides titanium ingots and mill products, aluminum and nickel forgings,
+  and machined components and assemblies for aerospace and defense applications; and
+  titanium forgings, extrusions, and forming and machining services for airframe,
+  wing, aero-engine, and landing gear components. The Forged Wheels segment offers
+  forged aluminum wheels and related products for heavy-duty trucks and commercial
+  transportation markets. The company was formerly known as Arconic Inc. Howmet Aerospace
+  Inc. was founded in 1888 and is based in Pittsburgh, Pennsylvania.'
+longName: Howmet Aerospace Inc.
+market: us_market
+marketCap: 89193259008
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_416264458
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2052999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 87107530334
+numberOfAnalystOpinions: 21
+open: 221.85
+operatingCashflow: 2399000064
+operatingMargins: 0.28085
+overallRisk: 9
+payoutRatio: 0.098000005
+pegRatio: 0.8
+phone: 412 553 1950
+previousClose: 219.05
+priceEpsCurrentYear: 40.76364
+priceHint: 2
+priceToBook: 15.479296
+priceToSalesTrailing12Months: 9.165888
+profitMargins: 0.21098
+quickRatio: 0.733
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.36364
+region: US
+regularMarketChange: 5.244995
+regularMarketChangePercent: 2.3944283
+regularMarketDayHigh: 224.5397
+regularMarketDayLow: 219.12
+regularMarketDayRange: 219.12 - 224.5397
+regularMarketOpen: 221.85
+regularMarketPreviousClose: 219.05
+regularMarketPrice: 224.295
+regularMarketTime: 1794413724
+regularMarketVolume: 775944
+returnOnAssets: 0.13968
+returnOnEquity: 0.37652
+revenueGrowth: 0.294
+revenuePerShare: 24.267
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 4
+sharesOutstanding: 397660490
+sharesPercentSharesOut: 0.026500002
+sharesShort: 10519196
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 10155412
+shortName: Howmet Aerospace Inc.
+shortPercentOfFloat: 0.026700001
+shortRatio: 2.87
+sourceInterval: 15
+state: PA
+symbol: HWM
+targetHighPrice: 375.0
+targetLowPrice: 230.0
+targetMeanPrice: 296.2857
+targetMedianPrice: 298.0
+totalCash: 507000000
+totalCashPerShare: 1.275
+totalDebt: 4621000192
+totalRevenue: 9731000320
+tradeable: false
+trailingAnnualDividendRate: 0.5
+trailingAnnualDividendYield: 0.0022825839
+trailingEps: 5.1
+trailingPE: 43.979412
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 248.44305
+twoHundredDayAverageChange: -24.148056
+twoHundredDayAverageChangePercent: -0.09719755
+typeDisp: Equity
+volume: 775944
+website: https://www.howmet.com
+zip: 15212-5872

@@ -1,0 +1,280 @@
+52WeekChange: 0.35468876
+SandP52WeekChange: 0.097798586
+address1: 7000 Cardinal Place
+allTimeHigh: 286.29
+allTimeLow: 1.1033
+ask: 275.68
+askSize: 100
+auditRisk: 5
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 1877490
+averageDailyVolume3Month: 1751831
+averageVolume: 1751831
+averageVolume10days: 1877490
+beta: 0.521
+bid: 275.37
+bidSize: 300
+boardRisk: 1
+bookValue: -13.039
+city: Dublin
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jason M. Hollar
+  title: CEO & Director
+  totalPay: 6314431
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Aaron E. Alt J.D.
+  title: Chief Financial Officer
+  totalPay: 2541174
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Jessica L. Mayer
+  title: Chief Legal & Compliance Officer
+  totalPay: 1977361
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Stephen M. Mason
+  title: Chief Executive Officer of GMPD segment
+  totalPay: 1888886
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Deborah L. Weitzman
+  title: Chief Executive Officer of Pharmaceutical & Specialty Solutions Segment
+  totalPay: 2055214
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. David  Frost
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Valerie Christine Pitteroff
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Craig  Cowman
+  title: President of Biopharma Solutions & Strategic Sourcing
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Ben  Brinker
+  title: President of Global Operations & Supply Chain
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Rob  Schlissberg
+  title: President of Cardinal Health at-Home Solutions
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 275.325
+currentRatio: 0.885
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 277.445
+dayLow: 275.1
+displayName: Cardinal Health
+dividendDate: 1792022400
+dividendRate: 2.06
+dividendYield: 0.75
+earningsCallTimestampEnd: 1793885400
+earningsCallTimestampStart: 1793885400
+earningsGrowth: 0.266
+earningsQuarterlyGrowth: 0.231
+earningsTimestamp: 1793885400
+earningsTimestampEnd: 1801747800
+earningsTimestampStart: 1801747800
+ebitda: 4387999744
+ebitdaMargins: 0.01702
+enterpriseToEbitda: 15.425
+enterpriseToRevenue: 0.263
+enterpriseValue: 67686313984
+epsCurrentYear: 12.99698
+epsForward: 14.33414
+epsTrailingTwelveMonths: 7.73
+esgPopulated: false
+exDividendDate: 1790812800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 242.1214
+fiftyDayAverageChange: 33.203613
+fiftyDayAverageChangePercent: 0.13713622
+fiftyTwoWeekChangePercent: 35.468876
+fiftyTwoWeekHigh: 286.29
+fiftyTwoWeekHighChange: -10.964996
+fiftyTwoWeekHighChangePercent: -0.03830031
+fiftyTwoWeekLow: 180.45
+fiftyTwoWeekLowChange: 94.875015
+fiftyTwoWeekLowChangePercent: 0.525769
+fiftyTwoWeekRange: 180.45 - 286.29
+financialCurrency: USD
+firstTradeDateMilliseconds: 428851800000
+fiveYearAvgDividendYield: 1.65
+floatShares: 230695184
+forwardEps: 14.33414
+forwardPE: 19.207642
+freeCashflow: 5021125120
+fullExchangeName: NYSE
+fullTimeEmployees: 58788
+fulldayChange: -1.4649963
+fulldayChangePercent: -0.5292808
+fulldayPrice: 275.325
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.03899
+grossProfits: 10051000320
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00287
+heldPercentInstitutions: 0.91733
+impliedSharesOutstanding: 231136655
+industry: Medical Distribution
+industryDisp: Medical Distribution
+industryKey: medical-distribution
+irWebsite: http://ir.cardinalhealth.com/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1790812800
+lastDividendValue: 0.516
+lastFiscalYearEnd: 1782777600
+lastSplitDate: 987984000
+lastSplitFactor: '3:2'
+longBusinessSummary: 'Cardinal Health, Inc. operates as a healthcare services and
+  products company in the United States and internationally. It operates in two segments:
+  Pharmaceutical and Specialty Solutions, and Global Medical Products and Distribution.
+  The company offers customized solutions for hospitals, healthcare systems, pharmacies,
+  ambulatory surgery centers, clinical laboratories, physician offices, and patients
+  in the home. It distributes branded and generic pharmaceutical, specialty pharmaceutical,
+  and over-the-counter healthcare and consumer products. The company also provides
+  services to pharmaceutical manufacturers and healthcare providers for specialty
+  pharmaceutical products; pharmacy management services to hospitals; operates pharmacies,
+  including pharmacies in community health centers; and repackages generic pharmaceuticals
+  and over-the-counter healthcare products. In addition, it manufactures, sources,
+  and distributes Cardinal Health branded medical, surgical, and laboratory products
+  and devices that include exam and surgical gloves; needles, syringe, and sharps
+  disposals; compression, incontinence, nutritional delivery, and wound care products;
+  single-use surgical drapes, gowns, and apparel products; fluid suction and collection
+  systems; urology products; operating room supply products; and electrode product
+  lines. Further, the company distributes a range of national brand products, including
+  medical, surgical, and laboratory products; provides supply chain services and solutions
+  to hospitals, ambulatory surgery centers, clinical laboratories, and other healthcare
+  providers; and assembles and sells sterile and non-sterile procedure kits. Additionally,
+  it manufactures, prepares, and delivers radiopharmaceuticals; and optimizes direct
+  shipments through integrated technology solutions. The company was incorporated
+  in 1979 and is headquartered in Dublin, Ohio.'
+longName: Cardinal Health, Inc.
+market: us_market
+marketCap: 63637700608
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_172207
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1818000000
+nextFiscalYearEnd: 1814313600
+nonDilutedMarketCap: 63976314737
+numberOfAnalystOpinions: 15
+open: 275.45
+operatingCashflow: 5599000064
+operatingMargins: 0.013259999
+overallRisk: 1
+payoutRatio: 0.2656
+pegRatio: 1.37
+phone: 614 757 5000
+previousClose: 276.79
+priceEpsCurrentYear: 21.18377
+priceHint: 2
+priceToBook: -21.115501
+priceToSalesTrailing12Months: 0.24689507
+profitMargins: 0.0070499997
+quickRatio: 0.428
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.52941
+region: US
+regularMarketChange: -1.4649963
+regularMarketChangePercent: -0.5292808
+regularMarketDayHigh: 277.445
+regularMarketDayLow: 275.1
+regularMarketDayRange: 275.1 - 277.445
+regularMarketOpen: 275.45
+regularMarketPreviousClose: 276.79
+regularMarketPrice: 275.325
+regularMarketTime: 1794413730
+regularMarketVolume: 185628
+returnOnAssets: 0.03723
+revenueGrowth: 0.055
+revenuePerShare: 1099.156
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 231136655
+sharesPercentSharesOut: 0.0327
+sharesShort: 7577324
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7369236
+shortName: Cardinal Health, Inc.
+shortPercentOfFloat: 0.0327
+shortRatio: 4.5
+sourceInterval: 15
+state: OH
+symbol: CAH
+targetHighPrice: 330.0
+targetLowPrice: 260.0
+targetMeanPrice: 293.26666
+targetMedianPrice: 290.0
+totalCash: 5264000000
+totalCashPerShare: 22.774
+totalDebt: 8814999552
+totalRevenue: 257752006656
+tradeable: false
+trailingAnnualDividendRate: 2.053
+trailingAnnualDividendYield: 0.007417175
+trailingEps: 7.73
+trailingPE: 35.617725
+trailingPegRatio: 1.3713
+triggerable: true
+twoHundredDayAverage: 224.09856
+twoHundredDayAverageChange: 51.226456
+twoHundredDayAverageChangePercent: 0.22858895
+typeDisp: Equity
+volume: 185628
+website: https://www.cardinalhealth.com
+zip: '43017'

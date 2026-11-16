@@ -1,0 +1,289 @@
+52WeekChange: -0.08698887
+SandP52WeekChange: 0.097798586
+address1: One American Road
+address2: P.O. Box 1899
+allTimeHigh: 37.300335
+allTimeLow: 0.638667
+ask: 12.22
+askSize: 15400
+auditRisk: 10
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 48598800
+averageDailyVolume3Month: 43845246
+averageVolume: 43845246
+averageVolume10days: 48598800
+beta: 1.909
+bid: 12.21
+bidSize: 29400
+boardRisk: 10
+bookValue: 9.246
+city: Dearborn
+companyOfficers:
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William Clay Ford Jr.
+  title: Executive Chairman
+  totalPay: 5567555
+  unexercisedValue: 9759983
+  yearBorn: 1957
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James Duncan Farley Jr.
+  title: President, CEO & Director
+  totalPay: 8651249
+  unexercisedValue: 10225317
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sherry  House CPA
+  title: Chief Financial Officer
+  totalPay: 2567795
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Douglas Field
+  title: Chief EV, Digital & Design Officer
+  totalPay: 1294052
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Alicia S. Boler Davis
+  title: President of Ford Pro
+  totalPay: 4267315
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 60
+  exercisedValue: 170586
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ashwani Kumar Galhotra
+  title: Chief Operating Officer
+  totalPay: 2160312
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kyle  Crockett
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria A. Ricciardone
+  title: Chief Investor Relations Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven P. Croley
+  title: Chief Policy Officer & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sarah E. Fortt
+  title: Corporate Secretary & Chief Compliance Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions:
+- header: Dividend
+  message: F announced a cash dividend of $0.15 with an ex-date of Nov. 10, 2026
+  meta:
+    amount: '0.15'
+    dateEpochMs: 1794286800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 12.21
+currentRatio: 1.083
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 12.255
+dayLow: 12.15
+debtToEquity: 447.6
+displayName: Ford Motor
+dividendDate: 1796083200
+dividendRate: 0.6
+dividendYield: 4.89
+earningsCallTimestampEnd: 1793221200
+earningsCallTimestampStart: 1793221200
+earningsGrowth: -0.167
+earningsQuarterlyGrowth: -0.163
+earningsTimestamp: 1793217600
+earningsTimestampEnd: 1793217600
+earningsTimestampStart: 1793217600
+ebitda: 7837000192
+ebitdaMargins: 0.04192
+enterpriseToEbitda: 24.17
+enterpriseToRevenue: 1.013
+enterpriseValue: 189418717184
+epsCurrentYear: 1.90493
+epsForward: 1.86656
+epsTrailingTwelveMonths: -1.98
+esgPopulated: false
+exDividendDate: 1794268800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 12.686
+fiftyDayAverageChange: -0.47599983
+fiftyDayAverageChangePercent: -0.037521664
+fiftyTwoWeekChangePercent: -8.698887
+fiftyTwoWeekHigh: 17.78
+fiftyTwoWeekHighChange: -5.5700006
+fiftyTwoWeekHighChangePercent: -0.31327337
+fiftyTwoWeekLow: 11.11
+fiftyTwoWeekLowChange: 1.1000004
+fiftyTwoWeekLowChangePercent: 0.09900994
+fiftyTwoWeekRange: 11.11 - 17.78
+financialCurrency: USD
+firstTradeDateMilliseconds: 76253400000
+fiveYearAvgDividendYield: 3.46
+floatShares: 3904847563
+forwardEps: 1.86656
+forwardPE: 6.5414453
+freeCashflow: -6194625024
+fullExchangeName: NYSE
+fullTimeEmployees: 169000
+fulldayChange: -0.069999695
+fulldayChangePercent: -0.5700301
+fulldayPrice: 12.21
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.073860005
+grossProfits: 13809999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00401
+heldPercentInstitutions: 0.68315005
+impliedSharesOutstanding: 3993217466
+industry: Auto Manufacturers
+industryDisp: Auto Manufacturers
+industryKey: auto-manufacturers
+irWebsite: http://corporate.ford.com/our-company/investors
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794268800
+lastDividendValue: 0.15
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 965260800
+lastSplitFactor: 1748175:1000000
+longBusinessSummary: Ford Motor Company develops, delivers, and services Ford trucks,
+  sport utility vehicles, commercial vans and cars, and Lincoln luxury vehicles in
+  the United States, Canada, the United Kingdom, Mexico, and internationally. It operates
+  through Ford Blue, Ford Model e, Ford Pro, and Ford Credit segments. The company
+  sells Ford and Lincoln internal combustion engine and hybrid vehicles, electric
+  vehicles, service parts, accessories, and digital services for retail customers;
+  develops EV and digital vehicle technologies, and software; and provides telematics
+  and EV charging solutions. It also sells Ford and Lincoln vehicles, service parts,
+  and accessories through distributors and dealers, as well as through dealerships
+  to commercial fleet customers, daily rental car companies, and governments. In addition,
+  it engages in vehicle-related financing and leasing activities to and through automotive
+  dealers. Further, the company provides retail installment sale contracts for new
+  and used vehicles; and direct financing leases for new vehicles to retail and commercial
+  customers, such as leasing companies, government entities, daily rental companies,
+  and fleet customers. Additionally, it offers wholesale loans to dealers to finance
+  the purchase of vehicle inventory; and loans to dealers to finance working capital
+  and enhance dealership facilities, purchase dealership real estate, and other dealer
+  vehicle programs. Ford Motor Company was incorporated in 1903 and is based in Dearborn,
+  Michigan.
+longName: Ford Motor Company
+market: us_market
+marketCap: 48757186560
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_106335
+mostRecentQuarter: 1790726400
+netIncomeToCommon: -7793999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 49036710482
+numberOfAnalystOpinions: 18
+open: 12.22
+operatingCashflow: 14972000256
+operatingMargins: 0.0093
+overallRisk: 10
+payoutRatio: 0.641
+pegRatio: 8.48
+phone: 313 322 3000
+previousClose: 12.28
+priceEpsCurrentYear: 6.409684
+priceHint: 2
+priceToBook: 1.3205711
+priceToSalesTrailing12Months: 0.26078242
+profitMargins: -0.041690003
+quickRatio: 0.891
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.35
+region: US
+regularMarketChange: -0.069999695
+regularMarketChangePercent: -0.5700301
+regularMarketDayHigh: 12.255
+regularMarketDayLow: 12.15
+regularMarketDayRange: 12.15 - 12.255
+regularMarketOpen: 12.22
+regularMarketPreviousClose: 12.28
+regularMarketPrice: 12.21
+regularMarketTime: 1794413736
+regularMarketVolume: 8189861
+returnOnAssets: 0.00366
+returnOnEquity: -0.18431999
+revenueGrowth: -0.02
+revenuePerShare: 46.882
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 10
+sharesOutstanding: 3922365390
+sharesPercentSharesOut: 0.0
+sharesShort: 29676
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 132808718
+shortName: Ford Motor Company
+shortPercentOfFloat: 0.0
+shortRatio: 0.0
+sourceInterval: 15
+state: MI
+symbol: F
+targetHighPrice: 20.0
+targetLowPrice: 12.0
+targetMeanPrice: 15.14111
+targetMedianPrice: 14.12
+totalCash: 25088000000
+totalCashPerShare: 6.283
+totalDebt: 165432999936
+totalRevenue: 186965000192
+tradeable: false
+trailingAnnualDividendRate: 0.6
+trailingAnnualDividendYield: 0.04885994
+trailingEps: -1.98
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 13.304
+twoHundredDayAverageChange: -1.0939999
+twoHundredDayAverageChangePercent: -0.082230896
+typeDisp: Equity
+volume: 8189861
+website: https://www.ford.com
+zip: 48126-1899

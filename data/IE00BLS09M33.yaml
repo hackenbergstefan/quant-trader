@@ -1,0 +1,285 @@
+52WeekChange: -0.35931176
+SandP52WeekChange: 0.097798586
+address1: Regal House
+address2: 70 London Road Twickenham
+allTimeHigh: 113.95
+allTimeLow: 0.37777
+ask: 68.54
+askSize: 200
+auditRisk: 6
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 3803850
+averageDailyVolume3Month: 3282543
+averageVolume: 3282543
+averageVolume10days: 3803850
+beta: 1.01
+bid: 68.47
+bidSize: 100
+boardRisk: 5
+bookValue: 24.176
+city: London
+companyOfficers:
+- age: 61
+  exercisedValue: 11435067
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John L. Stauch
+  title: President, CEO & Director
+  totalPay: 2968342
+  unexercisedValue: 22083362
+  yearBorn: 1964
+- age: 61
+  exercisedValue: 732740
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert P. Fishman CPA
+  title: Interim Executive VP & CFO
+  totalPay: 1612025
+  unexercisedValue: 3301701
+  yearBorn: 1964
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adrian C. Chiu
+  title: EVP, Chief Strategy, Innovation & Digital Officer
+  totalPay: 1080604
+  unexercisedValue: 2600224
+  yearBorn: 1979
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Demon L. Wiggins
+  title: Executive VP and President of Pentair Flow, Water Solutions & Pool
+  totalPay: 1282439
+  unexercisedValue: 1474880
+  yearBorn: 1975
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer M. Hensley
+  title: SVP, Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Heather M. Hausmann
+  title: Executive VP, Chief Information Officer & Chief Information Security Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Jeff  Thompson
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 36
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lance T. Bonner
+  title: Executive VP, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1989
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Rebecca  Osborn
+  title: Vice President of Communications
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tanya L. Hooper
+  title: Executive VP & Chief Human Resources Officer
+  totalPay: 941875
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: USD
+currentPrice: 68.54
+currentRatio: 1.473
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 69.5
+dayLow: 68.325
+debtToEquity: 42.466
+displayName: Pentair
+dividendDate: 1793923200
+dividendRate: 1.08
+dividendYield: 1.55
+earningsCallTimestampEnd: 1793106000
+earningsCallTimestampStart: 1793106000
+earningsGrowth: -0.188
+earningsQuarterlyGrowth: -0.213
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1793104200
+earningsTimestampStart: 1793104200
+ebitda: 971000000
+ebitdaMargins: 0.24482
+enterpriseToEbitda: 13.061
+enterpriseToRevenue: 3.197
+enterpriseValue: 12681856000
+epsCurrentYear: 4.69266
+epsForward: 5.29935
+epsTrailingTwelveMonths: 3.67
+esgPopulated: false
+exDividendDate: 1792713600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 57.7934
+fiftyDayAverageChange: 10.746601
+fiftyDayAverageChangePercent: 0.1859486
+fiftyTwoWeekChangePercent: -35.931175
+fiftyTwoWeekHigh: 109.89
+fiftyTwoWeekHighChange: -41.35
+fiftyTwoWeekHighChangePercent: -0.37628537
+fiftyTwoWeekLow: 51.13
+fiftyTwoWeekLowChange: 17.41
+fiftyTwoWeekLowChangePercent: 0.3405046
+fiftyTwoWeekRange: 51.13 - 109.89
+financialCurrency: USD
+firstTradeDateMilliseconds: 105283800000
+fiveYearAvgDividendYield: 1.22
+floatShares: 158449289
+forwardEps: 5.29935
+forwardPE: 12.933662
+freeCashflow: 519024992
+fullExchangeName: NYSE
+fullTimeEmployees: 9000
+fulldayChange: -1.0899963
+fulldayChangePercent: -1.565412
+fulldayPrice: 68.54
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.40168998
+grossProfits: 1593200000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00981
+heldPercentInstitutions: 1.00084
+impliedSharesOutstanding: 159654682
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792713600
+lastDividendValue: 0.27
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1525132800
+lastSplitFactor: 1489:1000
+longBusinessSummary: 'Pentair plc provides various water solutions in the United States,
+  Western Europe, China, Latin America, the Middle East, Southeast Asia, Australia,
+  and Canada. It operates through three segments: Flow, Water Solutions, and Pool.
+  The Flow segment designs, manufactures, and sells fluid treatment and pump products
+  and systems, including pressure vessels, gas recovery solutions, membrane bioreactors,
+  wastewater reuse systems and advanced membrane filtration, separation systems, specialty
+  insertion valves, water disposal pumps, water supply pumps, fluid transfer pumps,
+  turbine pumps, solid handling pumps, and agricultural spray nozzles. This segment
+  provides products under Pentair Flow, Aurora, Berkeley, Codeline, Fairbanks-Nijhuis,
+  Haffmans, Hydromatic, Hypro, Jung Pumpen, Myers, Sta-Rite, Shurflo, Südmo, and X-Flow
+  brand names. The Water Solutions segment offers commercial and residential water
+  treatment products and systems, such as pressure tanks, control valves, activated
+  carbon products, commercial ice machines, conventional filtration products, and
+  point-of-entry and point-of-use water treatment systems for use in water filtration
+  and water softening solutions, as well as commercial water management and filtration
+  solutions in foodservice operations; and installation and preventative services
+  for water management solutions for commercial operators under the Pentair Water
+  Solutions, Everpure, Fleck, Manitowoc Ice, Pentek, and RainSoft brands. The Pool
+  segment provides residential and commercial pool equipment and accessories, including
+  pumps, filters, heaters, lights, automatic controls and cleaners, chlorinators,
+  maintenance equipment, and pool accessories for residential and commercial pool
+  maintenance, pool repair, renovation, service, construction, and aquaculture solutions.
+  This segment offers products under the Pentair Pool, Kreepy Krauly, Pleatco, and
+  Sta-Rite brands. Pentair plc was founded in 1966 and is headquartered in London,
+  the United Kingdom.'
+longName: Pentair plc
+market: us_market
+marketCap: 10942732288
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_295688
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 596300032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 11116755507
+numberOfAnalystOpinions: 15
+open: 69.12
+operatingCashflow: 724499968
+operatingMargins: 0.21410999
+overallRisk: 6
+payoutRatio: 0.2888
+pegRatio: 1.0
+phone: 44 74 9421 6154
+previousClose: 69.63
+priceEpsCurrentYear: 14.605789
+priceHint: 2
+priceToBook: 2.835043
+priceToSalesTrailing12Months: 2.7589965
+profitMargins: 0.15435
+quickRatio: 0.683
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.05882
+region: US
+regularMarketChange: -1.0899963
+regularMarketChangePercent: -1.565412
+regularMarketDayHigh: 69.5
+regularMarketDayLow: 68.325
+regularMarketDayRange: 68.325 - 69.5
+regularMarketOpen: 69.12
+regularMarketPreviousClose: 69.63
+regularMarketPrice: 68.54
+regularMarketTime: 1794413744
+regularMarketVolume: 292442
+returnOnAssets: 0.07907
+returnOnEquity: 0.15605
+revenueGrowth: -0.045
+revenuePerShare: 24.551
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 4
+sharesOutstanding: 159654682
+sharesPercentSharesOut: 0.0477
+sharesShort: 7610240
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7462937
+shortName: Pentair plc.
+shortPercentOfFloat: 0.0547
+shortRatio: 2.27
+sourceInterval: 15
+symbol: PNR
+targetHighPrice: 94.0
+targetLowPrice: 55.0
+targetMeanPrice: 73.6
+targetMedianPrice: 74.0
+totalCash: 74000000
+totalCashPerShare: 0.464
+totalDebt: 1639100032
+totalRevenue: 3966200064
+tradeable: false
+trailingAnnualDividendRate: 1.06
+trailingAnnualDividendYield: 0.015223323
+trailingEps: 3.67
+trailingPE: 18.675749
+trailingPegRatio: 0.9917
+triggerable: true
+twoHundredDayAverage: 74.8759
+twoHundredDayAverageChange: -6.3358994
+twoHundredDayAverageChangePercent: -0.08461867
+typeDisp: Equity
+volume: 292442
+website: https://www.pentair.com
+zip: TW13 QS

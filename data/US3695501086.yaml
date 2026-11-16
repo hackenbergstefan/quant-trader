@@ -1,0 +1,282 @@
+52WeekChange: 0.05148089
+SandP52WeekChange: 0.097798586
+address1: 11011 Sunset Hills Road
+allTimeHigh: 400.0
+allTimeLow: 0.3375
+ask: 364.83
+askSize: 120
+auditRisk: 6
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 1537480
+averageDailyVolume3Month: 1208656
+averageVolume: 1208656
+averageVolume10days: 1537480
+beta: 0.296
+bid: 364.38
+bidSize: 40
+boardRisk: 4
+bookValue: 101.15
+city: Reston
+companyOfficers:
+- age: 67
+  exercisedValue: 29859444
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Phebe N. Novakovic
+  title: Chairperson & CEO
+  totalPay: 8164003
+  unexercisedValue: 71341008
+  yearBorn: 1958
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Danny  Deep
+  title: President & Director
+  totalPay: 3544278
+  unexercisedValue: 16367571
+  yearBorn: 1970
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kimberly A. Kuryea
+  title: Senior VP & CFO
+  totalPay: 3135011
+  unexercisedValue: 23134262
+  yearBorn: 1967
+- age: 65
+  exercisedValue: 9276056
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark L. Burns
+  title: Executive Vice President
+  totalPay: 2925810
+  unexercisedValue: 17188844
+  yearBorn: 1960
+- age: 53
+  exercisedValue: 3163535
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason W. Aiken CPA
+  title: Executive Vice President of Combat & Mission Systems
+  totalPay: 3580442
+  unexercisedValue: 30626016
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Nicole M. Shelton
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 65
+  exercisedValue: 2526242
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory S. Gallopoulos
+  title: Senior VP, General Counsel & Secretary
+  totalPay: 1758747
+  unexercisedValue: 5856439
+  yearBorn: 1960
+- age: 56
+  exercisedValue: 6473737
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert E. Smith
+  title: Executive Vice President of Marine Systems
+  totalPay: 2012928
+  unexercisedValue: 7842038
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shane A. Berg
+  title: Senior Vice President of External Affairs
+  unexercisedValue: 0
+  yearBorn: 1972
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 365.185
+currentRatio: 1.427
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 367.9
+dayLow: 364.48
+debtToEquity: 33.087
+displayName: General Dynamics
+dividendDate: 1794528000
+dividendRate: 6.36
+dividendYield: 1.73
+earningsCallTimestampEnd: 1793365200
+earningsCallTimestampStart: 1793365200
+earningsGrowth: 0.157
+earningsQuarterlyGrowth: 0.161
+earningsTimestamp: 1793363400
+earningsTimestampEnd: 1801056600
+earningsTimestampStart: 1801056600
+ebitda: 6819999744
+ebitdaMargins: 0.120670006
+enterpriseToEbitda: 15.218
+enterpriseToRevenue: 1.836
+enterpriseValue: 103783456768
+epsCurrentYear: 17.38867
+epsForward: 18.90315
+epsTrailingTwelveMonths: 16.99
+esgPopulated: false
+exDividendDate: 1791504000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 349.3028
+fiftyDayAverageChange: 15.882202
+fiftyDayAverageChangePercent: 0.045468293
+fiftyTwoWeekChangePercent: 5.148089
+fiftyTwoWeekHigh: 400.0
+fiftyTwoWeekHighChange: -34.815002
+fiftyTwoWeekHighChangePercent: -0.0870375
+fiftyTwoWeekLow: 306.77
+fiftyTwoWeekLowChange: 58.41501
+fiftyTwoWeekLowChangePercent: 0.19041957
+fiftyTwoWeekRange: 306.77 - 400.0
+financialCurrency: USD
+firstTradeDateMilliseconds: -252322200000
+fiveYearAvgDividendYield: 1.98
+floatShares: 254124174
+forwardEps: 18.90315
+forwardPE: 19.318737
+freeCashflow: 4552500224
+fullExchangeName: NYSE
+fullTimeEmployees: 117000
+fulldayChange: -2.255005
+fulldayChangePercent: -0.61370695
+fulldayPrice: 365.185
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.15421
+grossProfits: 8716000256
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00562
+heldPercentInstitutions: 0.875
+impliedSharesOutstanding: 270223709
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+irWebsite: http://investorrelations.gd.com/phoenix.zhtml?c=85778&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1791504000
+lastDividendValue: 1.59
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1143417600
+lastSplitFactor: '2:1'
+longBusinessSummary: 'General Dynamics Corporation operates as an aerospace and defense
+  company worldwide. It operates through four segments: Aerospace, Marine Systems,
+  Combat Systems, and Technologies. The Aerospace segment produces and sells business
+  jets; and offers aircraft maintenance and repair, management, aircraft-on-ground
+  support, customer support and custom completion services, modifications, upgrades,
+  and lifecycle sustainment support services. The Marine Systems segment designs and
+  builds nuclear-powered submarines, surface combatants, and auxiliary ships for the
+  United States Navy and Jones Act ships for commercial customers, as well as provides
+  maintenance, modernization, and lifecycle support services for navy ships; offers
+  and program management, planning, engineering, and design support services for submarine
+  construction programs. The Combat Systems segment manufactures land combat solutions,
+  such as wheeled and tracked combat vehicles, Stryker wheeled combat vehicles, piranha
+  vehicles, weapons systems, energetics and munitions, mobile bridge systems with
+  payloads, tactical vehicles, main battle tanks, and armored vehicles; and offers
+  modernization programs, support and sustainment services, and development programs.
+  The Technologies segment provides information technology solutions and mission support
+  services; mobile communication, computers, and command-and-control mission systems;
+  intelligence, surveillance, and reconnaissance solutions to military, intelligence,
+  and federal civilian customers; cloud services, cybersecurity, network modernization,
+  artificial intelligence; machine learning; application development, high-performance
+  computing, and 5G and advanced communications services; and unmanned undersea vehicle
+  manufacturing and assembly services. The company was founded in 1899 and is headquartered
+  in Reston, Virginia.'
+longName: General Dynamics Corporation
+market: us_market
+marketCap: 98681643008
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_274561
+mostRecentQuarter: 1791072000
+netIncomeToCommon: 4656999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 99290999634
+numberOfAnalystOpinions: 21
+open: 365.03
+operatingCashflow: 7294000128
+operatingMargins: 0.10386
+overallRisk: 2
+payoutRatio: 0.36900002
+pegRatio: 2.05
+phone: 703 876 3000
+previousClose: 367.44
+priceEpsCurrentYear: 21.001318
+priceHint: 2
+priceToBook: 3.610331
+priceToSalesTrailing12Months: 1.7459598
+profitMargins: 0.082399994
+quickRatio: 0.84
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.08333
+region: US
+regularMarketChange: -2.255005
+regularMarketChangePercent: -0.61370695
+regularMarketDayHigh: 367.9
+regularMarketDayLow: 364.48
+regularMarketDayRange: 364.48 - 367.9
+regularMarketOpen: 365.03
+regularMarketPreviousClose: 367.44
+regularMarketPrice: 365.185
+regularMarketTime: 1794413732
+regularMarketVolume: 154199
+returnOnAssets: 0.06229
+returnOnEquity: 0.18006
+revenueGrowth: 0.129
+revenuePerShare: 209.242
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 3
+sharesOutstanding: 270223709
+sharesPercentSharesOut: 0.0085
+sharesShort: 2302014
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2170782
+shortName: General Dynamics Corporation
+shortPercentOfFloat: 0.0095
+shortRatio: 1.78
+sourceInterval: 15
+state: VA
+symbol: GD
+targetHighPrice: 480.0
+targetLowPrice: 320.0
+targetMeanPrice: 418.58856
+targetMedianPrice: 430.0
+totalCash: 4387999744
+totalCashPerShare: 16.263
+totalDebt: 9029999616
+totalRevenue: 56519999488
+tradeable: false
+trailingAnnualDividendRate: 6.27
+trailingAnnualDividendYield: 0.01706401
+trailingEps: 16.99
+trailingPE: 21.494114
+trailingPegRatio: 2.0546
+triggerable: true
+twoHundredDayAverage: 354.86554
+twoHundredDayAverageChange: 10.319458
+twoHundredDayAverageChangePercent: 0.02907991
+typeDisp: Equity
+volume: 154199
+website: https://www.gd.com
+zip: '20190'

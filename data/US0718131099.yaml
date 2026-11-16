@@ -1,0 +1,281 @@
+52WeekChange: 0.41283417
+SandP52WeekChange: 0.097798586
+address1: One Baxter Parkway
+allTimeHigh: 95.19
+allTimeLow: 2.898344
+ask: 26.18
+askSize: 500
+auditRisk: 3
+averageAnalystRating: 2.9 - Hold
+averageDailyVolume10Day: 9462930
+averageDailyVolume3Month: 6497900
+averageVolume: 6497900
+averageVolume10days: 9462930
+beta: 0.67
+bid: 26.16
+bidSize: 400
+boardRisk: 2
+bookValue: 12.568
+city: Deerfield
+companyOfficers:
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew P. Hider
+  title: CEO, Pres., Interim Group Pres. of Medical Products & Therapies and Director
+  totalPay: 3486611
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David S. Rosenbloom
+  title: Executive VP & General Counsel
+  totalPay: 1177783
+  unexercisedValue: 0
+  yearBorn: 1960
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria  Soriano
+  title: Group President of Infusion Therapies & Platforms
+  totalPay: 1101222
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Terence Rogers
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bernie  Heine
+  title: Interim Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1986
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles  Patel
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin  Moran
+  title: Vice President & Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stacey  Eisen
+  title: SVP, Chief Communications Officer & Corporate Marketing and President of
+    Baxter Foundation
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cynthia  Carlisle
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James W. Borzi
+  title: Executive VP & Chief Supply Chain Officer
+  unexercisedValue: 0
+  yearBorn: 1963
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions:
+- header: Dividend
+  message: BAX announced a cash dividend of $0.01 with an ex-date of Nov. 27, 2026
+  meta:
+    amount: '0.01'
+    dateEpochMs: 1795755600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 26.235
+currentRatio: 1.792
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 26.45
+dayLow: 25.98
+debtToEquity: 136.015
+displayName: Baxter
+dividendDate: 1799020800
+dividendRate: 0.04
+dividendYield: 0.15
+earningsCallTimestampEnd: 1793277000
+earningsCallTimestampStart: 1793277000
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 1832999936
+ebitdaMargins: 0.15787
+enterpriseToEbitda: 11.169
+enterpriseToRevenue: 1.763
+enterpriseValue: 20473339904
+epsCurrentYear: 2.10307
+epsForward: 2.04551
+epsTrailingTwelveMonths: -1.21
+esgPopulated: false
+exDividendDate: 1795737600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 24.5178
+fiftyDayAverageChange: 1.7172012
+fiftyDayAverageChangePercent: 0.07003896
+fiftyTwoWeekChangePercent: 41.283417
+fiftyTwoWeekHigh: 30.0
+fiftyTwoWeekHighChange: -3.7649994
+fiftyTwoWeekHighChangePercent: -0.12549998
+fiftyTwoWeekLow: 15.73
+fiftyTwoWeekLowChange: 10.505001
+fiftyTwoWeekLowChangePercent: 0.66783226
+fiftyTwoWeekRange: 15.73 - 30.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 373041000000
+fiveYearAvgDividendYield: 1.44
+floatShares: 514761447
+forwardEps: 2.04551
+forwardPE: 12.825652
+freeCashflow: 1222499968
+fullExchangeName: NYSE
+fullTimeEmployees: 37500
+fulldayChange: -0.18499947
+fulldayChangePercent: -0.70022506
+fulldayPrice: 26.235
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.33374
+grossProfits: 3875000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0033500001
+heldPercentInstitutions: 1.0722799
+impliedSharesOutstanding: 517348188
+industry: Medical Instruments & Supplies
+industryDisp: Medical Instruments & Supplies
+industryKey: medical-instruments-supplies
+irWebsite: http://investor.baxter.com/phoenix.zhtml?c=86121&p=irol-stockQuoteChart
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787875200
+lastDividendValue: 0.01
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1435708800
+lastSplitFactor: 1841:1000
+longBusinessSummary: 'Baxter International Inc., through its subsidiaries, provides
+  a portfolio of healthcare products in the United States. The company operates through
+  three segments: Medical Products & Therapies, Healthcare Systems & Technologies,
+  and Pharmaceuticals. It offers sterile intravenous (IV) solutions; infusion systems
+  and devices; parenteral nutrition therapies; inhaled anesthetics; generic injectable
+  pharmaceuticals; surgical hemostat and sealant products; advanced surgical equipment;
+  smart bed systems; patient monitoring and diagnostic technologies; and respiratory
+  health devices, as well as advanced equipment for the surgical space comprising
+  operating room integration technologies, precision positioning devices, and other
+  accessories. The company also provides specialty injectable pharmaceuticals, inhaled
+  anesthetics, and drug compounding services. Its products are used in hospitals,
+  nursing homes, rehabilitation centers, ambulatory surgery centers, doctors'' offices,
+  kidney dialysis centers, and patients at home under physician supervision. The company
+  sells its products through direct sales force, independent distributors, drug wholesalers,
+  and specialty pharmacy or other alternate site providers. It operates in Eastern
+  Europe, the Middle East, Africa, Latin America, Asia, Western Europe, Canada, Japan,
+  Australia, and New Zealand. Baxter International Inc. was incorporated in 1931 and
+  is headquartered in Deerfield, Illinois.'
+longName: Baxter International Inc.
+market: us_market
+marketCap: 13572630528
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_254571
+mostRecentQuarter: 1790726400
+netIncomeToCommon: -619000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 13668339126
+numberOfAnalystOpinions: 12
+open: 26.11
+operatingCashflow: 1640000000
+operatingMargins: 0.075619996
+overallRisk: 6
+payoutRatio: 1.5467
+pegRatio: 36.68
+phone: 224 948 2000
+previousClose: 26.42
+priceEpsCurrentYear: 12.474621
+priceHint: 2
+priceToBook: 2.0874443
+priceToSalesTrailing12Months: 1.1689459
+profitMargins: -0.06227
+quickRatio: 1.003
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.86667
+region: US
+regularMarketChange: -0.18499947
+regularMarketChangePercent: -0.70022506
+regularMarketDayHigh: 26.45
+regularMarketDayLow: 25.98
+regularMarketDayRange: 25.98 - 26.45
+regularMarketOpen: 26.11
+regularMarketPreviousClose: 26.42
+regularMarketPrice: 26.235
+regularMarketTime: 1794413728
+regularMarketVolume: 737290
+returnOnAssets: 0.02711
+returnOnEquity: -0.09044
+revenueGrowth: 0.05
+revenuePerShare: 22.535
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 2
+sharesOutstanding: 517348188
+sharesPercentSharesOut: 0.0458
+sharesShort: 23674982
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 24366869
+shortName: Baxter International Inc.
+shortPercentOfFloat: 0.0722
+shortRatio: 3.45
+sourceInterval: 15
+state: IL
+symbol: BAX
+targetHighPrice: 40.0
+targetLowPrice: 23.0
+targetMeanPrice: 27.25
+targetMedianPrice: 26.0
+totalCash: 1975000064
+totalCashPerShare: 3.818
+totalDebt: 8807000064
+totalRevenue: 11610999808
+tradeable: false
+trailingAnnualDividendRate: 0.04
+trailingAnnualDividendYield: 0.0015140045
+trailingEps: -1.21
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 21.5448
+twoHundredDayAverageChange: 4.690201
+twoHundredDayAverageChangePercent: 0.21769527
+typeDisp: Equity
+volume: 737290
+website: https://www.baxter.com
+zip: '60015'

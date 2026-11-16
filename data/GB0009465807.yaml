@@ -1,0 +1,268 @@
+52WeekChange: -0.18513423
+SandP52WeekChange: 0.097798586
+address1: 1 West Regent Street
+address2: 10th Floor
+allTimeHigh: 3580.0
+allTimeLow: 106.4698
+ask: 2376.0
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 2855745
+averageDailyVolume3Month: 1319654
+averageVolume: 1319654
+averageVolume10days: 2855745
+beta: 1.101
+bid: 2372.0
+bidSize: 0
+boardRisk: 2
+bookValue: 7.771
+city: Glasgow
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian Michael Puffer
+  title: CFO & Executive Director
+  totalPay: 1109639
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathan Adam Stanton
+  title: Advisor
+  totalPay: 2164832
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew James Neilson
+  title: CEO & Director
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Garry  Fingland
+  title: Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Phil  Carlisle
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Graham  Vanhegan
+  title: Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rosemary  McGinness
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Paula  Cousins
+  title: Chief Strategy & Sustainability Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tayo  Oyinlola
+  title: Head of Internal Audit
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Chris  Palmer
+  title: Group Head of Tax
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 2372.0
+currentRatio: 2.55
+customPriceAlertConfidence: LOW
+dayHigh: 2426.0
+dayLow: 2366.0
+debtToEquity: 91.086
+dividendRate: 0.42
+dividendYield: 1.78
+earningsCallTimestampEnd: 1785308400
+earningsCallTimestampStart: 1785308400
+earningsGrowth: 0.156
+earningsQuarterlyGrowth: 0.155
+earningsTimestampEnd: 1785339000
+earningsTimestampStart: 1785339000
+ebitda: 521800000
+ebitdaMargins: 0.19774
+enterpriseToEbitda: 14.504
+enterpriseToRevenue: 2.868
+enterpriseValue: 7568039936
+epsCurrentYear: 1.30184
+epsForward: 1.43503
+epsTrailingTwelveMonths: 1.01
+esgPopulated: false
+exDividendDate: 1790812800
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 2614.32
+fiftyDayAverageChange: -242.32007
+fiftyDayAverageChangePercent: -0.09268952
+fiftyTwoWeekChangePercent: -18.513424
+fiftyTwoWeekHigh: 3580.0
+fiftyTwoWeekHighChange: -1208.0
+fiftyTwoWeekHighChangePercent: -0.33743018
+fiftyTwoWeekLow: 2254.0
+fiftyTwoWeekLowChange: 118.0
+fiftyTwoWeekLowChangePercent: 0.052351374
+fiftyTwoWeekRange: 2254.0 - 3580.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 1.47
+floatShares: 254442180
+forwardEps: 1.43503
+forwardPE: 16.529272
+freeCashflow: 124050000
+fullExchangeName: LSE
+fullTimeEmployees: 12069
+fulldayChange: 4.0
+fulldayChangePercent: 0.16891892
+fulldayPrice: 2372.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.39271998
+grossProfits: 1036300032
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00301
+heldPercentInstitutions: 0.85511
+impliedSharesOutstanding: 259612053
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790812800
+lastDividendValue: 0.2
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 741225600
+lastSplitFactor: '2:1'
+longBusinessSummary: Weir PLC, together with its subsidiaries, produces and sells
+  highly engineered original equipment worldwide. The company operates in two segments,
+  Minerals and ESCO. The Minerals segment offers engineering, manufacturing, and service
+  processing technology for the use in abrasive and high-wear mining applications;
+  and differentiated technology for the use in infrastructure and general industrial
+  markets. This segment provides cloud-based artificial intelligence solutions to
+  the mining industry. The ESCO segment provides ground engaging tools for mining
+  machines. In addition, the company offers aftermarket products, wear parts, equipment
+  attachments, and processing equipment. Further, it provides field services comprising
+  commissioning and ongoing support services; rebuild and repair services; digital
+  services; and process optimization services. The company offers its products and
+  services under the Cavex, Enduron, ESCO, GEHO, Linatex, Motion Metrics, Next, Warman,
+  Accumin, All-Cast, Arterra, Aspir, Bucyrus Blades, Carbide Plus, Delta Industrial,
+  GeoVor, HYDRAU-FLO, Infinity, Isogate, Kwik-Lok, Lewis, Linacure, Linagard, Linard,
+  Loadmaster, MaxTemp, Multiflo, Nemisys, Nexsys, Posilok, Production Master, ProFill,
+  Sandmaster, Super V, SV2, TopLock, Trio, UltraEdge, Ultrlok, Uni-Lok, Vertasys,
+  Vulco, and Whisler Plus brands. The company was formerly known as The Weir Group
+  PLC and changed its name to Weir PLC in August 2026. The Weir Group PLC was founded
+  in 1871 and is headquartered in Glasgow, United Kingdom.
+longName: Weir PLC
+market: gb_market
+marketCap: 6157998080
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874522
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 264200000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 6147613391
+numberOfAnalystOpinions: 21
+open: 2404.0
+operatingCashflow: 368800000
+operatingMargins: 0.16413
+overallRisk: 3
+payoutRatio: 0.4096
+pegRatio: 1.18
+phone: 44 14 1637 7111
+prevName: The Weir Group PLC
+previousClose: 2368.0
+priceEpsCurrentYear: 1822.0366
+priceHint: 2
+priceToBook: 3.0523744
+priceToSalesTrailing12Months: 2.3336358
+profitMargins: 0.10012
+quickRatio: 1.539
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.85714
+region: US
+regularMarketChange: 4.0
+regularMarketChangePercent: 0.16891892
+regularMarketDayHigh: 2426.0
+regularMarketDayLow: 2366.0
+regularMarketDayRange: 2366.0 - 2426.0
+regularMarketOpen: 2404.0
+regularMarketPreviousClose: 2368.0
+regularMarketPrice: 2372.0
+regularMarketTime: 1794411582
+regularMarketVolume: 272896
+returnOnAssets: 0.06104
+returnOnEquity: 0.1393
+revenueGrowth: 0.062
+revenuePerShare: 10.226
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 259612052
+shortName: WEIR PLC ORD 12.5P
+sourceInterval: 15
+symbol: WEIR.L
+targetHighPrice: 4000.0
+targetLowPrice: 2375.0
+targetMeanPrice: 3199.524
+targetMedianPrice: 3200.0
+totalCash: 386600000
+totalCashPerShare: 1.498
+totalDebt: 1835200000
+totalRevenue: 2638799872
+tradeable: false
+trailingAnnualDividendRate: 0.421
+trailingAnnualDividendYield: 0.00017778717
+trailingEps: 1.01
+trailingPE: 23.485147
+trailingPegRatio: 1.1837
+triggerable: false
+twoHundredDayAverage: 2728.534
+twoHundredDayAverageChange: -356.53394
+twoHundredDayAverageChangePercent: -0.13066868
+typeDisp: Equity
+volume: 272896
+website: https://www.global.weir
+zip: G2 1RW

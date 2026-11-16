@@ -1,0 +1,272 @@
+52WeekChange: 0.36302054
+SandP52WeekChange: 0.097798586
+address1: 3250 Van Ness Avenue
+allTimeHigh: 274.45
+allTimeLow: 0.144033
+ask: 262.05
+askSize: 200
+auditRisk: 7
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 917650
+averageDailyVolume3Month: 1106656
+averageVolume: 1106656
+averageVolume10days: 917650
+beta: 1.49
+bid: 261.33
+bidSize: 100
+boardRisk: 4
+bookValue: 18.177
+city: San Francisco
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laura J. Alber
+  title: President, CEO & Director
+  totalPay: 14297625
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey E. Howie
+  title: Executive VP & CFO
+  totalPay: 4331267
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Randolph King J.D.
+  title: Executive VP, General Counsel & Secretary
+  totalPay: 2678931
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karalyn  Yearout
+  title: Executive VP & Chief Talent Officer
+  totalPay: 2913010
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeremy  Brooks
+  title: Senior VP, Chief Accounting Officer & Head of IR
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian  Yee
+  title: Senior VP of Corporate Finance & Treasurer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sameer  Hassan
+  title: Chief Technology & Digital Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Abby  Teisch
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Vicki D. McWilliams
+  title: President of Stores & Customer Care
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Felix J. Carbullido
+  title: Executive VP & President of Williams Sonoma Brand
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 261.89
+currentRatio: 1.447
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 264.85
+dayLow: 261.11
+debtToEquity: 71.369
+displayName: Williams-Sonoma
+dividendDate: 1795132800
+dividendRate: 3.04
+dividendYield: 1.16
+earningsCallTimestampEnd: 1747922400
+earningsCallTimestampStart: 1747922400
+earningsGrowth: 0.42
+earningsQuarterlyGrowth: 0.366
+earningsTimestamp: 1787747400
+earningsTimestampEnd: 1795008600
+earningsTimestampStart: 1795008600
+ebitda: 1659699968
+ebitdaMargins: 0.20733
+enterpriseToEbitda: 18.861
+enterpriseToRevenue: 3.91
+enterpriseValue: 31304153088
+epsCurrentYear: 9.51364
+epsForward: 10.50698
+epsTrailingTwelveMonths: 9.75
+esgPopulated: false
+exDividendDate: 1792108800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 239.8468
+fiftyDayAverageChange: 22.043213
+fiftyDayAverageChangePercent: 0.091905385
+fiftyTwoWeekChangePercent: 36.302055
+fiftyTwoWeekHigh: 274.45
+fiftyTwoWeekHighChange: -12.559998
+fiftyTwoWeekHighChangePercent: -0.045764245
+fiftyTwoWeekLow: 165.51
+fiftyTwoWeekLowChange: 96.38002
+fiftyTwoWeekLowChangePercent: 0.58232147
+fiftyTwoWeekRange: 165.51 - 274.45
+financialCurrency: USD
+firstTradeDateMilliseconds: 426432600000
+fiveYearAvgDividendYield: 1.57
+floatShares: 116268066
+forwardEps: 10.50698
+forwardPE: 24.925337
+freeCashflow: 1069320128
+fullExchangeName: NYSE
+fullTimeEmployees: 19800
+fulldayChange: 0.34002686
+fulldayChangePercent: 0.13000454
+fulldayPrice: 261.89
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.45692003
+grossProfits: 3657692928
+hasPrePostMarketData: true
+heldPercentInsiders: 0.010880001
+heldPercentInstitutions: 0.98649
+impliedSharesOutstanding: 117768000
+industry: Specialty Retail
+industryDisp: Specialty Retail
+industryKey: specialty-retail
+irWebsite: http://www.williams-sonomainc.com/investors/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1792108800
+lastDividendValue: 0.76
+lastFiscalYearEnd: 1769904000
+lastSplitDate: 1720483200
+lastSplitFactor: '2:1'
+longBusinessSummary: Williams-Sonoma, Inc. operates as an omni-channel specialty retailer
+  of various products for home the United States and internationally. The company
+  provides cooking, dining, and entertaining products, such as cookware, tools, electrics,
+  cutlery, tabletop and bar, outdoor, furniture, and a library of cookbooks. It offers
+  home furnishings, home decor products and accessories, bedding, lighting, rugs,
+  table essentials, kids accessories, made-to-order lighting, hardware, personalized
+  products, custom gifts, and vintage-inspired heirloom products. It offers its products
+  under the Williams Sonoma, Pottery Barn, Pottery Barn Kids, Pottery Barn Teen, West
+  Elm, Williams Sonoma Home, Rejuvenation, Mark and Graham, and GreenRow brand names.
+  The company markets its products through e-commerce websites, direct-mail catalogs,
+  and retail stores. Williams-Sonoma, Inc. was founded in 1956 and is headquartered
+  in San Francisco, California.
+longName: Williams-Sonoma, Inc.
+market: us_market
+marketCap: 30842263552
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_314400
+mostRecentQuarter: 1785628800
+netIncomeToCommon: 1179083008
+nextFiscalYearEnd: 1801440000
+nonDilutedMarketCap: 30805142698
+numberOfAnalystOpinions: 20
+open: 261.54
+operatingCashflow: 1609073024
+operatingMargins: 0.17848
+overallRisk: 5
+payoutRatio: 0.2913
+pegRatio: 2.61
+phone: 415 421 7900
+previousClose: 261.55
+priceEpsCurrentYear: 27.527845
+priceHint: 2
+priceToBook: 14.407769
+priceToSalesTrailing12Months: 3.8528
+profitMargins: 0.14729
+quickRatio: 0.619
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.21739
+region: US
+regularMarketChange: 0.34002686
+regularMarketChangePercent: 0.13000454
+regularMarketDayHigh: 264.85
+regularMarketDayLow: 261.11
+regularMarketDayRange: 261.11 - 264.85
+regularMarketOpen: 261.54
+regularMarketPreviousClose: 261.55
+regularMarketPrice: 261.89
+regularMarketTime: 1794413753
+regularMarketVolume: 145241
+returnOnAssets: 0.16636999
+returnOnEquity: 0.54960996
+revenueGrowth: 0.067
+revenuePerShare: 67.171
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 3
+sharesOutstanding: 117768000
+sharesPercentSharesOut: 0.0504
+sharesShort: 5932233
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5464410
+shortName: Williams-Sonoma, Inc.
+shortPercentOfFloat: 0.051
+shortRatio: 5.31
+sourceInterval: 15
+state: CA
+symbol: WSM
+targetHighPrice: 300.0
+targetLowPrice: 151.0
+targetMeanPrice: 250.55
+targetMedianPrice: 257.0
+totalCash: 1028936000
+totalCashPerShare: 8.736
+totalDebt: 1527945984
+totalRevenue: 8005155840
+tradeable: false
+trailingAnnualDividendRate: 2.84
+trailingAnnualDividendYield: 0.010858345
+trailingEps: 9.75
+trailingPE: 26.860514
+trailingPegRatio: 2.6127
+triggerable: true
+twoHundredDayAverage: 216.2195
+twoHundredDayAverageChange: 45.670517
+twoHundredDayAverageChangePercent: 0.21122293
+typeDisp: Equity
+volume: 145241
+website: https://www.williams-sonomainc.com
+zip: '94109'

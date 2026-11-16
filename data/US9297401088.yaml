@@ -1,0 +1,297 @@
+52WeekChange: 0.4476031
+SandP52WeekChange: 0.097798586
+address1: 30 Isabella Street
+allTimeHigh: 306.64
+allTimeLow: 3.90625
+ask: 304.63
+askSize: 40
+auditRisk: 3
+averageDailyVolume10Day: 980250
+averageDailyVolume3Month: 903551
+averageVolume: 903551
+averageVolume10days: 980250
+beta: 0.929
+bid: 304.5
+bidSize: 160
+boardRisk: 7
+bookValue: 67.458
+city: Pittsburgh
+companyOfficers:
+- age: 53
+  exercisedValue: 7737347
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rafael Ottoni Santana
+  title: Chairman & CEO
+  totalPay: 6154439
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John A. Olin CPA
+  title: Executive VP & CFO
+  totalPay: 2406765
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric  Gebhardt
+  title: Executive VP & Chief Technology Officer
+  totalPay: 2133034
+  unexercisedValue: 433086
+  yearBorn: 1968
+- age: 69
+  exercisedValue: 290939
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David L. DeNinno
+  title: Executive VP, General Counsel & Secretary
+  totalPay: 2128675
+  unexercisedValue: 3137697
+  yearBorn: 1956
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pascal  Schweitzer
+  title: President of Transit
+  totalPay: 2344918
+  unexercisedValue: 1030637
+  yearBorn: 1977
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Greg A. Sbrocco
+  title: Executive Vice President of Global Operations
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John A. Mastalerz Jr.
+  title: Senior VP of Finance & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Rick  Smith
+  title: Chief Information Officer
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nicole B. Theophilus
+  title: Executive VP & Chief Administrative Officer
+  totalPay: 1637568
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kyra  Yates
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1979
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions:
+- header: Dividend
+  message: WAB announced a cash dividend of $0.31 with an ex-date of Nov. 17, 2026
+  meta:
+    amount: '0.31'
+    dateEpochMs: 1794891600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 304.68
+currentRatio: 1.1
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 307.96
+dayLow: 301.68
+debtToEquity: 59.609
+displayName: Westinghouse Air Brake
+dividendDate: 1796083200
+dividendRate: 1.24
+dividendYield: 0.41
+earningsCallTimestampEnd: 1792585800
+earningsCallTimestampStart: 1792585800
+earningsGrowth: 0.337
+earningsQuarterlyGrowth: 0.319
+earningsTimestamp: 1792585800
+earningsTimestampEnd: 1792585800
+earningsTimestampStart: 1792585800
+ebitda: 2766000128
+ebitdaMargins: 0.22646
+enterpriseToEbitda: 20.699
+enterpriseToRevenue: 4.688
+enterpriseValue: 57253347328
+epsCurrentYear: 10.98019
+epsForward: 12.5806
+epsTrailingTwelveMonths: 8.05
+esgPopulated: false
+exDividendDate: 1794873600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 412 825 1019
+fiftyDayAverage: 284.9522
+fiftyDayAverageChange: 19.727783
+fiftyDayAverageChangePercent: 0.0692319
+fiftyTwoWeekChangePercent: 44.76031
+fiftyTwoWeekHigh: 307.96
+fiftyTwoWeekHighChange: -3.2799988
+fiftyTwoWeekHighChangePercent: -0.01065073
+fiftyTwoWeekLow: 194.93
+fiftyTwoWeekLowChange: 109.75
+fiftyTwoWeekLowChangePercent: 0.5630227
+fiftyTwoWeekRange: 194.93 - 307.96
+financialCurrency: USD
+firstTradeDateMilliseconds: 803309400000
+fiveYearAvgDividendYield: 0.49
+floatShares: 166490169
+forwardEps: 12.5806
+forwardPE: 24.21824
+freeCashflow: 1239250048
+fullExchangeName: NYSE
+fullTimeEmployees: 31000
+fulldayChange: 1.1900024
+fulldayChangePercent: 0.392106
+fulldayPrice: 304.68
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.36172
+grossProfits: 4417999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0072399997
+heldPercentInstitutions: 0.96653
+impliedSharesOutstanding: 167802384
+industry: Railroads
+industryDisp: Railroads
+industryKey: railroads
+irWebsite: http://www.wabtec.com/investor/default.asp
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787011200
+lastDividendValue: 0.31
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1370995200
+lastSplitFactor: '2:1'
+longBusinessSummary: Westinghouse Air Brake Technologies Corporation provides locomotives,
+  equipment, systems, and services for the freight rail and passenger transit industries
+  worldwide. It operates in two segments, Freight and Transit. It offers diesel-electric
+  and liquid natural gas-powered locomotives; engines, electric motors, and propulsion
+  systems; and marine and mining products. The company also offers positive train
+  control equipment; electronically controlled pneumatic braking products; railway
+  electronics; signal design and engineering services; distributed locomotive power,
+  and train cruise and remote controls; industrial/mobile Internet of Things hardware
+  and software, edge-to-cloud, on and off-board analytics and rules, and asset performance
+  management solutions; rail and shipper transportation management, and port visibility
+  and optimization solutions; and network optimization solutions. In addition, it
+  provides freight car trucks, braking equipment, and related components; air compressors
+  and dryers, as well as heating, ventilation, and air conditioning (HVAC) systems;
+  heat transfer components and systems; custom engineered burners and combustion systems;
+  rail gear, signaling, and switch products; and turbochargers. Further, it offers
+  freight locomotive overhauls, modernizations, and refurbishment; locomotive and
+  car maintenance; transit locomotive and car overhaul; unit exchange of locomotive
+  components; long-term parts arrangements; and way equipment maintenance services.
+  Additionally, it provides railway and freight braking equipment and related components;
+  brake shoes, discs, and pads; HVAC equipment; access and platform screen doors;
+  pantographs; power converters and battery chargers; passenger information systems
+  and closed-circuit television; signaling and railway electric relays; and doors,
+  window assemblies, accessibility lifts, ramps, and electric charging solutions for
+  buses. The company was founded in 1869 and is headquartered in Pittsburgh, Pennsylvania.
+longName: Westinghouse Air Brake Technologies Corporation
+market: us_market
+marketCap: 51126030336
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_36437
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1366000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 50926345520
+numberOfAnalystOpinions: 12
+open: 306.77
+operatingCashflow: 2087000064
+operatingMargins: 0.18381001
+overallRisk: 6
+payoutRatio: 0.1466
+pegRatio: 1.37
+phone: 412 825 1000
+prevName: Wabtec Corporation
+previousClose: 303.49
+priceEpsCurrentYear: 27.748152
+priceHint: 2
+priceToBook: 4.516588
+priceToSalesTrailing12Months: 4.185855
+profitMargins: 0.111999996
+quickRatio: 0.499
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 1.1900024
+regularMarketChangePercent: 0.392106
+regularMarketDayHigh: 307.96
+regularMarketDayLow: 301.68
+regularMarketDayRange: 301.68 - 307.96
+regularMarketOpen: 306.77
+regularMarketPreviousClose: 303.49
+regularMarketPrice: 304.68
+regularMarketTime: 1794413685
+regularMarketVolume: 293370
+returnOnAssets: 0.06282
+returnOnEquity: 0.12236
+revenueGrowth: 0.081
+revenuePerShare: 72.08
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 5
+sharesOutstanding: 167802384
+sharesPercentSharesOut: 0.0224
+sharesShort: 3754718
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3538216
+shortName: Westinghouse Air Brake Technolo
+shortPercentOfFloat: 0.029000001
+shortRatio: 3.73
+sourceInterval: 15
+state: PA
+symbol: WAB
+targetHighPrice: 355.0
+targetLowPrice: 292.0
+targetMeanPrice: 332.83334
+targetMedianPrice: 337.0
+totalCash: 478000000
+totalCashPerShare: 2.849
+totalDebt: 6774000128
+totalRevenue: 12213999616
+tradeable: false
+trailingAnnualDividendRate: 1.18
+trailingAnnualDividendYield: 0.0038881018
+trailingEps: 8.05
+trailingPE: 37.848446
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 270.08264
+twoHundredDayAverageChange: 34.59735
+twoHundredDayAverageChangePercent: 0.12809913
+typeDisp: Equity
+volume: 293370
+website: https://www.wabteccorp.com
+zip: '15212'

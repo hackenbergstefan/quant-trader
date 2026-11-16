@@ -1,0 +1,255 @@
+52WeekChange: -0.07306433
+SandP52WeekChange: 0.097798586
+address1: Bändliweg 20
+allTimeHigh: 124.0
+allTimeLow: 47.5
+ask: 85.35
+askSize: 0
+auditRisk: 9
+averageAnalystRating: 3.7 - Underperform
+averageDailyVolume10Day: 122933
+averageDailyVolume3Month: 82018
+averageVolume: 82018
+averageVolume10days: 122933
+beta: 0.197
+bid: 85.25
+bidSize: 0
+boardRisk: 1
+bookValue: 43.523
+city: Zurich
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Holger  Laubenthal
+  title: CEO & Member of Management Board
+  totalPay: 1340705
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Christoph  Glaser
+  title: CFO, Chief Risk Officer & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Peter  Schnellmann
+  title: Chief Sales Officer, Business Unit Leader of Lending & Member of the Management
+    Board
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Alona  Eiduka
+  title: COO & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Eric  Anliker
+  title: General Counsel, Chief Compliance Officer & Member of the Management Board
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Sandra  Babylon
+  title: CTO & Member of the Management Board
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Bernardo  de Barros Franco
+  title: Chief Product Officer, Chief Customer & Growth Officer and Member of the
+    Management Board
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Annekathrin  Krugel-Falkenberg
+  title: Head Human Resources & Member of Management Board
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Andreas  Schindler
+  title: Chief Auditor
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Edina  Jung
+  title: Senior Legal Counsel & Corporate Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1735603200
+compensationRisk: 1
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 85.25
+customPriceAlertConfidence: LOW
+dayHigh: 85.65
+dayLow: 84.8
+dividendDate: 1745971200
+dividendRate: 4.6
+dividendYield: 5.41
+earningsCallTimestampEnd: 1784788200
+earningsCallTimestampStart: 1784788200
+earningsGrowth: 0.057
+earningsQuarterlyGrowth: 0.058
+earningsTimestampEnd: 1771518600
+earningsTimestampStart: 1771518600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 10.185
+enterpriseValue: 4722866176
+epsCurrentYear: 6.29062
+epsForward: 6.82891
+epsTrailingTwelveMonths: 6.28
+esgPopulated: false
+exDividendDate: 1777334400
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 87.151
+fiftyDayAverageChange: -1.901001
+fiftyDayAverageChangePercent: -0.021812728
+fiftyTwoWeekChangePercent: -7.3064327
+fiftyTwoWeekHigh: 105.5
+fiftyTwoWeekHighChange: -20.25
+fiftyTwoWeekHighChangePercent: -0.19194312
+fiftyTwoWeekLow: 81.25
+fiftyTwoWeekLowChange: 4.0
+fiftyTwoWeekLowChangePercent: 0.04923077
+fiftyTwoWeekRange: 81.25 - 105.5
+financialCurrency: CHF
+firstTradeDateMilliseconds: 1383120000000
+fiveYearAvgDividendYield: 5.11
+floatShares: 29231400
+forwardEps: 6.82891
+forwardPE: 12.483691
+fullExchangeName: Swiss
+fullTimeEmployees: 744
+fulldayChange: 0.25
+fulldayChangePercent: 0.29411766
+fulldayPrice: 85.25
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 463703008
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00044
+heldPercentInstitutions: 0.54068
+impliedSharesOutstanding: 29874182
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777334400
+lastDividendValue: 5.6
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Cembra Money Bank AG provides consumer finance products and services
+  in Switzerland. The company offers savings and deposit products; cash and personal
+  loans, and auto loans and leasing products; credit card and invoice financing receivables;
+  leasing services for new and used vehicles, including cars, light commercial vehicles,
+  motorcycles, and caravans, as well as corporate leasing services; and investment
+  securities comprising debt securities. It also provides financial protection products
+  for involuntary unemployment, accident, illness, or disability; travel, cyber, and
+  card protection insurance products; car insurance products; investment products;
+  and credit cards, mobile payment, and online banking services. The company serves
+  private and self-employed individuals, and small enterprises. It operates through
+  a network of branches and online distribution channels; and credit card partners,
+  independent intermediaries, and car dealers. The company was formerly known as GE
+  Money Bank Aktiengesellschaft and changed its name to Cembra Money Bank AG in October
+  2013. Cembra Money Bank AG was founded in 1912 and is headquartered in Zurich, Switzerland.
+longName: Cembra Money Bank AG
+market: ch_market
+marketCap: 2546774016
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_248461886
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 184636000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 2539305470
+numberOfAnalystOpinions: 3
+open: 85.05
+operatingCashflow: 274393984
+operatingMargins: 0.49495
+overallRisk: 2
+payoutRatio: 0.7325
+phone: 41 44 439 8111
+previousClose: 85.0
+priceEpsCurrentYear: 13.551924
+priceHint: 2
+priceToBook: 1.9587345
+priceToSalesTrailing12Months: 5.4922523
+profitMargins: 0.39818
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: underperform
+recommendationMean: 3.66667
+region: US
+regularMarketChange: 0.25
+regularMarketChangePercent: 0.29411766
+regularMarketDayHigh: 85.65
+regularMarketDayLow: 84.8
+regularMarketDayRange: 84.8 - 85.65
+regularMarketOpen: 85.05
+regularMarketPreviousClose: 85.0
+regularMarketPrice: 85.25
+regularMarketTime: 1794411542
+regularMarketVolume: 31602
+returnOnAssets: 0.02355
+returnOnEquity: 0.14651
+revenueGrowth: -0.021
+revenuePerShare: 15.829
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 29874182
+shortName: CEMBRA MONEY BANK N
+sourceInterval: 15
+symbol: CMBN.SW
+targetHighPrice: 99.0
+targetLowPrice: 78.0
+targetMeanPrice: 90.66667
+targetMedianPrice: 95.0
+totalCash: 494911008
+totalCashPerShare: 16.907
+totalDebt: 2729625088
+totalRevenue: 463703008
+tradeable: false
+trailingAnnualDividendRate: 4.6
+trailingAnnualDividendYield: 0.054117646
+trailingEps: 6.28
+trailingPE: 13.574841
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 93.011
+twoHundredDayAverageChange: -7.7610016
+twoHundredDayAverageChangePercent: -0.08344176
+typeDisp: Equity
+volume: 31602
+website: https://www.cembra.ch
+zip: '8048'

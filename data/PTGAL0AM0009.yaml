@@ -1,0 +1,264 @@
+52WeekChange: 0.035063505
+SandP52WeekChange: 0.097798586
+address1: Avenida da India, 8
+allTimeHigh: 23.18
+allTimeLow: 5.974745
+ask: 0.0
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 2284559
+averageDailyVolume3Month: 1561848
+averageVolume: 1561848
+averageVolume10days: 2284559
+beta: -0.065
+bid: 0.0
+bidSize: 0
+boardRisk: 10
+bookValue: 6.479
+city: Lisbon
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria  Joao Carioca
+  title: Co-CEO, CFO & Vice-Chairman of the Board of Directors
+  totalPay: 1333885
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joao Marques da Silva
+  title: Co-CEO, Executive VP of Commercial & Director
+  totalPay: 1333885
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Georgios  Papadimitriou
+  title: Executive VP of Renewables & New Business and Director
+  totalPay: 1270317
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ronald  Doesburg
+  title: EVP of Industrial & Executive Director
+  totalPay: 1042554
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nuno Holbech Bastos
+  title: Executive VP of Upstream & Executive Director
+  totalPay: 616935
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Joao Goncalves Pereira
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nuno Moraes Bastos
+  title: Head of Compliance & Company Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tiago  Villas-Boas
+  title: Chief Financial Officer of Exploration & Production Business Segment
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laura  Santos
+  title: Head of Internal Audit
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sofia Leite Borges
+  title: Secretary of Board of the General Shareholders Meeting
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Portugal
+cryptoTradeable: false
+currency: EUR
+currentPrice: 18.955
+currentRatio: 1.403
+customPriceAlertConfidence: LOW
+dayHigh: 19.08
+dayLow: 18.75
+debtToEquity: 84.08
+dividendRate: 0.68
+dividendYield: 3.63
+earningsCallTimestampEnd: 1793012400
+earningsCallTimestampStart: 1793012400
+earningsGrowth: -0.225
+earningsQuarterlyGrowth: -0.239
+earningsTimestamp: 1793035800
+earningsTimestampEnd: 1793035800
+earningsTimestampStart: 1793035800
+ebitda: 3979000064
+ebitdaMargins: 0.16510001
+enterpriseToEbitda: 4.238
+enterpriseToRevenue: 0.7
+enterpriseValue: 16864910336
+epsCurrentYear: 2.69294
+epsForward: 2.25101
+epsTrailingTwelveMonths: 1.41
+esgPopulated: false
+exDividendDate: 1787097600
+exchange: LIS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Lisbon
+exchangeTimezoneShortName: WET
+executiveTeam: []
+fiftyDayAverage: 21.5567
+fiftyDayAverageChange: -2.6016998
+fiftyDayAverageChangePercent: -0.12069101
+fiftyTwoWeekChangePercent: 3.5063505
+fiftyTwoWeekHigh: 23.18
+fiftyTwoWeekHighChange: -4.2250004
+fiftyTwoWeekHighChangePercent: -0.18226922
+fiftyTwoWeekLow: 13.96
+fiftyTwoWeekLowChange: 4.995
+fiftyTwoWeekLowChangePercent: 0.35780802
+fiftyTwoWeekRange: 13.96 - 23.18
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1161676800000
+fiveYearAvgDividendYield: 3.9
+floatShares: 326120711
+forwardEps: 2.25101
+forwardPE: 8.420665
+freeCashflow: 2440875008
+fullExchangeName: Lisbon
+fullTimeEmployees: 6886
+fulldayChange: 0.20999908
+fulldayChangePercent: 1.1205927
+fulldayPrice: 18.955
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.30638
+grossProfits: 7384000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.49862
+heldPercentInstitutions: 0.38779
+impliedSharesOutstanding: 722801283
+industry: Oil & Gas Integrated
+industryDisp: Oil & Gas Integrated
+industryKey: oil-gas-integrated
+irWebsite: http://www.galpenergia.com/EN/Investidor/Paginas/home.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787097600
+lastDividendValue: 0.35
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1731456000
+lastSplitFactor: 0.9741:1
+longBusinessSummary: "Galp Energia, SGPS, S.A. operates as an integrated energy operator\
+  \ in Portugal and internationally. The company operates through four segments: Upstream,\
+  \ Industrial & Midstream, Commercial, and Renewables. The Upstream segment engages\
+  \ in the exploration, development, and production of hydrocarbons primarily in Brazil,\
+  \ Mozambique, and Namibia. The Industrial & Midstream segment involved in refining\
+  \ and logistics business in Portugal, as well as is involved in activities related\
+  \ to oil products, carbon dioxide, gas, and power supply and trading activities.\
+  \ This segment also includes co-generation. The Commercial segment is involved in\
+  \ the areas of retail to final business-to-business and business to oil, gas, electric\
+  \ mobility, power and non-fuel products. The Renewables segment is involved in the\
+  \ renewables power generation and new businesses. In addition, the company engages\
+  \ in the reinsurance business. The company was formerly known as Galp \x96 Petróleos\
+  \ e Gás de Portugal, SGPS, S.A. and changed its name to Galp Energia, SGPS, S.A.\
+  \ in September 2000. Galp Energia, SGPS, S.A. was incorporated in 1999 and is headquartered\
+  \ in Lisbon, Portugal."
+longName: Galp Energia, SGPS, S.A.
+market: pt_market
+marketCap: 13700698112
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874537
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1031000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 13548910048
+numberOfAnalystOpinions: 18
+open: 19.05
+operatingCashflow: 2673999872
+operatingMargins: 0.14568
+overallRisk: 7
+payoutRatio: 0.48229998
+pegRatio: 0.95
+phone: 351 21 724 2500
+previousClose: 18.745
+priceEpsCurrentYear: 7.0387754
+priceHint: 2
+priceToBook: 2.9256058
+priceToSalesTrailing12Months: 0.5684701
+profitMargins: 0.042779997
+quickRatio: 0.977
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.22222
+region: US
+regularMarketChange: 0.20999908
+regularMarketChangePercent: 1.1205927
+regularMarketDayHigh: 19.08
+regularMarketDayLow: 18.75
+regularMarketDayRange: 18.75 - 19.08
+regularMarketOpen: 19.05
+regularMarketPreviousClose: 18.745
+regularMarketPrice: 18.955
+regularMarketTime: 1794411553
+regularMarketVolume: 1189957
+returnOnAssets: 0.1302
+returnOnEquity: 0.24595
+revenueGrowth: 0.509
+revenuePerShare: 32.959
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 5
+sharesOutstanding: 664721769
+shortName: GALP ENERGIA-NOM
+sourceInterval: 15
+symbol: GALP.LS
+targetHighPrice: 28.0
+targetLowPrice: 18.4
+targetMeanPrice: 23.45556
+targetMedianPrice: 23.0
+totalCash: 2476999936
+totalCashPerShare: 3.427
+totalDebt: 4784999936
+totalRevenue: 24100999168
+tradeable: false
+trailingAnnualDividendRate: 0.68
+trailingAnnualDividendYield: 0.03627634
+trailingEps: 1.41
+trailingPE: 13.443263
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 20.05915
+twoHundredDayAverageChange: -1.1041508
+twoHundredDayAverageChangePercent: -0.05504474
+typeDisp: Equity
+volume: 1189957
+website: https://www.galp.com
+zip: 1349-065

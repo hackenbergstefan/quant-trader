@@ -1,0 +1,262 @@
+52WeekChange: 0.034811616
+SandP52WeekChange: 0.097798586
+address1: Hovedgaden 584
+allTimeHigh: 815.0
+allTimeLow: 8.6
+ask: 216.0
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 453870
+averageDailyVolume3Month: 614538
+averageVolume: 614538
+averageVolume10days: 453870
+beta: 1.469
+bid: 215.8
+bidSize: 0
+boardRisk: 5
+bookValue: 90.38075
+city: Hedehusene
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jes Munk Hansen
+  title: President & CEO
+  totalPay: 19197499
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kim Junge Andersen
+  title: Senior VP & CFO
+  totalPay: 7827018
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Connie Enghus Theisen
+  title: Senior Group Advisor & Employee Representative Director
+  totalPay: 448540
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian  Westerberg
+  title: Design Manager & Employee Representative Director
+  totalPay: 448540
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bjørn  Rici Andersen
+  title: Senior Vice President of Group Operations & Technology
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mirella A. Vitale
+  title: SVP of Group Marketing, Communications & Public Affairs
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bernard  Plancade
+  title: Managing Director of Core Solutions
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anders Espe Kristensen
+  title: Senior Vice President of Systems Division
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rafael  Rodriguez
+  title: Senior VP & Head of Insulation South West Europe
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rory  Moss
+  title: Senior VP & Head of Insulation - North America
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: Denmark
+cryptoTradeable: false
+currency: DKK
+currentPrice: 216.0
+currentRatio: 1.109
+customPriceAlertConfidence: HIGH
+dayHigh: 217.2
+dayLow: 213.8
+dividendRate: 4.15
+dividendYield: 1.91
+earningsCallTimestampEnd: 1787216400
+earningsCallTimestampStart: 1787216400
+earningsGrowth: -0.333
+earningsQuarterlyGrowth: -0.238
+earningsTimestamp: 1795622400
+earningsTimestampEnd: 1795622400
+earningsTimestampStart: 1795622400
+ebitda: 824000000
+ebitdaMargins: 0.20782
+enterpriseToEbitda: 61.104
+enterpriseToRevenue: 12.698
+enterpriseValue: 50349498368
+epsCurrentYear: 1.81385
+epsForward: 14.855709
+epsTrailingTwelveMonths: -1.49
+esgPopulated: false
+exDividendDate: 1776297600
+exchange: CPH
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Copenhagen
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 45 46 56 33 11
+fiftyDayAverage: 192.962
+fiftyDayAverageChange: 23.037994
+fiftyDayAverageChangePercent: 0.11939135
+fiftyTwoWeekChangePercent: 3.4811616
+fiftyTwoWeekHigh: 235.2
+fiftyTwoWeekHighChange: -19.199997
+fiftyTwoWeekHighChangePercent: -0.081632644
+fiftyTwoWeekLow: 165.96
+fiftyTwoWeekLowChange: 50.039993
+fiftyTwoWeekLowChangePercent: 0.30151838
+fiftyTwoWeekRange: 165.96 - 235.2
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 1.89
+floatShares: 177785775
+forwardEps: 14.855709
+forwardPE: 14.539865
+freeCashflow: 404750016
+fullExchangeName: Copenhagen
+fullTimeEmployees: 11939
+fulldayChange: -1.0
+fulldayChangePercent: -0.4608295
+fulldayPrice: 216.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.66783994
+grossProfits: 2648000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.31349
+impliedSharesOutstanding: 207259230
+industry: Building Products & Equipment
+industryDisp: Building Products & Equipment
+industryKey: building-products-equipment
+irWebsite: http://www.rockwool.com/investor
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776297600
+lastDividendValue: 4.15
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1744156800
+lastSplitFactor: '10:1'
+longBusinessSummary: 'Rockwool A/S produces and sells stone wool insulation products
+  in Western Europe, Eastern Europe, Russia, North America, Asia, and internationally.
+  The company operates through two segments: Insulation and Systems segments. The
+  company offers products, including solutions for ceiling systems, ventilated façades,
+  friction and water management and stone wool substrate. It also offers roof, floor,
+  façade, ceiling, partition wall, internal and exterior wall, HVAC, acoustic, and
+  technical insulation, as well as passive fire protection, industrial insulation,
+  marine and offshore insulation, OEM, basement, chimney, shed, and garage insulation
+  products. In addition, the company provides acoustic ceilings and walls, cladding
+  boards, rainwater management, and prefab building systems, engineered fibers, noise
+  and vibration control, and horticultural substrates. It sells its products under
+  the ROCKWOOL, Rockfon, Rockpanel, Grodan, and Lapinus brand names. Rockwool A/S
+  was founded in 1909 and is based in Hedehusene, Denmark.'
+longName: Rockwool A/S
+market: dk_market
+marketCap: 44767993856
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_664372
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 2000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 46238782424
+numberOfAnalystOpinions: 13
+open: 215.8
+operatingCashflow: 611000000
+operatingMargins: 0.14552
+overallRisk: 7
+payoutRatio: 8.441401
+pegRatio: 1.57
+phone: 45 46 56 03 00
+prevName: ROCKWOOL International A/S
+previousClose: 217.0
+priceEpsCurrentYear: 119.08372
+priceHint: 2
+priceToBook: 2.3898895
+priceToSalesTrailing12Months: 11.290793
+profitMargins: -0.05095
+quickRatio: 0.748
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.14286
+region: US
+regularMarketChange: -1.0
+regularMarketChangePercent: -0.4608295
+regularMarketDayHigh: 217.2
+regularMarketDayLow: 213.8
+regularMarketDayRange: 213.8 - 217.2
+regularMarketOpen: 215.8
+regularMarketPreviousClose: 217.0
+regularMarketPrice: 216.0
+regularMarketTime: 1794412470
+regularMarketVolume: 135783
+returnOnAssets: 0.08904
+returnOnEquity: 0.00068000006
+revenueGrowth: 0.096
+revenuePerShare: 19.028
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 8
+sharesOutstanding: 110064652
+shortName: Rockwool A/S ser. B
+sourceInterval: 15
+symbol: ROCK-B.CO
+targetHighPrice: 268.04153
+targetLowPrice: 194.99094
+targetMeanPrice: 226.4743
+targetMedianPrice: 226.01427
+totalCash: 103000000
+totalCashPerShare: 0.443
+totalDebt: 0
+totalRevenue: 3964999936
+tradeable: false
+trailingAnnualDividendRate: 0.6
+trailingAnnualDividendYield: 0.002764977
+trailingEps: -1.49
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 199.3605
+twoHundredDayAverageChange: 16.639496
+twoHundredDayAverageChangePercent: 0.083464354
+typeDisp: Equity
+volume: 135783
+website: https://www.rockwool.com/group
+zip: '2640'

@@ -1,0 +1,256 @@
+52WeekChange: 0.24110281
+SandP52WeekChange: 0.097798586
+address1: Sickla Industriväg 19
+allTimeHigh: 284.3
+allTimeLow: 72.44
+ask: 252.2
+askSize: 0
+auditRisk: 7
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 1749237
+averageDailyVolume3Month: 1527848
+averageVolume: 1527848
+averageVolume10days: 1749237
+beta: 1.243
+bid: 251.9
+bidSize: 0
+boardRisk: 6
+bookValue: 39.751
+city: Nacka
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Helena  Hedblom M.Sc.
+  title: CEO, President & Director
+  totalPay: 22294000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hakan  Folin MSc
+  title: Senior VP of Controlling, Finance & Sustainability and CFO
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karin  Larsson
+  title: VP of Investor Relations & Head of IR
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Charlotta Ingrid Grähs
+  title: Senior VP & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katarina  Nilsson
+  title: Senior Vice President People & Leadership
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jose Manuel Sanchez
+  title: Tools & Attachments Business Area President
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jess  Kindler
+  title: Equipment & Service Business Area President
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christel  Fullenbach
+  title: Global VP of Operations, Parts & Services Division
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 252.0
+currentRatio: 2.041
+customPriceAlertConfidence: HIGH
+dayHigh: 253.6
+dayLow: 250.6
+debtToEquity: 39.561
+dividendRate: 3.8
+dividendYield: 1.53
+earningsCallTimestampEnd: 1793188800
+earningsCallTimestampStart: 1793188800
+earningsGrowth: 0.235
+earningsQuarterlyGrowth: 0.236
+earningsTimestamp: 1800981000
+earningsTimestampEnd: 1800981000
+earningsTimestampStart: 1800981000
+ebitda: 15367000064
+ebitdaMargins: 0.24042
+enterpriseToEbitda: 20.243
+enterpriseToRevenue: 4.867
+enterpriseValue: 311076028416
+epsCurrentYear: 8.29272
+epsForward: 8.37
+epsTrailingTwelveMonths: 7.69
+esgPopulated: false
+exDividendDate: 1792108800
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 256.474
+fiftyDayAverageChange: -4.473999
+fiftyDayAverageChangePercent: -0.01744426
+fiftyTwoWeekChangePercent: 24.110281
+fiftyTwoWeekHigh: 284.3
+fiftyTwoWeekHighChange: -32.299988
+fiftyTwoWeekHighChangePercent: -0.11361235
+fiftyTwoWeekLow: 186.6
+fiftyTwoWeekLowChange: 65.399994
+fiftyTwoWeekLowChangePercent: 0.35048229
+fiftyTwoWeekRange: 186.6 - 284.3
+financialCurrency: SEK
+firstTradeDateMilliseconds: 1529305200000
+fiveYearAvgDividendYield: 1.6
+floatShares: 1001722698
+forwardEps: 8.37
+forwardPE: 30.107527
+freeCashflow: 3759749888
+fullExchangeName: Stockholm
+fullTimeEmployees: 19902
+fulldayChange: 4.399994
+fulldayChangePercent: 1.7770573
+fulldayPrice: 252.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.35888
+grossProfits: 22939000832
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00017999999
+heldPercentInstitutions: 0.81948
+impliedSharesOutstanding: 1209693143
+industry: Farm & Heavy Construction Machinery
+industryDisp: Farm & Heavy Construction Machinery
+industryKey: farm-heavy-construction-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792108800
+lastDividendValue: 1.9
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Epiroc AB (publ), together with its subsidiaries, develops and
+  produces equipment for use in surface and underground applications in North America,
+  South America, Europe, Africa, the Middle East, Asia, Australia, and India. It operates
+  in two segments, Equipment & Service, and Tools & Attachments. The Equipment & Service
+  segment offers equipment and solutions for rock drilling, rock excavation, rock
+  reinforcement, loading and haulage, and ventilation systems; drilling equipment
+  for exploration, and water and energy; and related spare parts and services for
+  the mining and infrastructure industries. This segment also provides digital solutions,
+  such as connectivity, collision avoidance systems, automation, and mine planning,
+  as well as electrification. Its Tools & Attachments segment offers rock drilling
+  tools, including tophammer, COPROD, down-the hole, rotary and raiseboring; drill
+  string components comprising bits, rods, pipes, shanks, hammers, and other products;
+  rock reinforcement tools, such as rock bolts, mesh, and accessories; and exploration
+  drilling tools. This segment also provides hydraulic breakers, shears and pulverizers,
+  concrete cutters and busters, quick couplers and thumbs, drum cutters, excavator
+  grapples, excavator magnets, and crusher and screening buckets; ground engaging
+  tools, including teeth, lip shrouds, and protective shrouds; and digital solutions
+  for monitoring, optimization, loss detection and analytics. In addition, the company
+  offers aftermarket services, such as replacement parts and kits, service agreements
+  and audits, circular services, and custom-engineered solutions, as well as component
+  remanufacturing, midlife upgrades, cost-per-meter contracts, and conversion kits.
+  The company has a strategic collaboration with Sany Group Company Limited for the
+  development of equipment and technology for mining applications. Epiroc AB (publ)
+  was founded in 1873 and is headquartered in Nacka, Sweden.
+longName: Epiroc AB (publ)
+market: se_market
+marketCap: 304842670080
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_417010627
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 9301000192
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 284545064804
+numberOfAnalystOpinions: 20
+open: 251.7
+operatingCashflow: 8101000192
+operatingMargins: 0.20883
+overallRisk: 4
+payoutRatio: 0.4935
+pegRatio: 1.91
+phone: 46 1 07 55 00 00
+previousClose: 247.6
+priceEpsCurrentYear: 30.3881
+priceHint: 2
+priceToBook: 6.339463
+priceToSalesTrailing12Months: 4.7692776
+profitMargins: 0.14551
+quickRatio: 1.022
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.47619
+region: US
+regularMarketChange: 4.399994
+regularMarketChangePercent: 1.7770573
+regularMarketDayHigh: 253.6
+regularMarketDayLow: 250.6
+regularMarketDayRange: 250.6 - 253.6
+regularMarketOpen: 251.7
+regularMarketPreviousClose: 247.6
+regularMarketPrice: 252.0
+regularMarketTime: 1794412462
+regularMarketVolume: 218504
+returnOnAssets: 0.09709
+returnOnEquity: 0.21014999
+revenueGrowth: 0.101
+revenuePerShare: 52.841
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 7
+sharesOutstanding: 819720294
+shortName: Epiroc AB ser. A
+sourceInterval: 15
+symbol: EPI-A.ST
+targetHighPrice: 340.0
+targetLowPrice: 230.0
+targetMeanPrice: 282.95
+targetMedianPrice: 287.5
+totalCash: 7480000000
+totalCashPerShare: 6.183
+totalDebt: 19026999296
+totalRevenue: 63917998080
+tradeable: false
+trailingAnnualDividendRate: 3.8
+trailingAnnualDividendYield: 0.015347334
+trailingEps: 7.69
+trailingPE: 32.769833
+trailingPegRatio: 1.9127
+triggerable: true
+twoHundredDayAverage: 255.832
+twoHundredDayAverageChange: -3.8320007
+twoHundredDayAverageChangePercent: -0.014978583
+typeDisp: Equity
+volume: 218504
+website: https://www.epirocgroup.com
+zip: 131 54

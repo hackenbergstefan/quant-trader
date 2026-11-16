@@ -1,0 +1,259 @@
+52WeekChange: 0.3883704
+SandP52WeekChange: 0.097798586
+address1: Kingspan Innovation Centre
+address2: Dublin Road
+allTimeHigh: 106.65
+allTimeLow: 1.3
+ask: 98.6
+auditRisk: 2
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 613632
+averageDailyVolume3Month: 408785
+averageVolume: 408785
+averageVolume10days: 613632
+beta: 1.303
+bid: 98.5
+boardRisk: 6
+bookValue: 26.423
+city: Kingscourt
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gene M. Murtagh
+  title: CEO & Executive Director
+  totalPay: 2308000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Geoff P. Doherty B.Comm, FCA
+  title: Group CFO & Executive Director
+  totalPay: 1572000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Russell  Shiels B.Bus.Sc.
+  title: President of Insulated Panels Businesses - Americas & Executive Director
+  totalPay: 1580000
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gilbert  McCarthy
+  title: MD of Insulated Panels businesses - Europe, Asia & Australasia and Executive
+    Director
+  totalPay: 1437000
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: David  O'Brien
+  title: Head of IR
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Alexander V. Shekhter
+  title: Chief Legal Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Pat  Freeman
+  title: Managing Director of Water & Energy Division
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Donal  Curtin
+  title: Managing Director of Roofing & Waterproofing Division
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Liam  McDaniel
+  title: Divisional Managing Director of Light, Air & Water
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  McMahon
+  title: Managing Director of Kingspan Insulation
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Ireland
+cryptoTradeable: false
+currency: EUR
+currentPrice: 98.55
+currentRatio: 1.326
+customPriceAlertConfidence: LOW
+dayHigh: 99.25
+dayLow: 97.1
+debtToEquity: 53.262
+dividendRate: 0.56
+dividendYield: 0.58
+earningsCallTimestampEnd: 1786086000
+earningsCallTimestampStart: 1786086000
+earningsGrowth: 0.049
+earningsQuarterlyGrowth: 0.038
+earningsTimestampEnd: 1786116600
+earningsTimestampStart: 1786116600
+ebitda: 1199399936
+ebitdaMargins: 0.12572
+enterpriseToEbitda: 16.493
+enterpriseToRevenue: 2.073
+enterpriseValue: 19781918720
+epsCurrentYear: 4.47394
+epsForward: 5.79859
+epsTrailingTwelveMonths: 3.76
+esgPopulated: false
+exDividendDate: 1788393600
+exchange: ISE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Dublin
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 98.196
+fiftyDayAverageChange: 0.3540039
+fiftyDayAverageChangePercent: 0.0036050747
+fiftyTwoWeekChangePercent: 38.83704
+fiftyTwoWeekHigh: 106.6
+fiftyTwoWeekHighChange: -8.049995
+fiftyTwoWeekHighChangePercent: -0.0755159
+fiftyTwoWeekLow: 63.65
+fiftyTwoWeekLowChange: 34.9
+fiftyTwoWeekLowChangePercent: 0.5483111
+fiftyTwoWeekRange: 63.65 - 106.6
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946972800000
+fiveYearAvgDividendYield: 0.68
+floatShares: 152969326
+forwardEps: 5.79859
+forwardPE: 16.99551
+freeCashflow: 620524992
+fullExchangeName: Irish
+fullTimeEmployees: 27450
+fulldayChange: 1.8500061
+fulldayChangePercent: 1.9131398
+fulldayPrice: 98.55
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.29541
+grossProfits: 2818400000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.15810001
+heldPercentInstitutions: 0.5875
+impliedSharesOutstanding: 182512519
+industry: Building Products & Equipment
+industryDisp: Building Products & Equipment
+industryKey: building-products-equipment
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788393600
+lastDividendValue: 0.271
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Kingspan Group plc, together with its subsidiaries, provides
+  insulation and building envelope solutions in Western and Southern Europe, Central
+  and Northern Europe, the Americas, and internationally. It operates through two
+  segments: Insulated Building Envelopes, and Advnsys. The Insulated Building Envelopes
+  segment provides advanced energy-saving solutions for roofs, walls, and floors,
+  delivering building solutions for energy efficiency in both new build and renovation
+  applications across all building types. The Advnsys segment designs and manufactures
+  bespoke critical infrastructure solutions, primarily focused on data centres, ventilation,
+  and daylighting, offering high-performance systems that deliver energy efficient
+  lighting, airflow, cooling, and ventilation for both new build and renovation projects
+  in data centres and commercial buildings. The company offers a comprehensive suite
+  of products, including insulated panels, insulation boards, roofing and waterproofing
+  solutions, structural steel products and system, facades, ceiling systems, raised
+  access floors, daylighting solutions, and water management technologies. It also
+  provides solutions such as PowerPanel integrated solar roofing, QuadCore LEC insulated
+  panels, Kooltherm insulation boards, and a range of lower embodied carbon and bio-based
+  materials. Additionally, the company is involved in developing circular economy
+  solutions, including product takeback and recycling schemes, and offers digital
+  infrastructure, smoke management, and ventilation systems. Kingspan Group plc was
+  founded in 1965 and is based in Kingscourt, Ireland.'
+longName: Kingspan Group plc
+market: ie_market
+marketCap: 17986609152
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_664385
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 683100032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 17420819938
+numberOfAnalystOpinions: 15
+open: 97.3
+operatingCashflow: 995699968
+operatingMargins: 0.09947
+overallRisk: 4
+payoutRatio: 0.14770001
+pegRatio: 1.31
+phone: 353 42 969 8000
+previousClose: 96.7
+priceEpsCurrentYear: 22.027565
+priceHint: 2
+priceToBook: 3.7297053
+priceToSalesTrailing12Months: 1.8852702
+profitMargins: 0.0716
+quickRatio: 0.853
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.66667
+region: US
+regularMarketChange: 1.8500061
+regularMarketChangePercent: 1.9131398
+regularMarketDayHigh: 99.25
+regularMarketDayLow: 97.1
+regularMarketDayRange: 97.1 - 99.25
+regularMarketOpen: 97.3
+regularMarketPreviousClose: 96.7
+regularMarketPrice: 98.55
+regularMarketTime: 1794410474
+regularMarketVolume: 112605
+returnOnAssets: 0.057189997
+returnOnEquity: 0.15213001
+revenueGrowth: 0.076
+revenuePerShare: 52.866
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 182512519
+shortName: KINGSPAN GROUP PLC
+sourceInterval: 15
+symbol: KRX.IR
+targetHighPrice: 150.0
+targetLowPrice: 105.0
+targetMeanPrice: 127.16667
+targetMedianPrice: 130.0
+totalCash: 594200000
+totalCashPerShare: 3.3
+totalDebt: 2683699968
+totalRevenue: 9540599808
+tradeable: false
+trailingAnnualDividendRate: 0.563
+trailingAnnualDividendYield: 0.005822131
+trailingEps: 3.76
+trailingPE: 26.210108
+trailingPegRatio: 1.3102
+triggerable: false
+twoHundredDayAverage: 85.295
+twoHundredDayAverageChange: 13.255005
+twoHundredDayAverageChangePercent: 0.1554019
+typeDisp: Equity
+volume: 112605
+website: https://www.kingspan.com
+zip: A82 XY31

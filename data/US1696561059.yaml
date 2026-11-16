@@ -1,0 +1,261 @@
+52WeekChange: 0.14687097
+SandP52WeekChange: 0.097798586
+address1: 610 Newport Center Drive
+address2: Suite 1100
+allTimeHigh: 69.2614
+allTimeLow: 0.7372
+ask: 35.68
+askSize: 500
+auditRisk: 6
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 22572660
+averageDailyVolume3Month: 18189973
+averageVolume: 18189973
+averageVolume10days: 22572660
+beta: 0.986
+bid: 35.67
+bidSize: 700
+boardRisk: 1
+bookValue: 1.941
+city: Newport Beach
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott  Boatwright
+  title: CEO & Director
+  totalPay: 2455727
+  unexercisedValue: 2325798
+  yearBorn: 1973
+- age: 55
+  exercisedValue: 9104989
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Curtis E. Garner III
+  title: President and Chief Strategy & Technology Officer
+  totalPay: 1490348
+  unexercisedValue: 10238660
+  yearBorn: 1970
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam  Rymer
+  title: Chief Financial Officer
+  totalPay: 992397
+  unexercisedValue: 421439
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason  Kidd
+  title: Chief Operating Officer
+  unexercisedValue: 0
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew R. Bush
+  title: VP, Controller & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. D Ilene Eskenazi J.D.
+  title: Chief Legal & Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Vilkama
+  title: Chief Development Officer
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laurie  Schalow
+  title: Chief Corporate Affairs & Food Safety Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anat  Davidzon
+  title: Managing Director of Canada
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Lois  Alexis-Collins
+  title: Chief People Officer - Field Operations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 35.78
+currentRatio: 0.81
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 36.05
+dayLow: 35.605
+debtToEquity: 228.053
+displayName: Chipotle Mexican Grill
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793219400
+earningsCallTimestampStart: 1793219400
+earningsGrowth: -0.062
+earningsQuarterlyGrowth: -0.111
+earningsTimestamp: 1793217600
+earningsTimestampEnd: 1793217600
+earningsTimestampStart: 1793217600
+ebitda: 2261161984
+ebitdaMargins: 0.17785999
+enterpriseToEbitda: 22.172
+enterpriseToRevenue: 3.943
+enterpriseValue: 50134368256
+epsCurrentYear: 1.08694
+epsForward: 1.32669
+epsTrailingTwelveMonths: 1.07
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 32.67
+fiftyDayAverageChange: 3.1050034
+fiftyDayAverageChangePercent: 0.09504143
+fiftyTwoWeekChangePercent: 14.687098
+fiftyTwoWeekHigh: 41.42
+fiftyTwoWeekHighChange: -5.6449966
+fiftyTwoWeekHighChangePercent: -0.13628674
+fiftyTwoWeekLow: 27.31
+fiftyTwoWeekLowChange: 8.465002
+fiftyTwoWeekLowChangePercent: 0.3099598
+fiftyTwoWeekRange: 27.31 - 41.42
+financialCurrency: USD
+firstTradeDateMilliseconds: 1138285800000
+floatShares: 1254867850
+forwardEps: 1.32669
+forwardPE: 26.965609
+freeCashflow: 1184089728
+fullExchangeName: NYSE
+fullTimeEmployees: 140000
+fulldayChange: -0.14499664
+fulldayChangePercent: -0.4036655
+fulldayPrice: 35.775
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.39314
+grossProfits: 4998163968
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0067299996
+heldPercentInstitutions: 0.95014
+impliedSharesOutstanding: 1264975000
+industry: Restaurants
+industryDisp: Restaurants
+industryKey: restaurants
+irWebsite: http://ir.chipotle.com/phoenix.zhtml?c=194775&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1719360000
+lastSplitFactor: '50:1'
+longBusinessSummary: Chipotle Mexican Grill, Inc., together with its subsidiaries,
+  owns and operates Chipotle Mexican Grill restaurants. The company sells food and
+  beverages, such as burritos, burrito bowls, quesadillas, tacos, and salads, as well
+  as kids' meals, chips, and sides. It also offers Mexican-inspired meals using responsibly
+  sourced meats, such as chicken, beef, and pork under the Responsibly Raised brand.
+  In addition, the company provides digital ordering through its website, mobile app,
+  and third-party delivery platforms. It operates in the United States, Canada, France,
+  Germany, South Korea, and the United Kingdom. Chipotle Mexican Grill, Inc. was founded
+  in 1993 and is headquartered in Newport Beach, California.
+longName: Chipotle Mexican Grill, Inc.
+market: us_market
+marketCap: 45254479872
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_26446
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1377176960
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 45437902000
+numberOfAnalystOpinions: 30
+open: 35.64
+operatingCashflow: 2347982080
+operatingMargins: 0.14715
+overallRisk: 3
+payoutRatio: 0.0
+pegRatio: 1.83
+phone: 949 524 4000
+previousClose: 35.92
+priceEpsCurrentYear: 32.9135
+priceHint: 2
+priceToBook: 18.431221
+priceToSalesTrailing12Months: 3.560065
+profitMargins: 0.10832
+quickRatio: 0.693
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.82857
+region: US
+regularMarketChange: -0.14499664
+regularMarketChangePercent: -0.4036655
+regularMarketDayHigh: 36.05
+regularMarketDayLow: 35.605
+regularMarketDayRange: 35.605 - 36.05
+regularMarketOpen: 35.64
+regularMarketPreviousClose: 35.92
+regularMarketPrice: 35.775
+regularMarketTime: 1794413721
+regularMarketVolume: 2944515
+returnOnAssets: 0.124960005
+returnOnEquity: 0.48518002
+revenueGrowth: 0.096
+revenuePerShare: 9.863
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 7
+sharesOutstanding: 1264975000
+sharesPercentSharesOut: 0.0327
+sharesShort: 41399114
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 37809561
+shortName: Chipotle Mexican Grill, Inc.
+shortPercentOfFloat: 0.037100002
+shortRatio: 1.74
+sourceInterval: 15
+state: CA
+symbol: CMG
+targetHighPrice: 53.0
+targetLowPrice: 32.0
+targetMeanPrice: 40.56667
+targetMedianPrice: 40.0
+totalCash: 902563968
+totalCashPerShare: 0.714
+totalDebt: 5599030784
+totalRevenue: 12713477120
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 1.07
+trailingPE: 33.434578
+trailingPegRatio: 1.8341
+triggerable: true
+twoHundredDayAverage: 33.8649
+twoHundredDayAverageChange: 1.9101028
+twoHundredDayAverageChangePercent: 0.05640362
+typeDisp: Equity
+volume: 2945180
+website: https://www.chipotle.com
+zip: '92660'

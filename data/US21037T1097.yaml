@@ -1,0 +1,272 @@
+52WeekChange: -0.24365854
+SandP52WeekChange: 0.097798586
+address1: 1310 Point Street
+allTimeHigh: 412.7
+allTimeLow: 38.0
+ask: 274.5
+askSize: 6
+auditRisk: 4
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 4512870
+averageDailyVolume3Month: 3475176
+averageVolume: 3475176
+averageVolume10days: 4512870
+beta: 1.127
+bid: 274.75
+bidSize: 1
+boardRisk: 8
+bookValue: 93.036
+city: Baltimore
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph  Dominguez
+  title: President, CEO & Chairman
+  totalPay: 4509312
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bryan Craig Hanson
+  title: Senior Executive VP & Chief Generation Officer
+  totalPay: 2010791
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel L. Eggers C.F.A.
+  title: Senior Executive Vice President of Finance & Data Economy
+  totalPay: 1695562
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James  McHugh
+  title: Senior Executive VP & Chief Commercial Officer
+  totalPay: 1551328
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shane P. Smith
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael R. Koehler
+  title: Executive VP & Chief Administration Officer
+  totalPay: 2129471
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Tim  Flottemesch
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew  Price
+  title: Executive VP, Chief Legal Officer & General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Susie  Kutansky
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher H. Mudrick
+  title: Chief Nuclear Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: CEG announced a cash dividend of $0.426 with an ex-date of Nov. 16, 2026
+  meta:
+    amount: '0.426'
+    dateEpochMs: 1794805200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 274.018
+currentRatio: 1.486
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 276.0
+dayLow: 267.81
+debtToEquity: 70.786
+displayName: Constellation Energy
+dividendDate: 1796342400
+dividendRate: 1.71
+dividendYield: 0.64
+earningsCallTimestampEnd: 1794232800
+earningsCallTimestampStart: 1794232800
+earningsGrowth: 0.745
+earningsQuarterlyGrowth: 0.973
+earningsTimestamp: 1794231000
+earningsTimestampEnd: 1794231000
+earningsTimestampStart: 1794231000
+ebitda: 9477000192
+ebitdaMargins: 0.2767
+enterpriseToEbitda: 12.373
+enterpriseToRevenue: 3.424
+enterpriseValue: 117257691136
+epsCurrentYear: 12.74913
+epsForward: 13.4071
+epsTrailingTwelveMonths: 12.44
+esgPopulated: false
+exDividendDate: 1794787200
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 269.8681
+fiftyDayAverageChange: 4.1499023
+fiftyDayAverageChangePercent: 0.015377521
+fiftyTwoWeekChangePercent: -24.365854
+fiftyTwoWeekHigh: 380.78
+fiftyTwoWeekHighChange: -106.76199
+fiftyTwoWeekHighChangePercent: -0.2803771
+fiftyTwoWeekLow: 228.63
+fiftyTwoWeekLowChange: 45.388
+fiftyTwoWeekLowChangePercent: 0.19852163
+fiftyTwoWeekRange: 228.63 - 380.78
+financialCurrency: USD
+firstTradeDateMilliseconds: 1642602600000
+fiveYearAvgDividendYield: 0.56
+floatShares: 350455228
+forwardEps: 13.4071
+forwardPE: 20.438276
+freeCashflow: -5374000128
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 15291
+fulldayChange: 6.2579956
+fulldayChangePercent: 2.3371658
+fulldayPrice: 274.018
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.25241
+grossProfits: 8645000192
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00348
+heldPercentInstitutions: 0.84188
+impliedSharesOutstanding: 351608504
+industry: Utilities - Independent Power Producers
+industryDisp: Utilities - Independent Power Producers
+industryKey: utilities-independent-power-producers
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787011200
+lastDividendValue: 0.427
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Constellation Energy Corporation produces and sells energy products
+  and services in the United States. The company operates through five segments: Mid-Atlantic,
+  Midwest, New York, ERCOT, and Other Power Regions. It offers electricity, natural
+  gas, energy-related products, and sustainable solutions. The company has approximately
+  31,676 megawatts of generating capacity consisting of nuclear, wind, solar, natural
+  gas, and hydroelectric assets. It serves distribution utilities, municipalities,
+  cooperatives, and commercial, industrial, public sector, and residential customers.
+  The company was incorporated in 2021 and is headquartered in Baltimore, Maryland.'
+longName: Constellation Energy Corporation
+market: us_market
+marketCap: 96347062272
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_3136719
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 4369999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 94146693031
+numberOfAnalystOpinions: 23
+open: 272.73
+operatingCashflow: 5784000000
+operatingMargins: 0.17944999
+overallRisk: 7
+payoutRatio: 0.134
+pegRatio: 3.74
+phone: 833 883 0162
+prevName: Exelon Generation Company, LLC
+previousClose: 267.76
+priceEpsCurrentYear: 21.493074
+priceHint: 2
+priceToBook: 2.9452899
+priceToSalesTrailing12Months: 2.813053
+profitMargins: 0.12759
+quickRatio: 0.48
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.64
+region: US
+regularMarketChange: 6.2579956
+regularMarketChangePercent: 2.3371658
+regularMarketDayHigh: 276.0
+regularMarketDayLow: 267.81
+regularMarketDayRange: 267.81 - 276.0
+regularMarketOpen: 272.73
+regularMarketPreviousClose: 267.76
+regularMarketPrice: 274.018
+regularMarketTime: 1794413726
+regularMarketVolume: 710472
+returnOnAssets: 0.049450003
+returnOnEquity: 0.18344
+revenueGrowth: 0.454
+revenuePerShare: 99.203
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 8
+sharesOutstanding: 351608504
+sharesPercentSharesOut: 0.0298
+sharesShort: 10489817
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 11837140
+shortName: Constellation Energy Corporatio
+shortPercentOfFloat: 0.0334
+shortRatio: 2.53
+sourceInterval: 15
+state: MD
+symbol: CEG
+targetHighPrice: 399.0
+targetLowPrice: 238.0
+targetMeanPrice: 337.8974
+targetMedianPrice: 345.0
+totalCash: 603000000
+totalCashPerShare: 1.715
+totalDebt: 23387000832
+totalRevenue: 34250000384
+tradeable: false
+trailingAnnualDividendRate: 1.667
+trailingAnnualDividendYield: 0.0062257247
+trailingEps: 12.44
+trailingPE: 22.027172
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 278.5376
+twoHundredDayAverageChange: -4.5195923
+twoHundredDayAverageChangePercent: -0.016226148
+typeDisp: Equity
+volume: 710472
+website: https://www.constellationenergy.com
+zip: 21231-3380

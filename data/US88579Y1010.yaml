@@ -1,0 +1,288 @@
+52WeekChange: 0.10690904
+SandP52WeekChange: 0.097798586
+address1: 3M Center
+allTimeHigh: 217.19899
+allTimeLow: 2.149091
+ask: 188.71
+askSize: 100
+auditRisk: 5
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 3941570
+averageDailyVolume3Month: 3215115
+averageVolume: 3215115
+averageVolume10days: 3941570
+beta: 1.064
+bid: 188.5
+bidSize: 100
+boardRisk: 7
+bookValue: 7.987
+city: Saint Paul
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William M. Brown
+  title: CEO & Chairman
+  totalPay: 6249915
+  unexercisedValue: 4429477
+  yearBorn: 1963
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anurag  Maheshwari
+  title: CFO & Executive VP
+  totalPay: 2950434
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 62
+  exercisedValue: 215847
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin H. Rhodes J.D.
+  title: Executive VP, Chief Legal Affairs Officer & Secretary
+  totalPay: 2028668
+  unexercisedValue: 155392
+  yearBorn: 1963
+- age: 53
+  exercisedValue: 156441
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian T. Goralski Jr.
+  title: Group President of Safety & Industrial
+  totalPay: 2080109
+  unexercisedValue: 480548
+  yearBorn: 1972
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Wendy A. Bauer
+  title: Group President of Transportation & Electronics Business Group
+  totalPay: 1853308
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Tushar  Kshirsagar
+  title: Executive VP, Chief Technology Officer and Environmental Responsibility
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bobby K. George
+  title: Executive Vice President & Chief Information and Digital Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chinmay  Trivedi
+  title: Senior Vice President of Investor Relations and Financial Planning & Analysis
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer  Cunningham
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Luigi  Faltoni
+  title: Managing Director of 3M Brazil
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions:
+- header: Dividend
+  message: MMM announced a cash dividend of $0.78 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.78'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 189.185
+currentRatio: 1.408
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 189.9
+dayLow: 187.825
+debtToEquity: 303.502
+displayName: 3M
+dividendDate: 1796947200
+dividendRate: 3.12
+dividendYield: 1.65
+earningsCallTimestampEnd: 1792501200
+earningsCallTimestampStart: 1792501200
+earningsGrowth: 0.697
+earningsQuarterlyGrowth: 0.646
+earningsTimestamp: 1792499400
+earningsTimestampEnd: 1800365400
+earningsTimestampStart: 1800365400
+ebitda: 6497999872
+ebitdaMargins: 0.25738
+enterpriseToEbitda: 16.477
+enterpriseToRevenue: 4.241
+enterpriseValue: 107067080704
+epsCurrentYear: 9.13086
+epsForward: 9.92305
+epsTrailingTwelveMonths: 6.7
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 169.624
+fiftyDayAverageChange: 19.561005
+fiftyDayAverageChangePercent: 0.115319796
+fiftyTwoWeekChangePercent: 10.690904
+fiftyTwoWeekHigh: 196.9
+fiftyTwoWeekHighChange: -7.7149963
+fiftyTwoWeekHighChangePercent: -0.03918231
+fiftyTwoWeekLow: 139.34
+fiftyTwoWeekLowChange: 49.845
+fiftyTwoWeekLowChangePercent: 0.35772213
+fiftyTwoWeekRange: 139.34 - 196.9
+financialCurrency: USD
+firstTradeDateMilliseconds: -252322200000
+fiveYearAvgDividendYield: 3.01
+floatShares: 515845966
+forwardEps: 9.92305
+forwardPE: 19.065207
+freeCashflow: 6371999744
+fullExchangeName: NYSE
+fullTimeEmployees: 60500
+fulldayChange: -0.18499756
+fulldayChangePercent: -0.0976988
+fulldayPrice: 189.185
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.39533
+grossProfits: 9980999680
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00098
+heldPercentInstitutions: 0.76829004
+impliedSharesOutstanding: 516729574
+industry: Conglomerates
+industryDisp: Conglomerates
+industryKey: conglomerates
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=80574&p=irol-IRHome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1787529600
+lastDividendValue: 0.78
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1711929600
+lastSplitFactor: 1196:1000
+longBusinessSummary: '3M Company provides diversified technology services in the America,
+  the Asia Pacific, Europe, the Middle East, Africa, and internationally. It operates
+  through three segments: Safety and Industrial, Transportation and Electronics, and
+  Consumer. The Safety and Industrial segment provides industrial abrasives and finishing
+  for metalworking applications; autobody repair solutions; industrial specialty products,
+  such as personal hygiene products, masking, and packaging materials; electrical
+  products and materials for construction and maintenance, power distribution, and
+  electrical original equipment manufacturers; structural adhesives and tapes; respiratory,
+  hearing, eye, and fall protection solutions; and natural and color-coated mineral
+  granules for shingles. The Transportation and Electronics segment provides ceramic
+  solutions; attachment and bonding, films, sound, and temperature management for
+  transportation vehicles; format graphic films for advertising and fleet signage;
+  reflective signage for highway and vehicle safety; light management films and electronics
+  assembly solutions; chip packaging and interconnection solutions; semiconductor
+  production materials; and data center solutions. The Consumer segment offers cleaning
+  products for the home; consumer air quality products; picture hanging accessories;
+  retail abrasives, paint accessories, and safety products; stationery and office
+  products; automotive appearance products; and consumer bandages, tapes, braces,
+  and supports. It serves automotive; commercial solutions; consumer markets; design
+  and construction; electronics; energy; government; manufacturing; safety; transportation
+  industries. The company offers its products through e-commerce and traditional wholesalers,
+  retailers, jobbers, distributors, channel partner, and dealers, as well as directly
+  to users. 3M Company was founded in 1902 and is headquartered in Saint Paul, Minnesota.'
+longName: 3M Company
+market: us_market
+marketCap: 97757478912
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_289194
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3536000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 97662354107
+numberOfAnalystOpinions: 18
+open: 189.09
+operatingCashflow: 3628999936
+operatingMargins: 0.20086001
+overallRisk: 5
+payoutRatio: 0.4582
+pegRatio: 1.64
+phone: 651 733 1110
+previousClose: 189.37
+priceEpsCurrentYear: 20.719296
+priceHint: 2
+priceToBook: 23.686615
+priceToSalesTrailing12Months: 3.8720434
+profitMargins: 0.14006
+quickRatio: 0.97
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.21053
+region: US
+regularMarketChange: -0.18499756
+regularMarketChangePercent: -0.0976988
+regularMarketDayHigh: 189.9
+regularMarketDayLow: 187.825
+regularMarketDayRange: 187.825 - 189.9
+regularMarketOpen: 189.09
+regularMarketPreviousClose: 189.37
+regularMarketPrice: 189.185
+regularMarketTime: 1794413729
+regularMarketVolume: 416693
+returnOnAssets: 0.08218
+returnOnEquity: 0.7297
+revenueGrowth: 0.01
+revenuePerShare: 48.046
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 4
+sharesOutstanding: 516729574
+sharesPercentSharesOut: 0.019299999
+sharesShort: 9968964
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 9678344
+shortName: 3M Company
+shortPercentOfFloat: 0.019299999
+shortRatio: 2.92
+sourceInterval: 15
+state: MN
+symbol: MMM
+targetHighPrice: 230.0
+targetLowPrice: 125.0
+targetMeanPrice: 194.51334
+targetMedianPrice: 197.5
+totalCash: 7399000064
+totalCashPerShare: 14.319
+totalDebt: 15600000000
+totalRevenue: 25247000576
+tradeable: false
+trailingAnnualDividendRate: 3.07
+trailingAnnualDividendYield: 0.01621165
+trailingEps: 6.7
+trailingPE: 28.236568
+trailingPegRatio: 1.644
+triggerable: true
+twoHundredDayAverage: 161.91255
+twoHundredDayAverageChange: 27.272446
+twoHundredDayAverageChangePercent: 0.16843936
+typeDisp: Equity
+volume: 416693
+website: https://www.3m.com
+zip: 55144-1000

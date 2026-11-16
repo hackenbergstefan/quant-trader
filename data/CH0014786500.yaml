@@ -1,0 +1,230 @@
+52WeekChange: 0.1103152
+SandP52WeekChange: 0.097798586
+address1: Bundesplatz 4
+allTimeHigh: 206.5
+allTimeLow: 57.4
+ask: 155.6
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 3.3 - Hold
+averageDailyVolume10Day: 18180
+averageDailyVolume3Month: 19061
+averageVolume: 19061
+averageVolume10days: 18180
+beta: 0.036
+bid: 155.2
+bidSize: 0
+boardRisk: 4
+bookValue: 175.349
+city: Bern
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ewald  Burgener
+  title: CEO & Member of Executive Board
+  totalPay: 1207000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Serge  Laville
+  title: CFO & Member of Executive Board
+  totalPay: 708000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Vogler
+  title: Head of Private & Business Clients, Deputy CEO and Member of Executive Board
+  totalPay: 763000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher  Wille
+  title: Head of Customer Services & Products and Member of Executive Board
+  totalPay: 722000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Michael  Eisenrauch
+  title: Head of Operations & IT and Member of Executive Board
+  totalPay: 698000
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kathrin  Wehrli
+  title: Head of Corporate & Institutional Clients and Member of Executive Board
+  totalPay: 419000
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joachim  Matha
+  title: Head of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 155.2
+customPriceAlertConfidence: LOW
+dayHigh: 156.2
+dayLow: 154.6
+dividendDate: 1747699200
+dividendRate: 6.0
+dividendYield: 3.87
+earningsQuarterlyGrowth: 0.097
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1801758600
+earningsTimestampStart: 1801758600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 20.37
+enterpriseValue: 11276507136
+epsCurrentYear: 9.99
+epsForward: 11.21178
+epsTrailingTwelveMonths: 10.18
+esgPopulated: false
+exDividendDate: 1779062400
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 150.2
+fiftyDayAverageChange: 5.0
+fiftyDayAverageChangePercent: 0.03328895
+fiftyTwoWeekChangePercent: 11.031521
+fiftyTwoWeekHigh: 184.4
+fiftyTwoWeekHighChange: -29.199997
+fiftyTwoWeekHighChangePercent: -0.15835139
+fiftyTwoWeekLow: 134.8
+fiftyTwoWeekLowChange: 20.399994
+fiftyTwoWeekLowChangePercent: 0.15133527
+fiftyTwoWeekRange: 134.8 - 184.4
+financialCurrency: CHF
+firstTradeDateMilliseconds: 868863600000
+fiveYearAvgDividendYield: 4.75
+forwardEps: 11.21178
+forwardPE: 13.842584
+fullExchangeName: Swiss
+fullTimeEmployees: 1052
+fulldayChange: 0.19999695
+fulldayChangePercent: 0.12903029
+fulldayPrice: 155.2
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 553580032
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0034599998
+heldPercentInstitutions: 0.42888
+impliedSharesOutstanding: 15762461
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1779062400
+lastDividendValue: 6.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1039392000
+lastSplitFactor: '10:1'
+longBusinessSummary: Valiant Holding AG, together with its subsidiaries, provides
+  financial products and services in the areas of financing, payments, savings, investments,
+  and retirement planning in Switzerland. The company offers savings; real estate
+  financing; loans for working capital and other basic services for businesses; unsecured
+  and consumer loans; payment transactions and other banking transactions through
+  Valiant app; and retirement planning and investment solutions, as well as personal
+  advisory services. It serves private clients, affluent clients, self-employed individuals
+  and small companies, and medium-sized companies. The company was founded in 1824
+  and is based in Bern, Switzerland.
+longName: Valiant Holding AG
+market: ch_market
+marketCap: 2446333952
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874866
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 160579008
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 2443181455
+numberOfAnalystOpinions: 4
+open: 155.4
+operatingMargins: 0.35557
+overallRisk: 4
+payoutRatio: 0.5893
+pegRatio: 1.91
+phone: 41 31 320 91 11
+previousClose: 155.0
+priceEpsCurrentYear: 15.535536
+priceHint: 2
+priceToBook: 0.885092
+priceToSalesTrailing12Months: 4.419115
+profitMargins: 0.29007
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.25
+region: US
+regularMarketChange: 0.19999695
+regularMarketChangePercent: 0.12903029
+regularMarketDayHigh: 156.2
+regularMarketDayLow: 154.6
+regularMarketDayRange: 154.6 - 156.2
+regularMarketOpen: 155.4
+regularMarketPreviousClose: 155.0
+regularMarketPrice: 155.2
+regularMarketTime: 1794411453
+regularMarketVolume: 6780
+returnOnAssets: 0.00416
+returnOnEquity: 0.05819
+revenueGrowth: 0.006
+revenuePerShare: 34.795
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 15762461
+shortName: VALIANT N
+sourceInterval: 15
+symbol: VATN.SW
+targetHighPrice: 187.0
+targetLowPrice: 126.0
+targetMeanPrice: 160.5
+targetMedianPrice: 164.5
+totalCash: 3902868992
+totalCashPerShare: 247.605
+totalDebt: 12736194560
+totalRevenue: 553580032
+tradeable: false
+trailingAnnualDividendRate: 6.0
+trailingAnnualDividendYield: 0.038709678
+trailingEps: 10.18
+trailingPE: 15.245579
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 160.576
+twoHundredDayAverageChange: -5.376007
+twoHundredDayAverageChangePercent: -0.033479515
+typeDisp: Equity
+volume: 6780
+website: https://www.valiant.ch
+zip: '3001'

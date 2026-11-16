@@ -1,0 +1,263 @@
+52WeekChange: 0.17292488
+SandP52WeekChange: 0.097798586
+address1: 33 Cavendish Square
+allTimeHigh: 6492.0
+allTimeLow: 56.22
+ask: 5935.0
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 816585
+averageDailyVolume3Month: 916219
+averageVolume: 916219
+averageVolume10days: 816585
+beta: 1.013
+bid: 5930.0
+bidSize: 0
+boardRisk: 3
+bookValue: 6.917
+city: London
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andre Pierre Joseph Lacroix
+  title: CEO & Director
+  totalPay: 2444000
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Colm  Deasy
+  title: Chief Executive Officer of Asia
+  totalPay: 1098000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laura  Crespi
+  title: Group CFO & Executive Director
+  unexercisedValue: 0
+  yearBorn: 1984
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Denis Jacques Michel Moreau
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Todd  Andrews
+  title: Group General Counsel and Head of Risk & Compliance
+  unexercisedValue: 0
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tony  George
+  title: Executive Vice President of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ian  Galloway
+  title: Executive Vice President of World of Energy
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark  Thomas
+  title: Executive Vice President of Global Sustainability, Assurance, Agri World
+    & Food
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Saranpal  Rai
+  title: President of Electrical, Connected World, Transportation Technologies & CEA
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bertrand  Mallet
+  title: Chief Commercial Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 5930.0
+currentRatio: 1.096
+customPriceAlertConfidence: LOW
+dayHigh: 5940.0
+dayLow: 5930.0
+debtToEquity: 172.66
+dividendRate: 1.08
+dividendYield: 1.81
+earningsCallTimestampEnd: 1772555400
+earningsCallTimestampStart: 1772555400
+earningsGrowth: -0.111
+earningsQuarterlyGrowth: -0.148
+earningsTimestampEnd: 1785511800
+earningsTimestampStart: 1785511800
+ebitda: 789600000
+ebitdaMargins: 0.22367
+enterpriseToEbitda: 13.438
+enterpriseToRevenue: 3.006
+enterpriseValue: 10610490368
+epsCurrentYear: 2.67986
+epsForward: 2.89982
+epsTrailingTwelveMonths: 2.05
+esgPopulated: false
+exDividendDate: 1779926400
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fax: 44 20 7396 3480
+fiftyDayAverage: 5892.2
+fiftyDayAverageChange: 37.799805
+fiftyDayAverageChangePercent: 0.0064152274
+fiftyTwoWeekChangePercent: 17.292488
+fiftyTwoWeekHigh: 5965.0
+fiftyTwoWeekHighChange: -35.0
+fiftyTwoWeekHighChangePercent: -0.005867561
+fiftyTwoWeekLow: 3519.416
+fiftyTwoWeekLowChange: 2410.584
+fiftyTwoWeekLowChangePercent: 0.6849386
+fiftyTwoWeekRange: 3519.416 - 5965.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 1022223600000
+fiveYearAvgDividendYield: 2.61
+floatShares: 151160360
+forwardEps: 2.89982
+forwardPE: 20.449545
+freeCashflow: 457449984
+fullExchangeName: LSE
+fullTimeEmployees: 45425
+fulldayChange: -5.0
+fulldayChangePercent: -0.084245995
+fulldayPrice: 5930.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.56269
+grossProfits: 1986400000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.04077
+heldPercentInstitutions: 0.85692
+impliedSharesOutstanding: 153496203
+industry: Specialty Business Services
+industryDisp: Specialty Business Services
+industryKey: specialty-business-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779926400
+lastDividendValue: 1.077
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Intertek Group plc provides quality assurance solutions to various
+  industries in the United Kingdom, the United States, China, Australia, and internationally.
+  It operates through five segments: Consumer Products, Corporate Assurance, Health
+  and Safety, Industry and Infrastructure, and World of Energy. The company offers
+  quality assurance, testing, inspection, and certification services, including laboratory
+  safety, quality and performance testing, accredited third-party management systems
+  auditing and certification, technical inspection, second-party supplier auditing
+  and supply chain solutions, sustainability data verification, process performance
+  analysis and training, food safety testing, hygiene and safety audits, advisory
+  and consulting, and validation services, as well as hardware, software, and cyber
+  security solutions. It also provides asset performance management, analytical testing,
+  non-destructive and materials testing, engineering, cargo and inventory inspection,
+  analytical assessment, calibration, supply-chain traceability, and related research
+  and technical services, as well as support services in product development, regulatory
+  authorization, chemical testing, and production. The company serves a range of industries,
+  including textiles, footwear, toys, hardlines, home appliances, consumer electronics,
+  information and communication technology, automotive, aerospace, lighting, building
+  products, industrial and renewable energy products, oil and gas, petrochemical,
+  minerals, exploration, ore and mining, building and construction, solar energy,
+  energy storage, green hydrogen, petroleum and biofuels, agricultural supply chain,
+  food, transportation, chemicals and pharma, and healthcare, as well as governments,
+  regulatory bodies, and exporters and importers to support trade compliance. The
+  company was founded in 1885 and is based in London, the United Kingdom.'
+longName: Intertek Group plc
+market: gb_market
+marketCap: 9102324736
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_30202
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 320100000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 9109999648
+numberOfAnalystOpinions: 11
+open: 5940.0
+operatingCashflow: 596700032
+operatingMargins: 0.17593999
+overallRisk: 3
+payoutRatio: 0.8045
+pegRatio: 3.02
+phone: 44 20 7396 3400
+previousClose: 5935.0
+priceEpsCurrentYear: 2212.802
+priceHint: 2
+priceToBook: 8.573081
+priceToSalesTrailing12Months: 2.578416
+profitMargins: 0.090670004
+quickRatio: 1.079
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.6
+region: US
+regularMarketChange: -5.0
+regularMarketChangePercent: -0.084245995
+regularMarketDayHigh: 5940.0
+regularMarketDayLow: 5930.0
+regularMarketDayRange: 5930.0 - 5940.0
+regularMarketOpen: 5940.0
+regularMarketPreviousClose: 5935.0
+regularMarketPrice: 5930.0
+regularMarketTime: 1794411315
+regularMarketVolume: 201803
+returnOnAssets: 0.103269994
+returnOnEquity: 0.29943
+revenueGrowth: 0.059
+revenuePerShare: 22.894
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 153496203
+shortName: INTERTEK GROUP PLC ORD 1P
+sourceInterval: 15
+symbol: ITRK.L
+targetHighPrice: 6000.0
+targetLowPrice: 5717.0
+targetMeanPrice: 5937.909
+targetMedianPrice: 6000.0
+totalCash: 438600000
+totalCashPerShare: 2.859
+totalDebt: 1903399936
+totalRevenue: 3530200064
+tradeable: false
+trailingAnnualDividendRate: 1.077
+trailingAnnualDividendYield: 0.00018146589
+trailingEps: 2.05
+trailingPE: 28.92683
+trailingPegRatio: 3.0254
+triggerable: false
+twoHundredDayAverage: 5264.622
+twoHundredDayAverageChange: 665.3779
+twoHundredDayAverageChangePercent: 0.12638664
+typeDisp: Equity
+volume: 201803
+website: https://www.intertek.com
+zip: W1G 0PS

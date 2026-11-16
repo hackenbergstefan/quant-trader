@@ -1,0 +1,265 @@
+52WeekChange: 0.41410494
+SandP52WeekChange: 0.097798586
+address1: Tour Coupole - 2
+address2: place Jean Millier Paris La Défense Cedex
+allTimeHigh: 85.94
+allTimeLow: 7.34375
+auditRisk: 10
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 4647163
+averageDailyVolume3Month: 3780970
+averageVolume: 3780970
+averageVolume10days: 4647163
+beta: 0.04
+boardRisk: 4
+bookValue: 53.52851
+city: Courbevoie
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick  Pouyanne
+  title: Chairman & CEO
+  totalPay: 4164105
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Pierre  Sbraire
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marie-Noëlle  Semeria
+  title: Senior VP & Group CTO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Renaud  Lions
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Emmanuelle  Guégan
+  title: President of Marketing & Services
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Catherine  Remy
+  title: President of People & Social Engagement
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Deffontaines
+  title: Senior Vice President of Talent Management
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephane  Michel
+  title: President of Gas, Renewables & Power
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Laurent  Vivier
+  title: Senior Vice President of Middle East & North Africa - Exploration and Production
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Namita  Shah
+  title: President of Asia & One Tech
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 79.33
+currentRatio: 1.111
+customPriceAlertConfidence: LOW
+dayHigh: 79.59
+dayLow: 78.5
+debtToEquity: 46.122
+dividendRate: 3.6
+dividendYield: 4.6
+earningsCallTimestampEnd: 1793278800
+earningsCallTimestampStart: 1793278800
+earningsGrowth: 1.232
+earningsQuarterlyGrowth: 1.244
+earningsTimestamp: 1793291400
+earningsTimestampEnd: 1793291400
+earningsTimestampStart: 1793291400
+ebitda: 48614998016
+ebitdaMargins: 0.22674999
+enterpriseToEbitda: 4.159
+enterpriseToRevenue: 0.943
+enterpriseValue: 202198515712
+epsCurrentYear: 12.77216
+epsForward: 10.195555
+epsTrailingTwelveMonths: 8.62
+esgPopulated: false
+exDividendDate: 1798675200
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 79.5104
+fiftyDayAverageChange: -0.18039703
+fiftyDayAverageChangePercent: -0.0022688482
+fiftyTwoWeekChangePercent: 41.410492
+fiftyTwoWeekHigh: 85.94
+fiftyTwoWeekHighChange: -6.6100006
+fiftyTwoWeekHighChangePercent: -0.07691413
+fiftyTwoWeekLow: 53.29
+fiftyTwoWeekLowChange: 26.04
+fiftyTwoWeekLowChangePercent: 0.48864704
+fiftyTwoWeekRange: 53.29 - 85.94
+financialCurrency: USD
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 5.08
+floatShares: 2029948548
+forwardEps: 10.195555
+forwardPE: 7.7808423
+freeCashflow: 13983625216
+fullExchangeName: Paris
+fullTimeEmployees: 94847
+fulldayChange: 1.1300049
+fulldayChangePercent: 1.4450191
+fulldayPrice: 79.33
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.39180002
+grossProfits: 84000997376
+hasPrePostMarketData: false
+heldPercentInsiders: 0.08854
+heldPercentInstitutions: 0.55679
+impliedSharesOutstanding: 2193089956
+industry: Oil & Gas Integrated
+industryDisp: Oil & Gas Integrated
+industryKey: oil-gas-integrated
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1806451200
+lastDividendValue: 0.9
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1147910400
+lastSplitFactor: '4:1'
+longBusinessSummary: TotalEnergies SE, an integrated energy company, produces and
+  markets oil and biofuels, natural gas, biogas and low-carbon hydrogen, renewables,
+  and electricity in France, the United States, Europe, Africa, and internationally.
+  It operates through Exploration & Production, Integrated LNG, Integrated Power,
+  Refining & Chemicals, and Marketing & Services segments. The Exploration & Production
+  segment engages in the activities of exploration and production of oil and natural
+  gas, as well as carbon storage. The Integrated LNG segment is involved in the upstream
+  and midstream LNG activities, as well as biogas and synthetic methane activities,
+  as well as gas trading. The Integrated Power segment engages in the generation,
+  storage, electricity trading, and B2B-B2C distribution of gas and electricity. The
+  Refining & Chemicals segment is involved in the industrial hub activities comprising
+  the activities of refining, petrochemicals and specialty chemicals. This segment
+  also includes the activities of oil supply, trading and marine shipping, as well
+  as hydrogen activities. The Marketing & Services segment engages in the marketing
+  activities in the field of petroleum products, as well as corresponding supply and
+  logistics activities. The company was formerly known as TOTAL SE and changed its
+  name to TotalEnergies SE in June 2021. TotalEnergies SE was incorporated in 1924
+  and is headquartered in Courbevoie, France.
+longName: TotalEnergies SE
+market: fr_market
+marketCap: 173977829376
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_326300
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 22417000448
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 172705834035
+numberOfAnalystOpinions: 22
+open: 78.5
+operatingCashflow: 40079998976
+operatingMargins: 0.16996
+overallRisk: 4
+payoutRatio: 0.4
+pegRatio: 0.65
+phone: 33 1 47 44 45 46
+prevName: TOTAL SE
+previousClose: 78.2
+priceEpsCurrentYear: 6.211166
+priceHint: 2
+priceToBook: 1.482014
+priceToSalesTrailing12Months: 0.81147516
+profitMargins: 0.10456
+quickRatio: 0.517
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.90909
+region: US
+regularMarketChange: 1.1300049
+regularMarketChangePercent: 1.4450191
+regularMarketDayHigh: 79.59
+regularMarketDayLow: 78.5
+regularMarketDayRange: 78.5 - 79.59
+regularMarketOpen: 78.5
+regularMarketPreviousClose: 78.2
+regularMarketPrice: 79.33
+regularMarketTime: 1794411574
+regularMarketVolume: 1139802
+returnOnAssets: 0.07186
+returnOnEquity: 0.17828
+revenueGrowth: 0.411
+revenuePerShare: 99.337
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 5
+sharesOutstanding: 2193089956
+shortName: TOTALENERGIES
+sourceInterval: 15
+symbol: TTE.PA
+targetHighPrice: 100.61447
+targetLowPrice: 82.1579
+targetMeanPrice: 90.38167
+targetMedianPrice: 90.55258
+totalCash: 37802999808
+totalCashPerShare: 17.131
+totalDebt: 63170998272
+totalRevenue: 214396993536
+tradeable: false
+trailingAnnualDividendRate: 4.066
+trailingAnnualDividendYield: 0.051994886
+trailingEps: 8.62
+trailingPE: 9.203016
+trailingPegRatio: 0.6503
+triggerable: false
+twoHundredDayAverage: 75.0234
+twoHundredDayAverageChange: 4.3066025
+twoHundredDayAverageChangePercent: 0.057403456
+typeDisp: Equity
+volume: 1139802
+website: https://totalenergies.com
+zip: '92078'

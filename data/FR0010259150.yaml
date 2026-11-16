@@ -1,0 +1,263 @@
+52WeekChange: 0.283836
+SandP52WeekChange: 0.097798586
+address1: 70 rue Balard
+allTimeHigh: 174.0
+allTimeLow: 17.5
+ask: 0.0
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 109581
+averageDailyVolume3Month: 103642
+averageVolume: 103642
+averageVolume10days: 109581
+beta: 0.317
+bid: 0.0
+bidSize: 0
+boardRisk: 8
+bookValue: 57.145
+city: Paris
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Loew
+  title: MD, CEO & Director
+  totalPay: 7869509
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Aymeric  Le Chatelier
+  title: Executive VP & CFO
+  totalPay: 731250
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pierrick  Lefranc
+  title: Executive VP & Head of Technical Operations
+  unexercisedValue: 0
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Henry  Wheeler M.Sc.
+  title: Global Vice President of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1984
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Caroline  Sitbon
+  title: Executive VP & General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sally  Bain
+  title: Head of Global Media Relations
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Regis  Mulot
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philippe  Lopes-Fernandes CBO
+  title: Executive VP & Chief Business Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mari  Scheiffele
+  title: Executive VP, Chief Product Officer & Head of GPPS
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Sandra  Silvestri M.D., Ph.D.
+  title: Executive VP & Chief Medical Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 166.7
+currentRatio: 1.965
+customPriceAlertConfidence: LOW
+dayHigh: 167.0
+dayLow: 165.2
+debtToEquity: 20.443
+dividendRate: 1.6
+dividendYield: 0.96
+earningsCallTimestampEnd: 1785425400
+earningsCallTimestampStart: 1785425400
+earningsGrowth: 0.215
+earningsQuarterlyGrowth: 0.207
+earningsTimestampEnd: 1785425400
+earningsTimestampStart: 1785425400
+ebitda: 1493600000
+ebitdaMargins: 0.34805
+enterpriseToEbitda: 8.487
+enterpriseToRevenue: 2.954
+enterpriseValue: 12676166656
+epsCurrentYear: 16.12166
+epsForward: 14.4533
+epsTrailingTwelveMonths: 6.18
+esgPopulated: false
+exDividendDate: 1780444800
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 33 1 58 33 50 01
+fiftyDayAverage: 152.24
+fiftyDayAverageChange: 14.459991
+fiftyDayAverageChangePercent: 0.09498155
+fiftyTwoWeekChangePercent: 28.3836
+fiftyTwoWeekHigh: 174.0
+fiftyTwoWeekHighChange: -7.300003
+fiftyTwoWeekHighChangePercent: -0.04195404
+fiftyTwoWeekLow: 115.6
+fiftyTwoWeekLowChange: 51.1
+fiftyTwoWeekLowChangePercent: 0.44204152
+fiftyTwoWeekRange: 115.6 - 174.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1133942400000
+fiveYearAvgDividendYield: 1.09
+floatShares: 29968712
+forwardEps: 14.4533
+forwardPE: 11.533697
+freeCashflow: 1033600000
+fullExchangeName: Paris
+fullTimeEmployees: 5535
+fulldayChange: 0.69999695
+fulldayChangePercent: 0.42168492
+fulldayPrice: 166.7
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.81005996
+grossProfits: 3476199936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.57643
+heldPercentInstitutions: 0.22049
+impliedSharesOutstanding: 82432839
+industry: Drug Manufacturers - Specialty & Generic
+industryDisp: Drug Manufacturers - Specialty & Generic
+industryKey: drug-manufacturers-specialty-generic
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1780444800
+lastDividendValue: 1.6
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Ipsen S.A., a biopharmaceutical company, develops and commercializes
+  medicines in the areas of oncology, rare disease, and neuroscience in North America,
+  Europe, and internationally. It engages in the development of Somatuline for neuroendocrine
+  tumors and acromegaly indications; and Dysport for motor muscular disorders and
+  medical aesthetics indications; and Decapeptyl for advanced metastatic prostate
+  cancer, uterine fibroids, central precocious puberty, endometriosis, female infertility,
+  and early-stage breast cancer in combination with hormone therapy. The company also
+  develops Cabometyx for renal cell carcinoma, second line hepatocellular carcinoma,
+  differentiated thyroid cancer, and neuroendocrine tumors; Onivyde for second-line
+  metastatic pancreatic cancer; and Bylvay for the treatment of progressive familial
+  intrahepatic cholestasis and cholestatic pruritus in patients with both PFIC and
+  Alagille syndrome. In addition, it is involved in the development of Iqirvo for
+  the second line treatment for primary biliary cholangitis; Sohonos for the treatment
+  to reduce new, abnormal bone formation in soft and connective tissues, in people
+  living with ultra-rare bone disease, and fibrodysplasia ossificans progressiva;
+  and IPN60340 in Phase I/II clinical trial for first line acute myeloid leukemia
+  indications. Further, the company develops Tazverik + rituximab and lenalidomide
+  in Phase III clinical trials for second line follicular lymphoma indications; Tovorafenib
+  in Phase III clinical trials for first line pediatric low-grade gliomas indications;
+  and IPN01194, IPN01195, IPN60300, and IPN01203 in Phase I for solid tumors indications;
+  and IPN10200 in Phase II clinical trials for aesthetic and therapeutic indications.
+  Ipsen S.A. was founded in 1929 and is headquartered in Paris, France.
+longName: Ipsen S.A.
+market: fr_market
+marketCap: 13741554688
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_135238
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 512600000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 13469525892
+numberOfAnalystOpinions: 13
+open: 165.7
+operatingCashflow: 1304800000
+operatingMargins: 0.27379
+overallRisk: 8
+payoutRatio: 0.2589
+pegRatio: 0.49
+phone: 33 1 58 33 50 00
+previousClose: 166.0
+priceEpsCurrentYear: 10.340126
+priceHint: 2
+priceToBook: 2.9171405
+priceToSalesTrailing12Months: 3.2021892
+profitMargins: 0.119449995
+quickRatio: 1.773
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.76923
+region: US
+regularMarketChange: 0.69999695
+regularMarketChangePercent: 0.42168492
+regularMarketDayHigh: 167.0
+regularMarketDayLow: 165.2
+regularMarketDayRange: 165.2 - 167.0
+regularMarketOpen: 165.7
+regularMarketPreviousClose: 166.0
+regularMarketPrice: 166.7
+regularMarketTime: 1794411501
+regularMarketVolume: 21184
+returnOnAssets: 0.10277
+returnOnEquity: 0.114429995
+revenueGrowth: 0.187
+revenuePerShare: 51.994
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 7
+sharesOutstanding: 82432839
+shortName: IPSEN
+sourceInterval: 15
+symbol: IPN.PA
+targetHighPrice: 235.0
+targetLowPrice: 130.0
+targetMeanPrice: 162.23077
+targetMedianPrice: 160.0
+totalCash: 1971299968
+totalCashPerShare: 23.914
+totalDebt: 963100032
+totalRevenue: 4291300096
+tradeable: false
+trailingAnnualDividendRate: 1.6
+trailingAnnualDividendYield: 0.009638554
+trailingEps: 6.18
+trailingPE: 26.97411
+trailingPegRatio: 0.4937
+triggerable: false
+twoHundredDayAverage: 157.754
+twoHundredDayAverageChange: 8.945999
+twoHundredDayAverageChangePercent: 0.05670854
+typeDisp: Equity
+volume: 21184
+website: https://www.ipsen.com
+zip: '75015'

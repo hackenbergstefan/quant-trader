@@ -1,0 +1,264 @@
+52WeekChange: 0.28707778
+SandP52WeekChange: 0.097798586
+address1: 5, avenue Kléber
+allTimeHigh: 289.2411
+allTimeLow: 9.641369
+ask: 0.0
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 414612
+averageDailyVolume3Month: 409316
+averageVolume: 409316
+averageVolume10days: 414612
+beta: 0.483
+bid: 0.0
+bidSize: 0
+boardRisk: 2
+bookValue: 24.16
+city: Paris
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thierry  Leger
+  title: CEO & Director
+  totalPay: 2952515
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Claudia  Dill M.B.A.
+  title: Group Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fabian Peder Gultier Uffer
+  title: Group Chief Risk Officer
+  unexercisedValue: 24609
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Redmond  Murphy
+  title: Deputy CEO of SCOR Life & Health
+  unexercisedValue: 52283
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Claire  Le Gall-Robinson
+  title: Group Secretary General & Group Chief Corporate Officer
+  unexercisedValue: 25929
+  yearBorn: 1975
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Paul  Conoscente-Jacopin
+  title: Chief Executive Officer of SCOR Property & Casualty
+  unexercisedValue: 181048
+  yearBorn: 1964
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philipp  Ruede
+  title: Group Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc  Philippe
+  title: Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Fossard
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexandre  Garcia
+  title: Group Head of Communications & Public Affairs
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 34.96
+currentRatio: 4.097
+customPriceAlertConfidence: LOW
+dayHigh: 35.1
+dayLow: 34.82
+debtToEquity: 51.186
+dividendRate: 1.9
+dividendYield: 5.42
+earningsCallTimestampEnd: 1793365200
+earningsCallTimestampStart: 1793365200
+earningsGrowth: -0.058
+earningsQuarterlyGrowth: -0.051
+earningsTimestamp: 1793377800
+earningsTimestampEnd: 1793377800
+earningsTimestampStart: 1793377800
+ebitda: 1336999936
+ebitdaMargins: 0.0862
+enterpriseToEbitda: 5.89
+enterpriseToRevenue: 0.508
+enterpriseValue: 7875219456
+epsCurrentYear: 4.67255
+epsForward: 4.58829
+epsTrailingTwelveMonths: 4.52
+esgPopulated: false
+exDividendDate: 1777852800
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 33 1 58 44 85 00
+fiftyDayAverage: 33.1244
+fiftyDayAverageChange: 1.835598
+fiftyDayAverageChangePercent: 0.05541528
+fiftyTwoWeekChangePercent: 28.707779
+fiftyTwoWeekHigh: 35.62
+fiftyTwoWeekHighChange: -0.65999985
+fiftyTwoWeekHighChangePercent: -0.018528912
+fiftyTwoWeekLow: 26.2
+fiftyTwoWeekLowChange: 8.759998
+fiftyTwoWeekLowChangePercent: 0.33435106
+fiftyTwoWeekRange: 26.2 - 35.62
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 6.52
+floatShares: 177994094
+forwardEps: 4.58829
+forwardPE: 7.6193957
+freeCashflow: -355624992
+fullExchangeName: Paris
+fullTimeEmployees: 3610
+fulldayChange: -0.10000229
+fulldayChangePercent: -0.28506923
+fulldayPrice: 34.96
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.108509995
+grossProfits: 1683000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.033299997
+heldPercentInstitutions: 0.53573
+impliedSharesOutstanding: 178667119
+industry: Insurance - Reinsurance
+industryDisp: Insurance - Reinsurance
+industryKey: insurance-reinsurance
+irWebsite: http://www.scor.com/en/investors/scor-share/share-on-line.html
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777852800
+lastDividendValue: 1.9
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1167782400
+lastSplitFactor: '1:10'
+longBusinessSummary: SCOR SE, together with its subsidiaries, provides life and non-life
+  reinsurance products in Europe, the Middle East, Africa, the Americas, Latin America,
+  and the Asia Pacific. It operates in two segments, SCOR P&C and SCOR L&H. The SCOR
+  P&C segment offers reinsurance products in the areas of property, motors, casualty
+  treaties, credit and surety, decennial insurance, aviation, marine and energy, engineering,
+  cyber agricultural risks, and binders and facilities; It also provides business
+  solutions including corporate risk insurance, as well as specialist lines, such
+  as Political and Credit risk and Environmental Liability; and binders and facilities.
+  The SCOR L&H segment provides life reinsurance products, such as protection for
+  mortality, morbidity, behavioral risks, disability, long-term care, critical illness,
+  medical, and personal accident. This segment also provides financial solutions that
+  combine traditional life reinsurance with financial components and provide liquidity,
+  balance sheet, solvency, and income improvements to clients; and longevity solutions
+  that include products covering the risk of negative deviation from expected results
+  due to the insured or annuitant living longer than assumed in the pricing of insurance
+  covers provided by insurers or pension funds. The company is involved in the asset
+  management business. SCOR SE was incorporated in 1956 and is headquartered in Paris,
+  France.
+longName: SCOR SE
+market: fr_market
+marketCap: 6246202368
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_229512
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 812000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 6185455659
+numberOfAnalystOpinions: 14
+open: 35.04
+operatingCashflow: 1047000000
+operatingMargins: 0.08253
+overallRisk: 2
+payoutRatio: 0.42040002
+pegRatio: 0.46
+phone: 33 1 58 44 70 00
+previousClose: 35.06
+priceEpsCurrentYear: 7.4819956
+priceHint: 2
+priceToBook: 1.4470198
+priceToSalesTrailing12Months: 0.402721
+profitMargins: 0.05235
+quickRatio: 2.65
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.5
+region: US
+regularMarketChange: -0.10000229
+regularMarketChangePercent: -0.28506923
+regularMarketDayHigh: 35.1
+regularMarketDayLow: 34.82
+regularMarketDayRange: 34.82 - 35.1
+regularMarketOpen: 35.04
+regularMarketPreviousClose: 35.06
+regularMarketPrice: 34.96
+regularMarketTime: 1794411460
+regularMarketVolume: 70278
+returnOnAssets: 0.02221
+returnOnEquity: 0.12767
+revenueGrowth: -0.008
+revenuePerShare: 86.763
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 178667119
+shortName: SCOR SE
+sourceInterval: 15
+symbol: SCR.PA
+targetHighPrice: 46.0
+targetLowPrice: 32.5
+targetMeanPrice: 36.69286
+targetMedianPrice: 37.0
+totalCash: 3630000128
+totalCashPerShare: 20.382
+totalDebt: 3238000128
+totalRevenue: 15509999616
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 4.52
+trailingPE: 7.7345133
+trailingPegRatio: 0.4629
+triggerable: false
+twoHundredDayAverage: 31.9486
+twoHundredDayAverageChange: 3.0113983
+twoHundredDayAverageChangePercent: 0.09425759
+typeDisp: Equity
+volume: 70278
+website: https://www.scor.com
+zip: '75795'

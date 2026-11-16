@@ -1,0 +1,287 @@
+52WeekChange: 0.72846746
+SandP52WeekChange: 0.097798586
+address1: 1915 Rexford Road
+allTimeHigh: 287.7
+allTimeLow: 0.625
+ask: 260.63
+askSize: 120
+auditRisk: 9
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 1793910
+averageDailyVolume3Month: 1391020
+averageVolume: 1391020
+averageVolume10days: 1793910
+beta: 1.815
+bid: 260.19
+bidSize: 200
+boardRisk: 7
+bookValue: 100.755
+city: Charlotte
+companyOfficers:
+- age: 57
+  exercisedValue: 3235653
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Leon J. Topalian
+  title: Chairman of the Board & CEO
+  totalPay: 4050198
+  unexercisedValue: 31113116
+  yearBorn: 1968
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Stephen D. Laxton
+  title: President & COO
+  totalPay: 2840145
+  unexercisedValue: 178913
+  yearBorn: 1971
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. K. Rex Query
+  title: Executive Vice President of Strategy
+  totalPay: 2510530
+  unexercisedValue: 584204
+  yearBorn: 1966
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. John L. Sullivan
+  title: Executive VP, CFO & Treasurer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Chris  Jacobi
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Douglas R. Wilner
+  title: President of Corporate Legal Affairs & General Counsel
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Ms. Elizabeth  Bledsoe
+  title: President of Human Resources & Talent
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. D. Chad Utermark
+  title: Executive Vice President of New Markets & Innovation
+  totalPay: 2562421
+  unexercisedValue: 3506086
+  yearBorn: 1969
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Gregory J. Murphy
+  title: Executive VP & Advisor
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Allen C. Behr
+  title: Executive Vice President of Raw Materials
+  totalPay: 2610525
+  unexercisedValue: 1165001
+  yearBorn: 1975
+compensationAsOfEpochDate: 1672444800
+compensationRisk: 2
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 259.78
+currentRatio: 2.462
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 261.39
+dayLow: 257.505
+debtToEquity: 29.443
+displayName: Nucor
+dividendDate: 1794268800
+dividendRate: 2.24
+dividendYield: 0.87
+earningsCallTimestampEnd: 1793109600
+earningsCallTimestampStart: 1793109600
+earningsGrowth: 1.205
+earningsQuarterlyGrowth: 1.173
+earningsTimestamp: 1793044800
+earningsTimestampEnd: 1800910800
+earningsTimestampStart: 1800910800
+ebitda: 6696000000
+ebitdaMargins: 0.17245
+enterpriseToEbitda: 9.378
+enterpriseToRevenue: 1.617
+enterpriseValue: 62797807616
+epsCurrentYear: 19.98125
+epsForward: 22.03016
+epsTrailingTwelveMonths: 15.7
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 704 362 4208
+fiftyDayAverage: 255.2794
+fiftyDayAverageChange: 4.500595
+fiftyDayAverageChangePercent: 0.017630076
+fiftyTwoWeekChangePercent: 72.84675
+fiftyTwoWeekHigh: 287.7
+fiftyTwoWeekHighChange: -27.920013
+fiftyTwoWeekHighChangePercent: -0.09704558
+fiftyTwoWeekLow: 143.41
+fiftyTwoWeekLowChange: 116.369995
+fiftyTwoWeekLowChangePercent: 0.81144965
+fiftyTwoWeekRange: 143.41 - 287.7
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 1.31
+floatShares: 222985888
+forwardEps: 22.03016
+forwardPE: 11.792015
+freeCashflow: 1537250048
+fullExchangeName: NYSE
+fullTimeEmployees: 33000
+fulldayChange: 3.3099976
+fulldayChangePercent: 1.2905983
+fulldayPrice: 259.78
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.17392
+grossProfits: 6752999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.011849999
+heldPercentInstitutions: 0.80845
+impliedSharesOutstanding: 224944177
+industry: Steel
+industryDisp: Steel
+industryKey: steel
+irWebsite: http://www.nucor.com/investor/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 0.56
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1149120000
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Nucor Corporation engages in the manufacture and sale of steel
+  and steel products. The company operates in three segments: Steel Mills, Steel Products,
+  and Raw Materials. The Steel Mills segment produces hot-rolled, cold-rolled, and
+  galvanized sheet steel products; plate steel products; wide-flange beams, beam blanks,
+  and H-piling and sheet piling structural steel products; and bar steel products,
+  such as blooms, billets, concrete reinforcing and merchant bars, and engineered
+  special bar quality products. This segment sells its products to steel service centers,
+  fabricators, and manufacturers in the United States, Canada, and Mexico, as well
+  as engages in the steel trading and rebar distribution businesses. The Steel Products
+  segment offers steel joists and joist girders, steel decks, and galvanized torque
+  tubes for use in solar arrays, hollow structural section steel tubing, electrical
+  conduit, fabricated concrete reinforcing steel, cold finished steel, steel fasteners,
+  steel grating and expanded metal, wire and wire mesh, metal building systems, insulated
+  metal panels, steel racking, overhead doors, and utility towers and structures for
+  communications and energy transmission. This segment is also involved in the piling
+  distribution business. The Raw Materials segment produces direct reduced iron (DRI);
+  brokers ferrous and nonferrous metals, pig iron, hot briquetted iron, and DRI; supplies
+  ferro-alloys; processes ferrous and nonferrous scrap metal; and engages in the natural
+  gas production and industrial gas business. This segment sells its ferrous scrap
+  to electric arc furnace steel mills and foundries for manufacturing process; and
+  nonferrous scrap metal to aluminum can producers, secondary aluminum smelters, steel
+  mills and other processors, and consumers of various nonferrous metals. Nucor Corporation
+  was founded in 1905 and is based in Charlotte, North Carolina.'
+longName: Nucor Corporation
+market: us_market
+marketCap: 58435997696
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_184945
+mostRecentQuarter: 1790985600
+netIncomeToCommon: 3588999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 57691433075
+numberOfAnalystOpinions: 16
+open: 260.0
+operatingCashflow: 5320999936
+operatingMargins: 0.13294
+overallRisk: 8
+payoutRatio: 0.1427
+pegRatio: 5.21
+phone: 704 366 7000
+previousClose: 256.47
+priceEpsCurrentYear: 13.001188
+priceHint: 2
+priceToBook: 2.5783336
+priceToSalesTrailing12Months: 1.5049577
+profitMargins: 0.092609994
+quickRatio: 1.361
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.64706
+region: US
+regularMarketChange: 3.3099976
+regularMarketChangePercent: 1.2905983
+regularMarketDayHigh: 261.39
+regularMarketDayLow: 257.505
+regularMarketDayRange: 257.505 - 261.39
+regularMarketOpen: 260.0
+regularMarketPreviousClose: 256.47
+regularMarketPrice: 259.78
+regularMarketTime: 1794413742
+regularMarketVolume: 224974
+returnOnAssets: 0.08821999
+returnOnEquity: 0.17583
+revenueGrowth: 0.32
+revenuePerShare: 170.135
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 8
+sharesOutstanding: 224944177
+sharesPercentSharesOut: 0.019299999
+sharesShort: 4349774
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4364734
+shortName: Nucor Corporation
+shortPercentOfFloat: 0.025799999
+shortRatio: 3.32
+sourceInterval: 15
+state: NC
+symbol: NUE
+targetHighPrice: 335.0
+targetLowPrice: 226.0
+targetMeanPrice: 296.8125
+targetMedianPrice: 300.5
+totalCash: 3640000000
+totalCashPerShare: 16.078
+totalDebt: 7093000192
+totalRevenue: 38828998656
+tradeable: false
+trailingAnnualDividendRate: 2.24
+trailingAnnualDividendYield: 0.0087339645
+trailingEps: 15.7
+trailingPE: 16.546497
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 226.8545
+twoHundredDayAverageChange: 32.92549
+twoHundredDayAverageChangePercent: 0.14513925
+typeDisp: Equity
+volume: 224974
+website: https://nucor.com
+zip: '28211'

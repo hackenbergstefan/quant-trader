@@ -1,0 +1,290 @@
+52WeekChange: 0.33681905
+SandP52WeekChange: 0.097798586
+address1: 615 J.B. Hunt Corporate Drive
+allTimeHigh: 299.76
+allTimeLow: 1.375
+ask: 243.44
+askSize: 2
+auditRisk: 10
+averageDailyVolume10Day: 978240
+averageDailyVolume3Month: 993456
+averageVolume: 993456
+averageVolume10days: 978240
+beta: 1.26
+bid: 206.76
+bidSize: 2
+boardRisk: 9
+bookValue: 38.98
+city: Lowell
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John N. Roberts III
+  title: Executive Chairman
+  totalPay: 1515183
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shelley  Simpson
+  title: President, CEO & Director
+  totalPay: 2076842
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. A. Brad Delco
+  title: EVP of Finance & Chief Financial Officer
+  totalPay: 560267
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nicholas  Hobbs
+  title: COO, President of Highway & Final Mile Services and Executive VP
+  totalPay: 1328142
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Kuhlow CPA
+  title: Senior VP of Finance & Chief Accounting Officer
+  totalPay: 1028633
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Darren P. Field
+  title: Executive VP & President of Intermodal
+  totalPay: 1138141
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stuart L. Scott Jr.
+  title: Executive VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer R. Boattini
+  title: Senior VP of Legal & Litigation, General Counsel and Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Spencer  Frazier
+  title: Executive Vice President of Sales & Marketing
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Keefauver
+  title: Executive Vice President of People
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 226.05
+currentRatio: 1.228
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 228.45
+dayLow: 223.85
+debtToEquity: 39.787
+displayName: J.B. Hunt Transport Services
+dividendDate: 1795132800
+dividendRate: 1.8
+dividendYield: 0.8
+earningsCallTimestampEnd: 1792098000
+earningsCallTimestampStart: 1792098000
+earningsGrowth: 0.034
+earningsQuarterlyGrowth: 0.009
+earningsTimestamp: 1800046800
+earningsTimestampEnd: 1800046800
+earningsTimestampStart: 1800046800
+ebitda: 1682820992
+ebitdaMargins: 0.12629
+enterpriseToEbitda: 13.391
+enterpriseToRevenue: 1.691
+enterpriseValue: 22534586368
+epsCurrentYear: 7.24944
+epsForward: 9.84521
+epsTrailingTwelveMonths: 7.09
+esgPopulated: false
+exDividendDate: 1793923200
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 236.1392
+fiftyDayAverageChange: -10.089203
+fiftyDayAverageChangePercent: -0.042725656
+fiftyTwoWeekChangePercent: 33.681904
+fiftyTwoWeekHigh: 299.76
+fiftyTwoWeekHighChange: -73.71001
+fiftyTwoWeekHighChangePercent: -0.24589673
+fiftyTwoWeekLow: 157.82
+fiftyTwoWeekLowChange: 68.229996
+fiftyTwoWeekLowChangePercent: 0.43232793
+fiftyTwoWeekRange: 157.82 - 299.76
+financialCurrency: USD
+firstTradeDateMilliseconds: 438359400000
+fiveYearAvgDividendYield: 0.87
+floatShares: 72536284
+forwardEps: 9.84521
+forwardPE: 22.960403
+freeCashflow: 841743488
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 31750
+fulldayChange: -0.22000122
+fulldayChangePercent: -0.09722951
+fulldayPrice: 226.05
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.17884001
+grossProfits: 2383079936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.20565
+heldPercentInstitutions: 0.79972
+impliedSharesOutstanding: 93219000
+industry: Integrated Freight & Logistics
+industryDisp: Integrated Freight & Logistics
+industryKey: integrated-freight-logistics
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793923200
+lastDividendValue: 0.45
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1116892800
+lastSplitFactor: '2:1'
+longBusinessSummary: 'J.B. Hunt Transport Services, Inc. provides surface transportation,
+  delivery, and logistic services in the United States. It operates through five segments:
+  Intermodal, Dedicated Contract Services, Integrated Capacity Solutions, Final Mile
+  Services, and Truckload. The JBI segment offers intermodal freight solutions. It
+  operates 124,838 pieces of company-owned trailing equipment; owns and maintains
+  its chassis fleet of 104,474 units; and manages a fleet of 5,880 company-owned tractors,
+  308 independent contractor trucks, and 8,704 company drivers. The DCS segment designs,
+  develops, and executes supply chain solutions that support various transportation
+  networks. As of December 31, 2025, it operated 11,878 company-owned trucks, 761
+  customer-owned trucks, and a contractor trucks. It operates 26,767 owned pieces
+  of trailing equipment and 5,218 customer-owned trailers. The ICS segment provides
+  freight brokerage and transportation logistics solutions; flatbed, refrigerated,
+  expedited, and less-than-truckload, as well as dry-van and intermodal solutions;
+  online multimodal marketplace; and logistics management services for customers to
+  outsource their transportation functions. The FMS segment delivers services through
+  1,085 company-owned trucks, 169 customer-owned trucks, and 39 independent contractor
+  trucks; and 1,091 owned pieces of trailing equipment and 98 customer-owned trailers.
+  The JBT segment provides dry-van freight services by utilizing tractors and trailers
+  operating over roads and highways through two company-owned tractors and 12,658
+  company-owned trailers. It transports or arranges for the transportation of freight,
+  such as general merchandise, specialty consumer items, appliances, home furnishings,
+  forest, paper, rubber, plastic products, food, beverages, building materials, apparel,
+  accessories, soaps, cosmetics, automotive parts, agricultural products, electronics,
+  and chemicals. The company was incorporated in 1961 and is headquartered in Lowell,
+  Arkansas.'
+longName: J.B. Hunt Transport Services, Inc.
+market: us_market
+marketCap: 21072154624
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_278576
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 676073984
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 21092663130
+numberOfAnalystOpinions: 23
+open: 227.0
+operatingCashflow: 1494025984
+operatingMargins: 0.07205
+overallRisk: 8
+payoutRatio: 0.2525
+pegRatio: 1.48
+phone: 479 820 0000
+previousClose: 226.27
+priceEpsCurrentYear: 31.181719
+priceHint: 2
+priceToBook: 5.799128
+priceToSalesTrailing12Months: 1.5813739
+profitMargins: 0.05074
+quickRatio: 1.024
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -0.22000122
+regularMarketChangePercent: -0.09722951
+regularMarketDayHigh: 228.45
+regularMarketDayLow: 223.85
+regularMarketDayRange: 223.85 - 228.45
+regularMarketOpen: 227.0
+regularMarketPreviousClose: 226.27
+regularMarketPrice: 226.05
+regularMarketTime: 1794413636
+regularMarketVolume: 102041
+returnOnAssets: 0.074099995
+returnOnEquity: 0.18765
+revenueGrowth: 0.204
+revenuePerShare: 141.285
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 4
+sharesOutstanding: 93219000
+sharesPercentSharesOut: 0.0318
+sharesShort: 2968946
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3227884
+shortName: J.B. Hunt Transport Services, I
+shortPercentOfFloat: 0.047399998
+shortRatio: 3.15
+sourceInterval: 15
+state: AR
+symbol: JBHT
+targetHighPrice: 330.0
+targetLowPrice: 187.0
+targetMeanPrice: 279.52173
+targetMedianPrice: 285.0
+totalCash: 3750000
+totalCashPerShare: 0.04
+totalDebt: 1445736960
+totalRevenue: 13325219840
+tradeable: false
+trailingAnnualDividendRate: 1.79
+trailingAnnualDividendYield: 0.007910903
+trailingEps: 7.09
+trailingPE: 31.882933
+trailingPegRatio: 1.4816
+triggerable: true
+twoHundredDayAverage: 246.7212
+twoHundredDayAverageChange: -20.671204
+twoHundredDayAverageChangePercent: -0.08378365
+typeDisp: Equity
+volume: 102041
+website: https://www.jbhunt.com
+zip: 72745-0130

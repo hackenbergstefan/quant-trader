@@ -1,0 +1,254 @@
+52WeekChange: 0.6679125
+SandP52WeekChange: 0.097798586
+address1: 101 Spear Street
+address2: Fifth Floor
+allTimeHigh: 457.3
+allTimeLow: 22.8
+ask: 223.24
+askSize: 80
+auditRisk: 1
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 3377870
+averageDailyVolume3Month: 3048637
+averageVolume: 3048637
+averageVolume10days: 3377870
+beta: 1.494
+bid: 222.51
+bidSize: 120
+boardRisk: 6
+bookValue: 59.261
+city: San Francisco
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Khozema Zoher Shipchandler
+  title: CEO & Director
+  totalPay: 2893378
+  unexercisedValue: 3396814
+  yearBorn: 1974
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Aidan  Viggiano
+  title: Chief Financial Officer
+  totalPay: 1939594
+  unexercisedValue: 63145
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Wyatt
+  title: Chief Operating Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Inbal  Shani
+  title: Chief Product & Technology Officer
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christy  Lake
+  title: Chief Administrative Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bryan  Vaniman
+  title: Senior Vice President of Corporate Development, Investor Relations & Treasury
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Koehler
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amy  Holcroft
+  title: Chief Privacy Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Juliana  Chen
+  title: Corporate Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Robin  Grochol
+  title: Vice President of Product, Data, Security & Identity,
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 222.7
+currentRatio: 4.471
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 223.165
+dayLow: 218.18
+debtToEquity: 11.526
+displayName: Twilio
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793307600
+earningsCallTimestampStart: 1793307600
+earningsGrowth: 3.451
+earningsQuarterlyGrowth: 3.327
+earningsTimestamp: 1793304000
+earningsTimestampEnd: 1793304000
+earningsTimestampStart: 1793304000
+ebitda: 586718016
+ebitdaMargins: 0.100609995
+enterpriseToEbitda: 53.367
+enterpriseToRevenue: 5.369
+enterpriseValue: 31311106048
+epsCurrentYear: 6.16071
+epsForward: 6.85799
+epsTrailingTwelveMonths: 7.96
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 253.4926
+fiftyDayAverageChange: -30.792603
+fiftyDayAverageChangePercent: -0.12147338
+fiftyTwoWeekChangePercent: 66.791245
+fiftyTwoWeekHigh: 308.4
+fiftyTwoWeekHighChange: -85.7
+fiftyTwoWeekHighChangePercent: -0.27788585
+fiftyTwoWeekLow: 105.0
+fiftyTwoWeekLowChange: 117.7
+fiftyTwoWeekLowChangePercent: 1.1209524
+fiftyTwoWeekRange: 105.0 - 308.4
+financialCurrency: USD
+firstTradeDateMilliseconds: 1466688600000
+floatShares: 154091886
+forwardEps: 6.85799
+forwardPE: 32.473072
+freeCashflow: 1077864576
+fullExchangeName: NYSE
+fullTimeEmployees: 5625
+fulldayChange: 8.48999
+fulldayChangePercent: 3.9633958
+fulldayPrice: 222.7
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.48606
+grossProfits: 2834456064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0013799999
+heldPercentInstitutions: 0.94099
+impliedSharesOutstanding: 154734032
+industry: Software - Infrastructure
+industryDisp: Software - Infrastructure
+industryKey: software-infrastructure
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Twilio Inc., together with its subsidiaries, provides customer
+  engagement platform solutions in the United States and internationally. The company
+  provides various application programming interfaces and software solutions for communications
+  between customers and end users, including messaging, voice, email, video interactions,
+  digital engagement centers, marketing campaigns, and user authentication and identity
+  solutions. It also offers software products to build direct and personalized relationships
+  with their end users, such as Segment, a platform that provides tools to harness
+  the power of contextual data by unifying real-time information collected throughout
+  each customer's journey into a unique profile. Twilio Inc. was incorporated in 2008
+  and is headquartered in San Francisco, California.
+longName: Twilio Inc.
+market: us_market
+marketCap: 34459267072
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_53507768
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1272651008
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 33145576994
+numberOfAnalystOpinions: 29
+open: 218.325
+operatingCashflow: 1186310016
+operatingMargins: 0.07678
+overallRisk: 8
+payoutRatio: 0.0
+pegRatio: 0.3
+phone: 415 390 2337
+previousClose: 214.21
+priceEpsCurrentYear: 36.14843
+priceHint: 2
+priceToBook: 3.757952
+priceToSalesTrailing12Months: 5.9091988
+profitMargins: 0.21824
+quickRatio: 4.09
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6129
+region: US
+regularMarketChange: 8.48999
+regularMarketChangePercent: 3.9633958
+regularMarketDayHigh: 223.165
+regularMarketDayLow: 218.18
+regularMarketDayRange: 218.18 - 223.165
+regularMarketOpen: 218.325
+regularMarketPreviousClose: 214.21
+regularMarketPrice: 222.7
+regularMarketTime: 1794413743
+regularMarketVolume: 392629
+returnOnAssets: 0.02688
+returnOnEquity: 0.14915
+revenueGrowth: 0.199
+revenuePerShare: 37.683
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 9
+sharesOutstanding: 154734032
+sharesPercentSharesOut: 0.0377
+sharesShort: 5835577
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 6347074
+shortName: Twilio Inc.
+shortPercentOfFloat: 0.048600003
+shortRatio: 1.37
+sourceInterval: 15
+state: CA
+symbol: TWLO
+targetHighPrice: 325.0
+targetLowPrice: 165.0
+targetMeanPrice: 269.98862
+targetMedianPrice: 274.0
+totalCash: 2891471104
+totalCashPerShare: 18.687
+totalDebt: 1057000000
+totalRevenue: 5831461888
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 7.96
+trailingPE: 27.977386
+trailingPegRatio: 0.3152
+triggerable: true
+twoHundredDayAverage: 191.7166
+twoHundredDayAverageChange: 30.983398
+twoHundredDayAverageChangePercent: 0.16161041
+typeDisp: Equity
+volume: 392629
+website: https://www.twilio.com
+zip: '94105'

@@ -1,0 +1,277 @@
+52WeekChange: 0.4365754
+SandP52WeekChange: 0.097798586
+address1: Kuehne + Nagel House
+address2: PO Box 67
+allTimeHigh: 364.6
+allTimeLow: 11.8
+ask: 232.6
+askSize: 0
+auditRisk: 8
+averageAnalystRating: 3.4 - Hold
+averageDailyVolume10Day: 175203
+averageDailyVolume3Month: 230317
+averageVolume: 230317
+averageVolume10days: 175203
+beta: 0.603
+bid: 232.4
+bidSize: 0
+boardRisk: 7
+bookValue: 22.025
+city: Schindellegi
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Paul
+  title: CEO & Member of Management Board
+  totalPay: 2803000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Markus  Blanka-Graff
+  title: CFO & Member of the Management Board
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Yngve  Ruud
+  title: Executive VP of Air Logistics & Member of the Management Board
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Marc  Pfeffer
+  title: Chief Legal Officer, Group General Counsel, Secretary & Member of the Management
+    Board
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sarah  Kreienbuhl
+  title: CHRO & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Aldwell
+  title: Executive VP of Sea Logistics & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marcus  Claesson
+  title: Chief Information Officer & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eduardo  Razuck
+  title: Executive VP of Contract Logistics & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Soren  Schmidt
+  title: Executive VP Road Logistics & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher George Combe
+  title: Head of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 232.4
+currentRatio: 1.114
+customPriceAlertConfidence: LOW
+dayHigh: 232.6
+dayLow: 227.7
+debtToEquity: 150.788
+dividendDate: 1747094400
+dividendRate: 6.0
+dividendYield: 2.63
+earningsCallTimestampEnd: 1792670400
+earningsCallTimestampStart: 1792670400
+earningsGrowth: 0.577
+earningsQuarterlyGrowth: 0.582
+earningsTimestamp: 1792683000
+earningsTimestampEnd: 1792683000
+earningsTimestampStart: 1792683000
+ebitda: 1600000000
+ebitdaMargins: 0.0626
+enterpriseToEbitda: 19.047
+enterpriseToRevenue: 1.192
+enterpriseValue: 30475687936
+epsCurrentYear: 9.33482
+epsForward: 9.9508
+epsTrailingTwelveMonths: 8.2
+esgPopulated: false
+exDividendDate: 1778198400
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 225.844
+fiftyDayAverageChange: 6.5559998
+fiftyDayAverageChangePercent: 0.029028887
+fiftyTwoWeekChangePercent: 43.65754
+fiftyTwoWeekHigh: 245.2
+fiftyTwoWeekHighChange: -12.800003
+fiftyTwoWeekHighChangePercent: -0.052202296
+fiftyTwoWeekLow: 149.4
+fiftyTwoWeekLowChange: 83.0
+fiftyTwoWeekLowChangePercent: 0.5555556
+fiftyTwoWeekRange: 149.4 - 245.2
+financialCurrency: CHF
+firstTradeDateMilliseconds: 958978800000
+fiveYearAvgDividendYield: 3.77
+floatShares: 47570665
+forwardEps: 9.9508
+forwardPE: 23.354906
+freeCashflow: 390375008
+fullExchangeName: Swiss
+fullTimeEmployees: 86981
+fulldayChange: 4.199997
+fulldayChangePercent: 1.8404895
+fulldayPrice: 232.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.35275
+grossProfits: 9016000512
+hasPrePostMarketData: false
+heldPercentInsiders: 0.59314996
+heldPercentInstitutions: 0.20833999
+impliedSharesOutstanding: 118760074
+industry: Integrated Freight & Logistics
+industryDisp: Integrated Freight & Logistics
+industryKey: integrated-freight-logistics
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778198400
+lastDividendValue: 6.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1147046400
+lastSplitFactor: '5:1'
+longBusinessSummary: 'Kuehne + Nagel International AG, together with its subsidiaries,
+  provides integrated logistics services in Europe, the Middle East, Africa, the Americas,
+  and the Asia-Pacific. The company operates through four segments: Sea Logistics,
+  Air Logistics, Road Logistics, and Contract Logistics. It offers full loads and
+  less than container loads, reefer cold chain solutions for temperature-sensitive
+  goods, order management, and VinLog, a wine, spirits, and drinks logistics solutions,
+  as well as cargo insurance and customs brokerage; and air freight services, such
+  as air charter services, time-critical logistics, sea-air logistics, airside logistics,
+  customs clearance, and smart labels. The company also provides road logistics include
+  full truck load, less than truck load, and groupage services; and fulfillment, warehouse,
+  and distribution services, such as fulfilment operation, distribution and last mile
+  delivery, in-plant, inventory and order management, packaging, returns management,
+  waste management, custom, quality inspections, and value-added services. In addition,
+  it offers customs clearances services comprising export and import customs clearance
+  and transit services, one-stop digital customs solution, and customs and trade consultancy
+  services, as well as inbound logistics for e-commerce and cross-border e-commerce.
+  Further, the company operates various logistic projects, such as industrial, renewable,
+  energy, marine logistics, one global system, engineering, and chartering, and offers
+  CO2e emissions calculator for project logistics. Additionally, it offers sustainable
+  logistics; and supply chain management services comprising 4PL integrated logistics
+  and order management. The company serves aerospace, automotive, mobility, consumer,
+  healthcare, high-tech and semiconductor, industrial, and perishables industries.
+  The company was founded in 1890 and is based in Schindellegi, Switzerland. Kuehne
+  + Nagel International AG operates as a subsidiary of Kühne Holding AG.'
+longName: Kuehne + Nagel International AG
+market: ch_market
+marketCap: 27599839232
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_829264
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 977000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 27101048886
+numberOfAnalystOpinions: 19
+open: 228.0
+operatingCashflow: 1764999936
+operatingMargins: 0.05352
+overallRisk: 8
+payoutRatio: 0.7317
+pegRatio: 2.16
+phone: 41 44 786 95 11
+previousClose: 228.2
+priceEpsCurrentYear: 24.896034
+priceHint: 2
+priceToBook: 10.551646
+priceToSalesTrailing12Months: 1.0798482
+profitMargins: 0.03823
+quickRatio: 1.078
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.36842
+region: US
+regularMarketChange: 4.199997
+regularMarketChangePercent: 1.8404895
+regularMarketDayHigh: 232.6
+regularMarketDayLow: 227.7
+regularMarketDayRange: 227.7 - 232.6
+regularMarketOpen: 228.0
+regularMarketPreviousClose: 228.2
+regularMarketPrice: 232.4
+regularMarketTime: 1794411521
+regularMarketVolume: 56742
+returnOnAssets: 0.0675
+returnOnEquity: 0.42051998
+revenueGrowth: 0.222
+revenuePerShare: 214.838
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 6
+sharesOutstanding: 118760074
+shortName: KUEHNE+NAGEL INT N
+sourceInterval: 15
+symbol: KNIN.SW
+targetHighPrice: 270.0
+targetLowPrice: 182.0
+targetMeanPrice: 220.47368
+targetMedianPrice: 219.0
+totalCash: 839000000
+totalCashPerShare: 7.024
+totalDebt: 4020000000
+totalRevenue: 25558999040
+tradeable: false
+trailingAnnualDividendRate: 6.0
+trailingAnnualDividendYield: 0.026292726
+trailingEps: 8.2
+trailingPE: 28.341463
+trailingPegRatio: 2.1484
+triggerable: false
+twoHundredDayAverage: 198.0865
+twoHundredDayAverageChange: 34.31349
+twoHundredDayAverageChangePercent: 0.17322479
+typeDisp: Equity
+volume: 56742
+website: https://www.kuehne-nagel.com
+zip: '8834'

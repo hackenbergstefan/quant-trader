@@ -1,0 +1,254 @@
+52WeekChange: 0.123046875
+SandP52WeekChange: 0.097798586
+address1: 1 George Street
+allTimeHigh: 642.9585
+allTimeLow: 120.8
+ask: 230.8
+auditRisk: 7
+averageDailyVolume10Day: 4001553
+averageDailyVolume3Month: 3859209
+averageVolume: 3859209
+averageVolume10days: 4001553
+beta: 1.404
+bid: 230.4
+boardRisk: 2
+bookValue: 2.808
+city: Edinburgh
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason Michael Windsor
+  title: CEO & Board Director
+  totalPay: 2495000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Siobhan Geraldine Boylan
+  title: Chief Financial Officer
+  totalPay: 795946
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard Simon Wilson
+  title: COO & CEO of Interactive Investor
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alain  Courbebaisse
+  title: COO of Investments & Deputy Group COO
+  unexercisedValue: 0
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Branner
+  title: Chief Investment Officer
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rushad  Abadan
+  title: Group General Counsel
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean  Guay
+  title: Senior Vice President of Sales & Marketing
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tracey  Hahn
+  title: Chief People Officer
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Campbell Scott
+  title: Chief Enterprise Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Kevin  Milne
+  title: Head of Investment Proposition
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 230.5
+currentRatio: 238.909
+customPriceAlertConfidence: LOW
+dayHigh: 233.6
+dayLow: 229.8
+debtToEquity: 10.765
+dividendRate: 0.15
+dividendYield: 6.35
+earningsCallTimestampEnd: 1785308400
+earningsCallTimestampStart: 1785308400
+earningsGrowth: -0.022
+earningsQuarterlyGrowth: -0.024
+earningsTimestampEnd: 1772555400
+earningsTimestampStart: 1772555400
+ebitda: 277000000
+ebitdaMargins: 0.20353001
+enterpriseToEbitda: 12.062
+enterpriseToRevenue: 2.455
+enterpriseValue: 3341168896
+epsCurrentYear: 0.15664
+epsForward: 0.1553
+epsTrailingTwelveMonths: 0.21
+esgPopulated: false
+exDividendDate: 1786579200
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 237.368
+fiftyDayAverageChange: -6.867996
+fiftyDayAverageChangePercent: -0.028933961
+fiftyTwoWeekChangePercent: 12.3046875
+fiftyTwoWeekHigh: 265.0
+fiftyTwoWeekHighChange: -34.5
+fiftyTwoWeekHighChangePercent: -0.13018867
+fiftyTwoWeekLow: 179.6
+fiftyTwoWeekLowChange: 50.899994
+fiftyTwoWeekLowChangePercent: 0.28340754
+fiftyTwoWeekRange: 179.6 - 265.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 1152514800000
+fiveYearAvgDividendYield: 7.76
+floatShares: 1757971706
+forwardEps: 0.1553
+forwardPE: 14.84224
+freeCashflow: 967750016
+fullExchangeName: LSE
+fullTimeEmployees: 4435
+fulldayChange: 0.5
+fulldayChangePercent: 0.2173913
+fulldayPrice: 230.5
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.94636
+grossProfits: 1288000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00164
+heldPercentInstitutions: 0.44452998
+impliedSharesOutstanding: 1790943876
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786579200
+lastDividendValue: 0.073
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1540166400
+lastSplitFactor: '7:8'
+longBusinessSummary: Aberdeen Group Plc provides asset management services in the
+  United Kingdom, Europe, North America, and Asia. It makes traditional, private equity/
+  buyout, venture capital, secondary (direct), secondary (indirect), real estate investments
+  & blend investments in early venture, middle market, growth capital & buyout investments.
+  The company offers investment solutions and funds; long-term savings and investment
+  products to individual and corporate customers; and life insurance and savings products.
+  It provides its products through institutional, wholesale, and retail distribution
+  channels. It invests in healthcare, information technology, telecommunication services,
+  media & real estate investments. The firm invests globally. It prefers to have majority
+  stakes in its portfolio companies. Aberdeen Group Plc was founded in 1825 and is
+  based in Edinburgh, United Kingdom with additional offices across Europe, Middle
+  East, Asia Pacific, North America and South America.
+longName: Aberdeen Group Plc
+market: gb_market
+marketCap: 4128125696
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_5463655
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 382000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 4119170914
+numberOfAnalystOpinions: 16
+open: 233.0
+operatingCashflow: 347000000
+operatingMargins: 0.14475
+overallRisk: 2
+payoutRatio: 0.6986
+pegRatio: 1.18
+phone: 44 131 3729444
+prevName: Standard Life Aberdeen plc
+previousClose: 230.0
+priceEpsCurrentYear: 1471.5271
+priceHint: 2
+priceToBook: 0.8208689
+priceToSalesTrailing12Months: 3.0331564
+profitMargins: 0.28068
+quickRatio: 130.182
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 0.5
+regularMarketChangePercent: 0.2173913
+regularMarketDayHigh: 233.6
+regularMarketDayLow: 229.8
+regularMarketDayRange: 229.8 - 233.6
+regularMarketOpen: 233.0
+regularMarketPreviousClose: 230.0
+regularMarketPrice: 230.5
+regularMarketTime: 1794411543
+regularMarketVolume: 3287950
+returnOnAssets: 0.010989999
+returnOnEquity: 0.07602
+revenueGrowth: 0.03
+revenuePerShare: 0.759
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 1790943876
+shortName: ABERDEEN GROUP PLC ORD 13 61/63
+sourceInterval: 15
+symbol: ABDN.L
+targetHighPrice: 294.0
+targetLowPrice: 205.0
+targetMeanPrice: 241.625
+targetMedianPrice: 235.5
+totalCash: 1344999936
+totalCashPerShare: 0.751
+totalDebt: 564000000
+totalRevenue: 1360999936
+tradeable: false
+trailingAnnualDividendRate: 0.146
+trailingAnnualDividendYield: 0.0006347826
+trailingEps: 0.21
+trailingPE: 10.9761915
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 229.15875
+twoHundredDayAverageChange: 1.3412476
+twoHundredDayAverageChangePercent: 0.0058529186
+typeDisp: Equity
+volume: 3287950
+website: https://www.abrdn.com
+zip: EH2 2LL

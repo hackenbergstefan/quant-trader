@@ -1,0 +1,292 @@
+52WeekChange: 0.0863744
+SandP52WeekChange: 0.097798586
+address1: 8080 Norton Parkway
+allTimeHigh: 233.48
+allTimeLow: 1.53125
+ask: 187.25
+askSize: 100
+auditRisk: 8
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 755860
+averageDailyVolume3Month: 837650
+averageVolume: 837650
+averageVolume10days: 755860
+beta: 0.776
+bid: 186.68
+bidSize: 100
+boardRisk: 6
+bookValue: 31.593
+city: Mentor
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Deon M. Stander
+  title: President, CEO & Director
+  totalPay: 1888945
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory S. Lovins
+  title: CFO, Senior VP & Principal Financial Officer
+  totalPay: 1176746
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Deena  Baker-Nel
+  title: Senior VP & Chief Human Resources Officer
+  totalPay: 847047
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Danny G. Allouche
+  title: President of Materials Group
+  totalPay: 1095964
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Divina F. Santiago
+  title: VP, Controller & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nicholas R. Colisto
+  title: Senior VP & Chief Information Officer
+  totalPay: 563440
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William R. Gilchrist
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Kristin  Robinson
+  title: Vice President of Global Communications
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Francisco  Melo
+  title: President of Intelligent Labels Technologies and Digital Solutions
+  totalPay: 707885
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Barton
+  title: Senior VP & GM of Apparel Solutions, Solution Group
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: AVY announced a cash dividend of $1.00 with an ex-date of Dec. 2, 2026
+  meta:
+    amount: '1.00'
+    dateEpochMs: 1796187600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 187.21
+currentRatio: 1.161
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 188.92
+dayLow: 186.86
+debtToEquity: 151.549
+displayName: Avery Dennison
+dividendDate: 1797379200
+dividendRate: 4.0
+dividendYield: 2.12
+earningsCallTimestampEnd: 1793286000
+earningsCallTimestampStart: 1793286000
+earningsGrowth: 0.051
+earningsQuarterlyGrowth: 0.02
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 1499100032
+ebitdaMargins: 0.16009001
+enterpriseToEbitda: 11.724
+enterpriseToRevenue: 1.877
+enterpriseValue: 17576081408
+epsCurrentYear: 10.19093
+epsForward: 11.07817
+epsTrailingTwelveMonths: 9.24
+esgPopulated: false
+exDividendDate: 1796169600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 175.3228
+fiftyDayAverageChange: 11.887207
+fiftyDayAverageChangePercent: 0.06780183
+fiftyTwoWeekChangePercent: 8.63744
+fiftyTwoWeekHigh: 199.54
+fiftyTwoWeekHighChange: -12.329987
+fiftyTwoWeekHighChangePercent: -0.061792057
+fiftyTwoWeekLow: 152.42
+fiftyTwoWeekLowChange: 34.79001
+fiftyTwoWeekLowChangePercent: 0.22825095
+fiftyTwoWeekRange: 152.42 - 199.54
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 1.74
+floatShares: 74950387
+forwardEps: 11.07817
+forwardPE: 16.899002
+freeCashflow: 972825024
+fullExchangeName: NYSE
+fullTimeEmployees: 35000
+fulldayChange: -1.8299866
+fulldayChangePercent: -0.968042
+fulldayPrice: 187.21
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.2883
+grossProfits: 2699699968
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00638
+heldPercentInstitutions: 0.99851996
+impliedSharesOutstanding: 75511437
+industry: Packaging & Containers
+industryDisp: Packaging & Containers
+industryKey: packaging-containers
+irWebsite: http://www.investors.averydennison.com/phoenix.zhtml?c=97892&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788307200
+lastDividendValue: 1.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 851299200
+lastSplitFactor: '2:1'
+longBusinessSummary: Avery Dennison Corporation operates as a materials science and
+  digital identification solutions company in the North America, Europe, the Middle
+  East, North Africa, Asia, and Latin America. It offers pressure-sensitive label
+  materials, which consist of papers, plastic films, and metal foils; performance
+  tapes products, including mechanical fasteners, which are precision-extruded and
+  injection-molded plastic devices; and other pressure-sensitive adhesive-based materials
+  and converted products under the Fasson, JAC, and Avery Dennison brands. The company
+  provides graphics and reflective products that include films and other products
+  for the architectural, commercial sign, digital printing, and other related market
+  segments; durable cast and reflective films to the construction, automotive, and
+  fleet transportation markets; sign shops, commercial printers, and designers for
+  pressure-sensitive materials; reflective films for traffic and safety applications;
+  and pressure-sensitive vinyl and specialty materials for digital imaging, screen
+  printing, and sign cutting applications under the Avery Dennison and Mactac brand
+  names. In addition, it offers branding solutions, which include brand embellishments,
+  graphic tickets, tags, labels, and sustainable packaging; information solutions,
+  such as item-level RFID, visibility and loss prevention, price ticketing and marking,
+  productivity and media, and brand protection and security solutions; and shelf-edge
+  productivity and media solutions under the Vestcom brand names, as well as care,
+  content, and country of origin compliance solutions. It serves home and personal
+  care, apparel, general retail, e-commerce, logistics, food and grocery, pharmaceuticals,
+  and automotive industries. The company was formerly known as Avery International
+  Corporation and changed its name to Avery Dennison Corporation in 1990. The company
+  was founded in 1935 and is headquartered in Mentor, Ohio.
+longName: Avery Dennison Corporation
+market: us_market
+marketCap: 14136497152
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_252978
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 708300032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 14274682050
+numberOfAnalystOpinions: 10
+open: 187.6
+operatingCashflow: 1220300032
+operatingMargins: 0.12762
+overallRisk: 5
+payoutRatio: 0.41990003
+pegRatio: 1.92
+phone: 440 534 6000
+previousClose: 189.04
+priceEpsCurrentYear: 18.370256
+priceHint: 2
+priceToBook: 5.9256797
+priceToSalesTrailing12Months: 1.5096482
+profitMargins: 0.07564
+quickRatio: 0.696
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.54545
+region: US
+regularMarketChange: -1.8299866
+regularMarketChangePercent: -0.968042
+regularMarketDayHigh: 188.92
+regularMarketDayLow: 186.86
+regularMarketDayRange: 186.86 - 188.92
+regularMarketOpen: 187.6
+regularMarketPreviousClose: 189.04
+regularMarketPrice: 187.21
+regularMarketTime: 1794413696
+regularMarketVolume: 44304
+returnOnAssets: 0.08282
+returnOnEquity: 0.30798
+revenueGrowth: 0.052
+revenuePerShare: 122.487
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 6
+sharesOutstanding: 75511437
+sharesPercentSharesOut: 0.0277
+sharesShort: 2093330
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1959137
+shortName: Avery Dennison Corporation
+shortPercentOfFloat: 0.0324
+shortRatio: 3.14
+sourceInterval: 15
+state: OH
+symbol: AVY
+targetHighPrice: 230.0
+targetLowPrice: 182.0
+targetMeanPrice: 203.3
+targetMedianPrice: 200.5
+totalCash: 318500000
+totalCashPerShare: 4.218
+totalDebt: 3619899904
+totalRevenue: 9364100096
+tradeable: false
+trailingAnnualDividendRate: 3.88
+trailingAnnualDividendYield: 0.020524759
+trailingEps: 9.24
+trailingPE: 20.260824
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 172.0344
+twoHundredDayAverageChange: 15.175613
+twoHundredDayAverageChangePercent: 0.08821267
+typeDisp: Equity
+volume: 44304
+website: https://www.averydennison.com
+zip: '44060'

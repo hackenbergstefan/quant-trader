@@ -1,0 +1,235 @@
+52WeekChange: 0.038929462
+SandP52WeekChange: 0.097798586
+address1: Persimmon House
+address2: Fulford
+allTimeHigh: 3328.0
+allTimeLow: 105.5428
+ask: 1253.5
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 2015145
+averageDailyVolume3Month: 2045300
+averageVolume: 2045300
+averageVolume10days: 2015145
+beta: 1.377
+bid: 1252.5
+bidSize: 0
+boardRisk: 2
+bookValue: 11.261
+city: York
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dean Kendal Finch ACA, B.Sc, M.B.A
+  title: Group Chief Executive & Executive Director
+  totalPay: 2164118
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew James Duxbury
+  title: CFO & Executive Director
+  totalPay: 1203401
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew Martyn Clark
+  title: Chief Commercial Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andy  Hill
+  title: Acting MD of the Cornwall & West Devon
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Iain  McPherson
+  title: Managing Director - UK
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stuart  Phillips
+  title: Managing Director of Persimmon Homes West Wales
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tracy Lazelle Davison
+  title: Company Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mike  Smith
+  title: Group Financial Controller
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 1252.5
+currentRatio: 4.213
+customPriceAlertConfidence: LOW
+dayHigh: 1283.0
+dayLow: 1249.5
+debtToEquity: 7.612
+dividendRate: 0.6
+dividendYield: 4.68
+earningsCallTimestampEnd: 1786003200
+earningsCallTimestampStart: 1786003200
+earningsGrowth: 0.194
+earningsQuarterlyGrowth: 0.198
+earningsTimestampEnd: 1786030200
+earningsTimestampStart: 1786030200
+ebitda: 498100000
+ebitdaMargins: 0.12529
+enterpriseToEbitda: 8.582
+enterpriseToRevenue: 1.075
+enterpriseValue: 4274447872
+epsCurrentYear: 1.00139
+epsForward: 1.01531
+epsTrailingTwelveMonths: 0.95
+esgPopulated: false
+exDividendDate: 1792022400
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 1218.59
+fiftyDayAverageChange: 33.910034
+fiftyDayAverageChangePercent: 0.027827272
+fiftyTwoWeekChangePercent: 3.8929462
+fiftyTwoWeekHigh: 1552.0
+fiftyTwoWeekHighChange: -299.5
+fiftyTwoWeekHighChangePercent: -0.1929768
+fiftyTwoWeekLow: 947.4
+fiftyTwoWeekLowChange: 305.09998
+fiftyTwoWeekLowChangePercent: 0.32203922
+fiftyTwoWeekRange: 947.4 - 1552.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 6.05
+floatShares: 316440328
+forwardEps: 1.01531
+forwardPE: 12.336133
+freeCashflow: -206400000
+fullExchangeName: LSE
+fullTimeEmployees: 4605
+fulldayChange: -28.5
+fulldayChangePercent: -2.2248244
+fulldayPrice: 1252.5
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.16624
+grossProfits: 660899968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.022119999
+heldPercentInstitutions: 0.49051997
+impliedSharesOutstanding: 321175136
+industry: Residential Construction
+industryDisp: Residential Construction
+industryKey: residential-construction
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792022400
+lastDividendValue: 0.2
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 560044800
+lastSplitFactor: '3:1'
+longBusinessSummary: Persimmon Plc, together with its subsidiaries, operates as a
+  house builder in the United Kingdom. The company offers family housing under the
+  Persimmon Homes brand name; housing under the Charles Church brand name; and social
+  housing under the Westbury Partnerships brand name. It also provides broadband services
+  under the FibreNest brand; and timber frame, insulated wall panels, and roof cassettes
+  under the Space4 brand. In addition, the company offers concrete bricks under the
+  Brickworks brand; and concrete roof tile under the Tileworks brand. Persimmon Plc
+  was founded in 1972 and is headquartered in York, the United Kingdom.
+longName: Persimmon Plc
+market: gb_market
+marketCap: 4022718720
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_876693
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 305500000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 4114253492
+numberOfAnalystOpinions: 20
+open: 1278.0
+operatingCashflow: -128600000
+operatingMargins: 0.11968
+overallRisk: 2
+payoutRatio: 0.6369
+pegRatio: 0.85
+phone: 44 19 0464 2199
+previousClose: 1281.0
+priceEpsCurrentYear: 1250.7615
+priceHint: 2
+priceToBook: 1.1122459
+priceToSalesTrailing12Months: 1.0118519
+profitMargins: 0.07684
+quickRatio: 0.337
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.45
+region: US
+regularMarketChange: -28.5
+regularMarketChangePercent: -2.2248244
+regularMarketDayHigh: 1283.0
+regularMarketDayLow: 1249.5
+regularMarketDayRange: 1249.5 - 1283.0
+regularMarketOpen: 1278.0
+regularMarketPreviousClose: 1281.0
+regularMarketPrice: 1252.5
+regularMarketTime: 1794411527
+regularMarketVolume: 1115179
+returnOnAssets: 0.05682
+returnOnEquity: 0.08609
+revenueGrowth: 0.149
+revenuePerShare: 12.402
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 321175136
+shortName: PERSIMMON PLC ORD 10P
+sourceInterval: 15
+symbol: PSN.L
+targetHighPrice: 1694.0
+targetLowPrice: 1122.0
+targetMeanPrice: 1387.3
+targetMedianPrice: 1376.5
+totalCash: 110000000
+totalCashPerShare: 0.343
+totalDebt: 275000000
+totalRevenue: 3975600128
+tradeable: false
+trailingAnnualDividendRate: 0.6
+trailingAnnualDividendYield: 0.0004683841
+trailingEps: 0.95
+trailingPE: 13.18421
+trailingPegRatio: 0.8403
+triggerable: false
+twoHundredDayAverage: 1176.983
+twoHundredDayAverageChange: 75.51697
+twoHundredDayAverageChangePercent: 0.06416147
+typeDisp: Equity
+volume: 1115179
+website: https://www.persimmonhomes.com
+zip: YO19 4FE

@@ -1,0 +1,280 @@
+52WeekChange: -0.0806998
+SandP52WeekChange: 0.097798586
+address1: 110 North Carpenter Street
+allTimeHigh: 341.75
+allTimeLow: 0.152263
+ask: 274.84
+askSize: 100
+auditRisk: 6
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 6114930
+averageDailyVolume3Month: 5464079
+averageVolume: 5464079
+averageVolume10days: 6114930
+beta: 0.431
+bid: 274.55
+bidSize: 100
+boardRisk: 5
+bookValue: -0.486
+city: Chicago
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher J. Kempczinski
+  title: Chairman President, & CEO
+  totalPay: 4574244
+  unexercisedValue: 65150572
+  yearBorn: 1969
+- age: 56
+  exercisedValue: 3311488
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ian Frederick Borden CPA
+  title: Executive VP & Global CFO
+  totalPay: 3089533
+  unexercisedValue: 24050752
+  yearBorn: 1969
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Gillian  McDonald
+  title: Executive Vice President & Global Chief Restaurant Experience Officer
+  totalPay: 2311602
+  unexercisedValue: 897777
+  yearBorn: 1966
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph  Erlinger
+  title: Advisor
+  totalPay: 1726311
+  unexercisedValue: 21478480
+  yearBorn: 1974
+- age: 54
+  exercisedValue: 2751717
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Manuel J.M. Steijaert
+  title: Executive VP & President of International Operated Markets
+  totalPay: 2228267
+  unexercisedValue: 74442
+  yearBorn: 1971
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lauren B. Elting CPA
+  title: VP, Chief Accounting Officer & Corporate Controller
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian S. Rice
+  title: Executive VP & Global Chief Information Officer
+  totalPay: 834294
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dexter P. Congbalay
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Desiree A. Ralls-Morrison J.D.
+  title: Executive VP & Global Chief Legal Officer
+  totalPay: 1228662
+  unexercisedValue: 1399144
+  yearBorn: 1967
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. E. Morgan Flatley
+  title: Executive VP and Global Chief Marketing Officer & New Business Ventures
+  unexercisedValue: 0
+  yearBorn: 1974
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: MCD announced a cash dividend of $1.93 with an ex-date of Dec. 1, 2026
+  meta:
+    amount: '1.93'
+    dateEpochMs: 1796101200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 275.19
+currentRatio: 1.234
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 279.41
+dayLow: 274.45
+displayName: McDonald's
+dividendDate: 1797292800
+dividendRate: 7.72
+dividendYield: 2.74
+earningsCallTimestampEnd: 1793799000
+earningsCallTimestampStart: 1793799000
+earningsGrowth: 0.104
+earningsQuarterlyGrowth: 0.091
+earningsTimestamp: 1793799000
+earningsTimestampEnd: 1793799000
+earningsTimestampStart: 1793799000
+ebitda: 15075000320
+ebitdaMargins: 0.54262
+enterpriseToEbitda: 16.75
+enterpriseToRevenue: 9.089
+enterpriseValue: 252501278720
+epsCurrentYear: 12.93882
+epsForward: 13.66271
+epsTrailingTwelveMonths: 12.64
+esgPopulated: false
+exDividendDate: 1796083200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 249.475
+fiftyDayAverageChange: 25.714996
+fiftyDayAverageChangePercent: 0.10307644
+fiftyTwoWeekChangePercent: -8.069981
+fiftyTwoWeekHigh: 341.75
+fiftyTwoWeekHighChange: -66.56
+fiftyTwoWeekHighChangePercent: -0.19476224
+fiftyTwoWeekLow: 229.2
+fiftyTwoWeekLowChange: 45.990005
+fiftyTwoWeekLowChangePercent: 0.20065448
+fiftyTwoWeekRange: 229.2 - 341.75
+financialCurrency: USD
+firstTradeDateMilliseconds: -110197800000
+fiveYearAvgDividendYield: 2.26
+floatShares: 704719009
+forwardEps: 13.66271
+forwardPE: 20.141685
+freeCashflow: 5669749760
+fullExchangeName: NYSE
+fullTimeEmployees: 150000
+fulldayChange: -6.980011
+fulldayChangePercent: -2.4736898
+fulldayPrice: 275.19
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.5762
+grossProfits: 16007999488
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0025799999
+heldPercentInstitutions: 0.76898
+impliedSharesOutstanding: 705784744
+industry: Restaurants
+industryDisp: Restaurants
+industryKey: restaurants
+irWebsite: http://www.aboutmcdonalds.com/mcd/investors.html
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788220800
+lastDividendValue: 1.86
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 920851200
+lastSplitFactor: '2:1'
+longBusinessSummary: McDonald's Corporation owns, operates, and franchises restaurants
+  under the McDonald's brand in the United States and internationally. It offers food
+  and beverages, including hamburgers and cheeseburgers, various chicken sandwiches,
+  fries, shakes, frozen desserts, sundaes, soft serve cones, cookies, pies, soft drinks,
+  coffee, and other beverages; and full or limited breakfast, as well as sells various
+  other products during limited-time promotions. The company owns and operates franchised
+  restaurants under various structures, including conventional franchise, developmental
+  license, or affiliate. McDonald's Corporation was founded in 1940 and is based in
+  Chicago, Illinois.
+longName: McDonald's Corporation
+market: us_market
+marketCap: 194224914432
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_139488
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 8995000320
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 199151281214
+numberOfAnalystOpinions: 29
+open: 279.0
+operatingCashflow: 10951000064
+operatingMargins: 0.46077
+overallRisk: 5
+payoutRatio: 0.5886
+pegRatio: 2.99
+phone: 630 623 3000
+previousClose: 282.17
+priceEpsCurrentYear: 21.268555
+priceHint: 2
+priceToBook: -566.23456
+priceToSalesTrailing12Months: 6.991034
+profitMargins: 0.32377
+quickRatio: 0.96
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.14706
+region: US
+regularMarketChange: -6.980011
+regularMarketChangePercent: -2.4736898
+regularMarketDayHigh: 279.41
+regularMarketDayLow: 274.45
+regularMarketDayRange: 274.45 - 279.41
+regularMarketOpen: 279.0
+regularMarketPreviousClose: 282.17
+regularMarketPrice: 275.19
+regularMarketTime: 1794413728
+regularMarketVolume: 1248951
+returnOnAssets: 0.13194999
+revenueGrowth: 0.011
+revenuePerShare: 39.161
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 7
+sharesOutstanding: 705784744
+sharesPercentSharesOut: 0.0165
+sharesShort: 11654270
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 13797355
+shortName: McDonald's Corporation
+shortPercentOfFloat: 0.0184
+shortRatio: 2.11
+sourceInterval: 15
+state: IL
+symbol: MCD
+targetHighPrice: 390.0
+targetLowPrice: 230.0
+targetMeanPrice: 299.0
+targetMedianPrice: 300.0
+totalCash: 1192999936
+totalCashPerShare: 1.69
+totalDebt: 54542999552
+totalRevenue: 27782000640
+tradeable: false
+trailingAnnualDividendRate: 7.44
+trailingAnnualDividendYield: 0.026367083
+trailingEps: 12.64
+trailingPE: 21.77136
+trailingPegRatio: 2.9924
+triggerable: true
+twoHundredDayAverage: 282.05524
+twoHundredDayAverageChange: -6.8652344
+twoHundredDayAverageChangePercent: -0.024340035
+typeDisp: Equity
+volume: 1248951
+website: https://www.mcdonalds.com
+zip: '60607'

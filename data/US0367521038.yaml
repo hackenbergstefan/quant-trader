@@ -1,0 +1,293 @@
+52WeekChange: 0.3113879
+SandP52WeekChange: 0.097798586
+address1: 220 Virginia Avenue
+allTimeHigh: 567.26
+allTimeLow: 20.175
+ask: 423.72
+askSize: 120
+auditRisk: 1
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1420730
+averageDailyVolume3Month: 1215809
+averageVolume: 1215809
+averageVolume10days: 1420730
+beta: 0.626
+bid: 423.23
+bidSize: 200
+boardRisk: 1
+bookValue: 206.747
+city: Indianapolis
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Gail Koziara Boudreaux
+  title: President, CEO & Director
+  totalPay: 4942272
+  unexercisedValue: 13671900
+  yearBorn: 1961
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark Bradley Kaye
+  title: Executive VP & CFO
+  totalPay: 2007060
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter David Haytaian Esq.
+  title: Special Advisor
+  totalPay: 2058472
+  unexercisedValue: 4886001
+  yearBorn: 1970
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles Morgan Kendrick Jr.
+  title: EVP and President of Commercial & Specialty Health Benefits
+  totalPay: 1913444
+  unexercisedValue: 187164
+  yearBorn: 1966
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Felicia Farr Norwood
+  title: Executive VP & Chief Health Benefits Officer
+  totalPay: 2033949
+  unexercisedValue: 2155326
+  yearBorn: 1960
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott Wayne Anglin
+  title: SVP, Treasurer & Chief Investment Officer
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ronald William Penczek
+  title: Senior VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nathan Allen Rich
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Erin M. Wessling
+  title: Executive VP & Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie  Goon
+  title: Senior Vice President of Public Affairs
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: ELV announced a cash dividend of $1.72 with an ex-date of Dec. 4, 2026
+  meta:
+    amount: '1.72'
+    dateEpochMs: 1796360400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 423.935
+currentRatio: 1.469
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 430.54
+dayLow: 422.0
+debtToEquity: 68.663
+displayName: Elevance Health
+dividendDate: 1797552000
+dividendRate: 6.88
+dividendYield: 1.6
+earningsCallTimestampEnd: 1792585800
+earningsCallTimestampStart: 1792585800
+earningsGrowth: 0.179
+earningsQuarterlyGrowth: 0.148
+earningsTimestamp: 1792585800
+earningsTimestampEnd: 1801143000
+earningsTimestampStart: 1801143000
+ebitda: 8712999936
+ebitdaMargins: 0.043169998
+enterpriseToEbitda: 9.853
+enterpriseToRevenue: 0.425
+enterpriseValue: 85852413952
+epsCurrentYear: 29.13788
+epsForward: 30.2859
+epsTrailingTwelveMonths: 23.55
+esgPopulated: false
+exDividendDate: 1796342400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 414.0902
+fiftyDayAverageChange: 9.844788
+fiftyDayAverageChangePercent: 0.0237745
+fiftyTwoWeekChangePercent: 31.13879
+fiftyTwoWeekHigh: 450.69
+fiftyTwoWeekHighChange: -26.755005
+fiftyTwoWeekHighChangePercent: -0.05936454
+fiftyTwoWeekLow: 274.84
+fiftyTwoWeekLowChange: 149.095
+fiftyTwoWeekLowChangePercent: 0.5424793
+fiftyTwoWeekRange: 274.84 - 450.69
+financialCurrency: USD
+firstTradeDateMilliseconds: 1004452200000
+fiveYearAvgDividendYield: 1.31
+floatShares: 215569765
+forwardEps: 30.2859
+forwardPE: 13.997767
+freeCashflow: 7987125248
+fullExchangeName: NYSE
+fullTimeEmployees: 96129
+fulldayChange: -5.7149963
+fulldayChangePercent: -1.3301516
+fulldayPrice: 423.935
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.26432
+grossProfits: 53348999168
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0018600001
+heldPercentInstitutions: 0.94607
+impliedSharesOutstanding: 216055891
+industry: Healthcare Plans
+industryDisp: Healthcare Plans
+industryKey: healthcare-plans
+irWebsite: http://ir.wellpoint.com/phoenix.zhtml?c=130104&p=irol-irHome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788998400
+lastDividendValue: 1.72
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1117584000
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Elevance Health, Inc., together with its subsidiaries, operates
+  as a health benefits company in the United States. The company operates in four
+  segments: Health Benefits, CarelonRx, Carelon Services, and Corporate & Other. It
+  offers a variety of health plans and services to individual, employer group risk-based
+  and fee-based, BlueCard, Medicare, Medicaid, and FEP members; health products; a
+  broad array of fee-based administrative managed care services; and specialty and
+  other insurance products and services, such as stop loss, dental, vision, and supplemental
+  health insurance benefits. The company also operates in the pharmacy services business;
+  and markets and offers pharmacy services, including home delivery and specialty
+  pharmacies, claims adjudication, formulary management, pharmacy networks, rebate
+  administration, a prescription drug database, and member services, as well as infusion
+  services and injectable therapies through ambulatory infusion centers. In addition,
+  it provides healthcare related services and capabilities, including specialty care
+  enablement and utilization management support for specialized clinical domains;
+  behavioral health and comprehensive care management services; palliative care services
+  and management; virtual care; and payment integrity, subrogation, clinical data
+  exchange through its HealthOS platform, research and data, reporting and clinical
+  analytics, information technology, and business process support services, as well
+  as manages home health, post-acute institutional management, and durable medical
+  equipment costs; and supports plans in managing home and community-based services.
+  The company provides its services under the Anthem Blue Cross and Blue Shield, Wellpoint,
+  and Carelon brands. The company was formerly known as Anthem, Inc. and changed its
+  name to Elevance Health, Inc. in June 2022. Elevance Health, Inc. was incorporated
+  in 2001 and is based in Indianapolis, Indiana.'
+longName: Elevance Health, Inc.
+market: us_market
+marketCap: 91593654272
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_160077
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 5138999808
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 92828413568
+numberOfAnalystOpinions: 21
+open: 428.94
+operatingCashflow: 7596000256
+operatingMargins: 0.03977
+overallRisk: 1
+payoutRatio: 0.2917
+pegRatio: 1.28
+phone: 833 401 1577
+prevName: Anthem, Inc.
+previousClose: 429.65
+priceEpsCurrentYear: 14.5492735
+priceHint: 2
+priceToBook: 2.0505013
+priceToSalesTrailing12Months: 0.45381135
+profitMargins: 0.02546
+quickRatio: 1.335
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.77273
+region: US
+regularMarketChange: -5.7149963
+regularMarketChangePercent: -1.3301516
+regularMarketDayHigh: 430.54
+regularMarketDayLow: 422.0
+regularMarketDayRange: 422.0 - 430.54
+regularMarketOpen: 428.94
+regularMarketPreviousClose: 429.65
+regularMarketPrice: 423.935
+regularMarketTime: 1794413732
+regularMarketVolume: 129232
+returnOnAssets: 0.04005
+returnOnEquity: 0.114829995
+revenueGrowth: 0.014
+revenuePerShare: 923.294
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 6
+sharesOutstanding: 216055891
+sharesPercentSharesOut: 0.021
+sharesShort: 4544947
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4854598
+shortName: Elevance Health, Inc.
+shortPercentOfFloat: 0.023599999
+shortRatio: 3.4
+sourceInterval: 15
+state: IN
+symbol: ELV
+targetHighPrice: 523.0
+targetLowPrice: 406.0
+targetMeanPrice: 482.38095
+targetMedianPrice: 492.0
+totalCash: 37845999616
+totalCashPerShare: 175.168
+totalDebt: 30756999168
+totalRevenue: 201832005632
+tradeable: false
+trailingAnnualDividendRate: 6.87
+trailingAnnualDividendYield: 0.01598976
+trailingEps: 23.55
+trailingPE: 18.001486
+trailingPegRatio: 1.2803
+triggerable: true
+twoHundredDayAverage: 374.1169
+twoHundredDayAverageChange: 49.818085
+twoHundredDayAverageChangePercent: 0.13316181
+typeDisp: Equity
+volume: 129232
+website: https://www.elevancehealth.com
+zip: '46204'

@@ -1,0 +1,281 @@
+52WeekChange: 0.042333007
+SandP52WeekChange: 0.097798586
+address1: 6496 University Parkway
+allTimeHigh: 595.17
+allTimeLow: 1.4375
+ask: 485.49
+askSize: 1
+auditRisk: 3
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 1339060
+averageDailyVolume3Month: 892104
+averageVolume: 892104
+averageVolume10days: 1339060
+beta: 0.662
+bid: 479.78
+bidSize: 1
+boardRisk: 1
+bookValue: 193.663
+city: Sarasota
+companyOfficers:
+- age: 53
+  exercisedValue: 7704675
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Laurence Neil Hunn
+  title: President, CEO & Director
+  totalPay: 3573259
+  unexercisedValue: 36700616
+  yearBorn: 1972
+- age: 56
+  exercisedValue: 852197
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John K. Stipancich
+  title: Executive VP, Chief Legal Officer & Corporate Secretary
+  totalPay: 2104422
+  unexercisedValue: 6732998
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Zack  Moxcey
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Satish  Maripuri
+  title: Senior VP & Group Executive
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Harold C. Flynn Jr.
+  title: Senior VP & Group Executive
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael P. Corkery
+  title: Senior VP & Group Executive
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Janet  Glazer
+  title: Senior Vice President of Acquisitions & Investment Strategy Development
+  unexercisedValue: 0
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey B. Paulsen
+  title: Senior VP & Group Executive
+  unexercisedValue: 0
+  yearBorn: 1961
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ondrej  Kruk
+  title: Senior VP & Group Executive
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shane  Luke
+  title: Senior Vice President of AI
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 470.37
+currentRatio: 0.426
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 473.82
+dayLow: 469.455
+debtToEquity: 50.696
+displayName: Roper
+dividendDate: 1800316800
+dividendRate: 4.0
+dividendYield: 0.84
+earningsCallTimestampEnd: 1792670400
+earningsCallTimestampStart: 1792670400
+earningsGrowth: 0.326
+earningsQuarterlyGrowth: 0.216
+earningsTimestamp: 1792672200
+earningsTimestampEnd: 1800970200
+earningsTimestampStart: 1800970200
+ebitda: 3292800000
+ebitdaMargins: 0.39039
+enterpriseToEbitda: 17.128
+enterpriseToRevenue: 6.687
+enterpriseValue: 56398516224
+epsCurrentYear: 22.37789
+epsForward: 24.57318
+epsTrailingTwelveMonths: 25.27
+esgPopulated: false
+exDividendDate: 1799020800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 400.9696
+fiftyDayAverageChange: 69.73041
+fiftyDayAverageChangePercent: 0.17390448
+fiftyTwoWeekChangePercent: 4.2333007
+fiftyTwoWeekHigh: 507.24
+fiftyTwoWeekHighChange: -36.539978
+fiftyTwoWeekHighChangePercent: -0.07203686
+fiftyTwoWeekLow: 305.96
+fiftyTwoWeekLowChange: 164.74002
+fiftyTwoWeekLowChangePercent: 0.5384365
+fiftyTwoWeekRange: 305.96 - 507.24
+financialCurrency: USD
+firstTradeDateMilliseconds: 697991400000
+fiveYearAvgDividendYield: 0.6
+floatShares: 98574919
+forwardEps: 24.57318
+forwardPE: 19.155031
+freeCashflow: 2435237376
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 19400
+fulldayChange: -3.769989
+fulldayChangePercent: -0.7945685
+fulldayPrice: 470.7
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.69671
+grossProfits: 5876499968
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0035100002
+heldPercentInstitutions: 1.06915
+impliedSharesOutstanding: 99036429
+industry: Software - Application
+industryDisp: Software - Application
+industryKey: software-application
+ipoExpectedDate: '2023-07-06'
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=99690&p=irol-stockquote
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1790899200
+lastDividendValue: 0.91
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1125273600
+lastSplitFactor: '2:1'
+longBusinessSummary: Roper Technologies, Inc. designs and develops vertical software
+  and technology enabled products in the United States, Canada, Europe, Asia, and
+  internationally. Its Application Software segment offers comprehensive management,
+  diagnostic and laboratory information management, enterprise software and information
+  solutions, K-12 school administration, transportation management, financial and
+  compliance management, cloud-based and integrated payment processing, campus technology
+  and payment, and cloud-based financial analytics, performance management software,
+  and data solutions; cloud-based software for the property and casualty insurance
+  industry; and foodservice technologies. The Network Software segment provides cloud-based
+  data, collaboration, and estimating automation software; electronic marketplace;
+  visual effects and 3D content software; cloud-based software and AI-enabled analytics
+  solutions for the life insurance and financial services industries; supply chain
+  software; health care services and software; data analytics and information; pharmacy
+  software solutions; and AI-enabled SaaS providing digital engagement, as well as
+  church management and integrated giving solutions for faith-based organizations.
+  The Technology Enabled Products segment offers ultrasound procedures accessories;
+  dispensers and metering pumps; wireless sensor network and solutions; automated
+  surgical scrub and linen dispensing equipment; water meters; optical and electromagnetic
+  precision measurement systems; RFID card and credential readers; and medical devices.
+  It distributes and sells its products through direct sales offices, manufacturers'
+  representatives, resellers, and distributors. The company was formerly known as
+  Roper Industries, Inc. and changed its name to Roper Technologies, Inc. in April
+  2015. Roper Technologies, Inc. was incorporated in 1981 and is based in Sarasota,
+  Florida.
+longName: Roper Technologies, Inc.
+market: us_market
+marketCap: 46616449024
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_22751
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2590500096
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 46989814467
+numberOfAnalystOpinions: 14
+open: 471.64
+operatingCashflow: 2620199936
+operatingMargins: 0.28049
+overallRisk: 2
+payoutRatio: 0.1407
+pegRatio: 1.8
+phone: 941 556 2601
+previousClose: 474.47
+priceEpsCurrentYear: 21.034155
+priceHint: 2
+priceToBook: 2.4305108
+priceToSalesTrailing12Months: 5.5229373
+profitMargins: 0.30712998
+quickRatio: 0.328
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.36842
+region: US
+regularMarketChange: -3.769989
+regularMarketChangePercent: -0.7945685
+regularMarketDayHigh: 473.82
+regularMarketDayLow: 469.455
+regularMarketDayRange: 469.455 - 473.82
+regularMarketOpen: 471.64
+regularMarketPreviousClose: 474.47
+regularMarketPrice: 470.7
+regularMarketTime: 1794413743
+regularMarketVolume: 119799
+returnOnAssets: 0.04291
+returnOnEquity: 0.13229
+revenueGrowth: 0.076
+revenuePerShare: 82.149
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 5
+sharesOutstanding: 99036429
+sharesPercentSharesOut: 0.0561
+sharesShort: 5554116
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4570721
+shortName: Roper Technologies, Inc.
+shortPercentOfFloat: 0.0644
+shortRatio: 5.98
+sourceInterval: 15
+state: FL
+symbol: ROP
+targetHighPrice: 550.0
+targetLowPrice: 335.0
+targetMeanPrice: 469.17786
+targetMedianPrice: 474.0
+totalCash: 311000000
+totalCashPerShare: 3.14
+totalDebt: 9719700480
+totalRevenue: 8434599936
+tradeable: false
+trailingAnnualDividendRate: 3.64
+trailingAnnualDividendYield: 0.007671718
+trailingEps: 25.27
+trailingPE: 18.626831
+trailingPegRatio: 1.7999
+triggerable: true
+twoHundredDayAverage: 367.34686
+twoHundredDayAverageChange: 103.35315
+twoHundredDayAverageChangePercent: 0.28135028
+typeDisp: Equity
+volume: 120397
+website: https://www.ropertech.com
+zip: '34240'

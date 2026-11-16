@@ -1,0 +1,282 @@
+52WeekChange: 0.82160676
+SandP52WeekChange: 0.097798586
+address1: Humana Building
+address2: 101 East Main Street
+allTimeHigh: 571.3
+allTimeLow: 4.75
+ask: 440.99
+askSize: 120
+auditRisk: 2
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 1560150
+averageDailyVolume3Month: 1304442
+averageVolume: 1304442
+averageVolume10days: 1560150
+beta: 0.643
+bid: 440.89
+bidSize: 240
+boardRisk: 2
+bookValue: 156.74
+city: Louisville
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James A. Rechtin M.B.A.
+  title: President, CEO & Director
+  totalPay: 4888934
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Celeste Marie Mellet
+  title: Chief Financial Officer
+  totalPay: 8271538
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Japan A. Mehta
+  title: Chief Information Officer
+  totalPay: 5655660
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Michelle A. O'Hara
+  title: Chief Human Resources Officer
+  totalPay: 4079462
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Sanjay K. Shetty M.B.A., M.D.
+  title: President of CenterWell
+  totalPay: 2092624
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John-Paul William Felter
+  title: Senior VP, Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bobby  Mukundan
+  title: Senior VP & CTO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lisa M. Stoner
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph C. Ventura
+  title: Chief Legal Officer
+  totalPay: 840359
+  unexercisedValue: 790081
+  yearBorn: 1977
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bruce Dale Broussard
+  title: Strategic Advisor
+  totalPay: 4057127
+  unexercisedValue: 0
+  yearBorn: 1962
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 443.34
+currentRatio: 1.647
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 447.12
+dayLow: 439.23
+debtToEquity: 70.812
+displayName: Humana
+dividendDate: 1801180800
+dividendRate: 3.54
+dividendYield: 0.81
+earningsCallTimestampEnd: 1793970000
+earningsCallTimestampStart: 1793970000
+earningsGrowth: -0.179
+earningsQuarterlyGrowth: -0.169
+earningsTimestamp: 1793971800
+earningsTimestampEnd: 1793971800
+earningsTimestampStart: 1793971800
+ebitda: 3036000000
+ebitdaMargins: 0.01969
+enterpriseToEbitda: 13.485
+enterpriseToRevenue: 0.266
+enterpriseValue: 40941428736
+epsCurrentYear: 9.34995
+epsForward: 17.40472
+epsTrailingTwelveMonths: 10.25
+esgPopulated: false
+exDividendDate: 1798070400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 405.9236
+fiftyDayAverageChange: 37.41638
+fiftyDayAverageChangePercent: 0.092175916
+fiftyTwoWeekChangePercent: 82.160675
+fiftyTwoWeekHigh: 456.5
+fiftyTwoWeekHighChange: -13.160004
+fiftyTwoWeekHighChangePercent: -0.028828047
+fiftyTwoWeekLow: 163.11
+fiftyTwoWeekLowChange: 280.22998
+fiftyTwoWeekLowChangePercent: 1.718043
+fiftyTwoWeekRange: 163.11 - 456.5
+financialCurrency: USD
+firstTradeDateMilliseconds: 378657000000
+fiveYearAvgDividendYield: 0.87
+floatShares: 119847430
+forwardEps: 17.40472
+forwardPE: 25.4724
+freeCashflow: 3292000000
+fullExchangeName: NYSE
+fullTimeEmployees: 67060
+fulldayChange: 5.279999
+fulldayChangePercent: 1.205314
+fulldayPrice: 443.34
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.13012
+grossProfits: 20063000576
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00206
+heldPercentInstitutions: 1.01398
+impliedSharesOutstanding: 120103250
+industry: Healthcare Plans
+industryDisp: Healthcare Plans
+industryKey: healthcare-plans
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=92913&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793318400
+lastDividendValue: 0.885
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 681004800
+lastSplitFactor: '3:2'
+longBusinessSummary: Humana Inc. provides medical and specialty insurance products
+  in the United States. It operates in two segments, Insurance and CenterWell. The
+  Insurance segment offers individual Medicare Advantage products, including health
+  insurance benefits, including wellness programs, chronic care management, and care
+  coordination; individual Medicare stand-alone prescription drug products (PDP);
+  group Medicare advantage and Medicare stand-alone PDP; Medicare supplements; specialty
+  and ancillary insurance comprising dental, vision, life and disability; and administrative
+  services to arrange health care services for active-duty and retired military personnel
+  and dependents, as well as pharmacy benefit managers. Its CenterWell segment operates
+  full-service, value-based senior focused primary care centers under the Conviva
+  Senior Primary Care and CenterWell Senior Primary Care brands; a management services
+  organization; CenterWell Home Health, a home health provider; and OneHome, which
+  manages post-acute patient needs, as well as provides pharmacy and hospice solutions.
+  The company was formerly known as Extendicare Inc. and changed its name to Humana
+  Inc. in April 1974. Humana Inc. was founded in 1961 and is headquartered in Louisville,
+  Kentucky.
+longName: Humana Inc.
+market: us_market
+marketCap: 53246574592
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_29618
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1246000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 52612429695
+numberOfAnalystOpinions: 24
+open: 443.02
+operatingCashflow: 3731000064
+operatingMargins: 0.01822
+overallRisk: 1
+payoutRatio: 0.3454
+pegRatio: 1.17
+phone: 502 580 1000
+previousClose: 438.06
+priceEpsCurrentYear: 47.416298
+priceHint: 2
+priceToBook: 2.8285058
+priceToSalesTrailing12Months: 0.3453421
+profitMargins: 0.00808
+quickRatio: 1.263
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.96154
+region: US
+regularMarketChange: 5.279999
+regularMarketChangePercent: 1.205314
+regularMarketDayHigh: 447.12
+regularMarketDayLow: 439.23
+regularMarketDayRange: 439.23 - 447.12
+regularMarketOpen: 443.02
+regularMarketPreviousClose: 438.06
+regularMarketPrice: 443.34
+regularMarketTime: 1794413736
+regularMarketVolume: 506430
+returnOnAssets: 0.03281
+returnOnEquity: 0.06736
+revenueGrowth: 0.261
+revenuePerShare: 1282.652
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 2
+sharesOutstanding: 120103250
+sharesPercentSharesOut: 0.0231
+sharesShort: 2779968
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2789982
+shortName: Humana Inc.
+shortPercentOfFloat: 0.026300002
+shortRatio: 1.78
+sourceInterval: 15
+state: KY
+symbol: HUM
+targetHighPrice: 596.0
+targetLowPrice: 280.0
+targetMeanPrice: 479.33334
+targetMedianPrice: 495.0
+totalCash: 25109000192
+totalCashPerShare: 209.062
+totalDebt: 13374999552
+totalRevenue: 154185007104
+tradeable: false
+trailingAnnualDividendRate: 3.54
+trailingAnnualDividendYield: 0.008081085
+trailingEps: 10.25
+trailingPE: 43.25268
+trailingPegRatio: 1.1663
+triggerable: true
+twoHundredDayAverage: 313.6402
+twoHundredDayAverageChange: 129.6998
+twoHundredDayAverageChangePercent: 0.41353053
+typeDisp: Equity
+volume: 506430
+website: https://www.humana.com
+zip: '40202'

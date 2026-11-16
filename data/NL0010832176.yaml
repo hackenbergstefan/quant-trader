@@ -1,0 +1,257 @@
+52WeekChange: 0.11079693
+SandP52WeekChange: 0.097798586
+address1: Laarderhoogtweg 25
+allTimeHigh: 925.0
+allTimeLow: 6.23
+ask: 0.0
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 97340
+averageDailyVolume3Month: 88432
+averageVolume: 88432
+averageVolume10days: 97340
+beta: -0.064
+bid: 0.0
+bidSize: 0
+boardRisk: 4
+bookValue: 119.80381
+city: Amsterdam
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy  Van Hauwermeiren EMBA, M.Sc.
+  title: Co-Founder & Non-Independent Non-Executive Chairman of the Board
+  totalPay: 1452552
+  unexercisedValue: 142335872
+  yearBorn: 1972
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karen  Massey
+  title: CEO & Executive Director
+  totalPay: 2319123
+  unexercisedValue: 9365643
+  yearBorn: 1979
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Karl  Gubitz
+  title: Chief Financial Officer
+  totalPay: 890557
+  unexercisedValue: 18208038
+  yearBorn: 1970
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Peter  Ulrichts
+  title: Chief Scientific Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Malini  Moorthy
+  title: General Counsel & Corporate Secretary
+  unexercisedValue: 4327953
+  yearBorn: 1970
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Arjen  Lemmen M.Sc.
+  title: VP of Corporate Development & Strategy
+  unexercisedValue: 28870836
+  yearBorn: 1985
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Andria  Wilk
+  title: Global Head of Quality
+  unexercisedValue: 1553982
+  yearBorn: 1973
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Luc  Truyen
+  title: Chief Medical Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Prof. Hans  de Haard Ir, Ph.D.
+  title: Co-Founder & Member of Board Advisors
+  unexercisedValue: 92872696
+  yearBorn: 1960
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Filip  Borgions
+  title: Chief Technology Innovation Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 874.4
+customPriceAlertConfidence: LOW
+dayHigh: 876.4
+dayLow: 865.4
+debtToEquity: 0.558
+dividendYield: 0.0
+earningsCallTimestampEnd: 1792672200
+earningsCallTimestampStart: 1792672200
+earningsGrowth: 0.506
+earningsQuarterlyGrowth: 0.47
+earningsTimestamp: 1792683600
+earningsTimestampEnd: 1792683600
+earningsTimestampStart: 1792683600
+ebitda: 1901066752
+ebitdaMargins: 0.32137
+enterpriseToEbitda: 25.727
+enterpriseToRevenue: 8.268
+enterpriseValue: 48908271616
+epsCurrentYear: 29.44635
+epsForward: 32.006054
+epsTrailingTwelveMonths: 24.85
+esgPopulated: false
+exchange: BRU
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Brussels
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 818.836
+fiftyDayAverageChange: 55.564026
+fiftyDayAverageChangePercent: 0.06785733
+fiftyTwoWeekChangePercent: 11.079693
+fiftyTwoWeekHigh: 925.0
+fiftyTwoWeekHighChange: -50.599976
+fiftyTwoWeekHighChangePercent: -0.054702677
+fiftyTwoWeekLow: 568.4
+fiftyTwoWeekLowChange: 306.0
+fiftyTwoWeekLowChangePercent: 0.53835326
+fiftyTwoWeekRange: 568.4 - 925.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 1404975600000
+floatShares: 62432859
+forwardEps: 32.006054
+forwardPE: 27.319832
+fullExchangeName: Brussels
+fullTimeEmployees: 1863
+fulldayChange: 10.200012
+fulldayChangePercent: 1.1802838
+fulldayPrice: 874.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.59838
+grossProfits: 3539672064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.49234
+impliedSharesOutstanding: 62886074
+industry: Biotechnology
+industryDisp: Biotechnology
+industryKey: biotechnology
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: argenx SE, a commercial-stage biopharma company, develops various
+  therapies for the treatment of autoimmune diseases in the United States, Japan,
+  China, the Netherlands, and internationally. The company offers VYVGART for the
+  treatment of gMG and immune thrombocytopenia (ITP), and VYVGART HYTRULO for the
+  treatment of gMG and chronic inflammatory demyelinating polyneuropathy (CIDP). It
+  also develops efgartigimod for the treatment of seronegative gMG, ocular myasthenia
+  gravis (MG), primary ITP, grave's disease, myositis, Sjögren's disease, systemic
+  sclerosis, and AMR; empasiprubart for MMN, delayed graft function, and CIDP; and
+  adimanebart for congenital myasthenic syndrome and spinal muscular atrophy. In addition,
+  the company is developing ARGX-213, a neonatal Fc receptor (FcRn)-targeted antibody
+  engineered for half-life extension and sustained IgG reduction; ARGX-124, a FcRn
+  pipeline candidate; ARGX-109, which targets IL-6 to treat inflammation; ARGX-121,
+  which targets immunoglobulin A; and ARGX-118, which develops antibodies against
+  Galectin-10, as well as cusatuzumab, ARGX-112, ARGX-114, and ARGX-115. It has strategic
+  partnerships and license agreements with Zai Lab to develop and commercialize efgartigimod;
+  Halozyme Therapeutics to its ENHANZE for the prevention and treatment of human diseases;
+  OncoVerity, Inc for cusatuzumab; and AbbVie, Inc. for ARGX-115. argenx SE was incorporated
+  in 2008 and is based in Amsterdam, the Netherlands.
+longName: argenx SE
+market: be_market
+marketCap: 54987583488
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_62120637
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1877035008
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 54346145150
+numberOfAnalystOpinions: 15
+open: 865.6
+operatingMargins: 0.31944
+overallRisk: 5
+payoutRatio: 0.0
+pegRatio: 1.28
+phone: 31 10 703 8441
+previousClose: 864.2
+priceEpsCurrentYear: 29.694683
+priceHint: 2
+priceToBook: 7.2985992
+priceToSalesTrailing12Months: 9.295558
+profitMargins: 0.31731
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.46667
+region: US
+regularMarketChange: 10.200012
+regularMarketChangePercent: 1.1802838
+regularMarketDayHigh: 876.4
+regularMarketDayLow: 865.4
+regularMarketDayRange: 865.4 - 876.4
+regularMarketOpen: 865.6
+regularMarketPreviousClose: 864.2
+regularMarketPrice: 874.4
+regularMarketTime: 1794411556
+regularMarketVolume: 23461
+revenueGrowth: 0.521
+revenuePerShare: 95.085
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 62886074
+shortName: ARGENX SE
+sourceInterval: 15
+symbol: ARGX.BR
+targetHighPrice: 1216.62
+targetLowPrice: 784.135
+targetMeanPrice: 1009.2002
+targetMedianPrice: 964.20105
+totalCash: 5184000000
+totalCashPerShare: 82.894
+totalDebt: 47000000
+totalRevenue: 5915468800
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 24.85
+trailingPE: 35.187122
+trailingPegRatio: 1.2971
+triggerable: false
+twoHundredDayAverage: 746.852
+twoHundredDayAverageChange: 127.548035
+twoHundredDayAverageChangePercent: 0.17078087
+typeDisp: Equity
+volume: 23461
+website: https://argenx.com
+zip: 1101 EB

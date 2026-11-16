@@ -1,0 +1,264 @@
+52WeekChange: 0.37349403
+SandP52WeekChange: 0.097798586
+address1: Fifth Floor
+address2: Two Pancras Square
+allTimeHigh: 1276.0
+allTimeLow: 85.5
+ask: 808.5
+auditRisk: 3
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1264743
+averageDailyVolume3Month: 961304
+averageVolume: 961304
+averageVolume10days: 1264743
+beta: 0.917
+bid: 807.5
+boardRisk: 1
+bookValue: 3.032
+city: London
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Simon Charles Conrad Pryce
+  title: CEO & Executive Director
+  totalPay: 1603900
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Katherine Beresford Ringrose
+  title: CFO & Executive Director
+  totalPay: 1008949
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Janet  Robertson
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Lynn  Webster-Scott
+  title: Head of Corporate Public Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Jane  Titchener
+  title: Head of Corporate Development
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Steve  Izquierdo
+  title: Chief People Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Sean  Fredericks
+  title: President of Asia Pacific - RS
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Pete  Malpas
+  title: President of EMEA - RS
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Ellen  Li
+  title: Chief Financial Officer of Asia Pacific RS Components
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Elaine  Pointon
+  title: Chief Finance Officer of EMEA RS Components
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 9
+corporateActions:
+- header: Dividend
+  message: RS1.L announced a cash dividend of GBp 0.089 with an ex-date of Nov. 19,
+    2026
+  meta:
+    amount: '0.089'
+    dateEpochMs: 1795046400000
+    eventType: DIVIDEND
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 808.0
+currentRatio: 1.734
+customPriceAlertConfidence: LOW
+dayHigh: 811.0
+dayLow: 801.5
+debtToEquity: 39.504
+dividendRate: 0.23
+dividendYield: 2.87
+earningsCallTimestampEnd: 1793869200
+earningsCallTimestampStart: 1793869200
+earningsGrowth: 0.068
+earningsQuarterlyGrowth: 0.058
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 287800000
+ebitdaMargins: 0.09522
+enterpriseToEbitda: 14.071
+enterpriseToRevenue: 1.34
+enterpriseValue: 4049728000
+epsCurrentYear: 0.42573
+epsForward: 0.48256
+epsTrailingTwelveMonths: 0.36
+esgPopulated: false
+exDividendDate: 1795046400
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 765.47
+fiftyDayAverageChange: 42.53003
+fiftyDayAverageChangePercent: 0.055560675
+fiftyTwoWeekChangePercent: 37.349403
+fiftyTwoWeekHigh: 835.01
+fiftyTwoWeekHighChange: -27.01001
+fiftyTwoWeekHighChangePercent: -0.03234693
+fiftyTwoWeekLow: 544.5
+fiftyTwoWeekLowChange: 263.5
+fiftyTwoWeekLowChangePercent: 0.4839302
+fiftyTwoWeekRange: 544.5 - 835.01
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 2.57
+floatShares: 445679419
+forwardEps: 0.48256
+forwardPE: 16.744032
+freeCashflow: 166050000
+fullExchangeName: LSE
+fullTimeEmployees: 8500
+fulldayChange: 10.0
+fulldayChangePercent: 1.2531328
+fulldayPrice: 808.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.43519002
+grossProfits: 1315399936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00187
+heldPercentInstitutions: 0.70865
+impliedSharesOutstanding: 456902179
+industry: Industrial Distribution
+industryDisp: Industrial Distribution
+industryKey: industrial-distribution
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1795046400
+lastDividendValue: 0.089
+lastFiscalYearEnd: 1774915200
+lastSplitDate: 810172800
+lastSplitFactor: '2:1'
+longBusinessSummary: RS Group plc, together with its subsidiaries, engages in the
+  distribution of maintenance, repair, and operations products and service solutions
+  in the United Kingdom, the United States, France, Mexico, Germany, Italy, Switzerland,
+  and internationally. The company offers automation and control, and electrification
+  products; cables and connectors; mechanical and fluid power products, such as transmission,
+  pneumatics, and hydraulic components; semiconductors and passive components; test
+  and measurements products; personal protective equipment (PPE), workwear, and janitorial
+  products; and facilities and maintenance products for buildings. It also provides
+  bundling, kitting, labelling, and assembly services; digital procurement platforms
+  that enhance productivity, reduce spend, and streamline supplier management; inventory
+  solutions that optimize inventory management to reduce waste, enhance supply chains,
+  and lower costs; and DesignSpark, a software tool for design engineers. In addition,
+  the company offers design, manufacturing, and prototyping; maintenance engineering
+  and safety; and integrated supply chain and procurement solutions. The company provides
+  its customers with product and service solutions for designing, building, maintaining,
+  repairing, and operating industrial equipment. It serves design and discrete manufacturing,
+  process manufacturing, facilities and intralogistics, and energy and utilities industries.
+  The company was formerly known as Electrocomponents plc. RS Group plc was founded
+  in 1937 and is headquartered in London, the United Kingdom.
+longName: RS Group plc
+market: gb_market
+marketCap: 3691769600
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874815
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 166800000
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 3646079388
+numberOfAnalystOpinions: 17
+open: 802.0
+operatingCashflow: 257700000
+operatingMargins: 0.082679994
+overallRisk: 5
+payoutRatio: 0.6415
+pegRatio: 0.02
+phone: 44 20 7239 8400
+prevName: Electrocomponents plc
+previousClose: 798.0
+priceEpsCurrentYear: 1897.9165
+priceHint: 2
+priceToBook: 2.6649075
+priceToSalesTrailing12Months: 1.2213888
+profitMargins: 0.055180002
+quickRatio: 1.012
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.76471
+region: US
+regularMarketChange: 10.0
+regularMarketChangePercent: 1.2531328
+regularMarketDayHigh: 811.0
+regularMarketDayLow: 801.5
+regularMarketDayRange: 801.5 - 811.0
+regularMarketOpen: 802.0
+regularMarketPreviousClose: 798.0
+regularMarketPrice: 808.0
+regularMarketTime: 1794411203
+regularMarketVolume: 486564
+returnOnAssets: 0.05817
+returnOnEquity: 0.119440004
+revenueGrowth: 0.101
+revenuePerShare: 6.512
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 456902179
+shortName: RS GROUP PLC ORD 10P
+sourceInterval: 15
+symbol: RS1.L
+targetHighPrice: 910.00006
+targetLowPrice: 545.0
+targetMeanPrice: 802.05896
+targetMedianPrice: 820.0
+totalCash: 183400000
+totalCashPerShare: 0.398
+totalDebt: 552499968
+totalRevenue: 3022599936
+tradeable: false
+trailingAnnualDividendRate: 0.231
+trailingAnnualDividendYield: 0.00028947368
+trailingEps: 0.36
+trailingPE: 22.444443
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 678.545
+twoHundredDayAverageChange: 129.45502
+twoHundredDayAverageChangePercent: 0.19078325
+typeDisp: Equity
+volume: 486564
+website: https://www.rsgroup.com
+zip: N1C 4AG

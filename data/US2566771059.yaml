@@ -1,0 +1,278 @@
+52WeekChange: 0.3176279
+SandP52WeekChange: 0.097798586
+address1: 100 Mission Ridge
+allTimeHigh: 262.21
+allTimeLow: 21.3
+ask: 136.64
+askSize: 200
+auditRisk: 8
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 2287670
+averageDailyVolume3Month: 2377860
+averageVolume: 2377860
+averageVolume10days: 2287670
+beta: 0.191
+bid: 136.38
+bidSize: 100
+boardRisk: 1
+bookValue: 42.103
+city: Goodlettsville
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Todd J. Vasos
+  title: CEO & Director
+  totalPay: 8163197
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Donny H. Lau
+  title: Executive VP & CFO
+  totalPay: 1459215
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Emily C. Taylor
+  title: Chief Operating Officer
+  totalPay: 2266918
+  unexercisedValue: 807796
+  yearBorn: 1977
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carman R. Wenkoff
+  title: Executive VP & Chief Information Officer
+  totalPay: 1898359
+  unexercisedValue: 2264149
+  yearBorn: 1968
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rhonda M. Taylor J.D.
+  title: Executive VP & General Counsel
+  totalPay: 1985696
+  unexercisedValue: 147727
+  yearBorn: 1968
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anita C. Elliott
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tom  Hutchins
+  title: Senior Vice President & Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin  Walker
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tony  Rogers
+  title: Senior VP & CMO
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kathleen A. Reardon
+  title: Executive VP & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 136.86
+currentRatio: 1.209
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 138.04
+dayLow: 135.0
+debtToEquity: 169.811
+displayName: Dollar General
+dividendDate: 1792454400
+dividendRate: 2.36
+dividendYield: 1.72
+earningsCallTimestampEnd: 1748955600
+earningsCallTimestampStart: 1748955600
+earningsGrowth: 0.333
+earningsQuarterlyGrowth: 0.338
+earningsTimestamp: 1796304600
+earningsTimestampEnd: 1796304600
+earningsTimestampStart: 1796304600
+ebitda: 3581925888
+ebitdaMargins: 0.08208
+enterpriseToEbitda: 12.417
+enterpriseToRevenue: 1.019
+enterpriseValue: 44476399616
+epsCurrentYear: 7.87646
+epsForward: 8.31525
+epsTrailingTwelveMonths: 7.7
+esgPopulated: false
+exDividendDate: 1791244800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 128.0506
+fiftyDayAverageChange: 8.809402
+fiftyDayAverageChangePercent: 0.06879626
+fiftyTwoWeekChangePercent: 31.76279
+fiftyTwoWeekHigh: 158.23
+fiftyTwoWeekHighChange: -21.369995
+fiftyTwoWeekHighChangePercent: -0.13505654
+fiftyTwoWeekLow: 99.5
+fiftyTwoWeekLowChange: 37.36
+fiftyTwoWeekLowChangePercent: 0.3754774
+fiftyTwoWeekRange: 99.5 - 158.23
+financialCurrency: USD
+firstTradeDateMilliseconds: 1258122600000
+fiveYearAvgDividendYield: 1.39
+floatShares: 218635651
+forwardEps: 8.31525
+forwardPE: 16.458916
+freeCashflow: 1738019712
+fullExchangeName: NYSE
+fullTimeEmployees: 194000
+fulldayChange: -0.44999695
+fulldayChangePercent: -0.32777113
+fulldayPrice: 136.86
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.31160998
+grossProfits: 13598126080
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00279
+heldPercentInstitutions: 1.00288
+impliedSharesOutstanding: 220616790
+industry: Discount Stores
+industryDisp: Discount Stores
+industryKey: discount-stores
+irWebsite: http://investor.shareholder.com/dollar/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791244800
+lastDividendValue: 0.59
+lastFiscalYearEnd: 1769731200
+longBusinessSummary: Dollar General Corporation, a discount retailer, provides various
+  merchandise products in the southern, southwestern, midwestern, and eastern United
+  States. It offers consumable products, including paper towels, bath tissues, paper
+  dinnerware, trash and storage bags, disinfectants, and laundry products; packaged
+  food, such as cereals, pasta, canned soups, canned meats, fruits and vegetables,
+  condiments, spices, sugar, and flour; and perishables, including milk, eggs, bread,
+  refrigerated and frozen food, beer, wine, and produce; candy, cookies, crackers,
+  salty snacks, and carbonated beverages; over-the-counter medicines and personal
+  care products including soap, body wash, shampoo, cosmetics, dental hygiene and
+  foot care products; pet supplies and pet food; and tobacco products. The company
+  also provides seasonal products comprising holiday items, toys, batteries, small
+  electronics, greeting cards, stationery, prepaid phones and accessories, gardening
+  supplies, hardware, automotive, and home office supplies; home products include
+  kitchen supplies, cookware, small appliances, light bulbs, storage containers, frames,
+  candles, craft supplies and kitchen, and bed and bath soft goods; and apparel products
+  for infants, toddlers, girls, boys, women and men, as well as socks, underwear,
+  disposable diapers, shoes and accessories. The company was formerly known as J.L.
+  Turner & Son, Inc. and changed its name to Dollar General Corporation in 1968. Dollar
+  General Corporation was founded in 1939 and is based in Goodlettsville, Tennessee.
+longName: Dollar General Corporation
+market: us_market
+marketCap: 30193612800
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_266974
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 1703399040
+nextFiscalYearEnd: 1801267200
+nonDilutedMarketCap: 30292891434
+numberOfAnalystOpinions: 29
+open: 136.2
+operatingCashflow: 3316349952
+operatingMargins: 0.05722
+overallRisk: 4
+payoutRatio: 0.3065
+pegRatio: 1.71
+phone: 615 855 4000
+previousClose: 137.31
+priceEpsCurrentYear: 17.375826
+priceHint: 2
+priceToBook: 3.2505996
+priceToSalesTrailing12Months: 0.69191104
+profitMargins: 0.03903
+quickRatio: 0.229
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.32258
+region: US
+regularMarketChange: -0.44999695
+regularMarketChangePercent: -0.32777113
+regularMarketDayHigh: 138.04
+regularMarketDayLow: 135.0
+regularMarketDayRange: 135.0 - 138.04
+regularMarketOpen: 136.2
+regularMarketPreviousClose: 137.31
+regularMarketPrice: 136.86
+regularMarketTime: 1794413729
+regularMarketVolume: 240466
+returnOnAssets: 0.048899997
+returnOnEquity: 0.19692
+revenueGrowth: 0.052
+revenuePerShare: 198.076
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 7
+sharesOutstanding: 220616790
+sharesPercentSharesOut: 0.0238
+sharesShort: 5254415
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 6653950
+shortName: Dollar General Corporation
+shortPercentOfFloat: 0.0269
+shortRatio: 2.47
+sourceInterval: 15
+state: TN
+symbol: DG
+targetHighPrice: 178.0
+targetLowPrice: 90.0
+targetMeanPrice: 141.51724
+targetMedianPrice: 140.0
+totalCash: 1589590016
+totalCashPerShare: 7.205
+totalDebt: 15773100032
+totalRevenue: 43637997568
+tradeable: false
+trailingAnnualDividendRate: 2.36
+trailingAnnualDividendYield: 0.017187385
+trailingEps: 7.7
+trailingPE: 17.774027
+trailingPegRatio: 1.716
+triggerable: true
+twoHundredDayAverage: 125.35315
+twoHundredDayAverageChange: 11.506851
+twoHundredDayAverageChangePercent: 0.09179547
+typeDisp: Equity
+volume: 240466
+website: https://www.dollargeneral.com
+zip: '37072'

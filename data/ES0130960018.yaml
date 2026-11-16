@@ -1,0 +1,221 @@
+52WeekChange: 0.2636428
+SandP52WeekChange: 0.097798586
+address1: Paseo de los Olmos, 19
+allTimeHigh: 28.675
+allTimeLow: 5.11
+ask: 17.86
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 769316
+averageDailyVolume3Month: 741862
+averageVolume: 741862
+averageVolume10days: 769316
+beta: 0.278
+bid: 17.85
+bidSize: 0
+boardRisk: 4
+bookValue: 9.141
+city: Madrid
+companyOfficers:
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Arturo Gonzalo Aizpiri Ph.D.
+  title: CEO & Executive Director
+  totalPay: 1605000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Luis Romero Urrestarazu
+  title: Chief Financial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Felisa Martin Villan
+  title: Communication, Investor Relation & Public Affairs General Manager
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Javier Perera De Gregorio
+  title: General Manager of People & Transformation
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Diego Trillo Ruiz
+  title: Board & General Secretary
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Natalia Latorre Arranz
+  title: General Manager of Energy Transition
+  unexercisedValue: 0
+  yearBorn: 1975
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Spain
+cryptoTradeable: false
+currency: EUR
+currentPrice: 17.87
+currentRatio: 0.818
+customPriceAlertConfidence: LOW
+dayHigh: 17.9
+dayLow: 17.75
+debtToEquity: 131.755
+dividendRate: 1.0
+dividendYield: 5.61
+earningsCallTimestampEnd: 1784701800
+earningsCallTimestampStart: 1784701800
+earningsQuarterlyGrowth: -0.11
+earningsTimestamp: 1792510200
+earningsTimestampEnd: 1792510200
+earningsTimestampStart: 1792510200
+ebitda: 425716992
+ebitdaMargins: 0.45756
+enterpriseToEbitda: 17.09
+enterpriseToRevenue: 7.82
+enterpriseValue: 7275414016
+epsCurrentYear: 0.90925
+epsForward: 1.12722
+epsTrailingTwelveMonths: 1.36
+esgPopulated: false
+exDividendDate: 1782777600
+exchange: MCE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Madrid
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 16.9134
+fiftyDayAverageChange: 0.9566002
+fiftyDayAverageChangePercent: 0.056558713
+fiftyTwoWeekChangePercent: 26.364279
+fiftyTwoWeekHigh: 17.99
+fiftyTwoWeekHighChange: -0.11999893
+fiftyTwoWeekHighChangePercent: -0.006670313
+fiftyTwoWeekLow: 13.02
+fiftyTwoWeekLowChange: 4.8500004
+fiftyTwoWeekLowChangePercent: 0.37250385
+fiftyTwoWeekRange: 13.02 - 17.99
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1025074800000
+fiveYearAvgDividendYield: 8.94
+floatShares: 233862165
+forwardEps: 1.12722
+forwardPE: 15.853161
+freeCashflow: 192769248
+fullExchangeName: MCE
+fullTimeEmployees: 1402
+fulldayChange: 0.040000916
+fulldayChangePercent: 0.22434613
+fulldayPrice: 17.87
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.93579
+grossProfits: 870662976
+hasPrePostMarketData: false
+heldPercentInsiders: 0.11323
+heldPercentInstitutions: 0.23662001
+impliedSharesOutstanding: 260298033
+industry: Utilities - Regulated Gas
+industryDisp: Utilities - Regulated Gas
+industryKey: utilities-regulated-gas
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1782777600
+lastDividendValue: 0.6
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: "Enagás, S.A. engages in the transmission, storage, and regasification\
+  \ of natural gas. It operates through Regulated Gas Activities, Regulated Activities\
+  \ \x96 Hydrogen Infrastructure, New Businesses, and International segments. The\
+  \ company provides gas transmission services through primary and secondary transmission\
+  \ pipelines; and natural gas regasification services, as well as operates underground\
+  \ storage facilities. It is also involved hydrogen infrastructure activities; and\
+  \ non-regulated activities related to new energies, such as biomethane, ammonia,\
+  \ and CO2. In addition, the company engages in the technical management of the gas\
+  \ system; financial management; gas transmission; development of industrial projects\
+  \ and activities relating to LNG terminals; development and implementation of facilities\
+  \ for the supply of natural gas; provision of commercial services; designing, constructing,\
+  \ operating, and maintaining hydrogen and other gas production facilities; and maritime\
+  \ transport activities by managing merchant ships. The company was incorporated\
+  \ in 1972 and is headquartered in Madrid, Spain."
+longName: Enagás, S.A.
+market: es_market
+marketCap: 4651526144
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_5467973
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 280412000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 4641113928
+numberOfAnalystOpinions: 20
+open: 17.8
+operatingCashflow: 207342000
+operatingMargins: 0.21186
+overallRisk: 4
+payoutRatio: 0.7996
+pegRatio: 16.55
+phone: 34 91 709 92 30
+previousClose: 17.83
+priceEpsCurrentYear: 19.65356
+priceHint: 2
+priceToBook: 1.9549285
+priceToSalesTrailing12Months: 4.999485
+profitMargins: 0.30139
+quickRatio: 0.774
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.7
+region: US
+regularMarketChange: 0.040000916
+regularMarketChangePercent: 0.22434613
+regularMarketDayHigh: 17.9
+regularMarketDayLow: 17.75
+regularMarketDayRange: 17.75 - 17.9
+regularMarketOpen: 17.8
+regularMarketPreviousClose: 17.83
+regularMarketPrice: 17.87
+regularMarketTime: 1794411224
+regularMarketVolume: 230819
+returnOnAssets: 0.01743
+returnOnEquity: 0.11879
+revenueGrowth: -0.091
+revenuePerShare: 3.574
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 10
+sharesOutstanding: 260298033
+shortName: ENAGAS,S.A.
+sourceInterval: 15
+symbol: ENG.MC
+targetHighPrice: 19.8
+targetLowPrice: 13.0
+targetMeanPrice: 17.1475
+targetMedianPrice: 17.425
+totalCash: 537299968
+totalCashPerShare: 2.064
+totalDebt: 3155800064
+totalRevenue: 930401024
+tradeable: false
+trailingAnnualDividendRate: 0.6
+trailingAnnualDividendYield: 0.03365115
+trailingEps: 1.36
+trailingPE: 13.139707
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 16.5495
+twoHundredDayAverageChange: 1.3205013
+twoHundredDayAverageChangePercent: 0.07979101
+typeDisp: Equity
+volume: 230819
+website: https://www.enagas.es/es/
+zip: '28005'

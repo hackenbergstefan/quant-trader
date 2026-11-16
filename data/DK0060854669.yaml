@@ -1,0 +1,241 @@
+52WeekChange: 0.2867036
+SandP52WeekChange: 0.097798586
+address1: Torvet 1
+allTimeHigh: 1896.0
+allTimeLow: 27.0
+ask: 1860.0
+askSize: 0
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 19173
+averageDailyVolume3Month: 26866
+averageVolume: 26866
+averageVolume10days: 19173
+beta: 0.326
+bid: 1855.0
+bidSize: 0
+bookValue: 499.74
+city: Ringkøbing
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Bull Fisker
+  title: CEO & Member of the General Management
+  totalPay: 11039000
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jørn  Nielsen
+  title: GM & Member of the Management Board
+  totalPay: 6612000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Claus  Andersen
+  title: GM & Member of the General Management
+  totalPay: 4649000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carl Møller Pedersen
+  title: GM & Member of the Management Board
+  totalPay: 3677000
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Jakob Jermiin Nielsen
+  title: Chief Financial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mads  Stouby
+  title: Chief Investment Officer
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lars  Hindø
+  title: Staff Chief and Chief of Staff - Management & IR
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mikkel Thorn Jensen
+  title: Marketing Manager
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Henrik  Haugaard
+  title: Chief Internal Auditor
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Michael  Andersen
+  title: Chief Asset Management Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Denmark
+cryptoTradeable: false
+currency: DKK
+currentPrice: 1858.0
+customPriceAlertConfidence: HIGH
+dayHigh: 1870.0
+dayLow: 1853.0
+dividendRate: 12.0
+dividendYield: 0.65
+earningsCallTimestampEnd: 1729681140
+earningsCallTimestampStart: 1729681140
+earningsGrowth: 0.093
+earningsQuarterlyGrowth: 0.1
+earningsTimestamp: 1792594800
+earningsTimestampEnd: 1792594800
+earningsTimestampStart: 1792594800
+ebitdaMargins: 0.0
+enterpriseToRevenue: 12.137
+enterpriseValue: 51910508544
+epsCurrentYear: 103.39484
+epsForward: 120.2303
+epsTrailingTwelveMonths: 94.72
+esgPopulated: false
+exDividendDate: 1772668800
+exchange: CPH
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Copenhagen
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 45 76 24 49 13
+fiftyDayAverage: 1804.9
+fiftyDayAverageChange: 53.099976
+fiftyDayAverageChangePercent: 0.029419899
+fiftyTwoWeekChangePercent: 28.670359
+fiftyTwoWeekHigh: 1896.0
+fiftyTwoWeekHighChange: -38.0
+fiftyTwoWeekHighChangePercent: -0.020042194
+fiftyTwoWeekLow: 1384.0
+fiftyTwoWeekLowChange: 474.0
+fiftyTwoWeekLowChangePercent: 0.34248555
+fiftyTwoWeekRange: 1384.0 - 1896.0
+financialCurrency: DKK
+firstTradeDateMilliseconds: 978940800000
+fiveYearAvgDividendYield: 0.78
+floatShares: 22046132
+forwardEps: 120.2303
+forwardPE: 15.453675
+fullExchangeName: Copenhagen
+fullTimeEmployees: 693
+fulldayChange: 0.0
+fulldayChangePercent: 0.0
+fulldayPrice: 1858.0
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.0
+grossProfits: 4277004032
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00558
+heldPercentInstitutions: 0.34304002
+impliedSharesOutstanding: 23408720
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: https://alm.landbobanken.dk/IR-in-english.3243.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1772668800
+lastDividendValue: 12.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1495584000
+lastSplitFactor: '5:1'
+longBusinessSummary: Ringkjøbing Landbobank A/S provides various financial products
+  and services in Denmark. It offers various deposit products; loans, credits, and
+  guarantees; investment products; insurance and pension; and a range of financial
+  services, including asset and investment management, and payment handling services.
+  The company also provides mortgages loans; securities trading; custody accounts;
+  online and mobile banking; payment solutions; and wealth management services. Ringkjøbing
+  Landbobank A/S was founded in 1886 and is headquartered in Ringkøbing, Denmark.
+longName: Ringkjøbing Landbobank A/S
+market: dk_market
+marketCap: 43493400576
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_4481285
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2371734016
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 43493401760
+numberOfAnalystOpinions: 4
+open: 1864.0
+operatingMargins: 0.73600996
+payoutRatio: 0.1265
+pegRatio: 2.15
+phone: 45 97 32 11 66
+previousClose: 1858.0
+priceEpsCurrentYear: 17.96995
+priceHint: 2
+priceToBook: 3.7179334
+priceToSalesTrailing12Months: 10.169127
+profitMargins: 0.55452996
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: 0.0
+regularMarketChangePercent: 0.0
+regularMarketDayHigh: 1870.0
+regularMarketDayLow: 1853.0
+regularMarketDayRange: 1853.0 - 1870.0
+regularMarketOpen: 1864.0
+regularMarketPreviousClose: 1858.0
+regularMarketPrice: 1858.0
+regularMarketTime: 1794412475
+regularMarketVolume: 7395
+returnOnAssets: 0.026719999
+returnOnEquity: 0.20487
+revenueGrowth: 0.086
+revenuePerShare: 177.575
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+sharesOutstanding: 23408720
+shortName: Ringkjøbing Landbobank A/S
+sourceInterval: 15
+symbol: RILBA.CO
+targetHighPrice: 2150.0
+targetLowPrice: 1800.0
+targetMeanPrice: 1993.75
+targetMedianPrice: 2012.5
+totalCash: 5635500032
+totalCashPerShare: 239.501
+totalDebt: 13826934784
+totalRevenue: 4277004032
+tradeable: false
+trailingAnnualDividendRate: 12.0
+trailingAnnualDividendYield: 0.0064585577
+trailingEps: 94.72
+trailingPE: 19.61571
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 1668.46
+twoHundredDayAverageChange: 189.54004
+twoHundredDayAverageChangePercent: 0.11360179
+typeDisp: Equity
+volume: 7395
+website: https://www.landbobanken.dk
+zip: '6950'

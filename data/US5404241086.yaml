@@ -1,0 +1,222 @@
+52WeekChange: 0.066224575
+SandP52WeekChange: 0.097798586
+address1: 9 West 57th Street
+allTimeHigh: 121.01
+allTimeLow: 0.5875
+ask: 110.31
+askSize: 200
+auditRisk: 10
+averageDailyVolume10Day: 760870
+averageDailyVolume3Month: 817170
+averageVolume: 817170
+averageVolume10days: 760870
+beta: 0.486
+bid: 110.22
+bidSize: 200
+boardRisk: 9
+bookValue: 90.233
+city: New York
+companyOfficers:
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Benjamin J. Tisch
+  title: CEO, President & Director
+  totalPay: 3756846
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jane J. Wang
+  title: Senior VP & CFO
+  totalPay: 3606846
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kenneth I. Siegel
+  title: Senior Vice President
+  totalPay: 5886462
+  unexercisedValue: 0
+  yearBorn: 1957
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 110.61
+currentRatio: 0.494
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 110.92
+dayLow: 110.19
+debtToEquity: 46.691
+displayName: Loews
+dividendDate: 1788220800
+dividendRate: 0.25
+dividendYield: 0.23
+earningsGrowth: -0.384
+earningsQuarterlyGrowth: -0.393
+earningsTimestamp: 1793626200
+earningsTimestampEnd: 1793626200
+earningsTimestampStart: 1793626200
+ebitda: 2956000000
+ebitdaMargins: 0.15738
+enterpriseToEbitda: 8.697
+enterpriseToRevenue: 1.369
+enterpriseValue: 25707845632
+epsForward: 2.9
+epsTrailingTwelveMonths: 7.23
+esgPopulated: false
+exDividendDate: 1787097600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 108.7036
+fiftyDayAverageChange: 1.9064026
+fiftyDayAverageChangePercent: 0.017537622
+fiftyTwoWeekChangePercent: 6.6224575
+fiftyTwoWeekHigh: 121.01
+fiftyTwoWeekHighChange: -10.400002
+fiftyTwoWeekHighChangePercent: -0.08594332
+fiftyTwoWeekLow: 101.08
+fiftyTwoWeekLowChange: 9.529999
+fiftyTwoWeekLowChangePercent: 0.09428174
+fiftyTwoWeekRange: 101.08 - 121.01
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 0.32
+floatShares: 162221035
+forwardEps: 2.9
+forwardPE: 38.141376
+freeCashflow: 1998875008
+fullExchangeName: NYSE
+fullTimeEmployees: 13100
+fulldayChange: -0.3199997
+fulldayChangePercent: -0.28846994
+fulldayPrice: 110.61
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.35064998
+grossProfits: 6585999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.20285
+heldPercentInstitutions: 0.62876
+impliedSharesOutstanding: 202225230
+industry: Insurance - Property & Casualty
+industryDisp: Insurance - Property & Casualty
+industryKey: insurance-property-casualty
+irWebsite: http://ir.loews.com/phoenix.zhtml?c=102789&p=irol-index
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787097600
+lastDividendValue: 0.063
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1147132800
+lastSplitFactor: '3:1'
+longBusinessSummary: Loews Corporation, through its subsidiaries, provides commercial
+  property and casualty insurance in the United States and internationally. The company
+  offers specialty insurance products, such as management and professional liability
+  and other coverage products; surety and fidelity bonds; professional liability coverages
+  and risk management services to various professional firms, including architects,
+  real estate agents, and accounting and law firms; standard and excess property,
+  marine and boiler, machinery coverages, workers' compensation, general and product
+  liability, commercial auto, umbrella, excess and surplus coverages, specialized
+  loss-sensitive insurance programs, total risk management services relating to claim
+  and information services; directors and officers, errors and omissions, employment
+  practices, fiduciary, fidelity, and cyber coverages, as well as for small and mid-size
+  firms, public and privately held firms, and not-for-profit organizations; and insurance
+  products to serve the health care industry, including professional and general liability,
+  as well as associated casualty coverage to aging services, allied medical facilities,
+  dentists, physicians, nurses, and other medical practitioners. It also provides
+  warranty and alternative risk, and run-off long-term care insurance products; ethane
+  supply and transportation services for petrochemical customers, as well as transports
+  and stores natural gas and natural gas liquids; operates a chain of hotels; develops,
+  manufactures, and markets a range of extrusion blow-molded and injection molded
+  plastic containers; and manufactures commodities and differentiated plastic resins.
+  The company markets its insurance products and services through a network of retail
+  and wholesale brokers, independent agents, brokers, and managing general underwriters.
+  Loews Corporation was incorporated in 1969 and is headquartered in New York, New
+  York.
+longName: Loews Corporation
+market: us_market
+marketCap: 22368133120
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_285930
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1488999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 22432844763
+open: 110.44
+operatingCashflow: 2608999936
+operatingMargins: 0.12443
+overallRisk: 9
+payoutRatio: 0.0346
+pegRatio: 1.32
+phone: 212 521 2000
+previousClose: 110.93
+priceHint: 2
+priceToBook: 1.2258265
+priceToSalesTrailing12Months: 1.1909347
+profitMargins: 0.07928
+quickRatio: 0.494
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -0.3199997
+regularMarketChangePercent: -0.28846994
+regularMarketDayHigh: 110.92
+regularMarketDayLow: 110.19
+regularMarketDayRange: 110.19 - 110.92
+regularMarketOpen: 110.44
+regularMarketPreviousClose: 110.93
+regularMarketPrice: 110.61
+regularMarketTime: 1794413602
+regularMarketVolume: 64380
+returnOnAssets: 0.01706
+returnOnEquity: 0.082100004
+revenueGrowth: 0.019
+revenuePerShare: 91.312
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 4
+sharesOutstanding: 202225230
+sharesPercentSharesOut: 0.0196
+sharesShort: 3963382
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4513865
+shortName: Loews Corporation
+shortPercentOfFloat: 0.024300002
+shortRatio: 5.36
+sourceInterval: 15
+state: NY
+symbol: L
+totalCash: 6502000128
+totalCashPerShare: 32.152
+totalDebt: 8938000384
+totalRevenue: 18781999104
+tradeable: false
+trailingAnnualDividendRate: 0.25
+trailingAnnualDividendYield: 0.0022536735
+trailingEps: 7.23
+trailingPE: 15.298756
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 109.67685
+twoHundredDayAverageChange: 0.93315125
+twoHundredDayAverageChangePercent: 0.008508188
+typeDisp: Equity
+volume: 64380
+website: https://www.loews.com
+zip: 10019-2714

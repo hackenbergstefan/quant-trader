@@ -1,0 +1,195 @@
+52WeekChange: 0.1795367
+SandP52WeekChange: 0.097798586
+address1: Hovslagargatan 5B
+address2: PO Box 14048
+allTimeHigh: 637.8
+allTimeLow: 27.75
+ask: 612.0
+askSize: 0
+auditRisk: 9
+averageDailyVolume10Day: 88231
+averageDailyVolume3Month: 113989
+averageVolume: 113989
+averageVolume10days: 88231
+beta: 0.937
+bid: 611.5
+bidSize: 0
+boardRisk: 10
+bookValue: 578.185
+city: Stockholm
+companyOfficers:
+- age: 74
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Fredrik  Lundberg B.Sc. (Econ.), D.Econ, D.Tech., Ho, MBA, MSc. Eng.
+  title: President, CEO & Director
+  totalPay: 1500000
+  unexercisedValue: 0
+  yearBorn: 1951
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lars  Johansson
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Claes  Boustedt MBA
+  title: Deputy Chief Executive Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 612.0
+currentRatio: 1.049
+customPriceAlertConfidence: HIGH
+dayHigh: 614.5
+dayLow: 609.5
+debtToEquity: 13.3
+dividendRate: 4.9
+dividendYield: 0.8
+earningsGrowth: 2.736
+earningsQuarterlyGrowth: 2.738
+earningsTimestamp: 1795537800
+earningsTimestampEnd: 1795537800
+earningsTimestampStart: 1795537800
+ebitda: 21080000512
+ebitdaMargins: 0.48008
+enterpriseToEbitda: 10.631
+enterpriseToRevenue: 5.104
+enterpriseValue: 224109133824
+epsTrailingTwelveMonths: 73.94
+esgPopulated: false
+exDividendDate: 1776729600
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 581.07
+fiftyDayAverageChange: 30.929993
+fiftyDayAverageChangePercent: 0.053229373
+fiftyTwoWeekChangePercent: 17.95367
+fiftyTwoWeekHigh: 614.5
+fiftyTwoWeekHighChange: -2.5
+fiftyTwoWeekHighChangePercent: -0.004068348
+fiftyTwoWeekLow: 488.6
+fiftyTwoWeekLowChange: 123.399994
+fiftyTwoWeekLowChangePercent: 0.25255832
+fiftyTwoWeekRange: 488.6 - 614.5
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 0.83
+floatShares: 44404481
+freeCashflow: 11435875328
+fullExchangeName: Stockholm
+fullTimeEmployees: 4097
+fulldayChange: 1.0
+fulldayChangePercent: 0.16366611
+fulldayPrice: 612.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.69277
+grossProfits: 30418999296
+hasPrePostMarketData: false
+heldPercentInsiders: 0.52348
+heldPercentInstitutions: 0.22073
+impliedSharesOutstanding: 248000000
+industry: Conglomerates
+industryDisp: Conglomerates
+industryKey: conglomerates
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776729600
+lastDividendValue: 4.9
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1526256000
+lastSplitFactor: '2:1'
+longBusinessSummary: L E Lundbergföretagen AB (publ) engages in the manufacture and
+  sale of paperboard, paper, and sawn timber products worldwide. The company operates
+  through Lundberg's Real Estate Operations, Equity Management, Holmen, and Hufvudstaden
+  segments. It is involved in the real estate, forest, and power operations; and provision
+  of equity management services, including securities trading. The company also owns
+  and manages office and retail properties. The company was founded in 1944 and is
+  headquartered in Stockholm, Sweden.
+longName: L E Lundbergföretagen AB (publ)
+market: se_market
+marketCap: 151776002048
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_876681
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 18492000256
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 151528000000
+numberOfAnalystOpinions: 3
+open: 614.5
+operatingCashflow: 8349000192
+operatingMargins: 0.44926998
+overallRisk: 10
+payoutRatio: 0.0657
+pegRatio: 1.16
+phone: 46 84 63 06 00
+previousClose: 611.0
+priceHint: 2
+priceToBook: 1.0584848
+priceToSalesTrailing12Months: 3.4566033
+profitMargins: 0.42114
+quickRatio: 0.154
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 1.0
+regularMarketChangePercent: 0.16366611
+regularMarketDayHigh: 614.5
+regularMarketDayLow: 609.5
+regularMarketDayRange: 609.5 - 614.5
+regularMarketOpen: 614.5
+regularMarketPreviousClose: 611.0
+regularMarketPrice: 612.0
+regularMarketTime: 1794412416
+regularMarketVolume: 36758
+returnOnAssets: 0.05059
+returnOnEquity: 0.11496
+revenueGrowth: 0.607
+revenuePerShare: 177.045
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 152000000
+shortName: Lundbergföretagen AB, L E ser.
+sourceInterval: 15
+symbol: LUND-B.ST
+targetHighPrice: 610.0
+targetLowPrice: 572.0
+targetMeanPrice: 591.3333
+targetMedianPrice: 592.0
+totalCash: 1966000000
+totalCashPerShare: 7.926
+totalDebt: 25582999552
+totalRevenue: 43909001216
+tradeable: false
+trailingAnnualDividendRate: 4.9
+trailingAnnualDividendYield: 0.00801964
+trailingEps: 73.94
+trailingPE: 8.276981
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 557.685
+twoHundredDayAverageChange: 54.315002
+twoHundredDayAverageChangePercent: 0.09739369
+typeDisp: Equity
+volume: 36758
+website: https://www.lundbergforetagen.se
+zip: 104 40

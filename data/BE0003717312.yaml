@@ -1,0 +1,258 @@
+52WeekChange: 0.10547829
+SandP52WeekChange: 0.097798586
+address1: Rue de l’Industrie, 31
+allTimeHigh: 436.8
+allTimeLow: 24.1
+ask: 0.0
+askSize: 0
+auditRisk: 7
+averageDailyVolume10Day: 28042
+averageDailyVolume3Month: 21047
+averageVolume: 21047
+averageVolume10days: 28042
+beta: 1.196
+bid: 0.0
+bidSize: 0
+boardRisk: 3
+bookValue: 326.476
+city: Brussels
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Harold Y. H. Boel
+  title: CEO & Director
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Xavier  Coirbay
+  title: Managing Director
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Maxence  Tombeur
+  title: Managing Director
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Giulia  van Waeyenberge
+  title: Managing Director
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Edward Johan Koopman
+  title: Managing Director
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amélie  Lagache
+  title: Managing Director
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Clément  Gury
+  title: Head of Finance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-François  Van Besien
+  title: Head of Innovation & Technology
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Emilie van de Walle de Ghelcke
+  title: Head of Legal
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dirk  Delmartino
+  title: Head of Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Belgium
+cryptoTradeable: false
+currency: EUR
+currentPrice: 272.0
+currentRatio: 21.98
+customPriceAlertConfidence: LOW
+dayHigh: 272.8
+dayLow: 269.6
+debtToEquity: 11.263
+dividendRate: 3.66
+dividendYield: 1.35
+earningsTimestamp: 1788363600
+earningsTimestampEnd: 1788363600
+earningsTimestampStart: 1788363600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 6.799
+enterpriseValue: 9880798208
+epsTrailingTwelveMonths: 38.56
+esgPopulated: false
+exDividendDate: 1779840000
+exchange: BRU
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Brussels
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 32 2 513 96 45
+fiftyDayAverage: 256.38
+fiftyDayAverageChange: 15.619995
+fiftyDayAverageChangePercent: 0.06092517
+fiftyTwoWeekChangePercent: 10.547829
+fiftyTwoWeekHigh: 285.0
+fiftyTwoWeekHighChange: -13.0
+fiftyTwoWeekHighChangePercent: -0.045614034
+fiftyTwoWeekLow: 203.6
+fiftyTwoWeekLowChange: 68.399994
+fiftyTwoWeekLowChangePercent: 0.33595282
+fiftyTwoWeekRange: 203.6 - 285.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946972800000
+fiveYearAvgDividendYield: 1.38
+floatShares: 15290628
+freeCashflow: 454350880
+fullExchangeName: Brussels
+fullTimeEmployees: 84
+fulldayChange: 1.6000061
+fulldayChangePercent: 0.59171826
+fulldayPrice: 272.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 1.0
+grossProfits: 1453371008
+hasPrePostMarketData: false
+heldPercentInsiders: 0.54596
+heldPercentInstitutions: 0.114250004
+impliedSharesOutstanding: 35328731
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779840000
+lastDividendValue: 3.66
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: "Sofina Société Anonyme is a private equity and venture capital\
+  \ firm specializing in direct and fund of funds investments. Within direct investments,\
+  \ it specializes in growth capital, early, startup, later stages, mature, emerging\
+  \ growth, mid venture, late venture and LBO investments. The firm primarily invests\
+  \ in portfolio of companies that engage in digital transformation, consumer & retail,\
+  \ education, healthcare, life sciences, sustainable supply chains, energy and services,\
+  \ e-commerce, consumer goods, digital, satellite operations, industry, finance companies,\
+  \ and financial services worldwide. It also invests in the media, communications,\
+  \ insurance, and property development sectors. The firm typically invests in European\
+  \ based companies with a global exposure, and it also has a particular focus on\
+  \ companies based in Western Europe and Asia such as in India, China and Southeast\
+  \ Asia and in the United States. It invests in minority investments between \x80\
+  100 million ($103.08 million) and \x80300 million ($309.25 million). The firm seeks\
+  \ to invest between \x8020 million ($20.62million) and \x80100 million ($103.08\
+  \ million) in fast-growing business. It seeks equity investment between \x805 million\
+  \ ($5.35million) and \x8050 million (54.18 million) in venture and growth capital\
+  \ funds. It invests in privately owned and listed companies. It invests in private\
+  \ companies to support growth, finance acquisitions, give liquidity to existing\
+  \ shareholders/families, support sales processes, and make minority investment alongside\
+  \ shareholders controlling shareholders and in listed companies for replacement\
+  \ of existing shareholders, long term support of controlling shareholders, and delisting.\
+  \ Within fund of funds, the firm focuses on private equity, venture capital and\
+  \ growth equity funds, and selected relationships in buyout and special situations.\
+  \ It also manages funds in the fields of private equity funds. It typically invests\
+  \ in North America, US, Europe and Asia, and concentrates on emerging markets. The\
+  \ firm prefers to hold a minority ownership equity in its portfolio companies and\
+  \ seeks board seats. The firm also prefers majority stake and co-invests. It typically\
+  \ holds its investments for ten to twelve years. Sofina Société Anonyme was founded\
+  \ in 1898 and is based in Brussels, Belgium with additional offices in Luxembourg,\
+  \ Luxembourg; Singapore, Singapore and London, United Kingdom."
+longName: Sofina Société Anonyme
+market: be_market
+marketCap: 9609414656
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874526
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1364444032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 9552888862
+numberOfAnalystOpinions: 4
+open: 270.4
+operatingCashflow: -338520992
+operatingMargins: 0.95631
+overallRisk: 3
+payoutRatio: 0.0946
+pegRatio: 3.37
+phone: 32 2 551 06 11
+previousClose: 270.4
+priceHint: 2
+priceToBook: 0.8331393
+priceToSalesTrailing12Months: 6.611811
+profitMargins: 0.93881
+quickRatio: 21.98
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 1.6000061
+regularMarketChangePercent: 0.59171826
+regularMarketDayHigh: 272.8
+regularMarketDayLow: 269.6
+regularMarketDayRange: 269.6 - 272.8
+regularMarketOpen: 270.4
+regularMarketPreviousClose: 270.4
+regularMarketPrice: 272.0
+regularMarketTime: 1794411551
+regularMarketVolume: 5707
+returnOnAssets: 0.074099995
+returnOnEquity: 0.12785
+revenuePerShare: 41.606
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 2
+sharesOutstanding: 35328731
+shortName: SOFINA
+sourceInterval: 15
+symbol: SOF.BR
+targetHighPrice: 315.0
+targetLowPrice: 275.0
+targetMeanPrice: 301.0
+targetMedianPrice: 307.0
+totalCash: 971198016
+totalCashPerShare: 27.49
+totalDebt: 1299106944
+totalRevenue: 1453371008
+tradeable: false
+trailingAnnualDividendRate: 3.66
+trailingAnnualDividendYield: 0.013535503
+trailingEps: 38.56
+trailingPE: 7.0539417
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 236.588
+twoHundredDayAverageChange: 35.412003
+twoHundredDayAverageChangePercent: 0.14967793
+typeDisp: Equity
+volume: 5707
+website: https://www.sofinagroup.com/en
+zip: '1040'

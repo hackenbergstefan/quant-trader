@@ -1,0 +1,256 @@
+52WeekChange: 0.53586984
+SandP52WeekChange: 0.097798586
+address1: 888 Brannan Street
+allTimeHigh: 219.94
+allTimeLow: 81.91
+ask: 195.73
+askSize: 2
+auditRisk: 9
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 5701280
+averageDailyVolume3Month: 4597296
+averageVolume: 4597296
+averageVolume10days: 5701280
+beta: 1.272
+bid: 168.77
+bidSize: 2
+boardRisk: 10
+bookValue: 15.81
+city: San Francisco
+companyOfficers:
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian  Chesky
+  title: Co-Founder, CEO & Chairman of the Board
+  totalPay: 242122
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 41
+  exercisedValue: 24311712
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nathan  Blecharczyk
+  title: Co-Founder, Chief Strategy Officer & Director
+  totalPay: 1310067
+  unexercisedValue: 20095604
+  yearBorn: 1984
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph  Gebbia
+  title: Co-Founder & Director
+  totalPay: 62500
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 48
+  exercisedValue: 1190316
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elinor B. Mertz
+  title: Chief Financial Officer
+  totalPay: 1361006
+  unexercisedValue: 9171696
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gus  Fuldner
+  title: Global Head of Operations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ahmad  Al-Dahle
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Angela  Yang
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ronald A. Klain J.D.
+  title: Chief Legal Officer
+  unexercisedValue: 0
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Fallon  O'Connor-Brooks
+  title: Global Head of Communications & People
+  unexercisedValue: 0
+  yearBorn: 1986
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rebecca  Van Dyck
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 180.29
+currentRatio: 1.734
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 183.73
+dayLow: 178.8031
+debtToEquity: 27.008
+displayName: Airbnb
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793916000
+earningsCallTimestampStart: 1793916000
+earningsGrowth: 0.427
+earningsQuarterlyGrowth: 0.376
+earningsTimestamp: 1793912400
+earningsTimestampEnd: 1793912400
+earningsTimestampStart: 1793912400
+ebitda: 3148999936
+ebitdaMargins: 0.22601
+enterpriseToEbitda: 31.672
+enterpriseToRevenue: 7.158
+enterpriseValue: 99736633344
+epsCurrentYear: 5.57666
+epsForward: 6.30984
+epsTrailingTwelveMonths: 5.33
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 169.1598
+fiftyDayAverageChange: 11.130188
+fiftyDayAverageChangePercent: 0.06579688
+fiftyTwoWeekChangePercent: 53.586983
+fiftyTwoWeekHigh: 197.87
+fiftyTwoWeekHighChange: -17.580002
+fiftyTwoWeekHighChangePercent: -0.08884622
+fiftyTwoWeekLow: 110.81
+fiftyTwoWeekLowChange: 69.479996
+fiftyTwoWeekLowChangePercent: 0.6270192
+fiftyTwoWeekRange: 110.81 - 197.87
+financialCurrency: USD
+firstTradeDateMilliseconds: 1607610600000
+floatShares: 408500463
+forwardEps: 6.30984
+forwardPE: 28.57283
+freeCashflow: 3249999872
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 8200
+fulldayChange: -6.6100006
+fulldayChangePercent: -3.5366511
+fulldayPrice: 180.29
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.83119005
+grossProfits: 11580999680
+hasPrePostMarketData: true
+heldPercentInsiders: 0.01918
+heldPercentInstitutions: 0.89065003
+impliedSharesOutstanding: 596742197
+industry: Travel Services
+industryDisp: Travel Services
+industryKey: travel-services
+ipoExpectedDate: '2020-12-10'
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Airbnb, Inc., together with its subsidiaries, operates a platform
+  for stays, experiences, and services worldwide. The company's marketplace connects
+  hosts and guests online or through mobile devices to book spaces, experiences, and
+  services. It also offers gift cards. The company was formerly known as AirBed &
+  Breakfast, Inc. and changed its name to Airbnb, Inc. in November 2010. Airbnb, Inc.
+  was founded in 2007 and is headquartered in San Francisco, California.
+longName: Airbnb, Inc.
+market: us_market
+marketCap: 107586650112
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_115705393
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3207000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 109811636618
+numberOfAnalystOpinions: 40
+open: 182.215
+operatingCashflow: 5011999744
+operatingMargins: 0.22493
+overallRisk: 10
+payoutRatio: 0.0
+pegRatio: 1.63
+phone: (415) 728-0108
+previousClose: 186.9
+priceEpsCurrentYear: 32.329384
+priceHint: 2
+priceToBook: 11.403542
+priceToSalesTrailing12Months: 7.721715
+profitMargins: 0.23017
+quickRatio: 1.052
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.93182
+region: US
+regularMarketChange: -6.6100006
+regularMarketChangePercent: -3.5366511
+regularMarketDayHigh: 183.73
+regularMarketDayLow: 178.8031
+regularMarketDayRange: 178.8031 - 183.73
+regularMarketOpen: 182.215
+regularMarketPreviousClose: 186.9
+regularMarketPrice: 180.29
+regularMarketTime: 1794413708
+regularMarketVolume: 1888786
+returnOnAssets: 0.08259
+returnOnEquity: 0.35788
+revenueGrowth: 0.189
+revenuePerShare: 23.387
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 10
+sharesOutstanding: 424579862
+sharesPercentSharesOut: 0.0221
+sharesShort: 12974996
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 15163383
+shortName: Airbnb, Inc.
+shortPercentOfFloat: 0.031
+shortRatio: 3.84
+sourceInterval: 15
+state: CA
+symbol: ABNB
+targetHighPrice: 245.0
+targetLowPrice: 147.0
+targetMeanPrice: 203.1795
+targetMedianPrice: 210.0
+totalCash: 12590000128
+totalCashPerShare: 21.428
+totalDebt: 2515000064
+totalRevenue: 13932999680
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 5.33
+trailingPE: 33.825516
+trailingPegRatio: 1.6016
+triggerable: true
+twoHundredDayAverage: 148.33624
+twoHundredDayAverageChange: 31.95375
+twoHundredDayAverageChangePercent: 0.21541432
+typeDisp: Equity
+volume: 1888786
+website: https://www.airbnb.com
+zip: '94103'

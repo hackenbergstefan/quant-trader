@@ -1,0 +1,282 @@
+52WeekChange: 1.3763769
+SandP52WeekChange: 0.097798586
+address1: One Dell Way
+allTimeHigh: 595.51
+allTimeLow: 11.792645
+ask: 377.24
+askSize: 120
+auditRisk: 10
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 7626750
+averageDailyVolume3Month: 7896368
+averageVolume: 7896368
+averageVolume10days: 7626750
+beta: 1.436
+bid: 377.27
+bidSize: 280
+boardRisk: 10
+bookValue: -2.23
+city: Round Rock
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Michael Saul Dell
+  title: Chairman & CEO
+  totalPay: 3382209
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. William F. Scannell
+  title: President & Chief Customer Officer
+  totalPay: 2278443
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. David  Kennedy
+  title: Chief Financial Officer
+  totalPay: 1054611
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jeffrey W. Clarke
+  title: COO & Vice Chairman
+  totalPay: 4003858
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Richard J. Rothberg Esq.
+  title: Executive VP, General Counsel & Secretary
+  totalPay: 1971667
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Richard Troy Sharp
+  title: Senior VP of Corporate Finance & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1985
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Paul  Frantz
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Michael  Zimmerman
+  title: Vice President of Corporate Development
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Geraldine  Tunnell
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Pete  Trizzino
+  title: President of Global Sales
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 376.828
+currentRatio: 0.962
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 377.5
+dayLow: 358.52
+displayName: Dell
+dividendDate: 1793318400
+dividendRate: 2.52
+dividendYield: 0.75
+earningsCallTimestampEnd: 1795555800
+earningsCallTimestampStart: 1795555800
+earningsGrowth: 2.729
+earningsQuarterlyGrowth: 2.551
+earningsTimestamp: 1795554000
+earningsTimestampEnd: 1795554000
+earningsTimestampStart: 1795554000
+ebitda: 17725999104
+ebitdaMargins: 0.11724
+enterpriseToEbitda: 13.332
+enterpriseToRevenue: 1.563
+enterpriseValue: 236317065216
+epsCurrentYear: 25.91371
+epsForward: 30.30025
+epsTrailingTwelveMonths: 17.2
+esgPopulated: false
+exDividendDate: 1792454400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 500.3844
+fiftyDayAverageChange: -123.5564
+fiftyDayAverageChangePercent: -0.24692295
+fiftyTwoWeekChangePercent: 137.63768
+fiftyTwoWeekHigh: 595.51
+fiftyTwoWeekHighChange: -218.682
+fiftyTwoWeekHighChangePercent: -0.36721802
+fiftyTwoWeekLow: 110.22
+fiftyTwoWeekLowChange: 266.608
+fiftyTwoWeekLowChangePercent: 2.4188714
+fiftyTwoWeekRange: 110.22 - 595.51
+financialCurrency: USD
+firstTradeDateMilliseconds: 1471440600000
+fiveYearAvgDividendYield: 1.27
+floatShares: 292149600
+forwardEps: 30.30025
+forwardPE: 12.436465
+freeCashflow: 6033375232
+fullExchangeName: NYSE
+fullTimeEmployees: 97000
+fulldayChange: 42.447998
+fulldayChangePercent: 12.694538
+fulldayPrice: 376.828
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.19910999
+grossProfits: 30104999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.07699
+heldPercentInstitutions: 0.77706003
+impliedSharesOutstanding: 635812750
+industry: Computer Hardware
+industryDisp: Computer Hardware
+industryKey: computer-hardware
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792454400
+lastDividendValue: 0.63
+lastFiscalYearEnd: 1769731200
+lastSplitDate: 1635811200
+lastSplitFactor: 1973:1000
+longBusinessSummary: Dell Technologies Inc. designs, develops, manufactures, markets,
+  sells, and supports various comprehensive and integrated solutions, products, and
+  services in the Americas, Europe, the Middle East, Asia, and internationally. The
+  company operates through Infrastructure Solutions Group (ISG) and Client Solutions
+  Group (CSG) segments. The ISG segment provides modern and traditional storage solutions,
+  including all-flash, purpose-built, hyper-converged infrastructure, software-defined
+  storage, and general-purpose and AI-optimized servers. This segment also offers
+  networking products and services comprising wide area network infrastructure, data
+  center and edge networking switches, and cables and optics that help its business
+  customers to transform and modernize their infrastructure and complementing its
+  server and storage solutions; and software, peripherals, and services, including
+  consulting and support, and deployment. The CSG segment provides notebooks, desktops,
+  and workstations and branded peripherals that include displays, docking stations,
+  keyboards, mice, webcam and audio devices, and third-party software and peripherals;
+  and configuration, and extended warranties services. The company is involved in
+  originating, collecting, and servicing customer financing arrangements and offers
+  payment and consumption solutions and services, such utility, subscription, as-a-service,
+  leases, and loans, as well as fixed-term leases and loans. It serves enterprises,
+  governmental agencies and other public institutions, educational institutions, healthcare
+  organizations, small and medium-sized businesses, and consumers. The company has
+  a strategic alliance with Rafay Systems for the development of AI infrastructure
+  solutions. The company was formerly known as Denali Holding Inc. and changed its
+  name to Dell Technologies Inc. in March 2013. Dell Technologies Inc. was founded
+  in 1984 and is headquartered in Round Rock, Texas.
+longName: Dell Technologies Inc.
+market: us_market
+marketCap: 239592046592
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_266017
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 11377999872
+nextFiscalYearEnd: 1801267200
+nonDilutedMarketCap: 212603067343
+numberOfAnalystOpinions: 25
+open: 360.4
+operatingCashflow: 12152000512
+operatingMargins: 0.09904
+overallRisk: 10
+payoutRatio: 0.13430001
+pegRatio: 0.35
+phone: 800 289 3355
+previousClose: 334.38
+priceEpsCurrentYear: 14.541646
+priceHint: 2
+priceToBook: -168.98117
+priceToSalesTrailing12Months: 1.5846349
+profitMargins: 0.07525
+quickRatio: 0.565
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.82759
+region: US
+regularMarketChange: 42.447998
+regularMarketChangePercent: 12.694538
+regularMarketDayHigh: 377.5
+regularMarketDayLow: 358.52
+regularMarketDayRange: 358.52 - 377.5
+regularMarketOpen: 360.4
+regularMarketPreviousClose: 334.38
+regularMarketPrice: 376.828
+regularMarketTime: 1794413737
+regularMarketVolume: 4016886
+returnOnAssets: 0.08643
+revenueGrowth: 0.577
+revenuePerShare: 230.483
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 10
+sharesOutstanding: 315433188
+sharesPercentSharesOut: 0.0165
+sharesShort: 10459294
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 12305069
+shortName: Dell Technologies Inc.
+shortPercentOfFloat: 0.0357
+shortRatio: 1.63
+sourceInterval: 15
+state: TX
+symbol: DELL
+targetHighPrice: 700.0
+targetLowPrice: 490.0
+targetMeanPrice: 590.0
+targetMedianPrice: 600.0
+totalCash: 11569999872
+totalCashPerShare: 18.197
+totalDebt: 35284000768
+totalRevenue: 151197007872
+tradeable: false
+trailingAnnualDividendRate: 2.31
+trailingAnnualDividendYield: 0.006908308
+trailingEps: 17.2
+trailingPE: 21.908604
+trailingPegRatio: 0.3491
+triggerable: true
+twoHundredDayAverage: 339.70584
+twoHundredDayAverageChange: 37.12216
+twoHundredDayAverageChangePercent: 0.109277375
+typeDisp: Equity
+volume: 4016886
+website: https://www.dell.com
+zip: '78682'

@@ -1,0 +1,263 @@
+52WeekChange: -0.52175486
+SandP52WeekChange: 0.097798586
+address1: Spitalstrasse 5
+allTimeHigh: 180.81
+allTimeLow: 16.110645
+ask: 39.62
+askSize: 100
+auditRisk: 6
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 3886480
+averageDailyVolume3Month: 3803784
+averageVolume: 3803784
+averageVolume10days: 3886480
+beta: 1.3
+bid: 39.62
+bidSize: 400
+boardRisk: 8
+bookValue: 43.151
+city: Schaffhausen
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin P. Clark
+  title: Chairman, CEO & President of Intelligent Systems
+  totalPay: 4105117
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph R. Massaro
+  title: Vice Chair & President of Engineered Components
+  totalPay: 3210600
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Varun  Laroyia
+  title: Executive VP & CFO
+  totalPay: 2902478
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Allan J. Brazier
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew  Peterson
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Betsy Miller Frank
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katherine Hargrove Ramundo J.D.
+  title: Executive VP, Chief Legal Officer, Chief Compliance Officer & Secretary
+  totalPay: 1628750
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lisa  Scalzo
+  title: Senior VP & Chief Communications Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Josie  Archer
+  title: Senior Vice President of Global Sales
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kyle G. Rollins
+  title: Senior Vice President of Marketing & External Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: USD
+currentPrice: 39.47
+currentRatio: 1.973
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 39.95
+dayLow: 39.41
+debtToEquity: 64.804
+displayName: Aptiv
+dividendDate: 1582070400
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793710800
+earningsCallTimestampStart: 1793710800
+earningsTimestamp: 1793712600
+earningsTimestampEnd: 1801488600
+earningsTimestampStart: 1801488600
+ebitda: 3204999936
+ebitdaMargins: 0.15566
+enterpriseToEbitda: 4.067
+enterpriseToRevenue: 0.633
+enterpriseValue: 13035158528
+epsCurrentYear: 5.66459
+epsForward: 6.04649
+epsTrailingTwelveMonths: 3.58
+esgPopulated: false
+exDividendDate: 1580774400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 43.9078
+fiftyDayAverageChange: -4.4377975
+fiftyDayAverageChangePercent: -0.10107083
+fiftyTwoWeekChangePercent: -52.175488
+fiftyTwoWeekHigh: 88.93
+fiftyTwoWeekHighChange: -49.46
+fiftyTwoWeekHighChangePercent: -0.5561678
+fiftyTwoWeekLow: 39.05
+fiftyTwoWeekLowChange: 0.42000198
+fiftyTwoWeekLowChangePercent: 0.010755492
+fiftyTwoWeekRange: 39.05 - 88.93
+financialCurrency: USD
+firstTradeDateMilliseconds: 1321540200000
+fiveYearAvgDividendYield: 0.74
+floatShares: 199840993
+forwardEps: 6.04649
+forwardPE: 6.5277543
+freeCashflow: 1552000000
+fullExchangeName: NYSE
+fullTimeEmployees: 140000
+fulldayChange: -0.099998474
+fulldayChangePercent: -0.25271285
+fulldayPrice: 39.47
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.19042999
+grossProfits: 3920999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00863
+heldPercentInstitutions: 1.01493
+impliedSharesOutstanding: 202430074
+industry: Auto Parts
+industryDisp: Auto Parts
+industryKey: auto-parts
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1580774400
+lastDividendValue: 0.22
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1512432000
+lastSplitFactor: 1193:1000
+longBusinessSummary: 'Aptiv PLC, an industrial technology company, provides hardware
+  and software solutions to support automotive and other industries in North America,
+  Europe, the Middle East, Africa, the Asia Pacific, and South America. It operates
+  through three segments: Advanced Safety and User Experience, Engineered Components,
+  and Electrical Distribution Systems. The company offers active safety, user experience
+  and smart vehicle compute, and software products for vehicle safety and security,
+  including intelligent sensors, compute platforms, and software tools and services.
+  It also provides connection systems, interconnects, and cable management and protection
+  solutions for the distribution of power, signal, and data. Aptiv PLC was incorporated
+  in 2011 and is based in Schaffhausen, Switzerland.'
+longName: Aptiv PLC
+market: us_market
+marketCap: 7989915648
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_59502420
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1155000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 8010158028
+numberOfAnalystOpinions: 18
+open: 39.69
+operatingCashflow: 1087000064
+operatingMargins: 0.10787
+overallRisk: 8
+payoutRatio: 0.0
+pegRatio: 0.95
+phone: 41 52 580 96 00
+previousClose: 39.57
+priceEpsCurrentYear: 6.967848
+priceHint: 2
+priceToBook: 0.9146949
+priceToSalesTrailing12Months: 0.38804835
+profitMargins: 0.03735
+quickRatio: 1.203
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.75
+region: US
+regularMarketChange: -0.099998474
+regularMarketChangePercent: -0.25271285
+regularMarketDayHigh: 39.95
+regularMarketDayLow: 39.41
+regularMarketDayRange: 39.41 - 39.95
+regularMarketOpen: 39.69
+regularMarketPreviousClose: 39.57
+regularMarketPrice: 39.47
+regularMarketTime: 1794413733
+regularMarketVolume: 358696
+returnOnAssets: 0.06674
+returnOnEquity: 0.12696
+revenueGrowth: 0.023
+revenuePerShare: 97.527
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 8
+sharesOutstanding: 202430074
+sharesPercentSharesOut: 0.0548
+sharesShort: 11087532
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 9242390
+shortName: Aptiv PLC
+shortPercentOfFloat: 0.0758
+shortRatio: 4.28
+sourceInterval: 15
+symbol: APTV
+targetHighPrice: 75.0
+targetLowPrice: 44.0
+targetMeanPrice: 58.61111
+targetMedianPrice: 56.5
+totalCash: 670000000
+totalCashPerShare: 3.31
+totalDebt: 5695000064
+totalRevenue: 20590000128
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 3.58
+trailingPE: 11.02514
+trailingPegRatio: 0.9507
+triggerable: true
+twoHundredDayAverage: 58.40485
+twoHundredDayAverageChange: -18.934849
+twoHundredDayAverageChangePercent: -0.32419994
+typeDisp: Equity
+volume: 358696
+website: https://www.aptiv.com
+zip: '8200'

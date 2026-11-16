@@ -1,0 +1,214 @@
+52WeekChange: 0.0
+SandP52WeekChange: 0.097798586
+address1: Rütligasse 1
+address2: Lucerne 7
+allTimeHigh: 406.0
+allTimeLow: 118.96716
+ask: 348.0
+askSize: 0
+averageDailyVolume10Day: 8847
+averageDailyVolume3Month: 10428
+averageVolume: 10428
+averageVolume10days: 8847
+beta: 0.431
+bid: 347.0
+bidSize: 0
+bookValue: 289.743
+city: Lucerne
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel  Ducrey
+  title: CEO, Head of Corporate Center & Member of the Executive Board
+  totalPay: 1395000
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jorg  Brunner
+  title: CFO, CSO, Head of Corporate & Financial Accounting and Member of the Executive
+    Board
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marco  Tondel
+  title: Head of Development & Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vinzenz  Manser
+  title: Head of Acquisition & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nadia  Mastacchi
+  title: Head of Real Estate & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1983
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 348.0
+currentRatio: 0.961
+customPriceAlertConfidence: LOW
+dayHigh: 350.0
+dayLow: 346.5
+debtToEquity: 90.51
+dividendDate: 1743724800
+dividendRate: 5.1
+dividendYield: 1.46
+earningsCallTimestampEnd: 1786089600
+earningsCallTimestampStart: 1786089600
+earningsGrowth: 0.125
+earningsQuarterlyGrowth: 0.155
+earningsTimestampEnd: 1786116600
+earningsTimestampStart: 1786116600
+ebitda: 149252000
+ebitdaMargins: 0.42403
+enterpriseToEbitda: 30.405
+enterpriseToRevenue: 12.893
+enterpriseValue: 4538013696
+epsCurrentYear: 14.08923
+epsForward: 14.14425
+epsTrailingTwelveMonths: 28.23
+esgPopulated: false
+exDividendDate: 1775088000
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 338.4
+fiftyDayAverageChange: 9.600006
+fiftyDayAverageChangePercent: 0.028368812
+fiftyTwoWeekChangePercent: 0.0
+fiftyTwoWeekHigh: 406.0
+fiftyTwoWeekHighChange: -58.0
+fiftyTwoWeekHighChangePercent: -0.14285715
+fiftyTwoWeekLow: 322.5
+fiftyTwoWeekLowChange: 25.5
+fiftyTwoWeekLowChangePercent: 0.07906977
+fiftyTwoWeekRange: 322.5 - 406.0
+financialCurrency: CHF
+firstTradeDateMilliseconds: 1060239600000
+fiveYearAvgDividendYield: 3.05
+floatShares: 7426292
+forwardEps: 14.14425
+forwardPE: 24.603638
+freeCashflow: 35984624
+fullExchangeName: Swiss
+fullTimeEmployees: 171
+fulldayChange: -2.0
+fulldayChangePercent: -0.5714286
+fulldayPrice: 348.0
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.54783
+grossProfits: 192828000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00242
+heldPercentInstitutions: 0.5135
+impliedSharesOutstanding: 7444382
+industry: Real Estate Services
+industryDisp: Real Estate Services
+industryKey: real-estate-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1775088000
+lastDividendValue: 5.1
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Mobimo Holding AG, together with its subsidiaries, operates as
+  a real estate company in Switzerland. It operates in two segments, Real Estate and
+  Development. The Real Estate segment engages in the portfolio management; purchase
+  and sale of investment properties; initial letting and reletting of investment properties;
+  sale of condominium; and property management, such as tasks and services of site
+  management, property management, and facility management. The Development segment
+  is involved in the development of investment properties, construction projects for
+  third-party investors, and condominiums; acquisition of sites and building plots
+  for development activities; construction projects; monitoring construction activity;
+  and management of quality assurance process during the construction phase. The company
+  was founded in 1999 and is headquartered in Lucerne, Switzerland.
+longName: Mobimo Holding AG
+market: ch_market
+marketCap: 2590644992
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_22770043
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 209968000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 2605533700
+numberOfAnalystOpinions: 3
+open: 348.5
+operatingCashflow: 127969000
+operatingMargins: 0.42423
+payoutRatio: 0.1807
+phone: 41 41 249 49 80
+previousClose: 350.0
+priceEpsCurrentYear: 24.699718
+priceHint: 2
+priceToBook: 1.2010643
+priceToSalesTrailing12Months: 7.3601627
+profitMargins: 0.59653
+quickRatio: 0.357
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -2.0
+regularMarketChangePercent: -0.5714286
+regularMarketDayHigh: 350.0
+regularMarketDayLow: 346.5
+regularMarketDayRange: 346.5 - 350.0
+regularMarketOpen: 348.5
+regularMarketPreviousClose: 350.0
+regularMarketPrice: 348.0
+regularMarketTime: 1794411312
+regularMarketVolume: 2504
+returnOnAssets: 0.02158
+returnOnEquity: 0.10205
+revenueGrowth: -0.027
+revenuePerShare: 47.448
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+sharesOutstanding: 7444382
+shortName: MOBIMO N
+sourceInterval: 15
+symbol: MOBN.SW
+targetHighPrice: 370.0
+targetLowPrice: 333.0
+targetMeanPrice: 348.33334
+targetMedianPrice: 342.0
+totalCash: 19771000
+totalCashPerShare: 2.656
+totalDebt: 1952251008
+totalRevenue: 351982016
+tradeable: false
+trailingAnnualDividendRate: 10.25
+trailingAnnualDividendYield: 0.029285714
+trailingEps: 28.23
+trailingPE: 12.3273115
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 357.0
+twoHundredDayAverageChange: -9.0
+twoHundredDayAverageChangePercent: -0.025210084
+typeDisp: Equity
+volume: 2504
+website: https://www.mobimo.ch
+zip: '6000'

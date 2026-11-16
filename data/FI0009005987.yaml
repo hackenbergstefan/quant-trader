@@ -1,0 +1,265 @@
+52WeekChange: -0.10476583
+SandP52WeekChange: 0.097798586
+address1: Alvar Aallon katu 1
+address2: PO Box 380
+allTimeHigh: 37.14
+allTimeLow: 4.33
+ask: 21.97
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 1487091
+averageDailyVolume3Month: 1124132
+averageVolume: 1124132
+averageVolume10days: 1487091
+beta: 0.221
+bid: 21.96
+bidSize: 0
+boardRisk: 1
+bookValue: 19.208
+city: Helsinki
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Massimo  Reynaudo
+  title: President & CEO
+  totalPay: 1218000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tapio Juhani Korpeinen M.B.A., M.Sc.
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Harald  Dialer
+  title: Executive Vice President & Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mika  Mikkola
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sami  Pauni LL.M.
+  title: Executive VP, General Counsel
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Saara  Tahvanainen M.Sc. (Soc.)
+  title: Executive Vice President of Marketing, Sustainability & Communications
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Riitta  Savonlahti M.Sc. (Econ.)
+  title: Executive Vice President of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anu  Ahola
+  title: Senior Vice President of SBU Newspaper Publishing for UPM Paper Europe &
+    North America
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kari  Stahlberg M.Sc. (Eng.)
+  title: Executive Vice President of Strategy
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kenneth  Raman
+  title: Senior Vice President of Treasury & Risk Management
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Finland
+cryptoTradeable: false
+currency: EUR
+currentPrice: 21.95
+currentRatio: 1.652
+customPriceAlertConfidence: HIGH
+dayHigh: 22.02
+dayLow: 21.74
+debtToEquity: 35.671
+dividendRate: 1.5
+dividendYield: 6.88
+earningsCallTimestampEnd: 1793186100
+earningsCallTimestampStart: 1793186100
+earningsGrowth: 3.938
+earningsQuarterlyGrowth: 3.938
+earningsTimestamp: 1793205000
+earningsTimestampEnd: 1793205000
+earningsTimestampStart: 1793205000
+ebitda: 1328000000
+ebitdaMargins: 0.1398
+enterpriseToEbitda: 11.22
+enterpriseToRevenue: 1.569
+enterpriseValue: 14900390912
+epsCurrentYear: 1.25069
+epsForward: 1.67839
+epsTrailingTwelveMonths: 1.28
+esgPopulated: false
+exDividendDate: 1793232000
+exchange: HEL
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Helsinki
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fax: 358 2041 5110
+fiftyDayAverage: 24.413488
+fiftyDayAverageChange: -2.4634876
+fiftyDayAverageChangePercent: -0.10090683
+fiftyTwoWeekChangePercent: -10.4765835
+fiftyTwoWeekHigh: 27.94
+fiftyTwoWeekHighChange: -5.99
+fiftyTwoWeekHighChangePercent: -0.21438797
+fiftyTwoWeekLow: 21.54
+fiftyTwoWeekLowChange: 0.40999985
+fiftyTwoWeekLowChangePercent: 0.019034347
+fiftyTwoWeekRange: 21.54 - 27.94
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 4.45
+floatShares: 511040279
+forwardEps: 1.67839
+forwardPE: 13.07801
+freeCashflow: 880374976
+fullExchangeName: Helsinki
+fullTimeEmployees: 14606
+fulldayChange: 0.15999985
+fulldayChangePercent: 0.73428106
+fulldayPrice: 21.95
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.12843001
+grossProfits: 1220000000
+hasPrePostMarketData: false
+impliedSharesOutstanding: 527324046
+industry: Paper & Paper Products
+industryDisp: Paper & Paper Products
+industryKey: paper-paper-products
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793232000
+lastDividendValue: 0.75
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1048118400
+lastSplitFactor: '2:1'
+longBusinessSummary: UPM-Kymmene Oyj, together with its subsidiaries, engages in the
+  forest-based bioindustry worldwide. The company offers softwood, birch, and eucalyptus
+  pulp for tissue, specialty papers, packaging papers, graphic papers, and board;
+  sawn timber for joinery, packaging, furniture, planning, and construction industries;
+  and wood-based renewable diesel and renewable naphtha for transport and petrochemical
+  industry. It also generates electricity through hydro, thermal, and nuclear power
+  plants; provides financial portfolio management services, as well as engages in
+  forestry water protection. Further, it provides wood and wood-based biomass, and
+  forestry services for forest investors and owners; biomedical products, such as
+  nano-fibrillar cellulose for clinical and life science applications; wood-based
+  lignin products for industrial use; and wood-based biochemicals for replacing fossil-based
+  raw materials. It also manufactures plywood and veneer products. It serves distributors,
+  industrial users, publishers, cataloguers, retailers, printing houses, merchants,
+  converters, and label stock manufacturers; label printers; brand owners; and producers
+  of tissue, board, specialty, and graphic paper. The company was founded in 1871
+  and is headquartered in Helsinki, Finland.
+longName: UPM-Kymmene Oyj
+market: fi_market
+marketCap: 11574762496
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_402182
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 686000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 11490390962
+numberOfAnalystOpinions: 15
+open: 21.8
+operatingCashflow: 1364999936
+operatingMargins: 0.09169
+overallRisk: 1
+payoutRatio: 1.1538
+pegRatio: 12.89
+phone: 358 2041 5111
+previousClose: 21.79
+priceEpsCurrentYear: 17.550314
+priceHint: 2
+priceToBook: 1.142753
+priceToSalesTrailing12Months: 1.2185243
+profitMargins: 0.07253
+quickRatio: 0.789
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.33333
+region: US
+regularMarketChange: 0.15999985
+regularMarketChangePercent: 0.73428106
+regularMarketDayHigh: 22.02
+regularMarketDayLow: 21.74
+regularMarketDayRange: 21.74 - 22.02
+regularMarketOpen: 21.8
+regularMarketPreviousClose: 21.79
+regularMarketPrice: 21.95
+regularMarketTime: 1794412475
+regularMarketVolume: 374871
+returnOnAssets: 0.030269999
+returnOnEquity: 0.06789
+revenueGrowth: -0.011
+revenuePerShare: 18.014
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 4
+sharesOutstanding: 527324046
+shortName: UPM-Kymmene Corporation
+sourceInterval: 15
+symbol: UPM.HE
+targetHighPrice: 30.0
+targetLowPrice: 17.6
+targetMeanPrice: 24.72
+targetMedianPrice: 26.2
+totalCash: 663000000
+totalCashPerShare: 1.257
+totalDebt: 3734000128
+totalRevenue: 9498999808
+tradeable: false
+trailingAnnualDividendRate: 1.5
+trailingAnnualDividendYield: 0.06883892
+trailingEps: 1.28
+trailingPE: 17.14844
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 24.819672
+twoHundredDayAverageChange: -2.8696709
+twoHundredDayAverageChangePercent: -0.11562082
+typeDisp: Equity
+volume: 374871
+website: https://www.upm.com
+zip: '00100'

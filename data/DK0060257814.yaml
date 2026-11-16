@@ -1,0 +1,252 @@
+52WeekChange: -0.49596125
+SandP52WeekChange: 0.097798586
+address1: Sydmarken 11
+allTimeHigh: 972.0
+allTimeLow: 37.5
+ask: 246.1
+askSize: 0
+auditRisk: 9
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 376657
+averageDailyVolume3Month: 396929
+averageVolume: 396929
+averageVolume10days: 376657
+beta: 0.465
+bid: 245.6
+bidSize: 0
+boardRisk: 1
+bookValue: 259.39
+city: Søborg
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam Sinding Steensberg M.D.
+  title: President & CEO
+  totalPay: 22523000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Henriette  Wennicke
+  title: EVP & CFO
+  totalPay: 10101000
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ivan Mourits Moller
+  title: Executive VP & COO
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Utpal  Singh
+  title: Executive VP & Chief Scientific Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric  Rojas
+  title: VP & Head of Investor Relations
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ravinder Singh Chahil
+  title: EVP & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christina Sonnenborg Bredal
+  title: Executive VP & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1985
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jens Damsgaard Mikkelsen M.D.
+  title: Head of Molecular Pharmacology
+  unexercisedValue: 0
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. David M. Kendall M.D.
+  title: Executive VP, Chief Medical Officer & Head of R&D
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric  Cox
+  title: Executive VP & Chief Commercial Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: Denmark
+cryptoTradeable: false
+currency: DKK
+currentPrice: 246.1
+currentRatio: 13.979
+customPriceAlertConfidence: HIGH
+dayHigh: 250.1
+dayLow: 244.8
+debtToEquity: 2.283
+dividendYield: 0.0
+earningsCallTimestampEnd: 1794488400
+earningsCallTimestampStart: 1794488400
+earningsGrowth: -0.476
+earningsQuarterlyGrowth: -0.483
+earningsTimestamp: 1794499200
+earningsTimestampEnd: 1794499200
+earningsTimestampStart: 1794499200
+ebitda: 2324047104
+ebitdaMargins: 0.50046
+enterpriseToEbitda: 1.409
+enterpriseToRevenue: 0.705
+enterpriseValue: 3274618624
+epsCurrentYear: 27.55344
+epsForward: 7.14811
+epsTrailingTwelveMonths: 38.64
+esgPopulated: false
+exchange: CPH
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Copenhagen
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 45 88 77 38 98
+fiftyDayAverage: 256.456
+fiftyDayAverageChange: -10.355988
+fiftyDayAverageChangePercent: -0.04038115
+fiftyTwoWeekChangePercent: -49.596127
+fiftyTwoWeekHigh: 556.0
+fiftyTwoWeekHighChange: -309.9
+fiftyTwoWeekHighChangePercent: -0.55737406
+fiftyTwoWeekLow: 220.6
+fiftyTwoWeekLowChange: 25.5
+fiftyTwoWeekLowChangePercent: 0.11559383
+fiftyTwoWeekRange: 220.6 - 556.0
+financialCurrency: DKK
+firstTradeDateMilliseconds: 1290499200000
+floatShares: 59405003
+forwardEps: 7.14811
+forwardPE: 34.428684
+freeCashflow: -2063679360
+fullExchangeName: Copenhagen
+fullTimeEmployees: 578
+fulldayChange: -3.5
+fulldayChangePercent: -1.4022436
+fulldayPrice: 246.1
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 1.0000399
+grossProfits: 4644043776
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0053100004
+heldPercentInstitutions: 0.38528
+impliedSharesOutstanding: 66330663
+industry: Biotechnology
+industryDisp: Biotechnology
+industryKey: biotechnology
+irWebsite: http://ir.zealandpharma.com/index.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Zealand Pharma A/S, a biotechnology company, engages in the discovery,
+  development, and commercialization of peptide-based medicines in Denmark and the
+  United States. The company has a portfolio of medicines focusing on gastrointestinal
+  and metabolic diseases, and other specialty disease areas with unmet medical needs.
+  It also provides Zegalogue, a single use syringe or autoinjector for the treatment
+  of severe hypoglycemia; and Dasiglucagon bi-hormone artificial pancreas systems
+  containing insulin and dasiglucagon. Its pipeline includes Dasiglucagon for treating
+  congenital hyperinsulinism. In addition, the company developing glepaglutide, a
+  long acting GLP-2 analog, which is in Phase III clinical trials for the treatment
+  of short bowel syndrome. The company was incorporated in 1997 and is based in Søborg,
+  Denmark.
+longName: Zealand Pharma A/S
+market: dk_market
+marketCap: 16323977216
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1268514
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 2741007872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 16556133484
+numberOfAnalystOpinions: 12
+open: 249.6
+operatingCashflow: -1753067008
+operatingMargins: 0.49681
+overallRisk: 4
+payoutRatio: 0.0
+phone: 45 88 77 36 00
+previousClose: 249.6
+priceEpsCurrentYear: 8.931734
+priceHint: 2
+priceToBook: 0.9487644
+priceToSalesTrailing12Months: 3.5151744
+profitMargins: 0.59024
+quickRatio: 13.755
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.375
+region: US
+regularMarketChange: -3.5
+regularMarketChangePercent: -1.4022436
+regularMarketDayHigh: 250.1
+regularMarketDayLow: 244.8
+regularMarketDayRange: 244.8 - 250.1
+regularMarketOpen: 249.6
+regularMarketPreviousClose: 249.6
+regularMarketPrice: 246.1
+regularMarketTime: 1794412485
+regularMarketVolume: 251545
+returnOnAssets: 0.07806
+returnOnEquity: 0.16311
+revenueGrowth: -0.506
+revenuePerShare: 65.968
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 66330663
+shortName: Zealand Pharma A/S
+sourceInterval: 15
+symbol: ZEAL.CO
+targetHighPrice: 550.0
+targetLowPrice: 290.0
+targetMeanPrice: 392.25
+targetMedianPrice: 375.0
+totalCash: 14456999936
+totalCashPerShare: 208.334
+totalDebt: 411000000
+totalRevenue: 4643859968
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 38.64
+trailingPE: 6.3690476
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 301.3665
+twoHundredDayAverageChange: -55.26648
+twoHundredDayAverageChangePercent: -0.18338628
+typeDisp: Equity
+volume: 251545
+website: https://www.zealandpharma.com
+zip: '2860'

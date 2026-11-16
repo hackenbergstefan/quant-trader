@@ -1,0 +1,284 @@
+52WeekChange: 0.13099623
+SandP52WeekChange: 0.097798586
+address1: 7 World Trade Center
+address2: 49th Floor 250 Greenwich Street
+allTimeHigh: 681.04
+allTimeLow: 11.06
+ask: 657.56
+askSize: 80
+auditRisk: 1
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 624920
+averageDailyVolume3Month: 587090
+averageVolume: 587090
+averageVolume10days: 624920
+beta: 1.192
+bid: 656.91
+bidSize: 120
+boardRisk: 5
+bookValue: -42.07
+city: New York
+companyOfficers:
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Henry A. Fernandez
+  title: Chairman, CEO & President
+  totalPay: 3720262
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew Craig Wiechmann
+  title: CFO & Interim Principal Accounting Officer
+  totalPay: 1429931
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott A. Crum
+  title: Chief Human Resources Officer
+  totalPay: 1399568
+  unexercisedValue: 0
+  yearBorn: 1957
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alvise J. Munari
+  title: Head of Client Segments & Chief Product Officer
+  totalPay: 1974216
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jorge  Mina
+  title: COO, Chief Transformation Officer & Head of Analytics
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kashi  Kakarla
+  title: CTO & Head of Product Engineering
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeremy Harris Ulan
+  title: Head of Investor Relations & Treasurer
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert J Gutowski J.D.
+  title: General Counsel and Head of Corporate Affairs
+  totalPay: 1207322
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cristina  Bondolowski
+  title: Chief Marketing & Communications Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Theodore  Niggli
+  title: Managing Director
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions:
+- header: Dividend
+  message: MSCI announced a cash dividend of $2.05 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '2.05'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 657.28
+currentRatio: 0.825
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 660.0
+dayLow: 646.0006
+displayName: MSCI
+dividendDate: 1795737600
+dividendRate: 8.2
+dividendYield: 1.25
+earningsCallTimestampEnd: 1792508400
+earningsCallTimestampStart: 1792508400
+earningsGrowth: 0.144
+earningsQuarterlyGrowth: 0.079
+earningsTimestamp: 1800970200
+earningsTimestampEnd: 1800970200
+earningsTimestampStart: 1800970200
+ebitda: 2018498944
+ebitdaMargins: 0.58808
+enterpriseToEbitda: 26.554
+enterpriseToRevenue: 15.616
+enterpriseValue: 53598588928
+epsCurrentYear: 19.68056
+epsForward: 22.42579
+epsTrailingTwelveMonths: 18.91
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 578.6092
+fiftyDayAverageChange: 78.67084
+fiftyDayAverageChangePercent: 0.1359654
+fiftyTwoWeekChangePercent: 13.099623
+fiftyTwoWeekHigh: 681.04
+fiftyTwoWeekHighChange: -23.759949
+fiftyTwoWeekHighChangePercent: -0.034887746
+fiftyTwoWeekLow: 501.08
+fiftyTwoWeekLowChange: 156.20004
+fiftyTwoWeekLowChangePercent: 0.31172678
+fiftyTwoWeekRange: 501.08 - 681.04
+financialCurrency: USD
+firstTradeDateMilliseconds: 1195137000000
+fiveYearAvgDividendYield: 1.04
+floatShares: 67824185
+forwardEps: 22.42579
+forwardPE: 29.309113
+freeCashflow: 1186027392
+fullExchangeName: NYSE
+fullTimeEmployees: 6259
+fulldayChange: 0.42004395
+fulldayChangePercent: 0.06394726
+fulldayPrice: 657.28
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.8289
+grossProfits: 2845093120
+hasPrePostMarketData: true
+heldPercentInsiders: 0.036510002
+heldPercentInstitutions: 0.97372
+impliedSharesOutstanding: 71500000
+industry: Financial Data & Stock Exchanges
+industryDisp: Financial Data & Stock Exchanges
+industryKey: financial-data-stock-exchanges
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 2.05
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: "MSCI Inc., together with its subsidiaries, provides research-based\
+  \ data, analytics, and indexes, supported by advanced technology worldwide. The\
+  \ Index segment provides indexes for use in various areas of the investment process,\
+  \ including indexed financial products, such as ETFs, mutual funds, annuities, futures,\
+  \ options, structured products, and over-the-counter derivatives; performance benchmarking;\
+  \ portfolio construction and rebalancing; and asset allocation, as well as licenses\
+  \ GICS and GICS Direct. The Analytics segment offers risk management, performance\
+  \ attribution and portfolio management content, application, an integrated view\
+  \ of risk and return service, and an analysis of market, credit, liquidity, counterparty,\
+  \ and climate risk across asset classes; managed services, including consolidation\
+  \ of client portfolio data, review and reconciliation of input data and results,\
+  \ and customized reporting; and HedgePlatform to measure, evaluate, and monitor\
+  \ the risk of hedge fund investments. The Sustainability and Climate segment provides\
+  \ products and services that help institutional investors understand how ESG impacts\
+  \ the long-term risk and return of their portfolio and individual security-level\
+  \ investments; and data, ratings, research, and tools to assist investors navigate\
+  \ increasing regulation. The All Other \x96 Private Assets segment comprises private\
+  \ credit, real estate and infrastructure data, benchmarks, return-analytics, climate\
+  \ assessments and market insights; business intelligence to real estate owners,\
+  \ managers, developers, and brokers; and offers investment decision support tools\
+  \ for private capital. The Private Capital Solutions segment offers tools to help\
+  \ private asset investors across mission-critical workflows, such as sourcing terms\
+  \ and conditions, evaluating operating performance, managing risk and other activities\
+  \ supporting private capital investment. MSCI Inc. was incorporated in 1998 and\
+  \ is based in New York, New York."
+longName: MSCI Inc.
+market: us_market
+marketCap: 46995521536
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_7844318
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1383704960
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 46965490000
+numberOfAnalystOpinions: 17
+open: 652.32
+operatingCashflow: 1614845952
+operatingMargins: 0.55679
+overallRisk: 6
+payoutRatio: 0.42040002
+pegRatio: 2.04
+phone: 212 804 3900
+previousClose: 656.86
+priceEpsCurrentYear: 33.397427
+priceHint: 2
+priceToBook: -15.623486
+priceToSalesTrailing12Months: 13.691902
+profitMargins: 0.40313998
+quickRatio: 0.71
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: 0.42004395
+regularMarketChangePercent: 0.06394726
+regularMarketDayHigh: 660.0
+regularMarketDayLow: 646.0006
+regularMarketDayRange: 646.0006 - 660.0
+regularMarketOpen: 652.32
+regularMarketPreviousClose: 656.86
+regularMarketPrice: 657.28
+regularMarketTime: 1794413664
+regularMarketVolume: 63247
+returnOnAssets: 0.21747999
+revenueGrowth: 0.124
+revenuePerShare: 46.936
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 7
+sharesOutstanding: 71500000
+sharesPercentSharesOut: 0.019199999
+sharesShort: 1370420
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1940637
+shortName: MSCI Inc.
+shortPercentOfFloat: 0.023
+shortRatio: 2.23
+sourceInterval: 15
+state: NY
+symbol: MSCI
+targetHighPrice: 760.0
+targetLowPrice: 585.0
+targetMeanPrice: 686.17645
+targetMedianPrice: 684.0
+totalCash: 257400000
+totalCashPerShare: 3.6
+totalDebt: 6890500096
+totalRevenue: 3432358912
+tradeable: false
+trailingAnnualDividendRate: 7.95
+trailingAnnualDividendYield: 0.012103036
+trailingEps: 18.91
+trailingPE: 34.75833
+trailingPegRatio: 2.0363
+triggerable: true
+twoHundredDayAverage: 575.4852
+twoHundredDayAverageChange: 81.7948
+twoHundredDayAverageChangePercent: 0.14213188
+typeDisp: Equity
+volume: 63247
+website: https://www.msci.com
+zip: '10007'

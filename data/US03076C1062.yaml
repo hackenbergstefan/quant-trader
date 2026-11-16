@@ -1,0 +1,278 @@
+52WeekChange: 0.10502827
+SandP52WeekChange: 0.097798586
+address1: 1099 Ameriprise Financial Center
+allTimeHigh: 582.05
+allTimeLow: 11.74
+ask: 518.69
+askSize: 80
+auditRisk: 9
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 658530
+averageDailyVolume3Month: 555281
+averageVolume: 555281
+averageVolume10days: 658530
+beta: 1.118
+bid: 517.72
+bidSize: 280
+boardRisk: 5
+bookValue: 58.747
+city: Minneapolis
+companyOfficers:
+- age: 82
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Walter S. Berman
+  title: Executive VP, CFO & Chief Risk Officer
+  totalPay: 4060706
+  unexercisedValue: 14112732
+  yearBorn: 1943
+- age: 65
+  exercisedValue: 9738753
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William F. Truscott
+  title: CEO of Columbia Threadneedle, Interim Global Chief Investment Officer & CEO
+    of Global Asset Mgmt
+  totalPay: 3955697
+  unexercisedValue: 8522512
+  yearBorn: 1960
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gerard P. Smyth
+  title: Executive VP and Head of Technology, Service & Operations
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Dawn M. Brockman
+  title: Senior VP, Corporate Controller & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Stephanie M. Rabe
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Heather J. Melloh
+  title: Executive VP & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Deirdre D. Davey McGraw
+  title: Executive Vice President of Marketing, Strategy & Communications
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kelli Ann Hunter Petruzillo
+  title: Executive Vice President of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1961
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David M. Joy
+  title: Chief Market Strategist
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William J. Williams
+  title: President of Wealth Management Advisor Group
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 519.24
+currentRatio: 2.25
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 523.61
+dayLow: 515.1
+debtToEquity: 76.477
+displayName: Ameriprise Financial
+dividendDate: 1795737600
+dividendRate: 6.8
+dividendYield: 1.31
+earningsCallTimestampEnd: 1793278800
+earningsCallTimestampStart: 1793278800
+earningsGrowth: 0.32
+earningsQuarterlyGrowth: 0.235
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1801143000
+earningsTimestampStart: 1801143000
+ebitdaMargins: 0.0
+enterpriseToRevenue: 1.97
+enterpriseValue: 39678009344
+epsCurrentYear: 46.0825
+epsForward: 51.58615
+epsTrailingTwelveMonths: 44.4
+esgPopulated: false
+exDividendDate: 1794182400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 513.2336
+fiftyDayAverageChange: 6.0064087
+fiftyDayAverageChangePercent: 0.01170307
+fiftyTwoWeekChangePercent: 10.502827
+fiftyTwoWeekHigh: 572.56
+fiftyTwoWeekHighChange: -53.320007
+fiftyTwoWeekHighChangePercent: -0.09312563
+fiftyTwoWeekLow: 422.37
+fiftyTwoWeekLowChange: 96.869995
+fiftyTwoWeekLowChangePercent: 0.22934866
+fiftyTwoWeekRange: 422.37 - 572.56
+financialCurrency: USD
+firstTradeDateMilliseconds: 1126791000000
+fiveYearAvgDividendYield: 1.37
+floatShares: 86435703
+forwardEps: 51.58615
+forwardPE: 10.065492
+freeCashflow: 3179000064
+fullExchangeName: NYSE
+fullTimeEmployees: 13600
+fulldayChange: -0.72003174
+fulldayChangePercent: -0.1384783
+fulldayPrice: 519.24
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.54596
+grossProfits: 10993999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0019400001
+heldPercentInstitutions: 0.95431
+impliedSharesOutstanding: 86812469
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1794182400
+lastDividendValue: 1.7
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Ameriprise Financial, Inc., together with its subsidiaries, operates
+  as a diversified financial services company in the United States and internationally.
+  The company offers financial planning and advice services to individual and institutional
+  clients. It operates through Advice & Wealth Management, Asset Management, Retirement
+  & Protection Solutions, Corporate & Other segments. The Advice & Wealth Management
+  segment provides financial planning and advice; brokerage products and services
+  for retail and institutional clients; discretionary and non-discretionary investment
+  advisory accounts; mutual funds; insurance and annuities products; cash management
+  and banking products; and face-amount certificates. The Asset Management segment
+  offers investment management, advice, and products to retail, high net worth, and
+  institutional clients through third-party financial institutions, advisor network,
+  direct retail, and its institutional sales force under the Columbia Threadneedle
+  Investments brand name. Its products include U.S. mutual funds and their non-U.S.
+  equivalents, exchange-traded funds, variable product funds underlying insurance,
+  and annuity separate accounts; and institutional asset management products, such
+  as traditional asset classes, separately managed accounts, individually managed
+  accounts, collateralized loan obligations, hedge funds, collective funds, and property
+  and infrastructure funds. The Retirement & Protection Solutions segment provides
+  variable annuity products, as well as life and disability income insurance products
+  to retail clients. Ameriprise Financial, Inc. was formerly known as American Express
+  Financial Corporation and changed its name to Ameriprise Financial, Inc. in September
+  2005. The company was founded in 1894 and is based in Minneapolis, Minnesota.
+longName: Ameriprise Financial, Inc.
+market: us_market
+marketCap: 45076508672
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_4165019
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4161999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 45139011381
+numberOfAnalystOpinions: 11
+open: 520.93
+operatingCashflow: 7485000192
+operatingMargins: 0.34916002
+overallRisk: 6
+payoutRatio: 0.1486
+pegRatio: 1.46
+phone: 612-671-3131
+previousClose: 519.96
+priceEpsCurrentYear: 11.267617
+priceHint: 2
+priceToBook: 8.838578
+priceToSalesTrailing12Months: 2.2384918
+profitMargins: 0.20668
+quickRatio: 1.37
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.71429
+region: US
+regularMarketChange: -0.72003174
+regularMarketChangePercent: -0.1384783
+regularMarketDayHigh: 523.61
+regularMarketDayLow: 515.1
+regularMarketDayRange: 515.1 - 523.61
+regularMarketOpen: 520.93
+regularMarketPreviousClose: 519.96
+regularMarketPrice: 519.24
+regularMarketTime: 1794413688
+regularMarketVolume: 84472
+returnOnAssets: 0.023039998
+returnOnEquity: 0.71976
+revenueGrowth: 0.061
+revenuePerShare: 217.697
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 5
+sharesOutstanding: 86812469
+sharesPercentSharesOut: 0.0317
+sharesShort: 2754406
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2610872
+shortName: Ameriprise Financial, Inc.
+shortPercentOfFloat: 0.0427
+shortRatio: 4.74
+sourceInterval: 15
+state: MN
+symbol: AMP
+targetHighPrice: 638.0
+targetLowPrice: 447.0
+targetMeanPrice: 545.1818
+targetMedianPrice: 525.0
+totalCash: 9368999936
+totalCashPerShare: 107.922
+totalDebt: 3908000000
+totalRevenue: 20137000960
+tradeable: false
+trailingAnnualDividendRate: 6.6
+trailingAnnualDividendYield: 0.012693283
+trailingEps: 44.4
+trailingPE: 11.694594
+trailingPegRatio: 1.4569
+triggerable: true
+twoHundredDayAverage: 493.0643
+twoHundredDayAverageChange: 26.17569
+twoHundredDayAverageChangePercent: 0.053087782
+typeDisp: Equity
+volume: 84472
+website: https://www.ameriprise.com
+zip: '55474'

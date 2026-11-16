@@ -1,0 +1,276 @@
+52WeekChange: 0.39739776
+SandP52WeekChange: 0.097798586
+address1: 6425 Hall of Fame Lane
+allTimeHigh: 126.65
+allTimeLow: 11.83
+ask: 39.48
+askSize: 1
+auditRisk: 9
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 22573010
+averageDailyVolume3Month: 12993898
+averageVolume: 12993898
+averageVolume10days: 22573010
+beta: 0.355
+bid: 35.54
+bidSize: 1
+boardRisk: 3
+bookValue: 18.683
+city: Frisco
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy P. Cofer
+  title: CEO & Director
+  totalPay: 3091518
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anthony P. DiSilvestro
+  title: Chief Financial Officer
+  totalPay: 1010258
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anthony L. Shoemaker
+  title: Chief Legal Officer, General Counsel & Corporate Secretary
+  totalPay: 1171108
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric  Gorli
+  title: President of U.S. Refreshment Beverages
+  totalPay: 1202399
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 81
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert P. Stiller
+  title: Founder
+  totalPay: 12500
+  unexercisedValue: 0
+  yearBorn: 1944
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jane  Gelfand
+  title: Vice President of Investor Relations & Strategic Initiatives
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andreas J. Panayiotou
+  title: Chief Marketing & Innovation Officer
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mary Beth DeNooyer
+  title: Chief Human Resources Officer
+  totalPay: 2387858
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Monique  Oxender
+  title: Chief Corporate Affairs Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher  Martin
+  title: Senior Vice President of Coffee Supply Chain
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 37.895
+currentRatio: 0.518
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 37.925
+dayLow: 36.99
+debtToEquity: 94.969
+displayName: Keurig Dr Pepper
+dividendDate: 1791504000
+dividendRate: 0.92
+dividendYield: 2.45
+earningsCallTimestampEnd: 1793710800
+earningsCallTimestampStart: 1793710800
+earningsGrowth: 0.211
+earningsQuarterlyGrowth: 0.332
+earningsTimestamp: 1793712600
+earningsTimestampEnd: 1793712600
+earningsTimestampStart: 1793712600
+ebitda: 5359000064
+ebitdaMargins: 0.23171
+enterpriseToEbitda: 16.949
+enterpriseToRevenue: 3.927
+enterpriseValue: 90827046912
+epsCurrentYear: 2.29719
+epsForward: 2.53656
+epsTrailingTwelveMonths: 1.11
+esgPopulated: false
+exDividendDate: 1790553600
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 33.0792
+fiftyDayAverageChange: 4.8157997
+fiftyDayAverageChangePercent: 0.14558391
+fiftyTwoWeekChangePercent: 39.739777
+fiftyTwoWeekHigh: 37.925
+fiftyTwoWeekHighChange: -0.02999878
+fiftyTwoWeekHighChangePercent: -0.00079100276
+fiftyTwoWeekLow: 24.88
+fiftyTwoWeekLowChange: 13.015001
+fiftyTwoWeekLowChangePercent: 0.523111
+fiftyTwoWeekRange: 24.88 - 37.925
+financialCurrency: USD
+firstTradeDateMilliseconds: 1210167000000
+fiveYearAvgDividendYield: 2.49
+floatShares: 1354511064
+forwardEps: 2.53656
+forwardPE: 14.939525
+freeCashflow: 4514124800
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 50000
+fulldayChange: 0.3050003
+fulldayChangePercent: 0.8113868
+fulldayPrice: 37.895
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.49589002
+grossProfits: 11468999680
+hasPrePostMarketData: true
+heldPercentInsiders: 0.04709
+heldPercentInstitutions: 1.10586
+impliedSharesOutstanding: 1360948350
+industry: Beverages - Non-Alcoholic
+industryDisp: Beverages - Non - Alcoholic
+industryKey: beverages-non-alcoholic
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790553600
+lastDividendValue: 0.23
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Keurig Dr Pepper Inc. owns, manufactures, and distributors beverages
+  and single serve brewing systems in the United States and internationally. The company
+  operates through three segments: U.S. Refreshment Beverages, U.S. Coffee, and International.
+  It manufactures and distributes branded concentrates, syrup, and finished beverages,
+  as well as sales of owned brands and third-party brands; tea, cocoa, and other products;
+  and offers finished goods relating to K-Cup pods, single serve brewers, specialty
+  coffee, and ready to drink coffee products. The company offers its products under
+  the Dr Pepper, Canada Dry, Mott''s, A&W, Peñafiel, GHOST, Snapple, 7UP, Green Mountain
+  Coffee Roasters, Clamato, Core Hydration, The Original Donut Shop, Sunkist soda,
+  Squirt, C4 Energy, Hawaiian Punch, Electrolit, Bloom, Bai, Evian, Yoo-Hoo, Vita
+  Coco, Big Red, RC Cola, Crush, McCafé, Tim Hortons, Van Houtte, Celestial Seasonings,
+  Bigelow, Starbucks, Dunkin'', Folgers, Peet''s, and Swiss Miss brands, as well as
+  other partner and private label brands. It markets and sells its products to supermarkets,
+  mass merchandisers, club stores, e-commerce retailers, office superstores, vending
+  machines, fountains, grocery and drug stores, convenience stores, and other small
+  outlets; and directly to consumers through Keurig.com website. Keurig Dr Pepper
+  Inc. was founded in 1981 and is headquartered in Frisco, Texas.'
+longName: Keurig Dr Pepper Inc.
+market: us_market
+marketCap: 51573137408
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_334622
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1512000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 51158048476
+numberOfAnalystOpinions: 18
+open: 37.11
+operatingCashflow: 2932000000
+operatingMargins: 0.18255
+overallRisk: 8
+payoutRatio: 0.82879996
+pegRatio: 1.14
+phone: 800 527 7096
+previousClose: 37.59
+priceEpsCurrentYear: 16.496243
+priceHint: 2
+priceToBook: 2.0283146
+priceToSalesTrailing12Months: 2.2299004
+profitMargins: 0.07121
+quickRatio: 0.206
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.89474
+region: US
+regularMarketChange: 0.3050003
+regularMarketChangePercent: 0.8113868
+regularMarketDayHigh: 37.925
+regularMarketDayLow: 36.99
+regularMarketDayRange: 36.99 - 37.925
+regularMarketOpen: 37.11
+regularMarketPreviousClose: 37.59
+regularMarketPrice: 37.895
+regularMarketTime: 1794413732
+regularMarketVolume: 3169826
+returnOnAssets: 0.0373
+returnOnEquity: 0.06013
+revenueGrowth: 0.706
+revenuePerShare: 17.009
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 9
+sharesOutstanding: 1360948350
+sharesPercentSharesOut: 0.0484
+sharesShort: 65831866
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 73547571
+shortName: Keurig Dr Pepper Inc.
+shortPercentOfFloat: 0.0539
+shortRatio: 4.71
+sourceInterval: 15
+state: TX
+symbol: KDP
+targetHighPrice: 42.0
+targetLowPrice: 32.0
+targetMeanPrice: 38.08333
+targetMedianPrice: 40.0
+totalCash: 1290000000
+totalCashPerShare: 0.948
+totalDebt: 32335998976
+totalRevenue: 23128000512
+tradeable: false
+trailingAnnualDividendRate: 0.92
+trailingAnnualDividendYield: 0.024474595
+trailingEps: 1.11
+trailingPE: 34.13964
+trailingPegRatio: 1.1607
+triggerable: true
+twoHundredDayAverage: 30.31115
+twoHundredDayAverageChange: 7.583851
+twoHundredDayAverageChangePercent: 0.25020003
+typeDisp: Equity
+volume: 3169826
+website: https://www.keurigdrpepper.com
+zip: '75034'

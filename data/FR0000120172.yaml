@@ -1,0 +1,236 @@
+52WeekChange: 0.05132079
+SandP52WeekChange: 0.097798586
+address1: 93, avenue de Paris
+allTimeHigh: 93.15
+allTimeLow: 11.58
+auditRisk: 7
+averageDailyVolume10Day: 2792748
+averageDailyVolume3Month: 2270158
+averageVolume: 2270158
+averageVolume10days: 2792748
+beta: 0.582
+boardRisk: 4
+bookValue: 15.64
+city: Massy
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexandre  Bompard
+  title: Chairman & CEO
+  totalPay: 3490397
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthieu  Malige
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sebastien  Valentin
+  title: Head of Financial Communciations & Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles  Hufnagel
+  title: Executive Director of Communication for Group & France
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Caroline  Dassie
+  title: Executive Director of Global Marketing, Customers & Private Labels
+  unexercisedValue: 0
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jérôme  Nanty
+  title: Executive Director of Human Resources & Assets for the Group & France
+  unexercisedValue: 0
+  yearBorn: 1961
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juan  Cubillo
+  title: Head of Food Marketing
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Laurent charles Rene Vallee
+  title: General Secretary, CEO Northern Europe & Chairman of Food Advisory Committee
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pierre-Jean  Jerome Sivignon
+  title: Advisor to The CEO
+  totalPay: 775559
+  unexercisedValue: 0
+  yearBorn: 1957
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 13.995
+currentRatio: 0.896
+customPriceAlertConfidence: LOW
+dayHigh: 14.04
+dayLow: 13.9
+debtToEquity: 185.209
+dividendRate: 0.97
+dividendYield: 6.96
+earningsCallTimestampEnd: 1739985300
+earningsCallTimestampStart: 1739985300
+earningsTimestampEnd: 1771345800
+earningsTimestampStart: 1771345800
+ebitda: 3590000128
+ebitdaMargins: 0.04243
+enterpriseToEbitda: 7.587
+enterpriseToRevenue: 0.322
+enterpriseValue: 27237355520
+epsCurrentYear: 1.61351
+epsForward: 1.80536
+epsTrailingTwelveMonths: 2.15
+esgPopulated: false
+exDividendDate: 1785196800
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 15.42
+fiftyDayAverageChange: -1.4250002
+fiftyDayAverageChangePercent: -0.092412464
+fiftyTwoWeekChangePercent: 5.132079
+fiftyTwoWeekHigh: 17.535
+fiftyTwoWeekHighChange: -3.54
+fiftyTwoWeekHighChangePercent: -0.20188195
+fiftyTwoWeekLow: 12.63
+fiftyTwoWeekLowChange: 1.3649998
+fiftyTwoWeekLowChangePercent: 0.10807599
+fiftyTwoWeekRange: 12.63 - 17.535
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 4.11
+floatShares: 588430829
+forwardEps: 1.80536
+forwardPE: 7.7519164
+freeCashflow: 1673124992
+fullExchangeName: Paris
+fullTimeEmployees: 298604
+fulldayChange: 0.06499958
+fulldayChangePercent: 0.4666158
+fulldayPrice: 13.995
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.17811
+grossProfits: 15068999680
+hasPrePostMarketData: false
+heldPercentInsiders: 0.16482
+heldPercentInstitutions: 0.44908002
+impliedSharesOutstanding: 707313254
+industry: Grocery Stores
+industryDisp: Grocery Stores
+industryKey: grocery-stores
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1785196800
+lastDividendValue: 0.21
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Carrefour SA operates as a food retailer in France, Spain, Belgium,
+  Poland, Romania, Brazil, Argentina, the Middle East, Africa, Asia, and internationally.
+  The company operates hypermarkets, supermarkets, convenience stores, club stores,
+  and cash and carry stores; soft discount stores; and e-commerce sites. It is also
+  involved in the provision of financial services; banking and insurance services;
+  property development; travel ticketing and leisure; agency; shopping mall rental;
+  and franchise activities. Carrefour SA was founded in 1959 and is headquartered
+  in Massy, France.
+longName: Carrefour SA
+market: fr_market
+marketCap: 9898849280
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_91638
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 911000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 9608850555
+numberOfAnalystOpinions: 15
+open: 13.915
+operatingCashflow: 3958000128
+operatingMargins: 0.0257
+overallRisk: 4
+payoutRatio: 0.7462
+pegRatio: 0.73
+phone: 33 1 64 50 50 00
+previousClose: 13.93
+priceEpsCurrentYear: 8.673636
+priceHint: 2
+priceToBook: 0.8948209
+priceToSalesTrailing12Months: 0.11699937
+profitMargins: 0.0088599995
+quickRatio: 0.576
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 0.06499958
+regularMarketChangePercent: 0.4666158
+regularMarketDayHigh: 14.04
+regularMarketDayLow: 13.9
+regularMarketDayRange: 13.9 - 14.04
+regularMarketOpen: 13.915
+regularMarketPreviousClose: 13.93
+regularMarketPrice: 13.995
+regularMarketTime: 1794411548
+regularMarketVolume: 541173
+returnOnAssets: 0.02478
+returnOnEquity: 0.08428001
+revenueGrowth: 0.02
+revenuePerShare: 119.673
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 5
+sharesOutstanding: 707313254
+shortName: CARREFOUR
+sourceInterval: 15
+symbol: CA.PA
+targetHighPrice: 19.0
+targetLowPrice: 8.0
+targetMeanPrice: 15.43667
+targetMedianPrice: 16.0
+totalCash: 5239000064
+totalCashPerShare: 7.404
+totalDebt: 21874999296
+totalRevenue: 84606001152
+tradeable: false
+trailingAnnualDividendRate: 0.97
+trailingAnnualDividendYield: 0.069633886
+trailingEps: 2.15
+trailingPE: 6.509302
+trailingPegRatio: 0.7286
+triggerable: false
+twoHundredDayAverage: 15.906225
+twoHundredDayAverageChange: -1.9112253
+twoHundredDayAverageChangePercent: -0.120155804
+typeDisp: Equity
+volume: 541173
+website: https://www.carrefour.com
+zip: '91300'

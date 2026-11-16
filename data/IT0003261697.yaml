@@ -1,0 +1,233 @@
+52WeekChange: 0.023730636
+SandP52WeekChange: 0.097798586
+address1: Via Cusani, 4
+allTimeHigh: 40.39
+allTimeLow: 2.705262
+ask: 37.11
+askSize: 0
+auditRisk: 7
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 511038
+averageDailyVolume3Month: 487226
+averageVolume: 487226
+averageVolume10days: 511038
+beta: 1.005
+bid: 37.09
+bidSize: 0
+boardRisk: 8
+bookValue: 14.092
+city: Milan
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2014
+  maxAge: 1
+  name: Mr. Andrea  Aliberti
+  title: Head of Asset Management -Italy
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2014
+  maxAge: 1
+  name: Dr. Zambotti  Alessandro
+  title: CEO, CFO, Head of Administration & Finance and Executive Director
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2014
+  maxAge: 1
+  name: Dr. Medda  Giorgio
+  title: CEO, Global Head of Asset Management & Executive Director
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2014
+  maxAge: 1
+  name: Mr. Vittorio  Pracca
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2014
+  maxAge: 1
+  name: Mr. Claudio  Foscoli
+  title: Head of Asset Management for Luxembourg & Ireland
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2014
+  maxAge: 1
+  name: Dr. Guiati  Massimo
+  title: Global Head of Distribution
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2014
+  maxAge: 1
+  name: Mr. Stefano  Chao
+  title: Asia head & CEO of Azimut Singapore
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1419984000
+compensationRisk: 1
+corporateActions: []
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 37.11
+currentRatio: 3.267
+customPriceAlertConfidence: LOW
+dayHigh: 37.7
+dayLow: 36.99
+debtToEquity: 12.469
+dividendRate: 2.0
+dividendYield: 5.39
+earningsCallTimestampEnd: 1793887200
+earningsCallTimestampStart: 1793887200
+earningsGrowth: -0.097
+earningsQuarterlyGrowth: -0.1
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 690121024
+ebitdaMargins: 0.43725
+enterpriseToEbitda: 7.339
+enterpriseToRevenue: 3.209
+enterpriseValue: 5064634368
+epsCurrentYear: 3.27728
+epsForward: 3.67194
+epsTrailingTwelveMonths: 3.62
+esgPopulated: false
+exDividendDate: 1779062400
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 39 02 88 98 55 00
+fiftyDayAverage: 37.1114
+fiftyDayAverageChange: -0.0013999939
+fiftyDayAverageChangePercent: -3.772409e-05
+fiftyTwoWeekChangePercent: 2.3730636
+fiftyTwoWeekHigh: 40.39
+fiftyTwoWeekHighChange: -3.2799988
+fiftyTwoWeekHighChangePercent: -0.08120819
+fiftyTwoWeekLow: 30.19
+fiftyTwoWeekLowChange: 6.92
+fiftyTwoWeekLowChangePercent: 0.22921497
+fiftyTwoWeekRange: 30.19 - 40.39
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1089183600000
+fiveYearAvgDividendYield: 5.28
+floatShares: 100760408
+forwardEps: 3.67194
+forwardPE: 10.106374
+freeCashflow: 634198656
+fullExchangeName: Milan
+fullTimeEmployees: 1036
+fulldayChange: 0.010002136
+fulldayChangePercent: 0.026959937
+fulldayPrice: 37.11
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.59945
+grossProfits: 946118976
+hasPrePostMarketData: false
+heldPercentInsiders: 0.21773
+heldPercentInstitutions: 0.29716998
+impliedSharesOutstanding: 135981001
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779062400
+lastDividendValue: 2.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1558310400
+lastSplitFactor: '57:56'
+longBusinessSummary: Azimut Holding S.p.A. provides asset management and advisory
+  solutions in Italy, Europe, the Middle East, the Americas, and the Asia-Pacific.
+  It offers public and private markets, discretionary portfolio management, and token
+  and digital asset solutions; advisory services; corporate investment banking and
+  fintech solutions; mutual funds harmonized with the UCITS directive; alternative
+  investment funds and open pension funds; and individual management of investment
+  portfolios on behalf of third parties. The company also provides private insurance,
+  unit linked insurance plans, and optional coverage; and pensions for individuals
+  and companies. Azimut Holding S.p.A. was incorporated in 1990 and is headquartered
+  in Milan, Italy.
+longName: Azimut Holding S.p.A.
+market: it_market
+marketCap: 5046255104
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1450499
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 512929984
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5044895137
+numberOfAnalystOpinions: 7
+open: 37.46
+operatingCashflow: 834867968
+operatingMargins: 0.42992002
+overallRisk: 5
+payoutRatio: 0.5525
+pegRatio: 1.74
+phone: 39 02 88981
+previousClose: 37.1
+priceEpsCurrentYear: 11.323415
+priceHint: 2
+priceToBook: 2.633409
+priceToSalesTrailing12Months: 3.1972299
+profitMargins: 0.32498002
+quickRatio: 3.172
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: 0.010002136
+regularMarketChangePercent: 0.026959937
+regularMarketDayHigh: 37.7
+regularMarketDayLow: 36.99
+regularMarketDayRange: 36.99 - 37.7
+regularMarketOpen: 37.46
+regularMarketPreviousClose: 37.1
+regularMarketPrice: 37.11
+regularMarketTime: 1794411517
+regularMarketVolume: 186301
+returnOnAssets: 0.03896
+returnOnEquity: 0.27388
+revenueGrowth: 0.011
+revenuePerShare: 11.137
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 135981001
+shortName: AZIMUT
+sourceInterval: 20
+state: MI
+symbol: AZM.MI
+targetHighPrice: 50.0
+targetLowPrice: 36.3
+targetMeanPrice: 42.47143
+targetMedianPrice: 41.0
+totalCash: 464423008
+totalCashPerShare: 3.277
+totalDebt: 251444992
+totalRevenue: 1578321024
+tradeable: false
+trailingAnnualDividendRate: 2.0
+trailingAnnualDividendYield: 0.05390836
+trailingEps: 3.62
+trailingPE: 10.251382
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 36.04175
+twoHundredDayAverageChange: 1.0682487
+twoHundredDayAverageChangePercent: 0.029639201
+typeDisp: Equity
+volume: 186301
+website: https://www.azimut-group.com
+zip: '20121'

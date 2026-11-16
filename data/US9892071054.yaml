@@ -1,0 +1,276 @@
+52WeekChange: 0.2569127
+SandP52WeekChange: 0.097798586
+address1: 3 Overlook Point
+allTimeHigh: 615.0
+allTimeLow: 3.222222
+ask: 390.0
+askSize: 3
+auditRisk: 1
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 962850
+averageDailyVolume3Month: 605368
+averageVolume: 605368
+averageVolume10days: 962850
+beta: 1.633
+bid: 330.4
+bidSize: 4
+boardRisk: 9
+bookValue: 75.631
+city: Lincolnshire
+companyOfficers:
+- age: 58
+  exercisedValue: 587436
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William J. Burns
+  title: CEO & Director
+  totalPay: 2890087
+  unexercisedValue: 164523
+  yearBorn: 1967
+- age: 45
+  exercisedValue: 55791
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nathan Andrew Winters
+  title: Chief Financial Officer
+  totalPay: 1423533
+  unexercisedValue: 11913
+  yearBorn: 1980
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cristen L. Kogl J.D.
+  title: Chief Legal Officer, General Counsel & Corporate Secretary
+  totalPay: 1278147
+  unexercisedValue: 85202
+  yearBorn: 1966
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard Edward Hudson
+  title: Chief Revenue Officer
+  totalPay: 1547940
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Colleen M. O'Sullivan
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tom  Bianculli
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matt  Ausman
+  title: Chief Information Officer
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael A. Steele C.F.A., IRC
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Therese  Van Ryne
+  title: Senior Director of External Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melissa Luff Loizides
+  title: Chief People Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 331.33
+currentRatio: 0.567
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 333.185
+dayLow: 328.26
+debtToEquity: 77.803
+displayName: Zebra
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793712600
+earningsCallTimestampStart: 1793712600
+earningsGrowth: 0.741
+earningsQuarterlyGrowth: 0.624
+earningsTimestamp: 1793712600
+earningsTimestampEnd: 1793712600
+earningsTimestampStart: 1793712600
+ebitda: 1244000000
+ebitdaMargins: 0.20257
+enterpriseToEbitda: 14.25
+enterpriseToRevenue: 2.887
+enterpriseValue: 17726965760
+epsCurrentYear: 21.19586
+epsForward: 22.24193
+epsTrailingTwelveMonths: 12.37
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 363.3674
+fiftyDayAverageChange: -32.037415
+fiftyDayAverageChangePercent: -0.08816811
+fiftyTwoWeekChangePercent: 25.69127
+fiftyTwoWeekHigh: 392.78
+fiftyTwoWeekHighChange: -61.450012
+fiftyTwoWeekHighChangePercent: -0.15644893
+fiftyTwoWeekLow: 199.05
+fiftyTwoWeekLowChange: 132.27998
+fiftyTwoWeekLowChangePercent: 0.66455656
+fiftyTwoWeekRange: 199.05 - 392.78
+financialCurrency: USD
+firstTradeDateMilliseconds: 682263000000
+floatShares: 46644361
+forwardEps: 22.24193
+forwardPE: 14.896638
+freeCashflow: 699374976
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 10700
+fulldayChange: 9.949982
+fulldayChangePercent: 3.0960176
+fulldayPrice: 331.33
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.48901
+grossProfits: 3003000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00857
+heldPercentInstitutions: 1.03838
+impliedSharesOutstanding: 47087454
+industry: Communication Equipment
+industryDisp: Communication Equipment
+industryKey: communication-equipment
+irWebsite: http://www.zebra.com/id/zebra/na/en/index/about_zebra/investor_relations.html
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1093478400
+lastSplitFactor: '3:2'
+longBusinessSummary: Zebra Technologies Corporation, together with its subsidiaries,
+  operates in the automatic identification and data capture solutions industry worldwide.
+  It operates in two segments, Connected Frontline, and Asset Visibility and Automation.
+  The company designs, manufactures, and sells printers that produce labels, wristbands,
+  tickets, receipts, and plastic cards; dye-sublimination thermal card printers that
+  produce images, which are used for personal identification, access control, and
+  financial transactions; radio frequency identification device (RFID) printers that
+  encode data into passive RFID transponders; accessories and options for printers,
+  including carrying cases, vehicle mounts, and battery chargers; stock and customized
+  thermal labels, receipts, ribbons, plastic cards, and RFID tags for printers; and
+  electronic sensors and temperature-monitoring labels. It also provides various maintenance,
+  technical support, repair, and managed and professional services; fixed readers,
+  RFID enabled mobile computers, and RFID sleds; tags, sensors, exciters, middleware
+  software, and application software; and physical inventory management solutions;
+  rugged and enterprise-grade mobile computing products and accessories, as well as
+  real-time location systems and services. In addition, the company offers barcode
+  scanners and imagers, RFID readers, industrial machine vision cameras, and fixed
+  industrial scanners; point-of-sale solutions, self-serve kiosks, and interactive
+  touchscreen displays; workflow optimization solutions, such as workforce management,
+  workflow execution and task management, and prescriptive analytics, and communications
+  and collaboration solutions; and cloud-based software. The company serves retail
+  and e-commerce, manufacturing, transportation and logistics, healthcare, public
+  sector, and other industries through direct sales force and network of channel partners.
+  The company was founded in 1969 and is headquartered in Lincolnshire, Illinois.
+longName: Zebra Technologies Corporation
+market: us_market
+marketCap: 15601485824
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_393488
+mostRecentQuarter: 1790985600
+netIncomeToCommon: 602000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 15128257221
+numberOfAnalystOpinions: 15
+open: 328.84
+operatingCashflow: 1068000000
+operatingMargins: 0.16528
+overallRisk: 7
+payoutRatio: 0.0
+pegRatio: 0.57
+phone: 847 634 6700
+previousClose: 321.38
+priceEpsCurrentYear: 15.631825
+priceHint: 2
+priceToBook: 4.3808756
+priceToSalesTrailing12Months: 2.5405447
+profitMargins: 0.09803
+quickRatio: 0.32
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.9375
+region: US
+regularMarketChange: 9.949982
+regularMarketChangePercent: 3.0960176
+regularMarketDayHigh: 333.185
+regularMarketDayLow: 328.26
+regularMarketDayRange: 328.26 - 333.185
+regularMarketOpen: 328.84
+regularMarketPreviousClose: 321.38
+regularMarketPrice: 331.33
+regularMarketTime: 1794413749
+regularMarketVolume: 174109
+returnOnAssets: 0.07513
+returnOnEquity: 0.16459
+revenueGrowth: 0.223
+revenuePerShare: 126.467
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 8
+sharesOutstanding: 47087454
+sharesPercentSharesOut: 0.0276
+sharesShort: 1297793
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1654336
+shortName: Zebra Technologies Corporation
+shortPercentOfFloat: 0.0324
+shortRatio: 2.72
+sourceInterval: 15
+state: IL
+symbol: ZBRA
+targetHighPrice: 455.0
+targetLowPrice: 350.0
+targetMeanPrice: 413.45267
+targetMedianPrice: 427.0
+totalCash: 182000000
+totalCashPerShare: 3.865
+totalDebt: 2776000000
+totalRevenue: 6141000192
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 12.37
+trailingPE: 26.784964
+trailingPegRatio: 0.5669
+triggerable: true
+twoHundredDayAverage: 283.00986
+twoHundredDayAverageChange: 48.32013
+twoHundredDayAverageChangePercent: 0.17073657
+typeDisp: Equity
+volume: 174109
+website: https://www.zebra.com
+zip: '60069'

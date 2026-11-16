@@ -1,0 +1,283 @@
+52WeekChange: 0.56511056
+SandP52WeekChange: 0.097798586
+address1: Forusbeen 50
+allTimeHigh: 454.6
+allTimeLow: 49.6
+ask: 395.0
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 3.3 - Hold
+averageDailyVolume10Day: 3819364
+averageDailyVolume3Month: 2855954
+averageVolume: 2855954
+averageVolume10days: 3819364
+beta: -0.658
+bid: 394.8
+bidSize: 0
+boardRisk: 4
+bookValue: 177.20558
+city: Stavanger
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anders  Opedal
+  title: President & CEO
+  totalPay: 17861993
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Torgrim  Reitan
+  title: Executive VP & CFO
+  totalPay: 8523552
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hege  Skryseth
+  title: CTO & Executive VP of Technology, Digital & Innovation
+  totalPay: 6444180
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Siv Helen Rygh Torstensen
+  title: Executive VP & General Counsel of Legal & Compliance
+  totalPay: 5666757
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jannik  Lindbaek Jr.
+  title: Executive Vice President for Communication
+  totalPay: 5544992
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Irene  Rummelhoff
+  title: Executive Vice President of Marketing, Midstream & Processing
+  totalPay: 8092691
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Aksel  Stenerud
+  title: Executive Vice President for the People & Organization
+  totalPay: 5844721
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kjetil  Hove
+  title: Executive Vice President of Exploration & Production Norway
+  totalPay: 9628804
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philippe Francois Mathieu
+  title: Executive VP of Exploration & Production International
+  totalPay: 8504819
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jannicke  Nilsson
+  title: Chief Procurement Off. and SVP for Procurement & Supplier Rel. in Proj.,
+    Drilling & Procurement
+  totalPay: 6987439
+  unexercisedValue: 0
+  yearBorn: 1965
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: EQNR.OL announced a cash dividend of NOK 0.39 with an ex-date of Nov. 13,
+    2026
+  meta:
+    amount: '0.39'
+    dateEpochMs: 1794524400000
+    eventType: DIVIDEND
+country: Norway
+cryptoTradeable: false
+currency: NOK
+currentPrice: 395.2
+currentRatio: 1.176
+customPriceAlertConfidence: LOW
+dayHigh: 395.8
+dayLow: 385.4
+debtToEquity: 65.923
+dividendRate: 14.67
+dividendYield: 3.84
+earningsCallTimestampEnd: 1793183400
+earningsCallTimestampStart: 1793183400
+earningsTimestamp: 1793200800
+earningsTimestampEnd: 1793200800
+earningsTimestampStart: 1793200800
+ebitda: 48076001280
+ebitdaMargins: 0.39873
+enterpriseToEbitda: 18.993
+enterpriseToRevenue: 7.573
+enterpriseValue: 913090805760
+epsCurrentYear: 5.71265
+epsForward: 44.14994
+epsTrailingTwelveMonths: 46.74
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 415.868
+fiftyDayAverageChange: -20.668
+fiftyDayAverageChangePercent: -0.049698457
+fiftyTwoWeekChangePercent: 56.511055
+fiftyTwoWeekHigh: 454.6
+fiftyTwoWeekHighChange: -59.399994
+fiftyTwoWeekHighChangePercent: -0.1306643
+fiftyTwoWeekLow: 226.4
+fiftyTwoWeekLowChange: 168.80002
+fiftyTwoWeekLowChangePercent: 0.7455831
+fiftyTwoWeekRange: 226.4 - 454.6
+financialCurrency: USD
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 3.27
+floatShares: 2373691380
+forwardEps: 44.14994
+forwardPE: 8.951315
+freeCashflow: 32352249856
+fullExchangeName: Oslo
+fullTimeEmployees: 23545
+fulldayChange: 13.0
+fulldayChangePercent: 3.4013603
+fulldayPrice: 395.2
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.4318
+grossProfits: 52062998528
+hasPrePostMarketData: false
+heldPercentInsiders: 0.71654
+heldPercentInstitutions: 0.2229
+impliedSharesOutstanding: 2366178923
+industry: Oil & Gas Integrated
+industryDisp: Oil & Gas Integrated
+industryKey: oil-gas-integrated
+irWebsite: http://www.statoil.com/en/investorcentre/pages/default.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1802649600
+lastDividendValue: 0.39
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Equinor ASA operates as an energy company in Norway and internationally.
+  It operates through Exploration & Production Norway; Exploration & Production International;
+  Exploration & Production USA; Marketing, Midstream & Processing; and Renewables
+  segments. The company engages in the discovery and appraisal of new resources, as
+  well as commercial development and operation of the oil and gas portfolios; oil
+  and gas field development, well deliveries, and sourcing; research, technology development,
+  specialist advisory services, digitalization, IT, improvement, innovation, and ventures
+  and future business; and developing, exploring, investing in, and operating areas
+  within renewable energy, such as offshore wind, green hydrogen, storage solutions,
+  and solar power. It is also involved in the marketing, trading, processing, and
+  transportation of crude oil and condensate, natural gas, NGL and refined products,
+  including refineries, terminals, and processing plant operation; power and emissions
+  trading; development of transportation solutions for natural gas, liquids, and crude
+  oil, including pipelines, shipping, trucking, and rail; and provision of low carbon
+  solutions. The company was formerly known as Statoil ASA and changed its name to
+  Equinor ASA in May 2018. Equinor ASA was incorporated in 1972 and is headquartered
+  in Stavanger, Norway.
+longName: Equinor ASA
+market: no_market
+marketCap: 935113916416
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_989228
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 11802999808
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 904353584370
+numberOfAnalystOpinions: 25
+open: 385.4
+operatingCashflow: 24334999552
+operatingMargins: 0.32107
+overallRisk: 4
+payoutRatio: 0.3099
+pegRatio: 0.89
+phone: 47 51 99 00 00
+previousClose: 382.2
+priceEpsCurrentYear: 69.17981
+priceHint: 2
+priceToBook: 2.230178
+priceToSalesTrailing12Months: 7.755647
+profitMargins: 0.09789
+quickRatio: 0.886
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.32
+region: US
+regularMarketChange: 13.0
+regularMarketChangePercent: 3.4013603
+regularMarketDayHigh: 395.8
+regularMarketDayLow: 385.4
+regularMarketDayRange: 385.4 - 395.8
+regularMarketOpen: 385.4
+regularMarketPreviousClose: 382.2
+regularMarketPrice: 395.2
+regularMarketTime: 1794410777
+regularMarketVolume: 2860724
+returnOnAssets: 0.17095
+returnOnEquity: 0.27569
+revenueGrowth: 0.266
+revenuePerShare: 49.188
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 4
+sharesOutstanding: 2366178923
+shortName: EQUINOR
+sourceInterval: 15
+symbol: EQNR.OL
+targetHighPrice: 556.2878
+targetLowPrice: 267.84225
+targetMeanPrice: 410.06482
+targetMedianPrice: 406.9118
+totalCash: 23995000832
+totalCashPerShare: 10.107
+totalDebt: 29661999104
+totalRevenue: 120572002304
+tradeable: false
+trailingAnnualDividendRate: 1.56
+trailingAnnualDividendYield: 0.0040816325
+trailingEps: 46.74
+trailingPE: 8.455284
+trailingPegRatio: 0.889
+triggerable: false
+twoHundredDayAverage: 362.772
+twoHundredDayAverageChange: 32.42801
+twoHundredDayAverageChangePercent: 0.0893895
+typeDisp: Equity
+volume: 2860724
+website: https://www.equinor.com
+zip: '4035'

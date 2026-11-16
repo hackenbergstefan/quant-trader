@@ -1,0 +1,290 @@
+52WeekChange: 0.23280084
+SandP52WeekChange: 0.097798586
+address1: 767 Fifth Avenue
+allTimeHigh: 374.2
+allTimeLow: 7.9375
+ask: 112.86
+askSize: 100
+auditRisk: 7
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 4866040
+averageDailyVolume3Month: 3554903
+averageVolume: 3554903
+averageVolume10days: 4866040
+beta: 1.23
+bid: 112.68
+bidSize: 100
+boardRisk: 10
+bookValue: 11.145
+city: New York
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Stephane  de la Faverie
+  title: CEO, President & Director
+  totalPay: 5683414
+  unexercisedValue: 29560
+  yearBorn: 1974
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Akhil  Shrivastava
+  title: Executive VP & CFO
+  totalPay: 2367250
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Rashida K. La Lande
+  title: Executive VP & General Counsel
+  totalPay: 3956832
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Jane Hertzmark Hudis
+  title: Executive VP & Chief Brand Officer
+  totalPay: 4466459
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Roberto  Canevari
+  title: Executive VP & Chief Value Chain Officer
+  totalPay: 2945305
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Brian J. Franz
+  title: Chief Technology & Transformation, Data and Analytics Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Deborah  Krulewitch
+  title: Senior Vice President of Corporate Administration
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Laraine A. Mancini
+  title: Senior Vice President Finance & Strategy & Head of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Meridith  Webster
+  title: Executive VP and Chief Communications & Public Affairs Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Aude  Gandon
+  title: Chief Digital & Marketing Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 10
+corporateActions:
+- header: Dividend
+  message: EL announced a cash dividend of $0.35 with an ex-date of Nov. 30, 2026
+  meta:
+    amount: '0.35'
+    dateEpochMs: 1796014800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 112.81
+currentRatio: 1.251
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 115.2
+dayLow: 112.455
+debtToEquity: 227.836
+displayName: Estée Lauder
+dividendDate: 1797292800
+dividendRate: 1.4
+dividendYield: 1.23
+earningsCallTimestampEnd: 1801661400
+earningsCallTimestampStart: 1801661400
+earningsGrowth: 3.923
+earningsQuarterlyGrowth: 3.957
+earningsTimestamp: 1801661400
+earningsTimestampEnd: 1801661400
+earningsTimestampStart: 1801661400
+ebitda: 2600000000
+ebitdaMargins: 0.17011999
+enterpriseToEbitda: 18.116
+enterpriseToRevenue: 3.082
+enterpriseValue: 47101145088
+epsCurrentYear: 3.42495
+epsForward: 4.05662
+epsTrailingTwelveMonths: 1.0
+esgPopulated: false
+exDividendDate: 1795996800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 101.1398
+fiftyDayAverageChange: 11.670197
+fiftyDayAverageChangePercent: 0.115386784
+fiftyTwoWeekChangePercent: 23.280085
+fiftyTwoWeekHigh: 121.64
+fiftyTwoWeekHighChange: -8.830002
+fiftyTwoWeekHighChangePercent: -0.07259127
+fiftyTwoWeekLow: 66.22
+fiftyTwoWeekLowChange: 46.589996
+fiftyTwoWeekLowChangePercent: 0.7035638
+fiftyTwoWeekRange: 66.22 - 121.64
+financialCurrency: USD
+firstTradeDateMilliseconds: 816618600000
+fiveYearAvgDividendYield: 1.4
+floatShares: 246801393
+forwardEps: 4.05662
+forwardPE: 27.808865
+freeCashflow: 2137250048
+fullExchangeName: NYSE
+fullTimeEmployees: 37950
+fulldayChange: -0.62000275
+fulldayChangePercent: -0.54659504
+fulldayPrice: 112.81
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.76026
+grossProfits: 11619000320
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00306
+heldPercentInstitutions: 0.95405
+impliedSharesOutstanding: 362330460
+industry: Household & Personal Products
+industryDisp: Household & Personal Products
+industryKey: household-personal-products
+irWebsite: http://investors.elcompanies.com/phoenix.zhtml?c=109458&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788134400
+lastDividendValue: 0.35
+lastFiscalYearEnd: 1782777600
+lastSplitDate: 1327276800
+lastSplitFactor: '2:1'
+longBusinessSummary: The Estée Lauder Companies Inc. manufactures, markets, and sells
+  skin care, makeup, fragrance, and hair care products worldwide. The company provides
+  skin care products, including moisturizers, serums, cleansers, toners, eye care,
+  body care, exfoliators, acne care and oil correctors, facial masks, and sun care
+  products; and makeup products, such as foundations, powders, concealers and setting
+  sprays, lipsticks, lip liners and lip glosses, mascaras, and eyeshadows and eyeliners,
+  as well as compacts, brushes, and other makeup tools. It also offers fragrance products
+  in various forms comprising parfum, eau de parfum, eau de toilette, eau de cologne,
+  and body spray, as well as lotions, creams, powders, candles and soaps; and hair
+  care products, including shampoos, conditioners, styling products, treatment, finishing
+  sprays, and hair color products, as well as sells ancillary products and services.
+  The company provides its products under the La Mer, Jo Malone London, TOM FORD,
+  AERIN Beauty, Le Labo, Editions de Parfums Frédéric Malle, KILIAN PARIS, BALMAIN
+  Beauty, Estée Lauder, Clinique, M·A·C, The Ordinary, Aveda, Bobbi Brown Cosmetics,
+  Too Faced, Dr.Jart+, Bumble and bumble, Smashbox, Darphin Paris, Lab Series, Avestan,
+  Loopha, Origins, NIOD, Aramis, and GLAMGLOW brands. It sells its products through
+  department stores, duty-free retailers, specialty multi retailers, online pure players,
+  upscale perfumeries and pharmacies, and top-tier salons and spas, as well as direct-to-consumer
+  businesses across freestanding stores, and brand websites and third-party online
+  platforms. The Estée Lauder Companies Inc. was founded in 1946 and is based in New
+  York, New York.
+longName: The Estée Lauder Companies Inc.
+market: us_market
+marketCap: 40874500096
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_207221
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 368000000
+nextFiscalYearEnd: 1814313600
+nonDilutedMarketCap: 41099144076
+numberOfAnalystOpinions: 28
+open: 113.9
+operatingCashflow: 1947000064
+operatingMargins: 0.11863
+overallRisk: 10
+payoutRatio: 1.4
+pegRatio: 2.12
+phone: 212 572 4200
+previousClose: 113.43
+priceEpsCurrentYear: 32.937706
+priceHint: 2
+priceToBook: 10.122027
+priceToSalesTrailing12Months: 2.6745076
+profitMargins: 0.02408
+quickRatio: 0.817
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.26667
+region: US
+regularMarketChange: -0.62000275
+regularMarketChangePercent: -0.54659504
+regularMarketDayHigh: 115.2
+regularMarketDayLow: 112.455
+regularMarketDayRange: 112.455 - 115.2
+regularMarketOpen: 113.9
+regularMarketPreviousClose: 113.43
+regularMarketPrice: 112.81
+regularMarketTime: 1794413752
+regularMarketVolume: 395941
+returnOnAssets: 0.05768
+returnOnEquity: 0.09284
+revenueGrowth: 0.067
+revenuePerShare: 42.122
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 10
+sharesOutstanding: 247823116
+sharesPercentSharesOut: 0.019
+sharesShort: 6876581
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 6664896
+shortName: Estee Lauder Companies, Inc. (T
+shortPercentOfFloat: 0.0279
+shortRatio: 2.15
+sourceInterval: 15
+state: NY
+symbol: EL
+targetHighPrice: 132.0
+targetLowPrice: 70.0
+targetMeanPrice: 115.27857
+targetMedianPrice: 119.0
+totalCash: 3198000128
+totalCashPerShare: 8.826
+totalDebt: 9200000000
+totalRevenue: 15283000320
+tradeable: false
+trailingAnnualDividendRate: 1.4
+trailingAnnualDividendYield: 0.012342414
+trailingEps: 1.0
+trailingPE: 112.81
+trailingPegRatio: 2.1211
+triggerable: true
+twoHundredDayAverage: 91.3165
+twoHundredDayAverageChange: 21.4935
+twoHundredDayAverageChangePercent: 0.23537368
+typeDisp: Equity
+volume: 395941
+website: https://www.elcompanies.com
+zip: '10153'

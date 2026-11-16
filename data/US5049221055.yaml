@@ -1,0 +1,292 @@
+52WeekChange: 0.39428568
+SandP52WeekChange: 0.097798586
+address1: 531 South Spring Street
+allTimeHigh: 373.76
+allTimeLow: 2.416237
+ask: 370.2
+askSize: 80
+auditRisk: 3
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 902520
+averageDailyVolume3Month: 733240
+averageVolume: 733240
+averageVolume10days: 902520
+beta: 0.834
+bid: 369.85
+bidSize: 160
+boardRisk: 8
+bookValue: 108.963
+city: Burlington
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam H. Schechter
+  title: President, CEO & Chairman
+  totalPay: 4184868
+  unexercisedValue: 15433260
+  yearBorn: 1965
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julia A.  Wang
+  title: Executive VP & CFO
+  totalPay: 1684514
+  unexercisedValue: 27675
+  yearBorn: 1971
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Brian J. Caveney J.D., M.D., M.P.H.
+  title: Exec VP, President of Biopharma Laboratory Services & Chief Medical and Scientific
+    Officer
+  totalPay: 1493883
+  unexercisedValue: 1898651
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathan C. Meltzer Ph.D.
+  title: Executive VP & COO
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter J. Wilkinson
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Akinbolade  Oyegunwa M.B.A., Ph.D.
+  title: Executive VP and Chief Information & Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dewey  Steadman C.F.A.
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kathryn Wright Kyle
+  title: Executive VP, Chief Legal Officer & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amy B. Summy
+  title: Executive VP, Chief Marketing Officer & Consumer Health Lead
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anita Z. Graham
+  title: Executive VP & Chief Human Resources Officer
+  totalPay: 1576023
+  unexercisedValue: 21765
+  yearBorn: 1971
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: LH announced a cash dividend of $0.72 with an ex-date of Nov. 24, 2026
+  meta:
+    amount: '0.72'
+    dateEpochMs: 1795496400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 370.62
+currentRatio: 1.407
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 372.49
+dayLow: 367.33
+debtToEquity: 77.255
+displayName: Labcorp
+dividendDate: 1796947200
+dividendRate: 2.88
+dividendYield: 0.78
+earningsCallTimestampEnd: 1793192400
+earningsCallTimestampStart: 1793192400
+earningsGrowth: 0.032
+earningsQuarterlyGrowth: 0.007
+earningsTimestamp: 1793190600
+earningsTimestampEnd: 1793190600
+earningsTimestampStart: 1793190600
+ebitda: 2344800000
+ebitdaMargins: 0.16066
+enterpriseToEbitda: 15.659
+enterpriseToRevenue: 2.516
+enterpriseValue: 36717555712
+epsCurrentYear: 18.49316
+epsForward: 19.59968
+epsTrailingTwelveMonths: 12.2
+esgPopulated: false
+exDividendDate: 1795478400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 327.1514
+fiftyDayAverageChange: 43.468597
+fiftyDayAverageChangePercent: 0.13286997
+fiftyTwoWeekChangePercent: 39.428566
+fiftyTwoWeekHigh: 373.76
+fiftyTwoWeekHighChange: -3.1400146
+fiftyTwoWeekHighChangePercent: -0.008401152
+fiftyTwoWeekLow: 245.0
+fiftyTwoWeekLowChange: 125.619995
+fiftyTwoWeekLowChangePercent: 0.51273465
+fiftyTwoWeekRange: 245.0 - 373.76
+financialCurrency: USD
+firstTradeDateMilliseconds: 638721000000
+fiveYearAvgDividendYield: 0.96
+floatShares: 80818360
+forwardEps: 19.59968
+forwardPE: 18.909492
+freeCashflow: 1057137472
+fullExchangeName: NYSE
+fullTimeEmployees: 71000
+fulldayChange: -0.26000977
+fulldayChangePercent: -0.07010617
+fulldayPrice: 370.62
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.28964
+grossProfits: 4227099904
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0034999999
+heldPercentInstitutions: 1.01066
+impliedSharesOutstanding: 81200000
+industry: Diagnostics & Research
+industryDisp: Diagnostics & Research
+industryKey: diagnostics-research
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787875200
+lastDividendValue: 0.72
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1688342400
+lastSplitFactor: 1164:1000
+longBusinessSummary: Labcorp Holdings Inc. provides laboratory services. It operates
+  in Diagnostics Laboratories and Biopharma Laboratory Services segments. The company
+  offers various tests, such as blood chemistry analyses, urinalyses, blood cell counts,
+  thyroid tests, PAP tests, hemoglobin A1C, PSA, tests for sexually transmitted diseases,
+  vitamin D testing, microbiology cultures and procedures, and alcohol and other substance
+  abuse tests. It also provides specialty testing services comprising gene-based and
+  esoteric testing; advanced tests target specific diseases; services related to anatomic
+  pathology/oncology, cardiovascular disease, coagulation, diagnostic genetics, endocrinology,
+  infectious disease, women's health, pharmacogenetics, parentage and donor testing,
+  occupational testing service, medical drug monitoring services, chronic disease
+  programs, and kidney stone prevention tests; and health and wellness services to
+  employers and managed care organizations. In addition, it offers digital pathology
+  solutions, a pathology platforms that support the digitization, centralized review,
+  and sharing of pathology slides; provider and payer digital platforms, an online
+  applications for providers, MCOs, and ACOs; online and mobile applications that
+  enable patients to check offerings, schedule PSC visits, check-in upon PSC arrival,
+  complete documentation, access tests and test results, and manage their accounts;
+  and Generative AI enabled Test Selection, a generative AI enabled tool. It serves
+  clients, third party, medicare/medicaid, patients, pharmaceutical, biotechnology,
+  medical device, diagnostic companies, and CROs. It has a collaboration with the
+  Children's Hospital of Philadelphia to accelerate the discovery, development, and
+  availability of pediatric diagnostics. The company was founded in 1995 and is headquartered
+  in Burlington, North Carolina.
+longName: Labcorp Holdings Inc.
+market: us_market
+marketCap: 30094344192
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_30643
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1004000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 30115456000
+numberOfAnalystOpinions: 16
+open: 369.33
+operatingCashflow: 1815000064
+operatingMargins: 0.11175
+overallRisk: 1
+payoutRatio: 0.2361
+pegRatio: 1.64
+prevName: Laboratory Corporation of America Holdings
+previousClose: 370.88
+priceEpsCurrentYear: 20.040922
+priceHint: 2
+priceToBook: 3.401338
+priceToSalesTrailing12Months: 2.0620334
+profitMargins: 0.06879
+quickRatio: 1.0
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.58824
+region: US
+regularMarketChange: -0.26000977
+regularMarketChangePercent: -0.07010617
+regularMarketDayHigh: 372.49
+regularMarketDayLow: 367.33
+regularMarketDayRange: 367.33 - 372.49
+regularMarketOpen: 369.33
+regularMarketPreviousClose: 370.88
+regularMarketPrice: 370.62
+regularMarketTime: 1794413717
+regularMarketVolume: 107979
+returnOnAssets: 0.05483
+returnOnEquity: 0.11437
+revenueGrowth: 0.069
+revenuePerShare: 178.145
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 81200000
+sharesPercentSharesOut: 0.0313
+sharesShort: 2544414
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2684363
+shortName: Labcorp Holdings Inc.
+shortPercentOfFloat: 0.031400003
+shortRatio: 3.52
+sourceInterval: 15
+state: NC
+symbol: LH
+targetHighPrice: 420.0
+targetLowPrice: 347.0
+targetMeanPrice: 390.0625
+targetMedianPrice: 395.5
+totalCash: 261800000
+totalCashPerShare: 3.224
+totalDebt: 6847799808
+totalRevenue: 14594499584
+tradeable: false
+trailingAnnualDividendRate: 2.88
+trailingAnnualDividendYield: 0.007765315
+trailingEps: 12.2
+trailingPE: 30.378689
+trailingPegRatio: 1.6435
+triggerable: true
+twoHundredDayAverage: 290.878
+twoHundredDayAverageChange: 79.742004
+twoHundredDayAverageChangePercent: 0.27414244
+typeDisp: Equity
+volume: 107979
+website: https://www.labcorp.com
+zip: '27215'

@@ -1,0 +1,262 @@
+52WeekChange: 0.11290324
+SandP52WeekChange: 0.097798586
+address1: 82, rue Henri-Farman
+address2: CS 20077
+allTimeHigh: 53.08006
+allTimeLow: 17.03
+ask: 0.0
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 949396
+averageDailyVolume3Month: 733764
+averageVolume: 733764
+averageVolume10days: 949396
+beta: 0.833
+bid: 0.0
+bidSize: 0
+boardRisk: 6
+bookValue: 13.083
+city: Issy-les-Moulineaux
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sebastien Marie Christophe Bazin
+  title: Group Chairman, CEO & Member of Management Board
+  totalPay: 2568676
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Martine  Gerow
+  title: Group CFO & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1960
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven  Daines
+  title: Chief Global Affairs & Public Engagement Officer and Member of Management
+    Board
+  unexercisedValue: 0
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Jacques  Morin
+  title: Group Deputy CEO, CEO of Premium, Midscale & Economy Division and Member
+    of Management Board
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Caroline  Tissot
+  title: Chief Group Procurement Officer & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Besma  Boumaza
+  title: Group General Counsel, Board Secretary & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Alix  Boulnois
+  title: Chief Commercial, Digital & Tech Officer and Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1986
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kamal  Rhazali
+  title: Secretary General, General Counsel of the Luxury & Lifestyle Div. and Member
+    Management Board
+  unexercisedValue: 0
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Gilda  Perez-Alvarado
+  title: Chief Strategy Officer & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Coline  Pont
+  title: Chief Sustainability Officer & Member of Management Board
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 52.3
+currentRatio: 1.29
+customPriceAlertConfidence: LOW
+dayHigh: 52.68
+dayLow: 52.16
+debtToEquity: 106.677
+dividendRate: 1.35
+dividendYield: 2.57
+earningsCallTimestampEnd: 1785391200
+earningsCallTimestampStart: 1785391200
+earningsGrowth: -0.588
+earningsQuarterlyGrowth: -0.511
+earningsTimestampEnd: 1785425400
+earningsTimestampStart: 1785425400
+ebitda: 1033000000
+ebitdaMargins: 0.18270001
+enterpriseToEbitda: 15.665
+enterpriseToRevenue: 2.862
+enterpriseValue: 16181977088
+epsCurrentYear: 2.18522
+epsForward: 2.656
+epsTrailingTwelveMonths: 1.14
+esgPopulated: false
+exDividendDate: 1780272000
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 33 1 69 36 79 00
+fiftyDayAverage: 46.2824
+fiftyDayAverageChange: 6.017601
+fiftyDayAverageChangePercent: 0.13001922
+fiftyTwoWeekChangePercent: 11.290323
+fiftyTwoWeekHigh: 52.68
+fiftyTwoWeekHighChange: -0.38000107
+fiftyTwoWeekHighChangePercent: -0.007213384
+fiftyTwoWeekLow: 37.54
+fiftyTwoWeekLowChange: 14.759998
+fiftyTwoWeekLowChangePercent: 0.39318055
+fiftyTwoWeekRange: 37.54 - 52.68
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 2.27
+floatShares: 197779897
+forwardEps: 2.656
+forwardPE: 19.691265
+freeCashflow: -134375008
+fullExchangeName: Paris
+fullTimeEmployees: 17337
+fulldayChange: -0.13999939
+fulldayChangePercent: -0.26697063
+fulldayPrice: 52.3
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.22549999
+grossProfits: 1275000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.01318
+heldPercentInstitutions: 0.71086
+impliedSharesOutstanding: 231354360
+industry: Lodging
+industryDisp: Lodging
+industryKey: lodging
+irWebsite: http://www.accor.com/en/finance.html
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1780272000
+lastDividendValue: 1.35
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Accor SA operates a chain of hotels worldwide. The company operates
+  through Premium, Midscale and Economy; and Luxury & Lifestyle segments. Its Premium,
+  Midscale and Economy segment includes the Ibis, Novotel, Mercure, Swissôtel, Mövenpick,
+  and Pullman brands operating in Europe and North Africa, the Middle East, Africa,
+  the Asia-Pacific, the Americas, and China. The company Luxury & Lifestyle segment
+  includes the Raffles and Fairmont, Sofitel, MGallery and Emblems, and Ennismore
+  brands. It also owns, leases, manages, and franchises hotels. In addition, the company
+  provides discount card programs; catering and event management; digital, hotel booking,
+  and concierge services; and other services in events, fine dining, and entertainment,
+  as well as operation of performance venues and coworking spaces. Further, it offers
+  hotel management, personnel, procurement, treasury and management, IT, advertising,
+  and other advice services. Accor SA was incorporated in 1960 and is headquartered
+  in Issy-les-Moulineaux, France.
+longName: Accor SA
+market: fr_market
+marketCap: 12099832832
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_648902
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 230000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 11803699447
+numberOfAnalystOpinions: 17
+open: 52.4
+operatingCashflow: 842000000
+operatingMargins: 0.15582
+overallRisk: 7
+payoutRatio: 1.1841999
+pegRatio: 1.0
+phone: 33 1 45 38 88 00
+previousClose: 52.44
+priceEpsCurrentYear: 23.933517
+priceHint: 2
+priceToBook: 3.997554
+priceToSalesTrailing12Months: 2.1400483
+profitMargins: 0.058369998
+quickRatio: 0.754
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.76471
+region: US
+regularMarketChange: -0.13999939
+regularMarketChangePercent: -0.26697063
+regularMarketDayHigh: 52.68
+regularMarketDayLow: 52.16
+regularMarketDayRange: 52.16 - 52.68
+regularMarketOpen: 52.4
+regularMarketPreviousClose: 52.44
+regularMarketPrice: 52.3
+regularMarketTime: 1794411535
+regularMarketVolume: 310120
+returnOnAssets: 0.046090003
+returnOnEquity: 0.07958
+revenueGrowth: 0.005
+revenuePerShare: 26.676
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 7
+sharesOutstanding: 231354360
+shortName: ACCOR
+sourceInterval: 15
+symbol: AC.PA
+targetHighPrice: 70.0
+targetLowPrice: 41.0
+targetMeanPrice: 55.38824
+targetMedianPrice: 54.0
+totalCash: 1236000000
+totalCashPerShare: 5.314
+totalDebt: 4776999936
+totalRevenue: 5654000128
+tradeable: false
+trailingAnnualDividendRate: 1.35
+trailingAnnualDividendYield: 0.025743708
+trailingEps: 1.14
+trailingPE: 45.877193
+trailingPegRatio: 0.9964
+triggerable: false
+twoHundredDayAverage: 45.8827
+twoHundredDayAverageChange: 6.4172974
+twoHundredDayAverageChangePercent: 0.1398631
+typeDisp: Equity
+volume: 310120
+website: https://group.accor.com
+zip: '92130'

@@ -1,0 +1,272 @@
+52WeekChange: -0.34302324
+SandP52WeekChange: 0.097798586
+address1: 2170 Piedmont Road, N.E.
+allTimeHigh: 66.14
+allTimeLow: 0.139795
+ask: 37.91
+askSize: 800
+auditRisk: 6
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 7171770
+averageDailyVolume3Month: 6804026
+averageVolume: 6804026
+averageVolume10days: 7171770
+beta: 0.72
+bid: 37.89
+bidSize: 200
+boardRisk: 9
+bookValue: 2.909
+city: Atlanta
+companyOfficers:
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John F. Wilson
+  title: Executive Chairman of the Board
+  totalPay: 1105256
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jerry E. Gahlhoff Jr.
+  title: Principal Executive Officer, President, CEO & Director
+  totalPay: 2838227
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elizabeth Brannen Chandler J.D.
+  title: Chief Legal Officer, General Counsel & Corporate Secretary
+  totalPay: 1064890
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William W. Harkins
+  title: Executive VP, CFO & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Renee J. Pearson
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lyndsey  Burton
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin J. Smith
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ed  Donoghue
+  title: Vice President of Sales
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jamie C. Benton Jr.
+  title: Senior Vice President of Human Resources
+  unexercisedValue: 0
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas D. Tesh
+  title: Chief Customer Experience Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions:
+- header: Dividend
+  message: ROL announced a cash dividend of $0.20 with an ex-date of Nov. 10, 2026
+  meta:
+    amount: '0.20'
+    dateEpochMs: 1794286800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 37.93
+currentRatio: 0.621
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 38.2899
+dayLow: 37.74
+debtToEquity: 80.96
+displayName: Rollins
+dividendDate: 1796860800
+dividendRate: 0.8
+dividendYield: 2.08
+earningsCallTimestampEnd: 1792672200
+earningsCallTimestampStart: 1792672200
+earningsGrowth: -0.023
+earningsQuarterlyGrowth: -0.034
+earningsTimestamp: 1792612800
+earningsTimestampEnd: 1792612800
+earningsTimestampStart: 1792612800
+ebitda: 867017984
+ebitdaMargins: 0.21743
+enterpriseToEbitda: 22.333
+enterpriseToRevenue: 4.856
+enterpriseValue: 19363158016
+epsCurrentYear: 1.13968
+epsForward: 1.23122
+epsTrailingTwelveMonths: 1.09
+esgPopulated: false
+exDividendDate: 1794268800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 33.7264
+fiftyDayAverageChange: 4.203602
+fiftyDayAverageChangePercent: 0.12463833
+fiftyTwoWeekChangePercent: -34.302322
+fiftyTwoWeekHigh: 66.14
+fiftyTwoWeekHighChange: -28.21
+fiftyTwoWeekHighChangePercent: -0.42651948
+fiftyTwoWeekLow: 29.29
+fiftyTwoWeekLowChange: 8.639999
+fiftyTwoWeekLowChangePercent: 0.29498118
+fiftyTwoWeekRange: 29.29 - 66.14
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 1.22
+floatShares: 302497492
+forwardEps: 1.23122
+forwardPE: 30.806843
+freeCashflow: 555143360
+fullExchangeName: NYSE
+fullTimeEmployees: 22000
+fulldayChange: -0.48999786
+fulldayChangePercent: -1.2753719
+fulldayPrice: 37.93
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.52139
+grossProfits: 2079102976
+hasPrePostMarketData: true
+heldPercentInsiders: 0.39102
+heldPercentInstitutions: 0.62623
+impliedSharesOutstanding: 481145404
+industry: Personal Services
+industryDisp: Personal Services
+industryKey: personal-services
+irWebsite: http://ir.ccbn.com/ir.zhtml?t=ROL&s=2100
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794268800
+lastDividendValue: 0.2
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1607644800
+lastSplitFactor: '3:2'
+longBusinessSummary: Rollins, Inc., through its subsidiaries, provides pest and wildlife
+  control services and protection to residential and commercial customers in the United
+  States and internationally. The company offers pest control services to residential
+  properties protecting from common pests, including rodents, insects, and wildlife.
+  It also provides workplace pest control solutions for customers across various end
+  markets, such as healthcare, food service, and logistics. In addition, the company
+  offers termite protection and ancillary services for both residential and commercial
+  customers. It serves clients directly, as well as through franchisee operations.
+  The company was formerly known as Rollins Broadcasting, Inc and changed its name
+  to Rollins, Inc. in 1965. Rollins, Inc. was founded in 1901 and is headquartered
+  in Atlanta, Georgia.
+longName: Rollins, Inc.
+market: us_market
+marketCap: 18249844736
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_300753
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 526116000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 18485606421
+numberOfAnalystOpinions: 17
+open: 37.86
+operatingCashflow: 697475968
+operatingMargins: 0.18459
+overallRisk: 9
+payoutRatio: 0.671
+pegRatio: 3.46
+phone: 404 888 2000
+previousClose: 38.42
+priceEpsCurrentYear: 33.281273
+priceHint: 2
+priceToBook: 13.038845
+priceToSalesTrailing12Months: 4.5766683
+profitMargins: 0.13194
+quickRatio: 0.44
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.47368
+region: US
+regularMarketChange: -0.48999786
+regularMarketChangePercent: -1.2753719
+regularMarketDayHigh: 38.2899
+regularMarketDayLow: 37.74
+regularMarketDayRange: 37.74 - 38.2899
+regularMarketOpen: 37.86
+regularMarketPreviousClose: 38.42
+regularMarketPrice: 37.93
+regularMarketTime: 1794413706
+regularMarketVolume: 772093
+returnOnAssets: 0.13986
+returnOnEquity: 0.36004
+revenueGrowth: 0.062
+revenuePerShare: 8.288
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 9
+sharesOutstanding: 481145404
+sharesPercentSharesOut: 0.0557
+sharesShort: 26817244
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 27371805
+shortName: Rollins, Inc.
+shortPercentOfFloat: 0.0915
+shortRatio: 3.54
+sourceInterval: 15
+state: GA
+symbol: ROL
+targetHighPrice: 49.0
+targetLowPrice: 26.0
+targetMeanPrice: 38.23529
+targetMedianPrice: 37.0
+totalCash: 129050000
+totalCashPerShare: 0.27
+totalDebt: 1125708032
+totalRevenue: 3987582976
+tradeable: false
+trailingAnnualDividendRate: 0.73
+trailingAnnualDividendYield: 0.019000523
+trailingEps: 1.09
+trailingPE: 34.798164
+trailingPegRatio: 3.4611
+triggerable: true
+twoHundredDayAverage: 46.0323
+twoHundredDayAverageChange: -8.102299
+twoHundredDayAverageChangePercent: -0.17601334
+typeDisp: Equity
+volume: 772093
+website: https://www.rollins.com
+zip: '30324'

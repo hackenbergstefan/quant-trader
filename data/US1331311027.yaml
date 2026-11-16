@@ -1,0 +1,267 @@
+52WeekChange: -0.027266502
+SandP52WeekChange: 0.097798586
+address1: 2800 Post Oak Boulevard
+address2: Suite 2700
+allTimeHigh: 180.37
+allTimeLow: 16.38
+ask: 98.27
+askSize: 200
+auditRisk: 3
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 1024190
+averageDailyVolume3Month: 993807
+averageVolume: 993807
+averageVolume10days: 1024190
+beta: 0.768
+bid: 98.13
+bidSize: 200
+boardRisk: 8
+bookValue: 44.555
+city: Houston
+companyOfficers:
+- age: 70
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard J. Campo
+  title: Executive Chairman of the Board
+  totalPay: 3418834
+  unexercisedValue: 0
+  yearBorn: 1955
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexander J. K. Jessett
+  title: Chief Executive Officer
+  totalPay: 2140627
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laurie A. Baker
+  title: President & COO
+  totalPay: 1820302
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. D. Keith Oden
+  title: Executive Director of Trust Managers
+  totalPay: 3418834
+  unexercisedValue: 0
+  yearBorn: 1957
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Benjamin D. Fraker
+  title: Executive VP, CFO & Treasurer
+  unexercisedValue: 0
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin J. Necas Jr.
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristy P. Simonette
+  title: Senior VP of Strategic Services & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kimberly A. Callahan
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joshua L. Lebar
+  title: Senior VP, General Counsel & Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie  Keel
+  title: Vice President of Marketing
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 98.33
+currentRatio: 0.474
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 99.435
+dayLow: 98.115
+debtToEquity: 91.896
+dividendDate: 1792108800
+dividendRate: 4.24
+dividendYield: 4.24
+earningsCallTimestampEnd: 1793980800
+earningsCallTimestampStart: 1793980800
+earningsGrowth: 7.713
+earningsQuarterlyGrowth: 7.265
+earningsTimestamp: 1793912400
+earningsTimestampEnd: 1801774800
+earningsTimestampStart: 1801774800
+ebitda: 889776000
+ebitdaMargins: 0.56576
+enterpriseToEbitda: 15.916
+enterpriseToRevenue: 9.005
+enterpriseValue: 14161414144
+epsCurrentYear: 2.29518
+epsForward: 0.46
+epsTrailingTwelveMonths: 10.7
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 713 354 2700
+fiftyDayAverage: 100.2954
+fiftyDayAverageChange: -1.9654007
+fiftyDayAverageChangePercent: -0.01959612
+fiftyTwoWeekChangePercent: -2.7266502
+fiftyTwoWeekHigh: 119.81
+fiftyTwoWeekHighChange: -21.479996
+fiftyTwoWeekHighChangePercent: -0.17928383
+fiftyTwoWeekLow: 95.3
+fiftyTwoWeekLowChange: 3.0299988
+fiftyTwoWeekLowChangePercent: 0.03179432
+fiftyTwoWeekRange: 95.3 - 119.81
+financialCurrency: USD
+firstTradeDateMilliseconds: 743347800000
+fiveYearAvgDividendYield: 3.32
+floatShares: 98128329
+forwardEps: 0.46
+forwardPE: 213.76086
+freeCashflow: 247081632
+fullExchangeName: NYSE
+fullTimeEmployees: 1640
+fulldayChange: -1.5599976
+fulldayChangePercent: -1.5617155
+fulldayPrice: 98.33
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.61734
+grossProfits: 970886976
+hasPrePostMarketData: true
+heldPercentInsiders: 0.01472
+heldPercentInstitutions: 1.0350499
+impliedSharesOutstanding: 100069681
+industry: REIT - Residential
+industryDisp: REIT - Residential
+industryKey: reit-residential
+irWebsite: http://www.snl.com/irweblinkx/corporateprofile.aspx?iid=103094
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 1.06
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Camden Property Trust, an S&P 500 Company, is a real estate company
+  primarily engaged in the ownership, management, development, redevelopment, acquisition,
+  and construction of multifamily apartment communities. Camden owns and operates
+  173 properties containing 58,811 apartment homes across the United States. Upon
+  completion of 3 properties currently under development, the Company's portfolio
+  will increase to 59,973 apartment homes in 176 properties. Camden Property Trust
+  was established on May 25, 1993, and incorporated in Texas. Camden Property Trust
+  is based in Houston, United States.
+longName: Camden Property Trust
+market: us_market
+marketCap: 9839851520
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_329202
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1115058944
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 9995960435
+numberOfAnalystOpinions: 22
+open: 98.92
+operatingCashflow: 712828032
+operatingMargins: 0.17341
+overallRisk: 8
+payoutRatio: 0.3953
+pegRatio: 9.17
+phone: 713 354 2500
+previousClose: 99.89
+priceEpsCurrentYear: 42.841953
+priceHint: 2
+priceToBook: 2.2069352
+priceToSalesTrailing12Months: 6.256677
+profitMargins: 0.71067
+quickRatio: 0.136
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.58333
+region: US
+regularMarketChange: -1.5599976
+regularMarketChangePercent: -1.5617155
+regularMarketDayHigh: 99.435
+regularMarketDayLow: 98.115
+regularMarketDayRange: 98.115 - 99.435
+regularMarketOpen: 98.92
+regularMarketPreviousClose: 99.89
+regularMarketPrice: 98.33
+regularMarketTime: 1794413722
+regularMarketVolume: 177038
+returnOnAssets: 0.01831
+returnOnEquity: 0.24454
+revenueGrowth: -0.023
+revenuePerShare: 15.082
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 8
+sharesOutstanding: 100069681
+sharesPercentSharesOut: 0.0553
+sharesShort: 5537895
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5232742
+shortName: Camden Property Trust
+shortPercentOfFloat: 0.0683
+shortRatio: 6.06
+sourceInterval: 15
+state: TX
+symbol: CPT
+targetHighPrice: 130.0
+targetLowPrice: 96.0
+targetMeanPrice: 110.23864
+targetMedianPrice: 108.5
+totalCash: 168704000
+totalCashPerShare: 1.686
+totalDebt: 4253276928
+totalRevenue: 1572696064
+tradeable: false
+trailingAnnualDividendRate: 4.23
+trailingAnnualDividendYield: 0.04234658
+trailingEps: 10.7
+trailingPE: 9.18972
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 105.7201
+twoHundredDayAverageChange: -7.3900986
+twoHundredDayAverageChangePercent: -0.069902495
+typeDisp: Equity
+volume: 177038
+website: https://www.camdenliving.com
+zip: '77056'

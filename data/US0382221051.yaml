@@ -1,0 +1,288 @@
+52WeekChange: 0.6145711
+SandP52WeekChange: 0.097798586
+address1: 3050 Bowers Avenue
+address2: P.O. Box 58039
+allTimeHigh: 739.67
+allTimeLow: 0.076389
+ask: 391.0
+askSize: 1
+auditRisk: 2
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 8926270
+averageDailyVolume3Month: 7263854
+averageVolume: 7263854
+averageVolume10days: 8926270
+beta: 1.673
+bid: 371.14
+bidSize: 2
+boardRisk: 3
+bookValue: 32.291
+city: Santa Clara
+companyOfficers:
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gary E. Dickerson
+  title: President, CEO & Executive Director
+  totalPay: 2704357
+  unexercisedValue: 0
+  yearBorn: 1957
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brice A. Hill
+  title: Senior VP, CFO & Global Information Services
+  totalPay: 1774802
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Omkaram  Nalamasu Ph.D.
+  title: SVP, CTO, President Applied Ventures, LLC & Chair of the Growth Technical
+    Advisory Board
+  totalPay: 1443365
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Prabu G. Raja Ph.D.
+  title: President of Semiconductor Products Group
+  totalPay: 1872993
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy M. Deane
+  title: Senior Vice President of Applied Global Services
+  totalPay: 1614256
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam  Sanders
+  title: VP, Corporate Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Teri A. Little J.D.
+  title: Senior VP, Chief Legal Officer & Corporate Secretary
+  totalPay: 2699177
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph M. Pon
+  title: Chief Public Affairs Officer and Corporate VP of Communications & Public
+    Affairs
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Joji Sekhon Gill
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles W. Read
+  title: Corporate VP of Business Units & Operations CFO
+  unexercisedValue: 0
+  yearBorn: 1966
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: AMAT announced a cash dividend of $0.53 with an ex-date of Nov. 19, 2026
+  meta:
+    amount: '0.53'
+    dateEpochMs: 1795064400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 397.85
+currentRatio: 2.423
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 398.92
+dayLow: 381.75
+debtToEquity: 28.666
+displayName: Applied Materials
+dividendDate: 1796860800
+dividendRate: 2.12
+dividendYield: 0.57
+earningsCallTimestampEnd: 1794519000
+earningsCallTimestampStart: 1794519000
+earningsGrowth: 0.428
+earningsQuarterlyGrowth: 0.427
+earningsTimestamp: 1794517200
+earningsTimestampEnd: 1794517200
+earningsTimestampStart: 1794517200
+ebitda: 10154999808
+ebitdaMargins: 0.32931
+enterpriseToEbitda: 28.927
+enterpriseToRevenue: 9.526
+enterpriseValue: 293751848960
+epsCurrentYear: 12.79379
+epsForward: 18.61502
+epsTrailingTwelveMonths: 11.59
+esgPopulated: false
+exDividendDate: 1795046400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 441.3028
+fiftyDayAverageChange: -43.45279
+fiftyDayAverageChangePercent: -0.098464794
+fiftyTwoWeekChangePercent: 61.457108
+fiftyTwoWeekHigh: 739.67
+fiftyTwoWeekHighChange: -341.81998
+fiftyTwoWeekHighChangePercent: -0.46212497
+fiftyTwoWeekLow: 203.4
+fiftyTwoWeekLowChange: 194.45001
+fiftyTwoWeekLowChangePercent: 0.9559981
+fiftyTwoWeekRange: 203.4 - 739.67
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 0.7
+floatShares: 790478605
+forwardEps: 18.61502
+forwardPE: 21.372526
+freeCashflow: 3075375104
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 38900
+fulldayChange: 25.320007
+fulldayChangePercent: 6.79677
+fulldayPrice: 397.85
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.49398
+grossProfits: 15233000448
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00347
+heldPercentInstitutions: 0.85506
+impliedSharesOutstanding: 793597443
+industry: Semiconductor Equipment & Materials
+industryDisp: Semiconductor Equipment & Materials
+industryKey: semiconductor-equipment-materials
+irWebsite: http://www.appliedmaterials.com/investor-relations
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787184000
+lastDividendValue: 0.53
+lastFiscalYearEnd: 1761436800
+lastSplitDate: 1019001600
+lastSplitFactor: '2:1'
+longBusinessSummary: Applied Materials, Inc. provides materials engineering solutions,
+  equipment, services, and software to the semiconductor and related industries in
+  the United States, China, Korea, Taiwan, Japan, Southeast Asia, Europe, and internationally.
+  The company operates through Semiconductor Systems and Applied Global Services (AGS)
+  segments. The Semiconductor Systems segment includes semiconductor capital equipment
+  to enable materials engineering steps, including etch, rapid thermal processing,
+  deposition, chemical mechanical planarization, metrology and inspection, wafer packaging,
+  and ion implantation. The AGS segment offers integrated solutions to optimize equipment
+  and fab performance and productivity comprising spares, upgrades, services, and
+  200 millimeter and other equipment and factory automation software for semiconductor
+  and other products. It serves manufacturers of semiconductor wafers and chips, and
+  other electronic devices. Applied Materials, Inc. was incorporated in 1967 and is
+  headquartered in Santa Clara, California.
+longName: Applied Materials, Inc.
+market: us_market
+marketCap: 315732754432
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_251230
+mostRecentQuarter: 1785024000
+netIncomeToCommon: 9267000320
+nextFiscalYearEnd: 1792972800
+nonDilutedMarketCap: 295638855440
+numberOfAnalystOpinions: 37
+open: 392.595
+operatingCashflow: 8396000256
+operatingMargins: 0.31222
+overallRisk: 1
+payoutRatio: 0.16479999
+pegRatio: 0.78
+phone: 408 727 5555
+previousClose: 372.53
+priceEpsCurrentYear: 31.097118
+priceHint: 2
+priceToBook: 12.32077
+priceToSalesTrailing12Months: 10.238764
+profitMargins: 0.30052
+quickRatio: 1.634
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.41463
+region: US
+regularMarketChange: 25.320007
+regularMarketChangePercent: 6.79677
+regularMarketDayHigh: 398.92
+regularMarketDayLow: 381.75
+regularMarketDayRange: 381.75 - 398.92
+regularMarketOpen: 392.595
+regularMarketPreviousClose: 372.53
+regularMarketPrice: 397.85
+regularMarketTime: 1794413731
+regularMarketVolume: 2077910
+returnOnAssets: 0.15482001
+returnOnEquity: 0.41068
+revenueGrowth: 0.248
+revenuePerShare: 38.825
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 793597443
+sharesPercentSharesOut: 0.0182
+sharesShort: 14452231
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 13530729
+shortName: Applied Materials, Inc.
+shortPercentOfFloat: 0.0183
+shortRatio: 2.04
+sourceInterval: 15
+state: CA
+symbol: AMAT
+targetHighPrice: 900.0
+targetLowPrice: 358.0
+targetMeanPrice: 620.78375
+targetMedianPrice: 605.0
+totalCash: 9233000448
+totalCashPerShare: 11.634
+totalDebt: 7345999872
+totalRevenue: 30837000192
+tradeable: false
+trailingAnnualDividendRate: 1.98
+trailingAnnualDividendYield: 0.005315008
+trailingEps: 11.59
+trailingPE: 34.327007
+trailingPegRatio: 0.7847
+triggerable: true
+twoHundredDayAverage: 445.86084
+twoHundredDayAverageChange: -48.010834
+twoHundredDayAverageChangePercent: -0.10768121
+typeDisp: Equity
+volume: 2077935
+website: https://www.appliedmaterials.com
+zip: 95052-8039

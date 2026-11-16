@@ -1,0 +1,285 @@
+52WeekChange: 0.28201354
+SandP52WeekChange: 0.097798586
+address1: Building 730
+address2: 974 Centre Road
+allTimeHigh: 157.98
+allTimeLow: 7.79126
+ask: 157.79
+askSize: 200
+auditRisk: 8
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 1460140
+averageDailyVolume3Month: 1098631
+averageVolume: 1098631
+averageVolume10days: 1460140
+beta: 1.095
+bid: 157.66
+bidSize: 300
+boardRisk: 7
+bookValue: 102.352
+city: Wilmington
+companyOfficers:
+- age: 50
+  exercisedValue: 103283
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lori D. Koch
+  title: CEO & Director
+  totalPay: 3586539
+  unexercisedValue: 4587702
+  yearBorn: 1975
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Antonella B. Franzen
+  title: Senior VP & CFO
+  totalPay: 1803202
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 51
+  exercisedValue: 70829
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Erik T. Hoover J.D.
+  title: Senior VP & General Counsel
+  totalPay: 1530160
+  unexercisedValue: 3165304
+  yearBorn: 1974
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher P. Raia
+  title: Chief Human Resources Officer
+  totalPay: 1166212
+  unexercisedValue: 1226802
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeroen  Bloemhard
+  title: President of Healthcare & Water Technologies
+  totalPay: 1504562
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Koch
+  title: Chief Operations & Engineering Officer
+  unexercisedValue: 0
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Madeleine G. Barber
+  title: VP of Tax, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marty  DeGroot
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew S. Abbott
+  title: SVP, Chief Information Officer & Chief Procurement Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ann  Giancristoforo
+  title: VP of Investor Relations, Corporate FP&A, Strategic Finance
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions:
+- header: Dividend
+  message: DD announced a cash dividend of $0.60 with an ex-date of Nov. 30, 2026
+  meta:
+    amount: '0.60'
+    dateEpochMs: 1796014800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 157.52
+currentRatio: 2.356
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 159.48
+dayLow: 157.22
+debtToEquity: 23.229
+displayName: DuPont de Nemours
+dividendDate: 1797292800
+dividendRate: 2.4
+dividendYield: 1.53
+earningsCallTimestampEnd: 1793710800
+earningsCallTimestampStart: 1793710800
+earningsTimestamp: 1793712600
+earningsTimestampEnd: 1793712600
+earningsTimestampStart: 1793712600
+ebitda: 1639000064
+ebitdaMargins: 0.23211999
+enterpriseToEbitda: 13.689
+enterpriseToRevenue: 3.178
+enterpriseValue: 22436673536
+epsCurrentYear: 7.52418
+epsForward: 8.17367
+epsTrailingTwelveMonths: 2.87
+esgPopulated: false
+exDividendDate: 1795996800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 134.0104
+fiftyDayAverageChange: 23.509598
+fiftyDayAverageChangePercent: 0.17543113
+fiftyTwoWeekChangePercent: 28.201353
+fiftyTwoWeekHigh: 159.48
+fiftyTwoWeekHighChange: -1.9599915
+fiftyTwoWeekHighChangePercent: -0.012289889
+fiftyTwoWeekLow: 111.15
+fiftyTwoWeekLowChange: 46.370003
+fiftyTwoWeekLowChangePercent: 0.417184
+fiftyTwoWeekRange: 111.15 - 159.48
+financialCurrency: USD
+firstTradeDateMilliseconds: 76253400000
+fiveYearAvgDividendYield: 2.01
+floatShares: 131917388
+forwardEps: 8.17367
+forwardPE: 19.271637
+freeCashflow: 4809625088
+fullExchangeName: NYSE
+fullTimeEmployees: 15000
+fulldayChange: 0.6399994
+fulldayChangePercent: 0.40795472
+fulldayPrice: 157.52
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.35491002
+grossProfits: 2505999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00189
+heldPercentInstitutions: 0.81222
+impliedSharesOutstanding: 132532338
+industry: Specialty Chemicals
+industryDisp: Specialty Chemicals
+industryKey: specialty-chemicals
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788134400
+lastDividendValue: 0.6
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1782259200
+lastSplitFactor: '1:3'
+longBusinessSummary: DuPont de Nemours, Inc. provides technology-based materials and
+  solutions in the United States, Canada, the Asia Pacific, Latin America, Europe,
+  the Middle East, and Africa. It operates through two segments, Healthcare & Water
+  Technologies and Diversified Industrials. The company offers specialty components
+  for medical devices, packaging and garments, and protective suits under the brand
+  TYVEK; provides water filtration and separation solutions, including elements, modules,
+  and systems serving primarily industrial wastewater and energy markets, municipal
+  and desalination applications, and life sciences and specialty sectors. It also
+  offers AMBERLITE ion exchange resins, FILMTEC reverse osmosis and nanofiltration
+  elements, and INGE and ITEGRATEC ultrafiltration modules. In addition, the company
+  offers engineered products and integrated solutions for the non-residential, residential,
+  and repair-and-remodel construction markets, includes TYVEK house wrap, STYROFOAM
+  insulation, and CORIAN solid surface. Further, it engages in the design and production
+  of engineered components, systems, and process solutions used in OEM and operational
+  applications, such as automotive, aerospace, printing, and packaging. Additionally,
+  the company offers Vespel shapes and parts, MOLYKOTE specialty lubricants, BETAFORCE
+  and BETASEAL structural adhesives, and Cyrel flexographic printing plates. The company
+  was formerly known as DowDuPont Inc. and changed its name to DuPont de Nemours,
+  Inc. in June 2019. DuPont de Nemours, Inc. was incorporated in 2015 and is headquartered
+  in Wilmington, Delaware.
+longName: DuPont de Nemours, Inc.
+market: us_market
+marketCap: 20876494848
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_768440
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 388000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 20791673185
+numberOfAnalystOpinions: 17
+open: 157.96
+operatingCashflow: 903000000
+operatingMargins: 0.14389
+overallRisk: 5
+payoutRatio: 0.8362
+pegRatio: 1.72
+phone: 302 295 5783
+previousClose: 156.88
+priceEpsCurrentYear: 20.935173
+priceHint: 2
+priceToBook: 1.5390028
+priceToSalesTrailing12Months: 2.9565918
+profitMargins: 0.042630002
+quickRatio: 1.584
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.61111
+region: US
+regularMarketChange: 0.6399994
+regularMarketChangePercent: 0.40795472
+regularMarketDayHigh: 159.48
+regularMarketDayLow: 157.22
+regularMarketDayRange: 157.22 - 159.48
+regularMarketOpen: 157.96
+regularMarketPreviousClose: 156.88
+regularMarketPrice: 157.52
+regularMarketTime: 1794413637
+regularMarketVolume: 177937
+returnOnAssets: 0.02158
+returnOnEquity: 0.02182
+revenueGrowth: 0.041
+revenuePerShare: 51.856
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 2
+sharesOutstanding: 132532338
+sharesPercentSharesOut: 0.0292
+sharesShort: 3874395
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5137878
+shortName: DuPont de Nemours, Inc.
+shortPercentOfFloat: 0.033299997
+shortRatio: 4.8
+sourceInterval: 15
+state: DE
+symbol: DD
+targetHighPrice: 190.0
+targetLowPrice: 145.0
+targetMeanPrice: 172.4706
+targetMedianPrice: 173.0
+totalCash: 1652000000
+totalCashPerShare: 12.465
+totalDebt: 3180000000
+totalRevenue: 7061000192
+tradeable: false
+trailingAnnualDividendRate: 2.4
+trailingAnnualDividendYield: 0.015298317
+trailingEps: 2.87
+trailingPE: 54.88502
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 139.1225
+twoHundredDayAverageChange: 18.397507
+twoHundredDayAverageChangePercent: 0.13223962
+typeDisp: Equity
+volume: 177937
+website: https://www.dupont.com
+zip: '19805'

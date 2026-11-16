@@ -1,0 +1,275 @@
+52WeekChange: 0.26502562
+SandP52WeekChange: 0.097798586
+address1: 8027 Forsyth Boulevard
+allTimeHigh: 172.0
+allTimeLow: 1.739583
+ask: 168.58
+askSize: 200
+auditRisk: 2
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 3341510
+averageDailyVolume3Month: 2615443
+averageVolume: 2615443
+averageVolume10days: 3341510
+beta: 1.209
+bid: 168.34
+bidSize: 400
+boardRisk: 7
+bookValue: 37.056
+city: Saint Louis
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Surendralal Lanca Karsanbhai
+  title: President, CEO & Director
+  totalPay: 5789937
+  unexercisedValue: 1285200
+  yearBorn: 1970
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael J. Baughman
+  title: Executive VP, Chief Accounting Officer & CFO
+  totalPay: 2353975
+  unexercisedValue: 667400
+  yearBorn: 1965
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ram R. Krishnan
+  title: Executive VP & COO
+  totalPay: 2839564
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Tang
+  title: Senior VP, Secretary & Chief Legal Officer
+  totalPay: 1769053
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael H. Train
+  title: Senior VP & Chief Sustainability Officer
+  totalPay: 2117782
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Doug  Ashby
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lisa A. Flavin
+  title: Senior VP, Chief Transformation & Chief Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Zornio
+  title: Senior Vice President
+  unexercisedValue: 0
+  yearBorn: 1964
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: EMR announced a cash dividend of $0.595 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.595'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 168.2
+currentRatio: 0.941
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 169.745
+dayLow: 167.925
+debtToEquity: 58.658
+displayName: Emerson Electric
+dividendDate: 1796860800
+dividendRate: 2.38
+dividendYield: 1.42
+earningsCallTimestampEnd: 1793799000
+earningsCallTimestampStart: 1793799000
+earningsGrowth: 0.185
+earningsQuarterlyGrowth: 0.17
+earningsTimestamp: 1793799000
+earningsTimestampEnd: 1801575000
+earningsTimestampStart: 1801575000
+ebitda: 5488000000
+ebitdaMargins: 0.28912002
+enterpriseToEbitda: 18.979
+enterpriseToRevenue: 5.487
+enterpriseValue: 104157134848
+epsCurrentYear: 7.31849
+epsForward: 8.0337
+epsTrailingTwelveMonths: 4.79
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 158.4916
+fiftyDayAverageChange: 9.708405
+fiftyDayAverageChangePercent: 0.06125501
+fiftyTwoWeekChangePercent: 26.502562
+fiftyTwoWeekHigh: 172.0
+fiftyTwoWeekHighChange: -3.800003
+fiftyTwoWeekHighChangePercent: -0.02209304
+fiftyTwoWeekLow: 122.64
+fiftyTwoWeekLowChange: 45.559998
+fiftyTwoWeekLowChangePercent: 0.3714938
+fiftyTwoWeekRange: 122.64 - 172.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 76253400000
+fiveYearAvgDividendYield: 1.9
+floatShares: 557248514
+forwardEps: 8.0337
+forwardPE: 20.936804
+freeCashflow: 3486500096
+fullExchangeName: NYSE
+fulldayChange: 0.66000366
+fulldayChangePercent: 0.39393798
+fulldayPrice: 168.2
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.53356
+grossProfits: 10128000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00301
+heldPercentInstitutions: 0.85064006
+impliedSharesOutstanding: 548600000
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+irWebsite: http://www.emerson.com/en-US/about/investor-relations/Pages/default.aspx
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.555
+lastFiscalYearEnd: 1790726400
+lastSplitDate: 1165881600
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Emerson Electric Co., an automation company, provides various
+  solutions in the Americas, Asia, the Middle East, Africa, and Europe. It operates
+  through five segments: Control Systems & Software; Test & Measurement; Sensors;
+  Final Control; and Safety & Productivity. The Control Systems & Software segment
+  provides automation systems, intelligent software, and industrial AI solutions for
+  industrial organizations under the DeltaV and Ovation brands, as well as Aspentech''s
+  asset optimization software; and programmable automation controllers. The Test &
+  Measurement segment offers intelligent test platforms, modular hardware, and software
+  which enables customers to connect data and automation, optimize testing processes,
+  and assist in reliable performance. The Sensors segment delivers sensing and measurement
+  solutions that provide real-time data to monitor critical parameters, optimize operations,
+  and support performance. This segment''s portfolio includes secure, wireless, and
+  non-intrusive instrumentation to detect, analyze and respond to changing conditions
+  in even the harshest environments. The Final Control segment offers control, isolation
+  and pressure relief valves, solenoid and pneumatic valves, valve position indicators,
+  cylinders, air preparation equipment, and electric linear motion, as well as engages
+  in the fluid and motion control business. The Safety & Productivity segment offers
+  mechanical, electrical and diagnostic solutions to professionals that support infrastructure,
+  promote safety, and enhance productivity across construction, maintenance, and industrial
+  environments; and electrical equipment and materials. The company was incorporated
+  in 1890 and is headquartered in Saint Louis, Missouri.'
+longName: Emerson Electric Co.
+market: us_market
+marketCap: 92274515968
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_269231
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2691000064
+nextFiscalYearEnd: 1822262400
+nonDilutedMarketCap: 91912444000
+numberOfAnalystOpinions: 28
+open: 169.45
+operatingCashflow: 3977999872
+operatingMargins: 0.21125
+overallRisk: 8
+payoutRatio: 0.4635
+pegRatio: 2.05
+phone: (314) 553-2000
+previousClose: 167.54
+priceEpsCurrentYear: 22.982883
+priceHint: 2
+priceToBook: 4.539076
+priceToSalesTrailing12Months: 4.861159
+profitMargins: 0.14177
+quickRatio: 0.506
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.9
+region: US
+regularMarketChange: 0.66000366
+regularMarketChangePercent: 0.39393798
+regularMarketDayHigh: 169.745
+regularMarketDayLow: 167.925
+regularMarketDayRange: 167.925 - 169.745
+regularMarketOpen: 169.45
+regularMarketPreviousClose: 167.54
+regularMarketPrice: 168.2
+regularMarketTime: 1794413720
+regularMarketVolume: 394682
+returnOnAssets: 0.05983
+returnOnEquity: 0.13119
+revenueGrowth: 0.071
+revenuePerShare: 33.776
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 9
+sharesOutstanding: 548600000
+sharesPercentSharesOut: 0.0177
+sharesShort: 9886906
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8828157
+shortName: Emerson Electric Company
+shortPercentOfFloat: 0.0178
+shortRatio: 3.37
+sourceInterval: 15
+state: MO
+symbol: EMR
+targetHighPrice: 208.0
+targetLowPrice: 113.0
+targetMeanPrice: 182.78535
+targetMedianPrice: 189.0
+totalCash: 1806000000
+totalCashPerShare: 3.227
+totalDebt: 12174999552
+totalRevenue: 18982000640
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 4.79
+trailingPE: 35.114822
+trailingPegRatio: 2.0511
+triggerable: true
+twoHundredDayAverage: 147.6596
+twoHundredDayAverageChange: 20.54039
+twoHundredDayAverageChangePercent: 0.13910636
+typeDisp: Equity
+volume: 394682
+website: https://www.emerson.com
+zip: '63105'

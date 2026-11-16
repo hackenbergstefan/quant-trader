@@ -1,0 +1,259 @@
+52WeekChange: 0.0020112991
+SandP52WeekChange: 0.097798586
+address1: Fabianinkatu 21
+allTimeHigh: 10.39
+allTimeLow: 0.905269
+ask: 9.936
+askSize: 0
+auditRisk: 8
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 4042893
+averageDailyVolume3Month: 3877924
+averageVolume: 3877924
+averageVolume10days: 4042893
+beta: 0.225
+bid: 9.932
+bidSize: 0
+boardRisk: 1
+bookValue: 2.92
+city: Helsinki
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Morten  Thorsrud
+  title: Group CEO, MD & Member of Group Executive Committee
+  totalPay: 1139141
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lars Kufall Beck
+  title: Group CFO & Member of Executive Committee
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ake Ricard Wennerklint
+  title: Deputy CEO & Member of Group Executive Committee
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ingrid Janbu Holthe
+  title: Head of Private Nordic & Member of the Group Executive Committee
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Klas  Svensson
+  title: Head of Nordic Commercial & Member of Group Executive Committee
+  unexercisedValue: 0
+  yearBorn: 1985
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ville  Talasmaki
+  title: Group Chief Investment Officer & Executive Committee Member
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tiina  Halmesmäki
+  title: Chief Legal Officer & Member of Group Executive Committee
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Poul  Steffensen
+  title: Head of Nordic Industrial & Member of Group Executive Committee
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mirko  Hurmerinta
+  title: Interim Head of Investor Relations
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Knut-Arne  Alsaker
+  title: Advisor
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Finland
+cryptoTradeable: false
+currency: EUR
+currentPrice: 9.936
+currentRatio: 1.786
+customPriceAlertConfidence: HIGH
+dayHigh: 9.958
+dayLow: 9.906
+debtToEquity: 34.38
+dividendRate: 0.36
+dividendYield: 3.61
+earningsCallTimestampEnd: 1793781000
+earningsCallTimestampStart: 1793781000
+earningsGrowth: -0.636
+earningsQuarterlyGrowth: -0.643
+earningsTimestamp: 1801758600
+earningsTimestampEnd: 1801758600
+earningsTimestampStart: 1801758600
+ebitda: 1875000064
+ebitdaMargins: 0.17606
+enterpriseToEbitda: 5.562
+enterpriseToRevenue: 0.979
+enterpriseValue: 10429235200
+epsCurrentYear: 0.55659
+epsForward: 0.61633
+epsTrailingTwelveMonths: 0.46
+esgPopulated: false
+exDividendDate: 1776902400
+exchange: HEL
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Helsinki
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fiftyDayAverage: 9.25516
+fiftyDayAverageChange: 0.68083954
+fiftyDayAverageChangePercent: 0.07356323
+fiftyTwoWeekChangePercent: 0.20112991
+fiftyTwoWeekHigh: 10.39
+fiftyTwoWeekHighChange: -0.45400047
+fiftyTwoWeekHighChangePercent: -0.043695904
+fiftyTwoWeekLow: 8.634
+fiftyTwoWeekLowChange: 1.302
+fiftyTwoWeekLowChangePercent: 0.15079917
+fiftyTwoWeekRange: 8.634 - 10.39
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 4.06
+floatShares: 2078335552
+forwardEps: 0.61633
+forwardPE: 16.121233
+freeCashflow: 892875008
+fullExchangeName: Helsinki
+fullTimeEmployees: 15510
+fulldayChange: -0.027999878
+fulldayChangePercent: -0.28101042
+fulldayPrice: 9.936
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.38441002
+grossProfits: 4094000128
+hasPrePostMarketData: false
+heldPercentInsiders: 0.05073
+heldPercentInstitutions: 0.51669997
+impliedSharesOutstanding: 2617847806
+industry: Insurance - Diversified
+industryDisp: Insurance - Diversified
+industryKey: insurance-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776902400
+lastDividendValue: 0.36
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1739232000
+lastSplitFactor: '5:1'
+longBusinessSummary: Sampo Oyj, together with its subsidiaries, provides non-life
+  insurance products and services in Finland, Sweden, Norway, Denmark, Estonia, Lithuania,
+  Latvia, Spain, Gibraltar, Germany, the Netherlands, France, and the United Kingdom.
+  The company operates through Private Nordic, Private UK, Nordic Commercial, and
+  Nordic Industrial segments. It offers property, casualty, liability, accident, sickness,
+  household, homeowner, motor, travel, marine, aviation, transport, forest, livestock,
+  health, workers compensation, car, van, and bike insurance, as well as reinsurance
+  products under the If, Topdanmark, and Hastings brand names. Sampo Oyj was founded
+  in 1909 and is based in Helsinki, Finland.
+longName: Sampo Oyj
+market: fi_market
+marketCap: 26010935296
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_2969167
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1224999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 26084235538
+numberOfAnalystOpinions: 15
+open: 9.95
+operatingCashflow: 1400000000
+operatingMargins: 0.16122
+overallRisk: 1
+payoutRatio: 0.7868
+pegRatio: 35.06
+phone: 358 1051 60100
+previousClose: 9.964
+priceEpsCurrentYear: 17.851559
+priceHint: 2
+priceToBook: 3.4027395
+priceToSalesTrailing12Months: 2.4423413
+profitMargins: 0.11502
+quickRatio: 1.565
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.73333
+region: US
+regularMarketChange: -0.027999878
+regularMarketChangePercent: -0.28101042
+regularMarketDayHigh: 9.958
+regularMarketDayLow: 9.906
+regularMarketDayRange: 9.906 - 9.958
+regularMarketOpen: 9.95
+regularMarketPreviousClose: 9.964
+regularMarketPrice: 9.936
+regularMarketTime: 1794412411
+regularMarketVolume: 777473
+returnOnAssets: 0.04137
+returnOnEquity: 0.15997
+revenueGrowth: -0.092
+revenuePerShare: 4.012
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 8
+sharesOutstanding: 2616847806
+shortName: Sampo Plc A
+sourceInterval: 15
+symbol: SAMPO.HE
+targetHighPrice: 11.7
+targetLowPrice: 9.8
+targetMeanPrice: 10.82667
+targetMedianPrice: 11.0
+totalCash: 18282999808
+totalCashPerShare: 6.984
+totalDebt: 2628000000
+totalRevenue: 10650000384
+tradeable: false
+trailingAnnualDividendRate: 0.36
+trailingAnnualDividendYield: 0.03613007
+trailingEps: 0.46
+trailingPE: 21.599998
+trailingPegRatio: 35.5857
+triggerable: true
+twoHundredDayAverage: 9.2777
+twoHundredDayAverageChange: 0.65829945
+twoHundredDayAverageChangePercent: 0.07095502
+typeDisp: Equity
+volume: 777473
+website: https://www.sampo.com
+zip: '00130'

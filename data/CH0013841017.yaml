@@ -1,0 +1,236 @@
+52WeekChange: 0.19184995
+SandP52WeekChange: 0.097798586
+address1: Muenchensteinerstrasse 38
+allTimeHigh: 785.4
+allTimeLow: 18.803679
+ask: 661.8
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 162974
+averageDailyVolume3Month: 133173
+averageVolume: 133173
+averageVolume10days: 162974
+beta: 0.802
+bid: 661.6
+bidSize: 0
+boardRisk: 1
+bookValue: 116.373
+city: Basel
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  maxAge: 1
+  name: Dr. Wolfgang  Wienand Ph.D.
+  title: Chief Executive Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Philippe  Deecke
+  title: Chief Financial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Jason  Berndt
+  title: Executive VP & Head of Group Operations
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Daniel  Buchta
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Andreas  Bohrer
+  title: Chief Legal & Corporate Affairs Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Ms. Kim  Harrelson
+  title: Head of Ethics & Compliance, ERM and Corporate Responsibility
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Hans  Trees
+  title: Senior VP & Global Head of Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Ms. Jennifer  Clancy
+  title: Senior Director of Global Marketing
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  maxAge: 1
+  name: Ms. Nicoleta  Baumgartner
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  maxAge: 1
+  name: Dr. Matthias  Hofmann
+  title: Head of Corporate Environment, Health, Safety & Global Sustainability
+  unexercisedValue: 0
+compensationRisk: 2
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 661.6
+currentRatio: 1.663
+customPriceAlertConfidence: LOW
+dayHigh: 665.0
+dayLow: 657.6
+debtToEquity: 51.116
+dividendDate: 1747267200
+dividendRate: 5.0
+dividendYield: 0.76
+earningsCallTimestampEnd: 1784721600
+earningsCallTimestampStart: 1784721600
+earningsGrowth: 0.392
+earningsQuarterlyGrowth: 0.387
+earningsTimestampEnd: 1769617800
+earningsTimestampStart: 1769617800
+ebitda: 2390000128
+ebitdaMargins: 0.34784
+enterpriseToEbitda: 20.851
+enterpriseToRevenue: 7.253
+enterpriseValue: 49833721856
+epsCurrentYear: 18.70211
+epsForward: 22.44466
+epsTrailingTwelveMonths: 15.09
+esgPopulated: false
+exDividendDate: 1778544000
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 591.176
+fiftyDayAverageChange: 70.42395
+fiftyDayAverageChangePercent: 0.11912518
+fiftyTwoWeekChangePercent: 19.184994
+fiftyTwoWeekHigh: 674.0
+fiftyTwoWeekHighChange: -12.400024
+fiftyTwoWeekHighChangePercent: -0.018397663
+fiftyTwoWeekLow: 454.6
+fiftyTwoWeekLowChange: 206.99997
+fiftyTwoWeekLowChangePercent: 0.45534527
+fiftyTwoWeekRange: 454.6 - 674.0
+financialCurrency: CHF
+firstTradeDateMilliseconds: 941443200000
+fiveYearAvgDividendYield: 0.67
+floatShares: 69741488
+forwardEps: 22.44466
+forwardPE: 29.476944
+freeCashflow: -1567000064
+fullExchangeName: Swiss
+fullTimeEmployees: 20141
+fulldayChange: 0.5999756
+fulldayChangePercent: 0.09076787
+fulldayPrice: 661.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.37142
+grossProfits: 2552000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00090000004
+heldPercentInstitutions: 0.58979
+impliedSharesOutstanding: 69844229
+industry: Diagnostics & Research
+industryDisp: Diagnostics & Research
+industryKey: diagnostics-research
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778544000
+lastDividendValue: 5.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Lonza Group AG, together with its subsidiaries, operates as a
+  contract development and manufacturing organization for pharma and biotech companies
+  in Europe, North and Central America, Latin America, Asia, Australia, New Zealand,
+  and internationally. It operates through Integrated Biologics; Advanced Synthesis;
+  and Specialized Modalities segments. The Integrated Biologics segment offers CDMO
+  biologics services from clinical development, drug substance, and drug product manufacturing;
+  and operates mammalian and drug product platforms. Its Advanced Synthesis segment
+  manufactures antibody-drug conjugates (ADCs) and other bioconjugates, small molecules,
+  and highly potent active pharmaceutical ingredients; and operates small molecules
+  and bioconjugates platforms. The Specialized Modalities segment operates various
+  technologies, such as spanning cell & gene, microbial, bioscience, and mRNA. Lonza
+  Group AG was incorporated in 1897 and is headquartered in Basel, Switzerland.
+longName: Lonza Group AG
+market: ch_market
+marketCap: 46208942080
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_631759
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1080999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 46167035369
+numberOfAnalystOpinions: 23
+open: 660.6
+operatingCashflow: 1435000064
+operatingMargins: 0.2349
+overallRisk: 1
+payoutRatio: 0.32279998
+pegRatio: 1.19
+phone: 41 61 316 81 11
+prevName: Lonza Group Ltd
+previousClose: 661.0
+priceEpsCurrentYear: 35.375687
+priceHint: 2
+priceToBook: 5.6851673
+priceToSalesTrailing12Months: 6.7252135
+profitMargins: -0.01601
+quickRatio: 0.588
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.54167
+region: US
+regularMarketChange: 0.5999756
+regularMarketChangePercent: 0.09076787
+regularMarketDayHigh: 665.0
+regularMarketDayLow: 657.6
+regularMarketDayRange: 657.6 - 665.0
+regularMarketOpen: 660.6
+regularMarketPreviousClose: 661.0
+regularMarketPrice: 661.6
+regularMarketTime: 1794411569
+regularMarketVolume: 43784
+returnOnAssets: 0.05444
+returnOnEquity: 0.12895
+revenueGrowth: 0.112
+revenuePerShare: 98.33
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 69844229
+shortName: LONZA N
+sourceInterval: 15
+symbol: LONN.SW
+targetHighPrice: 887.0
+targetLowPrice: 550.0
+targetMeanPrice: 716.1739
+targetMedianPrice: 700.0
+totalCash: 487000000
+totalCashPerShare: 6.98
+totalDebt: 4167000064
+totalRevenue: 6871000064
+tradeable: false
+trailingAnnualDividendRate: 5.0
+trailingAnnualDividendYield: 0.0075642965
+trailingEps: 15.09
+trailingPE: 43.8436
+trailingPegRatio: 1.1904
+triggerable: false
+twoHundredDayAverage: 540.5665
+twoHundredDayAverageChange: 121.03345
+twoHundredDayAverageChangePercent: 0.22390111
+typeDisp: Equity
+volume: 43784
+website: https://www.lonza.com
+zip: '4002'

@@ -1,0 +1,240 @@
+52WeekChange: 0.0061576366
+SandP52WeekChange: 0.097798586
+address1: Klausdalsbrovej 601
+allTimeHigh: 176.20268
+allTimeLow: 35.489586
+ask: 163.6
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.5 - Hold
+averageDailyVolume10Day: 854939
+averageDailyVolume3Month: 692306
+averageVolume: 692306
+averageVolume10days: 854939
+beta: 0.106
+bid: 163.4
+bidSize: 0
+boardRisk: 2
+bookValue: 59.968
+city: Ballerup
+companyOfficers:
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Johan Kirstein Brammer
+  title: Group CEO & Member of Executive Board
+  totalPay: 23646000
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Allan Kragh Thaysen
+  title: CFO & Member of Executive Board
+  totalPay: 10338000
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lars Ulrik Bonde
+  title: Group COO & Member of Executive Board
+  totalPay: 11417000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mikael  Karrsten
+  title: Group Chief Technical Officer & Member of Executive Board
+  totalPay: 6729000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Alexandra Bastkaer Winther
+  title: Group Chief Commercial Officer & Member of Executive Board
+  totalPay: 9643000
+  unexercisedValue: 0
+  yearBorn: 1985
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gianandrea  Roberti
+  title: Investor Relations Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jens  Galsgaard
+  title: Chief Internal Auditor
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Denmark
+cryptoTradeable: false
+currency: DKK
+currentPrice: 163.4
+currentRatio: 1.735
+customPriceAlertConfidence: HIGH
+dayHigh: 163.8
+dayLow: 162.8
+debtToEquity: 20.303
+dividendRate: 8.6
+dividendYield: 5.26
+earningsCallTimestampEnd: 1791532800
+earningsCallTimestampStart: 1791532800
+earningsGrowth: 0.107
+earningsQuarterlyGrowth: 0.099
+earningsTimestamp: 1800633600
+earningsTimestampEnd: 1800633600
+earningsTimestampStart: 1800633600
+ebitda: 6941000192
+ebitdaMargins: 0.15897
+enterpriseToEbitda: 14.423
+enterpriseToRevenue: 2.293
+enterpriseValue: 100108156928
+epsCurrentYear: 9.87113
+epsForward: 10.89326
+epsTrailingTwelveMonths: 7.73
+esgPopulated: false
+exDividendDate: 1791763200
+exchange: CPH
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Copenhagen
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 152.646
+fiftyDayAverageChange: 10.753998
+fiftyDayAverageChangePercent: 0.070450574
+fiftyTwoWeekChangePercent: 0.61576366
+fiftyTwoWeekHigh: 166.8
+fiftyTwoWeekHighChange: -3.4000092
+fiftyTwoWeekHighChangePercent: -0.020383747
+fiftyTwoWeekLow: 139.0
+fiftyTwoWeekLowChange: 24.399994
+fiftyTwoWeekLowChangePercent: 0.17553952
+fiftyTwoWeekRange: 139.0 - 166.8
+financialCurrency: DKK
+firstTradeDateMilliseconds: 1129273200000
+fiveYearAvgDividendYield: 4.1
+floatShares: 298393820
+forwardEps: 10.89326
+forwardPE: 15.0001
+freeCashflow: 4178374912
+fullExchangeName: Copenhagen
+fullTimeEmployees: 6758
+fulldayChange: 0.0
+fulldayChangePercent: 0.0
+fulldayPrice: 163.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.29996002
+grossProfits: 13096999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00058
+heldPercentInstitutions: 0.76195
+impliedSharesOutstanding: 595870000
+industry: Insurance - Diversified
+industryDisp: Insurance - Diversified
+industryKey: insurance-diversified
+irWebsite: http://www.tryg.com/en/investor/index.html
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791763200
+lastDividendValue: 2.15
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1431388800
+lastSplitFactor: '5:1'
+longBusinessSummary: Tryg A/S, together with its subsidiaries, engages in the provision
+  of insurance products and services to private, small and medium sized commercial,
+  and corporate customers in Denmark, the United States, rest of Nordic, Luxembourg,
+  the United Kingdom, and internationally. It operates through Private and Commercial
+  segments. The company offers insurance products, such as motor, content, house,
+  accident, travel, motorcycle, and pet and health, as well as property, liability,
+  workers' compensation, and health under the Trygg-Hansa, Atlantica, Bilsport & MC,
+  and Moderna Djurförsäkringar brands. It sells its products through its sales agents,
+  online, call centers, franchises, bancassurance, car dealers, real estate agents,
+  insurance brokers, and partners. The company was founded in 1731 and is headquartered
+  in Ballerup, Denmark.
+longName: Tryg A/S
+market: dk_market
+marketCap: 97365155840
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_6441186
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4642999808
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 97365158000
+numberOfAnalystOpinions: 15
+open: 163.0
+operatingCashflow: 7193999872
+operatingMargins: 0.13813
+overallRisk: 1
+payoutRatio: 1.0867
+pegRatio: 5.17
+phone: 45 70 11 20 20
+previousClose: 163.4
+priceEpsCurrentYear: 16.553322
+priceHint: 2
+priceToBook: 2.7247865
+priceToSalesTrailing12Months: 2.2299747
+profitMargins: 0.10842
+quickRatio: 0.992
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.53333
+region: US
+regularMarketChange: 0.0
+regularMarketChangePercent: 0.0
+regularMarketDayHigh: 163.8
+regularMarketDayLow: 162.8
+regularMarketDayRange: 162.8 - 163.8
+regularMarketOpen: 163.0
+regularMarketPreviousClose: 163.4
+regularMarketPrice: 163.4
+regularMarketTime: 1794412440
+regularMarketVolume: 194675
+returnOnAssets: 0.03648
+returnOnEquity: 0.12478
+revenueGrowth: 0.026
+revenuePerShare: 72.956
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 595870000
+shortName: Tryg A/S
+sourceInterval: 15
+symbol: TRYG.CO
+targetHighPrice: 192.0
+targetLowPrice: 140.0
+targetMeanPrice: 166.36667
+targetMedianPrice: 165.0
+totalCash: 4848000000
+totalCashPerShare: 8.136
+totalDebt: 7591000064
+totalRevenue: 43662000128
+tradeable: false
+trailingAnnualDividendRate: 8.5
+trailingAnnualDividendYield: 0.052019585
+trailingEps: 7.73
+trailingPE: 21.13842
+trailingPegRatio: 5.2058
+triggerable: true
+twoHundredDayAverage: 153.1045
+twoHundredDayAverageChange: 10.295486
+twoHundredDayAverageChangePercent: 0.06724483
+typeDisp: Equity
+volume: 194675
+website: https://www.tryg.com
+zip: '2750'

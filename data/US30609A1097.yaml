@@ -1,0 +1,285 @@
+52WeekChange: 0.26806962
+SandP52WeekChange: 0.097798586
+address1: 100 West Fifth Street
+allTimeHigh: 118.07
+allTimeLow: 1.05334
+ask: 88.16
+askSize: 300
+auditRisk: 6
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 3785530
+averageDailyVolume3Month: 3451245
+averageVolume: 3451245
+averageVolume10days: 3785530
+beta: 0.744
+bid: 88.06
+bidSize: 100
+boardRisk: 2
+bookValue: 36.983
+city: Tulsa
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pierce H. Norton II
+  title: President, CEO & Director
+  totalPay: 3232056
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Walter S. Hulse III
+  title: CFO, Treasurer and Executive VP of Investor Relations & Corporate Development
+  totalPay: 2283229
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Randy N. Lentz
+  title: Executive VP & COO
+  totalPay: 1634988
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lyndon C. Taylor J.D.
+  title: Executive VP, Chief Legal Officer & Assistant Secretary
+  totalPay: 2243012
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sheridan C. Swords
+  title: Executive VP & Chief Commercial Officer
+  totalPay: 1460944
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mary M. Spears
+  title: Executive VP, Chief Enterprise Services Officer and Principal Accounting
+    Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. J. Darren Wallis
+  title: Senior Vice President of Communications & Community Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brent D. Strehlow
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin L. Burdick
+  title: Executive VP & Chief Enterprise Services Officer
+  totalPay: 1930051
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott D. Schingen
+  title: Senior VP of Eng., and Op. - Natural Gas Liquids, Natural Gas Pipelines and
+    Corporate Measurement
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 88.125
+currentRatio: 0.843
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 88.705
+dayLow: 87.11
+debtToEquity: 87.727
+displayName: ONEOK
+dividendDate: 1794787200
+dividendRate: 4.28
+dividendYield: 4.9
+earningsCallTimestampEnd: 1793199600
+earningsCallTimestampStart: 1793199600
+earningsGrowth: 0.43
+earningsQuarterlyGrowth: 0.438
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1793131200
+earningsTimestampStart: 1793131200
+ebitda: 7702000128
+ebitdaMargins: 0.17834
+enterpriseToEbitda: 12.024
+enterpriseToRevenue: 2.144
+enterpriseValue: 92610453504
+epsCurrentYear: 6.14557
+epsForward: 6.12094
+epsTrailingTwelveMonths: 6.44
+esgPopulated: false
+exDividendDate: 1793577600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 92.014
+fiftyDayAverageChange: -3.889
+fiftyDayAverageChangePercent: -0.042265307
+fiftyTwoWeekChangePercent: 26.806963
+fiftyTwoWeekHigh: 99.85
+fiftyTwoWeekHighChange: -11.724998
+fiftyTwoWeekHighChangePercent: -0.11742613
+fiftyTwoWeekLow: 68.2
+fiftyTwoWeekLowChange: 19.925003
+fiftyTwoWeekLowChangePercent: 0.29215547
+fiftyTwoWeekRange: 68.2 - 99.85
+financialCurrency: USD
+firstTradeDateMilliseconds: 339255000000
+fiveYearAvgDividendYield: 5.18
+floatShares: 628622131
+forwardEps: 6.12094
+forwardPE: 14.397298
+freeCashflow: 775124992
+fullExchangeName: NYSE
+fullTimeEmployees: 6326
+fulldayChange: 0.75499725
+fulldayChangePercent: 0.8641378
+fulldayPrice: 88.125
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.25202
+grossProfits: 10883999744
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00156
+heldPercentInstitutions: 0.83635
+impliedSharesOutstanding: 630450437
+industry: Oil & Gas Midstream
+industryDisp: Oil & Gas Midstream
+industryKey: oil-gas-midstream
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793577600
+lastDividendValue: 1.07
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1391385600
+lastSplitFactor: 11422:10000
+longBusinessSummary: 'ONEOK, Inc. operates as a midstream service provider of gathering,
+  processing, fractionation, transportation, storage, and marine export services in
+  the United States. It operates in four segments: Natural Gas Gathering and Processing;
+  Natural Gas Liquids; Natural Gas Pipelines; and Refined Products and Crude. The
+  company owns natural gas gathering pipelines and processing plants in the Mid-Continent,
+  Permian Basin, North Texas, Gulf Coast region, and Rocky Mountain regions; and provides
+  midstream services to producers of NGLs. It also owns NGL gathering and distribution
+  pipelines, fractionation, terminal and storage facilities; and transports refined
+  products, including gasoline, diesel fuel, aviation fuel, kerosene, and heating
+  oil. In addition, the company transports and stores natural gas through regulated
+  interstate and intrastate natural gas transmission pipelines, and natural gas storage
+  facilities; it owns and operates a parking garage in downtown Tulsa, Oklahoma; and
+  leases buildings, warehouses, office space, land, and equipment, including pipeline
+  equipment, pipeline capacity, rail cars, and information technology equipment. Further,
+  the company transports, stores, and distributes refined products, purity NGLs, and
+  crude oil, as well as conducts commodity-related activities, including liquids blending
+  and marketing activities. It serves integrated and independent exploration and production
+  companies; other NGL and natural gas gathering and processing companies; crude oil
+  and natural gas production companies; utilities; industrial companies; natural gasoline
+  distributors; propane distributors; municipalities; ethanol producers; petrochemical,
+  refining, and marketing companies; and diluent users, refineries, and exporters.
+  ONEOK, Inc. was founded in 1906 and is headquartered in Tulsa, Oklahoma.'
+longName: ONEOK, Inc.
+market: us_market
+marketCap: 55558443008
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_293889
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4067000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 55082454680
+numberOfAnalystOpinions: 21
+open: 88.37
+operatingCashflow: 5912000000
+operatingMargins: 0.1425
+overallRisk: 4
+payoutRatio: 0.65839994
+pegRatio: 1.42
+phone: 918 588 7000
+previousClose: 87.37
+priceEpsCurrentYear: 14.339598
+priceHint: 2
+priceToBook: 2.3828514
+priceToSalesTrailing12Months: 1.2864622
+profitMargins: 0.09417
+quickRatio: 0.588
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.26087
+region: US
+regularMarketChange: 0.75499725
+regularMarketChangePercent: 0.8641378
+regularMarketDayHigh: 88.705
+regularMarketDayLow: 87.11
+regularMarketDayRange: 87.11 - 88.705
+regularMarketOpen: 88.37
+regularMarketPreviousClose: 87.37
+regularMarketPrice: 88.125
+regularMarketTime: 1794413745
+regularMarketVolume: 359663
+returnOnAssets: 0.05459
+returnOnEquity: 0.15018
+revenueGrowth: 0.443
+revenuePerShare: 68.48
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 8
+sharesOutstanding: 630450437
+sharesPercentSharesOut: 0.0432
+sharesShort: 27214206
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 24399286
+shortName: ONEOK, Inc.
+shortPercentOfFloat: 0.048600003
+shortRatio: 8.85
+sourceInterval: 15
+state: OK
+symbol: OKE
+targetHighPrice: 112.0
+targetLowPrice: 93.0
+targetMeanPrice: 102.33333
+targetMedianPrice: 100.0
+totalCash: 186000000
+totalCashPerShare: 0.295
+totalDebt: 28519999488
+totalRevenue: 43186999296
+tradeable: false
+trailingAnnualDividendRate: 4.28
+trailingAnnualDividendYield: 0.04898707
+trailingEps: 6.44
+trailingPE: 13.684006
+trailingPegRatio: 1.4168
+triggerable: true
+twoHundredDayAverage: 89.15945
+twoHundredDayAverageChange: -1.0344467
+twoHundredDayAverageChangePercent: -0.011602211
+typeDisp: Equity
+volume: 359663
+website: https://www.oneok.com
+zip: '74103'

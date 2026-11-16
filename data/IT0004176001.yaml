@@ -1,0 +1,261 @@
+52WeekChange: 0.25733054
+SandP52WeekChange: 0.097798586
+address1: Via Chiese 6
+allTimeHigh: 157.25
+allTimeLow: 5.559078
+ask: 110.6
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1527760
+averageDailyVolume3Month: 1159698
+averageVolume: 1159698
+averageVolume10days: 1527760
+beta: 0.931
+bid: 110.7
+bidSize: 0
+boardRisk: 1
+bookValue: 28.218
+city: Milan
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Massimo  Battaini
+  title: Group CEO, GM & Executive Director
+  totalPay: 1972417
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Valerio  Battista
+  title: Non-Independent & Non-Executive Vice Chairman of Board
+  totalPay: 68206
+  unexercisedValue: 0
+  yearBorn: 1957
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pier Francesco  Facchini
+  title: CFO, CEO of Finance, Administration, Control & IT and Executive Director
+  totalPay: 905790
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alberto  Boffelli
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria Cristina Bifulco
+  title: Chief Strategy, IR, M&A & Communication Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alessandro  Nespoli
+  title: Chief Risk & Compliance
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jacopo  Zirulia
+  title: Chief Corporate Affairs Officer, Head of Corporate Affairs & Group General
+    Counsel
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Andrews
+  title: Chief HR & Organization Officer
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrea  Pirondini
+  title: Chief Executive Officer of North America Region
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Srinivas  Siripurapu
+  title: Chief R&D, Sustainability and Innovation Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 110.7
+currentRatio: 1.492
+customPriceAlertConfidence: LOW
+dayHigh: 111.6
+dayLow: 109.25
+debtToEquity: 67.051
+dividendRate: 0.9
+dividendYield: 0.84
+earningsCallTimestampEnd: 1793264400
+earningsCallTimestampStart: 1793264400
+earningsTimestamp: 1793291400
+earningsTimestampEnd: 1793291400
+earningsTimestampStart: 1793291400
+ebitda: 2052999936
+ebitdaMargins: 0.09187
+enterpriseToEbitda: 17.175
+enterpriseToRevenue: 1.578
+enterpriseValue: 35260178432
+epsCurrentYear: 4.97064
+epsForward: 6.5429
+epsTrailingTwelveMonths: 4.02
+esgPopulated: false
+exDividendDate: 1776643200
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 117.1256
+fiftyDayAverageChange: -6.425606
+fiftyDayAverageChangePercent: -0.05486081
+fiftyTwoWeekChangePercent: 25.733053
+fiftyTwoWeekHigh: 157.25
+fiftyTwoWeekHighChange: -46.550003
+fiftyTwoWeekHighChangePercent: -0.29602545
+fiftyTwoWeekLow: 79.16
+fiftyTwoWeekLowChange: 31.539993
+fiftyTwoWeekLowChangePercent: 0.39843345
+fiftyTwoWeekRange: 79.16 - 157.25
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1178175600000
+fiveYearAvgDividendYield: 1.19
+floatShares: 299262097
+forwardEps: 6.5429
+forwardPE: 16.919102
+freeCashflow: 125750000
+fullExchangeName: Milan
+fullTimeEmployees: 34703
+fulldayChange: 3.5
+fulldayChangePercent: 3.2649255
+fulldayPrice: 110.7
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.35417
+grossProfits: 7914999808
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.62581
+impliedSharesOutstanding: 299274068
+industry: Electrical Equipment & Parts
+industryDisp: Electrical Equipment & Parts
+industryKey: electrical-equipment-parts
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776643200
+lastDividendValue: 0.9
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Prysmian S.p.A., together with its subsidiaries, produces, distributes,
+  and sells power and telecom cables and systems, and related accessories under the
+  Prysmian, Draka, and General Cable brands worldwide. It operates through four segments:
+  Transmission, Power Grid, Electrification, and Digital Solutions. The company offers
+  high voltage direct current (HVDC), network component high voltage, submarine power,
+  submarine telecom, offshore specialties, and EOSS high voltage units. It also provides
+  power distribution, overhead lines, high voltage alternate current (HVAC), network
+  component medium voltage/low voltage, EOSS medium voltage/low voltage units. In
+  addition, it offers electrification products; and fiber optics, optical cables,
+  connectivity components and accessories, optical ground wire cables, and copper
+  cables. Further, it manufactures and sells thermoplastic and metal enclosures. Prysmian
+  S.p.A. was founded in 1879 and is headquartered in Milan, Italy.'
+longName: Prysmian S.p.A.
+market: it_market
+marketCap: 33129639936
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_520105
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1176999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 32082180089
+numberOfAnalystOpinions: 21
+open: 109.3
+operatingCashflow: 2536999936
+operatingMargins: 0.067389995
+overallRisk: 1
+payoutRatio: 0.2233
+pegRatio: 1.39
+phone: 39 02 64491
+previousClose: 107.2
+priceEpsCurrentYear: 22.270773
+priceHint: 2
+priceToBook: 3.9230278
+priceToSalesTrailing12Months: 1.4824432
+profitMargins: 0.05495
+quickRatio: 0.999
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.7619
+region: US
+regularMarketChange: 3.5
+regularMarketChangePercent: 3.2649255
+regularMarketDayHigh: 111.6
+regularMarketDayLow: 109.25
+regularMarketDayRange: 109.25 - 111.6
+regularMarketOpen: 109.3
+regularMarketPreviousClose: 107.2
+regularMarketPrice: 110.7
+regularMarketTime: 1794411560
+regularMarketVolume: 643281
+returnOnAssets: 0.04354
+returnOnEquity: 0.1682
+revenuePerShare: 76.675
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 299274068
+shortName: PRYSMIAN
+sourceInterval: 20
+state: MI
+symbol: PRY.MI
+targetHighPrice: 186.0
+targetLowPrice: 95.0
+targetMeanPrice: 151.38095
+targetMedianPrice: 158.0
+totalCash: 2862000128
+totalCashPerShare: 9.563
+totalDebt: 5814000128
+totalRevenue: 22347999232
+tradeable: false
+trailingAnnualDividendRate: 0.9
+trailingAnnualDividendYield: 0.008395523
+trailingEps: 4.02
+trailingPE: 27.537313
+trailingPegRatio: 1.3857
+triggerable: false
+twoHundredDayAverage: 122.22565
+twoHundredDayAverageChange: -11.52565
+twoHundredDayAverageChangePercent: -0.09429813
+typeDisp: Equity
+volume: 643281
+website: https://www.prysmian.com
+zip: '20126'

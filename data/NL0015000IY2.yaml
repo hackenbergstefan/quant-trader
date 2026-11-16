@@ -1,0 +1,259 @@
+52WeekChange: -0.24222225
+SandP52WeekChange: 0.097798586
+address1: ‘s-Gravelandseweg 80
+allTimeHigh: 29.49
+allTimeLow: 13.92
+ask: 0.0
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 2651043
+averageDailyVolume3Month: 3030748
+averageVolume: 3030748
+averageVolume10days: 2651043
+beta: 0.761
+bid: 0.0
+bidSize: 0
+boardRisk: 1
+bookValue: 2.0
+city: Hilversum
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Sir Lucian  Grainge CBE
+  title: Chairman & CEO
+  totalPay: 23276688
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vincent  Vallejo
+  title: Deputy CEO of Corporate & Executive Director
+  totalPay: 1660863
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew D. Ellis
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Boyd  Muir
+  title: Executive VP & COO
+  totalPay: 9161000
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Will  Tanous
+  title: Executive VP & Chief Administrative Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey  Harleston J.D.
+  title: General Counsel and Executive VP of Business & Legal Affairs
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric  Hutcherson
+  title: Executive VP and Chief People & Inclusion Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Nash
+  title: Executive VP & Chief Digital Officer
+  unexercisedValue: 0
+  yearBorn: 1957
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tseyin  Foo
+  title: President of Global Supply Chain
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oscar  Celma
+  title: Senior Vice President of Applied AI & Machine Learning
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 17.035
+currentRatio: 0.607
+customPriceAlertConfidence: LOW
+dayHigh: 17.13
+dayLow: 16.885
+debtToEquity: 152.303
+dividendRate: 0.52
+dividendYield: 3.05
+earningsCallTimestampEnd: 1793294100
+earningsCallTimestampStart: 1793294100
+earningsGrowth: -0.844
+earningsQuarterlyGrowth: -0.845
+earningsTimestamp: 1793291400
+earningsTimestampEnd: 1793291400
+earningsTimestampStart: 1793291400
+ebitda: 2206000128
+ebitdaMargins: 0.17207001
+enterpriseToEbitda: 16.289
+enterpriseToRevenue: 2.803
+enterpriseValue: 35932508160
+epsCurrentYear: 1.00479
+epsForward: 1.10099
+epsTrailingTwelveMonths: 0.18
+esgPopulated: false
+exDividendDate: 1791158400
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 15.2898
+fiftyDayAverageChange: 1.7452002
+fiftyDayAverageChangePercent: 0.114141464
+fiftyTwoWeekChangePercent: -24.222225
+fiftyTwoWeekHigh: 23.19
+fiftyTwoWeekHighChange: -6.1550007
+fiftyTwoWeekHighChangePercent: -0.26541615
+fiftyTwoWeekLow: 13.92
+fiftyTwoWeekLowChange: 3.1149998
+fiftyTwoWeekLowChangePercent: 0.22377872
+fiftyTwoWeekRange: 13.92 - 23.19
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1632207600000
+fiveYearAvgDividendYield: 1.89
+floatShares: 1080479617
+forwardEps: 1.10099
+forwardPE: 15.472438
+freeCashflow: 1791500032
+fullExchangeName: Amsterdam
+fulldayChange: -0.01499939
+fulldayChangePercent: -0.08797296
+fulldayPrice: 17.035
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.41676998
+grossProfits: 5343000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.42326
+heldPercentInstitutions: 0.36574
+impliedSharesOutstanding: 1798210619
+industry: Entertainment
+industryDisp: Entertainment
+industryKey: entertainment
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791158400
+lastDividendValue: 0.24
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Universal Music Group N.V. operates as a music company worldwide.
+  The company operates through Recorded Music, Music Publishing, and Merchandising
+  & Other segments. Its Recorded Music segment discovers and develops recording artists,
+  as well as licenses, markets, promotes, distributes, and sells their music across
+  various formats and platforms; and engages in the live events, sponsorship, film,
+  and television operations. The Music Publishing segment discovers and develops songwriters,
+  as well as owns and administers the copyright for musical compositions used in recordings,
+  public performances, and related uses, such as films and advertisements. Its Merchandising
+  & Other segment produces and sells artist and other branded products through various
+  sales channels, including fashion retail, concert touring, and online, as well as
+  offers brand rights management services. Universal Music Group N.V. was incorporated
+  in 2020 and is headquartered in Hilversum, the Netherlands.
+longName: Universal Music Group N.V.
+market: nl_market
+marketCap: 30632517632
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1675845293
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 323000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 30659491053
+numberOfAnalystOpinions: 21
+open: 16.985
+operatingCashflow: 1658000000
+operatingMargins: 0.161
+overallRisk: 4
+payoutRatio: 2.8889
+pegRatio: 1.98
+phone: 31 88 626 1500
+previousClose: 17.05
+priceEpsCurrentYear: 16.953793
+priceHint: 2
+priceToBook: 8.5175
+priceToSalesTrailing12Months: 2.389432
+profitMargins: 0.0252
+quickRatio: 0.413
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.2381
+region: US
+regularMarketChange: -0.01499939
+regularMarketChangePercent: -0.08797296
+regularMarketDayHigh: 17.13
+regularMarketDayLow: 16.885
+regularMarketDayRange: 16.885 - 17.13
+regularMarketOpen: 16.985
+regularMarketPreviousClose: 17.05
+regularMarketPrice: 17.035
+regularMarketTime: 1794411576
+regularMarketVolume: 507836
+returnOnAssets: 0.07034
+returnOnEquity: 0.076680005
+revenueGrowth: 0.053
+revenuePerShare: 6.994
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 4
+sharesOutstanding: 1798210619
+shortName: UNIVERSAL MUSIC GROUP
+sourceInterval: 15
+symbol: UMG.AS
+targetHighPrice: 40.0
+targetLowPrice: 12.0
+targetMeanPrice: 21.54286
+targetMedianPrice: 20.0
+totalCash: 550000000
+totalCashPerShare: 0.303
+totalDebt: 5555999744
+totalRevenue: 12819999744
+tradeable: false
+trailingAnnualDividendRate: 0.28
+trailingAnnualDividendYield: 0.016422288
+trailingEps: 0.18
+trailingPE: 94.638885
+trailingPegRatio: 1.979
+triggerable: false
+twoHundredDayAverage: 17.436375
+twoHundredDayAverageChange: -0.40137482
+twoHundredDayAverageChangePercent: -0.023019396
+typeDisp: Equity
+volume: 507836
+website: https://www.universalmusic.com
+zip: 1217 EW

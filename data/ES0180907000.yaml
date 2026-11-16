@@ -1,0 +1,241 @@
+52WeekChange: 0.35574663
+SandP52WeekChange: 0.097798586
+address1: Avenida de AndalucIa, 10 and 12
+allTimeHigh: 3.686
+allTimeLow: 0.42
+ask: 3.462
+auditRisk: 3
+averageAnalystRating: 3.7 - Underperform
+averageDailyVolume10Day: 4174628
+averageDailyVolume3Month: 4117147
+averageVolume: 4117147
+averageVolume10days: 4174628
+beta: 0.373
+bid: 3.458
+boardRisk: 5
+bookValue: 2.465
+city: Málaga
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Isidro Rubiales Gil
+  title: CEO & Director
+  totalPay: 677000
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jose Ramon Sanchez Serrano
+  title: Secretary & Director
+  totalPay: 109000
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pablo  González Martín
+  title: CFO & Managing Director of Finance
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. José Maria De La Vega Butcher
+  title: Managing Director of Technology & Operations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jaime Hernandez Marcos
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juan S. Medina Serramitjana
+  title: Managing Director of People, Organisation & Legal
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jesús  Navarro Martin
+  title: Managing Director of Internal Audit
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Cedric  Blanchetiere
+  title: Chief Risk Officer & Director of Global Risk Control
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Francisco Javier Pérez Gavilán
+  title: Managing Director of Credit Risk & ESG
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Severino Jesus Mendez Suarez
+  title: Managing Director of Transformation
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Spain
+cryptoTradeable: false
+currency: EUR
+currentPrice: 3.464
+customPriceAlertConfidence: LOW
+dayHigh: 3.502
+dayLow: 3.448
+dividendRate: 0.19
+dividendYield: 5.51
+earningsCallTimestampEnd: 1793354400
+earningsCallTimestampStart: 1793354400
+earningsQuarterlyGrowth: 0.103
+earningsTimestamp: 1793377800
+earningsTimestampEnd: 1793377800
+earningsTimestampStart: 1793377800
+ebitdaMargins: 0.0
+enterpriseToRevenue: 4.728
+enterpriseValue: 9691339776
+epsCurrentYear: 0.26472
+epsForward: 0.28285
+epsTrailingTwelveMonths: 0.26
+esgPopulated: false
+exDividendDate: 1797292800
+exchange: MCE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Madrid
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 3.40392
+fiftyDayAverageChange: 0.06008005
+fiftyDayAverageChangePercent: 0.017650254
+fiftyTwoWeekChangePercent: 35.57466
+fiftyTwoWeekHigh: 3.686
+fiftyTwoWeekHighChange: -0.22200012
+fiftyTwoWeekHighChangePercent: -0.06022792
+fiftyTwoWeekLow: 2.35
+fiftyTwoWeekLowChange: 1.1140001
+fiftyTwoWeekLowChangePercent: 0.4740426
+fiftyTwoWeekRange: 2.35 - 3.686
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1498806000000
+fiveYearAvgDividendYield: 3.44
+floatShares: 1121320564
+forwardEps: 0.28285
+forwardPE: 12.246774
+fullExchangeName: MCE
+fullTimeEmployees: 7418
+fulldayChange: -0.0039999485
+fulldayChangePercent: -0.11533877
+fulldayPrice: 3.464
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 2049752960
+hasPrePostMarketData: false
+heldPercentInsiders: 0.56359
+heldPercentInstitutions: 0.23252001
+impliedSharesOutstanding: 2569572211
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1797292800
+lastDividendValue: 0.0642
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Unicaja Banco, S.A. engages in the retail banking business in
+  Spain. The company offers current, savings, young person, and payment accounts;
+  term deposits; debit, business, and credit cards; mortgages; study, eco-mobility,
+  mobility vehicle, reform, and home loans; and home, car, health, accident, funeral,
+  company and agro uni, company health, SME and retail damage, corporate liability,
+  agricultural, and life insurance products. It also provides pension plans; investment
+  funds; bill and tax payment, and collection management services; payments; POS products;
+  short-term and medium/long-term financing; ATM, foreign trade facility, and currency
+  management and exchange services; and private and personal banking services, as
+  well as digital and mobile banking services. The company was founded in 1991 and
+  is headquartered in Málaga, Spain.
+longName: Unicaja Banco, S.A.
+market: es_market
+marketCap: 8900998144
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_5875600
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 665505984
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 8911276427
+numberOfAnalystOpinions: 18
+open: 3.5
+operatingMargins: 0.51002
+overallRisk: 2
+payoutRatio: 0.7382
+phone: 34 952 13 80 00
+previousClose: 3.468
+priceEpsCurrentYear: 13.085525
+priceHint: 4
+priceToBook: 1.4052739
+priceToSalesTrailing12Months: 4.3424735
+profitMargins: 0.32801998
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: underperform
+recommendationMean: 3.72222
+region: US
+regularMarketChange: -0.0039999485
+regularMarketChangePercent: -0.11533877
+regularMarketDayHigh: 3.502
+regularMarketDayLow: 3.448
+regularMarketDayRange: 3.448 - 3.502
+regularMarketOpen: 3.5
+regularMarketPreviousClose: 3.468
+regularMarketPrice: 3.464
+regularMarketTime: 1794411547
+regularMarketVolume: 1120905
+returnOnAssets: 0.0069700005
+returnOnEquity: 0.101160005
+revenueGrowth: 0.068
+revenuePerShare: 0.798
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 2569572211
+shortName: UNICAJA BANCO, S.A.
+sourceInterval: 15
+symbol: UNI.MC
+targetHighPrice: 3.9
+targetLowPrice: 2.9
+targetMeanPrice: 3.24389
+targetMedianPrice: 3.225
+totalCash: 5186999808
+totalCashPerShare: 2.019
+totalDebt: 5950000128
+totalRevenue: 2049752960
+tradeable: false
+trailingAnnualDividendRate: 0.321
+trailingAnnualDividendYield: 0.09256056
+trailingEps: 0.26
+trailingPE: 13.323077
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 3.05844
+twoHundredDayAverageChange: 0.40556002
+twoHundredDayAverageChangePercent: 0.13260356
+typeDisp: Equity
+volume: 1120905
+website: https://www.unicajabanco.com
+zip: '29007'

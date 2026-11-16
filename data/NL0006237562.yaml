@@ -1,0 +1,262 @@
+52WeekChange: 0.25333333
+SandP52WeekChange: 0.097798586
+address1: Gustav Mahlerplein 97-103
+allTimeHigh: 66.85
+allTimeLow: 1.838244
+auditRisk: 1
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 171696
+averageDailyVolume3Month: 150111
+averageVolume: 150111
+averageVolume10days: 171696
+beta: 0.751
+boardRisk: 3
+bookValue: 12.382
+city: Amsterdam
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Simon P. Crowe
+  title: CFO & Member of Executive Board
+  totalPay: 718000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Heather L. Polinsky
+  title: Chair of the Executive Board & CEO
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hans  Dekker M.Sc.
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Nick  Henderson
+  title: Technical Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christine  Disch
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Barbara C. P. van Koppen
+  title: Global General Counsel
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jana  Belyusova
+  title: Chief People Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Kamiran  Ibrahim
+  title: Chief Executive Officer for Middle East
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Felipe Alceu Amoroso Lima
+  title: Chief Executive Officer of Latin American Region
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Edel  Christie
+  title: Global President of Places
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 47.14
+currentRatio: 1.193
+customPriceAlertConfidence: LOW
+dayHigh: 47.36
+dayLow: 46.72
+debtToEquity: 125.856
+dividendRate: 1.05
+dividendYield: 2.23
+earningsCallTimestampEnd: 1785425400
+earningsCallTimestampStart: 1785425400
+earningsGrowth: 0.009
+earningsQuarterlyGrowth: -0.038
+earningsTimestampEnd: 1785425400
+earningsTimestampStart: 1785425400
+ebitda: 341000000
+ebitdaMargins: 0.06958
+enterpriseToEbitda: 14.817
+enterpriseToRevenue: 1.031
+enterpriseValue: 5052691456
+epsCurrentYear: 3.08951
+epsForward: 3.6253
+epsTrailingTwelveMonths: 2.33
+esgPopulated: false
+exDividendDate: 1779408000
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 42.976
+fiftyDayAverageChange: 4.1639977
+fiftyDayAverageChangePercent: 0.09689123
+fiftyTwoWeekChangePercent: 25.333332
+fiftyTwoWeekHigh: 47.9
+fiftyTwoWeekHighChange: -0.76000214
+fiftyTwoWeekHighChangePercent: -0.015866432
+fiftyTwoWeekLow: 25.88
+fiftyTwoWeekLowChange: 21.26
+fiftyTwoWeekLowChangePercent: 0.8214838
+fiftyTwoWeekRange: 25.88 - 47.9
+financialCurrency: EUR
+firstTradeDateMilliseconds: 900918000000
+fiveYearAvgDividendYield: 1.83
+floatShares: 67922123
+forwardEps: 3.6253
+forwardPE: 13.003062
+freeCashflow: 267000000
+fullExchangeName: Amsterdam
+fullTimeEmployees: 31361
+fulldayChange: 0.13999939
+fulldayChangePercent: 0.29787105
+fulldayPrice: 47.14
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.16384001
+grossProfits: 803000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.2017
+heldPercentInstitutions: 0.57451
+impliedSharesOutstanding: 85866895
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+irWebsite: http://ir.arcadis.com/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779408000
+lastDividendValue: 1.05
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1556496000
+lastSplitFactor: 36.01:35.01
+longBusinessSummary: Arcadis NV engages in the design, engineering, architecture,
+  and consultancy solutions for natural and built assets in The Americas, Europe,
+  the Middle East, and the Asia Pacific. The company operates through Places, Mobility,
+  Resilience, and Intelligence segments. It provides architecture and urbanism services;
+  and asset management services, such as asset management strategy and planning, asset
+  management decision making and operational optimization, life cycle planning and
+  asset management systems, asset information/condition assessment, risk and review,
+  organization and people, and asset management/O&M. The company also provides business
+  advisory services, including asset strategy and performance, business transformation
+  and resiliency, investment and finance, operations and maintenance, and technology
+  and information; contract solutions; cost and commercial management services; and
+  design and engineering solutions for highways, railways, bridges, tunnels, power
+  utilities, water utilities, ports and waterways, geotechnics, architecture, and
+  structures, as well as building mechanical, electrical, and plumbing. In addition,
+  it offers digital environmental health safety and sustainability, environmental
+  restoration, and project management solutions. Further, the company provides mobility
+  solutions for connected highways, intelligent rail and transit, integrated airports,
+  and new mobility; places solutions; resilience solutions, such as energy transition,
+  climate adaption, water optimization, enviro socio permitting, sustainable advisory,
+  environmental restoration, and sustainable operations; and water supply and treatment,
+  distribution, resource management, and industrial water and wastewater services.
+  The company was formerly known as Heidemij NV and changed its name to Arcadis N.V.
+  in October 1997. The company was founded in 1888 and is headquartered in Amsterdam,
+  the Netherlands.
+longName: Arcadis NV
+market: nl_market
+marketCap: 4047765504
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_374279
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 204000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 4035744065
+numberOfAnalystOpinions: 8
+open: 47.1
+operatingCashflow: 375000000
+operatingMargins: 0.0657
+overallRisk: 2
+payoutRatio: 0.45060003
+pegRatio: 2.94
+phone: 31 88 426 1261
+previousClose: 47.0
+priceEpsCurrentYear: 15.258083
+priceHint: 2
+priceToBook: 3.8071394
+priceToSalesTrailing12Months: 0.825906
+profitMargins: 0.04162
+quickRatio: 1.091
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.66667
+region: US
+regularMarketChange: 0.13999939
+regularMarketChangePercent: 0.29787105
+regularMarketDayHigh: 47.36
+regularMarketDayLow: 46.72
+regularMarketDayRange: 46.72 - 47.36
+regularMarketOpen: 47.1
+regularMarketPreviousClose: 47.0
+regularMarketPrice: 47.14
+regularMarketTime: 1794411547
+regularMarketVolume: 18930
+returnOnAssets: 0.0523
+returnOnEquity: 0.19146
+revenueGrowth: 0.011
+revenuePerShare: 56.297
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 9
+sharesOutstanding: 85866295
+shortName: ARCADIS
+sourceInterval: 15
+symbol: ARCAD.AS
+targetHighPrice: 56.0
+targetLowPrice: 41.5
+targetMeanPrice: 50.9375
+targetMedianPrice: 53.0
+totalCash: 273000000
+totalCashPerShare: 3.204
+totalDebt: 1324000000
+totalRevenue: 4901000192
+tradeable: false
+trailingAnnualDividendRate: 1.05
+trailingAnnualDividendYield: 0.022340424
+trailingEps: 2.33
+trailingPE: 20.23176
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 36.7997
+twoHundredDayAverageChange: 10.340298
+twoHundredDayAverageChangePercent: 0.28098863
+typeDisp: Equity
+volume: 18930
+website: https://www.arcadis.com
+zip: 1082 MS

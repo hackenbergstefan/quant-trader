@@ -1,0 +1,271 @@
+52WeekChange: -0.13889587
+SandP52WeekChange: 0.097798586
+address1: 59-61 rue La Fayette
+allTimeHigh: 82.38
+allTimeLow: 9.940072
+ask: 0.0
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 1932578
+averageDailyVolume3Month: 1335065
+averageVolume: 1335065
+averageVolume10days: 1932578
+beta: 0.156
+bid: 0.0
+bidSize: 0
+boardRisk: 1
+bookValue: 27.373
+city: Paris
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Antoine Bernard de Saint-Affrique
+  title: CEO & Non-Independent Director
+  totalPay: 3989712
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juergen  Esser
+  title: Chief Financial, Technology & Data Officer and Group Deputy CEO
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vikram  Agarwal
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mathilde  Rodie
+  title: Head of Investor Relations & Sustainable Finance
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Isabelle  Esser
+  title: Chief HR, R&I, Quality and Food Safety Officer
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Henri  Bruxelles
+  title: President of Americas
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Veronique  Penchienati-Bosetta
+  title: Group Deputy Chief Executive Officer
+  totalPay: 1708403
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bruno  Chevot
+  title: President of Asia-Pacific
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Marc  Magnaudet
+  title: President of Specialized Nutrition
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pablo E. Perversi
+  title: President of Europe, Turkey, Middle East & Africa
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 68.14
+currentRatio: 0.967
+customPriceAlertConfidence: LOW
+dayHigh: 68.3
+dayLow: 67.68
+debtToEquity: 98.519
+dividendRate: 2.25
+dividendYield: 3.29
+earningsCallTimestampEnd: 1785339000
+earningsCallTimestampStart: 1785339000
+earningsGrowth: 0.124
+earningsQuarterlyGrowth: 0.13
+earningsTimestampEnd: 1785339000
+earningsTimestampStart: 1785339000
+ebitda: 4511000064
+ebitdaMargins: 0.16414
+enterpriseToEbitda: 11.775
+enterpriseToRevenue: 1.933
+enterpriseValue: 53118107648
+epsCurrentYear: 3.91604
+epsForward: 4.2005
+epsTrailingTwelveMonths: 3.02
+esgPopulated: false
+exDividendDate: 1777852800
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 61.9472
+fiftyDayAverageChange: 6.1927986
+fiftyDayAverageChangePercent: 0.099968985
+fiftyTwoWeekChangePercent: -13.889587
+fiftyTwoWeekHigh: 80.14
+fiftyTwoWeekHighChange: -12.0
+fiftyTwoWeekHighChangePercent: -0.14973795
+fiftyTwoWeekLow: 57.26
+fiftyTwoWeekLowChange: 10.880001
+fiftyTwoWeekLowChangePercent: 0.1900105
+fiftyTwoWeekRange: 57.26 - 80.14
+financialCurrency: EUR
+firstTradeDateMilliseconds: 600940800000
+fiveYearAvgDividendYield: 3.36
+floatShares: 631712021
+forwardEps: 4.2005
+forwardPE: 16.221878
+freeCashflow: 2077500032
+fullExchangeName: Paris
+fullTimeEmployees: 88670
+fulldayChange: -0.1800003
+fulldayChangePercent: -0.26346648
+fulldayPrice: 68.14
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.50036
+grossProfits: 13751000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.01695
+heldPercentInstitutions: 0.56786
+impliedSharesOutstanding: 644095494
+industry: Packaged Foods
+industryDisp: Packaged Foods
+industryKey: packaged-foods
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777852800
+lastDividendValue: 2.25
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1180656000
+lastSplitFactor: '2:1'
+longBusinessSummary: Danone S.A. operates in the food and beverage industry in Europe,
+  Ukraine, North America, China, North Asia, the Oceania, Latin America, rest of Asia,
+  Africa, Turkey, the Middle East, and the Commonwealth of Independent States. The
+  company operates through Essential Dairy & Plant-Based, Specialized Nutrition, and
+  Waters segments. It produces and distributes yogurts, dairy products, coffee creations
+  and drinks, beverages, plant-based products, ice creams, frozen desserts, and cheese
+  products. The company also provides specialized nutrition, including formulas and
+  complementary feeding for babies and young children; and special medical purposes
+  food for children and adults. In addition, it offers tube feeding products and oral
+  nutritional supplements. Further, the company provides mineral waters from natural
+  sources, waters infused with natural fruit extracts, fruit juices, and vitamins.
+  The company offers its products under the Actimel, Activia, Alpro, Aptamil, Danette,
+  Danio, Danonino, evian, Nutricia, Nutrilon, Volvic, Danone, Oikos, YoPRO, International
+  Delight, SToK, Silk, So Delicious, Cow & Gate, Bebelac, SGM, Dumex, HiQ, Nursie,
+  Phosphatine, Mizone, Blédina, Nutrison, Fortimel, Neocate, Nutridrink, AQUA, Bonafont,
+  Salus, Hayat, Sirma, Font Vella, Lanjarón, and Zywiec Zdroj brands.It distributes
+  its products through retail chains and traditional market outlets; convenience stores;
+  hotels, restaurants, and coffee outlets; hospitals, clinics, and pharmacies; and
+  e-commerce channels. The company was formerly known as Groupe Danone and changed
+  its name to Danone S.A. in April 2009. Danone S.A. was incorporated in 1899 and
+  is headquartered in Paris, France.
+longName: Danone S.A.
+market: fr_market
+marketCap: 43888664576
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_129349
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1944999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 43579501124
+numberOfAnalystOpinions: 22
+open: 67.82
+operatingCashflow: 3518000128
+operatingMargins: 0.13503
+overallRisk: 2
+payoutRatio: 0.745
+pegRatio: 1.63
+phone: 33 1 44 35 20 20
+previousClose: 68.32
+priceEpsCurrentYear: 17.40023
+priceHint: 2
+priceToBook: 2.4893143
+priceToSalesTrailing12Months: 1.5969968
+profitMargins: 0.07132
+quickRatio: 0.707
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -0.1800003
+regularMarketChangePercent: -0.26346648
+regularMarketDayHigh: 68.3
+regularMarketDayLow: 67.68
+regularMarketDayRange: 67.68 - 68.3
+regularMarketOpen: 67.82
+regularMarketPreviousClose: 68.32
+regularMarketPrice: 68.14
+regularMarketTime: 1794411540
+regularMarketVolume: 383240
+returnOnAssets: 0.05021
+returnOnEquity: 0.121929996
+revenueGrowth: 0.014
+revenuePerShare: 42.804
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 7
+sharesOutstanding: 644095494
+shortName: DANONE
+sourceInterval: 15
+symbol: BN.PA
+targetHighPrice: 93.0
+targetLowPrice: 59.0
+targetMeanPrice: 78.79545
+targetMedianPrice: 79.0
+totalCash: 8338999808
+totalCashPerShare: 12.963
+totalDebt: 17426999296
+totalRevenue: 27481999360
+tradeable: false
+trailingAnnualDividendRate: 2.25
+trailingAnnualDividendYield: 0.032933254
+trailingEps: 3.02
+trailingPE: 22.562914
+trailingPegRatio: 1.6255
+triggerable: false
+twoHundredDayAverage: 66.5984
+twoHundredDayAverageChange: 1.5416031
+twoHundredDayAverageChangePercent: 0.02314775
+typeDisp: Equity
+volume: 383240
+website: https://www.danone.com
+zip: '75009'

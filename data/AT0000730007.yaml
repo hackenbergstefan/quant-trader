@@ -1,0 +1,258 @@
+52WeekChange: 0.29192543
+SandP52WeekChange: 0.097798586
+address1: Stattegger Strasse 18
+allTimeHigh: 87.7
+allTimeLow: 2.3775
+ask: 85.7
+askSize: 471
+auditRisk: 10
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 80145
+averageDailyVolume3Month: 90088
+averageVolume: 90088
+averageVolume10days: 80145
+beta: 1.287
+bid: 85.6
+bidSize: 200
+boardRisk: 4
+bookValue: 26.345
+city: Graz
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Joachim  Schönbeck
+  title: President, CEO & Chairman of the Executive Board
+  totalPay: 2612543
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Vanessa Nadine Hellwing
+  title: CFO & Member of the Executive Board
+  totalPay: 1466370
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frederic  Sauze B.E., M.B.A.
+  title: Member of The Executive Board
+  totalPay: 1447025
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jarno Matias Nymark Eng., M.Sc.
+  title: Member of Executive Board
+  totalPay: 1400416
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthias  Pfeifenberger
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: David  Bumsted
+  title: Senior VP & Group General Counsel
+  unexercisedValue: 0
+  yearBorn: 1958
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Michael  Buchbauer
+  title: Head of Group Finance & Corporate Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gerhard  Schiefer
+  title: Chief Automation Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Austria
+cryptoTradeable: false
+currency: EUR
+currentPrice: 85.6
+currentRatio: 1.085
+customPriceAlertConfidence: LOW
+dayHigh: 85.7
+dayLow: 83.7
+debtToEquity: 22.243
+dividendDate: 20217600
+dividendRate: 2.7
+dividendYield: 3.25
+earningsCallTimestampEnd: 1793259000
+earningsCallTimestampStart: 1793259000
+earningsGrowth: 0.123
+earningsQuarterlyGrowth: 0.141
+earningsTimestamp: 1793291700
+earningsTimestampEnd: 1793291700
+earningsTimestampStart: 1793291700
+ebitda: 799000000
+ebitdaMargins: 0.09689999
+enterpriseToEbitda: 9.354
+enterpriseToRevenue: 0.906
+enterpriseValue: 7473758208
+epsCurrentYear: 5.28117
+epsForward: 5.94757
+epsTrailingTwelveMonths: 4.88
+esgPopulated: false
+exDividendDate: 1774828800
+exchange: VIE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 43 316 6902 415
+fiftyDayAverage: 82.454
+fiftyDayAverageChange: 3.145996
+fiftyDayAverageChangePercent: 0.038154557
+fiftyTwoWeekChangePercent: 29.192543
+fiftyTwoWeekHigh: 87.7
+fiftyTwoWeekHighChange: -2.0999985
+fiftyTwoWeekHighChangePercent: -0.023945251
+fiftyTwoWeekLow: 57.95
+fiftyTwoWeekLowChange: 27.649998
+fiftyTwoWeekLowChangePercent: 0.47713542
+fiftyTwoWeekRange: 57.95 - 87.7
+financialCurrency: EUR
+firstTradeDateMilliseconds: 993452100000
+fiveYearAvgDividendYield: 3.67
+floatShares: 67384884
+forwardEps: 5.94757
+forwardPE: 14.392432
+freeCashflow: 700681024
+fullExchangeName: Vienna
+fullTimeEmployees: 30738
+fulldayChange: 2.4000015
+fulldayChangePercent: 2.8846173
+fulldayPrice: 85.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.49308
+grossProfits: 4065700096
+hasPrePostMarketData: false
+heldPercentInsiders: 0.315
+heldPercentInstitutions: 0.34285998
+impliedSharesOutstanding: 97998794
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1774828800
+lastDividendValue: 2.7
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1335139200
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Andritz AG engages in the provision of industrial machinery,
+  equipment, and services in Europe, North America, South America, China, Asia, Africa,
+  Australia, and internationally. It operates through four segments: Pulp & Paper,
+  Metals, Hydropower, and Environment & Energy. The Pulp & Paper segment provides
+  technology, automation, and service solutions to produce pulp, paper, board, and
+  tissue; boilers for power generation; nonwovens technologies; panelboard production
+  systems; and recycling, shredding, and energy solutions for various waste materials.
+  Its Metals segment provides technologies, plants, and digital solutions, including
+  automation and software solutions, and process know-how and services; and solutions
+  for the production and processing of flat products for welding systems and furnaces,
+  as well as services for the metals processing industry. The Hydro segment supplies
+  electromechanical equipment, solutions, and services for hydropower stations; services
+  and digital solutions for the operation and maintenance of hydropower plants; and
+  turbo generators for the thermal industry. The Environment & Energy segment provides
+  technologies to produce green hydrogen and renewable fuels, carbon capture and emission
+  reduction, mechanical and thermal solid/liquid separation, grinding, pelletizing,
+  and pumping fluids. It also serves agriculture, aluminum, architecture, automotive
+  and e-mobility, carbon steel, chemicals, desalination, environment, feed, food and
+  beverages, glass, kraft pulp, lime and cement, marine/offshore, mining and minerals,
+  non-ferrous metals, non-woven and textile, oil and gas, panelboard, paper and packaging,
+  pharmaceutical, power generation, recycling, solid biofuels, stainless steel, sugar,
+  thermal power, tissue, and waste industries. The company was founded in 1852 and
+  is headquartered in Graz, Austria.'
+longName: Andritz AG
+market: at_market
+marketCap: 8388696576
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_717451
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 481200000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 8153499660
+numberOfAnalystOpinions: 8
+open: 84.0
+operatingCashflow: 949800000
+operatingMargins: 0.07432
+overallRisk: 4
+payoutRatio: 0.5533
+pegRatio: 5.28
+phone: 43 316 6902 0
+previousClose: 83.2
+priceEpsCurrentYear: 16.20853
+priceHint: 2
+priceToBook: 3.2491934
+priceToSalesTrailing12Months: 1.0173542
+profitMargins: 0.05836
+quickRatio: 0.71
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: 2.4000015
+regularMarketChangePercent: 2.8846173
+regularMarketDayHigh: 85.7
+regularMarketDayLow: 83.7
+regularMarketDayRange: 83.7 - 85.7
+regularMarketOpen: 84.0
+regularMarketPreviousClose: 83.2
+regularMarketPrice: 85.6
+regularMarketTime: 1794411493
+regularMarketVolume: 60682
+returnOnAssets: 0.044689998
+returnOnEquity: 0.19749
+revenueGrowth: 0.092
+revenuePerShare: 83.869
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 97998794
+shortName: Andritz AG
+sourceInterval: 15
+symbol: ANDR.VI
+targetHighPrice: 104.0
+targetLowPrice: 81.0
+targetMeanPrice: 94.125
+targetMedianPrice: 95.0
+totalCash: 1292999936
+totalCashPerShare: 13.144
+totalDebt: 577500032
+totalRevenue: 8245600256
+tradeable: false
+trailingAnnualDividendRate: 2.7
+trailingAnnualDividendYield: 0.032451924
+trailingEps: 4.88
+trailingPE: 17.540983
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 75.7605
+twoHundredDayAverageChange: 9.8395
+twoHundredDayAverageChangePercent: 0.12987639
+typeDisp: Equity
+volume: 60682
+website: https://www.andritz.com
+zip: '8045'

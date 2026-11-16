@@ -1,0 +1,253 @@
+52WeekChange: 0.053786993
+SandP52WeekChange: 0.097798586
+address1: Senator House
+address2: 85 Queen Victoria Street
+allTimeHigh: 209.0
+allTimeLow: 71.2
+ask: 193.0
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 1668714
+averageDailyVolume3Month: 2596495
+averageVolume: 2596495
+averageVolume10days: 1668714
+beta: 0.787
+bid: 192.8
+bidSize: 0
+boardRisk: 1
+bookValue: 1.018
+city: London
+companyOfficers:
+- age: 50
+  exercisedValue: 319500
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven David Levin
+  title: CEO & Executive Director
+  totalPay: 1720200
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 56
+  exercisedValue: 718900
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark Oscar Satchel
+  title: CFO & Executive Director
+  totalPay: 1336600
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jo  Harris
+  title: Chief Customer & Operations Officer
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sanjeevan  Bala
+  title: Interim Chief Data & Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John-Paul  Crutchley
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin Stephen Lee-Crossett CPA, J.D.
+  title: Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1960
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Penny  Cole
+  title: Chief People Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephen  Gazard
+  title: Chief Distribution Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tosin  James-Odukoya
+  title: Head of Inclusion & Wellbeing
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel  Baynton
+  title: Chief Internal Auditor
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 193.0
+currentRatio: 1.16
+customPriceAlertConfidence: LOW
+dayHigh: 194.1
+dayLow: 191.5
+debtToEquity: 19.461
+dividendRate: 0.06
+dividendYield: 3.33
+earningsCallTimestampEnd: 1785999600
+earningsCallTimestampStart: 1785999600
+earningsGrowth: -0.03
+earningsQuarterlyGrowth: -0.022
+earningsTimestampEnd: 1786030200
+earningsTimestampStart: 1786030200
+ebitda: 476000000
+ebitdaMargins: 0.0353
+enterpriseToEbitda: 1.133
+enterpriseToRevenue: 0.04
+enterpriseValue: 539160000
+epsCurrentYear: 0.12489
+epsForward: 0.14333
+epsTrailingTwelveMonths: 0.09
+esgPopulated: false
+exDividendDate: 1787788800
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 182.442
+fiftyDayAverageChange: 10.557999
+fiftyDayAverageChangePercent: 0.05787044
+fiftyTwoWeekChangePercent: 5.3786993
+fiftyTwoWeekHigh: 209.0
+fiftyTwoWeekHighChange: -16.0
+fiftyTwoWeekHighChangePercent: -0.07655502
+fiftyTwoWeekLow: 163.3
+fiftyTwoWeekLowChange: 29.699997
+fiftyTwoWeekLowChangePercent: 0.18187383
+fiftyTwoWeekRange: 163.3 - 209.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 1529910000000
+fiveYearAvgDividendYield: 4.21
+floatShares: 1268683680
+forwardEps: 0.14333
+forwardPE: 13.465429
+freeCashflow: -1645750016
+fullExchangeName: LSE
+fullTimeEmployees: 3207
+fulldayChange: 1.0
+fulldayChangePercent: 0.5208333
+fulldayPrice: 193.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.19606
+grossProfits: 2644000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.03358
+heldPercentInstitutions: 0.73914003
+impliedSharesOutstanding: 1334051858
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787788800
+lastDividendValue: 0.021
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1653264000
+lastSplitFactor: '6:7'
+longBusinessSummary: Quilter plc provides advice-led investment solutions in the United
+  Kingdom and internationally. It operates through High Net Worth and Affluent segments.
+  The High Net Worth segment provides discretionary investment management services
+  to high-net worth clients, charities, companies, and institutions through a network
+  of branches; and financial advice services for protection, mortgages, savings, investment,
+  and pensions primarily to high-net-worth clients. Its Affluent segment comprises
+  Quilter Investment Platform, an investment platform for advice-based wealth management
+  products and services; Quilter Investor, which offers investment solutions in the
+  form of funds for the group and third-party clients; and Quilter Financial planning,
+  a restricted and independent financial adviser network that provides mortgage and
+  financial planning advice, and solution for individuals and business through a network
+  of intermediaries. The company was incorporated in 2007 and is based in London,
+  the United Kingdom.
+longName: Quilter plc
+market: gb_market
+marketCap: 2574720000
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_111591289
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 119000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 2561379567
+numberOfAnalystOpinions: 14
+open: 193.5
+operatingCashflow: 7103000064
+operatingMargins: 0.03433
+overallRisk: 1
+payoutRatio: 0.74120003
+pegRatio: 0.84
+previousClose: 192.0
+priceEpsCurrentYear: 1545.3599
+priceHint: 2
+priceToBook: 1.8958741
+priceToSalesTrailing12Months: 0.19091798
+profitMargins: 0.00882
+quickRatio: 0.047
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.93333
+region: US
+regularMarketChange: 1.0
+regularMarketChangePercent: 0.5208333
+regularMarketDayHigh: 194.1
+regularMarketDayLow: 191.5
+regularMarketDayRange: 191.5 - 194.1
+regularMarketOpen: 193.5
+regularMarketPreviousClose: 192.0
+regularMarketPrice: 193.0
+regularMarketTime: 1794411546
+regularMarketVolume: 444573
+returnOnAssets: 0.0037200002
+returnOnEquity: 0.08561
+revenueGrowth: 1.608
+revenuePerShare: 9.979
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 1334051858
+shortName: QUILTER PLC ORD 8 1/6P
+sourceInterval: 15
+symbol: QLT.L
+targetHighPrice: 250.0
+targetLowPrice: 180.0
+targetMeanPrice: 220.071
+targetMedianPrice: 223.0
+totalCash: 2316000000
+totalCashPerShare: 1.718
+totalDebt: 267000000
+totalRevenue: 13486000128
+tradeable: false
+trailingAnnualDividendRate: 0.064
+trailingAnnualDividendYield: 0.00033333336
+trailingEps: 0.09
+trailingPE: 21.444443
+trailingPegRatio: 0.8511
+triggerable: false
+twoHundredDayAverage: 187.358
+twoHundredDayAverageChange: 5.6419983
+twoHundredDayAverageChangePercent: 0.030113462
+typeDisp: Equity
+volume: 444573
+website: https://plc.quilter.com
+zip: EC4V 4AB

@@ -1,0 +1,284 @@
+52WeekChange: 0.40766144
+SandP52WeekChange: 0.097798586
+address1: 1 Becton Drive
+allTimeHigh: 225.88051
+allTimeLow: 0.976712
+ask: 211.28
+askSize: 100
+auditRisk: 3
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 2505490
+averageDailyVolume3Month: 1794779
+averageVolume: 1794779
+averageVolume10days: 2505490
+beta: 0.28
+bid: 211.06
+bidSize: 100
+boardRisk: 6
+bookValue: 90.429
+city: Franklin Lakes
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas E. Polen Jr.
+  title: President, CEO & Chairman
+  totalPay: 3588724
+  unexercisedValue: 292444
+  yearBorn: 1973
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael C. Feld
+  title: Executive VP & Chief Revenue Officer
+  totalPay: 1910642
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vitor  Roque
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elizabeth  McCombs
+  title: Executive VP & CTO
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Joseph M. Smith F.A.C.C, M.D., Ph.D.
+  title: Senior VP & Chief Scientific Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Arthur  Hu
+  title: Executive VP and Chief Information & Digital Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shawn C. Bevec
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lanesha T. Minnix J.D.
+  title: Executive VP & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Carla  Burigatto
+  title: Senior VP & Chief Communications Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Meera  Gopalakrishnan
+  title: Senior VP & Global Chief Marketing Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions:
+- header: Dividend
+  message: BDX announced a cash dividend of $1.06 with an ex-date of Dec. 10, 2026
+  meta:
+    amount: '1.06'
+    dateEpochMs: 1796878800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 211.7554
+currentRatio: 0.872
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 214.195
+dayLow: 209.0
+debtToEquity: 66.222
+displayName: Becton, Dickinson
+dividendDate: 1798675200
+dividendRate: 4.24
+dividendYield: 1.99
+earningsCallTimestampEnd: 1793883600
+earningsCallTimestampStart: 1793883600
+earningsGrowth: 0.476
+earningsQuarterlyGrowth: 0.412
+earningsTimestamp: 1793885400
+earningsTimestampEnd: 1793885400
+earningsTimestampStart: 1793885400
+ebitda: 5286000128
+ebitdaMargins: 0.27168
+enterpriseToEbitda: 13.932
+enterpriseToRevenue: 3.785
+enterpriseValue: 73642622976
+epsCurrentYear: 13.2156
+epsForward: 14.22637
+epsTrailingTwelveMonths: 5.06
+esgPopulated: false
+exDividendDate: 1796860800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 189.2132
+fiftyDayAverageChange: 22.542206
+fiftyDayAverageChangePercent: 0.11913654
+fiftyTwoWeekChangePercent: 40.766144
+fiftyTwoWeekHigh: 216.74
+fiftyTwoWeekHighChange: -4.984604
+fiftyTwoWeekHighChangePercent: -0.02299808
+fiftyTwoWeekLow: 140.11
+fiftyTwoWeekLowChange: 71.6454
+fiftyTwoWeekLowChangePercent: 0.5113511
+fiftyTwoWeekRange: 140.11 - 216.74
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 1.66
+floatShares: 272220698
+forwardEps: 14.22637
+forwardPE: 14.884711
+freeCashflow: 4142500096
+fullExchangeName: NYSE
+fullTimeEmployees: 60000
+fulldayChange: -0.854599
+fulldayChangePercent: -0.40195617
+fulldayPrice: 211.7554
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.47015998
+grossProfits: 9148000256
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00433
+heldPercentInstitutions: 0.99255997
+impliedSharesOutstanding: 272386800
+industry: Medical Instruments & Supplies
+industryDisp: Medical Instruments & Supplies
+industryKey: medical-instruments-supplies
+irWebsite: http://www.bd.com/investors/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788912000
+lastDividendValue: 1.05
+lastFiscalYearEnd: 1790726400
+lastSplitDate: 1770681600
+lastSplitFactor: 1272:1000
+longBusinessSummary: Becton, Dickinson and Company develops, manufactures, and sells
+  medical supplies, devices, laboratory equipment, and diagnostic products for healthcare
+  institutions, physicians, life science researchers, clinical laboratories, pharmaceutical
+  industry, and the general public worldwide. It operates through Medical Essentials,
+  Connected Care, BioPharma Systems, Interventional and Life Sciences segments. It
+  provides peripheral intravenous (IV) and advanced peripheral catheters, central
+  lines, acute dialysis catheters, vascular access technology, vascular care and preparation
+  products, needle-free IV connectors and extensions sets, closed-system drug transfer
+  devices, hazardous drug detections, hypodermic syringes and needles, anesthesia
+  needles and trays, enteral syringes, and sharps disposal systems; IV medication
+  safety and infusion therapy delivery systems, medication compounding workflow system,
+  automated medication dispensing and supply management systems, informatics and analytics
+  and pharmacy automation system, and medication inventory optimization and tracking
+  system; hemodynamic monitoring system; and prefillable drug delivery systems. It
+  also offers specimen and blood collection products; automated blood and tuberculosis
+  culturing, molecular testing, and microorganism identification and drug susceptibility,
+  as well as rapid diagnostic assays, microbiology laboratory automation products,
+  and plated media products; and fluorescence-activated cell sorters and analyzers,
+  antibodies and kits, reagent system, and solution for single-cell gene expression
+  analysis, as well as clinical oncology, immunological, and transplantation diagnostic/monitoring
+  reagents and analyzers. It provides hernia and soft tissue repair, biological and
+  bioresorbable graft, biosurgery, and other surgical products; surgical infection
+  prevention, peripheral intervention, and urology and critical care products. The
+  company was founded in 1897 and is headquartered in Franklin Lakes, New Jersey.
+longName: Becton, Dickinson and Company
+market: us_market
+marketCap: 57679380480
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_103678
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1416000000
+nextFiscalYearEnd: 1822262400
+nonDilutedMarketCap: 57912157548
+numberOfAnalystOpinions: 14
+open: 210.06
+operatingCashflow: 3440000000
+operatingMargins: 0.15665
+overallRisk: 2
+payoutRatio: 0.7249
+pegRatio: 1.11
+phone: 201 847 6800
+previousClose: 212.61
+priceEpsCurrentYear: 16.02314
+priceHint: 2
+priceToBook: 2.3416758
+priceToSalesTrailing12Months: 2.964454
+profitMargins: 0.05885
+quickRatio: 0.367
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -0.854599
+regularMarketChangePercent: -0.40195617
+regularMarketDayHigh: 214.195
+regularMarketDayLow: 209.0
+regularMarketDayRange: 209.0 - 214.195
+regularMarketOpen: 210.06
+regularMarketPreviousClose: 212.61
+regularMarketPrice: 211.7554
+regularMarketTime: 1794413712
+regularMarketVolume: 286765
+returnOnAssets: 0.0359
+returnOnEquity: 0.056560002
+revenueGrowth: -0.105
+revenuePerShare: 69.867
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 272386800
+sharesPercentSharesOut: 0.0298
+sharesShort: 8105536
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 9775719
+shortName: Becton, Dickinson and Company
+shortPercentOfFloat: 0.0339
+shortRatio: 5.07
+sourceInterval: 15
+state: NJ
+symbol: BDX
+targetHighPrice: 242.0
+targetLowPrice: 195.0
+targetMeanPrice: 226.14285
+targetMedianPrice: 227.5
+totalCash: 733000000
+totalCashPerShare: 2.686
+totalDebt: 16344999936
+totalRevenue: 19456999424
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 5.06
+trailingPE: 41.848892
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 167.63103
+twoHundredDayAverageChange: 44.124374
+twoHundredDayAverageChangePercent: 0.2632232
+typeDisp: Equity
+volume: 286765
+website: https://www.bd.com
+zip: 07417-1880

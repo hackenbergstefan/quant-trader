@@ -1,0 +1,199 @@
+52WeekChange: 0.48691988
+SandP52WeekChange: 0.097798586
+address1: 8 Sackville Street
+address2: Mayfair
+allTimeHigh: 2025.0
+allTimeLow: 30.25
+ask: 1746.0
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 475389
+averageDailyVolume3Month: 455594
+averageVolume: 455594
+averageVolume10days: 475389
+beta: 3.48
+bid: 1742.0
+bidSize: 0
+boardRisk: 8
+bookValue: -3.1880362
+city: London
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Eamonn  Francis O'Hare
+  title: Founder, Executive Chairman & CEO
+  totalPay: 1469178
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Howard S. Kalika
+  title: Founder & Executive Director
+  unexercisedValue: 0
+  yearBorn: 1959
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Chris  Biggs
+  title: Chief Financial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Menno  Kremer
+  title: Investment Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Jose Miguel-Garcia Fernandez
+  title: CEO of Vodafone Spain
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 10
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 1742.0
+currentRatio: 0.703
+customPriceAlertConfidence: LOW
+dayHigh: 1768.0
+dayLow: 1734.0
+dividendYield: 0.0
+earningsTimestampEnd: 1795537800
+earningsTimestampStart: 1795537800
+ebitda: 1257417984
+ebitdaMargins: 0.34662998
+enterpriseToEbitda: 6.58
+enterpriseToRevenue: 2.281
+enterpriseValue: 8273941504
+epsCurrentYear: 0.87715
+epsForward: 1.3272245
+epsTrailingTwelveMonths: -0.26
+esgPopulated: false
+exDividendDate: 1766016000
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 1734.32
+fiftyDayAverageChange: 7.6800537
+fiftyDayAverageChangePercent: 0.0044282796
+fiftyTwoWeekChangePercent: 48.691986
+fiftyTwoWeekHigh: 2025.0
+fiftyTwoWeekHighChange: -283.0
+fiftyTwoWeekHighChangePercent: -0.13975309
+fiftyTwoWeekLow: 1145.0
+fiftyTwoWeekLowChange: 597.0
+fiftyTwoWeekLowChangePercent: 0.52139735
+fiftyTwoWeekRange: 1145.0 - 2025.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1426752000000
+fiveYearAvgDividendYield: 4.34
+floatShares: 190632578
+forwardEps: 1.3272245
+forwardPE: 13.125134
+freeCashflow: 901703360
+fullExchangeName: LSE
+fullTimeEmployees: 2904
+fulldayChange: -20.0
+fulldayChangePercent: -1.1350738
+fulldayPrice: 1742.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.80232
+grossProfits: 2910445056
+hasPrePostMarketData: false
+heldPercentInsiders: 0.23316
+heldPercentInstitutions: 0.50304
+impliedSharesOutstanding: 223740802
+industry: Telecom Services
+industryDisp: Telecom Services
+industryKey: telecom-services
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1766016000
+lastDividendValue: 1.8632
+lastFiscalYearEnd: 1774915200
+longBusinessSummary: Zegona Communications plc engages in the provision of integrated
+  telecommunications services in Spain. The company offers broadband, mobile, TV,
+  voice, data, and other value-added products and services. It serves business-to-consumer
+  and business-to-business markets. The company was incorporated in 2015 and is based
+  in London, the United Kingdom. Zegona Communications plc operates as a subsidiary
+  of Ejlshm Funding Limited.
+longName: Zegona Communications plc
+market: gb_market
+marketCap: 3897564928
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_286757867
+mostRecentQuarter: 1774915200
+netIncomeToCommon: -189412992
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 3960212195
+numberOfAnalystOpinions: 13
+open: 1734.0
+operatingCashflow: 2477197056
+operatingMargins: 0.10361
+overallRisk: 9
+payoutRatio: 0.0
+previousClose: 1762.0
+priceEpsCurrentYear: 1985.9773
+priceHint: 2
+priceToBook: -5.464179
+priceToSalesTrailing12Months: 1.0744363
+profitMargins: -0.05222
+quickRatio: 0.587
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.53846
+region: US
+regularMarketChange: -20.0
+regularMarketChangePercent: -1.1350738
+regularMarketDayHigh: 1768.0
+regularMarketDayLow: 1734.0
+regularMarketDayRange: 1734.0 - 1768.0
+regularMarketOpen: 1734.0
+regularMarketPreviousClose: 1762.0
+regularMarketPrice: 1742.0
+regularMarketTime: 1794411525
+regularMarketVolume: 130110
+returnOnAssets: 0.0286
+revenuePerShare: 5.676
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 223740802
+shortName: ZEGONA COMMUNICATIONS PLC
+sourceInterval: 15
+symbol: ZEG.L
+targetHighPrice: 2872.638
+targetLowPrice: 1409.7568
+targetMeanPrice: 2174.123
+targetMedianPrice: 2232.115
+totalCash: 518806016
+totalCashPerShare: 2.269
+totalDebt: 4764219904
+totalRevenue: 3627544064
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: -0.26
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 1691.55
+twoHundredDayAverageChange: 50.44995
+twoHundredDayAverageChangePercent: 0.029824687
+typeDisp: Equity
+volume: 130110
+website: https://www.zegona.com
+zip: W1S 3DG

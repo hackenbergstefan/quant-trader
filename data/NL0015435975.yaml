@@ -1,0 +1,258 @@
+52WeekChange: 0.15706098
+SandP52WeekChange: 0.097798586
+address1: Via Sacchetti 20
+allTimeHigh: 13.475
+allTimeLow: 0.1175
+ask: 6.86
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 7463202
+averageDailyVolume3Month: 5319676
+averageVolume: 5319676
+averageVolume10days: 7463202
+beta: 0.483
+bid: 6.858
+bidSize: 0
+boardRisk: 7
+bookValue: 3.328
+city: Sesto San Giovanni
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Simon  Hunt
+  title: CEO & Executive Director
+  totalPay: 3528246
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 77
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Marie  Laborde
+  title: Executive Vice Chairman
+  totalPay: 325000
+  unexercisedValue: 0
+  yearBorn: 1948
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fabio  Di Fede
+  title: Chief Legal and M&A Officer & Executive Director
+  totalPay: 2011131
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Francesco Renato Mele
+  title: CFO Executive Director
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jose  Silva
+  title: Group Head of Technology & Services
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Moradpour
+  title: CMO & Global Head of Strategy
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elena  Anfosso
+  title: Chief HR Officer
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick  Piana
+  title: Managing Director of Europe
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Liam  Gohery M.B.A.
+  title: Group Head of Global Supply Chain
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ugo  Fiorenzo
+  title: Managing Director of North Americas
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 6.858
+currentRatio: 2.581
+customPriceAlertConfidence: LOW
+dayHigh: 6.898
+dayLow: 6.83
+debtToEquity: 70.273
+dividendRate: 0.1
+dividendYield: 1.46
+earningsCallTimestampEnd: 1761735540
+earningsCallTimestampStart: 1761735540
+earningsGrowth: -0.366
+earningsQuarterlyGrowth: -0.374
+earningsTimestamp: 1793205000
+earningsTimestampEnd: 1793205000
+earningsTimestampStart: 1793205000
+ebitda: 643200000
+ebitdaMargins: 0.21191
+enterpriseToEbitda: 16.062
+enterpriseToRevenue: 3.404
+enterpriseValue: 10330821632
+epsCurrentYear: 0.31937
+epsForward: 0.35348
+epsTrailingTwelveMonths: 0.15
+esgPopulated: false
+exDividendDate: 1776643200
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 39 026 225312
+fiftyDayAverage: 6.20328
+fiftyDayAverageChange: 0.6547198
+fiftyDayAverageChangePercent: 0.105544135
+fiftyTwoWeekChangePercent: 15.706099
+fiftyTwoWeekHigh: 6.898
+fiftyTwoWeekHighChange: -0.03999996
+fiftyTwoWeekHighChangePercent: -0.005798777
+fiftyTwoWeekLow: 5.274
+fiftyTwoWeekLowChange: 1.5839996
+fiftyTwoWeekLowChangePercent: 0.30034122
+fiftyTwoWeekRange: 5.274 - 6.898
+financialCurrency: EUR
+firstTradeDateMilliseconds: 994402800000
+fiveYearAvgDividendYield: 0.74
+floatShares: 574110742
+forwardEps: 0.35348
+forwardPE: 19.401379
+freeCashflow: 172050000
+fullExchangeName: Milan
+fullTimeEmployees: 4935
+fulldayChange: -0.008000374
+fulldayChangePercent: -0.11652161
+fulldayPrice: 6.858
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.59736
+grossProfits: 1813100032
+hasPrePostMarketData: false
+heldPercentInsiders: 0.50728
+heldPercentInstitutions: 0.26528
+impliedSharesOutstanding: 1199362292
+industry: Beverages - Wineries & Distilleries
+industryDisp: Beverages - Wineries & Distilleries
+industryKey: beverages-wineries-distilleries
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776643200
+lastDividendValue: 0.1
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1494201600
+lastSplitFactor: '2:1'
+longBusinessSummary: Davide Campari-Milano N.V., together with its subsidiaries, trades
+  in alcoholic and non-alcoholic beverages in the Americas, Europe, the Middle East,
+  Africa, and the Asia-Pacific. It offers a range of products, including aperitifs,
+  vodka, whisky, rum, agave, cognac, and champagne under the Aperol, Campari, Picon,
+  Cynar, Sarti Rosa, Campari Soda, Crodino, Aperol Spritz RTE, Wild Turkey, Appleton
+  Estate, Wray and Nephew, The GlenGrant, Wilderness Trail, Espolòn, Ancho Reyes,
+  Montelobos, Grand Marnier, Courvoisier, Bisquit, Champagne Lallier, SKYY Vodka,
+  Bulldog Gin, Averna, Braulio, Forty Creek, Frangelico, Cabo Wabo, Del Professore,
+  Mondoro, Riccadonna, La Mauny, Trois Rivieres, Kingston 62, O'ndina, Bickens, Dreher,
+  Ouzo 12, Sagabita, and Zedda Piras brand names. Davide Campari-Milano N.V. was founded
+  in 1860 and is headquartered in Sesto San Giovanni, Italy. Davide Campari-Milano
+  N.V. operates as a subsidiary of Lagfin S.C.A.
+longName: Davide Campari-Milano N.V.
+market: it_market
+marketCap: 8225226240
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_135528
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 269300000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 8234821496
+numberOfAnalystOpinions: 21
+open: 6.86
+operatingCashflow: 556600000
+operatingMargins: 0.18111
+overallRisk: 8
+payoutRatio: 0.6462
+pegRatio: 1.66
+phone: 39 026 2251
+previousClose: 6.866
+priceEpsCurrentYear: 21.473526
+priceHint: 2
+priceToBook: 2.060697
+priceToSalesTrailing12Months: 2.7099454
+profitMargins: 0.08873
+quickRatio: 1.014
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.2381
+region: US
+regularMarketChange: -0.008000374
+regularMarketChangePercent: -0.11652161
+regularMarketDayHigh: 6.898
+regularMarketDayLow: 6.83
+regularMarketDayRange: 6.83 - 6.898
+regularMarketOpen: 6.86
+regularMarketPreviousClose: 6.866
+regularMarketPrice: 6.858
+regularMarketTime: 1794411541
+regularMarketVolume: 2817766
+returnOnAssets: 0.042129997
+returnOnEquity: 0.06676
+revenueGrowth: -0.01
+revenuePerShare: 2.531
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 9
+sharesOutstanding: 1199362292
+shortName: CAMPARI
+sourceInterval: 20
+state: MI
+symbol: CPR.MI
+targetHighPrice: 10.5
+targetLowPrice: 5.3
+targetMeanPrice: 7.14762
+targetMedianPrice: 7.2
+totalCash: 711000000
+totalCashPerShare: 0.593
+totalDebt: 2806000128
+totalRevenue: 3035200000
+tradeable: false
+trailingAnnualDividendRate: 0.1
+trailingAnnualDividendYield: 0.014564521
+trailingEps: 0.15
+trailingPE: 45.719997
+trailingPegRatio: 1.6579
+triggerable: false
+twoHundredDayAverage: 6.00696
+twoHundredDayAverageChange: 0.8510399
+twoHundredDayAverageChangePercent: 0.14167564
+typeDisp: Equity
+volume: 2817766
+website: https://www.camparigroup.com
+zip: '20099'

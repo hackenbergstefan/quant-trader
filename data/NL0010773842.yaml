@@ -1,0 +1,267 @@
+52WeekChange: 0.3060763
+SandP52WeekChange: 0.097798586
+address1: Schenkkade 65
+allTimeHigh: 83.4
+allTimeLow: 19.1
+ask: 0.0
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 535853
+averageDailyVolume3Month: 537496
+averageVolume: 537496
+averageVolume10days: 535853
+beta: 0.525
+bid: 0.0
+bidSize: 0
+boardRisk: 1
+bookValue: 80.291
+city: The Hague
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. David E. Knibbe
+  title: Chairman of Executive Board & CEO
+  totalPay: 3315000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Annemiek T. J. van Melick
+  title: Vice-Chairman of the Management Board & CFO
+  totalPay: 2203000
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tjeerd  Bosklopper
+  title: CEO of Netherlands Non-life, Banking & Technology and Member of Management
+    Board
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Dailah  Nihot
+  title: Chief People, Communications & Sustainability Officer and Member of Management
+    Board
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. J. L. Stuijt
+  title: General Counsel, Company Secretary & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. L. M. van Riet
+  title: CEO of Netherlands Life & Pensions and Member of the Management Board
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank H.M.  Eijsink
+  title: CEO International Insurance & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wilbert G. Ouburg
+  title: Chief Risk Officer & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1985
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martijn R. Hoogeweegen
+  title: CEO of NN Belgium
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hiske  Hoekstra
+  title: Head of Learning & Talent Development
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 81.02
+currentRatio: 70.576
+customPriceAlertConfidence: LOW
+dayHigh: 81.62
+dayLow: 80.84
+debtToEquity: 62.156
+dividendRate: 4.05
+dividendYield: 5.01
+earningsCallTimestampEnd: 1785999600
+earningsCallTimestampStart: 1785999600
+earningsGrowth: 1.997
+earningsQuarterlyGrowth: 1.726
+earningsTimestampEnd: 1786030200
+earningsTimestampStart: 1786030200
+ebitda: 5029000192
+ebitdaMargins: 0.35841998
+enterpriseToEbitda: -6.478
+enterpriseToRevenue: -2.322
+enterpriseValue: -32577488896
+epsCurrentYear: 8.46671
+epsForward: 8.92845
+epsTrailingTwelveMonths: 6.78
+esgPopulated: false
+exDividendDate: 1786320000
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 78.0544
+fiftyDayAverageChange: 2.965599
+fiftyDayAverageChangePercent: 0.037994005
+fiftyTwoWeekChangePercent: 30.607628
+fiftyTwoWeekHigh: 83.4
+fiftyTwoWeekHighChange: -2.380005
+fiftyTwoWeekHighChangePercent: -0.028537229
+fiftyTwoWeekLow: 59.54
+fiftyTwoWeekLowChange: 21.479996
+fiftyTwoWeekLowChangePercent: 0.36076578
+fiftyTwoWeekRange: 59.54 - 83.4
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1404284400000
+fiveYearAvgDividendYield: 6.29
+floatShares: 248308104
+forwardEps: 8.92845
+forwardPE: 9.074364
+freeCashflow: -3256750080
+fullExchangeName: Amsterdam
+fullTimeEmployees: 13393
+fulldayChange: 0.19999695
+fulldayChangePercent: 0.24745972
+fulldayPrice: 81.02
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.5661
+grossProfits: 7943000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0001
+heldPercentInstitutions: 0.65760005
+impliedSharesOutstanding: 258222621
+industry: Insurance - Diversified
+industryDisp: Insurance - Diversified
+industryKey: insurance-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786320000
+lastDividendValue: 1.55
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: NN Group N.V., a financial services company, provides life and
+  non-life insurance products in the Netherlands and internationally. It operates
+  through the Netherlands Life, the Netherlands Non-Life, Insurance Europe, Japan
+  Life, and NN Bank segments. The company provides insured defined benefit, defined
+  contribution, pensions under the Nationale-Nederlanden brand name; premium pension
+  institution services under the BeFrank brand name; and general pension fund administration
+  and advisory services under AZL brand name, as well as non-life insurance products,
+  including motor, fire, liability, transport, travel, health, and disability and
+  accident insurance products. It also provides long-term protection to cover a variety
+  of risks including disability, critical illness and health; and protection, savings
+  and retirement solutions. In addition, the company offers financial services, such
+  as savings, investments, bancassurance and mortgages under the Woonnu brand name.
+  The company offers its products to individuals, small and medium-sized enterprises,
+  and corporate customers directly through tied agents, advisors, brokers, and direct
+  channels. The company was formerly known as ING Insurance Topholding N.V. and changed
+  its name to NN Group N.V. in March 2014. NN Group N.V. was founded in 1845 and is
+  headquartered in The Hague, the Netherlands.
+longName: NN Group N.V.
+market: nl_market
+marketCap: 20921196544
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_8175443
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1783000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 20869552229
+numberOfAnalystOpinions: 13
+open: 81.3
+operatingCashflow: -2372999936
+operatingMargins: 0.35379001
+overallRisk: 1
+payoutRatio: 0.5723
+pegRatio: 0.87
+phone: 31 70 513 0303
+previousClose: 80.82
+priceEpsCurrentYear: 9.569242
+priceHint: 2
+priceToBook: 1.0090795
+priceToSalesTrailing12Months: 1.4910696
+profitMargins: 0.13278
+quickRatio: 65.511
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.30769
+region: US
+regularMarketChange: 0.19999695
+regularMarketChangePercent: 0.24745972
+regularMarketDayHigh: 81.62
+regularMarketDayLow: 80.84
+regularMarketDayRange: 80.84 - 81.62
+regularMarketOpen: 81.3
+regularMarketPreviousClose: 80.82
+regularMarketPrice: 81.02
+regularMarketTime: 1794411565
+regularMarketVolume: 117359
+returnOnAssets: 0.01502
+returnOnEquity: 0.08754
+revenueGrowth: -0.045
+revenuePerShare: 53.441
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 7
+sharesOutstanding: 258222621
+shortName: NN GROUP
+sourceInterval: 15
+symbol: NN.AS
+targetHighPrice: 97.5
+targetLowPrice: 72.0
+targetMeanPrice: 83.03769
+targetMedianPrice: 80.5
+totalCash: 66938998784
+totalCashPerShare: 255.883
+totalDebt: 13118000128
+totalRevenue: 14030999552
+tradeable: false
+trailingAnnualDividendRate: 4.05
+trailingAnnualDividendYield: 0.05011136
+trailingEps: 6.78
+trailingPE: 11.949852
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 74.5608
+twoHundredDayAverageChange: 6.459198
+twoHundredDayAverageChangePercent: 0.08662995
+typeDisp: Equity
+volume: 117359
+website: https://www.nn-group.com
+zip: 2595 AS

@@ -1,0 +1,265 @@
+52WeekChange: 0.008059263
+SandP52WeekChange: 0.097798586
+address1: 2, boulevard du Général Martial Valin
+address2: Cedex 15
+allTimeHigh: 366.5
+allTimeLow: 5.67
+ask: 0.0
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 892130
+averageDailyVolume3Month: 567704
+averageVolume: 567704
+averageVolume10days: 892130
+beta: 0.935
+bid: 0.0
+bidSize: 0
+boardRisk: 3
+bookValue: 35.005
+city: Paris
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Olivier  Andries
+  title: CEO & Director
+  totalPay: 2455042
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pascal  Bantegnie
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric  Dalbies
+  title: Executive VP of Strategy & CTO
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frédéric  Verger
+  title: Executive VP, Chief Digital Officer & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Francis  Gaillard
+  title: Administration Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Florent  Defretin
+  title: Investor Relations Officer
+  unexercisedValue: 0
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kate  Philipps
+  title: Executive Vice President of Group Communications
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stéphane  Dubois
+  title: Executive Vice President of Corporate Human & Social Responsibility
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marjolaine  Grange
+  title: Executive Vice President of Industrial, Purchasing & Performance
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nathalie  Stubler
+  title: Chief Sustainability Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 310.3
+currentRatio: 0.918
+customPriceAlertConfidence: LOW
+dayHigh: 317.4
+dayLow: 308.7
+debtToEquity: 33.745
+dividendRate: 3.35
+dividendYield: 1.07
+earningsCallTimestampEnd: 1785252600
+earningsCallTimestampStart: 1785252600
+earningsGrowth: -0.651
+earningsQuarterlyGrowth: -0.653
+earningsTimestampEnd: 1771000200
+earningsTimestampStart: 1771000200
+ebitda: 6124000256
+ebitdaMargins: 0.18243
+enterpriseToEbitda: 21.014
+enterpriseToRevenue: 3.834
+enterpriseValue: 128688857088
+epsCurrentYear: 10.30796
+epsForward: 12.45395
+epsTrailingTwelveMonths: 9.31
+esgPopulated: false
+exDividendDate: 1779753600
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 314.872
+fiftyDayAverageChange: -4.5720215
+fiftyDayAverageChangePercent: -0.014520254
+fiftyTwoWeekChangePercent: 0.8059263
+fiftyTwoWeekHigh: 366.5
+fiftyTwoWeekHighChange: -56.200012
+fiftyTwoWeekHighChangePercent: -0.15334246
+fiftyTwoWeekLow: 262.6
+fiftyTwoWeekLowChange: 47.69998
+fiftyTwoWeekLowChangePercent: 0.18164502
+fiftyTwoWeekRange: 262.6 - 366.5
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 0.68
+floatShares: 307720038
+forwardEps: 12.45395
+forwardPE: 24.915789
+freeCashflow: 3562749952
+fullExchangeName: Paris
+fullTimeEmployees: 103710
+fulldayChange: -2.4000244
+fulldayChangePercent: -0.76751655
+fulldayPrice: 310.3
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.46811
+grossProfits: 15713999872
+hasPrePostMarketData: false
+heldPercentInsiders: 0.1674
+heldPercentInstitutions: 0.46296
+impliedSharesOutstanding: 413903152
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779753600
+lastDividendValue: 3.35
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1103673600
+lastSplitFactor: '5:1'
+longBusinessSummary: 'Safran SA, together with its subsidiaries, engages in the aerospace
+  and defense businesses in France, rest of Europe, the Americas, the Asia-Pacific,
+  Africa, and the Middle East. The company operates through three segments: Aerospace
+  Propulsion; Aircraft Equipment, Defense and Aerosystems; and Aircraft Interiors.
+  The Aerospace Propulsion segment designs, develops, produces, and markets propulsion
+  and mechanical power transmission systems for commercial aircraft, military transport,
+  training and combat aircraft, civil and military helicopters, and drones; and offers
+  maintenance, repair, and overhaul (MRO) services, as well as sells spare parts.
+  The Aircraft Equipment, Defense and Aerosystems segment provides landing gears and
+  brakes; nacelles and reversers; avionics, such as flight controls and onboard information
+  systems; security systems, including evacuation slides and oxygen masks; onboard
+  computers and fuel systems; electrical power management systems and related engineering
+  services; optronic equipment and sights, navigation equipment and sensors, infantry,
+  and drones; MRO services; and sells spare parts. The Aircraft Interiors segment
+  designs, develops, manufactures, and markets aircraft seats for passengers and crew;
+  cabin equipment, overhead bins, class dividers, passenger service units, cabin interior
+  solutions, chilling systems, galleys, electrical inserts, and trolleys; and cabin
+  equipment and passenger comfort-focused solutions such as water distribution, lavatories,
+  air systems, and in-flight entertainment and connectivity (IFEC) solutions. The
+  company''s products and services are used in commercial civil and military aircrafts,
+  and helicopters. Safran SA was founded in 1896 and is headquartered in Paris, France.'
+longName: Safran SA
+market: fr_market
+marketCap: 128434151424
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874864
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 3881999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 126571583881
+numberOfAnalystOpinions: 22
+open: 316.6
+operatingCashflow: 6695000064
+operatingMargins: 0.13935
+overallRisk: 4
+payoutRatio: 0.35979998
+pegRatio: 2.01
+phone: 33 1 40 60 80 80
+previousClose: 312.7
+priceEpsCurrentYear: 30.10295
+priceHint: 2
+priceToBook: 8.864448
+priceToSalesTrailing12Months: 3.825975
+profitMargins: 0.11564
+quickRatio: 0.579
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.77273
+region: US
+regularMarketChange: -2.4000244
+regularMarketChangePercent: -0.76751655
+regularMarketDayHigh: 317.4
+regularMarketDayLow: 308.7
+regularMarketDayRange: 308.7 - 317.4
+regularMarketOpen: 316.6
+regularMarketPreviousClose: 312.7
+regularMarketPrice: 310.3
+regularMarketTime: 1794411578
+regularMarketVolume: 175827
+returnOnAssets: 0.04774
+returnOnEquity: 0.2749
+revenueGrowth: 0.16
+revenuePerShare: 80.563
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 413903152
+shortName: SAFRAN
+sourceInterval: 15
+symbol: SAF.PA
+targetHighPrice: 410.0
+targetLowPrice: 310.0
+targetMeanPrice: 357.5909
+targetMedianPrice: 351.5
+totalCash: 6669000192
+totalCashPerShare: 16.088
+totalDebt: 5106999808
+totalRevenue: 33568999424
+tradeable: false
+trailingAnnualDividendRate: 3.35
+trailingAnnualDividendYield: 0.010713143
+trailingEps: 9.31
+trailingPE: 33.32975
+trailingPegRatio: 2.0144
+triggerable: false
+twoHundredDayAverage: 315.844
+twoHundredDayAverageChange: -5.5440063
+twoHundredDayAverageChangePercent: -0.01755299
+typeDisp: Equity
+volume: 175827
+website: https://www.safran-group.com
+zip: '75724'

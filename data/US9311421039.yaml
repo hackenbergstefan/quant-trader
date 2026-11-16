@@ -1,0 +1,292 @@
+52WeekChange: 0.21374714
+SandP52WeekChange: 0.097798586
+address1: 1 Customer Drive
+allTimeHigh: 135.16
+allTimeLow: 0.004801
+ask: 131.25
+askSize: 1
+auditRisk: 5
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 24688330
+averageDailyVolume3Month: 23960579
+averageVolume: 23960579
+averageVolume10days: 24688330
+beta: 0.526
+bid: 118.11
+bidSize: 1
+boardRisk: 8
+bookValue: 12.369
+city: Bentonville
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. John R. Furner
+  title: President, CEO & Director
+  totalPay: 4563578
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. John David Rainey Jr.
+  title: Executive VP & CFO
+  totalPay: 3389258
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Suresh  Kumar Ph.D.
+  title: Executive VP, Global CTO & Chief Development Officer
+  totalPay: 3536455
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. C. Douglas McMillon
+  title: Executive Officer
+  totalPay: 5974047
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Daniel  Danker
+  title: Executive Vice President of AI Acceleration, Product & Design
+  totalPay: 6391483
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Dwayne M. Milum
+  title: Senior VP, Controller & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Stephanie  Wissink
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Erin Nealy Cox J.D.
+  title: Executive VP of Global Governance, Chief Legal Officer & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jason  Wooten
+  title: Head of Corporate Development
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Donna Catherine Morris
+  title: Executive VP & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 7
+corporateActions:
+- header: Dividend
+  message: WMT announced a cash dividend of $0.248 with an ex-date of Dec. 11, 2026
+  meta:
+    amount: '0.248'
+    dateEpochMs: 1796965200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 124.4017
+currentRatio: 0.767
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 126.07
+dayLow: 123.84
+debtToEquity: 71.653
+displayName: Walmart
+dividendDate: 1799020800
+dividendRate: 0.99
+dividendYield: 0.79
+earningsCallTimestampEnd: 1795093200
+earningsCallTimestampStart: 1795093200
+earningsGrowth: -0.091
+earningsQuarterlyGrowth: -0.094
+earningsTimestamp: 1795095000
+earningsTimestampEnd: 1795095000
+earningsTimestampStart: 1795095000
+ebitda: 44073000960
+ebitdaMargins: 0.05989
+enterpriseToEbitda: 24.192
+enterpriseToRevenue: 1.449
+enterpriseValue: 1066205839360
+epsCurrentYear: 2.88554
+epsForward: 3.22421
+epsTrailingTwelveMonths: 2.76
+esgPopulated: false
+exDividendDate: 1796947200
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 113.3472
+fiftyDayAverageChange: 11.054504
+fiftyDayAverageChangePercent: 0.09752781
+fiftyTwoWeekChangePercent: 21.374714
+fiftyTwoWeekHigh: 135.16
+fiftyTwoWeekHighChange: -10.758301
+fiftyTwoWeekHighChangePercent: -0.07959678
+fiftyTwoWeekLow: 98.88
+fiftyTwoWeekLowChange: 25.521706
+fiftyTwoWeekLowChangePercent: 0.25810787
+fiftyTwoWeekRange: 98.88 - 135.16
+financialCurrency: USD
+firstTradeDateMilliseconds: 83597400000
+fiveYearAvgDividendYield: 1.12
+floatShares: 4850295764
+forwardEps: 3.22421
+forwardPE: 38.583622
+freeCashflow: 7127625216
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 2100000
+fulldayChange: -1.1483002
+fulldayChangePercent: -0.9146158
+fulldayPrice: 124.4017
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.24836999
+grossProfits: 182756999168
+hasPrePostMarketData: true
+heldPercentInsiders: 0.44248
+heldPercentInstitutions: 0.38554
+impliedSharesOutstanding: 7933746241
+industry: Discount Stores
+industryDisp: Discount Stores
+industryKey: discount-stores
+ipoExpectedDate: '2025-12-09'
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787270400
+lastDividendValue: 0.248
+lastFiscalYearEnd: 1769817600
+lastSplitDate: 1708905600
+lastSplitFactor: '3:1'
+longBusinessSummary: 'Walmart Inc. engages in the operation of retail and wholesale
+  stores and clubs, ecommerce websites, and mobile applications worldwide. The company
+  operates through three segments: Walmart U.S., Walmart International, and Sam''s
+  Club U.S. It operates supercenters, supermarkets, warehouse clubs, cash and carry
+  stores, and discount stores under Walmart and Walmart Neighborhood Market brands;
+  membership-only warehouse clubs; and ecommerce websites, such as walmart.com.mx,
+  walmart.ca, flipkart.com, PhonePe and other sites. It offers grocery items, including
+  dry grocery, snacks, dairy, meat, produce, deli and bakery, frozen foods, alcoholic
+  and nonalcoholic beverages, as well as consumables, such as health and beauty aids,
+  pet supplies, household chemicals, paper goods, and baby products; and fuel and
+  other categories. In addition, it is involved in the provision of health and wellness
+  products covering pharmacy, optical and hearing services, over-the-counter drugs,
+  and protein and nutrition products; and home, hardlines, and seasonal items, including
+  home improvement, outdoor living, gardening, furniture, apparel, jewelry, tools
+  and power equipment, housewares, toys, and mattresses. Further, the company offers
+  consumer electronics and accessories, software, video games, office supplies, appliances,
+  and third-party gift cards. Additionally, it operates digital payment platforms;
+  offers financial services and related products, including money transfers, bill
+  payments, money orders, check cashing, prepaid access, co-branded credit cards,
+  installment lending, and earned wage access; and markets lines of merchandise under
+  private and licensed brands. The company was formerly known as Wal-Mart Stores,
+  Inc. and changed its name to Walmart Inc. in February 2018. Walmart Inc. was founded
+  in 1945 and is based in Bentonville, Arkansas.'
+longName: Walmart Inc.
+market: us_market
+marketCap: 986971504640
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_313055
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 22076000256
+nextFiscalYearEnd: 1801353600
+nonDilutedMarketCap: 996081840557
+numberOfAnalystOpinions: 40
+open: 124.34
+operatingCashflow: 42922999808
+operatingMargins: 0.03938
+overallRisk: 3
+payoutRatio: 0.3496
+pegRatio: 4.27
+phone: 479-273-4000
+previousClose: 125.55
+priceEpsCurrentYear: 43.112106
+priceHint: 2
+priceToBook: 10.057539
+priceToSalesTrailing12Months: 1.3412855
+profitMargins: 0.03
+quickRatio: 0.195
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.51163
+region: US
+regularMarketChange: -1.1483002
+regularMarketChangePercent: -0.9146158
+regularMarketDayHigh: 126.07
+regularMarketDayLow: 123.84
+regularMarketDayRange: 123.84 - 126.07
+regularMarketOpen: 124.34
+regularMarketPreviousClose: 125.55
+regularMarketPrice: 124.4017
+regularMarketTime: 1794413756
+regularMarketVolume: 4447651
+returnOnAssets: 0.06414
+returnOnEquity: 0.22313999
+revenueGrowth: 0.059
+revenuePerShare: 92.361
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 1
+sharesOutstanding: 7933746241
+sharesPercentSharesOut: 0.0092
+sharesShort: 72865860
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 80940754
+shortName: Walmart Inc.
+shortPercentOfFloat: 0.0165
+shortRatio: 3.54
+sourceInterval: 15
+state: AR
+symbol: WMT
+targetHighPrice: 155.0
+targetLowPrice: 81.0
+targetMeanPrice: 128.7
+targetMedianPrice: 130.0
+totalCash: 11528999936
+totalCashPerShare: 1.453
+totalDebt: 75092000768
+totalRevenue: 735839977472
+tradeable: false
+trailingAnnualDividendRate: 0.965
+trailingAnnualDividendYield: 0.0076861805
+trailingEps: 2.76
+trailingPE: 45.073082
+trailingPegRatio: 4.2675
+triggerable: true
+twoHundredDayAverage: 118.7889
+twoHundredDayAverageChange: 5.6128006
+twoHundredDayAverageChangePercent: 0.04725021
+typeDisp: Equity
+volume: 4447651
+website: https://www.stock.walmart.com
+zip: '72716'

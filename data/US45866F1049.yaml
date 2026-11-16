@@ -1,0 +1,282 @@
+52WeekChange: 0.14482307
+SandP52WeekChange: 0.097798586
+address1: 5660 New Northside Drive
+address2: 3rd Floor
+allTimeHigh: 189.35
+allTimeLow: 6.254
+ask: 177.75
+askSize: 200
+auditRisk: 2
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 3635540
+averageDailyVolume3Month: 3117414
+averageVolume: 3117414
+averageVolume10days: 3635540
+beta: 0.844
+bid: 177.64
+bidSize: 100
+boardRisk: 5
+bookValue: 53.582
+city: Atlanta
+companyOfficers:
+- age: 70
+  exercisedValue: 24454050
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey C. Sprecher
+  title: Founder, Chairman & CEO
+  totalPay: 5466833
+  unexercisedValue: 47364940
+  yearBorn: 1955
+- age: 52
+  exercisedValue: 954161
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Benjamin R. Jackson
+  title: Chair of ICE Mortgage Technology & President
+  totalPay: 2846936
+  unexercisedValue: 15377008
+  yearBorn: 1973
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. A. Warren Gardiner C.F.A.
+  title: Chief Financial Officer
+  totalPay: 2605959
+  unexercisedValue: 854032
+  yearBorn: 1981
+- age: 56
+  exercisedValue: 1236444
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher Scott Edmonds
+  title: President of ICE Fixed Income & Data Services
+  totalPay: 2625606
+  unexercisedValue: 4532492
+  yearBorn: 1969
+- age: 48
+  exercisedValue: 1348626
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lynn C. Martin
+  title: President of NYSE Group and Chair of ICE Fixed Income & Data Services
+  totalPay: 2583083
+  unexercisedValue: 9696381
+  yearBorn: 1977
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stuart G. Williams
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James W. Namkung
+  title: Chief Accounting Officer & Corporate Controller
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mayur V. Kapani
+  title: Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Douglas A. Foley
+  title: Senior Vice President of Human Resources & Administration
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven  Eagerton
+  title: Vice President of Investor Relations & Revenue Operations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 178.16
+currentRatio: 1.03
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 178.33
+dayLow: 175.15
+debtToEquity: 80.025
+displayName: Intercontinental Exchange
+dividendDate: 1798675200
+dividendRate: 2.08
+dividendYield: 1.18
+earningsCallTimestampEnd: 1793277000
+earningsCallTimestampStart: 1793277000
+earningsGrowth: 0.176
+earningsQuarterlyGrowth: 0.152
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 7001999872
+ebitdaMargins: 0.64168
+enterpriseToEbitda: 17.38
+enterpriseToRevenue: 11.152
+enterpriseValue: 121691267072
+epsCurrentYear: 8.1842
+epsForward: 8.93502
+epsTrailingTwelveMonths: 7.34
+esgPopulated: false
+exDividendDate: 1797379200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 159.2198
+fiftyDayAverageChange: 18.9402
+fiftyDayAverageChangePercent: 0.11895631
+fiftyTwoWeekChangePercent: 14.482307
+fiftyTwoWeekHigh: 178.33
+fiftyTwoWeekHighChange: -0.16999817
+fiftyTwoWeekHighChangePercent: -0.00095327856
+fiftyTwoWeekLow: 121.79
+fiftyTwoWeekLowChange: 56.370003
+fiftyTwoWeekLowChangePercent: 0.4628459
+fiftyTwoWeekRange: 121.79 - 178.33
+financialCurrency: USD
+firstTradeDateMilliseconds: 1132151400000
+fiveYearAvgDividendYield: 1.24
+floatShares: 554963169
+forwardEps: 8.93502
+forwardPE: 19.939518
+freeCashflow: 299375008
+fullExchangeName: NYSE
+fullTimeEmployees: 12842
+fulldayChange: 1.800003
+fulldayChangePercent: 1.0206413
+fulldayPrice: 178.16
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 1.0
+grossProfits: 10912000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00816
+heldPercentInstitutions: 0.97091
+impliedSharesOutstanding: 558858412
+industry: Financial Data & Stock Exchanges
+industryDisp: Financial Data & Stock Exchanges
+industryKey: financial-data-stock-exchanges
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789516800
+lastDividendValue: 0.52
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1478217600
+lastSplitFactor: '5:1'
+longBusinessSummary: 'Intercontinental Exchange, Inc., together with its subsidiaries,
+  provides technology and data to financial institutions, corporations, and government
+  entities in the United States, the United Kingdom, the European Union, Canada, Asia
+  Pacific, and the Middle East. It operates through three segments: Exchanges, Fixed
+  Income and Data Services, and Mortgage Technology. The Exchanges segment operates
+  regulated marketplace technology for the listing, trading, and clearing of an array
+  of derivatives contracts and financial securities, such as commodities, interest
+  rates, foreign exchange and equities, and corporate and exchange-traded funds, as
+  well as data and connectivity services related to its exchanges and clearing houses.
+  The Fixed Income and Data Services segment provides fixed income pricing, reference
+  data, indices, analytics, and execution services, as well as global CDS clearing
+  and multi-asset class data delivery technology. The Mortgage Technology segment
+  offers a technology platform that provides customers comprehensive and digital workflow
+  tools to address inefficiencies and mitigate risks that exist in the U.S. residential
+  mortgage market life cycle from application through closing, servicing, and the
+  secondary market. The company was founded in 2000 and is headquartered in Atlanta,
+  Georgia.'
+longName: Intercontinental Exchange, Inc.
+market: us_market
+marketCap: 99566223360
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1081952
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4161999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 98560269540
+numberOfAnalystOpinions: 15
+open: 176.42
+operatingCashflow: 5760999936
+operatingMargins: 0.53235
+overallRisk: 3
+payoutRatio: 0.2779
+pegRatio: 1.95
+phone: 770 857 4700
+previousClose: 176.36
+priceEpsCurrentYear: 21.768774
+priceHint: 2
+priceToBook: 3.3249972
+priceToSalesTrailing12Months: 9.124471
+profitMargins: 0.38141
+quickRatio: 0.023
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.8125
+region: US
+regularMarketChange: 1.800003
+regularMarketChangePercent: 1.0206413
+regularMarketDayHigh: 178.33
+regularMarketDayLow: 175.15
+regularMarketDayRange: 175.15 - 178.33
+regularMarketOpen: 176.42
+regularMarketPreviousClose: 176.36
+regularMarketPrice: 178.16
+regularMarketTime: 1794413730
+regularMarketVolume: 888097
+returnOnAssets: 0.022839999
+returnOnEquity: 0.14399
+revenueGrowth: 0.147
+revenuePerShare: 19.305
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 3
+sharesOutstanding: 558858412
+sharesPercentSharesOut: 0.0106
+sharesShort: 5950320
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 6939409
+shortName: Intercontinental Exchange Inc.
+shortPercentOfFloat: 0.012
+shortRatio: 1.85
+sourceInterval: 15
+state: GA
+symbol: ICE
+targetHighPrice: 245.0
+targetLowPrice: 167.0
+targetMeanPrice: 192.2
+targetMedianPrice: 190.0
+totalCash: 936000000
+totalCashPerShare: 1.675
+totalDebt: 23989000192
+totalRevenue: 10912000000
+tradeable: false
+trailingAnnualDividendRate: 2.04
+trailingAnnualDividendYield: 0.011567249
+trailingEps: 7.34
+trailingPE: 24.27248
+trailingPegRatio: 1.9474
+triggerable: true
+twoHundredDayAverage: 154.4963
+twoHundredDayAverageChange: 23.663696
+twoHundredDayAverageChangePercent: 0.15316674
+typeDisp: Equity
+volume: 888084
+website: https://www.ice.com
+zip: '30328'

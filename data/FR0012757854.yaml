@@ -1,0 +1,230 @@
+52WeekChange: 0.073227644
+SandP52WeekChange: 0.097798586
+address1: 10, avenue de l’Entreprise
+address2: Cedex
+allTimeHigh: 54.55
+allTimeLow: 7.805
+ask: 0.0
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 365204
+averageDailyVolume3Month: 428202
+averageVolume: 428202
+averageVolume10days: 365204
+beta: 0.783
+bid: 0.0
+bidSize: 0
+boardRisk: 1
+bookValue: 12.322
+city: Cergy-Pontoise
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Markus  Holzke
+  title: CEO & Director
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Jérôme  Vanhove
+  title: Group Administrative Director & Group CFO
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Pablo  Ibañez
+  title: Group Development & Operational Support Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Ms. Alexandra  Bournazel
+  title: Investor Relations Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Pascal  Colbatzky
+  title: Legal & Insurance Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Pascal  Omnès
+  title: Head of Communications
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  maxAge: 1
+  name: Ms. Severine  Walser
+  title: Group Human Resources Director
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 49
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Arnaud  Tirmarche
+  title: Chief Executive Officer of SPIE France
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Evert  Lemmen
+  title: Chief Executive Officer of CEO of SPIE Nederland
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Ms. Isabelle  Lambert
+  title: Sustainability Director
+  unexercisedValue: 0
+compensationRisk: 4
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 45.88
+currentRatio: 0.774
+customPriceAlertConfidence: LOW
+dayHigh: 46.32
+dayLow: 45.56
+debtToEquity: 171.216
+dividendRate: 1.1
+dividendYield: 2.39
+earningsCallTimestampEnd: 1785425400
+earningsCallTimestampStart: 1785425400
+earningsTimestampEnd: 1785425400
+earningsTimestampStart: 1785425400
+ebitda: 849800000
+ebitdaMargins: 0.07967
+enterpriseToEbitda: 12.949
+enterpriseToRevenue: 1.032
+enterpriseValue: 11003739136
+epsCurrentYear: 3.004
+epsForward: 3.45485
+epsTrailingTwelveMonths: 1.78
+esgPopulated: false
+exDividendDate: 1789430400
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 42.9992
+fiftyDayAverageChange: 2.8808022
+fiftyDayAverageChangePercent: 0.06699665
+fiftyTwoWeekChangePercent: 7.3227644
+fiftyTwoWeekHigh: 53.45
+fiftyTwoWeekHighChange: -7.5699997
+fiftyTwoWeekHighChangePercent: -0.14162768
+fiftyTwoWeekLow: 40.1
+fiftyTwoWeekLowChange: 5.7800026
+fiftyTwoWeekLowChangePercent: 0.14413972
+fiftyTwoWeekRange: 40.1 - 53.45
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1433919600000
+fiveYearAvgDividendYield: 2.45
+floatShares: 152408332
+forwardEps: 3.45485
+forwardPE: 13.279882
+freeCashflow: 975030976
+fullExchangeName: Paris
+fullTimeEmployees: 54673
+fulldayChange: -0.13999939
+fulldayChangePercent: -0.30421424
+fulldayPrice: 45.88
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.09158
+grossProfits: 976800000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.12264
+heldPercentInstitutions: 0.58132
+impliedSharesOutstanding: 172855594
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789430400
+lastDividendValue: 0.32
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'SPIE SA provides multi-technical services in the areas of energy
+  and communications in France, Germany, the Netherlands, and internationally. It
+  operates through five segments: France, Germany, North-Western Europe, Central Europe,
+  and Global Services Energy. The company provides design, ICT consultancy and engineering,
+  installation, maintenance and maintenance durability, technical facility management,
+  and managed services. It also offers E-Mobility, smart packing, barriers, smart
+  FM 360, energy efficiency, modernization, maintid, fabloop, IoT and data management,
+  control room, ergonomie, and cybersecurity products. SPIE SA was founded in 1900
+  and is headquartered in Cergy-Pontoise, France.'
+longName: SPIE SA
+market: fr_market
+marketCap: 7930615296
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874506
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 301700000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 7954814435
+numberOfAnalystOpinions: 13
+open: 46.12
+operatingCashflow: 1019600000
+operatingMargins: 0.067140006
+overallRisk: 1
+payoutRatio: 0.6067
+phone: 33 1 34 41 81 81
+previousClose: 46.02
+priceEpsCurrentYear: 15.27297
+priceHint: 2
+priceToBook: 3.7234218
+priceToSalesTrailing12Months: 0.74351376
+profitMargins: 0.02829
+quickRatio: 0.647
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.46154
+region: US
+regularMarketChange: -0.13999939
+regularMarketChangePercent: -0.30421424
+regularMarketDayHigh: 46.32
+regularMarketDayLow: 45.56
+regularMarketDayRange: 45.56 - 46.32
+regularMarketOpen: 46.12
+regularMarketPreviousClose: 46.02
+regularMarketPrice: 45.88
+regularMarketTime: 1794411456
+regularMarketVolume: 33887
+returnOnAssets: 0.04206
+returnOnEquity: 0.15096
+revenueGrowth: 0.035
+revenuePerShare: 63.14
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 5
+sharesOutstanding: 172855594
+shortName: SPIE
+sourceInterval: 15
+symbol: SPIE.PA
+targetHighPrice: 62.0
+targetLowPrice: 45.0
+targetMeanPrice: 56.36923
+targetMedianPrice: 56.0
+totalCash: 416200000
+totalCashPerShare: 2.458
+totalDebt: 3606500096
+totalRevenue: 10666399744
+tradeable: false
+trailingAnnualDividendRate: 1.1
+trailingAnnualDividendYield: 0.02390265
+trailingEps: 1.78
+trailingPE: 25.775282
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 46.74695
+twoHundredDayAverageChange: -0.8669472
+twoHundredDayAverageChangePercent: -0.018545534
+typeDisp: Equity
+volume: 33887
+website: https://www.spie.com
+zip: '95863'

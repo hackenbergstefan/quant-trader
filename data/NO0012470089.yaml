@@ -1,0 +1,255 @@
+52WeekChange: -0.18760067
+SandP52WeekChange: 0.097798586
+address1: Drengsrudhagen 2
+allTimeHigh: 322.2
+allTimeLow: 9.95
+ask: 100.9
+askSize: 2184
+auditRisk: 10
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 570103
+averageDailyVolume3Month: 645920
+averageVolume: 645920
+averageVolume10days: 570103
+beta: 1.232
+bid: 100.7
+bidSize: 987
+boardRisk: 10
+bookValue: 21.560724
+city: Asker
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tove  Andersen
+  title: President & CEO
+  totalPay: 9214957
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Eva  Sagemo
+  title: Chief Financial Officer
+  totalPay: 4339470
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Schrahe
+  title: Executive Vice President of People & Organization
+  totalPay: 5583375
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Harald  Henriksen
+  title: Executive VP & Head of Tomra Food
+  totalPay: 9240991
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lars Kversoy Enge
+  title: Executive Vice President of Tomra Recycling
+  totalPay: 4436191
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marius  Fraurud
+  title: Executive VP & Head of Collection
+  totalPay: 4599290
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel  Sundahl
+  title: VP & Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Arnstein  Fjeld
+  title: VP & Head of TOMRA Group Compliance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anika  Jovik
+  title: Executive Vice President & Head of strategy
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: Norway
+cryptoTradeable: false
+currency: NOK
+currentPrice: 100.7
+currentRatio: 1.544
+customPriceAlertConfidence: LOW
+dayHigh: 101.2
+dayLow: 100.1
+debtToEquity: 101.548
+dividendRate: 2.15
+dividendYield: 2.13
+earningsCallTimestampEnd: 1792735200
+earningsCallTimestampStart: 1792735200
+earningsGrowth: 0.6
+earningsQuarterlyGrowth: 0.714
+earningsTimestamp: 1792765200
+earningsTimestampEnd: 1792765200
+earningsTimestampStart: 1792765200
+ebitda: 240700000
+ebitdaMargins: 0.16194999
+enterpriseToEbitda: 126.569
+enterpriseToRevenue: 20.497
+enterpriseValue: 30465167360
+epsCurrentYear: 0.29939
+epsForward: 5.4961433
+epsTrailingTwelveMonths: 3.46
+esgPopulated: false
+exDividendDate: 1776988800
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 94.713
+fiftyDayAverageChange: 5.9869995
+fiftyDayAverageChangePercent: 0.063212015
+fiftyTwoWeekChangePercent: -18.760067
+fiftyTwoWeekHigh: 139.5
+fiftyTwoWeekHighChange: -38.800003
+fiftyTwoWeekHighChangePercent: -0.27813622
+fiftyTwoWeekLow: 88.75
+fiftyTwoWeekLowChange: 11.949997
+fiftyTwoWeekLowChangePercent: 0.13464785
+fiftyTwoWeekRange: 88.75 - 139.5
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 1.16
+floatShares: 217567467
+forwardEps: 5.4961433
+forwardPE: 18.321938
+freeCashflow: 305987488
+fullExchangeName: Oslo
+fullTimeEmployees: 5800
+fulldayChange: -0.20000458
+fulldayChangePercent: -0.19822058
+fulldayPrice: 100.7
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.5762
+grossProfits: 856400000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00091
+heldPercentInstitutions: 0.87521005
+impliedSharesOutstanding: 295700378
+industry: Waste Management
+industryDisp: Waste Management
+industryKey: waste-management
+irWebsite: http://www.tomra.com/default.asp?V_ITEM_ID=23
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776988800
+lastDividendValue: 2.15
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1653609600
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Tomra Systems ASA provides sensor-based solutions for optimal
+  resource productivity worldwide. It operates through four segments: TOMRA Collection,
+  TOMRA Recycling, TOMRA Food, and TOMRA Horizon. The company provides reverse vending
+  machines and related data management systems; and provides pick-up, transportation,
+  and processing services of empty beverage containers on behalf of beverage producers/fillers.
+  It also develops, produces, sale, and service sorting and processing technology
+  for waste management companies or plant builders; and provides sorting systems for
+  waste and metal material streams, as well as ore sorting sensors for mining companies.
+  In addition, the company provides post-harvest food solutions for fresh and processed
+  food industries. The company was founded in 1972 and is headquartered in Asker,
+  Norway.'
+longName: Tomra Systems ASA
+market: no_market
+marketCap: 29777027072
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_878841
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 92000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 30043158404
+numberOfAnalystOpinions: 9
+open: 101.1
+operatingCashflow: 233900000
+operatingMargins: 0.11505
+overallRisk: 10
+payoutRatio: 0.6012
+pegRatio: 1.7
+phone: 47 66 79 91 00
+previousClose: 100.9
+priceEpsCurrentYear: 336.3506
+priceHint: 2
+priceToBook: 4.6705294
+priceToSalesTrailing12Months: 20.03433
+profitMargins: 0.0619
+quickRatio: 1.022
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -0.20000458
+regularMarketChangePercent: -0.19822058
+regularMarketDayHigh: 101.2
+regularMarketDayLow: 100.1
+regularMarketDayRange: 100.1 - 101.2
+regularMarketOpen: 101.1
+regularMarketPreviousClose: 100.9
+regularMarketPrice: 100.7
+regularMarketTime: 1794410715
+regularMarketVolume: 406984
+returnOnAssets: 0.059970003
+returnOnEquity: 0.1585
+revenueGrowth: 0.196
+revenuePerShare: 5.104
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 4
+sharesOutstanding: 295700378
+shortName: TOMRA SYSTEMS
+sourceInterval: 15
+symbol: TOM.OL
+targetHighPrice: 153.77397
+targetLowPrice: 75.75427
+targetMeanPrice: 123.01663
+targetMedianPrice: 127.91209
+totalCash: 67000000
+totalCashPerShare: 0.227
+totalDebt: 656000000
+totalRevenue: 1486300032
+tradeable: false
+trailingAnnualDividendRate: 0.182
+trailingAnnualDividendYield: 0.001803766
+trailingEps: 3.46
+trailingPE: 29.104046
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 104.34575
+twoHundredDayAverageChange: -3.645752
+twoHundredDayAverageChangePercent: -0.03493915
+typeDisp: Equity
+volume: 406984
+website: https://www.tomra.com
+zip: '1385'

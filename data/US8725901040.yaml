@@ -1,0 +1,284 @@
+52WeekChange: -0.20500284
+SandP52WeekChange: 0.097798586
+address1: 12920 SE 38th Street
+allTimeHigh: 276.49
+allTimeLow: 11.04
+ask: 177.98
+askSize: 1
+auditRisk: 9
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 6996940
+averageDailyVolume3Month: 5536754
+averageVolume: 5536754
+averageVolume10days: 6996940
+beta: 0.378
+bid: 158.17
+bidSize: 1
+boardRisk: 10
+bookValue: 52.978
+city: Bellevue
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Srinivasan  Gopalan
+  title: CEO, President & Director
+  totalPay: 8325344
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Osvaldik
+  title: Executive VP & CFO
+  totalPay: 4132150
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathan A. Freier
+  title: Chief Operating Officer
+  totalPay: 4160630
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark W. Nelson Esq., J.D.
+  title: Chief Legal Officer & General Counsel
+  totalPay: 4050013
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael J. Katz
+  title: Strategic Advisor
+  totalPay: 4180034
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. André  Almeida
+  title: Chief Marketing, Brand & Broadband Officer
+  totalPay: 117301
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel J. Drobac
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. John C. B. Saw Ph.D.
+  title: President of Technology & CTO
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeff  Simon
+  title: Executive VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Quan  Yao C.F.A.
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions:
+- header: Dividend
+  message: TMUS announced a cash dividend of $1.17 with an ex-date of Nov. 25, 2026
+  meta:
+    amount: '1.17'
+    dateEpochMs: 1795582800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 168.645
+currentRatio: 0.91
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 169.14
+dayLow: 167.38
+debtToEquity: 211.32
+displayName: T-Mobile US
+dividendDate: 1796860800
+dividendRate: 4.68
+dividendYield: 2.77
+earningsCallTimestampEnd: 1793219400
+earningsCallTimestampStart: 1793219400
+earningsGrowth: 0.336
+earningsQuarterlyGrowth: 0.273
+earningsTimestamp: 1793217600
+earningsTimestampEnd: 1793217600
+earningsTimestampStart: 1793217600
+ebitda: 35362000896
+ebitdaMargins: 0.37693
+enterpriseToEbitda: 8.271
+enterpriseToRevenue: 3.117
+enterpriseValue: 292469800960
+epsCurrentYear: 12.2245
+epsForward: 14.25569
+epsTrailingTwelveMonths: 10.37
+esgPopulated: false
+exDividendDate: 1795564800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 164.4804
+fiftyDayAverageChange: 4.164612
+fiftyDayAverageChangePercent: 0.025319807
+fiftyTwoWeekChangePercent: -20.500284
+fiftyTwoWeekHigh: 224.75
+fiftyTwoWeekHighChange: -56.104996
+fiftyTwoWeekHighChangePercent: -0.24963291
+fiftyTwoWeekLow: 143.75
+fiftyTwoWeekLowChange: 24.895004
+fiftyTwoWeekLowChangePercent: 0.17318264
+fiftyTwoWeekRange: 143.75 - 224.75
+financialCurrency: USD
+firstTradeDateMilliseconds: 1176989400000
+floatShares: 472880461
+forwardEps: 14.25569
+forwardPE: 11.830014
+freeCashflow: 16360999936
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 75000
+fulldayChange: -0.43499756
+fulldayChangePercent: -0.25727323
+fulldayPrice: 168.645
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.62979
+grossProfits: 59084001280
+hasPrePostMarketData: true
+heldPercentInsiders: 0.56256
+heldPercentInstitutions: 0.43522
+impliedSharesOutstanding: 1059272571
+industry: Telecom Services
+industryDisp: Telecom Services
+industryKey: telecom-services
+irWebsite: http://investor.t-mobile.com/phoenix.zhtml?c=177745&p=irol-IRHome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787875200
+lastDividendValue: 1.02
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1367366400
+lastSplitFactor: '1:2'
+longBusinessSummary: T-Mobile US, Inc., together with its subsidiaries, provides wireless
+  communications services in the United States, Puerto Rico, and the United States
+  Virgin Islands. The company offers voice, messaging, and data services to postpaid,
+  prepaid, and wholesale and other services customers. It also provides wireless devices,
+  including smartphones, wearables, tablets, home broadband gateways, headsets, and
+  other mobile communication devices, as well as accessories; financing through equipment
+  installment plans; reinsurance for device insurance policies and extended warranty
+  contracts. The company offers services under the T-Mobile, Metro by T-Mobile, and
+  Mint Mobile brands through its owned and operated retail stores, customer care channels,
+  national retailers, and its websites, as well as through T-Mobile, Metro by T-Mobile,
+  and Mint Mobile apps. It also sells devices to dealers and other third-party distributors
+  for resale through independent third-party retail outlets and various third-party
+  websites. It has 700 MHz wireless spectrum licenses. The company was founded in
+  1994 and is headquartered in Bellevue, Washington. T-Mobile US, Inc. operates as
+  a subsidiary of Deutsche Telekom AG.
+longName: T-Mobile US, Inc.
+market: us_market
+marketCap: 178641027072
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_93339
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 11301000192
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 179101806304
+numberOfAnalystOpinions: 25
+open: 169.01
+operatingCashflow: 28717000704
+operatingMargins: 0.22726
+overallRisk: 10
+payoutRatio: 0.3934
+pegRatio: 0.5
+phone: 425 378 4000
+previousClose: 169.08
+priceEpsCurrentYear: 13.795657
+priceHint: 2
+priceToBook: 3.1833026
+priceToSalesTrailing12Months: 1.9041638
+profitMargins: 0.120459996
+quickRatio: 0.678
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.60714
+region: US
+regularMarketChange: -0.43499756
+regularMarketChangePercent: -0.25727323
+regularMarketDayHigh: 169.14
+regularMarketDayLow: 167.38
+regularMarketDayRange: 167.38 - 169.14
+regularMarketOpen: 169.01
+regularMarketPreviousClose: 169.08
+regularMarketPrice: 168.645
+regularMarketTime: 1794413739
+regularMarketVolume: 765582
+returnOnAssets: 0.06194
+returnOnEquity: 0.19354
+revenueGrowth: 0.074
+revenuePerShare: 86.011
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 1059272571
+sharesPercentSharesOut: 0.0148
+sharesShort: 15695596
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 14320900
+shortName: T-Mobile US, Inc.
+shortPercentOfFloat: 0.033800002
+shortRatio: 2.34
+sourceInterval: 15
+state: WA
+symbol: TMUS
+targetHighPrice: 296.0
+targetLowPrice: 165.0
+targetMeanPrice: 225.64
+targetMedianPrice: 235.0
+totalCash: 5619999744
+totalCashPerShare: 5.306
+totalDebt: 118987997184
+totalRevenue: 93815996416
+tradeable: false
+trailingAnnualDividendRate: 4.23
+trailingAnnualDividendYield: 0.025017742
+trailingEps: 10.37
+trailingPE: 16.262777
+trailingPegRatio: 0.5051
+triggerable: true
+twoHundredDayAverage: 186.114
+twoHundredDayAverageChange: -17.468994
+twoHundredDayAverageChangePercent: -0.093861796
+typeDisp: Equity
+volume: 765582
+website: https://www.t-mobile.com
+zip: 98006-1350

@@ -1,0 +1,262 @@
+52WeekChange: 0.36106348
+SandP52WeekChange: 0.097798586
+address1: Manhattan Center
+address2: Avenue du Boulevard 21
+allTimeHigh: 297.77576
+allTimeLow: 5.68
+ask: 0.0
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 208578
+averageDailyVolume3Month: 287361
+averageVolume: 287361
+averageVolume10days: 208578
+beta: 0.599
+bid: 0.0
+bidSize: 0
+boardRisk: 4
+bookValue: 48.861
+city: Brussels
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hans Jozef Josephina de Cuyper
+  title: CEO & Executive Director
+  totalPay: 1745866
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wim  Guilliams
+  title: CFO & Executive Director
+  totalPay: 1095552
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Emmanuel  Van Grimbergen
+  title: MD of Reinsurance & Investments
+  totalPay: 1146938
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Heidi  Delobelle
+  title: Managing Director of Belgium
+  totalPay: 1120542
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ben Karel Eugene Fons Coumans
+  title: Managing Director of Europe
+  totalPay: 1004735
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karolien  Gielen
+  title: Managing Director of Business Development & Asia
+  totalPay: 1017147
+  unexercisedValue: 0
+  yearBorn: 1984
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christophe Ghislain F. Vandeweghe
+  title: Chief Risk Officer & Executive Director
+  totalPay: 1014428
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Arnaud  Nicolas
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Jerry  Bata
+  title: Head of Legal
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Valerie  Van Zeveren
+  title: Company Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Belgium
+cryptoTradeable: false
+currency: EUR
+currentPrice: 79.1
+currentRatio: 6.024
+customPriceAlertConfidence: LOW
+dayHigh: 79.75
+dayLow: 79.1
+debtToEquity: 78.338
+dividendRate: 4.5
+dividendYield: 5.67
+earningsCallTimestampEnd: 1787815800
+earningsCallTimestampStart: 1787815800
+earningsGrowth: 0.173
+earningsQuarterlyGrowth: 0.25
+earningsTimestamp: 1787845200
+earningsTimestampEnd: 1787845200
+earningsTimestampStart: 1787845200
+ebitda: 1246000000
+ebitdaMargins: 0.11707
+enterpriseToEbitda: -0.393
+enterpriseToRevenue: -0.046
+enterpriseValue: -489758208
+epsCurrentYear: 9.5398
+epsForward: 8.52302
+epsTrailingTwelveMonths: 9.62
+esgPopulated: false
+exDividendDate: 1780444800
+exchange: BRU
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Brussels
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 32 2 557 57 50
+fiftyDayAverage: 74.906
+fiftyDayAverageChange: 4.1940002
+fiftyDayAverageChangePercent: 0.05599018
+fiftyTwoWeekChangePercent: 36.106346
+fiftyTwoWeekHigh: 79.75
+fiftyTwoWeekHighChange: -0.6500015
+fiftyTwoWeekHighChangePercent: -0.008150489
+fiftyTwoWeekLow: 55.85
+fiftyTwoWeekLowChange: 23.25
+fiftyTwoWeekLowChangePercent: 0.41629365
+fiftyTwoWeekRange: 55.85 - 79.75
+financialCurrency: EUR
+firstTradeDateMilliseconds: 992847600000
+fiveYearAvgDividendYield: 6.73
+floatShares: 197291543
+forwardEps: 8.52302
+forwardPE: 9.280748
+freeCashflow: -2189625088
+fullExchangeName: Brussels
+fullTimeEmployees: 19116
+fulldayChange: -0.25
+fulldayChangePercent: -0.31505987
+fulldayPrice: 79.1
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.27239
+grossProfits: 2899000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.30515
+heldPercentInstitutions: 0.32377997
+impliedSharesOutstanding: 209227654
+industry: Insurance - Diversified
+industryDisp: Insurance - Diversified
+industryKey: insurance-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1780444800
+lastDividendValue: 2.25
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1344297600
+lastSplitFactor: '1:10'
+longBusinessSummary: 'ageas SA/NV, together with its subsidiaries, engages in insurance
+  business. It operates through five segments: Belgium, Europe, Asia, Reinsurance,
+  and General Account. The company provides property, casualty, and life insurance
+  products, as well as pension products; and reinsurance products. It offers life
+  insurance products include risks related to the life, and death of individuals;
+  and non-life insurance products comprise accident and health, motor, and fire insurance
+  products, as well as insurance services for other damages to property; and pension
+  funds. The company serves private individuals, as well as small, medium-sized, and
+  large companies through independent brokers and the bank channels. ageas SA/NV was
+  founded in 1824 and is based in Brussels, Belgium.'
+longName: ageas SA/NV
+market: be_market
+marketCap: 16549906432
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_876955
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1880999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 16602214344
+numberOfAnalystOpinions: 11
+open: 79.6
+operatingCashflow: 3447000064
+operatingMargins: 0.08757
+overallRisk: 2
+payoutRatio: 0.3858
+pegRatio: 1.52
+phone: 32 2 557 57 11
+previousClose: 79.35
+priceEpsCurrentYear: 8.291578
+priceHint: 2
+priceToBook: 1.618878
+priceToSalesTrailing12Months: 1.5550039
+profitMargins: 0.17673999
+quickRatio: 5.155
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.36364
+region: US
+regularMarketChange: -0.25
+regularMarketChangePercent: -0.31505987
+regularMarketDayHigh: 79.75
+regularMarketDayLow: 79.1
+regularMarketDayRange: 79.1 - 79.75
+regularMarketOpen: 79.6
+regularMarketPreviousClose: 79.35
+regularMarketPrice: 79.1
+regularMarketTime: 1794411559
+regularMarketVolume: 28876
+returnOnAssets: 0.00557
+returnOnEquity: 0.19745001
+revenueGrowth: 0.275
+revenuePerShare: 54.91
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 3
+sharesOutstanding: 209227654
+shortName: AGEAS
+sourceInterval: 15
+symbol: AGS.BR
+targetHighPrice: 95.0
+targetLowPrice: 71.5
+targetMeanPrice: 80.29091
+targetMedianPrice: 76.2
+totalCash: 27384999936
+totalCashPerShare: 130.886
+totalDebt: 9011999744
+totalRevenue: 10643000320
+tradeable: false
+trailingAnnualDividendRate: 3.75
+trailingAnnualDividendYield: 0.04725898
+trailingEps: 9.62
+trailingPE: 8.222453
+trailingPegRatio: 1.5374
+triggerable: false
+twoHundredDayAverage: 69.087
+twoHundredDayAverageChange: 10.0130005
+twoHundredDayAverageChangePercent: 0.14493321
+typeDisp: Equity
+volume: 28876
+website: https://www.ageas.com
+zip: '1210'

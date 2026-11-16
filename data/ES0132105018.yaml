@@ -1,0 +1,255 @@
+52WeekChange: 0.37478256
+SandP52WeekChange: 0.097798586
+address1: Calle Santiago de Compostela
+address2: nº 100
+allTimeHigh: 24.0
+allTimeLow: 5.3
+ask: 16.0
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 893408
+averageDailyVolume3Month: 600917
+averageVolume: 600917
+averageVolume10days: 893408
+beta: 1.021
+bid: 15.99
+bidSize: 0
+boardRisk: 3
+bookValue: 8.94
+city: Madrid
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2015
+  maxAge: 1
+  name: Mr. Bernardo  Velazquez Herreros
+  title: CEO & Executive Director
+  totalPay: 1121000
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2015
+  maxAge: 1
+  name: Ms. Esther  Camós
+  title: Chief Financial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2015
+  maxAge: 1
+  name: Mr. Carlos  Lora-Tamayo
+  title: Investor Relations, Communication, Consolidation & Reporting Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2015
+  maxAge: 1
+  name: Mr. Jose Manuel Garcelan
+  title: Compliance Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2015
+  maxAge: 1
+  name: Mr. Alexander  Kolb
+  title: General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2015
+  maxAge: 1
+  name: Ms. Marisa  Dafauce
+  title: Human Resources Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2015
+  maxAge: 1
+  name: Mr. Miguel  Ferrandis Torres
+  title: Chief Corporate Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2015
+  maxAge: 1
+  name: Mr. Fernando  Gutierrez
+  title: Chief Strategy Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2015
+  maxAge: 1
+  name: Mr. Carlos  Ruiz
+  title: Director of Sustainability
+  unexercisedValue: 0
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2015
+  maxAge: 1
+  name: Mr. Wiebe  Wiechers
+  title: Chief Development Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+compensationAsOfEpochDate: 1451520000
+compensationRisk: 4
+corporateActions: []
+country: Spain
+cryptoTradeable: false
+currency: EUR
+currentPrice: 16.0
+currentRatio: 1.714
+customPriceAlertConfidence: LOW
+dayHigh: 16.07
+dayLow: 15.87
+debtToEquity: 109.376
+dividendRate: 0.62
+dividendYield: 3.92
+earningsCallTimestampEnd: 1793354400
+earningsCallTimestampStart: 1793354400
+earningsGrowth: 2.4
+earningsQuarterlyGrowth: 2.4
+earningsTimestamp: 1793377800
+earningsTimestampEnd: 1793377800
+earningsTimestampStart: 1793377800
+ebitda: 486735008
+ebitdaMargins: 0.083009996
+enterpriseToEbitda: 11.253
+enterpriseToRevenue: 0.934
+enterpriseValue: 5476992000
+epsCurrentYear: 0.92085
+epsForward: 1.54524
+epsTrailingTwelveMonths: 0.53
+esgPopulated: false
+exDividendDate: 1784073600
+exchange: MCE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Madrid
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 34 91 398 51 97
+fiftyDayAverage: 16.9776
+fiftyDayAverageChange: -0.9776001
+fiftyDayAverageChangePercent: -0.05758176
+fiftyTwoWeekChangePercent: 37.478256
+fiftyTwoWeekHigh: 18.58
+fiftyTwoWeekHighChange: -2.58
+fiftyTwoWeekHighChangePercent: -0.13885899
+fiftyTwoWeekLow: 11.15
+fiftyTwoWeekLowChange: 4.8500004
+fiftyTwoWeekLowChangePercent: 0.43497762
+fiftyTwoWeekRange: 11.15 - 18.58
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 5.45
+floatShares: 170515474
+forwardEps: 1.54524
+forwardPE: 10.354379
+freeCashflow: -155269744
+fullExchangeName: MCE
+fullTimeEmployees: 9151
+fulldayChange: 0.18999958
+fulldayChangePercent: 1.2017684
+fulldayPrice: 16.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.35829
+grossProfits: 2100844032
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0306
+heldPercentInstitutions: 0.59825003
+impliedSharesOutstanding: 249158749
+industry: Steel
+industryDisp: Steel
+industryKey: steel
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1784073600
+lastDividendValue: 0.31
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1090800000
+lastSplitFactor: '4:1'
+longBusinessSummary: Acerinox, S.A., together with its subsidiaries, manufactures
+  and distributes stainless steel and high-performance alloys in Spain, the United
+  States, Africa, Asia, rest of Europe, and internationally. It operates through Stainless
+  Steel and High-Performance Alloys segments. The company offers flat products, including
+  slab, billet, black coil, plate, engraved coil/sheet, cold rolled coil and sheet,
+  hot rolled coil and sheet, and circles; and stainless steel grades comprising austenitic,
+  ferritic, duplex, and martensitic, as well as wire stainless steels for welding.
+  It also provides long stainless steel products, such as wire, colour coated wire,
+  reinforcement wire, wire rod, hexagonal wire rod, bar, hot rolled and cold rolled
+  reinforcement bar, peeled bar, black bar, profiles, hot rolled reinforcement coil,
+  and angles. In addition, the company offers high performance alloys, including nickel
+  and nickel alloys, cobalt alloys, zirconium, special stainless steels, aluminum
+  and copper, powder for 3D printing, and welding consumables. Its products are used
+  for transport, industrial equipment and engineering, construction and infrastructure,
+  food industry, household appliances and kitchenware, and energy and environmental
+  technology applications. Acerinox, S.A. was incorporated in 1970 and is headquartered
+  in Madrid, Spain.
+longName: Acerinox, S.A.
+market: es_market
+marketCap: 3986540032
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_831357
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 114926000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 3939199821
+numberOfAnalystOpinions: 13
+open: 16.0
+operatingCashflow: 183488992
+operatingMargins: 0.05026
+overallRisk: 3
+payoutRatio: 1.4419
+pegRatio: 0.4
+phone: 34 91 398 51 00
+previousClose: 15.81
+priceEpsCurrentYear: 17.375252
+priceHint: 2
+priceToBook: 1.7897092
+priceToSalesTrailing12Months: 0.6798893
+profitMargins: 0.0196
+quickRatio: 0.774
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.76923
+region: US
+regularMarketChange: 0.18999958
+regularMarketChangePercent: 1.2017684
+regularMarketDayHigh: 16.07
+regularMarketDayLow: 15.87
+regularMarketDayRange: 15.87 - 16.07
+regularMarketOpen: 16.0
+regularMarketPreviousClose: 15.81
+regularMarketPrice: 16.0
+regularMarketTime: 1794411547
+regularMarketVolume: 335217
+returnOnAssets: 0.029930001
+returnOnEquity: 0.04538
+revenueGrowth: 0.124
+revenuePerShare: 22.68
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 1
+sharesOutstanding: 249158749
+shortName: ACERINOX, S.A.
+sourceInterval: 15
+symbol: ACX.MC
+targetHighPrice: 23.7
+targetLowPrice: 14.1
+targetMeanPrice: 19.38462
+targetMedianPrice: 20.0
+totalCash: 903000000
+totalCashPerShare: 3.622
+totalDebt: 2438000128
+totalRevenue: 5863513088
+tradeable: false
+trailingAnnualDividendRate: 0.31
+trailingAnnualDividendYield: 0.019607842
+trailingEps: 0.53
+trailingPE: 30.18868
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 15.4461
+twoHundredDayAverageChange: 0.55389977
+twoHundredDayAverageChangePercent: 0.03586017
+typeDisp: Equity
+volume: 335217
+website: https://www.acerinox.com
+zip: '28035'

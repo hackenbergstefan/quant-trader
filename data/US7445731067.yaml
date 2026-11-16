@@ -1,0 +1,274 @@
+52WeekChange: -0.10594994
+SandP52WeekChange: 0.097798586
+address1: 80 Park Plaza
+allTimeHigh: 95.22
+allTimeLow: 5.166667
+ask: 74.15
+askSize: 200
+auditRisk: 4
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 3971760
+averageDailyVolume3Month: 3509870
+averageVolume: 3509870
+averageVolume10days: 3971760
+beta: 0.491
+bid: 74.09
+bidSize: 400
+boardRisk: 4
+bookValue: 34.863
+city: Newark
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ralph A. LaRossa
+  title: Chair, President & CEO
+  totalPay: 4132581
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel J. Cregg
+  title: Executive VP & CFO
+  totalPay: 1938003
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Grace H. Park
+  title: Executive VP & General Counsel
+  totalPay: 1503997
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kim C. Hanemann
+  title: President & COO of Public Service Electric & Gas
+  totalPay: 1877585
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Zeeshan  Sheikh
+  title: Senior VP and Chief Information & Digital Officer
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sheila J. Rostiac
+  title: Senior VP, Chief Administrative Officer and CHRO
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Carlotta N. Chan
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karen  Cleeve
+  title: Vice President of Corporate Communications
+  unexercisedValue: 0
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard T. Thigpen
+  title: Senior Vice President of Corporate Citizenship
+  unexercisedValue: 0
+  yearBorn: 1961
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael K. Hyun
+  title: Senior VP and Chief Commercial Officer of Strategic Partnerships
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 74.255
+currentRatio: 1.013
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 74.865
+dayLow: 73.885
+debtToEquity: 148.399
+displayName: Public Service Enterprise
+dividendDate: 1790726400
+dividendRate: 2.68
+dividendYield: 3.59
+earningsCallTimestampEnd: 1793635200
+earningsCallTimestampStart: 1793635200
+earningsGrowth: -0.391
+earningsQuarterlyGrowth: -0.395
+earningsTimestamp: 1793626200
+earningsTimestampEnd: 1793626200
+earningsTimestampStart: 1793626200
+ebitda: 4254000128
+ebitdaMargins: 0.34482
+enterpriseToEbitda: 14.611
+enterpriseToRevenue: 5.038
+enterpriseValue: 62157131776
+epsCurrentYear: 4.36415
+epsForward: 4.63183
+epsTrailingTwelveMonths: 3.54
+esgPopulated: false
+exDividendDate: 1788912000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 71.2672
+fiftyDayAverageChange: 2.9878006
+fiftyDayAverageChangePercent: 0.041923925
+fiftyTwoWeekChangePercent: -10.594994
+fiftyTwoWeekHigh: 87.63
+fiftyTwoWeekHighChange: -13.375
+fiftyTwoWeekHighChangePercent: -0.15263039
+fiftyTwoWeekLow: 66.15
+fiftyTwoWeekLowChange: 8.104996
+fiftyTwoWeekLowChangePercent: 0.1225245
+fiftyTwoWeekRange: 66.15 - 87.63
+financialCurrency: USD
+firstTradeDateMilliseconds: 315671400000
+fiveYearAvgDividendYield: 3.23
+floatShares: 497199336
+forwardEps: 4.63183
+forwardPE: 16.03146
+freeCashflow: -324249984
+fullExchangeName: NYSE
+fullTimeEmployees: 13189
+fulldayChange: -0.42500305
+fulldayChangePercent: -0.5690989
+fulldayPrice: 74.255
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.32115
+grossProfits: 3961999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0012800001
+heldPercentInstitutions: 0.79864997
+impliedSharesOutstanding: 498515417
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+irWebsite: http://www.pseg.com/info/investors/index.jsp
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788912000
+lastDividendValue: 0.67
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1202169600
+lastSplitFactor: '2:1'
+longBusinessSummary: Public Service Enterprise Group Incorporated, through its subsidiaries,
+  operates in electric and gas utility, and nuclear generation businesses in the United
+  States. It operates through PSE&G and PSEG Power segments. The PSE&G segment transmits
+  electricity; distributes electricity and natural gas to residential, commercial,
+  and industrial customers; and appliance services and repairs to customers through
+  its service territory, as well as invests in solar generation projects, and energy
+  efficiency and related programs. The PSEG Power segment engages in nuclear generation
+  businesses; and supplies power and natural gas to nuclear power plants. As of December
+  31, 2025, it had electric transmission and distribution system of 25,000 circuit
+  miles and 871,000 poles; 58 switching stations with an installed capacity of 40,000
+  megavolt-amperes (MVA), and 238 substations with an installed capacity of 10,890
+  MVA; four electric distribution headquarters and five electric sub-headquarters;
+  18,000 miles of gas mains, 12 gas distribution headquarters, two sub-headquarters,
+  and two meter shop, as well as 54 natural gas metering and regulating stations;
+  and 158 MegaWatts defined conditions of installed PV solar capacity. The company
+  was founded in 1903 and is based in Newark, New Jersey.
+longName: Public Service Enterprise Group Incorporated
+market: us_market
+marketCap: 37017260032
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_298482
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1766000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 37229131341
+numberOfAnalystOpinions: 19
+open: 74.6
+operatingCashflow: 3257999872
+operatingMargins: 0.22258
+overallRisk: 2
+payoutRatio: 0.7458
+pegRatio: 3.51
+phone: 973 430 7000
+previousClose: 74.68
+priceEpsCurrentYear: 17.014767
+priceHint: 2
+priceToBook: 2.1299086
+priceToSalesTrailing12Months: 3.0005074
+profitMargins: 0.14315
+quickRatio: 0.647
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.31818
+region: US
+regularMarketChange: -0.42500305
+regularMarketChangePercent: -0.5690989
+regularMarketDayHigh: 74.865
+regularMarketDayLow: 73.885
+regularMarketDayRange: 73.885 - 74.865
+regularMarketOpen: 74.6
+regularMarketPreviousClose: 74.68
+regularMarketPrice: 74.255
+regularMarketTime: 1794413728
+regularMarketVolume: 362174
+returnOnAssets: 0.02928
+returnOnEquity: 0.10276
+revenueGrowth: -0.064
+revenuePerShare: 24.761
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 6
+sharesOutstanding: 498515417
+sharesPercentSharesOut: 0.0212
+sharesShort: 10549782
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 12697949
+shortName: Public Service Enterprise Group
+shortPercentOfFloat: 0.024500001
+shortRatio: 2.6
+sourceInterval: 15
+state: NJ
+symbol: PEG
+targetHighPrice: 96.0
+targetLowPrice: 69.0
+targetMeanPrice: 81.21053
+targetMedianPrice: 80.0
+totalCash: 837000000
+totalCashPerShare: 1.679
+totalDebt: 25764999168
+totalRevenue: 12337000448
+tradeable: false
+trailingAnnualDividendRate: 2.64
+trailingAnnualDividendYield: 0.035350833
+trailingEps: 3.54
+trailingPE: 20.975988
+trailingPegRatio: 3.5077
+triggerable: true
+twoHundredDayAverage: 77.87235
+twoHundredDayAverageChange: -3.6173553
+twoHundredDayAverageChangePercent: -0.04645237
+typeDisp: Equity
+volume: 362174
+website: https://investor.pseg.com
+zip: '07102'

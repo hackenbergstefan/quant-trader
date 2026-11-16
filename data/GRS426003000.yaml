@@ -1,0 +1,264 @@
+52WeekChange: 1.1630435
+SandP52WeekChange: 0.097798586
+address1: 12A Irodou Attikou Street
+allTimeHigh: 70.0
+allTimeLow: 3.76
+ask: 48.0
+askSize: 195
+auditRisk: 10
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 272156
+averageDailyVolume3Month: 396127
+averageVolume: 396127
+averageVolume10days: 272156
+beta: 0.113
+bid: 60.3
+bidSize: 751
+boardRisk: 8
+bookValue: 35.725
+city: Marousi
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Yannis V. Vardinoyannis
+  title: CEO & Chairman
+  totalPay: 382954
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 73
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ioannis N. Kosmadakis
+  title: Deputy CEO & Director
+  totalPay: 480552
+  unexercisedValue: 0
+  yearBorn: 1952
+- age: 70
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael-Matheos J. Stiakakis
+  title: General Manager of Fuel Refining & Trading and Executive Director
+  totalPay: 429105
+  unexercisedValue: 0
+  yearBorn: 1955
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Efstratios  Patsatzis
+  title: General Manager of Finance
+  unexercisedValue: 0
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Vassilios N. Chanas
+  title: Chief Accountant
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nikolaos K. Giannakakis
+  title: GM of Information Technology & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mary A. Psyllaki
+  title: Investor Relations Officer
+  unexercisedValue: 0
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nikolaos  Dikeos
+  title: Head of Legal Department & Secretary of the Board
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Theofanis Chr. Voutsaras
+  title: General Manager of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Helena  Athoussaki
+  title: Chief Sustainability Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: Greece
+cryptoTradeable: false
+currency: EUR
+currentPrice: 60.35
+currentRatio: 2.124
+customPriceAlertConfidence: LOW
+dayHigh: 60.35
+dayLow: 59.15
+debtToEquity: 66.839
+dividendDate: 997056000
+dividendRate: 1.79
+dividendYield: 2.99
+earningsCallTimestampEnd: 1787754600
+earningsCallTimestampStart: 1787754600
+earningsGrowth: 3.514
+earningsQuarterlyGrowth: 3.566
+earningsTimestamp: 1787754000
+earningsTimestampEnd: 1795015200
+earningsTimestampStart: 1795015200
+ebitda: 1440995968
+ebitdaMargins: 0.10487001
+enterpriseToEbitda: 5.095
+enterpriseToRevenue: 0.534
+enterpriseValue: 7341831168
+epsCurrentYear: 14.88538
+epsForward: 9.57125
+epsTrailingTwelveMonths: 10.78
+esgPopulated: false
+exDividendDate: 1797811200
+exchange: ATH
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Athens
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fax: 30 210 80 94 444
+fiftyDayAverage: 66.339
+fiftyDayAverageChange: -5.9889984
+fiftyDayAverageChangePercent: -0.0902787
+fiftyTwoWeekChangePercent: 116.30435
+fiftyTwoWeekHigh: 70.0
+fiftyTwoWeekHighChange: -9.650002
+fiftyTwoWeekHighChangePercent: -0.13785717
+fiftyTwoWeekLow: 27.12
+fiftyTwoWeekLowChange: 33.229996
+fiftyTwoWeekLowChangePercent: 1.2252948
+fiftyTwoWeekRange: 27.12 - 70.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 997169400000
+fiveYearAvgDividendYield: 3.9
+floatShares: 63279521
+forwardEps: 9.57125
+forwardPE: 6.3053412
+freeCashflow: 594343488
+fullExchangeName: Athens
+fullTimeEmployees: 4503
+fulldayChange: 0.6499977
+fulldayChangePercent: 1.0887734
+fulldayPrice: 60.35
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.13552
+grossProfits: 1862179968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.41527998
+heldPercentInstitutions: 0.16540001
+impliedSharesOutstanding: 108623183
+industry: Oil & Gas Refining & Marketing
+industryDisp: Oil & Gas Refining & Marketing
+industryKey: oil-gas-refining-marketing
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1797811200
+lastDividendValue: 0.55
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Motor Oil (Hellas) Corinth Refineries S.A. engages in oil refining
+  and oil products trading in Greece and internationally. It operates through four
+  segments: Refining Activity, Fuels'' Marketing Activity, Power and Gas, and Other.
+  The company produces and sells liquid fuels, lubricants, and asphalt for transportation,
+  industrial, and household use. It also markets and distributes a range of oil products,
+  including gasoline, fuel oil, diesel, jet fuel, and lubricants through its retail
+  network; renewable fuels and hydrogen; and operates gas stations. In addition, the
+  company engages in the collection and trading of used lubricants; research, exploration,
+  and trading of crude oil; and marketing and distribution of liquefied petroleum
+  gas; as well as the manufacturing of LPG cylinders for the packaging and transportation
+  of its goods; design, financing, construction, and operates aircraft fuel supply
+  system and the storage facilities at the Athens International Airport at Spata of
+  Attica. Further, it is involved in the purchase, sale, exploitation, and development
+  of real estate properties; and provision of facilities management, airport technical
+  consulting, waste management, and financial services. Motor Oil (Hellas) Corinth
+  Refineries S.A. was founded in 1970 and is headquartered in Marousi, Greece.'
+longName: Motor Oil (Hellas) Corinth Refineries S.A.
+market: gr_market
+marketCap: 6555408896
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_10244928
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1171261952
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 6484804025
+numberOfAnalystOpinions: 9
+open: 59.7
+operatingCashflow: 1569261952
+operatingMargins: 0.087139994
+overallRisk: 10
+payoutRatio: 0.1657
+pegRatio: 3.9
+phone: 30 210 80 94 000
+previousClose: 59.7
+priceEpsCurrentYear: 4.0543137
+priceHint: 2
+priceToBook: 1.6892933
+priceToSalesTrailing12Months: 0.47706732
+profitMargins: 0.08524
+quickRatio: 1.579
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.33333
+region: US
+regularMarketChange: 0.6499977
+regularMarketChangePercent: 1.0887734
+regularMarketDayHigh: 60.35
+regularMarketDayLow: 59.15
+regularMarketDayRange: 59.15 - 60.35
+regularMarketOpen: 59.7
+regularMarketPreviousClose: 59.7
+regularMarketPrice: 60.35
+regularMarketTime: 1794409822
+regularMarketVolume: 136919
+returnOnAssets: 0.09233
+returnOnEquity: 0.3459
+revenueGrowth: 0.61
+revenuePerShare: 126.692
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 5
+sharesOutstanding: 108623183
+shortName: MOTOR OIL S.A.
+sourceInterval: 10
+symbol: MOH.AT
+targetHighPrice: 81.0
+targetLowPrice: 40.0
+targetMeanPrice: 61.77778
+targetMedianPrice: 65.1
+totalCash: 1807976960
+totalCashPerShare: 16.644
+totalDebt: 2622285056
+totalRevenue: 13741056000
+tradeable: false
+trailingAnnualDividendRate: 2.8
+trailingAnnualDividendYield: 0.04690117
+trailingEps: 10.78
+trailingPE: 5.59833
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 47.6607
+twoHundredDayAverageChange: 12.689297
+twoHundredDayAverageChangePercent: 0.26624233
+typeDisp: Equity
+volume: 136919
+website: https://www.moh.gr
+zip: 151 24

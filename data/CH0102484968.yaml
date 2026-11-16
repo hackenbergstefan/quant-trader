@@ -1,0 +1,249 @@
+52WeekChange: 0.23013413
+SandP52WeekChange: 0.097798586
+address1: Bahnhofstrasse 36
+allTimeHigh: 170.7665
+allTimeLow: 11.140559
+ask: 71.86
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 472990
+averageDailyVolume3Month: 438439
+averageVolume: 438439
+averageVolume10days: 472990
+beta: 0.832
+bid: 71.82
+bidSize: 0
+boardRisk: 2
+bookValue: 35.84
+city: Zurich
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Bollinger
+  title: CEO & Member of Executive Board
+  totalPay: 3343000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Burrill
+  title: CFO & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christoph  Hiestand
+  title: Group General Counsel & Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Guido  Ruoss C.F.A.
+  title: Chief Corporate Affairs & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carlos Recoder Miralles
+  title: Head of Americas & Iberia and Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rajesh  Manwani
+  title: Co-Head of Global Products and Solutions & Member of Executive Board
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kong Eng Lee
+  title: Member of the Executive Board & Head of Asia Pacific
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Yves Henri Bonzon
+  title: Co-Head of IWMS, Chief Investment Officer & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nicolas  de Skowronski
+  title: Co-Head of IWMS, Head Wealth Management Solutions & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Luigi  Vignola
+  title: Head of Markets & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 71.82
+customPriceAlertConfidence: LOW
+dayHigh: 72.32
+dayLow: 71.38
+dividendDate: 1744761600
+dividendRate: 2.6
+dividendYield: 3.64
+earningsCallTimestampEnd: 1784615400
+earningsCallTimestampStart: 1784615400
+earningsGrowth: 1.275
+earningsQuarterlyGrowth: 1.276
+earningsTimestampEnd: 1770049800
+earningsTimestampStart: 1770049800
+ebitdaMargins: 0.0
+enterpriseToRevenue: 0.466
+enterpriseValue: 1969043200
+epsCurrentYear: 6.05729
+epsForward: 6.25963
+epsTrailingTwelveMonths: 5.54
+esgPopulated: false
+exDividendDate: 1776038400
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 41 58 888 5517
+fiftyDayAverage: 71.5908
+fiftyDayAverageChange: 0.22920227
+fiftyDayAverageChangePercent: 0.0032015606
+fiftyTwoWeekChangePercent: 23.013412
+fiftyTwoWeekHigh: 78.22
+fiftyTwoWeekHighChange: -6.4000015
+fiftyTwoWeekHighChangePercent: -0.081820525
+fiftyTwoWeekLow: 54.3
+fiftyTwoWeekLowChange: 17.52
+fiftyTwoWeekLowChangePercent: 0.32265195
+fiftyTwoWeekRange: 54.3 - 78.22
+financialCurrency: CHF
+firstTradeDateMilliseconds: 796892400000
+fiveYearAvgDividendYield: 4.41
+floatShares: 205012988
+forwardEps: 6.25963
+forwardPE: 11.473521
+fullExchangeName: Swiss
+fullTimeEmployees: 7675
+fulldayChange: 0.30000305
+fulldayChangePercent: 0.41946736
+fulldayPrice: 71.82
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 4226099968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00247
+heldPercentInstitutions: 0.68318003
+impliedSharesOutstanding: 205764027
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776038400
+lastDividendValue: 2.6
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Julius Bär Gruppe AG provides wealth management solutions in
+  Switzerland, Europe, the Americas, Asia, and internationally. The company provides
+  investment advisory and discretionary mandates; structured products, securities
+  execution and advisory, and private markets and fund offering; wealth planning,
+  and family office services. It also offers open product platform services. Julius
+  Bär Gruppe AG was founded in 1890 and is headquartered in Zurich, Switzerland.
+longName: Julius Bär Gruppe AG
+market: ch_market
+marketCap: 14777972736
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_61027839
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1140600064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 14716243211
+numberOfAnalystOpinions: 17
+open: 71.68
+operatingCashflow: 5158099968
+operatingMargins: 0.36585
+overallRisk: 3
+payoutRatio: 0.4693
+pegRatio: 0.77
+phone: 41 58 888 1111
+previousClose: 71.52
+priceEpsCurrentYear: 11.856788
+priceHint: 2
+priceToBook: 2.0039062
+priceToSalesTrailing12Months: 3.4968345
+profitMargins: 0.26989
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.11765
+region: US
+regularMarketChange: 0.30000305
+regularMarketChangePercent: 0.41946736
+regularMarketDayHigh: 72.32
+regularMarketDayLow: 71.38
+regularMarketDayRange: 71.38 - 72.32
+regularMarketOpen: 71.68
+regularMarketPreviousClose: 71.52
+regularMarketPrice: 71.82
+regularMarketTime: 1794411547
+regularMarketVolume: 165158
+returnOnAssets: 0.01031
+returnOnEquity: 0.16169001
+revenueGrowth: 0.257
+revenuePerShare: 20.559
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 205764027
+shortName: JULIUS BAER N
+sourceInterval: 15
+symbol: BAER.SW
+targetHighPrice: 87.0
+targetLowPrice: 56.0
+targetMeanPrice: 77.02941
+targetMedianPrice: 79.0
+totalCash: 46433800192
+totalCashPerShare: 225.665
+totalDebt: 33684699136
+totalRevenue: 4226099968
+tradeable: false
+trailingAnnualDividendRate: 2.6
+trailingAnnualDividendYield: 0.03635347
+trailingEps: 5.54
+trailingPE: 12.963899
+trailingPegRatio: 0.7879
+triggerable: false
+twoHundredDayAverage: 67.8307
+twoHundredDayAverageChange: 3.989296
+twoHundredDayAverageChangePercent: 0.05881254
+typeDisp: Equity
+volume: 165158
+website: https://www.juliusbaer.com
+zip: '8010'

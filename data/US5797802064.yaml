@@ -1,0 +1,277 @@
+52WeekChange: -0.2908318
+SandP52WeekChange: 0.097798586
+address1: 24 Schilling Road
+address2: Suite 1
+allTimeHigh: 107.35
+allTimeLow: 0.339844
+ask: 45.65
+askSize: 300
+auditRisk: 7
+averageDailyVolume10Day: 3728820
+averageDailyVolume3Month: 3506331
+averageVolume: 3506331
+averageVolume10days: 3728820
+beta: 0.669
+bid: 45.61
+bidSize: 100
+boardRisk: 10
+bookValue: 26.028
+city: Hunt Valley
+companyOfficers:
+- age: 59
+  exercisedValue: 891446
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brendan M. Foley
+  title: President, CEO & Chairman
+  totalPay: 2231476
+  unexercisedValue: 1757275
+  yearBorn: 1966
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marcos Mendes Gabriel
+  title: Executive VP & CFO
+  totalPay: 1039243
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 55
+  exercisedValue: 888600
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffery D. Schwartz
+  title: VP, General Counsel & Corporate Secretary
+  totalPay: 1095731
+  unexercisedValue: 1044243
+  yearBorn: 1970
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sarah J. Piper
+  title: Chief Human Relations Officer
+  totalPay: 926914
+  unexercisedValue: 67536
+  yearBorn: 1977
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew  Foust
+  title: Chief Integration Officer
+  totalPay: 1020313
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anju  Rao
+  title: Chief Science Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Guy  Peri
+  title: Chief Information & Digital Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Faten  Freiha
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tabata L. Gomez
+  title: Chief Growth & Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ana  Sanchez
+  title: President of Europe & Middle East and Africa (EMEA)
+  unexercisedValue: 0
+  yearBorn: 1976
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 45.695
+currentRatio: 0.657
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 46.19
+dayLow: 45.61
+debtToEquity: 66.141
+displayName: McCormick
+dividendDate: 1792972800
+dividendRate: 1.92
+dividendYield: 4.11
+earningsCallTimestampEnd: 1790856000
+earningsCallTimestampStart: 1790856000
+earningsGrowth: -0.571
+earningsQuarterlyGrowth: -0.567
+earningsTimestamp: 1790857800
+earningsTimestampEnd: 1800538200
+earningsTimestampStart: 1800538200
+ebitda: 1504099968
+ebitdaMargins: 0.19569999
+enterpriseToEbitda: 11.862
+enterpriseToRevenue: 2.321
+enterpriseValue: 17841592320
+epsCurrentYear: 3.08974
+epsForward: 3.22139
+epsTrailingTwelveMonths: 5.53
+esgPopulated: false
+exDividendDate: 1791849600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 48.178
+fiftyDayAverageChange: -2.4830017
+fiftyDayAverageChangePercent: -0.05153808
+fiftyTwoWeekChangePercent: -29.08318
+fiftyTwoWeekHigh: 72.41
+fiftyTwoWeekHighChange: -26.715004
+fiftyTwoWeekHighChangePercent: -0.3689408
+fiftyTwoWeekLow: 43.25
+fiftyTwoWeekLowChange: 2.4449997
+fiftyTwoWeekLowChangePercent: 0.056531783
+fiftyTwoWeekRange: 43.25 - 72.41
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 2.13
+floatShares: 265706554
+forwardEps: 3.22139
+forwardPE: 14.184871
+freeCashflow: 742000000
+fullExchangeName: NYSE
+fullTimeEmployees: 14100
+fulldayChange: -1.0250015
+fulldayChangePercent: -2.194629
+fulldayPrice: 45.695
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.38914
+grossProfits: 2990799872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00013
+heldPercentInstitutions: 0.98373
+impliedSharesOutstanding: 269064479
+industry: Packaged Foods
+industryDisp: Packaged Foods
+industryKey: packaged-foods
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=65454&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1791849600
+lastDividendValue: 0.48
+lastFiscalYearEnd: 1764460800
+lastSplitDate: 1606780800
+lastSplitFactor: '2:1'
+longBusinessSummary: McCormick & Company, Incorporated manufactures, markets, and
+  distributes herbs, spices, seasoning mixes, condiments, and other flavorful products
+  to the food industry. It operates in two segments, Consumer and Flavor Solutions.
+  The Consumer segment offers spices, herbs, and seasonings, as well as condiments,
+  sauces, and desserts. This segment markets its products under the McCormick, French's,
+  Frank's RedHot, Lawry's, Cholula Hot Sauce, Club House, Gourmet Garden, and OLD
+  BAY brands in the Americas; Ducros, Schwartz, Kamis, LA Drogheria, and Vahiné brands
+  in Europe, the Middle East, and Africa; and McCormick and DaQiao brands in the Asia/Pacific
+  (APAC), as well as desserts under the Aeroplane brand; and packaged chilled herbs
+  under the Gourmet Garden brand. Its authentic regional brands include Zatarain's,
+  Stubb's, Thai Kitchen, and Simply Asia. The company also supplies its products under
+  private labels. This segment serves retailers, including grocery, mass merchandise,
+  warehouse clubs, discount and drug stores, and e-commerce retailers directly and
+  indirectly through distributors and wholesale foodservice suppliers. The Flavor
+  Solutions segment offers seasoning blends, spices, herbs, condiments, coating systems,
+  and compound flavors to multinational food manufacturers and foodservice customers.
+  It serves foodservice customers directly and indirectly through distributors. The
+  company was founded in 1889 and is headquartered in Hunt Valley, Maryland.
+longName: McCormick & Company, Incorporated
+market: us_market
+marketCap: 12294901760
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_181176
+mostRecentQuarter: 1788134400
+netIncomeToCommon: 1490499968
+nextFiscalYearEnd: 1795996800
+nonDilutedMarketCap: 12574032716
+numberOfAnalystOpinions: 14
+open: 45.86
+operatingCashflow: 1140800000
+operatingMargins: 0.16343
+overallRisk: 10
+payoutRatio: 0.3418
+pegRatio: 3.14
+phone: 410 771 7301
+previousClose: 46.72
+priceEpsCurrentYear: 14.78927
+priceHint: 2
+priceToBook: 1.7556094
+priceToSalesTrailing12Months: 1.5997114
+profitMargins: 0.19393
+quickRatio: 0.263
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -1.0250015
+regularMarketChangePercent: -2.194629
+regularMarketDayHigh: 46.19
+regularMarketDayLow: 45.61
+regularMarketDayRange: 45.61 - 46.19
+regularMarketOpen: 45.86
+regularMarketPreviousClose: 46.72
+regularMarketPrice: 45.695
+regularMarketTime: 1794413743
+regularMarketVolume: 697224
+returnOnAssets: 0.05252
+returnOnEquity: 0.22623
+revenueGrowth: 0.174
+revenuePerShare: 28.577
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 10
+sharesOutstanding: 254541615
+sharesPercentSharesOut: 0.0
+sharesShort: 2455
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 19887002
+shortName: McCormick & Company, Incorporat
+shortRatio: 0.0
+sourceInterval: 15
+state: MD
+symbol: MKC
+targetHighPrice: 65.0
+targetLowPrice: 47.0
+targetMeanPrice: 54.455
+targetMedianPrice: 55.0
+totalCash: 331100000
+totalCashPerShare: 1.231
+totalDebt: 5018200064
+totalRevenue: 7685700096
+tradeable: false
+trailingAnnualDividendRate: 1.89
+trailingAnnualDividendYield: 0.040453766
+trailingEps: 5.53
+trailingPE: 8.26311
+trailingPegRatio: 3.1351
+triggerable: true
+twoHundredDayAverage: 52.7852
+twoHundredDayAverageChange: -7.0901985
+twoHundredDayAverageChangePercent: -0.13432172
+typeDisp: Equity
+volume: 697224
+website: https://www.mccormickcorporation.com
+zip: '21031'

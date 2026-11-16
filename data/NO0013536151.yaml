@@ -1,0 +1,280 @@
+52WeekChange: 0.45880425
+SandP52WeekChange: 0.097798586
+address1: Kirkegårdsveien 45
+allTimeHigh: 427.0
+allTimeLow: 3.214386
+ask: 352.7
+askSize: 368
+auditRisk: 2
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 1811264
+averageDailyVolume3Month: 1266873
+averageVolume: 1266873
+averageVolume10days: 1811264
+beta: 0.169
+bid: 352.2
+bidSize: 729
+boardRisk: 3
+bookValue: 15.123
+city: Kongsberg
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Geir  Haoy
+  title: President & CEO
+  totalPay: 11740000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Mette Toft Bjorgen
+  title: CFO & Group Executive VP
+  totalPay: 5420000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Christian  Karde
+  title: Group Executive VP, General Counsel & Chief of Staff
+  totalPay: 5110000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Iver Christian Olerud
+  title: Group Executive Vice President of Corporate Development
+  totalPay: 4917000
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Eirik  Lie
+  title: Executive VP of Kongsberg and President of Kongsberg Defense & Aerospace
+  totalPay: 6818000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Even  Aas
+  title: Group Executive Vice President Public Affairs & Communication
+  totalPay: 4366000
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Lisa Edvardsen Haugan
+  title: Executive VP of Kongsberg & President of Kongsberg Maritime
+  totalPay: 6034000
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Martin Wien Fjell
+  title: Executive VP of Kongsberg & President of Kongsberg Discovery
+  totalPay: 5530000
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 71
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Kristin Søia Barkost
+  title: Vice President of Accounting
+  unexercisedValue: 0
+  yearBorn: 1954
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Jan Erik Julseth Hoff
+  title: Group Vice President Investor Relations & Sustainability
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1735603200
+compensationRisk: 7
+corporateActions: []
+country: Norway
+cryptoTradeable: false
+currency: NOK
+currentPrice: 353.5
+currentRatio: 0.873
+customPriceAlertConfidence: LOW
+dayHigh: 360.1
+dayLow: 349.7
+debtToEquity: 24.047
+dividendRate: 2.2
+dividendYield: 0.62
+earningsCallTimestampEnd: 1793258100
+earningsCallTimestampStart: 1793258100
+earningsGrowth: -0.124
+earningsQuarterlyGrowth: -0.126
+earningsTimestamp: 1793287200
+earningsTimestampEnd: 1793287200
+earningsTimestampStart: 1793287200
+ebitda: 7488999936
+ebitdaMargins: 0.19073999
+enterpriseToEbitda: 41.37
+enterpriseToRevenue: 7.891
+enterpriseValue: 309817737216
+epsCurrentYear: 7.31654
+epsForward: 11.41755
+epsTrailingTwelveMonths: 6.57
+esgPopulated: false
+exDividendDate: 1776124800
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 47 32 28 82 01
+fiftyDayAverage: 315.89
+fiftyDayAverageChange: 37.609985
+fiftyDayAverageChangePercent: 0.11906038
+fiftyTwoWeekChangePercent: 45.880424
+fiftyTwoWeekHigh: 427.0
+fiftyTwoWeekHighChange: -73.5
+fiftyTwoWeekHighChangePercent: -0.17213115
+fiftyTwoWeekLow: 228.5
+fiftyTwoWeekLowChange: 125.0
+fiftyTwoWeekLowChangePercent: 0.54704595
+fiftyTwoWeekRange: 228.5 - 427.0
+financialCurrency: NOK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 0.81
+floatShares: 410211840
+forwardEps: 11.41755
+forwardPE: 30.961107
+freeCashflow: 4256624896
+fullExchangeName: Oslo
+fullTimeEmployees: 7586
+fulldayChange: -1.5
+fulldayChangePercent: -0.42253524
+fulldayPrice: 353.5
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.52766997
+grossProfits: 20718000128
+hasPrePostMarketData: false
+heldPercentInsiders: 0.5417
+heldPercentInstitutions: 0.30783
+impliedSharesOutstanding: 879609245
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+irWebsite: http://www.kongsberg.com/en/KOG/InvestorRelations
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776124800
+lastDividendValue: 5.7
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1748908800
+lastSplitFactor: '5:1'
+longBusinessSummary: Kongsberg Gruppen ASA, together with its subsidiaries, provides
+  high-tech systems and solutions primarily to customers in the defense markets. It
+  operates through Kongsberg Defence & Aerospace, Kongsberg Discovery, and Other segments.
+  The Kongsberg Defence & Aerospace segment provides various systems and services
+  to the defence industry. It provides air defence and combat systems, sonars, and
+  navigation for marine vessels and submarines, as well as integrated command and
+  control systems; remote control weapon stations for land-based vehicles and marine
+  vessels; remote tower solutions for airports; products for military tactical communication;
+  naval strike and air-to-surface missiles; and components and services to the space
+  industry, as well as port monitoring systems. This segment also offers lightweight
+  composite and titanium components for F-35 combat aircraft, as well as maintenance
+  and lifecycle services for military and civil capabilities. The Kongsberg Discovery
+  segment offers subsea positioning and communication technologies; sustainable management
+  technologies; and technologies that provide its customers with information about
+  position, speed, acceleration, and heading, as well as uncrewed platforms that deliver
+  autonomous underwater and surface vessels for research, defence, and commercial
+  use. The Other segment focuses on digitalization within the oil and gas, and renewable
+  energy markets. It operates primarily in Norway, Europe, North America, South America,
+  Asia, Australia, and Africa. The company's distribution channels, including direct
+  sales, partnerships and alliances, online platforms, marketing advanced technology.
+  Kongsberg Gruppen ASA was founded in 1814 and is headquartered in Kongsberg, Norway.
+longName: Kongsberg Gruppen ASA
+market: no_market
+marketCap: 310941843456
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_875854
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 5779999744
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 312261281975
+numberOfAnalystOpinions: 11
+open: 358.0
+operatingCashflow: 10296999936
+operatingMargins: 0.16524
+overallRisk: 4
+payoutRatio: 0.33490002
+pegRatio: 0.98
+phone: 47 32 28 82 00
+previousClose: 355.0
+priceEpsCurrentYear: 48.31519
+priceHint: 2
+priceToBook: 23.374992
+priceToSalesTrailing12Months: 7.9194627
+profitMargins: 0.18142
+quickRatio: 0.644
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.09091
+region: US
+regularMarketChange: -1.5
+regularMarketChangePercent: -0.42253524
+regularMarketDayHigh: 360.1
+regularMarketDayLow: 349.7
+regularMarketDayRange: 349.7 - 360.1
+regularMarketOpen: 358.0
+regularMarketPreviousClose: 355.0
+regularMarketPrice: 353.5
+regularMarketTime: 1794410980
+regularMarketVolume: 1024625
+returnOnAssets: 0.05645
+returnOnEquity: 0.32747
+revenueGrowth: 0.484
+revenuePerShare: 44.659
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 6
+sharesOutstanding: 879609245
+shortName: KONGSBERG GRUPPEN
+sourceInterval: 15
+symbol: KOG.OL
+targetHighPrice: 554.0
+targetLowPrice: 320.0
+targetMeanPrice: 409.0
+targetMedianPrice: 415.0
+totalCash: 6365000192
+totalCashPerShare: 7.253
+totalDebt: 3476999936
+totalRevenue: 39262998528
+tradeable: false
+trailingAnnualDividendRate: 2.2
+trailingAnnualDividendYield: 0.0061971834
+trailingEps: 6.57
+trailingPE: 53.805172
+trailingPegRatio: 0.9836
+triggerable: false
+twoHundredDayAverage: 330.5286
+twoHundredDayAverageChange: 22.971405
+twoHundredDayAverageChangePercent: 0.06949899
+typeDisp: Equity
+volume: 1024625
+website: https://www.kongsberg.com
+zip: '3616'

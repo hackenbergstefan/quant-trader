@@ -1,0 +1,284 @@
+52WeekChange: 0.76020014
+SandP52WeekChange: 0.097798586
+address1: 1000 Nicollet Mall
+allTimeHigh: 268.98
+allTimeLow: 0.135417
+ask: 161.76
+askSize: 400
+auditRisk: 4
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 4083100
+averageDailyVolume3Month: 4103610
+averageVolume: 4103610
+averageVolume10days: 4083100
+beta: 0.932
+bid: 161.65
+bidSize: 200
+boardRisk: 6
+bookValue: 39.277
+city: Minneapolis
+companyOfficers:
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian C. Cornell
+  title: Executive Chair of the Board
+  totalPay: 3274808
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael J. Fiddelke
+  title: CEO & Director
+  totalPay: 1726311
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James  Lee
+  title: Executive VP & CFO
+  totalPay: 1303933
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melissa K. Kremer
+  title: Executive VP & Chief HR Officer
+  totalPay: 1263325
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lisa R. Roath
+  title: Executive VP & COO
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew A. Liegel
+  title: Senior VP, Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pratabkumar  Vemana
+  title: Executive VP and Chief Information & Product Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Hulbert
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Grant B. McGee J.D.
+  title: Executive VP and Chief Legal & Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark  Weinstein
+  title: Executive Vice President, Chief Marketing & Guest Experience Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions:
+- header: Dividend
+  message: TGT announced a cash dividend of $1.16 with an ex-date of Nov. 11, 2026
+  meta:
+    amount: '1.16'
+    dateEpochMs: 1794373200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 162.0639
+currentRatio: 0.988
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 163.49
+dayLow: 160.94
+debtToEquity: 107.583
+displayName: Target
+dividendDate: 1796083200
+dividendRate: 4.64
+dividendYield: 2.87
+earningsCallTimestampEnd: 1747828800
+earningsCallTimestampStart: 1747828800
+earningsGrowth: 1.005
+earningsQuarterlyGrowth: 1.007
+earningsTimestamp: 1795008600
+earningsTimestampEnd: 1795008600
+earningsTimestampStart: 1795008600
+ebitda: 8593000448
+ebitdaMargins: 0.079780005
+enterpriseToEbitda: 10.157
+enterpriseToRevenue: 0.81
+enterpriseValue: 87281123328
+epsCurrentYear: 10.52952
+epsForward: 9.56876
+epsTrailingTwelveMonths: 9.63
+esgPopulated: false
+exDividendDate: 1794268800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 156.492
+fiftyDayAverageChange: 5.5718994
+fiftyDayAverageChangePercent: 0.03560501
+fiftyTwoWeekChangePercent: 76.02001
+fiftyTwoWeekHigh: 170.75
+fiftyTwoWeekHighChange: -8.686096
+fiftyTwoWeekHighChangePercent: -0.050870255
+fiftyTwoWeekLow: 83.44
+fiftyTwoWeekLowChange: 78.6239
+fiftyTwoWeekLowChangePercent: 0.94228065
+fiftyTwoWeekRange: 83.44 - 170.75
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 2.82
+floatShares: 452783928
+forwardEps: 9.56876
+forwardPE: 16.936771
+freeCashflow: 3432999936
+fullExchangeName: NYSE
+fullTimeEmployees: 400000
+fulldayChange: 0.28390503
+fulldayChangePercent: 0.17548834
+fulldayPrice: 162.0639
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.2838
+grossProfits: 30567000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0027
+heldPercentInstitutions: 0.89932
+impliedSharesOutstanding: 454291461
+industry: Discount Stores
+industryDisp: Discount Stores
+industryKey: discount-stores
+irWebsite: http://investors.target.com/phoenix.zhtml?c=65828&p=irol-IRHome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794268800
+lastDividendValue: 1.16
+lastFiscalYearEnd: 1769817600
+lastSplitDate: 964051200
+lastSplitFactor: '2:1'
+longBusinessSummary: Target Corporation operates as a general merchandise retailer
+  in the United States. It offers apparel for women, men, young adults, kids, toddlers,
+  and babies, as well as jewelry, accessories, and shoes; and beauty products, such
+  as skin and bath care, cosmetics, hair care, oral care, deodorant, and shaving products.
+  The company also provides food and beverage products comprising dry and perishable
+  grocery, including snacks, candy, beverages, deli, bakery, meat, produce, and food
+  service; electronics which includes video games and consoles, toys, sporting goods,
+  entertainment, and luggage; bed and bath, home décor, school/office supplies, storage,
+  small appliances, kitchenware, greeting cards, party supplies, furniture, lighting,
+  home improvement, and seasonal merchandise; and household essentials, such as household
+  cleaning, paper products, over-the-counter healthcare, vitamins and supplements,
+  baby gear, and pet supplies. In addition, it sells merchandise through periodic
+  design and creative partnerships, and shop-in-shop experience; and in-store amenities.
+  The company sells its products through its stores; and digital channels, including
+  Target.com. Target Corporation was incorporated in 1902 and is headquartered in
+  Minneapolis, Minnesota.
+longName: Target Corporation
+market: us_market
+marketCap: 73624248320
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_174438
+mostRecentQuarter: 1785542400
+netIncomeToCommon: 4392000000
+nextFiscalYearEnd: 1801353600
+nonDilutedMarketCap: 73496125950
+numberOfAnalystOpinions: 34
+open: 162.0
+operatingCashflow: 8723000320
+operatingMargins: 0.05032
+overallRisk: 2
+payoutRatio: 0.47349998
+pegRatio: 2.27
+phone: 612 304 6073
+previousClose: 161.78
+priceEpsCurrentYear: 15.391386
+priceHint: 2
+priceToBook: 4.1261783
+priceToSalesTrailing12Months: 0.6835732
+profitMargins: 0.04078
+quickRatio: 0.255
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.47368
+region: US
+regularMarketChange: 0.28390503
+regularMarketChangePercent: 0.17548834
+regularMarketDayHigh: 163.49
+regularMarketDayLow: 160.94
+regularMarketDayRange: 160.94 - 163.49
+regularMarketOpen: 162.0
+regularMarketPreviousClose: 161.78
+regularMarketPrice: 162.0639
+regularMarketTime: 1794413748
+regularMarketVolume: 635897
+returnOnAssets: 0.05689
+returnOnEquity: 0.26408002
+revenueGrowth: 0.053
+revenuePerShare: 237.366
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 1
+sharesOutstanding: 454291461
+sharesPercentSharesOut: 0.0361
+sharesShort: 16405692
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 17261422
+shortName: Target Corporation
+shortPercentOfFloat: 0.036199998
+shortRatio: 4.11
+sourceInterval: 15
+state: MN
+symbol: TGT
+targetHighPrice: 200.0
+targetLowPrice: 128.0
+targetMeanPrice: 164.73529
+targetMedianPrice: 164.0
+totalCash: 5410999808
+totalCashPerShare: 11.911
+totalDebt: 19196000256
+totalRevenue: 107704999936
+tradeable: false
+trailingAnnualDividendRate: 4.56
+trailingAnnualDividendYield: 0.028186426
+trailingEps: 9.63
+trailingPE: 16.829065
+trailingPegRatio: 2.2703
+triggerable: true
+twoHundredDayAverage: 135.83646
+twoHundredDayAverageChange: 26.227448
+twoHundredDayAverageChangePercent: 0.19308107
+typeDisp: Equity
+volume: 635897
+website: https://corporate.target.com
+zip: '55403'

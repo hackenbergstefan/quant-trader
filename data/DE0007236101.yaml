@@ -1,0 +1,281 @@
+52WeekChange: 0.08446491
+SandP52WeekChange: 0.097798586
+address1: Werner-von-Siemens-Straße 1
+allTimeHigh: 291.7
+allTimeLow: 20.916945
+ask: 275.45
+askSize: 1000
+auditRisk: 1
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 1107976
+averageDailyVolume3Month: 965645
+averageVolume: 965645
+averageVolume10days: 1107976
+beta: 1.336
+bid: 275.55
+bidSize: 442
+boardRisk: 5
+bookValue: 88.186
+city: Munich
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Roland  Busch Dipl.Phys.
+  title: President, CEO & Chairman of Management Board
+  totalPay: 5400000
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Veronika  Bienert
+  title: CFO & Member of Management Board
+  totalPay: 2902000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Cedrik  Neike
+  title: President of Digital Industries & Member of Managing Board
+  totalPay: 3241000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Judith  Wiese
+  title: Chief People & Sustainability Officer and Member of Managing Board
+  totalPay: 3346000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Peter  Koerte Ph.D.
+  title: CTO, President of Siemens Smart Infrastructure, Chief Strategy Officer &
+    Member of Management Board
+  totalPay: 2904000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Ralf P. Thomas
+  title: Special Advisor
+  totalPay: 3318000
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Andreas Christian Hoffmann
+  title: General Counsel, Head of the Legal & Compliance Department
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hanno  Kunkel
+  title: Chief Compliance Officer and Head of the Global Compliance Organization &
+    Human Rights Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christiane Ribeiro Guimaraes Hofer
+  title: Global Head of Communications
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jochen  Schmitz Ph.D.
+  title: Chief Financial Officer of Siemens Healthineers
+  unexercisedValue: 0
+  yearBorn: 1966
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 275.6
+currentRatio: 1.444
+customPriceAlertConfidence: LOW
+dayHigh: 278.75
+dayLow: 273.35
+debtToEquity: 66.425
+dividendRate: 5.35
+dividendYield: 1.97
+earningsCallTimestampEnd: 1794466800
+earningsCallTimestampStart: 1794466800
+earningsGrowth: 0.128
+earningsQuarterlyGrowth: 0.109
+earningsTimestamp: 1794501000
+earningsTimestampEnd: 1794501000
+earningsTimestampStart: 1794501000
+ebitda: 12517999616
+ebitdaMargins: 0.15433
+enterpriseToEbitda: 20.457
+enterpriseToRevenue: 3.157
+enterpriseValue: 256085278720
+epsCurrentYear: 11.46783
+epsForward: 13.0196
+epsTrailingTwelveMonths: 10.02
+esgPopulated: false
+exDividendDate: 1770940800
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 69 797 6664
+fiftyDayAverage: 269.665
+fiftyDayAverageChange: 5.9349976
+fiftyDayAverageChangePercent: 0.022008779
+fiftyTwoWeekChangePercent: 8.446491
+fiftyTwoWeekHigh: 291.7
+fiftyTwoWeekHighChange: -16.100006
+fiftyTwoWeekHighChangePercent: -0.05519371
+fiftyTwoWeekLow: 198.0
+fiftyTwoWeekLowChange: 77.600006
+fiftyTwoWeekLowChangePercent: 0.39191923
+fiftyTwoWeekRange: 198.0 - 291.7
+financialCurrency: EUR
+firstTradeDateMilliseconds: 847440000000
+fiveYearAvgDividendYield: 2.59
+floatShares: 773964855
+forwardEps: 13.0196
+forwardPE: 21.168085
+freeCashflow: 6503750144
+fullExchangeName: XETRA
+fullTimeEmployees: 317000
+fulldayChange: 4.0500183
+fulldayChangePercent: 1.4914448
+fulldayPrice: 275.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.39356998
+grossProfits: 31924000768
+hasPrePostMarketData: false
+heldPercentInsiders: 0.06
+heldPercentInstitutions: 0.46457002
+impliedSharesOutstanding: 764214809
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1770940800
+lastDividendValue: 5.35
+lastFiscalYearEnd: 1759190400
+longBusinessSummary: Siemens Aktiengesellschaft, a technology company, focuses in
+  the areas of automation and digitalization across the world. It operates through
+  Digital Industries, Smart Infrastructure, Mobility, Siemens Healthineers, and Siemens
+  Financial Services (SFS) segments. The Digital Industries segment provides automation
+  systems and software for factories, numerical control systems, servo motors, drives
+  and inverters, and integrated automation systems for machine tools and production
+  machines; process control systems, machine-to-machine communication products, sensors
+  and radio frequency identification systems; production and product lifecycle management
+  software, and simulation and testing of mechatronic system. The Smart Infrastructure
+  segment offers products, systems, solutions, services, and software to support sustainable
+  transition from fossil and renewable energy sources; sustainable buildings and communities;
+  and buildings, electrification, and electrical products. The Mobility segment provides
+  rail passenger and freight transportation, such as metro systems, trams and light
+  rail, and commuter trains, as well as trains and passenger coaches; locomotives
+  and solutions for automated transportation and leasing; products and solutions for
+  rail automation and electrification; maintenance and digital services; and digital
+  and cloud-based solutions, and related services. The Siemens Healthineers segment
+  develops, manufactures, and sells various diagnostic and therapeutic products and
+  services; and provides clinical consulting and training services. Its financial
+  services segment offers debt and equity investments; leasing, lending, and working
+  capital; structured, equipment, and project financing; and financial advisory services.
+  It has a strategic collaboration with IFS to improve product lifecycle with industrial
+  AI. The company was founded in 1847 and is headquartered in Munich, Germany.
+longName: Siemens Aktiengesellschaft
+market: de_market
+marketCap: 210617597952
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_394038
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 7870000128
+nextFiscalYearEnd: 1790726400
+nonDilutedMarketCap: 207102213239
+numberOfAnalystOpinions: 24
+open: 276.1
+operatingCashflow: 14339999744
+operatingMargins: 0.12355
+overallRisk: 2
+payoutRatio: 0.535
+pegRatio: 2.93
+phone: 49 89 3803 5491
+previousClose: 271.55
+priceEpsCurrentYear: 24.032446
+priceHint: 2
+priceToBook: 3.125213
+priceToSalesTrailing12Months: 2.5965629
+profitMargins: 0.097959995
+quickRatio: 0.876
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.92
+region: US
+regularMarketChange: 4.0500183
+regularMarketChangePercent: 1.4914448
+regularMarketDayHigh: 278.75
+regularMarketDayLow: 273.35
+regularMarketDayRange: 273.35 - 278.75
+regularMarketOpen: 276.1
+regularMarketPreviousClose: 271.55
+regularMarketPrice: 275.6
+regularMarketTime: 1794411575
+regularMarketVolume: 462263
+returnOnAssets: 0.03796
+returnOnEquity: 0.12465999
+revenueGrowth: 0.073
+revenuePerShare: 104.179
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 764214809
+shortName: SIEMENS AG                    N
+sourceInterval: 15
+symbol: SIE.DE
+targetHighPrice: 345.0
+targetLowPrice: 240.0
+targetMeanPrice: 305.1754
+targetMedianPrice: 309.0
+totalCash: 10929999872
+totalCashPerShare: 14.121
+totalDebt: 49924001792
+totalRevenue: 81113997312
+tradeable: false
+trailingAnnualDividendRate: 5.35
+trailingAnnualDividendYield: 0.019701714
+trailingEps: 10.02
+trailingPE: 27.50499
+trailingPegRatio: 2.9317
+triggerable: false
+twoHundredDayAverage: 259.485
+twoHundredDayAverageChange: 16.11502
+twoHundredDayAverageChangePercent: 0.062103868
+typeDisp: Equity
+volume: 462263
+website: https://www.siemens.com
+zip: '80333'

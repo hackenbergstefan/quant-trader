@@ -1,0 +1,254 @@
+52WeekChange: 0.29255986
+SandP52WeekChange: 0.097798586
+address1: 1 J. C. Jacobsens Gade
+address2: Copenhagen V
+allTimeHigh: 1190.5
+allTimeLow: 147.75
+ask: 1009.5
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 290556
+averageDailyVolume3Month: 231414
+averageVolume: 231414
+averageVolume10days: 290556
+beta: 0.635
+bid: 1007.5
+bidSize: 0
+boardRisk: 1
+bookValue: 215.346
+city: Copenhagen
+companyOfficers:
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jacob  Aarup-Andersen
+  title: Group CEO & Member of Executive Board
+  totalPay: 22400000
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ulrica  Fearn
+  title: CFO & Member of Executive Board
+  totalPay: 12300000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Esther  Wu
+  title: Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Kondrup
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Yves  Briantais
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Susanne  Skippari M.Sc.
+  title: Executive Vice President of People & Culture
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Søren  Brinck
+  title: Executive Vice President of Western Europe
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joao Miguel Ventura Rego  Abecasis
+  title: Executive Vice President - Asia
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Victor  Shevtsov
+  title: Executive Vice President of Supply Chain
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Cecilia  Lundgren
+  title: CFO of Western Europe and DE&I Council Chair
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Denmark
+cryptoTradeable: false
+currency: DKK
+currentPrice: 1008.5
+currentRatio: 0.658
+customPriceAlertConfidence: HIGH
+dayHigh: 1022.5
+dayLow: 1004.5
+debtToEquity: 134.191
+dividendRate: 29.0
+dividendYield: 2.83
+earningsCallTimestampEnd: 1787151600
+earningsCallTimestampStart: 1787151600
+earningsGrowth: 0.13
+earningsQuarterlyGrowth: 0.131
+earningsTimestamp: 1787151600
+earningsTimestampEnd: 1787151600
+earningsTimestampStart: 1787151600
+ebitda: 18406000640
+ebitdaMargins: 0.20385
+enterpriseToEbitda: 10.262
+enterpriseToRevenue: 2.092
+enterpriseValue: 188874080256
+epsCurrentYear: 65.14378
+epsForward: 70.78429
+epsTrailingTwelveMonths: 48.2
+esgPopulated: false
+exDividendDate: 1773705600
+exchange: CPH
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Copenhagen
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 45 33 27 47 09
+fiftyDayAverage: 908.536
+fiftyDayAverageChange: 99.96399
+fiftyDayAverageChangePercent: 0.110027544
+fiftyTwoWeekChangePercent: 29.255985
+fiftyTwoWeekHigh: 1040.0
+fiftyTwoWeekHighChange: -31.5
+fiftyTwoWeekHighChangePercent: -0.030288462
+fiftyTwoWeekLow: 753.2
+fiftyTwoWeekLowChange: 255.29999
+fiftyTwoWeekLowChangePercent: 0.33895376
+fiftyTwoWeekRange: 753.2 - 1040.0
+financialCurrency: DKK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 2.9
+floatShares: 132203327
+forwardEps: 70.78429
+forwardPE: 14.247513
+freeCashflow: 7728750080
+fullExchangeName: Copenhagen
+fullTimeEmployees: 36056
+fulldayChange: -16.5
+fulldayChangePercent: -1.6097561
+fulldayPrice: 1008.5
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.44990003
+grossProfits: 40623001600
+hasPrePostMarketData: false
+heldPercentInsiders: 0.06776
+heldPercentInstitutions: 0.58441
+impliedSharesOutstanding: 132172074
+industry: Beverages - Brewers
+industryDisp: Beverages - Brewers
+industryKey: beverages-brewers
+irWebsite: http://www.carlsberggroup.com/investor/Pages/default.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1773705600
+lastDividendValue: 29.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Carlsberg A/S produces and markets beer, soft drinks, and other
+  beverage products in Western Europe, Asia, Central and Eastern Europe, India, and
+  internationally. The company was founded in 1847 and is headquartered in Copenhagen,
+  Denmark.
+longName: Carlsberg A/S
+market: dk_market
+marketCap: 133295538176
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_5522640
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 6394999808
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 138509308530
+numberOfAnalystOpinions: 23
+open: 1018.5
+operatingCashflow: 13937999872
+operatingMargins: 0.14849
+overallRisk: 1
+payoutRatio: 0.6017
+pegRatio: 3.59
+phone: 45 33 27 33 00
+previousClose: 1025.0
+priceEpsCurrentYear: 15.481139
+priceHint: 2
+priceToBook: 4.6831613
+priceToSalesTrailing12Months: 1.4762554
+profitMargins: 0.07082
+quickRatio: 0.513
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.78261
+region: US
+regularMarketChange: -16.5
+regularMarketChangePercent: -1.6097561
+regularMarketDayHigh: 1022.5
+regularMarketDayLow: 1004.5
+regularMarketDayRange: 1004.5 - 1022.5
+regularMarketOpen: 1018.5
+regularMarketPreviousClose: 1025.0
+regularMarketPrice: 1008.5
+regularMarketTime: 1794412440
+regularMarketVolume: 82795
+returnOnAssets: 0.052649997
+returnOnEquity: 0.2044
+revenueGrowth: 0.026
+revenuePerShare: 682.954
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 9
+sharesOutstanding: 98472822
+shortName: Carlsberg B A/S
+sourceInterval: 15
+symbol: CARL-B.CO
+targetHighPrice: 1550.0
+targetLowPrice: 880.0
+targetMeanPrice: 1066.0869
+targetMedianPrice: 1070.0
+totalCash: 9653000192
+totalCashPerShare: 72.994
+totalDebt: 60111998976
+totalRevenue: 90293002240
+tradeable: false
+trailingAnnualDividendRate: 29.0
+trailingAnnualDividendYield: 0.028292682
+trailingEps: 48.2
+trailingPE: 20.923237
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 891.8785
+twoHundredDayAverageChange: 116.62152
+twoHundredDayAverageChangePercent: 0.13075943
+typeDisp: Equity
+volume: 82795
+website: https://www.carlsberggroup.com
+zip: '1799'

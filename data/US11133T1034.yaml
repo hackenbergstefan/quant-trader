@@ -1,0 +1,284 @@
+52WeekChange: -0.13726193
+SandP52WeekChange: 0.097798586
+address1: 605 Third Avenue
+address2: 41st Floor
+allTimeHigh: 271.91
+allTimeLow: 9.21
+ask: 190.52
+askSize: 200
+auditRisk: 1
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 1264970
+averageDailyVolume3Month: 1040734
+averageVolume: 1040734
+averageVolume10days: 1264970
+beta: 0.898
+bid: 190.32
+bidSize: 100
+boardRisk: 1
+bookValue: 23.153
+city: New York
+companyOfficers:
+- age: 63
+  exercisedValue: 23943744
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Timothy C. Gokey
+  title: CEO, Executive Officer & Executive Director
+  totalPay: 3104561
+  unexercisedValue: 2468448
+  yearBorn: 1962
+- age: 63
+  exercisedValue: 481857
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Christopher J. Perry
+  title: President, Director & Executive Officer
+  totalPay: 2284537
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Ashima  Ghei
+  title: Corporate VP, Executive Officer & Chief Finance Officer
+  totalPay: 1361152
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 54
+  exercisedValue: 1050683
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Thomas P. Carey
+  title: Executive Officer, President of GTO and Global Head of Product & Technology
+  totalPay: 2001556
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Douglas R. DeSchutter
+  title: President of Investor Communication Solutions & Executive Officer
+  totalPay: 1600643
+  unexercisedValue: 905001
+  yearBorn: 1970
+- age: 72
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Richard J. Daly
+  title: Chair Emeritus
+  unexercisedValue: 0
+  yearBorn: 1953
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Roz  Smith
+  title: Chief Operating Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Tyler  Derr
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. W. Edings Thibault
+  title: Head of Investor Relations & Corporate Communications
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Hope M. Jarkowski
+  title: Corporate VP, Executive Officer & Chief Legal Officer
+  totalPay: 1105082
+  unexercisedValue: 158925
+  yearBorn: 1975
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 191.215
+currentRatio: 1.215
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 192.25
+dayLow: 189.1038
+debtToEquity: 139.132
+displayName: Broadridge Financial
+dividendDate: 1791158400
+dividendRate: 4.36
+dividendYield: 2.26
+earningsCallTimestampEnd: 1793712600
+earningsCallTimestampStart: 1793712600
+earningsGrowth: -0.407
+earningsQuarterlyGrowth: -0.427
+earningsTimestamp: 1793712600
+earningsTimestampEnd: 1801575000
+earningsTimestampStart: 1801575000
+ebitda: 1792999936
+ebitdaMargins: 0.23729
+enterpriseToEbitda: 14.042
+enterpriseToRevenue: 3.332
+enterpriseValue: 25176879104
+epsCurrentYear: 10.59767
+epsForward: 11.56942
+epsTrailingTwelveMonths: 9.03
+esgPopulated: false
+exDividendDate: 1788393600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 172.507
+fiftyDayAverageChange: 18.707993
+fiftyDayAverageChangePercent: 0.10844773
+fiftyTwoWeekChangePercent: -13.726192
+fiftyTwoWeekHigh: 233.1
+fiftyTwoWeekHighChange: -41.88501
+fiftyTwoWeekHighChangePercent: -0.17968687
+fiftyTwoWeekLow: 133.83
+fiftyTwoWeekLowChange: 57.384995
+fiftyTwoWeekLowChangePercent: 0.4287902
+fiftyTwoWeekRange: 133.83 - 233.1
+financialCurrency: USD
+firstTradeDateMilliseconds: 1174570200000
+fiveYearAvgDividendYield: 1.68
+floatShares: 112559933
+forwardEps: 11.56942
+forwardPE: 16.527622
+freeCashflow: 1347025024
+fullExchangeName: NYSE
+fullTimeEmployees: 16000
+fulldayChange: -1.7450104
+fulldayChangePercent: -0.9043378
+fulldayPrice: 191.215
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.31523
+grossProfits: 2381900032
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0033500001
+heldPercentInstitutions: 0.97927004
+impliedSharesOutstanding: 113106236
+industry: Information Technology Services
+industryDisp: Information Technology Services
+industryKey: information-technology-services
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788393600
+lastDividendValue: 1.09
+lastFiscalYearEnd: 1782777600
+longBusinessSummary: Broadridge Financial Solutions, Inc. provides investor communications
+  and technology-driven solutions for the financial services industry in the United
+  States and internationally. The company's Investor Communication Solutions segment
+  handles the proxy materials distribution and voting processes for bank, broker-dealer,
+  corporate issuer, and fund clients; provides fund manager; and various other regulatory
+  communication solutions. The segment also offers ProxyEdge, an institutional voting
+  platform that allows institutional investors to view, manage, and vote multi-custodial
+  holdings, as well as third party vote recommendations; data-driven analytics solutions;
+  international corporate governance solutions; fiduciary-focused learning and development,
+  software and technology, and data and analytics services, as well as automated mutual
+  fund and exchange-traded funds trade processing; content management and omni-channel
+  distribution platform; corporate solutions that revolve around shareholder meetings
+  and proxy, corporate governance, regulatory filings and disclosure, and stock transfer
+  services; corporate issuer solutions; and customer communications solutions. The
+  Global Technology and Operations segment provides solutions that automate the front-to-back
+  transaction lifecycle of equity, mutual fund, fixed income, foreign exchange and
+  exchange-traded derivatives, order capture and execution, trade confirmation, margin,
+  cash management, clearing and settlement, reference data management, reconciliations,
+  securities financing and collateral management, asset servicing, compliance and
+  regulatory reporting, portfolio accounting, and custody-related services. This segment
+  also offers business process outsourcing services; technology solutions, such portfolio
+  management, compliance, fee billing, and operational support solutions; and capital
+  market and wealth and investment management solutions. The company was founded in
+  1962 and is headquartered in New York, New York.
+longName: Broadridge Financial Solutions, Inc.
+market: us_market
+marketCap: 21627609088
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1032802
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1053699968
+nextFiscalYearEnd: 1814313600
+nonDilutedMarketCap: 21824979298
+numberOfAnalystOpinions: 8
+open: 190.87
+operatingCashflow: 1396499968
+operatingMargins: 0.17011
+overallRisk: 3
+payoutRatio: 0.4446
+pegRatio: 1.96
+phone: 800 353 0103
+previousClose: 192.96
+priceEpsCurrentYear: 18.043118
+priceHint: 2
+priceToBook: 8.258757
+priceToSalesTrailing12Months: 2.8622713
+profitMargins: 0.13945
+quickRatio: 1.022
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.33333
+region: US
+regularMarketChange: -1.7450104
+regularMarketChangePercent: -0.9043378
+regularMarketDayHigh: 192.25
+regularMarketDayLow: 189.1038
+regularMarketDayRange: 189.1038 - 192.25
+regularMarketOpen: 190.87
+regularMarketPreviousClose: 192.96
+regularMarketPrice: 191.215
+regularMarketTime: 1794413633
+regularMarketVolume: 117160
+returnOnAssets: 0.094969995
+returnOnEquity: 0.40148
+revenueGrowth: 0.05
+revenuePerShare: 65.449
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 8
+sharesOutstanding: 113106236
+sharesPercentSharesOut: 0.031600002
+sharesShort: 3569881
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2895199
+shortName: Broadridge Financial Solutions,
+shortPercentOfFloat: 0.0317
+shortRatio: 4.59
+sourceInterval: 15
+state: NY
+symbol: BR
+targetHighPrice: 230.0
+targetLowPrice: 180.0
+targetMeanPrice: 209.25
+targetMedianPrice: 213.0
+totalCash: 285000000
+totalCashPerShare: 2.52
+totalDebt: 3636900096
+totalRevenue: 7556100096
+tradeable: false
+trailingAnnualDividendRate: 4.015
+trailingAnnualDividendYield: 0.020807419
+trailingEps: 9.03
+trailingPE: 21.175526
+trailingPegRatio: 1.962
+triggerable: true
+twoHundredDayAverage: 165.1627
+twoHundredDayAverageChange: 26.052292
+twoHundredDayAverageChangePercent: 0.15773714
+typeDisp: Equity
+volume: 117160
+website: https://www.broadridge.com
+zip: '10158'

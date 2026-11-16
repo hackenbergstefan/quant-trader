@@ -1,0 +1,252 @@
+52WeekChange: 0.20621121
+SandP52WeekChange: 0.097798586
+address1: Prince's Street
+allTimeHigh: 130.0
+allTimeLow: 2.21
+ask: 98.65
+askSize: 58786
+auditRisk: 2
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 380531
+averageDailyVolume3Month: 367550
+averageVolume: 367550
+averageVolume10days: 380531
+beta: 0.513
+bid: 98.6
+bidSize: 70556
+boardRisk: 1
+bookValue: 38.456
+city: Tralee
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Edmond  Scanlon
+  title: Group CEO & Executive Director
+  totalPay: 2995000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marguerite  Larkin
+  title: CFO & Executive Director
+  totalPay: 1861000
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ronan  Deasy
+  title: Company Secretary & Group Financial Controller
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alan  Barrett
+  title: Chief Operating Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Albert  McQuaid Ph.D.
+  title: Chief Science & Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William  Lynch
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Joanne  Ross
+  title: Group General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lisa  Turley
+  title: Chief Human Resources Officer ?
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Catherine  Keogh
+  title: Chief Corporate Affairs Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thanh  Nguyen
+  title: Chief Operating Officer of Asia Pacific, Middle East & Africa
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Ireland
+cryptoTradeable: false
+currency: EUR
+currentPrice: 98.6
+currentRatio: 1.765
+customPriceAlertConfidence: LOW
+dayHigh: 98.95
+dayLow: 97.05
+debtToEquity: 46.206
+dividendRate: 1.44
+dividendYield: 1.49
+earningsCallTimestampEnd: 1785339000
+earningsCallTimestampStart: 1785339000
+earningsGrowth: -0.038
+earningsQuarterlyGrowth: -0.068
+earningsTimestampEnd: 1771345800
+earningsTimestampStart: 1771345800
+ebitda: 1138400000
+ebitdaMargins: 0.17167999
+enterpriseToEbitda: 15.509
+enterpriseToRevenue: 2.663
+enterpriseValue: 17655162880
+epsCurrentYear: 5.12214
+epsForward: 5.71589
+epsTrailingTwelveMonths: 3.93
+esgPopulated: false
+exDividendDate: 1791417600
+exchange: ISE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Dublin
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fax: 353 66 718 2961
+fiftyDayAverage: 89.948
+fiftyDayAverageChange: 8.652
+fiftyDayAverageChangePercent: 0.09618892
+fiftyTwoWeekChangePercent: 20.62112
+fiftyTwoWeekHigh: 101.3
+fiftyTwoWeekHighChange: -2.7000046
+fiftyTwoWeekHighChangePercent: -0.026653549
+fiftyTwoWeekLow: 64.3
+fiftyTwoWeekLowChange: 34.299995
+fiftyTwoWeekLowChangePercent: 0.5334369
+fiftyTwoWeekRange: 64.3 - 101.3
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946972800000
+fiveYearAvgDividendYield: 1.26
+floatShares: 158623872
+forwardEps: 5.71589
+forwardPE: 17.250156
+freeCashflow: 277550016
+fullExchangeName: Irish
+fullTimeEmployees: 19148
+fulldayChange: 1.5
+fulldayChangePercent: 1.5447992
+fulldayPrice: 98.6
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.50219
+grossProfits: 3329999872
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00155
+heldPercentInstitutions: 0.43289003
+impliedSharesOutstanding: 158930608
+industry: Packaged Foods
+industryDisp: Packaged Foods
+industryKey: packaged-foods
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791417600
+lastDividendValue: 0.462
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Kerry Group plc, together with its subsidiaries, provides taste
+  and nutrition solutions. The company offers taste solutions, such as dairy and dairy-free
+  flavours, savoury flavours and extracts, smoke and grill, sweet flavours and extracts,
+  and taste modulations. It also provides nutrition solutions, including enzymes,
+  proteins, nutritional lipids and bases, soluble dietary fibre, wellness and health,
+  and dairy ingredients. In addition, the company offers functional ingredients, food
+  solutions, and beverage solutions. Further, it provides pharmaceutical excipients,
+  tablet film coatings, pharma lactose, cell culture supplements, fermentation, and
+  acetates solutions. Additionally, the company offers emulsifier ingredients for
+  bakery; food protection and preservation solutions; food reformulation solutions;
+  bakery freshness solutions; texturant solutions; and foodservice solutions that
+  include convenience retail and custom solutions under DaVinci Gourmet, Golden Dipt,
+  Big Train, and Island Oasis brands. The company also engages in the investment and
+  trading activities, as well as provides services. It serves food, beverage, supplement,
+  pharma and life science, and pet markets. The company operates in Europe, the Americas,
+  the Asia Pacific, the Middle East, and Africa. It provides its products through
+  retail and foodservice channels. Kerry Group plc was founded in 1972 and is headquartered
+  in Tralee, Ireland.
+longName: Kerry Group plc
+market: ie_market
+marketCap: 15670557696
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_876221
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 638000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 15432162036
+numberOfAnalystOpinions: 12
+open: 97.3
+operatingCashflow: 736099968
+operatingMargins: 0.13497
+overallRisk: 1
+payoutRatio: 0.3568
+pegRatio: 1.46
+phone: 353 66 718 2000
+previousClose: 97.1
+priceEpsCurrentYear: 19.249767
+priceHint: 2
+priceToBook: 2.5639691
+priceToSalesTrailing12Months: 2.3632624
+profitMargins: 0.096219994
+quickRatio: 1.129
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.72727
+region: US
+regularMarketChange: 1.5
+regularMarketChangePercent: 1.5447992
+regularMarketDayHigh: 98.95
+regularMarketDayLow: 97.05
+regularMarketDayRange: 97.05 - 98.95
+regularMarketOpen: 97.3
+regularMarketPreviousClose: 97.1
+regularMarketPrice: 98.6
+regularMarketTime: 1794410485
+regularMarketVolume: 140032
+returnOnAssets: 0.049099997
+returnOnEquity: 0.106120005
+revenueGrowth: -0.037
+revenuePerShare: 40.964
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 1
+sharesOutstanding: 158930608
+shortName: KERRY GROUP PLC
+sourceInterval: 15
+symbol: KRZ.IR
+targetHighPrice: 115.0
+targetLowPrice: 93.0
+targetMeanPrice: 104.91667
+targetMedianPrice: 105.0
+totalCash: 604499968
+totalCashPerShare: 3.804
+totalDebt: 2825100032
+totalRevenue: 6630900224
+tradeable: false
+trailingAnnualDividendRate: 1.442
+trailingAnnualDividendYield: 0.01485067
+trailingEps: 3.93
+trailingPE: 25.089058
+trailingPegRatio: 1.4631
+triggerable: false
+twoHundredDayAverage: 79.022
+twoHundredDayAverageChange: 19.577995
+twoHundredDayAverageChangePercent: 0.24775372
+typeDisp: Equity
+volume: 140032
+website: https://www.kerry.com
+zip: V92 EH11

@@ -1,0 +1,277 @@
+52WeekChange: -0.21753877
+SandP52WeekChange: 0.097798586
+address1: 14185 Dallas Parkway
+address2: Suite 300
+allTimeHigh: 64.38
+allTimeLow: 0.106771
+ask: 34.52
+askSize: 2
+auditRisk: 10
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 11559010
+averageDailyVolume3Month: 11012418
+averageVolume: 11012418
+averageVolume10days: 11559010
+beta: 1.002
+bid: 29.4
+bidSize: 2
+boardRisk: 9
+bookValue: 9.821
+city: Dallas
+companyOfficers:
+- age: 78
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Willis J. Johnson
+  title: Founder & Chairman
+  totalPay: 140486
+  unexercisedValue: 0
+  yearBorn: 1947
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. A. Jayson Adair
+  title: Executive Chairman & CEO
+  totalPay: 351386
+  unexercisedValue: 31440000
+  yearBorn: 1969
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Leah C. Stearns
+  title: Senior VP & CFO
+  totalPay: 1089719
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Jane  Pocock
+  title: President
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Christopher  Coniglio
+  title: Chief Operating Officer
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 498264
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Gavin  Renfrew
+  title: VP & Chief Accounting Officer
+  totalPay: 387797
+  unexercisedValue: 582581
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Satya  Mandalapu
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Steven  Scrogham
+  title: Chief Legal Officer & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Brian  Burbridge
+  title: Chief Sales Officer
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 567270
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Robert H. Vannuccini
+  title: Group EVP & Chief Commercial Officer
+  totalPay: 593562
+  unexercisedValue: 0
+  yearBorn: 1966
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 31.85
+currentRatio: 7.912
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 32.025
+dayLow: 31.675
+debtToEquity: 0.97
+displayName: Copart
+dividendYield: 0.0
+earningsCallTimestampEnd: 1789075800
+earningsCallTimestampStart: 1789075800
+earningsGrowth: -0.15
+earningsQuarterlyGrowth: -0.174
+earningsTimestamp: 1789070400
+earningsTimestampEnd: 1795122000
+earningsTimestampStart: 1795122000
+ebitda: 1866263040
+ebitdaMargins: 0.39995
+enterpriseToEbitda: 13.683
+enterpriseToRevenue: 5.472
+enterpriseValue: 25535623168
+epsCurrentYear: 1.625
+epsForward: 1.81
+epsTrailingTwelveMonths: 1.55
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 29.426
+fiftyDayAverageChange: 2.4239998
+fiftyDayAverageChangePercent: 0.08237612
+fiftyTwoWeekChangePercent: -21.753878
+fiftyTwoWeekHigh: 42.05
+fiftyTwoWeekHighChange: -10.199999
+fiftyTwoWeekHighChangePercent: -0.24256834
+fiftyTwoWeekLow: 25.72
+fiftyTwoWeekLowChange: 6.130001
+fiftyTwoWeekLowChangePercent: 0.23833597
+fiftyTwoWeekRange: 25.72 - 42.05
+financialCurrency: USD
+firstTradeDateMilliseconds: 763914600000
+floatShares: 848759540
+forwardEps: 1.81
+forwardPE: 17.596685
+freeCashflow: 885121728
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 21000
+fulldayChange: -0.44999886
+fulldayChangePercent: -1.3929697
+fulldayPrice: 31.85
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.45291
+grossProfits: 2113372032
+hasPrePostMarketData: true
+heldPercentInsiders: 0.08635
+heldPercentInstitutions: 0.88334
+impliedSharesOutstanding: 926330452
+industry: Specialty Business Services
+industryDisp: Specialty Business Services
+industryKey: specialty-business-services
+isEarningsDateEstimate: true
+language: en-US
+lastFiscalYearEnd: 1785456000
+lastSplitDate: 1692662400
+lastSplitFactor: '2:1'
+longBusinessSummary: Copart, Inc. provides online auctions and vehicle remarketing
+  services in the United States, the United Kingdom, Germany, Brazil, Canada, the
+  United Arab Emirates, Spain, Finland, Oman, the Republic of Ireland, and Bahrain.
+  The company provides a range of services to process and sell vehicles over the internet
+  through its virtual bidding third generation internet auction-style sales technology.
+  It offers services, such as online seller access; salvage estimation; estimating;
+  end-of-life vehicle processing; transportation; vehicle inspection stations; on-demand
+  reporting; title processing and express; loan payoff; flexible vehicle processing
+  programs; buy it now and make an offer; sales process; and dealer services. In addition,
+  the company provides IntelliSeller, an automated tool that leverages its vehicle
+  and sales data to assist its sellers in making vital auction decisions; BluCar to
+  sell vehicles of financial institutions, fleet, and rental car companies; CashForCars.com,
+  CashForCars.ca, CashForCars.de, CashForCars.co.uk, and Cash-for-cars.ie; and national
+  powersport auctions services, which include services through live and online auction
+  platforms to dealers, financial institutions, and original equipment manufacturers.
+  Further, it offers wholesale construction, agriculture, and fleet remarketing services
+  through no-reserve online auctions under Purple Wave brand name; Copart Recycling
+  services; and Copart 360, a technology that captures clear 360-degree views of interiors
+  and exteriors of cars, trucks, and vans. The company sells the vehicles to licensed
+  vehicle dismantlers, rebuilders, repair licenses, used vehicle dealers, and exporters,
+  as well as to the public. Copart, Inc. was incorporated in 1982 and is headquartered
+  in Dallas, Texas.
+longName: Copart, Inc.
+market: us_market
+marketCap: 29503625216
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_27023
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 1484269952
+nextFiscalYearEnd: 1816992000
+nonDilutedMarketCap: 29920473599
+numberOfAnalystOpinions: 10
+open: 31.85
+operatingCashflow: 1604492032
+operatingMargins: 0.35416
+overallRisk: 7
+payoutRatio: 0.0
+pegRatio: 3.26
+phone: 972 391 5000
+previousClose: 32.3
+priceEpsCurrentYear: 19.6
+priceHint: 2
+priceToBook: 3.2430506
+priceToSalesTrailing12Months: 6.322826
+profitMargins: 0.31809
+quickRatio: 6.806
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.33333
+region: US
+regularMarketChange: -0.44999886
+regularMarketChangePercent: -1.3929697
+regularMarketDayHigh: 32.025
+regularMarketDayLow: 31.675
+regularMarketDayRange: 31.675 - 32.025
+regularMarketOpen: 31.85
+regularMarketPreviousClose: 32.3
+regularMarketPrice: 31.85
+regularMarketTime: 1794413730
+regularMarketVolume: 1790425
+returnOnAssets: 0.10268
+returnOnEquity: 0.1616
+revenueGrowth: 0.024
+revenuePerShare: 4.914
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 2
+sharesOutstanding: 926330452
+sharesPercentSharesOut: 0.0446
+sharesShort: 41354468
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 28989846
+shortName: Copart, Inc.
+shortPercentOfFloat: 0.0556
+shortRatio: 3.63
+sourceInterval: 15
+state: TX
+symbol: CPRT
+targetHighPrice: 55.0
+targetLowPrice: 25.0
+targetMeanPrice: 39.0
+targetMedianPrice: 37.0
+totalCash: 4489802240
+totalCashPerShare: 4.847
+totalDebt: 88367000
+totalRevenue: 4666208768
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 1.55
+trailingPE: 20.548388
+trailingPegRatio: 3.2552
+triggerable: true
+twoHundredDayAverage: 32.05055
+twoHundredDayAverageChange: -0.20054817
+twoHundredDayAverageChangePercent: -0.0062572462
+typeDisp: Equity
+volume: 1790425
+website: https://www.copart.com
+zip: '75254'

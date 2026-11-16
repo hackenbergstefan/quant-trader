@@ -1,0 +1,255 @@
+52WeekChange: -0.34382194
+SandP52WeekChange: 0.097798586
+address1: Universitätsstrasse 133
+allTimeHigh: 49.744
+allTimeLow: 11.346494
+ask: 17.0
+askSize: 1083
+auditRisk: 2
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 4525837
+averageDailyVolume3Month: 3498682
+averageVolume: 3498682
+averageVolume10days: 4525837
+beta: 1.493
+bid: 16.98
+bidSize: 1333
+boardRisk: 3
+bookValue: 32.269
+city: Bochum
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Philip  Grosse
+  title: CFO & Member of Management Board
+  totalPay: 1750100
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Arnd  Fittkau
+  title: Chief Rental Officer & Member of Management Board
+  totalPay: 1664700
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Ruth  Werhahn
+  title: Chief Human Resources Officer & Member of Management Board
+  totalPay: 1758100
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Luka  Mucic
+  title: Chairman Management Board & CEO
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Katja  Wunschel
+  title: Chief Development Officer & Member of the Management Board
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Rene  Hoffmann
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Klaus  Markus
+  title: Head of Corporate Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Dr. Karsten  Rech
+  title: CIO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Alexander  Weihe
+  title: Head of Innovation & Business Building
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Dr. Isabel  Ohlies
+  title: Head of Innovation Management - Innovation & Business Building
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1735603200
+compensationRisk: 2
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 16.985
+currentRatio: 1.104
+customPriceAlertConfidence: LOW
+dayHigh: 17.185
+dayLow: 16.85
+debtToEquity: 132.963
+dividendRate: 1.25
+dividendYield: 7.25
+earningsCallTimestampEnd: 1793797200
+earningsCallTimestampStart: 1793797200
+earningsGrowth: -0.921
+earningsQuarterlyGrowth: -0.901
+earningsTimestamp: 1793809800
+earningsTimestampEnd: 1793809800
+earningsTimestampStart: 1793809800
+ebitda: 2320900096
+ebitdaMargins: 0.38964
+enterpriseToEbitda: 26.091
+enterpriseToRevenue: 10.166
+enterpriseValue: 60555419648
+epsCurrentYear: 1.6906
+epsForward: 1.70626
+epsTrailingTwelveMonths: 1.84
+esgPopulated: false
+exDividendDate: 1779408000
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 234 314 1314
+fiftyDayAverage: 17.176
+fiftyDayAverageChange: -0.19099998
+fiftyDayAverageChangePercent: -0.011120167
+fiftyTwoWeekChangePercent: -34.382195
+fiftyTwoWeekHigh: 28.9
+fiftyTwoWeekHighChange: -11.914999
+fiftyTwoWeekHighChangePercent: -0.41228372
+fiftyTwoWeekLow: 15.26
+fiftyTwoWeekLowChange: 1.7250004
+fiftyTwoWeekLowChangePercent: 0.113040656
+fiftyTwoWeekRange: 15.26 - 28.9
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1373526000000
+fiveYearAvgDividendYield: 4.2
+floatShares: 729732394
+forwardEps: 1.70626
+forwardPE: 9.954521
+freeCashflow: 256924992
+fullExchangeName: XETRA
+fullTimeEmployees: 13162
+fulldayChange: -0.11499977
+fulldayChangePercent: -0.67251325
+fulldayPrice: 16.985
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.59366
+grossProfits: 3536199936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.54818
+impliedSharesOutstanding: 848458878
+industry: Real Estate Services
+industryDisp: Real Estate Services
+industryKey: real-estate-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779408000
+lastDividendValue: 1.25
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Vonovia SE operates as an integrated residential real estate
+  company in Europe. The company operates through Rental, Value-Add, Recurring Sales,
+  and Development segments. It offers property management services; property-related
+  services; and value-added services, including maintenance and modernization of properties,
+  craftsmen and residential environment organization, multimedia, energy supply, metering,
+  condominium administration, and insurance services. The company is also involved
+  in the sale of individual condominiums and single-family houses; and project development
+  activities to build new homes. In addition, it engages in construction of owner-occupied
+  and rented apartments; sale of projects to investors; and construction of new properties
+  on existing land held in the portfolio. The company was formerly known as Deutsche
+  Annington Immobilien SE and changed its name to Vonovia SE in August 2015. Vonovia
+  SE was founded in 1998 and is headquartered in Bochum, Germany.
+longName: Vonovia SE
+market: de_market
+marketCap: 14411074560
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_5537158
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1760099968
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 14508646813
+numberOfAnalystOpinions: 16
+open: 17.18
+operatingCashflow: 2035800064
+operatingMargins: 0.36246
+overallRisk: 2
+payoutRatio: 0.64769995
+pegRatio: 24.63
+phone: 49 234 314 0
+previousClose: 17.1
+priceEpsCurrentYear: 10.046729
+priceHint: 2
+priceToBook: 0.5263566
+priceToSalesTrailing12Months: 2.4193459
+profitMargins: 0.29456
+quickRatio: 0.375
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.35294
+region: US
+regularMarketChange: -0.11499977
+regularMarketChangePercent: -0.67251325
+regularMarketDayHigh: 17.185
+regularMarketDayLow: 16.85
+regularMarketDayRange: 16.85 - 17.185
+regularMarketOpen: 17.18
+regularMarketPreviousClose: 17.1
+regularMarketPrice: 16.985
+regularMarketTime: 1794411542
+regularMarketVolume: 1292631
+returnOnAssets: 0.014630001
+returnOnEquity: 0.06573
+revenueGrowth: -0.006
+revenuePerShare: 7.024
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 1
+sharesOutstanding: 848458878
+shortName: Vonovia SE                    N
+sourceInterval: 15
+symbol: VNA.DE
+targetHighPrice: 45.0
+targetLowPrice: 14.0
+targetMeanPrice: 22.23125
+targetMedianPrice: 21.75
+totalCash: 1362499968
+totalCashPerShare: 1.606
+totalDebt: 42685599744
+totalRevenue: 5956599808
+tradeable: false
+trailingAnnualDividendRate: 1.25
+trailingAnnualDividendYield: 0.07309941
+trailingEps: 1.84
+trailingPE: 9.230978
+trailingPegRatio: 24.627
+triggerable: false
+twoHundredDayAverage: 21.10055
+twoHundredDayAverageChange: -4.115549
+twoHundredDayAverageChangePercent: -0.19504464
+typeDisp: Equity
+volume: 1292631
+website: https://www.vonovia.com
+zip: '44803'

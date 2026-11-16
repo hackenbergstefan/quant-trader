@@ -1,0 +1,260 @@
+52WeekChange: 0.15166283
+SandP52WeekChange: 0.097798586
+address1: Kaiserplatz
+allTimeHigh: 380.57153
+allTimeLow: 2.804
+ask: 39.73
+askSize: 1100
+auditRisk: 10
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 2769171
+averageDailyVolume3Month: 2359201
+averageVolume: 2359201
+averageVolume10days: 2769171
+beta: 0.703
+bid: 39.71
+bidSize: 2000
+boardRisk: 3
+bookValue: 24.629
+city: Frankfurt am Main
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Bettina  Orlopp
+  title: CEO & Chairwoman of the Board of Managing Directors
+  totalPay: 3146000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Harald Kotzbauer
+  title: Deputy CEO, Head of Corporate Clients Business & Dy Chairman of Board of
+    Managing Directors
+  totalPay: 2413000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carsten  Schmitt
+  title: CFO & Member of the Board of Managing Directors
+  totalPay: 1281000
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Magistrate Thomas  Schaufler CEFA
+  title: Member of the Board of Managing Directors
+  totalPay: 1869000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sabine  Mlnarsky-Bstandig
+  title: Chief Human Resources Officer, Labour Relations Director & Member of Board
+    of Managing Directors
+  totalPay: 1856000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Magistrate Bernhard  Spalt
+  title: Chief Risk Officer & Member of the Board of Managing Directors
+  totalPay: 1500000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christiane  Vorspel-Rüter
+  title: COO & Member of Board of Managing Directors
+  totalPay: 1620000
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christoph  Wortig
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 38
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer  Sander
+  title: Chief Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1987
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Silvana  Herold
+  title: Head of Corporate Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 39.71
+customPriceAlertConfidence: LOW
+dayHigh: 40.58
+dayLow: 39.22
+dividendRate: 1.1
+dividendYield: 2.77
+earningsCallTimestampEnd: 1793871000
+earningsCallTimestampStart: 1793871000
+earningsGrowth: 0.525
+earningsQuarterlyGrowth: 0.451
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitdaMargins: 0.0
+enterpriseToRevenue: -1.753
+enterpriseValue: -21239752704
+epsCurrentYear: 3.12529
+epsForward: 3.93704
+epsTrailingTwelveMonths: 2.87
+esgPopulated: false
+exDividendDate: 1779321600
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 39.714
+fiftyDayAverageChange: -0.0040016174
+fiftyDayAverageChangePercent: -0.00010076087
+fiftyTwoWeekChangePercent: 15.166283
+fiftyTwoWeekHigh: 43.37
+fiftyTwoWeekHighChange: -3.6599998
+fiftyTwoWeekHighChangePercent: -0.08439013
+fiftyTwoWeekLow: 29.32
+fiftyTwoWeekLowChange: 10.389999
+fiftyTwoWeekLowChangePercent: 0.35436562
+fiftyTwoWeekRange: 29.32 - 43.37
+financialCurrency: EUR
+firstTradeDateMilliseconds: 850723200000
+fiveYearAvgDividendYield: 2.08
+floatShares: 1203473156
+forwardEps: 3.93704
+forwardPE: 10.086257
+fullExchangeName: XETRA
+fullTimeEmployees: 40390
+fulldayChange: -0.45999908
+fulldayChangePercent: -1.1448458
+fulldayPrice: 39.71
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 12115000320
+hasPrePostMarketData: false
+heldPercentInsiders: 0.16396
+heldPercentInstitutions: 0.56491
+impliedSharesOutstanding: 1080847095
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779321600
+lastDividendValue: 1.1
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1366761600
+lastSplitFactor: '1:10'
+longBusinessSummary: Commerzbank AG provides banking and capital market products and
+  services to private and small business customers, corporate, financial service providers,
+  and institutional clients in Germany, rest of Europe, the Americas, and Asia. It
+  operates through two segments, Private and Small-Business Customers, and Corporate
+  Clients. The company offers current, money market, checking, business accounts;
+  insurance products; credit and debit cards; pension scheme; card payment terminal;
+  and various loans. It also offers installment loans; renovation loans, debt structuring,
+  car loan, overdraft facility; real estate financing; term deposits; and online banking
+  services, as well as trades securities, such as shares, funds, ETFs, certificates,
+  options and futures, and bonds. In addition, the company provides wealth management
+  services. Commerzbank AG was founded in 1870 and is headquartered in Frankfurt am
+  Main, Germany.
+longName: Commerzbank AG
+market: de_market
+marketCap: 42920435712
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_410710
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3096999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 42909629671
+numberOfAnalystOpinions: 12
+open: 40.53
+operatingMargins: 0.43137002
+overallRisk: 3
+payoutRatio: 0.3833
+pegRatio: 0.83
+phone: 49 69 9353 10080
+previousClose: 40.17
+priceEpsCurrentYear: 12.706021
+priceHint: 2
+priceToBook: 1.6123269
+priceToSalesTrailing12Months: 3.5427516
+profitMargins: 0.28114
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.46154
+region: US
+regularMarketChange: -0.45999908
+regularMarketChangePercent: -1.1448458
+regularMarketDayHigh: 40.58
+regularMarketDayLow: 39.22
+regularMarketDayRange: 39.22 - 40.58
+regularMarketOpen: 40.53
+regularMarketPreviousClose: 40.17
+regularMarketPrice: 39.71
+regularMarketTime: 1794411549
+regularMarketVolume: 1094995
+returnOnAssets: 0.00614
+returnOnEquity: 0.1033
+revenueGrowth: 0.085
+revenuePerShare: 11.737
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 1080847095
+shortName: Commerzbank AG                I
+sourceInterval: 15
+symbol: CBK.DE
+targetHighPrice: 47.0
+targetLowPrice: 39.0
+targetMeanPrice: 42.45833
+targetMedianPrice: 42.0
+totalCash: 99433996288
+totalCashPerShare: 71.659
+totalDebt: 20743999488
+totalRevenue: 12115000320
+tradeable: false
+trailingAnnualDividendRate: 1.1
+trailingAnnualDividendYield: 0.027383622
+trailingEps: 2.87
+trailingPE: 13.836237
+trailingPegRatio: 0.8317
+triggerable: false
+twoHundredDayAverage: 36.802
+twoHundredDayAverageChange: 2.908001
+twoHundredDayAverageChangePercent: 0.079017475
+typeDisp: Equity
+volume: 1094995
+website: https://www.commerzbank.de
+zip: '60311'

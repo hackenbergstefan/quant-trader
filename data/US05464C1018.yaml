@@ -1,0 +1,272 @@
+52WeekChange: -0.4687714
+SandP52WeekChange: 0.097798586
+address1: 17800 North 85th Street
+allTimeHigh: 885.92
+allTimeLow: 0.275
+ask: 307.62
+askSize: 1
+auditRisk: 10
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 1942310
+averageDailyVolume3Month: 1108526
+averageVolume: 1108526
+averageVolume10days: 1942310
+beta: 1.468
+bid: 296.21
+bidSize: 1
+boardRisk: 4
+bookValue: 46.221
+city: Scottsdale
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick W. Smith
+  title: Founder, CEO & Director
+  totalPay: 40001
+  unexercisedValue: 11289135
+  yearBorn: 1971
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joshua M. Isner
+  title: President
+  totalPay: 728341
+  unexercisedValue: 0
+  yearBorn: 1986
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Brittany  Bagley
+  title: COO & CFO
+  totalPay: 1295272
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey C. Kunins
+  title: Chief Product Officer & CTO
+  totalPay: 864211
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Cameron  Brooks
+  title: Chief Revenue Officer
+  totalPay: 1311381
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer H. Mak
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Erik Taylor Lapinski
+  title: Senior Director of Investor Relations
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Isaiah  Fields
+  title: Corporate Secretary & Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Abigail  Stock B.A.
+  title: Executive Vice President of Marketing & Communications
+  unexercisedValue: 0
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elizabeth  Coughlin
+  title: Chief Human Officer
+  unexercisedValue: 0
+  yearBorn: 1986
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 315.02
+currentRatio: 3.001
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 317.8
+dayLow: 301.58
+debtToEquity: 79.409
+displayName: Axon Enterprise
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793916000
+earningsCallTimestampStart: 1793916000
+earningsTimestamp: 1793912400
+earningsTimestampEnd: 1793912400
+earningsTimestampStart: 1793912400
+ebitda: 175544000
+ebitdaMargins: 0.051370002
+enterpriseToEbitda: 147.938
+enterpriseToRevenue: 7.6
+enterpriseValue: 25969614848
+epsCurrentYear: 7.1093
+epsForward: 9.44448
+epsTrailingTwelveMonths: 3.11
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 430.2974
+fiftyDayAverageChange: -115.277405
+fiftyDayAverageChangePercent: -0.2679017
+fiftyTwoWeekChangePercent: -46.87714
+fiftyTwoWeekHigh: 665.07
+fiftyTwoWeekHighChange: -350.05002
+fiftyTwoWeekHighChangePercent: -0.5263356
+fiftyTwoWeekLow: 291.45
+fiftyTwoWeekLowChange: 23.569977
+fiftyTwoWeekLowChangePercent: 0.08087142
+fiftyTwoWeekRange: 291.45 - 665.07
+financialCurrency: USD
+firstTradeDateMilliseconds: 992957400000
+floatShares: 77503584
+forwardEps: 9.44448
+forwardPE: 33.35493
+freeCashflow: 66092000
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 5100
+fulldayChange: 12.47998
+fulldayChangePercent: 4.1250677
+fulldayPrice: 315.02
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.57255
+grossProfits: 1956398976
+hasPrePostMarketData: true
+heldPercentInsiders: 0.044949997
+heldPercentInstitutions: 0.90160006
+impliedSharesOutstanding: 81432712
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+irWebsite: http://investor.taser.com/phoenix.zhtml?c=129937&p=irol-IRHome
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1101772800
+lastSplitFactor: '2:1'
+longBusinessSummary: Axon Enterprise, Inc. provides public safety technology solutions
+  in the United States and internationally. The company operates in two segments,
+  Software and Services, and Connected Devices. The Software and Services segment
+  develops, manufactures, and sells cloud-based software-as-a-service solutions to
+  capture, store, manage, share, and analyze video and other digital evidence. This
+  segment also offers Axon Evidence, Draft One, Axon Records, Axon Standards, Axon
+  Fusus, Axon Assistant, and others. The Connected Devices segment engages in the
+  development, manufacture, and sale of integrated hardware solutions, such as conducted
+  energy devices under the TASER brand, body cameras, fixed and in-car cameras, drone
+  and counter-drone technologies, accessories, extended warranties, and related hardware
+  products, as well as virtual reality training hardware. The company serves first
+  responders across international, federal, state, and local governments, international
+  governmental entities, commercial enterprises, and consumers through direct sales,
+  distribution partners, and third-party resellers. The company was formerly known
+  as TASER International, Inc. and changed its name to Axon Enterprise, Inc. in April
+  2017. Axon Enterprise, Inc. was incorporated in 1993 and is headquartered in Scottsdale,
+  Arizona.
+longName: Axon Enterprise, Inc.
+market: us_market
+marketCap: 25652932608
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_885779
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 258490000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 24636652688
+numberOfAnalystOpinions: 19
+open: 303.155
+operatingCashflow: 225482000
+operatingMargins: 0.01538
+overallRisk: 9
+payoutRatio: 0.0
+pegRatio: 1.09
+phone: 480 991 0797
+previousClose: 302.54
+priceEpsCurrentYear: 44.31097
+priceHint: 2
+priceToBook: 6.8155165
+priceToSalesTrailing12Months: 7.5074167
+profitMargins: 0.07565
+quickRatio: 2.355
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.71429
+region: US
+regularMarketChange: 12.47998
+regularMarketChangePercent: 4.1250677
+regularMarketDayHigh: 317.8
+regularMarketDayLow: 301.58
+regularMarketDayRange: 301.58 - 317.8
+regularMarketOpen: 303.155
+regularMarketPreviousClose: 302.54
+regularMarketPrice: 315.02
+regularMarketTime: 1794413729
+regularMarketVolume: 603620
+returnOnAssets: 0.00424
+returnOnEquity: 0.07613
+revenueGrowth: 0.279
+revenuePerShare: 42.609
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 5
+sharesOutstanding: 81432712
+sharesPercentSharesOut: 0.0505
+sharesShort: 4110412
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3892165
+shortName: Axon Enterprise, Inc.
+shortPercentOfFloat: 0.0598
+shortRatio: 4.21
+sourceInterval: 15
+state: AZ
+symbol: AXON
+targetHighPrice: 700.0
+targetLowPrice: 380.0
+targetMeanPrice: 541.3158
+targetMedianPrice: 540.0
+totalCash: 1655154944
+totalCashPerShare: 20.325
+totalDebt: 2988118016
+totalRevenue: 3417011968
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 3.11
+trailingPE: 101.2926
+trailingPegRatio: 1.0901
+triggerable: true
+twoHundredDayAverage: 470.02466
+twoHundredDayAverageChange: -155.00467
+twoHundredDayAverageChangePercent: -0.32977986
+typeDisp: Equity
+volume: 603620
+website: https://www.axon.com
+zip: '85255'

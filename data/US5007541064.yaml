@@ -1,0 +1,282 @@
+52WeekChange: -0.020606041
+SandP52WeekChange: 0.097798586
+address1: One PPG Place
+allTimeHigh: 97.77
+allTimeLow: 19.99
+ask: 24.06
+askSize: 1000
+auditRisk: 5
+averageAnalystRating: 3.1 - Hold
+averageDailyVolume10Day: 14200630
+averageDailyVolume3Month: 16795612
+averageVolume: 16795612
+averageVolume10days: 14200630
+beta: 0.103
+bid: 24.04
+bidSize: 2500
+boardRisk: 2
+bookValue: 30.384
+city: Pittsburgh
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andre  Maciel
+  title: Executive VP & Global CFO
+  totalPay: 1478215
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Cory  Onell
+  title: Advisor
+  totalPay: 857658
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven A. Cahillane
+  title: CEO & Director
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Asher
+  title: VP, Global Controller & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eduardo Machado de Carvalho Pelleissone
+  title: Executive Vice President of Operations
+  totalPay: 2043365
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jan  Kruise
+  title: UK & Ireland Managing Director
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Flavio Barros Torres
+  title: Executive VP & Global Supply Chain Officer
+  totalPay: 1440373
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Diana  Frost
+  title: Global Chief Growth Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Janelle  Orozco
+  title: Chief Procurement Officer of North America
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Helen  Davis
+  title: Senior VP & Head of North America Operations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions:
+- header: Dividend
+  message: KHC announced a cash dividend of $0.40 with an ex-date of Dec. 4, 2026
+  meta:
+    amount: '0.40'
+    dateEpochMs: 1796360400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 24.0938
+currentRatio: 1.02
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 24.16
+dayLow: 23.77
+debtToEquity: 49.884
+displayName: Kraft Heinz
+dividendDate: 1797984000
+dividendRate: 1.6
+dividendYield: 6.6
+earningsCallTimestampEnd: 1793800800
+earningsCallTimestampStart: 1793800800
+earningsGrowth: -0.117
+earningsQuarterlyGrowth: -0.115
+earningsTimestamp: 1793799000
+earningsTimestampEnd: 1793799000
+earningsTimestampStart: 1793799000
+ebitda: 5400000000
+ebitdaMargins: 0.21794
+enterpriseToEbitda: 8.317
+enterpriseToRevenue: 1.812
+enterpriseValue: 44910014464
+epsCurrentYear: 2.09364
+epsForward: 2.06011
+epsTrailingTwelveMonths: -2.93
+esgPopulated: false
+exDividendDate: 1796342400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 23.9544
+fiftyDayAverageChange: 0.13940048
+fiftyDayAverageChangePercent: 0.0058194106
+fiftyTwoWeekChangePercent: -2.060604
+fiftyTwoWeekHigh: 28.09
+fiftyTwoWeekHighChange: -3.9962006
+fiftyTwoWeekHighChangePercent: -0.14226417
+fiftyTwoWeekLow: 21.035
+fiftyTwoWeekLowChange: 3.0587997
+fiftyTwoWeekLowChangePercent: 0.14541477
+fiftyTwoWeekRange: 21.035 - 28.09
+financialCurrency: USD
+firstTradeDateMilliseconds: 1436189400000
+fiveYearAvgDividendYield: 4.93
+floatShares: 853978687
+forwardEps: 2.06011
+forwardPE: 11.6953945
+freeCashflow: 3191375104
+fullExchangeName: NYSE
+fullTimeEmployees: 35000
+fulldayChange: -0.14620018
+fulldayChangePercent: -0.6031062
+fulldayPrice: 24.0938
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.33651
+grossProfits: 8337999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.27825
+heldPercentInstitutions: 0.67576
+impliedSharesOutstanding: 1183828946
+industry: Packaged Foods
+industryDisp: Packaged Foods
+industryKey: packaged-foods
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788480000
+lastDividendValue: 0.4
+lastFiscalYearEnd: 1766793600
+longBusinessSummary: The Kraft Heinz Company, together with its subsidiaries, manufactures
+  and markets food and beverage products in North America and internationally. Its
+  products include condiments, sauces, dressings, and spreads; cheese, frozen potato
+  products, and other frozen meals; meal kits, frozen snacks, and pickles; dry packaged
+  desserts, refrigerated ready to eat desserts, and other dessert toppings; ready
+  to drink and powdered beverages, and liquid concentrates; American sliced and recipe
+  cheeses; mainstream coffee, coffee pods, and premium coffee; and cold cuts, bacon,
+  and hot dogs. It offers its products under the Kraft, Oscar Mayer, Heinz, Philadelphia,
+  Lunchables, Velveeta, Ore-Ida, Capri Sun, Maxwell House, Kool-Aid, Jell-O, ABC,
+  Master, Quero, Golden Circle, Wattie's, Pudliszki, and Plasmon brands, as well as
+  Bagel Bites, Claussen, A1, and Cool Whip. It sells its products through its own
+  sales organizations, as well as through independent brokers, agents, and distributors
+  to chain, wholesale, cooperative, and independent grocery accounts; convenience,
+  value, and club stores; pharmacies and drug stores; mass merchants; foodservice
+  distributors; institutions, including hotels, restaurants, bakeries, hospitals,
+  health care facilities, and government agencies; and various e-commerce platforms
+  and retailers. The company has a strategic partnership with the National Football
+  League. The company was formerly known as H.J. Heinz Holding Corporation and changed
+  its name to The Kraft Heinz Company in July 2015. The company was founded in 1869
+  and is headquartered in Pittsburgh, Pennsylvania.
+longName: The Kraft Heinz Company
+market: us_market
+marketCap: 28522938368
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_278212
+mostRecentQuarter: 1790380800
+netIncomeToCommon: -3467000064
+nextFiscalYearEnd: 1798329600
+nonDilutedMarketCap: 28696013651
+numberOfAnalystOpinions: 17
+open: 24.0
+operatingCashflow: 4336000000
+operatingMargins: 0.17681
+overallRisk: 2
+payoutRatio: 0.7306
+pegRatio: 2.8
+phone: 412 456 5700
+previousClose: 24.24
+priceEpsCurrentYear: 11.50809
+priceHint: 2
+priceToBook: 0.79297656
+priceToSalesTrailing12Months: 1.1511396
+profitMargins: -0.13992
+quickRatio: 0.485
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.05263
+region: US
+regularMarketChange: -0.14620018
+regularMarketChangePercent: -0.6031062
+regularMarketDayHigh: 24.16
+regularMarketDayLow: 23.77
+regularMarketDayRange: 23.77 - 24.16
+regularMarketOpen: 24.0
+regularMarketPreviousClose: 24.24
+regularMarketPrice: 24.0938
+regularMarketTime: 1794413745
+regularMarketVolume: 3225082
+returnOnAssets: 0.03558
+returnOnEquity: -0.08953
+revenueGrowth: -0.02
+revenuePerShare: 20.901
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 3
+sharesOutstanding: 1183828946
+sharesPercentSharesOut: 0.0866
+sharesShort: 102498237
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 92741408
+shortName: The Kraft Heinz Company
+shortPercentOfFloat: 0.1197
+shortRatio: 7.32
+sourceInterval: 15
+state: PA
+symbol: KHC
+targetHighPrice: 41.0
+targetLowPrice: 20.0
+targetMeanPrice: 25.14706
+targetMedianPrice: 24.0
+totalCash: 1904000000
+totalCashPerShare: 1.608
+totalDebt: 18002999296
+totalRevenue: 24778000384
+tradeable: false
+trailingAnnualDividendRate: 1.6
+trailingAnnualDividendYield: 0.0660066
+trailingEps: -2.93
+trailingPegRatio: 2.7752
+triggerable: true
+twoHundredDayAverage: 23.92445
+twoHundredDayAverageChange: 0.16934967
+twoHundredDayAverageChangePercent: 0.007078519
+typeDisp: Equity
+volume: 3225082
+website: https://www.kraftheinzcompany.com
+zip: '15222'

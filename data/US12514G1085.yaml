@@ -1,0 +1,277 @@
+52WeekChange: 0.14906037
+SandP52WeekChange: 0.097798586
+address1: 200 N. Milwaukee Avenue
+allTimeHigh: 263.37
+allTimeLow: 17.38
+ask: 181.72
+askSize: 1
+auditRisk: 1
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1932300
+averageDailyVolume3Month: 1620537
+averageVolume: 1620537
+averageVolume10days: 1932300
+beta: 0.924
+bid: 172.85
+bidSize: 1
+boardRisk: 6
+bookValue: 21.087
+city: Vernon Hills
+companyOfficers:
+- age: 60
+  exercisedValue: 5013265
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christine A. Leahy J.D.
+  title: Chair of the Board, President & CEO
+  totalPay: 3249570
+  unexercisedValue: 10349212
+  yearBorn: 1965
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Albert Joseph Miralles Jr.
+  title: CFO & Executive VP of Enterprise Business Operations
+  totalPay: 1589188
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elizabeth H. Connelly
+  title: Executive VP & Chief Commercial Officer
+  totalPay: 1365215
+  unexercisedValue: 1045282
+  yearBorn: 1965
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mukesh  Kumar
+  title: Executive VP and Chief Services & Solutions Officer
+  totalPay: 1322921
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter Richard Locy
+  title: Senior VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven J O'Brien
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frederick J. Kulevich J.D.
+  title: Chief Legal Officer, Executive VP of Risk & Compliance and Corporate Secretary
+  totalPay: 733905
+  unexercisedValue: 3931342
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Sara  Granack
+  title: Vice President of Corporate Communications & Reputation
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anand J. Rao
+  title: Senior VP and Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael S. Drory J.D.
+  title: Senior Vice President of Digital, Strategy & Corporate Development
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions:
+- header: Dividend
+  message: CDW announced a cash dividend of $0.68 with an ex-date of Nov. 25, 2026
+  meta:
+    amount: '0.68'
+    dateEpochMs: 1795582800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 173.315
+currentRatio: 1.265
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 175.19
+dayLow: 170.77
+debtToEquity: 298.448
+displayName: CDW
+dividendDate: 1796860800
+dividendRate: 2.72
+dividendYield: 1.61
+earningsCallTimestampEnd: 1793799000
+earningsCallTimestampStart: 1793799000
+earningsGrowth: 0.113
+earningsQuarterlyGrowth: 0.065
+earningsTimestamp: 1793799000
+earningsTimestampEnd: 1801661400
+earningsTimestampStart: 1801661400
+ebitda: 2099800064
+ebitdaMargins: 0.08564
+enterpriseToEbitda: 13.08
+enterpriseToRevenue: 1.12
+enterpriseValue: 27465807872
+epsCurrentYear: 11.28719
+epsForward: 12.47716
+epsTrailingTwelveMonths: 8.57
+esgPopulated: false
+exDividendDate: 1795564800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 149.4204
+fiftyDayAverageChange: 23.894608
+fiftyDayAverageChangePercent: 0.1599153
+fiftyTwoWeekChangePercent: 14.906036
+fiftyTwoWeekHigh: 175.19
+fiftyTwoWeekHighChange: -1.875
+fiftyTwoWeekHighChangePercent: -0.010702666
+fiftyTwoWeekLow: 97.12
+fiftyTwoWeekLowChange: 76.195
+fiftyTwoWeekLowChangePercent: 0.7845449
+fiftyTwoWeekRange: 97.12 - 175.19
+financialCurrency: USD
+firstTradeDateMilliseconds: 1372339800000
+fiveYearAvgDividendYield: 1.25
+floatShares: 124340040
+forwardEps: 12.47716
+forwardPE: 13.89058
+freeCashflow: 867612480
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 14800
+fulldayChange: 3.9550018
+fulldayChangePercent: 2.3352633
+fulldayPrice: 173.315
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.21003
+grossProfits: 5149499904
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00457
+heldPercentInstitutions: 1.14834
+impliedSharesOutstanding: 124809323
+industry: Information Technology Services
+industryDisp: Information Technology Services
+industryKey: information-technology-services
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1787616000
+lastDividendValue: 0.63
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'CDW Corporation provides information technology (IT) solutions
+  in the United States, the United Kingdom, and Canada. It operates through three
+  segments: Commercial, Government, and Education. The company offers discrete hardware
+  and software products and services, as well as integrated IT solutions, including
+  on-premise and cloud capabilities across hybrid infrastructure, digital experience,
+  and security. It also provides hardware products comprising notebooks/mobile devices,
+  tablets, network communications, collaboration hardware, data storage and servers,
+  desktop computers, and other hardware; and software products, such as cloud solutions,
+  software assurance, application suites, security, virtualization, collaboration
+  and productivity applications, operating systems, and network management. In addition,
+  the company offers advisory and design, software development, implementation, and
+  managed services, as well as warranties. It serves business, government, education,
+  and healthcare customers. The company was formerly known as CDW Computer Centers,
+  Inc. and changed its name to CDW Corporation in June 2003. CDW Corporation was founded
+  in 1984 and is based in Vernon Hills, Illinois.'
+longName: CDW Corporation
+market: us_market
+marketCap: 21631328256
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_332700
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1099100032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 21137706943
+numberOfAnalystOpinions: 9
+open: 171.86
+operatingCashflow: 1052300032
+operatingMargins: 0.07343
+overallRisk: 4
+payoutRatio: 0.294
+pegRatio: 1.33
+phone: 847 465 6000
+previousClose: 169.36
+priceEpsCurrentYear: 15.355017
+priceHint: 2
+priceToBook: 8.219045
+priceToSalesTrailing12Months: 0.8822811
+profitMargins: 0.04483
+quickRatio: 1.115
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.8
+region: US
+regularMarketChange: 3.9550018
+regularMarketChangePercent: 2.3352633
+regularMarketDayHigh: 175.19
+regularMarketDayLow: 170.77
+regularMarketDayRange: 170.77 - 175.19
+regularMarketOpen: 171.86
+regularMarketPreviousClose: 169.36
+regularMarketPrice: 173.315
+regularMarketTime: 1794413708
+regularMarketVolume: 417160
+returnOnAssets: 0.0647
+returnOnEquity: 0.42472
+revenueGrowth: 0.177
+revenuePerShare: 191.88
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 4
+sharesOutstanding: 124809323
+sharesPercentSharesOut: 0.067600004
+sharesShort: 8438910
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 9319664
+shortName: CDW Corporation
+shortPercentOfFloat: 0.0783
+shortRatio: 5.69
+sourceInterval: 15
+state: IL
+symbol: CDW
+targetHighPrice: 204.0
+targetLowPrice: 148.0
+targetMeanPrice: 184.11111
+targetMedianPrice: 190.0
+totalCash: 1538700032
+totalCashPerShare: 12.328
+totalDebt: 7866800128
+totalRevenue: 24517500928
+tradeable: false
+trailingAnnualDividendRate: 2.52
+trailingAnnualDividendYield: 0.014879546
+trailingEps: 8.57
+trailingPE: 20.223455
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 134.23645
+twoHundredDayAverageChange: 39.078552
+twoHundredDayAverageChangePercent: 0.29111728
+typeDisp: Equity
+volume: 417160
+website: https://www.cdw.com
+zip: '60061'

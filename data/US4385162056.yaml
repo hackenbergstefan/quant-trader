@@ -1,0 +1,282 @@
+52WeekChange: 0.079457164
+SandP52WeekChange: 0.097798586
+address1: 855 South Mint Street
+allTimeHigh: 260.28317
+allTimeLow: 2.532641
+ask: 241.5
+askSize: 1
+auditRisk: 1
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 2792960
+averageDailyVolume3Month: 2800606
+averageVolume: 2800606
+averageVolume10days: 2792960
+beta: 0.878
+bid: 216.84
+bidSize: 1
+boardRisk: 5
+bookValue: 70.636
+city: Charlotte
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vimal M. Kapur
+  title: Chairman & CEO
+  totalPay: 5317705
+  unexercisedValue: 6065482
+  yearBorn: 1965
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michal  Stepniak
+  title: Senior VP & CFO
+  totalPay: 2577312
+  unexercisedValue: 153311
+  yearBorn: 1978
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Billal M. Hammoud
+  title: President & CEO of Process Technology
+  totalPay: 1760703
+  unexercisedValue: 139255
+  yearBorn: 1973
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jim  Masso
+  title: President & CEO of Honeywell Process Automation
+  totalPay: 618058
+  unexercisedValue: 0
+  yearBorn: 1985
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Harsh  Bansal
+  title: Vice President of Investments
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert D. Mailloux
+  title: VP, Controller & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Suresh  Venkatarayalu
+  title: Senior VP, Chief Technology Officer & President of Honeywell Connected Enterprise
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark  Macaluso
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Su Ping Lu
+  title: Senior VP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer J. Reilly
+  title: Senior Vice President & Chief Human Resources Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions:
+- header: Dividend
+  message: HON announced a cash dividend of $0.70 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.70'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 227.35
+currentRatio: 0.96
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 229.06
+dayLow: 226.58
+debtToEquity: 76.101
+displayName: Honeywell
+dividendDate: 1796342400
+dividendRate: 2.8
+dividendYield: 1.23
+earningsCallTimestampEnd: 1792672200
+earningsCallTimestampStart: 1792672200
+earningsGrowth: -0.636
+earningsQuarterlyGrowth: -0.636
+earningsTimestamp: 1792672200
+earningsTimestampEnd: 1801143000
+earningsTimestampStart: 1801143000
+ebitda: 9018000384
+ebitdaMargins: 0.23893
+enterpriseToEbitda: 9.283
+enterpriseToRevenue: 2.218
+enterpriseValue: 83718561792
+epsCurrentYear: 8.41766
+epsForward: 9.87567
+epsTrailingTwelveMonths: 20.17
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 212.652
+fiftyDayAverageChange: 14.698013
+fiftyDayAverageChangePercent: 0.06911769
+fiftyTwoWeekChangePercent: 7.9457164
+fiftyTwoWeekHigh: 260.28317
+fiftyTwoWeekHighChange: -32.933167
+fiftyTwoWeekHighChangePercent: -0.12652822
+fiftyTwoWeekLow: 195.86786
+fiftyTwoWeekLowChange: 31.482147
+fiftyTwoWeekLowChangePercent: 0.16073157
+fiftyTwoWeekRange: 195.86786 - 260.28317
+financialCurrency: USD
+firstTradeDateMilliseconds: -252322200000
+fiveYearAvgDividendYield: 2.12
+floatShares: 298098030
+forwardEps: 9.87567
+forwardPE: 23.021223
+freeCashflow: 7022000128
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 101000
+fulldayChange: -0.8699951
+fulldayChangePercent: -0.38120896
+fulldayPrice: 227.35
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.3721
+grossProfits: 14044000256
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00089
+heldPercentInstitutions: 0.85328
+impliedSharesOutstanding: 316940010
+industry: Conglomerates
+industryDisp: Conglomerates
+industryKey: conglomerates
+ipoExpectedDate: '2021-05-11'
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.7
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1782691200
+lastSplitFactor: 1907:2000
+longBusinessSummary: Honeywell International Inc. engages in the industrial automation,
+  building automation, and energy and sustainability solutions businesses in the United
+  States, Europe, and internationally. The Industrial Automation segment provides
+  automation control and instrumentation products and services; smart energy products;
+  sensing technologies, including custom-engineered sensors and related services;
+  gas detection technologies and personal protective equipment; and system design
+  automation equipment, as well as software and analytics for manufacturing, distribution,
+  and fulfillment operations. The Building Automation segment provides software applications
+  for building control and optimization; sensors, switches, control systems, and instruments
+  for energy management; access control; video surveillance; fire products; and installation,
+  maintenance, and system upgrade services. The Energy and Sustainability Solutions
+  segment, through its UOP business, delivers licensed process technology, equipment,
+  engineering, catalysts, adsorbents, and services for refining, petrochemicals, low-carbon
+  energy, gas and LNG, and industrial solutions, as well as connectivity, data integration,
+  and software solutions. The company also offers Forge Cognition, a self-contained
+  agentic AI and simulation platform for facility operations. The company was formerly
+  known as AlliedSignal, Inc. Honeywell International Inc. was founded in 1885 and
+  is headquartered in Charlotte, North Carolina.
+longName: Honeywell International Inc.
+market: us_market
+marketCap: 72056307712
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1340740
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 8986000384
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 72332049082
+numberOfAnalystOpinions: 23
+open: 228.73
+operatingCashflow: 1947000064
+operatingMargins: 0.20263
+overallRisk: 4
+payoutRatio: 0.38869998
+pegRatio: 3.18
+phone: 704-627-6200
+previousClose: 228.22
+priceEpsCurrentYear: 27.008696
+priceHint: 2
+priceToBook: 3.2186139
+priceToSalesTrailing12Months: 1.9091303
+profitMargins: 0.18684
+quickRatio: 0.756
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -0.8699951
+regularMarketChangePercent: -0.38120896
+regularMarketDayHigh: 229.06
+regularMarketDayLow: 226.58
+regularMarketDayRange: 226.58 - 229.06
+regularMarketOpen: 228.73
+regularMarketPreviousClose: 228.22
+regularMarketPrice: 227.35
+regularMarketTime: 1794413704
+regularMarketVolume: 254669
+returnOnAssets: 0.071339995
+returnOnEquity: 0.44387
+revenueGrowth: 0.013
+revenuePerShare: 118.941
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 4
+sharesOutstanding: 316940010
+sharesPercentSharesOut: 0.0209
+sharesShort: 6611179
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7856282
+shortName: Honeywell International Inc.
+shortPercentOfFloat: 0.0209
+shortRatio: 2.56
+sourceInterval: 15
+state: NC
+symbol: HON
+targetHighPrice: 290.0
+targetLowPrice: 186.0
+targetMeanPrice: 253.91304
+targetMedianPrice: 254.0
+totalCash: 6185999872
+totalCashPerShare: 19.492
+totalDebt: 17240000512
+totalRevenue: 37743001600
+tradeable: false
+trailingAnnualDividendRate: 7.84
+trailingAnnualDividendYield: 0.034352817
+trailingEps: 20.17
+trailingPE: 11.271691
+trailingPegRatio: 3.1837
+triggerable: true
+twoHundredDayAverage: 230.54404
+twoHundredDayAverageChange: -3.1940308
+twoHundredDayAverageChangePercent: -0.013854319
+typeDisp: Equity
+volume: 254669
+website: https://www.honeywell.com
+zip: '28202'

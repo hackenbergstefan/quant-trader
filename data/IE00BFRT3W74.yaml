@@ -1,0 +1,278 @@
+52WeekChange: 0.12537122
+SandP52WeekChange: 0.097798586
+address1: Unit No. 233
+address2: The Capel Building Mary's Abbey Dublin 7
+allTimeHigh: 195.42
+allTimeLow: 40.24
+ask: 189.7
+askSize: 100
+auditRisk: 6
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 1198010
+averageDailyVolume3Month: 1223192
+averageVolume: 1223192
+averageVolume10days: 1198010
+beta: 0.824
+bid: 189.32
+bidSize: 200
+boardRisk: 2
+bookValue: 25.764
+city: Dublin
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John H. Stone
+  title: President, CEO & Director
+  totalPay: 3142815
+  unexercisedValue: 5483486
+  yearBorn: 1971
+- age: 51
+  exercisedValue: 110548
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael J. Wagnes CPA
+  title: Senior VP & CFO
+  totalPay: 1453464
+  unexercisedValue: 1346727
+  yearBorn: 1974
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph C. Blasko BSFS, J.D.
+  title: Senior VP & General Counsel
+  totalPay: 1321368
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy P. Eckersley
+  title: SVP & President of International
+  totalPay: 1278285
+  unexercisedValue: 1036974
+  yearBorn: 1962
+- age: 46
+  exercisedValue: 53203
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David S. Ilardi
+  title: Senior VP & President of Allegion Americas
+  totalPay: 1259540
+  unexercisedValue: 669150
+  yearBorn: 1979
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nickolas A. Musial
+  title: Vice President, Controller, Chief Accounting Officer & Treasurer
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vincent M. Wenos
+  title: Senior VP & CTO
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tracy L. Kemp
+  title: Senior VP and Chief Information & Digital Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joshua Charles Pokrzywinski
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Whitney  Moorman
+  title: Director of Global Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Ireland
+cryptoTradeable: false
+currency: USD
+currentPrice: 189.695
+currentRatio: 1.899
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 189.83
+dayLow: 187.3
+debtToEquity: 102.394
+displayName: Allegion
+dividendDate: 1790726400
+dividendRate: 2.2
+dividendYield: 1.16
+earningsCallTimestampEnd: 1792670400
+earningsCallTimestampStart: 1792670400
+earningsGrowth: 0.188
+earningsQuarterlyGrowth: 0.173
+earningsTimestamp: 1792672200
+earningsTimestampEnd: 1792672200
+earningsTimestampStart: 1792672200
+ebitda: 1099000064
+ebitdaMargins: 0.25029
+enterpriseToEbitda: 16.21
+enterpriseToRevenue: 4.057
+enterpriseValue: 17814368256
+epsCurrentYear: 9.10634
+epsForward: 10.14556
+epsTrailingTwelveMonths: 8.04
+esgPopulated: false
+exDividendDate: 1789430400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 162.6312
+fiftyDayAverageChange: 27.063812
+fiftyDayAverageChangePercent: 0.16641219
+fiftyTwoWeekChangePercent: 12.537122
+fiftyTwoWeekHigh: 195.42
+fiftyTwoWeekHighChange: -5.724991
+fiftyTwoWeekHighChangePercent: -0.029295828
+fiftyTwoWeekLow: 125.0
+fiftyTwoWeekLowChange: 64.69501
+fiftyTwoWeekLowChangePercent: 0.51756006
+fiftyTwoWeekRange: 125.0 - 195.42
+financialCurrency: USD
+firstTradeDateMilliseconds: 1384785000000
+fiveYearAvgDividendYield: 1.4
+floatShares: 83859351
+forwardEps: 10.14556
+forwardPE: 18.697342
+freeCashflow: 580987520
+fullExchangeName: NYSE
+fullTimeEmployees: 13300
+fulldayChange: 0.20500183
+fulldayChangePercent: 0.10818609
+fulldayPrice: 189.695
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.45086
+grossProfits: 1979699968
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00225
+heldPercentInstitutions: 1.0287
+impliedSharesOutstanding: 85036786
+industry: Security & Protection Services
+industryDisp: Security & Protection Services
+industryKey: security-protection-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789430400
+lastDividendValue: 0.55
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Allegion plc engages in the provision of security products and
+  solutions worldwide. It is operating through two segments: Allegion Americas and
+  Allegion International. The company offers door controls, door control system, and
+  exit devices; doors, glass and door systems, and accessories; electronic security
+  products and access control systems, including time, attendance, and workforce productivity;
+  and locks, locksets, portable locks, and key systems. It also provides services
+  and software, such as inspection, maintenance, and repair services for its automatic
+  entrance solutions; software as a service, including access control, platform integration,
+  and workforce management solutions; and ongoing aftermarket services, and design
+  and installation offerings. In addition, the company sells its products and solutions
+  to end-users in commercial, institutional, and residential facilities, including
+  education, healthcare, government, hospitality, retail, commercial office, and single
+  and multi-family residential markets under the CISA, Interflex, LCN, Schlage, SimonsVoss,
+  and Von Duprin brands. It sells its products and solutions through distribution
+  and retail channels, such as specialty distribution, e-commerce, and wholesalers,
+  as well as through various retail channels comprising do-it-yourself home improvement
+  centers, online and e-commerce platforms, and small specialty showroom outlets.
+  Allegion plc was incorporated in 2013 and is based in Dublin, Ireland.'
+longName: Allegion plc
+market: us_market
+marketCap: 16131053568
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_241782379
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 691100032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 16113620579
+numberOfAnalystOpinions: 11
+open: 188.38
+operatingCashflow: 844099968
+operatingMargins: 0.21795
+overallRisk: 4
+payoutRatio: 0.2687
+pegRatio: 2.14
+phone: 353 1 683 3399
+previousClose: 189.49
+priceEpsCurrentYear: 20.83109
+priceHint: 2
+priceToBook: 7.3627934
+priceToSalesTrailing12Months: 3.6737463
+profitMargins: 0.15739
+quickRatio: 1.142
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.90909
+region: US
+regularMarketChange: 0.20500183
+regularMarketChangePercent: 0.10818609
+regularMarketDayHigh: 189.83
+regularMarketDayLow: 187.3
+regularMarketDayRange: 187.3 - 189.83
+regularMarketOpen: 188.38
+regularMarketPreviousClose: 189.49
+regularMarketPrice: 189.695
+regularMarketTime: 1794413702
+regularMarketVolume: 194682
+returnOnAssets: 0.11188
+returnOnEquity: 0.33556998
+revenueGrowth: 0.096
+revenuePerShare: 51.266
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 8
+sharesOutstanding: 85036786
+sharesPercentSharesOut: 0.0293
+sharesShort: 2489022
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2667872
+shortName: Allegion plc
+shortPercentOfFloat: 0.0294
+shortRatio: 2.1
+sourceInterval: 15
+symbol: ALLE
+targetHighPrice: 206.0
+targetLowPrice: 180.0
+targetMeanPrice: 193.63635
+targetMedianPrice: 196.0
+totalCash: 388100000
+totalCashPerShare: 4.603
+totalDebt: 2224399872
+totalRevenue: 4390900224
+tradeable: false
+trailingAnnualDividendRate: 2.16
+trailingAnnualDividendYield: 0.011399019
+trailingEps: 8.04
+trailingPE: 23.593906
+trailingPegRatio: 2.131
+triggerable: true
+twoHundredDayAverage: 151.3459
+twoHundredDayAverageChange: 38.349106
+twoHundredDayAverageChangePercent: 0.25338715
+typeDisp: Equity
+volume: 194682
+website: https://www.allegion.com
+zip: D07 X324

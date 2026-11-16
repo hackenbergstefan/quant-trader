@@ -1,0 +1,283 @@
+52WeekChange: 0.04005623
+SandP52WeekChange: 0.097798586
+address1: 51 Lime Street
+allTimeHigh: 352.79
+allTimeLow: 41.059605
+ask: 319.87
+askSize: 1
+auditRisk: 2
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 711060
+averageDailyVolume3Month: 541617
+averageVolume: 541617
+averageVolume10days: 711060
+beta: 0.434
+bid: 329.33
+bidSize: 1
+boardRisk: 2
+bookValue: 84.083
+city: London
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carl Aaron Hess CERA, F.S.A.
+  title: CEO & Director
+  totalPay: 3581326
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew Jay Krasner
+  title: CFO & Co-head of Corporate Development
+  totalPay: 2458205
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew S. Furman
+  title: General Counsel
+  totalPay: 1613643
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie Jarecke Gebauer
+  title: President of Health, Wealth & Career
+  totalPay: 2136441
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lucy  Clarke
+  title: President of Risk & Broking
+  totalPay: 1832049
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Alexis  Faber
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph Stephen Kurpis
+  title: Principal Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1960
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric Arnaldo Latalladi
+  title: Global Head of Technology
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Claudia De La Hoz
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristy D. Banas
+  title: Chief Human Resources Officer and Head of Marketing & Communication
+  unexercisedValue: 0
+  yearBorn: 1972
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: USD
+currentPrice: 332.06
+currentRatio: 1.104
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 332.735
+dayLow: 328.265
+debtToEquity: 90.536
+displayName: Willis Towers Watson
+dividendDate: 1792022400
+dividendRate: 3.84
+dividendYield: 1.15
+earningsCallTimestampEnd: 1793278800
+earningsCallTimestampStart: 1793278800
+earningsGrowth: 0.044
+earningsQuarterlyGrowth: -0.003
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 2880999936
+ebitdaMargins: 0.28042
+enterpriseToEbitda: 12.458
+enterpriseToRevenue: 3.493
+enterpriseValue: 35892015104
+epsCurrentYear: 19.84607
+epsForward: 22.94127
+epsTrailingTwelveMonths: 16.28
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 313.2224
+fiftyDayAverageChange: 18.837585
+fiftyDayAverageChangePercent: 0.060141243
+fiftyTwoWeekChangePercent: 4.005623
+fiftyTwoWeekHigh: 351.51
+fiftyTwoWeekHighChange: -19.450012
+fiftyTwoWeekHighChangePercent: -0.05533274
+fiftyTwoWeekLow: 240.61
+fiftyTwoWeekLowChange: 91.45
+fiftyTwoWeekLowChangePercent: 0.38007563
+fiftyTwoWeekRange: 240.61 - 351.51
+financialCurrency: USD
+firstTradeDateMilliseconds: 992352600000
+fiveYearAvgDividendYield: 1.28
+floatShares: 91762528
+forwardEps: 22.94127
+forwardPE: 14.474351
+freeCashflow: 1491124992
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 48100
+fulldayChange: -0.80999756
+fulldayChangePercent: -0.24333751
+fulldayPrice: 332.06
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.42632
+grossProfits: 4380000256
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0026800002
+heldPercentInstitutions: 1.03126
+impliedSharesOutstanding: 92216232
+industry: Insurance Brokers
+industryDisp: Insurance Brokers
+industryKey: insurance-brokers
+irWebsite: http://investors.willis.com/phoenix.zhtml?c=129857&p=irol-IRHome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 0.96
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1451952000
+lastSplitFactor: 3775:10000
+longBusinessSummary: 'Willis Towers Watson Public Limited Company operates as an advisory,
+  broking, and solutions company worldwide. The company operates through two segments:
+  Health, Wealth & Career and Risk & Broking. It offers strategy and design consulting,
+  plan management service and support, broking and administration services for health,
+  wellbeing, and other group benefit programs, including medical, dental, disability,
+  life, voluntary benefits, and other coverages; actuarial support, plan design, and
+  administrative services for pension and retirement savings plans; retirement consulting
+  services and solutions; and integrated solutions that consists of investment discretionary
+  management, pension administration, core actuarial, and communication and change
+  management assistance services. The company also provides advice, data, software,
+  and products to address clients'' total rewards and talent issues; and risk advice,
+  insurance brokerage, and consulting services in the areas of property and casualty,
+  affinity, risk and analytics, aerospace, construction, global markets direct and
+  facultative, financial, executive and professional risks, credit risk solutions,
+  crisis management, surety, marine, and natural resources. In addition, it offers
+  software and technology, risk and capital management, products and product pricing,
+  financial and regulatory reporting, financial and capital modeling, M&A, outsourcing,
+  and business management services. The company was formerly known as Willis Group
+  Holdings Public Limited Company and changed its name to Willis Towers Watson Public
+  Limited Company in January 2016. Willis Towers Watson Public Limited Company was
+  founded in 1828 and is based in London, the United Kingdom.'
+longName: Willis Towers Watson Public Limited Company
+market: us_market
+marketCap: 30621321216
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_36623
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1564000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 30688639847
+numberOfAnalystOpinions: 19
+open: 328.895
+operatingCashflow: 1984000000
+operatingMargins: 0.23923999
+overallRisk: 2
+payoutRatio: 0.2334
+pegRatio: 1.27
+phone: 44 203 1246000
+previousClose: 332.87
+priceEpsCurrentYear: 16.731777
+priceHint: 2
+priceToBook: 3.949193
+priceToSalesTrailing12Months: 2.9804673
+profitMargins: 0.15223
+quickRatio: 0.324
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.7619
+region: US
+regularMarketChange: -0.80999756
+regularMarketChangePercent: -0.24333751
+regularMarketDayHigh: 332.735
+regularMarketDayLow: 328.265
+regularMarketDayRange: 328.265 - 332.735
+regularMarketOpen: 328.895
+regularMarketPreviousClose: 332.87
+regularMarketPrice: 332.06
+regularMarketTime: 1794413750
+regularMarketVolume: 81571
+returnOnAssets: 0.0535
+returnOnEquity: 0.20179
+revenueGrowth: 0.075
+revenuePerShare: 109.008
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 6
+sharesOutstanding: 92216232
+sharesPercentSharesOut: 0.0247
+sharesShort: 2274906
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2955615
+shortName: Willis Towers Watson Public Lim
+shortPercentOfFloat: 0.028199999
+shortRatio: 4.27
+sourceInterval: 15
+symbol: WTW
+targetHighPrice: 455.0
+targetLowPrice: 325.0
+targetMeanPrice: 374.6316
+targetMedianPrice: 370.0
+totalCash: 1978000000
+totalCashPerShare: 21.45
+totalDebt: 7097999872
+totalRevenue: 10273999872
+tradeable: false
+trailingAnnualDividendRate: 0.96
+trailingAnnualDividendYield: 0.0028840087
+trailingEps: 16.28
+trailingPE: 20.396805
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 296.90594
+twoHundredDayAverageChange: 35.154053
+twoHundredDayAverageChangePercent: 0.11840131
+typeDisp: Equity
+volume: 81571
+website: https://www.wtwco.com
+zip: EC3M 7DQ

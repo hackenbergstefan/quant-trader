@@ -1,0 +1,263 @@
+52WeekChange: 0.3676523
+SandP52WeekChange: 0.097798586
+address1: Brouwerijplein 1
+allTimeHigh: 124.2
+allTimeLow: 9.377619
+ask: 0.0
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 2200732
+averageDailyVolume3Month: 1785235
+averageVolume: 1785235
+averageVolume10days: 2200732
+beta: 0.743
+bid: 0.0
+bidSize: 0
+boardRisk: 7
+bookValue: 42.213955
+city: Leuven
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2018
+  maxAge: 1
+  name: Mr. Michel Dimitrios  Doukeris
+  title: Global Chief Executive Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2018
+  maxAge: 1
+  name: Mr. Fernando Mommensohn Tennenbaum
+  title: Global Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2018
+  maxAge: 1
+  name: Dr. David Henrique Galatro  de Almeida
+  title: Global Chief Strategy and Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2018
+  maxAge: 1
+  name: Mr. Shaun  Fullalove
+  title: Global Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2018
+  maxAge: 1
+  name: Mr. John James  Blood
+  title: Global Chief Legal and Corporate Affairs Officer & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2018
+  maxAge: 1
+  name: Mr. Flavio  Sodre
+  title: Vice President of Ethics & Compliance
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2018
+  maxAge: 1
+  name: Ms. Donna  Lorenson
+  title: Global Chief Communications Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2018
+  maxAge: 1
+  name: Mr. Marcel  Marcondes
+  title: Global Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2018
+  maxAge: 1
+  name: Mr. Pablo  Panizza
+  title: Global Head of Sales & Distribution
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2018
+  maxAge: 1
+  name: Mr. Thiago Lopes Porto
+  title: Global Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+compensationAsOfEpochDate: 1546214400
+compensationRisk: 6
+corporateActions:
+- header: Dividend
+  message: ABI.BR announced a cash dividend of EUR 0.40 with an ex-date of Nov. 19,
+    2026
+  meta:
+    amount: '0.40'
+    dateEpochMs: 1795042800000
+    eventType: DIVIDEND
+country: Belgium
+cryptoTradeable: false
+currency: EUR
+currentPrice: 75.34
+customPriceAlertConfidence: LOW
+dayHigh: 76.56
+dayLow: 75.2
+debtToEquity: 71.88
+dividendRate: 1.15
+dividendYield: 1.5
+earningsCallTimestampEnd: 1793278800
+earningsCallTimestampStart: 1793278800
+earningsGrowth: 0.525
+earningsQuarterlyGrowth: 0.515
+earningsTimestamp: 1793292000
+earningsTimestampEnd: 1793292000
+earningsTimestampStart: 1793292000
+ebitda: 20263000064
+ebitdaMargins: 0.31663
+enterpriseToEbitda: 11.044
+enterpriseToRevenue: 3.497
+enterpriseValue: 223782780928
+epsCurrentYear: 4.48486
+epsForward: 4.3186073
+epsTrailingTwelveMonths: 4.23
+esgPopulated: false
+exDividendDate: 1795046400
+exchange: BRU
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Brussels
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 70.268
+fiftyDayAverageChange: 5.0719986
+fiftyDayAverageChangePercent: 0.07218078
+fiftyTwoWeekChangePercent: 36.76523
+fiftyTwoWeekHigh: 76.92
+fiftyTwoWeekHighChange: -1.5800018
+fiftyTwoWeekHighChangePercent: -0.020540847
+fiftyTwoWeekLow: 51.6
+fiftyTwoWeekLowChange: 23.739998
+fiftyTwoWeekLowChangePercent: 0.4600775
+fiftyTwoWeekRange: 51.6 - 76.92
+financialCurrency: USD
+firstTradeDateMilliseconds: 975657600000
+fiveYearAvgDividendYield: 1.29
+floatShares: 933792428
+forwardEps: 4.3186073
+forwardPE: 17.445438
+fullExchangeName: Brussels
+fullTimeEmployees: 137000
+fulldayChange: -1.4400024
+fulldayChangePercent: -1.8754916
+fulldayPrice: 75.34
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.56473
+grossProfits: 36139999232
+hasPrePostMarketData: false
+heldPercentInsiders: 0.43877
+heldPercentInstitutions: 0.21488
+impliedSharesOutstanding: 1969128856
+industry: Beverages - Brewers
+industryDisp: Beverages - Brewers
+industryKey: beverages-brewers
+irWebsite: http://www.ab-inbev.com/go/investors.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1795046400
+lastDividendValue: 0.4
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Anheuser-Busch InBev SA/NV produces and sells beer in North America,
+  Middle Americas, South America, Europe, the Middle East, Africa, and the Asia Pacific.
+  It operates through North America, Middle Americas, South America, EMEA, Asia Pacific,
+  and Global Export and Holding Companies segments. The company also offers flavored
+  malt beverages, soft drinks, spirit-based ready-to-drink cocktails and beverages,
+  and energy drinks. In addition, it operates BEES, a business-to-business digital
+  commerce platform; on-demand delivery platforms under the Zé Delivery and TaDa Delivery
+  brands; and premium at-home draft system under the PerfectDraft brand. The company
+  provides a portfolio of approximately 500 beer brands, which primarily include Budweiser,
+  Corona Extra, Michelob Ultra, and Stella Artois; Aguila, Brahma, Carling Black Label,
+  Cass Fresh, Jupiler, Quilmes, SKOL, and Victoria; Beck's, Hoegaarden, and Leffe;
+  Antarctica, Bud Light, Castle, Castle Lite, Cristal, Harbin, Modelo Especial, Sedrin,
+  and Skol brands, as well as non-beer brands comprising Brutal Fruit, Cutwater, and
+  NÜTRL brands. The company was formerly known as InBev SA and changed its name to
+  Anheuser-Busch InBev SA/NV in November 2008. Anheuser-Busch InBev SA/NV was founded
+  in 1366 and is headquartered in Leuven, Belgium.
+longName: Anheuser-Busch InBev SA/NV
+market: be_market
+marketCap: 148354154496
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_745257
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 9868999680
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 151189713563
+numberOfAnalystOpinions: 24
+open: 76.3
+operatingMargins: 0.26713
+overallRisk: 5
+payoutRatio: 0.2705
+pegRatio: 1.74
+phone: 32 0 1627 60 18
+previousClose: 76.78
+priceEpsCurrentYear: 16.79874
+priceHint: 2
+priceToBook: 1.7847178
+priceToSalesTrailing12Months: 2.318215
+profitMargins: 0.15422
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6
+region: US
+regularMarketChange: -1.4400024
+regularMarketChangePercent: -1.8754916
+regularMarketDayHigh: 76.56
+regularMarketDayLow: 75.2
+regularMarketDayRange: 75.2 - 76.56
+regularMarketOpen: 76.3
+regularMarketPreviousClose: 76.78
+regularMarketPrice: 75.34
+regularMarketTime: 1794411563
+regularMarketVolume: 610329
+revenueGrowth: 0.091
+revenuePerShare: 32.415
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 4
+sharesOutstanding: 1747086877
+shortName: AB INBEV
+sourceInterval: 15
+symbol: ABI.BR
+targetHighPrice: 97.60627
+targetLowPrice: 69.50055
+targetMeanPrice: 83.6454
+targetMedianPrice: 84.14504
+totalCash: 8010999808
+totalCashPerShare: 4.063
+totalDebt: 72732000256
+totalRevenue: 63994998784
+tradeable: false
+trailingAnnualDividendRate: 1.628
+trailingAnnualDividendYield: 0.02120344
+trailingEps: 4.23
+trailingPE: 17.810873
+trailingPegRatio: 1.7834
+triggerable: false
+twoHundredDayAverage: 68.1771
+twoHundredDayAverageChange: 7.162895
+twoHundredDayAverageChangePercent: 0.105063066
+typeDisp: Equity
+volume: 610329
+website: https://www.ab-inbev.com
+zip: '3000'

@@ -1,0 +1,285 @@
+52WeekChange: 0.16476941
+SandP52WeekChange: 0.097798586
+address1: 800 Capitol Street
+address2: Suite 3000
+allTimeHigh: 248.13
+allTimeLow: 1.375
+ask: 236.88
+askSize: 200
+auditRisk: 1
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 2338680
+averageDailyVolume3Month: 2268554
+averageVolume: 2268554
+averageVolume10days: 2338680
+beta: 0.386
+bid: 236.66
+bidSize: 300
+boardRisk: 1
+bookValue: 24.809
+city: Houston
+companyOfficers:
+- age: 63
+  exercisedValue: 3411294
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James C. Fish Jr.
+  title: CEO & Director
+  totalPay: 4242287
+  unexercisedValue: 226014
+  yearBorn: 1962
+- age: 55
+  exercisedValue: 2636501
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John J. Morris Jr.
+  title: President
+  totalPay: 2344000
+  unexercisedValue: 68386
+  yearBorn: 1970
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David L. Reed
+  title: CFO & Executive VP
+  totalPay: 973849
+  unexercisedValue: 241279
+  yearBorn: 1978
+- age: 52
+  exercisedValue: 5776116
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tara J. Hemmer
+  title: Executive VP & COO
+  totalPay: 1507213
+  unexercisedValue: 555311
+  yearBorn: 1973
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John A. Carroll
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Johnson  Varkey
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Edward A. Egl
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 3335416
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles C. Boettcher J.D.
+  title: Executive VP of Corporate Development & Chief Legal Officer
+  totalPay: 1357356
+  unexercisedValue: 891402
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles S. Schwager
+  title: VP and Chief Compliance & Ethics Officer
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kimberly G. Stith
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 237.0
+currentRatio: 0.822
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 237.84
+dayLow: 235.88
+debtToEquity: 237.252
+displayName: Waste Management
+dividendDate: 1790294400
+dividendRate: 3.78
+dividendYield: 1.59
+earningsCallTimestampEnd: 1793196000
+earningsCallTimestampStart: 1793196000
+earningsGrowth: 0.376
+earningsQuarterlyGrowth: 0.36
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1801083600
+earningsTimestampStart: 1801083600
+ebitda: 7888000000
+ebitdaMargins: 0.30257
+enterpriseToEbitda: 14.903
+enterpriseToRevenue: 4.509
+enterpriseValue: 117556576256
+epsCurrentYear: 8.09842
+epsForward: 8.94746
+epsTrailingTwelveMonths: 7.62
+esgPopulated: false
+exDividendDate: 1789084800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 220.0806
+fiftyDayAverageChange: 16.919403
+fiftyDayAverageChangePercent: 0.07687821
+fiftyTwoWeekChangePercent: 16.47694
+fiftyTwoWeekHigh: 248.13
+fiftyTwoWeekHighChange: -11.130005
+fiftyTwoWeekHighChangePercent: -0.04485554
+fiftyTwoWeekLow: 200.58
+fiftyTwoWeekLowChange: 36.42
+fiftyTwoWeekLowChangePercent: 0.18157342
+fiftyTwoWeekRange: 200.58 - 248.13
+financialCurrency: USD
+firstTradeDateMilliseconds: 582989400000
+fiveYearAvgDividendYield: 1.5
+floatShares: 396445988
+forwardEps: 8.94746
+forwardPE: 26.487963
+freeCashflow: 2479124992
+fullExchangeName: NYSE
+fullTimeEmployees: 60500
+fulldayChange: -0.38000488
+fulldayChangePercent: -0.16008294
+fulldayPrice: 237.0
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.40387002
+grossProfits: 10529000448
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0025799999
+heldPercentInstitutions: 0.86716
+impliedSharesOutstanding: 397634916
+industry: Waste Management
+industryDisp: Waste Management
+industryKey: waste-management
+irWebsite: http://investors.wm.com/phoenix.zhtml?c=119743&p=irol-IRHome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1789084800
+lastDividendValue: 0.945
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Waste Management, Inc., through its subsidiaries, provides environmental
+  solutions to residential, commercial, industrial, and municipal customers in the
+  United States, Canada, Western Europe, and internationally. It offers collection
+  services, including picking up and transporting waste and recyclable materials from
+  where it was generated to a transfer station, recovery facility, or disposal site;
+  owns and operates transfer stations; and owns, develops, and operates landfill gas-to-energy
+  facilities that produce renewable electricity and renewable natural gas. It also
+  operates materials processing and commodities recycling services, including cardboard,
+  paper, glass, metals, plastics, construction and demolition materials, and other
+  recycling commodities are recovered for resale or redirected for other purposes;
+  markets and resells recycling commodities; recycling brokerage services, such as
+  managing the marketing of recyclable materials for third parties; and other strategic
+  business solutions. In addition, the company collects recyclable food and yard waste,
+  as well as markets and sells mulch, compost, soil amendments, and renewable energy;
+  offers remediation and construction, and industrial waste services; and manages
+  and markets fly ash. Further, it provides Regulated Waste and Compliance Services
+  (RWCS), which offers compliance programs, as well as collection, processing, and
+  disposal of regulated and specialized waste, including medical, pharmaceutical,
+  and hazardous waste; and Secure Information Destruction (SID) services that include
+  the collection of personal and confidential information for secure destruction and
+  recycling of sorted office paper. The company was formerly known as USA Waste Services,
+  Inc. and changed its name to Waste Management, Inc. in 1998. Waste Management, Inc.
+  was founded in 1968 and is based in Houston, Texas.
+longName: Waste Management, Inc.
+market: us_market
+marketCap: 94239473664
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_190694
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3070000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 94390576360
+numberOfAnalystOpinions: 25
+open: 235.88
+operatingCashflow: 6565000192
+operatingMargins: 0.18913999
+overallRisk: 1
+payoutRatio: 0.48029998
+pegRatio: 2.24
+phone: 713 512 6200
+previousClose: 237.38
+priceEpsCurrentYear: 29.264967
+priceHint: 2
+priceToBook: 9.552985
+priceToSalesTrailing12Months: 3.614863
+profitMargins: 0.11776
+quickRatio: 0.721
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.75
+region: US
+regularMarketChange: -0.38000488
+regularMarketChangePercent: -0.16008294
+regularMarketDayHigh: 237.84
+regularMarketDayLow: 235.88
+regularMarketDayRange: 235.88 - 237.84
+regularMarketOpen: 235.88
+regularMarketPreviousClose: 237.38
+regularMarketPrice: 237.0
+regularMarketTime: 1794413747
+regularMarketVolume: 277477
+returnOnAssets: 0.0669
+returnOnEquity: 0.31679
+revenueGrowth: 0.063
+revenuePerShare: 64.907
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 4
+sharesOutstanding: 397634916
+sharesPercentSharesOut: 0.018099999
+sharesShort: 7204430
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7789045
+shortName: Waste Management, Inc.
+shortPercentOfFloat: 0.0182
+shortRatio: 2.8
+sourceInterval: 15
+state: TX
+symbol: WM
+targetHighPrice: 283.0
+targetLowPrice: 220.0
+targetMeanPrice: 255.6
+targetMedianPrice: 259.0
+totalCash: 247000000
+totalCashPerShare: 0.621
+totalDebt: 23412000768
+totalRevenue: 26069999616
+tradeable: false
+trailingAnnualDividendRate: 3.66
+trailingAnnualDividendYield: 0.015418316
+trailingEps: 7.62
+trailingPE: 31.102364
+trailingPegRatio: 2.238
+triggerable: true
+twoHundredDayAverage: 225.6622
+twoHundredDayAverageChange: 11.337799
+twoHundredDayAverageChangePercent: 0.05024235
+typeDisp: Equity
+volume: 277477
+website: https://www.wm.com
+zip: '77002'

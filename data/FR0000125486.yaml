@@ -1,0 +1,262 @@
+52WeekChange: -0.042952478
+SandP52WeekChange: 0.097798586
+address1: 1973, boulevard de la Défense
+address2: CS 10268 Cedex
+allTimeHigh: 143.15
+allTimeLow: 2.576726
+ask: 0.0
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 1037567
+averageDailyVolume3Month: 912715
+averageVolume: 912715
+averageVolume10days: 1037567
+beta: 0.714
+bid: 0.0
+bidSize: 0
+boardRisk: 4
+bookValue: 55.202
+city: Nanterre
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pierre  Anjolras
+  title: CEO & Director
+  totalPay: 2142750
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thierry  Mirville
+  title: Chief Financial Officer
+  unexercisedValue: 0
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregoire  Thibault
+  title: Group Director of Investor Relations & Financial Communications
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sophie  Deis-Beauquesne
+  title: General Counsel
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pierre  Duprat
+  title: Vice-President of Corporate Communications
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ludovic  Demierre
+  title: Vice-President of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 69
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian  Labeyrie
+  title: Executive Officer
+  unexercisedValue: 0
+  yearBorn: 1956
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philippe  Chavent
+  title: Chief Operating Officer of VINCI Construction
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hugues  Fourmentraux
+  title: Chief Operating Officer of VINCI Construction
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Manuel  Peltier
+  title: Managing Director of Specialty Networks VINCI Construction
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 114.15
+currentRatio: 0.825
+customPriceAlertConfidence: LOW
+dayHigh: 115.55
+dayLow: 113.7
+debtToEquity: 120.742
+dividendRate: 5.05
+dividendYield: 4.4
+earningsCallTimestampEnd: 1785400200
+earningsCallTimestampStart: 1785400200
+earningsGrowth: 0.108
+earningsQuarterlyGrowth: 0.096
+earningsTimestampEnd: 1785339000
+earningsTimestampStart: 1785339000
+ebitda: 12780000256
+ebitdaMargins: 0.16871999
+enterpriseToEbitda: 7.279
+enterpriseToRevenue: 1.228
+enterpriseValue: 93024886784
+epsCurrentYear: 9.08138
+epsForward: 9.91766
+epsTrailingTwelveMonths: 9.01
+esgPopulated: false
+exDividendDate: 1791849600
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 109.721
+fiftyDayAverageChange: 4.429001
+fiftyDayAverageChangePercent: 0.040366028
+fiftyTwoWeekChangePercent: -4.295248
+fiftyTwoWeekHigh: 143.15
+fiftyTwoWeekHighChange: -28.999992
+fiftyTwoWeekHighChangePercent: -0.20258465
+fiftyTwoWeekLow: 104.25
+fiftyTwoWeekLowChange: 9.900002
+fiftyTwoWeekLowChangePercent: 0.09496404
+fiftyTwoWeekRange: 104.25 - 143.15
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 3.6
+floatShares: 421575244
+forwardEps: 9.91766
+forwardPE: 11.509772
+freeCashflow: 8071124992
+fullExchangeName: Paris
+fullTimeEmployees: 292101
+fulldayChange: -0.5999985
+fulldayChangePercent: -0.5228745
+fulldayPrice: 114.15
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.17006999
+grossProfits: 12883000320
+hasPrePostMarketData: false
+heldPercentInsiders: 0.11089
+heldPercentInstitutions: 0.52806
+impliedSharesOutstanding: 550097470
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791849600
+lastDividendValue: 1.1
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1179360000
+lastSplitFactor: '2:1'
+longBusinessSummary: Vinci SA, together with its subsidiaries, engages in concessions,
+  energy, and construction businesses in France and internationally. It operates through
+  Concessions, Energy Solutions, and Construction segments. The company's Concessions
+  segment operates motorways, autoroutes, airports, highways, railways, and stadiums.
+  Its Energy segment provides services to the manufacturing sector, infrastructure,
+  building solutions and facilities management, and information and communication
+  technology; and industrial and energy-related services, which includes development
+  of renewable energy assets, as well as engineering, procurement, construction projects
+  in the energy sector, and development of renewable energy production facilities
+  of solar, and wind farms. The company's Construction segment engages in designing
+  and undertaking projects, which includes general contractor; geotechnical, and structural
+  engineering and related digital activities, as well as provision of services in
+  nuclear engineering; undertaking building, civil engineering, roadworks, rail works,
+  and water works; development of properties, including residential and commercial
+  properties; and management of residences and property services. Vinci SA was founded
+  in 1899 and is headquartered in Nanterre, France.
+longName: Vinci SA
+market: fr_market
+marketCap: 62793625600
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_877769
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 5085000192
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 62564672289
+numberOfAnalystOpinions: 20
+open: 115.4
+operatingCashflow: 12147000320
+operatingMargins: 0.12339
+overallRisk: 2
+payoutRatio: 0.5549
+pegRatio: 2.96
+phone: 33 1 57 98 61 00
+previousClose: 114.75
+priceEpsCurrentYear: 12.569675
+priceHint: 2
+priceToBook: 2.06786
+priceToSalesTrailing12Months: 0.8289697
+profitMargins: 0.06713
+quickRatio: 0.616
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.9
+region: US
+regularMarketChange: -0.5999985
+regularMarketChangePercent: -0.5228745
+regularMarketDayHigh: 115.55
+regularMarketDayLow: 113.7
+regularMarketDayRange: 113.7 - 115.55
+regularMarketOpen: 115.4
+regularMarketPreviousClose: 114.75
+regularMarketPrice: 114.15
+regularMarketTime: 1794411570
+regularMarketVolume: 193986
+returnOnAssets: 0.04404
+returnOnEquity: 0.16318001
+revenueGrowth: 0.023
+revenuePerShare: 136.008
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 550097470
+shortName: VINCI
+sourceInterval: 15
+symbol: DG.PA
+targetHighPrice: 163.5
+targetLowPrice: 116.0
+targetMeanPrice: 140.35
+targetMedianPrice: 140.5
+totalCash: 15564000256
+totalCashPerShare: 28.087
+totalDebt: 41346998272
+totalRevenue: 75748999168
+tradeable: false
+trailingAnnualDividendRate: 5.05
+trailingAnnualDividendYield: 0.044008717
+trailingEps: 9.01
+trailingPE: 12.669256
+trailingPegRatio: 2.9568
+triggerable: false
+twoHundredDayAverage: 122.793
+twoHundredDayAverageChange: -8.642998
+twoHundredDayAverageChangePercent: -0.07038673
+typeDisp: Equity
+volume: 193986
+website: https://www.vinci.com
+zip: '92000'

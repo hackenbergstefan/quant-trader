@@ -1,0 +1,240 @@
+52WeekChange: 0.28023028
+SandP52WeekChange: 0.097798586
+address1: Boulevard de l'Empereur 20
+allTimeHigh: 161.47993
+allTimeLow: 19.564598
+ask: 0.0
+askSize: 0
+auditRisk: 7
+averageDailyVolume10Day: 82085
+averageDailyVolume3Month: 98708
+averageVolume: 98708
+averageVolume10days: 82085
+beta: 0.831
+bid: 0.0
+bidSize: 0
+boardRisk: 9
+bookValue: 71.94
+city: Brussels
+companyOfficers:
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bernard  Gustin
+  title: CEO & Member of Executive Management Board
+  totalPay: 1206248
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marco  Nix
+  title: CFO & Member of Executive Management Board
+  totalPay: 710843
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Michiels
+  title: Co-Chief HR Officer & Member of Executive Management Board
+  totalPay: 641836
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Kapferer
+  title: Deputy CEO, CEO of 50Hertz, Member of Ex. Man. Board & Chief Transformation
+    Officer
+  totalPay: 872509
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frederic  Dunon
+  title: Member of Ex. Man. Board, CEO of Elia Transmission Belgium SA/NV & Elia Asset
+    SA/NV and Group COO
+  totalPay: 811375
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Celine Van Haute
+  title: Chief HR Officer & Member of Executive Management Board
+  totalPay: 370309
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Stephanie  Luyten
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marleen  Vanhecke
+  title: Head of Group Communication & Reputation
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Yannick  Dekoninck
+  title: Head of Capital Markets
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Olivier  Feix
+  title: Head of Strategy
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: Belgium
+cryptoTradeable: false
+currency: EUR
+currentPrice: 133.4
+currentRatio: 1.191
+customPriceAlertConfidence: LOW
+dayHigh: 134.3
+dayLow: 132.7
+debtToEquity: 175.519
+dividendRate: 2.05
+dividendYield: 1.54
+earningsCallTimestampEnd: 1785339600
+earningsCallTimestampStart: 1785339600
+earningsGrowth: 0.1
+earningsQuarterlyGrowth: 0.301
+earningsTimestampEnd: 1772728800
+earningsTimestampStart: 1772728800
+ebitda: 2630700032
+ebitdaMargins: 0.54429
+enterpriseToEbitda: 11.268
+enterpriseToRevenue: 6.133
+enterpriseValue: 29642876928
+epsCurrentYear: 6.65848
+epsForward: 7.32041
+epsTrailingTwelveMonths: 5.8
+esgPopulated: false
+exDividendDate: 1780012800
+exchange: BRU
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Brussels
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 32 2 546 70 10
+fiftyDayAverage: 122.09
+fiftyDayAverageChange: 11.309998
+fiftyDayAverageChangePercent: 0.09263656
+fiftyTwoWeekChangePercent: 28.02303
+fiftyTwoWeekHigh: 143.1
+fiftyTwoWeekHighChange: -9.700012
+fiftyTwoWeekHighChangePercent: -0.067784846
+fiftyTwoWeekLow: 99.05
+fiftyTwoWeekLowChange: 34.34999
+fiftyTwoWeekLowChangePercent: 0.34679446
+fiftyTwoWeekRange: 99.05 - 143.1
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1119250800000
+fiveYearAvgDividendYield: 1.67
+floatShares: 44802422
+forwardEps: 7.32041
+forwardPE: 18.223022
+freeCashflow: -3870874880
+fullExchangeName: Brussels
+fullTimeEmployees: 4572
+fulldayChange: 0.0
+fulldayChangePercent: 0.0
+fulldayPrice: 133.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.61296004
+grossProfits: 2962599936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.59597
+heldPercentInstitutions: 0.30392
+impliedSharesOutstanding: 109143761
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1780012800
+lastDividendValue: 2.05
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Elia Group SA/NV develops and operates as a transmission system
+  operator in Belgium and Germany. The company provides electricity transmission solutions;
+  generates, imports, and exports electricity; and offers engineering consultancy
+  services. Elia Group SA/NV was founded in 1937 and is headquartered in Brussels,
+  Belgium.
+longName: Elia Group SA/NV
+market: be_market
+marketCap: 14559776768
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_22250082
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 635600000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 14559777717
+numberOfAnalystOpinions: 15
+open: 134.1
+operatingCashflow: 1890499968
+operatingMargins: 0.40273
+overallRisk: 8
+payoutRatio: 0.3534
+pegRatio: 2.82
+phone: 32 2 546 70 11
+previousClose: 133.4
+priceEpsCurrentYear: 20.034601
+priceHint: 2
+priceToBook: 1.8543229
+priceToSalesTrailing12Months: 3.0123885
+profitMargins: 0.13893
+quickRatio: 1.068
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 0.0
+regularMarketChangePercent: 0.0
+regularMarketDayHigh: 134.3
+regularMarketDayLow: 132.7
+regularMarketDayRange: 132.7 - 134.3
+regularMarketOpen: 134.1
+regularMarketPreviousClose: 133.4
+regularMarketPrice: 133.4
+regularMarketTime: 1794411318
+regularMarketVolume: 6481
+returnOnAssets: 0.039300002
+returnOnEquity: 0.083900005
+revenueGrowth: 0.18
+revenuePerShare: 44.298
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 10
+sharesOutstanding: 109143761
+shortName: ELIA GROUP
+sourceInterval: 15
+symbol: ELI.BR
+targetHighPrice: 170.0
+targetLowPrice: 125.0
+targetMeanPrice: 148.96667
+targetMedianPrice: 150.0
+totalCash: 3448499968
+totalCashPerShare: 31.596
+totalDebt: 17704300544
+totalRevenue: 4833299968
+tradeable: false
+trailingAnnualDividendRate: 2.05
+trailingAnnualDividendYield: 0.015367317
+trailingEps: 5.8
+trailingPE: 22.999998
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 130.7015
+twoHundredDayAverageChange: 2.6984863
+twoHundredDayAverageChangePercent: 0.020646175
+typeDisp: Equity
+volume: 6481
+website: https://www.eliagroup.eu
+zip: '1000'

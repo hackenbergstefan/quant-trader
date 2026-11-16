@@ -1,0 +1,291 @@
+52WeekChange: 0.12975228
+SandP52WeekChange: 0.097798586
+address1: 6035 Parkland Boulevard
+allTimeHigh: 1099.94
+allTimeLow: 2.938272
+ask: 974.66
+askSize: 80
+auditRisk: 7
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 914650
+averageDailyVolume3Month: 641901
+averageVolume: 641901
+averageVolume10days: 914650
+beta: 1.145
+bid: 973.59
+bidSize: 80
+boardRisk: 4
+bookValue: 126.633
+city: Cleveland
+companyOfficers:
+- age: 58
+  exercisedValue: 8035679
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Jennifer A.  Parmentier
+  title: Chairman of the Board & CEO
+  totalPay: 7332331
+  unexercisedValue: 42466976
+  yearBorn: 1967
+- age: 58
+  exercisedValue: 12100776
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Andrew D. Ross
+  title: President & COO
+  totalPay: 3464219
+  unexercisedValue: 13088635
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 3381642
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Todd M. Leombruno
+  title: Executive VP & CFO
+  totalPay: 3170113
+  unexercisedValue: 33434054
+  yearBorn: 1970
+- age: 53
+  exercisedValue: 1180555
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Joseph R. Leonti J.D.
+  title: Executive VP, General Counsel & Secretary
+  totalPay: 2643602
+  unexercisedValue: 1954181
+  yearBorn: 1972
+- age: 46
+  exercisedValue: 761945
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Matthew A. Jacobson
+  title: VP & President of Filtration Group
+  totalPay: 1759614
+  unexercisedValue: 4623907
+  yearBorn: 1979
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Mark T. Czaja
+  title: VP and Chief Technology & Innovation Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Dinu J. Parel
+  title: VP and Chief Digital & Information Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Jeffrey J. Miller
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Aidan  Gormley
+  title: Director of Global Communications & Branding
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Douglas A. Gilbert
+  title: Vice President of Global Sales & Marketing
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: PH announced a cash dividend of $2.00 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '2.00'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 974.3925
+currentRatio: 0.944
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 980.095
+dayLow: 964.48
+debtToEquity: 108.762
+displayName: Parker-Hannifin
+dividendDate: 1796342400
+dividendRate: 8.0
+dividendYield: 0.83
+earningsCallTimestampEnd: 1793894400
+earningsCallTimestampStart: 1793894400
+earningsGrowth: 0.1
+earningsQuarterlyGrowth: 0.094
+earningsTimestamp: 1793885400
+earningsTimestampEnd: 1801143000
+earningsTimestampStart: 1801143000
+ebitda: 5964000256
+ebitdaMargins: 0.26617
+enterpriseToEbitda: 23.235
+enterpriseToRevenue: 6.184
+enterpriseValue: 138573840384
+epsCurrentYear: 36.95354
+epsForward: 40.86536
+epsTrailingTwelveMonths: 29.11
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 945.1876
+fiftyDayAverageChange: 29.204895
+fiftyDayAverageChangePercent: 0.030898517
+fiftyTwoWeekChangePercent: 12.975227
+fiftyTwoWeekHigh: 1099.94
+fiftyTwoWeekHighChange: -125.547424
+fiftyTwoWeekHighChangePercent: -0.11414026
+fiftyTwoWeekLow: 806.22
+fiftyTwoWeekLowChange: 168.17255
+fiftyTwoWeekLowChangePercent: 0.20859388
+fiftyTwoWeekRange: 806.22 - 1099.94
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 1.1
+floatShares: 125722288
+forwardEps: 40.86536
+forwardPE: 23.843973
+freeCashflow: 2830374912
+fullExchangeName: NYSE
+fullTimeEmployees: 59850
+fulldayChange: 9.222534
+fulldayChangePercent: 0.9555347
+fulldayPrice: 974.3925
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.37698
+grossProfits: 8447000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00178
+heldPercentInstitutions: 0.91681
+impliedSharesOutstanding: 126096795
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=97464&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788134400
+lastDividendValue: 2.0
+lastFiscalYearEnd: 1782777600
+lastSplitDate: 1191283200
+lastSplitFactor: '3:2'
+longBusinessSummary: 'Parker-Hannifin Corporation engages in the manufacture and sale
+  of motion and control technologies and systems for aerospace and defense, in-plant
+  and industrial equipment, transportation, off-highway, energy, and HVAC and refrigeration
+  markets in North America, EMEA, Asia Pacific, and Latin America. It operates through
+  two segments: Diversified Industrial and Aerospace Systems. The company offers various
+  motion-control systems and components, such as active and passive vibration control,
+  high purity sealing, coatings, high temperature sealing, cryogenic valves and fittings,
+  HVAC/R controls and monitoring, elastomeric, fabric reinforced, metal, precision
+  cut seals, hydrogen and natural gas filters, electric and hydraulic pumps and motors,
+  industrial air, gas filtration, electric and hydraulic valves, miniature pumps and
+  valves, electromagnetic interface shielding, pneumatic actuators, regulators and
+  valves, electromechanical and hydraulic actuators, power take offs, electronics,
+  drives and controllers, process filtration solutions, engine filtration solutions,
+  rubber to substrate adhesives, fluid condition monitoring, sensors and diagnostics,
+  fluid conveyance hose and tubing, structural adhesives, high pressure connectors,
+  fittings, valves and regulators, thermal management, high purity fittings. The company
+  also provides products for use in commercial and defense airframe and engine programs,
+  such as avionics, electric and hydraulic braking systems, electric power, electromechanical
+  actuators, engine exhaust systems and components, fire detection and suppression,
+  flight control systems, fluid conveyance, fuel systems and components, fuel tank
+  inserting systems, hydraulic pumps and motors, hydraulic valves and actuators, pneumatics,
+  seals, sensors, and thermal management products. The company sells its products
+  to original equipment manufacturers, distributors, direct-sales employees. Parker-Hannifin
+  Corporation was founded in 1917 and is headquartered in Cleveland, Ohio.'
+longName: Parker-Hannifin Corporation
+market: us_market
+marketCap: 122867769344
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_295170
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3724000000
+nextFiscalYearEnd: 1814313600
+nonDilutedMarketCap: 121704843630
+numberOfAnalystOpinions: 24
+open: 970.1
+operatingCashflow: 4334000128
+operatingMargins: 0.22194
+overallRisk: 7
+payoutRatio: 0.2611
+pegRatio: 3.2
+phone: 216 896 3000
+previousClose: 965.17
+priceEpsCurrentYear: 26.368042
+priceHint: 2
+priceToBook: 7.6946173
+priceToSalesTrailing12Months: 5.4834547
+profitMargins: 0.16620001
+quickRatio: 0.509
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.68
+region: US
+regularMarketChange: 9.222534
+regularMarketChangePercent: 0.9555347
+regularMarketDayHigh: 980.095
+regularMarketDayLow: 964.48
+regularMarketDayRange: 964.48 - 980.095
+regularMarketOpen: 970.1
+regularMarketPreviousClose: 965.17
+regularMarketPrice: 974.3925
+regularMarketTime: 1794413749
+regularMarketVolume: 108615
+returnOnAssets: 0.08562
+returnOnEquity: 0.24952999
+revenueGrowth: 0.179
+revenuePerShare: 177.552
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 8
+sharesOutstanding: 126096795
+sharesPercentSharesOut: 0.0119
+sharesShort: 1505705
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1454887
+shortName: Parker-Hannifin Corporation
+shortPercentOfFloat: 0.012
+shortRatio: 2.52
+sourceInterval: 15
+state: OH
+symbol: PH
+targetHighPrice: 1280.0
+targetLowPrice: 740.0
+targetMeanPrice: 1138.2887
+targetMedianPrice: 1176.0
+totalCash: 711000000
+totalCashPerShare: 5.639
+totalDebt: 17478000640
+totalRevenue: 22407000064
+tradeable: false
+trailingAnnualDividendRate: 7.6
+trailingAnnualDividendYield: 0.007874261
+trailingEps: 29.11
+trailingPE: 33.472775
+trailingPegRatio: 3.2035
+triggerable: true
+twoHundredDayAverage: 948.8906
+twoHundredDayAverageChange: 25.501892
+twoHundredDayAverageChangePercent: 0.026875481
+typeDisp: Equity
+volume: 108615
+website: https://www.parker.com
+zip: 44124-4141

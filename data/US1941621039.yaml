@@ -1,0 +1,279 @@
+52WeekChange: 0.24859977
+SandP52WeekChange: 0.097798586
+address1: 300 Park Avenue
+allTimeHigh: 109.3
+allTimeLow: 0.6875
+ask: 97.59
+askSize: 200
+auditRisk: 3
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 5522040
+averageDailyVolume3Month: 4876928
+averageVolume: 4876928
+averageVolume10days: 5522040
+beta: 0.308
+bid: 97.55
+bidSize: 200
+boardRisk: 5
+bookValue: 0.362
+city: New York
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Noel R. Wallace
+  title: Chairman, CEO & President
+  totalPay: 4844819
+  unexercisedValue: 5126345
+  yearBorn: 1964
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stanley J. Sutula III
+  title: Chief Financial Officer
+  totalPay: 2543434
+  unexercisedValue: 315986
+  yearBorn: 1966
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Panagiotis  Tsourapas
+  title: COO of Global Customer Dev., Europe Middle East Africa, Asia Pacific & Global
+    Skin Health
+  totalPay: 2162369
+  unexercisedValue: 553069
+  yearBorn: 1965
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shane  Grant
+  title: Chief Operating Officer of Americas
+  totalPay: 3064196
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephan  Habif
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Foster
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Betsy  Fishbone
+  title: EVP, Chief Legal Officer & Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eutychus  Karuru
+  title: Executive Vice President of Internal Audit & Compliance
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dana  Bolden
+  title: Chief Communications Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ram  Raghavan
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 97.765
+currentRatio: 0.958
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 97.98
+dayLow: 96.85
+debtToEquity: 1205.625
+displayName: Colgate-Palmolive
+dividendDate: 1794528000
+dividendRate: 2.12
+dividendYield: 2.16
+earningsCallTimestampEnd: 1793363400
+earningsCallTimestampStart: 1793363400
+earningsGrowth: 0.033
+earningsQuarterlyGrowth: 0.022
+earningsTimestamp: 1793363400
+earningsTimestampEnd: 1801229400
+earningsTimestampStart: 1801229400
+ebitda: 5040999936
+ebitdaMargins: 0.23683001
+enterpriseToEbitda: 16.749
+enterpriseToRevenue: 3.967
+enterpriseValue: 84429750272
+epsCurrentYear: 3.92131
+epsForward: 4.10019
+epsTrailingTwelveMonths: 2.57
+esgPopulated: false
+exDividendDate: 1792454400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 90.4464
+fiftyDayAverageChange: 7.318596
+fiftyDayAverageChangePercent: 0.08091638
+fiftyTwoWeekChangePercent: 24.859978
+fiftyTwoWeekHigh: 101.18
+fiftyTwoWeekHighChange: -3.415001
+fiftyTwoWeekHighChangePercent: -0.033751737
+fiftyTwoWeekLow: 75.96
+fiftyTwoWeekLowChange: 21.805
+fiftyTwoWeekLowChangePercent: 0.28705898
+fiftyTwoWeekRange: 75.96 - 101.18
+financialCurrency: USD
+firstTradeDateMilliseconds: 105197400000
+fiveYearAvgDividendYield: 2.31
+floatShares: 746112394
+forwardEps: 4.10019
+forwardPE: 23.844015
+freeCashflow: 3373499904
+fullExchangeName: NYSE
+fullTimeEmployees: 33600
+fulldayChange: -0.32499695
+fulldayChangePercent: -0.33132526
+fulldayPrice: 97.765
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.60644
+grossProfits: 12908000256
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00148
+heldPercentInstitutions: 0.86971
+impliedSharesOutstanding: 794920513
+industry: Household & Personal Products
+industryDisp: Household & Personal Products
+industryKey: household-personal-products
+irWebsite: http://investor.colgate.com/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1792454400
+lastDividendValue: 0.53
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1368662400
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Colgate-Palmolive Company, together with its subsidiaries, manufactures
+  and sells consumer products in the United States and internationally. It operates
+  through two segments: Oral, Personal and Home Care; and Pet Nutrition. The Oral,
+  Personal and Home Care segment offers toothpaste, toothbrushes, mouthwash, bar and
+  liquid hand soaps, shower gels, shampoos, conditioners, deodorants and antiperspirants,
+  skin health products, dishwashing detergents, fabric conditioners, household cleaners,
+  and other related items. This segment markets and sells its products under the Colgate,
+  Palmolive, Darlie, elmex, hello, meridol, Sorriso, Tom''s of Maine, EltaMD, Filorga,
+  Irish Spring, Lady Speed Stick, PCA SKIN, Protex, Sanex, Softsoap, Speed Stick,
+  Ajax, Axion, Fabuloso, Murphy, Soupline, and Suavitel brands to a range of traditional
+  and eCommerce retailers, wholesalers, and distributors, as well as dentists and
+  skin health professionals. It also offers pharmaceutical products for dentists and
+  other oral health professionals. The Pet Nutrition segment offers pet nutrition
+  products for everyday nutritional needs under the Hill''s Science Diet brand; and
+  a range of therapeutic pet products to help nutritionally support dogs and cats
+  in different stages of health under the Hill''s Prescription Diet brand; and a fresh
+  pet food sold to pet specialty and other retailers in Australia under Prime100 brand.
+  This segment markets and sells its products through pet supply retailers, veterinarians,
+  and eCommerce retailers. Colgate-Palmolive Company was founded in 1806 and is headquartered
+  in New York, New York.'
+longName: Colgate-Palmolive Company
+market: us_market
+marketCap: 77715406848
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_53837907
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2052999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 77973753120
+numberOfAnalystOpinions: 20
+open: 96.85
+operatingCashflow: 4366000128
+operatingMargins: 0.20662001
+overallRisk: 2
+payoutRatio: 0.8171
+pegRatio: 1.79
+phone: 212 310 2000
+previousClose: 98.09
+priceEpsCurrentYear: 24.931719
+priceHint: 2
+priceToBook: 270.06906
+priceToSalesTrailing12Months: 3.651182
+profitMargins: 0.09645
+quickRatio: 0.529
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.09524
+region: US
+regularMarketChange: -0.32499695
+regularMarketChangePercent: -0.33132526
+regularMarketDayHigh: 97.98
+regularMarketDayLow: 96.85
+regularMarketDayRange: 96.85 - 97.98
+regularMarketOpen: 96.85
+regularMarketPreviousClose: 98.09
+regularMarketPrice: 97.765
+regularMarketTime: 1794413734
+regularMarketVolume: 824305
+returnOnAssets: 0.16048999
+returnOnEquity: 2.31736
+revenueGrowth: 0.046
+revenuePerShare: 26.579
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 2
+sharesOutstanding: 794920513
+sharesPercentSharesOut: 0.0233
+sharesShort: 18543803
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 24041443
+shortName: Colgate-Palmolive Company
+shortPercentOfFloat: 0.025999999
+shortRatio: 3.76
+sourceInterval: 15
+state: NY
+symbol: CL
+targetHighPrice: 112.0
+targetLowPrice: 88.0
+targetMeanPrice: 101.7
+targetMedianPrice: 102.5
+totalCash: 1612000000
+totalCashPerShare: 2.028
+totalDebt: 7715999744
+totalRevenue: 21284999168
+tradeable: false
+trailingAnnualDividendRate: 2.1
+trailingAnnualDividendYield: 0.02140891
+trailingEps: 2.57
+trailingPE: 38.040855
+trailingPegRatio: 1.7914
+triggerable: true
+twoHundredDayAverage: 90.115
+twoHundredDayAverageChange: 7.6500015
+twoHundredDayAverageChangePercent: 0.08489154
+typeDisp: Equity
+volume: 824305
+website: https://www.colgatepalmolive.com
+zip: 10022-7499

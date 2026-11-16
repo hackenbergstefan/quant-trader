@@ -1,0 +1,255 @@
+52WeekChange: 0.38342965
+SandP52WeekChange: 0.097798586
+address1: Rosenbergsaustrasse 8
+allTimeHigh: 146.4
+allTimeLow: 56.9
+ask: 144.8
+askSize: 0
+averageDailyVolume10Day: 18355
+averageDailyVolume3Month: 24351
+averageVolume: 24351
+averageVolume10days: 18355
+beta: 0.716
+bid: 144.4
+bidSize: 0
+bookValue: 40.279
+city: Heerbrugg
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jens  Breu
+  title: Chairman of the Executive Board & CEO
+  totalPay: 1276355
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Volker  Dostmann
+  title: CFO & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Walter  Kobler
+  title: Head of Medical & Industrial Specials Division and Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Seng Poo  Poh
+  title: Head of Electronics Division & Member of Group Executive Board
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Urs  Langenauer
+  title: Head of Engineered Components segment & Member of Global Executive Board
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Iso  Raunjak
+  title: Head of Distribution & Logistics Segment and Member of Group Executive Board
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Reichenecker
+  title: Head of Region Asia & Member of Group Executive Board
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Jung
+  title: Head of Fastening Systems Segment & Member of Group Executive Board
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christina  Burri M.A.
+  title: Head of Corporate HR, Communications & ESG and Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Benjamin  Sieber
+  title: Head of Corporate Development & Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 144.8
+currentRatio: 2.4
+customPriceAlertConfidence: LOW
+dayHigh: 145.2
+dayLow: 143.4
+debtToEquity: 34.264
+dividendDate: 1746576000
+dividendRate: 2.5
+dividendYield: 1.74
+earningsCallTimestampEnd: 1784790000
+earningsCallTimestampStart: 1784790000
+earningsGrowth: 0.336
+earningsQuarterlyGrowth: 0.336
+earningsTimestampEnd: 1772814600
+earningsTimestampStart: 1772814600
+ebitda: 498600000
+ebitdaMargins: 0.16089001
+enterpriseToEbitda: 11.876
+enterpriseToRevenue: 1.911
+enterpriseValue: 5921241088
+epsCurrentYear: 7.24581
+epsForward: 7.61
+epsTrailingTwelveMonths: 6.59
+esgPopulated: false
+exDividendDate: 1777334400
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 138.044
+fiftyDayAverageChange: 6.7559967
+fiftyDayAverageChangePercent: 0.04894089
+fiftyTwoWeekChangePercent: 38.342964
+fiftyTwoWeekHigh: 146.4
+fiftyTwoWeekHighChange: -1.5999908
+fiftyTwoWeekHighChangePercent: -0.0109289
+fiftyTwoWeekLow: 98.3
+fiftyTwoWeekLowChange: 46.5
+fiftyTwoWeekLowChangePercent: 0.47304168
+fiftyTwoWeekRange: 98.3 - 146.4
+financialCurrency: CHF
+firstTradeDateMilliseconds: 1399446000000
+fiveYearAvgDividendYield: 2.05
+floatShares: 33369556
+forwardEps: 7.61
+forwardPE: 19.027596
+freeCashflow: 189012496
+fullExchangeName: Swiss
+fullTimeEmployees: 14341
+fulldayChange: 1.199997
+fulldayChangePercent: 0.8356524
+fulldayPrice: 144.8
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.58474
+grossProfits: 1812099968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.57883
+heldPercentInstitutions: 0.22104
+impliedSharesOutstanding: 38875443
+industry: Tools & Accessories
+industryDisp: Tools & Accessories
+industryKey: tools-accessories
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777334400
+lastDividendValue: 2.5
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'SFS Group AG supplies precision components and assemblies, mechanical
+  fastening systems, tools, and procurement solutions in Switzerland and internationally.
+  It operates in three segments: Engineered Components, Fastening Systems, and Distribution
+  & Logistics. The company offers airbag restraint systems; automation; brake systems;
+  building technology; clip nuts; communication technology; components, assemblies,
+  and complete devices; connections and reinforcements for timber construction; and
+  domestic and kitchen appliances. It also provides fasteners for flat roof and industrial
+  lightweight construction; fasters for inserts; fastening and hinge technology for
+  doors, windows, and glass facades; fastening system for the facade; furniture fittings;
+  hard disk drives; inserts; interior plastics; life-saving fall protection; lifestyle
+  electronics; mobile devices; sensors; seats and doors; powertrain; powertrain technology;
+  snap and click system; tools, forestry, and garden equipment; wire and hypo tubing;
+  and window fittings. In addition, it offers products under the SFS, UNISTEEL, Tegra
+  Medical, GESIPA, TFC, HECO, Hoffmann, GARANT, HOLEX, and other brand names. It serves
+  aircraft, automotive, construction, electronics, medical, and other industries.
+  SFS Group AG was founded in 1928 and is based in Heerbrugg, Switzerland.'
+longName: SFS Group AG
+market: ch_market
+marketCap: 5629164544
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_22547847
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 256400000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5535863083
+numberOfAnalystOpinions: 6
+open: 143.6
+operatingCashflow: 358000000
+operatingMargins: 0.11884
+payoutRatio: 0.37939999
+phone: 41 71 727 51 51
+previousClose: 143.6
+priceEpsCurrentYear: 19.983963
+priceHint: 2
+priceToBook: 3.5949256
+priceToSalesTrailing12Months: 1.8164455
+profitMargins: 0.08274
+quickRatio: 1.384
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 1.199997
+regularMarketChangePercent: 0.8356524
+regularMarketDayHigh: 145.2
+regularMarketDayLow: 143.4
+regularMarketDayRange: 143.4 - 145.2
+regularMarketOpen: 143.6
+regularMarketPreviousClose: 143.6
+regularMarketPrice: 144.8
+regularMarketTime: 1794408766
+regularMarketVolume: 17961
+returnOnAssets: 0.08884
+returnOnEquity: 0.16684
+revenueGrowth: 0.011
+revenuePerShare: 79.727
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+sharesOutstanding: 38875443
+shortName: SFS GROUP N
+sourceInterval: 15
+symbol: SFSN.SW
+targetHighPrice: 152.0
+targetLowPrice: 140.0
+targetMeanPrice: 145.83333
+targetMedianPrice: 145.0
+totalCash: 222400000
+totalCashPerShare: 5.72
+totalDebt: 542700032
+totalRevenue: 3099000064
+tradeable: false
+trailingAnnualDividendRate: 2.5
+trailingAnnualDividendYield: 0.01740947
+trailingEps: 6.59
+trailingPE: 21.972687
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 129.218
+twoHundredDayAverageChange: 15.582001
+twoHundredDayAverageChangePercent: 0.12058692
+typeDisp: Equity
+volume: 17961
+website: https://www.sfs.com/ch/en
+zip: CH-9435

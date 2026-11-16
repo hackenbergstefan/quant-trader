@@ -1,0 +1,273 @@
+52WeekChange: 0.10359979
+SandP52WeekChange: 0.097798586
+address1: 601 West 2nd Street
+address2: Floor 32
+allTimeHigh: 208.14
+allTimeLow: 12.0
+ask: 182.82
+askSize: 200
+auditRisk: 2
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 3369080
+averageDailyVolume3Month: 2188671
+averageVolume: 2188671
+averageVolume10days: 3369080
+beta: 1.002
+bid: 182.59
+bidSize: 200
+boardRisk: 2
+bookValue: 73.037
+city: Austin
+companyOfficers:
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew P. Power
+  title: President, CEO & Director
+  totalPay: 6896813
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew R. Mercier
+  title: Chief Financial Officer
+  totalPay: 2039441
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jeannie  Lee
+  title: Executive VP, General Counsel & Secretary
+  totalPay: 1641275
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey Michael  Tapley CFA
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory S. Wright
+  title: Chief Investment Officer
+  totalPay: 2185981
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christine B. Kornegay
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher  Sharp
+  title: Chief Technology Officer
+  totalPay: 1197306
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jordan  Sadler
+  title: Senior VP of Public & Private Investor Relations
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cindy A. Fiedelman
+  title: Chief Human Resources Officer
+  totalPay: 1162629
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shaun  Woodhouse
+  title: Head of Sales Asia Pacific
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 181.645
+currentRatio: 0.575
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 186.125
+dayLow: 180.26
+debtToEquity: 69.085
+displayName: Digital Realty Trust
+dividendDate: 1790726400
+dividendRate: 4.88
+dividendYield: 2.7
+earningsCallTimestampEnd: 1793307600
+earningsCallTimestampStart: 1793307600
+earningsGrowth: 2.205
+earningsQuarterlyGrowth: 1.881
+earningsTimestamp: 1793304000
+earningsTimestampEnd: 1793304000
+earningsTimestampStart: 1793304000
+ebitda: 3367802112
+ebitdaMargins: 0.47563
+enterpriseToEbitda: 27.123
+enterpriseToRevenue: 12.901
+enterpriseValue: 91346132992
+epsCurrentYear: 3.29187
+epsForward: 2.89259
+epsTrailingTwelveMonths: 2.37
+esgPopulated: false
+exDividendDate: 1789430400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 179.9076
+fiftyDayAverageChange: 1.7374115
+fiftyDayAverageChangePercent: 0.009657244
+fiftyTwoWeekChangePercent: 10.359979
+fiftyTwoWeekHigh: 208.14
+fiftyTwoWeekHighChange: -26.494995
+fiftyTwoWeekHighChangePercent: -0.12729411
+fiftyTwoWeekLow: 146.23
+fiftyTwoWeekLowChange: 35.41501
+fiftyTwoWeekLowChangePercent: 0.24218704
+fiftyTwoWeekRange: 146.23 - 208.14
+financialCurrency: USD
+firstTradeDateMilliseconds: 1099056600000
+fiveYearAvgDividendYield: 3.27
+floatShares: 358599906
+forwardEps: 2.89259
+forwardPE: 62.796665
+freeCashflow: 3930522112
+fullExchangeName: NYSE
+fullTimeEmployees: 4282
+fulldayChange: 0.7649994
+fulldayChangePercent: 0.42293197
+fulldayPrice: 181.645
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.57032
+grossProfits: 4038275072
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00013
+heldPercentInstitutions: 1.03368
+impliedSharesOutstanding: 384990884
+industry: REIT - Specialty
+industryDisp: REIT - Specialty
+industryKey: reit-specialty
+irWebsite: http://investor.digitalrealty.com/corporateprofile.aspx?iid=4094311
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789430400
+lastDividendValue: 1.22
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Digital Realty Trust, Inc. brings companies and data together
+  by delivering the full spectrum of data center, colocation and interconnection solutions.
+  Platform DIGITAL, the company's global data center platform, provides customers
+  with a secure data meeting place and a proven Pervasive Datacenter Architecture
+  (PDx) solution methodology for powering innovation, from cloud and digital transformation
+  to emerging technologies like artificial intelligence (AI), and efficiently managing
+  Data Gravity challenges. Digital Realty gives its customers access to the connected
+  data communities that matter to them with a global data center footprint of 300+
+  facilities in 55+ metros across 30+ countries on six continents. Digital Realty
+  Trust, Inc. was founded in 2004 and is based in Austin, Texas.
+longName: Digital Realty Trust, Inc.
+market: us_market
+marketCap: 69931671552
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_11041860
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 885832000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 68431585897
+numberOfAnalystOpinions: 32
+open: 183.48
+operatingCashflow: 2696439040
+operatingMargins: 0.18853001
+overallRisk: 7
+payoutRatio: 2.0591002
+pegRatio: 14.5
+phone: 737 281 0101
+previousClose: 180.88
+priceEpsCurrentYear: 55.179882
+priceHint: 2
+priceToBook: 2.4870272
+priceToSalesTrailing12Months: 9.876335
+profitMargins: 0.13086
+quickRatio: 0.574
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.44118
+region: US
+regularMarketChange: 0.7649994
+regularMarketChangePercent: 0.42293197
+regularMarketDayHigh: 186.125
+regularMarketDayLow: 180.26
+regularMarketDayRange: 180.26 - 186.125
+regularMarketOpen: 183.48
+regularMarketPreviousClose: 180.88
+regularMarketPrice: 181.645
+regularMarketTime: 1794413724
+regularMarketVolume: 597188
+returnOnAssets: 0.01585
+returnOnEquity: 0.03339
+revenueGrowth: 0.207
+revenuePerShare: 20.014
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 9
+sharesOutstanding: 378325884
+sharesPercentSharesOut: 0.0001
+sharesShort: 22013
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8994183
+shortName: Digital Realty Trust, Inc.
+shortPercentOfFloat: 0.0001
+shortRatio: 0.01
+sourceInterval: 15
+state: TX
+symbol: DLR
+targetHighPrice: 250.0
+targetLowPrice: 190.0
+targetMeanPrice: 224.125
+targetMedianPrice: 225.0
+totalCash: 837094016
+totalCashPerShare: 2.213
+totalDebt: 20891783168
+totalRevenue: 7080731136
+tradeable: false
+trailingAnnualDividendRate: 4.88
+trailingAnnualDividendYield: 0.026979212
+trailingEps: 2.37
+trailingPE: 76.64346
+trailingPegRatio: 14.5008
+triggerable: true
+twoHundredDayAverage: 183.9641
+twoHundredDayAverageChange: -2.3190918
+twoHundredDayAverageChangePercent: -0.012606219
+typeDisp: Equity
+volume: 597188
+website: https://www.digitalrealty.com
+zip: '78701'

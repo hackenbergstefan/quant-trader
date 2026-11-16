@@ -1,0 +1,265 @@
+52WeekChange: 0.20735788
+SandP52WeekChange: 0.097798586
+address1: Ulmenstrasse 99
+allTimeHigh: 72.7
+allTimeLow: 4.36
+ask: 73.15
+askSize: 320
+auditRisk: 2
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 396206
+averageDailyVolume3Month: 365597
+averageVolume: 365597
+averageVolume10days: 396206
+beta: 0.786
+bid: 73.05
+bidSize: 105
+boardRisk: 1
+bookValue: 15.805
+city: Düsseldorf
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Klebert Dipl.-Ing., MBA
+  title: CEO & Chairman of the Executive Board
+  totalPay: 3195694
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexander  Kocherscheidt
+  title: CFO & Member of Executive Board
+  totalPay: 866129
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kai  Becker
+  title: Division CEO of Pure Flow Processing & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Nadine  Sterley
+  title: Chief People & Sustainability Officer, Labour Director and Member of Executive
+    Board
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Lauwers
+  title: Division CEO of Pharma & Food Applications and Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Klaus  Stojentin
+  title: Division CEO of Nutrition Plant Engineering & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oliver  Luckenbach
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jill  Meiburg
+  title: Head of Corporate Communications, Marketing and Brand
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ilija  Aprcovic
+  title: Chief Executive Officer of Liquid & Powder Technologies Business
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Andreas  Seeringer
+  title: Division Chief Executive Officer of FarmTechnologies
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 73.1
+currentRatio: 1.07
+customPriceAlertConfidence: LOW
+dayHigh: 73.2
+dayLow: 72.35
+debtToEquity: 10.692
+dividendRate: 1.3
+dividendYield: 1.82
+earningsCallTimestampEnd: 1794229200
+earningsCallTimestampStart: 1794229200
+earningsGrowth: 0.066
+earningsQuarterlyGrowth: 0.064
+earningsTimestamp: 1794241800
+earningsTimestampEnd: 1794241800
+earningsTimestampStart: 1794241800
+ebitda: 761281024
+ebitdaMargins: 0.13272001
+enterpriseToEbitda: 15.281
+enterpriseToRevenue: 2.028
+enterpriseValue: 11633476608
+epsCurrentYear: 3.3575
+epsForward: 3.82744
+epsTrailingTwelveMonths: 2.75
+esgPopulated: false
+exDividendDate: 1777507200
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 211 9136 31087
+fiftyDayAverage: 67.251
+fiftyDayAverageChange: 5.848999
+fiftyDayAverageChangePercent: 0.08697267
+fiftyTwoWeekChangePercent: 20.735788
+fiftyTwoWeekHigh: 73.2
+fiftyTwoWeekHighChange: -0.099998474
+fiftyTwoWeekHighChangePercent: -0.0013660995
+fiftyTwoWeekLow: 53.45
+fiftyTwoWeekLowChange: 19.649998
+fiftyTwoWeekLowChangePercent: 0.36763325
+fiftyTwoWeekRange: 53.45 - 73.2
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 2.2
+floatShares: 145465210
+forwardEps: 3.82744
+forwardPE: 19.098927
+freeCashflow: 451557888
+fullExchangeName: XETRA
+fullTimeEmployees: 20007
+fulldayChange: 0.9000015
+fulldayChangePercent: 1.2465396
+fulldayPrice: 73.1
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.37495998
+grossProfits: 2150802944
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.71396005
+impliedSharesOutstanding: 162712763
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777507200
+lastDividendValue: 1.3
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: GEA Group Aktiengesellschaft produces and supplies systems and
+  components to the food, beverage, and pharmaceutical industries worldwide. The company
+  operates through Separation & Flow Technologies; Liquid & Power Technologies; Food
+  & Health Technologies; Farm Technologies; and Heating & Refrigeration Technologies
+  segments. It manufactures process-related components and machinery, notably separators,
+  decanters, homogenizers, valves, and pumps; and process solutions, including brewing
+  systems, liquid processing and filling, concentration, fermentation, crystallization,
+  purification, drying, powder handling, and packaging, as well as systems for carbon
+  capture and emission control for dairy, new-food, beverage, food, chemical, and
+  other industries. The company also prepares, marinates, and processes meat, poultry,
+  seafood, vegan products, and snack and pasta, as well as slicing, packaging lines,
+  freeze drying, granulators, and tablet presses for pharmaceutical industry. In addition,
+  it offers customer solutions for milk production and livestock farming comprising
+  automatic milking and feeding system, conventional milking solutions, manure handling,
+  and digital herd management tools; and energy solutions in the field of industrial
+  refrigeration and heating for various industries, including food, beverage, dairy,
+  oil and gas, supporting automation, digital, and service platform. The company was
+  formerly known as mg technologies ag and changed its name to GEA Group Aktiengesellschaft
+  in 2005. GEA Group Aktiengesellschaft was founded in 1881 and is headquartered in
+  Düsseldorf, Germany.
+longName: GEA Group Aktiengesellschaft
+market: de_market
+marketCap: 11894302720
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874290
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 442748000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 11625826916
+numberOfAnalystOpinions: 18
+open: 72.95
+operatingCashflow: 784524992
+operatingMargins: 0.11270001
+overallRisk: 1
+payoutRatio: 0.4779
+pegRatio: 1.07
+phone: 49 211 9136 0
+previousClose: 72.2
+priceEpsCurrentYear: 21.77215
+priceHint: 2
+priceToBook: 4.6251183
+priceToSalesTrailing12Months: 2.0736027
+profitMargins: 0.07704
+quickRatio: 0.656
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.27778
+region: US
+regularMarketChange: 0.9000015
+regularMarketChangePercent: 1.2465396
+regularMarketDayHigh: 73.2
+regularMarketDayLow: 72.35
+regularMarketDayRange: 72.35 - 73.2
+regularMarketOpen: 72.95
+regularMarketPreviousClose: 72.2
+regularMarketPrice: 73.1
+regularMarketTime: 1794411300
+regularMarketVolume: 75010
+returnOnAssets: 0.067600004
+returnOnEquity: 0.18000999
+revenueGrowth: 0.07
+revenuePerShare: 35.242
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 162712763
+shortName: GEA Group AG                  I
+sourceInterval: 15
+symbol: G1A.DE
+targetHighPrice: 83.0
+targetLowPrice: 53.0
+targetMeanPrice: 72.11111
+targetMedianPrice: 73.0
+totalCash: 389780992
+totalCashPerShare: 2.396
+totalDebt: 275000000
+totalRevenue: 5736056832
+tradeable: false
+trailingAnnualDividendRate: 1.3
+trailingAnnualDividendYield: 0.01800554
+trailingEps: 2.75
+trailingPE: 26.581818
+trailingPegRatio: 1.0688
+triggerable: false
+twoHundredDayAverage: 62.56575
+twoHundredDayAverageChange: 10.534248
+twoHundredDayAverageChangePercent: 0.16837084
+typeDisp: Equity
+volume: 75010
+website: https://www.gea.com
+zip: '40476'

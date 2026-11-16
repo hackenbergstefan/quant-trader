@@ -1,0 +1,267 @@
+52WeekChange: 0.10406613
+SandP52WeekChange: 0.097798586
+address1: Lindhagensplan 70
+address2: PO Box 12307
+allTimeHigh: 251.0
+allTimeLow: 38.04122
+ask: 160.9
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 1074223
+averageDailyVolume3Month: 1203731
+averageVolume: 1203731
+averageVolume10days: 1074223
+beta: 0.689
+bid: 160.8
+bidSize: 0
+boardRisk: 6
+bookValue: 77.292
+city: Stockholm
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Magnus  Ahlqvist
+  title: President & CEO
+  totalPay: 58375000
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matteo  Dall'Ora
+  title: Chief Financial Officer
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hillevi  Agranius
+  title: Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lisa Micaela Sjokvist
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Frida  Rosenholm
+  title: General Counsel and Senior VP of Group Legal, Risk, Ethics & Sustainability
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Carin  Andersson
+  title: Vice President of Group Communications
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Helena  Andreas
+  title: Chief Human Resources Officer & Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Henrik  Zetterberg
+  title: Divisional President of Securitas Europe
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian Riis Nielsen
+  title: President of Global Clients
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jorge  Couto
+  title: Divisional President of Securitas North America
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: SECU-B.ST announced a cash dividend of SEK 2.65 with an ex-date of Nov.
+    18, 2026
+  meta:
+    amount: '2.65'
+    dateEpochMs: 1794956400000
+    eventType: DIVIDEND
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 160.9
+currentRatio: 1.199
+customPriceAlertConfidence: HIGH
+dayHigh: 161.5
+dayLow: 159.5
+debtToEquity: 91.364
+dividendRate: 5.3
+dividendYield: 3.31
+earningsCallTimestampEnd: 1792740600
+earningsCallTimestampStart: 1792740600
+earningsGrowth: 2.374
+earningsQuarterlyGrowth: 2.374
+earningsTimestamp: 1792769400
+earningsTimestampEnd: 1792769400
+earningsTimestampStart: 1792769400
+ebitda: 13018000384
+ebitdaMargins: 0.08619001
+enterpriseToEbitda: 9.531
+enterpriseToRevenue: 0.821
+enterpriseValue: 124072394752
+epsCurrentYear: 12.887
+epsForward: 12.54
+epsTrailingTwelveMonths: 12.34
+esgPopulated: false
+exDividendDate: 1794960000
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 155.492
+fiftyDayAverageChange: 5.4079895
+fiftyDayAverageChangePercent: 0.034779854
+fiftyTwoWeekChangePercent: 10.406613
+fiftyTwoWeekHigh: 172.0
+fiftyTwoWeekHighChange: -11.100006
+fiftyTwoWeekHighChangePercent: -0.06453492
+fiftyTwoWeekLow: 136.15
+fiftyTwoWeekLowChange: 24.75
+fiftyTwoWeekLowChangePercent: 0.18178481
+fiftyTwoWeekRange: 136.15 - 172.0
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 3.05
+floatShares: 467603848
+forwardEps: 12.54
+forwardPE: 12.83094
+freeCashflow: 5649375232
+fullExchangeName: Stockholm
+fullTimeEmployees: 322000
+fulldayChange: 0.69999695
+fulldayChangePercent: 0.4369519
+fulldayPrice: 160.9
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.21797001
+grossProfits: 32921999360
+hasPrePostMarketData: false
+heldPercentInsiders: 0.042740002
+heldPercentInstitutions: 0.59616
+impliedSharesOutstanding: 572442552
+industry: Security & Protection Services
+industryDisp: Security & Protection Services
+industryKey: security-protection-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794960000
+lastDividendValue: 2.65
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Securitas AB (publ) provides security services in North America,
+  Europe, Latin America, Africa, the Middle East, Asia, and Australia. The company
+  operates through three segments: Securitas North America, Securitas Europe, and
+  Securitas Ibero-America. It provides intelligence services, such as risk intelligence;
+  safety and security services, including aviation security, fire and safety services,
+  mobile security services, and on-site guarding; operation management security services,
+  such as remote video solutions, smart security, and track and trace services; advisory
+  security services comprising corporate risk management; and technology security
+  services, which include electronic security. The company also operates operation
+  centers. Securitas AB (publ) was founded in 1934 and is headquartered in Stockholm,
+  Sweden.'
+longName: Securitas AB (publ)
+market: se_market
+marketCap: 92106006528
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_621976
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 7072999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 91705296830
+numberOfAnalystOpinions: 14
+open: 160.1
+operatingCashflow: 9242000384
+operatingMargins: 0.07116
+overallRisk: 5
+payoutRatio: 0.3971
+pegRatio: 1.33
+phone: 46 1 04 70 30 00
+prevName: Securitas AB
+previousClose: 160.2
+priceEpsCurrentYear: 12.48545
+priceHint: 2
+priceToBook: 2.081716
+priceToSalesTrailing12Months: 0.6098039
+profitMargins: 0.046830002
+quickRatio: 0.216
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.78571
+region: US
+regularMarketChange: 0.69999695
+regularMarketChangePercent: 0.4369519
+regularMarketDayHigh: 161.5
+regularMarketDayLow: 159.5
+regularMarketDayRange: 159.5 - 161.5
+regularMarketOpen: 160.1
+regularMarketPreviousClose: 160.2
+regularMarketPrice: 160.9
+regularMarketTime: 1794412439
+regularMarketVolume: 202142
+returnOnAssets: 0.05809
+returnOnEquity: 0.17232001
+revenueGrowth: 0.001
+revenuePerShare: 263.637
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 545504181
+shortName: Securitas AB ser. B
+sourceInterval: 15
+symbol: SECU-B.ST
+targetHighPrice: 210.0
+targetLowPrice: 130.0
+targetMeanPrice: 167.57143
+targetMedianPrice: 165.5
+totalCash: 8188000256
+totalCashPerShare: 14.292
+totalDebt: 40468000768
+totalRevenue: 151041998848
+tradeable: false
+trailingAnnualDividendRate: 5.3
+trailingAnnualDividendYield: 0.033083647
+trailingEps: 12.34
+trailingPE: 13.0388975
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 156.58275
+twoHundredDayAverageChange: 4.3172455
+twoHundredDayAverageChangePercent: 0.027571654
+typeDisp: Equity
+volume: 202142
+website: https://www.securitas.com
+zip: 102 28

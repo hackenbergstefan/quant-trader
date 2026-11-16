@@ -1,0 +1,282 @@
+52WeekChange: -0.039330482
+SandP52WeekChange: 0.097798586
+address1: 15 George's Quay
+address2: Dublin 2
+allTimeHigh: 412.97
+allTimeLow: 2.444444
+ask: 332.26
+askSize: 120
+auditRisk: 7
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 1571910
+averageDailyVolume3Month: 1667201
+averageVolume: 1667201
+averageVolume10days: 1571910
+beta: 0.613
+bid: 331.83
+bidSize: 80
+boardRisk: 1
+bookValue: 47.601
+city: Dublin
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory Clarence Case
+  title: President, CEO & Executive Director
+  totalPay: 4972698
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mindy F. Simon
+  title: Executive VP & Global Chief Operating Officer
+  totalPay: 2914264
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lisa J. Stevens
+  title: Executive VP & Chief Administrative Officer
+  totalPay: 2240920
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew  Marcell
+  title: Deputy CEO and Senior EVP of Risk Capital & Human Capital
+  totalPay: 2379197
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Edmund J. Reese
+  title: Senior Advisor
+  totalPay: 3379666
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nadin  Virani
+  title: Interim Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David J. DeBrunner
+  title: Senior VP, Global Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hallie Elsner Miller
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Darren  Zeidel
+  title: Executive VP, General Counsel & Company Secretary
+  totalPay: 1187695
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Neller
+  title: Deputy Global Chief People Officer and Head of Total Rewards & Talent Development
+  unexercisedValue: 0
+  yearBorn: 1979
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: Ireland
+cryptoTradeable: false
+currency: USD
+currentPrice: 332.91
+currentRatio: 1.585
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 334.59
+dayLow: 331.71
+debtToEquity: 283.332
+dividendDate: 1794528000
+dividendRate: 3.28
+dividendYield: 0.98
+earningsCallTimestampEnd: 1793190600
+earningsCallTimestampStart: 1793190600
+earningsGrowth: 0.057
+earningsQuarterlyGrowth: 0.039
+earningsTimestamp: 1793190600
+earningsTimestampEnd: 1801229400
+earningsTimestampStart: 1801229400
+ebitda: 5970999808
+ebitdaMargins: 0.33771
+enterpriseToEbitda: 14.281
+enterpriseToRevenue: 4.823
+enterpriseValue: 85269946368
+epsCurrentYear: 18.60152
+epsForward: 20.20553
+epsTrailingTwelveMonths: 18.27
+esgPopulated: false
+exDividendDate: 1793577600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 300.2996
+fiftyDayAverageChange: 32.610413
+fiftyDayAverageChangePercent: 0.10859293
+fiftyTwoWeekChangePercent: -3.9330482
+fiftyTwoWeekHigh: 382.34
+fiftyTwoWeekHighChange: -49.429993
+fiftyTwoWeekHighChangePercent: -0.12928282
+fiftyTwoWeekLow: 266.33
+fiftyTwoWeekLowChange: 66.58002
+fiftyTwoWeekLowChangePercent: 0.24999069
+fiftyTwoWeekRange: 266.33 - 382.34
+financialCurrency: USD
+firstTradeDateMilliseconds: 328800600000
+fiveYearAvgDividendYield: 0.77
+floatShares: 209341850
+forwardEps: 20.20553
+forwardPE: 16.476183
+freeCashflow: 4397250048
+fullExchangeName: NYSE
+fullTimeEmployees: 60000
+fulldayChange: -3.4299927
+fulldayChangePercent: -1.0197992
+fulldayPrice: 332.91
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.48402
+grossProfits: 8558000128
+hasPrePostMarketData: true
+heldPercentInsiders: 0.01012
+heldPercentInstitutions: 0.91105
+impliedSharesOutstanding: 212157176
+industry: Insurance Brokers
+industryDisp: Insurance Brokers
+industryKey: insurance-brokers
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1793577600
+lastDividendValue: 0.82
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 926985600
+lastSplitFactor: '3:2'
+longBusinessSummary: Aon plc operates as a professional services firm in the United
+  States, rest of the Americas, the United Kingdom, Ireland, rest of Europe, the Middle
+  East, Africa, and the Asia Pacific. It operates through Risk Capital and Human Capital
+  segments. The company offers commercial risk solutions comprising retail and insurance
+  brokerage, specialty solutions, global risk consulting, captives management, and
+  affinity programs; health solutions, such as consulting and brokerage, consumer
+  benefits, and talent advisory services; and wealth solutions, including retirement
+  consulting and investments. It also provides treaty and facultative reinsurance;
+  strategy and technology group solutions; insurance-linked securities, capital raising,
+  strategic advice, restructuring, and merger and acquisition services; and risk management
+  products and solutions, capital market solutions, and corporate finance advisory
+  services. In addition, the company offers strategic design advice and actuarial
+  services; pension risk transfer and integrated pension administration; and investment
+  advisory services on developing and maintaining investment programs across various
+  plan types, including defined benefit plans, defined contribution plans, master
+  trusts, and pooled employer plans for corporations, public pensions, endowments,
+  and foundations. Aon plc was incorporated in 1979 and is headquartered in Dublin,
+  Ireland.
+longName: Aon plc
+market: us_market
+marketCap: 70629244928
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_119853
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3932000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 71356944575
+numberOfAnalystOpinions: 19
+open: 330.84
+operatingCashflow: 3574000128
+operatingMargins: 0.28805
+overallRisk: 9
+payoutRatio: 0.1713
+pegRatio: 2.76
+phone: 353 1 266 6000
+previousClose: 336.34
+priceEpsCurrentYear: 17.896925
+priceHint: 2
+priceToBook: 6.9937606
+priceToSalesTrailing12Months: 3.9946408
+profitMargins: 0.22239
+quickRatio: 0.797
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.04762
+region: US
+regularMarketChange: -3.4299927
+regularMarketChangePercent: -1.0197992
+regularMarketDayHigh: 334.59
+regularMarketDayLow: 331.71
+regularMarketDayRange: 331.71 - 334.59
+regularMarketOpen: 330.84
+regularMarketPreviousClose: 336.34
+regularMarketPrice: 332.91
+regularMarketTime: 1794413680
+regularMarketVolume: 114339
+returnOnAssets: 0.05452
+returnOnEquity: 0.43375
+revenueGrowth: 0.026
+revenuePerShare: 82.699
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 8
+sharesOutstanding: 212157176
+sharesPercentSharesOut: 0.018099999
+sharesShort: 3836187
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4223243
+shortName: Aon plc
+shortPercentOfFloat: 0.0183
+shortRatio: 2.17
+sourceInterval: 15
+symbol: AON
+targetHighPrice: 435.0
+targetLowPrice: 259.0
+targetMeanPrice: 363.21054
+targetMedianPrice: 363.0
+totalCash: 15150999552
+totalCashPerShare: 71.414
+totalDebt: 28948000768
+totalRevenue: 17681000448
+tradeable: false
+trailingAnnualDividendRate: 3.13
+trailingAnnualDividendYield: 0.00930606
+trailingEps: 18.27
+trailingPE: 18.221674
+trailingPegRatio: 2.755
+triggerable: true
+twoHundredDayAverage: 325.68405
+twoHundredDayAverageChange: 7.225952
+twoHundredDayAverageChangePercent: 0.022187
+typeDisp: Equity
+volume: 114339
+website: https://www.aon.com
+zip: D02 VR98

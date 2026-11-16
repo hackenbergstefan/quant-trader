@@ -1,0 +1,278 @@
+52WeekChange: 0.24596083
+SandP52WeekChange: 0.097798586
+address1: Shell Centre
+allTimeHigh: 6418.88
+allTimeLow: 3.045
+ask: 3671.0
+auditRisk: 2
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 10160636
+averageDailyVolume3Month: 10001555
+averageVolume: 10001555
+averageVolume10days: 10160636
+beta: -0.248
+bid: 3670.5
+boardRisk: 1
+bookValue: 25.85746
+city: London
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wael  Sawan
+  title: CEO & Director
+  totalPay: 4644000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sinead  Gorman
+  title: CFO & Director
+  totalPay: 3052000
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Philippa  Bounds
+  title: Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rachel  Solway
+  title: Chief Human Resources & Corporate Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Graham Robert van't Hoff
+  title: Executive Vice President of Chemicals
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian Paul Eggleston
+  title: Executive Vice President of Finance Downstream
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Roland Alexander Ilube
+  title: Senior Vice President of Finance Mobility
+  unexercisedValue: 0
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Cederic  Cremers
+  title: President of Integrated Gas
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ali  Al-Janabi
+  title: Chairman for Kazakhstan
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Costello
+  title: President of Upstream
+  unexercisedValue: 0
+  yearBorn: 1966
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: SHEL.L announced a cash dividend of GBp 0.391 with an ex-date of Nov. 12,
+    2026
+  meta:
+    amount: '0.391'
+    dateEpochMs: 1794441600000
+    eventType: DIVIDEND
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 3670.0
+currentRatio: 1.377
+customPriceAlertConfidence: LOW
+dayHigh: 3693.0
+dayLow: 3637.5
+debtToEquity: 38.13
+dividendRate: 1.16
+dividendYield: 3.21
+earningsCallTimestampEnd: 1793284200
+earningsCallTimestampStart: 1793284200
+earningsGrowth: 1.367
+earningsQuarterlyGrowth: 1.266
+earningsTimestamp: 1793291400
+earningsTimestampEnd: 1793291400
+earningsTimestampStart: 1793291400
+ebitda: 67562999808
+ebitdaMargins: 0.21028
+enterpriseToEbitda: 3.676
+enterpriseToRevenue: 0.773
+enterpriseValue: 248393646080
+epsCurrentYear: 6.61908
+epsForward: 4.4290514
+epsTrailingTwelveMonths: 4.3
+esgPopulated: false
+exDividendDate: 1794441600
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 3712.67
+fiftyDayAverageChange: -42.16992
+fiftyDayAverageChangePercent: -0.011358381
+fiftyTwoWeekChangePercent: 24.596083
+fiftyTwoWeekHigh: 4110.0
+fiftyTwoWeekHighChange: -439.5
+fiftyTwoWeekHighChangePercent: -0.10693431
+fiftyTwoWeekLow: 2553.772
+fiftyTwoWeekLowChange: 1116.728
+fiftyTwoWeekLowChangePercent: 0.43728572
+fiftyTwoWeekRange: 2553.772 - 4110.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 841302000000
+fiveYearAvgDividendYield: 3.65
+floatShares: 5588781071
+forwardEps: 4.4290514
+forwardPE: 8.287328
+freeCashflow: 29048250368
+fullExchangeName: LSE
+fullTimeEmployees: 84000
+fulldayChange: 46.0
+fulldayChangePercent: 1.2691406
+fulldayPrice: 3670.5
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.26926002
+grossProfits: 86511001600
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00212
+heldPercentInstitutions: 0.36246
+impliedSharesOutstanding: 5659378905
+industry: Oil & Gas Integrated
+industryDisp: Oil & Gas Integrated
+industryKey: oil-gas-integrated
+irWebsite: http://www.shell.com/home/content/investor/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794441600
+lastDividendValue: 0.3906
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1121385600
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Shell plc operates as an energy and petrochemical company in
+  Europe, Asia, Oceania, Africa, the United States, and other parts of the Americas.
+  It operates through the following segments: Integrated Gas, Upstream, Marketing,
+  Chemicals and Products, and Renewables and Energy Solutions. The company explores
+  for and extracts natural gas to produce liquefied natural gas or convert it into
+  gas-to-liquids (GTL) fuels and other products; explores for and extracts crude oil,
+  natural gas, and natural gas liquids; and operates marketing and transportation
+  of oil, gas, and liquids, supported by the infrastructure required to deliver them
+  to market or to process them within Shell''s chemical manufacturing plants and refineries.
+  It is also involved in marketing, which includes mobility, lubricants, and sectors
+  focused on decarbonization; operates a retail network, including electric vehicle
+  charging, convenience retail, and the wholesale commercial fuels business for transport
+  and industry; sells products for road transport and machinery in manufacturing,
+  mining, power generation, agriculture, and construction; and provides low-carbon
+  energy solutions, such as biofuels, to a broad range of commercial customers, including
+  those in the aviation, marine, and agriculture sectors. In addition, the company
+  offers chemicals and products, including chemicals manufacturing plants with their
+  own marketing network, and refineries that turn crude oil and other feedstocks into
+  a range of oil products, which are moved and marketed around the world for domestic,
+  industrial, and transport use; and operates a pipeline business, trading, and optimization
+  of crude oil, oil products, and petrochemicals. The company was formerly known as
+  Royal Dutch Shell plc and changed its name to Shell plc in January 2022. Shell plc
+  was founded in 1897 and is headquartered in London, United Kingdom.'
+longName: Shell plc
+market: gb_market
+marketCap: 207727493120
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_22385966
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 32707000320
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 205124188411
+numberOfAnalystOpinions: 16
+open: 3637.5
+operatingCashflow: 57976000512
+operatingMargins: 0.1525
+overallRisk: 1
+payoutRatio: 0.2627
+pegRatio: 1.37
+phone: 44 20 7934 1234
+prevName: Royal Dutch Shell plc
+previousClose: 3624.5
+priceEpsCurrentYear: 554.53326
+priceHint: 2
+priceToBook: 1.419513
+priceToSalesTrailing12Months: 0.64644396
+profitMargins: 0.1018
+quickRatio: 0.925
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.21053
+region: US
+regularMarketChange: 46.0
+regularMarketChangePercent: 1.2691406
+regularMarketDayHigh: 3693.0
+regularMarketDayLow: 3637.5
+regularMarketDayRange: 3637.5 - 3693.0
+regularMarketOpen: 3637.5
+regularMarketPreviousClose: 3624.5
+regularMarketPrice: 3670.5
+regularMarketTime: 1794411583
+regularMarketVolume: 2989219
+returnOnAssets: 0.07672
+returnOnEquity: 0.17432
+revenueGrowth: 0.362
+revenuePerShare: 56.905
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 1
+sharesOutstanding: 5659378905
+shortName: SHELL PLC ORD EUR0.07
+sourceInterval: 15
+symbol: SHEL.L
+targetHighPrice: 4986.015
+targetLowPrice: 3475.734
+targetMeanPrice: 4175.511
+targetMedianPrice: 4136.2812
+totalCash: 36424998912
+totalCashPerShare: 6.357
+totalDebt: 76074999808
+totalRevenue: 321294991360
+tradeable: false
+trailingAnnualDividendRate: 1.544
+trailingAnnualDividendYield: 0.0004259898
+trailingEps: 4.3
+trailingPE: 8.536047
+trailingPegRatio: 1.352
+triggerable: false
+twoHundredDayAverage: 3335.835
+twoHundredDayAverageChange: 334.66504
+twoHundredDayAverageChangePercent: 0.10032422
+typeDisp: Equity
+volume: 2988306
+website: https://www.shell.com
+zip: SE1 7NA

@@ -1,0 +1,244 @@
+52WeekChange: 0.21424413
+SandP52WeekChange: 0.097798586
+address1: Jonsvollsgaten 2
+allTimeHigh: 216.45
+allTimeLow: 21.394598
+ask: 208.0
+auditRisk: 8
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 90442
+averageDailyVolume3Month: 111846
+averageVolume: 111846
+averageVolume10days: 90442
+beta: 0.404
+bid: 207.8
+boardRisk: 10
+bookValue: 284.156
+city: Bergen
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Mr. Jan Erik Kjerpeseth
+  title: Executive VP, MD & CEO
+  totalPay: 6977000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Mr. Hans Olav Ingdal
+  title: Executive Vice President, CFO, Finance & Corporate Governance
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Terje  Mjelde
+  title: Head of Management Accounting
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Ms. Siren  Sundland
+  title: Executive Vice President Technology & Development
+  totalPay: 3254000
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Mr. Lars Ove Breivik
+  title: Chief Information Officer & Head of Communication
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Monica Galtung Døsvig
+  title: Head of Legal
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Mr. Brede Borgen Kristiansen
+  title: Chief Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Ingrid  Paasche
+  title: Marketing Manager
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Mr. Jan-Stale  Hatlebakk
+  title: Executive VP, Head of Risk Management & CRO
+  totalPay: 2563000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Mr. Simen Løland Aarskog
+  title: Executive Vice President of Head of Retail Markets & Central
+  totalPay: 2070000
+  unexercisedValue: 0
+  yearBorn: 1983
+compensationAsOfEpochDate: 1609372800
+compensationRisk: 5
+corporateActions: []
+country: Norway
+cryptoTradeable: false
+currency: NOK
+currentPrice: 207.4
+customPriceAlertConfidence: LOW
+dayHigh: 209.25
+dayLow: 206.8
+dividendRate: 12.0
+dividendYield: 5.75
+earningsCallTimestampEnd: 1793347200
+earningsCallTimestampStart: 1793347200
+earningsGrowth: -0.091
+earningsQuarterlyGrowth: -0.073
+earningsTimestamp: 1793373600
+earningsTimestampEnd: 1801149600
+earningsTimestampStart: 1801149600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 26.425
+enterpriseValue: 344719458304
+epsCurrentYear: 15.63
+epsForward: 16.86
+epsTrailingTwelveMonths: 21.61
+esgPopulated: false
+exDividendDate: 1774569600
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 204.5962
+fiftyDayAverageChange: 2.8037872
+fiftyDayAverageChangePercent: 0.013704004
+fiftyTwoWeekChangePercent: 21.424412
+fiftyTwoWeekHigh: 216.45
+fiftyTwoWeekHighChange: -9.050003
+fiftyTwoWeekHighChangePercent: -0.041811056
+fiftyTwoWeekLow: 168.6
+fiftyTwoWeekLowChange: 38.799988
+fiftyTwoWeekLowChangePercent: 0.2301304
+fiftyTwoWeekRange: 168.6 - 216.45
+financialCurrency: NOK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 5.31
+floatShares: 145494595
+forwardEps: 16.86
+forwardPE: 12.301304
+fullExchangeName: Oslo
+fullTimeEmployees: 1648
+fulldayChange: -1.4500122
+fulldayChangePercent: -0.694284
+fulldayPrice: 207.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 13045000192
+hasPrePostMarketData: false
+heldPercentInsiders: 0.30572
+heldPercentInstitutions: 0.24856001
+impliedSharesOutstanding: 172785960
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1774569600
+lastDividendValue: 12.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1274313600
+lastSplitFactor: '2:1'
+longBusinessSummary: Sparebanken Norge, a financial services company, provides banking
+  and financing services. The company is involved in investment banking; trading in
+  securities for professional investors; leasing and selling mortgage loans; and real
+  estate agency business. It serves retail and commercial markets, as well as the
+  public sector in Southern, Western, and Eastern Norway. Sparebanken Norge was founded
+  in 1823 and is headquartered in Bergen, Norway.
+longName: Sparebanken Norge
+market: no_market
+marketCap: 35835805696
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_8081598
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 2747000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 35697579336
+numberOfAnalystOpinions: 4
+open: 208.5
+operatingCashflow: 7873999872
+operatingMargins: 0.67137
+overallRisk: 9
+payoutRatio: 0.7581
+phone: 47 915 0555
+prevName: Sparebanken Vest
+previousClose: 208.85
+priceEpsCurrentYear: 13.269353
+priceHint: 2
+priceToBook: 0.72988075
+priceToSalesTrailing12Months: 2.7470913
+profitMargins: 0.54097
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.6
+region: US
+regularMarketChange: -1.4500122
+regularMarketChangePercent: -0.694284
+regularMarketDayHigh: 209.25
+regularMarketDayLow: 206.8
+regularMarketDayRange: 206.8 - 209.25
+regularMarketOpen: 208.5
+regularMarketPreviousClose: 208.85
+regularMarketPrice: 207.4
+regularMarketTime: 1794410714
+regularMarketVolume: 76656
+returnOnAssets: 0.01228
+returnOnEquity: 0.13393
+revenueGrowth: -0.034
+revenuePerShare: 75.547
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 172785960
+shortName: SPAREBANKEN NORGE
+sourceInterval: 15
+symbol: SBNOR.OL
+targetHighPrice: 225.0
+targetLowPrice: 210.0
+targetMeanPrice: 217.5
+targetMedianPrice: 217.5
+totalCash: 3238000128
+totalCashPerShare: 18.696
+totalDebt: 310308995072
+totalRevenue: 13045000192
+tradeable: false
+trailingAnnualDividendRate: 12.0
+trailingAnnualDividendYield: 0.057457503
+trailingEps: 21.61
+trailingPE: 9.597408
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 197.982
+twoHundredDayAverageChange: 9.417999
+twoHundredDayAverageChangePercent: 0.04756998
+typeDisp: Equity
+volume: 76656
+website: https://www.sbnorge.no
+zip: '5011'

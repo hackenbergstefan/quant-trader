@@ -1,0 +1,235 @@
+52WeekChange: -0.3875469
+SandP52WeekChange: 0.097798586
+address1: 5420 S. Durango Dr
+allTimeHigh: 148.76
+allTimeLow: 1.38
+ask: 40.41
+askSize: 100
+auditRisk: 4
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 7019120
+averageDailyVolume3Month: 5819593
+averageVolume: 5819593
+averageVolume10days: 7019120
+beta: 0.754
+bid: 40.39
+bidSize: 900
+boardRisk: 10
+bookValue: -0.549
+city: Las Vegas
+companyOfficers:
+- age: 50
+  exercisedValue: 6044798
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick  Dumont
+  title: Chairman, CEO, President & Treasurer
+  totalPay: 13742764
+  unexercisedValue: 46990456
+  yearBorn: 1975
+- age: 55
+  exercisedValue: 400709
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Randy A. Hyzak
+  title: Executive VP & CFO
+  totalPay: 3314731
+  unexercisedValue: 15430630
+  yearBorn: 1970
+- age: 45
+  exercisedValue: 3742790
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. D. Zachary Hudson J.D.
+  title: Executive VP, Global General Counsel & Secretary
+  totalPay: 3984726
+  unexercisedValue: 13033126
+  yearBorn: 1980
+- age: 69
+  exercisedValue: 92407240
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert Glen Goldstein
+  title: Senior Advisor
+  totalPay: 12661332
+  unexercisedValue: 0
+  yearBorn: 1956
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel J. Briggs
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ronald  Reese
+  title: Senior Vice President of Global Communications, Corporate Affairs & Public
+    Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 40.27
+currentRatio: 0.826
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 40.67
+dayLow: 40.195
+displayName: Las Vegas Sands
+dividendDate: 1794268800
+dividendRate: 1.2
+dividendYield: 2.94
+earningsCallTimestampEnd: 1792612800
+earningsCallTimestampStart: 1792612800
+earningsGrowth: -0.22
+earningsQuarterlyGrowth: -0.274
+earningsTimestamp: 1792612800
+earningsTimestampEnd: 1801083600
+earningsTimestampStart: 1801083600
+ebitda: 4446000128
+ebitdaMargins: 0.32682
+enterpriseToEbitda: 8.642
+enterpriseToRevenue: 2.824
+enterpriseValue: 38423379968
+epsCurrentYear: 2.81476
+epsForward: 3.09472
+epsTrailingTwelveMonths: 2.44
+esgPopulated: false
+exDividendDate: 1793577600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 39.1242
+fiftyDayAverageChange: 1.1458015
+fiftyDayAverageChangePercent: 0.029286262
+fiftyTwoWeekChangePercent: -38.75469
+fiftyTwoWeekHigh: 70.45
+fiftyTwoWeekHighChange: -30.179996
+fiftyTwoWeekHighChangePercent: -0.4283889
+fiftyTwoWeekLow: 35.03
+fiftyTwoWeekLowChange: 5.2400017
+fiftyTwoWeekLowChangePercent: 0.14958613
+fiftyTwoWeekRange: 35.03 - 70.45
+financialCurrency: USD
+firstTradeDateMilliseconds: 1103121000000
+fiveYearAvgDividendYield: 3.96
+floatShares: 269992724
+forwardEps: 3.09472
+forwardPE: 13.012486
+freeCashflow: 2107374976
+fullExchangeName: NYSE
+fullTimeEmployees: 41000
+fulldayChange: -0.54999924
+fulldayChangePercent: -1.3473768
+fulldayPrice: 40.27
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.78624
+grossProfits: 10695999488
+hasPrePostMarketData: true
+heldPercentInsiders: 0.63748
+heldPercentInstitutions: 0.42856997
+impliedSharesOutstanding: 647701184
+industry: Resorts & Casinos
+industryDisp: Resorts & Casinos
+industryKey: resorts-casinos
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1793577600
+lastDividendValue: 0.3
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Las Vegas Sands Corp., together with its subsidiaries, owns,
+  develops, and operates integrated resorts in Macao and Singapore. It owns and operates
+  The Venetian Macao Resort Hotel, The Londoner Macao, The Parisian Macao, The Plaza
+  Macao and Four Seasons Hotel Macao, and The Sands Macao in Macao, the People's Republic
+  of China; and Marina Bay Sands in Singapore. The company's integrated resorts feature
+  accommodations, gaming, entertainment and retail malls, convention and exhibition
+  facilities, celebrity chef restaurants, and other amenities. The company was founded
+  in 1988 and is based in Las Vegas, Nevada.
+longName: Las Vegas Sands Corp.
+market: us_market
+marketCap: 26082926592
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_3632895
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1612000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 26439162330
+numberOfAnalystOpinions: 19
+open: 40.5
+operatingCashflow: 3487000064
+operatingMargins: 0.22236
+overallRisk: 9
+payoutRatio: 0.4713
+pegRatio: 1.06
+phone: 702 923 9000
+previousClose: 40.82
+priceEpsCurrentYear: 14.306726
+priceHint: 2
+priceToBook: -73.35155
+priceToSalesTrailing12Months: 1.9172983
+profitMargins: 0.11849
+quickRatio: 0.762
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.80952
+region: US
+regularMarketChange: -0.54999924
+regularMarketChangePercent: -1.3473768
+regularMarketDayHigh: 40.67
+regularMarketDayLow: 40.195
+regularMarketDayRange: 40.195 - 40.67
+regularMarketOpen: 40.5
+regularMarketPreviousClose: 40.82
+regularMarketPrice: 40.27
+regularMarketTime: 1794413730
+regularMarketVolume: 1088893
+returnOnAssets: 0.09241
+returnOnEquity: 2.07078
+revenueGrowth: -0.035
+revenuePerShare: 20.628
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 9
+sharesOutstanding: 647701184
+sharesPercentSharesOut: 0.0305
+sharesShort: 19749390
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 18367169
+shortName: Las Vegas Sands Corp.
+shortPercentOfFloat: 0.15529999
+shortRatio: 3.08
+sourceInterval: 15
+state: NV
+symbol: LVS
+targetHighPrice: 60.0
+targetLowPrice: 37.0
+targetMeanPrice: 49.56842
+targetMedianPrice: 50.0
+totalCash: 2857999872
+totalCashPerShare: 4.559
+totalDebt: 15459999744
+totalRevenue: 13603999744
+tradeable: false
+trailingAnnualDividendRate: 1.2
+trailingAnnualDividendYield: 0.029397355
+trailingEps: 2.44
+trailingPE: 16.504099
+trailingPegRatio: 1.0593
+triggerable: true
+twoHundredDayAverage: 48.2843
+twoHundredDayAverageChange: -8.014301
+twoHundredDayAverageChangePercent: -0.16598152
+typeDisp: Equity
+volume: 1088893
+website: https://www.sands.com
+zip: '89113'

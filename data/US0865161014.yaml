@@ -1,0 +1,280 @@
+52WeekChange: 0.3395959
+SandP52WeekChange: 0.097798586
+address1: 7601 Penn Avenue South
+allTimeHigh: 141.97
+allTimeLow: 0.138889
+ask: 105.01
+askSize: 200
+auditRisk: 5
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 3084790
+averageDailyVolume3Month: 3420404
+averageVolume: 3420404
+averageVolume10days: 3084790
+beta: 1.208
+bid: 104.82
+bidSize: 300
+boardRisk: 1
+bookValue: 15.128
+city: Richfield
+companyOfficers:
+- age: 50
+  exercisedValue: 1696504
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Corie Sue Barry
+  title: Strategic Advisor
+  totalPay: 3646179
+  unexercisedValue: 1176915
+  yearBorn: 1975
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Todd Gregory Hartman
+  title: Executive VP, Secretary, Chief Legal & Risk Officer
+  totalPay: 1936962
+  unexercisedValue: 88407
+  yearBorn: 1967
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Kathleen M. Scarlett
+  title: Senior EVP & Chief Human Resources
+  totalPay: 2219973
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 84
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Richard M. Schulze
+  title: Founder & Chairman Emeritus
+  totalPay: 69133
+  unexercisedValue: 10072463
+  yearBorn: 1941
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Anne L. Bramman CPA
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Duane  Scarboro
+  title: Executive VP and Chief Fulfillment & Operations Officer
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dr. Neal Joseph Sample Ph.D.
+  title: Executive VP, Chief Digital & Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jeff  Haydock
+  title: EVP, Chief Communications & Public Affairs Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Luke  Motschenbacher
+  title: Executive VP and Chief Retail & Services Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Patrick  McGinnis
+  title: Executive VP & Chief Revenue Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 105.265
+currentRatio: 1.117
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 105.785
+dayLow: 102.65
+debtToEquity: 130.097
+displayName: Best Buy
+dividendDate: 1791417600
+dividendRate: 3.84
+dividendYield: 3.69
+earningsCallTimestampEnd: 1795525200
+earningsCallTimestampStart: 1795525200
+earningsGrowth: 0.701
+earningsQuarterlyGrowth: 0.694
+earningsTimestamp: 1795527000
+earningsTimestampEnd: 1795527000
+earningsTimestampStart: 1795527000
+ebitda: 2617999872
+ebitdaMargins: 0.06204
+enterpriseToEbitda: 9.001
+enterpriseToRevenue: 0.558
+enterpriseValue: 23563653120
+epsCurrentYear: 6.82811
+epsForward: 7.21829
+epsTrailingTwelveMonths: 6.01
+esgPopulated: false
+exDividendDate: 1789603200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 92.533
+fiftyDayAverageChange: 12.732002
+fiftyDayAverageChangePercent: 0.13759418
+fiftyTwoWeekChangePercent: 33.95959
+fiftyTwoWeekHigh: 106.83
+fiftyTwoWeekHighChange: -1.5650024
+fiftyTwoWeekHighChangePercent: -0.014649466
+fiftyTwoWeekLow: 55.1
+fiftyTwoWeekLowChange: 50.165
+fiftyTwoWeekLowChangePercent: 0.9104356
+fiftyTwoWeekRange: 55.1 - 106.83
+financialCurrency: USD
+firstTradeDateMilliseconds: 482682600000
+fiveYearAvgDividendYield: 4.41
+floatShares: 196860904
+forwardEps: 7.21829
+forwardPE: 14.583094
+freeCashflow: 1403374976
+fullExchangeName: NYSE
+fullTimeEmployees: 82000
+fulldayChange: 1.1650009
+fulldayChangePercent: 1.1191171
+fulldayPrice: 105.265
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.22597
+grossProfits: 9536000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.06521
+heldPercentInstitutions: 0.96996003
+impliedSharesOutstanding: 209727698
+industry: Specialty Retail
+industryDisp: Specialty Retail
+industryKey: specialty-retail
+irWebsite: http://www.investors.bestbuy.com/phoenix.zhtml?c=83192&p=IROL-IRhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789603200
+lastDividendValue: 0.96
+lastFiscalYearEnd: 1769817600
+lastSplitDate: 1123113600
+lastSplitFactor: '3:2'
+longBusinessSummary: Best Buy Co., Inc. offers technology products and solutions in
+  the United States, Canada, and internationally. The company provides computing and
+  mobile phone products, such as desktops, notebooks, and peripherals; mobile phones
+  comprising related mobile network carrier commissions; networking products; tablets
+  covering e-readers; smartwatches; and consumer electronics consisting of digital
+  imaging, health and fitness products, portable audio comprising headphones and portable
+  speakers, and smart home products, as well as home theaters that includes home theater
+  accessories, soundbars, and televisions. It also offers appliances, such as dishwashers,
+  laundry, ovens, refrigerators, blenders, coffee makers, vacuums, and personal care;
+  entertainment products consisting of drones, peripherals, gaming, toys, and virtual
+  reality, as well as hardware and software, and augmented reality glasses and other
+  software products; and other products, such as baby, food and beverage, luggage,
+  and outdoor living products. In addition, the company provides delivery, installation,
+  marketplace commissions, memberships, repair, set-up, technical support, health-related,
+  and warranty-related services. It offers its products through stores and websites
+  under the Best Buy, Best Buy Ads, Best Buy Business, Best Buy Essentials, Best Buy
+  Health, Best Buy Marketplace, Geek Squad, Imagine That, Insignia, Lively, Jitterbug,
+  My Best Buy, My Best Buy Memberships, Pacific Kitchen, Home, TechLiquidators, and
+  Yardbird brand names, as well as domain names comprising bestbuy.com, lively.com,
+  techliquidators.com, yardbird.com, bestbuy.ca, and techliquidators.ca. The company
+  was formerly known as Sound of Music, Inc. Best Buy Co., Inc. was incorporated in
+  1966 and is headquartered in Richfield, Minnesota.
+longName: Best Buy Co., Inc.
+market: us_market
+marketCap: 22076985344
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_255397
+mostRecentQuarter: 1785542400
+netIncomeToCommon: 1272000000
+nextFiscalYearEnd: 1801353600
+nonDilutedMarketCap: 21832653361
+numberOfAnalystOpinions: 20
+open: 103.12
+operatingCashflow: 2475000064
+operatingMargins: 0.043130003
+overallRisk: 1
+payoutRatio: 0.63560003
+pegRatio: 1.89
+phone: 612 291 1000
+previousClose: 104.1
+priceEpsCurrentYear: 15.416418
+priceHint: 2
+priceToBook: 6.958289
+priceToSalesTrailing12Months: 0.5231389
+profitMargins: 0.03014
+quickRatio: 0.373
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.8
+region: US
+regularMarketChange: 1.1650009
+regularMarketChangePercent: 1.1191171
+regularMarketDayHigh: 105.785
+regularMarketDayLow: 102.65
+regularMarketDayRange: 102.65 - 105.785
+regularMarketOpen: 103.12
+regularMarketPreviousClose: 104.1
+regularMarketPrice: 105.265
+regularMarketTime: 1794413733
+regularMarketVolume: 628212
+returnOnAssets: 0.07254
+returnOnEquity: 0.43126
+revenueGrowth: 0.036
+revenuePerShare: 200.48
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 2
+sharesOutstanding: 209727698
+sharesPercentSharesOut: 0.0728
+sharesShort: 15273377
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 14868600
+shortName: Best Buy Co., Inc.
+shortPercentOfFloat: 0.082200006
+shortRatio: 5.3
+sourceInterval: 15
+state: MN
+symbol: BBY
+targetHighPrice: 102.0
+targetLowPrice: 71.0
+targetMeanPrice: 89.05
+targetMedianPrice: 90.0
+totalCash: 2409999872
+totalCashPerShare: 11.491
+totalDebt: 4140999936
+totalRevenue: 42201001984
+tradeable: false
+trailingAnnualDividendRate: 3.82
+trailingAnnualDividendYield: 0.036695484
+trailingEps: 6.01
+trailingPE: 17.514975
+trailingPegRatio: 1.8884
+triggerable: true
+twoHundredDayAverage: 76.39455
+twoHundredDayAverageChange: 28.870453
+twoHundredDayAverageChangePercent: 0.3779125
+typeDisp: Equity
+volume: 628212
+website: https://corporate.bestbuy.com
+zip: '55423'

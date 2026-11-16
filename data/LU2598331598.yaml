@@ -1,0 +1,269 @@
+52WeekChange: 0.52359545
+SandP52WeekChange: 0.097798586
+address1: 26, Boulevard Royal
+address2: 4th Floor
+allTimeHigh: 27.82
+allTimeLow: 1.6
+ask: 27.55
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 1585390
+averageDailyVolume3Month: 1260633
+averageVolume: 1260633
+averageVolume10days: 1585390
+beta: 0.425
+bid: 27.55
+bidSize: 0
+boardRisk: 9
+bookValue: 14.858201
+city: Luxembourg
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Gabriel  Podskubka
+  title: Chief Executive Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 54
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Carlos  Gomez Alzaga
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 52
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Lucas  Pigliacampo
+  title: Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 51
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Luis  Scartascini
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 69
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Sergio  de la Maza
+  title: President of Mexico
+  unexercisedValue: 0
+  yearBorn: 1956
+- age: 60
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Guillermo Gabriel Moreno
+  title: President of U.S.A
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 66
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Gabriel  Casanova
+  title: Chief Supply Chain Officer
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 52
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Michele Della Briotta
+  title: President of Europe
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 64
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Antonio  Caprera
+  title: Chief Industrial Officer
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 52
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Andrea  Previtali
+  title: President of Southern Cone
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationRisk: 9
+corporateActions:
+- header: Dividend
+  message: TEN.MI announced a cash dividend of EUR 0.59 with an ex-date of Nov. 23,
+    2026
+  meta:
+    amount: '0.59'
+    dateEpochMs: 1795388400000
+    eventType: DIVIDEND
+country: Luxembourg
+cryptoTradeable: false
+currency: EUR
+currentPrice: 27.54
+currentRatio: 3.245
+customPriceAlertConfidence: LOW
+dayHigh: 27.57
+dayLow: 27.11
+debtToEquity: 2.834
+dividendRate: 0.77
+dividendYield: 2.83
+earningsCallTimestampEnd: 1793883600
+earningsCallTimestampStart: 1793883600
+earningsGrowth: 0.186
+earningsQuarterlyGrowth: 0.142
+earningsTimestamp: 1793809800
+earningsTimestampEnd: 1793809800
+earningsTimestampStart: 1793809800
+ebitda: 2742546944
+ebitdaMargins: 0.22545
+enterpriseToEbitda: 9.182
+enterpriseToRevenue: 2.07
+enterpriseValue: 25182834688
+epsCurrentYear: 2.02611
+epsForward: 2.099491
+epsTrailingTwelveMonths: 1.68
+esgPopulated: false
+exDividendDate: 1795392000
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 352 26 478 979
+fiftyDayAverage: 25.3386
+fiftyDayAverageChange: 2.2014008
+fiftyDayAverageChangePercent: 0.086879335
+fiftyTwoWeekChangePercent: 52.359547
+fiftyTwoWeekHigh: 27.82
+fiftyTwoWeekHighChange: -0.27999878
+fiftyTwoWeekHighChangePercent: -0.010064658
+fiftyTwoWeekLow: 16.1
+fiftyTwoWeekLowChange: 11.440001
+fiftyTwoWeekLowChangePercent: 0.710559
+fiftyTwoWeekRange: 16.1 - 27.82
+financialCurrency: USD
+firstTradeDateMilliseconds: 1040112000000
+fiveYearAvgDividendYield: 3.09
+floatShares: 318763464
+forwardEps: 2.099491
+forwardPE: 13.117466
+freeCashflow: 1930310016
+fullExchangeName: Milan
+fullTimeEmployees: 24875
+fulldayChange: 0.42000008
+fulldayChangePercent: 1.5486728
+fulldayPrice: 27.54
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.38537997
+grossProfits: 4688019968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.68634003
+heldPercentInstitutions: 0.13972001
+impliedSharesOutstanding: 1009639756
+industry: Oil & Gas Equipment & Services
+industryDisp: Oil & Gas Equipment & Services
+industryKey: oil-gas-equipment-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1795392000
+lastDividendValue: 0.59
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Tenaris S.A., together with its subsidiaries, manufactures and
+  supplies steel pipe products and related services for the energy industry and other
+  industrial applications in North America, South America, Europe, the Middle East
+  and Africa, and the Asia Pacific. It provides steel casings to sustain the walls
+  of oil and gas wells during and after drilling; steel tubing for conducting crude
+  oil and natural gas to the surface after drilling has been completed; steel line
+  pipes to transport crude oil and natural gas from wells to refineries, storage tanks,
+  and loading and distribution centers; and mechanical and structural pipes for the
+  transportation of other forms of gas and liquids under high pressure. The company
+  also offers cold-drawn pipes for use in boilers, superheaters, condensers, heat
+  exchangers, automobile production, and other industrial applications; premium joints
+  and couplings for use in high temperature or high pressure environments under the
+  TenarisHydril brand name; coiled tubing is used for oil and gas drilling and well
+  workovers and for subsea pipelines; sucker rods used in oil extraction activities,
+  tubes used for plumbing and construction applications, and oilfield / hydraulic
+  fracturing services; pipe coating services; and automotive components. In addition,
+  it engages in the sale of energy and raw materials; development, management, and
+  licensing of intellectual property; procurement and trading services; and financial
+  operations, as well as markets steel products. Further, the company manufactures
+  and markets connections; and welded and seamless steel pipes. Tenaris S.A. was incorporated
+  in 2001 and is based in Luxembourg, Luxembourg. Tenaris S.A. operates as a subsidiary
+  of Techint Holdings S.àr.l.
+longName: Tenaris S.A.
+market: it_market
+marketCap: 27805478912
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_4005629
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1975810048
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 27381430182
+numberOfAnalystOpinions: 15
+open: 27.11
+operatingCashflow: 2288406016
+operatingMargins: 0.18205
+overallRisk: 10
+payoutRatio: 0.4564
+pegRatio: 3.11
+phone: 352 26 478 978
+previousClose: 27.12
+priceEpsCurrentYear: 13.59255
+priceHint: 2
+priceToBook: 1.853522
+priceToSalesTrailing12Months: 2.2857764
+profitMargins: 0.16242
+quickRatio: 1.901
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.13333
+region: US
+regularMarketChange: 0.42000008
+regularMarketChangePercent: 1.5486728
+regularMarketDayHigh: 27.57
+regularMarketDayLow: 27.11
+regularMarketDayRange: 27.11 - 27.57
+regularMarketOpen: 27.11
+regularMarketPreviousClose: 27.12
+regularMarketPrice: 27.54
+regularMarketTime: 1794411570
+regularMarketVolume: 802208
+returnOnAssets: 0.06685
+returnOnEquity: 0.118590005
+revenueGrowth: 0.042
+revenuePerShare: 11.985
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 7
+sharesOutstanding: 1009639756
+shortName: TENARIS
+sourceInterval: 20
+symbol: TEN.MI
+targetHighPrice: 40.191715
+targetLowPrice: 23.260874
+targetMeanPrice: 29.64035
+targetMedianPrice: 29.1394
+totalCash: 2951779072
+totalCashPerShare: 2.924
+totalDebt: 485206016
+totalRevenue: 12164566016
+tradeable: false
+trailingAnnualDividendRate: 1.19
+trailingAnnualDividendYield: 0.04387906
+trailingEps: 1.68
+trailingPE: 16.392859
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 24.684475
+twoHundredDayAverageChange: 2.855526
+twoHundredDayAverageChangePercent: 0.11568105
+typeDisp: Equity
+volume: 802208
+website: https://www.tenaris.com
+zip: '2449'

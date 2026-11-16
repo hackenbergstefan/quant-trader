@@ -1,0 +1,254 @@
+52WeekChange: 0.062554955
+SandP52WeekChange: 0.097798586
+address1: 7100 NW 62nd Avenue
+allTimeHigh: 77.39
+allTimeLow: 65.0
+ask: 71.5
+askSize: 100
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 3259150
+averageDailyVolume3Month: 5319672
+averageVolume: 5319672
+averageVolume10days: 3259150
+beta: 0.604
+bid: 71.36
+bidSize: 200
+bookValue: 37.719
+city: Johnston
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles Victor Magro B.Sc. (Chem), MBA
+  title: CEO & Director
+  totalPay: 5849298
+  unexercisedValue: 2908027
+  yearBorn: 1970
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David P. Johnson
+  title: Chief Financial Officer
+  totalPay: 2278613
+  unexercisedValue: 84660
+  yearBorn: 1968
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Samuel R. Eathington Ph.D.
+  title: Chief Technology Officer
+  totalPay: 2122857
+  unexercisedValue: 956945
+  yearBorn: 1969
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Judd M. O'Connor
+  title: Chief Commercial & Operations Officer
+  totalPay: 1902411
+  unexercisedValue: 639509
+  yearBorn: 1971
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Colleen P. Hopper
+  title: VP of Corporate Finance & Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian  Lutz
+  title: Chief Digital & Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Kimberly  Booth
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Audrey  Grimm
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Brad  Venema
+  title: Treasurer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Laurie A. Conslato
+  title: Treasurer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions:
+- header: Dividend
+  message: VYLR announced a cash dividend of $0.13 with an ex-date of Nov. 30, 2026
+  meta:
+    amount: '0.13'
+    dateEpochMs: 1796014800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 71.355
+currentRatio: 1.516
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 72.14
+dayLow: 70.9593
+debtToEquity: 19.191
+displayName: Vylor
+dividendDate: 1796601600
+dividendRate: 0.52
+dividendYield: 0.72
+earningsCallTimestampEnd: 1794492000
+earningsCallTimestampStart: 1794492000
+earningsGrowth: -0.099
+earningsQuarterlyGrowth: -0.116
+earningsTimestamp: 1794430800
+earningsTimestampEnd: 1794430800
+earningsTimestampStart: 1794430800
+ebitda: 4275000064
+ebitdaMargins: 0.24001
+enterpriseToEbitda: 11.964
+enterpriseToRevenue: 2.871
+enterpriseValue: 51145723904
+epsCurrentYear: 2.31243
+epsForward: 2.60958
+epsTrailingTwelveMonths: 0.7
+esgPopulated: false
+exDividendDate: 1795996800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 72.53172
+fiftyDayAverageChange: -1.1767197
+fiftyDayAverageChangePercent: -0.016223518
+fiftyTwoWeekChangePercent: 6.2554955
+fiftyTwoWeekHigh: 77.39
+fiftyTwoWeekHighChange: -6.034996
+fiftyTwoWeekHighChangePercent: -0.0779816
+fiftyTwoWeekLow: 65.0
+fiftyTwoWeekLowChange: 6.3550034
+fiftyTwoWeekLowChangePercent: 0.09776928
+fiftyTwoWeekRange: 65.0 - 77.39
+financialCurrency: USD
+firstTradeDateMilliseconds: 1790861400000
+floatShares: 665674793
+forwardEps: 2.60958
+forwardPE: 27.343481
+freeCashflow: 2417250048
+fullExchangeName: NYSE
+fullTimeEmployees: 21500
+fulldayChange: -1.1749954
+fulldayChangePercent: -1.620013
+fulldayPrice: 71.355
+gmtOffSetMilliseconds: -18000000
+grossMargins: 0.4954
+grossProfits: 8824000512
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00226
+heldPercentInstitutions: 0.088149995
+impliedSharesOutstanding: 667302930
+industry: Shell Companies
+industryDisp: Shell Companies
+industryKey: shell-companies
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Vylor Inc. operates as a seed and genetics company. It delivers
+  a pipeline in the industry's elite germplasm and transformative sciences, such as
+  biotechnology and gene editing. The company was founded in 1802 and is based in
+  Johnston, Iowa.
+longName: Vylor Inc.
+market: us_market
+marketCap: 47615401984
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_319130234
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1084999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 48399481512
+numberOfAnalystOpinions: 14
+open: 72.14
+operatingCashflow: 1211000064
+operatingMargins: 0.17028
+pegRatio: 0.78
+phone: 833 267 8382
+prevName: Corteva, Inc.
+previousClose: 72.53
+priceEpsCurrentYear: 30.857153
+priceHint: 2
+priceToBook: 1.8917521
+priceToSalesTrailing12Months: 2.6732204
+profitMargins: 0.056649998
+quickRatio: 0.989
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6875
+region: US
+regularMarketChange: -1.1749954
+regularMarketChangePercent: -1.620013
+regularMarketDayHigh: 72.14
+regularMarketDayLow: 70.9593
+regularMarketDayRange: 70.9593 - 72.14
+regularMarketOpen: 72.14
+regularMarketPreviousClose: 72.53
+regularMarketPrice: 71.355
+regularMarketTime: 1794413726
+regularMarketVolume: 415074
+returnOnAssets: 0.04546
+returnOnEquity: 0.04256
+revenueGrowth: -0.012
+revenuePerShare: 26.445
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+sharesOutstanding: 667302930
+sharesPercentSharesOut: 0.0209
+sharesShort: 13947260
+shortName: Vylor Inc.
+shortRatio: 2.38
+sourceInterval: 15
+state: IA
+symbol: VYLR
+targetHighPrice: 90.0
+targetLowPrice: 74.0
+targetMeanPrice: 82.64286
+targetMedianPrice: 84.5
+totalCash: 2364999936
+totalCashPerShare: 3.545
+totalDebt: 4874999808
+totalRevenue: 17812000768
+tradeable: false
+trailingAnnualDividendRate: 0.72
+trailingAnnualDividendYield: 0.009926927
+trailingEps: 0.7
+trailingPE: 101.93572
+trailingPegRatio: 0.7844
+triggerable: true
+twoHundredDayAverage: 72.53172
+twoHundredDayAverageChange: -1.1767197
+twoHundredDayAverageChangePercent: -0.016223518
+typeDisp: Equity
+volume: 415074
+website: https://www.vylor.com
+zip: '50131'

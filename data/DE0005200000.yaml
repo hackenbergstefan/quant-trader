@@ -1,0 +1,272 @@
+52WeekChange: -0.08863735
+SandP52WeekChange: 0.097798586
+address1: Beiersdorfstrasse 1-9
+allTimeHigh: 147.8
+allTimeLow: 14.827463
+ask: 84.38
+askSize: 100
+auditRisk: 10
+averageAnalystRating: 2.9 - Hold
+averageDailyVolume10Day: 353080
+averageDailyVolume3Month: 329472
+averageVolume: 329472
+averageVolume10days: 353080
+beta: 0.455
+bid: 84.3
+bidSize: 377
+boardRisk: 7
+bookValue: 41.271
+city: Hamburg
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vincent  Warnery
+  title: CEO & Chairman of the Executive Board
+  totalPay: 2504000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Astrid  Hermann
+  title: CFO & Member of Executive Board
+  totalPay: 1549000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ramon A. Mirt CPA
+  title: Member of the Executive Board
+  totalPay: 1446000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oswald  Barckhahn
+  title: Member of the Executive Board
+  totalPay: 913000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Grita  Loebsack
+  title: Member of the Executive Board
+  totalPay: 4255000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nicola D. Lafrentz
+  title: CHRO, Labor Relations Director & Member of the Executive Board
+  totalPay: 915000
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Christopher  Sheldon
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anke  Schmidt
+  title: Vice President of Corporate Communications & Government Relations
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 70
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Prof. Manuela  Rousseau
+  title: Head of Corp. Social Responsibility
+  totalPay: 40971
+  unexercisedValue: 0
+  yearBorn: 1955
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Reiner  Hansert
+  title: Director of Legal Affairs Europe
+  totalPay: 42227
+  unexercisedValue: 0
+  yearBorn: 1961
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 84.32
+currentRatio: 1.998
+customPriceAlertConfidence: LOW
+dayHigh: 85.4
+dayLow: 84.28
+debtToEquity: 1.221
+dividendRate: 1.0
+dividendYield: 1.19
+earningsCallTimestampEnd: 1793088000
+earningsCallTimestampStart: 1793088000
+earningsGrowth: 0.019
+earningsQuarterlyGrowth: -0.002
+earningsTimestamp: 1793118600
+earningsTimestampEnd: 1793118600
+earningsTimestampStart: 1793118600
+ebitda: 1580000000
+ebitdaMargins: 0.16431
+enterpriseToEbitda: 10.055
+enterpriseToRevenue: 1.652
+enterpriseValue: 15887316992
+epsCurrentYear: 3.78699
+epsForward: 3.97059
+epsTrailingTwelveMonths: 4.35
+esgPopulated: false
+exDividendDate: 1776988800
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 40 4909 3434
+fiftyDayAverage: 78.9104
+fiftyDayAverageChange: 5.4095993
+fiftyDayAverageChangePercent: 0.06855369
+fiftyTwoWeekChangePercent: -8.863735
+fiftyTwoWeekHigh: 110.15
+fiftyTwoWeekHighChange: -25.830002
+fiftyTwoWeekHighChangePercent: -0.23449843
+fiftyTwoWeekLow: 67.08
+fiftyTwoWeekLowChange: 17.239998
+fiftyTwoWeekLowChangePercent: 0.25700653
+fiftyTwoWeekRange: 67.08 - 110.15
+financialCurrency: EUR
+firstTradeDateMilliseconds: 901090800000
+fiveYearAvgDividendYield: 0.76
+floatShares: 89065217
+forwardEps: 3.97059
+forwardPE: 21.236137
+freeCashflow: 559750016
+fullExchangeName: XETRA
+fullTimeEmployees: 22326
+fulldayChange: -1.0199966
+fulldayChangePercent: -1.1952152
+fulldayPrice: 84.32
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.57133996
+grossProfits: 5494000128
+hasPrePostMarketData: false
+heldPercentInsiders: 0.54198
+heldPercentInstitutions: 0.23934999
+impliedSharesOutstanding: 218523759
+industry: Household & Personal Products
+industryDisp: Household & Personal Products
+industryKey: household-personal-products
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776988800
+lastDividendValue: 1.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1153094400
+lastSplitFactor: '3:1'
+longBusinessSummary: 'Beiersdorf Aktiengesellschaft, together with its subsidiaries,
+  manufactures and distributes consumer goods in Europe, the United States, Africa,
+  Asia, and Australia. The company operates through two segments: Consumer Business
+  and Tesa Business. The Consumer Business Segment offers skin and body care products.
+  The Tesa Business segment provides adhesive tapes and self-adhesive solutions for
+  industries, craft businesses, and consumers. This segment also offers its system
+  solutions to the automotive, consumer electronics, printing and packaging, and electrical
+  systems sectors. It operates an online store. The company offers its products under
+  the NIVEA, Eucerin, Hansaplast, La Prairie, Chantecaille, Coppertone, Labello /
+  NIVEA Lip / Liposan, ATRIX, 8x4, HIDROFUGAL, tesa, SKIN STORIES, GAMMON, Aquaphor,
+  Elastoplast, and CURITAS brand names, as well as regionally focused brands. Beiersdorf
+  Aktiengesellschaft was founded in 1882 and is headquartered in Hamburg, Germany.
+  Beiersdorf Aktiengesellschaft is a subsidiary of maxingvest ag. Beiersdorf Aktiengesellschaft
+  operates as a subsidiary of Maxingvest GmbH & Co. KGaA.'
+longName: Beiersdorf Aktiengesellschaft
+market: de_market
+marketCap: 18425923584
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_876083
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 938000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 18383521275
+numberOfAnalystOpinions: 20
+open: 84.98
+operatingCashflow: 1021000000
+operatingMargins: 0.13613
+overallRisk: 7
+payoutRatio: 0.2326
+pegRatio: 5.77
+phone: 49 40 4909 0
+previousClose: 85.34
+priceEpsCurrentYear: 22.265705
+priceHint: 2
+priceToBook: 2.043081
+priceToSalesTrailing12Months: 1.9161735
+profitMargins: 0.097550005
+quickRatio: 1.501
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.85714
+region: US
+regularMarketChange: -1.0199966
+regularMarketChangePercent: -1.1952152
+regularMarketDayHigh: 85.4
+regularMarketDayLow: 84.28
+regularMarketDayRange: 84.28 - 85.4
+regularMarketOpen: 84.98
+regularMarketPreviousClose: 85.34
+regularMarketPrice: 84.32
+regularMarketTime: 1794411548
+regularMarketVolume: 83603
+returnOnAssets: 0.06235
+returnOnEquity: 0.10887
+revenueGrowth: -0.045
+revenuePerShare: 43.966
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 6
+sharesOutstanding: 218523759
+shortName: BEIERSDORF AG                 I
+sourceInterval: 15
+symbol: BEI.DE
+targetHighPrice: 95.0
+targetLowPrice: 68.0
+targetMeanPrice: 81.5
+targetMedianPrice: 81.5
+totalCash: 2841999872
+totalCashPerShare: 13.032
+totalDebt: 110000000
+totalRevenue: 9616000000
+tradeable: false
+trailingAnnualDividendRate: 1.0
+trailingAnnualDividendYield: 0.011717835
+trailingEps: 4.35
+trailingPE: 19.38391
+trailingPegRatio: 5.7671
+triggerable: false
+twoHundredDayAverage: 79.18805
+twoHundredDayAverageChange: 5.1319504
+twoHundredDayAverageChangePercent: 0.06480713
+typeDisp: Equity
+volume: 83603
+website: https://www.beiersdorf.com
+zip: '22529'

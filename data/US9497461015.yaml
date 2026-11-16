@@ -1,0 +1,277 @@
+52WeekChange: -0.0057964325
+SandP52WeekChange: 0.097798586
+address1: 333 Market Street
+allTimeHigh: 97.76
+allTimeLow: 0.479167
+ask: 85.45
+askSize: 100
+auditRisk: 4
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 14228130
+averageDailyVolume3Month: 14203148
+averageVolume: 14203148
+averageVolume10days: 14228130
+beta: 0.917
+bid: 85.45
+bidSize: 500
+boardRisk: 8
+bookValue: 52.858
+city: San Francisco
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles W. Scharf
+  title: CEO & Chairman
+  totalPay: 12595544
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael P. Santomassimo
+  title: Senior EVP & CFO
+  totalPay: 6646000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fernando S. Rivas
+  title: Senior EVP & CEO of Corporate & Investment Banking
+  totalPay: 7996000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ellen Reilly Patterson Esq., J.D.
+  title: Senior EVP & General Counsel
+  totalPay: 5571000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kleber R. Santos
+  title: CEO of Consumer Banking & Lending
+  totalPay: 8271000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott E. Powell
+  title: Senior EVP & COO
+  totalPay: 4616050
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Muneera S. Carr
+  title: Chief Accounting Officer, Executive VP & Controller
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Bridget E. Engle
+  title: Senior EVP & Head of Technology
+  totalPay: 3740947
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Owen
+  title: Chief Administrative Officer & Head of Global Operations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John M. Campbell
+  title: Director of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 85.635
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 85.99
+dayLow: 85.28
+displayName: Wells Fargo
+dividendDate: 1796083200
+dividendRate: 2.0
+dividendYield: 2.33
+earningsCallTimestampEnd: 1799938800
+earningsCallTimestampStart: 1799938800
+earningsGrowth: 0.127
+earningsQuarterlyGrowth: 0.065
+earningsTimestamp: 1799933400
+earningsTimestampEnd: 1799933400
+earningsTimestampStart: 1799933400
+ebitdaMargins: 0.0
+enterpriseToRevenue: 3.353
+enterpriseValue: 278715695104
+epsCurrentYear: 7.17932
+epsForward: 8.00389
+epsTrailingTwelveMonths: 7.09
+esgPopulated: false
+exDividendDate: 1793923200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 84.3666
+fiftyDayAverageChange: 1.2684021
+fiftyDayAverageChangePercent: 0.01503441
+fiftyTwoWeekChangePercent: -0.57964325
+fiftyTwoWeekHigh: 97.76
+fiftyTwoWeekHighChange: -12.125
+fiftyTwoWeekHighChangePercent: -0.12402823
+fiftyTwoWeekLow: 72.78
+fiftyTwoWeekLowChange: 12.855003
+fiftyTwoWeekLowChangePercent: 0.17662825
+fiftyTwoWeekRange: 72.78 - 97.76
+financialCurrency: USD
+firstTradeDateMilliseconds: 76253400000
+fiveYearAvgDividendYield: 2.15
+floatShares: 2993505173
+forwardEps: 8.00389
+forwardPE: 10.699173
+fullExchangeName: NYSE
+fullTimeEmployees: 194369
+fulldayChange: -0.125
+fulldayChangePercent: -0.14575559
+fulldayPrice: 85.635
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 83112001536
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00092
+heldPercentInstitutions: 0.79810995
+impliedSharesOutstanding: 3001850317
+industry: Banks - Diversified
+industryDisp: Banks - Diversified
+industryKey: banks-diversified
+irWebsite: https://www.wellsfargo.com/invest_relations/investor_relations
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793923200
+lastDividendValue: 0.5
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1155513600
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Wells Fargo & Company, a financial services company, provides
+  diversified banking, investment, mortgage, and consumer and commercial finance products
+  and services in the United States and internationally. It operates through four
+  segments: Consumer Banking and Lending; Commercial Banking; Corporate and Investment
+  Banking; and Wealth and Investment Management. The company''s financial products
+  and services includes checking and savings accounts, and credit and debit cards,
+  as well as home, auto, personal, and small business lending services. It also provides
+  personalized wealth management, brokerage, financial planning, lending, private
+  banking, trust and fiduciary products and services; and financial solutions to private,
+  family owned and public companies through products and services including banking
+  and credit products across multiple industry sectors and municipalities, secured
+  lending and lease products, and treasury management. In addition, it offers a suite
+  of capital markets, banking, and financial products and services, such as corporate
+  banking, investment banking, treasury management, commercial real estate lending
+  and servicing, equity, and fixed income solutions, as well as sales, trading, and
+  research capabilities services to corporate, commercial real estate, government,
+  and institutional clients. Wells Fargo & Company was founded in 1852 and is headquartered
+  in San Francisco, California.'
+longName: Wells Fargo & Company
+market: us_market
+marketCap: 257063469056
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_292891
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 21976999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 257438683185
+numberOfAnalystOpinions: 24
+open: 85.77
+operatingCashflow: 28906000384
+operatingMargins: 0.32911
+overallRisk: 9
+payoutRatio: 0.2609
+pegRatio: 1.33
+phone: 415-371-2921
+previousClose: 85.76
+priceEpsCurrentYear: 11.92801
+priceHint: 2
+priceToBook: 1.6200954
+priceToSalesTrailing12Months: 3.0929766
+profitMargins: 0.2764
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.81481
+region: US
+regularMarketChange: -0.125
+regularMarketChangePercent: -0.14575559
+regularMarketDayHigh: 85.99
+regularMarketDayLow: 85.28
+regularMarketDayRange: 85.28 - 85.99
+regularMarketOpen: 85.77
+regularMarketPreviousClose: 85.76
+regularMarketPrice: 85.635
+regularMarketTime: 1794413750
+regularMarketVolume: 1317213
+returnOnAssets: 0.01079
+returnOnEquity: 0.1291
+revenueGrowth: 0.004
+revenuePerShare: 27.134
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 6
+sharesOutstanding: 3001850317
+sharesPercentSharesOut: 0.0
+sharesShort: 2163
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 24503152
+shortName: Wells Fargo & Company
+shortPercentOfFloat: 0.0
+shortRatio: 0.0
+sourceInterval: 15
+state: CA
+symbol: WFC
+targetHighPrice: 108.0
+targetLowPrice: 88.0
+targetMeanPrice: 97.375
+targetMedianPrice: 97.5
+totalCash: 461864009728
+totalCashPerShare: 153.86
+totalDebt: 463926001664
+totalRevenue: 83112001536
+tradeable: false
+trailingAnnualDividendRate: 1.85
+trailingAnnualDividendYield: 0.021571828
+trailingEps: 7.09
+trailingPE: 12.0782795
+trailingPegRatio: 1.3275
+triggerable: true
+twoHundredDayAverage: 83.5125
+twoHundredDayAverageChange: 2.1225052
+twoHundredDayAverageChangePercent: 0.02541542
+typeDisp: Equity
+volume: 1317213
+website: https://www.wellsfargo.com
+zip: '94105'

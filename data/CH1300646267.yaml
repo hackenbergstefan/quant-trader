@@ -1,0 +1,284 @@
+52WeekChange: 0.0323987
+SandP52WeekChange: 0.097798586
+address1: 1391 Timberlake Manor Parkway
+allTimeHigh: 135.0
+allTimeLow: 15.05
+ask: 99.47
+askSize: 100
+auditRisk: 3
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 2217850
+averageDailyVolume3Month: 1716931
+averageVolume: 1716931
+averageVolume10days: 2217850
+beta: 0.678
+bid: 99.4
+bidSize: 200
+boardRisk: 4
+bookValue: 84.812
+city: Chesterfield
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory A. Heckman
+  title: CEO & Director
+  totalPay: 6177757
+  unexercisedValue: 38187600
+  yearBorn: 1962
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John W. Neppl CPA
+  title: Executive VP & CFO
+  totalPay: 2537060
+  unexercisedValue: 1690680
+  yearBorn: 1966
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Julio  Garros
+  title: Chief Operating Officer
+  totalPay: 4459394
+  unexercisedValue: 653826
+  yearBorn: 1976
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jerry Matthews Simmons Jr.
+  title: Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark  Haden
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kellie  Sears
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pierre  Mauger
+  title: Chief Transformation Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert  Wagner
+  title: Chief Risk Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rajat  Gupta C.F.A.
+  title: Treasurer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Lisa  Ware-Alexander
+  title: VP, Deputy General Counsel & Corporate Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions:
+- header: Dividend
+  message: BG announced a cash dividend of $0.72 with an ex-date of Nov. 17, 2026
+  meta:
+    amount: '0.72'
+    dateEpochMs: 1794891600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 99.41
+currentRatio: 1.503
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 100.1
+dayLow: 99.235
+debtToEquity: 104.737
+displayName: Bunge Global
+dividendDate: 1803945600
+dividendRate: 2.88
+dividendYield: 2.9
+earningsCallTimestampEnd: 1793275200
+earningsCallTimestampStart: 1793275200
+earningsGrowth: 0.947
+earningsQuarterlyGrowth: 0.916
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 3471000064
+ebitdaMargins: 0.03714
+enterpriseToEbitda: 11.099
+enterpriseToRevenue: 0.412
+enterpriseValue: 38523936768
+epsCurrentYear: 9.43928
+epsForward: 11.02319
+epsTrailingTwelveMonths: 5.82
+esgPopulated: false
+exDividendDate: 1794873600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 108.468
+fiftyDayAverageChange: -9.057999
+fiftyDayAverageChangePercent: -0.083508484
+fiftyTwoWeekChangePercent: 3.23987
+fiftyTwoWeekHigh: 134.87
+fiftyTwoWeekHighChange: -35.45999
+fiftyTwoWeekHighChangePercent: -0.26291978
+fiftyTwoWeekLow: 88.24
+fiftyTwoWeekLowChange: 11.170006
+fiftyTwoWeekLowChangePercent: 0.12658665
+fiftyTwoWeekRange: 88.24 - 134.87
+financialCurrency: USD
+firstTradeDateMilliseconds: 996759000000
+fiveYearAvgDividendYield: 2.55
+floatShares: 157609782
+forwardEps: 11.02319
+forwardPE: 9.018261
+freeCashflow: -3016875008
+fullExchangeName: NYSE
+fullTimeEmployees: 34000
+fulldayChange: -0.009994507
+fulldayChangePercent: -0.010052813
+fulldayPrice: 99.41
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.052059997
+grossProfits: 4865999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.18367
+heldPercentInstitutions: 0.81024003
+impliedSharesOutstanding: 192143784
+industry: Farm Products
+industryDisp: Farm Products
+industryKey: farm-products
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787011200
+lastDividendValue: 0.72
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Bunge Global SA operates as an agribusiness and food company
+  worldwide. It operates through four segments: Soybean Processing and Refining, Softseed
+  Processing and Refining, Other Oilseeds Processing and Refining, and Grain Merchandising
+  and Milling. The Soybean Processing and Refining segment is involved in the purchase,
+  storage, transportation, processing, distribution, refining, marketing, and sale
+  of soybeans and soybean related products, as well as biodiesel and fertilizer production
+  and distribution for the food, animal feed and biofuel industries. The Softseed
+  Processing and Refining segment is involved in the purchase, storage, transportation,
+  processing, distribution, refining, marketing, and sale of softseeds and softseed
+  related products, as well as biodiesel production and distribution. The Other Oilseeds
+  Processing and Refining Segment is involved in products of a specialty nature, including
+  the purchase, storage, transportation, processing, distribution, refining, marketing,
+  and sale of these related products. The Grain Merchandising and Milling segment
+  is involved in the purchase, storage, transportation, distribution, and marketing
+  of commodities primarily consisting of corn, wheat, barley, cotton, pulses, and
+  sugar; milling of wheat and sugar; and related services including ocean freight
+  and financial services. Bunge Global SA was founded in 1818 and is headquartered
+  in Chesterfield, Missouri.'
+longName: Bunge Global SA
+market: us_market
+marketCap: 19101014016
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_687261
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1159000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 19102935005
+numberOfAnalystOpinions: 9
+open: 99.93
+operatingCashflow: -955000000
+operatingMargins: 0.02678
+overallRisk: 5
+payoutRatio: 0.488
+pegRatio: 1.37
+phone: (314) 292-2000
+prevName: Bunge Limited
+previousClose: 99.42
+priceEpsCurrentYear: 10.531525
+priceHint: 2
+priceToBook: 1.172122
+priceToSalesTrailing12Months: 0.20435886
+profitMargins: 0.0124
+quickRatio: 0.302
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.55556
+region: US
+regularMarketChange: -0.009994507
+regularMarketChangePercent: -0.010052813
+regularMarketDayHigh: 100.1
+regularMarketDayLow: 99.235
+regularMarketDayRange: 99.235 - 100.1
+regularMarketOpen: 99.93
+regularMarketPreviousClose: 99.42
+regularMarketPrice: 99.41
+regularMarketTime: 1794413560
+regularMarketVolume: 216929
+returnOnAssets: 0.03261
+returnOnEquity: 0.0692
+revenueGrowth: 0.074
+revenuePerShare: 483.371
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 6
+sharesOutstanding: 192143784
+sharesPercentSharesOut: 0.0405
+sharesShort: 7775517
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7762835
+shortName: Bunge Limited
+shortPercentOfFloat: 0.0589
+shortRatio: 5.1
+sourceInterval: 15
+state: MO
+symbol: BG
+targetHighPrice: 155.0
+targetLowPrice: 116.0
+targetMeanPrice: 139.22221
+targetMedianPrice: 140.0
+totalCash: 890000000
+totalCashPerShare: 4.632
+totalDebt: 18727000064
+totalRevenue: 93468000256
+tradeable: false
+trailingAnnualDividendRate: 2.86
+trailingAnnualDividendYield: 0.028766846
+trailingEps: 5.82
+trailingPE: 17.080755
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 116.6985
+twoHundredDayAverageChange: -17.288498
+twoHundredDayAverageChangePercent: -0.1481467
+typeDisp: Equity
+volume: 216929
+website: https://www.bunge.com
+zip: '63017'

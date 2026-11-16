@@ -1,0 +1,272 @@
+52WeekChange: 0.40360355
+SandP52WeekChange: 0.097798586
+address1: Wiesenstrasse 8
+address2: PO Box 888
+allTimeHigh: 92.65
+allTimeLow: 41.0
+ask: 78.6
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 100113
+averageDailyVolume3Month: 79391
+averageVolume: 79391
+averageVolume10days: 100113
+beta: 0.424
+bid: 78.4
+bidSize: 0
+boardRisk: 2
+bookValue: 26.33
+city: Zurich
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan P. Butz
+  title: Chief Executive Officer
+  totalPay: 2560000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ido  Wallach
+  title: VP of Group Controlling & CFO
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hanno  Elbraechter
+  title: Head of Business Unit Technology
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sae Ung Oh
+  title: Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Till  Leisner
+  title: Head of Group Investor & Media Relations
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jasprit  Sahnsi
+  title: General Counsel
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Antoine  Mangin
+  title: Chief Human Resource Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Natale  Capri
+  title: Head of the Business Unit Performance Materials
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Ritchie
+  title: Head of Business Unit Consumer Goods
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Delia  Sun
+  title: Head Supply Chain Management
+  unexercisedValue: 0
+  yearBorn: 1978
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 78.4
+currentRatio: 1.38
+customPriceAlertConfidence: LOW
+dayHigh: 78.6
+dayLow: 77.9
+debtToEquity: 43.009
+dividendDate: 1743552000
+dividendRate: 2.5
+dividendYield: 3.21
+earningsCallTimestampEnd: 1784275200
+earningsCallTimestampStart: 1784275200
+earningsGrowth: 0.177
+earningsQuarterlyGrowth: 0.101
+earningsTimestampEnd: 1771345800
+earningsTimestampStart: 1771345800
+ebitda: 368800000
+ebitdaMargins: 0.03341
+enterpriseToEbitda: 14.603
+enterpriseToRevenue: 0.488
+enterpriseValue: 5385522688
+epsCurrentYear: 3.6393
+epsForward: 3.97606
+epsTrailingTwelveMonths: 3.26
+esgPopulated: false
+exDividendDate: 1774915200
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 71.008
+fiftyDayAverageChange: 7.3919983
+fiftyDayAverageChangePercent: 0.10410092
+fiftyTwoWeekChangePercent: 40.360355
+fiftyTwoWeekHigh: 78.6
+fiftyTwoWeekHighChange: -0.19999695
+fiftyTwoWeekHighChangePercent: -0.0025444904
+fiftyTwoWeekLow: 52.9
+fiftyTwoWeekLowChange: 25.5
+fiftyTwoWeekLowChangePercent: 0.48204157
+fiftyTwoWeekRange: 52.9 - 78.6
+financialCurrency: CHF
+firstTradeDateMilliseconds: 1332230400000
+fiveYearAvgDividendYield: 3.29
+floatShares: 35442098
+forwardEps: 3.97606
+forwardPE: 19.718014
+freeCashflow: 237300000
+fullExchangeName: Swiss
+fullTimeEmployees: 24942
+fulldayChange: 0.5
+fulldayChangePercent: 0.6418485
+fulldayPrice: 78.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.07873
+grossProfits: 869200000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.45376
+heldPercentInstitutions: 0.34085
+impliedSharesOutstanding: 65034953
+industry: Consulting Services
+industryDisp: Consulting Services
+industryKey: consulting-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1774915200
+lastDividendValue: 2.5
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'DKSH Holding AG provides various market expansion services in
+  Thailand, Greater China, Malaysia, Singapore, rest of the Asia Pacific, and internationally.
+  The company offers sourcing, market insights, marketing, sales, e-Commerce, distribution,
+  logistics, and after sales services. It operates through four segments: Healthcare,
+  Consumer Goods, Performance Materials, and Technology. The Healthcare segment provides
+  various services, such as registration, regulatory, market entry studies, importation,
+  customs clearance, marketing and sales, physical distribution, invoicing, and cash
+  collection services for pharmaceuticals, consumer health, and over-the-counter health
+  products, as well as medical devices. The Consumer Goods segment offers a range
+  of services, including product feasibility studies, registration, importation, customs
+  clearance, marketing and merchandising, sales, warehousing, physical distribution,
+  invoicing, cash collection, and after-sales services for fast moving consumer goods,
+  food services, luxury goods, and lifestyle products, as well as hair and skin cosmetics.
+  The Performance Materials segment sources, markets, and distributes a range of specialty
+  chemicals and ingredients for the pharmaceutical, personal care, food and beverage,
+  and industrial applications, as well as provides market expansion services for performance
+  materials. The Technology segment offers market expansion services comprising a
+  range of capital investment goods and analytical instruments in the areas of infrastructure,
+  industrial materials and supplies, precision and textile machinery, semiconductors,
+  photovoltaic and electronics, agriculture, and hospitality, as well as specialized
+  industrial applications. The company was founded in 1865 and is based in Zurich,
+  Switzerland.'
+longName: DKSH Holding AG
+market: ch_market
+marketCap: 5098740224
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_775375
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 212200000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5066222838
+numberOfAnalystOpinions: 8
+open: 78.0
+operatingCashflow: 339300000
+operatingMargins: 0.02898
+overallRisk: 1
+payoutRatio: 0.7669
+phone: 41 44 386 7272
+previousClose: 77.9
+priceEpsCurrentYear: 21.542604
+priceHint: 2
+priceToBook: 2.9775922
+priceToSalesTrailing12Months: 0.46184662
+profitMargins: 0.01922
+quickRatio: 0.918
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.625
+region: US
+regularMarketChange: 0.5
+regularMarketChangePercent: 0.6418485
+regularMarketDayHigh: 78.6
+regularMarketDayLow: 77.9
+regularMarketDayRange: 77.9 - 78.6
+regularMarketOpen: 78.0
+regularMarketPreviousClose: 77.9
+regularMarketPrice: 78.4
+regularMarketTime: 1794411452
+regularMarketVolume: 20983
+returnOnAssets: 0.03656
+returnOnEquity: 0.12630999
+revenueGrowth: -0.009
+revenuePerShare: 176.095
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 65034953
+shortName: DKSH N
+sourceInterval: 15
+symbol: DKSH.SW
+targetHighPrice: 83.0
+targetLowPrice: 70.0
+targetMeanPrice: 77.5
+targetMedianPrice: 78.5
+totalCash: 503700000
+totalCashPerShare: 7.745
+totalDebt: 762499968
+totalRevenue: 11039899648
+tradeable: false
+trailingAnnualDividendRate: 2.5
+trailingAnnualDividendYield: 0.032092426
+trailingEps: 3.26
+trailingPE: 24.04908
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 64.419
+twoHundredDayAverageChange: 13.981003
+twoHundredDayAverageChangePercent: 0.21703228
+typeDisp: Equity
+volume: 20983
+website: https://www.dksh.com
+zip: '8034'

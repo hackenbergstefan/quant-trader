@@ -1,0 +1,280 @@
+52WeekChange: 0.14389086
+SandP52WeekChange: 0.097798586
+address1: 751 Broad Street
+allTimeHigh: 130.55
+allTimeLow: 10.63
+ask: 122.17
+askSize: 100
+auditRisk: 2
+averageAnalystRating: 3.4 - Hold
+averageDailyVolume10Day: 2126130
+averageDailyVolume3Month: 1674484
+averageVolume: 1674484
+averageVolume10days: 2126130
+beta: 0.828
+bid: 122.06
+bidSize: 400
+boardRisk: 4
+bookValue: 85.901
+city: Newark
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew Francis Sullivan
+  title: Chairman, CEO & President
+  totalPay: 6220845
+  unexercisedValue: 32052
+  yearBorn: 1971
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Yanela del Carmen Frias
+  title: Executive VP & CFO
+  totalPay: 2585871
+  unexercisedValue: 67053
+  yearBorn: 1972
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott E. Case
+  title: Executive VP & Head of Global Technology and Operations
+  totalPay: 2489929
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jacques Philppe Chappuis
+  title: President & CEO of PGIM Inc.
+  totalPay: 13960166
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew J. Armas
+  title: Senior VP & Chief Investment Officer
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert Edwin Boyle
+  title: Senior VP, Controller & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tina  Madon
+  title: Global Head of Investor Relations
+  unexercisedValue: 0
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ann Mary Kappler
+  title: Executive VP, General Counsel & Head of Corporate Affairs
+  unexercisedValue: 0
+  yearBorn: 1958
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Todd  Shriber
+  title: Vice President of Life Distribution and Sales
+  unexercisedValue: 0
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Vicki A. Walia
+  title: Executive VP & Chief People and Experience Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 122.63
+currentRatio: 0.804
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 123.505
+dayLow: 121.9
+debtToEquity: 175.896
+displayName: Prudential Financial
+dividendDate: 1788998400
+dividendRate: 5.6
+dividendYield: 4.54
+earningsCallTimestampEnd: 1793808000
+earningsCallTimestampStart: 1793808000
+earningsGrowth: -0.012
+earningsQuarterlyGrowth: -0.03
+earningsTimestamp: 1793739600
+earningsTimestampEnd: 1801602000
+earningsTimestampStart: 1801602000
+ebitda: 5280999936
+ebitdaMargins: 0.08545999
+enterpriseToEbitda: 11.606
+enterpriseToRevenue: 0.992
+enterpriseValue: 61289897984
+epsCurrentYear: 13.719
+epsForward: 13.79237
+epsTrailingTwelveMonths: 10.98
+esgPopulated: false
+exDividendDate: 1787616000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 117.1492
+fiftyDayAverageChange: 5.480797
+fiftyDayAverageChangePercent: 0.046784755
+fiftyTwoWeekChangePercent: 14.389086
+fiftyTwoWeekHigh: 128.78
+fiftyTwoWeekHighChange: -6.1500015
+fiftyTwoWeekHighChangePercent: -0.047755875
+fiftyTwoWeekLow: 91.89
+fiftyTwoWeekLowChange: 30.739998
+fiftyTwoWeekLowChangePercent: 0.33453038
+fiftyTwoWeekRange: 91.89 - 128.78
+financialCurrency: USD
+firstTradeDateMilliseconds: 1008253800000
+fiveYearAvgDividendYield: 4.78
+floatShares: 341898970
+forwardEps: 13.79237
+forwardPE: 8.891148
+freeCashflow: 7136249856
+fullExchangeName: NYSE
+fullTimeEmployees: 36607
+fulldayChange: -0.6700058
+fulldayChangePercent: -0.5433948
+fulldayPrice: 122.63
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.29839
+grossProfits: 18439000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00184
+heldPercentInstitutions: 0.65822
+impliedSharesOutstanding: 343000000
+industry: Insurance - Life
+industryDisp: Insurance - Life
+industryKey: insurance-life
+irWebsite: http://www.investor.prudential.com/phoenix.zhtml?c=129695&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1787616000
+lastDividendValue: 1.4
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Prudential Financial, Inc., together with its subsidiaries, provides
+  financial products and services in the United States, Japan and internationally.
+  It operates through PGIM, Retirement Strategies, Group Insurance, Individual Life,
+  and International Businesses segments. The PGIM segment offers investment management
+  services and solutions related to public fixed income, public equity, real estate
+  debt and equity, private credit and other alternatives, and multi-asset class strategies
+  to institutional and retail clients, as well as its insurance and retirement businesses.
+  The Retirement Strategies segment provides a range of retirement investment, and
+  income products and services to retirement plan sponsors in the public, private,
+  and not-for-profit sectors; group annuities and other products; international reinsurance;
+  investment only products; and FlexGuard suite, Fixed annuities, and variable annuities,
+  as well as develops and distributes individual variable and fixed annuity products.
+  The Group Insurance segment offers various group life, and long-term and short-term
+  group disability, as well as group corporate-, bank-, and trust-owned life insurance;
+  and supplemental health solutions including accident, critical illness, and hospital
+  indemnity. The Individual Life segment develops and distributes variable life, universal
+  life, and term life insurance products. The International Businesses segment develops
+  and distributes life insurance, retirement products, investment products, and certain
+  accident and health products. The company provides its products and services to
+  individual and institutional customers through its proprietary and third-party distribution
+  networks, financial professionals, and trusted partnerships. Prudential Financial,
+  Inc. was founded in 1875 and is headquartered in Newark, New Jersey.
+longName: Prudential Financial, Inc.
+market: us_market
+marketCap: 42062090240
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1038328
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3827000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 42291900000
+numberOfAnalystOpinions: 15
+open: 123.22
+operatingCashflow: 10606000128
+operatingMargins: 0.0847
+overallRisk: 1
+payoutRatio: 0.5055
+pegRatio: 0.9
+phone: 973 802 6000
+previousClose: 123.3
+priceEpsCurrentYear: 8.938698
+priceHint: 2
+priceToBook: 1.4275736
+priceToSalesTrailing12Months: 0.6806824
+profitMargins: 0.06271
+quickRatio: 0.717
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.44444
+region: US
+regularMarketChange: -0.6700058
+regularMarketChangePercent: -0.5433948
+regularMarketDayHigh: 123.505
+regularMarketDayLow: 121.9
+regularMarketDayRange: 121.9 - 123.505
+regularMarketOpen: 123.22
+regularMarketPreviousClose: 123.3
+regularMarketPrice: 122.63
+regularMarketTime: 1794413703
+regularMarketVolume: 184057
+returnOnAssets: 0.00423
+returnOnEquity: 0.118549995
+revenueGrowth: -0.192
+revenuePerShare: 178.158
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 343000000
+sharesPercentSharesOut: 0.039300002
+sharesShort: 13489785
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 14977483
+shortName: Prudential Financial, Inc.
+shortPercentOfFloat: 0.044899996
+shortRatio: 8.02
+sourceInterval: 15
+state: NJ
+symbol: PRU
+targetHighPrice: 136.0
+targetLowPrice: 92.0
+targetMeanPrice: 112.06667
+targetMedianPrice: 111.0
+totalCash: 41057001472
+totalCashPerShare: 119.7
+totalDebt: 57102999552
+totalRevenue: 61794000896
+tradeable: false
+trailingAnnualDividendRate: 5.55
+trailingAnnualDividendYield: 0.045012165
+trailingEps: 10.98
+trailingPE: 11.1684885
+trailingPegRatio: 0.9
+triggerable: true
+twoHundredDayAverage: 109.00325
+twoHundredDayAverageChange: 13.626747
+twoHundredDayAverageChangePercent: 0.12501231
+typeDisp: Equity
+volume: 184057
+website: https://www.prudential.com
+zip: '07102'

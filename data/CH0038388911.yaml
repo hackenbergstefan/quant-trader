@@ -1,0 +1,257 @@
+52WeekChange: 0.3479228
+SandP52WeekChange: 0.097798586
+address1: Neuwiesenstrasse 15
+allTimeHigh: 192.4
+allTimeLow: 13.25
+ask: 184.7
+askSize: 0
+auditRisk: 7
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 36820
+averageDailyVolume3Month: 39555
+averageVolume: 39555
+averageVolume10days: 36820
+beta: 0.823
+bid: 184.4
+bidSize: 0
+boardRisk: 5
+bookValue: 38.777
+city: Winterthur
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Suzanne  Thoma Ph.D.
+  title: Executive Chair & CEO
+  totalPay: 3278000
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Zickler
+  title: Group Treasurer & CFO
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Louise  Graffner
+  title: Group Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marcel  Reinhard
+  title: General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marlene  Betschart
+  title: Head of Corporate Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Haining  Auperin
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tim  Schulten
+  title: Division President of Chemtech
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael R. Schüepp
+  title: Head of Ventures
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Emmanuel  Rapendy
+  title: Global Business Unit Head Polymer & Crystallization
+  unexercisedValue: 0
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ravin Pillay Ramsamy
+  title: Division President of Services
+  unexercisedValue: 0
+  yearBorn: 1982
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 184.5
+currentRatio: 1.298
+customPriceAlertConfidence: LOW
+dayHigh: 186.4
+dayLow: 183.2
+debtToEquity: 90.64
+dividendDate: 1745884800
+dividendRate: 4.75
+dividendYield: 2.61
+earningsCallTimestampEnd: 1785225600
+earningsCallTimestampStart: 1785225600
+earningsGrowth: 0.083
+earningsQuarterlyGrowth: 0.081
+earningsTimestampEnd: 1772123400
+earningsTimestampStart: 1772123400
+ebitda: 523500000
+ebitdaMargins: 0.15025
+enterpriseToEbitda: 12.461
+enterpriseToRevenue: 1.872
+enterpriseValue: 6523460608
+epsCurrentYear: 10.11704
+epsForward: 10.94302
+epsTrailingTwelveMonths: 8.88
+esgPopulated: false
+exDividendDate: 1776384000
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 41 52 262 31 00
+fiftyDayAverage: 164.074
+fiftyDayAverageChange: 20.425995
+fiftyDayAverageChangePercent: 0.12449257
+fiftyTwoWeekChangePercent: 34.792282
+fiftyTwoWeekHigh: 188.0
+fiftyTwoWeekHighChange: -3.5
+fiftyTwoWeekHighChangePercent: -0.01861702
+fiftyTwoWeekLow: 128.8
+fiftyTwoWeekLowChange: 55.699997
+fiftyTwoWeekLowChangePercent: 0.4324534
+fiftyTwoWeekRange: 128.8 - 188.0
+financialCurrency: CHF
+firstTradeDateMilliseconds: 796892400000
+fiveYearAvgDividendYield: 3.51
+floatShares: 17106648
+forwardEps: 10.94302
+forwardPE: 16.860064
+freeCashflow: 67462496
+fullExchangeName: Swiss
+fullTimeEmployees: 13311
+fulldayChange: 2.800003
+fulldayChangePercent: 1.5410033
+fulldayPrice: 184.5
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.35051
+grossProfits: 1221200000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.48977003
+heldPercentInstitutions: 0.27184
+impliedSharesOutstanding: 33857790
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776384000
+lastDividendValue: 4.75
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1208131200
+lastSplitFactor: '10:1'
+longBusinessSummary: Sulzer AG develops and sells products and services for fluid
+  engineering and chemical processing applications worldwide. It operates through
+  Flow, Services, and Chemtech divisions. The Flow division provides pumps, agitators,
+  compressors, grinders, screens, and filters for water, oil and gas, power, chemicals,
+  and industrial. Its Services division offers parts, as well as maintenance and repair
+  solutions for pumps, turbines, compressors, motors, and generators. This division
+  services its original equipment, as well as associated third-party rotating equipment.
+  The Chemtech division provides mass transfer, static mixing, and polymer solutions
+  for chemicals, petrochemicals, refining, and LNG. It also offers ecological solutions,
+  such as bio-based chemicals, polymers and fuels, and recycling technologies for
+  plastic, as well as carbon capture and utilization / storage. The company was founded
+  in 1834 and is headquartered in Winterthur, Switzerland.
+longName: Sulzer AG
+market: ch_market
+marketCap: 6246762496
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_875059
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 303100000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 6151960443
+numberOfAnalystOpinions: 5
+open: 183.2
+operatingCashflow: 280300000
+operatingMargins: 0.12749
+overallRisk: 3
+payoutRatio: 0.5349
+pegRatio: 2.0
+phone: 41 52 262 30 00
+prevName: Sulzer Ltd
+previousClose: 181.7
+priceEpsCurrentYear: 18.23656
+priceHint: 2
+priceToBook: 4.757975
+priceToSalesTrailing12Months: 1.7929343
+profitMargins: 0.087
+quickRatio: 1.008
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.66667
+region: US
+regularMarketChange: 2.800003
+regularMarketChangePercent: 1.5410033
+regularMarketDayHigh: 186.4
+regularMarketDayLow: 183.2
+regularMarketDayRange: 183.2 - 186.4
+regularMarketOpen: 183.2
+regularMarketPreviousClose: 181.7
+regularMarketPrice: 184.5
+regularMarketTime: 1794411381
+regularMarketVolume: 10919
+returnOnAssets: 0.06021
+returnOnEquity: 0.24714
+revenueGrowth: -0.041
+revenuePerShare: 103.179
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 33857790
+shortName: SULZER N
+sourceInterval: 15
+symbol: SUN.SW
+targetHighPrice: 225.0
+targetLowPrice: 130.0
+targetMeanPrice: 190.2
+targetMedianPrice: 196.0
+totalCash: 843299968
+totalCashPerShare: 24.907
+totalDebt: 1201799936
+totalRevenue: 3484100096
+tradeable: false
+trailingAnnualDividendRate: 4.75
+trailingAnnualDividendYield: 0.026141992
+trailingEps: 8.88
+trailingPE: 20.777027
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 156.89
+twoHundredDayAverageChange: 27.61
+twoHundredDayAverageChangePercent: 0.17598318
+typeDisp: Equity
+volume: 10919
+website: https://www.sulzer.com
+zip: '8401'

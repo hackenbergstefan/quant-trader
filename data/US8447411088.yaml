@@ -1,0 +1,275 @@
+52WeekChange: 0.38932216
+SandP52WeekChange: 0.097798586
+address1: P.O. Box 36611
+allTimeHigh: 66.99
+allTimeLow: 0.163877
+ask: 46.26
+askSize: 200
+auditRisk: 7
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 6265900
+averageDailyVolume3Month: 5884942
+averageVolume: 5884942
+averageVolume10days: 6265900
+beta: 1.219
+bid: 46.26
+bidSize: 200
+boardRisk: 9
+bookValue: 14.969
+city: Dallas
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Robert E. Jordan
+  title: President, CEO & Vice Chairman of the Board
+  totalPay: 3512810
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Tom  Doxey
+  title: Executive VP & CFO
+  totalPay: 1884999
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Andrew M. Watterson
+  title: Chief Operating Officer
+  totalPay: 2212158
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Justin  Jones
+  title: Executive VP & Chief Commercial Officer
+  totalPay: 1559483
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Anthony  Roach
+  title: Executive VP and Chief Customer & Brand Officer
+  totalPay: 1281441
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. J. Ryan Martinez
+  title: Principal Accounting Officer, Senior VP of Finance & Controller
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Thomas  Merritt
+  title: "VP of Technology \x96 Infrastructure & Services and CTO"
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Ms. Lauren  Woods
+  title: Executive Vice President & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Ms. Danielle  Collins
+  title: Managing Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Jeff  Novota
+  title: Senior VP, Chief Legal Officer & Corporate Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1483142400
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 46.325
+currentRatio: 0.474
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 46.46
+dayLow: 45.759
+debtToEquity: 93.751
+displayName: Southwest Airlines
+dividendDate: 1790208000
+dividendRate: 0.72
+dividendYield: 1.55
+earningsCallTimestampEnd: 1792677600
+earningsCallTimestampStart: 1792677600
+earningsGrowth: 4.5
+earningsQuarterlyGrowth: 4.0
+earningsTimestamp: 1801083600
+earningsTimestampEnd: 1801083600
+earningsTimestampStart: 1801083600
+ebitda: 2684999936
+ebitdaMargins: 0.085109994
+enterpriseToEbitda: 9.656
+enterpriseToRevenue: 0.822
+enterpriseValue: 25925382144
+epsCurrentYear: 2.75558
+epsForward: 4.17076
+epsTrailingTwelveMonths: 2.05
+esgPopulated: false
+exDividendDate: 1788393600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 41.4412
+fiftyDayAverageChange: 4.8838005
+fiftyDayAverageChangePercent: 0.11784892
+fiftyTwoWeekChangePercent: 38.932217
+fiftyTwoWeekHigh: 55.11
+fiftyTwoWeekHighChange: -8.785
+fiftyTwoWeekHighChangePercent: -0.15940845
+fiftyTwoWeekLow: 31.15
+fiftyTwoWeekLowChange: 15.175001
+fiftyTwoWeekLowChangePercent: 0.48715895
+fiftyTwoWeekRange: 31.15 - 55.11
+financialCurrency: USD
+firstTradeDateMilliseconds: 315671400000
+fiveYearAvgDividendYield: 0.91
+floatShares: 484520307
+forwardEps: 4.17076
+forwardPE: 11.107088
+freeCashflow: -612875008
+fullExchangeName: NYSE
+fullTimeEmployees: 73092
+fulldayChange: 0.005001068
+fulldayChangePercent: 0.010796779
+fulldayPrice: 46.325
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.22142
+grossProfits: 6984999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.010089999
+heldPercentInstitutions: 0.95258003
+impliedSharesOutstanding: 489476366
+industry: Airlines
+industryDisp: Airlines
+industryKey: airlines
+irWebsite: http://southwest.investorroom.com/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788393600
+lastDividendValue: 0.18
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 982281600
+lastSplitFactor: '3:2'
+longBusinessSummary: Southwest Airlines Co. operates as a passenger airline company
+  that provides scheduled air transportation services in the United States and internationally.
+  It also provides Rapid Rewards loyalty program; SWABIZ, an online booking tool;
+  and inflight entertainment platform that includes movies-on-demand live and on-demand
+  television, flight tracker, and additional curated content, as well as a variety
+  of premium snacks and coffee. In addition, the company offers ancillary services,
+  such as in-flight purchases, baggage fees, EarlyBird Check-In, and upgraded boarding,
+  as well as transportation of pets and unaccompanied minors. As of December 31, 2025,
+  the company operated a total fleet of 803 Boeing 737 aircraft; and served 117 destinations
+  in 42 states, the District of Columbia, and the Commonwealth of Puerto Rico, as
+  well as ten near-international countries, including Mexico, Jamaica, the Bahamas,
+  Aruba, the Dominican Republic, Costa Rica, Belize, Cuba, the Cayman Islands, and
+  Turks and Caicos. Southwest Airlines Co. was incorporated in 1967 and is headquartered
+  in Dallas, Texas.
+longName: Southwest Airlines Co.
+market: us_market
+marketCap: 22674993152
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_31726
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1053000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 22672545273
+numberOfAnalystOpinions: 24
+open: 45.93
+operatingCashflow: 2755000064
+operatingMargins: 0.04546
+overallRisk: 4
+payoutRatio: 0.35119998
+pegRatio: 0.22
+phone: 214 792 4000
+previousClose: 46.32
+priceEpsCurrentYear: 16.811344
+priceHint: 2
+priceToBook: 3.0947292
+priceToSalesTrailing12Months: 0.7187914
+profitMargins: 0.03338
+quickRatio: 0.359
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.46154
+region: US
+regularMarketChange: 0.005001068
+regularMarketChangePercent: 0.010796779
+regularMarketDayHigh: 46.46
+regularMarketDayLow: 45.759
+regularMarketDayRange: 45.759 - 46.46
+regularMarketOpen: 45.93
+regularMarketPreviousClose: 46.32
+regularMarketPrice: 46.325
+regularMarketTime: 1794413746
+regularMarketVolume: 692546
+returnOnAssets: 0.03046
+returnOnEquity: 0.13942
+revenueGrowth: 0.212
+revenuePerShare: 63.345
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 489476366
+sharesPercentSharesOut: 0.050300002
+sharesShort: 24628477
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 24543297
+shortName: Southwest Airlines Company
+shortPercentOfFloat: 0.0665
+shortRatio: 3.77
+sourceInterval: 15
+state: TX
+symbol: LUV
+targetHighPrice: 65.0
+targetLowPrice: 34.0
+targetMeanPrice: 50.0125
+targetMedianPrice: 50.0
+totalCash: 3624000000
+totalCashPerShare: 7.402
+totalDebt: 6871000064
+totalRevenue: 31545999360
+tradeable: false
+trailingAnnualDividendRate: 0.72
+trailingAnnualDividendYield: 0.015544042
+trailingEps: 2.05
+trailingPE: 22.597563
+trailingPegRatio: 0.2151
+triggerable: true
+twoHundredDayAverage: 43.539
+twoHundredDayAverageChange: 2.7859993
+twoHundredDayAverageChangePercent: 0.06398859
+typeDisp: Equity
+volume: 692546
+website: https://www.southwest.com
+zip: 75235-1611

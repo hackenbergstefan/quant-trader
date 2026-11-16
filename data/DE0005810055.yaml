@@ -1,0 +1,266 @@
+52WeekChange: 0.5327282
+SandP52WeekChange: 0.097798586
+address1: The Cube
+address2: Mergenthalerallee 61
+allTimeHigh: 329.1
+allTimeLow: 2.977
+ask: 325.9
+askSize: 142
+auditRisk: 9
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 400596
+averageDailyVolume3Month: 331854
+averageVolume: 331854
+averageVolume10days: 400596
+beta: 0.272
+bid: 325.8
+bidSize: 35
+boardRisk: 2
+bookValue: 61.104
+city: Eschborn
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Stephan  Leithner Ph.D.
+  title: CEO, MD & Chairman of the Executive Board
+  totalPay: 4230000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jens  Schulte
+  title: CFO & Member of Executive Board
+  totalPay: 2728576
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Thomas  Book Ph.D.
+  title: Member of Executive Board
+  totalPay: 1878000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Christoph  Bohm Ph.D.
+  title: Chief Information Officer, COO & Member of the Executive Board
+  totalPay: 2032000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Heike  Eckert
+  title: Director of Labor Relations & Member of Executive Board
+  totalPay: 2038000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Stephanie  Eckermann
+  title: Member of the Executive Board
+  totalPay: 2061000
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian Peter Kromann
+  title: Member of the Executive Board
+  totalPay: 2077000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria-Regina  Wohak
+  title: Employee Representative Member of Supervisory Board & Head of Index Services
+    Development
+  totalPay: 191000
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jan  Strecker
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc Peter Klein
+  title: Managing Director Group Compliance
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 325.8
+currentRatio: 1.013
+customPriceAlertConfidence: LOW
+dayHigh: 326.1
+dayLow: 319.3
+debtToEquity: 72.225
+dividendRate: 4.2
+dividendYield: 1.33
+earningsCallTimestampEnd: 1792584000
+earningsCallTimestampStart: 1792584000
+earningsGrowth: 0.198
+earningsQuarterlyGrowth: 0.182
+earningsTimestamp: 1792510200
+earningsTimestampEnd: 1792510200
+earningsTimestampStart: 1792510200
+ebitda: 3476999936
+ebitdaMargins: 0.43273
+epsCurrentYear: 12.88947
+epsForward: 13.70162
+epsTrailingTwelveMonths: 12.34
+esgPopulated: false
+exDividendDate: 1778716800
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 69 21112005
+fiftyDayAverage: 296.288
+fiftyDayAverageChange: 29.511993
+fiftyDayAverageChangePercent: 0.09960577
+fiftyTwoWeekChangePercent: 53.27282
+fiftyTwoWeekHigh: 329.1
+fiftyTwoWeekHighChange: -3.3000183
+fiftyTwoWeekHighChangePercent: -0.010027403
+fiftyTwoWeekLow: 200.1
+fiftyTwoWeekLowChange: 125.69998
+fiftyTwoWeekLowChangePercent: 0.6281858
+fiftyTwoWeekRange: 200.1 - 329.1
+financialCurrency: EUR
+firstTradeDateMilliseconds: 981360000000
+fiveYearAvgDividendYield: 1.8
+floatShares: 180194594
+forwardEps: 13.70162
+forwardPE: 23.77821
+fullExchangeName: XETRA
+fullTimeEmployees: 15433
+fulldayChange: 5.0
+fulldayChangePercent: 1.5586035
+fulldayPrice: 325.8
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.8
+grossProfits: 6428000256
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.66749
+impliedSharesOutstanding: 178187660
+industry: Financial Data & Stock Exchanges
+industryDisp: Financial Data & Stock Exchanges
+industryKey: financial-data-stock-exchanges
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778716800
+lastDividendValue: 4.2
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 991353600
+lastSplitFactor: '10:1'
+longBusinessSummary: 'Deutsche Börse AG operates as an international exchange organization
+  in Germany, rest of Europe, the United States, and the Asia-Pacific. The company
+  operates through four segments: Investment Management Solutions, Trading & Clearing,
+  Fund Services, and Securities Services. The Investment Management Solutions segment
+  offers financial data, analytics, and software-as-a-service solutions including
+  research, data collection, data analysis, and the provision of indices, analytics
+  and investment management software to institutional investors, banks, and corporate
+  clients. The Trading & Clearing segment engages in the development and operation
+  of markets and trading systems for securities, derivatives, commodities, currencies,
+  digital assets, and other asset classes. This segment handles settlement of transactions
+  through clearing houses. Its Fund Services segment provides infrastructure and services
+  for fund processing, including order routing, settlement, custody, data and distribution
+  support for investment funds. The Securities Services segment offers various services
+  for securities issuance, settlement, custody as well as collateral, securities lending,
+  and liquidity management. The company was founded in 1585 and is headquartered in
+  Eschborn, Germany.'
+longName: Deutsche Börse AG
+market: de_market
+marketCap: 58053537792
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1497295
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2200999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 56129112900
+numberOfAnalystOpinions: 14
+open: 320.1
+operatingMargins: 0.41033
+overallRisk: 2
+payoutRatio: 0.3468
+pegRatio: 2.88
+phone: 49 69 2110
+previousClose: 320.8
+priceEpsCurrentYear: 25.276445
+priceHint: 2
+priceToBook: 5.331893
+priceToSalesTrailing12Months: 7.225083
+profitMargins: 0.27392998
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: 5.0
+regularMarketChangePercent: 1.5586035
+regularMarketDayHigh: 326.1
+regularMarketDayLow: 319.3
+regularMarketDayRange: 319.3 - 326.1
+regularMarketOpen: 320.1
+regularMarketPreviousClose: 320.8
+regularMarketPrice: 325.8
+regularMarketTime: 1794411545
+regularMarketVolume: 150719
+returnOnAssets: 0.00548
+returnOnEquity: 0.20336
+revenueGrowth: 0.162
+revenuePerShare: 44.287
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 178187660
+shortName: DEUTSCHE BOERSE AG            N
+sourceInterval: 15
+symbol: DB1.DE
+targetHighPrice: 347.0
+targetLowPrice: 252.0
+targetMeanPrice: 312.07144
+targetMedianPrice: 320.0
+totalDebt: 8242999808
+totalRevenue: 8034999808
+tradeable: false
+trailingAnnualDividendRate: 4.2
+trailingAnnualDividendYield: 0.013092269
+trailingEps: 12.34
+trailingPE: 26.401943
+trailingPegRatio: 2.8785
+triggerable: false
+twoHundredDayAverage: 262.1475
+twoHundredDayAverageChange: 63.652496
+twoHundredDayAverageChangePercent: 0.24281177
+typeDisp: Equity
+volume: 150719
+website: https://deutsche-boerse.com
+zip: '65760'

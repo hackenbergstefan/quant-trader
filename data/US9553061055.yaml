@@ -1,0 +1,286 @@
+52WeekChange: 0.50648165
+SandP52WeekChange: 0.097798586
+address1: 530 Herman O. West Drive
+allTimeHigh: 475.35
+allTimeLow: 0.6875
+ask: 414.06
+askSize: 40
+auditRisk: 10
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 980470
+averageDailyVolume3Month: 611520
+averageVolume: 611520
+averageVolume10days: 980470
+beta: 1.139
+bid: 413.94
+bidSize: 40
+boardRisk: 4
+bookValue: 42.524
+city: Exton
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert W. McMahon C.M.A.
+  title: Senior VP & CFO
+  totalPay: 4495619
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Annette F. Favorite
+  title: Chief HR Officer & Senior VP
+  totalPay: 927847
+  unexercisedValue: 5476501
+  yearBorn: 1965
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shane A. Campbell
+  title: SVP & Chief Proprietary Segment Officer
+  totalPay: 949834
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michel  Lagarde
+  title: President, CEO & Director
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chad R. Winters
+  title: VP of Finance & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Devesh  Mathur
+  title: Senior VP & CTO
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Norman D. Finch Jr.
+  title: Senior VP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Michele  Polinsky
+  title: Vice President of Global Communications
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rudy J. Poussot
+  title: Senior Vice President of Strategy & Corporate Development
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kathy  DePadua
+  title: Senior VP and Chief Quality & Regulatory Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions:
+- header: Dividend
+  message: WST announced a cash dividend of $0.26 with an ex-date of Nov. 10, 2026
+  meta:
+    amount: '0.26'
+    dateEpochMs: 1794286800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 414.382
+currentRatio: 2.819
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 415.85
+dayLow: 412.26
+debtToEquity: 10.575
+displayName: West Pharmaceutical Services
+dividendDate: 1794960000
+dividendRate: 1.04
+dividendYield: 0.25
+earningsCallTimestampEnd: 1793275200
+earningsCallTimestampStart: 1793275200
+earningsGrowth: 0.573
+earningsQuarterlyGrowth: 0.529
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 961299968
+ebitdaMargins: 0.28301
+enterpriseToEbitda: 29.739
+enterpriseToRevenue: 8.417
+enterpriseValue: 28588460032
+epsCurrentYear: 9.46158
+epsForward: 10.39347
+epsTrailingTwelveMonths: 8.91
+esgPopulated: false
+exDividendDate: 1794268800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 375.8444
+fiftyDayAverageChange: 38.537598
+fiftyDayAverageChangePercent: 0.102536045
+fiftyTwoWeekChangePercent: 50.648163
+fiftyTwoWeekHigh: 438.27
+fiftyTwoWeekHighChange: -23.888
+fiftyTwoWeekHighChangePercent: -0.054505218
+fiftyTwoWeekLow: 223.83
+fiftyTwoWeekLowChange: 190.55199
+fiftyTwoWeekLowChangePercent: 0.8513246
+fiftyTwoWeekRange: 223.83 - 438.27
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 0.25
+floatShares: 69134399
+forwardEps: 10.39347
+forwardPE: 39.869457
+freeCashflow: 345562496
+fullExchangeName: NYSE
+fullTimeEmployees: 10000
+fulldayChange: 1.8320007
+fulldayChangePercent: 0.44406757
+fulldayPrice: 414.382
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.37592
+grossProfits: 1276899968
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00662
+heldPercentInstitutions: 1.06996
+impliedSharesOutstanding: 69661036
+industry: Medical Instruments & Supplies
+industryDisp: Medical Instruments & Supplies
+industryKey: medical-instruments-supplies
+irWebsite: http://www.westpharma.com/en/Investors/Pages/default.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794268800
+lastDividendValue: 0.26
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1380240000
+lastSplitFactor: '2:1'
+longBusinessSummary: West Pharmaceutical Services, Inc. designs, manufactures, and
+  sells containment and delivery systems for injectable drugs and healthcare products
+  in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It operates
+  in two segments, Proprietary Products and Contract-Manufactured Products. The Proprietary
+  Products segment offers stoppers and seals for injectable packaging systems; syringe
+  and cartridge components, including custom solutions for the needs of injectable
+  drug applications, as well as administration systems that enhance the safe delivery
+  of drugs through advanced reconstitution, mixing, and transfer technologies; and
+  films, coatings, washing, and vision inspection and sterilization processes and
+  services to enhance the quality of packaging products. This segment also provides
+  drug containment solutions in the form of vials, syringes, and cartridges; and self-injection
+  devices; and a range of integrated solutions, including analytical lab services,
+  pre-approval primary packaging support and engineering development, regulatory expertise,
+  and after-sales technical support. This segment serves biologic, generic, and pharmaceutical
+  drug companies. The Contract-Manufactured Products segment is involved in the design,
+  manufacture, and automated assembly of devices used in surgical, diagnostic, ophthalmic,
+  injectable, and other drug delivery systems, as well as consumer products. This
+  segment primarily serves pharmaceutical, diagnostic, and medical device companies.
+  It sells and distributes its products through its sales force and distribution network,
+  contract sales agents, and regional distributors. West Pharmaceutical Services,
+  Inc. was founded in 1923 and is headquartered in Exton, Pennsylvania.
+longName: West Pharmaceutical Services, Inc.
+market: us_market
+marketCap: 28866279424
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_313784
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 638899968
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 28738660401
+numberOfAnalystOpinions: 15
+open: 414.19
+operatingCashflow: 654499968
+operatingMargins: 0.22875
+overallRisk: 6
+payoutRatio: 0.0988
+pegRatio: 3.0
+phone: 610 594 2900
+previousClose: 412.55
+priceEpsCurrentYear: 43.796276
+priceHint: 2
+priceToBook: 9.744662
+priceToSalesTrailing12Months: 8.498331
+profitMargins: 0.18809
+quickRatio: 1.905
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.375
+region: US
+regularMarketChange: 1.8320007
+regularMarketChangePercent: 0.44406757
+regularMarketDayHigh: 415.85
+regularMarketDayLow: 412.26
+regularMarketDayRange: 412.26 - 415.85
+regularMarketOpen: 414.19
+regularMarketPreviousClose: 412.55
+regularMarketPrice: 414.382
+regularMarketTime: 1794413742
+regularMarketVolume: 50239
+returnOnAssets: 0.11893
+returnOnEquity: 0.21226999
+revenueGrowth: 0.087
+revenuePerShare: 47.573
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 4
+sharesOutstanding: 69661036
+sharesPercentSharesOut: 0.025899999
+sharesShort: 1807517
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2101162
+shortName: West Pharmaceutical Services, I
+shortPercentOfFloat: 0.0304
+shortRatio: 2.91
+sourceInterval: 15
+state: PA
+symbol: WST
+targetHighPrice: 500.0
+targetLowPrice: 340.0
+targetMeanPrice: 471.0
+targetMedianPrice: 480.0
+totalCash: 464100000
+totalCashPerShare: 6.662
+totalDebt: 313900000
+totalRevenue: 3396699904
+tradeable: false
+trailingAnnualDividendRate: 0.88
+trailingAnnualDividendYield: 0.002133075
+trailingEps: 8.91
+trailingPE: 46.50752
+trailingPegRatio: 3.0024
+triggerable: true
+twoHundredDayAverage: 318.73276
+twoHundredDayAverageChange: 95.64923
+twoHundredDayAverageChangePercent: 0.30009225
+typeDisp: Equity
+volume: 50239
+website: https://www.westpharma.com
+zip: 19341-1147

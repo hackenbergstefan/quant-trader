@@ -1,0 +1,271 @@
+52WeekChange: 0.22986805
+SandP52WeekChange: 0.097798586
+address1: 410 North Scottsdale Road
+address2: Suite 1300
+allTimeHigh: 737.45
+allTimeLow: 1.26
+ask: 185.68
+askSize: 2
+auditRisk: 1
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 1508340
+averageDailyVolume3Month: 997806
+averageVolume: 997806
+averageVolume10days: 1508340
+beta: 1.738
+bid: 159.59
+bidSize: 2
+boardRisk: 4
+bookValue: 60.908
+city: Tempe
+companyOfficers:
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Joseph M. Hogan
+  title: President, CEO & Director
+  totalPay: 2637116
+  unexercisedValue: 0
+  yearBorn: 1957
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. John F. Morici
+  title: CFO & Executive VP of Global Finance
+  totalPay: 1024500
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Zelko  Relic
+  title: Executive VP & CTO
+  totalPay: 1064236
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Ms. Shirley  Stacy
+  title: Vice President of Corporate Communications & Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Richardson Jaime Holte
+  title: Executive Vice President of Global Human Resources
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Ms. Sreelakshmi  Kolli
+  title: Executive VP and Chief Product & Digital Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Srini  Kaza
+  title: Executive Vice President of Research & Development
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Dr. Mitra  Derakhshan
+  title: Executive VP, Chief Clinical Officer, Global Treatment Planning & Clinical
+    Services
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. David  Carr
+  title: Executive VP and MD of EMEA
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2016
+  maxAge: 1
+  name: Mr. Frank  Quinn
+  title: Executive VP & MD of Americas Region
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1483142400
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 170.875
+currentRatio: 1.425
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 175.24
+dayLow: 169.6616
+debtToEquity: 3.402
+displayName: Align
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793219400
+earningsCallTimestampStart: 1793219400
+earningsGrowth: 1.436
+earningsQuarterlyGrowth: 1.38
+earningsTimestamp: 1793217600
+earningsTimestampEnd: 1793217600
+earningsTimestampStart: 1793217600
+ebitda: 962401984
+ebitdaMargins: 0.23142
+enterpriseToEbitda: 11.725
+enterpriseToRevenue: 2.714
+enterpriseValue: 11284601856
+epsCurrentYear: 11.08886
+epsForward: 12.28784
+epsTrailingTwelveMonths: 6.86
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 151.0022
+fiftyDayAverageChange: 19.872803
+fiftyDayAverageChangePercent: 0.13160606
+fiftyTwoWeekChangePercent: 22.986805
+fiftyTwoWeekHigh: 200.44
+fiftyTwoWeekHighChange: -29.565002
+fiftyTwoWeekHighChangePercent: -0.14750051
+fiftyTwoWeekLow: 130.23
+fiftyTwoWeekLowChange: 40.645004
+fiftyTwoWeekLowChangePercent: 0.31210172
+fiftyTwoWeekRange: 130.23 - 200.44
+financialCurrency: USD
+firstTradeDateMilliseconds: 980865000000
+floatShares: 66290959
+forwardEps: 12.28784
+forwardPE: 13.906024
+freeCashflow: 573700352
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 20180
+fulldayChange: -3.3849945
+fulldayChangePercent: -1.9424967
+fulldayPrice: 170.875
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.71532
+grossProfits: 2974721024
+hasPrePostMarketData: true
+heldPercentInsiders: 0.06181
+heldPercentInstitutions: 1.0732
+impliedSharesOutstanding: 70487053
+industry: Medical Instruments & Supplies
+industryDisp: Medical Instruments & Supplies
+industryKey: medical-instruments-supplies
+irWebsite: http://investor.aligntech.com/
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Align Technology, Inc. provides Invisalign clear aligners, Vivera
+  retainers, and iTero intraoral scanners and services in the United States, Switzerland,
+  and internationally. The company's Clear Aligner segment offers Invisalign comprehensive
+  package to treat adults and teens malocclusion and features, and orthodontic needs
+  of teenage or younger patients; and Invisalign First Phase I and Invisalign First
+  Comprehensive Phase 2 package for younger patients between the ages of six and ten
+  years with a mixture of primary/baby and permanent teeth. This segment also provides
+  Invisalign express, Invisalign lite, and Invisalign moderate; Invisalign Go, Invisalign
+  Go express, and Invisalign Go Plus; retention products, Invisalign training, adjusting
+  tools used by dental professionals during treatment, ancillary Invisalign accessory
+  products, and other oral health products; Invisalign Professional Whitening system;
+  Invisalign Palatal Expander, a 3D printed orthodontic device; and 3D printing solutions.
+  Its Imaging Systems and CAD/CAM Services segment offers iTero intraoral scanning
+  system, a single hardware platform for restorative or orthodontic procedures; exocad,
+  a computer-aided design and computer-aided manufacturing software; orthodontist
+  software for digital records storage, orthodontic diagnosis, and fabrication of
+  printed models and retainers; and restorative software for general practitioner
+  dentists, prosthodontists, periodontists, and oral surgeons. This segment also offers
+  Invisalign outcome simulator, a chair-side and cloud-based application for the iTero
+  scanner; Invisalign progress assessment tool; Align Oral Health Suite, a digital
+  interface for dental consultations; iTero TimeLapse technology for doctors or practitioners
+  to compare a patient's historic 3D scans to the present-day scan; and subscription
+  software, disposables, rents scanners, and pay per scan services. Align Technology,
+  Inc. was incorporated in 1997 and is headquartered in Tempe, Arizona.
+longName: Align Technology, Inc.
+market: us_market
+marketCap: 12044475392
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_24568
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 491868992
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 12283073855
+numberOfAnalystOpinions: 14
+open: 174.3
+operatingCashflow: 749892992
+operatingMargins: 0.19643
+overallRisk: 7
+payoutRatio: 0.0
+pegRatio: 0.8
+phone: 602 742 2000
+previousClose: 174.26
+priceEpsCurrentYear: 15.40961
+priceHint: 2
+priceToBook: 2.8054607
+priceToSalesTrailing12Months: 2.896279
+profitMargins: 0.11828
+quickRatio: 1.228
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.3125
+region: US
+regularMarketChange: -3.3849945
+regularMarketChangePercent: -1.9424967
+regularMarketDayHigh: 175.24
+regularMarketDayLow: 169.6616
+regularMarketDayRange: 169.6616 - 175.24
+regularMarketOpen: 174.3
+regularMarketPreviousClose: 174.26
+regularMarketPrice: 170.875
+regularMarketTime: 1794413726
+regularMarketVolume: 200804
+returnOnAssets: 0.08006
+returnOnEquity: 0.119049996
+revenueGrowth: 0.019
+revenuePerShare: 58.247
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 7
+sharesOutstanding: 70487053
+sharesPercentSharesOut: 0.0583
+sharesShort: 4109362
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4202648
+shortName: Align Technology, Inc.
+shortPercentOfFloat: 0.066700004
+shortRatio: 4.06
+sourceInterval: 15
+state: AZ
+symbol: ALGN
+targetHighPrice: 210.0
+targetLowPrice: 160.0
+targetMeanPrice: 185.7857
+targetMedianPrice: 190.5
+totalCash: 1144930944
+totalCashPerShare: 16.243
+totalDebt: 146459008
+totalRevenue: 4158603008
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 6.86
+trailingPE: 24.908892
+trailingPegRatio: 0.8004
+triggerable: true
+twoHundredDayAverage: 168.6187
+twoHundredDayAverageChange: 2.2563019
+twoHundredDayAverageChangePercent: 0.013381089
+typeDisp: Equity
+volume: 200804
+website: https://www.aligntech.com
+zip: '85288'

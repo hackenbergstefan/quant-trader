@@ -1,0 +1,265 @@
+52WeekChange: 0.24362564
+SandP52WeekChange: 0.097798586
+address1: 41, Rue Martre
+allTimeHigh: 461.85
+allTimeLow: 46.0
+ask: 0.0
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 499271
+averageDailyVolume3Month: 355550
+averageVolume: 355550
+averageVolume10days: 499271
+beta: 0.853
+bid: 0.0
+bidSize: 0
+boardRisk: 6
+bookValue: 63.563
+city: Clichy
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nicolas  Hieronimus
+  title: CEO & Director
+  totalPay: 5062000
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christophe  Babule
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Antoine  Vanlaeys
+  title: Chief Operations Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Eva  Quiroga-Thiele
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Asmita  Dubey
+  title: Chief Digital & Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Claude  Le Grand
+  title: Chief Human Relations Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vismay  Sharma
+  title: President of South Asia Pacific, Middle East, North Africa (SAPMENA) Zone
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jacques  Challes
+  title: Chief Innovation Officer
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Emmanuel  Goulin
+  title: President of Europe
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Barbara  Lavernos
+  title: Deputy Chief Executive Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 445.3
+currentRatio: 0.969
+customPriceAlertConfidence: LOW
+dayHigh: 446.9
+dayLow: 442.5
+debtToEquity: 49.316
+dividendRate: 7.2
+dividendYield: 1.62
+earningsCallTimestampEnd: 1785394800
+earningsCallTimestampStart: 1785394800
+earningsGrowth: 0.054
+earningsQuarterlyGrowth: 0.053
+earningsTimestampEnd: 1770913800
+earningsTimestampStart: 1770913800
+ebitda: 10349500416
+ebitdaMargins: 0.22819
+enterpriseToEbitda: 24.06
+enterpriseToRevenue: 5.49
+enterpriseValue: 249012060160
+epsCurrentYear: 13.79996
+epsForward: 15.25516
+epsTrailingTwelveMonths: 11.78
+esgPopulated: false
+exDividendDate: 1777420800
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 399.002
+fiftyDayAverageChange: 46.297974
+fiftyDayAverageChangePercent: 0.11603443
+fiftyTwoWeekChangePercent: 24.362564
+fiftyTwoWeekHigh: 455.75
+fiftyTwoWeekHighChange: -10.450012
+fiftyTwoWeekHighChangePercent: -0.022929264
+fiftyTwoWeekLow: 338.85
+fiftyTwoWeekLowChange: 106.44998
+fiftyTwoWeekLowChangePercent: 0.31415075
+fiftyTwoWeekRange: 338.85 - 455.75
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 1.53
+floatShares: 231678651
+forwardEps: 15.25516
+forwardPE: 29.190123
+freeCashflow: 6398387712
+fullExchangeName: Paris
+fullTimeEmployees: 95000
+fulldayChange: 1.4499817
+fulldayChangePercent: 0.3266828
+fulldayPrice: 445.3
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.74380994
+grossProfits: 33735200768
+hasPrePostMarketData: false
+heldPercentInsiders: 0.57155997
+heldPercentInstitutions: 0.16715
+impliedSharesOutstanding: 533314966
+industry: Household & Personal Products
+industryDisp: Household & Personal Products
+industryKey: household-personal-products
+irWebsite: http://www.loreal.fr
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777420800
+lastDividendValue: 7.2
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 962582400
+lastSplitFactor: '10:1'
+longBusinessSummary: 'L''Oréal S.A., through its subsidiaries, manufactures and sells
+  cosmetic products for women and men in Europe, North America, North Asia, South
+  Asia Pacific, the Middle East, North Africa, Sub-Saharan Africa, and Latin America.
+  It operates through four divisions: Professional Products, Consumer Products, Luxe,
+  and Dermatological Beauty. The company offers skincare, make-up, hair colourant,
+  haircare, perfume, and hygiene products. It provides its products under the L''Oréal
+  Paris, Garnier, Maybelline New York, NYX Professional Makeup, Stylenanda, Essie,
+  Dark & Lovely, Mixa, Niely, L''Oréal Professionnel, Kérastase, Redken, Matrix, Pureology,
+  Lancôme, Yves Saint Laurent Beauté, Armani Beauty, Kiehl''s, Helena Rubinstein,
+  Aesop, Biotherm, Valentino, Prada, Shu Uemura, IT Cosmetics, Mugler, Ralph Lauren,
+  Urban Decay, Azzaro, Maison Margiela, Viktor&Rolf, Takami, La RochePosay, CeraVe,
+  Vichy, SkinCeuticals, Skinbetter Science, and other brand names. The company sells
+  its products through distribution channels, such as hair salons, local stores, e-commerce,
+  travel retail, mass market retail, department store perfumeries, pharmacies, drug
+  stores, medi-spas, and free-standing stores. L''Oréal S.A. was founded in 1909 and
+  is headquartered in Clichy, France.'
+longName: L'Oréal S.A.
+market: fr_market
+marketCap: 237485146112
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874249
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 6306299904
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 238285126808
+numberOfAnalystOpinions: 24
+open: 443.0
+operatingCashflow: 8988399616
+operatingMargins: 0.20297001
+overallRisk: 4
+payoutRatio: 0.6112
+pegRatio: 2.56
+phone: 33 1 47 56 70 00
+previousClose: 443.85
+priceEpsCurrentYear: 32.268208
+priceHint: 2
+priceToBook: 7.0056477
+priceToSalesTrailing12Months: 5.2361636
+profitMargins: 0.13904001
+quickRatio: 0.582
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.125
+region: US
+regularMarketChange: 1.4499817
+regularMarketChangePercent: 0.3266828
+regularMarketDayHigh: 446.9
+regularMarketDayLow: 442.5
+regularMarketDayRange: 442.5 - 446.9
+regularMarketOpen: 443.0
+regularMarketPreviousClose: 443.85
+regularMarketPrice: 445.3
+regularMarketTime: 1794411573
+regularMarketVolume: 96078
+returnOnAssets: 0.09514
+returnOnEquity: 0.19409001
+revenueGrowth: 0.058
+revenuePerShare: 85.043
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 1
+sharesOutstanding: 533314966
+shortName: L'OREAL
+sourceInterval: 15
+symbol: OR.PA
+targetHighPrice: 500.0
+targetLowPrice: 360.0
+targetMeanPrice: 437.375
+targetMedianPrice: 453.5
+totalCash: 4048800000
+totalCashPerShare: 7.605
+totalDebt: 16712599552
+totalRevenue: 45354799104
+tradeable: false
+trailingAnnualDividendRate: 7.2
+trailingAnnualDividendYield: 0.016221697
+trailingEps: 11.78
+trailingPE: 37.801357
+trailingPegRatio: 2.5616
+triggerable: false
+twoHundredDayAverage: 380.665
+twoHundredDayAverageChange: 64.63498
+twoHundredDayAverageChangePercent: 0.1697949
+typeDisp: Equity
+volume: 96078
+website: https://www.loreal.com
+zip: '92117'

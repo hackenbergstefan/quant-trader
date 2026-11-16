@@ -1,0 +1,279 @@
+52WeekChange: 0.21008277
+SandP52WeekChange: 0.097798586
+address1: 500 Old Dominion Way
+allTimeHigh: 252.03
+allTimeLow: 0.329218
+ask: 181.02
+askSize: 2
+auditRisk: 5
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 2634500
+averageDailyVolume3Month: 1862704
+averageVolume: 1862704
+averageVolume10days: 2634500
+beta: 1.151
+bid: 153.96
+bidSize: 2
+boardRisk: 10
+bookValue: 22.609
+city: Thomasville
+companyOfficers:
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David S. Congdon
+  title: Executive Chairman of the Board
+  unexercisedValue: 0
+  yearBorn: 1957
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin M. Freeman
+  title: President, CEO & Director
+  totalPay: 9237593
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam N. Satterfield CPA
+  title: Executive VP, Assistant Secretary & CFO
+  totalPay: 4806201
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory B. Plemmons
+  title: Executive VP & COO
+  totalPay: 4791501
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ross H. Parr
+  title: Senior VP of Legal Affairs, General Counsel & Secretary
+  totalPay: 3036562
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Cecil E. Overbey Jr.
+  title: Senior Vice President of Strategic Development
+  totalPay: 3037331
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 94
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Earl E. Congdon
+  title: Chairman Emeritus & Senior Advisor
+  totalPay: 3800695
+  unexercisedValue: 0
+  yearBorn: 1931
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Clayton G. Brinker
+  title: VP of Accounting & Finance and Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1986
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jack Lawrence Atkins
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Sam  Faucette
+  title: Vice President of Safety & Compliance
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: ODFL announced a cash dividend of $0.29 with an ex-date of Dec. 2, 2026
+  meta:
+    amount: '0.29'
+    dateEpochMs: 1796187600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 169.105
+currentRatio: 2.044
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 171.01
+dayLow: 166.18
+debtToEquity: 0.428
+displayName: Old Dominion Freight Line
+dividendDate: 1797379200
+dividendRate: 1.16
+dividendYield: 0.69
+earningsCallTimestampEnd: 1793196000
+earningsCallTimestampStart: 1793196000
+earningsGrowth: 0.289
+earningsQuarterlyGrowth: 0.269
+earningsTimestamp: 1793190600
+earningsTimestampEnd: 1793190600
+earningsTimestampStart: 1793190600
+ebitda: 1881671040
+ebitdaMargins: 0.32516998
+enterpriseToEbitda: 18.161
+enterpriseToRevenue: 5.905
+enterpriseValue: 34172596224
+epsCurrentYear: 5.95075
+epsForward: 6.75207
+epsTrailingTwelveMonths: 5.57
+esgPopulated: false
+exDividendDate: 1796169600
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 179.6196
+fiftyDayAverageChange: -10.514603
+fiftyDayAverageChangePercent: -0.05853817
+fiftyTwoWeekChangePercent: 21.008278
+fiftyTwoWeekHigh: 252.03
+fiftyTwoWeekHighChange: -82.925
+fiftyTwoWeekHighChangePercent: -0.3290283
+fiftyTwoWeekLow: 126.01
+fiftyTwoWeekLowChange: 43.094994
+fiftyTwoWeekLowChangePercent: 0.3419966
+fiftyTwoWeekRange: 126.01 - 252.03
+financialCurrency: USD
+firstTradeDateMilliseconds: 688311000000
+fiveYearAvgDividendYield: 0.44
+floatShares: 184399517
+forwardEps: 6.75207
+forwardPE: 25.044912
+freeCashflow: 997019136
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 20182
+fulldayChange: 1.0849915
+fulldayChangePercent: 0.64575136
+fulldayPrice: 169.105
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.39882
+grossProfits: 2307859968
+hasPrePostMarketData: true
+heldPercentInsiders: 0.08294
+heldPercentInstitutions: 0.81558996
+impliedSharesOutstanding: 206039886
+industry: Trucking
+industryDisp: Trucking
+industryKey: trucking
+irWebsite: http://www.odfl.com/Company/company.html
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788307200
+lastDividendValue: 0.29
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1711584000
+lastSplitFactor: '2:1'
+longBusinessSummary: Old Dominion Freight Line, Inc. operates as a less-than-truckload
+  motor carrier in the United States and North America. The company offers regional,
+  inter-regional, and national less-than-truckload services, as well as expedited
+  transportation services. It also provides various value-added services, including
+  container drayage, truckload brokerage, and supply chain consulting. In addition,
+  the company operates fleet maintenance centers. As of December 31, 2025, it owned
+  and operated 10,184 tractors, 30,824 linehaul trailers, and 14,313 pickup and delivery
+  trailers. Old Dominion Freight Line, Inc. was founded in 1934 and is headquartered
+  in Thomasville, North Carolina.
+longName: Old Dominion Freight Line, Inc.
+market: us_market
+marketCap: 34842374144
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_319404
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1162077952
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 34622942443
+numberOfAnalystOpinions: 21
+open: 168.53
+operatingCashflow: 1426096000
+operatingMargins: 0.26173002
+overallRisk: 9
+payoutRatio: 0.2065
+pegRatio: 2.05
+phone: 336 889 5000
+previousClose: 168.02
+priceEpsCurrentYear: 28.417427
+priceHint: 2
+priceToBook: 7.4795437
+priceToSalesTrailing12Months: 6.02109
+profitMargins: 0.20082001
+quickRatio: 1.9
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.25
+region: US
+regularMarketChange: 1.0849915
+regularMarketChangePercent: 0.64575136
+regularMarketDayHigh: 171.01
+regularMarketDayLow: 166.18
+regularMarketDayRange: 166.18 - 171.01
+regularMarketOpen: 168.53
+regularMarketPreviousClose: 168.02
+regularMarketPrice: 169.105
+regularMarketTime: 1794413701
+regularMarketVolume: 202790
+returnOnAssets: 0.16590999
+returnOnEquity: 0.26011
+revenueGrowth: 0.131
+revenuePerShare: 27.826
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 9
+sharesOutstanding: 206039886
+sharesPercentSharesOut: 0.044499997
+sharesShort: 9164998
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8935612
+shortName: Old Dominion Freight Line, Inc.
+shortPercentOfFloat: 0.0553
+shortRatio: 4.61
+sourceInterval: 15
+state: NC
+symbol: ODFL
+targetHighPrice: 245.0
+targetLowPrice: 156.0
+targetMeanPrice: 213.38095
+targetMedianPrice: 215.0
+totalCash: 466224000
+totalCashPerShare: 2.263
+totalDebt: 19998000
+totalRevenue: 5786721792
+tradeable: false
+trailingAnnualDividendRate: 1.15
+trailingAnnualDividendYield: 0.006844423
+trailingEps: 5.57
+trailingPE: 30.359962
+trailingPegRatio: 2.0466
+triggerable: true
+twoHundredDayAverage: 201.6224
+twoHundredDayAverageChange: -32.51741
+twoHundredDayAverageChangePercent: -0.16127875
+typeDisp: Equity
+volume: 202790
+website: https://www.odfl.com
+zip: '27360'

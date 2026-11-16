@@ -1,0 +1,302 @@
+52WeekChange: -0.15121919
+SandP52WeekChange: 0.097798586
+address1: 345 Park Avenue
+allTimeHigh: 200.96
+allTimeLow: 3.483808
+ask: 122.96
+askSize: 300
+auditRisk: 8
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 5571740
+averageDailyVolume3Month: 4723721
+averageVolume: 4723721
+averageVolume10days: 5571740
+beta: 1.534
+bid: 122.88
+bidSize: 200
+boardRisk: 10
+bookValue: 11.051
+city: New York
+companyOfficers:
+- age: 78
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephen Allen Schwarzman B.A., M.B.A.
+  title: Co-Founder, Chairman & CEO
+  totalPay: 125641824
+  unexercisedValue: 0
+  yearBorn: 1947
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael S. Chae J.D.
+  title: CFO & Vice Chairman
+  totalPay: 8436779
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathan D. Gray CIMA
+  title: President, COO & Director
+  totalPay: 59274602
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vikrant  Sawhney J.D.
+  title: Chief Administrative Officer & Global Head of Institutional Client Solutions
+  totalPay: 10933850
+  unexercisedValue: 0
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Gary Finley J.D.
+  title: Chief Legal Officer
+  totalPay: 6924775
+  unexercisedValue: 0
+  yearBorn: 1957
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph Patrick Baratta
+  title: Global Head of Private Equity Strategies & Director
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mustafa Mohsin Siddiqui
+  title: Former Senior MD of BXMA - New York & Co-Head of Strategic Capital Group
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Seth A. Meisel
+  title: Senior Managing Director of Private Equity - New York
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juergen  Pinker
+  title: Senior MD of BXCI - Berkeley Square House London & Head of Germany for BXCI
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. M. Craig Shepherd
+  title: "Senior Managing Director of Blackstone Life Sciences \x97 Cambridge"
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 122.82
+currentRatio: 0.888
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 123.945
+dayLow: 121.65
+debtToEquity: 73.712
+displayName: Blackstone
+dividendDate: 1794182400
+dividendRate: 5.06
+dividendYield: 4.13
+earningsCallTimestampEnd: 1792674000
+earningsCallTimestampStart: 1792674000
+earningsGrowth: 0.037
+earningsQuarterlyGrowth: 0.06
+earningsTimestamp: 1792672200
+earningsTimestampEnd: 1801143000
+earningsTimestampStart: 1801143000
+ebitdaMargins: 0.0
+enterpriseToRevenue: 7.917
+enterpriseValue: 122456645632
+epsCurrentYear: 5.92051
+epsForward: 7.37845
+epsTrailingTwelveMonths: 4.49
+esgPopulated: false
+exDividendDate: 1793577600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 212 583 5749
+fiftyDayAverage: 119.5816
+fiftyDayAverageChange: 3.2384033
+fiftyDayAverageChangePercent: 0.027081119
+fiftyTwoWeekChangePercent: -15.121919
+fiftyTwoWeekHigh: 165.14
+fiftyTwoWeekHighChange: -42.32
+fiftyTwoWeekHighChangePercent: -0.2562674
+fiftyTwoWeekLow: 101.73
+fiftyTwoWeekLowChange: 21.089996
+fiftyTwoWeekLowChangePercent: 0.20731343
+fiftyTwoWeekRange: 101.73 - 165.14
+financialCurrency: USD
+firstTradeDateMilliseconds: 1182519000000
+fiveYearAvgDividendYield: 3.21
+floatShares: 754930570
+forwardEps: 7.37845
+forwardPE: 16.645773
+fullExchangeName: NYSE
+fullTimeEmployees: 5285
+fulldayChange: 0.29000092
+fulldayChangePercent: 0.2366292
+fulldayPrice: 122.82
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 1.0
+grossProfits: 15467870208
+hasPrePostMarketData: true
+heldPercentInsiders: 0.01038
+heldPercentInstitutions: 0.73549
+impliedSharesOutstanding: 1234373478
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1793577600
+lastDividendValue: 1.12
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Blackstone Inc. is an alternative asset management firm specializing
+  in private equity, venture capital, real estate, hedge fund solutions, credit, secondary
+  funds of funds, public debt and equity and multi-asset class strategies. The firm
+  typically invests in early-stage, seed, middle market, mature, late venture, growth
+  capital, emerging growth, turnaround, and later stage companies. It also provide
+  capital markets services. The real estate segment specializes in opportunistic,
+  core+ investments as well as debt investment opportunities collateralized by commercial
+  real estate, and stabilized income-oriented commercial real estate across North
+  America, Europe and Asia. Within fund of fund investments, it seeks to invest in
+  private equity funds, venture capital funds, mezzanine funds, distressed debt/turnaround
+  funds, secondary investment funds & real estate funds. The firm's corporate private
+  equity business pursues transactions throughout the world across a variety of transaction
+  types, including large buyouts, recapitalization, special situations, distressed
+  mortgage loans, mid-cap buyouts, buy and build platforms, which involves multiple
+  acquisitions behind a single management team and platform, and growth equity/development
+  projects involving significant majority stakes in portfolio companies and minority
+  investments in operating companies, shipping, real estate, corporate or consumer
+  loans, and alternative energy greenfield development projects in energy and power,
+  property, dislocated markets, shipping opportunities, financial institution breakups,
+  re-insurance, and improving freight mobility, financial services, cargo, data processing,
+  oil & gas production, oil & gas refining, oil & gas storage, building products,
+  home entertainment, B2B, consumer electronics, home supply store, lodging, commercial
+  services & supplies, metal & mineral mining machinery, coal, hazardous waste collection,
+  solid waste collection, waste water treatment, renewable electricity, equity REITs,
+  power generation by nuclear & fossil fuels, personal loan services, chemicals, other
+  specialty retail, biotech, pharmaceuticals, metal, aerospace, healthcare, cable,
+  entertainment services, infrastructure services, transportation infrastructure,
+  exhaust, life sciences, alternative carriers, infrastructure, system software, manufacturing
+  services, enterprise tech and consumer, enterprise software & application, as well
+  as consumer technologies. The firm considers investment in Asia, Latin America,
+  Japan, Australia, South Korea, Singapore, Hong Kong, Africa, Middle East, Beijing,
+  Shanghai, India, Belgium, France, Ireland, Luxembourg, Monaco, Netherlands, United
+  Kingdom, North America and South America. It seeks to invest between $0.25 million
+  and $900 million per transaction. It invests in companies with enterprise value
+  between $500 million and $5000 million. It makes equity investments up to $300 million
+  through fund of fund investments. It has a three year investment period. The firm
+  prefers to take majority and minority stakes. Its hedge fund business manages a
+  broad range of commingled and customized fund solutions and its credit business
+  focuses on loans, and securities of non-investment grade companies spread across
+  the capital structure including senior debt, subordinated debt, preferred stock
+  and common equity. Blackstone Inc. through its subsidiary South City Projects (Kolkata)
+  Limited offers residential and commercial real estate development services that
+  include development of township, residential towers, malls, IT parks, stadiums,
+  resorts, hospitals, and schools. Blackstone Inc. was founded in 1985 and is based
+  in New York, New York with additional offices across Asia, Europe, North America
+  and Central America.
+longName: Blackstone Inc.
+market: us_market
+marketCap: 151605755904
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_671980
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 3556491008
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 96883397514
+numberOfAnalystOpinions: 22
+open: 122.53
+operatingCashflow: 5963182080
+operatingMargins: 0.49282002
+overallRisk: 10
+payoutRatio: 1.1648
+pegRatio: 1.22
+phone: 212 583 5000
+prevName: The Blackstone Group Inc.
+previousClose: 122.53
+priceEpsCurrentYear: 20.744835
+priceHint: 2
+priceToBook: 11.113927
+priceToSalesTrailing12Months: 9.801333
+profitMargins: 0.22993
+quickRatio: 0.849
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.08333
+region: US
+regularMarketChange: 0.29000092
+regularMarketChangePercent: 0.2366292
+regularMarketDayHigh: 123.945
+regularMarketDayLow: 121.65
+regularMarketDayRange: 121.65 - 123.945
+regularMarketOpen: 122.53
+regularMarketPreviousClose: 122.53
+regularMarketPrice: 122.82
+regularMarketTime: 1794413736
+regularMarketVolume: 700858
+returnOnAssets: 0.14265999
+returnOnEquity: 0.32381
+revenueGrowth: -0.005
+revenuePerShare: 19.528
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 751115317
+sharesPercentSharesOut: 0.024300002
+sharesShort: 19230975
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 22582797
+shortName: Blackstone Inc.
+shortPercentOfFloat: 0.0257
+shortRatio: 3.32
+sourceInterval: 15
+state: NY
+symbol: BX
+targetHighPrice: 169.0
+targetLowPrice: 118.0
+targetMeanPrice: 138.86365
+targetMedianPrice: 134.5
+totalCash: 3203692032
+totalCashPerShare: 4.006
+totalDebt: 15491808256
+totalRevenue: 15467870208
+tradeable: false
+trailingAnnualDividendRate: 5.06
+trailingAnnualDividendYield: 0.04129601
+trailingEps: 4.49
+trailingPE: 27.354122
+trailingPegRatio: 1.2244
+triggerable: true
+twoHundredDayAverage: 122.94435
+twoHundredDayAverageChange: -0.1243515
+twoHundredDayAverageChangePercent: -0.0010114454
+typeDisp: Equity
+volume: 700858
+website: https://www.blackstone.com
+zip: '10154'

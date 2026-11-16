@@ -1,0 +1,286 @@
+52WeekChange: 0.2482295
+SandP52WeekChange: 0.097798586
+address1: 300 Toni Stone Crossing
+allTimeHigh: 442.23
+allTimeLow: 10.445
+ask: 421.15
+askSize: 120
+auditRisk: 10
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 8103120
+averageDailyVolume3Month: 6616906
+averageVolume: 6616906
+averageVolume10days: 8103120
+beta: 0.786
+bid: 421.08
+bidSize: 120
+boardRisk: 1
+bookValue: 19.167
+city: San Francisco
+companyOfficers:
+- age: 50
+  exercisedValue: 26567312
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ryan M. McInerney
+  title: CEO & Director
+  totalPay: 7129213
+  unexercisedValue: 83317928
+  yearBorn: 1975
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher  Suh
+  title: Chief Financial Officer
+  totalPay: 3148478
+  unexercisedValue: 1100922
+  yearBorn: 1970
+- age: 61
+  exercisedValue: 12952687
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rajat  Taneja
+  title: President of Technology
+  totalPay: 4600880
+  unexercisedValue: 69936160
+  yearBorn: 1964
+- age: 59
+  exercisedValue: 4472868
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kelly Mahon Tullier J.D.
+  title: Vice Chair, Chief People & Corporate Affairs Officer and Corporate Secretary
+  totalPay: 3162473
+  unexercisedValue: 35300776
+  yearBorn: 1966
+- age: 59
+  exercisedValue: 27429316
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul D. Fabara
+  title: Chief Risk & Client Services Officer
+  totalPay: 2633779
+  unexercisedValue: 550461
+  yearBorn: 1966
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Andreski
+  title: Senior VP, Global Corporate Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer  Como
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie B. Rottenberg J.D.
+  title: General Counsel
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank  Cooper III
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oliver  Jenkyn
+  title: Group President of Global Markets
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: V announced a cash dividend of $0.78 with an ex-date of Nov. 10, 2026
+  meta:
+    amount: '0.78'
+    dateEpochMs: 1794286800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 422.26
+currentRatio: 0.965
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 422.45
+dayLow: 417.3
+debtToEquity: 63.568
+displayName: Visa
+dividendDate: 1796083200
+dividendRate: 3.12
+dividendYield: 0.74
+earningsCallTimestampEnd: 1793134800
+earningsCallTimestampStart: 1793134800
+earningsGrowth: 0.219
+earningsQuarterlyGrowth: 0.179
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1800997200
+earningsTimestampStart: 1800997200
+ebitda: 31840000000
+ebitdaMargins: 0.69364
+enterpriseToEbitda: 24.626
+enterpriseToRevenue: 17.082
+enterpriseValue: 784104030208
+epsCurrentYear: 15.03266
+epsForward: 17.14041
+epsTrailingTwelveMonths: 12.32
+esgPopulated: false
+exDividendDate: 1794268800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 387.5266
+fiftyDayAverageChange: 34.7334
+fiftyDayAverageChangePercent: 0.08962842
+fiftyTwoWeekChangePercent: 24.82295
+fiftyTwoWeekHigh: 442.23
+fiftyTwoWeekHighChange: -19.970001
+fiftyTwoWeekHighChangePercent: -0.0451575
+fiftyTwoWeekLow: 293.89
+fiftyTwoWeekLowChange: 128.37
+fiftyTwoWeekLowChangePercent: 0.43679604
+fiftyTwoWeekRange: 293.89 - 442.23
+financialCurrency: USD
+firstTradeDateMilliseconds: 1205933400000
+fiveYearAvgDividendYield: 0.71
+floatShares: 1699944506
+forwardEps: 17.14041
+forwardPE: 24.635351
+freeCashflow: 20983375872
+fullExchangeName: NYSE
+fullTimeEmployees: 34800
+fulldayChange: -0.73999023
+fulldayChangePercent: -0.17493859
+fulldayPrice: 422.26
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.97678
+grossProfits: 44836999168
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00086000003
+heldPercentInstitutions: 0.89322
+impliedSharesOutstanding: 1865800052
+industry: Credit Services
+industryDisp: Credit Services
+industryKey: credit-services
+irWebsite: http://investor.visa.com/phoenix.zhtml?c=215693&p=irol-IRHome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1794268800
+lastDividendValue: 0.78
+lastFiscalYearEnd: 1790726400
+lastSplitDate: 1426723200
+lastSplitFactor: '4:1'
+longBusinessSummary: Visa Inc. operates as a payments technology company in the United
+  States and internationally. It operates VisaNet, a transaction processing network
+  that enables authorization, clearing, and settlement of payment transactions. The
+  company also offers credit, debit, and prepaid card products; tap to pay, tokenization,
+  and click to pay services; Visa Direct, a platform which facilitates money movement,
+  enabling clients to collect, hold, convert, and send funds across its network; and
+  issuing solutions, such as airport lounge access, dining reservations, shopping
+  experiences, event tickets, and seller offers. In addition, it provides acceptance
+  solutions, an omnichannel payment integration with e-commerce platforms; risk detection
+  and prevention solutions; and advisory and other services comprising consulting
+  practice, proprietary analytics models, data scientists and economists, marketing
+  services, and managed services. The company provides its services under the Visa,
+  Visa Electron, V PAY, Interlink, and PLUS brands. It serves consumers, sellers,
+  financial institutions, and government entities. Visa Inc. was founded in 1958 and
+  is headquartered in San Francisco, California.
+longName: Visa Inc.
+market: us_market
+marketCap: 787852754944
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_38043467
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 23311998976
+nextFiscalYearEnd: 1822262400
+nonDilutedMarketCap: 789233422217
+numberOfAnalystOpinions: 37
+open: 417.2525
+operatingCashflow: 23728001024
+operatingMargins: 0.66306996
+overallRisk: 3
+payoutRatio: 0.2175
+pegRatio: 1.91
+phone: 650 432 7644
+previousClose: 423.0
+priceEpsCurrentYear: 28.089508
+priceHint: 2
+priceToBook: 22.030575
+priceToSalesTrailing12Months: 17.163427
+profitMargins: 0.51203996
+quickRatio: 0.645
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: -0.73999023
+regularMarketChangePercent: -0.17493859
+regularMarketDayHigh: 422.45
+regularMarketDayLow: 417.3
+regularMarketDayRange: 417.3 - 422.45
+regularMarketOpen: 417.2525
+regularMarketPreviousClose: 423.0
+regularMarketPrice: 422.26
+regularMarketTime: 1794413750
+regularMarketVolume: 1627247
+returnOnAssets: 0.19613001
+returnOnEquity: 0.63507
+revenueGrowth: 0.132
+revenuePerShare: 24.071
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 4
+sharesOutstanding: 1724473215
+sharesPercentSharesOut: 0.0115
+sharesShort: 21364633
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 20612281
+shortName: Visa Inc.
+shortPercentOfFloat: 0.0124
+shortRatio: 3.45
+sourceInterval: 15
+state: CA
+symbol: V
+targetHighPrice: 500.0
+targetLowPrice: 330.0
+targetMeanPrice: 448.76703
+targetMedianPrice: 455.0
+totalCash: 14083000320
+totalCashPerShare: 7.689
+totalDebt: 22954999808
+totalRevenue: 45902999552
+tradeable: false
+trailingAnnualDividendRate: 2.79
+trailingAnnualDividendYield: 0.0065957448
+trailingEps: 12.32
+trailingPE: 34.274353
+trailingPegRatio: 1.9145
+triggerable: true
+twoHundredDayAverage: 345.62756
+twoHundredDayAverageChange: 76.63245
+twoHundredDayAverageChangePercent: 0.22171971
+typeDisp: Equity
+volume: 1627247
+website: https://corporate.visa.com
+zip: '94158'

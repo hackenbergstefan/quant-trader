@@ -1,0 +1,259 @@
+52WeekChange: 0.19384444
+SandP52WeekChange: 0.097798586
+address1: 1940 Air Products Boulevard
+allTimeHigh: 341.14
+allTimeLow: 2.731846
+ask: 313.16
+askSize: 120
+auditRisk: 9
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 1264170
+averageDailyVolume3Month: 1071881
+averageVolume: 1071881
+averageVolume10days: 1264170
+beta: 0.669
+bid: 313.03
+bidSize: 40
+boardRisk: 1
+bookValue: 64.097
+city: Allentown
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eduardo F. Menezes
+  title: CEO & Director
+  totalPay: 1296209
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melissa Narewski Schaeffer
+  title: Executive VP & CFO
+  totalPay: 1503203
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian R. Galovich
+  title: Executive VP & Chief Information Officer
+  totalPay: 1237587
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Victoria  Brifo
+  title: Executive VP of Corporate Communications & Corporate Relations and Chief
+    Human Resources Officer
+  totalPay: 1123878
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 55
+  exercisedValue: 66730
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Francesco  Maione
+  title: President of Americas, Helium & Rare Gases
+  totalPay: 2334098
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William J. Pellicciotti Jr.
+  title: VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Megan  Britt
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew  Lepore
+  title: Executive VP, General Counsel, Secretary & Chief Compliance Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 313.67
+currentRatio: 1.065
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 314.135
+dayLow: 311.6
+debtToEquity: 106.293
+displayName: Air Products and Chemicals
+dividendDate: 1802044800
+dividendRate: 7.24
+dividendYield: 2.32
+earningsCallTimestampEnd: 1793883600
+earningsCallTimestampStart: 1793883600
+earningsGrowth: 130.118
+earningsQuarterlyGrowth: 118.245
+earningsTimestamp: 1793885400
+earningsTimestampEnd: 1801229400
+earningsTimestampStart: 1801229400
+ebitda: 4681399808
+ebitdaMargins: 0.36036
+enterpriseToEbitda: 19.084
+enterpriseToRevenue: 6.877
+enterpriseValue: 89337700352
+epsCurrentYear: 14.37556
+epsForward: 15.54388
+epsTrailingTwelveMonths: 2.39
+esgPopulated: false
+exDividendDate: 1799020800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 295.0746
+fiftyDayAverageChange: 18.595428
+fiftyDayAverageChangePercent: 0.06301942
+fiftyTwoWeekChangePercent: 19.384443
+fiftyTwoWeekHigh: 324.0
+fiftyTwoWeekHighChange: -10.329987
+fiftyTwoWeekHighChangePercent: -0.031882674
+fiftyTwoWeekLow: 229.11
+fiftyTwoWeekLowChange: 84.56001
+fiftyTwoWeekLowChangePercent: 0.3690804
+fiftyTwoWeekRange: 229.11 - 324.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 2.45
+floatShares: 222481396
+forwardEps: 15.54388
+forwardPE: 20.179647
+freeCashflow: -187962496
+fullExchangeName: NYSE
+fulldayChange: 1.4200134
+fulldayChangePercent: 0.45476812
+fulldayPrice: 313.67
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.31584
+grossProfits: 4103099904
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0189
+heldPercentInstitutions: 0.94657
+impliedSharesOutstanding: 222685530
+industry: Specialty Chemicals
+industryDisp: Specialty Chemicals
+industryKey: specialty-chemicals
+irWebsite: http://www.airproducts.com/investors/overview.aspx
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1790812800
+lastDividendValue: 1.81
+lastFiscalYearEnd: 1790726400
+lastSplitDate: 1475452800
+lastSplitFactor: 1081:1000
+longBusinessSummary: Air Products and Chemicals, Inc. provides atmospheric gases,
+  process and specialty gases, equipment, and related services in the Americas, Asia,
+  Europe, the Middle East, India, and internationally. The company produces atmospheric
+  gases, including oxygen, nitrogen, and argon; process gases, such as hydrogen, helium,
+  carbon dioxide, carbon monoxide, and syngas; and specialty gases for customers in
+  various industries, including refining, chemical, metals, manufacturing, electronics,
+  energy production, medical, food, chemical and petrochemical manufacturing, oil
+  and gas recovery and processing, and steel and primary metals processing. It also
+  designs and manufactures equipment for air separation, hydrocarbon recovery and
+  purification, natural gas liquefaction, and liquid helium and liquid hydrogen transport
+  and storage. Air Products and Chemicals, Inc. was founded in 1940 and is headquartered
+  in Allentown, Pennsylvania.
+longName: Air Products and Chemicals, Inc.
+market: us_market
+marketCap: 69849776128
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_248356
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 532100000
+nextFiscalYearEnd: 1822262400
+nonDilutedMarketCap: 69533556742
+numberOfAnalystOpinions: 21
+open: 311.49
+operatingCashflow: 4680699904
+operatingMargins: 0.24320999
+overallRisk: 1
+payoutRatio: 0.7566
+pegRatio: 2.24
+phone: 610 481 4911
+previousClose: 312.25
+priceEpsCurrentYear: 21.819674
+priceHint: 2
+priceToBook: 4.8936768
+priceToSalesTrailing12Months: 5.3768234
+profitMargins: 0.040960003
+quickRatio: 0.815
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.91667
+region: US
+regularMarketChange: 1.4200134
+regularMarketChangePercent: 0.45476812
+regularMarketDayHigh: 314.135
+regularMarketDayLow: 311.6
+regularMarketDayRange: 311.6 - 314.135
+regularMarketOpen: 311.49
+regularMarketPreviousClose: 312.25
+regularMarketPrice: 313.67
+regularMarketTime: 1794413680
+regularMarketVolume: 80260
+returnOnAssets: 0.048010003
+returnOnEquity: 0.03191
+revenueGrowth: 0.123
+revenuePerShare: 58.307
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 3
+sharesOutstanding: 222685530
+sharesPercentSharesOut: 0.0211
+sharesShort: 4695853
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5072833
+shortName: Air Products and Chemicals, Inc
+shortPercentOfFloat: 0.0215
+shortRatio: 4.77
+sourceInterval: 15
+state: PA
+symbol: APD
+targetHighPrice: 375.0
+targetLowPrice: 275.0
+targetMeanPrice: 343.7143
+targetMedianPrice: 347.0
+totalCash: 1331699968
+totalCashPerShare: 5.977
+totalDebt: 18230099968
+totalRevenue: 12990900224
+tradeable: false
+trailingAnnualDividendRate: 7.22
+trailingAnnualDividendYield: 0.023122497
+trailingEps: 2.39
+trailingPE: 131.24268
+trailingPegRatio: 2.2478
+triggerable: true
+twoHundredDayAverage: 291.79166
+twoHundredDayAverageChange: 21.878357
+twoHundredDayAverageChangePercent: 0.07497938
+typeDisp: Equity
+volume: 80260
+website: https://www.airproducts.com
+zip: 18106-5500

@@ -1,0 +1,237 @@
+52WeekChange: -0.11563879
+SandP52WeekChange: 0.097798586
+address1: 7-11 Boulevard Haussmann
+allTimeHigh: 139.0
+allTimeLow: 3.87
+ask: 0.0
+askSize: 0
+auditRisk: 9
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 124215
+averageDailyVolume3Month: 129276
+averageVolume: 129276
+averageVolume10days: 124215
+beta: -0.327
+bid: 0.0
+bidSize: 0
+boardRisk: 10
+bookValue: 4.589
+city: Paris
+companyOfficers:
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc M. P. de Garidel M.B.A.
+  title: CEO & Director
+  totalPay: 1148314
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Didier  Blondel
+  title: EVP, CFO & Board Secretary
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy P. Kelly M.B.A.
+  title: Chief Technical Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick  Malloy
+  title: Senior VP & Head of Investor Relations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ida  Hatoum
+  title: Chief People & Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James  Berger
+  title: Global Head of Marketing
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pierre  Courteille M.B.A.
+  title: Chief Business Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Hema  Keshava
+  title: Senior Vice President of Finance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Rabbat Ph.D.
+  title: Chief Medical Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Kevin  Shan Ph.D.
+  title: VP & Global Head of Biometrics
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 83.15
+currentRatio: 5.965
+customPriceAlertConfidence: LOW
+dayHigh: 83.2
+dayLow: 80.65
+debtToEquity: 0.331
+dividendYield: 0.0
+earningsCallTimestampEnd: 1712579400
+earningsCallTimestampStart: 1712579400
+earningsTimestamp: 1790004600
+earningsTimestampEnd: 1790004600
+earningsTimestampStart: 1790004600
+ebitda: -291548992
+ebitdaMargins: 0.0
+enterpriseToEbitda: -20.608
+enterpriseToRevenue: 1287.091
+enterpriseValue: 6008139776
+epsCurrentYear: -3.53144
+epsForward: -2.8972
+epsTrailingTwelveMonths: -5.21
+esgPopulated: false
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 85.097
+fiftyDayAverageChange: -1.9469986
+fiftyDayAverageChangePercent: -0.022879755
+fiftyTwoWeekChangePercent: -11.563879
+fiftyTwoWeekHigh: 139.0
+fiftyTwoWeekHighChange: -55.85
+fiftyTwoWeekHighChangePercent: -0.40179855
+fiftyTwoWeekLow: 60.45
+fiftyTwoWeekLowChange: 22.7
+fiftyTwoWeekLowChangePercent: 0.37551695
+fiftyTwoWeekRange: 60.45 - 139.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1435302000000
+floatShares: 65019783
+forwardEps: -2.8972
+forwardPE: -28.700123
+freeCashflow: -125898128
+fullExchangeName: Paris
+fullTimeEmployees: 98
+fulldayChange: 2.8499985
+fulldayChangePercent: 3.5469801
+fulldayPrice: 83.15
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 1.0
+grossProfits: 4668000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.03964
+heldPercentInstitutions: 0.52539
+impliedSharesOutstanding: 87541485
+industry: Biotechnology
+industryDisp: Biotechnology
+industryKey: biotechnology
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: ABIVAX Société Anonyme, a clinical-stage biotechnology company,
+  develops therapeutics that harness the body's natural regulatory mechanisms to stabilize
+  the immune response in patients with chronic inflammatory diseases. Its lead drug
+  candidate includes obefazimod, which is in Phase 3 clinical development for the
+  treatment of moderately to severely active UC, as well as Phase 2b clinical trials
+  for Crohn's disease. The company was incorporated in 2013 and is headquartered in
+  Paris, France.
+longName: ABIVAX Société Anonyme
+market: fr_market
+marketCap: 7279074816
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_256839883
+mostRecentQuarter: 1782777600
+netIncomeToCommon: -401217984
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 6801973384
+numberOfAnalystOpinions: 7
+open: 81.15
+operatingCashflow: -197020000
+operatingMargins: -62.70373
+overallRisk: 10
+phone: 33 1 53 83 09 63
+previousClose: 80.3
+priceEpsCurrentYear: -23.545635
+priceHint: 2
+priceToBook: 18.119415
+priceToSalesTrailing12Months: 1559.3562
+profitMargins: 0.0
+quickRatio: 5.792
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.625
+region: US
+regularMarketChange: 2.8499985
+regularMarketChangePercent: 3.5469801
+regularMarketDayHigh: 83.2
+regularMarketDayLow: 80.65
+regularMarketDayRange: 80.65 - 83.2
+regularMarketOpen: 81.15
+regularMarketPreviousClose: 80.3
+regularMarketPrice: 83.15
+regularMarketTime: 1794411566
+regularMarketVolume: 35251
+returnOnAssets: -0.62882
+returnOnEquity: -2.52349
+revenueGrowth: -0.068
+revenuePerShare: 0.06
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 6
+sharesOutstanding: 87541485
+shortName: ABIVAX
+sourceInterval: 15
+symbol: ABVX.PA
+targetHighPrice: 180.0
+targetLowPrice: 70.0
+targetMeanPrice: 131.72014
+targetMedianPrice: 131.0
+totalCash: 402383008
+totalCashPerShare: 5.041
+totalDebt: 1212000
+totalRevenue: 4668000
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: -5.21
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 98.261
+twoHundredDayAverageChange: -15.111
+twoHundredDayAverageChangePercent: -0.1537843
+typeDisp: Equity
+volume: 35251
+website: https://www.abivax.com
+zip: '75009'

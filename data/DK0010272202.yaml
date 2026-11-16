@@ -1,0 +1,277 @@
+52WeekChange: 0.82192826
+SandP52WeekChange: 0.097798586
+address1: Carl Jacobsens Vej 30
+address2: Valby
+allTimeHigh: 3947.0
+allTimeLow: 21.2
+ask: 3567.0
+auditRisk: 10
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 282874
+averageDailyVolume3Month: 154109
+averageVolume: 154109
+averageVolume10days: 282874
+beta: 0.518
+bid: 3557.0
+boardRisk: 1
+bookValue: 665.80383
+city: Copenhagen
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jan G.J. van de Winkel Ph.D.
+  title: Co-Founder, President & CEO
+  totalPay: 21959448
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anthony  Pagano CPA
+  title: Executive VP & CFO
+  totalPay: 7319816
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rayne  Waller
+  title: Executive VP & Chief Technical Operations Officer
+  totalPay: 11977881
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory David Emil Mueller
+  title: Executive VP, General Counsel & Chief Legal Officer
+  totalPay: 11312443
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher  Cozic
+  title: Executive VP & Chief People Officer
+  totalPay: 5323503
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Martine J. van Vugt Ph.D.
+  title: Executive VP & Chief Strategy Officer
+  totalPay: 5988940
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Schultz
+  title: Senior Director, Head of Development Business Partnership & Strategy and
+    Director
+  totalPay: 1996313
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Judith V. Klimovsky M.D.
+  title: Executive VP & Chief Development Officer
+  totalPay: 8650692
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Tahamtan  Ahmadi M.D., Ph.D.
+  title: Executive VP, Chief Medical Officer & Head of Experimental Medicines
+  totalPay: 8650692
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Mijke  Zachariasse Ph.D.
+  title: VP, Head of Antibody Research Materials & Director
+  totalPay: 1996313
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: Denmark
+cryptoTradeable: false
+currency: DKK
+currentPrice: 3559.0
+currentRatio: 2.454
+customPriceAlertConfidence: HIGH
+dayHigh: 3625.0
+dayLow: 3496.0
+debtToEquity: 82.078
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793898000
+earningsCallTimestampStart: 1793898000
+earningsGrowth: -0.147
+earningsQuarterlyGrowth: -0.147
+earningsTimestamp: 1793894400
+earningsTimestampEnd: 1793894400
+earningsTimestampStart: 1793894400
+ebitda: 1356000000
+ebitdaMargins: 0.31564
+enterpriseToEbitda: 169.607
+enterpriseToRevenue: 53.535
+enterpriseValue: 229986500608
+epsCurrentYear: 87.3305
+epsForward: 117.0925
+epsTrailingTwelveMonths: 75.25
+esgPopulated: false
+exchange: CPH
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Copenhagen
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 2632.94
+fiftyDayAverageChange: 926.06006
+fiftyDayAverageChangePercent: 0.35172093
+fiftyTwoWeekChangePercent: 82.192825
+fiftyTwoWeekHigh: 3947.0
+fiftyTwoWeekHighChange: -388.0
+fiftyTwoWeekHighChangePercent: -0.098302506
+fiftyTwoWeekLow: 1512.0
+fiftyTwoWeekLowChange: 2047.0
+fiftyTwoWeekLowChangePercent: 1.3538359
+fiftyTwoWeekRange: 1512.0 - 3947.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 972025200000
+floatShares: 58877038
+forwardEps: 117.0925
+forwardPE: 30.394773
+freeCashflow: 854875008
+fullExchangeName: Copenhagen
+fullTimeEmployees: 3244
+fulldayChange: -22.0
+fulldayChangePercent: -0.61435354
+fulldayPrice: 3559.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.92667997
+grossProfits: 3980999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.01119
+heldPercentInstitutions: 0.46577
+impliedSharesOutstanding: 61659365
+industry: Biotechnology
+industryDisp: Biotechnology
+industryKey: biotechnology
+irWebsite: http://ir.genmab.com/index.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Genmab A/S, a biotechnology company, develops antibody-based
+  products and product candidates for the treatment of cancer and other diseases in
+  Denmark. The company markets EPKINLY and TEPKINLY for adult patients with relapsed
+  or refractory (R/R) diffuse large b-cell lymphoma (DLBCL), large B-cell lymphoma,
+  and follicular lymphoma (FL); and Tivdak for adult patients with recurrent/metastatic
+  cervical cancer with disease progression on or after chemotherapy. It is also developing
+  Epcoritamab for R/R DLBCL and FL, first line DLBCL and FL, B-cell non-Hodgkin lymphoma,
+  R/R chronic lymphocytic leukemia and Richter's syndrome, and aggressive mature B-cell
+  neoplasms in pediatric patients; tisotumab vedotin for solid tumors; Acasunlimab
+  for solid tumors and non-small cell lung cancer (NSCLC); Rinatabart Sesutecan for
+  platinum resistant ovarian cancer and solid tumors; GEN1059, GEN1055, and GEN1057
+  for solid tumors; and GEN1286 for advanced solid tumors. In addition, the company
+  offers DARZALEX/DARZALEX FASPRO for multiple myeloma (MM) and light-chain Amyloidosis;
+  RYBREVANT for NSCLC; TECVAYLI and TALVEY for R/R MM; Kesimpta for Relapsing multiple
+  sclerosis; and TEPEZZA for thyroid eye disease. Further, it is developing Amivantamab
+  for recurrent/metastatic head and neck cancer, and advanced or metastatic colorectal
+  cancer; Amlenetug for multiple system atrophy; Inclacumab for vaso-occulsive crises
+  in sickle cell diseases; and Mim8 for hemophilia A. The company has a collaboration
+  agreement with AbbVie Inc., Pfizer Inc., BioNTech SE, Johnson & Johnson, Medarex,
+  Inc., Bristol Myers Squibb Corporation, Lundbeck A/S, Amgen Inc., Novo Nordisk A/S,
+  and argenx. Genmab A/S was incorporated in 1998 and is headquartered in Copenhagen,
+  Denmark.
+longName: Genmab A/S
+market: dk_market
+marketCap: 219445673984
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_665704
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 729000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 220802186065
+numberOfAnalystOpinions: 13
+open: 3600.0
+operatingCashflow: 875000000
+operatingMargins: 0.30633
+overallRisk: 5
+payoutRatio: 0.0
+pegRatio: 8.19
+phone: 45 70 20 27 28
+previousClose: 3581.0
+priceEpsCurrentYear: 40.75323
+priceHint: 2
+priceToBook: 5.3454185
+priceToSalesTrailing12Months: 51.081394
+profitMargins: 0.16969
+quickRatio: 2.431
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.4375
+region: US
+regularMarketChange: -22.0
+regularMarketChangePercent: -0.61435354
+regularMarketDayHigh: 3625.0
+regularMarketDayLow: 3496.0
+regularMarketDayRange: 3496.0 - 3625.0
+regularMarketOpen: 3600.0
+regularMarketPreviousClose: 3581.0
+regularMarketPrice: 3559.0
+regularMarketTime: 1794412470
+regularMarketVolume: 108198
+returnOnAssets: 0.08243
+returnOnEquity: 0.12066
+revenueGrowth: 0.161
+revenuePerShare: 69.879
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 61659365
+shortName: Genmab A/S
+sourceInterval: 15
+symbol: GMAB.CO
+targetHighPrice: 4523.0
+targetLowPrice: 3100.0
+targetMeanPrice: 4056.7693
+targetMedianPrice: 4400.0
+totalCash: 1871000064
+totalCashPerShare: 29.56
+totalDebt: 5198000128
+totalRevenue: 4296000000
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 75.25
+trailingPE: 47.29568
+trailingPegRatio: 8.0131
+triggerable: true
+twoHundredDayAverage: 2018.215
+twoHundredDayAverageChange: 1540.785
+twoHundredDayAverageChangePercent: 0.7634395
+typeDisp: Equity
+volume: 108198
+website: https://www.genmab.com
+zip: '2500'

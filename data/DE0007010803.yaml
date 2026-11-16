@@ -1,0 +1,233 @@
+52WeekChange: -0.052272737
+SandP52WeekChange: 0.097798586
+address1: Siegfried-Meister-Strasse 1
+allTimeHigh: 1033.5
+allTimeLow: 25.32
+ask: 632.0
+auditRisk: 4
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 13519
+averageDailyVolume3Month: 12782
+averageVolume: 12782
+averageVolume10days: 13519
+beta: 1.225
+bid: 631.0
+boardRisk: 9
+bookValue: 80.488
+city: Landsberg am Lech
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Peter  Stadelmann
+  title: Chairman of Executive Board & CEO
+  totalPay: 1862000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jorg  Walter
+  title: CFO & Member of Executive Board
+  totalPay: 972000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Markus  Paschmann
+  title: Chief Sales & Marketing Officer and Member of Executive Board
+  totalPay: 1397000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Ing Martin Hermann
+  title: CTO, COO & Member of Executive Board
+  totalPay: 1297000
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Arnold C.F.A.
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Simon  Lohse
+  title: Executive Vice President of Area North America
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Rune  Are
+  title: Chief Financial Officer for RATIONAL North America
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 631.5
+currentRatio: 3.989
+customPriceAlertConfidence: LOW
+dayHigh: 635.5
+dayLow: 628.0
+dividendRate: 16.0
+dividendYield: 2.54
+earningsCallTimestampEnd: 1793887200
+earningsCallTimestampStart: 1793887200
+earningsGrowth: 0.104
+earningsQuarterlyGrowth: 0.104
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 370198016
+ebitdaMargins: 0.28151
+enterpriseToEbitda: 17.829
+enterpriseToRevenue: 5.019
+enterpriseValue: 6600262144
+epsCurrentYear: 24.19116
+epsForward: 25.62624
+epsTrailingTwelveMonths: 23.97
+esgPopulated: false
+exDividendDate: 1777507200
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 8191 327 272
+fiftyDayAverage: 599.11
+fiftyDayAverageChange: 32.390015
+fiftyDayAverageChangePercent: 0.054063555
+fiftyTwoWeekChangePercent: -5.227274
+fiftyTwoWeekHigh: 776.5
+fiftyTwoWeekHighChange: -145.0
+fiftyTwoWeekHighChangePercent: -0.18673535
+fiftyTwoWeekLow: 553.5
+fiftyTwoWeekLowChange: 78.0
+fiftyTwoWeekLowChangePercent: 0.14092141
+fiftyTwoWeekRange: 553.5 - 776.5
+financialCurrency: EUR
+firstTradeDateMilliseconds: 952329600000
+fiveYearAvgDividendYield: 1.47
+floatShares: 6006885
+forwardEps: 25.62624
+forwardPE: 24.64271
+freeCashflow: 194490128
+fullExchangeName: XETRA
+fullTimeEmployees: 2920
+fulldayChange: 6.0
+fulldayChangePercent: 0.9592326
+fulldayPrice: 631.5
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.5854
+grossProfits: 769822016
+hasPrePostMarketData: false
+heldPercentInsiders: 0.5467
+heldPercentInstitutions: 0.30206
+impliedSharesOutstanding: 11370000
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777507200
+lastDividendValue: 20.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: RATIONAL Aktiengesellschaft engages in the development, production,
+  and sale of cooking systems for industrial kitchens in Germany, Austria, Switzerland,
+  United States, Canada, Mexico, China, Japan, and South Korea. The company offers
+  iCombi Pro; iCombi Classic; combi ovens; iVario Pro, a multi-functional cooking
+  system; The iHexagon; and ConnectedCooking, a digital kitchen management solution.
+  It also provides accessories, care products, service parts, and services. The company
+  serves restaurants and hotels; catering, such as company canteens, hospitals, schools,
+  universities, military facilities, prisons, and retirement homes; and quick service
+  restaurants, caterers, supermarkets, bakeries, snack outlets, butchers' shops, service
+  stations, and delivery services. It sells its products through independent distribution
+  partners. The company was founded in 1973 and is headquartered in Landsberg am Lech,
+  Germany.
+longName: RATIONAL Aktiengesellschaft
+market: de_market
+marketCap: 7180154880
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_5577768
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 272444992
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 7163100000
+numberOfAnalystOpinions: 14
+open: 628.5
+operatingCashflow: 288152992
+operatingMargins: 0.26396
+overallRisk: 9
+payoutRatio: 0.6675
+pegRatio: 2.83
+phone: 49 8191 3270
+previousClose: 625.5
+priceEpsCurrentYear: 26.104576
+priceHint: 2
+priceToBook: 7.84589
+priceToSalesTrailing12Months: 5.460078
+profitMargins: 0.20718001
+quickRatio: 3.242
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.78571
+region: US
+regularMarketChange: 6.0
+regularMarketChangePercent: 0.9592326
+regularMarketDayHigh: 635.5
+regularMarketDayLow: 628.0
+regularMarketDayRange: 628.0 - 635.5
+regularMarketOpen: 628.5
+regularMarketPreviousClose: 625.5
+regularMarketPrice: 631.5
+regularMarketTime: 1794411341
+regularMarketVolume: 3924
+returnOnAssets: 0.18938999
+returnOnEquity: 0.30512
+revenueGrowth: 0.065
+revenuePerShare: 115.658
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 9
+sharesOutstanding: 11370000
+shortName: RATIONAL AG                   I
+sourceInterval: 15
+symbol: RAA.DE
+targetHighPrice: 1070.0
+targetLowPrice: 595.0
+targetMeanPrice: 795.7143
+targetMedianPrice: 802.5
+totalCash: 511672992
+totalCashPerShare: 45.002
+totalDebt: 0
+totalRevenue: 1315027968
+tradeable: false
+trailingAnnualDividendRate: 16.0
+trailingAnnualDividendYield: 0.025579536
+trailingEps: 23.97
+trailingPE: 26.345432
+trailingPegRatio: 2.8326
+triggerable: false
+twoHundredDayAverage: 647.3275
+twoHundredDayAverageChange: -15.827515
+twoHundredDayAverageChangePercent: -0.024450552
+typeDisp: Equity
+volume: 3924
+website: https://www.rational-online.com
+zip: '86899'

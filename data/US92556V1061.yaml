@@ -1,0 +1,286 @@
+52WeekChange: 0.893733
+SandP52WeekChange: 0.097798586
+address1: Robert J. Coury Global Center
+address2: 1000 Mylan Boulevard
+allTimeHigh: 76.69
+allTimeLow: 1.0
+ask: 22.0
+askSize: 1
+auditRisk: 5
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 10065250
+averageDailyVolume3Month: 8873664
+averageVolume: 8873664
+averageVolume10days: 10065250
+beta: 0.871
+bid: 19.2
+bidSize: 2
+boardRisk: 1
+bookValue: 11.937
+city: Canonsburg
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott Andrew Smith Ph.D.
+  title: CEO & Director
+  totalPay: 5123318
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew  Enrietti
+  title: Chief Administrative & Transformation Officer
+  totalPay: 1940545
+  unexercisedValue: 0
+  yearBorn: 1985
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Corinne M. Le Goff M.B.A., Pharm.D.
+  title: Chief Commercial Officer
+  totalPay: 2334887
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul B. Campbell
+  title: Interim CFO, Chief Accounting Officer & Corporate Controller
+  totalPay: 3702783
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ramkumar V. Rayapureddy
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William  Szablewski C.F.A.
+  title: Head of Investor Relations & Capital Markets
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew Joseph Maletta
+  title: Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lara  Ramsburg
+  title: Chief People & Corporate Affairs Officer
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philippe  Martin
+  title: Chief R&D Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Burt  Park
+  title: Chief Governance Counsel & Corporate Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions:
+- header: Dividend
+  message: VTRS announced a cash dividend of $0.12 with an ex-date of Nov. 23, 2026
+  meta:
+    amount: '0.12'
+    dateEpochMs: 1795410000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 20.905
+currentRatio: 1.552
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 21.02
+dayLow: 20.595
+debtToEquity: 99.224
+displayName: Viatris
+dividendDate: 1797379200
+dividendRate: 0.48
+dividendYield: 2.3
+earningsCallTimestampEnd: 1793885400
+earningsCallTimestampStart: 1793885400
+earningsTimestamp: 1793885400
+earningsTimestampEnd: 1793885400
+earningsTimestampStart: 1793885400
+ebitda: 4376399872
+ebitdaMargins: 0.29716998
+enterpriseToEbitda: 8.106
+enterpriseToRevenue: 2.409
+enterpriseValue: 35476582400
+epsCurrentYear: 2.59115
+epsForward: 2.75076
+epsTrailingTwelveMonths: -0.53
+esgPopulated: false
+exDividendDate: 1795392000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 17.87
+fiftyDayAverageChange: 3.0349998
+fiftyDayAverageChangePercent: 0.1698377
+fiftyTwoWeekChangePercent: 89.37331
+fiftyTwoWeekHigh: 21.02
+fiftyTwoWeekHighChange: -0.11499977
+fiftyTwoWeekHighChangePercent: -0.005470969
+fiftyTwoWeekLow: 10.15
+fiftyTwoWeekLowChange: 10.755001
+fiftyTwoWeekLowChangePercent: 1.0596061
+fiftyTwoWeekRange: 10.15 - 21.02
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 3.95
+floatShares: 1139656252
+forwardEps: 2.75076
+forwardPE: 7.599718
+freeCashflow: 3158449920
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 30000
+fulldayChange: 0.055000305
+fulldayChangePercent: 0.26379043
+fulldayPrice: 20.905
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.41134
+grossProfits: 6057699840
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00319
+heldPercentInstitutions: 0.96319
+impliedSharesOutstanding: 1146454729
+industry: Drug Manufacturers - Specialty & Generic
+industryDisp: Drug Manufacturers - Specialty & Generic
+industryKey: drug-manufacturers-specialty-generic
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787270400
+lastDividendValue: 0.12
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1065657600
+lastSplitFactor: '3:2'
+longBusinessSummary: 'Viatris Inc., together with its subsidiaries, operates as a
+  healthcare company in North America, Europe, China, Taiwan, Hong Kong, Japan, Australia,
+  New Zealand, rest of Asia, Africa, Latin America, and the Middle East. It operates
+  in four segments: Developed Markets, Greater China, JANZ, and Emerging Markets.
+  The company offers prescription brand drugs, generic drugs, complex generic drugs,
+  and biosimilars. It also provides drugs in various therapeutic areas covering various
+  noncommunicable and infectious diseases, including cardiovascular, CNS and anesthesia,
+  dermatology, diabetes and metabolism, eye care, gastroenterology, immunology, oncology,
+  and respiratory and allergy, as well as support services, such as diagnostic clinics,
+  educational seminars, and digital tools to help patients better manage their health.
+  In addition, the company offers medicines in the form of oral solid doses, injectables,
+  and complex dosage forms to retail and pharmacy establishments, wholesalers and
+  distributors, payers, insurers and governments, and institutions. It distributes
+  its products through pharmaceutical wholesalers/distributors, pharmaceutical retailers,
+  institutional pharmacies, mail-order and e-commerce pharmacies, and specialty pharmacies
+  under the Lyrica, Lipitor, Celebrex, Viagra, Creon, Influvac, Wixela Inhub, EpiPen
+  Auto-Injector, Fraxiparine, Yupelri, Norvasc, Amitiza, Effexor, Lipacreon, Zoloft,
+  Xalabrands, Dymista, Xanax, and Breyna brands. The company has collaboration agreements
+  with Mapi Pharma Ltd. to develop and commercialize long-acting glatiramer acetate
+  depot products and additional products; Revance Therapeutics, Inc. to develop, manufacture,
+  and commercialize a biosimilar to the branded biologic product, BOTOX; and Theravance
+  Biopharma, Inc. to develop and commercialize revefenacin. Viatris Inc. was founded
+  in 1961 and is headquartered in Canonsburg, Pennsylvania.'
+longName: Viatris Inc.
+market: us_market
+marketCap: 23966638080
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_290203
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: -607800000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 23915045646
+numberOfAnalystOpinions: 10
+open: 20.99
+operatingCashflow: 2485299968
+operatingMargins: 0.11486
+overallRisk: 3
+payoutRatio: 9.6
+pegRatio: 3.73
+phone: 724 514 1800
+prevName: Mylan, Inc.
+previousClose: 20.85
+priceEpsCurrentYear: 8.067846
+priceHint: 2
+priceToBook: 1.7512776
+priceToSalesTrailing12Months: 1.6274055
+profitMargins: -0.04127
+quickRatio: 0.818
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: 0.055000305
+regularMarketChangePercent: 0.26379043
+regularMarketDayHigh: 21.02
+regularMarketDayLow: 20.595
+regularMarketDayRange: 20.595 - 21.02
+regularMarketOpen: 20.99
+regularMarketPreviousClose: 20.85
+regularMarketPrice: 20.905
+regularMarketTime: 1794413751
+regularMarketVolume: 7007905
+returnOnAssets: 0.02912
+returnOnEquity: -0.04206
+revenueGrowth: -0.003
+revenuePerShare: 12.75
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 7
+sharesOutstanding: 1146454729
+sharesPercentSharesOut: 0.0307
+sharesShort: 35240834
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 42038581
+shortName: Viatris Inc.
+shortPercentOfFloat: 0.0308
+shortRatio: 4.02
+sourceInterval: 15
+state: PA
+symbol: VTRS
+targetHighPrice: 28.0
+targetLowPrice: 14.0
+targetMeanPrice: 21.0
+targetMedianPrice: 21.5
+totalCash: 2006300032
+totalCashPerShare: 1.75
+totalDebt: 13579299840
+totalRevenue: 14726899712
+tradeable: false
+trailingAnnualDividendRate: 0.48
+trailingAnnualDividendYield: 0.023021583
+trailingEps: -0.53
+trailingPegRatio: 3.7264
+triggerable: true
+twoHundredDayAverage: 16.12525
+twoHundredDayAverageChange: 4.779751
+twoHundredDayAverageChangePercent: 0.29641408
+typeDisp: Equity
+volume: 7007905
+website: https://www.viatris.com
+zip: '15317'

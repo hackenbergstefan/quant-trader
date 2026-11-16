@@ -1,0 +1,245 @@
+52WeekChange: 0.18502057
+SandP52WeekChange: 0.097798586
+address1: 133, avenue des Champs-Élysées
+allTimeHigh: 109.3
+allTimeLow: 13.83
+ask: 0.0
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 444769
+averageDailyVolume3Month: 553566
+averageVolume: 553566
+averageVolume10days: 444769
+beta: 0.637
+bid: 0.0
+bidSize: 0
+boardRisk: 4
+bookValue: 42.123
+city: Paris
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Arthur  Sadoun
+  title: Chairman & CEO
+  totalPay: 4738000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Agathe  Bousquet
+  title: President
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Loris  Nold
+  title: Chief Financial Officer
+  totalPay: 1076471
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Michel  Bonamy
+  title: Deputy Chief Financial Officer of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Céline  Fronval
+  title: Group General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amy  Hadfield
+  title: Director of Global Communications
+  unexercisedValue: 0
+- age: 74
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Michel  Etienne
+  title: Special Advisor to the Chairman & CEO
+  totalPay: 1618000
+  unexercisedValue: 0
+  yearBorn: 1951
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alejandro Cardoso Mendoza
+  title: President & CEO of Publicis Communications Mexico and Regional Executive  Chairman
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Cesar  Bettencourt
+  title: Managing Director of Publicis Ecuador
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anupriya  Acharya
+  title: Chief Executive Officer of South Asia
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 105.15
+currentRatio: 0.94
+customPriceAlertConfidence: LOW
+dayHigh: 105.7
+dayLow: 103.45
+debtToEquity: 51.925
+dividendRate: 3.75
+dividendYield: 3.61
+earningsCallTimestampEnd: 1784187000
+earningsCallTimestampStart: 1784187000
+earningsGrowth: -0.031
+earningsQuarterlyGrowth: -0.038
+earningsTimestampEnd: 1784215800
+earningsTimestampStart: 1784215800
+ebitda: 2926000128
+ebitdaMargins: 0.16578
+enterpriseToEbitda: 9.999
+enterpriseToRevenue: 1.658
+enterpriseValue: 29257506816
+epsCurrentYear: 7.86165
+epsForward: 8.60205
+epsTrailingTwelveMonths: 6.42
+esgPopulated: false
+exDividendDate: 1782864000
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 99.1
+fiftyDayAverageChange: 6.050003
+fiftyDayAverageChangePercent: 0.061049476
+fiftyTwoWeekChangePercent: 18.502056
+fiftyTwoWeekHigh: 106.0
+fiftyTwoWeekHighChange: -0.8499985
+fiftyTwoWeekHighChangePercent: -0.008018853
+fiftyTwoWeekLow: 68.14
+fiftyTwoWeekLowChange: 37.010002
+fiftyTwoWeekLowChangePercent: 0.5431465
+fiftyTwoWeekRange: 68.14 - 106.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 969346800000
+fiveYearAvgDividendYield: 3.72
+floatShares: 236203677
+forwardEps: 8.60205
+forwardPE: 12.223831
+freeCashflow: 2018625024
+fullExchangeName: Paris
+fullTimeEmployees: 115782
+fulldayChange: 1.2000046
+fulldayChangePercent: 1.1544056
+fulldayPrice: 105.15
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.46674
+grossProfits: 8238000128
+hasPrePostMarketData: false
+heldPercentInsiders: 0.07317
+heldPercentInstitutions: 0.63949
+impliedSharesOutstanding: 249721079
+industry: Advertising Agencies
+industryDisp: Advertising Agencies
+industryKey: advertising-agencies
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1782864000
+lastDividendValue: 3.75
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Publicis Groupe S.A., together with its subsidiaries, provides
+  marketing, communications, and digital business transformation services in North
+  America, Europe, the Asia Pacific, Latin America, Africa, and the Middle East, and
+  internationally. The company offers power of one, publicis communications; publicis
+  sapient; publicis media; publicis health; and other services. Publicis Groupe S.A.
+  was founded in 1926 and is headquartered in Paris, France.
+longName: Publicis Groupe S.A.
+market: fr_market
+marketCap: 26258171904
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_528424
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1622000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 25783701406
+numberOfAnalystOpinions: 16
+open: 103.7
+operatingCashflow: 2696999936
+operatingMargins: 0.14861
+overallRisk: 4
+payoutRatio: 0.5841
+pegRatio: 1.71
+phone: 33 1 44 43 70 00
+previousClose: 103.95
+priceEpsCurrentYear: 13.375055
+priceHint: 2
+priceToBook: 2.496261
+priceToSalesTrailing12Months: 1.4877151
+profitMargins: 0.0919
+quickRatio: 0.903
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.625
+region: US
+regularMarketChange: 1.2000046
+regularMarketChangePercent: 1.1544056
+regularMarketDayHigh: 105.7
+regularMarketDayLow: 103.45
+regularMarketDayRange: 103.45 - 105.7
+regularMarketOpen: 103.7
+regularMarketPreviousClose: 103.95
+regularMarketPrice: 105.15
+regularMarketTime: 1794411491
+regularMarketVolume: 102056
+returnOnAssets: 0.04302
+returnOnEquity: 0.16179001
+revenueGrowth: 0.03
+revenuePerShare: 70.472
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 5
+sharesOutstanding: 249721079
+shortName: PUBLICIS GROUPE SA
+sourceInterval: 15
+symbol: PUB.PA
+targetHighPrice: 145.0
+targetLowPrice: 100.0
+targetMeanPrice: 116.0
+targetMedianPrice: 115.0
+totalCash: 2128000000
+totalCashPerShare: 8.522
+totalDebt: 5449999872
+totalRevenue: 17649999872
+tradeable: false
+trailingAnnualDividendRate: 3.75
+trailingAnnualDividendYield: 0.036075037
+trailingEps: 6.42
+trailingPE: 16.378504
+trailingPegRatio: 1.7092
+triggerable: false
+twoHundredDayAverage: 87.2876
+twoHundredDayAverageChange: 17.862404
+twoHundredDayAverageChangePercent: 0.20463851
+typeDisp: Equity
+volume: 102056
+website: https://www.publicisgroupe.com
+zip: '75008'

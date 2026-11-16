@@ -1,0 +1,257 @@
+52WeekChange: 0.1827625
+SandP52WeekChange: 0.097798586
+address1: Tweede Weteringplantsoen 21
+address2: PO Box 28
+allTimeHigh: 106.3
+allTimeLow: 12.6739
+ask: 0.0
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 771663
+averageDailyVolume3Month: 671663
+averageVolume: 671663
+averageVolume10days: 771663
+beta: 0.515
+bid: 0.0
+bidSize: 0
+boardRisk: 2
+bookValue: 34.867
+city: Amsterdam
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Harold P. J. van den Broek
+  title: CFO & Member of Executive Board
+  totalPay: 2250323
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rudolf Gijsbert Servaas van den Brink
+  title: Advisor
+  totalPay: 3839757
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Romain  Apert
+  title: Chief Digital & Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Raoul-Tristan  Van Strien
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ernst Willem Arnod Van de Weert
+  title: Executive Director of Global Legal Affairs
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christiaan  Prins
+  title: Director of Global Communication
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Yolanda  Talamo
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jan Cornelis van der Linden
+  title: President of the Asia Pacific Region
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Magne  Setnes
+  title: Chief Supply Chain Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wietse  Mutters
+  title: Managing Director of Italy
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 83.04
+currentRatio: 0.75
+customPriceAlertConfidence: LOW
+dayHigh: 84.06
+dayLow: 82.9
+debtToEquity: 95.107
+dividendRate: 1.92
+dividendYield: 2.28
+earningsCallTimestampEnd: 1785943800
+earningsCallTimestampStart: 1785943800
+earningsGrowth: 0.541
+earningsQuarterlyGrowth: 0.512
+earningsTimestampEnd: 1785943800
+earningsTimestampStart: 1785943800
+ebitda: 5533000192
+ebitdaMargins: 0.18811001
+enterpriseToEbitda: 12.038
+enterpriseToRevenue: 2.264
+enterpriseValue: 66606882816
+epsCurrentYear: 5.28642
+epsForward: 5.70954
+epsTrailingTwelveMonths: 4.1
+esgPopulated: false
+exDividendDate: 1786060800
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 74.3192
+fiftyDayAverageChange: 8.720802
+fiftyDayAverageChangePercent: 0.117342524
+fiftyTwoWeekChangePercent: 18.27625
+fiftyTwoWeekHigh: 84.64
+fiftyTwoWeekHighChange: -1.5999985
+fiftyTwoWeekHighChangePercent: -0.018903574
+fiftyTwoWeekLow: 63.9
+fiftyTwoWeekLowChange: 19.14
+fiftyTwoWeekLowChangePercent: 0.2995305
+fiftyTwoWeekRange: 63.9 - 84.64
+financialCurrency: EUR
+firstTradeDateMilliseconds: 796287600000
+fiveYearAvgDividendYield: 1.91
+floatShares: 258744633
+forwardEps: 5.70954
+forwardPE: 14.544079
+freeCashflow: 3003624960
+fullExchangeName: Amsterdam
+fullTimeEmployees: 85000
+fulldayChange: -1.2200012
+fulldayChangePercent: -1.4479008
+fulldayPrice: 83.04
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.36982
+grossProfits: 10878000128
+hasPrePostMarketData: false
+heldPercentInsiders: 0.51019
+heldPercentInstitutions: 0.26298
+impliedSharesOutstanding: 558198135
+industry: Beverages - Brewers
+industryDisp: Beverages - Brewers
+industryKey: beverages-brewers
+irWebsite: http://www.heinekeninternational.com/investors.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786060800
+lastDividendValue: 0.76
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Heineken N.V. brews and sells beer and cider in Europe, the Americas,
+  Africa, the Middle East, and the Asia Pacific. The company also provides soft drinks.
+  It sells its products under the Heineken, Heineken 0.0, Heineken Silver, Amstel,
+  Moretti, Tiger, Desperados, Edelweiss, Lagunitas, Orchard Thieves, Windhoek, Dos
+  Equis, Red Stripe, Kingfisher, Bintang, Gosser, Affligem, Mort Subite, Strongbow,
+  Stassen, Bulmers, Old Mout, Savanna, Turbo King, Tecate, Lagunitas Hoppy Refresher,
+  Bia Viet, Tiger Crystal, Birra Moretti, Harar, Cruzcampo, Bernini, Legend Stout,
+  Beavertown, Stëlz, Texels, Ladrón, Bandida, Stibitzer, El Aguila, and Murphy's brands.
+  In addition, the company engages in rental of pubs and bars; wholesale activities;
+  and pub management and technical services. The company offers its products to retailers,
+  wholesalers and distributors, bars, restaurants, clubs, cafes, and hotels. Heineken
+  N.V. was incorporated in 1864 and is headquartered in Amsterdam, the Netherlands.
+  Heineken N.V. is a subsidiary of Heineken Holding N.V.
+longName: Heineken N.V.
+market: nl_market
+marketCap: 46352773120
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_410350
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 2265999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 47062242433
+numberOfAnalystOpinions: 23
+open: 83.82
+operatingCashflow: 5808000000
+operatingMargins: 0.11913
+overallRisk: 1
+payoutRatio: 0.4634
+pegRatio: 1.42
+phone: 31 20 523 9239
+previousClose: 84.26
+priceEpsCurrentYear: 15.708174
+priceHint: 2
+priceToBook: 2.3816216
+priceToSalesTrailing12Months: 1.5758744
+profitMargins: 0.07704
+quickRatio: 0.514
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.82609
+region: US
+regularMarketChange: -1.2200012
+regularMarketChangePercent: -1.4479008
+regularMarketDayHigh: 84.06
+regularMarketDayLow: 82.9
+regularMarketDayRange: 82.9 - 84.06
+regularMarketOpen: 83.82
+regularMarketPreviousClose: 84.26
+regularMarketPrice: 83.04
+regularMarketTime: 1794411548
+regularMarketVolume: 191776
+returnOnAssets: 0.03994
+returnOnEquity: 0.121309996
+revenueGrowth: 0.047
+revenuePerShare: 53.347
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 2
+sharesOutstanding: 558198135
+shortName: HEINEKEN
+sourceInterval: 15
+symbol: HEIA.AS
+targetHighPrice: 126.0
+targetLowPrice: 70.0
+targetMeanPrice: 89.26652
+targetMedianPrice: 89.0
+totalCash: 2831000064
+totalCashPerShare: 5.162
+totalDebt: 20643999744
+totalRevenue: 29414000640
+tradeable: false
+trailingAnnualDividendRate: 1.92
+trailingAnnualDividendYield: 0.022786612
+trailingEps: 4.1
+trailingPE: 20.253658
+trailingPegRatio: 1.4357
+triggerable: false
+twoHundredDayAverage: 72.2569
+twoHundredDayAverageChange: 10.783104
+twoHundredDayAverageChangePercent: 0.14923286
+typeDisp: Equity
+volume: 191776
+website: https://www.theheinekencompany.com
+zip: 1017 ZD

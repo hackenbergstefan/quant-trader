@@ -1,0 +1,228 @@
+52WeekChange: -0.09788954
+SandP52WeekChange: 0.097798586
+address1: Weston Centre
+address2: 10 Grosvenor Street
+allTimeHigh: 3606.0
+allTimeLow: 163.6363
+ask: 1990.5
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 3.6 - Underperform
+averageDailyVolume10Day: 847207
+averageDailyVolume3Month: 792054
+averageVolume: 792054
+averageVolume10days: 847207
+beta: 0.87
+bid: 1989.5
+bidSize: 0
+boardRisk: 3
+bookValue: 16.592
+city: London
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. George Garfield Weston
+  title: CEO & Executive Director
+  totalPay: 1529000
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Sue Rachel Whalley
+  title: Chief People & Performance Officer
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Paul Andrew Lister L.L.B.
+  title: Company Secretary
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Lynne  Walker
+  title: Director of Primark Cares
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Katharine  Stewart
+  title: Ethical Trade & Environmental Sustainability Director
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: ABF.L announced a cash dividend of GBp 0.423 with an ex-date of Dec. 10,
+    2026
+  meta:
+    amount: '0.423'
+    dateEpochMs: 1796860800000
+    eventType: DIVIDEND
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 1989.5
+currentRatio: 1.5
+customPriceAlertConfidence: LOW
+dayHigh: 2014.0
+dayLow: 1986.0
+debtToEquity: 32.736
+dividendRate: 0.63
+dividendYield: 3.14
+earningsCallTimestampEnd: 1793696400
+earningsCallTimestampStart: 1793696400
+earningsGrowth: -0.018
+earningsQuarterlyGrowth: -0.04
+earningsTimestamp: 1793723400
+earningsTimestampEnd: 1793723400
+earningsTimestampStart: 1793723400
+ebitda: 2176999936
+ebitdaMargins: 0.111169994
+enterpriseToEbitda: 7.837
+enterpriseToRevenue: 0.871
+enterpriseValue: 17060105216
+epsCurrentYear: 1.48567
+epsForward: 1.65787
+epsTrailingTwelveMonths: 1.32
+esgPopulated: false
+exDividendDate: 1796860800
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 1907.55
+fiftyDayAverageChange: 81.94995
+fiftyDayAverageChangePercent: 0.042960837
+fiftyTwoWeekChangePercent: -9.788954
+fiftyTwoWeekHigh: 2251.0
+fiftyTwoWeekHighChange: -261.5
+fiftyTwoWeekHighChangePercent: -0.11617059
+fiftyTwoWeekLow: 1729.45
+fiftyTwoWeekLowChange: 260.05005
+fiftyTwoWeekLowChangePercent: 0.15036575
+fiftyTwoWeekRange: 1729.45 - 2251.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 2.09
+floatShares: 252924932
+forwardEps: 1.65787
+forwardPE: 12.000337
+freeCashflow: 628625024
+fullExchangeName: LSE
+fullTimeEmployees: 140000
+fulldayChange: -19.5
+fulldayChangePercent: -0.97063214
+fulldayPrice: 1989.5
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.06971
+grossProfits: 1364999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.60537
+heldPercentInstitutions: 0.20829001
+impliedSharesOutstanding: 699557272
+industry: Packaged Foods
+industryDisp: Packaged Foods
+industryKey: packaged-foods
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1796860800
+lastDividendValue: 0.423
+lastFiscalYearEnd: 1789171200
+lastSplitDate: 926294400
+lastSplitFactor: 88:100
+longBusinessSummary: Associated British Foods plc engages in the food, ingredients,
+  and retail businesses in the United Kingdom, Europe, the Americas, Africa, and the
+  Asia Pacific. It operates through Retail, Grocery, and Ingredients segments. The
+  Retail segment is involved in buying and merchandising clothing and accessories
+  through the Primark and Penneys retail chains, which offer women's, men's, and kidswear,
+  as well as beauty, homeware, and accessories. The Grocery segment offers hot beverages,
+  sugar, vegetable oils, balsamic vinegars, bread and baked goods, cereals, international
+  food and meat products to retail, wholesale, and foodservice businesses. The Ingredients
+  segment manufactures yeast and bakery ingredients; specialty ingredients focused
+  on enzymes, procession extracts, health and nutrition; and pharmaceutical delivery
+  systems. The company was incorporated in 1934 and is headquartered in London, the
+  United Kingdom. Associated British Foods plc operates as a subsidiary of Wittington
+  Investments Limited.
+longName: Associated British Foods plc
+market: gb_market
+marketCap: 13917691904
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_531195
+mostRecentQuarter: 1789171200
+netIncomeToCommon: 930000000
+nextFiscalYearEnd: 1820707200
+nonDilutedMarketCap: 14054105594
+numberOfAnalystOpinions: 18
+open: 2008.0
+operatingCashflow: 2483000064
+operatingMargins: 0.07435
+overallRisk: 2
+payoutRatio: 0.47759998
+pegRatio: 2.51
+previousClose: 2009.0
+priceEpsCurrentYear: 1339.1265
+priceHint: 2
+priceToBook: 1.1990719
+priceToSalesTrailing12Months: 0.7107391
+profitMargins: 0.04749
+quickRatio: 0.639
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: underperform
+recommendationMean: 3.55556
+region: US
+regularMarketChange: -19.5
+regularMarketChangePercent: -0.97063214
+regularMarketDayHigh: 2014.0
+regularMarketDayLow: 1986.0
+regularMarketDayRange: 1986.0 - 2014.0
+regularMarketOpen: 2008.0
+regularMarketPreviousClose: 2009.0
+regularMarketPrice: 1989.5
+regularMarketTime: 1794411480
+regularMarketVolume: 140574
+returnOnAssets: 0.04601
+returnOnEquity: 0.08181
+revenueGrowth: 0.016
+revenuePerShare: 27.776
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 9
+sharesOutstanding: 699557272
+shortName: ASSOCIATED BRITISH FOODS PLC OR
+sourceInterval: 15
+symbol: ABF.L
+targetHighPrice: 2000.0
+targetLowPrice: 1510.0
+targetMeanPrice: 1808.889
+targetMedianPrice: 1810.0
+totalCash: 1010000000
+totalCashPerShare: 1.444
+totalDebt: 3852999936
+totalRevenue: 19581999104
+tradeable: false
+trailingAnnualDividendRate: 0.63
+trailingAnnualDividendYield: 0.00031358885
+trailingEps: 1.32
+trailingPE: 15.071969
+trailingPegRatio: 2.5224
+triggerable: false
+twoHundredDayAverage: 1919.835
+twoHundredDayAverageChange: 69.66504
+twoHundredDayAverageChangePercent: 0.036286995
+typeDisp: Equity
+volume: 140574
+website: https://www.abf.co.uk
+zip: W1K 4QY

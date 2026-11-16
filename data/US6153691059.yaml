@@ -1,0 +1,286 @@
+52WeekChange: 0.040481567
+SandP52WeekChange: 0.097798586
+address1: 7 World Trade Ctr at 250 Greenwich St
+allTimeHigh: 546.88
+allTimeLow: 6.875
+ask: 509.03
+askSize: 120
+auditRisk: 2
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1000080
+averageDailyVolume3Month: 834170
+averageVolume: 834170
+averageVolume10days: 1000080
+beta: 1.299
+bid: 508.55
+bidSize: 200
+boardRisk: 4
+bookValue: 18.953
+city: New York
+companyOfficers:
+- age: 55
+  exercisedValue: 3185237
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert Scott Fauber
+  title: President, CEO & Director
+  totalPay: 3368212
+  unexercisedValue: 20870980
+  yearBorn: 1970
+- age: 47
+  exercisedValue: 91204
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Noemie Clemence Heuland CPA
+  title: Senior VP & CFO
+  totalPay: 1894500
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 55
+  exercisedValue: 335404
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard  Steele
+  title: Senior VP & General Counsel
+  totalPay: 1205813
+  unexercisedValue: 236519
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 493310
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael L. West
+  title: President of Moody's Investors Service Inc. & CEO of Moody's Ratings
+  totalPay: 2299671
+  unexercisedValue: 400519
+  yearBorn: 1969
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason  Phillips
+  title: Chief Accounting Officer & Corporate Controller
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tameka Brown Alsop P.M.P.
+  title: Senior VP & Chief Administrative Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shivani  Kak
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew  Weinberg
+  title: Chief Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Adler
+  title: Senior Vice President of Corporate Communications
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maral  Kazanjian
+  title: Senior VP & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions:
+- header: Dividend
+  message: MCO announced a cash dividend of $1.03 with an ex-date of Nov. 20, 2026
+  meta:
+    amount: '1.03'
+    dateEpochMs: 1795150800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 509.08
+currentRatio: 1.287
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 509.97
+dayLow: 505.45
+debtToEquity: 223.271
+displayName: Moody's
+dividendDate: 1796947200
+dividendRate: 4.12
+dividendYield: 0.81
+earningsCallTimestampEnd: 1792587600
+earningsCallTimestampStart: 1792587600
+earningsGrowth: 0.178
+earningsQuarterlyGrowth: 0.136
+earningsTimestamp: 1792585800
+earningsTimestampEnd: 1792585800
+earningsTimestampStart: 1792585800
+ebitda: 4048999936
+ebitdaMargins: 0.49523
+enterpriseToEbitda: 23.265
+enterpriseToRevenue: 11.521
+enterpriseValue: 94199701504
+epsCurrentYear: 16.76667
+epsForward: 18.6223
+epsTrailingTwelveMonths: 16.39
+esgPopulated: false
+exDividendDate: 1795132800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 477.5264
+fiftyDayAverageChange: 31.553589
+fiftyDayAverageChangePercent: 0.06607716
+fiftyTwoWeekChangePercent: 4.0481567
+fiftyTwoWeekHigh: 546.88
+fiftyTwoWeekHighChange: -37.80002
+fiftyTwoWeekHighChangePercent: -0.0691194
+fiftyTwoWeekLow: 402.28
+fiftyTwoWeekLowChange: 106.79999
+fiftyTwoWeekLowChangePercent: 0.2654867
+fiftyTwoWeekRange: 402.28 - 546.88
+financialCurrency: USD
+firstTradeDateMilliseconds: 783613800000
+fiveYearAvgDividendYield: 0.81
+floatShares: 157766311
+forwardEps: 18.6223
+forwardPE: 27.337118
+freeCashflow: 2534625024
+fullExchangeName: NYSE
+fullTimeEmployees: 15636
+fulldayChange: -1.6300049
+fulldayChangePercent: -0.31916448
+fulldayPrice: 509.08
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.74633
+grossProfits: 6102000128
+hasPrePostMarketData: true
+heldPercentInsiders: 0.14453
+heldPercentInstitutions: 0.80328006
+impliedSharesOutstanding: 172424082
+industry: Financial Data & Stock Exchanges
+industryDisp: Financial Data & Stock Exchanges
+industryKey: financial-data-stock-exchanges
+irWebsite: http://ir.moodys.com/index.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 1.03
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1116460800
+lastSplitFactor: '2:1'
+longBusinessSummary: Moody's Corporation, together with its subsidiaries, operates
+  as an integrated risk assessment firm in the United States, the rest of the Americas,
+  Europe, the Middle East, Africa, and the Asia Pacific. It operates through two segments,
+  Moody's Analytics (MA) and Moody's Investors Service (MIS). The MA segment develops
+  a range of products and services that support the risk management activities of
+  institutional participants in financial markets. This segment also offers credit
+  research, credit models and analytics, economic data and models, and structured
+  finance solutions; data sets on companies and securities; and cloud-based SaaS subscription
+  solutions supporting banking, insurance, and know-your-customer workflows. The MIS
+  segment publishes credit ratings and provides assessment services on various debt
+  obligations, programs and facilities, and entities that issue such obligations,
+  including corporate, financial institution, and governmental obligations, as well
+  as structured finance securities. It also provides ratings, investment research,
+  compliance and third-party risk, supplier risk, trade credit, business intelligence
+  sales and marketing, financial and regulatory reporting, balance sheet management,
+  capital management, credit portfolio management, and model risk and governance solutions;
+  Maxsight, a unified risk platform; lending suite, origination, and monitoring solutions;
+  and property, casualty, and sustainable insurance underwriting solutions. The company
+  serves the financial, banking, insurance, corporate, public, and asset management
+  sectors. The company was formerly known as Dun and Bradstreet Company and changed
+  its name to Moody's Corporation in September 2000. Moody's Corporation was founded
+  in 1900 and is headquartered in New York, New York.
+longName: Moody's Corporation
+market: us_market
+marketCap: 87777648640
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_528325
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2883000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 88058702918
+numberOfAnalystOpinions: 21
+open: 507.41
+operatingCashflow: 3328999936
+operatingMargins: 0.46036997
+overallRisk: 3
+payoutRatio: 0.2459
+pegRatio: 1.85
+phone: 212 553 0300
+previousClose: 510.71
+priceEpsCurrentYear: 30.362617
+priceHint: 2
+priceToBook: 26.860128
+priceToSalesTrailing12Months: 10.736013
+profitMargins: 0.35262
+quickRatio: 1.071
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.75
+region: US
+regularMarketChange: -1.6300049
+regularMarketChangePercent: -0.31916448
+regularMarketDayHigh: 509.97
+regularMarketDayLow: 505.45
+regularMarketDayRange: 505.45 - 509.97
+regularMarketOpen: 507.41
+regularMarketPreviousClose: 510.71
+regularMarketPrice: 509.08
+regularMarketTime: 1794413744
+regularMarketVolume: 93785
+returnOnAssets: 0.15556
+returnOnEquity: 0.76741
+revenueGrowth: 0.008
+revenuePerShare: 46.607
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 4
+sharesOutstanding: 172424082
+sharesPercentSharesOut: 0.0182
+sharesShort: 3141840
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2802723
+shortName: Moody's Corporation
+shortPercentOfFloat: 0.021300001
+shortRatio: 3.19
+sourceInterval: 15
+state: NY
+symbol: MCO
+targetHighPrice: 600.0
+targetLowPrice: 480.0
+targetMeanPrice: 552.4762
+targetMedianPrice: 560.0
+totalCash: 1620999936
+totalCashPerShare: 9.401
+totalDebt: 7617999872
+totalRevenue: 8176000000
+tradeable: false
+trailingAnnualDividendRate: 4.03
+trailingAnnualDividendYield: 0.007890976
+trailingEps: 16.39
+trailingPE: 31.060404
+trailingPegRatio: 1.8541
+triggerable: true
+twoHundredDayAverage: 466.20184
+twoHundredDayAverageChange: 42.878143
+twoHundredDayAverageChangePercent: 0.09197335
+typeDisp: Equity
+volume: 93785
+website: https://www.moodys.com
+zip: '10007'

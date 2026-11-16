@@ -1,0 +1,261 @@
+52WeekChange: 0.013698578
+SandP52WeekChange: 0.097798586
+address1: Industriveien 51
+allTimeHigh: 785.5
+allTimeLow: 22.0
+ask: 593.0
+askSize: 500
+auditRisk: 8
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 241451
+averageDailyVolume3Month: 194500
+averageVolume: 194500
+averageVolume10days: 241451
+beta: 0.608
+bid: 592.0
+bidSize: 178
+boardRisk: 9
+bookValue: 138.654
+city: Kverva
+companyOfficers:
+- age: 72
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gustav Magnar Witzoe
+  title: Co-Founder & Chairman
+  totalPay: 615000
+  unexercisedValue: 0
+  yearBorn: 1953
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frode  Arntsen
+  title: President & CEO
+  totalPay: 6466000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ulrik  Steinvik
+  title: Chief Financial Officer
+  totalPay: 4003000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Roger  Bekken
+  title: C.T.O.
+  totalPay: 3955000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Simon  Sobstad
+  title: Chief Operating Officer of Sales & Industry
+  totalPay: 3563000
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Arthur  Wisniewski
+  title: Director of Human Resource Management
+  totalPay: 2745000
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Runar  Sivertsen
+  title: Chief Strategy Officer
+  totalPay: 3541000
+  unexercisedValue: 0
+  yearBorn: 1985
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anders  Fjellheim
+  title: COO of Farming
+  totalPay: 3672570
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Tonette  Bjørgård
+  title: Head of Accounting
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hakon  Husby
+  title: Head of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: Norway
+cryptoTradeable: false
+currency: NOK
+currentPrice: 593.5
+currentRatio: 1.388
+customPriceAlertConfidence: LOW
+dayHigh: 594.5
+dayLow: 586.0
+debtToEquity: 100.58
+dividendRate: 10.0
+dividendYield: 1.69
+earningsCallTimestampEnd: 1793696400
+earningsCallTimestampStart: 1793696400
+earningsGrowth: 3.435
+earningsQuarterlyGrowth: 3.538
+earningsTimestamp: 1793719200
+earningsTimestampEnd: 1793719200
+earningsTimestampStart: 1793719200
+ebitda: 7388000256
+ebitdaMargins: 0.23957
+enterpriseToEbitda: 13.901
+enterpriseToRevenue: 3.33
+enterpriseValue: 102700392448
+epsCurrentYear: 25.4424
+epsForward: 35.4303
+epsTrailingTwelveMonths: 24.2
+esgPopulated: false
+exDividendDate: 1782172800
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 47 72 44 79 01
+fiftyDayAverage: 567.49
+fiftyDayAverageChange: 26.01001
+fiftyDayAverageChangePercent: 0.045833424
+fiftyTwoWeekChangePercent: 1.3698578
+fiftyTwoWeekHigh: 627.0
+fiftyTwoWeekHighChange: -33.5
+fiftyTwoWeekHighChangePercent: -0.053429026
+fiftyTwoWeekLow: 448.0
+fiftyTwoWeekLowChange: 145.5
+fiftyTwoWeekLowChangePercent: 0.3247768
+fiftyTwoWeekRange: 448.0 - 627.0
+financialCurrency: NOK
+firstTradeDateMilliseconds: 1178607600000
+fiveYearAvgDividendYield: 3.74
+floatShares: 69672099
+forwardEps: 35.4303
+forwardPE: 16.751198
+freeCashflow: 4925624832
+fullExchangeName: Oslo
+fullTimeEmployees: 3066
+fulldayChange: 1.5
+fulldayChangePercent: 0.25337836
+fulldayPrice: 593.5
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.4966
+grossProfits: 15313999872
+hasPrePostMarketData: false
+heldPercentInsiders: 0.04216
+heldPercentInstitutions: 0.77771
+impliedSharesOutstanding: 135438162
+industry: Farm Products
+industryDisp: Farm Products
+industryKey: farm-products
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1782172800
+lastDividendValue: 10.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: SalMar ASA, an aquaculture company, produces and sells farmed
+  salmon in Norway, Asia, Europe, North America, and internationally. The company
+  operates through Fish Farming Central Norway, Fish Farming Northern Norway, Icelandic
+  Salmon, Sales & Industry, and SalMar Aker Ocean segments. It also engages in the
+  broodstock, marine-phase farming, harvesting, processing, and smolt production activities.
+  In addition, the company offers fish fillets and related products. SalMar ASA was
+  incorporated in 1991 and is headquartered in Kverva, Norway.
+longName: SalMar ASA
+market: no_market
+marketCap: 80382550016
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_33939025
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3279000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 78825010284
+numberOfAnalystOpinions: 12
+open: 593.0
+operatingCashflow: 8375000064
+operatingMargins: 0.18526
+overallRisk: 9
+payoutRatio: 0.4125
+pegRatio: 1.3
+phone: 47 72 44 79 00
+previousClose: 592.0
+priceEpsCurrentYear: 23.327202
+priceHint: 2
+priceToBook: 4.280439
+priceToSalesTrailing12Months: 2.6066072
+profitMargins: 0.10633001
+quickRatio: 0.21
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.16667
+region: US
+regularMarketChange: 1.5
+regularMarketChangePercent: 0.25337836
+regularMarketDayHigh: 594.5
+regularMarketDayLow: 586.0
+regularMarketDayRange: 586.0 - 594.5
+regularMarketOpen: 593.0
+regularMarketPreviousClose: 592.0
+regularMarketPrice: 593.5
+regularMarketTime: 1794410948
+regularMarketVolume: 129833
+returnOnAssets: 0.0617
+returnOnEquity: 0.16594
+revenueGrowth: 0.102
+revenuePerShare: 226.492
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 1
+sharesOutstanding: 135438162
+shortName: SALMAR
+sourceInterval: 15
+symbol: SALM.OL
+targetHighPrice: 710.0
+targetLowPrice: 535.0
+targetMeanPrice: 619.8333
+targetMedianPrice: 625.0
+totalCash: 581000000
+totalCashPerShare: 4.29
+totalDebt: 21001000960
+totalRevenue: 30837999616
+tradeable: false
+trailingAnnualDividendRate: 10.0
+trailingAnnualDividendYield: 0.016891891
+trailingEps: 24.2
+trailingPE: 24.524792
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 550.1795
+twoHundredDayAverageChange: 43.320496
+twoHundredDayAverageChangePercent: 0.07873884
+typeDisp: Equity
+volume: 129833
+website: https://www.salmar.no
+zip: '7266'

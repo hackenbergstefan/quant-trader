@@ -1,0 +1,277 @@
+52WeekChange: 0.2472074
+SandP52WeekChange: 0.097798586
+address1: 500 North Broadway
+address2: Suite 201
+allTimeHigh: 53.6
+allTimeLow: 4.277778
+ask: 25.56
+askSize: 1200
+auditRisk: 3
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 8650110
+averageDailyVolume3Month: 5547807
+averageVolume: 5547807
+averageVolume10days: 8650110
+beta: 0.931
+bid: 25.54
+bidSize: 1500
+boardRisk: 5
+bookValue: 15.286
+city: Jericho
+companyOfficers:
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Conor C. Flynn
+  title: Chief Executive Officer
+  totalPay: 4501349
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ross  Cooper
+  title: President, Chief Investment Officer & Director
+  totalPay: 2102108
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Glenn Gary Cohen CPA
+  title: Executive VP & CFO
+  totalPay: 2031267
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Jamieson
+  title: Executive VP, COO & Director
+  totalPay: 2017956
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 62
+  exercisedValue: 5256
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Raymond  Edwards
+  title: Executive Vice President of Retailer Services
+  totalPay: 506111
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bruce M. Rubenstein
+  title: Executive VP, General Counsel & Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Leah  Landro
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kathleen  Thayer
+  title: Executive VP, Chief Accounting Officer & Treasurer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Will  Teichman
+  title: Executive VP, Chief Innovation & Transformation Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Domb
+  title: Vice President of Research & Data Analytics
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: KIM announced a cash dividend of $0.28 with an ex-date of Dec. 4, 2026
+  meta:
+    amount: '0.28'
+    dateEpochMs: 1796360400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 25.57
+currentRatio: 1.053
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 25.705
+dayLow: 25.51
+debtToEquity: 83.244
+displayName: Kimco Realty
+dividendDate: 1797552000
+dividendRate: 1.12
+dividendYield: 4.36
+earningsCallTimestampEnd: 1793277000
+earningsCallTimestampStart: 1793277000
+earningsGrowth: 1.137
+earningsQuarterlyGrowth: 1.026
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 1349201024
+ebitdaMargins: 0.61399
+enterpriseToEbitda: 18.721
+enterpriseToRevenue: 11.495
+enterpriseValue: 25259034624
+epsCurrentYear: 0.84
+epsForward: 0.8875
+epsTrailingTwelveMonths: 1.07
+esgPopulated: false
+exDividendDate: 1796342400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 516 869 9001
+fiftyDayAverage: 23.2772
+fiftyDayAverageChange: 2.292799
+fiftyDayAverageChangePercent: 0.098499775
+fiftyTwoWeekChangePercent: 24.720741
+fiftyTwoWeekHigh: 26.65
+fiftyTwoWeekHighChange: -1.0799999
+fiftyTwoWeekHighChangePercent: -0.040525325
+fiftyTwoWeekLow: 19.76
+fiftyTwoWeekLowChange: 5.8099995
+fiftyTwoWeekLowChangePercent: 0.2940283
+fiftyTwoWeekRange: 19.76 - 26.65
+financialCurrency: USD
+firstTradeDateMilliseconds: 690820200000
+fiveYearAvgDividendYield: 4.14
+floatShares: 647811173
+forwardEps: 0.8875
+forwardPE: 28.811268
+freeCashflow: 878249600
+fullExchangeName: NYSE
+fullTimeEmployees: 710
+fulldayChange: -0.11000061
+fulldayChangePercent: -0.42835128
+fulldayPrice: 25.57
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.69184
+grossProfits: 1520265984
+hasPrePostMarketData: true
+heldPercentInsiders: 0.02229
+heldPercentInstitutions: 1.0493699
+impliedSharesOutstanding: 664488625
+industry: REIT - Retail
+industryDisp: REIT - Retail
+industryKey: reit-retail
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788480000
+lastDividendValue: 0.28
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1124841600
+lastSplitFactor: '2:1'
+longBusinessSummary: Kimco Realty is a real estate investment trust (REIT) and leading
+  owner and operator of high-quality, open-air, grocery-anchored shopping centers
+  and mixed-use properties in the United States. The company's portfolio is strategically
+  concentrated in the first-ring suburbs of the top major metropolitan markets, including
+  high-barrier-to-entry coastal markets and Sun Belt cities. Its tenant mix is focused
+  on essential, necessity-based goods and services that drive multiple shopping trips
+  per week. The company has specialized in shopping center ownership, management,
+  acquisitions, and value-enhancing redevelopment activities for more than 65 years.
+  With a proven commitment to corporate responsibility, Kimco Realty is a recognized
+  industry leader in this area. As of September 30, 2026, the company owned interests
+  in 561 U.S. shopping centers and mixed-use assets comprising 99 million square feet
+  of gross leasable space. Kimco Realty Corporation was incorporated in 1958 in Maryland
+  and is based in Jericho, New York.
+longName: Kimco Realty Corporation
+market: us_market
+marketCap: 16990973952
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_320371
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 715657024
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 17064067890
+numberOfAnalystOpinions: 21
+open: 25.52
+operatingCashflow: 1236210048
+operatingMargins: 0.35092998
+overallRisk: 5
+payoutRatio: 0.9907
+pegRatio: 3.37
+phone: 516 869 9000
+previousClose: 25.68
+priceEpsCurrentYear: 30.440477
+priceHint: 2
+priceToBook: 1.6727724
+priceToSalesTrailing12Months: 7.732238
+profitMargins: 0.34058997
+quickRatio: 1.048
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.34783
+region: US
+regularMarketChange: -0.11000061
+regularMarketChangePercent: -0.42835128
+regularMarketDayHigh: 25.705
+regularMarketDayLow: 25.51
+regularMarketDayRange: 25.51 - 25.705
+regularMarketOpen: 25.52
+regularMarketPreviousClose: 25.68
+regularMarketPrice: 25.57
+regularMarketTime: 1794413717
+regularMarketVolume: 752984
+returnOnAssets: 0.02434
+returnOnEquity: 0.07196
+revenueGrowth: 0.019
+revenuePerShare: 3.276
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 8
+sharesOutstanding: 664488625
+sharesPercentSharesOut: 0.0512
+sharesShort: 34021713
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 34712218
+shortName: Kimco Realty Corporation (HC)
+shortPercentOfFloat: 0.0624
+shortRatio: 6.23
+sourceInterval: 15
+state: NY
+symbol: KIM
+targetHighPrice: 30.0
+targetLowPrice: 23.0
+targetMeanPrice: 26.27381
+targetMedianPrice: 26.0
+totalCash: 556609984
+totalCashPerShare: 0.838
+totalDebt: 8590026752
+totalRevenue: 2197420032
+tradeable: false
+trailingAnnualDividendRate: 1.06
+trailingAnnualDividendYield: 0.041277256
+trailingEps: 1.07
+trailingPE: 23.897194
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 23.69185
+twoHundredDayAverageChange: 1.878149
+twoHundredDayAverageChangePercent: 0.07927405
+typeDisp: Equity
+volume: 752971
+website: https://www.kimcorealty.com
+zip: 11753-2128

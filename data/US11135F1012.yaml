@@ -1,0 +1,277 @@
+52WeekChange: -0.06542426
+SandP52WeekChange: 0.097798586
+address1: 3421 Hillview Ave
+allTimeHigh: 495.0
+allTimeLow: 1.433
+ask: 335.0
+askSize: 1
+auditRisk: 3
+averageAnalystRating: 1.2 - Strong Buy
+averageDailyVolume10Day: 28900810
+averageDailyVolume3Month: 24492051
+averageVolume: 24492051
+averageVolume10days: 28900810
+beta: 1.508
+bid: 351.62
+bidSize: 1
+boardRisk: 3
+bookValue: 20.882
+city: Palo Alto
+companyOfficers:
+- age: 73
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hock Eng Tan
+  title: President, CEO & Executive Director
+  totalPay: 2926926
+  unexercisedValue: 0
+  yearBorn: 1952
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark D. Brazeal J.D.
+  title: Chief Legal & Corporate Affairs Officer
+  totalPay: 1405063
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Charlie B. Kawwas Ph.D.
+  title: President of Semiconductor Solutions
+  totalPay: 2093876
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kirsten M. Spears
+  title: Consultant
+  totalPay: 1027632
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amie Thuener O'Toole
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alan  Davidson
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ji  Yoo
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jill  Turner
+  title: Vice President of Human Resources
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank  Ostojic
+  title: Senior VP & GM of ASIC Products Division
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rich  Nelson
+  title: Senior VP & GM of Broadband Video Group
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 352.12
+currentRatio: 2.504
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 354.5
+dayLow: 348.1
+debtToEquity: 59.604
+displayName: Broadcom
+dividendDate: 1790726400
+dividendRate: 2.6
+dividendYield: 0.78
+earningsCallTimestampEnd: 1796853600
+earningsCallTimestampStart: 1796853600
+earningsGrowth: 2.153
+earningsQuarterlyGrowth: 2.161
+earningsTimestamp: 1796850000
+earningsTimestampEnd: 1796850000
+earningsTimestampStart: 1796850000
+ebitda: 52259999744
+ebitdaMargins: 0.58651
+enterpriseToEbitda: 31.003
+enterpriseToRevenue: 18.183
+enterpriseValue: 1620193705984
+epsCurrentYear: 11.66568
+epsForward: 19.46507
+epsTrailingTwelveMonths: 7.83
+esgPopulated: false
+exDividendDate: 1789948800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 346.1324
+fiftyDayAverageChange: 5.98761
+fiftyDayAverageChangePercent: 0.017298613
+fiftyTwoWeekChangePercent: -6.542426
+fiftyTwoWeekHigh: 495.0
+fiftyTwoWeekHighChange: -142.88
+fiftyTwoWeekHighChangePercent: -0.2886465
+fiftyTwoWeekLow: 289.77
+fiftyTwoWeekLowChange: 62.350006
+fiftyTwoWeekLowChangePercent: 0.21517068
+fiftyTwoWeekRange: 289.77 - 495.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 1249565400000
+fiveYearAvgDividendYield: 1.23
+floatShares: 4715677998
+forwardEps: 19.46507
+forwardPE: 18.089838
+freeCashflow: 30596499456
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 33000
+fulldayChange: 20.139984
+fulldayChangePercent: 6.0658946
+fulldayPrice: 352.12
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.75515
+grossProfits: 67286999040
+hasPrePostMarketData: true
+heldPercentInsiders: 0.019129999
+heldPercentInstitutions: 0.79713994
+impliedSharesOutstanding: 4773629865
+industry: Semiconductors
+industryDisp: Semiconductors
+industryKey: semiconductors
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789948800
+lastDividendValue: 0.65
+lastFiscalYearEnd: 1762041600
+lastSplitDate: 1721001600
+lastSplitFactor: '10:1'
+longBusinessSummary: 'Broadcom Inc. designs, develops, and supplies various semiconductor
+  devices and infrastructure software solutions internationally. The company operates
+  in two segments: Semiconductor Solutions and Infrastructure Software. The company
+  offers networking connectivity, such as custom silicon solutions, ethernet switching
+  & routing, ethernet NIC controllers, physical layer devices, and fiber optic components;
+  wireless device connectivity, including RF semiconductor devices, connectivity solutions,
+  custom touch controllers, and inductive charging ASICS; servers and storage system
+  solutions, such as PCIE switches, SAS & raid products, fibre channel products, and
+  HDD & SSD solutions; broadband solutions, includes set-top box, and broadband access;
+  and industrial. The company also offers a private cloud software portfolio, including
+  the VMware Cloud Foundation, Edge, vSphere foundation, telco cloud platform, private
+  AI, live recovery, application networking and security, application development
+  and data services; mainframe software, such as AIOPS & automation, database & data
+  management, DEVX & DEVOPS, cybersecurity & compliance management, beyond code programs,
+  foundational & open mainframe solutions; cybersecurity, such as endpoint, network,
+  information, application security, and identity & access management; enterprise
+  software; and fc san management. Its products are used in various applications in
+  enterprise and data center networking, including artificial intelligence networking
+  and connectivity, home connectivity, set-top boxes, broadband access, telecommunication
+  equipment, wireless device and base stations, data center servers and storage systems,
+  factory automation, power generation and alternative energy systems, and electronic
+  displays. Broadcom Inc. was founded in 1961 and is headquartered in Palo Alto, California.'
+longName: Broadcom Inc.
+market: us_market
+marketCap: 1680890527744
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_25016048
+mostRecentQuarter: 1785628800
+netIncomeToCommon: 38264999936
+nextFiscalYearEnd: 1793577600
+nonDilutedMarketCap: 1584749642582
+numberOfAnalystOpinions: 47
+open: 350.2175
+operatingCashflow: 40653000704
+operatingMargins: 0.48815
+overallRisk: 9
+payoutRatio: 0.32439998
+pegRatio: 0.32
+phone: 650 427 6000
+previousClose: 331.98
+priceEpsCurrentYear: 30.184267
+priceHint: 2
+priceToBook: 16.86237
+priceToSalesTrailing12Months: 18.864367
+profitMargins: 0.42944
+quickRatio: 2.153
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.23529
+region: US
+regularMarketChange: 20.139984
+regularMarketChangePercent: 6.0658946
+regularMarketDayHigh: 354.5
+regularMarketDayLow: 348.1
+regularMarketDayRange: 348.1 - 354.5
+regularMarketOpen: 350.2175
+regularMarketPreviousClose: 331.98
+regularMarketPrice: 352.12
+regularMarketTime: 1794413734
+regularMarketVolume: 12295117
+returnOnAssets: 0.15369001
+returnOnEquity: 0.44245
+revenueGrowth: 0.855
+revenuePerShare: 18.77
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 3
+sharesOutstanding: 4773629865
+sharesPercentSharesOut: 0.0109
+sharesShort: 51943604
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 54197605
+shortName: Broadcom Inc.
+shortPercentOfFloat: 0.0111
+shortRatio: 2.33
+sourceInterval: 15
+state: CA
+symbol: AVGO
+targetHighPrice: 660.0
+targetLowPrice: 400.0
+targetMeanPrice: 533.4238
+targetMedianPrice: 535.0
+totalCash: 23975000064
+totalCashPerShare: 5.022
+totalDebt: 59419000832
+totalRevenue: 89103998976
+tradeable: false
+trailingAnnualDividendRate: 2.6
+trailingAnnualDividendYield: 0.007831797
+trailingEps: 7.83
+trailingPE: 44.970627
+trailingPegRatio: 0.3281
+triggerable: true
+twoHundredDayAverage: 367.1245
+twoHundredDayAverageChange: -15.004517
+twoHundredDayAverageChangePercent: -0.040870376
+typeDisp: Equity
+volume: 12295117
+website: https://www.broadcom.com
+zip: '94304'

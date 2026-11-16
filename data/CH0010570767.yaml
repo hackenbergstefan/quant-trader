@@ -1,0 +1,235 @@
+52WeekChange: -0.3214286
+SandP52WeekChange: 0.097798586
+address1: Seestrasse 204
+allTimeHigh: 13740.0
+allTimeLow: 300.0
+ask: 8475.0
+askSize: 0
+averageAnalystRating: 3.8 - Underperform
+averageDailyVolume10Day: 3388
+averageDailyVolume3Month: 3884
+averageVolume: 3884
+averageVolume10days: 3388
+beta: 0.493
+bid: 8470.0
+bidSize: 0
+bookValue: 19164.947
+city: Kilchberg
+companyOfficers:
+- age: 79
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ernst  Tanner
+  title: Executive Chairman of the Board of Directors
+  totalPay: 1209000
+  unexercisedValue: 0
+  yearBorn: 1946
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Dieter  Weisskopf Ph.D.
+  title: Interim CEO & Vice-Chair of the Board
+  totalPay: 373000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Hug M.A.
+  title: Group CFO, Head of Sustainability Executive Team & Member of Group Management
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alain  Germiquet
+  title: Member of Group Management
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel  Studer
+  title: Head of U.S. Operations & Member of the Group Management
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Guido  Steiner
+  title: Member of Group Management & Group Operations Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jennifer  Picenoni
+  title: Member of Group Management, Group General Counsel & Company Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nicole  Uhrmeister
+  title: Chief Human Resources Officer & Member of the Group Management
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ana  Dominguez
+  title: Member of Management Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Fabian  Reinhardt
+  title: CEO of Austria & Head of Global Sales
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 8475.0
+currentRatio: 1.78
+customPriceAlertConfidence: LOW
+dayHigh: 8620.0
+dayLow: 8440.0
+debtToEquity: 42.024
+dividendDate: 1745539200
+dividendRate: 180.0
+dividendYield: 2.08
+earningsCallTimestampEnd: 1784620800
+earningsCallTimestampStart: 1784620800
+earningsGrowth: 0.041
+earningsQuarterlyGrowth: 0.017
+earningsTimestampEnd: 1773160200
+earningsTimestampStart: 1773160200
+ebitda: 1175699968
+ebitdaMargins: 0.19770999
+enterpriseToEbitda: 2.907
+enterpriseToRevenue: 0.575
+enterpriseValue: 3417201920
+epsCurrentYear: 316.20523
+epsForward: 332.90195
+epsTrailingTwelveMonths: 317.01
+esgPopulated: false
+exDividendDate: 1776643200
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 8320.7
+fiftyDayAverageChange: 154.2998
+fiftyDayAverageChangePercent: 0.018544089
+fiftyTwoWeekChangePercent: -32.14286
+fiftyTwoWeekHigh: 13010.0
+fiftyTwoWeekHighChange: -4535.0
+fiftyTwoWeekHighChangePercent: -0.348578
+fiftyTwoWeekLow: 7420.0
+fiftyTwoWeekLowChange: 1055.0
+fiftyTwoWeekLowChangePercent: 0.14218329
+fiftyTwoWeekRange: 7420.0 - 13010.0
+financialCurrency: CHF
+firstTradeDateMilliseconds: 796892400000
+fiveYearAvgDividendYield: 1.26
+floatShares: 224488
+forwardEps: 332.90195
+forwardPE: 25.457947
+freeCashflow: 523000000
+fullExchangeName: Swiss
+fullTimeEmployees: 12738
+fulldayChange: -170.0
+fulldayChangePercent: -1.9664546
+fulldayPrice: 8475.0
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.61993
+grossProfits: 3686500096
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.52351004
+impliedSharesOutstanding: 2284096
+industry: Confectioners
+industryDisp: Confectioners
+industryKey: confectioners
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776643200
+lastDividendValue: 180.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 957744000
+lastSplitFactor: '5:1'
+longBusinessSummary: Chocoladefabriken Lindt & Sprüngli AG, together with its subsidiaries,
+  engages in the development, manufacture, and sale of chocolate products worldwide.
+  The company sells its products under the Lindt, Ghirardelli, Russell Stover, Whitman's,
+  Caffarel, Hofbauer and Küfferle, and Pangburn's, Gold Bunny, and Lindor brands.
+  It serves customers through a network of distributors, as well as through own stores.
+  The company was founded in 1845 and is headquartered in Kilchberg, Switzerland.
+longName: Chocoladefabriken Lindt & Sprüngli AG
+market: ch_market
+marketCap: 19357714432
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_876088
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 730499968
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 20152992770
+numberOfAnalystOpinions: 5
+open: 8500.0
+operatingCashflow: 1038700032
+operatingMargins: 0.16497
+payoutRatio: 0.5678
+pegRatio: 0.42
+phone: 41 44 716 22 33
+previousClose: 8645.0
+priceEpsCurrentYear: 26.802214
+priceHint: 2
+priceToBook: 0.4422136
+priceToSalesTrailing12Months: 3.2552576
+profitMargins: 0.12284
+quickRatio: 0.774
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: underperform
+recommendationMean: 3.83333
+region: US
+regularMarketChange: -170.0
+regularMarketChangePercent: -1.9664546
+regularMarketDayHigh: 8620.0
+regularMarketDayLow: 8440.0
+regularMarketDayRange: 8440.0 - 8620.0
+regularMarketOpen: 8500.0
+regularMarketPreviousClose: 8645.0
+regularMarketPrice: 8475.0
+regularMarketTime: 1794411556
+regularMarketVolume: 1334
+returnOnAssets: 0.07324
+returnOnEquity: 0.15943
+revenueGrowth: -0.002
+revenuePerShare: 26087.871
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+sharesOutstanding: 949726
+shortName: LINDT PS
+sourceInterval: 15
+symbol: LISP.SW
+targetHighPrice: 10000.0
+targetLowPrice: 7300.0
+targetMeanPrice: 8704.0
+targetMedianPrice: 9020.0
+totalCash: 410700000
+totalCashPerShare: 1791.642
+totalDebt: 1846200064
+totalRevenue: 5946599936
+tradeable: false
+trailingAnnualDividendRate: 1800.0
+trailingAnnualDividendYield: 0.20821284
+trailingEps: 317.01
+trailingPE: 26.73417
+trailingPegRatio: 0.4201
+triggerable: false
+twoHundredDayAverage: 9670.9
+twoHundredDayAverageChange: -1195.9004
+twoHundredDayAverageChangePercent: -0.12365968
+typeDisp: Equity
+volume: 1334
+website: https://www.lindt-spruengli.com
+zip: '8802'

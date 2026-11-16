@@ -1,0 +1,276 @@
+52WeekChange: 0.11919713
+SandP52WeekChange: 0.097798586
+address1: S45 W29290 Highway 59
+allTimeHigh: 524.31
+allTimeLow: 10.57
+ask: 192.92
+askSize: 200
+auditRisk: 5
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 1658370
+averageDailyVolume3Month: 1260251
+averageVolume: 1260251
+averageVolume10days: 1658370
+beta: 1.845
+bid: 192.4
+bidSize: 200
+boardRisk: 9
+bookValue: 51.063
+city: Waukesha
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Aaron P. Jagdfeld
+  title: Chairman, President & CEO
+  totalPay: 1809574
+  unexercisedValue: 38450004
+  yearBorn: 1972
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. York A. Ragen
+  title: Chief Financial Officer
+  totalPay: 821524
+  unexercisedValue: 6836639
+  yearBorn: 1971
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rajendra Kumar Kanuru J.D.
+  title: Executive VP, General Counsel & Secretary
+  totalPay: 648488
+  unexercisedValue: 36256
+  yearBorn: 1971
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Erik  Wilde
+  title: President of Domestic C&I
+  totalPay: 843881
+  unexercisedValue: 923348
+  yearBorn: 1975
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Norman P. Taffe
+  title: Executive VP & President of Generac Home
+  totalPay: 866483
+  unexercisedValue: 56869
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tim  Hearden
+  title: Chief Operations Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Kris  Rosemann
+  title: Director of Corporate Finance & Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Talal  Butt
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amanda  Teder
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rhonda  Matschke
+  title: Executive Vice President of Human Resources
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 191.77
+currentRatio: 1.973
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 192.75
+dayLow: 185.86
+debtToEquity: 47.187
+displayName: Generac
+dividendDate: 1371772800
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793196000
+earningsCallTimestampStart: 1793196000
+earningsGrowth: 0.634
+earningsQuarterlyGrowth: 0.651
+earningsTimestamp: 1793190600
+earningsTimestampEnd: 1793190600
+earningsTimestampStart: 1793190600
+ebitda: 621225024
+ebitdaMargins: 0.13449
+enterpriseToEbitda: 18.911
+enterpriseToRevenue: 2.543
+enterpriseValue: 11747836928
+epsCurrentYear: 9.87862
+epsForward: 13.93766
+epsTrailingTwelveMonths: 5.07
+esgPopulated: false
+exDividendDate: 1370822400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 197.7732
+fiftyDayAverageChange: -6.003189
+fiftyDayAverageChangePercent: -0.030353907
+fiftyTwoWeekChangePercent: 11.919713
+fiftyTwoWeekHigh: 296.44
+fiftyTwoWeekHighChange: -104.67
+fiftyTwoWeekHighChangePercent: -0.35309
+fiftyTwoWeekLow: 134.8
+fiftyTwoWeekLowChange: 56.97
+fiftyTwoWeekLowChangePercent: 0.4226261
+fiftyTwoWeekRange: 134.8 - 296.44
+financialCurrency: USD
+firstTradeDateMilliseconds: 1265898600000
+floatShares: 57938388
+forwardEps: 13.93766
+forwardPE: 13.759125
+freeCashflow: 335098368
+fullExchangeName: NYSE
+fullTimeEmployees: 9400
+fulldayChange: 9.9900055
+fulldayChangePercent: 5.495657
+fulldayPrice: 191.77
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.38179
+grossProfits: 1763568000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.01673
+heldPercentInstitutions: 0.93214
+impliedSharesOutstanding: 58988982
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1370822400
+lastDividendValue: 5.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Generac Holdings Inc. designs, manufactures, and distributes
+  energy technology products and solutions worldwide. The company offers residential
+  automatic standby generators, automatic transfer switch, air-cooled engine home
+  standby generators, and liquid-cooled engine generators; Mobile Link, a remote monitoring
+  system for home standby generators; propane tank monitoring solution; and smart
+  home solutions, such as smart thermostats and a suite of home monitoring products.
+  It also provides smart home energy management devices and sensors for heating and
+  cooling system; smart doorbell cameras; and portable and inverter generators; multiple
+  portable battery solutions; manual transfer switches; outdoor power equipment, including
+  trimmers, field and brush mowers, log splitters, stump grinders, chipper shredders,
+  lawn and leaf vacuums, and pressure washers and water pumps; and home energy storage
+  systems. In addition, the company offers commercial and industrial products comprising
+  cleaner-burning natural gas fueled generators; mega-watt diesel generators; light-commercial
+  standby generators and related transfer switches; stationary generators; single-engine
+  industrial generators; industrial standby generators; industrial transfer switches;
+  light towers, mobile generators, commercial mobile pumps, heaters, and dust-suppression
+  equipment; mobile energy storage systems; battery energy storage system and related
+  inverter products; and aftermarket service parts and product accessories. Further,
+  it provides microgrid; and software-as-a-service contracts. The company distributes
+  its products through independent residential dealers and contractors, industrial
+  distributors and dealers, national and regional retailers, e-commerce partners,
+  electrical/HVAC/solar wholesalers, solar installers, catalogs, equipment rental
+  companies, and other equipment distributors; and directly to end users. Generac
+  Holdings Inc. was founded in 1959 and is based in Waukesha, Wisconsin.
+longName: Generac Holdings Inc.
+market: us_market
+marketCap: 11312317440
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_78749412
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 301257984
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 10723017147
+numberOfAnalystOpinions: 18
+open: 189.82
+operatingCashflow: 600744000
+operatingMargins: 0.08625
+overallRisk: 9
+payoutRatio: 0.0
+pegRatio: 0.47
+phone: 262 544 4811
+previousClose: 181.78
+priceEpsCurrentYear: 19.41263
+priceHint: 2
+priceToBook: 3.755557
+priceToSalesTrailing12Months: 2.449
+profitMargins: 0.06522
+quickRatio: 0.906
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.63636
+region: US
+regularMarketChange: 9.9900055
+regularMarketChangePercent: 5.495657
+regularMarketDayHigh: 192.75
+regularMarketDayLow: 185.86
+regularMarketDayRange: 185.86 - 192.75
+regularMarketOpen: 189.82
+regularMarketPreviousClose: 181.78
+regularMarketPrice: 191.77
+regularMarketTime: 1794413737
+regularMarketVolume: 191212
+returnOnAssets: 0.04243
+returnOnEquity: 0.10637
+revenueGrowth: 0.162
+revenuePerShare: 78.835
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 9
+sharesOutstanding: 58988982
+sharesPercentSharesOut: 0.045900002
+sharesShort: 2706697
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2576973
+shortName: Generac Holdlings Inc.
+shortPercentOfFloat: 0.0466
+shortRatio: 2.35
+sourceInterval: 15
+state: WI
+symbol: GNRC
+targetHighPrice: 375.0
+targetLowPrice: 227.0
+targetMeanPrice: 289.22223
+targetMedianPrice: 283.0
+totalCash: 396656992
+totalCashPerShare: 6.724
+totalDebt: 1421377024
+totalRevenue: 4619158016
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 5.07
+trailingPE: 37.824455
+trailingPegRatio: 0.4564
+triggerable: true
+twoHundredDayAverage: 219.22665
+twoHundredDayAverageChange: -27.45665
+twoHundredDayAverageChangePercent: -0.12524322
+typeDisp: Equity
+volume: 191212
+website: https://www.generac.com
+zip: '53189'

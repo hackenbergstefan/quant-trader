@@ -1,0 +1,274 @@
+52WeekChange: -0.05322379
+SandP52WeekChange: 0.097798586
+address1: 13995 Pasteur Boulevard
+allTimeHigh: 83.32
+allTimeLow: 11.5
+ask: 54.07
+askSize: 200
+auditRisk: 8
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 8300370
+averageDailyVolume3Month: 6174792
+averageVolume: 6174792
+averageVolume10days: 8300370
+beta: 1.333
+bid: 54.05
+bidSize: 300
+boardRisk: 5
+bookValue: 12.281
+city: Palm Beach Gardens
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David L. Gitlin
+  title: Chairman & CEO
+  totalPay: 3343539
+  unexercisedValue: 67301656
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick P. Goris
+  title: Executive VP and Chief Financial & Strategy Officer
+  totalPay: 1444862
+  unexercisedValue: 5546052
+  yearBorn: 1972
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gaurang  Pandya ACCA, B.Com (H)
+  title: President of Climate Solutions Americas & Europe Commercial
+  totalPay: 1068107
+  unexercisedValue: 1121876
+  yearBorn: 1977
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Edward  Dryden
+  title: President of Climate Solutions Transportation
+  totalPay: 1200506
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Lotfy Gierges
+  title: President of Climate Solutions Asia Pacific, Middle East & Africa
+  totalPay: 3467429
+  unexercisedValue: 0
+  yearBorn: 1985
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Machiel  Duijser
+  title: Senior Vice President of Operations
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Beril  Yildiz
+  title: VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy N. White
+  title: Senior VP of Engineering & Technology
+  totalPay: 1398977
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael S. Rednor C.F.A.
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nadia  Villeneuve
+  title: Senior VP and Chief People & Communications
+  unexercisedValue: 0
+  yearBorn: 1974
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 53.95
+currentRatio: 0.997
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 54.21
+dayLow: 52.79
+debtToEquity: 113.962
+displayName: Carrier Global
+dividendDate: 1794960000
+dividendRate: 0.96
+dividendYield: 1.81
+earningsCallTimestampEnd: 1793273400
+earningsCallTimestampStart: 1793273400
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 3251000064
+ebitdaMargins: 0.14264
+enterpriseToEbitda: 16.69
+enterpriseToRevenue: 2.381
+enterpriseValue: 54259671040
+epsCurrentYear: 2.86032
+epsForward: 3.18255
+epsTrailingTwelveMonths: -2.21
+esgPopulated: false
+exDividendDate: 1793232000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 55.6812
+fiftyDayAverageChange: -1.7311974
+fiftyDayAverageChangePercent: -0.031091237
+fiftyTwoWeekChangePercent: -5.322379
+fiftyTwoWeekHigh: 76.76
+fiftyTwoWeekHighChange: -22.810001
+fiftyTwoWeekHighChangePercent: -0.29716
+fiftyTwoWeekLow: 50.24
+fiftyTwoWeekLowChange: 3.709999
+fiftyTwoWeekLowChangePercent: 0.07384552
+fiftyTwoWeekRange: 50.24 - 76.76
+financialCurrency: USD
+firstTradeDateMilliseconds: 1584624600000
+fiveYearAvgDividendYield: 1.3
+floatShares: 777882179
+forwardEps: 3.18255
+forwardPE: 16.951817
+freeCashflow: 1944125056
+fullExchangeName: NYSE
+fullTimeEmployees: 47000
+fulldayChange: 0.94000244
+fulldayChangePercent: 1.773255
+fulldayPrice: 53.95
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.24377
+grossProfits: 5555999744
+hasPrePostMarketData: true
+heldPercentInsiders: 0.048060004
+heldPercentInstitutions: 0.90436
+impliedSharesOutstanding: 818160206
+industry: Building Products & Equipment
+industryDisp: Building Products & Equipment
+industryKey: building-products-equipment
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793232000
+lastDividendValue: 0.24
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Carrier Global Corporation provides intelligent climate and
+  energy solutions in the United States, Europe, the Asia Pacific, and internationally.
+  It operates through four segments: Climate Solutions Americas; Climate Solutions
+  Europe; Climate Solutions Asia Pacific, Middle East & Africa; and Climate Solutions
+  Transportation. The company provides air conditioners, heating systems, heat pumps,
+  home and building energy management systems, automation systems, aftermarket components,
+  and repair and maintenance and rental services, as well as modernization and upgrades
+  to meet the heating, cooling, and ventilation needs of residential and commercial
+  customers. It also offers transport refrigeration and monitoring products, services,
+  and digital solutions for trucks, trailers, shipping containers, and intermodal
+  and rail applications. The company offers its products under the Carrier, Viessmann,
+  Toshiba, Automated Logic, Bryant, CIAT, Day & Night, Heil, NORESCO, Carrier Transicold,
+  and Sensitech brands. The company was incorporated in 2019 and is headquartered
+  in Palm Beach Gardens, Florida.'
+longName: Carrier Global Corporation
+market: us_market
+marketCap: 44139741184
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_620281
+mostRecentQuarter: 1790726400
+netIncomeToCommon: -1826000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 43370672520
+numberOfAnalystOpinions: 23
+open: 53.42
+operatingCashflow: 2859000064
+operatingMargins: 0.086389996
+overallRisk: 6
+payoutRatio: 0.6739
+pegRatio: 1.03
+phone: 561 365 2000
+previousClose: 53.01
+priceEpsCurrentYear: 18.861526
+priceHint: 2
+priceToBook: 4.392965
+priceToSalesTrailing12Months: 1.9366331
+profitMargins: -0.07902
+quickRatio: 0.6
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.07692
+region: US
+regularMarketChange: 0.94000244
+regularMarketChangePercent: 1.773255
+regularMarketDayHigh: 54.21
+regularMarketDayLow: 52.79
+regularMarketDayRange: 52.79 - 54.21
+regularMarketOpen: 53.42
+regularMarketPreviousClose: 53.01
+regularMarketPrice: 53.95
+regularMarketTime: 1794413733
+regularMarketVolume: 1364889
+returnOnAssets: 0.03434
+returnOnEquity: -0.13436
+revenueGrowth: 0.123
+revenuePerShare: 27.426
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 2
+sharesOutstanding: 818160206
+sharesPercentSharesOut: 0.0232
+sharesShort: 19005796
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 21824974
+shortName: Carrier Global Corporation
+shortPercentOfFloat: 0.028199999
+shortRatio: 3.35
+sourceInterval: 15
+state: FL
+symbol: CARR
+targetHighPrice: 88.0
+targetLowPrice: 55.0
+targetMeanPrice: 68.70087
+targetMedianPrice: 70.0
+totalCash: 1354000000
+totalCashPerShare: 1.655
+totalDebt: 11875999744
+totalRevenue: 22791999488
+tradeable: false
+trailingAnnualDividendRate: 0.96
+trailingAnnualDividendYield: 0.018109791
+trailingEps: -2.21
+trailingPegRatio: 1.0244
+triggerable: true
+twoHundredDayAverage: 61.71725
+twoHundredDayAverageChange: -7.76725
+twoHundredDayAverageChangePercent: -0.12585217
+typeDisp: Equity
+volume: 1364776
+website: https://www.carrier.com
+zip: '33418'

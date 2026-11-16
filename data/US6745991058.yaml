@@ -1,0 +1,277 @@
+52WeekChange: 0.3570236
+SandP52WeekChange: 0.097798586
+address1: 5 Greenway Plaza
+address2: Suite 110
+allTimeHigh: 112.94586
+allTimeLow: 7.005824
+ask: 57.02
+askSize: 300
+auditRisk: 7
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 10691390
+averageDailyVolume3Month: 8747735
+averageVolume: 8747735
+averageVolume10days: 10691390
+beta: 0.149
+bid: 57.04
+bidSize: 100
+boardRisk: 3
+bookValue: 34.887
+city: Houston
+companyOfficers:
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard A. Jackson
+  title: CEO, President & Director
+  totalPay: 2300426
+  unexercisedValue: 865622
+  yearBorn: 1976
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sunil  Mathew
+  title: Senior VP & CFO
+  totalPay: 2073093
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kenneth  Dillon
+  title: Senior VP and President of International Oil & Gas Operations
+  totalPay: 2186665
+  unexercisedValue: 1174181
+  yearBorn: 1960
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeff F. Simmons
+  title: Senior VP of Subsurface Technology and Chief Petrotechnical Officer
+  totalPay: 2006264
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher O. Champion
+  title: VP, Chief Accounting Officer & Controller
+  totalPay: 1565275
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ioannis A. Charalambous
+  title: Chief Information Officer & VP
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Babatunde  Cole
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nicole E. Clark
+  title: VP, Deputy General Counsel, Corporate Secretary & Chief Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brad D. Pollack
+  title: Senior Vice President & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Darin S. Moss
+  title: Vice President of Human Resources
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: OXY announced a cash dividend of $0.28 with an ex-date of Dec. 10, 2026
+  meta:
+    amount: '0.28'
+    dateEpochMs: 1796878800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 56.945
+currentRatio: 1.385
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 57.53
+dayLow: 56.67
+debtToEquity: 28.803
+displayName: Occidental Petroleum
+dividendDate: 1799971200
+dividendRate: 1.12
+dividendYield: 1.97
+earningsCallTimestampEnd: 1794333600
+earningsCallTimestampStart: 1794333600
+earningsGrowth: 1.494
+earningsQuarterlyGrowth: 1.176
+earningsTimestamp: 1794258000
+earningsTimestampEnd: 1794258000
+earningsTimestampStart: 1794258000
+ebitda: 14704000000
+ebitdaMargins: 0.58877
+enterpriseToEbitda: 5.07
+enterpriseToRevenue: 2.985
+enterpriseValue: 74553008128
+epsCurrentYear: 7.16986
+epsForward: 5.17158
+epsTrailingTwelveMonths: 4.49
+esgPopulated: false
+exDividendDate: 1796860800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 59.9204
+fiftyDayAverageChange: -2.975399
+fiftyDayAverageChangePercent: -0.049655862
+fiftyTwoWeekChangePercent: 35.70236
+fiftyTwoWeekHigh: 67.45
+fiftyTwoWeekHighChange: -10.504997
+fiftyTwoWeekHighChangePercent: -0.15574497
+fiftyTwoWeekLow: 38.8
+fiftyTwoWeekLowChange: 18.145
+fiftyTwoWeekLowChangePercent: 0.46765465
+fiftyTwoWeekRange: 38.8 - 67.45
+financialCurrency: USD
+firstTradeDateMilliseconds: 378657000000
+fiveYearAvgDividendYield: 0.66
+floatShares: 995715185
+forwardEps: 5.17158
+forwardPE: 11.011142
+freeCashflow: 4909374976
+fullExchangeName: NYSE
+fullTimeEmployees: 10412
+fulldayChange: 0.04499817
+fulldayChangePercent: 0.0790829
+fulldayPrice: 56.945
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.74489
+grossProfits: 18602999808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.26799
+heldPercentInstitutions: 0.59287
+impliedSharesOutstanding: 999894745
+industry: Oil & Gas E&P
+industryDisp: Oil & Gas E&P
+industryKey: oil-gas-e-p
+irWebsite: http://www.oxy.com/InvestorRelations/Pages/default.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788998400
+lastDividendValue: 0.28
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1456358400
+lastSplitFactor: 10000:9983
+longBusinessSummary: Occidental Petroleum Corporation, together with its subsidiaries,
+  engages in the acquisition, exploration, and development of oil and gas properties
+  in the United States and internationally. It operates through Oil and Gas and Midstream
+  and Marketing. The Oil and Gas segment explores for, develops, and produces oil
+  and condensate, natural gas liquids (NGLs), and natural gas. This segment also optimizes
+  its transportation and storage capacity and invests in entities. The Midstream and
+  Marketing segment purchases, markets, gathers, processes, transports and stores
+  oil, condensate, NGLs, natural gas, carbon dioxide, and power. Occidental Petroleum
+  Corporation was founded in 1920 and is headquartered in Houston, Texas.
+longName: Occidental Petroleum Corporation
+market: us_market
+marketCap: 56939003904
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_293286
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4525000192
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 56894010990
+numberOfAnalystOpinions: 27
+open: 57.26
+operatingCashflow: 11857999872
+operatingMargins: 0.29314
+overallRisk: 1
+payoutRatio: 0.2316
+pegRatio: 0.84
+phone: 713 215 7000
+previousClose: 56.9
+priceEpsCurrentYear: 7.942275
+priceHint: 2
+priceToBook: 1.6322699
+priceToSalesTrailing12Months: 2.2799313
+profitMargins: 0.32953998
+quickRatio: 1.043
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.21429
+region: US
+regularMarketChange: 0.04499817
+regularMarketChangePercent: 0.0790829
+regularMarketDayHigh: 57.53
+regularMarketDayLow: 56.67
+regularMarketDayRange: 56.67 - 57.53
+regularMarketOpen: 57.26
+regularMarketPreviousClose: 56.9
+regularMarketPrice: 56.945
+regularMarketTime: 1794413747
+regularMarketVolume: 9270982
+returnOnAssets: 0.05605
+returnOnEquity: 0.13181
+revenueGrowth: 0.19
+revenuePerShare: 25.117
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 1
+sharesOutstanding: 999894745
+sharesPercentSharesOut: 0.0001
+sharesShort: 121011
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 22206633
+shortName: Occidental Petroleum Corporatio
+shortPercentOfFloat: 0.0002
+shortRatio: 0.01
+sourceInterval: 15
+state: TX
+symbol: OXY
+targetHighPrice: 82.0
+targetLowPrice: 60.0
+targetMeanPrice: 70.7037
+targetMedianPrice: 70.0
+totalCash: 3884000000
+totalCashPerShare: 3.884
+totalDebt: 12616999936
+totalRevenue: 24974000128
+tradeable: false
+trailingAnnualDividendRate: 1.04
+trailingAnnualDividendYield: 0.018277679
+trailingEps: 4.49
+trailingPE: 12.682629
+trailingPegRatio: 0.8364
+triggerable: true
+twoHundredDayAverage: 56.5729
+twoHundredDayAverageChange: 0.37210083
+twoHundredDayAverageChangePercent: 0.006577369
+typeDisp: Equity
+volume: 9270982
+website: https://www.oxy.com
+zip: 77046-0521

@@ -1,0 +1,245 @@
+52WeekChange: 0.2693125
+SandP52WeekChange: 0.097798586
+address1: Alströmergatan 39
+allTimeHigh: 384.0
+allTimeLow: 100.6
+ask: 351.8
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 324413
+averageDailyVolume3Month: 322458
+averageVolume: 322458
+averageVolume10days: 324413
+beta: 0.559
+bid: 351.4
+bookValue: 35.918
+city: Stockholm
+companyOfficers:
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rasmus  Jarborg
+  title: Chief Executive Officer
+  totalPay: 5600000
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lennart  Kran B.Sc. (Econ)
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 38
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marcus  Lindberg
+  title: Head of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1987
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Johan  Tidestad LL.M.
+  title: Chief Communications Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Carina  Tovi B.Sc. (Econ.)
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jakob  Bergfeldt
+  title: Chief Credit Officer & Director of Payments
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Quincy  Curry
+  title: Chief Brokerage Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 34
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mattias  Schyberg
+  title: Chief Product Officer
+  unexercisedValue: 0
+  yearBorn: 1991
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexander  Frick
+  title: Chief Wealth Manager Officer
+  unexercisedValue: 0
+  yearBorn: 1985
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michel  Cupurdija
+  title: Co-Chief Technology Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 351.4
+currentRatio: 0.108
+customPriceAlertConfidence: HIGH
+dayHigh: 361.4
+dayLow: 351.4
+debtToEquity: 932.459
+dividendRate: 8.6
+dividendYield: 2.4
+earningsCallTimestampEnd: 1792656000
+earningsCallTimestampStart: 1792656000
+earningsGrowth: 0.246
+earningsQuarterlyGrowth: 0.234
+earningsTimestamp: 1792683000
+earningsTimestampEnd: 1792683000
+earningsTimestampStart: 1792683000
+ebitdaMargins: 0.0
+enterpriseToRevenue: 24.746
+enterpriseValue: 169982066688
+epsCurrentYear: 14.41504
+epsForward: 10.67
+epsTrailingTwelveMonths: 13.67
+esgPopulated: false
+exDividendDate: 1777334400
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 339.1
+fiftyDayAverageChange: 12.299988
+fiftyDayAverageChangePercent: 0.036272448
+fiftyTwoWeekChangePercent: 26.93125
+fiftyTwoWeekHigh: 384.0
+fiftyTwoWeekHighChange: -32.600006
+fiftyTwoWeekHighChangePercent: -0.08489585
+fiftyTwoWeekLow: 257.6
+fiftyTwoWeekLowChange: 93.79999
+fiftyTwoWeekLowChangePercent: 0.36413038
+fiftyTwoWeekRange: 257.6 - 384.0
+financialCurrency: SEK
+firstTradeDateMilliseconds: 1606291200000
+fiveYearAvgDividendYield: 2.87
+floatShares: 149498183
+forwardEps: 10.67
+forwardPE: 32.933456
+fullExchangeName: Stockholm
+fullTimeEmployees: 886
+fulldayChange: -6.8000183
+fulldayChangePercent: -1.8983859
+fulldayPrice: 351.4
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.88266
+grossProfits: 6063000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.23528999
+heldPercentInstitutions: 0.71735
+impliedSharesOutstanding: 247806222
+industry: Capital Markets
+industryDisp: Capital Markets
+industryKey: capital-markets
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777334400
+lastDividendValue: 8.6
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Nordnet AB (publ), together with its subsidiaries, operates a
+  digital platform for savings and investments in Sweden, Norway, Denmark, and Finland.
+  Its platform allows customers to invest in stocks, mutual funds, and other securities
+  through website, app, or other applications; offers margin lending and residential
+  mortgages; and pension savings and occupational pension solutions; endowment insurance,
+  and accounts for private pension savings, as well as digital pension management
+  service. The company also offers Shareville, a social investment network that allows
+  customers share their investments in real time. Nordnet AB (publ) was founded in
+  1996 and is headquartered in Stockholm, Sweden.
+longName: Nordnet AB (publ)
+market: se_market
+marketCap: 87079108608
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_5645441
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3520000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 88764188720
+numberOfAnalystOpinions: 16
+open: 360.2
+operatingCashflow: 11315999744
+operatingMargins: 0.62818
+payoutRatio: 0.6291
+phone: 46 1 05 83 30 00
+previousClose: 358.2
+priceEpsCurrentYear: 24.377317
+priceHint: 2
+priceToBook: 9.783396
+priceToSalesTrailing12Months: 12.677115
+profitMargins: 0.50342
+quickRatio: 0.105
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.375
+region: US
+regularMarketChange: -6.8000183
+regularMarketChangePercent: -1.8983859
+regularMarketDayHigh: 361.4
+regularMarketDayLow: 351.4
+regularMarketDayRange: 351.4 - 361.4
+regularMarketOpen: 360.2
+regularMarketPreviousClose: 358.2
+regularMarketPrice: 351.4
+regularMarketTime: 1794412472
+regularMarketVolume: 102570
+returnOnAssets: 0.01042
+returnOnEquity: 0.41217998
+revenueGrowth: 0.193
+revenuePerShare: 27.624
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+sharesOutstanding: 247806222
+shortName: Nordnet AB
+sourceInterval: 15
+symbol: SAVE.ST
+targetHighPrice: 435.0
+targetLowPrice: 300.0
+targetMeanPrice: 374.6875
+targetMedianPrice: 375.0
+totalCash: 2188000000
+totalCashPerShare: 8.808
+totalDebt: 83194003456
+totalRevenue: 6869000192
+tradeable: false
+trailingAnnualDividendRate: 8.6
+trailingAnnualDividendYield: 0.024008933
+trailingEps: 13.67
+trailingPE: 25.705925
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 331.694
+twoHundredDayAverageChange: 19.705994
+twoHundredDayAverageChangePercent: 0.05941016
+typeDisp: Equity
+volume: 102570
+website: https://nordnetab.com
+zip: 112 47

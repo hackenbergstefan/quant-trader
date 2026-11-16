@@ -1,0 +1,223 @@
+52WeekChange: -0.30104566
+SandP52WeekChange: 0.097798586
+address1: Oskar-Meixner-Strasse 1
+allTimeHigh: 129.3
+allTimeLow: 11.06817
+ask: 61.5
+askSize: 93
+auditRisk: 5
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 158502
+averageDailyVolume3Month: 168054
+averageVolume: 168054
+averageVolume10days: 158502
+beta: 0.643
+bid: 61.4
+bidSize: 6
+boardRisk: 2
+bookValue: 36.338
+city: Mannheim
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Thomas  Schulz Ph.D.
+  title: Chairman of Executive Board & CEO
+  totalPay: 2899000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matti  Jakel
+  title: CFO & Member of the Executive Board
+  totalPay: 1771000
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andreas  Müller
+  title: Managing Director of Corporate Accounting & Tax and Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1959
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Martina  Kalkhake
+  title: Senior Vice President Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Martina  Borger
+  title: Investor Relations Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 61.4
+currentRatio: 1.207
+customPriceAlertConfidence: LOW
+dayHigh: 65.0
+dayLow: 61.35
+debtToEquity: 16.384
+dividendRate: 2.8
+dividendYield: 4.44
+earningsCallTimestampEnd: 1794488400
+earningsCallTimestampStart: 1794488400
+earningsGrowth: 0.144
+earningsQuarterlyGrowth: 0.137
+earningsTimestamp: 1794414600
+earningsTimestampEnd: 1794414600
+earningsTimestampStart: 1794414600
+ebitda: 352400000
+ebitdaMargins: 0.06327
+enterpriseToEbitda: 6.672
+enterpriseToRevenue: 0.422
+enterpriseValue: 2351272448
+epsCurrentYear: 3.95962
+epsForward: 5.544
+epsTrailingTwelveMonths: 5.06
+esgPopulated: false
+exDividendDate: 1779321600
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 621 459 2366
+fiftyDayAverage: 61.75
+fiftyDayAverageChange: -0.34999847
+fiftyDayAverageChangePercent: -0.0056679915
+fiftyTwoWeekChangePercent: -30.104565
+fiftyTwoWeekHigh: 129.3
+fiftyTwoWeekHighChange: -67.9
+fiftyTwoWeekHighChangePercent: -0.52513534
+fiftyTwoWeekLow: 53.15
+fiftyTwoWeekLowChange: 8.25
+fiftyTwoWeekLowChangePercent: 0.15522107
+fiftyTwoWeekRange: 53.15 - 129.3
+financialCurrency: EUR
+firstTradeDateMilliseconds: 901090800000
+fiveYearAvgDividendYield: 3.32
+floatShares: 31313803
+forwardEps: 5.544
+forwardPE: 11.075036
+freeCashflow: 129053504
+fullExchangeName: XETRA
+fullTimeEmployees: 31323
+fulldayChange: -2.0999985
+fulldayChangePercent: -3.3096905
+fulldayPrice: 61.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.11093
+grossProfits: 617800000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.69848
+impliedSharesOutstanding: 36939723
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779321600
+lastDividendValue: 2.8
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Bilfinger SE provides industrial services to customers in the
+  process industry primarily in Europe, North America, and the Middle East. It operates
+  through three segments: Engineering & Maintenance Europe; Engineering & Maintenance
+  International; and Technologies. The company offers engineering, project, maintenance,
+  turnaround, rotating equipment, inspection, insulation, scaffolding, corrosion protection,
+  mechanical, electrical, instrumentation, control, digital services, and decommissioning
+  of nuclear power plants. It also provides services in the field of nuclear energy,
+  battery production, district heating and waste heat, hydropower, waste recycling
+  and wastewater treatment, hydrogen, carbon capture and storage, wind power, biogas,
+  and environmental tech. In addition, the company offers consulting and engineering;
+  prefabrication and installation; and access and insulation services, as well as
+  maintenance, engineering, extension, new construction, and operation of industrial
+  plants. The company serves customers in energy, chemicals and petrochemicals, pharma
+  and biopharma, and oil and gas industries. Bilfinger SE was founded in 1880 and
+  is headquartered in Mannheim, Germany.'
+longName: Bilfinger SE
+market: de_market
+marketCap: 2268099072
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_876815
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 187300000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 2329049535
+numberOfAnalystOpinions: 5
+open: 64.4
+operatingCashflow: 295600000
+operatingMargins: 0.05013
+overallRisk: 1
+payoutRatio: 0.55759996
+pegRatio: 3.62
+phone: 49 621 459 2000
+previousClose: 63.5
+priceEpsCurrentYear: 15.506539
+priceHint: 2
+priceToBook: 1.6896912
+priceToSalesTrailing12Months: 0.40723565
+profitMargins: 0.03368
+quickRatio: 1.074
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.2
+region: US
+regularMarketChange: -2.0999985
+regularMarketChangePercent: -3.3096905
+regularMarketDayHigh: 65.0
+regularMarketDayLow: 61.35
+regularMarketDayRange: 61.35 - 65.0
+regularMarketOpen: 64.4
+regularMarketPreviousClose: 63.5
+regularMarketPrice: 61.4
+regularMarketTime: 1794411513
+regularMarketVolume: 125612
+returnOnAssets: 0.05001
+returnOnEquity: 0.14723
+revenueGrowth: 0.072
+revenuePerShare: 150.569
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 36939723
+shortName: Bilfinger SE                  I
+sourceInterval: 15
+symbol: GBF.DE
+targetHighPrice: 100.0
+targetLowPrice: 62.0
+targetMeanPrice: 72.4
+targetMedianPrice: 67.0
+totalCash: 232600000
+totalCashPerShare: 6.297
+totalDebt: 222500000
+totalRevenue: 5569500160
+tradeable: false
+trailingAnnualDividendRate: 2.8
+trailingAnnualDividendYield: 0.044094488
+trailingEps: 5.06
+trailingPE: 12.134388
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 86.43275
+twoHundredDayAverageChange: -25.032745
+twoHundredDayAverageChangePercent: -0.28962108
+typeDisp: Equity
+volume: 125612
+website: https://www.bilfinger.com
+zip: '68163'

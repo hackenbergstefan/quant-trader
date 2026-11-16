@@ -1,0 +1,234 @@
+52WeekChange: 0.13016951
+SandP52WeekChange: 0.097798586
+address1: Building 10.2
+address2: Matam
+allTimeHigh: 5535.0
+allTimeLow: 115.0
+ask: 3364.0
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 152630
+averageDailyVolume3Month: 157481
+averageVolume: 157481
+averageVolume10days: 152630
+beta: 0.342
+bid: 3358.0
+bidSize: 0
+boardRisk: 5
+bookValue: 6.286303
+city: Haifa
+companyOfficers:
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Zruia
+  title: CEO & Executive Director
+  totalPay: 2566036
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Elad  Even-Chen
+  title: Group CFO, VP of Business Development & Executive Director
+  totalPay: 2566036
+  unexercisedValue: 0
+  yearBorn: 1986
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Alon Cohen Naznin
+  title: Chief Operating Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Al  Yaros
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Owen E. Jones
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Nir  Zatz
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dani  Magner
+  title: Chief Growth Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Yevgeni  Shtuckmeyster
+  title: Chief Regulation Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hila  Barak
+  title: Company Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: Israel
+cryptoTradeable: false
+currency: GBp
+currentPrice: 3360.0
+currentRatio: 2.272
+customPriceAlertConfidence: LOW
+dayHigh: 3400.0
+dayLow: 3330.0
+debtToEquity: 3.955
+dividendRate: 0.7
+dividendYield: 2.11
+earningsCallTimestampEnd: 1786348800
+earningsCallTimestampStart: 1786348800
+earningsGrowth: 0.055
+earningsQuarterlyGrowth: 0.015
+earningsTimestampEnd: 1786375800
+earningsTimestampStart: 1786375800
+ebitdaMargins: 0.0
+enterpriseToRevenue: 1.775
+enterpriseValue: 1474277632
+epsCurrentYear: 3.97999
+epsForward: 3.088277
+epsTrailingTwelveMonths: 2.87
+esgPopulated: false
+exDividendDate: 1787184000
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 3407.92
+fiftyDayAverageChange: -47.91992
+fiftyDayAverageChangePercent: -0.01406134
+fiftyTwoWeekChangePercent: 13.016951
+fiftyTwoWeekHigh: 5535.0
+fiftyTwoWeekHighChange: -2175.0
+fiftyTwoWeekHighChangePercent: -0.39295393
+fiftyTwoWeekLow: 2874.0
+fiftyTwoWeekLowChange: 486.0
+fiftyTwoWeekLowChangePercent: 0.1691023
+fiftyTwoWeekRange: 2874.0 - 5535.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 1374649200000
+fiveYearAvgDividendYield: 2.78
+floatShares: 64037735
+forwardEps: 3.088277
+forwardPE: 10.879852
+fullExchangeName: LSE
+fullTimeEmployees: 674
+fulldayChange: 26.0
+fulldayChangePercent: 0.77984405
+fulldayPrice: 3360.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 1.0
+grossProfits: 830600000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.02421
+heldPercentInstitutions: 0.61554
+impliedSharesOutstanding: 70295095
+industry: Capital Markets
+industryDisp: Capital Markets
+industryKey: capital-markets
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787184000
+lastDividendValue: 1.2001
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Plus500 Ltd., a fintech company, operates technology-based trading
+  platforms in Europe, the United Kingdom, Australia, and internationally. It develops
+  and operates an online trading platform, such as over the counter (OTC) products
+  comprising the contracts for difference (CFDs) sector enabling its international
+  customer base of individual customers to trade CFDs on underlying financial instruments
+  comprising shares, indices, commodities, options, ETFs, foreign exchange pairs,
+  and cryptocurrencies. The company also operates Plus500 Invest, a share dealing
+  platform. The company was formerly known as Investsoft Ltd. and changed its name
+  to Plus500 Ltd. in June 2012. Plus500 Ltd. was incorporated in 2008 and is based
+  in Haifa, Israel.
+longName: Plus500 Ltd.
+market: gb_market
+marketCap: 2361915136
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_206340865
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 283600000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 2343638467
+numberOfAnalystOpinions: 6
+open: 3400.0
+operatingCashflow: 292500000
+operatingMargins: 0.40332
+overallRisk: 6
+payoutRatio: 0.2369
+previousClose: 3334.0
+priceEpsCurrentYear: 844.2232
+priceHint: 2
+priceToBook: 5.3449535
+priceToSalesTrailing12Months: 2.8436253
+profitMargins: 0.34144002
+quickRatio: 2.112
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.66667
+region: US
+regularMarketChange: 26.0
+regularMarketChangePercent: 0.77984405
+regularMarketDayHigh: 3400.0
+regularMarketDayLow: 3330.0
+regularMarketDayRange: 3330.0 - 3400.0
+regularMarketOpen: 3400.0
+regularMarketPreviousClose: 3334.0
+regularMarketPrice: 3360.0
+regularMarketTime: 1794411551
+regularMarketVolume: 36809
+returnOnAssets: 0.27209
+returnOnEquity: 0.47429
+revenueGrowth: 0.119
+revenuePerShare: 11.862
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 70295095
+shortName: PLUS500 LTD ORD ILS0.01 (DI)
+sourceInterval: 15
+symbol: PLUS.L
+targetHighPrice: 5533.2095
+targetLowPrice: 3307.615
+targetMeanPrice: 4618.82
+targetMedianPrice: 4626.122
+totalCash: 861299968
+totalCashPerShare: 12.418
+totalDebt: 23100000
+totalRevenue: 830600000
+tradeable: false
+trailingAnnualDividendRate: 0.945
+trailingAnnualDividendYield: 0.0002834433
+trailingEps: 2.87
+trailingPE: 11.707317
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 4106.415
+twoHundredDayAverageChange: -746.41504
+twoHundredDayAverageChangePercent: -0.18176804
+typeDisp: Equity
+volume: 36809
+website: https://www.plus500.com
+zip: '3115001'

@@ -1,0 +1,260 @@
+52WeekChange: 0.17466581
+SandP52WeekChange: 0.097798586
+address1: Rudeboksvägen 1
+allTimeHigh: 595.4
+allTimeLow: 10.775
+ask: 543.6
+auditRisk: 3
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 672979
+averageDailyVolume3Month: 530151
+averageVolume: 530151
+averageVolume10days: 672979
+beta: 0.752
+bid: 543.2
+boardRisk: 3
+bookValue: 119.859
+city: Lund
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Tom  Erixon LL.B, MBA
+  title: President & CEO
+  totalPay: 33097000
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Fredrik  Ekstrom
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Johan  Lundin
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Emma  Adlerton
+  title: EVP, General Counsel, President of Group Legal, Corp Dev., Compl., Risk,
+    Patent & Sustain and Sec.
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Sara  Helweg-Larsen
+  title: Executive Vice President of Brand Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Julien  Gennetier
+  title: Executive VP & President Global Sales and Service
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Joakim  Vilson BSc. Eng.
+  title: Executive Vice President of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Nicholas  Newman
+  title: Managing Director of Canada
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Thomas  Moller
+  title: Executive VP & President Energy Division
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Sammy  Hulpiau
+  title: Executive VP, President Food & Pharma Division
+  unexercisedValue: 0
+  yearBorn: 1963
+compensationAsOfEpochDate: 1735603200
+compensationRisk: 2
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 543.2
+currentRatio: 1.211
+customPriceAlertConfidence: HIGH
+dayHigh: 546.8
+dayLow: 540.4
+debtToEquity: 42.03
+dividendRate: 9.0
+dividendYield: 1.68
+earningsCallTimestampEnd: 1793088000
+earningsCallTimestampStart: 1793088000
+earningsGrowth: -0.024
+earningsQuarterlyGrowth: -0.024
+earningsTimestamp: 1793118600
+earningsTimestampEnd: 1793118600
+earningsTimestampStart: 1793118600
+ebitda: 14044000256
+ebitdaMargins: 0.19566
+enterpriseToEbitda: 16.793
+enterpriseToRevenue: 3.286
+enterpriseValue: 235833901056
+epsCurrentYear: 21.63366
+epsForward: 21.94
+epsTrailingTwelveMonths: 19.7
+esgPopulated: false
+exDividendDate: 1776902400
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 556.204
+fiftyDayAverageChange: -13.003967
+fiftyDayAverageChangePercent: -0.023379853
+fiftyTwoWeekChangePercent: 17.466581
+fiftyTwoWeekHigh: 595.4
+fiftyTwoWeekHighChange: -52.200012
+fiftyTwoWeekHighChangePercent: -0.08767217
+fiftyTwoWeekLow: 426.4
+fiftyTwoWeekLowChange: 116.80002
+fiftyTwoWeekLowChangePercent: 0.27392125
+fiftyTwoWeekRange: 426.4 - 595.4
+financialCurrency: SEK
+firstTradeDateMilliseconds: 1021618800000
+fiveYearAvgDividendYield: 1.72
+floatShares: 291023058
+forwardEps: 21.94
+forwardPE: 24.758432
+freeCashflow: 5839000064
+fullExchangeName: Stockholm
+fullTimeEmployees: 25010
+fulldayChange: 7.200012
+fulldayChangePercent: 1.3432859
+fulldayPrice: 543.2
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.36251
+grossProfits: 26019999744
+hasPrePostMarketData: false
+heldPercentInsiders: 0.29624
+heldPercentInstitutions: 0.5516
+impliedSharesOutstanding: 413326315
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776902400
+lastDividendValue: 9.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1212624000
+lastSplitFactor: '4:1'
+longBusinessSummary: 'Alfa Laval AB (publ) provides heat transfer, separation, and
+  fluid handling products and solutions worldwide. The company operates through three
+  divisions: Energy, Food & Pharma, and Ocean. It offers ballast water management
+  systems; oil/gas-fired steam and composite steam boilers, exhaust gas economizers,
+  electric steam boilers, and exhaust gas steam boilers; and exhaust gas cleaning
+  products, as well as decanters and separators. The company also provides sensing
+  and control, cleaning validation, and condition monitoring automation products;
+  hygienic fittings, hygienic tubes, ultrapure fittings, and ultrapure tubes; agitators,
+  tank mixers, and powder mixers; and centrifugal pumps, circumferential piston pumps,
+  rotary lobe pumps, twin screws, three screw pumps, gear pumps, and reciprocating
+  pumps. In addition, it offers rotary jet heads, rotary spray heads, wall mounted
+  cleaning devices for tank cleaning, and static spray balls; and tank covers and
+  accessories, as well as valves. Further, the company provides plate heat exchangers,
+  air cooled heat exchangers, scraped surface heat exchangers, and tubular heat exchangers.
+  It serves energy and utilities, home and personal care, food, dairy and beverage,
+  marine and transportation, pharma and biotech, and water and wastewater industries.
+  Alfa Laval AB (publ) was founded in 1883 and is headquartered in Lund, Sweden.'
+longName: Alfa Laval AB (publ)
+market: se_market
+marketCap: 224518848512
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_419896
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 8141000192
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 221542904840
+numberOfAnalystOpinions: 17
+open: 540.8
+operatingCashflow: 10419000320
+operatingMargins: 0.16632
+overallRisk: 1
+payoutRatio: 0.4569
+pegRatio: 1.64
+phone: 46 46 36 65 00
+previousClose: 536.0
+priceEpsCurrentYear: 25.109022
+priceHint: 2
+priceToBook: 4.531992
+priceToSalesTrailing12Months: 3.1279619
+profitMargins: 0.11342
+quickRatio: 0.742
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.58824
+region: US
+regularMarketChange: 7.200012
+regularMarketChangePercent: 1.3432859
+regularMarketDayHigh: 546.8
+regularMarketDayLow: 540.4
+regularMarketDayRange: 540.4 - 546.8
+regularMarketOpen: 540.8
+regularMarketPreviousClose: 536.0
+regularMarketPrice: 543.2
+regularMarketTime: 1794412467
+regularMarketVolume: 349850
+returnOnAssets: 0.07057
+returnOnEquity: 0.17719999
+revenueGrowth: 0.078
+revenuePerShare: 173.659
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 413326315
+shortName: Alfa Laval AB
+sourceInterval: 15
+symbol: ALFA.ST
+targetHighPrice: 675.0
+targetLowPrice: 443.0
+targetMeanPrice: 595.7059
+targetMedianPrice: 610.0
+totalCash: 7209999872
+totalCashPerShare: 17.444
+totalDebt: 21023000576
+totalRevenue: 71778000896
+tradeable: false
+trailingAnnualDividendRate: 9.0
+trailingAnnualDividendYield: 0.016791046
+trailingEps: 19.7
+trailingPE: 27.573603
+trailingPegRatio: 1.6409
+triggerable: true
+twoHundredDayAverage: 546.231
+twoHundredDayAverageChange: -3.0310059
+twoHundredDayAverageChangePercent: -0.005548945
+typeDisp: Equity
+volume: 349850
+website: https://www.alfalaval.com
+zip: 226 55

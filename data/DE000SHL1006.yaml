@@ -1,0 +1,242 @@
+52WeekChange: -0.041945577
+SandP52WeekChange: 0.097798586
+address1: Siemensstr. 3
+allTimeHigh: 67.66
+allTimeLow: 28.5
+ask: 43.4
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 1237934
+averageDailyVolume3Month: 912994
+averageVolume: 912994
+averageVolume10days: 1237934
+beta: 0.888
+bid: 43.38
+bidSize: 0
+boardRisk: 6
+bookValue: 17.871
+city: Forchheim
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Dr. Bernhard  Montag Ph.D.
+  title: President, CEO & Chairman of Management Board
+  totalPay: 3336000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Dr. Jochen  Schmitz Ph.D.
+  title: CFO & Member of Management Board
+  totalPay: 1809000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Elisabeth  Staudinger-Leibrecht M.A.
+  title: Member of Management Board
+  totalPay: 1552000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Astrid Kristine Ploss
+  title: Member of Supervisory Board, Head of Legal Advanced Therapies & Head of Legal
+    Technology Excellence
+  totalPay: 71000
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Marc  Koebernick
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Matthias  Kraemer
+  title: Head of Corporate Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1735603200
+compensationRisk: 1
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 43.4
+currentRatio: 1.184
+customPriceAlertConfidence: LOW
+dayHigh: 43.52
+dayLow: 42.67
+debtToEquity: 74.012
+dividendRate: 1.0
+dividendYield: 2.32
+earningsCallTimestampEnd: 1793862000
+earningsCallTimestampStart: 1793862000
+earningsGrowth: -0.008
+earningsQuarterlyGrowth: 0.002
+earningsTimestamp: 1801758600
+earningsTimestampEnd: 1801758600
+earningsTimestampStart: 1801758600
+ebitda: 4381000192
+ebitdaMargins: 0.18540001
+enterpriseToEbitda: 13.686
+enterpriseToRevenue: 2.537
+enterpriseValue: 59958669312
+epsCurrentYear: 2.33914
+epsForward: 2.63691
+epsTrailingTwelveMonths: 1.96
+esgPopulated: false
+exDividendDate: 1770336000
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 40.0418
+fiftyDayAverageChange: 3.3582
+fiftyDayAverageChangePercent: 0.083867356
+fiftyTwoWeekChangePercent: -4.1945577
+fiftyTwoWeekHigh: 47.26
+fiftyTwoWeekHighChange: -3.8599968
+fiftyTwoWeekHighChangePercent: -0.08167577
+fiftyTwoWeekLow: 32.81
+fiftyTwoWeekLowChange: 10.59
+fiftyTwoWeekLowChangePercent: 0.32276744
+fiftyTwoWeekRange: 32.81 - 47.26
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1523516400000
+fiveYearAvgDividendYield: 1.88
+floatShares: 356321398
+forwardEps: 2.63691
+forwardPE: 16.458658
+freeCashflow: 1719250048
+fullExchangeName: XETRA
+fullTimeEmployees: 74600
+fulldayChange: 0.4600029
+fulldayChangePercent: 1.071269
+fulldayPrice: 43.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.3857
+grossProfits: 9114000384
+hasPrePostMarketData: false
+heldPercentInsiders: 0.6702
+heldPercentInstitutions: 0.13988
+impliedSharesOutstanding: 1119198976
+industry: Medical Devices
+industryDisp: Medical Devices
+industryKey: medical-devices
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1770336000
+lastDividendValue: 1.0
+lastFiscalYearEnd: 1790726400
+longBusinessSummary: 'Siemens Healthineers AG, through its subsidiaries, develops,
+  manufactures, and sells a range of diagnostic and therapeutic products and services
+  to healthcare providers in Germany, the United States, rest of Europe, CIS, Africa,
+  the Middle East, the Americas, the Asia Pacific, Japan, and China. It operates in
+  four segments: Imaging, Diagnostics, Varian, and Advanced Therapies. The Imaging
+  segment offers magnetic resonance imaging, computed tomography, X-ray, molecular
+  imaging, and ultrasound systems; and software solutions to support the reading and
+  structured reporting of diagnostic images from different modalities. Its Diagnostics
+  segment provides in-vitro diagnostic products and services to healthcare providers
+  in the fields of general and specialty laboratory, and point-of-care diagnostics;
+  and workflow solutions for laboratories and informatics products. The Varian segment
+  offers microwave, cryoablation, and embolization technologies, as well as clinical
+  professional services for cancer care that support oncology departments in hospitals
+  and clinics; and customized support for cancer care operations. Its Advanced Therapies
+  segment provides products that are designed to support image-guided minimally invasive
+  clinical procedures in various areas, such as cardiology, neurology, and oncology;
+  angiography systems and mobile C-arms; and AI-powered clinical applications. It
+  also offers essential technical customer service, such as maintenance and repair;
+  spare parts; medical equipment performance management; training; clinical education
+  and e-learning; planning and design; financing; asset management; and managed departmental
+  services for laboratories and healthcare facilities, as well as healthcare consulting,
+  products, and services. It has strategic partnership with IFS and Novo. The company
+  was founded in 1896 and is headquartered in Forchheim, Germany. Siemens Healthineers
+  AG is a subsidiary of Siemens Aktiengesellschaft.'
+longName: Siemens Healthineers AG
+market: de_market
+marketCap: 48573239296
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_553386133
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2214000128
+nextFiscalYearEnd: 1822262400
+nonDilutedMarketCap: 48058404029
+numberOfAnalystOpinions: 20
+open: 42.97
+operatingCashflow: 3287000064
+operatingMargins: 0.13517
+overallRisk: 3
+payoutRatio: 0.5076
+pegRatio: 1.97
+phone: 49 9131 84 3385
+previousClose: 42.94
+priceEpsCurrentYear: 18.55383
+priceHint: 2
+priceToBook: 2.4285154
+priceToSalesTrailing12Months: 2.0555751
+profitMargins: 0.09369001
+quickRatio: 0.751
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.95
+region: US
+regularMarketChange: 0.4600029
+regularMarketChangePercent: 1.071269
+regularMarketDayHigh: 43.52
+regularMarketDayLow: 42.67
+regularMarketDayRange: 42.67 - 43.52
+regularMarketOpen: 42.97
+regularMarketPreviousClose: 42.94
+regularMarketPrice: 43.4
+regularMarketTime: 1794411532
+regularMarketVolume: 595925
+returnOnAssets: 0.04384
+returnOnEquity: 0.118030004
+revenueGrowth: 0.073
+revenuePerShare: 21.133
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 6
+sharesOutstanding: 1119198976
+shortName: Siemens Healthineers AG       N
+sourceInterval: 15
+symbol: SHL.DE
+targetHighPrice: 57.4
+targetLowPrice: 37.0
+targetMeanPrice: 46.57
+targetMedianPrice: 47.0
+totalCash: 2542000128
+totalCashPerShare: 2.289
+totalDebt: 14741000192
+totalRevenue: 23630000128
+tradeable: false
+trailingAnnualDividendRate: 1.0
+trailingAnnualDividendYield: 0.02328831
+trailingEps: 1.96
+trailingPE: 22.142857
+trailingPegRatio: 1.9611
+triggerable: false
+twoHundredDayAverage: 37.793
+twoHundredDayAverageChange: 5.6070023
+twoHundredDayAverageChangePercent: 0.14836086
+typeDisp: Equity
+volume: 595925
+website: https://www.siemens-healthineers.com
+zip: '91301'

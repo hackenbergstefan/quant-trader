@@ -1,0 +1,276 @@
+52WeekChange: -0.007046461
+SandP52WeekChange: 0.097798586
+address1: Taunusanlage 12
+allTimeHigh: 92.052864
+allTimeLow: 4.4485
+ask: 33.455
+askSize: 2300
+auditRisk: 9
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 6351811
+averageDailyVolume3Month: 5187600
+averageVolume: 5187600
+averageVolume10days: 6351811
+beta: 1.045
+bid: 33.465
+bidSize: 5551
+boardRisk: 2
+bookValue: 42.827
+city: Frankfurt am Main
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian  Sewing
+  title: CEO & Chairman of Management Board
+  totalPay: 5012000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fabrizio  Campelli
+  title: CEO-Americas, President, Head of Corp. & Invst Bank-UK & Ireland Member of
+    Mgmt. Board
+  totalPay: 4556000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexander  von zur Muhlen
+  title: CEO of Asia-Pacific, Europe, Middle East & Africa (EMEA), and Germany and
+    Member of Management Board
+  totalPay: 4182000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Claudio  de Sanctis
+  title: Head of Private Bank & Member of Management Board
+  totalPay: 4273000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rebecca  Short
+  title: COO & Member of Management Board
+  totalPay: 3211000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laura  Padovani
+  title: Chief Compliance & Anti-Financial Crime Officer and Member of Management
+    Board
+  totalPay: 2787000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Marcus Johannes Chromik
+  title: Chief Risk Officer & Member of Management Board
+  totalPay: 1903000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Raja J. Akram
+  title: CFO & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Stefan  Hoops
+  title: CEO of Deutsche Bank's asset manager DWS & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marie Jeanne Deverdun
+  title: Chief Technology, Data & Innovation Officer and Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1976
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 33.465
+customPriceAlertConfidence: LOW
+dayHigh: 33.8
+dayLow: 33.16
+dividendRate: 1.0
+dividendYield: 3.08
+earningsCallTimestampEnd: 1793181600
+earningsCallTimestampStart: 1793181600
+earningsGrowth: 0.056
+earningsQuarterlyGrowth: 0.02
+earningsTimestamp: 1801119600
+earningsTimestampEnd: 1801119600
+earningsTimestampStart: 1801119600
+ebitdaMargins: 0.0
+enterpriseToRevenue: -1.061
+enterpriseValue: -32534173696
+epsCurrentYear: 3.32002
+epsForward: 3.96353
+epsTrailingTwelveMonths: 3.4
+esgPopulated: false
+exDividendDate: 1780012800
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 69 910 34 225
+fiftyDayAverage: 31.6343
+fiftyDayAverageChange: 1.8306999
+fiftyDayAverageChangePercent: 0.057870727
+fiftyTwoWeekChangePercent: -0.7046461
+fiftyTwoWeekHigh: 35.845
+fiftyTwoWeekHighChange: -2.380001
+fiftyTwoWeekHighChangePercent: -0.06639701
+fiftyTwoWeekLow: 23.815
+fiftyTwoWeekLowChange: 9.65
+fiftyTwoWeekLowChangePercent: 0.40520677
+fiftyTwoWeekRange: 23.815 - 35.845
+financialCurrency: EUR
+firstTradeDateMilliseconds: 848304000000
+fiveYearAvgDividendYield: 2.44
+floatShares: 1687582685
+forwardEps: 3.96353
+forwardPE: 8.443231
+fullExchangeName: XETRA
+fullTimeEmployees: 89868
+fulldayChange: 0.34999847
+fulldayChangePercent: 1.0569181
+fulldayPrice: 33.465
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 30676000768
+hasPrePostMarketData: false
+heldPercentInsiders: 0.089370005
+heldPercentInstitutions: 0.56052
+impliedSharesOutstanding: 1854100000
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: https://www.db.com/ir/index_e.htm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1780012800
+lastDividendValue: 1.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Deutsche Bank Aktiengesellschaft, a stock corporation, provides
+  corporate and investment banking, private clients, and asset management products
+  and services in Germany, the United Kingdom, the rest of Europe, the Americas, the
+  Asia-Pacific, the Middle East, and Africa. It operates through Corporate Bank, Investment
+  Bank, Private Bank, and Asset Management segments. The Corporate Bank segment offers
+  cash management services, such as integrated payments and FX solutions; trade finance
+  and lending offerings, including documentary and guarantee business, and structured
+  trade finance and lending; and depository receipts, corporate trust, document custody,
+  and securities services. The Investment Bank segment provides financing solutions
+  in industries and asset classes; institutional sales, trading, and structuring in
+  foreign exchange, rates, emerging markets, and credit trading; liquidity, market
+  making services, and specialized risk management solutions for fixed income and
+  currencies products; and advisory and financial products and services. This segment
+  is also involved in the mergers and acquisitions business; and capital markets businesses
+  in debt and equity. The Private Bank segment offers a range of payment and account
+  services, and credit and deposit products, as well as investment advice, and postal
+  and parcel services; and planning, managing and investing wealth, financing personal
+  and business interests, and servicing institutional and corporate needs. The Asset
+  Management segment provides access to investment capabilities in active and passive
+  asset classes comprising Xtrackers range and alternatives; and access to private
+  equity, private credit, real estate, and infrastructure. Deutsche Bank Aktiengesellschaft
+  was incorporated in 1870 and is headquartered in Frankfurt am Main, Germany.
+longName: Deutsche Bank Aktiengesellschaft
+market: de_market
+marketCap: 62047457280
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_410467
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 6125000192
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 60193356500
+numberOfAnalystOpinions: 18
+open: 33.765
+operatingMargins: 0.32276002
+overallRisk: 2
+payoutRatio: 0.30040002
+pegRatio: 1.5
+phone: 49 6 991 000
+previousClose: 33.115
+priceEpsCurrentYear: 10.079759
+priceHint: 2
+priceToBook: 0.7813996
+priceToSalesTrailing12Months: 2.022671
+profitMargins: 0.22669001
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.27778
+region: US
+regularMarketChange: 0.34999847
+regularMarketChangePercent: 1.0569181
+regularMarketDayHigh: 33.8
+regularMarketDayLow: 33.16
+regularMarketDayRange: 33.16 - 33.8
+regularMarketOpen: 33.765
+regularMarketPreviousClose: 33.115
+regularMarketPrice: 33.465
+regularMarketTime: 1794411550
+regularMarketVolume: 1746065
+returnOnAssets: 0.00483
+returnOnEquity: 0.08979
+revenueGrowth: 0.028
+revenuePerShare: 15.978
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 1854100000
+shortName: DEUTSCHE BANK AG              N
+sourceInterval: 15
+symbol: DBK.DE
+targetHighPrice: 47.75
+targetLowPrice: 10.9
+targetMeanPrice: 35.24594
+targetMedianPrice: 35.5
+totalCash: 657327980544
+totalCashPerShare: 354.531
+totalDebt: 561774002176
+totalRevenue: 30676000768
+tradeable: false
+trailingAnnualDividendRate: 1.0
+trailingAnnualDividendYield: 0.030197794
+trailingEps: 3.4
+trailingPE: 9.842647
+trailingPegRatio: 1.4955
+triggerable: false
+twoHundredDayAverage: 29.8907
+twoHundredDayAverageChange: 3.5743008
+twoHundredDayAverageChangePercent: 0.119579025
+typeDisp: Equity
+volume: 1746065
+website: https://www.db.com
+zip: '60325'

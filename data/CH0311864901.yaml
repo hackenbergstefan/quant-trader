@@ -1,0 +1,249 @@
+52WeekChange: 0.5726043
+SandP52WeekChange: 0.097798586
+address1: Seelistrasse 1
+address2: Haag
+allTimeHigh: 727.2
+allTimeLow: 50.3
+ask: 554.6
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 96422
+averageDailyVolume3Month: 73113
+averageVolume: 73113
+averageVolume10days: 96422
+beta: 1.519
+bid: 554.2
+bidSize: 0
+boardRisk: 1
+bookValue: 22.882
+city: Solothurn
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Urs  Gantner
+  title: Chief Executive Officer
+  totalPay: 1016711
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fabian  Chiozza
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: M.  Zickar
+  title: Member of Group Management Board & Head of Core Technology
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: J.  Haggerty
+  title: Member of Group Management Board & Head of Global Sales & Service
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: O.  Müller
+  title: Member of Group Management Board & Head of Strategy and Business Development
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: K.  Dahlstroem
+  title: Member of Group Management Board and Head of GVA & Bellows
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: A.  Sonderer
+  title: Head of Accounting & Treasury
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michel R. Gerber
+  title: Head of Marketing, Communications & Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Benno  Lichtsteiner
+  title: Head of Legal & Compliance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: M.  Vaplon
+  title: Head of Information Technology
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 554.4
+currentRatio: 2.378
+customPriceAlertConfidence: LOW
+dayHigh: 558.6
+dayLow: 543.0
+debtToEquity: 57.944
+dividendDate: 1746489600
+dividendRate: 7.0
+dividendYield: 1.31
+earningsCallTimestampEnd: 1784734200
+earningsCallTimestampStart: 1784734200
+earningsGrowth: -0.065
+earningsQuarterlyGrowth: -0.064
+earningsTimestampEnd: 1772555400
+earningsTimestampStart: 1772555400
+ebitda: 270025984
+ebitdaMargins: 0.26281
+enterpriseToEbitda: 60.346
+enterpriseToRevenue: 15.86
+enterpriseValue: 16295002112
+epsCurrentYear: 10.69
+epsForward: 18.78295
+epsTrailingTwelveMonths: 6.91
+esgPopulated: false
+exDividendDate: 1777507200
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 615.58
+fiftyDayAverageChange: -61.179993
+fiftyDayAverageChangePercent: -0.09938593
+fiftyTwoWeekChangePercent: 57.26043
+fiftyTwoWeekHigh: 727.2
+fiftyTwoWeekHighChange: -172.79999
+fiftyTwoWeekHighChangePercent: -0.23762374
+fiftyTwoWeekLow: 305.1
+fiftyTwoWeekLowChange: 249.30002
+fiftyTwoWeekLowChangePercent: 0.81710917
+fiftyTwoWeekRange: 305.1 - 727.2
+financialCurrency: CHF
+firstTradeDateMilliseconds: 1460617200000
+fiveYearAvgDividendYield: 1.55
+floatShares: 26910611
+forwardEps: 18.78295
+forwardPE: 29.516132
+freeCashflow: 173062256
+fullExchangeName: Swiss
+fullTimeEmployees: 3959
+fulldayChange: 19.400024
+fulldayChangePercent: 3.6261728
+fulldayPrice: 554.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.61394
+grossProfits: 630790976
+hasPrePostMarketData: false
+heldPercentInsiders: 0.100889996
+heldPercentInstitutions: 0.47173
+impliedSharesOutstanding: 29966926
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777507200
+lastDividendValue: 7.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: VAT Group AG, together with its subsidiaries, engages in the
+  development, manufacture, and sale of vacuum and gas inlet valves, multi-valve modules,
+  motion components, and edge-welded metal bellows. It operates in two segments, Valves
+  and Global Service. The Valves segment offers vacuum valves for the semiconductor,
+  displays, photovoltaics, and vacuum coating industries, as well as for the industrial
+  and research sectors. The Global Service segment provides spare parts, repairs,
+  and upgrades, as well as support services. The company offers vacuum isolation,
+  gate, angle, inline, check, cylinder, and all-metal valves; vacuum pendulum and
+  butterfly valves; 3 position, multi-value, and vacuum control valves; vacuum transfer
+  valves and doors; pressure relief/venting, gas dosing, and fast closing/beam stopper
+  valves; and flange connections, bellows, and vacuum modules. It has operations in
+  Switzerland, rest of Europe, the United States, Japan, Korea, Singapore, China,
+  rest of Asia, and internationally. VAT Group AG was founded in 1965 and is headquartered
+  in Solothurn, Switzerland.
+longName: VAT Group AG
+market: ch_market
+marketCap: 16613664768
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_328213506
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 207495008
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 16032305410
+numberOfAnalystOpinions: 17
+open: 543.0
+operatingCashflow: 270708000
+operatingMargins: 0.21813999
+overallRisk: 1
+payoutRatio: 1.013
+pegRatio: 0.9
+phone: 41 81 771 61 61
+previousClose: 535.0
+priceEpsCurrentYear: 51.861557
+priceHint: 2
+priceToBook: 24.228653
+priceToSalesTrailing12Months: 16.169882
+profitMargins: 0.20195
+quickRatio: 1.209
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.22222
+region: US
+regularMarketChange: 19.400024
+regularMarketChangePercent: 3.6261728
+regularMarketDayHigh: 558.6
+regularMarketDayLow: 543.0
+regularMarketDayRange: 543.0 - 558.6
+regularMarketOpen: 543.0
+regularMarketPreviousClose: 535.0
+regularMarketPrice: 554.4
+regularMarketTime: 1794411584
+regularMarketVolume: 38334
+returnOnAssets: 0.10267
+returnOnEquity: 0.30087
+revenueGrowth: -0.083
+revenuePerShare: 34.31
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 29966926
+shortName: VAT GROUP N
+sourceInterval: 15
+symbol: VACN.SW
+targetHighPrice: 874.0
+targetLowPrice: 400.0
+targetMeanPrice: 721.5294
+targetMedianPrice: 740.0
+totalCash: 116551000
+totalCashPerShare: 3.894
+totalDebt: 396896000
+totalRevenue: 1027444992
+tradeable: false
+trailingAnnualDividendRate: 7.0
+trailingAnnualDividendYield: 0.013084112
+trailingEps: 6.91
+trailingPE: 80.23155
+trailingPegRatio: 0.9064
+triggerable: false
+twoHundredDayAverage: 596.2065
+twoHundredDayAverageChange: -41.806458
+twoHundredDayAverageChangePercent: -0.07012077
+typeDisp: Equity
+volume: 38334
+website: https://www.vatgroup.com
+zip: '9469'

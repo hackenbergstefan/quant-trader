@@ -1,0 +1,249 @@
+52WeekChange: -0.015880406
+SandP52WeekChange: 0.097798586
+address1: Thurgauerstrasse 101b
+address2: Glattpark
+allTimeHigh: 51.3
+allTimeLow: 38.305
+ask: 42.44
+auditRisk: 2
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 272455
+averageDailyVolume3Month: 257467
+averageVolume: 257467
+averageVolume10days: 272455
+bid: 42.4
+boardRisk: 5
+bookValue: 51.056
+city: Opfikon
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. André Reinhard Krause
+  title: Chief Executive Officer
+  totalPay: 4871380
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Andreas  Tolpeit
+  title: Chief Financial Officer
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Elmar  Grasser
+  title: Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Anna Maria Blengino
+  title: Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Marcel  Huber
+  title: Chief Corporate Affairs Officer, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Tobias  Foster
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Dr. Stefan  Fuchs
+  title: Chief Consumer Officer of Flanker Brands
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Thorsten  Haeser
+  title: Chief Business Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1735603200
+compensationRisk: 7
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 42.4
+currentRatio: 0.577
+customPriceAlertConfidence: LOW
+dayHigh: 42.56
+dayLow: 41.8
+debtToEquity: 151.339
+dividendDate: 1747612800
+dividendRate: 3.42
+dividendYield: 8.12
+earningsCallTimestampEnd: 1794301200
+earningsCallTimestampStart: 1794301200
+earningsTimestamp: 1794328200
+earningsTimestampEnd: 1794328200
+earningsTimestampStart: 1794328200
+ebitda: 916499968
+ebitdaMargins: 0.30906
+enterpriseToEbitda: 9.518
+enterpriseToRevenue: 2.942
+enterpriseValue: 8723532800
+epsCurrentYear: -1.7
+epsForward: 1.15
+epsTrailingTwelveMonths: -1.7
+esgPopulated: false
+exDividendDate: 1778457600
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 41.706
+fiftyDayAverageChange: 0.69400024
+fiftyDayAverageChangePercent: 0.016640296
+fiftyTwoWeekChangePercent: -1.5880406
+fiftyTwoWeekHigh: 50.4
+fiftyTwoWeekHighChange: -8.0
+fiftyTwoWeekHighChangePercent: -0.15873015
+fiftyTwoWeekLow: 38.7
+fiftyTwoWeekLowChange: 3.7000008
+fiftyTwoWeekLowChangePercent: 0.09560725
+fiftyTwoWeekRange: 38.7 - 50.4
+financialCurrency: CHF
+firstTradeDateMilliseconds: 1731571200000
+floatShares: 47994585
+forwardEps: 1.15
+forwardPE: 36.869568
+freeCashflow: 598924992
+fullExchangeName: Swiss
+fullTimeEmployees: 2897
+fulldayChange: 0.26000214
+fulldayChangePercent: 0.61699605
+fulldayPrice: 42.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.57466
+grossProfits: 1704099968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.29665002
+heldPercentInstitutions: 0.37479
+impliedSharesOutstanding: 72805302
+industry: Telecom Services
+industryDisp: Telecom Services
+industryKey: telecom-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778457600
+lastDividendValue: 3.42
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Sunrise Communications AG, together with its subsidiaries, provides
+  telecommunications services in Switzerland. It operates in three segments: Residential
+  Customers; Business Customers and Wholesale; and Infrastructure and Support Functions.
+  The company offers mobile services comprising prepaid and postpaid voice, SMS and
+  data, and international calling and roaming services; broadband, TV, and fixed-line
+  telephony services; and device-as-a-service, as well as sells third-party mobile
+  phones, tablets, and other hardware and accessories. It also operates the MySports,
+  which broadcasts Swiss National League ice-hockey games and North American National
+  Hockey League games; and The Sunrise TV Shop, which consolidates streaming subscriptions.
+  In addition, the company offers Sunrise Pay, a payment method involving paying through
+  the phone bill or deducting payment from the prepaid balance; Sunrise Protect, a
+  comprehensive security solution; Identity Protect, which safeguards personal and
+  sensitive information; Device Protect, which combines antivirus protection and parental
+  controls to a secure environment for browsing, banking, and online shopping; Sunrise
+  Moments, a customer loyalty programme that gives access to pre-sales, fast-lane
+  entry, and discounted tickets; travel and cyber insurance; home security products;
+  property management; carrier and internet protocol television; and mobile private
+  networks, mobile Internet of Things, and cloud services. Further, it provides infrastructure
+  and support activities comprising network, IT, and customer care operations services.
+  The company serves mobile and fixed virtual network operators, and branded resellers
+  through its website, mobile applications, call centres, sales representatives, retail
+  locations, and third-party distributors and partners. It sells its products under
+  the Sunrise, yallo, CHmobile, swype, and Lebara brands. Sunrise Communications AG
+  was founded in 1996 and is headquartered in Opfikon, Switzerland.'
+longName: Sunrise Communications AG
+market: ch_market
+marketCap: 3086945024
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_282640984
+mostRecentQuarter: 1782777600
+netIncomeToCommon: -119100000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 3091833269
+numberOfAnalystOpinions: 12
+open: 41.84
+operatingCashflow: 1220700032
+operatingMargins: 0.04276
+overallRisk: 6
+phone: 41 58 777 76 66
+previousClose: 42.14
+priceEpsCurrentYear: -24.941177
+priceHint: 2
+priceToBook: 0.8304607
+priceToSalesTrailing12Months: 1.0409877
+profitMargins: -0.040159997
+quickRatio: 0.332
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.81818
+region: US
+regularMarketChange: 0.26000214
+regularMarketChangePercent: 0.61699605
+regularMarketDayHigh: 42.56
+regularMarketDayLow: 41.8
+regularMarketDayRange: 41.8 - 42.56
+regularMarketOpen: 41.84
+regularMarketPreviousClose: 42.14
+regularMarketPrice: 42.4
+regularMarketTime: 1794411550
+regularMarketVolume: 130166
+returnOnAssets: 0.0069
+returnOnEquity: -0.02928
+revenueGrowth: -0.026
+revenuePerShare: 40.796
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 9
+sharesOutstanding: 70254568
+shortName: SUNRISE N
+sourceInterval: 15
+symbol: SUNN.SW
+targetHighPrice: 65.0
+targetLowPrice: 34.0
+targetMeanPrice: 45.24987
+targetMedianPrice: 40.985
+totalCash: 99800000
+totalCashPerShare: 1.36
+totalDebt: 5706699776
+totalRevenue: 2965400064
+tradeable: false
+trailingAnnualDividendRate: 3.42
+trailingAnnualDividendYield: 0.08115805
+trailingEps: -1.7
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 43.4598
+twoHundredDayAverageChange: -1.0597992
+twoHundredDayAverageChangePercent: -0.024385735
+typeDisp: Equity
+volume: 130166
+website: https://www.sunrise.ch
+zip: '8152'

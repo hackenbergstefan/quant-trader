@@ -1,0 +1,259 @@
+52WeekChange: 0.36389518
+SandP52WeekChange: 0.097798586
+address1: Christen Tranes Gate 35
+allTimeHigh: 240.5
+allTimeLow: 20.000366
+ask: 237.0
+auditRisk: 3
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 253364
+averageDailyVolume3Month: 198196
+averageVolume: 198196
+averageVolume10days: 253364
+beta: 0.532
+bid: 236.5
+boardRisk: 2
+bookValue: 137.469
+city: Stavanger
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Inge  Reinertsen
+  title: Chief Executive Officer
+  totalPay: 9523000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eirik Boerve Monsen
+  title: CFO and EVP of Economy, Finance & Sustainability
+  totalPay: 3567000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ella  Skjorestad
+  title: Executive VP of Market & Technology
+  totalPay: 3720000
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Roger  Lund Antonesen
+  title: Executive Vice President of Corporate Market
+  totalPay: 5903000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marianne  Bakke
+  title: Executive Vice President of Retail Market
+  totalPay: 4241000
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Per  Halvorsen
+  title: Advisor
+  totalPay: 7006000
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Morten  Forgaard
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nils Mikal Hegrestad
+  title: Director of Credit and Legal
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Gro  Tveit
+  title: Group Executive Vice President, People & Organisation
+  totalPay: 2305826
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kyrre M. Knudsen
+  title: Chief Economist & Head of Analysis
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Norway
+cryptoTradeable: false
+currency: NOK
+currentPrice: 237.5
+customPriceAlertConfidence: LOW
+dayHigh: 241.0
+dayLow: 236.0
+dividendRate: 12.0
+dividendYield: 5.01
+earningsCallTimestampEnd: 1793277000
+earningsCallTimestampStart: 1793277000
+earningsGrowth: 0.051
+earningsQuarterlyGrowth: 0.035
+earningsTimestamp: 1793287200
+earningsTimestampEnd: 1793287200
+earningsTimestampStart: 1793287200
+ebitdaMargins: 0.0
+enterpriseToRevenue: 24.507
+enterpriseValue: 327836303360
+epsCurrentYear: 17.17
+epsForward: 18.474
+epsTrailingTwelveMonths: 16.97
+esgPopulated: false
+exDividendDate: 1776988800
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 226.57
+fiftyDayAverageChange: 10.929993
+fiftyDayAverageChangePercent: 0.048241127
+fiftyTwoWeekChangePercent: 36.38952
+fiftyTwoWeekHigh: 241.0
+fiftyTwoWeekHighChange: -3.5
+fiftyTwoWeekHighChangePercent: -0.014522822
+fiftyTwoWeekLow: 169.2
+fiftyTwoWeekLowChange: 68.3
+fiftyTwoWeekLowChangePercent: 0.40366432
+fiftyTwoWeekRange: 169.2 - 241.0
+financialCurrency: NOK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 4.66
+floatShares: 284908134
+forwardEps: 18.474
+forwardPE: 12.855905
+fullExchangeName: Oslo
+fullTimeEmployees: 1844
+fulldayChange: -2.0
+fulldayChangePercent: -0.8350731
+fulldayPrice: 237.5
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 13377000448
+hasPrePostMarketData: false
+heldPercentInsiders: 0.46071
+heldPercentInstitutions: 0.25778
+impliedSharesOutstanding: 369103961
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: https://www2.sparebank1.no/portal/3229/3_privat?_nfpb=true&_nfls=false&_pageLabel=page_privat_innhold&aId=1268407438582&refId=1233149634692
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776988800
+lastDividendValue: 12.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1193616000
+lastSplitFactor: '2:1'
+longBusinessSummary: SpareBank 1 Sør-Norge ASA, together with its subsidiaries, provides
+  various financial products and services for personal and corporate customers in
+  Norway. The company operates through Retail Market, Corporate Market, SME & Agriculture,
+  and Other Activities segments. It offers savings, loans, insurance, and pension
+  products. The company also provides account and payment, international cash management,
+  foreign exchange, administrative securities, accounting, estate agency, HR, securities
+  trading, and investment services; green loans; credit cards; consulting; commercial
+  properties for leasing; and banking services. In addition, it facilitates and advises
+  debt and equity funding; and sells real estate properties, homes, and commercial
+  properties. Further, the company is involved in the customer trading of interest-rate
+  instruments; and purchasing of home mortgages. It serves retail and corporate, SME,
+  small business, and agricultural customers, as well as the public sector. The company
+  was founded in 1839 and is headquartered in Stavanger, Norway.
+longName: SpareBank 1 Sør-Norge ASA
+market: no_market
+marketCap: 87662190592
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_883781
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 6321999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 87662190737
+numberOfAnalystOpinions: 5
+open: 239.5
+operatingCashflow: -13479999488
+operatingMargins: 0.62772
+overallRisk: 1
+payoutRatio: 0.7061
+pegRatio: 2.86
+phone: 47 91 50 20 02
+prevName: SpareBank 1 SR-Bank ASA
+previousClose: 239.5
+priceEpsCurrentYear: 13.832266
+priceHint: 2
+priceToBook: 1.7276623
+priceToSalesTrailing12Months: 6.553202
+profitMargins: 0.49533
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.66667
+region: US
+regularMarketChange: -2.0
+regularMarketChangePercent: -0.8350731
+regularMarketDayHigh: 241.0
+regularMarketDayLow: 236.0
+regularMarketDayRange: 236.0 - 241.0
+regularMarketOpen: 239.5
+regularMarketPreviousClose: 239.5
+regularMarketPrice: 237.5
+regularMarketTime: 1794410996
+regularMarketVolume: 255123
+returnOnAssets: 0.0124699995
+returnOnEquity: 0.12159
+revenueGrowth: -0.015
+revenuePerShare: 36.051
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 4
+sharesOutstanding: 369103961
+sourceInterval: 15
+symbol: SB1NO.OL
+targetHighPrice: 245.0
+targetLowPrice: 195.0
+targetMeanPrice: 223.0
+targetMedianPrice: 225.0
+totalCash: 8695000064
+totalCashPerShare: 23.47
+totalDebt: 247802003456
+totalRevenue: 13377000448
+tradeable: false
+trailingAnnualDividendRate: 12.0
+trailingAnnualDividendYield: 0.050104383
+trailingEps: 16.97
+trailingPE: 13.995286
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 209.496
+twoHundredDayAverageChange: 28.003998
+twoHundredDayAverageChangePercent: 0.13367319
+typeDisp: Equity
+volume: 255123
+website: https://www.sparebank1.no/
+zip: '4007'

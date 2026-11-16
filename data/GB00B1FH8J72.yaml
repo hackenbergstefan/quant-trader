@@ -1,0 +1,233 @@
+52WeekChange: 0.190184
+SandP52WeekChange: 0.097798586
+address1: Severn Trent Centre
+address2: 2 St John’s Street
+allTimeHigh: 3791.55
+allTimeLow: 378.9471
+ask: 3292.0
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 496107
+averageDailyVolume3Month: 598190
+averageVolume: 598190
+averageVolume10days: 496107
+beta: 0.562
+bid: 3288.0
+bidSize: 0
+boardRisk: 1
+bookValue: 6.114
+city: Coventry
+companyOfficers:
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dr. James John Jesic B.E., Ph.D.
+  title: CEO & Director
+  totalPay: 1034700
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Helen Marie Miles A.C.M.A., CIMA
+  title: CFO & Executive Director
+  totalPay: 639600
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Didar Singh Dhillon B.A.
+  title: Group General Counsel & Company Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Neil  Morrison B.Sc.
+  title: Director of Human Resources
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Bob  Stear Ph.D.
+  title: Chief Engineer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Kathryn  Greenwood
+  title: Head of Resourcing & New Talent
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Shane  Anderson
+  title: Director of Strategy & Regulation
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Stephanie  Cawley B.A., M.Sc.
+  title: Director of Customer Operations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 3290.0
+currentRatio: 1.389
+customPriceAlertConfidence: LOW
+dayHigh: 3322.0
+dayLow: 3288.0
+debtToEquity: 596.632
+dividendRate: 1.26
+dividendYield: 3.82
+earningsCallTimestampEnd: 1779256800
+earningsCallTimestampStart: 1779256800
+earningsGrowth: 0.629
+earningsQuarterlyGrowth: 0.639
+earningsTimestamp: 1795019400
+earningsTimestampEnd: 1795019400
+earningsTimestampStart: 1795019400
+ebitda: 1308000000
+ebitdaMargins: 0.46203
+enterpriseToEbitda: 15.381
+enterpriseToRevenue: 7.106
+enterpriseValue: 20117936128
+epsCurrentYear: 2.02825
+epsForward: 2.51743
+epsTrailingTwelveMonths: 1.23
+esgPopulated: false
+exDividendDate: 1779926400
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 3124.04
+fiftyDayAverageChange: 165.95996
+fiftyDayAverageChangePercent: 0.053123508
+fiftyTwoWeekChangePercent: 19.0184
+fiftyTwoWeekHigh: 3382.0
+fiftyTwoWeekHighChange: -92.0
+fiftyTwoWeekHighChangePercent: -0.027202839
+fiftyTwoWeekLow: 2381.0
+fiftyTwoWeekLowChange: 909.0
+fiftyTwoWeekLowChangePercent: 0.38177237
+fiftyTwoWeekRange: 2381.0 - 3382.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 629366400000
+fiveYearAvgDividendYield: 4.11
+floatShares: 264419923
+forwardEps: 2.51743
+forwardPE: 13.068883
+freeCashflow: -1170000000
+fullExchangeName: LSE
+fullTimeEmployees: 11544
+fulldayChange: -8.0
+fulldayChangePercent: -0.24257125
+fulldayPrice: 3290.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.32391
+grossProfits: 917000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00224
+heldPercentInstitutions: 0.69497
+impliedSharesOutstanding: 302101054
+industry: Utilities - Regulated Water
+industryDisp: Utilities - Regulated Water
+industryKey: utilities-regulated-water
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779926400
+lastDividendValue: 0.7562
+lastFiscalYearEnd: 1774915200
+lastSplitDate: 1160352000
+lastSplitFactor: '2:3'
+longBusinessSummary: Severn Trent PLC provides water and wastewater services in the
+  United Kingdom. It operates in two segments, Regulated Water and Wastewater, and
+  Infrastructure Services. It offers water and wastewater services. The company also
+  generates renewable energy through solar, wind, hydro, and crop digestion, as well
+  as through anaerobic digestion of sewage sludge and food waste. In addition, it
+  engages in property development and the management of the sale of surplus land.
+  The company was founded in 1974 and is headquartered in Coventry, the United Kingdom.
+longName: Severn Trent PLC
+market: gb_market
+marketCap: 9939125248
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_691530
+mostRecentQuarter: 1774915200
+netIncomeToCommon: 371000000
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 9963292760
+numberOfAnalystOpinions: 13
+open: 3310.0
+operatingCashflow: 1264999936
+operatingMargins: 0.30519
+overallRisk: 1
+payoutRatio: 1.1614
+pegRatio: 3.36
+phone: 44 3457 500 500
+previousClose: 3298.0
+priceEpsCurrentYear: 1622.088
+priceHint: 2
+priceToBook: 5.3810925
+priceToSalesTrailing12Months: 3.5108178
+profitMargins: 0.13104999
+quickRatio: 1.301
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.84615
+region: US
+regularMarketChange: -8.0
+regularMarketChangePercent: -0.24257125
+regularMarketDayHigh: 3322.0
+regularMarketDayLow: 3288.0
+regularMarketDayRange: 3288.0 - 3322.0
+regularMarketOpen: 3310.0
+regularMarketPreviousClose: 3298.0
+regularMarketPrice: 3290.0
+regularMarketTime: 1794411493
+regularMarketVolume: 84607
+returnOnAssets: 0.03226
+returnOnEquity: 0.20542999
+revenueGrowth: 0.153
+revenuePerShare: 9.424
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 1
+sharesOutstanding: 302101054
+shortName: SEVERN TRENT PLC ORD 97 17/19P
+sourceInterval: 15
+symbol: SVT.L
+targetHighPrice: 3684.9998
+targetLowPrice: 2875.0
+targetMeanPrice: 3303.462
+targetMedianPrice: 3309.9998
+totalCash: 796000000
+totalCashPerShare: 2.644
+totalDebt: 10983999488
+totalRevenue: 2831000064
+tradeable: false
+trailingAnnualDividendRate: 1.26
+trailingAnnualDividendYield: 0.00038204974
+trailingEps: 1.23
+trailingPE: 26.747969
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 3082.6135
+twoHundredDayAverageChange: 207.38647
+twoHundredDayAverageChangePercent: 0.06727619
+typeDisp: Equity
+volume: 84607
+website: https://www.severntrent.com
+zip: CV1 2LZ

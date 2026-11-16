@@ -1,0 +1,191 @@
+52WeekChange: 0.07137859
+SandP52WeekChange: 0.097798586
+address1: Seestrasse 55
+allTimeHigh: 315.8
+allTimeLow: 9.277611
+ask: 307.8
+askSize: 0
+auditRisk: 7
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 80111
+averageDailyVolume3Month: 94053
+averageVolume: 94053
+averageVolume10days: 80111
+beta: 0.783
+bid: 307.4
+bidSize: 0
+boardRisk: 8
+bookValue: 44.371
+city: Hergiswil
+companyOfficers:
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Scott  Trahan
+  title: Head of Global Communications & Brand
+  unexercisedValue: 0
+- age: 66
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Oswald  Schmid
+  title: Consultant
+  unexercisedValue: 0
+  yearBorn: 1959
+compensationRisk: 9
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 307.6
+currentRatio: 1.411
+customPriceAlertConfidence: LOW
+dayHigh: 308.2
+dayLow: 303.8
+dividendDate: 1743379200
+dividendRate: 6.0
+dividendYield: 1.96
+earningsCallTimestampEnd: 1792656000
+earningsCallTimestampStart: 1792656000
+earningsGrowth: 0.191
+earningsQuarterlyGrowth: 0.17
+earningsTimestamp: 1792683000
+earningsTimestampEnd: 1792683000
+earningsTimestampStart: 1792683000
+ebitda: 1594499968
+ebitdaMargins: 0.14556
+enterpriseToEbitda: 19.796
+enterpriseToRevenue: 2.882
+enterpriseValue: 31564070912
+epsCurrentYear: 10.53516
+epsForward: 11.59522
+epsTrailingTwelveMonths: 9.78
+esgPopulated: false
+exDividendDate: 1774483200
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 272.108
+fiftyDayAverageChange: 35.492004
+fiftyDayAverageChangePercent: 0.13043351
+fiftyTwoWeekChangePercent: 7.137859
+fiftyTwoWeekHigh: 314.2
+fiftyTwoWeekHighChange: -6.600006
+fiftyTwoWeekHighChangePercent: -0.021005748
+fiftyTwoWeekLow: 246.6
+fiftyTwoWeekLowChange: 61.0
+fiftyTwoWeekLowChangePercent: 0.24736415
+fiftyTwoWeekRange: 246.6 - 314.2
+financialCurrency: CHF
+firstTradeDateMilliseconds: 797065200000
+fiveYearAvgDividendYield: 1.95
+floatShares: 62692811
+forwardEps: 11.59522
+forwardPE: 26.528173
+fullExchangeName: Swiss
+fullTimeEmployees: 68153
+fulldayChange: 1.3999939
+fulldayChangePercent: 0.4572155
+fulldayPrice: 307.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.74127996
+grossProfits: 8120000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.48983002
+impliedSharesOutstanding: 106768055
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1774483200
+lastDividendValue: 6.8
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1143417600
+lastSplitFactor: '10:1'
+longBusinessSummary: Schindler Holding AG engages in the production, installation,
+  maintenance, and modernization of elevators, escalators, and moving walks worldwide.
+  It offers Schindler PORT, a transit management system; CleanMobility solutions;
+  Schindler R.I.S.E, a robotic installation system; Schindler MetaCore which enables
+  buildings to be repurposed and their functionality to be reconfigured; Schindler
+  CLIMB Lift, a self-climbing system; Schindler X8; Digital Twin; and BuildingMinds,
+  a cloud based SaaS platform that lets users monitor the performance of a real estate
+  portfolio. In addition, the company provides digital services; and Building Information
+  Modeling which provides traceability and insights throughout the project life cycle,
+  including planning, design, construction, operation, and maintenance. The company
+  was founded in 1874 and is headquartered in Hergiswil, Switzerland.
+longName: Schindler Holding AG
+market: ch_market
+marketCap: 32841854976
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_781747
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1071000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 32244446939
+numberOfAnalystOpinions: 5
+open: 303.8
+operatingMargins: 0.13055
+overallRisk: 9
+payoutRatio: 0.6401
+pegRatio: 3.45
+phone: 41 41 632 85 50
+previousClose: 306.2
+priceEpsCurrentYear: 29.197468
+priceHint: 2
+priceToBook: 6.9324565
+priceToSalesTrailing12Months: 2.9981608
+profitMargins: 0.097770005
+quickRatio: 0.387
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.66667
+region: US
+regularMarketChange: 1.3999939
+regularMarketChangePercent: 0.4572155
+regularMarketDayHigh: 308.2
+regularMarketDayLow: 303.8
+regularMarketDayRange: 303.8 - 308.2
+regularMarketOpen: 303.8
+regularMarketPreviousClose: 306.2
+regularMarketPrice: 307.6
+regularMarketTime: 1794411247
+regularMarketVolume: 23320
+returnOnAssets: 0.07732
+returnOnEquity: 0.22989
+revenueGrowth: 0.062
+revenuePerShare: 103.411
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 39912607
+shortName: SCHINDLER PS
+sourceInterval: 15
+symbol: SCHP.SW
+targetHighPrice: 350.0
+targetLowPrice: 269.0
+targetMeanPrice: 307.6
+targetMedianPrice: 310.0
+totalCash: 2216000000
+totalCashPerShare: 20.087
+totalDebt: 0
+totalRevenue: 10954000384
+tradeable: false
+trailingAnnualDividendRate: 6.0
+trailingAnnualDividendYield: 0.019595034
+trailingEps: 9.78
+trailingPE: 31.451944
+trailingPegRatio: 3.4547
+triggerable: false
+twoHundredDayAverage: 270.754
+twoHundredDayAverageChange: 36.84601
+twoHundredDayAverageChangePercent: 0.13608666
+typeDisp: Equity
+volume: 23320
+website: https://group.schindler.com
+zip: '6052'

@@ -1,0 +1,243 @@
+52WeekChange: -0.08086866
+SandP52WeekChange: 0.097798586
+address1: 1025 West NASA Boulevard
+allTimeHigh: 379.23
+allTimeLow: 3.24775
+ask: 274.43
+askSize: 100
+auditRisk: 2
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 2172520
+averageDailyVolume3Month: 1736609
+averageVolume: 1736609
+averageVolume10days: 2172520
+beta: 0.455
+bid: 273.91
+bidSize: 200
+boardRisk: 3
+bookValue: 108.733
+city: Melbourne
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Samir B. Mehta
+  title: CEO, President & Director
+  totalPay: 2330503
+  unexercisedValue: 1111992
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rob  Mitrevski
+  title: President of Golden Dome Strategy & Integration
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lauren  Barnes
+  title: President of Space & Mission Systems
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher  Aebli
+  title: President of Communications & Spectrum Dominance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Kevin  Pietrzak
+  title: President of Public Safety & Professional Communications
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tania  Hanna
+  title: Vice President of Government & Customer Relations
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions:
+- header: Dividend
+  message: LHX announced a cash dividend of $1.25 with an ex-date of Dec. 4, 2026
+  meta:
+    amount: '1.25'
+    dateEpochMs: 1796360400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 274.005
+currentRatio: 1.196
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 275.6
+dayLow: 272.4603
+debtToEquity: 51.802
+displayName: L3Harris
+dividendDate: 1797552000
+dividendRate: 5.0
+dividendYield: 1.81
+earningsCallTimestampEnd: 1793284200
+earningsCallTimestampStart: 1793284200
+earningsGrowth: 0.333
+earningsQuarterlyGrowth: 0.368
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1801143000
+earningsTimestampStart: 1801143000
+ebitda: 4240000000
+ebitdaMargins: 0.18172
+enterpriseToEbitda: 14.465
+enterpriseToRevenue: 2.629
+enterpriseValue: 61332955136
+epsCurrentYear: 12.25177
+epsForward: 13.627
+epsTrailingTwelveMonths: 10.74
+esgPopulated: false
+exDividendDate: 1796342400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 250.5296
+fiftyDayAverageChange: 23.475403
+fiftyDayAverageChangePercent: 0.09370311
+fiftyTwoWeekChangePercent: -8.086866
+fiftyTwoWeekHigh: 379.23
+fiftyTwoWeekHighChange: -105.225006
+fiftyTwoWeekHighChangePercent: -0.27747014
+fiftyTwoWeekLow: 232.34
+fiftyTwoWeekLowChange: 41.66501
+fiftyTwoWeekLowChangePercent: 0.17932776
+fiftyTwoWeekRange: 232.34 - 379.23
+financialCurrency: USD
+firstTradeDateMilliseconds: 378657000000
+fiveYearAvgDividendYield: 1.92
+floatShares: 185223179
+forwardEps: 13.627
+forwardPE: 20.107508
+freeCashflow: 3432999936
+fullExchangeName: NYSE
+fullTimeEmployees: 45000
+fulldayChange: -1.9549866
+fulldayChangePercent: -0.7084312
+fulldayPrice: 274.005
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.25552
+grossProfits: 5961999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00453
+heldPercentInstitutions: 0.90453005
+impliedSharesOutstanding: 186200733
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788480000
+lastDividendValue: 1.25
+lastFiscalYearEnd: 1767312000
+lastSplitDate: 1242000000
+lastSplitFactor: 10000:9448
+longBusinessSummary: 'L3Harris Technologies, Inc. provides mission-critical solutions
+  for government and commercial customers worldwide. It operates through three segments:
+  Space & Mission Systems (SMS), Communications & Spectrum Dominance (CSD), and Missile
+  Solutions (MSL). The SMS segment integrates satellite and payload capabilities,
+  including missile warning and defense, with maritime, air special missions, and
+  other global defense and civil government programs. Its MSL segment unites propulsion,
+  hypersonic, and other advanced missile technologies. The CSD segment provides tactical
+  radios, software, waveforms, satellite terminals, and end-to-end battlefield systems
+  for the U.S. Department of Defense, international, federal, and state agency customers;
+  broadband communications; integrated vision solutions, such as helmet-mounted integrated
+  night vision goggles with image intensifier tubes and weapon-mounted sights, aiming
+  lasers, and range finders; and public safety radios and system applications and
+  equipment. The company was formerly known as Harris Corporation and changed its
+  name to L3Harris Technologies, Inc. in June 2019. L3Harris Technologies, Inc. was
+  founded in 1895 and is headquartered in Melbourne, Florida.'
+longName: L3Harris Technologies, Inc.
+market: us_market
+marketCap: 51019931648
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_177934
+mostRecentQuarter: 1790899200
+netIncomeToCommon: 2011000064
+nextFiscalYearEnd: 1798848000
+nonDilutedMarketCap: 51383954278
+numberOfAnalystOpinions: 21
+open: 273.06
+operatingCashflow: 4184999936
+operatingMargins: 0.13252
+overallRisk: 5
+payoutRatio: 0.4609
+pegRatio: 1.02
+phone: 321 727 9100
+previousClose: 275.96
+priceEpsCurrentYear: 22.364525
+priceHint: 2
+priceToBook: 2.5199802
+priceToSalesTrailing12Months: 2.1865997
+profitMargins: 0.0876
+quickRatio: 0.98
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.91304
+region: US
+regularMarketChange: -1.9549866
+regularMarketChangePercent: -0.7084312
+regularMarketDayHigh: 275.6
+regularMarketDayLow: 272.4603
+regularMarketDayRange: 272.4603 - 275.6
+regularMarketOpen: 273.06
+regularMarketPreviousClose: 275.96
+regularMarketPrice: 274.005
+regularMarketTime: 1794413727
+regularMarketVolume: 189267
+returnOnAssets: 0.04557
+returnOnEquity: 0.1003
+revenueGrowth: 0.071
+revenuePerShare: 125.11
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 7
+sharesOutstanding: 186200733
+sharesPercentSharesOut: 0.0224
+sharesShort: 4175290
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4529016
+shortName: L3Harris Technologies, Inc.
+shortPercentOfFloat: 0.0257
+shortRatio: 2.4
+sourceInterval: 15
+state: FL
+symbol: LHX
+targetHighPrice: 443.0
+targetLowPrice: 241.0
+targetMeanPrice: 335.8095
+targetMedianPrice: 342.0
+totalCash: 3020999936
+totalCashPerShare: 16.224
+totalDebt: 10995999744
+totalRevenue: 23332999168
+tradeable: false
+trailingAnnualDividendRate: 4.95
+trailingAnnualDividendYield: 0.017937383
+trailingEps: 10.74
+trailingPE: 25.512571
+trailingPegRatio: 1.0175
+triggerable: true
+twoHundredDayAverage: 301.9806
+twoHundredDayAverageChange: -27.975586
+twoHundredDayAverageChangePercent: -0.09264035
+typeDisp: Equity
+volume: 189267
+website: https://www.l3harris.com
+zip: '32919'

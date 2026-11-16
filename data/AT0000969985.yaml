@@ -1,0 +1,231 @@
+52WeekChange: 2.9234784
+SandP52WeekChange: 0.097798586
+address1: Fabriksgasse 13
+address2: Hinterberg
+allTimeHigh: 242.0
+allTimeLow: 2.444238
+ask: 125.2
+askSize: 1157
+auditRisk: 3
+averageDailyVolume10Day: 239260
+averageDailyVolume3Month: 146802
+averageVolume: 146802
+averageVolume10days: 239260
+beta: 1.416
+bid: 124.8
+bidSize: 90
+boardRisk: 8
+bookValue: 23.992
+city: Leoben
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dr. Michael  Mertin
+  title: President, CEO & Chairman of Management Board
+  totalPay: 2533000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Gerrit  Steen MBA
+  title: CFO & Member of Management Board
+  totalPay: 444000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dr. Peter  Griehsnig
+  title: CTO & Member of Management Board
+  totalPay: 1210000
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Silvo  Leitner
+  title: Director of Corporate Finance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Philipp  Gebhardt
+  title: Vice President Corporate Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Gerhard  Donner
+  title: Head of Audit & Compliance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Gerald  Reischl
+  title: Director of Communications & Public Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 9
+corporateActions: []
+country: Austria
+cryptoTradeable: false
+currency: EUR
+currentPrice: 125.0
+currentRatio: 1.638
+customPriceAlertConfidence: LOW
+dayHigh: 126.2
+dayLow: 120.2
+debtToEquity: 174.447
+dividendDate: 20217600
+dividendYield: 0.0
+earningsCallTimestampEnd: 1722509940
+earningsCallTimestampStart: 1722509940
+earningsTimestamp: 1801586100
+earningsTimestampEnd: 1801586100
+earningsTimestampStart: 1801586100
+ebitda: 643137024
+ebitdaMargins: 0.29569
+enterpriseToEbitda: 8.926
+enterpriseToRevenue: 2.639
+enterpriseValue: 5740542976
+epsCurrentYear: 9.1875
+epsForward: 13.865
+epsTrailingTwelveMonths: 1.37
+esgPopulated: false
+exDividendDate: 1690243200
+exchange: VIE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 172.118
+fiftyDayAverageChange: -47.117996
+fiftyDayAverageChangePercent: -0.27375403
+fiftyTwoWeekChangePercent: 292.34784
+fiftyTwoWeekHigh: 242.0
+fiftyTwoWeekHighChange: -117.0
+fiftyTwoWeekHighChangePercent: -0.48347107
+fiftyTwoWeekLow: 25.0
+fiftyTwoWeekLowChange: 100.0
+fiftyTwoWeekLowChangePercent: 4.0
+fiftyTwoWeekRange: 25.0 - 242.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1193990100000
+fiveYearAvgDividendYield: 1.27
+floatShares: 24987543
+forwardEps: 13.865
+forwardPE: 9.015507
+freeCashflow: -187220992
+fullExchangeName: Vienna
+fullTimeEmployees: 15657
+fulldayChange: 12.199997
+fulldayChangePercent: 10.8156
+fulldayPrice: 125.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.20253
+grossProfits: 440512992
+hasPrePostMarketData: false
+heldPercentInsiders: 0.37037998
+heldPercentInstitutions: 0.33074
+impliedSharesOutstanding: 38850000
+industry: Electronic Components
+industryDisp: Electronic Components
+industryKey: electronic-components
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1690243200
+lastDividendValue: 0.4
+lastFiscalYearEnd: 1774915200
+longBusinessSummary: AT & S Austria Technologie & Systemtechnik Aktiengesellschaft,
+  together with its subsidiaries, manufactures, distributes, and sells printed circuit
+  boards in Austria, Germany, rest of Europe, China, rest of Asia, and the Americas.
+  The company operates through Electronics Solutions, Microelectronics, and Others
+  segments. It offers integrated circuit substrates; printed circuit boards and modules;
+  flexible and rigid-flex, thermally enhanced, high-density interconnect, substrate
+  like, cavity, multilayer, and double-sided printed circuit boards; and test and
+  reference boards. The company also provides Z-Interconnect, ECP, 2.5D, advanced
+  and power packaging, radio frequency electronics, system in package, and mSAP technological
+  solutions. In addition, it offers design, simulation, and turnkey solutions. The
+  company distributes its products directly to original equipment and contract electronic
+  manufacturers. It serves semiconductors and modules; communications and 5G; consumer
+  electronics; medical; industrial; aerospace and aviation; and automotive sectors.
+  AT & S Austria Technologie & Systemtechnik Aktiengesellschaft was incorporated in
+  1987 and is headquartered in Leoben, Austria.
+longName: AT & S Austria Technologie & Systemtechnik Aktiengesellschaft
+market: at_market
+marketCap: 4856249856
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_2444485
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 183880000
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 4382280000
+numberOfAnalystOpinions: 5
+open: 121.0
+operatingCashflow: 304684000
+operatingMargins: 0.14024
+overallRisk: 8
+payoutRatio: 0.0
+phone: 43 3842 200-0
+previousClose: 112.8
+priceEpsCurrentYear: 13.605442
+priceHint: 2
+priceToBook: 5.21007
+priceToSalesTrailing12Months: 2.2327206
+profitMargins: 0.093830004
+quickRatio: 1.392
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 12.199997
+regularMarketChangePercent: 10.8156
+regularMarketDayHigh: 126.2
+regularMarketDayLow: 120.2
+regularMarketDayRange: 120.2 - 126.2
+regularMarketOpen: 121.0
+regularMarketPreviousClose: 112.8
+regularMarketPrice: 125.0
+regularMarketTime: 1794411489
+regularMarketVolume: 88670
+returnOnAssets: 0.03765
+returnOnEquity: 0.18502001
+revenueGrowth: 0.524
+revenuePerShare: 55.986
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 38850000
+shortName: AT&S Austria Tech.&Systemtech.
+sourceInterval: 15
+symbol: ATS.VI
+targetHighPrice: 600.0
+targetLowPrice: 100.0
+targetMeanPrice: 276.2
+targetMedianPrice: 220.0
+totalCash: 959846976
+totalCashPerShare: 24.706
+totalDebt: 2318109952
+totalRevenue: 2175036928
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 1.37
+trailingPE: 91.240875
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 128.224
+twoHundredDayAverageChange: -3.223999
+twoHundredDayAverageChangePercent: -0.025143491
+typeDisp: Equity
+volume: 88670
+website: https://ats.net
+zip: '8700'

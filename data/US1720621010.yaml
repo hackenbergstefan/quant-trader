@@ -1,0 +1,286 @@
+52WeekChange: 0.13781536
+SandP52WeekChange: 0.097798586
+address1: 6200 South Gilmore Road
+allTimeHigh: 195.72
+allTimeLow: 1.074084
+ask: 203.64
+askSize: 2
+auditRisk: 6
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 789350
+averageDailyVolume3Month: 617854
+averageVolume: 617854
+averageVolume10days: 789350
+beta: 0.484
+bid: 172.85
+bidSize: 2
+boardRisk: 10
+bookValue: 105.42
+city: Fairfield
+companyOfficers:
+- age: 65
+  exercisedValue: 1055237
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Steven Justus Johnston C.F.A., CERA, FCAS, MAAA
+  title: Executive Chairman
+  totalPay: 1197279
+  unexercisedValue: 31475744
+  yearBorn: 1960
+- age: 59
+  exercisedValue: 3158844
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Stephen Michael Spray
+  title: President, CEO & Director
+  totalPay: 1851727
+  unexercisedValue: 6904821
+  yearBorn: 1966
+- age: 61
+  exercisedValue: 541490
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Michael James Sewell CPA
+  title: CFO, Principal Accounting Officer, Executive VP & Treasurer
+  totalPay: 1791322
+  unexercisedValue: 15569843
+  yearBorn: 1964
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Ms. Teresa Currin Cracas Esq.
+  title: Chief Risk Officer & Executive VP of The Cincinnati Insurance Company
+  totalPay: 1127866
+  unexercisedValue: 8349346
+  yearBorn: 1966
+- age: 58
+  exercisedValue: 38799
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Steven Anthony Soloria C.F.A., C.P.C.U.
+  title: Executive VP & Chief Investment Officer
+  totalPay: 2050722
+  unexercisedValue: 160874
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Andrew F. Gossard C.P.A., C.P.C.U.
+  title: VP & Investor Relations Officer
+  unexercisedValue: 0
+- age: 32
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Thomas Christopher Hogan Esq.
+  title: Executive VP, Chief Legal Officer & Company Secretary
+  unexercisedValue: 0
+  yearBorn: 1993
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Betsy E. Ertel C.P.C.U.
+  title: Vice President of Corporate Communications
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Donald Joseph Doyle Jr., AIM, C.P.C.U.
+  title: Senior Vice President of The Cincinnati Insurance Company
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. William Harold Van Den Heuvel
+  title: Executive Vice President
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1672444800
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 188.37
+currentRatio: 1.052
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 188.765
+dayLow: 187.42
+debtToEquity: 5.407
+displayName: Cincinnati Financial
+dividendDate: 1792022400
+dividendRate: 3.76
+dividendYield: 1.98
+earningsCallTimestampEnd: 1793113200
+earningsCallTimestampStart: 1793113200
+earningsGrowth: -0.584
+earningsQuarterlyGrowth: -0.591
+earningsTimestamp: 1793044800
+earningsTimestampEnd: 1793044800
+earningsTimestampStart: 1793044800
+ebitda: 3508000000
+ebitdaMargins: 0.26426
+enterpriseToEbitda: 8.166
+enterpriseToRevenue: 2.158
+enterpriseValue: 28645074944
+epsCurrentYear: 9.45675
+epsForward: 9.20156
+epsTrailingTwelveMonths: 17.04
+esgPopulated: false
+exDividendDate: 1790121600
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 171.5448
+fiftyDayAverageChange: 16.825195
+fiftyDayAverageChangePercent: 0.09808047
+fiftyTwoWeekChangePercent: 13.781536
+fiftyTwoWeekHigh: 195.72
+fiftyTwoWeekHighChange: -7.350006
+fiftyTwoWeekHighChangePercent: -0.03755368
+fiftyTwoWeekLow: 153.4
+fiftyTwoWeekLowChange: 34.97
+fiftyTwoWeekLowChangePercent: 0.22796611
+fiftyTwoWeekRange: 153.4 - 195.72
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 2.35
+floatShares: 150573672
+forwardEps: 9.20156
+forwardPE: 20.471529
+freeCashflow: 2405374976
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 5705
+fulldayChange: -1.5200043
+fulldayChangePercent: -0.8004657
+fulldayPrice: 188.37
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.262
+grossProfits: 3478000128
+hasPrePostMarketData: true
+heldPercentInsiders: 0.01745
+heldPercentInstitutions: 0.74031997
+impliedSharesOutstanding: 153510324
+industry: Insurance - Property & Casualty
+industryDisp: Insurance - Property & Casualty
+industryKey: insurance-property-casualty
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=110365&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790121600
+lastDividendValue: 0.94
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1112572800
+lastSplitFactor: 105:100
+longBusinessSummary: 'Cincinnati Financial Corporation provides property casualty
+  insurance products in the United States. The company operates through five segments:
+  Commercial Lines Insurance, Personal Lines Insurance, Excess and Surplus Lines Insurance,
+  Life Insurance, and Investments. The Commercial Lines Insurance segment offers coverage
+  for commercial casualty and property, commercial auto, and workers'' compensation.
+  This segment also provides contract and commercial surety bonds, and fidelity bonds;
+  management liability; and machinery and equipment insurance products. The Personal
+  Lines Insurance segment offers personal auto; homeowner; and other personal lines
+  insurance, such as dwelling fire, inland marine, personal umbrella liability, and
+  watercraft coverages. The Excess and Surplus Lines Insurance segment offers commercial
+  casualty insurance that covers businesses for third-party liability from accidents
+  occurring on their premises or arising out of their operations, such as injuries
+  sustained from products, as well as other coverages comprising miscellaneous errors
+  and omissions, professional liability, and excess liability; and commercial property
+  insurance, which insures buildings, inventory, equipment, and business income from
+  loss or damage due to various causes, such as fire, wind, hail, water, theft, and
+  vandalism. The Life Insurance segment provides term life insurance; universal life
+  insurance; and worksite and whole life insurance products, as well as annuities.
+  The Investments segment invests in fixed-maturity investments, including taxable
+  and tax-exempt bonds, and redeemable preferred stocks; and equity investments comprising
+  common and nonredeemable preferred stocks. The company also offers commercial leasing
+  and financing services; and insurance brokerage services. The company was founded
+  in 1950 and is headquartered in Fairfield, Ohio.'
+longName: Cincinnati Financial Corporation
+market: us_market
+marketCap: 28916738048
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_260681
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2664000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 29152378079
+numberOfAnalystOpinions: 6
+open: 188.42
+operatingCashflow: 3094000128
+operatingMargins: 0.25213
+overallRisk: 9
+payoutRatio: 0.2165
+pegRatio: 2.19
+phone: 513 870 2000
+previousClose: 189.89
+priceEpsCurrentYear: 19.919106
+priceHint: 2
+priceToBook: 1.7868526
+priceToSalesTrailing12Months: 2.1782854
+profitMargins: 0.20068
+quickRatio: 0.876
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.5
+region: US
+regularMarketChange: -1.5200043
+regularMarketChangePercent: -0.8004657
+regularMarketDayHigh: 188.765
+regularMarketDayLow: 187.42
+regularMarketDayRange: 187.42 - 188.765
+regularMarketOpen: 188.42
+regularMarketPreviousClose: 189.89
+regularMarketPrice: 188.37
+regularMarketTime: 1794413533
+regularMarketVolume: 55284
+returnOnAssets: 0.050300002
+returnOnEquity: 0.16867
+revenueGrowth: -0.182
+revenuePerShare: 85.867
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 8
+sharesOutstanding: 153510324
+sharesPercentSharesOut: 0.026199998
+sharesShort: 4025783
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4357556
+shortName: Cincinnati Financial Corporatio
+shortPercentOfFloat: 0.0307
+shortRatio: 6.18
+sourceInterval: 15
+state: OH
+symbol: CINF
+targetHighPrice: 204.0
+targetLowPrice: 171.0
+targetMeanPrice: 187.33333
+targetMedianPrice: 186.0
+totalCash: 1380000000
+totalCashPerShare: 8.99
+totalDebt: 875000000
+totalRevenue: 13274999808
+tradeable: false
+trailingAnnualDividendRate: 3.69
+trailingAnnualDividendYield: 0.019432303
+trailingEps: 17.04
+trailingPE: 11.054577
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 169.0645
+twoHundredDayAverageChange: 19.305496
+twoHundredDayAverageChangePercent: 0.114190124
+typeDisp: Equity
+volume: 55284
+website: https://www.cinfin.com
+zip: 45014-5141

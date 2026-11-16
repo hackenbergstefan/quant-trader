@@ -1,0 +1,252 @@
+52WeekChange: 0.20599616
+SandP52WeekChange: 0.097798586
+address1: 1 Paddington Square
+allTimeHigh: 919.4906
+allTimeLow: 12.9375
+ask: 370.3
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 5829990
+averageDailyVolume3Month: 5482894
+averageVolume: 5482894
+averageVolume10days: 5829990
+beta: 1.094
+bid: 370.2
+bidSize: 0
+boardRisk: 2
+bookValue: 3.645
+city: London
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Thierry Dominique Gerard Garnier
+  title: CEO & Executive Director
+  totalPay: 3936600
+  unexercisedValue: 3579616
+  yearBorn: 1966
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Bhavesh  Mistry
+  title: CFO & Director
+  totalPay: 1660300
+  unexercisedValue: 1040904
+  yearBorn: 1972
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Christopher  Blatchford
+  title: Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Richard  Joyce
+  title: Interim Group Investor Relations Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Sapna  Dutta
+  title: General Counsel & Company Secretary
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Kate  Seljeflot
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Pascal  Gil
+  title: Chief Executive Officer of Castorama France
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Debarati  Sen
+  title: Chief Commercial Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Graham  Bell
+  title: CEO of B&Q UK & Ireland
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jonathan Mark Mewett
+  title: Chief Executive Officer of Screwfix
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 3
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 370.5
+currentRatio: 1.229
+customPriceAlertConfidence: LOW
+dayHigh: 375.2
+dayLow: 369.0
+debtToEquity: 38.318
+dividendRate: 0.12
+dividendYield: 3.31
+earningsCallTimestampEnd: 1790065800
+earningsCallTimestampStart: 1790065800
+earningsGrowth: 0.288
+earningsQuarterlyGrowth: 0.224
+earningsTimestamp: 1790091000
+earningsTimestampEnd: 1790091000
+earningsTimestampStart: 1790091000
+ebitda: 1044000000
+ebitdaMargins: 0.08031999
+enterpriseToEbitda: 7.858
+enterpriseToRevenue: 0.631
+enterpriseValue: 8203657216
+epsCurrentYear: 0.26973
+epsForward: 0.29127
+epsTrailingTwelveMonths: 0.18
+esgPopulated: false
+exDividendDate: 1791417600
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fax: 44 20 7644 1001
+fiftyDayAverage: 331.162
+fiftyDayAverageChange: 39.338013
+fiftyDayAverageChangePercent: 0.118787825
+fiftyTwoWeekChangePercent: 20.599615
+fiftyTwoWeekHigh: 389.6
+fiftyTwoWeekHighChange: -19.100006
+fiftyTwoWeekHighChangePercent: -0.049024656
+fiftyTwoWeekLow: 266.4
+fiftyTwoWeekLowChange: 104.100006
+fiftyTwoWeekLowChangePercent: 0.3907658
+fiftyTwoWeekRange: 266.4 - 389.6
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 4.56
+floatShares: 1636450140
+forwardEps: 0.29127
+forwardPE: 12.720158
+freeCashflow: 611124992
+fullExchangeName: LSE
+fullTimeEmployees: 69720
+fulldayChange: -3.600006
+fulldayChangePercent: -0.96231115
+fulldayPrice: 370.5
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.38429
+grossProfits: 4994999808
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00987
+heldPercentInstitutions: 0.78996
+impliedSharesOutstanding: 1608932477
+industry: Home Improvement Retail
+industryDisp: Home Improvement Retail
+industryKey: home-improvement-retail
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791417600
+lastDividendValue: 0.038
+lastFiscalYearEnd: 1769817600
+lastSplitDate: 1057536000
+lastSplitFactor: '7:8'
+longBusinessSummary: Kingfisher plc, together with its subsidiaries, supplies home
+  improvement products and services in the United Kingdom, Ireland, France, Poland,
+  and internationally. The company operates retail stores under the B&Q, Castorama,
+  Brico Dépôt, Screwfix, TradePoint, and Koçtas brand names. It sells its products
+  to consumers and trade professionals through stores and e-commerce channels. Kingfisher
+  plc was incorporated in 1982 and is based in London, the United Kingdom.
+longName: Kingfisher plc
+market: gb_market
+marketCap: 5961095168
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_875192
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 298000000
+nextFiscalYearEnd: 1801353600
+nonDilutedMarketCap: 6019016396
+numberOfAnalystOpinions: 18
+open: 375.2
+operatingCashflow: 1231000064
+operatingMargins: 0.0537
+overallRisk: 1
+payoutRatio: 0.70449996
+pegRatio: 0.85
+phone: 44 20 7372 8008
+previousClose: 374.1
+priceEpsCurrentYear: 1373.5958
+priceHint: 2
+priceToBook: 1.0164609
+priceToSalesTrailing12Months: 0.45861635
+profitMargins: 0.02293
+quickRatio: 0.273
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.77778
+region: US
+regularMarketChange: -3.600006
+regularMarketChangePercent: -0.96231115
+regularMarketDayHigh: 375.2
+regularMarketDayLow: 369.0
+regularMarketDayRange: 369.0 - 375.2
+regularMarketOpen: 375.2
+regularMarketPreviousClose: 374.1
+regularMarketPrice: 370.5
+regularMarketTime: 1794411549
+regularMarketVolume: 1434626
+returnOnAssets: 0.0377
+returnOnEquity: 0.04774
+revenueGrowth: 0.008
+revenuePerShare: 7.639
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 1608932477
+shortName: KINGFISHER PLC ORD 15 5/7P
+sourceInterval: 15
+symbol: KGF.L
+targetHighPrice: 475.0
+targetLowPrice: 265.0
+targetMeanPrice: 341.167
+targetMedianPrice: 337.5
+totalCash: 412000000
+totalCashPerShare: 0.246
+totalDebt: 2342000128
+totalRevenue: 12997999616
+tradeable: false
+trailingAnnualDividendRate: 0.124
+trailingAnnualDividendYield: 0.00033146216
+trailingEps: 0.18
+trailingPE: 20.583332
+trailingPegRatio: 0.836
+triggerable: false
+twoHundredDayAverage: 311.51706
+twoHundredDayAverageChange: 58.98294
+twoHundredDayAverageChangePercent: 0.18934096
+typeDisp: Equity
+volume: 1434626
+website: https://www.kingfisher.com
+zip: W2 1GG

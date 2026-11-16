@@ -1,0 +1,180 @@
+52WeekChange: 0.31224763
+SandP52WeekChange: 0.097798586
+address1: Muntstraat 1
+allTimeHigh: 100.2
+allTimeLow: 1.71
+ask: 0.0
+askSize: 0
+averageDailyVolume10Day: 50800
+averageDailyVolume3Month: 56821
+averageVolume: 56821
+averageVolume10days: 50800
+beta: 0.62
+bid: 0.0
+bidSize: 0
+bookValue: 46.556
+city: Leuven
+companyOfficers:
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Franky Cera Depickere
+  title: MD & Executive Director of Almancora Société De Gestion SA
+  totalPay: 128501
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dr. Marc  De Ceuster Ph.D.
+  title: MD & Executive Director of Almancora Société De Gestion SA
+  totalPay: 38953
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Jan  Bergmans
+  title: Investor Relations Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+corporateActions: []
+country: Belgium
+cryptoTradeable: false
+currency: EUR
+currentPrice: 96.9
+currentRatio: 0.855
+customPriceAlertConfidence: LOW
+dayHigh: 98.2
+dayLow: 96.1
+debtToEquity: 2.789
+dividendRate: 4.32
+dividendYield: 4.43
+earningsGrowth: 0.304
+earningsQuarterlyGrowth: 0.304
+earningsTimestamp: 1787931600
+earningsTimestampEnd: 1787931600
+earningsTimestampStart: 1787931600
+ebitdaMargins: 0.0
+enterpriseValue: 7522683392
+epsForward: 4.67
+epsTrailingTwelveMonths: 5.08
+esgPopulated: false
+exDividendDate: 1780358400
+exchange: BRU
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Brussels
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 95.02
+fiftyDayAverageChange: 1.8800049
+fiftyDayAverageChangePercent: 0.019785361
+fiftyTwoWeekChangePercent: 31.224764
+fiftyTwoWeekHigh: 100.2
+fiftyTwoWeekHighChange: -3.2999954
+fiftyTwoWeekHighChangePercent: -0.03293409
+fiftyTwoWeekLow: 65.2
+fiftyTwoWeekLowChange: 31.700005
+fiftyTwoWeekLowChangePercent: 0.4861964
+fiftyTwoWeekRange: 65.2 - 100.2
+financialCurrency: EUR
+firstTradeDateMilliseconds: 986367600000
+fiveYearAvgDividendYield: 6.07
+floatShares: 36575235
+forwardEps: 4.67
+forwardPE: 20.749464
+freeCashflow: -4707912
+fullExchangeName: Brussels
+fulldayChange: -0.5999985
+fulldayChangePercent: -0.615383
+fulldayPrice: 96.9
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.0
+hasPrePostMarketData: false
+heldPercentInsiders: 0.52507
+heldPercentInstitutions: 0.118719995
+impliedSharesOutstanding: 77011844
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1780358400
+lastDividendValue: 4.32
+lastFiscalYearEnd: 1782777600
+lastSplitDate: 1181865600
+lastSplitFactor: '7:5'
+longBusinessSummary: KBC Ancora SA engages in the maintenance and management of its
+  participating interest in KBC Group SA. The company was formerly known as Almancora
+  SCA and changed its name to KBC Ancora SA in June 2007. KBC Ancora SA was incorporated
+  in 1998 and is based in Leuven, Belgium. KBC Ancora SA is a subsidiary of Cera.
+longName: KBC Ancora SA
+market: be_market
+marketCap: 7462447616
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_6492985
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 389372896
+nextFiscalYearEnd: 1814313600
+nonDilutedMarketCap: 7508654790
+numberOfAnalystOpinions: 1
+open: 98.2
+operatingCashflow: 393500000
+operatingMargins: 0.0
+payoutRatio: 0.85050005
+pegRatio: 41.18
+phone: 32 1 627 96 72
+prevName: KBC Ancora SCA
+previousClose: 97.5
+priceHint: 2
+priceToBook: 2.0813644
+profitMargins: 0.0
+quickRatio: 0.855
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -0.5999985
+regularMarketChangePercent: -0.615383
+regularMarketDayHigh: 98.2
+regularMarketDayLow: 96.1
+regularMarketDayRange: 96.1 - 98.2
+regularMarketOpen: 98.2
+regularMarketPreviousClose: 97.5
+regularMarketPrice: 96.9
+regularMarketTime: 1794411541
+regularMarketVolume: 7797
+returnOnAssets: -0.00059
+returnOnEquity: 0.10946
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+sharesOutstanding: 77011844
+shortName: KBC ANCORA ord
+sourceInterval: 15
+symbol: KBCA.BR
+targetHighPrice: 112.0
+targetLowPrice: 112.0
+targetMeanPrice: 112.0
+targetMedianPrice: 112.0
+totalCash: 85971528
+totalCashPerShare: 1.116
+totalDebt: 100000000
+tradeable: false
+trailingAnnualDividendRate: 4.32
+trailingAnnualDividendYield: 0.044307694
+trailingEps: 5.08
+trailingPE: 19.074804
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 83.998
+twoHundredDayAverageChange: 12.902
+twoHundredDayAverageChangePercent: 0.1535989
+typeDisp: Equity
+volume: 7797
+website: https://www.kbcancora.be
+zip: '3000'

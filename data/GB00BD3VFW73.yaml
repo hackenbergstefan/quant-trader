@@ -1,0 +1,255 @@
+52WeekChange: 0.050718546
+SandP52WeekChange: 0.097798586
+address1: 20 Eastbourne Terrace
+address2: 7th Floor Paddington
+allTimeHigh: 349.1
+allTimeLow: 113.25
+ask: 254.2
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 6903860
+averageDailyVolume3Month: 7846746
+averageVolume: 7846746
+averageVolume10days: 6903860
+beta: 0.726
+bid: 254.0
+bidSize: 0
+boardRisk: 3
+bookValue: 0.5457586
+city: London
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathan Peter Mason
+  title: CEO & Director
+  totalPay: 2029000
+  unexercisedValue: 148866
+  yearBorn: 1964
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Fiona Victoria Ryder
+  title: CFO & Director
+  totalPay: 706780
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Jarvis
+  title: Chief Operations Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dave  Ubachs
+  title: Chief Digital & Information Officer
+  unexercisedValue: 0
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James Edward Spencer Kerton
+  title: EVP, General Counsel & Company Secretary
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Emma  Rose
+  title: EVP & Chief People Officer
+  unexercisedValue: 0
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kjersti  Grimsrud Biotechnology, M.Sc.
+  title: President & COO of Infusion Care
+  unexercisedValue: 0
+  yearBorn: 1961
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Shepherd
+  title: Chief Commercial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Evelyn  Douglas J.D.
+  title: EVP and Chief Strategy & Business Development Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bruno  Pinheiro
+  title: President & COO of Ostomy Care
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 254.2
+currentRatio: 1.932
+customPriceAlertConfidence: LOW
+dayHigh: 255.8
+dayLow: 247.6
+debtToEquity: 121.833
+dividendRate: 0.06
+dividendYield: 2.23
+earningsCallTimestampEnd: 1785828600
+earningsCallTimestampStart: 1785828600
+earningsGrowth: -0.471
+earningsQuarterlyGrowth: -0.486
+earningsTimestampEnd: 1785857400
+earningsTimestampStart: 1785857400
+ebitda: 582000000
+ebitdaMargins: 0.23364
+enterpriseToEbitda: 11.178
+enterpriseToRevenue: 2.612
+enterpriseValue: 6505884160
+epsCurrentYear: 0.20073
+epsForward: 0.17173852
+epsTrailingTwelveMonths: 0.05
+esgPopulated: false
+exDividendDate: 1787184000
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 228.82
+fiftyDayAverageChange: 25.37999
+fiftyDayAverageChangePercent: 0.11091683
+fiftyTwoWeekChangePercent: 5.0718546
+fiftyTwoWeekHigh: 259.297
+fiftyTwoWeekHighChange: -5.097
+fiftyTwoWeekHighChangePercent: -0.019656997
+fiftyTwoWeekLow: 193.0
+fiftyTwoWeekLowChange: 61.199997
+fiftyTwoWeekLowChangePercent: 0.31709844
+fiftyTwoWeekRange: 193.0 - 259.297
+financialCurrency: USD
+firstTradeDateMilliseconds: 1477465200000
+fiveYearAvgDividendYield: 2.12
+floatShares: 1950646611
+forwardEps: 0.17173852
+forwardPE: 14.801571
+freeCashflow: 182775008
+fullExchangeName: LSE
+fullTimeEmployees: 10000
+fulldayChange: 5.599991
+fulldayChangePercent: 2.252611
+fulldayPrice: 254.2
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.56001997
+grossProfits: 1395000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00199
+heldPercentInstitutions: 0.88
+impliedSharesOutstanding: 1910715141
+industry: Medical Instruments & Supplies
+industryDisp: Medical Instruments & Supplies
+industryKey: medical-instruments-supplies
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787184000
+lastDividendValue: 0.015724
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Convatec Group PLC engages in the development, manufacturing,
+  and sale of medical products, services and technologies for the management of chronic
+  conditions in Europe, North America, and internationally. The company offers advanced
+  wound care products for the management of acute and chronic wounds resulting from
+  various conditions, such as diabetes, and acute conditions resulting from traumatic
+  injury and burns. It also provides ostomy care solutions, including devices, accessories,
+  and services for people with a stoma resulting from colorectal cancer, bladder cancer,
+  inflammatory bowel disease, and trauma. In addition, the company offers continence
+  care products and services for people with urinary continence issues related to
+  spinal cord injuries, neurological disease, prostate enlargement or other causes.
+  Further, it provides infusion care solutions comprising disposable infusion sets
+  for diabetes insulin pumps, or for use in continuous infusion treatments for conditions
+  such as Parkinson's disease. The company sells its products to pharmacies, hospitals,
+  and other acute and post-acute healthcare service providers directly or through
+  distributors and wholesalers. It serves a range of customers, including healthcare
+  providers, patients, and manufacturers. Convatec Group PLC was founded in 1978 and
+  is headquartered in London, the United Kingdom.
+longName: Convatec Group PLC
+market: gb_market
+marketCap: 4857037824
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_39347275
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 124000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 4750037840
+numberOfAnalystOpinions: 19
+open: 248.2
+operatingCashflow: 388000000
+operatingMargins: 0.16299
+overallRisk: 6
+payoutRatio: 1.1649
+pegRatio: 0.61
+previousClose: 248.6
+priceEpsCurrentYear: 1266.3777
+priceHint: 2
+priceToBook: 4.657737
+priceToSalesTrailing12Months: 1.9498345
+profitMargins: 0.04978
+quickRatio: 1.064
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.42105
+region: US
+regularMarketChange: 5.599991
+regularMarketChangePercent: 2.252611
+regularMarketDayHigh: 255.8
+regularMarketDayLow: 247.6
+regularMarketDayRange: 247.6 - 255.8
+regularMarketOpen: 248.2
+regularMarketPreviousClose: 248.6
+regularMarketPrice: 254.2
+regularMarketTime: 1794411505
+regularMarketVolume: 2256283
+returnOnAssets: 0.067150004
+returnOnEquity: 0.07654
+revenueGrowth: 0.044
+revenuePerShare: 1.258
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 1910715141
+shortName: CONVATEC GROUP PLC ORD 10P
+sourceInterval: 15
+symbol: CTEC.L
+targetHighPrice: 375.87354
+targetLowPrice: 230.7174
+targetMeanPrice: 302.9117
+targetMedianPrice: 301.05948
+totalCash: 92000000
+totalCashPerShare: 0.047
+totalDebt: 1740999936
+totalRevenue: 2491000064
+tradeable: false
+trailingAnnualDividendRate: 0.075
+trailingAnnualDividendYield: 0.00030168946
+trailingEps: 0.05
+trailingPE: 50.84
+trailingPegRatio: 0.6085
+triggerable: false
+twoHundredDayAverage: 223.028
+twoHundredDayAverageChange: 31.171997
+twoHundredDayAverageChangePercent: 0.13976718
+typeDisp: Equity
+volume: 2256283
+website: https://www.convatecgroup.com
+zip: W2 6LG

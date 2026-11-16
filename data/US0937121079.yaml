@@ -1,0 +1,263 @@
+52WeekChange: 0.46322596
+SandP52WeekChange: 0.097798586
+address1: 4353 North First Street
+allTimeHigh: 351.28
+allTimeLow: 2.44
+ask: 217.48
+askSize: 160
+auditRisk: 7
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 18479840
+averageDailyVolume3Month: 15752692
+averageVolume: 15752692
+averageVolume10days: 18479840
+beta: 3.618
+bid: 217.25
+bidSize: 80
+boardRisk: 10
+bookValue: 6.54
+city: San Jose
+companyOfficers:
+- age: 64
+  exercisedValue: 13557329
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. K. R. Sridhar Ph.D.
+  title: Co-Founder, CEO & Chairman
+  totalPay: 3502747
+  unexercisedValue: 33731948
+  yearBorn: 1961
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Satish  Chitoori
+  title: Chief Operations Officer
+  totalPay: 1436976
+  unexercisedValue: 2727400
+  yearBorn: 1972
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Maciej  Kurzymski
+  title: VP, Acting Principal Financial Officer & Chief Accounting Officer
+  totalPay: 756490
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 64
+  exercisedValue: 8418871
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shawn Marie Soderberg J.D.
+  title: Executive VP, Chief Legal Officer & Corporate Secretary
+  totalPay: 1448521
+  unexercisedValue: 18763164
+  yearBorn: 1961
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Aman  Joshi
+  title: Executive VP & Chief Commercial Officer
+  totalPay: 2123519
+  unexercisedValue: 17118994
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Simon  Edwards
+  title: Chief Financial Officer
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ravi  Prasher
+  title: Senior VP & CTO
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Tierney
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Natalie  Sunderland
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Aaron R. Hoover
+  title: Head of Business & Corporate Development
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 214.37
+currentRatio: 3.742
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 217.845
+dayLow: 199.48
+debtToEquity: 141.948
+displayName: Bloom Energy
+dividendYield: 0.0
+earningsCallTimestampEnd: 1792702800
+earningsCallTimestampStart: 1792702800
+earningsTimestamp: 1792699200
+earningsTimestampEnd: 1792699200
+earningsTimestampStart: 1792699200
+ebitda: 602988032
+ebitdaMargins: 0.15744
+enterpriseToEbitda: 91.462
+enterpriseToRevenue: 14.4
+enterpriseValue: 55150788608
+epsCurrentYear: 3.27299
+epsForward: 5.32391
+epsTrailingTwelveMonths: 1.65
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 245.311
+fiftyDayAverageChange: -31.13121
+fiftyDayAverageChangePercent: -0.12690507
+fiftyTwoWeekChangePercent: 46.322598
+fiftyTwoWeekHigh: 351.28
+fiftyTwoWeekHighChange: -137.1002
+fiftyTwoWeekHighChangePercent: -0.39028755
+fiftyTwoWeekLow: 75.7
+fiftyTwoWeekLowChange: 138.4798
+fiftyTwoWeekLowChangePercent: 1.8293236
+fiftyTwoWeekRange: 75.7 - 351.28
+financialCurrency: USD
+firstTradeDateMilliseconds: 1532525400000
+floatShares: 290367391
+forwardEps: 5.32391
+forwardPE: 40.22979
+freeCashflow: -1706500
+fullExchangeName: NYSE
+fullTimeEmployees: 2214
+fulldayChange: 28.759796
+fulldayChangePercent: 15.506407
+fulldayPrice: 214.1798
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.31768
+grossProfits: 1216684032
+hasPrePostMarketData: true
+heldPercentInsiders: 0.055180002
+heldPercentInstitutions: 0.90867996
+impliedSharesOutstanding: 295537217
+industry: Electrical Equipment & Parts
+industryDisp: Electrical Equipment & Parts
+industryKey: electrical-equipment-parts
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Bloom Energy Corporation designs, manufactures, sells, and installs
+  solid oxide fuel cell systems for on-site power generation in the United States
+  and internationally. It offers Bloom Energy Server, an energy server platform to
+  convert fuel, such as natural gas, biogas, hydrogen, or a blend of these fuels,
+  into electricity through a non-combustion electrochemical process. The company also
+  provides Bloom Electrolyzer for producing hydrogen. It sells its products through
+  direct and indirect sales channels to utilities, data centers, retail, healthcare,
+  education, telecom, manufacturing, and other industries. The company was formerly
+  known as Ion America Corp. and changed its name to Bloom Energy Corporation in 2006.
+  Bloom Energy Corporation was incorporated in 2001 and is headquartered in San Jose,
+  California.
+longName: Bloom Energy Corporation
+market: us_market
+marketCap: 63298101248
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_28543927
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 518305984
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 54798510776
+numberOfAnalystOpinions: 26
+open: 199.52
+operatingCashflow: 690968000
+operatingMargins: 0.14333999
+overallRisk: 10
+payoutRatio: 0.0
+pegRatio: 0.37
+phone: 408 543 1500
+previousClose: 185.42
+priceEpsCurrentYear: 65.438576
+priceHint: 2
+priceToBook: 32.749203
+priceToSalesTrailing12Months: 16.541859
+profitMargins: 0.13533
+quickRatio: 2.84
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.17241
+region: US
+regularMarketChange: 28.759796
+regularMarketChangePercent: 15.506407
+regularMarketDayHigh: 217.845
+regularMarketDayLow: 199.48
+regularMarketDayRange: 199.48 - 217.845
+regularMarketOpen: 199.52
+regularMarketPreviousClose: 185.42
+regularMarketPrice: 214.1798
+regularMarketTime: 1794413730
+regularMarketVolume: 10107942
+returnOnAssets: 0.07451
+returnOnEquity: 0.39609
+revenueGrowth: 1.381
+revenuePerShare: 13.584
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 295537217
+sharesPercentSharesOut: 0.0598
+sharesShort: 17686328
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 20982242
+shortName: Bloom Energy Corporation
+shortPercentOfFloat: 0.0681
+shortRatio: 1.19
+sourceInterval: 15
+state: CA
+symbol: BE
+targetHighPrice: 380.0
+targetLowPrice: 102.0
+targetMeanPrice: 283.84616
+targetMedianPrice: 295.0
+totalCash: 2486702080
+totalCashPerShare: 8.411
+totalDebt: 2786594048
+totalRevenue: 3829938944
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 1.65
+trailingPE: 129.80594
+trailingPegRatio: 0.3499
+triggerable: true
+twoHundredDayAverage: 222.885
+twoHundredDayAverageChange: -8.7052
+twoHundredDayAverageChangePercent: -0.039056916
+typeDisp: Equity
+volume: 10108706
+website: https://www.bloomenergy.com
+zip: '95134'

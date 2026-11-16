@@ -1,0 +1,252 @@
+52WeekChange: 0.12777317
+SandP52WeekChange: 0.097798586
+address1: Building E
+address2: ul. Jagiellonska 74
+allTimeHigh: 464.2
+allTimeLow: 0.63
+ask: 274.5
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 249848
+averageDailyVolume3Month: 328148
+averageVolume: 328148
+averageVolume10days: 249848
+beta: 0.412
+bid: 274.0
+bookValue: 35.695
+city: Warsaw
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Marcin Piotr Iwinski
+  title: Co-Founder & Co-Chairman of Supervisory Board
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam Konrad Badowski
+  title: Co-CEO & Member of the Management Board
+  totalPay: 8872000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michal Andrzej Nowakowski
+  title: Co-CEO & Member of the Management Board
+  totalPay: 8872000
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Piotr Marcin Nielubowicz
+  title: CFO & Vice President of the Management Board
+  totalPay: 8868000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Piotr  Karwowski
+  title: Joint COO & Member of the Management Board
+  totalPay: 8807000
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pawel  Zawodny
+  title: Joint COO & Member of the Management Board
+  totalPay: 8870000
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeremiah  Cohn
+  title: Chief Marketing Officer & Member of Management Board
+  totalPay: 8587000
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karolina  Radziszewska
+  title: Chief People Officer & Member of the Management Board
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Krystyna  Cybulska
+  title: Chief Accountant
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karolina  Gnas
+  title: IR Director
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Poland
+cryptoTradeable: false
+currency: PLN
+currentPrice: 274.5
+currentRatio: 6.308
+customPriceAlertConfidence: LOW
+dayHigh: 274.5
+dayLow: 267.8
+debtToEquity: 1.006
+dividendRate: 1.0
+dividendYield: 0.0
+earningsCallTimestampEnd: 1788364800
+earningsCallTimestampStart: 1788364800
+earningsGrowth: 1.086
+earningsQuarterlyGrowth: 1.073
+earningsTimestamp: 1795536300
+earningsTimestampEnd: 1795536300
+earningsTimestampStart: 1795536300
+ebitda: 565974976
+ebitdaMargins: 0.59748
+enterpriseToEbitda: 46.842
+enterpriseToRevenue: 27.987
+enterpriseValue: 26511597568
+epsCurrentYear: 4.53328
+epsForward: 1.59
+epsTrailingTwelveMonths: 6.11
+esgPopulated: false
+exDividendDate: 1750982400
+exchange: WSE
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Warsaw
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 48 22 375 7710
+fiftyDayAverage: 253.364
+fiftyDayAverageChange: 21.136002
+fiftyDayAverageChangePercent: 0.08342148
+fiftyTwoWeekChangePercent: 12.777317
+fiftyTwoWeekHigh: 297.0
+fiftyTwoWeekHighChange: -22.5
+fiftyTwoWeekHighChangePercent: -0.07575758
+fiftyTwoWeekLow: 211.3
+fiftyTwoWeekLowChange: 63.199997
+fiftyTwoWeekLowChangePercent: 0.2991008
+fiftyTwoWeekRange: 211.3 - 297.0
+financialCurrency: PLN
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 0.64
+floatShares: 99750007
+forwardEps: 1.59
+forwardPE: 172.64151
+freeCashflow: -411702752
+fullExchangeName: Warsaw
+fullTimeEmployees: 808
+fulldayChange: 5.5
+fulldayChangePercent: 2.0446098
+fulldayPrice: 274.5
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.92572
+grossProfits: 876908992
+hasPrePostMarketData: false
+heldPercentInsiders: 0.29525
+heldPercentInstitutions: 0.24284
+impliedSharesOutstanding: 99910510
+industry: Electronic Gaming & Multimedia
+industryDisp: Electronic Gaming & Multimedia
+industryKey: electronic-gaming-multimedia
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1750982400
+lastDividendValue: 1.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: CD Projekt Red S.A., together its subsidiaries, engages in the
+  production, publishing, and digital distribution of video games and related products
+  in Poland. The company's flagship products include The Witcher series of games and
+  Cyberpunk 2077. It also exports its products to Europe, North America, South America,
+  Asia, Australia, and Africa. The company was formerly known as CD Projekt S.A. and
+  changed its name to CD Projekt Red S.A. in August 2026. The company was incorporated
+  in 2001 and is headquartered in Warsaw, Poland.
+longName: CD Projekt Red S.A.
+market: pl_market
+marketCap: 27425435648
+marketState: CLOSED
+maxAge: 86400
+messageBoardId: finmb_32503885
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 588348992
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 27425434995
+numberOfAnalystOpinions: 15
+open: 270.5
+operatingCashflow: 586344000
+operatingMargins: 0.57908
+payoutRatio: 0.0
+phone: 48 22 519 6900
+prevName: CD Projekt S.A.
+previousClose: 269.0
+priceEpsCurrentYear: 60.552185
+priceHint: 2
+priceToBook: 7.6901526
+priceToSalesTrailing12Months: 28.951895
+profitMargins: 0.69997
+quickRatio: 6.187
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.73333
+region: US
+regularMarketChange: 5.5
+regularMarketChangePercent: 2.0446098
+regularMarketDayHigh: 274.5
+regularMarketDayLow: 267.8
+regularMarketDayRange: 267.8 - 274.5
+regularMarketOpen: 270.5
+regularMarketPreviousClose: 269.0
+regularMarketPrice: 274.5
+regularMarketTime: 1794326461
+regularMarketVolume: 290241
+returnOnAssets: 0.09821
+returnOnEquity: 0.18275999
+revenueGrowth: 0.396
+revenuePerShare: 9.485
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+sharesOutstanding: 99910510
+shortName: CDR C.XWAR PLN
+sourceInterval: 15
+symbol: CDR.WA
+targetHighPrice: 332.0
+targetLowPrice: 155.0
+targetMeanPrice: 251.46667
+targetMedianPrice: 270.0
+totalCash: 906412032
+totalCashPerShare: 9.087
+totalDebt: 35812000
+totalRevenue: 947276032
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 6.11
+trailingPE: 44.92635
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 247.691
+twoHundredDayAverageChange: 26.809006
+twoHundredDayAverageChangePercent: 0.10823569
+typeDisp: Equity
+volume: 290241
+website: https://www.cdprojekt.com
+zip: 03-301

@@ -1,0 +1,287 @@
+52WeekChange: -0.33011788
+SandP52WeekChange: 0.097798586
+address1: 5401 Virginia Way
+allTimeHigh: 63.99
+allTimeLow: 0.08125
+ask: 38.43
+askSize: 1
+auditRisk: 3
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 9685540
+averageDailyVolume3Month: 11313617
+averageVolume: 11313617
+averageVolume10days: 9685540
+beta: 0.484
+bid: 34.96
+bidSize: 1
+boardRisk: 2
+bookValue: 5.123
+city: Brentwood
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Harry A. Lawton III
+  title: President, CEO & Director
+  totalPay: 3028071
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 53
+  exercisedValue: 4545000
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kurt D. Barton CPA
+  title: Executive VP, CFO & Treasurer
+  totalPay: 1383284
+  unexercisedValue: 12792156
+  yearBorn: 1972
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John P. Ordus
+  title: Executive VP & Chief Stores Officer
+  totalPay: 1126005
+  unexercisedValue: 1583102
+  yearBorn: 1976
+- age: 45
+  exercisedValue: 3333807
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathan Seth Estep
+  title: Executive VP & Chief Merchandising Officer
+  totalPay: 1220566
+  unexercisedValue: 1586534
+  yearBorn: 1980
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fahim  Siddiqui
+  title: Executive VP and Chief Technology & Digital Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mary Winn Pilkington
+  title: Senior Vice President of Investor Relations & Public Relations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amy E. Dahl J.D.
+  title: Senior VP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Neil  Tenzer
+  title: Senior VP, Chief Marketing Officer & Pet Health
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melissa D. Kersey
+  title: Executive VP & Chief Human Resources Officer
+  totalPay: 1758208
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew L. Rubin
+  title: Senior Vice President & President of Digital
+  unexercisedValue: 0
+  yearBorn: 1980
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions:
+- header: Dividend
+  message: TSCO announced a cash dividend of $0.24 with an ex-date of Nov. 23, 2026
+  meta:
+    amount: '0.24'
+    dateEpochMs: 1795410000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 36.475
+currentRatio: 1.378
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 37.125
+dayLow: 36.21
+debtToEquity: 252.586
+displayName: Tractor Supply
+dividendDate: 1796688000
+dividendRate: 0.96
+dividendYield: 2.56
+earningsCallTimestampEnd: 1792677600
+earningsCallTimestampStart: 1792677600
+earningsGrowth: -0.121
+earningsQuarterlyGrowth: -0.133
+earningsTimestamp: 1792672200
+earningsTimestampEnd: 1801143000
+earningsTimestampStart: 1801143000
+ebitda: 1905319040
+ebitdaMargins: 0.11951
+enterpriseToEbitda: 13.629
+enterpriseToRevenue: 1.629
+enterpriseValue: 25967771648
+epsCurrentYear: 1.95372
+epsForward: 2.06203
+epsTrailingTwelveMonths: 1.86
+esgPopulated: false
+exDividendDate: 1795392000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 33.4744
+fiftyDayAverageChange: 3.000599
+fiftyDayAverageChangePercent: 0.08963862
+fiftyTwoWeekChangePercent: -33.011787
+fiftyTwoWeekHigh: 56.94
+fiftyTwoWeekHighChange: -20.465
+fiftyTwoWeekHighChangePercent: -0.35941342
+fiftyTwoWeekLow: 28.36
+fiftyTwoWeekLowChange: 8.114998
+fiftyTwoWeekLowChangePercent: 0.28614238
+fiftyTwoWeekRange: 28.36 - 56.94
+financialCurrency: USD
+firstTradeDateMilliseconds: 761495400000
+fiveYearAvgDividendYield: 1.64
+floatShares: 516945369
+forwardEps: 2.06203
+forwardPE: 17.688877
+freeCashflow: 126797000
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 54000
+fulldayChange: -1.0250015
+fulldayChangePercent: -2.7333374
+fulldayPrice: 36.475
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.36285
+grossProfits: 5784544256
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00262
+heldPercentInstitutions: 0.96970004
+impliedSharesOutstanding: 518573690
+industry: Specialty Retail
+industryDisp: Specialty Retail
+industryKey: specialty-retail
+irWebsite: http://www.tractorsupply.com/InvestorRelationView?storeId=10551&catalogId=10001
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1787529600
+lastDividendValue: 0.24
+lastFiscalYearEnd: 1766793600
+lastSplitDate: 1734652800
+lastSplitFactor: '5:1'
+longBusinessSummary: Tractor Supply Company operates as a rural lifestyle retailer
+  in the United States. The company provides various merchandise, including livestock
+  and equine feed and equipment, poultry, fencing, and sprayers and chemicals; companion
+  animal products, such as food, treats, and equipment for dogs, cats, and other small
+  animals, as well as dog wellness products; seasonal and recreation products comprising
+  tractors and riders, lawn and garden, bird feeding, power equipment, and other recreational
+  products; truck, tool, and hardware products, such as truck accessories, trailers,
+  generators, lubricants, batteries, and hardware and tools; and clothing, gift, and
+  décor products consist of clothing, footwear, toys, snacks, and decorative merchandise.
+  It offers its products under the 4health, Paws & Claws, American Farmworks, Producer's
+  Pride, Bit & Bridle, Red Shed, Blue Mountain, Redstone, C.E. Schmidt, Retriever,
+  Country Lane, Ridgecut, Countyline, Royal Wing, Country Tuff, Strive, Dumor, Traveller,
+  Farm Table, Treeline, Groundwork, TSC Tractor Supply Co, Huskee, Untamed, JobSmart,
+  and Impeckable brand names. The company operates its retail stores under the Tractor
+  Supply Company, Petsense by Tractor Supply, and Orscheln Farm and Home names; and
+  operates websites under the TractorSupply.com and Petsense.com names. It sells its
+  products to recreational farmers, ranchers, and others. Tractor Supply Company was
+  founded in 1938 and is based in Brentwood, Tennessee.
+longName: Tractor Supply Company
+market: us_market
+marketCap: 18914975744
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_329501
+mostRecentQuarter: 1790380800
+netIncomeToCommon: 977316992
+nextFiscalYearEnd: 1798329600
+nonDilutedMarketCap: 19449106243
+numberOfAnalystOpinions: 27
+open: 36.92
+operatingCashflow: 1207452032
+operatingMargins: 0.08701
+overallRisk: 4
+payoutRatio: 0.5108
+pegRatio: 2.17
+phone: 615 440 4000
+previousClose: 37.5
+priceEpsCurrentYear: 18.669512
+priceHint: 2
+priceToBook: 7.119851
+priceToSalesTrailing12Months: 1.186477
+profitMargins: 0.061300002
+quickRatio: 0.129
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.1
+region: US
+regularMarketChange: -1.0250015
+regularMarketChangePercent: -2.7333374
+regularMarketDayHigh: 37.125
+regularMarketDayLow: 36.21
+regularMarketDayRange: 36.21 - 37.125
+regularMarketOpen: 36.92
+regularMarketPreviousClose: 37.5
+regularMarketPrice: 36.475
+regularMarketTime: 1794413745
+regularMarketVolume: 1099041
+returnOnAssets: 0.07497
+returnOnEquity: 0.37347
+revenueGrowth: 0.051
+revenuePerShare: 30.38
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 518573690
+sharesPercentSharesOut: 0.0761
+sharesShort: 39470901
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 43233684
+shortName: Tractor Supply Company
+shortPercentOfFloat: 0.0871
+shortRatio: 2.66
+sourceInterval: 15
+state: TN
+symbol: TSCO
+targetHighPrice: 43.0
+targetLowPrice: 31.0
+targetMeanPrice: 37.48148
+targetMedianPrice: 38.0
+totalCash: 198876000
+totalCashPerShare: 0.384
+totalDebt: 6720134144
+totalRevenue: 15942134784
+tradeable: false
+trailingAnnualDividendRate: 0.95
+trailingAnnualDividendYield: 0.025333334
+trailingEps: 1.86
+trailingPE: 19.610214
+trailingPegRatio: 2.1719
+triggerable: true
+twoHundredDayAverage: 37.5167
+twoHundredDayAverageChange: -1.0417023
+twoHundredDayAverageChangePercent: -0.027766362
+typeDisp: Equity
+volume: 1099033
+website: https://www.tractorsupply.com
+zip: '37027'

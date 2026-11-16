@@ -1,0 +1,262 @@
+52WeekChange: 0.24096
+SandP52WeekChange: 0.097798586
+address1: 1000 Remington Boulevard
+address2: Suite 120
+allTimeHigh: 714.97
+allTimeLow: 4.11
+ask: 661.21
+askSize: 1
+auditRisk: 8
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 494760
+averageDailyVolume3Month: 550967
+averageVolume: 550967
+averageVolume10days: 494760
+beta: 0.838
+bid: 636.05
+bidSize: 1
+boardRisk: 1
+bookValue: 61.762
+city: Bolingbrook
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kecia L. Steelman
+  title: President, CEO & Director
+  totalPay: 5818230
+  unexercisedValue: 1515203
+  yearBorn: 1971
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher J. DelOrefice CPA
+  title: CFO & Principal Financial Officer
+  totalPay: 1168440
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher  Lialios
+  title: Senior VP, Controller & Principal Accounting Officer
+  totalPay: 1162950
+  unexercisedValue: 829047
+  yearBorn: 1966
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kelly E. Garcia
+  title: Chief Technology Officer
+  totalPay: 125000
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rene G. Casares
+  title: Chief Legal Officer & Corporate Secretary
+  totalPay: 2942030
+  unexercisedValue: 0
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anita J. Ryan
+  title: Chief Human Resources Officer
+  totalPay: 1737007
+  unexercisedValue: 433389
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kiley F. Rawlins CFA
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Natalie  Navarre
+  title: VP of Public Relations & Social Marketing
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kelly  Mahoney
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amiee  Bayer-Thomas
+  title: Chief Retail Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 651.47
+currentRatio: 1.345
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 664.8
+dayLow: 649.52
+debtToEquity: 95.472
+displayName: Ulta Beauty
+dividendDate: 1337040000
+dividendYield: 0.0
+earningsCallTimestampEnd: 1748550600
+earningsCallTimestampStart: 1748550600
+earningsGrowth: 0.133
+earningsQuarterlyGrowth: 0.081
+earningsTimestamp: 1796331600
+earningsTimestampEnd: 1796331600
+earningsTimestampStart: 1796331600
+ebitda: 1934352000
+ebitdaMargins: 0.14931
+enterpriseToEbitda: 15.881
+enterpriseToRevenue: 2.371
+enterpriseValue: 30719072256
+epsCurrentYear: 28.99765
+epsForward: 32.09607
+epsTrailingTwelveMonths: 27.44
+esgPopulated: false
+exDividendDate: 1331856000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 581.2798
+fiftyDayAverageChange: 70.190186
+fiftyDayAverageChangePercent: 0.12075112
+fiftyTwoWeekChangePercent: 24.096
+fiftyTwoWeekHigh: 714.97
+fiftyTwoWeekHighChange: -63.5
+fiftyTwoWeekHighChangePercent: -0.08881492
+fiftyTwoWeekLow: 443.6
+fiftyTwoWeekLowChange: 207.86996
+fiftyTwoWeekLowChangePercent: 0.46859774
+fiftyTwoWeekRange: 443.6 - 714.97
+financialCurrency: USD
+firstTradeDateMilliseconds: 1193319000000
+floatShares: 42618082
+forwardEps: 32.09607
+forwardPE: 20.2975
+freeCashflow: 914087360
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 21382
+fulldayChange: -12.940002
+fulldayChangePercent: -1.9475931
+fulldayPrice: 651.47
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.43097
+grossProfits: 5583440896
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0025099998
+heldPercentInstitutions: 1.02907
+impliedSharesOutstanding: 42757471
+industry: Specialty Retail
+industryDisp: Specialty Retail
+industryKey: specialty-retail
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1331856000
+lastDividendValue: 1.0
+lastFiscalYearEnd: 1769817600
+longBusinessSummary: Ulta Beauty, Inc. operates as a specialty beauty retailer in
+  the United States, Mexico, and Kuwait. The company offers branded and private label
+  beauty products, including cosmetics, fragrance, haircare, skincare, bath and body
+  products, professional hair products, and salon styling tools through its Ulta Beauty
+  stores, shop-in-shops, Ulta.com website, and its mobile applications. It also provides
+  wellness products. The company was formerly known as ULTA Salon, Cosmetics & Fragrance,
+  Inc. and changed its name to Ulta Beauty, Inc. in January 2017. Ulta Beauty, Inc.
+  was incorporated in 1990 and is based in Bolingbrook, Illinois.
+longName: Ulta Beauty, Inc.
+market: us_market
+marketCap: 27855208448
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_35929
+mostRecentQuarter: 1785542400
+netIncomeToCommon: 1210027008
+nextFiscalYearEnd: 1801353600
+nonDilutedMarketCap: 28439276686
+numberOfAnalystOpinions: 25
+open: 653.4
+operatingCashflow: 1567826944
+operatingMargins: 0.1246
+overallRisk: 4
+payoutRatio: 0.0
+pegRatio: 2.09
+phone: 630 410 4800
+previousClose: 664.41
+priceEpsCurrentYear: 22.466303
+priceHint: 2
+priceToBook: 10.548071
+priceToSalesTrailing12Months: 2.1500654
+profitMargins: 0.0934
+quickRatio: 0.203
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.82143
+region: US
+regularMarketChange: -12.940002
+regularMarketChangePercent: -1.9475931
+regularMarketDayHigh: 664.8
+regularMarketDayLow: 649.52
+regularMarketDayRange: 649.52 - 664.8
+regularMarketOpen: 653.4
+regularMarketPreviousClose: 664.41
+regularMarketPrice: 651.47
+regularMarketTime: 1794413735
+regularMarketVolume: 76535
+returnOnAssets: 0.14843
+returnOnEquity: 0.46117002
+revenueGrowth: 0.089
+revenuePerShare: 294.799
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 5
+sharesOutstanding: 42757471
+sharesPercentSharesOut: 0.0476
+sharesShort: 2036084
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2442718
+shortName: Ulta Beauty, Inc.
+shortPercentOfFloat: 0.0477
+shortRatio: 4.54
+sourceInterval: 15
+state: IL
+symbol: ULTA
+targetHighPrice: 731.0
+targetLowPrice: 500.0
+targetMeanPrice: 635.84
+targetMedianPrice: 635.0
+totalCash: 213451008
+totalCashPerShare: 4.992
+totalDebt: 2524030976
+totalRevenue: 12955516928
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 27.44
+trailingPE: 23.741617
+trailingPegRatio: 2.0915
+triggerable: true
+twoHundredDayAverage: 552.0977
+twoHundredDayAverageChange: 99.37225
+twoHundredDayAverageChangePercent: 0.17999034
+typeDisp: Equity
+volume: 76535
+website: https://www.ulta.com
+zip: '60440'

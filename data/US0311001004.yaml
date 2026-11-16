@@ -1,0 +1,291 @@
+52WeekChange: 0.21098638
+SandP52WeekChange: 0.097798586
+address1: 1100 Cassatt Road
+allTimeHigh: 261.16
+allTimeLow: 1.222222
+ask: 241.49
+askSize: 100
+auditRisk: 2
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 2125440
+averageDailyVolume3Month: 1488754
+averageVolume: 1488754
+averageVolume10days: 2125440
+beta: 0.971
+bid: 241.33
+bidSize: 100
+boardRisk: 6
+bookValue: 51.004
+city: Berwyn
+companyOfficers:
+- age: 60
+  exercisedValue: 11705566
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David A. Zapico
+  title: Chairman of the Board & CEO
+  totalPay: 5201686
+  unexercisedValue: 13099848
+  yearBorn: 1965
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dalip Mohan Puri
+  title: Executive VP & CFO
+  totalPay: 1518648
+  unexercisedValue: 2381099
+  yearBorn: 1973
+- age: 57
+  exercisedValue: 3328691
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ronald J. Oscher
+  title: Chief Administrative Officer
+  totalPay: 1266491
+  unexercisedValue: 1720918
+  yearBorn: 1968
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Wesley Hardin Jr.
+  title: President of Electronic Instruments
+  totalPay: 1506233
+  unexercisedValue: 5788752
+  yearBorn: 1965
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David F. Hermance
+  title: President of Electromechanical Group
+  totalPay: 1209316
+  unexercisedValue: 3060507
+  yearBorn: 1969
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Isabel S. Wells
+  title: VP of Information Technology & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin C. Coleman CPA
+  title: VP of Investor Relations & Treasurer
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert S. Feit J.D.
+  title: Senior VP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Vinatha  Nathan
+  title: VP and GM of Measurement, Communications & Testing
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William D. Eginton
+  title: Senior Vice President of Corporate Development
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: AME announced a cash dividend of $0.34 with an ex-date of Dec. 4, 2026
+  meta:
+    amount: '0.34'
+    dateEpochMs: 1796360400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 240.68
+currentRatio: 1.431
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 243.03
+dayLow: 239.29
+debtToEquity: 59.564
+displayName: AMETEK
+dividendDate: 1797552000
+dividendRate: 1.36
+dividendYield: 0.57
+earningsCallTimestampEnd: 1793712600
+earningsCallTimestampStart: 1793712600
+earningsGrowth: 0.156
+earningsQuarterlyGrowth: 0.148
+earningsTimestamp: 1793712600
+earningsTimestampEnd: 1801575000
+earningsTimestampStart: 1801575000
+ebitda: 2610917888
+ebitdaMargins: 0.31873
+enterpriseToEbitda: 23.344
+enterpriseToRevenue: 7.44
+enterpriseValue: 60949331968
+epsCurrentYear: 8.56397
+epsForward: 9.61805
+epsTrailingTwelveMonths: 7.09
+esgPopulated: false
+exDividendDate: 1796342400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 242.908
+fiftyDayAverageChange: -2.228012
+fiftyDayAverageChangePercent: -0.009172247
+fiftyTwoWeekChangePercent: 21.098637
+fiftyTwoWeekHigh: 261.16
+fiftyTwoWeekHighChange: -20.480011
+fiftyTwoWeekHighChangePercent: -0.0784194
+fiftyTwoWeekLow: 188.47
+fiftyTwoWeekLowChange: 52.20999
+fiftyTwoWeekLowChangePercent: 0.27702016
+fiftyTwoWeekRange: 188.47 - 261.16
+financialCurrency: USD
+firstTradeDateMilliseconds: 459091800000
+fiveYearAvgDividendYield: 0.61
+floatShares: 228017765
+forwardEps: 9.61805
+forwardPE: 25.023783
+freeCashflow: 1512989440
+fullExchangeName: NYSE
+fullTimeEmployees: 22500
+fulldayChange: 2.369995
+fulldayChangePercent: 0.99450094
+fulldayPrice: 240.68
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.36971
+grossProfits: 3028548096
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00418
+heldPercentInstitutions: 0.93708
+impliedSharesOutstanding: 229317998
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=104638&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1789430400
+lastDividendValue: 0.34
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1341187200
+lastSplitFactor: '3:2'
+longBusinessSummary: AMETEK, Inc. manufactures and sells electronic instruments (EIG)
+  and electromechanical (EMG) devices in the United States and internationally. It
+  operates through EIG and EMG segments. The company offers advanced instruments for
+  the process, aerospace, power, and industrial markets; process and analytical instruments
+  for the oil and gas, petrochemical, pharmaceutical, semiconductor, automation, and
+  food and beverage industries; instruments to the laboratory equipment, ultra-precision
+  manufacturing, medical, and test and measurement markets; power quality monitoring
+  and metering devices, uninterruptible power supplies, programmable power and electromagnetic
+  compatibility test equipment, and gas turbines sensors; dashboard instruments for
+  heavy trucks and other vehicles; instrumentation and controls for food and beverage
+  industries; and aircraft and engine sensors, embedded computing, monitoring, power
+  supplies, fuel and fluid measurement, and data acquisition systems for aerospace
+  and defense industry. It also provides engineered medical components and devices,
+  automation solutions, thermal management systems, specialty metals, and electrical
+  interconnects; single-use and consumable surgical instruments, implantable components,
+  and drug delivery systems; engineered electrical connectors and electronics packaging;
+  precision motion control products for data storage, medical devices, business equipment,
+  automation, and other application; high-purity powdered metals, strips and foils,
+  specialty clad metals, and metal matrix composites; motor-blower systems and heat
+  exchangers for thermal management, military and commercial aircraft, and military
+  ground vehicles; and motors used in commercial appliances, food and beverage machines,
+  hydraulic pumps, and industrial blowers, as well as operates a network of aviation
+  maintenance, repair, and overhaul facilities. AMETEK, Inc. was incorporated in 1930
+  and is headquartered in Berwyn, Pennsylvania.
+longName: AMETEK, Inc.
+market: us_market
+marketCap: 55192256512
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_31860
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1631154048
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 54648772103
+numberOfAnalystOpinions: 18
+open: 243.31
+operatingCashflow: 2080120960
+operatingMargins: 0.26591
+overallRisk: 8
+payoutRatio: 0.1876
+pegRatio: 2.68
+phone: 610 647 2121
+previousClose: 238.31
+priceEpsCurrentYear: 28.103788
+priceHint: 2
+priceToBook: 4.7188454
+priceToSalesTrailing12Months: 6.737675
+profitMargins: 0.19913
+quickRatio: 0.84
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.7
+region: US
+regularMarketChange: 2.369995
+regularMarketChangePercent: 0.99450094
+regularMarketDayHigh: 243.03
+regularMarketDayLow: 239.29
+regularMarketDayRange: 239.29 - 243.03
+regularMarketOpen: 243.31
+regularMarketPreviousClose: 238.31
+regularMarketPrice: 240.68
+regularMarketTime: 1794413707
+regularMarketVolume: 180183
+returnOnAssets: 0.07059
+returnOnEquity: 0.1468
+revenueGrowth: 0.173
+revenuePerShare: 35.742
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 9
+sharesOutstanding: 229317998
+sharesPercentSharesOut: 0.0156
+sharesShort: 3580975
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3798231
+shortName: AMETEK, Inc.
+shortPercentOfFloat: 0.0176
+shortRatio: 2.65
+sourceInterval: 15
+state: PA
+symbol: AME
+targetHighPrice: 325.0
+targetLowPrice: 217.0
+targetMeanPrice: 287.44443
+targetMedianPrice: 287.5
+totalCash: 666152000
+totalCashPerShare: 2.905
+totalDebt: 6966711808
+totalRevenue: 8191587840
+tradeable: false
+trailingAnnualDividendRate: 1.33
+trailingAnnualDividendYield: 0.0055809664
+trailingEps: 7.09
+trailingPE: 33.946404
+trailingPegRatio: 2.6801
+triggerable: true
+twoHundredDayAverage: 234.85864
+twoHundredDayAverageChange: 5.82135
+twoHundredDayAverageChangePercent: 0.024786612
+typeDisp: Equity
+volume: 180183
+website: https://www.ametek.com
+zip: 19312-1177

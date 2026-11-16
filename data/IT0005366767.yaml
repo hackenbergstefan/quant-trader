@@ -1,0 +1,219 @@
+52WeekChange: 0.08333337
+SandP52WeekChange: 0.097798586
+address1: Corso Sempione 55
+allTimeHigh: 19.405
+allTimeLow: 2.643
+ask: 4.485
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.9 - Hold
+averageDailyVolume10Day: 8069792
+averageDailyVolume3Month: 6372066
+averageVolume: 6372066
+averageVolume10days: 8069792
+beta: 1.081
+bid: 4.48
+bidSize: 0
+boardRisk: 1
+bookValue: 5.789
+city: Milan
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Bernardo  Mingrone
+  title: CEO, Group GM & Director
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 54
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Piergiorgio  Pedron
+  title: Group Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  maxAge: 1
+  name: Ms. Fabiana  Rizzi
+  title: Group Chief Human Resources Officer
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Christian  Segersven
+  title: Chief Business Officer of Issuing Solutions
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Roberto  Catanzaro
+  title: Chief Business Officer of Merchant Solutions
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Ms. Sarah Barslund Lauridsen
+  title: Chief Product Officer
+  unexercisedValue: 0
+compensationRisk: 9
+corporateActions: []
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 4.481
+currentRatio: 1.004
+customPriceAlertConfidence: LOW
+dayHigh: 4.534
+dayLow: 4.414
+debtToEquity: 86.669
+dividendRate: 0.3
+dividendYield: 6.63
+earningsCallTimestampEnd: 1793862000
+earningsCallTimestampStart: 1793862000
+earningsGrowth: 0.303
+earningsQuarterlyGrowth: 0.307
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 1219000064
+ebitdaMargins: 0.19282
+enterpriseToEbitda: 7.664
+enterpriseToRevenue: 1.478
+enterpriseValue: 9342436352
+epsCurrentYear: 0.62795
+epsForward: 0.64659
+epsTrailingTwelveMonths: -2.8
+esgPopulated: false
+exDividendDate: 1779062400
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 39 02 34 88 41 80
+fiftyDayAverage: 4.27958
+fiftyDayAverageChange: 0.20141983
+fiftyDayAverageChangePercent: 0.047065325
+fiftyTwoWeekChangePercent: 8.333338
+fiftyTwoWeekHigh: 4.73
+fiftyTwoWeekHighChange: -0.24900007
+fiftyTwoWeekHighChangePercent: -0.05264272
+fiftyTwoWeekLow: 2.643
+fiftyTwoWeekLowChange: 1.838
+fiftyTwoWeekLowChangePercent: 0.69542193
+fiftyTwoWeekRange: 2.643 - 4.73
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1555570800000
+floatShares: 506057960
+forwardEps: 0.64659
+forwardPE: 6.930203
+freeCashflow: 786499968
+fullExchangeName: Milan
+fullTimeEmployees: 9595
+fulldayChange: -0.04300022
+fulldayChangePercent: -0.95049113
+fulldayPrice: 4.481
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.44812
+grossProfits: 2832999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.19618
+heldPercentInstitutions: 0.47955
+impliedSharesOutstanding: 1174720768
+industry: Software - Infrastructure
+industryDisp: Software - Infrastructure
+industryKey: software-infrastructure
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779062400
+lastDividendValue: 0.3
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Nexi S.p.A. provides electronic money and payment services to
+  banks, small and medium-sized enterprises, large international corporations, institutions,
+  and public administrations in Italy, Nordics and Baltics, Germany, Austria, Switzerland,
+  Poland, Southeast Europe, and internationally. The company offers payment processing
+  and acceptance services; configuration, activation, and maintenance of Point of
+  Sales terminals; fraud prevention services; and dispute management services, as
+  well as customer support and value-added services. It also provides various issuing
+  services, such as issue, supply, and management of private and corporate payment
+  cards; payment tracking and the production of monthly statements, data analysis
+  and price-setting support services, customer service, and dispute management, as
+  well as communication and customer development services; installation and management
+  of Automated Teller Machines; clearing services; and digital banking services for
+  the management of current accounts and payments. In addition, the company offers
+  applications for invoice management and storage, prepaid card reloading, bill payments,
+  and postal payments. The company was founded in 1939 and is based in Milan, Italy.
+longName: Nexi S.p.A.
+market: it_market
+marketCap: 5263923712
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_413168171
+mostRecentQuarter: 1782777600
+netIncomeToCommon: -3364000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5314436754
+numberOfAnalystOpinions: 16
+open: 4.501
+operatingCashflow: 1194000000
+operatingMargins: 0.12939
+overallRisk: 4
+payoutRatio: 1.087
+pegRatio: 0.07
+phone: 39 02 34881
+previousClose: 4.524
+priceEpsCurrentYear: 7.135918
+priceHint: 4
+priceToBook: 0.7740542
+priceToSalesTrailing12Months: 0.8326358
+profitMargins: -0.5299
+quickRatio: 0.43
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.875
+region: US
+regularMarketChange: -0.04300022
+regularMarketChangePercent: -0.95049113
+regularMarketDayHigh: 4.534
+regularMarketDayLow: 4.414
+regularMarketDayRange: 4.414 - 4.534
+regularMarketOpen: 4.501
+regularMarketPreviousClose: 4.524
+regularMarketPrice: 4.481
+regularMarketTime: 1794411570
+regularMarketVolume: 3704347
+returnOnAssets: 0.02308
+returnOnEquity: -0.3861
+revenueGrowth: 0.016
+revenuePerShare: 5.385
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 1174720768
+shortName: NEXI
+sourceInterval: 20
+state: MI
+symbol: NEXI.MI
+targetHighPrice: 6.0
+targetLowPrice: 3.0
+targetMeanPrice: 4.33812
+targetMedianPrice: 4.05
+totalCash: 1884999936
+totalCashPerShare: 1.605
+totalDebt: 5903000064
+totalRevenue: 6321999872
+tradeable: false
+trailingAnnualDividendRate: 0.3
+trailingAnnualDividendYield: 0.066313
+trailingEps: -2.8
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 3.794515
+twoHundredDayAverageChange: 0.68648505
+twoHundredDayAverageChangePercent: 0.1809151
+typeDisp: Equity
+volume: 3704347
+website: https://www.nexigroup.com
+zip: '20149'

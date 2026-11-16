@@ -1,0 +1,277 @@
+52WeekChange: 0.27714753
+SandP52WeekChange: 0.097798586
+address1: 200 Park Avenue
+allTimeHigh: 106.72
+allTimeLow: 10.13369
+ask: 102.13
+askSize: 100
+auditRisk: 4
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 3382520
+averageDailyVolume3Month: 3097432
+averageVolume: 3097432
+averageVolume10days: 3382520
+beta: 0.773
+bid: 102.0
+bidSize: 300
+boardRisk: 2
+bookValue: 35.218
+city: New York
+companyOfficers:
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michel Abbas Khalaf
+  title: CEO, President & Director
+  totalPay: 6471486
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Dennis McCallion CPA
+  title: Executive VP, CFO & Head of Investment Management
+  totalPay: 3826739
+  unexercisedValue: 3890730
+  yearBorn: 1974
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bill  Pappas
+  title: Executive VP and Head of Global Technology & Operations
+  totalPay: 3186300
+  unexercisedValue: 1054815
+  yearBorn: 1970
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marlene Beverly Debel
+  title: Executive VP, Chief Risk Officer & Head of Insurance Investments
+  totalPay: 2980894
+  unexercisedValue: 2160461
+  yearBorn: 1967
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ramy  Tadros
+  title: Regional President of U.S. Business & Head of MetLife Holdings
+  totalPay: 3162900
+  unexercisedValue: 2837192
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Adrienne Karen O'Neill C.A., C.F.A., CPA
+  title: Executive VP & Chief Accounting Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Arthur Hall
+  title: Senior VP, Head of Investor Relations & Executive VP and Treasurer
+  unexercisedValue: 0
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Monica M. Curtis
+  title: Executive VP, Chief Legal Officer & Head of Government Relations
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jane  Slusark
+  title: Chief Communications Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Roberts
+  title: Executive VP & Chief Marketing Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 102.42
+currentRatio: 1.871
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 103.16
+dayLow: 101.95
+debtToEquity: 223.774
+displayName: MetLife
+dividendDate: 1796688000
+dividendRate: 2.37
+dividendYield: 2.31
+earningsCallTimestampEnd: 1793887200
+earningsCallTimestampStart: 1793887200
+earningsGrowth: 2.008
+earningsQuarterlyGrowth: 1.675
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1793826000
+earningsTimestampStart: 1793826000
+ebitda: 7794999808
+ebitdaMargins: 0.09442
+enterpriseToEbitda: 11.293
+enterpriseToRevenue: 1.066
+enterpriseValue: 88028610560
+epsCurrentYear: 10.23209
+epsForward: 11.18206
+epsTrailingTwelveMonths: 7.65
+esgPopulated: false
+exDividendDate: 1793664000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 98.3944
+fiftyDayAverageChange: 4.0255966
+fiftyDayAverageChangePercent: 0.040912863
+fiftyTwoWeekChangePercent: 27.714752
+fiftyTwoWeekHigh: 106.72
+fiftyTwoWeekHighChange: -4.300003
+fiftyTwoWeekHighChangePercent: -0.040292382
+fiftyTwoWeekLow: 67.33
+fiftyTwoWeekLowChange: 35.089996
+fiftyTwoWeekLowChangePercent: 0.52116436
+fiftyTwoWeekRange: 67.33 - 106.72
+financialCurrency: USD
+firstTradeDateMilliseconds: 954941400000
+fiveYearAvgDividendYield: 2.88
+floatShares: 525767266
+forwardEps: 11.18206
+forwardPE: 9.159314
+freeCashflow: -3535249920
+fullExchangeName: NYSE
+fullTimeEmployees: 46000
+fulldayChange: -0.020004272
+fulldayChangePercent: -0.019527793
+fulldayPrice: 102.42
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.256
+grossProfits: 21134999552
+hasPrePostMarketData: true
+heldPercentInsiders: 0.16283001
+heldPercentInstitutions: 0.80254996
+impliedSharesOutstanding: 628442143
+industry: Insurance - Life
+industryDisp: Insurance - Life
+industryKey: insurance-life
+irWebsite: http://investor.metlife.com/phoenix.zhtml?c=121171&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793664000
+lastDividendValue: 0.593
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1502064000
+lastSplitFactor: 1122:1000
+longBusinessSummary: 'MetLife, Inc., a financial services company, provides insurance,
+  annuities, employee benefits, and asset management services worldwide. It operates
+  in six segments: Group Benefits; Retirement and Income Solutions; Asia; Latin America;
+  Europe, the Middle East and Africa; and MetLife Holdings. The company offers life,
+  dental, group short-and long-term disability, paid family and medical leave, individual
+  disability, accidental death and dismemberment, accident and health, vision, and
+  pet insurance, as well as prepaid legal plans; administrative services-only arrangements
+  to employers; and general and separate account, and synthetic guaranteed interest
+  contracts, as well as private floating rate funding agreements. It also provides
+  pension risk transfers, institutional income annuities, structured settlements,
+  and capital markets investment products; and other products and services, such as
+  life insurance products and funding agreements for funding postretirement benefits,
+  as well as company, bank, or trust-owned life insurance used to finance nonqualified
+  benefit programs for executives. In addition, it offers fixed, indexed-linked, and
+  variable annuities; pension products; regular savings products; whole and term life,
+  endowments, universal and variable life, and group life products; longevity and
+  funded reinsurance solutions; credit insurance products; accident & health products
+  covering hospitalization, cancer, critical illness, income protection, and scheduled
+  medical reimbursement plans; and protection against long-term health care services.
+  The company was incorporated in 1999 and is based in New York, New York.'
+longName: MetLife, Inc.
+market: us_market
+marketCap: 64365039616
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_185648
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4974000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 64377613128
+numberOfAnalystOpinions: 16
+open: 102.44
+operatingCashflow: 13991000064
+operatingMargins: 0.08514
+overallRisk: 4
+payoutRatio: 0.3033
+pegRatio: 0.54
+phone: 212 578 9500
+previousClose: 102.44
+priceEpsCurrentYear: 10.0096855
+priceHint: 2
+priceToBook: 2.9081721
+priceToSalesTrailing12Months: 0.7796153
+profitMargins: 0.0621
+quickRatio: 1.586
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.88889
+region: US
+regularMarketChange: -0.020004272
+regularMarketChangePercent: -0.019527793
+regularMarketDayHigh: 103.16
+regularMarketDayLow: 101.95
+regularMarketDayRange: 101.95 - 103.16
+regularMarketOpen: 102.44
+regularMarketPreviousClose: 102.44
+regularMarketPrice: 102.42
+regularMarketTime: 1794413732
+regularMarketVolume: 451440
+returnOnAssets: 0.006
+returnOnEquity: 0.19917
+revenueGrowth: 0.182
+revenuePerShare: 127.634
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 9
+sharesOutstanding: 628442143
+sharesPercentSharesOut: 0.0171
+sharesShort: 10747491
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 11201864
+shortName: MetLife, Inc.
+shortPercentOfFloat: 0.0171
+shortRatio: 3.36
+sourceInterval: 15
+state: NY
+symbol: MET
+targetHighPrice: 131.0
+targetLowPrice: 84.0
+targetMeanPrice: 110.3125
+targetMedianPrice: 111.0
+totalCash: 27665000448
+totalCashPerShare: 44.022
+totalDebt: 50828001280
+totalRevenue: 82560000000
+tradeable: false
+trailingAnnualDividendRate: 2.319
+trailingAnnualDividendYield: 0.022637641
+trailingEps: 7.65
+trailingPE: 13.388235
+trailingPegRatio: 0.5371
+triggerable: true
+twoHundredDayAverage: 86.53925
+twoHundredDayAverageChange: 15.880745
+twoHundredDayAverageChangePercent: 0.18350916
+typeDisp: Equity
+volume: 451440
+website: https://www.metlife.com
+zip: 10166-0188

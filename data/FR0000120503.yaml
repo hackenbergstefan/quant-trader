@@ -1,0 +1,275 @@
+52WeekChange: 0.060510278
+SandP52WeekChange: 0.097798586
+address1: 32 avenue Hoche
+allTimeHigh: 97.9
+allTimeLow: 6.24
+ask: 0.0
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 669872
+averageDailyVolume3Month: 692991
+averageVolume: 692991
+averageVolume10days: 669872
+beta: 0.653
+bid: 0.0
+bidSize: 0
+boardRisk: 7
+bookValue: 32.491
+city: Paris
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Olivier  Roussat
+  title: Group Chief Executive Officer
+  totalPay: 3965398
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Edward  Bouygues
+  title: Deputy CEO of Telecoms Development, CSR & Innovation
+  totalPay: 1687211
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephane  Stoll
+  title: Senior VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Didier  Casas
+  title: General Counsel
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maylis  Carcabal
+  title: Chief Communications Officer & Communications Director
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Manuel  Soussan
+  title: Senior VP & Human Resources Director
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Emmanuel  Forest
+  title: CEO of Bouygues Immobilier
+  unexercisedValue: 0
+  yearBorn: 1959
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christophe  Liénard
+  title: Group Chief Innovation Officer
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pascal  Minault
+  title: Senior Vice-President of Construction Division
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pierre  Vanstoflegatte
+  title: Chief Executive Officer of Colas
+  unexercisedValue: 0
+  yearBorn: 1969
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 43.6
+currentRatio: 0.917
+customPriceAlertConfidence: LOW
+dayHigh: 43.88
+dayLow: 43.34
+debtToEquity: 103.943
+dividendRate: 2.1
+dividendYield: 4.81
+earningsCallTimestampEnd: 1793865600
+earningsCallTimestampStart: 1793865600
+earningsGrowth: -0.962
+earningsQuarterlyGrowth: -0.962
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 4657999872
+ebitdaMargins: 0.08218
+enterpriseToEbitda: 5.927
+enterpriseToRevenue: 0.487
+enterpriseValue: 27606953984
+epsCurrentYear: 3.44381
+epsForward: 3.86174
+epsTrailingTwelveMonths: 2.0
+esgPopulated: false
+exDividendDate: 1777334400
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 42.2142
+fiftyDayAverageChange: 1.3857994
+fiftyDayAverageChangePercent: 0.032827802
+fiftyTwoWeekChangePercent: 6.051028
+fiftyTwoWeekHigh: 53.48
+fiftyTwoWeekHighChange: -9.880001
+fiftyTwoWeekHighChangePercent: -0.18474197
+fiftyTwoWeekLow: 39.73
+fiftyTwoWeekLowChange: 3.869999
+fiftyTwoWeekLowChangePercent: 0.097407475
+fiftyTwoWeekRange: 39.73 - 53.48
+financialCurrency: EUR
+firstTradeDateMilliseconds: 663235200000
+fiveYearAvgDividendYield: 5.34
+floatShares: 200483073
+forwardEps: 3.86174
+forwardPE: 11.290247
+freeCashflow: 3032875008
+fullExchangeName: Paris
+fullTimeEmployees: 196184
+fulldayChange: -0.040000916
+fulldayChangePercent: -0.09164012
+fulldayPrice: 43.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.56909
+grossProfits: 32256999424
+hasPrePostMarketData: false
+heldPercentInsiders: 0.47195
+heldPercentInstitutions: 0.39446998
+impliedSharesOutstanding: 385371276
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777334400
+lastDividendValue: 2.1
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 962582400
+lastSplitFactor: '10:1'
+longBusinessSummary: Bouygues SA, together with its subsidiaries, operates in the
+  construction, energies and services, telecom, and media sectors in France and internationally.
+  It operates through Colas, Bouygues Construction, Bouygues Immobilier, Equans, Bouygues
+  Telecom, TF1, and Other segments. The company engages in the construction and maintenance
+  of roads; production, distribution, sale, and recycling of aggregates, emulsions,
+  asphalt mixes, ready-mix concrete, and bitumen; design, construction, upgrade, and
+  maintenance of rail networks; design, construction, refurbishment, and renovation
+  of buildings, as well as property development and consulting; public works, which
+  include civil engineering, bridges, nuclear power station, tunnels and underground
+  structures, prestressing, and stay cable systems; and concession activities. It
+  is also involved in property development of housing, offices, and hotels; urban
+  operations; design, building, management, and decarbonization of electrical installations;
+  mechanical and robotics; HVAC; cooling and fire protection; facility management
+  solutions, including technical services for installations; and digital technology
+  and ICT services. In addition, the company engages in the roll out, maintenance,
+  and management of mobile and fixed networks; B2C and B2B services; production, editing,
+  and broadcasting of televisual content; music production and live events; and creation
+  and distribution of programmes for TV channels and digital platforms. Further, it
+  operates unencrypted television channels comprising TF1, TMC, TFX, TF1 Séries Films,
+  and LCI; theme television channels consisting of Ushuaia TV, Histoire TV, TV Breizh,
+  and Série Club; TF1+, a free streaming platform for family entertainment and news;
+  TFOU MAX, an on-demand platform; and TF1 PUB, an advertising sales unit. The company
+  exports its products. Bouygues SA was founded in 1952 and is headquartered in Paris,
+  France.
+longName: Bouygues SA
+market: fr_market
+marketCap: 16802186240
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_953488
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 769000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 16520866602
+numberOfAnalystOpinions: 11
+open: 43.73
+operatingCashflow: 5449999872
+operatingMargins: 0.04065
+overallRisk: 8
+payoutRatio: 1.05
+pegRatio: 1.85
+phone: 33 1 44 20 10 00
+previousClose: 43.64
+priceEpsCurrentYear: 12.660396
+priceHint: 2
+priceToBook: 1.34191
+priceToSalesTrailing12Months: 0.29642895
+profitMargins: 0.0135699995
+quickRatio: 0.816
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.72727
+region: US
+regularMarketChange: -0.040000916
+regularMarketChangePercent: -0.09164012
+regularMarketDayHigh: 43.88
+regularMarketDayLow: 43.34
+regularMarketDayRange: 43.34 - 43.88
+regularMarketOpen: 43.73
+regularMarketPreviousClose: 43.64
+regularMarketPrice: 43.6
+regularMarketTime: 1794411523
+regularMarketVolume: 118014
+returnOnAssets: 0.02253
+returnOnEquity: 0.06046
+revenueGrowth: 0.024
+revenuePerShare: 146.358
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 385371276
+shortName: BOUYGUES
+sourceInterval: 15
+symbol: EN.PA
+targetHighPrice: 75.0
+targetLowPrice: 53.0
+targetMeanPrice: 59.14545
+targetMedianPrice: 57.0
+totalCash: 5885000192
+totalCashPerShare: 15.258
+totalDebt: 14896000000
+totalRevenue: 56682000384
+tradeable: false
+trailingAnnualDividendRate: 2.1
+trailingAnnualDividendYield: 0.048120987
+trailingEps: 2.0
+trailingPE: 21.8
+trailingPegRatio: 1.854
+triggerable: false
+twoHundredDayAverage: 47.5625
+twoHundredDayAverageChange: -3.9625015
+twoHundredDayAverageChangePercent: -0.08331146
+typeDisp: Equity
+volume: 118014
+website: https://www.bouygues.com
+zip: '75008'

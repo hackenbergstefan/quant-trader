@@ -1,0 +1,292 @@
+52WeekChange: 0.09238827
+SandP52WeekChange: 0.097798586
+address1: 2801 80th Street
+allTimeHigh: 423.02
+allTimeLow: 3.166667
+ask: 373.1
+askSize: 200
+auditRisk: 4
+averageDailyVolume10Day: 431940
+averageDailyVolume3Month: 337784
+averageVolume: 337784
+averageVolume10days: 431940
+beta: 0.746
+bid: 372.68
+bidSize: 120
+boardRisk: 8
+bookValue: 118.161
+city: Kenosha
+companyOfficers:
+- age: 78
+  exercisedValue: 25635576
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nicholas T. Pinchuk
+  title: Chairman, CEO & President
+  totalPay: 2144753
+  unexercisedValue: 87908064
+  yearBorn: 1947
+- age: 70
+  exercisedValue: 6985910
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Aldo J. Pagliari
+  title: Senior VP of Finance & CFO
+  totalPay: 983558
+  unexercisedValue: 25392036
+  yearBorn: 1955
+- age: 72
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas J. Ward
+  title: Senior VP and President of Repair Systems & Information Group
+  totalPay: 1034606
+  unexercisedValue: 1264039
+  yearBorn: 1953
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy L. Chambers
+  title: Senior VP & President of Snap-on Tools Group
+  totalPay: 765690
+  unexercisedValue: 13073874
+  yearBorn: 1965
+- age: 59
+  exercisedValue: 3463540
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jesus M. Arregui
+  title: Senior VP & President of Commercial Group
+  totalPay: 988399
+  unexercisedValue: 8301295
+  yearBorn: 1966
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bradley R. Lewis
+  title: Executive Vice President of Business Operations, Technology, Repair Systems
+    & Information Group
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. June C. Lemerand
+  title: VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sara M. Verbsky
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard Thomas Miller
+  title: VP, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Samuel E. Bottum
+  title: Chief Marketing Officer & VP
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: SNA announced a cash dividend of $2.75 with an ex-date of Nov. 20, 2026
+  meta:
+    amount: '2.75'
+    dateEpochMs: 1795150800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 373.35
+currentRatio: 3.545
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 373.47
+dayLow: 369.49
+debtToEquity: 21.379
+displayName: Snap-on
+dividendDate: 1796860800
+dividendRate: 9.76
+dividendYield: 2.61
+earningsCallTimestampEnd: 1792677600
+earningsCallTimestampStart: 1792677600
+earningsGrowth: -0.076
+earningsQuarterlyGrowth: -0.084
+earningsTimestamp: 1792672200
+earningsTimestampEnd: 1792672200
+earningsTimestampStart: 1792672200
+ebitda: 1409100032
+ebitdaMargins: 0.26762
+enterpriseToEbitda: 13.426
+enterpriseToRevenue: 3.593
+enterpriseValue: 18918043648
+epsCurrentYear: 19.20571
+epsForward: 20.8025
+epsTrailingTwelveMonths: 19.25
+esgPopulated: false
+exDividendDate: 1795132800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 368.0774
+fiftyDayAverageChange: 5.2726135
+fiftyDayAverageChangePercent: 0.014324741
+fiftyTwoWeekChangePercent: 9.238827
+fiftyTwoWeekHigh: 423.02
+fiftyTwoWeekHighChange: -49.669983
+fiftyTwoWeekHighChangePercent: -0.11741758
+fiftyTwoWeekLow: 320.8
+fiftyTwoWeekLowChange: 52.55002
+fiftyTwoWeekLowChangePercent: 0.16380928
+fiftyTwoWeekRange: 320.8 - 423.02
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 2.47
+floatShares: 50271585
+forwardEps: 20.8025
+forwardPE: 17.947363
+freeCashflow: 1093250048
+fullExchangeName: NYSE
+fullTimeEmployees: 13000
+fulldayChange: 0.070007324
+fulldayChangePercent: 0.01875464
+fulldayPrice: 373.35
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.5187
+grossProfits: 2731099904
+hasPrePostMarketData: true
+heldPercentInsiders: 0.02428
+heldPercentInstitutions: 1.00208
+impliedSharesOutstanding: 51581233
+industry: Tools & Accessories
+industryDisp: Tools & Accessories
+industryKey: tools-accessories
+irWebsite: http://www1.snapon.com/corporate/investorinformationmain.nws
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787097600
+lastDividendValue: 2.44
+lastFiscalYearEnd: 1767398400
+lastSplitDate: 842400000
+lastSplitFactor: '3:2'
+longBusinessSummary: Snap-on Incorporated manufactures and markets tools, equipment,
+  diagnostics, and repair information and systems solutions for professional users
+  worldwide. It operates through Commercial & Industrial Group, Snap-on Tools Group,
+  Repair Systems & Information Group, and Financial Services segments. The company
+  offers hand tools, such as wrenches, sockets, ratchet wrenches, pliers, screwdrivers,
+  punches and chisels, saws and cutting tools, pruning tools, torque tools, and other
+  similar products; power tools, including cordless, pneumatic, and hydraulic and
+  corded tools; impact wrenches, ratchets, screwdrivers, drills, sanders, and grinders.
+  It also provides tool chests and roll cabinet stool storage products; facility-level
+  tool control and asset management hardware and software; diagnostics, information,
+  and management systems product comprising handheld and computer-based diagnostic
+  products, service and repair information products, diagnostic software solutions,
+  electronic parts catalogs, business management systems and services, point-of-sale
+  systems, integrated systems for vehicle service shops, OEM purchasing facilitation
+  services, and warranty management systems and analytics to help OEM dealerships
+  manage and track performance. In addition, the company offers wheel alignment equipment,
+  wheel balancers, tire changers, vehicle lifts, test lane equipment, collision repair
+  equipment, vehicle air conditioning service equipment, brake service equipment,
+  fluid exchange equipment, transmission troubleshooting equipment, safety testing
+  equipment, battery chargers, and hoists; and training programs and after-sales support.
+  It serves the vehicle service and repair, and industrial sectors through mobile
+  van channel, company direct sales, distributors, and digital commerce. In addition,
+  it distributes and services vehicle collision equipment in Australia. Snap-on Incorporated
+  was incorporated in 1920 and is based in Kenosha, Wisconsin.
+longName: Snap-on Incorporated
+market: us_market
+marketCap: 19257853952
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_303646
+mostRecentQuarter: 1790985600
+netIncomeToCommon: 1011299968
+nextFiscalYearEnd: 1798934400
+nonDilutedMarketCap: 19254242654
+numberOfAnalystOpinions: 9
+open: 372.49
+operatingCashflow: 1156000000
+operatingMargins: 0.25066
+overallRisk: 6
+payoutRatio: 0.507
+pegRatio: 1.95
+phone: 262 656 5200
+previousClose: 373.28
+priceEpsCurrentYear: 19.439531
+priceHint: 2
+priceToBook: 3.159672
+priceToSalesTrailing12Months: 3.6575036
+profitMargins: 0.19207
+quickRatio: 2.574
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 0.070007324
+regularMarketChangePercent: 0.01875464
+regularMarketDayHigh: 373.47
+regularMarketDayLow: 369.49
+regularMarketDayRange: 369.49 - 373.47
+regularMarketOpen: 372.49
+regularMarketPreviousClose: 373.28
+regularMarketPrice: 373.35
+regularMarketTime: 1794413730
+regularMarketVolume: 64503
+returnOnAssets: 0.096949995
+returnOnEquity: 0.17323999
+revenueGrowth: -0.007
+revenuePerShare: 101.736
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 8
+sharesOutstanding: 51581233
+sharesPercentSharesOut: 0.0769
+sharesShort: 3965844
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3654235
+shortName: Snap-On Incorporated
+shortPercentOfFloat: 0.090299994
+shortRatio: 9.68
+sourceInterval: 15
+state: WI
+symbol: SNA
+targetHighPrice: 485.0
+targetLowPrice: 340.0
+targetMeanPrice: 404.1111
+targetMedianPrice: 405.0
+totalCash: 1669600000
+totalCashPerShare: 32.368
+totalDebt: 1308400000
+totalRevenue: 5265299968
+tradeable: false
+trailingAnnualDividendRate: 9.76
+trailingAnnualDividendYield: 0.026146593
+trailingEps: 19.25
+trailingPE: 19.394806
+trailingPegRatio: 1.9504
+triggerable: true
+twoHundredDayAverage: 380.27634
+twoHundredDayAverageChange: -6.9263306
+twoHundredDayAverageChangePercent: -0.01821394
+typeDisp: Equity
+volume: 64503
+website: https://www.snapon.com
+zip: '53143'

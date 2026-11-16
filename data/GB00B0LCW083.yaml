@@ -1,0 +1,253 @@
+52WeekChange: 0.023944497
+SandP52WeekChange: 0.097798586
+address1: 10 Portman Square
+allTimeHigh: 2768.0
+allTimeLow: 225.0
+ask: 1649.0
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 610342
+averageDailyVolume3Month: 620475
+averageVolume: 620475
+averageVolume10days: 610342
+beta: 0.624
+bid: 1647.0
+bidSize: 0
+boardRisk: 4
+bookValue: 8.700034
+city: London
+companyOfficers:
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: H.E Said  Darwazah
+  title: Chief Executive Officer
+  totalPay: 1616466
+  unexercisedValue: 0
+  yearBorn: 1957
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mazen Samih Taleb Darwazeh
+  title: Executive Vice Chairman & Deputy CEO of MENA
+  totalPay: 1652687
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Khalid Walid Hussni Al Nabilsi CPA
+  title: Deputy CEO of North America and Europe & Director
+  totalPay: 32507
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Areb  AL KURDI
+  title: VP, Group Financial Controller & Acting CFO
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Patricia  Bousfield
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Guy  Featherstone
+  title: Associate Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Samuel  Park
+  title: General Counsel
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bassam Wael Rushdi Kanaan CFA, CPA
+  title: Executive Vice President of Corporate Development and M&A
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hussein Omar Arkhagha
+  title: Chief People Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Susan  Ringdal
+  title: Executive Vice President of Strategic Planning & Global Affairs
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 1648.0
+currentRatio: 1.981
+customPriceAlertConfidence: LOW
+dayHigh: 1651.0
+dayLow: 1608.0
+debtToEquity: 77.108
+dividendRate: 0.64
+dividendYield: 3.96
+earningsCallTimestampEnd: 1786005000
+earningsCallTimestampStart: 1786005000
+earningsGrowth: -0.047
+earningsQuarterlyGrowth: -0.063
+earningsTimestampEnd: 1786030200
+earningsTimestampStart: 1786030200
+ebitda: 879000000
+ebitdaMargins: 0.25709
+enterpriseToEbitda: 5.917
+enterpriseToRevenue: 1.521
+enterpriseValue: 5201203712
+epsCurrentYear: 2.30066
+epsForward: 1.8458587
+epsTrailingTwelveMonths: 1.31
+esgPopulated: false
+exDividendDate: 1786579200
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 1628.14
+fiftyDayAverageChange: 19.859985
+fiftyDayAverageChangePercent: 0.012197959
+fiftyTwoWeekChangePercent: 2.3944497
+fiftyTwoWeekHigh: 1762.0
+fiftyTwoWeekHighChange: -114.0
+fiftyTwoWeekHighChangePercent: -0.0646992
+fiftyTwoWeekLow: 1187.0
+fiftyTwoWeekLowChange: 461.0
+fiftyTwoWeekLowChangePercent: 0.38837406
+fiftyTwoWeekRange: 1187.0 - 1762.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 1130832000000
+fiveYearAvgDividendYield: 2.84
+floatShares: 145378679
+forwardEps: 1.8458587
+forwardPE: 8.928094
+freeCashflow: 14375000
+fullExchangeName: LSE
+fullTimeEmployees: 9500
+fulldayChange: 23.0
+fulldayChangePercent: 1.4153847
+fulldayPrice: 1648.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.44048
+grossProfits: 1506000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.32356998
+heldPercentInstitutions: 0.40986001
+impliedSharesOutstanding: 206968092
+industry: Drug Manufacturers - Specialty & Generic
+industryDisp: Drug Manufacturers - Specialty & Generic
+industryKey: drug-manufacturers-specialty-generic
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786579200
+lastDividendValue: 0.2909
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Hikma Pharmaceuticals PLC develops, manufactures, markets, and
+  sells a range of generic, specialty, and branded pharmaceutical products. The company
+  operates through three segments: Injectables, Hikma Rx, and Branded. The Injectables
+  segment provides generic and specialty injectable products primarily for use in
+  hospitals. The Branded segment offers branded generics and in-licensed products
+  to retail and hospital markets. The Hikma Rx segment offers oral, respiratory, and
+  other generic and specialty products for the retail market. It provides its products
+  in various therapeutic areas, including respiratory, oncology, and pain management.
+  The company also offers its products in solid, semi-solid, liquid, and injectable
+  dosage forms. It operates in the United Kingdom, Europe, North America, the Middle
+  East, North Africa, and internationally. Hikma Pharmaceuticals PLC was founded in
+  1978 and is headquartered in London, United Kingdom.'
+longName: Hikma Pharmaceuticals PLC
+market: gb_market
+marketCap: 3410834176
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_23049465
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 387000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 3363231495
+numberOfAnalystOpinions: 12
+open: 1612.0
+operatingCashflow: 489000000
+operatingMargins: 0.19889
+overallRisk: 3
+payoutRatio: 0.4732
+pegRatio: 1.71
+phone: 44 20 7399 2760
+previousClose: 1625.0
+priceEpsCurrentYear: 716.3162
+priceHint: 2
+priceToBook: 1.8942455
+priceToSalesTrailing12Months: 0.99761164
+profitMargins: 0.11319
+quickRatio: 1.018
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.41667
+region: US
+regularMarketChange: 23.0
+regularMarketChangePercent: 1.4153847
+regularMarketDayHigh: 1651.0
+regularMarketDayLow: 1608.0
+regularMarketDayRange: 1608.0 - 1651.0
+regularMarketOpen: 1612.0
+regularMarketPreviousClose: 1625.0
+regularMarketPrice: 1648.0
+regularMarketTime: 1794411570
+regularMarketVolume: 749908
+returnOnAssets: 0.07467
+returnOnEquity: 0.15406
+revenueGrowth: 0.042
+revenuePerShare: 15.637
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 206968092
+shortName: HIKMA PHARMACEUTICALS PLC ORD S
+sourceInterval: 15
+symbol: HIK.L
+targetHighPrice: 2663.6165
+targetLowPrice: 1711.3158
+targetMeanPrice: 2004.3833
+targetMedianPrice: 1978.3309
+totalCash: 289000000
+totalCashPerShare: 1.335
+totalDebt: 1956999936
+totalRevenue: 3419000064
+tradeable: false
+trailingAnnualDividendRate: 0.86
+trailingAnnualDividendYield: 0.0005292308
+trailingEps: 1.31
+trailingPE: 12.5801525
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 1506.5774
+twoHundredDayAverageChange: 141.4226
+twoHundredDayAverageChangePercent: 0.093870126
+typeDisp: Equity
+volume: 749908
+website: https://www.hikma.com
+zip: W1H 6AZ

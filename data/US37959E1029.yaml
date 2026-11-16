@@ -1,0 +1,278 @@
+52WeekChange: 0.22012389
+SandP52WeekChange: 0.097798586
+address1: 7677 Henneman Way
+allTimeHigh: 191.55
+allTimeLow: 2.518519
+ask: 161.45
+askSize: 100
+auditRisk: 2
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 547110
+averageDailyVolume3Month: 506107
+averageVolume: 506107
+averageVolume10days: 547110
+beta: 0.461
+bid: 161.1
+bidSize: 100
+boardRisk: 5
+bookValue: 87.013
+city: McKinney
+companyOfficers:
+- age: 63
+  exercisedValue: 4317678
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank Martin Svoboda
+  title: Co-Chairman & Co-CEO
+  totalPay: 2714109
+  unexercisedValue: 8945413
+  yearBorn: 1962
+- age: 54
+  exercisedValue: 2608507
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James Matthew Darden
+  title: Co-Chairman & Co-CEO
+  totalPay: 2723267
+  unexercisedValue: 6823663
+  yearBorn: 1971
+- age: 60
+  exercisedValue: 1408248
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas Peter Kalmbach
+  title: Executive VP & CFO
+  totalPay: 1376294
+  unexercisedValue: 2979044
+  yearBorn: 1965
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert Edward Hensley
+  title: Executive VP & Chief Investment Officer
+  totalPay: 1014513
+  unexercisedValue: 1377309
+  yearBorn: 1968
+- age: 61
+  exercisedValue: 4286612
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert Brian Mitchell J.D.
+  title: Executive VP, General Counsel & Chief Risk Officer
+  totalPay: 1022516
+  unexercisedValue: 1074930
+  yearBorn: 1964
+- age: 62
+  exercisedValue: 366729
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Clay Majors
+  title: Executive VP & Chief Strategy Officer
+  totalPay: 952417
+  unexercisedValue: 4184844
+  yearBorn: 1963
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. M. Shane Henrie
+  title: Corporate Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher Kyle Tyler
+  title: Executive VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Dolores L. Skarjune
+  title: Executive VP & Chief Administrative Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephen  Mota
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 161.3
+currentRatio: 0.684
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 163.73
+dayLow: 160.85
+debtToEquity: 52.087
+displayName: Globe Life
+dividendDate: 1801440000
+dividendRate: 1.32
+dividendYield: 0.81
+earningsCallTimestampEnd: 1792681200
+earningsCallTimestampStart: 1792681200
+earningsGrowth: -0.023
+earningsQuarterlyGrowth: -0.069
+earningsTimestamp: 1792612800
+earningsTimestampEnd: 1792612800
+earningsTimestampStart: 1792612800
+ebitda: 1652884992
+ebitdaMargins: 0.26341
+enterpriseToEbitda: 9.333
+enterpriseToRevenue: 2.458
+enterpriseValue: 15425601536
+epsCurrentYear: 15.48834
+epsForward: 16.37862
+epsTrailingTwelveMonths: 14.94
+esgPopulated: false
+exDividendDate: 1799366400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 972 569 3282
+fiftyDayAverage: 166.453
+fiftyDayAverageChange: -5.153
+fiftyDayAverageChangePercent: -0.030957686
+fiftyTwoWeekChangePercent: 22.012388
+fiftyTwoWeekHigh: 191.55
+fiftyTwoWeekHighChange: -30.25
+fiftyTwoWeekHighChangePercent: -0.15792221
+fiftyTwoWeekLow: 129.21
+fiftyTwoWeekLowChange: 32.089996
+fiftyTwoWeekLowChangePercent: 0.24835534
+fiftyTwoWeekRange: 129.21 - 191.55
+financialCurrency: USD
+firstTradeDateMilliseconds: 339255000000
+fiveYearAvgDividendYield: 0.79
+floatShares: 74756252
+forwardEps: 16.37862
+forwardPE: 9.848205
+freeCashflow: 1490551680
+fullExchangeName: NYSE
+fullTimeEmployees: 3695
+fulldayChange: -2.1600037
+fulldayChangePercent: -1.320215
+fulldayPrice: 161.3
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.33099
+grossProfits: 2076946944
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0069700005
+heldPercentInstitutions: 0.90713996
+impliedSharesOutstanding: 75439736
+industry: Insurance - Life
+industryDisp: Insurance - Life
+industryKey: insurance-life
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791158400
+lastDividendValue: 0.33
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1404259200
+lastSplitFactor: '3:2'
+longBusinessSummary: 'Globe Life Inc., through its subsidiaries, provides various
+  life and supplemental health insurance products to lower middle- and middle-income
+  families in the United States. It operates in three segments: Life Insurance, Supplemental
+  Health Insurance, and Investments. The company offers whole, term, and other life
+  insurance products, as well as life insurance for children; Medicare supplement
+  and limited-benefit supplemental health insurance products, such as accident, cancer,
+  critical illness, heart, intensive care, and other health products; and final expense,
+  accidental death, mortgage protection, and hospital insurance products. It sells
+  its products through direct-to-consumer channels, exclusive independent agents,
+  general agency independent agents, and brokers. The company was formerly known as
+  Torchmark Corporation and changed its name to Globe Life Inc. in August 2019. Globe
+  Life Inc. was founded in 1900 and is headquartered in McKinney, Texas.'
+longName: Globe Life Inc.
+market: us_market
+marketCap: 12168429568
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_308916
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1185463040
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 12331379246
+numberOfAnalystOpinions: 11
+open: 163.39
+operatingCashflow: 1411364992
+operatingMargins: 0.25827
+overallRisk: 5
+payoutRatio: 0.084300004
+pegRatio: 1.3
+phone: 972 569 4000
+previousClose: 163.46
+priceEpsCurrentYear: 10.414286
+priceHint: 2
+priceToBook: 1.853746
+priceToSalesTrailing12Months: 1.9392207
+profitMargins: 0.18892
+quickRatio: 0.533
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -2.1600037
+regularMarketChangePercent: -1.320215
+regularMarketDayHigh: 163.73
+regularMarketDayLow: 160.85
+regularMarketDayRange: 160.85 - 163.73
+regularMarketOpen: 163.39
+regularMarketPreviousClose: 163.46
+regularMarketPrice: 161.3
+regularMarketTime: 1794413741
+regularMarketVolume: 69689
+returnOnAssets: 0.03316
+returnOnEquity: 0.19264
+revenueGrowth: 0.055
+revenuePerShare: 80.452
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 3
+sharesOutstanding: 75439736
+sharesPercentSharesOut: 0.0005
+sharesShort: 34293
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2142165
+shortName: Globe Life Inc.
+shortPercentOfFloat: 0.0005
+shortRatio: 0.06
+sourceInterval: 15
+state: TX
+symbol: GL
+targetHighPrice: 215.0
+targetLowPrice: 161.0
+targetMeanPrice: 185.18182
+targetMedianPrice: 182.0
+totalCash: 353164992
+totalCashPerShare: 4.681
+totalDebt: 3447386880
+totalRevenue: 6274907136
+tradeable: false
+trailingAnnualDividendRate: 1.26
+trailingAnnualDividendYield: 0.0077083074
+trailingEps: 14.94
+trailingPE: 10.79652
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 160.4671
+twoHundredDayAverageChange: 0.832901
+twoHundredDayAverageChangePercent: 0.005190478
+typeDisp: Equity
+volume: 69689
+website: https://home.globelifeinsurance.com
+zip: '75070'

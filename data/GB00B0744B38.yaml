@@ -1,0 +1,264 @@
+52WeekChange: 0.2738626
+SandP52WeekChange: 0.097798586
+address1: York House
+address2: 45 Seymour Street
+allTimeHigh: 3732.0
+allTimeLow: 56.0456
+ask: 2882.0
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.9 - Hold
+averageDailyVolume10Day: 767839
+averageDailyVolume3Month: 1233764
+averageVolume: 1233764
+averageVolume10days: 767839
+beta: 0.332
+bid: 2878.0
+bidSize: 0
+boardRisk: 2
+bookValue: 8.815
+city: London
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank Andre Van Zanten M.B.A.
+  title: CEO & Executive Director
+  totalPay: 2079500
+  unexercisedValue: 165577
+  yearBorn: 1967
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard David Howes
+  title: CFO & Executive Director
+  totalPay: 1182600
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark P. Jordan
+  title: Group Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sunita Charlotte Entwisle
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Suzanne Isabel Jefferies
+  title: Group General Counsel
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew John Mooney
+  title: Director of Corporate Development
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Diana Jane Breeze
+  title: Director of Group Human Resources
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathan  Taylor
+  title: Managing Director of Latin America
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James  McCool
+  title: Chief Executive Officer of North America
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alberto  Grau
+  title: Managing Director of Continental Europe
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: BNZL.L announced a cash dividend of GBp 0.208 with an ex-date of Nov. 12,
+    2026
+  meta:
+    amount: '0.208'
+    dateEpochMs: 1794441600000
+    eventType: DIVIDEND
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 2880.0
+currentRatio: 1.377
+customPriceAlertConfidence: LOW
+dayHigh: 2888.0
+dayLow: 2846.0
+debtToEquity: 97.83
+dividendRate: 0.74
+dividendYield: 2.59
+earningsCallTimestampEnd: 1788251400
+earningsCallTimestampStart: 1788251400
+earningsGrowth: 0.182
+earningsQuarterlyGrowth: 0.162
+earningsTimestamp: 1788276600
+earningsTimestampEnd: 1788276600
+earningsTimestampStart: 1788276600
+ebitda: 990099968
+ebitdaMargins: 0.08238
+enterpriseToEbitda: 11.478
+enterpriseToRevenue: 0.946
+enterpriseValue: 11364540416
+epsCurrentYear: 1.87288
+epsForward: 1.9751
+epsTrailingTwelveMonths: 1.51
+esgPopulated: false
+exDividendDate: 1794441600
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 2723.04
+fiftyDayAverageChange: 156.95996
+fiftyDayAverageChangePercent: 0.057641443
+fiftyTwoWeekChangePercent: 27.386261
+fiftyTwoWeekHigh: 2942.0
+fiftyTwoWeekHighChange: -62.0
+fiftyTwoWeekHighChangePercent: -0.0210741
+fiftyTwoWeekLow: 1981.0
+fiftyTwoWeekLowChange: 899.0
+fiftyTwoWeekLowChangePercent: 0.4538112
+fiftyTwoWeekRange: 1981.0 - 2942.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 2.27
+floatShares: 316822175
+forwardEps: 1.9751
+forwardPE: 14.581539
+freeCashflow: 701812480
+fullExchangeName: LSE
+fullTimeEmployees: 26777
+fulldayChange: 24.0
+fulldayChangePercent: 0.84033614
+fulldayPrice: 2880.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.28736
+grossProfits: 3453799936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.01313
+heldPercentInstitutions: 0.75448996
+impliedSharesOutstanding: 311781908
+industry: Specialty Business Services
+industryDisp: Specialty Business Services
+industryKey: specialty-business-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794441600
+lastDividendValue: 0.208
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1118016000
+lastSplitFactor: '7:9'
+longBusinessSummary: Bunzl plc operates as a distribution and services company in
+  the North America, Continental Europe, the United Kingdom, Ireland, and internationally.
+  It provides personal protection and safety equipment, including gloves, boots, hard
+  hats, ear and eye protection, other workwear, as well as cleaning and hygiene supplies
+  and asset protection products; and healthcare consumables, such as gloves, masks,
+  swabs, gowns, bandages, healthcare devices, and other healthcare related equipment.
+  The company also offers cleaning and hygiene materials comprising chemicals and
+  hygiene paper; goods-not-for-resale, including food packaging, films, labels, and
+  other store supplies; non-food consumables, such as food packaging, disposable tableware,
+  guest amenities, catering equipment, and agricultural supplies; and other products.
+  It serves its products to industrial, construction, e-commerce, hospitals, care
+  homes and other facilities serving the healthcare, public sector customers, grocery
+  stores, supermarkets, convenience stores, hotels, restaurants, contract caterers,
+  food processors, commercial growers, leisure, retail customers, and office supply
+  companies. Bunzl plc was founded in 1854 and is based in London, the United Kingdom.
+longName: Bunzl plc
+market: gb_market
+marketCap: 8979319808
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_410348
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 488600000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 8904491292
+numberOfAnalystOpinions: 18
+open: 2852.0
+operatingCashflow: 996700032
+operatingMargins: 0.06606
+overallRisk: 1
+payoutRatio: 0.4907
+pegRatio: 2.13
+phone: 44 20 7725 5000
+previousClose: 2856.0
+priceEpsCurrentYear: 1537.7386
+priceHint: 2
+priceToBook: 3.2671585
+priceToSalesTrailing12Months: 0.7471
+profitMargins: 0.04065
+quickRatio: 0.801
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.94444
+region: US
+regularMarketChange: 24.0
+regularMarketChangePercent: 0.84033614
+regularMarketDayHigh: 2888.0
+regularMarketDayLow: 2846.0
+regularMarketDayRange: 2846.0 - 2888.0
+regularMarketOpen: 2852.0
+regularMarketPreviousClose: 2856.0
+regularMarketPrice: 2880.0
+regularMarketTime: 1794411560
+regularMarketVolume: 122812
+returnOnAssets: 0.058390003
+returnOnEquity: 0.18155001
+revenueGrowth: 0.03
+revenuePerShare: 37.337
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 311781908
+shortName: BUNZL PLC ORD 32 1/7P
+sourceInterval: 15
+symbol: BNZL.L
+targetHighPrice: 3600.0
+targetLowPrice: 2050.0
+targetMeanPrice: 2815.222
+targetMedianPrice: 2905.0
+totalCash: 598099968
+totalCashPerShare: 1.86
+totalDebt: 2776499968
+totalRevenue: 12018899968
+tradeable: false
+trailingAnnualDividendRate: 0.747
+trailingAnnualDividendYield: 0.0002615546
+trailingEps: 1.51
+trailingPE: 19.072847
+trailingPegRatio: 2.1431
+triggerable: false
+twoHundredDayAverage: 2524.0198
+twoHundredDayAverageChange: 355.98022
+twoHundredDayAverageChangePercent: 0.14103702
+typeDisp: Equity
+volume: 122812
+website: https://www.bunzl.com
+zip: W1H 7JT

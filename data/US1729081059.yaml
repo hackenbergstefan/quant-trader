@@ -1,0 +1,267 @@
+52WeekChange: 0.21588945
+SandP52WeekChange: 0.097798586
+address1: 6800 Cintas Boulevard
+address2: P.O. Box 625737
+allTimeHigh: 233.46
+allTimeLow: 0.237847
+ask: 243.96
+askSize: 2
+auditRisk: 7
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 1998600
+averageDailyVolume3Month: 1930062
+averageVolume: 1930062
+averageVolume10days: 1998600
+beta: 0.857
+bid: 207.46
+bidSize: 2
+boardRisk: 10
+bookValue: 13.027
+city: Cincinnati
+companyOfficers:
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Scott D. Farmer
+  title: Executive Chairman
+  totalPay: 813307
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 57
+  exercisedValue: 6865041
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Todd M. Schneider
+  title: CEO & Director
+  totalPay: 4269688
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 47
+  exercisedValue: 6226693
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. James N. Rozakis
+  title: President & COO
+  totalPay: 2433275
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Scott A. Garula
+  title: Executive VP & CFO
+  totalPay: 1855539
+  unexercisedValue: 3661362
+  yearBorn: 1972
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. David Brock Denton
+  title: Executive VP, Secretary & General Counsel
+  totalPay: 1521056
+  unexercisedValue: 1350427
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jared S. Mattingley
+  title: VP, Treasurer, Investor Relations & Corporate Controller
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Max  Langenkamp
+  title: Senior Vice President of Human Resources
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. William L. Cronin
+  title: Senior VP & Assistant to CEO
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: CTAS announced a cash dividend of $0.52 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.52'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 224.5725
+currentRatio: 1.454
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 225.87
+dayLow: 223.97
+debtToEquity: 52.096
+displayName: Cintas
+dividendDate: 1797292800
+dividendRate: 2.08
+dividendYield: 0.92
+earningsCallTimestampEnd: 1790172000
+earningsCallTimestampStart: 1790172000
+earningsGrowth: 0.133
+earningsQuarterlyGrowth: 0.123
+earningsTimestamp: 1790166600
+earningsTimestampEnd: 1797514200
+earningsTimestampStart: 1797514200
+ebitda: 3104722944
+ebitdaMargins: 0.26856002
+enterpriseToEbitda: 29.568
+enterpriseToRevenue: 7.941
+enterpriseValue: 91799871488
+epsCurrentYear: 5.54025
+epsForward: 6.16096
+epsTrailingTwelveMonths: 5.07
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 207.3124
+fiftyDayAverageChange: 17.260101
+fiftyDayAverageChangePercent: 0.08325648
+fiftyTwoWeekChangePercent: 21.588945
+fiftyTwoWeekHigh: 233.46
+fiftyTwoWeekHighChange: -8.887512
+fiftyTwoWeekHighChangePercent: -0.03806867
+fiftyTwoWeekLow: 161.16
+fiftyTwoWeekLowChange: 63.41249
+fiftyTwoWeekLowChangePercent: 0.39347535
+fiftyTwoWeekRange: 161.16 - 233.46
+financialCurrency: USD
+firstTradeDateMilliseconds: 430147800000
+fiveYearAvgDividendYield: 0.85
+floatShares: 339066393
+forwardEps: 6.16096
+forwardPE: 36.450893
+freeCashflow: 1743985280
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 48100
+fulldayChange: -0.7075043
+fulldayChangePercent: -0.31405553
+fulldayPrice: 224.5725
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.50990003
+grossProfits: 5894774784
+hasPrePostMarketData: true
+heldPercentInsiders: 0.14545
+heldPercentInstitutions: 0.70382005
+impliedSharesOutstanding: 397075093
+industry: Specialty Business Services
+industryDisp: Specialty Business Services
+industryKey: specialty-business-services
+irWebsite: http://www.cintas.com/company/investor_information/highlights.aspx
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.52
+lastFiscalYearEnd: 1780185600
+lastSplitDate: 1726099200
+lastSplitFactor: '4:1'
+longBusinessSummary: Cintas Corporation provides corporate identity uniforms and other
+  garments in the United States, Canada, and Latin America. It operates through Uniform
+  Rental and Facility Services, First Aid and Safety Services, and All Other segments.
+  The company offers rental and servicing of uniforms and other garments, including
+  flame resistant clothing, mats, mops and shop towels, and other ancillary items.
+  It also provides restroom cleaning services and supplies; and sells uniforms from
+  catalogs. In addition, the company offers first aid and safety products and services;
+  workplace water services; and fire protection products and services. Further, it
+  provides automated external defibrillators; eye-wash stations; safety training;
+  fire extinguishers; sprinkler systems; and alarm services. The company sells its
+  products and services through its distribution network and local delivery routes,
+  or local representatives to small service and manufacturing companies, as well as
+  major corporations. It serves gaming, hospitality, healthcare, automotive, government,
+  education, pharmaceutical, manufacturing, skilled trades, and food processing industries.
+  The company was founded in 1929 and is based in Cincinnati, Ohio.
+longName: Cintas Corporation
+market: us_market
+marketCap: 89172148224
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_260725
+mostRecentQuarter: 1788134400
+netIncomeToCommon: 2054306944
+nextFiscalYearEnd: 1811721600
+nonDilutedMarketCap: 89453076951
+numberOfAnalystOpinions: 16
+open: 224.28
+operatingCashflow: 2434129920
+operatingMargins: 0.23615
+overallRisk: 9
+payoutRatio: 0.3688
+pegRatio: 3.5
+phone: 513 459 1200
+previousClose: 225.28
+priceEpsCurrentYear: 40.534725
+priceHint: 2
+priceToBook: 17.239002
+priceToSalesTrailing12Months: 7.71344
+profitMargins: 0.17824
+quickRatio: 0.722
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.2
+region: US
+regularMarketChange: -0.7075043
+regularMarketChangePercent: -0.31405553
+regularMarketDayHigh: 225.87
+regularMarketDayLow: 223.97
+regularMarketDayRange: 223.97 - 225.87
+regularMarketOpen: 224.28
+regularMarketPreviousClose: 225.28
+regularMarketPrice: 224.5725
+regularMarketTime: 1794413717
+regularMarketVolume: 245010
+returnOnAssets: 0.16655001
+returnOnEquity: 0.41375
+revenueGrowth: 0.109
+revenuePerShare: 28.867
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 9
+sharesOutstanding: 397075093
+sharesPercentSharesOut: 0.0256
+sharesShort: 10174470
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 12511023
+shortName: Cintas Corporation
+shortPercentOfFloat: 0.0344
+shortRatio: 5.32
+sourceInterval: 15
+state: OH
+symbol: CTAS
+targetHighPrice: 250.0
+targetLowPrice: 181.0
+targetMeanPrice: 218.4375
+targetMedianPrice: 224.5
+totalCash: 364579008
+totalCashPerShare: 0.918
+totalDebt: 2711374080
+totalRevenue: 11560620032
+tradeable: false
+trailingAnnualDividendRate: 1.87
+trailingAnnualDividendYield: 0.008300781
+trailingEps: 5.07
+trailingPE: 44.294376
+trailingPegRatio: 3.4978
+triggerable: true
+twoHundredDayAverage: 191.3253
+twoHundredDayAverageChange: 33.247192
+twoHundredDayAverageChangePercent: 0.17377311
+typeDisp: Equity
+volume: 245010
+website: https://www.cintas.com
+zip: 45262-5737

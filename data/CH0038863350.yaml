@@ -1,0 +1,277 @@
+52WeekChange: 0.058297634
+SandP52WeekChange: 0.097798586
+address1: Avenue Nestlé 55
+allTimeHigh: 129.8
+allTimeLow: 6.62
+ask: 85.78
+askSize: 0
+auditRisk: 8
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 3880143
+averageDailyVolume3Month: 3236101
+averageVolume: 3236101
+averageVolume10days: 3880143
+beta: 0.477
+bid: 85.77
+bidSize: 0
+boardRisk: 3
+bookValue: 11.36
+city: Vevey
+companyOfficers:
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philipp  Navratil
+  title: CEO & Member of the Executive Board
+  totalPay: 3271109
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anna Olive Magdelene Manz
+  title: Executive VP, CFO & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Palzer
+  title: Executive VP, CTO & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Leanne D. Geale
+  title: Executive VP, Group General Counsel & Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Rennie
+  title: Executive VP, Head of Strategic Business Units, Marketing & Sales and Member
+    of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Remy  Ejel
+  title: Executive VP, CEO of Zone Asia, Oceania & Africa and Member of Executive
+    Board
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stephanie Pullings Hart
+  title: Executive VP, COO & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Guillaume  Le Cunff
+  title: Executive VP, CEO of Zone Europe & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anna  Lenz
+  title: Executive VP, Global Head of Human Resources & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeff  Hamilton
+  title: Executive VP, CEO of Zone Americas (AMS) & Member of Executive Board
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 85.78
+currentRatio: 0.83
+customPriceAlertConfidence: LOW
+dayHigh: 86.62
+dayLow: 85.62
+debtToEquity: 213.005
+dividendDate: 1745452800
+dividendRate: 3.1
+dividendYield: 3.59
+earningsCallTimestampEnd: 1784791800
+earningsCallTimestampStart: 1784791800
+earningsGrowth: -0.315
+earningsQuarterlyGrowth: -0.315
+earningsTimestampEnd: 1771518600
+earningsTimestampStart: 1771518600
+ebitda: 16458999808
+ebitdaMargins: 0.18540001
+enterpriseToEbitda: 16.971
+enterpriseToRevenue: 3.146
+enterpriseValue: 279317938176
+epsCurrentYear: 4.52287
+epsForward: 4.76536
+epsTrailingTwelveMonths: 2.89
+esgPopulated: false
+exDividendDate: 1776643200
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 79.796
+fiftyDayAverageChange: 5.984001
+fiftyDayAverageChangePercent: 0.07499124
+fiftyTwoWeekChangePercent: 5.8297634
+fiftyTwoWeekHigh: 87.54
+fiftyTwoWeekHighChange: -1.7600021
+fiftyTwoWeekHighChangePercent: -0.02010512
+fiftyTwoWeekLow: 70.29
+fiftyTwoWeekLowChange: 15.489998
+fiftyTwoWeekLowChangePercent: 0.2203727
+fiftyTwoWeekRange: 70.29 - 87.54
+financialCurrency: CHF
+firstTradeDateMilliseconds: 631353600000
+fiveYearAvgDividendYield: 3.07
+floatShares: 2572974270
+forwardEps: 4.76536
+forwardPE: 18.000738
+freeCashflow: 4374249984
+fullExchangeName: Swiss
+fullTimeEmployees: 271000
+fulldayChange: -0.6300049
+fulldayChangePercent: -0.7290879
+fulldayPrice: 85.78
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.45701998
+grossProfits: 40571998208
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00018999999
+heldPercentInstitutions: 0.47457
+impliedSharesOutstanding: 2572220000
+industry: Packaged Foods
+industryDisp: Packaged Foods
+industryKey: packaged-foods
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776643200
+lastDividendValue: 3.1
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1214784000
+lastSplitFactor: '10:1'
+longBusinessSummary: Nestlé S.A., together with its subsidiaries, manufactures and
+  distributes food and beverage, and nutritional science products in the United States,
+  Brazil, Mexico, Greater China, the Philippines, India, the United Kingdom, France,
+  Germany, Switzerland, and internationally. The company offers cereals, chocolate
+  and confectionery, coffee, culinary, chilled and frozen food, dairy, drinks, food
+  service, ice cream, nutrition and health, petcare, water, plant-based portfolio,
+  and recipe products. It sells its products under the Nesquik Cereal, Fitness, Cheerios,
+  Lion Cereals, Cini Minis, KitKat Cereal, Chocapic, Koko Krunch, Shreddies, Shredded
+  Wheat Original, Corn Flakes, Trix Cereal, Aero, Baci Perugina, KitKat, Milkybar,
+  Smarties, Cailler, Quality Street, Garoto, Nestlé Toll House, Munch, Damak, Hsu
+  Fu Chi, Sahne Nuss, Nestlé Sustainably Sourced Cocoa, Blue Bottle Coffee, Nescafé,
+  Nescafé Dolce Gusto, Nespresso, Starbucks Coffee At Home, DiGiorno, Garden Gourmet,
+  Maggi, Thomy, Stouffer's, Hot Pockets, Lean Cuisine, Life Cuisine, Buitoni, Nestlé
+  carnation, Nestlé Coffee Mate, and Nestea brands. The company also offers its products
+  under the Roastelier by Nescafé, Plant-based and so good!, Milo, Chef, Maggi Professional,
+  La Lechera, Minor's, Antica Gelateria Del Corso, Drumstick, Extrême, Häagen-Dazs,
+  Maxibon, Mövenpick, Nancare, Gerber, Cerelac, Nestum, Alfaré HMO, Athéra HMO, Alfamino
+  HMO, Bear Brand, Nido, Orgain, Nestlé Vital, Garden of Life, Pure Encapsulations,
+  Solgar, Compleat, Impact, Peptamen, Vitaflo, Resource, Cat Chow, Dentalife, Dog
+  Chow, Fancy Feast, Felix, Friskies, Gourmet, Purina, Purina ONE, Purina Pro Plan,
+  Purina Pro Plan Veterinary Diets, Acqua Panna, Nestlé Pure Life, Perrier, S.Pellegrino,
+  Sanpellegrino, Buxton, Erikli, Levissima, Vittel, Contrex, HENNIEZ, Hépar, La Vie,
+  Naleczowianka, and Essentia brands. The company was founded in 1866 and is headquartered
+  in Vevey, Switzerland. Aimmune Therapeutics, Inc. operates as a subsidiary of Nestlé
+  S.A.
+longName: Nestlé S.A.
+market: ch_market
+marketCap: 220645015552
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_31973
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 7440000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 222265530200
+numberOfAnalystOpinions: 22
+open: 86.12
+operatingCashflow: 16373000192
+operatingMargins: 0.15484
+overallRisk: 2
+payoutRatio: 1.0727
+pegRatio: 2.14
+phone: 41 21 924 1111
+previousClose: 86.41
+priceEpsCurrentYear: 18.965834
+priceHint: 2
+priceToBook: 7.5510564
+priceToSalesTrailing12Months: 2.485441
+profitMargins: 0.083809994
+quickRatio: 0.384
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.18182
+region: US
+regularMarketChange: -0.6300049
+regularMarketChangePercent: -0.7290879
+regularMarketDayHigh: 86.62
+regularMarketDayLow: 85.62
+regularMarketDayRange: 85.62 - 86.62
+regularMarketOpen: 86.12
+regularMarketPreviousClose: 86.41
+regularMarketPrice: 85.78
+regularMarketTime: 1794411572
+regularMarketVolume: 1484054
+returnOnAssets: 0.06647
+returnOnEquity: 0.26244
+revenueGrowth: -0.025
+revenuePerShare: 34.503
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 9
+sharesOutstanding: 2572220000
+shortName: NESTLE N
+sourceInterval: 15
+symbol: NESN.SW
+targetHighPrice: 100.0
+targetLowPrice: 72.0
+targetMeanPrice: 89.03636
+targetMedianPrice: 89.0
+totalCash: 6134000128
+totalCashPerShare: 2.384
+totalDebt: 62845001728
+totalRevenue: 88775000064
+tradeable: false
+trailingAnnualDividendRate: 3.1
+trailingAnnualDividendYield: 0.035875473
+trailingEps: 2.89
+trailingPE: 29.68166
+trailingPegRatio: 2.1424
+triggerable: false
+twoHundredDayAverage: 79.86445
+twoHundredDayAverageChange: 5.91555
+twoHundredDayAverageChangePercent: 0.07406988
+typeDisp: Equity
+volume: 1484054
+website: https://www.nestle.com
+zip: '1800'

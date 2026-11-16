@@ -1,0 +1,282 @@
+52WeekChange: 0.23749399
+SandP52WeekChange: 0.097798586
+address1: The Tower at PNC Plaza
+address2: 300 Fifth Avenue
+allTimeHigh: 258.96
+allTimeLow: 2.15625
+ask: 231.05
+askSize: 200
+auditRisk: 3
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1738030
+averageDailyVolume3Month: 1802912
+averageVolume: 1802912
+averageVolume10days: 1738030
+beta: 0.906
+bid: 231.07
+bidSize: 300
+boardRisk: 6
+bookValue: 142.157
+city: Pittsburgh
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William S. Demchak
+  title: Chairman & CEO
+  totalPay: 10670221
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark Kenneth Wiedman J.D.
+  title: President
+  totalPay: 4822359
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert Q. Reilly
+  title: Executive VP & CFO
+  totalPay: 4046117
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Deborah  Guild
+  title: Executive VP & Head of Technology
+  totalPay: 3448477
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexander E. C. Overstrom
+  title: Executive VP & Head of Retail Banking
+  totalPay: 2840120
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laura L. Long J.D.
+  title: Executive VP, General Counsel & Chief Administrative Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bryan K. Gill
+  title: EVP, Director of Investor Relations
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amanda  Rosseter Schab
+  title: Executive VP, Chief Communications & Brand Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jenn  Garbach
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Vicki C. Henn
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 231.8799
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 232.75
+dayLow: 230.29
+displayName: PNC Financial Services
+dividendDate: 1793836800
+dividendRate: 8.0
+dividendYield: 3.46
+earningsCallTimestampEnd: 1800025200
+earningsCallTimestampStart: 1800025200
+earningsGrowth: 0.143
+earningsQuarterlyGrowth: 0.151
+earningsTimestamp: 1800019800
+earningsTimestampEnd: 1800019800
+earningsTimestampStart: 1800019800
+ebitdaMargins: 0.0
+enterpriseToRevenue: 6.68
+enterpriseValue: 166632751104
+epsCurrentYear: 19.3212
+epsForward: 21.32678
+epsTrailingTwelveMonths: 18.78
+esgPopulated: false
+exDividendDate: 1791936000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 228.2374
+fiftyDayAverageChange: 3.6425018
+fiftyDayAverageChangePercent: 0.015959268
+fiftyTwoWeekChangePercent: 23.7494
+fiftyTwoWeekHigh: 258.96
+fiftyTwoWeekHighChange: -27.080093
+fiftyTwoWeekHighChangePercent: -0.1045725
+fiftyTwoWeekLow: 177.08
+fiftyTwoWeekLowChange: 54.799896
+fiftyTwoWeekLowChangePercent: 0.30946407
+fiftyTwoWeekRange: 177.08 - 258.96
+financialCurrency: USD
+firstTradeDateMilliseconds: 185466600000
+fiveYearAvgDividendYield: 3.44
+floatShares: 394091822
+forwardEps: 21.32678
+forwardPE: 10.87271
+fullExchangeName: NYSE
+fullTimeEmployees: 55572
+fulldayChange: 0.579895
+fulldayChangePercent: 0.2507112
+fulldayPrice: 231.8799
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 24944001024
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0031400002
+heldPercentInstitutions: 0.84746003
+impliedSharesOutstanding: 396778009
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=107246&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791936000
+lastDividendValue: 2.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 721872000
+lastSplitFactor: '2:1'
+longBusinessSummary: 'The PNC Financial Services Group, Inc. operates as a diversified
+  financial services company in the United States. It operates through three segments:
+  Retail Banking, Corporate & Institutional Banking, and Asset Management Group segments.
+  The Retail Banking segment offers checking, savings, and money market accounts,
+  and time deposit; residential mortgages, home equity loans and lines of credit,
+  auto loans, credit cards, education loans, and personal and small business loans
+  and lines of credit; and brokerage, insurance, and investment and cash management
+  services. This segment serves consumer and small business customers through a network
+  of branches, digital channels, ATMs, and through phone-based customer contact centers.
+  The Corporate & Institutional Banking segment provides secured and unsecured loans,
+  letters of credit, and equipment leases; cash and investment management, receivables
+  and disbursement management, funds transfer, international payment, and access to
+  online/mobile information management and reporting services; asset-backed financing,
+  securities underwriting, loan syndications, mergers and acquisitions and equity
+  capital markets advisory, and customer related services; and commercial loan servicing
+  and technology solutions. It serves mid-sized and large corporations, and government
+  and not-for-profit entities. The Asset Management Group segment offers investment
+  and retirement planning, customized investment management, credit and cash management
+  solutions, and trust management and administration services for high net worth and
+  ultra high net worth individuals, and their families; and multi-generational family
+  planning services. It also offers outsourced chief investment officer, custody,
+  cash and fixed income client solutions, and retirement plan fiduciary investment
+  services for institutional clients. The company was founded in 1865 and is headquartered
+  in Pittsburgh, Pennsylvania.'
+longName: The PNC Financial Services Group, Inc.
+market: us_market
+marketCap: 92004843520
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_294585
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 7532000256
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 91882203434
+numberOfAnalystOpinions: 21
+open: 231.59
+operatingCashflow: 7896999936
+operatingMargins: 0.38983002
+overallRisk: 3
+payoutRatio: 0.3781
+pegRatio: 1.43
+phone: 888 762 2265
+previousClose: 231.3
+priceEpsCurrentYear: 12.00132
+priceHint: 2
+priceToBook: 1.6311536
+priceToSalesTrailing12Months: 3.6884558
+profitMargins: 0.31675
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.82609
+region: US
+regularMarketChange: 0.579895
+regularMarketChangePercent: 0.2507112
+regularMarketDayHigh: 232.75
+regularMarketDayLow: 230.29
+regularMarketDayRange: 230.29 - 232.75
+regularMarketOpen: 231.59
+regularMarketPreviousClose: 231.3
+regularMarketPrice: 231.8799
+regularMarketTime: 1794413719
+regularMarketVolume: 476668
+returnOnAssets: 0.013300001
+returnOnEquity: 0.13104
+revenueGrowth: 0.109
+revenuePerShare: 62.282
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 5
+sharesOutstanding: 396778009
+sharesPercentSharesOut: 0.0199
+sharesShort: 7879665
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7221106
+shortName: PNC Financial Services Group, I
+shortPercentOfFloat: 0.0199
+shortRatio: 3.7
+sourceInterval: 15
+state: PA
+symbol: PNC
+targetHighPrice: 285.0
+targetLowPrice: 240.0
+targetMeanPrice: 263.57144
+targetMedianPrice: 265.0
+totalCash: 13077999616
+totalCashPerShare: 32.96
+totalDebt: 81996996608
+totalRevenue: 24944001024
+tradeable: false
+trailingAnnualDividendRate: 7.1
+trailingAnnualDividendYield: 0.030696064
+trailingEps: 18.78
+trailingPE: 12.347172
+trailingPegRatio: 1.4331
+triggerable: true
+twoHundredDayAverage: 229.27534
+twoHundredDayAverageChange: 2.6045532
+twoHundredDayAverageChangePercent: 0.011359936
+typeDisp: Equity
+volume: 476668
+website: https://www.pnc.com
+zip: 15222-2401

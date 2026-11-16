@@ -1,0 +1,280 @@
+52WeekChange: -0.48362237
+SandP52WeekChange: 0.097798586
+address1: 1515 Broadway
+allTimeHigh: 101.97
+allTimeLow: 3.06
+ask: 7.94
+askSize: 3800
+auditRisk: 9
+averageAnalystRating: 3.2 - Hold
+averageDailyVolume10Day: 17689100
+averageDailyVolume3Month: 23671151
+averageVolume: 23671151
+averageVolume10days: 17689100
+beta: 1.644
+bid: 7.93
+bidSize: 1600
+boardRisk: 10
+bookValue: 10.553
+city: New York
+companyOfficers:
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Ellison
+  title: Chairman & CEO
+  totalPay: 4511569
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew M. Brandon-Gordon
+  title: President & Director
+  totalPay: 1582425
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dennis K. Cinelli
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Makan  Delrahim
+  title: Chief Legal Officer & President of Global Corporate Affairs
+  totalPay: 6190542
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ynon  Kreiz
+  title: Co-CEO & Director
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katherine M. Gill-Charest
+  title: Executive VP, Controller and Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Kevin  Creighton
+  title: EVP of Corporate Finance & Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melissa  Zukerman
+  title: Chief Communications Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rebecca  Mall
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ray  Hopkins
+  title: President of Distribution
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions:
+- header: Delisting
+  message: SKYD was delisted effective Oct. 15, 2026
+  meta:
+    dateEpochMs: 1792040400000
+    eventType: DELISTING
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 7.915
+currentRatio: 1.04
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1792022400
+dayHigh: 8.105
+dayLow: 7.88
+debtToEquity: 126.479
+displayName: Skydance
+dividendDate: 1790812800
+dividendRate: 0.2
+dividendYield: 2.3
+earningsCallTimestampEnd: 1794261600
+earningsCallTimestampStart: 1794261600
+earningsGrowth: -0.541
+earningsQuarterlyGrowth: -0.281
+earningsTimestamp: 1794258000
+earningsTimestampEnd: 1794258000
+earningsTimestampStart: 1794258000
+ebitda: 3310000128
+ebitdaMargins: 0.11371
+enterpriseToEbitda: 7.666
+enterpriseToRevenue: 0.872
+enterpriseValue: 25374928896
+epsCurrentYear: -0.67378
+epsForward: 0.0361
+epsTrailingTwelveMonths: -0.02
+esgPopulated: false
+exDividendDate: 1789430400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 9.1752
+fiftyDayAverageChange: -1.2602005
+fiftyDayAverageChangePercent: -0.13734855
+fiftyTwoWeekChangePercent: -48.362236
+fiftyTwoWeekHigh: 16.6
+fiftyTwoWeekHighChange: -8.685
+fiftyTwoWeekHighChangePercent: -0.52319276
+fiftyTwoWeekLow: 6.61
+fiftyTwoWeekLowChange: 1.3049998
+fiftyTwoWeekLowChangePercent: 0.1974281
+fiftyTwoWeekRange: 6.61 - 16.6
+financialCurrency: USD
+firstTradeDateMilliseconds: 1133793000000
+fiveYearAvgDividendYield: 2.32
+floatShares: 912310210
+forwardEps: 0.0361
+forwardPE: 219.25208
+freeCashflow: 17593124864
+fullExchangeName: NYSE
+fullTimeEmployees: 17600
+fulldayChange: -0.125
+fulldayChangePercent: -1.5547264
+fulldayPrice: 7.915
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.33328998
+grossProfits: 9701999616
+hasPrePostMarketData: true
+heldPercentInsiders: 0.50941
+heldPercentInstitutions: 0.32898
+impliedSharesOutstanding: 5044222368
+industry: Entertainment
+industryDisp: Entertainment
+industryKey: entertainment
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789430400
+lastDividendValue: 0.05
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Skydance Corporation operates as a media and entertainment company
+  worldwide. It operates in three segments: Studios, Direct-to-Consumer, and TV Media.
+  The company operates CBS Television Network, a domestic broadcast television network;
+  CBS Stations, a television station; international free-to-air networks comprising
+  Network 10, Channel 5, Telefe, and Chilevisión; and domestic premium and basic cable
+  networks, such as Nickelodeon, MTV, CMT, Comedy Central, BET, Paramount+ with SHOWTIME,
+  Paramount Network, The Smithsonian Channel, BET Media Group, CBS Sports Network,
+  and international extensions of these brands. It also provides domestic and international
+  television studio operations, including CBS Studios, Paramount Television Studios,
+  and Showtime; CBS Media Ventures, which produces and distributes first-run syndicated
+  programming; and digital properties consist of CBS News and CBS Sports HQ. In addition,
+  the company offers a portfolio of domestic and international pay and free streaming
+  services, including Paramount+, Pluto TV, and BET+. Further, it produces and acquires
+  films, series, and short-form content for release and licensing worldwide, including
+  in theaters, on streaming services, on television, through home entertainment, and
+  DVDs, Blu-ray; and operates a portfolio consisting of Paramount Pictures, Paramount
+  Players, Paramount Animation, Nickelodeon Studio, and Miramax. It provides production,
+  distribution, and advertising solutions. The company was formerly known as Paramount
+  Skydance Corporation and changed its name to Skydance Corporation in October 2026.
+  The company was founded in 1914 and is headquartered in New York, New York.'
+longName: Skydance Corporation
+market: us_market
+marketCap: 39925018624
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_27763231
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: -621000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 40555547838
+numberOfAnalystOpinions: 18
+open: 8.04
+operatingCashflow: 814000000
+operatingMargins: 0.09345
+overallRisk: 10
+payoutRatio: 0.932
+pegRatio: 2.8
+phone: 212 258 6000
+prevName: ViacomCBS Inc.
+previousClose: 8.04
+priceEpsCurrentYear: -11.747157
+priceHint: 2
+priceToBook: 0.75002366
+priceToSalesTrailing12Months: 1.3715224
+profitMargins: -0.021329999
+quickRatio: 0.736
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.16667
+region: US
+regularMarketChange: -0.125
+regularMarketChangePercent: -1.5547264
+regularMarketDayHigh: 8.105
+regularMarketDayLow: 7.88
+regularMarketDayRange: 7.88 - 8.105
+regularMarketOpen: 8.04
+regularMarketPreviousClose: 8.04
+regularMarketPrice: 7.915
+regularMarketTime: 1794413744
+regularMarketVolume: 3518045
+returnOnAssets: 0.027490001
+returnOnEquity: -0.00896
+revenueGrowth: 0.009
+revenuePerShare: 27.298
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 5012722281
+sharesPercentSharesOut: 0.028900001
+sharesShort: 145864796
+sharesShortPreviousMonthDate: 1788134400
+sharesShortPriorMonth: 76422806
+shortName: Skydance Corporation
+shortPercentOfFloat: 0.0327
+shortRatio: 3.96
+sourceInterval: 15
+state: NY
+symbol: SKYD
+targetHighPrice: 13.74
+targetLowPrice: 4.2
+targetMeanPrice: 9.06333
+targetMedianPrice: 9.0
+totalCash: 1627000064
+totalCashPerShare: 1.45
+totalDebt: 16202000384
+totalRevenue: 29109999616
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: -0.02
+trailingPegRatio: 2.7992
+triggerable: true
+twoHundredDayAverage: 9.94945
+twoHundredDayAverageChange: -2.0344496
+twoHundredDayAverageChangePercent: -0.2044786
+typeDisp: Equity
+volume: 3518045
+website: https://www.skydance.com
+zip: '10036'

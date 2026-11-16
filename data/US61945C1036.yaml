@@ -1,0 +1,283 @@
+52WeekChange: -0.097014904
+SandP52WeekChange: 0.097798586
+address1: 101 East Kennedy Blvd
+address2: Suite 2500
+allTimeHigh: 163.25
+allTimeLow: 5.82
+ask: 22.53
+askSize: 900
+auditRisk: 9
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 11281010
+averageDailyVolume3Month: 9494753
+averageVolume: 9494753
+averageVolume10days: 11281010
+beta: 0.858
+bid: 22.51
+bidSize: 300
+boardRisk: 1
+bookValue: 35.541
+city: Tampa
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bruce M. Bodine Jr.
+  title: CEO, President & Director
+  totalPay: 2410945
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Luciano Siani Pires
+  title: Executive VP & CFO
+  totalPay: 1349406
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karen A. Swager
+  title: Executive Vice President of Operations
+  totalPay: 1109120
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Walter F. Precourt III
+  title: Senior VP & Chief Administrative Officer
+  totalPay: 1132629
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Yijun  Wang
+  title: Executive Vice President of Commercial
+  totalPay: 1027270
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Russell A. Flugel
+  title: VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul Abdelmassieh Massoud C.F.A.
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philip Eugene Bauer
+  title: Senior VP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher Anthony Lewis
+  title: Senior Vice President of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1962
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: MOS announced a cash dividend of $0.22 with an ex-date of Dec. 4, 2026
+  meta:
+    amount: '0.22'
+    dateEpochMs: 1796360400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 22.465
+currentRatio: 1.498
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 22.88
+dayLow: 22.39
+debtToEquity: 53.371
+displayName: Mosaic
+dividendDate: 1797552000
+dividendRate: 0.88
+dividendYield: 3.83
+earningsCallTimestampEnd: 1793808000
+earningsCallTimestampStart: 1793808000
+earningsTimestamp: 1793739600
+earningsTimestampEnd: 1793739600
+earningsTimestampStart: 1793739600
+ebitda: 1223900032
+ebitdaMargins: 0.10288
+enterpriseToEbitda: 10.899
+enterpriseToRevenue: 1.121
+enterpriseValue: 13338704896
+epsCurrentYear: -0.05672
+epsForward: 1.43568
+epsTrailingTwelveMonths: -3.54
+esgPopulated: false
+exDividendDate: 1796342400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 21.6846
+fiftyDayAverageChange: 0.7803993
+fiftyDayAverageChangePercent: 0.03598864
+fiftyTwoWeekChangePercent: -9.70149
+fiftyTwoWeekHigh: 32.25
+fiftyTwoWeekHighChange: -9.785
+fiftyTwoWeekHighChangePercent: -0.30341086
+fiftyTwoWeekLow: 16.99
+fiftyTwoWeekLowChange: 5.4750004
+fiftyTwoWeekLowChangePercent: 0.3222484
+fiftyTwoWeekRange: 16.99 - 32.25
+financialCurrency: USD
+firstTradeDateMilliseconds: 570205800000
+fiveYearAvgDividendYield: 1.61
+floatShares: 297780354
+forwardEps: 1.43568
+forwardPE: 15.647637
+freeCashflow: -512462496
+fullExchangeName: NYSE
+fullTimeEmployees: 13249
+fulldayChange: -0.5249996
+fulldayChangePercent: -2.2835999
+fulldayPrice: 22.465
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.07633
+grossProfits: 908000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0034400001
+heldPercentInstitutions: 1.03844
+impliedSharesOutstanding: 317903655
+industry: Agricultural Inputs
+industryDisp: Agricultural Inputs
+industryKey: agricultural-inputs
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=70455&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788998400
+lastDividendValue: 0.22
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 817776000
+lastSplitFactor: '2:1'
+longBusinessSummary: 'The Mosaic Company, through its subsidiaries, produces and markets
+  concentrated phosphate and potash crop nutrients. It operates in three segments:
+  Phosphates, Potash, and Mosaic Fertilizantes. The company owns and operates mines
+  and production facilities, which produce concentrated phosphate crop nutrients and
+  phosphate-based animal feed ingredients, as well as concentrated phosphate crop
+  nutrients, such as diammonium phosphate, monoammonium phosphate, and MicroEssentials,
+  a value-added ammoniated phosphate product. It also mines, processes, and sells
+  potash to crop nutrient manufacturers, distributors, retailers, and to customers
+  for industrial use; and owns and operates mines, chemical plants, crop nutrient
+  blending and bagging facilities, port terminals and warehouses, which produce and
+  sell concentrated phosphate and potash-based crop nutrients, and phosphate-based
+  animal feed ingredients. In addition, the company produces a double sulfate of potash
+  magnesia product under the K-Mag brand; and purchases phosphate, potash, and nitrogen
+  products to produce blended crop nutrients. Further, it offers triple superphosphate,
+  single superphosphate, and dicalcium phosphate; feed phosphate under the Biofos
+  and Nexfos brands; potash for de-icing and as a water softener regenerant; and phosphogypsum.
+  The company sells its products to wholesale distributors, retail chains, cooperatives,
+  independent retailers, and national accounts through its sales force. It also exports
+  its products. The company operates in the United States, Brazil, China, Canada,
+  Paraguay, Argentina, Japan, Colombia, India, Australia, Peru, Mexico, Honduras,
+  the Dominican Republic, Indonesia, and internationally. The Mosaic Company was incorporated
+  in 1987 and is headquartered in Tampa, Florida.'
+longName: The Mosaic Company
+market: us_market
+marketCap: 7141705728
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_890498
+mostRecentQuarter: 1790726400
+netIncomeToCommon: -1122000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 7238666224
+numberOfAnalystOpinions: 18
+open: 22.73
+operatingCashflow: 499900000
+operatingMargins: -0.00204
+overallRisk: 2
+payoutRatio: 6.2857
+pegRatio: 2.42
+phone: 800 918 8270
+previousClose: 22.99
+priceEpsCurrentYear: -396.06842
+priceHint: 2
+priceToBook: 0.6320869
+priceToSalesTrailing12Months: 0.6003249
+profitMargins: -0.09431
+quickRatio: 0.445
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.4
+region: US
+regularMarketChange: -0.5249996
+regularMarketChangePercent: -2.2835999
+regularMarketDayHigh: 22.88
+regularMarketDayLow: 22.39
+regularMarketDayRange: 22.39 - 22.88
+regularMarketOpen: 22.73
+regularMarketPreviousClose: 22.99
+regularMarketPrice: 22.465
+regularMarketTime: 1794413749
+regularMarketVolume: 1314662
+returnOnAssets: -0.00062
+returnOnEquity: -0.09042
+revenueGrowth: -0.102
+revenuePerShare: 37.439
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 5
+sharesOutstanding: 317903655
+sharesPercentSharesOut: 0.1175
+sharesShort: 37344426
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 29994221
+shortName: Mosaic Company (The)
+shortPercentOfFloat: 0.1559
+shortRatio: 3.57
+sourceInterval: 15
+state: FL
+symbol: MOS
+targetHighPrice: 34.0
+targetLowPrice: 17.0
+targetMeanPrice: 25.10556
+targetMedianPrice: 24.95
+totalCash: 272600000
+totalCashPerShare: 0.857
+totalDebt: 6125000192
+totalRevenue: 11896399872
+tradeable: false
+trailingAnnualDividendRate: 0.88
+trailingAnnualDividendYield: 0.03827751
+trailingEps: -3.54
+trailingPegRatio: 2.4211
+triggerable: true
+twoHundredDayAverage: 23.6629
+twoHundredDayAverageChange: -1.1979008
+twoHundredDayAverageChangePercent: -0.05062358
+typeDisp: Equity
+volume: 1314662
+website: https://www.mosaicco.com
+zip: '33602'

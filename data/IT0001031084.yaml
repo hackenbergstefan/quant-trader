@@ -1,0 +1,260 @@
+52WeekChange: 0.12593281
+SandP52WeekChange: 0.097798586
+address1: Generali Hadid Tower
+address2: Piazza Tre Torri 1
+allTimeHigh: 69.75
+allTimeLow: 1.925
+ask: 58.15
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 165806
+averageDailyVolume3Month: 188518
+averageVolume: 188518
+averageVolume10days: 165806
+beta: 0.681
+bid: 58.1
+bidSize: 0
+boardRisk: 3
+bookValue: 12.321
+city: Milan
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Dr. Antonio  Cangeri
+  title: President & Chairman
+  totalPay: 169945
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Gian Maria Mossa
+  title: GM, CEO & Executive Director
+  totalPay: 1559442
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Dr. Tommaso Di Russo
+  title: Head of Strategy, CFO & Manager of Financial Reports
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Riccardo  Renna
+  title: Chief Operation Officer & Innovation
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Giuliana  Pagliari
+  title: Head of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Luca  Giaimo
+  title: Chief Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Carmelo  Reale
+  title: Head of the General Counsel, Group Sustainability Area & Secretary of the
+    Board
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Michele  Seghizzi
+  title: Chief Communication Officer & External Relations
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Valentina  Frezza
+  title: Chief People Officer
+  unexercisedValue: 0
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Stefano  Insaghi
+  title: Head of Business Support Department
+  unexercisedValue: 0
+  yearBorn: 1961
+compensationAsOfEpochDate: 1735603200
+compensationRisk: 1
+corporateActions: []
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 58.1
+customPriceAlertConfidence: LOW
+dayHigh: 61.35
+dayLow: 57.65
+dividendRate: 2.85
+dividendYield: 4.72
+earningsCallTimestampEnd: 1794315600
+earningsCallTimestampStart: 1794315600
+earningsGrowth: 0.705
+earningsQuarterlyGrowth: 0.695
+earningsTimestamp: 1794328200
+earningsTimestampEnd: 1802277000
+earningsTimestampStart: 1802277000
+ebitdaMargins: 0.0
+enterpriseToRevenue: 6.656
+enterpriseValue: 7563879936
+epsCurrentYear: 4.01456
+epsForward: 3.93459
+epsTrailingTwelveMonths: 4.6
+esgPopulated: false
+exDividendDate: 1803254400
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 62.445
+fiftyDayAverageChange: -4.345001
+fiftyDayAverageChangePercent: -0.06958125
+fiftyTwoWeekChangePercent: 12.593281
+fiftyTwoWeekHigh: 69.75
+fiftyTwoWeekHighChange: -11.650002
+fiftyTwoWeekHighChangePercent: -0.1670251
+fiftyTwoWeekLow: 48.54
+fiftyTwoWeekLowChange: 9.559998
+fiftyTwoWeekLowChangePercent: 0.19695091
+fiftyTwoWeekRange: 48.54 - 69.75
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1163577600000
+fiveYearAvgDividendYield: 3.97
+floatShares: 55600094
+forwardEps: 3.93459
+forwardPE: 14.766468
+fullExchangeName: Milan
+fullTimeEmployees: 1308
+fulldayChange: -2.25
+fulldayChangePercent: -3.728252
+fulldayPrice: 58.1
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 1134960000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.5017
+heldPercentInstitutions: 0.25154
+impliedSharesOutstanding: 114082669
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1803254400
+lastDividendValue: 0.7
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Banca Generali S.p.A. distributes financial products and services
+  for high net worth, affluent and private customers through financial advisors in
+  Italy. The company operates through Private Banking CGU (PB CGU) and Senior Partner
+  CGU (SP CGU) segments. It offers banking accounts and services comprising current
+  and deposit accounts, other bespoke banking, and payment services; custody and administration
+  services for the financial instruments; advisory services on the purchase and sale
+  of instruments on the primary and secondary markets; asset management services,
+  such as mutual investment funds, in-house products, and portfolio management solutions;
+  distributes insurance products; and insurance investments. The company also provides
+  wealth advisory services, including corporate advisory, which supports companies'
+  growth and extraordinary finance transactions; real estate advisory, focused on
+  the valuation and management of real estate; art and passion Advisory, dedicated
+  to works of art and collectibles; and family protection and planning, which provides
+  advice on wealth protection, transfer, and generational continuity for family and
+  business assets. The company was founded in 1997 and is headquartered in Milan,
+  Italy. Banca Generali S.p.A. is a subsidiary of Assicurazioni Generali S.p.A.
+longName: Banca Generali S.p.A.
+market: it_market
+marketCap: 6628203008
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_11779230
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 524387008
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 6884889074
+numberOfAnalystOpinions: 6
+open: 60.75
+operatingCashflow: -910529024
+operatingMargins: 0.61581004
+overallRisk: 2
+payoutRatio: 0.6196
+pegRatio: 15.22
+phone: 39 02 40826691
+previousClose: 60.35
+priceEpsCurrentYear: 14.47232
+priceHint: 2
+priceToBook: 4.715526
+priceToSalesTrailing12Months: 5.832632
+profitMargins: 0.46145
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: -2.25
+regularMarketChangePercent: -3.728252
+regularMarketDayHigh: 61.35
+regularMarketDayLow: 57.65
+regularMarketDayRange: 57.65 - 61.35
+regularMarketOpen: 60.75
+regularMarketPreviousClose: 60.35
+regularMarketPrice: 58.1
+regularMarketTime: 1794411543
+regularMarketVolume: 598127
+returnOnAssets: 0.02882
+returnOnEquity: 0.36488
+revenueGrowth: 0.464
+revenuePerShare: 9.964
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 3
+sharesOutstanding: 114082669
+shortName: BANCA GENERALI
+sourceInterval: 20
+state: MI
+symbol: BGN.MI
+targetHighPrice: 78.0
+targetLowPrice: 65.0
+targetMeanPrice: 71.96667
+targetMedianPrice: 71.7
+totalCash: 1311595008
+totalCashPerShare: 11.476
+totalDebt: 1978036992
+totalRevenue: 1136400000
+tradeable: false
+trailingAnnualDividendRate: 2.9
+trailingAnnualDividendYield: 0.048053026
+trailingEps: 4.6
+trailingPE: 12.630435
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 59.70715
+twoHundredDayAverageChange: -1.607151
+twoHundredDayAverageChangePercent: -0.026917228
+typeDisp: Equity
+volume: 598127
+website: https://www.bancagenerali.com
+zip: '20145'

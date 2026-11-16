@@ -1,0 +1,270 @@
+52WeekChange: 0.1908294
+SandP52WeekChange: 0.097798586
+address1: 400 North Fifth Street
+address2: PO Box 53999
+allTimeHigh: 111.16
+allTimeLow: 5.0
+ask: 106.51
+askSize: 200
+auditRisk: 3
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 2031430
+averageDailyVolume3Month: 1313231
+averageVolume: 1313231
+averageVolume10days: 2031430
+beta: 0.473
+bid: 106.46
+bidSize: 200
+boardRisk: 8
+bookValue: 61.71
+city: Phoenix
+companyOfficers:
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Theodore N. Geisler
+  title: Chairman of the Board, President & CEO
+  totalPay: 2823999
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew D. Cooper
+  title: Senior VP & CFO
+  totalPay: 1399227
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shirley A. Baum
+  title: Senior VP, Corporate Secretary & General Counsel
+  totalPay: 1027288
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam C. Heflin
+  title: Executive VP & Chief Nuclear Officer of APS
+  totalPay: 1786840
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jacob  Tetlow
+  title: Executive VP & COO of APS
+  totalPay: 1487552
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elizabeth A. Blankenship
+  title: VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amanda  Ho
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Todd  Horton
+  title: SVP of Nuclear Regulatory & Oversight of Palo Verde Generating Station for
+    APS
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Diane  Wood
+  title: Assistant VP & Corporate Secretary
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher R. Bauer
+  title: VP & Treasurer
+  unexercisedValue: 0
+  yearBorn: 1976
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 107.04
+currentRatio: 0.713
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 107.135
+dayLow: 105.455
+debtToEquity: 225.576
+displayName: Pinnacle West Capital
+dividendDate: 1796083200
+dividendRate: 3.7
+dividendYield: 3.49
+earningsCallTimestampEnd: 1793721600
+earningsCallTimestampStart: 1793721600
+earningsGrowth: 0.03
+earningsQuarterlyGrowth: 0.051
+earningsTimestamp: 1793712600
+earningsTimestampEnd: 1793712600
+earningsTimestampStart: 1793712600
+ebitda: 2209865984
+ebitdaMargins: 0.38727
+enterpriseToEbitda: 13.503
+enterpriseToRevenue: 5.229
+enterpriseValue: 29840764928
+epsCurrentYear: 5.00468
+epsForward: 5.58118
+epsTrailingTwelveMonths: 5.32
+esgPopulated: false
+exDividendDate: 1793577600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 99.372
+fiftyDayAverageChange: 7.6679993
+fiftyDayAverageChangePercent: 0.07716458
+fiftyTwoWeekChangePercent: 19.08294
+fiftyTwoWeekHigh: 111.16
+fiftyTwoWeekHighChange: -4.1200027
+fiftyTwoWeekHighChangePercent: -0.037063714
+fiftyTwoWeekLow: 86.18
+fiftyTwoWeekLowChange: 20.86
+fiftyTwoWeekLowChangePercent: 0.24205153
+fiftyTwoWeekRange: 86.18 - 111.16
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 4.22
+floatShares: 120534600
+forwardEps: 5.58118
+forwardPE: 19.17874
+freeCashflow: -997653888
+fullExchangeName: NYSE
+fullTimeEmployees: 6610
+fulldayChange: 1.0800018
+fulldayChangePercent: 1.0192543
+fulldayPrice: 107.04
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.43842
+grossProfits: 2501720064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00147
+heldPercentInstitutions: 1.11249
+impliedSharesOutstanding: 121201207
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+irWebsite: http://www.pinnaclewest.com/main/pnw/investors/default.html
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793577600
+lastDividendValue: 0.925
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Pinnacle West Capital Corporation, through its subsidiary, provides
+  retail and wholesale electric services in the state of Arizona. The company engages
+  in the generation, transmission, and distribution of electricity using nuclear,
+  gas, oil, coal, and solar generating facilities. Its transmission facilities include
+  overhead lines and underground lines; and distribution facilities consist of overhead
+  lines and underground primary cables. The company also owns and maintains substations,
+  including transmission and distribution yards; and owns energy storage facilities.
+  Pinnacle West Capital Corporation was incorporated in 1985 and is headquartered
+  in Phoenix, Arizona.
+longName: Pinnacle West Capital Corporation
+market: us_market
+marketCap: 12973377536
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_296957
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 661137024
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 12842479893
+numberOfAnalystOpinions: 15
+open: 105.95
+operatingCashflow: 1829220992
+operatingMargins: 0.20944999
+overallRisk: 5
+payoutRatio: 0.6842
+pegRatio: 3.77
+phone: 602 250 1000
+previousClose: 105.96
+priceEpsCurrentYear: 21.38798
+priceHint: 2
+priceToBook: 1.7345649
+priceToSalesTrailing12Months: 2.2735348
+profitMargins: 0.11586001
+quickRatio: 0.405
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.44444
+region: US
+regularMarketChange: 1.0800018
+regularMarketChangePercent: 1.0192543
+regularMarketDayHigh: 107.135
+regularMarketDayLow: 105.455
+regularMarketDayRange: 105.455 - 107.135
+regularMarketOpen: 105.95
+regularMarketPreviousClose: 105.96
+regularMarketPrice: 107.04
+regularMarketTime: 1794413747
+regularMarketVolume: 231861
+returnOnAssets: 0.02358
+returnOnEquity: 0.09094
+revenueGrowth: 0.083
+revenuePerShare: 47.159
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 6
+sharesOutstanding: 121201207
+sharesPercentSharesOut: 0.108
+sharesShort: 13091054
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 12085543
+shortName: Pinnacle West Capital Corporati
+shortPercentOfFloat: 0.14029999
+shortRatio: 9.01
+sourceInterval: 15
+state: AZ
+symbol: PNW
+targetHighPrice: 119.5
+targetLowPrice: 89.0
+targetMeanPrice: 105.7
+targetMedianPrice: 107.0
+totalCash: 11124000
+totalCashPerShare: 0.092
+totalDebt: 16966884352
+totalRevenue: 5706258944
+tradeable: false
+trailingAnnualDividendRate: 3.64
+trailingAnnualDividendYield: 0.034352586
+trailingEps: 5.32
+trailingPE: 20.1203
+trailingPegRatio: 3.7726
+triggerable: true
+twoHundredDayAverage: 100.85395
+twoHundredDayAverageChange: 6.1860504
+twoHundredDayAverageChangePercent: 0.06133672
+typeDisp: Equity
+volume: 231861
+website: https://www.pinnaclewest.com
+zip: 85072-3999

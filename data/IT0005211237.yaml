@@ -1,0 +1,252 @@
+52WeekChange: -0.015169442
+SandP52WeekChange: 0.097798586
+address1: via Carlo Bo 11
+allTimeHigh: 11.3
+allTimeLow: 3.104
+ask: 9.13
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 2179370
+averageDailyVolume3Month: 2314036
+averageVolume: 2314036
+averageVolume10days: 2179370
+beta: 0.7
+bid: 9.126
+bidSize: 0
+boardRisk: 5
+bookValue: 3.898
+city: Milan
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paolo  Gallo
+  title: CEO, GM & Director
+  totalPay: 2633351
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gianfranco Maria Amoroso
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anna Maria Scaglia
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Germana  Mentil
+  title: General Counsel
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Durante
+  title: Chief People, Innovation & Transformation Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nunzio  Ferrulli
+  title: Head of Public & Regulatory Affairs
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Chiara  Ganz
+  title: Chief of External Relations & Sustainability
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Raffaella  Marcuccio
+  title: Head of Procurement & Material Management
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Paolo  Bosato
+  title: Head of Internal Audit
+  unexercisedValue: 0
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alessandro  Menna
+  title: Chief Security Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 9.134
+currentRatio: 1.217
+customPriceAlertConfidence: LOW
+dayHigh: 9.246
+dayLow: 9.122
+debtToEquity: 271.667
+dividendRate: 0.43
+dividendYield: 4.72
+earningsCallTimestampEnd: 1793284200
+earningsCallTimestampStart: 1793284200
+earningsQuarterlyGrowth: 0.011
+earningsTimestamp: 1793291400
+earningsTimestampEnd: 1793291400
+earningsTimestampStart: 1793291400
+ebitda: 2046007040
+ebitdaMargins: 0.55335
+enterpriseToEbitda: 10.119
+enterpriseToRevenue: 5.599
+enterpriseValue: 20703352832
+epsCurrentYear: 0.75042
+epsForward: 0.78698
+epsTrailingTwelveMonths: 0.68
+esgPopulated: false
+exDividendDate: 1779062400
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 8.53752
+fiftyDayAverageChange: 0.5964794
+fiftyDayAverageChangePercent: 0.06986565
+fiftyTwoWeekChangePercent: -1.5169442
+fiftyTwoWeekHigh: 11.3
+fiftyTwoWeekHighChange: -2.1660004
+fiftyTwoWeekHighChangePercent: -0.19168144
+fiftyTwoWeekLow: 8.048
+fiftyTwoWeekLowChange: 1.0859995
+fiftyTwoWeekLowChangePercent: 0.13494028
+fiftyTwoWeekRange: 8.048 - 11.3
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1478505600000
+fiveYearAvgDividendYield: 5.25
+floatShares: 624216333
+forwardEps: 0.78698
+forwardPE: 11.606394
+freeCashflow: 765798016
+fullExchangeName: Milan
+fullTimeEmployees: 6234
+fulldayChange: -0.020000458
+fulldayChangePercent: -0.21848872
+fulldayPrice: 9.134
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.72958
+grossProfits: 2697629952
+hasPrePostMarketData: false
+heldPercentInsiders: 0.37236
+heldPercentInstitutions: 0.34053
+impliedSharesOutstanding: 1018170406
+industry: Utilities - Regulated Gas
+industryDisp: Utilities - Regulated Gas
+industryKey: utilities-regulated-gas
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779062400
+lastDividendValue: 0.432
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Italgas S.p.A., together with its subsidiaries, engages in the
+  distribution of natural gas in Italy, Greece, and Other European Union countries.
+  It operates through Gas distribution, Water Service, and Energy Efficiency segments.
+  The company involved in metering activities and the transportation of gas to households,
+  enterprises, etc. It also engages in collection, adduction, and distribution of
+  water for civil use, drains, and the purification of wastewater. The company operated
+  a distribution network of 156,655 kilometers and water distribution network of 6,300
+  kilometers. Italgas S.p.A. was founded in 1837 and is based in Milan, Italy.
+longName: Italgas S.p.A.
+market: it_market
+marketCap: 9299969024
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874299
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 722520000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 9320331896
+numberOfAnalystOpinions: 15
+open: 9.17
+operatingCashflow: 1793063040
+operatingMargins: 0.35126
+overallRisk: 3
+payoutRatio: 0.63240004
+pegRatio: 2.82
+phone: 39 02 81 87 21 75
+previousClose: 9.154
+priceEpsCurrentYear: 12.17185
+priceHint: 2
+priceToBook: 2.343253
+priceToSalesTrailing12Months: 2.515214
+profitMargins: 0.19541
+quickRatio: 0.836
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.13333
+region: US
+regularMarketChange: -0.020000458
+regularMarketChangePercent: -0.21848872
+regularMarketDayHigh: 9.246
+regularMarketDayLow: 9.122
+regularMarketDayRange: 9.122 - 9.246
+regularMarketOpen: 9.17
+regularMarketPreviousClose: 9.154
+regularMarketPrice: 9.134
+regularMarketTime: 1794411432
+regularMarketVolume: 600315
+returnOnAssets: 0.048839998
+returnOnEquity: 0.18125999
+revenueGrowth: 1.916
+revenuePerShare: 3.637
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 1
+sharesOutstanding: 1018170406
+shortName: ITALGAS
+sourceInterval: 20
+state: MI
+symbol: IG.MI
+targetHighPrice: 11.6
+targetLowPrice: 9.4
+targetMeanPrice: 10.44667
+targetMedianPrice: 10.4
+totalCash: 682499968
+totalCashPerShare: 0.671
+totalDebt: 11726499840
+totalRevenue: 3697486080
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 0.68
+trailingPE: 13.432352
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 9.685125
+twoHundredDayAverageChange: -0.5511255
+twoHundredDayAverageChangePercent: -0.056904327
+typeDisp: Equity
+volume: 600315
+website: https://www.italgas.it
+zip: '20143'

@@ -1,0 +1,280 @@
+52WeekChange: 0.41705883
+SandP52WeekChange: 0.097798586
+address1: One Congress Street
+allTimeHigh: 195.93
+allTimeLow: 0.169922
+ask: 174.41
+askSize: 100
+auditRisk: 9
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 1631830
+averageDailyVolume3Month: 1886009
+averageVolume: 1886009
+averageVolume10days: 1631830
+beta: 1.374
+bid: 174.17
+bidSize: 200
+boardRisk: 6
+bookValue: 90.368
+city: Boston
+companyOfficers:
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ronald Philip O'Hanley
+  title: CEO, President & Chairman
+  totalPay: 6764146
+  unexercisedValue: 0
+  yearBorn: 1957
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John F. Woods
+  title: Executive VP & CFO
+  totalPay: 5510897
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joerg  Ambrosius
+  title: Executive VP & President of Investment Services
+  totalPay: 5698082
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark R. Keating
+  title: Executive VP & Global Head of Strategic Finance
+  totalPay: 2236444
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mostapha  Tahiri
+  title: Executive VP, President of State Street Alpha & Chairman of Asia Pacific
+  totalPay: 3181343
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Yie-Hsin  Hung
+  title: President & CEO of State Street Investment Management
+  totalPay: 4360391
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ann  Fogarty
+  title: Executive VP & COO
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pankaj  Vaish
+  title: Executive VP & Global Chief Investment Officer and Treasury
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Craig Jack Read
+  title: Executive VP, Global Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher  Herringshaw
+  title: Executive VP & CTO
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 174.245
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 174.77
+dayLow: 172.815
+displayName: State Street
+dividendDate: 1791849600
+dividendRate: 3.68
+dividendYield: 2.14
+earningsCallTimestampEnd: 1800025200
+earningsCallTimestampStart: 1800025200
+earningsGrowth: 0.327
+earningsQuarterlyGrowth: 0.266
+earningsTimestamp: 1800019800
+earningsTimestampEnd: 1800019800
+earningsTimestampStart: 1800019800
+ebitdaMargins: 0.0
+enterpriseToRevenue: -3.711
+enterpriseValue: -57505968128
+epsCurrentYear: 13.80987
+epsForward: 15.53166
+epsTrailingTwelveMonths: 12.24
+esgPopulated: false
+exDividendDate: 1790812800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 177.0436
+fiftyDayAverageChange: -2.7985992
+fiftyDayAverageChangePercent: -0.015807401
+fiftyTwoWeekChangePercent: 41.705883
+fiftyTwoWeekHigh: 195.93
+fiftyTwoWeekHighChange: -21.684998
+fiftyTwoWeekHighChangePercent: -0.11067727
+fiftyTwoWeekLow: 111.63
+fiftyTwoWeekLowChange: 62.614998
+fiftyTwoWeekLowChangePercent: 0.5609155
+fiftyTwoWeekRange: 111.63 - 195.93
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 2.85
+floatShares: 256939621
+forwardEps: 15.53166
+forwardPE: 11.218698
+fullExchangeName: NYSE
+fullTimeEmployees: 51119
+fulldayChange: 2.625
+fulldayChangePercent: 1.5279394
+fulldayPrice: 174.245
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 15495000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00352
+heldPercentInstitutions: 0.959
+impliedSharesOutstanding: 272078043
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=78261&p=irol-IRHome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790812800
+lastDividendValue: 0.92
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 991267200
+lastSplitFactor: '2:1'
+longBusinessSummary: State Street Corporation provides various financial products
+  and services to institutional investors. It offers custody, accounting, and fund
+  administration services for traditional and alternative assets, as well as multi-asset
+  class investments; recordkeeping, client reporting, and investment book of record,
+  transaction management, loans, cash, derivatives, and collateral services; investor
+  services operations outsourcing; performance, risk, and compliance analytics; financial
+  data management to support institutional investors; foreign exchange, brokerage,
+  and other trading services; securities finance, such as prime services products;
+  and deposit and short-term investment facilities. The company also provides the
+  State Street Alpha platform that combines portfolio management, trading and execution,
+  analytics and compliance tools, and advanced data aggregation and integration with
+  other industry platforms and providers; front-office technology that automates and
+  simplifies the institutional investment process comprising portfolio management
+  and risk analytics, trading, and post-trade settlement with integrated compliance
+  and managed data; investment management solutions; and portfolio management, trading
+  compliance, and manager/sponsor communication. In addition, it offers investment
+  management solutions, such as strategies across equity, fixed income, cash, multi-asset,
+  and alternatives; and ETFs, custom indexed, managed funds, and mandates. The company
+  provides its products and services to mutual funds, collective investment funds
+  and other investment pools, corporate and public retirement plans, insurance companies,
+  wealth managers, investment managers, foundations, and endowments. The company was
+  founded in 1792 and is headquartered in Boston, Massachusetts.
+longName: State Street Corporation
+market: us_market
+marketCap: 47408238592
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_188785
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3448999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 46694033739
+numberOfAnalystOpinions: 15
+open: 173.64
+operatingCashflow: -2176999936
+operatingMargins: 0.33185002
+overallRisk: 5
+payoutRatio: 0.28100002
+pegRatio: 0.64
+phone: 617 786 3000
+previousClose: 171.62
+priceEpsCurrentYear: 12.617425
+priceHint: 2
+priceToBook: 1.9281715
+priceToSalesTrailing12Months: 3.059583
+profitMargins: 0.23782
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: 2.625
+regularMarketChangePercent: 1.5279394
+regularMarketDayHigh: 174.77
+regularMarketDayLow: 172.815
+regularMarketDayRange: 172.815 - 174.77
+regularMarketOpen: 173.64
+regularMarketPreviousClose: 171.62
+regularMarketPrice: 174.245
+regularMarketTime: 1794413749
+regularMarketVolume: 334675
+returnOnAssets: 0.00952
+returnOnEquity: 0.13079001
+revenueGrowth: 0.133
+revenuePerShare: 55.904
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 5
+sharesOutstanding: 272078043
+sharesPercentSharesOut: 0.0002
+sharesShort: 54530
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5296986
+shortName: State Street Corporation
+shortPercentOfFloat: 0.0002
+shortRatio: 0.02
+sourceInterval: 15
+state: MA
+symbol: STT
+targetHighPrice: 230.0
+targetLowPrice: 152.0
+targetMeanPrice: 192.63333
+targetMedianPrice: 192.5
+totalCash: 160376995840
+totalCashPerShare: 589.452
+totalDebt: 52122001408
+totalRevenue: 15495000064
+tradeable: false
+trailingAnnualDividendRate: 3.44
+trailingAnnualDividendYield: 0.020044284
+trailingEps: 12.24
+trailingPE: 14.2357025
+trailingPegRatio: 0.6352
+triggerable: true
+twoHundredDayAverage: 160.3485
+twoHundredDayAverageChange: 13.8965
+twoHundredDayAverageChangePercent: 0.08666436
+typeDisp: Equity
+volume: 334675
+website: https://www.statestreet.com
+zip: '02114'

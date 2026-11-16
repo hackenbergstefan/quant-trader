@@ -1,0 +1,268 @@
+52WeekChange: 0.17477238
+SandP52WeekChange: 0.097798586
+address1: 300 North LaSalle Street
+address2: Suite 1600
+allTimeHigh: 101.6
+allTimeLow: 3.068973
+ask: 90.34
+askSize: 200
+auditRisk: 4
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 4191360
+averageDailyVolume3Month: 3613000
+averageVolume: 3613000
+averageVolume10days: 4191360
+beta: 0.767
+bid: 90.29
+bidSize: 400
+boardRisk: 4
+bookValue: 29.891
+city: Chicago
+companyOfficers:
+- age: 67
+  exercisedValue: 8082787
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Debra A. Cafaro J.D.
+  title: Chairman & CEO
+  totalPay: 5486022
+  unexercisedValue: 113645
+  yearBorn: 1958
+- age: 57
+  exercisedValue: 1249218
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert F. Probst
+  title: Executive VP & CFO
+  totalPay: 2539356
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James Justin Hutchens
+  title: Executive VP of Senior Housing & Chief Investment Officer
+  totalPay: 2491685
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alex  Russo
+  title: Senior Managing Director of Investments
+  unexercisedValue: 0
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laurida  Sayed
+  title: Senior VP, Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Bhavana  Devulapally
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bill  Grant
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin M. Bohl
+  title: Senior VP and Interim General Counsel, Ethics and Compliance Officer & Corporate
+    Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy  Sanders
+  title: Senior Vice President of Business Development
+  unexercisedValue: 0
+- age: 67
+  exercisedValue: 494835
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. T. Richard Riney J.D.
+  title: Senior Advisor
+  totalPay: 1853496
+  unexercisedValue: 0
+  yearBorn: 1958
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 90.26
+currentRatio: 0.371
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 90.6
+dayLow: 89.38
+debtToEquity: 77.464
+displayName: Ventas
+dividendDate: 1792022400
+dividendRate: 2.08
+dividendYield: 2.3
+earningsCallTimestampEnd: 1793196000
+earningsCallTimestampStart: 1793196000
+earningsGrowth: -0.091
+earningsQuarterlyGrowth: -0.01
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1793131200
+earningsTimestampStart: 1793131200
+ebitda: 2465501952
+ebitdaMargins: 0.3657
+enterpriseToEbitda: 24.654
+enterpriseToRevenue: 9.016
+enterpriseValue: 60784164864
+epsCurrentYear: 0.46
+epsForward: 0.695
+epsTrailingTwelveMonths: 0.52
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 86.5538
+fiftyDayAverageChange: 3.7061996
+fiftyDayAverageChangePercent: 0.042819604
+fiftyTwoWeekChangePercent: 17.477238
+fiftyTwoWeekHigh: 101.6
+fiftyTwoWeekHighChange: -11.339996
+fiftyTwoWeekHighChangePercent: -0.11161414
+fiftyTwoWeekLow: 73.82
+fiftyTwoWeekLowChange: 16.440002
+fiftyTwoWeekLowChangePercent: 0.2227039
+fiftyTwoWeekRange: 73.82 - 101.6
+financialCurrency: USD
+firstTradeDateMilliseconds: 862839000000
+fiveYearAvgDividendYield: 3.1
+floatShares: 526318681
+forwardEps: 0.695
+forwardPE: 129.87051
+freeCashflow: 1476931712
+fullExchangeName: NYSE
+fullTimeEmployees: 542
+fulldayChange: -0.0799942
+fulldayChangePercent: -0.08854794
+fulldayPrice: 90.26
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.39338002
+grossProfits: 2652151040
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00491
+heldPercentInstitutions: 1.03423
+impliedSharesOutstanding: 528820000
+industry: REIT - Healthcare Facilities
+industryDisp: REIT - Healthcare Facilities
+industryKey: reit-healthcare-facilities
+irWebsite: http://www.ventasreit.com/investor-relations
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 0.52
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1439856000
+lastSplitFactor: 8757:10000
+longBusinessSummary: Ventas, Inc. is an S&P 500 company enabling exceptional environments
+  that benefit a large and growing aging population. With approximately 1,450 properties
+  in North America and the United Kingdom, Ventas occupies an essential role in the
+  longevity economy. The Company's growth is fueled by its more than 900 senior housing
+  communities, which provide valuable services to residents and enable them to thrive
+  in supported environments. Ventas aims to deliver outsized performance by leveraging
+  its operational expertise, data-driven insights from its Ventas OITM platform, extensive
+  relationships and strong financial position. The Ventas portfolio also includes
+  outpatient medical buildings, research centers and healthcare facilities. Ventas,
+  Inc. is based in Illinois, Chicago. Ventas, Inc. was incorporated in 1983 in Maryland.
+longName: Ventas, Inc.
+market: us_market
+marketCap: 47731294208
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_398549
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 262064000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 47773598800
+numberOfAnalystOpinions: 22
+open: 89.38
+operatingCashflow: 1912422016
+operatingMargins: 0.14619
+overallRisk: 4
+payoutRatio: 3.9231
+pegRatio: 5.1
+phone: 877 483 6827
+previousClose: 90.34
+priceEpsCurrentYear: 196.21739
+priceHint: 2
+priceToBook: 3.019638
+priceToSalesTrailing12Months: 7.0798006
+profitMargins: 0.03887
+quickRatio: 0.296
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6087
+region: US
+regularMarketChange: -0.0799942
+regularMarketChangePercent: -0.08854794
+regularMarketDayHigh: 90.6
+regularMarketDayLow: 89.38
+regularMarketDayRange: 89.38 - 90.6
+regularMarketOpen: 89.38
+regularMarketPreviousClose: 90.34
+regularMarketPrice: 90.26
+regularMarketTime: 1794413745
+regularMarketVolume: 417011
+returnOnAssets: 0.02141
+returnOnEquity: 0.01865
+revenueGrowth: 0.215
+revenuePerShare: 13.818
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 6
+sharesOutstanding: 528820000
+sharesPercentSharesOut: 0.028299998
+sharesShort: 14960910
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 16501695
+shortName: Ventas, Inc.
+shortPercentOfFloat: 0.0323
+shortRatio: 3.77
+sourceInterval: 15
+state: IL
+symbol: VTR
+targetHighPrice: 112.0
+targetLowPrice: 90.0
+targetMeanPrice: 99.0
+targetMedianPrice: 98.5
+totalCash: 202008992
+totalCashPerShare: 0.382
+totalDebt: 12667219968
+totalRevenue: 6741898240
+tradeable: false
+trailingAnnualDividendRate: 2.04
+trailingAnnualDividendYield: 0.02258136
+trailingEps: 0.52
+trailingPE: 173.57693
+trailingPegRatio: 5.1009
+triggerable: true
+twoHundredDayAverage: 86.937
+twoHundredDayAverageChange: 3.3230057
+twoHundredDayAverageChangePercent: 0.038223147
+typeDisp: Equity
+volume: 417011
+website: https://www.ventasreit.com
+zip: '60654'

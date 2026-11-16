@@ -1,0 +1,256 @@
+52WeekChange: 0.41930735
+SandP52WeekChange: 0.097798586
+address1: Chesney House
+address2: 96 Pitts Bay Road
+allTimeHigh: 2008.0
+allTimeLow: 104.01
+ask: 1928.0
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 1254006
+averageDailyVolume3Month: 1311863
+averageVolume: 1311863
+averageVolume10days: 1254006
+beta: 0.369
+bid: 1927.0
+bidSize: 0
+boardRisk: 1
+bookValue: 9.2174225
+city: Pembroke
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hamayou Akbar Hussain
+  title: Group CEO & Executive Director
+  totalPay: 3373002
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul David Cooper
+  title: Group CFO & Executive Director
+  totalPay: 2401203
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Joanne Riddick Musselle
+  title: Group Chief Underwriting Officer & Executive Director
+  totalPay: 2740944
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shali  Vasudeva
+  title: Group Chief Operations & Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Todd  Isaac
+  title: Group Chief Investment & Treasury Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Yana  O'Sullivan
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shirley  Girling
+  title: Group General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Panayotis  Koulovasilopoulos
+  title: Head of Climate & Resilience
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc  Wetherhill
+  title: Company Secretary
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Craig  Martindale
+  title: Chief Actuary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Bermuda
+cryptoTradeable: false
+currency: GBp
+currentPrice: 1927.0
+currentRatio: 82.667
+customPriceAlertConfidence: LOW
+dayHigh: 1944.0
+dayLow: 1922.0
+debtToEquity: 21.378
+dividendRate: 0.39
+dividendYield: 2.03
+earningsCallTimestampEnd: 1785922200
+earningsCallTimestampStart: 1785922200
+earningsGrowth: 0.22
+earningsQuarterlyGrowth: 0.162
+earningsTimestampEnd: 1785943800
+earningsTimestampStart: 1785943800
+ebitda: 767000000
+ebitdaMargins: 0.18636
+enterpriseToEbitda: 7.721
+enterpriseToRevenue: 1.439
+enterpriseValue: 5922213376
+epsCurrentYear: 1.68384
+epsForward: 1.5413836
+epsTrailingTwelveMonths: 1.41
+esgPopulated: false
+exDividendDate: 1786579200
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 1874.68
+fiftyDayAverageChange: 52.319946
+fiftyDayAverageChangePercent: 0.027908733
+fiftyTwoWeekChangePercent: 41.930737
+fiftyTwoWeekHigh: 2008.0
+fiftyTwoWeekHighChange: -81.0
+fiftyTwoWeekHighChangePercent: -0.040338647
+fiftyTwoWeekLow: 1288.0
+fiftyTwoWeekLowChange: 639.0
+fiftyTwoWeekLowChangePercent: 0.496118
+fiftyTwoWeekRange: 1288.0 - 2008.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 946972800000
+fiveYearAvgDividendYield: 2.18
+floatShares: 319742409
+forwardEps: 1.5413836
+forwardPE: 12.501754
+freeCashflow: 448912512
+fullExchangeName: LSE
+fullTimeEmployees: 3000
+fulldayChange: 1.0
+fulldayChangePercent: 0.05192108
+fulldayPrice: 1927.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.24180001
+grossProfits: 995200000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00184
+heldPercentInstitutions: 0.73829
+impliedSharesOutstanding: 314453497
+industry: Insurance - Property & Casualty
+industryDisp: Insurance - Property & Casualty
+industryKey: insurance-property-casualty
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786579200
+lastDividendValue: 0.1242
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1427328000
+lastSplitFactor: 88:100
+longBusinessSummary: Hiscox Ltd, through its subsidiaries, provides insurance and
+  reinsurance services in the United Kingdom, Europe, the United States, and internationally.
+  It operates through Hiscox Retail, Hiscox London Market, and Hiscox Re segments.
+  The company offers commercial insurance, such as emerging professions, media and
+  tech, and small business insurance; and personal lines, including high-value homes
+  and fine art, as well as artwork, antiques, classic cars, jewelry, collectables,
+  and other assets through brokers, partners, and direct-to-consumers. It also provides
+  property insurance; marine, specialty, cyber, and energy insurance; casualty insurance;
+  terrorism, kidnap, and ransom insurance; and other specialty insurance products.
+  In addition, the company offers property and casualty reinsurance services, as well
+  as investment services. Hiscox Ltd was founded in 1901 and is headquartered in Pembroke,
+  Bermuda.
+longName: Hiscox Ltd
+market: gb_market
+marketCap: 6059518976
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_128346
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 640899968
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 6056374352
+numberOfAnalystOpinions: 13
+open: 1936.0
+operatingCashflow: 735800000
+operatingMargins: 0.18412
+overallRisk: 2
+payoutRatio: 0.26569998
+pegRatio: 3.65
+phone: 441 278 8300
+previousClose: 1926.0
+priceEpsCurrentYear: 1144.408
+priceHint: 2
+priceToBook: 2.090606
+priceToSalesTrailing12Months: 1.4722579
+profitMargins: 0.15572
+quickRatio: 34.757
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.92308
+region: US
+regularMarketChange: 1.0
+regularMarketChangePercent: 0.05192108
+regularMarketDayHigh: 1944.0
+regularMarketDayLow: 1922.0
+regularMarketDayRange: 1922.0 - 1944.0
+regularMarketOpen: 1936.0
+regularMarketPreviousClose: 1926.0
+regularMarketPrice: 1927.0
+regularMarketTime: 1794411573
+regularMarketVolume: 150880
+returnOnAssets: 0.038429998
+returnOnEquity: 0.16513
+revenueGrowth: 0.05
+revenuePerShare: 12.636
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 314453497
+shortName: HISCOX LTD ORD 6.5P (DI)
+sourceInterval: 15
+symbol: HSX.L
+targetHighPrice: 2273.8794
+targetLowPrice: 1160.1841
+targetMeanPrice: 2033.4244
+targetMedianPrice: 2091.9692
+totalCash: 1091900032
+totalCashPerShare: 3.41
+totalDebt: 845400000
+totalRevenue: 4115800064
+tradeable: false
+trailingAnnualDividendRate: 0.527
+trailingAnnualDividendYield: 0.0002736241
+trailingEps: 1.41
+trailingPE: 13.666667
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 1727.18
+twoHundredDayAverageChange: 199.81995
+twoHundredDayAverageChangePercent: 0.11569144
+typeDisp: Equity
+volume: 150880
+website: https://www.hiscoxgroup.com
+zip: HM 08

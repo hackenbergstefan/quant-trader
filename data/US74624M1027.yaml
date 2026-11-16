@@ -1,0 +1,276 @@
+52WeekChange: 0.1511457
+SandP52WeekChange: 0.097798586
+address1: 2555 Augustine Drive
+allTimeHigh: 157.57
+allTimeLow: 7.93
+ask: 110.46
+askSize: 200
+auditRisk: 2
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 3121900
+averageDailyVolume3Month: 4882217
+averageVolume: 4882217
+averageVolume10days: 3121900
+beta: 1.451
+bid: 110.25
+bidSize: 200
+boardRisk: 10
+bookValue: 4.623
+city: Santa Clara
+companyOfficers:
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Charles H. Giancarlo
+  title: Chairman & CEO
+  totalPay: 2423258
+  unexercisedValue: 54620000
+  yearBorn: 1958
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. John  Colgrove
+  title: Founder, Chief Visionary Officer & Director
+  totalPay: 1571044
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Tarek A. Robbiati M.B.A., M.Sc.
+  title: Chief Financial Officer
+  totalPay: 1277612
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Ajay  Singh
+  title: Chief Product Officer
+  totalPay: 1403682
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Patrick  Finn
+  title: Chief Revenue Officer
+  totalPay: 1164106
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. John M. Hayes
+  title: Founder & Advisor
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Robert  Lee
+  title: VP, CTO & Chief Growth Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Nicole  Armstrong J.D.
+  title: Chief Administrative & Legal Officer and Corporate Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Paul  Ziots
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Lynn  Lucas
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 109.24
+currentRatio: 1.511
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 110.535
+dayLow: 106.36
+debtToEquity: 14.622
+displayName: Everpure
+dividendYield: 0.0
+earningsCallTimestampEnd: 1795039200
+earningsCallTimestampStart: 1795039200
+earningsGrowth: 0.5
+earningsQuarterlyGrowth: 0.574
+earningsTimestamp: 1795035600
+earningsTimestampEnd: 1795035600
+earningsTimestampStart: 1795035600
+ebitda: 384104992
+ebitdaMargins: 0.09012
+enterpriseToEbitda: 86.435
+enterpriseToRevenue: 7.789
+enterpriseValue: 33199931392
+epsCurrentYear: 2.78236
+epsForward: 4.16505
+epsTrailingTwelveMonths: 0.73
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 120.3504
+fiftyDayAverageChange: -11.110405
+fiftyDayAverageChangePercent: -0.09231714
+fiftyTwoWeekChangePercent: 15.11457
+fiftyTwoWeekHigh: 157.57
+fiftyTwoWeekHighChange: -48.33001
+fiftyTwoWeekHighChangePercent: -0.30672088
+fiftyTwoWeekLow: 56.78
+fiftyTwoWeekLowChange: 52.46
+fiftyTwoWeekLowChangePercent: 0.9239169
+fiftyTwoWeekRange: 56.78 - 157.57
+financialCurrency: USD
+firstTradeDateMilliseconds: 1444138200000
+floatShares: 318865156
+forwardEps: 4.16505
+forwardPE: 26.227776
+freeCashflow: -114351752
+fullExchangeName: NYSE
+fullTimeEmployees: 6400
+fulldayChange: 7.2599945
+fulldayChangePercent: 7.119037
+fulldayPrice: 109.24
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.69734
+grossProfits: 2972184064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.04399
+heldPercentInstitutions: 0.88989997
+impliedSharesOutstanding: 333227251
+industry: Computer Hardware
+industryDisp: Computer Hardware
+industryKey: computer-hardware
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1769904000
+longBusinessSummary: Everpure, Inc. provides data storage and management technologies,
+  products, and services in the United States and internationally. Its Purity software
+  is shared across its products and provides enterprise-class data services, such
+  as always-on data reduction, data protection, and encryption, as well as storage
+  protocols, such as block, file, and object. The company also provides FlashArray,
+  including FlashArray//ST, FlashArray//X, FlashArray//C, FlashArray//XL, FlashArray//E,
+  and FlashArray File Services, addressing databases, applications, virtual machines,
+  and other traditional workloads; and FlashBlade integrated hardware systems comprising
+  FlashBlade//S, FlashBlade//E, and FlashBlade//EXA for managing and processing unstructured
+  data workloads of various types from real-time log analytics and commercial high-performance
+  computing (HPC) to data protection and recovery. In addition, it offers cloud storage
+  solutions, such as Portworx by Everpure, a cloud-native Kubernetes data management
+  solution; and Evergreen/One; and Evergreen/Flex. Further, the company provides Everpure
+  Fusion, a Software-as-a-Service (SaaS) management plane, which enables storage administrators
+  to unify storage arrays and optimize storage pools; Evergreen Architecture comprising
+  Pure1, an AI-driven cloud-based management platform, as well as Evergreen//One and
+  Evergreen//Flex data storage solutions; and Everpure Cloud, a virtual block storage
+  array, that provides customers the flexibility to operate a hybrid cloud model with
+  seamless data mobility across on-premises and public cloud environments. It sells
+  its products and subscription services through a direct sales force and channel
+  partners. Everpure, Inc. has a strategic alliance with Odine Solutions Teknoloji
+  Ticaret ve Sanayi A.S. The company was formerly known as Pure Storage, Inc. and
+  changed its name to Everpure, Inc. in February 2026. Everpure, Inc. was incorporated
+  in 2009 and is headquartered in Santa Clara, California.
+longName: Everpure, Inc.
+market: us_market
+marketCap: 36401745920
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_111528632
+mostRecentQuarter: 1785628800
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 253284992
+nextFiscalYearEnd: 1801440000
+nonDilutedMarketCap: 33982515056
+numberOfAnalystOpinions: 19
+open: 108.34
+operatingCashflow: 427808000
+operatingMargins: 0.052600004
+overallRisk: 10
+payoutRatio: 0.0
+pegRatio: 1.19
+phone: 800 379 7873
+prevName: Pure Storage, Inc.
+previousClose: 101.98
+priceEpsCurrentYear: 39.26163
+priceHint: 2
+priceToBook: 23.629677
+priceToSalesTrailing12Months: 8.540701
+profitMargins: 0.05943
+quickRatio: 1.338
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.55
+region: US
+regularMarketChange: 7.2599945
+regularMarketChangePercent: 7.119037
+regularMarketDayHigh: 110.535
+regularMarketDayLow: 106.36
+regularMarketDayRange: 106.36 - 110.535
+regularMarketOpen: 108.34
+regularMarketPreviousClose: 101.98
+regularMarketPrice: 109.24
+regularMarketTime: 1794413724
+regularMarketVolume: 785998
+returnOnAssets: 0.03031
+returnOnEquity: 0.17714001
+revenueGrowth: 0.377
+revenuePerShare: 12.875
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 10
+sharesOutstanding: 333227251
+sharesPercentSharesOut: 0.0248
+sharesShort: 8272991
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8174555
+shortName: Everpure, Inc.
+shortPercentOfFloat: 0.0349
+shortRatio: 2.18
+sourceInterval: 15
+state: CA
+symbol: P
+targetHighPrice: 215.0
+targetLowPrice: 80.0
+targetMeanPrice: 151.10526
+targetMedianPrice: 155.0
+totalCash: 1007891008
+totalCashPerShare: 3.025
+totalDebt: 225307008
+totalRevenue: 4262149888
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 0.73
+trailingPE: 149.64383
+trailingPegRatio: 1.1776
+triggerable: true
+twoHundredDayAverage: 86.73985
+twoHundredDayAverageChange: 22.500145
+twoHundredDayAverageChangePercent: 0.259398
+typeDisp: Equity
+volume: 785998
+website: https://www.everpuredata.com
+zip: '95054'

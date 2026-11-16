@@ -1,0 +1,268 @@
+52WeekChange: -0.30186093
+SandP52WeekChange: 0.097798586
+address1: 5505 Waterford District Drive
+allTimeHigh: 187.6089
+allTimeLow: 1.120433
+ask: 84.67
+askSize: 100
+auditRisk: 4
+averageAnalystRating: 3.6 - Underperform
+averageDailyVolume10Day: 3773610
+averageDailyVolume3Month: 4335979
+averageVolume: 4335979
+averageVolume10days: 3773610
+beta: 1.381
+bid: 84.47
+bidSize: 200
+boardRisk: 10
+bookValue: 90.622
+city: Miami
+companyOfficers:
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stuart A. Miller
+  title: Executive Chairman, CEO & President
+  totalPay: 3784880
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Diane J. Bessette
+  title: CFO & VP
+  totalPay: 3625876
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katherine Lee Martin
+  title: Chief Legal Officer & Corporate Secretary
+  totalPay: 2048638
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David M. Collins
+  title: VP & Controller
+  totalPay: 1270899
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jim  Parker
+  title: Chief Operating Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Drew  Holler
+  title: Chief HR Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tench  Tilghman
+  title: President of Pennsylvania & Delaware Markets
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Grove
+  title: Executive Vice President of Homebuilding
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kemp  Gillis
+  title: Senior Vice President of Supply Chain
+  unexercisedValue: 0
+- age: 70
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Pascal J. Goldschmidt FACC, M.D.
+  title: Chief Medical Officer
+  unexercisedValue: 0
+  yearBorn: 1955
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 84.865
+currentRatio: 10.135
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 85.96
+dayLow: 84.0
+debtToEquity: 28.201
+displayName: Lennar
+dividendDate: 1792627200
+dividendRate: 2.0
+dividendYield: 2.31
+earningsCallTimestampEnd: 1789657200
+earningsCallTimestampStart: 1789657200
+earningsGrowth: -0.482
+earningsQuarterlyGrowth: -0.52
+earningsTimestamp: 1789588800
+earningsTimestampEnd: 1797368400
+earningsTimestampStart: 1797368400
+ebitda: 1982134016
+ebitdaMargins: 0.06199
+enterpriseToEbitda: 12.952
+enterpriseToRevenue: 0.803
+enterpriseValue: 25671641088
+epsCurrentYear: 4.9364
+epsForward: 5.22147
+epsTrailingTwelveMonths: 5.28
+esgPopulated: false
+exDividendDate: 1791331200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 81.5276
+fiftyDayAverageChange: 3.3373947
+fiftyDayAverageChangePercent: 0.040935762
+fiftyTwoWeekChangePercent: -30.186092
+fiftyTwoWeekHigh: 133.76
+fiftyTwoWeekHighChange: -48.894997
+fiftyTwoWeekHighChangePercent: -0.36554274
+fiftyTwoWeekLow: 71.78
+fiftyTwoWeekLowChange: 13.084999
+fiftyTwoWeekLowChangePercent: 0.1822931
+fiftyTwoWeekRange: 71.78 - 133.76
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 1.43
+floatShares: 182536095
+forwardEps: 5.22147
+forwardPE: 16.253086
+freeCashflow: 1227246208
+fullExchangeName: NYSE
+fullTimeEmployees: 12532
+fulldayChange: -1.7950058
+fulldayChangePercent: -2.0713198
+fulldayPrice: 84.865
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.16014999
+grossProfits: 5120441856
+hasPrePostMarketData: true
+heldPercentInsiders: 0.15712
+heldPercentInstitutions: 1.00055
+impliedSharesOutstanding: 237900239
+industry: Residential Construction
+industryDisp: Residential Construction
+industryKey: residential-construction
+irWebsite: http://www.lennar.com/investor/investor.aspx
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1791331200
+lastDividendValue: 0.5
+lastFiscalYearEnd: 1764460800
+lastSplitDate: 1737417600
+lastSplitFactor: 1033:1000
+longBusinessSummary: Lennar Corporation, together with its subsidiaries, operates
+  as a homebuilder primarily under the Lennar brand in the United States. It operates
+  through Homebuilding East, Homebuilding Central, Homebuilding South Central, Homebuilding
+  West, Financial Services, Multifamily, and Lennar Other segments. The company's
+  homebuilding operations include the construction and sale of single-family attached
+  and detached homes, as well as the purchase, development, and sale of residential
+  land; and development, construction, and management of multifamily rental properties.
+  It also offers residential mortgage financing, title insurance, and closing services
+  for home buyers and others, as well as originating and selling securitization commercial
+  mortgage loans. In addition, the company is involved in fund investment activities.
+  It primarily serves first-time, move-up, active adult, and luxury homebuyers. The
+  company was founded in 1954 and is based in Miami, Florida.
+longName: Lennar Corporation
+market: us_market
+marketCap: 20189403136
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_30763
+mostRecentQuarter: 1788134400
+netIncomeToCommon: 1295213056
+nextFiscalYearEnd: 1795996800
+nonDilutedMarketCap: 20558488358
+numberOfAnalystOpinions: 15
+open: 85.49
+operatingCashflow: 937302976
+operatingMargins: 0.05763
+overallRisk: 9
+payoutRatio: 0.3788
+pegRatio: 11.3
+phone: 305 559 4000
+previousClose: 86.66
+priceEpsCurrentYear: 17.191677
+priceHint: 2
+priceToBook: 0.93647236
+priceToSalesTrailing12Months: 0.6314501
+profitMargins: 0.04092
+quickRatio: 1.092
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: underperform
+recommendationMean: 3.57143
+region: US
+regularMarketChange: -1.7950058
+regularMarketChangePercent: -2.0713198
+regularMarketDayHigh: 85.96
+regularMarketDayLow: 84.0
+regularMarketDayRange: 84.0 - 85.96
+regularMarketOpen: 85.49
+regularMarketPreviousClose: 86.66
+regularMarketPrice: 84.865
+regularMarketTime: 1794413735
+regularMarketVolume: 1096806
+returnOnAssets: 0.03374
+returnOnEquity: 0.05962
+revenueGrowth: -0.087
+revenuePerShare: 131.127
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 10
+sharesOutstanding: 207876222
+sharesPercentSharesOut: 0.0026
+sharesShort: 612884
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 19141047
+shortName: Lennar Corporation
+shortPercentOfFloat: 0.0034999999
+shortRatio: 0.12
+sourceInterval: 15
+state: FL
+symbol: LEN
+targetHighPrice: 120.0
+targetLowPrice: 58.0
+targetMeanPrice: 77.6
+targetMedianPrice: 73.0
+totalCash: 1200945024
+totalCashPerShare: 5.048
+totalDebt: 6118689792
+totalRevenue: 31973076992
+tradeable: false
+trailingAnnualDividendRate: 2.0
+trailingAnnualDividendYield: 0.023078697
+trailingEps: 5.28
+trailingPE: 16.072916
+trailingPegRatio: 11.3018
+triggerable: true
+twoHundredDayAverage: 90.3174
+twoHundredDayAverageChange: -5.4524
+twoHundredDayAverageChangePercent: -0.060369324
+typeDisp: Equity
+volume: 1096806
+website: https://www.lennar.com
+zip: '33126'

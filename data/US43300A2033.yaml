@@ -1,0 +1,284 @@
+52WeekChange: 0.3819505
+SandP52WeekChange: 0.097798586
+address1: 7930 Jones Branch Drive
+address2: Suite 1100
+allTimeHigh: 381.34
+allTimeLow: 33.16032
+ask: 0.0
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 2016080
+averageDailyVolume3Month: 1817087
+averageVolume: 1817087
+averageVolume10days: 2016080
+beta: 1.071
+bid: 376.77
+bidSize: 2
+boardRisk: 7
+bookValue: -29.553
+city: McLean
+companyOfficers:
+- age: 62
+  exercisedValue: 15015802
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher J. Nassetta
+  title: President, CEO & Director
+  totalPay: 4574717
+  unexercisedValue: 216602464
+  yearBorn: 1963
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin J. Jacobs
+  title: Executive VP & Chief Financial Officer
+  totalPay: 2189785
+  unexercisedValue: 20276666
+  yearBorn: 1972
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian H. Charnaux
+  title: Executive VP & Chief Development Officer
+  totalPay: 1529539
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laura A. Fuentes
+  title: Executive VP, Chief Human Resources Officer & Head of Hilton Supply Management
+  totalPay: 1752171
+  unexercisedValue: 9097799
+  yearBorn: 1976
+- age: 53
+  exercisedValue: 3768710
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher W. Silcock
+  title: President of Global Brands and Commercial Services
+  totalPay: 2140968
+  unexercisedValue: 16960908
+  yearBorn: 1972
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Misha  Moylan
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1985
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charlie  Ruehr
+  title: Vice President of Corporate Finance & Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeff  Moore
+  title: CTO & Executive VP
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Caroline D. Krass
+  title: Executive VP, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank R. Passanante
+  title: Senior Vice President of Group Sales
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions:
+- header: Dividend
+  message: HLT announced a cash dividend of $0.15 with an ex-date of Dec. 1, 2026
+  meta:
+    amount: '0.15'
+    dateEpochMs: 1796101200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 376.86
+currentRatio: 0.59
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 379.98
+dayLow: 374.725
+displayName: Hilton Worldwide
+dividendDate: 1798502400
+dividendRate: 0.6
+dividendYield: 0.16
+earningsCallTimestampEnd: 1793106000
+earningsCallTimestampStart: 1793106000
+earningsGrowth: 0.331
+earningsQuarterlyGrowth: 0.276
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1793104200
+earningsTimestampStart: 1793104200
+ebitda: 3227000064
+ebitdaMargins: 0.62308997
+enterpriseToEbitda: 30.285
+enterpriseToRevenue: 18.87
+enterpriseValue: 97730256896
+epsCurrentYear: 9.13599
+epsForward: 10.4571
+epsTrailingTwelveMonths: 7.41
+esgPopulated: false
+exDividendDate: 1796083200
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+exchangeTransferDate: '2026-11-05'
+executiveTeam: []
+fiftyDayAverage: 331.3294
+fiftyDayAverageChange: 45.53058
+fiftyDayAverageChangePercent: 0.13741787
+fiftyTwoWeekChangePercent: 38.19505
+fiftyTwoWeekHigh: 381.34
+fiftyTwoWeekHighChange: -4.480011
+fiftyTwoWeekHighChangePercent: -0.0117480755
+fiftyTwoWeekLow: 263.95
+fiftyTwoWeekLowChange: 112.90997
+fiftyTwoWeekLowChangePercent: 0.4277703
+fiftyTwoWeekRange: 263.95 - 381.34
+financialCurrency: USD
+firstTradeDateMilliseconds: 1386858600000
+fiveYearAvgDividendYield: 0.24
+floatShares: 218205571
+forwardEps: 10.4571
+forwardPE: 36.03867
+freeCashflow: 1472375040
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 182000
+fulldayChange: -2.9000244
+fulldayChangePercent: -0.75785923
+fulldayPrice: 376.86
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.79455
+grossProfits: 4115000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.022230001
+heldPercentInstitutions: 0.97754997
+impliedSharesOutstanding: 222504355
+industry: Lodging
+industryDisp: Lodging
+industryKey: lodging
+ipoExpectedDate: '2026-11-05'
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787270400
+lastDividendValue: 0.15
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1483488000
+lastSplitFactor: 1000:2052
+longBusinessSummary: Hilton Worldwide Holdings Inc., a hospitality company, engages
+  in managing, franchising, and leasing hotels and resorts. It operates in two segments,
+  Management and Franchise, and Ownership. The company engages in the hotel management
+  and licensing of its brand names, trademarks, and service marks. It operates a brand
+  portfolio of luxury, lifestyle, full service, focused service, all-suites hotel,
+  and timeshare under the Waldorf Astoria Hotels & Resorts, LXR Hotels & Resorts,
+  Conrad Hotels & Resorts, Signia by Hilton, NoMad, Canopy by Hilton, Graduate by
+  Hilton, Tempo by Hilton, Motto by Hilton, Hilton Hotels & Resorts, DoubleTree by
+  Hilton, Curio Collection by Hilton, Tapestry Collection by Hilton, Outset Collection
+  by Hilton, Embassy Suites by Hilton, Homewood Suites by Hilton, Home2 Suites by
+  Hilton, LivSmart Studios by Hilton, Hilton Garden Inn, Hampton by Hilton, Tru by
+  Hilton, Spark by Hilton, Hilton Grand Vacations, Small Luxury Hotels of the World,
+  AutoCamp, and Hilton Honors brand names. The company has operations in North America,
+  South America, and Central America, including various Caribbean nations; Europe,
+  the Middle East, and Africa; and the Asia Pacific. Hilton Worldwide Holdings Inc.
+  was founded in 1919 and is headquartered in McLean, Virginia.
+longName: Hilton Worldwide Holdings Inc.
+market: us_market
+marketCap: 83852984320
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_29470
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1700000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 84498253854
+numberOfAnalystOpinions: 27
+open: 379.29
+operatingCashflow: 2014000000
+operatingMargins: 0.58486
+overallRisk: 6
+payoutRatio: 0.081
+pegRatio: 2.03
+phone: 703 883 1000
+prevExchange: NYQ
+previousClose: 379.76
+priceEpsCurrentYear: 41.250042
+priceHint: 2
+priceToBook: -12.752005
+priceToSalesTrailing12Months: 16.190962
+profitMargins: 0.32825002
+quickRatio: 0.488
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.86207
+region: US
+regularMarketChange: -2.9000244
+regularMarketChangePercent: -0.7636466
+regularMarketDayHigh: 379.98
+regularMarketDayLow: 374.725
+regularMarketDayRange: 374.725 - 379.98
+regularMarketOpen: 379.29
+regularMarketPreviousClose: 379.76
+regularMarketPrice: 376.86
+regularMarketTime: 1794413736
+regularMarketVolume: 191257
+returnOnAssets: 0.11322
+revenueGrowth: 0.058
+revenuePerShare: 22.665
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 5
+sharesOutstanding: 222504355
+sharesPercentSharesOut: 0.0235
+sharesShort: 5220322
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5579089
+shortName: Hilton Worldwide Holdings Inc.
+shortPercentOfFloat: 0.0271
+shortRatio: 2.91
+sourceInterval: 15
+state: VA
+symbol: HLT
+targetHighPrice: 425.0
+targetLowPrice: 275.0
+targetMeanPrice: 370.55557
+targetMedianPrice: 375.0
+totalCash: 774000000
+totalCashPerShare: 3.479
+totalDebt: 13971999744
+totalRevenue: 5178999808
+tradeable: false
+trailingAnnualDividendRate: 0.6
+trailingAnnualDividendYield: 0.0015799452
+trailingEps: 7.41
+trailingPE: 50.8583
+trailingPegRatio: 2.0659
+triggerable: true
+twoHundredDayAverage: 323.44955
+twoHundredDayAverageChange: 53.41043
+twoHundredDayAverageChangePercent: 0.16512755
+typeDisp: Equity
+volume: 191257
+website: https://www.hilton.com
+zip: '22102'

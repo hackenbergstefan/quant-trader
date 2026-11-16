@@ -1,0 +1,284 @@
+52WeekChange: 0.18858755
+SandP52WeekChange: 0.097798586
+address1: 388 Greenwich Street
+allTimeHigh: 591.25
+allTimeLow: 9.7
+ask: 124.43
+askSize: 100
+auditRisk: 1
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 11049130
+averageDailyVolume3Month: 9524635
+averageVolume: 9524635
+averageVolume10days: 11049130
+beta: 1.154
+bid: 124.31
+bidSize: 100
+boardRisk: 6
+bookValue: 115.61
+city: New York
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jane Nind Fraser Ph.D.
+  title: CEO & Chair of the Board
+  totalPay: 7587000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark A.L. Mason
+  title: Executive Vice Chairman and Senior Executive Advisor to Chair & CEO
+  totalPay: 9415640
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Engineer Ernesto Torres Cantu
+  title: Head of International
+  totalPay: 8555772
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew J. Morton
+  title: Head of Markets
+  totalPay: 12405135
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Viswas  Raghavan
+  title: Executive Vice Chairman & Head of Banking
+  totalPay: 23468649
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gonzalo  Luchetti
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anand  Selvakesari
+  title: Chief Operating Officer
+  totalPay: 8183176
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nicole  Giles
+  title: Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Achintya  Mangla
+  title: Head of Investment Banking Financing
+  unexercisedValue: 0
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy F. Ryan
+  title: Head of Technology & Business Enablement
+  unexercisedValue: 0
+  yearBorn: 1964
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 124.62
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 124.64
+dayLow: 122.44
+displayName: Citigroup
+dividendDate: 1795564800
+dividendRate: 2.68
+dividendYield: 2.19
+earningsCallTimestampEnd: 1799942400
+earningsCallTimestampStart: 1799942400
+earningsGrowth: 0.534
+earningsQuarterlyGrowth: 0.398
+earningsTimestamp: 1799933400
+earningsTimestampEnd: 1799933400
+earningsTimestampStart: 1799933400
+ebitdaMargins: 0.0
+enterpriseToRevenue: -0.734
+enterpriseValue: -61137141760
+epsCurrentYear: 11.4046
+epsForward: 13.06276
+epsTrailingTwelveMonths: 10.26
+esgPopulated: false
+exDividendDate: 1793577600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 128.506
+fiftyDayAverageChange: -3.885994
+fiftyDayAverageChangePercent: -0.030239787
+fiftyTwoWeekChangePercent: 18.858755
+fiftyTwoWeekHigh: 147.96
+fiftyTwoWeekHighChange: -23.340004
+fiftyTwoWeekHighChangePercent: -0.15774536
+fiftyTwoWeekLow: 95.83
+fiftyTwoWeekLowChange: 28.79
+fiftyTwoWeekLowChangePercent: 0.30042785
+fiftyTwoWeekRange: 95.83 - 147.96
+financialCurrency: USD
+firstTradeDateMilliseconds: 221149800000
+fiveYearAvgDividendYield: 3.04
+floatShares: 1650371322
+forwardEps: 13.06276
+forwardPE: 9.540097
+fullExchangeName: NYSE
+fullTimeEmployees: 217000
+fulldayChange: 2.350006
+fulldayChangePercent: 1.921981
+fulldayPrice: 124.62
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 83299000320
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0028400002
+heldPercentInstitutions: 0.8264
+impliedSharesOutstanding: 1655204519
+industry: Banks - Diversified
+industryDisp: Banks - Diversified
+industryKey: banks-diversified
+irWebsite: http://www.citigroup.com/citi/investor/overview.html
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793577600
+lastDividendValue: 0.67
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1304899200
+lastSplitFactor: '1:10'
+longBusinessSummary: 'Citigroup Inc., a diversified financial service holding company,
+  provides various financial products and services to consumers, corporations, governments,
+  and institutions. It operates through five segments: Services, Markets, Banking,
+  U.S. Personal Banking, and Wealth. The Services segment includes treasury and trade
+  solutions, which provides cash management, trade, and working capital solutions
+  to multinational corporations, financial institutions, and public sector organizations;
+  and securities services, such as cross-border support for clients, local market
+  expertise, post-trade technologies, data solutions, and various securities services
+  solutions. The Markets segment offers sales and trading services for equities, foreign
+  exchange, rates, spread products, and commodities to corporate, institutional, and
+  public sector clients; and market-making services, including asset classes, risk
+  management solutions, financing, and prime brokerage. The Banking segment includes
+  investment banking services comprising equity and debt capital markets-related strategic
+  financing solutions; advisory services related to mergers and acquisitions, divestitures,
+  restructurings, and corporate defense activities; and corporate lending consists
+  of corporate and commercial banking. The U.S. Personal Banking segment provides
+  proprietary and co-branded card portfolios; and traditional banking services to
+  retail and small business customers. The Wealth segment offers financial services
+  to high-net-worth clients through banking, lending, mortgages, investment, custody,
+  and trust product offerings; professional industries, including law firms, consulting
+  groups, accounting, and asset management; and affluent and high net worth clients.
+  The company operates in North America, the United Kingdom, Japan, North and South
+  Asia, Australia, Europe, the Middle East, and Africa. Citigroup Inc. was founded
+  in 1812 and is headquartered in New York, New York.'
+longName: Citigroup Inc.
+market: us_market
+marketCap: 206271594496
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_391687
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 17860999168
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 202381856538
+numberOfAnalystOpinions: 21
+open: 123.12
+operatingCashflow: 4380000256
+operatingMargins: 0.3199
+overallRisk: 8
+payoutRatio: 0.24069999
+pegRatio: 0.51
+phone: 212 559 1000
+previousClose: 122.27
+priceEpsCurrentYear: 10.92717
+priceHint: 2
+priceToBook: 1.0779345
+priceToSalesTrailing12Months: 2.4762793
+profitMargins: 0.23208
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.65217
+region: US
+regularMarketChange: 2.350006
+regularMarketChangePercent: 1.921981
+regularMarketDayHigh: 124.64
+regularMarketDayLow: 122.44
+regularMarketDayRange: 122.44 - 124.64
+regularMarketOpen: 123.12
+regularMarketPreviousClose: 122.27
+regularMarketPrice: 124.62
+regularMarketTime: 1794413728
+regularMarketVolume: 1466162
+returnOnAssets: 0.00713
+returnOnEquity: 0.09353
+revenueGrowth: 0.08
+revenuePerShare: 48.414
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 1655204519
+sharesPercentSharesOut: 0.0005
+sharesShort: 769007
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 21047423
+shortName: Citigroup, Inc.
+shortPercentOfFloat: 0.0005
+shortRatio: 0.08
+sourceInterval: 15
+state: NY
+symbol: C
+targetHighPrice: 170.0
+targetLowPrice: 127.0
+targetMeanPrice: 150.59525
+targetMedianPrice: 150.0
+totalCash: 1172846018560
+totalCashPerShare: 708.581
+totalDebt: 888902975488
+totalRevenue: 83299000320
+tradeable: false
+trailingAnnualDividendRate: 2.47
+trailingAnnualDividendYield: 0.020201195
+trailingEps: 10.26
+trailingPE: 12.146199
+trailingPegRatio: 0.5093
+triggerable: true
+twoHundredDayAverage: 126.79895
+twoHundredDayAverageChange: -2.1789474
+twoHundredDayAverageChangePercent: -0.01718427
+typeDisp: Equity
+volume: 1466162
+website: https://www.citigroup.com
+zip: '10013'

@@ -1,0 +1,285 @@
+52WeekChange: 0.06760085
+SandP52WeekChange: 0.097798586
+address1: 270 Park Avenue
+allTimeHigh: 366.5
+allTimeLow: 3.208333
+ask: 342.25
+askSize: 80
+auditRisk: 6
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 7490800
+averageDailyVolume3Month: 7135821
+averageVolume: 7135821
+averageVolume10days: 7490800
+beta: 1.02
+bid: 342.23
+bidSize: 80
+boardRisk: 6
+bookValue: 132.297
+city: New York
+companyOfficers:
+- age: 69
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James  Dimon
+  title: Chairman & CEO
+  totalPay: 8087852
+  unexercisedValue: 0
+  yearBorn: 1956
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Douglas B. Petno
+  title: CEO of the Commercial & Investment Bank and Co-President
+  totalPay: 11631825
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Troy Larry Rohrbaugh
+  title: CEO of Consumer & Community Banking and Co-President
+  totalPay: 11608676
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeremy  Barnum
+  title: Executive VP & CFO
+  totalPay: 8400000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mary Callahan Erdoes
+  title: Chief Executive Officer of Asset & Wealth Management and Executive VP
+  totalPay: 13000000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel Eduardo Pinto
+  title: Vice Chairman
+  totalPay: 6616871
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Todd Anthony Combs M.B.A.
+  title: Head Strategic Investment Group of Security & Resiliency Initiative
+  totalPay: 147717
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer A. Piepszak
+  title: Chief Operating Officer
+  totalPay: 7855000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elena A. Korablina
+  title: MD, Firmwide Controller & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lori Ann Beer
+  title: Global Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 343.07
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 343.73
+dayLow: 340.82
+displayName: JPMorgan Chase
+dividendDate: 1793404800
+dividendRate: 6.6
+dividendYield: 1.93
+earningsCallTimestampEnd: 1799933400
+earningsCallTimestampStart: 1799933400
+earningsGrowth: 0.099
+earningsQuarterlyGrowth: 0.063
+earningsTimestamp: 1799933400
+earningsTimestampEnd: 1799933400
+earningsTimestampStart: 1799933400
+ebitdaMargins: 0.0
+enterpriseToRevenue: 3.529
+enterpriseValue: 673185333248
+epsCurrentYear: 23.91318
+epsForward: 25.57306
+epsTrailingTwelveMonths: 23.84
+esgPopulated: false
+exDividendDate: 1791244800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 341.2392
+fiftyDayAverageChange: 1.8308105
+fiftyDayAverageChangePercent: 0.0053651826
+fiftyTwoWeekChangePercent: 6.7600846
+fiftyTwoWeekHigh: 366.5
+fiftyTwoWeekHighChange: -23.429993
+fiftyTwoWeekHighChangePercent: -0.063929036
+fiftyTwoWeekLow: 279.1
+fiftyTwoWeekLowChange: 63.97
+fiftyTwoWeekLowChangePercent: 0.229201
+fiftyTwoWeekRange: 279.1 - 366.5
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 2.24
+floatShares: 2641428554
+forwardEps: 25.57306
+forwardPE: 13.41529
+fullExchangeName: NYSE
+fullTimeEmployees: 322964
+fulldayChange: 1.0
+fulldayChangePercent: 0.2923378
+fulldayPrice: 343.07
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 190732992512
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0039500003
+heldPercentInstitutions: 0.75737
+impliedSharesOutstanding: 2655609509
+industry: Banks - Diversified
+industryDisp: Banks - Diversified
+industryKey: banks-diversified
+irWebsite: http://investor.shareholder.com/jpmorganchase/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791244800
+lastDividendValue: 1.65
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 960768000
+lastSplitFactor: '3:2'
+longBusinessSummary: 'JPMorgan Chase & Co. operates as a bank and financial holding
+  company in the United States, rest of North America, Europe, the Middle East, Africa,
+  the Asia Pacific, Latin America, and the Caribbean. It operates in three segments:
+  Consumer & Community Banking, Commercial & Investment Bank, and Asset & Wealth Management.
+  The company offers deposit, investment and lending products, and cash management;
+  mortgage origination and servicing activities; residential mortgages and home equity
+  loans; and credit cards, payment solutions, travel services, merchant offers, lifestyle
+  benefits, auto loans, and leases to consumers and small businesses through bank
+  branches, ATMs, and digital and telephone banking. It also provides investment banking,
+  market-making, financing, custody, and securities products and services; corporate
+  strategy and structure advisory, equity and debt market capital-raising, and loan
+  origination and syndication services; cash and derivative instruments, risk management
+  solutions, prime brokerage, clearing, and research; and fund services, liquidity
+  and trading services, and data solutions products for large corporations, financial
+  institutions, merchants, start-ups, small and midsized companies, local governments,
+  municipalities, nonprofits, and commercial real estate clients. In addition, the
+  company offers multi-asset investment management solutions in equities, fixed income,
+  alternatives, and money market funds to institutional clients and retail investors;
+  retirement products and services, estate planning, lending, deposits, and investment
+  management products to high-net-worth clients; and financial transaction processing.
+  JPMorgan Chase & Co. was founded in 1799 and is headquartered in New York, New York.'
+longName: JPMorgan Chase & Co.
+market: us_market
+marketCap: 911059976192
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_658776
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 64526999552
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 908404344743
+numberOfAnalystOpinions: 23
+open: 342.89
+operatingCashflow: -84158996480
+operatingMargins: 0.44787997
+overallRisk: 3
+payoutRatio: 0.258
+pegRatio: 1.45
+phone: 212 270 6000
+previousClose: 342.07
+priceEpsCurrentYear: 14.346482
+priceHint: 2
+priceToBook: 2.5931807
+priceToSalesTrailing12Months: 4.776625
+profitMargins: 0.34592
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.03846
+region: US
+regularMarketChange: 1.0
+regularMarketChangePercent: 0.2923378
+regularMarketDayHigh: 343.73
+regularMarketDayLow: 340.82
+regularMarketDayRange: 340.82 - 343.73
+regularMarketOpen: 342.89
+regularMarketPreviousClose: 342.07
+regularMarketPrice: 343.07
+regularMarketTime: 1794413739
+regularMarketVolume: 813211
+returnOnAssets: 0.01367
+returnOnEquity: 0.18013
+revenueGrowth: 0.102
+revenuePerShare: 70.511
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 3
+sharesOutstanding: 2655609509
+sharesPercentSharesOut: 0.0089
+sharesShort: 23729547
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 24120442
+shortName: JP Morgan Chase & Co.
+shortPercentOfFloat: 0.009
+shortRatio: 3.36
+sourceInterval: 15
+state: NY
+symbol: JPM
+targetHighPrice: 425.0
+targetLowPrice: 312.0
+targetMeanPrice: 373.47827
+targetMedianPrice: 372.0
+totalCash: 1591950966784
+totalCashPerShare: 599.467
+totalDebt: 1335691968512
+totalRevenue: 190732992512
+tradeable: false
+trailingAnnualDividendRate: 6.15
+trailingAnnualDividendYield: 0.017978776
+trailingEps: 23.84
+trailingPE: 14.39052
+trailingPegRatio: 1.451
+triggerable: true
+twoHundredDayAverage: 324.2367
+twoHundredDayAverageChange: 18.833313
+twoHundredDayAverageChangePercent: 0.058085077
+typeDisp: Equity
+volume: 813211
+website: https://www.jpmorganchase.com
+zip: '10017'

@@ -1,0 +1,282 @@
+52WeekChange: 0.13490534
+SandP52WeekChange: 0.097798586
+address1: 66 Hudson Boulevard East
+allTimeHigh: 61.71
+allTimeLow: 0.427439
+ask: 29.16
+askSize: 3400
+auditRisk: 7
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 43905710
+averageDailyVolume3Month: 33763964
+averageVolume: 33763964
+averageVolume10days: 43905710
+beta: 0.297
+bid: 29.14
+bidSize: 10400
+boardRisk: 7
+bookValue: 15.614
+city: New York
+companyOfficers:
+- age: 63
+  exercisedValue: 1641272
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Albert  Bourla D.V.M., Ph.D.
+  title: Chairman of the Board & CEO
+  totalPay: 9140441
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 61
+  exercisedValue: 24800
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Chris  Boshoff FMedSci, M.D., Ph.D.
+  title: Chief Scientific Officer and President of Research & Development
+  totalPay: 5198006
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 59
+  exercisedValue: 503278
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Douglas M. Lankler
+  title: Executive VP & Chief Legal Officer
+  totalPay: 4622375
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Aamir  Malik
+  title: Executive VP & Chief U.S. Commercial Officer
+  totalPay: 4898062
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer B. Damico
+  title: Senior VP, Controller & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dennis P. Hancock
+  title: Executive VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Francesca M. DeMartino
+  title: Chief Investor Relations Officer
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Payal Sahni Becher
+  title: Chief People Experience Officer & Executive VP
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Michael S. Vincent M.D., Ph.D.
+  title: Senior VP and Chief Scientific Officer of Inflammation & Immunology
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jeffrey  Settleman Ph.D.
+  title: Chief Scientific Officer of Oncology
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 29.245
+currentRatio: 1.419
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 29.31
+dayLow: 28.95
+debtToEquity: 71.006
+displayName: Pfizer
+dividendDate: 1796601600
+dividendRate: 1.72
+dividendYield: 5.86
+earningsCallTimestampEnd: 1793718000
+earningsCallTimestampStart: 1793718000
+earningsGrowth: -0.097
+earningsQuarterlyGrowth: -0.084
+earningsTimestamp: 1793712600
+earningsTimestampEnd: 1801575000
+earningsTimestampStart: 1801575000
+ebitda: 24937000960
+ebitdaMargins: 0.39194
+enterpriseToEbitda: 8.693
+enterpriseToRevenue: 3.407
+enterpriseValue: 216775704576
+epsCurrentYear: 3.04407
+epsForward: 2.93704
+epsTrailingTwelveMonths: 0.7
+esgPopulated: false
+exDividendDate: 1793923200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 28.786
+fiftyDayAverageChange: 0.45900154
+fiftyDayAverageChangePercent: 0.015945304
+fiftyTwoWeekChangePercent: 13.490534
+fiftyTwoWeekHigh: 31.44
+fiftyTwoWeekHighChange: -2.1949997
+fiftyTwoWeekHighChangePercent: -0.06981551
+fiftyTwoWeekLow: 23.62
+fiftyTwoWeekLowChange: 5.625
+fiftyTwoWeekLowChangePercent: 0.23814563
+fiftyTwoWeekRange: 23.62 - 31.44
+financialCurrency: USD
+firstTradeDateMilliseconds: 76253400000
+fiveYearAvgDividendYield: 4.81
+floatShares: 5692443923
+forwardEps: 2.93704
+forwardPE: 9.957304
+freeCashflow: 13006999552
+fullExchangeName: NYSE
+fullTimeEmployees: 75000
+fulldayChange: -0.11499977
+fulldayChangePercent: -0.3916886
+fulldayPrice: 29.245
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.74898005
+grossProfits: 47652999168
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00102
+heldPercentInstitutions: 0.69091004
+impliedSharesOutstanding: 5699853733
+industry: Drug Manufacturers - General
+industryDisp: Drug Manufacturers - General
+industryKey: drug-manufacturers-general
+irWebsite: http://www.pfizer.com/investors/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1793923200
+lastDividendValue: 0.43
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1605571200
+lastSplitFactor: 1054:1000
+longBusinessSummary: 'Pfizer Inc. discovers, develops, manufactures, markets, distributes,
+  and sells biopharmaceutical products in the United States and internationally. It
+  operates in three segments: Biopharma, PC1, and Pfizer Ignite. The company offers
+  internal medicine products, including cardiovascular metabolic diseases products
+  under the Eliquis brand; migraine products under the Nurtec ODT/Vydura and Zavzpret
+  brand; vaccines under the Prevnar family, Abrysvo, Nimenrix, FSME/IMMUN-TicoVac,
+  and Trumenba brands; and Paxlovid for the treatment of COVID-19. It also provides
+  inflammation and immunology products, such as Xeljanz, Enbrel, Cibinqo, Litfulo,
+  Eucrisa, and Velsipity; rare disease products for therapeutic areas comprising amyloidosis,
+  hemophilia, and endocrine diseases under the Vyndaqel family, Genotropin, BeneFIX,
+  Xyntha, Somavert, Ngenla, and Hympavzi brands; and anti-infective and immunoglobulin
+  medicines under the Zavicefta, Octagam, and Panzyga brands. In addition, the company
+  offers oncology products comprising ADCs, small molecules, bispecific, and other
+  immunotherapies for the treatment of cancers, including breast cancer, genitourinary
+  cancer, and hematologic malignancies, as well as melanoma, gastrointestinal, gynecological,
+  and lung cancer under the Ibrance, Xtandi, Padcev, Adcetris, Inlyta, Lorbrena, Bosulif,
+  Tukysa, Braftovi, Mektovi, Orgovyx, Elrexfio, Tivdak, and Talzenna brands. Further,
+  it provides biosimilars under the Inflectra brand; oncology biosimilars comprising
+  Retacrit, Ruxience, Zirabev, Trazimera and Nivestym, and other biosimilars; and
+  sterile injectables, such as Sulperazon, Atgam, Fragmin, Solu Medrol, Solu Cortef,
+  and Bicillin. The company has collaboration agreements with Bristol-Myers Squibb
+  Company; Astellas Pharma US, Inc.; Merck KGaA; and BioNTech SE, as well as a strategic
+  collaboration with Boltz, PBC to develop and deploy biomolecular AI foundation models.
+  Pfizer Inc. was founded in 1849 and is headquartered in New York, New York.'
+longName: Pfizer Inc.
+market: us_market
+marketCap: 166692225024
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_162270
+mostRecentQuarter: 1790467200
+netIncomeToCommon: 4038000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 167347705600
+numberOfAnalystOpinions: 26
+open: 29.06
+operatingCashflow: 14172999680
+operatingMargins: 0.29066
+overallRisk: 7
+payoutRatio: 2.4571002
+pegRatio: 8.93
+phone: 212 733 2323
+previousClose: 29.36
+priceEpsCurrentYear: 9.6072035
+priceHint: 2
+priceToBook: 1.8729986
+priceToSalesTrailing12Months: 2.6199584
+profitMargins: 0.06339
+quickRatio: 1.004
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.5
+region: US
+regularMarketChange: -0.11499977
+regularMarketChangePercent: -0.3916886
+regularMarketDayHigh: 29.31
+regularMarketDayLow: 28.95
+regularMarketDayRange: 28.95 - 29.31
+regularMarketOpen: 29.06
+regularMarketPreviousClose: 29.36
+regularMarketPrice: 29.245
+regularMarketTime: 1794413746
+regularMarketVolume: 6439718
+returnOnAssets: 0.05593
+returnOnEquity: 0.04468
+revenueGrowth: -0.004
+revenuePerShare: 11.173
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 5699853733
+sharesPercentSharesOut: 0.023599999
+sharesShort: 134422620
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 150217617
+shortName: Pfizer, Inc.
+shortPercentOfFloat: 0.023599999
+shortRatio: 4.45
+sourceInterval: 15
+state: NY
+symbol: PFE
+targetHighPrice: 37.0
+targetLowPrice: 25.0
+targetMeanPrice: 30.25962
+targetMedianPrice: 30.0
+totalCash: 14279000064
+totalCashPerShare: 2.505
+totalDebt: 63408001024
+totalRevenue: 63623999488
+tradeable: false
+trailingAnnualDividendRate: 2.15
+trailingAnnualDividendYield: 0.07322889
+trailingEps: 0.7
+trailingPE: 41.778572
+trailingPegRatio: 8.932
+triggerable: true
+twoHundredDayAverage: 26.94135
+twoHundredDayAverageChange: 2.30365
+twoHundredDayAverageChangePercent: 0.085506104
+typeDisp: Equity
+volume: 6439718
+website: https://www.pfizer.com
+zip: 10001-2192

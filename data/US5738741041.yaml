@@ -1,0 +1,286 @@
+52WeekChange: 0.7283107
+SandP52WeekChange: 0.097798586
+address1: 1000 North West Street
+address2: Suite 1200
+allTimeHigh: 329.88
+allTimeLow: 1.984375
+ask: 167.67
+askSize: 1
+auditRisk: 7
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 40758320
+averageDailyVolume3Month: 24245468
+averageVolume: 24245468
+averageVolume10days: 40758320
+beta: 2.327
+bid: 158.76
+bidSize: 1
+boardRisk: 8
+bookValue: 21.135
+city: Wilmington
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Matthew J. Murphy
+  title: CEO & Chairman
+  totalPay: 4864280
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Christopher R. Koopmans
+  title: President & COO
+  totalPay: 2119420
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Daniel J. Durn
+  title: CFO, Executive VP & Principal Financial Officer
+  totalPay: 127802
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Mark J. Casper Esq.
+  title: Executive VP, Secretary & Chief Legal Officer
+  totalPay: 1299434
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Willem A. Meintjes
+  title: Advisor
+  totalPay: 1811433
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Sandeep  Bharathi
+  title: President of Data Center Group
+  totalPay: 2169438
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Justin  Scarpulla
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Ross Clark Seymore
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Gary  Ignatin
+  title: Executive Vice President of Corporate Development
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Mike  Roberts
+  title: Senior VP & Chief Marketing Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 171.405
+currentRatio: 3.168
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 173.9
+dayLow: 162.5
+debtToEquity: 28.525
+displayName: Marvell
+dividendDate: 1793232000
+dividendRate: 0.24
+dividendYield: 0.16
+earningsCallTimestampEnd: 1796160600
+earningsCallTimestampStart: 1796160600
+earningsGrowth: 0.5
+earningsQuarterlyGrowth: 0.581
+earningsTimestamp: 1796158800
+earningsTimestampEnd: 1796158800
+earningsTimestampStart: 1796158800
+ebitda: 2850299904
+ebitdaMargins: 0.30161
+enterpriseToEbitda: 47.973
+enterpriseToRevenue: 14.469
+enterpriseValue: 136737890304
+epsCurrentYear: 4.21961
+epsForward: 7.3499
+epsTrailingTwelveMonths: 3.04
+esgPopulated: false
+exDividendDate: 1791504000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 231.9196
+fiftyDayAverageChange: -60.4946
+fiftyDayAverageChangePercent: -0.26084298
+fiftyTwoWeekChangePercent: 72.83107
+fiftyTwoWeekHigh: 329.88
+fiftyTwoWeekHighChange: -158.455
+fiftyTwoWeekHighChangePercent: -0.48034135
+fiftyTwoWeekLow: 70.69
+fiftyTwoWeekLowChange: 100.735
+fiftyTwoWeekLowChangePercent: 1.4250247
+fiftyTwoWeekRange: 70.69 - 329.88
+financialCurrency: USD
+firstTradeDateMilliseconds: 962371800000
+fiveYearAvgDividendYield: 0.28
+floatShares: 873839619
+forwardEps: 7.3499
+forwardPE: 23.323448
+freeCashflow: 2408049920
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 7480
+fulldayChange: 17.035004
+fulldayChangePercent: 11.033748
+fulldayPrice: 171.425
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.52216
+grossProfits: 4934600192
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00508
+heldPercentInstitutions: 0.80439
+impliedSharesOutstanding: 899765882
+industry: Semiconductors
+industryDisp: Semiconductors
+industryKey: semiconductors
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791504000
+lastDividendValue: 0.06
+lastFiscalYearEnd: 1769817600
+lastSplitDate: 1153785600
+lastSplitFactor: '2:1'
+longBusinessSummary: Marvell Technology, Inc., together with its subsidiaries, provides
+  data infrastructure semiconductor solutions and spanning the data center core to
+  network edge in the United States, Argentina, China, India, Israel, Japan, Singapore,
+  South Korea, Taiwan, Vietnam, and internationally. The company develops and scales
+  system-on-a-chip architectures, integrating analog, mixed-signal, and digital signal
+  processing functionality. It offers a portfolio of ethernet solutions, including
+  spanning controllers, network adapters, physical transceivers, and switches; single
+  or multiple core processors; and custom application specific integrated circuits,
+  interconnects, fibre channel adapters, and processors. The company also provides
+  interconnect products, including pulse amplitude modulation, coherent and coherent-lite
+  digital signal processors (DSPs), laser drivers, trans-impedance amplifiers, silicon
+  photonics, co-packaged optics, linear pluggable optics chipsets, data center interconnect,
+  active electrical cable DSPs and peripheral component interconnect express retimer
+  solutions; fibre channel products comprising host bus adapters and controllers for
+  server and storage system connectivity; storage controllers for hard disk drives
+  and solid-state-drives; host system interfaces, including serial advanced technology
+  attachment and serial attached SCSI, peripheral component interconnect express,
+  compute express link switches, non-volatile memory express (NVMe), and NVMe over
+  fabrics; and develops ultra accelerator linkTM switches and ethernet for scale-up
+  networking switches. The company serves data centers, communications, and other
+  markets. It offers its products through direct customers and distributors. Marvell
+  Technology, Inc. was incorporated in 1995 and is headquartered in Wilmington, Delaware.
+longName: Marvell Technology, Inc.
+market: us_market
+marketCap: 154242367488
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_31158
+mostRecentQuarter: 1785542400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 2639899904
+nextFiscalYearEnd: 1801353600
+nonDilutedMarketCap: 138914854521
+numberOfAnalystOpinions: 40
+open: 166.88
+operatingCashflow: 2200300032
+operatingMargins: 0.16812
+overallRisk: 9
+payoutRatio: 0.0789
+pegRatio: 0.38
+phone: 302 295 4840
+prevName: Marvell Technology Group Ltd.
+previousClose: 154.39
+priceEpsCurrentYear: 40.62579
+priceHint: 2
+priceToBook: 8.110953
+priceToSalesTrailing12Months: 16.31952
+profitMargins: 0.27934998
+quickRatio: 2.461
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.39535
+region: US
+regularMarketChange: 17.035004
+regularMarketChangePercent: 11.033748
+regularMarketDayHigh: 173.9
+regularMarketDayLow: 162.5
+regularMarketDayRange: 162.5 - 173.9
+regularMarketOpen: 166.88
+regularMarketPreviousClose: 154.39
+regularMarketPrice: 171.425
+regularMarketTime: 1794413747
+regularMarketVolume: 15948640
+returnOnAssets: 0.04125
+returnOnEquity: 0.16523
+revenueGrowth: 0.365
+revenuePerShare: 10.813
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 877987882
+sharesPercentSharesOut: 0.029000001
+sharesShort: 26088002
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 24051742
+shortName: Marvell Technology, Inc.
+shortPercentOfFloat: 0.0348
+shortRatio: 1.18
+sourceInterval: 15
+state: DE
+symbol: MRVL
+targetHighPrice: 450.0
+targetLowPrice: 175.0
+targetMeanPrice: 310.94324
+targetMedianPrice: 300.0
+totalCash: 3932800000
+totalCashPerShare: 4.485
+totalDebt: 5286099968
+totalRevenue: 9450300416
+tradeable: false
+trailingAnnualDividendRate: 0.24
+trailingAnnualDividendYield: 0.0015545049
+trailingEps: 3.04
+trailingPE: 56.389805
+trailingPegRatio: 0.3801
+triggerable: true
+twoHundredDayAverage: 185.78806
+twoHundredDayAverageChange: -14.363052
+twoHundredDayAverageChangePercent: -0.077308804
+typeDisp: Equity
+volume: 15948899
+website: https://www.marvell.com
+zip: '19801'

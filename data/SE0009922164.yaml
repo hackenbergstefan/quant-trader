@@ -1,0 +1,270 @@
+52WeekChange: 0.092169404
+SandP52WeekChange: 0.097798586
+address1: Klarabergsviadukten 63
+address2: PO Box 200
+allTimeHigh: 326.0
+allTimeLow: 202.0
+ask: 287.7
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.9 - Hold
+averageDailyVolume10Day: 1375666
+averageDailyVolume3Month: 1317688
+averageVolume: 1317688
+averageVolume10days: 1375666
+beta: 0.403
+bid: 287.6
+bidSize: 0
+boardRisk: 3
+bookValue: 144.111
+city: Stockholm
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ulrika  Kolsrud MSc Eng.
+  title: President & CEO
+  totalPay: 23413113
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carl Fredrik Stenson Rystedt B.Sc., MSc Econ.
+  title: CFO, Executive VP of Central Function Finance
+  totalPay: 16009119
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Niklas Westin Sundberg
+  title: Chief Digital & Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sandra  Åberg
+  title: VP & Head of Investor Relations
+  unexercisedValue: 0
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mikael  Schmidt
+  title: CLO, General Counsel, Secretary of the Board & Central Function of Legal
+    Affairs and Compliance
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jessica  Alm
+  title: Chief Communication Officer & Central Function of Corporate Communications
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anna  Savinger-Åslund B.Sc.
+  title: Chief Human Resources Officer & Central Function Human Resources
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Volker  Zoller B.A., B.Sc.
+  title: President of Business Unit Consumer Tissue
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pablo  Fuentes M.B.A., M.Sc.
+  title: President of Business Unit Professional Hygiene
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tuomas  Yrjölä B.A., M.Sc.
+  title: President of Business Unit Personal Care
+  unexercisedValue: 0
+  yearBorn: 1978
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 287.5
+currentRatio: 1.129
+customPriceAlertConfidence: HIGH
+dayHigh: 291.0
+dayLow: 287.4
+debtToEquity: 40.186
+dividendRate: 8.75
+dividendYield: 3.0
+earningsCallTimestampEnd: 1792652400
+earningsCallTimestampStart: 1792652400
+earningsGrowth: -0.287
+earningsQuarterlyGrowth: -0.298
+earningsTimestamp: 1800549000
+earningsTimestampEnd: 1800549000
+earningsTimestampStart: 1800549000
+ebitda: 24320999424
+ebitdaMargins: 0.17497998
+enterpriseToEbitda: 9.446
+enterpriseToRevenue: 1.653
+enterpriseValue: 229725749248
+epsCurrentYear: 18.66235
+epsForward: 13.22
+epsTrailingTwelveMonths: 16.34
+esgPopulated: false
+exDividendDate: 1774569600
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 269.904
+fiftyDayAverageChange: 17.596008
+fiftyDayAverageChangePercent: 0.065193586
+fiftyTwoWeekChangePercent: 9.21694
+fiftyTwoWeekHigh: 293.8
+fiftyTwoWeekHighChange: -6.299988
+fiftyTwoWeekHighChangePercent: -0.021443117
+fiftyTwoWeekLow: 239.4
+fiftyTwoWeekLowChange: 48.100006
+fiftyTwoWeekLowChangePercent: 0.20091899
+fiftyTwoWeekRange: 239.4 - 293.8
+financialCurrency: SEK
+firstTradeDateMilliseconds: 1497510000000
+fiveYearAvgDividendYield: 2.83
+floatShares: 554299583
+forwardEps: 13.22
+forwardPE: 21.747353
+freeCashflow: 9239499776
+fullExchangeName: Stockholm
+fullTimeEmployees: 36000
+fulldayChange: -4.0
+fulldayChangePercent: -1.3722126
+fulldayPrice: 287.5
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.32856
+grossProfits: 45667000320
+hasPrePostMarketData: false
+heldPercentInsiders: 0.08891
+heldPercentInstitutions: 0.53977
+impliedSharesOutstanding: 672963249
+industry: Household & Personal Products
+industryDisp: Household & Personal Products
+industryKey: household-personal-products
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1774569600
+lastDividendValue: 8.75
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Essity AB (publ) develops, produces, and sells hygiene and health
+  products and services in Europe, North and Latin America, Asia, and internationally.
+  The company operates through three segments: Health & Medical, Consumer Goods, and
+  Professional Hygiene. The Health & Medical segment offers incontinence products,
+  wound care, compression therapy, orthopedics, skincare products, and digital solutions
+  with sensor technology under the TENA, Leukoplast, JOBST, Actimove, Cutimed, Delta-Cast,
+  AquaCast Liner, and Hydrofera brands to family carers, professional caregivers,
+  and patients and consumers through pharmacies, medical device stores, hospitals,
+  distributors, care institutions, and e-commerce. The Consumer Goods segment provides
+  pads, panty liners, tampons, diapers, wet wipes, shampoos, lotions, baby oil, skin
+  creams, intimate soaps, intimate wipes, leakproof apparel, menstrual cups, toilet
+  papers, household towels, handkerchiefs, facial tissues, and napkins under the TENA,
+  Knix, Modibodi, Libero, Lotus, Libresse, Bodyform, Nana, Saba, Nosotras, TOM Organic,
+  Tempo, Zewa, Cushelle, Plenty, Regio, and Familia brands through retail trade and
+  e-commerce. The Professional Hygiene segment offers toilet papers, paper hand towels,
+  napkins, hand soaps, hand lotions, hand sanitizers, dispensers, and cleaning and
+  wiping products, as well as vision cleaning and data-driven cleaning solutions under
+  the Tork brand to companies and office buildings, universities, healthcare facilities,
+  airports, industries, restaurants, hotels, stadiums, and other public venues through
+  direct to the end-customer, e-commerce, or distributors. Essity AB (publ) was founded
+  in 1849 and is headquartered in Stockholm, Sweden.'
+longName: Essity AB (publ)
+market: se_market
+marketCap: 193476935680
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_403212338
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 11121999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 196114824242
+numberOfAnalystOpinions: 15
+open: 290.1
+operatingCashflow: 18709000192
+operatingMargins: 0.13042
+overallRisk: 2
+payoutRatio: 0.5355
+pegRatio: 3.57
+phone: 46 87 88 51 00
+previousClose: 291.5
+priceEpsCurrentYear: 15.405349
+priceHint: 2
+priceToBook: 1.9949901
+priceToSalesTrailing12Months: 1.3919905
+profitMargins: 0.080019996
+quickRatio: 0.728
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.86667
+region: US
+regularMarketChange: -4.0
+regularMarketChangePercent: -1.3722126
+regularMarketDayHigh: 291.0
+regularMarketDayLow: 287.4
+regularMarketDayRange: 287.4 - 291.0
+regularMarketOpen: 290.1
+regularMarketPreviousClose: 291.5
+regularMarketPrice: 287.5
+regularMarketTime: 1794412418
+regularMarketVolume: 294973
+returnOnAssets: 0.06426
+returnOnEquity: 0.12294
+revenueGrowth: 0.041
+revenuePerShare: 204.211
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 9
+sharesOutstanding: 619000408
+shortName: Essity AB ser. B
+sourceInterval: 15
+symbol: ESSITY-B.ST
+targetHighPrice: 320.0
+targetLowPrice: 215.0
+targetMeanPrice: 270.13333
+targetMedianPrice: 270.0
+totalCash: 6558000128
+totalCashPerShare: 9.723
+totalDebt: 39236001792
+totalRevenue: 138992992256
+tradeable: false
+trailingAnnualDividendRate: 8.75
+trailingAnnualDividendYield: 0.030017152
+trailingEps: 16.34
+trailingPE: 17.594858
+trailingPegRatio: 3.6054
+triggerable: true
+twoHundredDayAverage: 266.5295
+twoHundredDayAverageChange: 20.97049
+twoHundredDayAverageChangePercent: 0.0786798
+typeDisp: Equity
+volume: 294973
+website: https://www.essity.com
+zip: 101 23

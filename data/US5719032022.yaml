@@ -1,0 +1,281 @@
+52WeekChange: 0.4683032
+SandP52WeekChange: 0.097798586
+address1: 7750 Wisconsin Avenue
+allTimeHigh: 433.3
+allTimeLow: 9.030836
+ask: 398.41
+askSize: 1
+auditRisk: 5
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 1838990
+averageDailyVolume3Month: 1518206
+averageVolume: 1518206
+averageVolume10days: 1838990
+beta: 1.138
+bid: 399.19
+bidSize: 1
+boardRisk: 5
+bookValue: -19.675
+city: Bethesda
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anthony G. Capuano Jr.
+  title: President, CEO & Director
+  totalPay: 6835025
+  unexercisedValue: 38801344
+  yearBorn: 1966
+- age: 65
+  exercisedValue: 3077414
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rena Hozore Reiss J.D.
+  title: Executive VP & General Counsel
+  totalPay: 2165542
+  unexercisedValue: 10813553
+  yearBorn: 1960
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Benjamin T. Breland
+  title: Chief Human Resources Officer & Executive VP of Global Operations Services
+  totalPay: 2193340
+  unexercisedValue: 2684092
+  yearBorn: 1976
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer  Mason
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert  Guidice
+  title: Chief Global Operations Officer
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Felitia O. Lee
+  title: Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Drew L. Pinto
+  title: Executive VP and Chief Revenue & Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jerome  Briet
+  title: Chief Development Officer for Europe, Middle East & Africa
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James H. Scholefield
+  title: Global Chief Information & Digital Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Satyajit  Anand
+  title: Group President of U.S., Canada & CALA
+  unexercisedValue: 0
+  yearBorn: 1965
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions:
+- header: Dividend
+  message: MAR announced a cash dividend of $0.73 with an ex-date of Nov. 19, 2026
+  meta:
+    amount: '0.73'
+    dateEpochMs: 1795064400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 429.79
+currentRatio: 0.525
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 430.66
+dayLow: 422.59
+displayName: Marriott
+dividendDate: 1798675200
+dividendRate: 2.92
+dividendYield: 0.68
+earningsCallTimestampEnd: 1793624400
+earningsCallTimestampStart: 1793624400
+earningsGrowth: 0.139
+earningsQuarterlyGrowth: 0.091
+earningsTimestamp: 1793626200
+earningsTimestampEnd: 1793626200
+earningsTimestampStart: 1793626200
+ebitda: 4940000256
+ebitdaMargins: 0.65163004
+enterpriseToEbitda: 25.81
+enterpriseToRevenue: 16.819
+enterpriseValue: 127503835136
+epsCurrentYear: 12.05064
+epsForward: 13.44482
+epsTrailingTwelveMonths: 10.03
+esgPopulated: false
+exDividendDate: 1795046400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 369.3408
+fiftyDayAverageChange: 60.44922
+fiftyDayAverageChangePercent: 0.16366787
+fiftyTwoWeekChangePercent: 46.830322
+fiftyTwoWeekHigh: 433.3
+fiftyTwoWeekHighChange: -3.5099792
+fiftyTwoWeekHighChangePercent: -0.008100576
+fiftyTwoWeekLow: 280.99
+fiftyTwoWeekLowChange: 148.80002
+fiftyTwoWeekLowChangePercent: 0.5295563
+fiftyTwoWeekRange: 280.99 - 433.3
+financialCurrency: USD
+firstTradeDateMilliseconds: 890663400000
+fiveYearAvgDividendYield: 0.67
+floatShares: 220112184
+forwardEps: 13.44482
+forwardPE: 31.966957
+freeCashflow: 2646874880
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 414000
+fulldayChange: 1.5299988
+fulldayChangePercent: 0.3572593
+fulldayPrice: 429.79
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.78829
+grossProfits: 5976000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.18285999
+heldPercentInstitutions: 0.64305
+impliedSharesOutstanding: 257504397
+industry: Lodging
+industryDisp: Lodging
+industryKey: lodging
+irWebsite: http://investor.shareholder.com/mar/default.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787184000
+lastDividendValue: 0.73
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1321920000
+lastSplitFactor: 1061:1000
+longBusinessSummary: Marriott International, Inc. engages in the operation, franchising,
+  and licensing of hotel, residential, timeshare, and other lodging properties in
+  the United States, Canada, Europe, the Middle East, Africa, Greater China, the Asia-Pacific,
+  and internationally. The company operates properties under the JW Marriott, The
+  Ritz-Carlton, The Luxury Collection, W Hotels, St. Regis, EDITION, Bvlgari, Marriott
+  Hotels, Sheraton, Westin, Autograph Collection, Renaissance Hotels, Le Méridien,
+  Delta Hotels by Marriott, MGM Collection with Marriott Bonvoy, Tribute Portfolio,
+  Gaylord Hotels, Design Hotels, Marriott Executive Apartments, Apartments by Marriott
+  Bonvoy, Courtyard by Marriott, Fairfield by Marriott, Residence Inn by Marriott,
+  SpringHill Suites by Marriott, Four Points by Sheraton, TownePlace Suites by Marriott,
+  Aloft Hotels, AC Hotels by Marriott, Moxy Hotels, Element Hotels, Protea Hotels
+  by Marriott, citizenM, City Express by Marriott, and Four Points Flex by Sheraton
+  brands. It also operates residences, timeshares, and yachts. The company was formerly
+  known as New Marriott MI, Inc. and changed its name to Marriott International, Inc.
+  in May 1998. Marriott International, Inc. was founded in 1927 and is headquartered
+  in Bethesda, Maryland.
+longName: Marriott International, Inc.
+market: us_market
+marketCap: 110672822272
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_31148
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2652999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 110278833059
+numberOfAnalystOpinions: 26
+open: 422.59
+operatingCashflow: 4068000000
+operatingMargins: 0.58581
+overallRisk: 7
+payoutRatio: 0.2792
+pegRatio: 1.87
+phone: 301 380 3000
+previousClose: 428.26
+priceEpsCurrentYear: 35.665325
+priceHint: 2
+priceToBook: -21.844475
+priceToSalesTrailing12Months: 14.59871
+profitMargins: 0.34995
+quickRatio: 0.456
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.27586
+region: US
+regularMarketChange: 1.5299988
+regularMarketChangePercent: 0.3572593
+regularMarketDayHigh: 430.66
+regularMarketDayLow: 422.59
+regularMarketDayRange: 422.59 - 430.66
+regularMarketOpen: 422.59
+regularMarketPreviousClose: 428.26
+regularMarketPrice: 429.79
+regularMarketTime: 1794413737
+regularMarketVolume: 222940
+returnOnAssets: 0.09939
+revenueGrowth: 0.113
+revenuePerShare: 28.629
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 9
+sharesOutstanding: 257504397
+sharesPercentSharesOut: 0.0247
+sharesShort: 6351284
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 6732423
+shortName: Marriott International
+shortPercentOfFloat: 0.0278
+shortRatio: 4.6
+sourceInterval: 15
+state: MD
+symbol: MAR
+targetHighPrice: 478.0
+targetLowPrice: 302.0
+targetMeanPrice: 418.30768
+targetMedianPrice: 421.5
+totalCash: 453000000
+totalCashPerShare: 1.759
+totalDebt: 17678000128
+totalRevenue: 7581000192
+tradeable: false
+trailingAnnualDividendRate: 2.8
+trailingAnnualDividendYield: 0.0065380842
+trailingEps: 10.03
+trailingPE: 42.850452
+trailingPegRatio: 1.8656
+triggerable: true
+twoHundredDayAverage: 359.4909
+twoHundredDayAverageChange: 70.2991
+twoHundredDayAverageChangePercent: 0.19555183
+typeDisp: Equity
+volume: 222940
+website: https://www.marriott.com
+zip: '20814'

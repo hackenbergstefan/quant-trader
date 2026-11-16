@@ -1,0 +1,293 @@
+52WeekChange: -0.0405612
+SandP52WeekChange: 0.097798586
+address1: 5960 Heisley Road
+allTimeHigh: 269.44
+allTimeLow: 1.8125
+ask: 254.47
+askSize: 100
+auditRisk: 9
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 970950
+averageDailyVolume3Month: 710856
+averageVolume: 710856
+averageVolume10days: 970950
+beta: 0.856
+bid: 254.05
+bidSize: 100
+boardRisk: 4
+bookValue: 74.74
+city: Mentor
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Daniel A. Carestio
+  title: President, CEO & Director
+  totalPay: 2840320
+  unexercisedValue: 8620574
+  yearBorn: 1973
+- age: 57
+  exercisedValue: 1007308
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Karen L. Burton
+  title: Senior VP, CFO & Chief Accounting Officer
+  totalPay: 1039232
+  unexercisedValue: 668719
+  yearBorn: 1968
+- age: 58
+  exercisedValue: 2931250
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. John Adam Zangerle
+  title: Senior VP, General Counsel & Secretary
+  totalPay: 1126142
+  unexercisedValue: 6650250
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Mary Clare Fraser
+  title: SVP & Chief Human Resources Officer
+  totalPay: 854779
+  unexercisedValue: 112322
+  yearBorn: 1970
+- age: 50
+  exercisedValue: 1321696
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Cary L. Majors
+  title: Senior VP & President of Healthcare
+  totalPay: 1028172
+  unexercisedValue: 679196
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Julie  Winter
+  title: Vice President of Investor Relations & Corporate Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Lindsey  McGowan
+  title: VP, Chief Compliance & Quality Officer
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Julia K. Madsen
+  title: Senior VP & GM of Life Sciences
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Andrew  Xilas
+  title: Senior VP & GM of Dental
+  totalPay: 1438246
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Kenneth E. Kohler
+  title: Senior VP & GM of AST
+  unexercisedValue: 0
+  yearBorn: 1963
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 7
+corporateActions:
+- header: Dividend
+  message: STE announced a cash dividend of $0.69 with an ex-date of Nov. 17, 2026
+  meta:
+    amount: '0.69'
+    dateEpochMs: 1794891600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 255.115
+currentRatio: 2.053
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 256.38
+dayLow: 252.085
+debtToEquity: 28.186
+displayName: STERIS
+dividendDate: 1797465600
+dividendRate: 2.76
+dividendYield: 1.07
+earningsCallTimestampEnd: 1793887200
+earningsCallTimestampStart: 1793887200
+earningsGrowth: 0.129
+earningsQuarterlyGrowth: 0.114
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1801688400
+earningsTimestampStart: 1801688400
+ebitda: 1677900032
+ebitdaMargins: 0.27212998
+enterpriseToEbitda: 15.794
+enterpriseToRevenue: 4.298
+enterpriseValue: 26501056512
+epsCurrentYear: 11.41234
+epsForward: 12.38002
+epsTrailingTwelveMonths: 8.43
+esgPopulated: false
+exDividendDate: 1794873600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 221.5272
+fiftyDayAverageChange: 33.5878
+fiftyDayAverageChangePercent: 0.1516193
+fiftyTwoWeekChangePercent: -4.05612
+fiftyTwoWeekHigh: 269.44
+fiftyTwoWeekHighChange: -14.324997
+fiftyTwoWeekHighChangePercent: -0.053165812
+fiftyTwoWeekLow: 195.14
+fiftyTwoWeekLowChange: 59.975006
+fiftyTwoWeekLowChangePercent: 0.30734348
+fiftyTwoWeekRange: 195.14 - 269.44
+financialCurrency: USD
+firstTradeDateMilliseconds: 707405400000
+fiveYearAvgDividendYield: 0.92
+floatShares: 96689460
+forwardEps: 12.38002
+forwardPE: 20.606995
+freeCashflow: 822287488
+fullExchangeName: NYSE
+fullTimeEmployees: 17937
+fulldayChange: -2.0049896
+fulldayChangePercent: -0.77978754
+fulldayPrice: 255.115
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.44296002
+grossProfits: 2731200000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00306
+heldPercentInstitutions: 1.01543
+impliedSharesOutstanding: 97107020
+industry: Medical Devices
+industryDisp: Medical Devices
+industryKey: medical-devices
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788480000
+lastDividendValue: 0.69
+lastFiscalYearEnd: 1774915200
+lastSplitDate: 904003200
+lastSplitFactor: '2:1'
+longBusinessSummary: 'STERIS plc provides infection prevention products and services
+  in the United States, Ireland, and internationally. It operates through three segments:
+  Healthcare, Applied Sterilization Technologies, and Life Sciences. The company offers
+  cleaning chemistries and sterility assurance products, automated endoscope reprocessing
+  system and tracking products, endoscopy accessories, instruments, washers, and sterilizers
+  and other pieces of capital equipment, as well as equipment used directly in the
+  procedure rooms, including surgical tables, lights, equipment management services,
+  and connectivity solutions; and various preventive maintenance programs, repair
+  services, custom process improvement consulting, and outsourced instrument sterile
+  processing, as well as instrument, devices, and endoscope repair and maintenance
+  services. It also provides process controls and monitoring systems, as well as integrated
+  sterilization equipment, such as accelerators, product handling, and automation;
+  and sterilization modalities, product development, materials testing, and process
+  validation, as well as support services for sterilization equipment and control
+  systems comprising installation, preventive maintenance, updates, repairs, and troubleshooting.
+  In addition, the company offers pharmaceutical detergents, cleanroom disinfectants
+  and sterilants, pharmaceutical grade and research sterilizers and washers, sterility
+  assurance and maintenance products, vaporized hydrogen peroxide room decontamination
+  systems and sterilizers, and high purity water and pure steam generators; and preventive
+  maintenance programs and repair services to support the operation of capital equipment.
+  It serves healthcare providers, medical device and pharmaceutical manufacturers,
+  biopharmaceutical manufacturing facilities, and hospitals. The company was formerly
+  known as New STERIS Limited and changed its name to STERIS plc in November 2015.
+  STERIS plc was founded in 1985 and is headquartered in Mentor, Ohio.'
+longName: STERIS plc
+market: us_market
+marketCap: 24773459968
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_34783
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 826899968
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 24968156982
+numberOfAnalystOpinions: 7
+open: 253.45
+operatingCashflow: 1289699968
+operatingMargins: 0.19183001
+overallRisk: 8
+payoutRatio: 0.3061
+pegRatio: 1.99
+phone: 440 354 2600
+previousClose: 257.12
+priceEpsCurrentYear: 22.354311
+priceHint: 2
+priceToBook: 3.4133666
+priceToSalesTrailing12Months: 4.0178823
+profitMargins: 0.13411
+quickRatio: 1.272
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.875
+region: US
+regularMarketChange: -2.0049896
+regularMarketChangePercent: -0.77978754
+regularMarketDayHigh: 256.38
+regularMarketDayLow: 252.085
+regularMarketDayRange: 252.085 - 256.38
+regularMarketOpen: 253.45
+regularMarketPreviousClose: 257.12
+regularMarketPrice: 255.115
+regularMarketTime: 1794413724
+regularMarketVolume: 96096
+returnOnAssets: 0.06999
+returnOnEquity: 0.11609
+revenueGrowth: 0.088
+revenuePerShare: 63.077
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 8
+sharesOutstanding: 97107020
+sharesPercentSharesOut: 0.0225
+sharesShort: 2180676
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2857327
+shortName: STERIS plc (Ireland)
+shortPercentOfFloat: 0.0225
+shortRatio: 3.11
+sourceInterval: 15
+state: OH
+symbol: STE
+targetHighPrice: 290.0
+targetLowPrice: 232.0
+targetMeanPrice: 270.7143
+targetMedianPrice: 284.0
+totalCash: 531100000
+totalCashPerShare: 5.469
+totalDebt: 2049600000
+totalRevenue: 6165799936
+tradeable: false
+trailingAnnualDividendRate: 2.58
+trailingAnnualDividendYield: 0.010034225
+trailingEps: 8.43
+trailingPE: 30.262753
+trailingPegRatio: 1.9856
+triggerable: true
+twoHundredDayAverage: 224.192
+twoHundredDayAverageChange: 30.923004
+twoHundredDayAverageChangePercent: 0.1379309
+typeDisp: Equity
+volume: 96096
+website: https://www.steris.com
+zip: '44060'

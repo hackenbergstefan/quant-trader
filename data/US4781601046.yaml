@@ -1,0 +1,285 @@
+52WeekChange: 0.4444158
+SandP52WeekChange: 0.097798586
+address1: One Johnson & Johnson Plaza
+allTimeHigh: 283.25
+allTimeLow: 0.142361
+ask: 276.73
+askSize: 280
+auditRisk: 4
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 7857130
+averageDailyVolume3Month: 6995540
+averageVolume: 6995540
+averageVolume10days: 7857130
+beta: 0.2
+bid: 276.66
+bidSize: 80
+boardRisk: 7
+bookValue: 33.87
+city: New Brunswick
+companyOfficers:
+- age: 62
+  exercisedValue: 16436116
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joaquin  Duato
+  title: CEO & Chairman
+  totalPay: 6499931
+  unexercisedValue: 52665080
+  yearBorn: 1963
+- age: 58
+  exercisedValue: 1962760
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph James Wolk CPA
+  title: Executive VP & CFO
+  totalPay: 3216428
+  unexercisedValue: 23708782
+  yearBorn: 1967
+- age: 67
+  exercisedValue: 755615
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. John C. Reed M.D., Ph.D.
+  title: Executive Vice President of Innovative Medicine and R&D
+  totalPay: 3165384
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy  Schmid
+  title: Executive VP & Worldwide Chairman of MedTech
+  totalPay: 2538167
+  unexercisedValue: 8556005
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert J. Decker Jr.
+  title: Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James  Swanson
+  title: Executive VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ryan  Koors
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dirk  Brinckman
+  title: Chief Compliance Officer
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elizabeth  Forminard J.D.
+  title: Executive VP & Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristen Blair Mulholland
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: JNJ announced a cash dividend of $1.34 with an ex-date of Nov. 24, 2026
+  meta:
+    amount: '1.34'
+    dateEpochMs: 1795496400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 277.65
+currentRatio: 1.016
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 278.66
+dayLow: 276.605
+debtToEquity: 54.767
+dividendDate: 1796688000
+dividendRate: 5.36
+dividendYield: 1.91
+earningsCallTimestampEnd: 1791894600
+earningsCallTimestampStart: 1791894600
+earningsGrowth: -0.959
+earningsQuarterlyGrowth: -0.959
+earningsTimestamp: 1800970200
+earningsTimestampEnd: 1800970200
+earningsTimestampStart: 1800970200
+ebitda: 34502000640
+ebitdaMargins: 0.34733
+enterpriseToEbitda: 20.386
+enterpriseToRevenue: 7.081
+enterpriseValue: 703347556352
+epsCurrentYear: 11.11973
+epsForward: 11.6224
+epsTrailingTwelveMonths: 6.59
+esgPopulated: false
+exDividendDate: 1795478400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 266.367
+fiftyDayAverageChange: 11.2829895
+fiftyDayAverageChangePercent: 0.042358812
+fiftyTwoWeekChangePercent: 44.44158
+fiftyTwoWeekHigh: 283.25
+fiftyTwoWeekHighChange: -5.600006
+fiftyTwoWeekHighChangePercent: -0.019770542
+fiftyTwoWeekLow: 193.07
+fiftyTwoWeekLowChange: 84.57999
+fiftyTwoWeekLowChangePercent: 0.43807936
+fiftyTwoWeekRange: 193.07 - 283.25
+financialCurrency: USD
+firstTradeDateMilliseconds: -252322200000
+fiveYearAvgDividendYield: 2.67
+floatShares: 2403386350
+forwardEps: 11.6224
+forwardPE: 23.889214
+freeCashflow: 18501875712
+fullExchangeName: NYSE
+fullTimeEmployees: 138200
+fulldayChange: -3.130005
+fulldayChangePercent: -1.1147535
+fulldayPrice: 277.65
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.67775
+grossProfits: 67323998208
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00056
+heldPercentInstitutions: 0.77001
+impliedSharesOutstanding: 2407310266
+industry: Drug Manufacturers - General
+industryDisp: Drug Manufacturers - General
+industryKey: drug-manufacturers-general
+irWebsite: http://www.investor.jnj.com/investor-relations.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787616000
+lastDividendValue: 1.34
+lastFiscalYearEnd: 1766880000
+lastSplitDate: 992390400
+lastSplitFactor: '2:1'
+longBusinessSummary: Johnson & Johnson, together with its subsidiaries, engages in
+  the research and development, manufacture, and sale of a range of products in the
+  healthcare field worldwide. It operates in two segments, Innovative Medicine and
+  MedTech. The Innovative Medicine segment offers products for various therapeutic
+  areas, such as oncology, immunology, neuroscience, pulmonary hypertension, infectious
+  diseases, and cardiovascular and metabolism distributed through retailers, wholesalers,
+  distributors, hospitals, and healthcare professionals for prescription use. The
+  MedTech segment provides a portfolio of products used in the surgery, orthopedic,
+  cardiovascular, and vision fields distributed through wholesalers, hospitals and
+  retailers, and used in the professional fields by physicians, nurses, hospitals,
+  eye care professionals and clinics. This segment also offers products and enabling
+  technologies that support joint reconstruction, trauma, spine, sports related injuries,
+  and others, as well as open, laparoscopic, and robotic surgical procedures; instrumentation,
+  energy devices, stapling systems, wound closure, biosurgery products, and digital
+  and robotic technologies; breast aesthetics and reconstruction; contact lenses under
+  the ACUVUE brand; intraocular lenses for cataract surgery, and other products used
+  in cataract and refractive procedures under the TECNIS brand. The company was founded
+  in 1886 and is based in New Brunswick, New Jersey.
+longName: Johnson & Johnson
+market: us_market
+marketCap: 668389670912
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_139677
+mostRecentQuarter: 1790467200
+netIncomeToCommon: 16094999552
+nextFiscalYearEnd: 1798416000
+nonDilutedMarketCap: 675924576487
+numberOfAnalystOpinions: 22
+open: 277.96
+operatingCashflow: 26158999552
+operatingMargins: 0.26588
+overallRisk: 4
+payoutRatio: 0.80120003
+pegRatio: 3.17
+phone: 732 524 0400
+previousClose: 280.78
+priceEpsCurrentYear: 24.969131
+priceHint: 2
+priceToBook: 8.19752
+priceToSalesTrailing12Months: 6.7286425
+profitMargins: 0.16203
+quickRatio: 0.653
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.91304
+region: US
+regularMarketChange: -3.130005
+regularMarketChangePercent: -1.1147535
+regularMarketDayHigh: 278.66
+regularMarketDayLow: 276.605
+regularMarketDayRange: 276.605 - 278.66
+regularMarketOpen: 277.96
+regularMarketPreviousClose: 280.78
+regularMarketPrice: 277.65
+regularMarketTime: 1794413740
+regularMarketVolume: 1156672
+returnOnAssets: 0.0846
+returnOnEquity: 0.20018
+revenueGrowth: 0.059
+revenuePerShare: 41.252
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 3
+sharesOutstanding: 2407310266
+sharesPercentSharesOut: 0.0070999996
+sharesShort: 17068289
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 22070973
+shortName: Johnson & Johnson
+shortPercentOfFloat: 0.007900001
+shortRatio: 2.2
+sourceInterval: 15
+state: NJ
+symbol: JNJ
+targetHighPrice: 320.0
+targetLowPrice: 190.0
+targetMeanPrice: 279.4091
+targetMedianPrice: 280.5
+totalCash: 17227999232
+totalCashPerShare: 7.157
+totalDebt: 44650999808
+totalRevenue: 99334995968
+tradeable: false
+trailingAnnualDividendRate: 5.28
+trailingAnnualDividendYield: 0.018804759
+trailingEps: 6.59
+trailingPE: 42.132015
+trailingPegRatio: 3.1742
+triggerable: true
+twoHundredDayAverage: 248.93535
+twoHundredDayAverageChange: 28.714645
+twoHundredDayAverageChangePercent: 0.115349814
+typeDisp: Equity
+volume: 1156672
+website: https://www.jnj.com
+zip: 08933

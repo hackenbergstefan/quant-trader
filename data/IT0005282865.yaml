@@ -1,0 +1,249 @@
+52WeekChange: 0.09882748
+SandP52WeekChange: 0.097798586
+address1: Corso Francia, 110
+allTimeHigh: 187.9
+allTimeLow: 1.825
+ask: 132.4
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 1.2 - Strong Buy
+averageDailyVolume10Day: 56719
+averageDailyVolume3Month: 72544
+averageVolume: 72544
+averageVolume10days: 56719
+beta: 0.878
+bid: 132.3
+bidSize: 0
+boardRisk: 9
+bookValue: 41.406
+city: Turin
+companyOfficers:
+- age: 77
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mario  Rizzante
+  title: Co-Founder, Chairman, CEO & President
+  totalPay: 1240000
+  unexercisedValue: 0
+  yearBorn: 1948
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Tatiana  Rizzante
+  title: CEO & Executive Director
+  totalPay: 1005000
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Engineer Marco  Cusinato
+  title: CFO & Executive Director
+  totalPay: 835000
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Filippo  Rizzante
+  title: Executive Director
+  totalPay: 776000
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria Elena Previtera
+  title: Executive Director
+  totalPay: 1083000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Andrea  Gottardo
+  title: Secretary to the Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Domnick  Parretta
+  title: Partner
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Justin  Jackson
+  title: Partner
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 132.3
+currentRatio: 1.734
+customPriceAlertConfidence: LOW
+dayHigh: 132.9
+dayLow: 130.4
+debtToEquity: 11.87
+dividendRate: 1.35
+dividendYield: 1.03
+earningsCallTimestampEnd: 1741874400
+earningsCallTimestampStart: 1741874400
+earningsGrowth: -0.136
+earningsQuarterlyGrowth: -0.153
+earningsTimestamp: 1794501000
+earningsTimestampEnd: 1794501000
+earningsTimestampStart: 1794501000
+ebitda: 434206016
+ebitdaMargins: 0.17126
+enterpriseToEbitda: 10.119
+enterpriseToRevenue: 1.733
+enterpriseValue: 4393843200
+epsCurrentYear: 7.70735
+epsForward: 8.39172
+epsTrailingTwelveMonths: 5.49
+esgPopulated: false
+exDividendDate: 1779062400
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 39 0117 49 54 16
+fiftyDayAverage: 124.122
+fiftyDayAverageChange: 8.178001
+fiftyDayAverageChangePercent: 0.065886796
+fiftyTwoWeekChangePercent: 9.882748
+fiftyTwoWeekHigh: 135.0
+fiftyTwoWeekHighChange: -2.699997
+fiftyTwoWeekHighChangePercent: -0.019999977
+fiftyTwoWeekLow: 76.65
+fiftyTwoWeekLowChange: 55.65
+fiftyTwoWeekLowChangePercent: 0.7260274
+fiftyTwoWeekRange: 76.65 - 135.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 976089600000
+fiveYearAvgDividendYield: 0.73
+floatShares: 22641420
+forwardEps: 8.39172
+forwardPE: 15.765541
+freeCashflow: 249490128
+fullExchangeName: Milan
+fullTimeEmployees: 17297
+fulldayChange: 1.1000061
+fulldayChangePercent: 0.8390589
+fulldayPrice: 132.3
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.17087999
+grossProfits: 433256992
+hasPrePostMarketData: false
+heldPercentInsiders: 0.37082002
+heldPercentInstitutions: 0.3513
+impliedSharesOutstanding: 36328236
+industry: Information Technology Services
+industryDisp: Information Technology Services
+industryKey: information-technology-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779062400
+lastDividendValue: 1.35
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1508112000
+lastSplitFactor: '4:1'
+longBusinessSummary: Reply S.p.A. provides consulting, system integration, and digital
+  services based on communication channels and digital media in Italy and internationally.
+  It offers Axulus Reply, an engineering platform for the industrial sector with generative
+  AI functionalities; Brick Reply, a digital as a service platform that enables the
+  transformation of industrial operations; Discovery Reply, a platform that centralizes
+  and manages the life cycle of digital content, such as images, videos, audio, 3D
+  models, and documents; and Lea Reply, platform for supply chain execution processes.
+  The company also provides TamTamy Reply, a platform for the creation, management,
+  and orchestration of agentic AI solutions in enterprise environments; TamTamy Reply,
+  an enterprise social network platform for corporate communication and collaboration;
+  Ticuro Reply, a modular platform that enables processes to support prevention and
+  continuity of care remotely for digital healthcare; and X-RAIS Reply, an artificial
+  intelligence solution for radiological diagnosis processes through deep learning.
+  The company serves automotive and manufacturing, energy and utilities, financial
+  services, logistics, retail and consumer products, and telco and media industries.
+  The company has a strategic collaboration with European Institute Of Oncology for
+  the development and training of domain-specific Large Language Models for oncology.
+  Reply S.p.A. was founded in 1995 and is headquartered in Turin, Italy.
+longName: Reply S.p.A.
+market: it_market
+marketCap: 4806225920
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1222537
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 257975008
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 4766264563
+numberOfAnalystOpinions: 11
+open: 132.0
+operatingCashflow: 317721984
+operatingMargins: 0.15161
+overallRisk: 10
+payoutRatio: 0.245
+phone: 39 0117 71 15 94
+previousClose: 131.2
+priceEpsCurrentYear: 17.165434
+priceHint: 2
+priceToBook: 3.1951892
+priceToSalesTrailing12Months: 1.8956488
+profitMargins: 0.10175
+quickRatio: 1.413
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.18182
+region: US
+regularMarketChange: 1.1000061
+regularMarketChangePercent: 0.8390589
+regularMarketDayHigh: 132.9
+regularMarketDayLow: 130.4
+regularMarketDayRange: 130.4 - 132.9
+regularMarketOpen: 132.0
+regularMarketPreviousClose: 131.2
+regularMarketPrice: 132.3
+regularMarketTime: 1794411552
+regularMarketVolume: 34024
+returnOnAssets: 0.093030006
+returnOnEquity: 0.18087
+revenueGrowth: 0.08
+revenuePerShare: 68.541
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 9
+sharesOutstanding: 36328236
+shortName: REPLY
+sourceInterval: 20
+state: TO
+symbol: REY.MI
+targetHighPrice: 195.0
+targetLowPrice: 121.0
+targetMeanPrice: 153.63635
+targetMedianPrice: 155.0
+totalCash: 580920000
+totalCashPerShare: 15.902
+totalDebt: 179792992
+totalRevenue: 2535398912
+tradeable: false
+trailingAnnualDividendRate: 1.35
+trailingAnnualDividendYield: 0.010289635
+trailingEps: 5.49
+trailingPE: 24.098362
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 104.31
+twoHundredDayAverageChange: 27.990005
+twoHundredDayAverageChangePercent: 0.26833484
+typeDisp: Equity
+volume: 34024
+website: https://www.reply.com
+zip: '10143'

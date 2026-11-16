@@ -1,0 +1,270 @@
+52WeekChange: 0.28393352
+SandP52WeekChange: 0.097798586
+address1: KOeniginstrasse 28
+allTimeHigh: 469.1
+allTimeLow: 44.5
+ask: 463.1
+askSize: 100
+auditRisk: 9
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 521289
+averageDailyVolume3Month: 482338
+averageVolume: 482338
+averageVolume10days: 521289
+beta: 0.671
+bid: 462.9
+bidSize: 2149
+boardRisk: 1
+bookValue: 166.33
+city: Munich
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oliver  Bate
+  title: Chairman of the Management Board & CEO
+  totalPay: 5710000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Claire-Marie Thomas Coste-Lepoutre
+  title: CFO & Member of Management Board
+  totalPay: 2960000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Gunther  Thallinger
+  title: Member of the Management Board
+  totalPay: 2954000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Klaus-Peter  Rohler
+  title: Member of the Management Board
+  totalPay: 2919000
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Madam Renate  Wagner
+  title: Member of the Management Board
+  totalPay: 2944000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher George Townsend
+  title: Member of the Management Board
+  totalPay: 2875000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Barbara  Karuth-Zelle Ph.D.
+  title: COO & Member of the Management Board
+  totalPay: 2948000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Andreas Georg Wimmer
+  title: Member of the Management Board
+  totalPay: 2954000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sirma Gencheva Boshnakova
+  title: Member of the Management Board
+  totalPay: 2907000
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Euler  Hermes
+  title: Member of the Management Board
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 463.1
+currentRatio: 1.514
+customPriceAlertConfidence: LOW
+dayHigh: 465.3
+dayLow: 459.9
+debtToEquity: 50.648
+dividendRate: 17.1
+dividendYield: 3.74
+earningsCallTimestampEnd: 1794472200
+earningsCallTimestampStart: 1794472200
+earningsGrowth: -0.08
+earningsQuarterlyGrowth: -0.087
+earningsTimestamp: 1794501000
+earningsTimestampEnd: 1794501000
+earningsTimestampStart: 1794501000
+ebitda: 21464000512
+ebitdaMargins: 0.17973
+enterpriseToEbitda: 3.567
+enterpriseToRevenue: 0.641
+enterpriseValue: 76553977856
+epsCurrentYear: 31.30282
+epsForward: 33.34296
+epsTrailingTwelveMonths: 30.93
+esgPopulated: false
+exDividendDate: 1778198400
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 435.074
+fiftyDayAverageChange: 28.026001
+fiftyDayAverageChangePercent: 0.06441663
+fiftyTwoWeekChangePercent: 28.393353
+fiftyTwoWeekHigh: 469.1
+fiftyTwoWeekHighChange: -6.0
+fiftyTwoWeekHighChangePercent: -0.01279045
+fiftyTwoWeekLow: 338.8
+fiftyTwoWeekLowChange: 124.30002
+fiftyTwoWeekLowChangePercent: 0.3668832
+fiftyTwoWeekRange: 338.8 - 469.1
+financialCurrency: EUR
+firstTradeDateMilliseconds: 850723200000
+fiveYearAvgDividendYield: 4.68
+floatShares: 377895789
+forwardEps: 33.34296
+forwardPE: 13.8889885
+freeCashflow: 9307124736
+fullExchangeName: XETRA
+fullTimeEmployees: 138378
+fulldayChange: -0.3999939
+fulldayChangePercent: -0.08629858
+fulldayPrice: 463.1
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.25009
+grossProfits: 29866000384
+hasPrePostMarketData: false
+heldPercentInsiders: 6.0000002e-05
+heldPercentInstitutions: 0.43758
+impliedSharesOutstanding: 379286270
+industry: Insurance - Diversified
+industryDisp: Insurance - Diversified
+industryKey: insurance-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778198400
+lastDividendValue: 17.1
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Allianz SE, together with its subsidiaries, provides property-casualty
+  insurance, life/health insurance, and asset management products and services worldwide.
+  The company's Property-Casualty segment offers various insurance products, including
+  motor liability, accident, fire and property, general liability, credit, and travel,
+  and assistance services to private and corporate customers. Its Life/Health segment
+  provides a range of life and health insurance products on an individual and a group
+  basis, such as annuities, endowment and term insurance, and unit-linked and investment-oriented
+  products, as well as private and supplemental health, and long-term care insurance
+  products. The company's Asset Management segment offers institutional and retail
+  asset management products and services to third-party investors comprising equity
+  and fixed income funds, cash, and multi-assets; and alternative investment products
+  that include real estate, infrastructure debt/equity, real assets, liquid alternatives,
+  and solutions business. In addition, it provides banking services for retail clients;
+  and digital investment services. Allianz SE was founded in 1890 and is headquartered
+  in Munich, Germany.
+longName: Allianz SE
+market: de_market
+marketCap: 175647473664
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_598807
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 11612000256
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 173333825390
+numberOfAnalystOpinions: 15
+open: 465.3
+operatingCashflow: 29991000064
+operatingMargins: 0.16992001
+overallRisk: 2
+payoutRatio: 0.5607
+pegRatio: 3.13
+phone: 49 89 3800 0
+previousClose: 463.5
+priceEpsCurrentYear: 14.794194
+priceHint: 2
+priceToBook: 2.784224
+priceToSalesTrailing12Months: 1.4708257
+profitMargins: 0.098780006
+quickRatio: 1.066
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.6875
+region: US
+regularMarketChange: -0.3999939
+regularMarketChangePercent: -0.08629858
+regularMarketDayHigh: 465.3
+regularMarketDayLow: 459.9
+regularMarketDayRange: 459.9 - 465.3
+regularMarketOpen: 465.3
+regularMarketPreviousClose: 463.5
+regularMarketPrice: 463.1
+regularMarketTime: 1794411560
+regularMarketVolume: 173418
+returnOnAssets: 0.01228
+returnOnEquity: 0.19612
+revenueGrowth: 0.121
+revenuePerShare: 314.36
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 379286270
+shortName: Allianz SE                    v
+sourceInterval: 15
+symbol: ALV.DE
+targetHighPrice: 684.0
+targetLowPrice: 351.0
+targetMeanPrice: 446.45016
+targetMedianPrice: 440.0
+totalCash: 136018001920
+totalCashPerShare: 359.881
+totalDebt: 33706000384
+totalRevenue: 119421001728
+tradeable: false
+trailingAnnualDividendRate: 17.1
+trailingAnnualDividendYield: 0.036893204
+trailingEps: 30.93
+trailingPE: 14.972519
+trailingPegRatio: 3.1284
+triggerable: false
+twoHundredDayAverage: 404.18
+twoHundredDayAverageChange: 58.920013
+twoHundredDayAverageChangePercent: 0.14577667
+typeDisp: Equity
+volume: 173418
+website: https://www.allianz.com
+zip: '80802'

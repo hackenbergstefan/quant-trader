@@ -1,0 +1,286 @@
+52WeekChange: 0.2515173
+SandP52WeekChange: 0.097798586
+address1: Baerengasse 32
+allTimeHigh: 384.26
+allTimeLow: 6.916667
+ask: 365.78
+askSize: 80
+auditRisk: 9
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 1538270
+averageDailyVolume3Month: 1620648
+averageVolume: 1620648
+averageVolume10days: 1538270
+beta: 0.286
+bid: 365.55
+bidSize: 80
+boardRisk: 10
+bookValue: 191.428
+city: Zurich
+companyOfficers:
+- age: 70
+  exercisedValue: 18898514
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Evan G. Greenberg
+  title: Chairman & CEO
+  totalPay: 14330454
+  unexercisedValue: 80427400
+  yearBorn: 1955
+- age: 60
+  exercisedValue: 10683094
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John W. Keogh
+  title: Chairman of North America Insurance, President & COO
+  totalPay: 6082297
+  unexercisedValue: 24648822
+  yearBorn: 1965
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter C. Enns C.F.A.
+  title: Executive VP & CFO
+  totalPay: 3432728
+  unexercisedValue: 3675137
+  yearBorn: 1966
+- age: 50
+  exercisedValue: 1130006
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juan Luis Ortega Guarderas
+  title: Executive VP of Chubb Group & President of North America Insurance
+  totalPay: 3609533
+  unexercisedValue: 7515580
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher J. Hogan CFA
+  title: Senior VP of Chubb Group & Chief Investment Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. George  Ohsiek
+  title: VP of Chubb Group & Chief Accounting Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gordon  Mackechnie
+  title: VP of Chubb Group, Global Head of Tech, Division President of North America
+    Financial Lines & CTO
+  unexercisedValue: 0
+- age: 61
+  exercisedValue: 1403964
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sean  Ringsted
+  title: EVP of Chubb Group, Chief Scientist, Chief Digital Business & Chief Analytics
+    Officer
+  totalPay: 4361934
+  unexercisedValue: 6936440
+  yearBorn: 1964
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Susan P. Spivak Bernstein
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph F. Wayland J.D.
+  title: Executive VP, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1958
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: USD
+currentPrice: 366.74
+currentRatio: 0.395
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 368.27
+dayLow: 365.52
+debtToEquity: 32.945
+displayName: Chubb
+dividendDate: 1790899200
+dividendRate: 4.08
+dividendYield: 1.11
+earningsCallTimestampEnd: 1792585800
+earningsCallTimestampStart: 1792585800
+earningsGrowth: 0.044
+earningsQuarterlyGrowth: 0.015
+earningsTimestamp: 1792526400
+earningsTimestampEnd: 1792526400
+earningsTimestampStart: 1792526400
+ebitda: 14062999552
+ebitdaMargins: 0.22704001
+enterpriseToEbitda: 11.671
+enterpriseToRevenue: 2.65
+enterpriseValue: 164127260672
+epsCurrentYear: 29.11315
+epsForward: 29.47139
+epsTrailingTwelveMonths: 28.53
+esgPopulated: false
+exDividendDate: 1789084800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 347.089
+fiftyDayAverageChange: 19.651001
+fiftyDayAverageChangePercent: 0.056616608
+fiftyTwoWeekChangePercent: 25.15173
+fiftyTwoWeekHigh: 384.26
+fiftyTwoWeekHighChange: -17.52002
+fiftyTwoWeekHighChangePercent: -0.04559418
+fiftyTwoWeekLow: 291.03
+fiftyTwoWeekLowChange: 75.70999
+fiftyTwoWeekLowChangePercent: 0.26014498
+fiftyTwoWeekRange: 291.03 - 384.26
+financialCurrency: USD
+firstTradeDateMilliseconds: 733069800000
+fiveYearAvgDividendYield: 1.39
+floatShares: 346171417
+forwardEps: 29.47139
+forwardPE: 12.443933
+freeCashflow: 11234750464
+fullExchangeName: NYSE
+fullTimeEmployees: 45000
+fulldayChange: -2.369995
+fulldayChangePercent: -0.6420837
+fulldayPrice: 366.74
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.29797
+grossProfits: 18456000512
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0947
+heldPercentInstitutions: 0.85579
+impliedSharesOutstanding: 382079222
+industry: Insurance - Property & Casualty
+industryDisp: Insurance - Property & Casualty
+industryKey: insurance-property-casualty
+irWebsite: http://www.acegroup.com/Investor-Information/Investor-Information.html
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789084800
+lastDividendValue: 1.02
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 888883200
+lastSplitFactor: '3:1'
+longBusinessSummary: 'Chubb Limited provides insurance and reinsurance products worldwide.
+  It operates in six segments: North America Commercial Property and Casualty (P&C)
+  Insurance, North America Personal P&C Insurance, North America Agricultural Insurance,
+  Overseas General Insurance, Global Reinsurance, and Life Insurance. The company
+  offers property and general liability, workers'' compensation, and umbrella; professional
+  and management liability; environmental, health, and international coverages; and
+  claims and risk management products and services, loss control, and engineering
+  and complex claims management. It also provides homeowners, automobile and collector
+  cars, valuable articles, and personal and excess liability insurance. In addition,
+  the company offers multiple peril crop insurance and crop-hail insurance for farm,
+  ranch, specialty (P&C), and commercial agriculture products; product and employer
+  liability, business interruption, and specialty risk; property insurance products,
+  including traditional commercial fire coverage, energy industry-related, marine,
+  construction, and other technical coverages; personal accident and supplemental
+  medical coverages, such as accidental death, business/holiday travel, specified
+  disease, disability, medical and hospital indemnity, and income protection; and
+  directors and officers, professional indemnity, cyber, surety, aviation, political
+  risk, and specialty personal lines products. Further, it provides property catastrophe
+  reinsurance; traditional and specialty P&C reinsurance; and protection and savings
+  products, which includes individual and group term life, dental, critical illness,
+  dementia, hospital cash, credit life, group employee benefits, whole life, universal
+  life, unit linked contracts, endowment plans, and annuities. The company was formerly
+  known as ACE Limited and changed its name to Chubb Limited in January 2016. Chubb
+  Limited was incorporated in 1985 and is headquartered in Zurich, Switzerland.'
+longName: Chubb Limited
+market: us_market
+marketCap: 140123734016
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_203028
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 11228000256
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 141029261632
+numberOfAnalystOpinions: 23
+open: 366.16
+operatingCashflow: 17807998976
+operatingMargins: 0.22223
+overallRisk: 8
+payoutRatio: 0.13949999
+pegRatio: 2.73
+phone: 41 43 456 76 00
+previousClose: 369.11
+priceEpsCurrentYear: 12.597056
+priceHint: 2
+priceToBook: 1.9158117
+priceToSalesTrailing12Months: 2.2622495
+profitMargins: 0.18127
+quickRatio: 0.193
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.48
+region: US
+regularMarketChange: -2.369995
+regularMarketChangePercent: -0.6420837
+regularMarketDayHigh: 368.27
+regularMarketDayLow: 365.52
+regularMarketDayRange: 365.52 - 368.27
+regularMarketOpen: 366.16
+regularMarketPreviousClose: 369.11
+regularMarketPrice: 366.74
+regularMarketTime: 1794413699
+regularMarketVolume: 250686
+returnOnAssets: 0.031070001
+returnOnEquity: 0.1425
+revenueGrowth: 0.003
+revenuePerShare: 159.231
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 7
+sharesOutstanding: 382079222
+sharesPercentSharesOut: 0.007900001
+sharesShort: 3014211
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3142116
+shortName: Chubb Limited
+shortPercentOfFloat: 0.007900001
+shortRatio: 1.9
+sourceInterval: 15
+symbol: CB
+targetHighPrice: 425.0
+targetLowPrice: 314.0
+targetMeanPrice: 373.21738
+targetMedianPrice: 374.0
+totalCash: 8053000192
+totalCashPerShare: 21.077
+totalDebt: 25866000384
+totalRevenue: 61939998720
+tradeable: false
+trailingAnnualDividendRate: 3.98
+trailingAnnualDividendYield: 0.010782694
+trailingEps: 28.53
+trailingPE: 12.854538
+trailingPegRatio: 2.7775
+triggerable: true
+twoHundredDayAverage: 336.3664
+twoHundredDayAverageChange: 30.373596
+twoHundredDayAverageChangePercent: 0.09029914
+typeDisp: Equity
+volume: 250711
+website: https://www.chubb.com
+zip: '8001'

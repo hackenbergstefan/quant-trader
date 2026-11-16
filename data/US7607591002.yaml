@@ -1,0 +1,275 @@
+52WeekChange: 0.20701921
+SandP52WeekChange: 0.097798586
+address1: 5353 East City North Drive
+allTimeHigh: 258.75
+allTimeLow: 5.916667
+ask: 247.72
+askSize: 100
+auditRisk: 6
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 1566970
+averageDailyVolume3Month: 1458537
+averageVolume: 1458537
+averageVolume10days: 1566970
+beta: 0.324
+bid: 247.52
+bidSize: 600
+boardRisk: 1
+bookValue: 40.125
+city: Phoenix
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jon  Vander Ark
+  title: President, CEO & Director
+  totalPay: 3732527
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian M. DelGhiaccio
+  title: Executive VP & CFO
+  totalPay: 1502948
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregg K. Brummer
+  title: Executive VP & COO
+  totalPay: 1423202
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Catharine D. Ellingsen J.D.
+  title: Executive VP, Chief Legal Officer, Chief Ethics & Compliance Officer and
+    Corporate Secretary
+  totalPay: 1217436
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian A. Bales CPA
+  title: Executive VP & Chief Development Officer
+  totalPay: 1110119
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 38
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elyse  Carlsen
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1987
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Weeks
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jeni  Bell
+  title: Executive VP & Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Courtney  Rodriguez
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nicole  Giandinoto CFA, CTP
+  title: Senior Vice President of Business Transformation
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 248.035
+currentRatio: 0.749
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 248.59
+dayLow: 246.77
+debtToEquity: 116.609
+displayName: Republic Services
+dividendDate: 1799971200
+dividendRate: 2.68
+dividendYield: 1.08
+earningsCallTimestampEnd: 1793307600
+earningsCallTimestampStart: 1793307600
+earningsGrowth: 0.097
+earningsQuarterlyGrowth: 0.076
+earningsTimestamp: 1793304000
+earningsTimestampEnd: 1793304000
+earningsTimestampStart: 1793304000
+ebitda: 5377999872
+ebitdaMargins: 0.31199
+enterpriseToEbitda: 16.664
+enterpriseToRevenue: 5.199
+enterpriseValue: 89617874944
+epsCurrentYear: 7.2753
+epsForward: 8.01212
+epsTrailingTwelveMonths: 7.22
+esgPopulated: false
+exDividendDate: 1799020800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 225.9458
+fiftyDayAverageChange: 22.089203
+fiftyDayAverageChangePercent: 0.09776328
+fiftyTwoWeekChangePercent: 20.701921
+fiftyTwoWeekHigh: 254.39
+fiftyTwoWeekHighChange: -6.3549957
+fiftyTwoWeekHighChangePercent: -0.02498131
+fiftyTwoWeekLow: 196.41
+fiftyTwoWeekLowChange: 51.625
+fiftyTwoWeekLowChangePercent: 0.262843
+fiftyTwoWeekRange: 196.41 - 254.39
+financialCurrency: USD
+firstTradeDateMilliseconds: 899299800000
+fiveYearAvgDividendYield: 1.18
+floatShares: 303990771
+forwardEps: 8.01212
+forwardPE: 30.957474
+freeCashflow: 1928999936
+fullExchangeName: NYSE
+fullTimeEmployees: 42000
+fulldayChange: 0.41500854
+fulldayChangePercent: 0.16759896
+fulldayPrice: 248.035
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.43015
+grossProfits: 7415000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00177
+heldPercentInstitutions: 1.00413
+impliedSharesOutstanding: 304639653
+industry: Waste Management
+industryDisp: Waste Management
+industryKey: waste-management
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=82381&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790899200
+lastDividendValue: 0.67
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1174262400
+lastSplitFactor: '3:2'
+longBusinessSummary: Republic Services, Inc., together with its subsidiaries, offers
+  environmental services in the United States and Canada. It is involved in the collection
+  and processing of recyclable, solid waste, and industrial waste materials; transportation
+  and disposal of non-hazardous and hazardous waste streams; and other environmental
+  solutions. Its residential collection services include curbside collection of material
+  for transport to transfer stations, landfills, recycling centers, and organics processing
+  facilities; supply of recycling and waste containers; and renting of compactors.
+  The company also engages in the processing and sale of old corrugated containers,
+  old newsprint, aluminum, glass, and other materials; and provision of landfill services.
+  It serves small-container, large-container, and residential customers. The company
+  was incorporated in 1996 and is based in Phoenix, Arizona.
+longName: Republic Services, Inc.
+market: us_market
+marketCap: 75561295872
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_386225
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2227000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 75434870875
+numberOfAnalystOpinions: 24
+open: 246.86
+operatingCashflow: 4499999744
+operatingMargins: 0.20124
+overallRisk: 1
+payoutRatio: 0.3525
+pegRatio: 3.16
+phone: 480 627 2700
+previousClose: 247.62
+priceEpsCurrentYear: 34.092754
+priceHint: 2
+priceToBook: 6.1815577
+priceToSalesTrailing12Months: 4.3834143
+profitMargins: 0.12919
+quickRatio: 0.654
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.03704
+region: US
+regularMarketChange: 0.41500854
+regularMarketChangePercent: 0.16759896
+regularMarketDayHigh: 248.59
+regularMarketDayLow: 246.77
+regularMarketDayRange: 246.77 - 248.59
+regularMarketOpen: 246.86
+regularMarketPreviousClose: 247.62
+regularMarketPrice: 248.035
+regularMarketTime: 1794413750
+regularMarketVolume: 283848
+returnOnAssets: 0.06257
+returnOnEquity: 0.1848
+revenueGrowth: 0.082
+revenuePerShare: 55.938
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 2
+sharesOutstanding: 304639653
+sharesPercentSharesOut: 0.0145000005
+sharesShort: 4419389
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4816358
+shortName: Republic Services, Inc.
+shortPercentOfFloat: 0.0227
+shortRatio: 3.34
+sourceInterval: 15
+state: AZ
+symbol: RSG
+targetHighPrice: 281.0
+targetLowPrice: 215.0
+targetMeanPrice: 256.16666
+targetMedianPrice: 263.5
+totalCash: 92000000
+totalCashPerShare: 0.302
+totalDebt: 14273000448
+totalRevenue: 17237999616
+tradeable: false
+trailingAnnualDividendRate: 2.545
+trailingAnnualDividendYield: 0.010277846
+trailingEps: 7.22
+trailingPE: 34.353878
+trailingPegRatio: 3.156
+triggerable: true
+twoHundredDayAverage: 217.9043
+twoHundredDayAverageChange: 30.130707
+twoHundredDayAverageChangePercent: 0.13827495
+typeDisp: Equity
+volume: 283848
+website: https://www.republicservices.com
+zip: '85054'

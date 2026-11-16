@@ -1,0 +1,256 @@
+52WeekChange: 0.3239951
+SandP52WeekChange: 0.097798586
+address1: 1 Basinghall Avenue
+allTimeHigh: 2438.2273
+allTimeLow: 41.7374
+ask: 2202.0
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 5075091
+averageDailyVolume3Month: 5013534
+averageVolume: 5013534
+averageVolume10days: 5075091
+beta: 0.49
+bid: 2201.0
+bidSize: 0
+boardRisk: 1
+bookValue: 15.153574
+city: London
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William Thomas Winters CBE
+  title: Group Chief Executive & Executive Director
+  totalPay: 5590000
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Manus James MacGregor Costello
+  title: Group Chief Financial Officer & Executive Director
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tanuj  Kapilashrami
+  title: Group Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steve  Brice
+  title: Chief Investment Officer & Head of Discretionary Portfolio Management Division
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Roberto  Hoornweg
+  title: Chief Executive Officer of Corporate & Investment Banking
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Noelle K. Eder
+  title: Group Head of Technology & Operations
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David John Lock
+  title: Global Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott David Corrigan
+  title: Group General Counsel & Group Company Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Simon  Kellaway
+  title: Head of Global Sales, Financing & Securities Services
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pi-Cheng  Hung BBS, J.P.
+  title: President of International
+  unexercisedValue: 0
+  yearBorn: 1965
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 2201.0
+customPriceAlertConfidence: LOW
+dayHigh: 2247.0
+dayLow: 2181.0
+dividendRate: 0.52
+dividendYield: 2.37
+earningsCallTimestampEnd: 1793174400
+earningsCallTimestampStart: 1793174400
+earningsGrowth: 0.55
+earningsQuarterlyGrowth: 0.352
+earningsTimestamp: 1793205000
+earningsTimestampEnd: 1793205000
+earningsTimestampStart: 1793205000
+ebitdaMargins: 0.0
+enterpriseToRevenue: -7.203
+enterpriseValue: -155756232704
+epsCurrentYear: 2.49133
+epsForward: 2.0878963
+epsTrailingTwelveMonths: 1.75
+esgPopulated: false
+exDividendDate: 1785974400
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 2180.63
+fiftyDayAverageChange: 20.370117
+fiftyDayAverageChangePercent: 0.009341392
+fiftyTwoWeekChangePercent: 32.399513
+fiftyTwoWeekHigh: 2364.0
+fiftyTwoWeekHighChange: -163.0
+fiftyTwoWeekHighChangePercent: -0.06895093
+fiftyTwoWeekLow: 1471.5
+fiftyTwoWeekLowChange: 729.5
+fiftyTwoWeekLowChangePercent: 0.49575263
+fiftyTwoWeekRange: 1471.5 - 2364.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 2.14
+floatShares: 1738460840
+forwardEps: 2.0878963
+forwardPE: 10.541712
+fullExchangeName: LSE
+fullTimeEmployees: 81514
+fulldayChange: 27.0
+fulldayChangePercent: 1.2419503
+fulldayPrice: 2201.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 21622999040
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0038299998
+heldPercentInstitutions: 0.74197996
+impliedSharesOutstanding: 2162713415
+industry: Banks - Diversified
+industryDisp: Banks - Diversified
+industryKey: banks-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1785974400
+lastDividendValue: 0.204
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 768182400
+lastSplitFactor: '4:1'
+longBusinessSummary: 'Standard Chartered PLC, together with its subsidiaries, provides
+  various banking products and services in Asia, Africa, the Middle East, Europe,
+  and the Americas. The company operates in three segments: Corporate & Investment
+  Banking, Wealth & Retail Banking, and Ventures. It offers retail products, such
+  as deposits, mortgages, credit cards, and personal loans; wealth management products
+  and services that include investments, portfolio management, bancassurance, and
+  wealth advice; and transaction banking services, such as cash management, working
+  capital, trade financing, securities and prime services, and payments and liquidity
+  products. The company also provides mergers and acquisitions, leveraged and acquisition
+  finance, infrastructure and development finance, fund finance, and transportation
+  and sustainable finance solutions. In addition, it offers international banking,
+  private banking, priority banking, wealth solutions, financing for SMEs, and Islamic
+  banking products. Further, the company provides financial markets products and services
+  that comprise financing and investment ideas; risk management and investment solutions;
+  foreign exchange, rates, credit, and structured products; capital raising solutions;
+  and sales and structuring, as well as digital banking solutions. It serves financial
+  institutions, governments, banks, investors, corporations, small to medium-sized
+  businesses, and individuals. Standard Chartered PLC was founded in 1853 and is headquartered
+  in London, the United Kingdom.'
+longName: Standard Chartered PLC
+market: gb_market
+marketCap: 47601319936
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_677433
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 5336999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 47017389642
+numberOfAnalystOpinions: 14
+open: 2246.0
+operatingMargins: 0.37331
+overallRisk: 5
+payoutRatio: 0.29540002
+pegRatio: 0.78
+phone: 44 20 7885 8888
+previousClose: 2174.0
+priceEpsCurrentYear: 883.46387
+priceHint: 2
+priceToBook: 1.4524627
+priceToSalesTrailing12Months: 2.2014208
+profitMargins: 0.27221
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.14286
+region: US
+regularMarketChange: 27.0
+regularMarketChangePercent: 1.2419503
+regularMarketDayHigh: 2247.0
+regularMarketDayLow: 2181.0
+regularMarketDayRange: 2181.0 - 2247.0
+regularMarketOpen: 2246.0
+regularMarketPreviousClose: 2174.0
+regularMarketPrice: 2201.0
+regularMarketTime: 1794411560
+regularMarketVolume: 4157636
+returnOnAssets: 0.0061799996
+returnOnEquity: 0.10896
+revenueGrowth: 0.156
+revenuePerShare: 9.718
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 2162713415
+shortName: STANDARD CHARTERED PLC ORD USD0
+sourceInterval: 15
+symbol: STAN.L
+targetHighPrice: 3046.9985
+targetLowPrice: 1804.1434
+targetMeanPrice: 2484.8335
+targetMedianPrice: 2512.3713
+totalCash: 393488007168
+totalCashPerShare: 180.997
+totalDebt: 188508995584
+totalRevenue: 21622999040
+tradeable: false
+trailingAnnualDividendRate: 0.69
+trailingAnnualDividendYield: 0.0003173873
+trailingEps: 1.75
+trailingPE: 12.577143
+trailingPegRatio: 0.7823
+triggerable: false
+twoHundredDayAverage: 1980.434
+twoHundredDayAverageChange: 220.56604
+twoHundredDayAverageChangePercent: 0.11137258
+typeDisp: Equity
+volume: 4157636
+website: https://www.sc.com
+zip: EC2V 5DD

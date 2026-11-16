@@ -1,0 +1,267 @@
+52WeekChange: 0.046354532
+SandP52WeekChange: 0.097798586
+address1: Koneenkatu 8
+address2: P.O. Box 661
+allTimeHigh: 34.566666
+allTimeLow: 1.433333
+ask: 29.8
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 1.0 - Strong Buy
+averageDailyVolume10Day: 300154
+averageDailyVolume3Month: 333988
+averageVolume: 333988
+averageVolume10days: 300154
+beta: 1.248
+bid: 29.78
+bidSize: 0
+boardRisk: 2
+bookValue: 9.061
+city: Hyvinkää
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marko  Tulokas M.Sc. (Eng), MBA
+  title: President & CEO
+  totalPay: 589603
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Teo Juhani Ottola M.Sc (Econ.)
+  title: CFO & Deputy CEO
+  totalPay: 763710
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Claes  Erixon
+  title: Executive Vice President of Technologies
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Linda  Hakkila CEFA, M.Sc.
+  title: Chief Investor Relations Officer & VP of Investor Relations
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sirpa  Poitsalo LL.M.
+  title: Executive VP, General Counsel & Secretary of the Board
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christine  George
+  title: Executive Vice President of Corporate Strategy & Communictions
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mara  Zavagno
+  title: Executive Vice President of People & Culture
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tomas  Myntti M.Sc. (Eng.)
+  title: Business Area President of Port Solutions
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fabio  Fiorino
+  title: Business Area President of Industrial Service
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marko  Äkräs M.Sc. (Eng.)
+  title: Senior Vice President of Industrial Service - Region APAC (Asia-Pacific)
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Finland
+cryptoTradeable: false
+currency: EUR
+currentPrice: 29.78
+currentRatio: 1.345
+customPriceAlertConfidence: HIGH
+dayHigh: 29.98
+dayLow: 29.54
+debtToEquity: 18.515
+dividendRate: 2.25
+dividendYield: 7.65
+earningsCallTimestampEnd: 1792749600
+earningsCallTimestampStart: 1792749600
+earningsGrowth: 0.136
+earningsQuarterlyGrowth: 0.146
+earningsTimestamp: 1792769400
+earningsTimestampEnd: 1792769400
+earningsTimestampStart: 1792769400
+ebitda: 613100032
+ebitdaMargins: 0.14626001
+enterpriseToEbitda: 11.23
+enterpriseToRevenue: 1.642
+enterpriseValue: 6884951552
+epsCurrentYear: 1.78333
+epsForward: 2.04
+epsTrailingTwelveMonths: 1.67
+esgPopulated: false
+exDividendDate: 1774569600
+exchange: HEL
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Helsinki
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fiftyDayAverage: 29.3836
+fiftyDayAverageChange: 0.39640045
+fiftyDayAverageChangePercent: 0.013490533
+fiftyTwoWeekChangePercent: 4.635453
+fiftyTwoWeekHigh: 34.566666
+fiftyTwoWeekHighChange: -4.786665
+fiftyTwoWeekHighChangePercent: -0.13847633
+fiftyTwoWeekLow: 24.58
+fiftyTwoWeekLowChange: 5.200001
+fiftyTwoWeekLowChangePercent: 0.21155414
+fiftyTwoWeekRange: 24.58 - 34.566666
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 3.0
+floatShares: 185684584
+forwardEps: 2.04
+forwardPE: 14.59804
+freeCashflow: 288375008
+fullExchangeName: Helsinki
+fullTimeEmployees: 16476
+fulldayChange: 0.3600006
+fulldayChangePercent: 1.2236594
+fulldayPrice: 29.78
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.57496
+grossProfits: 2410099968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.21154
+heldPercentInstitutions: 0.43098998
+impliedSharesOutstanding: 237436997
+industry: Farm & Heavy Construction Machinery
+industryDisp: Farm & Heavy Construction Machinery
+industryKey: farm-heavy-construction-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1774569600
+lastDividendValue: 2.25
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1774569600
+lastSplitFactor: '3:1'
+longBusinessSummary: 'Konecranes Plc manufactures, sells, and services material handling
+  products in Europe, the Middle East, Africa, the Americas, and the Asia-Pacific.
+  It operates through three segments: Industrial Service, Industrial Equipment, and
+  Port Solutions. The Industrial Service segment provides maintenance services for
+  various industrial cranes and hoists. The Industrial Equipment segment offers industrial
+  cranes and wire rope hoists, crane manufacturing components, digital controls, and
+  software and automation; chain hoists, workstation lifting systems, overhead cranes,
+  and cranes and hoists for hazardous environments. The Port Solutions segment provides
+  equipment, services and software, and products, such as ship-to shore cranes, yard
+  cranes, lift trucks, mobile harbor cranes, straddle carriers, and automated guided
+  vehicles. It also offers maintenance, repair and digital services, and spare parts
+  for the container handling industry. It serves general manufacturing metals production,
+  power generation, automotive, pulp and paper, raw materials and chemicals, and container
+  handling industries. The company was founded in 1910 and is headquartered in Hyvinkää,
+  Finland.'
+longName: Konecranes Plc
+market: fi_market
+marketCap: 7070873600
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_428507
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 398900000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 6985396451
+numberOfAnalystOpinions: 4
+open: 29.56
+operatingCashflow: 333300000
+operatingMargins: 0.12792
+overallRisk: 1
+payoutRatio: 1.35
+pegRatio: 1.45
+phone: 358 2042 711
+previousClose: 29.42
+priceEpsCurrentYear: 16.699097
+priceHint: 2
+priceToBook: 3.286613
+priceToSalesTrailing12Months: 1.6868347
+profitMargins: 0.09516
+quickRatio: 0.727
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.0
+region: US
+regularMarketChange: 0.3600006
+regularMarketChangePercent: 1.2236594
+regularMarketDayHigh: 29.98
+regularMarketDayLow: 29.54
+regularMarketDayRange: 29.54 - 29.98
+regularMarketOpen: 29.56
+regularMarketPreviousClose: 29.42
+regularMarketPrice: 29.78
+regularMarketTime: 1794412352
+regularMarketVolume: 118422
+returnOnAssets: 0.07138
+returnOnEquity: 0.19434
+revenueGrowth: 0.114
+revenuePerShare: 17.639
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 4
+sharesOutstanding: 237436997
+shortName: Konecranes Plc
+sourceInterval: 15
+symbol: KCR.HE
+targetHighPrice: 36.0
+targetLowPrice: 35.0
+targetMeanPrice: 35.5
+targetMedianPrice: 35.5
+totalCash: 505200000
+totalCashPerShare: 2.126
+totalDebt: 398700000
+totalRevenue: 4191800064
+tradeable: false
+trailingAnnualDividendRate: 0.75
+trailingAnnualDividendYield: 0.025492862
+trailingEps: 1.67
+trailingPE: 17.832336
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 29.056316
+twoHundredDayAverageChange: 0.7236843
+twoHundredDayAverageChangePercent: 0.024906265
+typeDisp: Equity
+volume: 118422
+website: https://www.konecranes.com
+zip: 05801

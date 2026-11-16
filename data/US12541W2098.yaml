@@ -1,0 +1,292 @@
+52WeekChange: -0.15687299
+SandP52WeekChange: 0.097798586
+address1: 14701 Charlson Road
+allTimeHigh: 210.33
+allTimeLow: 3.59375
+ask: 140.35
+askSize: 2
+auditRisk: 1
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 2192120
+averageDailyVolume3Month: 1730401
+averageVolume: 1730401
+averageVolume10days: 2192120
+beta: 0.947
+bid: 121.01
+bidSize: 2
+boardRisk: 3
+bookValue: 13.623
+city: Eden Prairie
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David P. Bozeman
+  title: President, CEO & Director
+  totalPay: 4061566
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Damon J. Lee
+  title: Chief Financial Officer
+  totalPay: 1969598
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Dorothy G. Capers
+  title: Chief Legal Officer & Corporate Secretary
+  totalPay: 1466255
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 55
+  exercisedValue: 283208
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael J. Short
+  title: President of Global Freight Forwarding
+  totalPay: 1599674
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Arun D. Rajan
+  title: Chief Strategy & Innovation Officer
+  totalPay: 2876255
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael W. Neill
+  title: Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles S. Ives
+  title: Senior Director of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Duncan  Burns
+  title: Chief Communications & Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Angela K. Freeman
+  title: Chief Human Resources & ESG Officer
+  totalPay: 735596
+  unexercisedValue: 173737
+  yearBorn: 1968
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jordan T. Kass
+  title: President of Managed Services
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions:
+- header: Dividend
+  message: CHRW announced a cash dividend of $0.64 with an ex-date of Dec. 4, 2026
+  meta:
+    amount: '0.64'
+    dateEpochMs: 1796360400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 131.245
+currentRatio: 1.339
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 132.0
+dayLow: 128.25
+debtToEquity: 136.28
+displayName: C.H. Robinson Worldwide
+dividendDate: 1799107200
+dividendRate: 2.56
+dividendYield: 1.99
+earningsCallTimestampEnd: 1793190600
+earningsCallTimestampStart: 1793190600
+earningsGrowth: 0.246
+earningsQuarterlyGrowth: 0.218
+earningsTimestamp: 1793190600
+earningsTimestampEnd: 1801056600
+earningsTimestampStart: 1801056600
+ebitda: 1003177984
+ebitdaMargins: 0.055069998
+enterpriseToEbitda: 16.861
+enterpriseToRevenue: 0.928
+enterpriseValue: 16914565120
+epsCurrentYear: 6.36159
+epsForward: 7.46825
+epsTrailingTwelveMonths: 5.57
+esgPopulated: false
+exDividendDate: 1796342400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 142.808
+fiftyDayAverageChange: -11.563004
+fiftyDayAverageChangePercent: -0.08096888
+fiftyTwoWeekChangePercent: -15.687299
+fiftyTwoWeekHigh: 210.33
+fiftyTwoWeekHighChange: -79.08501
+fiftyTwoWeekHighChangePercent: -0.3760044
+fiftyTwoWeekLow: 122.21
+fiftyTwoWeekLowChange: 9.034996
+fiftyTwoWeekLowChangePercent: 0.073930085
+fiftyTwoWeekRange: 122.21 - 210.33
+financialCurrency: USD
+firstTradeDateMilliseconds: 877008600000
+fiveYearAvgDividendYield: 2.13
+floatShares: 115509167
+forwardEps: 7.46825
+forwardPE: 17.573729
+freeCashflow: 379530240
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 11479
+fulldayChange: 2.2549896
+fulldayChangePercent: 1.7481894
+fulldayPrice: 131.245
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.08342
+grossProfits: 1519788032
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0034999999
+heldPercentInstitutions: 1.01529
+impliedSharesOutstanding: 115941629
+industry: Integrated Freight & Logistics
+industryDisp: Integrated Freight & Logistics
+industryKey: integrated-freight-logistics
+irWebsite: http://investor.chrobinson.com/phoenix.zhtml?c=97366&p=irol-IRHome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788480000
+lastDividendValue: 0.63
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1129507200
+lastSplitFactor: '2:1'
+longBusinessSummary: C.H. Robinson Worldwide, Inc., together with its subsidiaries,
+  provides freight transportation and related logistics and supply chain services
+  in the United States and internationally. It operates in two segments, North American
+  Surface Transportation and Global Forwarding. The company offers transportation
+  and logistics services, such as truckload; less than truckload transportation brokerage
+  services, which include the shipment of single or multiple pallets of freight; intermodal
+  transportation that comprises the shipment service of freight in containers or trailers
+  by a combination of truck and rail; and non-vessel operating common carrier and
+  freight forwarding services, as well as organizes indirect air carrier and freight
+  forwarder providing door-to-door services. It also provides customs brokerage services;
+  and other logistics services, such as fee-based managed, warehousing, supply chain
+  consulting and optimization services, and other services. In addition, the company
+  is involved in the buying, selling, and/or marketing of fresh fruits, vegetables,
+  and other value-added perishable items under the Robinson Fresh trade name. Further,
+  the company offers transportation management and other surface transportation services.
+  It provides fresh produce to grocery retailers, restaurants, produce wholesalers.
+  C.H. Robinson Worldwide, Inc. was founded in 1905 and is headquartered in Eden Prairie,
+  Minnesota.
+longName: C.H. Robinson Worldwide, Inc.
+market: us_market
+marketCap: 15216758784
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_368470
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 668809024
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 14948354226
+numberOfAnalystOpinions: 23
+open: 129.05
+operatingCashflow: 534008000
+operatingMargins: 0.052729998
+overallRisk: 6
+payoutRatio: 0.45240003
+pegRatio: 1.54
+phone: 952 937 8500
+previousClose: 128.99
+priceEpsCurrentYear: 20.630848
+priceHint: 2
+priceToBook: 9.634074
+priceToSalesTrailing12Months: 0.83527213
+profitMargins: 0.03671
+quickRatio: 1.307
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6087
+region: US
+regularMarketChange: 2.2549896
+regularMarketChangePercent: 1.7481894
+regularMarketDayHigh: 132.0
+regularMarketDayLow: 128.25
+regularMarketDayRange: 128.25 - 132.0
+regularMarketOpen: 129.05
+regularMarketPreviousClose: 128.99
+regularMarketPrice: 131.245
+regularMarketTime: 1794413700
+regularMarketVolume: 192377
+returnOnAssets: 0.10335
+returnOnEquity: 0.38924998
+revenueGrowth: 0.295
+revenuePerShare: 153.178
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 8
+sharesOutstanding: 115941629
+sharesPercentSharesOut: 0.0468
+sharesShort: 5430419
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5456421
+shortName: C.H. Robinson Worldwide, Inc.
+shortPercentOfFloat: 0.0535
+shortRatio: 2.27
+sourceInterval: 15
+state: MN
+symbol: CHRW
+targetHighPrice: 235.0
+targetLowPrice: 131.0
+targetMeanPrice: 179.30435
+targetMedianPrice: 180.0
+totalCash: 193132000
+totalCashPerShare: 1.666
+totalDebt: 2152386048
+totalRevenue: 18217725952
+tradeable: false
+trailingAnnualDividendRate: 2.52
+trailingAnnualDividendYield: 0.019536396
+trailingEps: 5.57
+trailingPE: 23.562836
+trailingPegRatio: 1.5419
+triggerable: true
+twoHundredDayAverage: 167.8783
+twoHundredDayAverageChange: -36.6333
+twoHundredDayAverageChangePercent: -0.21821344
+typeDisp: Equity
+volume: 192377
+website: https://www.chrobinson.com
+zip: '55347'

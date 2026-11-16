@@ -1,0 +1,256 @@
+52WeekChange: 0.06843424
+SandP52WeekChange: 0.097798586
+address1: Paseo de la Castellana, nº 29
+allTimeHigh: 33.767174
+allTimeLow: 0.635445
+ask: 14.84
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 1484794
+averageDailyVolume3Month: 1324785
+averageVolume: 1324785
+averageVolume10days: 1484794
+beta: 0.045
+bid: 14.83
+bidSize: 0
+boardRisk: 4
+bookValue: 7.455
+city: Madrid
+companyOfficers:
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Gloria  Ortiz Portero
+  title: CEO & Executive Director
+  totalPay: 1336000
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alfonso Botin-Sanz de Sautuola y Naveda
+  title: Executive Vice Chairman
+  totalPay: 1397000
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jacobo Diaz Garcia
+  title: Chief Financial Officer
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jaime Inigo Guerra Azcona
+  title: Director General of Investment Banking Area, Head of Legal & Tax Division
+    and General Council
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  López Finistrosa
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. María  Paramés
+  title: Head of Employees, Corporate Communication & Quality
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marta  Centeno Robles
+  title: Director of Corporate Development, Products & Markets
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alfonso  Ma Saez
+  title: Head of Consumer Finance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Julio Gabriel Zapatero Gaviria
+  title: Director General & Chief Risk Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Antonio  Muñoz
+  title: Head of Treasury & Capital Markets
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Spain
+cryptoTradeable: false
+currency: EUR
+currentPrice: 14.835
+customPriceAlertConfidence: LOW
+dayHigh: 15.09
+dayLow: 14.755
+dividendRate: 0.62
+dividendYield: 4.14
+earningsCallTimestampEnd: 1792652400
+earningsCallTimestampStart: 1792652400
+earningsGrowth: 0.1
+earningsQuarterlyGrowth: 0.095
+earningsTimestamp: 1792683000
+earningsTimestampEnd: 1800549000
+earningsTimestampStart: 1800549000
+ebitdaMargins: 0.0
+enterpriseToRevenue: 1.465
+enterpriseValue: 4199985920
+epsCurrentYear: 1.31913
+epsForward: 1.45245
+epsTrailingTwelveMonths: 1.26
+esgPopulated: false
+exDividendDate: 1782086400
+exchange: MCE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Madrid
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 15.5876
+fiftyDayAverageChange: -0.7525997
+fiftyDayAverageChangePercent: -0.04828195
+fiftyTwoWeekChangePercent: 6.843424
+fiftyTwoWeekHigh: 17.02
+fiftyTwoWeekHighChange: -2.1850004
+fiftyTwoWeekHighChangePercent: -0.1283784
+fiftyTwoWeekLow: 12.67
+fiftyTwoWeekLowChange: 2.165
+fiftyTwoWeekLowChangePercent: 0.17087609
+fiftyTwoWeekRange: 12.67 - 17.02
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 5.03
+floatShares: 875963874
+forwardEps: 1.45245
+forwardPE: 10.213777
+fullExchangeName: MCE
+fullTimeEmployees: 6667
+fulldayChange: -0.07499981
+fulldayChangePercent: -0.5030168
+fulldayPrice: 14.835
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 2867172096
+hasPrePostMarketData: false
+heldPercentInsiders: 0.3001
+heldPercentInstitutions: 0.37842
+impliedSharesOutstanding: 898696272
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: https://webcorporativa.bankinter.com/www2/corporativa/en/inf_financiera_cnmv/informacion_financiera/resultados/2011
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1782086400
+lastDividendValue: 0.160932
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1365033600
+lastSplitFactor: '14:9'
+longBusinessSummary: Bankinter, S.A. provides various banking products and services
+  to individuals, corporates, and small- and medium-sized enterprises in Spain, Luxembourg,
+  Portugal, and Ireland. The company operates through Commercial Banking, Corporate
+  Banking, BKCF Spain, BK Portugal, BK Ireland, and Other Businesses segments. It
+  offers smart digital, payroll, pension, business, non-salary, currency, youth, current,
+  and management accounts; debit and credit cards; cash management cash pooling; guarantees;
+  mortgages and loan products; financing; and investment banking and wealth management
+  services. The company also provides investment funds, retirement, broker, alternative
+  investment, deposit, and treasury bills; SEPA direct debit, VAT and invoice advance,
+  commercial discount, factoring, cheque deposits, and POS; and cheque and promissory
+  notes, confirming, payroll, and tax and social security; treasury management and
+  documentary business; and VAT advance, multi-currency and open-term credit account,
+  leasing, and structured financing services. In addition, it offers home, life, health,
+  death, and motor vehicle; property, multi-risk, civil liability, construction and
+  decennial, trade credit, and personal; general and business liability, liability
+  for executives, construction, and machinery and equipment; group life, health, and
+  accident; and pension scheme insurance products. Further, the company provides various
+  services, such as real estate and account management, virtual agent, financial data
+  aggregation, direct debit management, transfer, certificate, tax payment, estate
+  administration, and foreign currency order services. Additionally, it offers retail,
+  personal, private, and corporate banking products, as well as remote banking services.
+  The company was formerly known as Banco Intercontinental Español, S.A. and changed
+  its name to Bankinter, S.A. in July 1990. Bankinter, S.A. was incorporated in 1965
+  and is headquartered in Madrid, Spain.
+longName: Bankinter, S.A.
+market: es_market
+marketCap: 13332159488
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_519889
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1179138048
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 13399561415
+numberOfAnalystOpinions: 22
+open: 15.05
+operatingMargins: 0.63743997
+overallRisk: 3
+payoutRatio: 0.4896
+pegRatio: 10.15
+phone: 34 91 339 75 00
+previousClose: 14.91
+priceEpsCurrentYear: 11.246049
+priceHint: 2
+priceToBook: 1.9899397
+priceToSalesTrailing12Months: 4.6499333
+profitMargins: 0.41125
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.40909
+region: US
+regularMarketChange: -0.07499981
+regularMarketChangePercent: -0.5030168
+regularMarketDayHigh: 15.09
+regularMarketDayLow: 14.755
+regularMarketDayRange: 14.755 - 15.09
+regularMarketOpen: 15.05
+regularMarketPreviousClose: 14.91
+regularMarketPrice: 14.835
+regularMarketTime: 1794411547
+regularMarketVolume: 1226175
+returnOnAssets: 0.00904
+returnOnEquity: 0.17641
+revenueGrowth: 0.055
+revenuePerShare: 3.194
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 898696272
+shortName: BANKINTER, S.A.
+sourceInterval: 15
+symbol: BKT.MC
+targetHighPrice: 22.5
+targetLowPrice: 10.3
+targetMeanPrice: 16.82091
+targetMedianPrice: 16.8
+totalCash: 20643147776
+totalCashPerShare: 22.232
+totalDebt: 10998782976
+totalRevenue: 2867172096
+tradeable: false
+trailingAnnualDividendRate: 0.155
+trailingAnnualDividendYield: 0.010395708
+trailingEps: 1.26
+trailingPE: 11.773809
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 14.89075
+twoHundredDayAverageChange: -0.055749893
+twoHundredDayAverageChangePercent: -0.003743928
+typeDisp: Equity
+volume: 1226175
+website: https://www.bankinter.com
+zip: '28046'

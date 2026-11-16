@@ -1,0 +1,294 @@
+52WeekChange: 0.40726876
+SandP52WeekChange: 0.097798586
+address1: Lilly Corporate Center
+allTimeHigh: 1453.0
+allTimeLow: 2.039063
+ask: 1418.02
+askSize: 70
+auditRisk: 8
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 3761140
+averageDailyVolume3Month: 2568845
+averageVolume: 2568845
+averageVolume10days: 3761140
+beta: 0.389
+bid: 1417.54
+bidSize: 70
+boardRisk: 5
+bookValue: 45.187
+city: Indianapolis
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David A. Ricks
+  title: Chairman, President & CEO
+  totalPay: 8921701
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lucas E. Montarce
+  title: Executive VP & CFO
+  totalPay: 3240000
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Daniel M. Skovronsky M.D., Ph.D.
+  title: Chief Scientific & Product Officer and President of Lilly Research Laboratories
+  totalPay: 4898731
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anat  Hakim J.D.
+  title: Executive VP, General Counsel & Secretary
+  totalPay: 3342570
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jacob S. Van Naarden
+  title: Executive VP, President of Lilly Oncology & Head of Corporate Business Development
+  totalPay: 2998730
+  unexercisedValue: 0
+  yearBorn: 1985
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Donald A. Zakrowski
+  title: Senior VP of Finance & Chief Accounting Officer
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Diogo  Rau
+  title: Executive VP and Chief Information & Digital Officer
+  totalPay: 1056809
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Czapar
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric  Dozier
+  title: Executive VP & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ilya  Yuffa
+  title: Executive VP and President of Lilly USA & Global Customer Capabilities
+  unexercisedValue: 0
+  yearBorn: 1975
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions:
+- header: Dividend
+  message: LLY announced a cash dividend of $1.73 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '1.73'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 1422.84
+currentRatio: 1.389
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 1427.7476
+dayLow: 1414.77
+debtToEquity: 122.925
+displayName: Eli Lilly
+dividendDate: 1796860800
+dividendRate: 6.92
+dividendYield: 0.48
+earningsCallTimestampEnd: 1793282400
+earningsCallTimestampStart: 1793282400
+earningsGrowth: 0.163
+earningsQuarterlyGrowth: 0.155
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 46489001984
+ebitdaMargins: 0.53768003
+enterpriseToEbitda: 28.403
+enterpriseToRevenue: 15.272
+enterpriseValue: 1320423260160
+epsCurrentYear: 35.34611
+epsForward: 50.53885
+epsTrailingTwelveMonths: 30.81
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 1224.5106
+fiftyDayAverageChange: 198.32935
+fiftyDayAverageChangePercent: 0.1619662
+fiftyTwoWeekChangePercent: 40.726875
+fiftyTwoWeekHigh: 1453.0
+fiftyTwoWeekHighChange: -30.160034
+fiftyTwoWeekHighChangePercent: -0.020757077
+fiftyTwoWeekLow: 850.51
+fiftyTwoWeekLowChange: 572.32996
+fiftyTwoWeekLowChangePercent: 0.6729256
+fiftyTwoWeekRange: 850.51 - 1453.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 76253400000
+fiveYearAvgDividendYield: 0.75
+floatShares: 888420186
+forwardEps: 50.53885
+forwardPE: 28.15339
+freeCashflow: 9343699968
+fullExchangeName: NYSE
+fullTimeEmployees: 50000
+fulldayChange: -9.450073
+fulldayChangePercent: -0.65978765
+fulldayPrice: 1422.84
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.83634
+grossProfits: 72311996416
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00161
+heldPercentInstitutions: 0.8589
+impliedSharesOutstanding: 890745031
+industry: Drug Manufacturers - General
+industryDisp: Drug Manufacturers - General
+industryKey: drug-manufacturers-general
+irWebsite: http://investor.lilly.com/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 1.73
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 876960000
+lastSplitFactor: '2:1'
+longBusinessSummary: Eli Lilly and Company discovers, develops, manufactures, and
+  markets human pharmaceutical products in the United States, Europe, China, Japan,
+  and internationally. The company offers cardiometabolic health products, including
+  Basaglar, Humalog, Humalog Mix 75/25, Humalog U-100, Humalog U-200, Humalog Mix
+  50/50, insulin lispro, insulin lispro protamine, insulin lispro mix 75/25, Humulin,
+  Humulin 70/30, Humulin N, Humulin R, Humulin U-500 for diabetes; Jardiance, Mounjaro,
+  and Trulicity for type 2 diabetes; and Zepbound for obesity. It also provides oncology
+  products, such as Cyramza for the second-line treatment of gastric cancer or gastro-esophageal
+  junction adenocarcinoma; Erbitux for colorectal cancers and head and neck cancers;
+  Inluriyo for breast cancer; Jaypirca for chronic lymphocytic leukemia or small lymphocytic
+  lymphoma; Retevmo for the treatment of metastatic NSCLC; TYVYT for classic hodgkin's
+  lymphoma; and Verzenio for breast cancer. In addition, the company offers immunology
+  products, which include Ebglyss; Olumiant; Omvoh; and Taltz. Further, it provides
+  Emgality for migraine prevention and episodic cluster headache; and Kisubla for
+  symptomatic Alzheimer's disease. The company has collaborations with Boehringer
+  Ingelheim Pharmaceuticals, Inc. for the Jardiance product family; and F. Hoffmann-La
+  Roche Ltd and Genentech, Inc. for lebrikizumab, as well as license agreements with
+  Almirall, S.A. for Ebglyss; and Chugai Pharmaceutical Co., Ltd for orforglipron;
+  strategic collaboration with Ascidian Therapeutics for development of therapies
+  for undisclosed monogenic kidney diseases; BioArctic AB (publ) for new treatment;
+  QurCan Therapeutics Inc for development of PLNP-enabled genetic medicine therapeutics
+  for the treatment of central nervous system and peripheral nervous system; and Abbisko
+  Therapeutics for discovery and development of medicines across multiple targets.
+  The company was founded in 1876 and is headquartered in Indianapolis, Indiana.
+longName: Eli Lilly and Company
+market: us_market
+marketCap: 1267387596800
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_285467
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 27580000256
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 1275805200450
+numberOfAnalystOpinions: 29
+open: 1418.08
+operatingCashflow: 30645000192
+operatingMargins: 0.51254004
+overallRisk: 8
+payoutRatio: 0.2171
+pegRatio: 1.3
+phone: 317 276 2000
+previousClose: 1432.29
+priceEpsCurrentYear: 40.254498
+priceHint: 2
+priceToBook: 31.487816
+priceToSalesTrailing12Months: 14.658319
+profitMargins: 0.31898
+quickRatio: 0.641
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6129
+region: US
+regularMarketChange: -9.450073
+regularMarketChangePercent: -0.65978765
+regularMarketDayHigh: 1427.7476
+regularMarketDayLow: 1414.77
+regularMarketDayRange: 1414.77 - 1427.7476
+regularMarketOpen: 1418.08
+regularMarketPreviousClose: 1432.29
+regularMarketPrice: 1422.84
+regularMarketTime: 1794413741
+regularMarketVolume: 533493
+returnOnAssets: 0.21062
+returnOnEquity: 0.86024004
+revenueGrowth: 0.386
+revenuePerShare: 96.754
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 9
+sharesOutstanding: 890745031
+sharesPercentSharesOut: 0.0081
+sharesShort: 7213927
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7035434
+shortName: Eli Lilly and Company
+shortPercentOfFloat: 0.0081
+shortRatio: 2.84
+sourceInterval: 15
+state: IN
+symbol: LLY
+targetHighPrice: 1690.0
+targetLowPrice: 940.0
+targetMeanPrice: 1453.4014
+targetMedianPrice: 1557.0
+totalCash: 4885000192
+totalCashPerShare: 5.484
+totalDebt: 49502998528
+totalRevenue: 86461997056
+tradeable: false
+trailingAnnualDividendRate: 6.69
+trailingAnnualDividendYield: 0.0046708416
+trailingEps: 30.81
+trailingPE: 46.18111
+trailingPegRatio: 1.3049
+triggerable: true
+twoHundredDayAverage: 1103.2211
+twoHundredDayAverageChange: 319.6189
+twoHundredDayAverageChangePercent: 0.28971428
+typeDisp: Equity
+volume: 533495
+website: https://www.lilly.com
+zip: '46285'

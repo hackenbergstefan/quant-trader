@@ -1,0 +1,166 @@
+52WeekChange: 0.2009877
+SandP52WeekChange: 0.097798586
+address1: Allée de la Recherche 60
+allTimeHigh: 250.5
+allTimeLow: 11.02
+ask: 0.0
+askSize: 0
+averageDailyVolume10Day: 21077
+averageDailyVolume3Month: 20392
+averageVolume: 20392
+averageVolume10days: 21077
+beta: 0.307
+bid: 0.0
+bidSize: 0
+bookValue: 44.624
+city: Brussels
+companyOfficers:
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric  Nys
+  title: Managing Director
+  totalPay: 239520
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anne Sophie Pijcke
+  title: General Manager
+  totalPay: 37000
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Belgium
+cryptoTradeable: false
+currency: EUR
+currentPrice: 240.4
+currentRatio: 141.923
+customPriceAlertConfidence: LOW
+dayHigh: 244.0
+dayLow: 239.6
+dividendRate: 1.08
+dividendYield: 0.44
+earningsGrowth: 0.054
+earningsQuarterlyGrowth: 0.054
+earningsTimestampEnd: 1785771600
+earningsTimestampStart: 1785771600
+ebitda: -3031261
+ebitdaMargins: 0.0
+enterpriseToEbitda: -3554.811
+enterpriseValue: 10775560192
+epsTrailingTwelveMonths: 2.21
+esgPopulated: false
+exDividendDate: 1778112000
+exchange: BRU
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Brussels
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 190.982
+fiftyDayAverageChange: 49.418
+fiftyDayAverageChangePercent: 0.25875738
+fiftyTwoWeekChangePercent: 20.09877
+fiftyTwoWeekHigh: 250.5
+fiftyTwoWeekHighChange: -10.100006
+fiftyTwoWeekHighChangePercent: -0.040319387
+fiftyTwoWeekLow: 168.1
+fiftyTwoWeekLowChange: 72.29999
+fiftyTwoWeekLowChangePercent: 0.43010104
+fiftyTwoWeekRange: 168.1 - 250.5
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946972800000
+fiveYearAvgDividendYield: 0.76
+floatShares: 20705035
+freeCashflow: -2610262
+fullExchangeName: Brussels
+fulldayChange: -2.800003
+fulldayChangePercent: -1.151317
+fulldayPrice: 240.4
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.0
+grossProfits: -3030250
+hasPrePostMarketData: false
+heldPercentInsiders: 0.53485
+heldPercentInstitutions: 0.08891
+impliedSharesOutstanding: 44512598
+industry: Biotechnology
+industryDisp: Biotechnology
+industryKey: biotechnology
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1778112000
+lastDividendValue: 1.08
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1118966400
+lastSplitFactor: '2:1'
+longBusinessSummary: Financière de Tubize SA holds a stake in UCB, a biopharmaceutical
+  company in Belgium. It focuses on the discovery and development of treatments for
+  patients suffering from diseases affecting immune or central nervous system. The
+  company was founded in 1928 and is based in Brussels, Belgium.
+longName: Financière de Tubize SA
+market: be_market
+marketCap: 10700828672
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_9622521
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 98413304
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 10825463833
+numberOfAnalystOpinions: 1
+open: 243.0
+operatingCashflow: -3036000
+operatingMargins: 0.0
+payoutRatio: 0.4885
+pegRatio: 1.24
+phone: 32 4 9751 5208
+previousClose: 243.2
+priceHint: 2
+priceToBook: 5.387235
+profitMargins: 0.0
+quickRatio: 141.923
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -2.800003
+regularMarketChangePercent: -1.151317
+regularMarketDayHigh: 244.0
+regularMarketDayLow: 239.6
+regularMarketDayRange: 239.6 - 244.0
+regularMarketOpen: 243.0
+regularMarketPreviousClose: 243.2
+regularMarketPrice: 240.4
+regularMarketTime: 1794411569
+regularMarketVolume: 4105
+returnOnAssets: -0.00097000005
+returnOnEquity: 0.050180003
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+sharesOutstanding: 44512598
+shortName: TUBIZE-FIN
+sourceInterval: 15
+symbol: TUB.BR
+targetHighPrice: 286.0
+targetLowPrice: 286.0
+targetMeanPrice: 286.0
+targetMedianPrice: 286.0
+totalCash: 49904040
+totalCashPerShare: 1.121
+totalDebt: 0
+tradeable: false
+trailingAnnualDividendRate: 1.08
+trailingAnnualDividendYield: 0.0044407896
+trailingEps: 2.21
+trailingPE: 108.778275
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 207.4015
+twoHundredDayAverageChange: 32.99849
+twoHundredDayAverageChangePercent: 0.15910439
+typeDisp: Equity
+volume: 4105
+website: https://www.financiere-tubize.be
+zip: '1070'

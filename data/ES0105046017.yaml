@@ -1,0 +1,253 @@
+52WeekChange: 0.26628768
+SandP52WeekChange: 0.097798586
+address1: calle Peonías, 12
+allTimeHigh: 29.1
+allTimeLow: 6.5
+ask: 28.6
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 1145460
+averageDailyVolume3Month: 1204632
+averageVolume: 1204632
+averageVolume10days: 1145460
+beta: 0.781
+bid: 28.58
+bidSize: 0
+boardRisk: 6
+bookValue: 6.202
+city: Madrid
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Maurici  Lucena Betriu
+  title: Chairman & CEO
+  totalPay: 196000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Francisco Javier Marin San Andres
+  title: Airport Operations Director & Second Deputy Chairman
+  totalPay: 215000
+  unexercisedValue: 0
+  yearBorn: 1959
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ignacio Castejon Hernandez
+  title: Chief Financial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Carlos  Gallego
+  title: Head of Investor Relations Division
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pablo Hernandez-Lahoz Ortiz
+  title: Deputy Secretary of the Board of Directors and Director of Legal Affairs
+    & Regulatory Compliance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria  Gomez Rodriguez
+  title: Director of Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Begona  Gosalvez Mayordomo
+  title: Director of Organization & People
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Emilio  Rotondo
+  title: Deputy Chief Financial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amparo Brea Alvarez
+  title: Director of Innovation, Sustainability & Client Experience
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria Jose Cuenda Chamorro
+  title: MD of Commercial & Real Estate
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: Spain
+cryptoTradeable: false
+currency: EUR
+currentPrice: 28.6
+currentRatio: 1.329
+customPriceAlertConfidence: LOW
+dayHigh: 28.92
+dayLow: 28.46
+debtToEquity: 82.157
+dividendRate: 1.09
+dividendYield: 3.76
+earningsCallTimestampEnd: 1793188800
+earningsCallTimestampStart: 1793188800
+earningsGrowth: 0.136
+earningsQuarterlyGrowth: 0.127
+earningsTimestamp: 1793205000
+earningsTimestampEnd: 1793205000
+earningsTimestampStart: 1793205000
+ebitda: 3897051904
+ebitdaMargins: 0.57258
+enterpriseToEbitda: 12.741
+enterpriseToRevenue: 7.295
+enterpriseValue: 49652523008
+epsCurrentYear: 1.56134
+epsForward: 1.63077
+epsTrailingTwelveMonths: 2.01
+esgPopulated: false
+exDividendDate: 1776902400
+exchange: MCE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Madrid
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 26.0352
+fiftyDayAverageChange: 2.5648003
+fiftyDayAverageChangePercent: 0.09851279
+fiftyTwoWeekChangePercent: 26.628769
+fiftyTwoWeekHigh: 29.1
+fiftyTwoWeekHighChange: -0.5
+fiftyTwoWeekHighChangePercent: -0.01718213
+fiftyTwoWeekLow: 22.31
+fiftyTwoWeekLowChange: 6.290001
+fiftyTwoWeekLowChangePercent: 0.2819364
+fiftyTwoWeekRange: 22.31 - 29.1
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1423641600000
+fiveYearAvgDividendYield: 3.0
+floatShares: 713878348
+forwardEps: 1.63077
+forwardPE: 17.537727
+freeCashflow: 1526440832
+fullExchangeName: MCE
+fullTimeEmployees: 10238
+fulldayChange: -0.3599987
+fulldayChangePercent: -1.2430894
+fulldayPrice: 28.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.80825996
+grossProfits: 5501078016
+hasPrePostMarketData: false
+heldPercentInsiders: 0.51519
+heldPercentInstitutions: 0.29446
+impliedSharesOutstanding: 1500000000
+industry: Airports & Air Services
+industryDisp: Airports & Air Services
+industryKey: airports-air-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776902400
+lastDividendValue: 1.09
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1750291200
+lastSplitFactor: '10:1'
+longBusinessSummary: Aena S.M.E., S.A., together with its subsidiaries, engages in
+  the management of airports in Spain, Brazil, the United Kingdom, Mexico, and Colombia.
+  The company operates through Airports, Real Estate Services, Región de Murcia International
+  Airport, and International segments. It also manages commercial spaces in airport
+  terminals, and a network of car parks; and leasing or transfer use of land, office
+  buildings, warehouses, hangars, and cargo vessels to airlines, air cargo operators,
+  handling agents and other airport service providers. In addition, the company is
+  involved in the operation of duty-free shops, food and beverage, and specialty shops;
+  rental of cars; advertising; baggage wrapping machines; other vending machines;
+  regulated services, including pharmacies, tobacconists, lottery vendors, etc.; and
+  provision of financial services, such as currency exchange, VAT refunds, and ATMs,
+  as well as advisory services to international airports. Aena S.M.E., S.A. was formerly
+  known as Aena, S.A. and changed its name to Aena S.M.E., S.A. in April 2017. The
+  company was founded in 1991 and is headquartered in Madrid, Spain. Aena S.M.E.,
+  S.A. operates as a subsidiary of Entidad Pública Empresarial ENAIRE.
+longName: Aena S.M.E., S.A.
+market: es_market
+marketCap: 42900000768
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_136994486
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2331990016
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 43110000000
+numberOfAnalystOpinions: 22
+open: 28.9
+operatingCashflow: 3073189888
+operatingMargins: 0.46662
+overallRisk: 4
+payoutRatio: 0.7032
+pegRatio: 3.48
+phone: 34 913 21 10 00
+previousClose: 28.96
+priceEpsCurrentYear: 18.3176
+priceHint: 2
+priceToBook: 4.611416
+priceToSalesTrailing12Months: 6.303188
+profitMargins: 0.34263
+quickRatio: 1.322
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.45455
+region: US
+regularMarketChange: -0.3599987
+regularMarketChangePercent: -1.2430894
+regularMarketDayHigh: 28.92
+regularMarketDayLow: 28.46
+regularMarketDayRange: 28.46 - 28.92
+regularMarketOpen: 28.9
+regularMarketPreviousClose: 28.96
+regularMarketPrice: 28.6
+regularMarketTime: 1794411498
+regularMarketVolume: 319273
+returnOnAssets: 0.107
+returnOnEquity: 0.25794
+revenueGrowth: 0.115
+revenuePerShare: 4.538
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 3
+sharesOutstanding: 1500000000
+shortName: AENA, S.M.E., S.A.
+sourceInterval: 15
+symbol: AENA.MC
+targetHighPrice: 32.5
+targetLowPrice: 20.0
+targetMeanPrice: 27.48636
+targetMedianPrice: 28.05
+totalCash: 2557458944
+totalCashPerShare: 1.681
+totalDebt: 7933873152
+totalRevenue: 6806080000
+tradeable: false
+trailingAnnualDividendRate: 1.09
+trailingAnnualDividendYield: 0.037638124
+trailingEps: 2.01
+trailingPE: 14.228856
+trailingPegRatio: 3.4803
+triggerable: false
+twoHundredDayAverage: 25.9716
+twoHundredDayAverageChange: 2.6284008
+twoHundredDayAverageChangePercent: 0.10120288
+typeDisp: Equity
+volume: 319273
+website: https://www.aena.es
+zip: '28042'

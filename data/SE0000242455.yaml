@@ -1,0 +1,267 @@
+52WeekChange: 0.3989967
+SandP52WeekChange: 0.097798586
+address1: Landsvägen 40
+allTimeHigh: 419.2
+allTimeLow: 14.723459
+ask: 417.4
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 1497383
+averageDailyVolume3Month: 1740857
+averageVolume: 1740857
+averageVolume10days: 1497383
+beta: 0.554
+bid: 417.3
+bidSize: 0
+boardRisk: 1
+bookValue: 192.191
+city: Sundbyberg
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jens  Henriksson
+  title: President & CEO
+  totalPay: 19425000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tomas  Hedberg
+  title: Deputy President & Deputy CEO
+  totalPay: 9045000
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jon Hendrik Lidefelt
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lotta  Loven
+  title: CIO and Head of Group Channels & Technologies
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria  Caneman
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Charlotte  Rydin
+  title: Chief Legal Officer & Head of Group Legal
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Eva  Wilhelmsson
+  title: Acting Chief Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Erik  Ljungberg
+  title: Head of Group Brand, Communications & Sustainability
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jenny  Garneij
+  title: Head of Human Resources & Facility Management
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Gith  Bengtsson
+  title: Head of HR Channels & Concepts
+  unexercisedValue: 0
+  yearBorn: 1963
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 417.4
+customPriceAlertConfidence: HIGH
+dayHigh: 420.7
+dayLow: 417.1
+dividendRate: 20.45
+dividendYield: 4.89
+earningsCallTimestampEnd: 1792658700
+earningsCallTimestampStart: 1792658700
+earningsGrowth: -0.031
+earningsQuarterlyGrowth: -0.031
+earningsTimestamp: 1792683000
+earningsTimestampEnd: 1792683000
+earningsTimestampStart: 1792683000
+ebitdaMargins: 0.0
+enterpriseToRevenue: 18.646
+enterpriseValue: 1312133873664
+epsCurrentYear: 28.19072
+epsForward: 25.44
+epsTrailingTwelveMonths: 27.38
+esgPopulated: false
+exDividendDate: 1774396800
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 46 87 96 80 92
+fiftyDayAverage: 397.97
+fiftyDayAverageChange: 19.429993
+fiftyDayAverageChangePercent: 0.048822757
+fiftyTwoWeekChangePercent: 39.89967
+fiftyTwoWeekHigh: 420.7
+fiftyTwoWeekHighChange: -3.3000183
+fiftyTwoWeekHighChangePercent: -0.007844113
+fiftyTwoWeekLow: 282.5
+fiftyTwoWeekLowChange: 134.9
+fiftyTwoWeekLowChangePercent: 0.4775221
+fiftyTwoWeekRange: 282.5 - 420.7
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 5.85
+floatShares: 854899643
+forwardEps: 25.44
+forwardPE: 16.407232
+fullExchangeName: Stockholm
+fullTimeEmployees: 17235
+fulldayChange: -0.8999939
+fulldayChangePercent: -0.21515514
+fulldayPrice: 417.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 70371000320
+hasPrePostMarketData: false
+heldPercentInsiders: 0.17085
+heldPercentInstitutions: 0.50368
+impliedSharesOutstanding: 1123714665
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1774396800
+lastDividendValue: 29.8
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Swedbank AB (publ) provides banking products and services to
+  private and corporate customers in Sweden, Estonia, Latvia, Lithuania, Norway, the
+  United States, Finland, Denmark, Luxembourg, and China. It operates through Swedish
+  Banking; Baltic Banking; Corporates and Institutions; and Premium and Private Banking
+  segments. The company offers saving and investment solutions, such as savings accounts,
+  mutual funds and insurance savings, pension savings, institutional asset management,
+  and other savings and investment products; financing solutions, including private
+  residential lending, consumer financing, corporate lending, leasing, and other financing
+  products, as well as trade finance and factoring services; and payment and card
+  services, which include current accounts, cash management, cash handling, debit
+  and credit cards, and card acquiring, as well as domestic, international, mobile,
+  document, and other payment products. It also provides trading and capital market
+  products, such as equity trading, structured products, corporate finance, custody
+  services, fixed income and currency trading, and other capital market products;
+  other services, including administrative services, treasury operations, real estate
+  brokerage and management services, legal services, and safe deposit boxes; and private
+  banking services. In addition, the company offers pension insurance and plans, endowment
+  insurance, and personal insurance products; mortgage lending; mortgage lending;
+  advisory services and investment banking; and transaction banking services comprising
+  cash management, securities, account, and clearing and settlement services, as well
+  as Internet and mobile banking services. The company was formerly known as ForeningsSparbanken
+  AB and changed its name to Swedbank AB (publ) in September 2006. Swedbank AB (publ)
+  was founded in 1820 and is headquartered in Sundbyberg, Sweden.
+longName: Swedbank AB (publ)
+market: se_market
+marketCap: 469038497792
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_410994
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 30947999744
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 470049844369
+numberOfAnalystOpinions: 16
+open: 420.0
+operatingCashflow: -23206000640
+operatingMargins: 0.56987
+overallRisk: 2
+payoutRatio: 0.7472
+pegRatio: 7.65
+phone: 46 8 58 59 00 00
+previousClose: 418.3
+priceEpsCurrentYear: 14.806291
+priceHint: 2
+priceToBook: 2.171798
+priceToSalesTrailing12Months: 6.665224
+profitMargins: 0.43993
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.5625
+region: US
+regularMarketChange: -0.8999939
+regularMarketChangePercent: -0.21515514
+regularMarketDayHigh: 420.7
+regularMarketDayLow: 417.1
+regularMarketDayRange: 417.1 - 420.7
+regularMarketOpen: 420.0
+regularMarketPreviousClose: 418.3
+regularMarketPrice: 417.4
+regularMarketTime: 1794412481
+regularMarketVolume: 492893
+returnOnAssets: 0.009509999
+returnOnEquity: 0.14273
+revenueGrowth: 0.068
+revenuePerShare: 62.618
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 1123714665
+shortName: Swedbank AB ser A
+sourceInterval: 15
+symbol: SWED-A.ST
+targetHighPrice: 510.0
+targetLowPrice: 307.0
+targetMeanPrice: 413.8125
+targetMedianPrice: 405.0
+totalCash: 318303010816
+totalCashPerShare: 283.26
+totalDebt: 1160359968768
+totalRevenue: 70371000320
+tradeable: false
+trailingAnnualDividendRate: 20.45
+trailingAnnualDividendYield: 0.04888836
+trailingEps: 27.38
+trailingPE: 15.244704
+trailingPegRatio: 7.733
+triggerable: true
+twoHundredDayAverage: 360.0795
+twoHundredDayAverageChange: 57.320496
+twoHundredDayAverageChangePercent: 0.15918845
+typeDisp: Equity
+volume: 492893
+website: https://www.swedbank.com
+zip: 172 63

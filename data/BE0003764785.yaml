@@ -1,0 +1,267 @@
+52WeekChange: 0.19402981
+SandP52WeekChange: 0.097798586
+address1: Begijnenvest 113
+allTimeHigh: 300.2
+allTimeLow: 12.5
+ask: 0.0
+askSize: 0
+auditRisk: 7
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 23215
+averageDailyVolume3Month: 26972
+averageVolume: 26972
+averageVolume10days: 23215
+beta: 0.759
+bid: 0.0
+bidSize: 0
+boardRisk: 7
+bookValue: 180.579
+city: Antwerp
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Piet  Dejonghe
+  title: Co-CEO & Co-Chairman of the Executive Committee
+  totalPay: 1879630
+  unexercisedValue: 643980
+  yearBorn: 1966
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John-Eric Fernand Pascal Cesar Bertrand
+  title: Co-CEO & Co-Chairman of the Executive Committee
+  totalPay: 1713597
+  unexercisedValue: 1488600
+  yearBorn: 1977
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tom  Bamelis
+  title: CFO, Financial Director & Member of the Executive Committee
+  unexercisedValue: 536650
+  yearBorn: 1966
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pieter  Bevernage
+  title: Secretary General, General Counsel & Member of the Executive Committee
+  unexercisedValue: 497400
+  yearBorn: 1968
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Koen  Janssen
+  title: Member of the Executive Committee
+  unexercisedValue: 1034050
+  yearBorn: 1970
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andre-Xavier P. L. M. Cooreman
+  title: Member of the Executive Committee
+  unexercisedValue: 603770
+  yearBorn: 1964
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. An  Herremans
+  title: Member of the Executive Committee
+  unexercisedValue: 599365
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Van Raemdonck
+  title: Communication & Investor Relations Manager
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hilde  Haems
+  title: Chief Human Capital Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bart  Vercauteren
+  title: Head of ESG
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: Belgium
+cryptoTradeable: false
+currency: EUR
+currentPrice: 274.8
+currentRatio: 0.757
+customPriceAlertConfidence: LOW
+dayHigh: 275.2
+dayLow: 273.4
+debtToEquity: 26.865
+dividendRate: 4.6
+dividendYield: 1.69
+earningsCallTimestampEnd: 1740740340
+earningsCallTimestampStart: 1740740340
+earningsGrowth: 0.241
+earningsQuarterlyGrowth: 0.243
+earningsTimestamp: 1787931600
+earningsTimestampEnd: 1787931600
+earningsTimestampStart: 1787931600
+ebitda: 1211421056
+ebitdaMargins: 0.20331
+enterpriseToEbitda: 8.53
+enterpriseToRevenue: 1.734
+enterpriseValue: 10333407232
+epsCurrentYear: 20.4075
+epsForward: 20.155
+epsTrailingTwelveMonths: 20.11
+esgPopulated: false
+exDividendDate: 1779926400
+exchange: BRU
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Brussels
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 266.464
+fiftyDayAverageChange: 8.335999
+fiftyDayAverageChangePercent: 0.03128377
+fiftyTwoWeekChangePercent: 19.40298
+fiftyTwoWeekHigh: 300.2
+fiftyTwoWeekHighChange: -25.400024
+fiftyTwoWeekHighChangePercent: -0.084610336
+fiftyTwoWeekLow: 211.4
+fiftyTwoWeekLowChange: 63.399994
+fiftyTwoWeekLowChangePercent: 0.29990536
+fiftyTwoWeekRange: 211.4 - 300.2
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946972800000
+fiveYearAvgDividendYield: 1.74
+floatShares: 21610367
+forwardEps: 20.155
+forwardPE: 13.634333
+freeCashflow: 508260736
+fullExchangeName: Brussels
+fullTimeEmployees: 24931
+fulldayChange: 2.7999878
+fulldayChangePercent: 1.0294073
+fulldayPrice: 274.8
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.41251
+grossProfits: 2457975040
+hasPrePostMarketData: false
+heldPercentInsiders: 0.33338
+heldPercentInstitutions: 0.14885001
+impliedSharesOutstanding: 32687411
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779926400
+lastDividendValue: 4.6
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Ackermans & Van Haaren NV engages in marine engineering and contracting,
+  private banking, real estate, energy and resources, and growth capital businesses
+  worldwide. The Marine Engineering & Contracting segment engages in the marine construction
+  activities, including dredging and civil works on water, as well as offshore activities
+  in the areas of renewable energy, oil and gas, soil and sludge remediation, and
+  aggregate and mineral extraction; real estate development, multitechnics, and construction
+  and renovation activities; and development of port projects and related industrial
+  zones, as well as offshore wind farms. The Private Banking segment offers discretionary
+  asset management services for private clients; and specialized advisory banking
+  services for entrepreneurs and liberal professionals, as well as financing and financial
+  leasing services for cars, equipment, charging stations, and bicycles. The Real
+  Estate segment develops mixed real estate projects, including redevelopment of iconic
+  buildings and new constructions and residential, retail, and office properties.
+  The Energy & Resources segment produces crude palm oil and bananas; offers hybrid
+  palm oil seeds; and manufactures cement. The AvH & Growth Capital segment provides
+  engineering and solutions in production process automation; validation and compliance
+  services; compact biogas installation; specialty chemicals; and logistics services
+  for rail, port and road transport, and intermodal transport, and warehousing. It
+  also offers crop and food protection products and deals and leases commercial vehicles,
+  as well as distributes aftermarket products. The company also develops medical devices
+  and medicines for the treatment of cancer and genetic diseases. Ackermans & Van
+  Haaren NV was founded in 1876 and is based in Antwerp, Belgium.
+longName: Ackermans & Van Haaren NV
+market: be_market
+marketCap: 8982500352
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_4481312
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 658860032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 8884686608
+numberOfAnalystOpinions: 7
+open: 274.0
+operatingCashflow: 1283123968
+operatingMargins: 0.13795
+overallRisk: 8
+payoutRatio: 0.22870001
+pegRatio: 5.74
+phone: 32 3 231 87 70
+previousClose: 272.0
+priceEpsCurrentYear: 13.465637
+priceHint: 2
+priceToBook: 1.5217717
+priceToSalesTrailing12Months: 1.5074956
+profitMargins: 0.11057
+quickRatio: 0.704
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.85714
+region: US
+regularMarketChange: 2.7999878
+regularMarketChangePercent: 1.0294073
+regularMarketDayHigh: 275.2
+regularMarketDayLow: 273.4
+regularMarketDayRange: 273.4 - 275.2
+regularMarketOpen: 274.0
+regularMarketPreviousClose: 272.0
+regularMarketPrice: 274.8
+regularMarketTime: 1794411253
+regularMarketVolume: 9014
+returnOnAssets: 0.02454
+returnOnEquity: 0.118310004
+revenueGrowth: -0.001
+revenuePerShare: 182.448
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 4
+sharesOutstanding: 32687411
+shortName: ACKERMANS V.HAAREN
+sourceInterval: 15
+symbol: ACKB.BR
+targetHighPrice: 360.0
+targetLowPrice: 269.0
+targetMeanPrice: 313.85715
+targetMedianPrice: 316.0
+totalCash: 2237222912
+totalCashPerShare: 68.491
+totalDebt: 2029606016
+totalRevenue: 5958558208
+tradeable: false
+trailingAnnualDividendRate: 4.6
+trailingAnnualDividendYield: 0.016911764
+trailingEps: 20.11
+trailingPE: 13.664843
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 271.617
+twoHundredDayAverageChange: 3.1829834
+twoHundredDayAverageChangePercent: 0.011718646
+typeDisp: Equity
+volume: 9014
+website: https://www.avh.be
+zip: '2000'

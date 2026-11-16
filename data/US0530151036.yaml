@@ -1,0 +1,278 @@
+52WeekChange: 0.19992149
+SandP52WeekChange: 0.097798586
+address1: One ADP Boulevard
+allTimeHigh: 329.93
+allTimeLow: 0.808554
+ask: 309.12
+askSize: 1
+auditRisk: 1
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 2710940
+averageDailyVolume3Month: 2182032
+averageVolume: 2182032
+averageVolume10days: 2710940
+beta: 0.788
+bid: 303.33
+bidSize: 1
+boardRisk: 3
+bookValue: 12.872
+city: Roseland
+companyOfficers:
+- age: 51
+  exercisedValue: 718611
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Maria  Black
+  title: President, CEO & DIrector
+  totalPay: 4772192
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Peter J. Hadley
+  title: Chief Financial Officer
+  totalPay: 1970180
+  unexercisedValue: 289015
+  yearBorn: 1973
+- age: 50
+  exercisedValue: 188328
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Joseph  DeSilva Jr.
+  title: Executive VP of North America & Chief of Operations
+  totalPay: 2048208
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Michael Anthony Bonarti J.D.
+  title: Chief Administrative Officer
+  totalPay: 2057899
+  unexercisedValue: 116417
+  yearBorn: 1965
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Sreenivasa  Kutam
+  title: President of Global Product & Innovation
+  totalPay: 1802427
+  unexercisedValue: 540240
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jonathan  Lehberger
+  title: Corporate Controller & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Matthew John Keating C.F.A.
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. David  Kwon J.D.
+  title: Corporate VP, Chief Legal Officer & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. David  Foskett
+  title: President of Global Sales
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Samantha  Orihuela
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 305.1
+currentRatio: 1.028
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 305.99
+dayLow: 301.79
+debtToEquity: 109.764
+displayName: Automatic Data Processing
+dividendDate: 1790812800
+dividendRate: 6.8
+dividendYield: 2.23
+earningsCallTimestampEnd: 1793190600
+earningsCallTimestampStart: 1793190600
+earningsGrowth: 0.137
+earningsQuarterlyGrowth: 0.111
+earningsTimestamp: 1793190600
+earningsTimestampEnd: 1801056600
+earningsTimestampStart: 1801056600
+ebitda: 6547400192
+ebitdaMargins: 0.29409
+enterpriseToEbitda: 18.761
+enterpriseToRevenue: 5.518
+enterpriseValue: 122837622784
+epsCurrentYear: 12.36746
+epsForward: 13.53156
+epsTrailingTwelveMonths: 11.28
+esgPopulated: false
+exDividendDate: 1789084800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 279.855
+fiftyDayAverageChange: 25.244995
+fiftyDayAverageChangePercent: 0.090207405
+fiftyTwoWeekChangePercent: 19.99215
+fiftyTwoWeekHigh: 310.98
+fiftyTwoWeekHighChange: -5.880005
+fiftyTwoWeekHighChangePercent: -0.018907983
+fiftyTwoWeekLow: 188.16
+fiftyTwoWeekLowChange: 116.94
+fiftyTwoWeekLowChangePercent: 0.6214923
+fiftyTwoWeekRange: 188.16 - 310.98
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 2.05
+floatShares: 393906752
+forwardEps: 13.53156
+forwardPE: 22.54729
+freeCashflow: 6463450112
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 67000
+fulldayChange: -0.33999634
+fulldayChangePercent: -0.111313626
+fulldayPrice: 305.1
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.48826
+grossProfits: 10870099968
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00137
+heldPercentInstitutions: 0.91514
+impliedSharesOutstanding: 394759432
+industry: Software - Application
+industryDisp: Software - Application
+industryKey: software-application
+irWebsite: http://www.investquest.com/iq/a/adp/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1789084800
+lastDividendValue: 1.7
+lastFiscalYearEnd: 1782777600
+lastSplitDate: 1412121600
+lastSplitFactor: 1139:1000
+longBusinessSummary: Automatic Data Processing, Inc. provides cloud-based human capital
+  management (HCM) solutions worldwide. It operates in two segments, Employer Services
+  and Professional Employer Organization (PEO). The Employer Services segment offers
+  strategic, cloud-based platforms, and human resources (HR) outsourcing solutions.
+  This segment's offerings include RUN Powered by ADP, a software platform for small
+  business payroll, HR, and compliance; ADP Workforce Now, a HCM solution used across
+  mid-sized and large businesses to manage employees; and ADP Lyric HCM, a solution
+  for HR management, payroll, workforce management, talent, and data analytics. Its
+  PEO Services segment provides HR outsourcing solutions under ADP TotalSource name
+  to businesses through a co-employment model. This segment also provides guidance,
+  user-friendly technology, comprehensive employee benefits, and a risk management,
+  safety, and workers' compensation program. The company was founded in 1949 and is
+  headquartered in Roseland, New Jersey.
+longName: Automatic Data Processing, Inc.
+market: us_market
+marketCap: 120441102336
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_126269
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4525700096
+nextFiscalYearEnd: 1814313600
+nonDilutedMarketCap: 120575320910
+numberOfAnalystOpinions: 15
+open: 304.94
+operatingCashflow: 5449900032
+operatingMargins: 0.2674
+overallRisk: 1
+payoutRatio: 0.6028
+pegRatio: 2.78
+phone: 973 974 5000
+previousClose: 305.44
+priceEpsCurrentYear: 24.669577
+priceHint: 2
+priceToBook: 23.702612
+priceToSalesTrailing12Months: 5.4099464
+profitMargins: 0.20327999
+quickRatio: 0.133
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.77778
+region: US
+regularMarketChange: -0.33999634
+regularMarketChangePercent: -0.111313626
+regularMarketDayHigh: 305.99
+regularMarketDayLow: 301.79
+regularMarketDayRange: 301.79 - 305.99
+regularMarketOpen: 304.94
+regularMarketPreviousClose: 305.44
+regularMarketPrice: 305.1
+regularMarketTime: 1794413725
+regularMarketVolume: 260193
+returnOnAssets: 0.06318
+returnOnEquity: 0.78942
+revenueGrowth: 0.061
+revenuePerShare: 55.636
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 2
+sharesOutstanding: 394759432
+sharesPercentSharesOut: 0.0241
+sharesShort: 9525870
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 10950800
+shortName: Automatic Data Processing, Inc.
+shortPercentOfFloat: 0.0242
+shortRatio: 4.61
+sourceInterval: 15
+state: NJ
+symbol: ADP
+targetHighPrice: 340.0
+targetLowPrice: 250.0
+targetMeanPrice: 298.26666
+targetMedianPrice: 295.0
+totalCash: 3327000064
+totalCashPerShare: 8.428
+totalDebt: 5589300224
+totalRevenue: 22262900736
+tradeable: false
+trailingAnnualDividendRate: 6.8
+trailingAnnualDividendYield: 0.022262966
+trailingEps: 11.28
+trailingPE: 27.047874
+trailingPegRatio: 2.7794
+triggerable: true
+twoHundredDayAverage: 241.91295
+twoHundredDayAverageChange: 63.187057
+twoHundredDayAverageChangePercent: 0.2611975
+typeDisp: Equity
+volume: 260171
+website: https://www.adp.com
+zip: 07068

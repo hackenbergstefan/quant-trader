@@ -1,0 +1,250 @@
+52WeekChange: 0.6612562
+SandP52WeekChange: 0.097798586
+address1: Hatfield Avenue
+allTimeHigh: 6045.0
+allTimeLow: 0.1
+ask: 4870.0
+askSize: 0
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 350986
+averageDailyVolume3Month: 301698
+averageVolume: 301698
+averageVolume10days: 350986
+beta: 0.998
+bid: 4864.0
+bidSize: 0
+bookValue: 9.378
+city: Hatfield
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mike J. Norris
+  title: CEO & Executive Director
+  totalPay: 1745400
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 77
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philip W. Hulme
+  title: Co-Founder & Non-Executive Director
+  totalPay: 62800
+  unexercisedValue: 0
+  yearBorn: 1948
+- age: 78
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Sir Peter J. Ogden MBA, Ph.D.
+  title: Co-Founder & Non-Executive Director
+  totalPay: 62800
+  unexercisedValue: 0
+  yearBorn: 1947
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Keith  Mortimer
+  title: CFO & Executive Director
+  totalPay: 526500
+  unexercisedValue: 3896
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Gibbs
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fraser  Phillips
+  title: Group Legal & Compliance Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sarah  Long
+  title: Group Chief People Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Reiner  Louis
+  title: Managing Director of Professional Services
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lieven  Bergmans
+  title: Chief Commercial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie  O'hara
+  title: Managing Director of Managed Services
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 4866.0
+currentRatio: 1.104
+customPriceAlertConfidence: LOW
+dayHigh: 4874.0
+dayLow: 4736.0
+debtToEquity: 20.489
+dividendRate: 0.78
+dividendYield: 1.66
+earningsGrowth: 1.037
+earningsQuarterlyGrowth: 1.028
+earningsTimestamp: 1788881400
+earningsTimestampEnd: 1788881400
+earningsTimestampStart: 1788881400
+ebitda: 366300000
+ebitdaMargins: 0.0304
+enterpriseToEbitda: 13.042
+enterpriseToRevenue: 0.396
+enterpriseValue: 4777443840
+epsCurrentYear: 2.80942
+epsForward: 3.01335
+epsTrailingTwelveMonths: 1.94
+esgPopulated: false
+exDividendDate: 1790208000
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 5228.16
+fiftyDayAverageChange: -362.16016
+fiftyDayAverageChangePercent: -0.06927105
+fiftyTwoWeekChangePercent: 66.12562
+fiftyTwoWeekHigh: 6045.0
+fiftyTwoWeekHighChange: -1179.0
+fiftyTwoWeekHighChangePercent: -0.19503722
+fiftyTwoWeekLow: 2786.0
+fiftyTwoWeekLowChange: 2080.0
+fiftyTwoWeekLowChangePercent: 0.7465901
+fiftyTwoWeekRange: 2786.0 - 6045.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 895734000000
+fiveYearAvgDividendYield: 2.49
+floatShares: 64986201
+forwardEps: 3.01335
+forwardPE: 16.14814
+freeCashflow: 287937504
+fullExchangeName: LSE
+fullTimeEmployees: 21000
+fulldayChange: 158.0
+fulldayChangePercent: 3.3559897
+fulldayPrice: 4866.0
+gmtOffSetMilliseconds: 0
+grossMargins: 0.107700005
+grossProfits: 1297799936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.60018003
+heldPercentInstitutions: 0.3774
+impliedSharesOutstanding: 104948626
+industry: Information Technology Services
+industryDisp: Information Technology Services
+industryKey: information-technology-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790208000
+lastDividendValue: 0.271
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1424390400
+lastSplitFactor: '15:17'
+longBusinessSummary: Computacenter plc provides technology and services to corporate
+  and public sector organizations in the United Kingdom, Germany, Western Europe,
+  North America, and internationally. It offers procurement, specialist, software,
+  logistical, technical, and circular technology sourcing services; IT strategy and
+  advisory, integration, deployment, and support services; and managed services. The
+  company also provides workplace solutions, including IT support, field and onsite
+  support services, Productivity and Teamwork technology sourcing, modern endpoint,
+  device lifecycle management, IT asset management, print solutions, and technology
+  sourcing; cloud and applications solution, such as custom application, business
+  automation, application platforms, data and AI platforms, and cloud services; infrastructure
+  services, data center and edge platforms, relocation and migration, and operational
+  resilience services; and software-defined (SD) wide area network service, proactive
+  and reactive services, network automation, managed secure networking and implementation,
+  SD campus networking, multi cloud connectivity, and data center networking and multi
+  cloud network deployment. In addition, it offers security solutions, including service
+  centers, integration centers, professional services hubs, and field and maintenance
+  services. The company was founded in 1981 and is headquartered in Hatfield, the
+  United Kingdom.
+longName: Computacenter plc
+market: gb_market
+marketCap: 5106800128
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_26868
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 204300000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 4940981312
+numberOfAnalystOpinions: 11
+open: 4750.0
+operatingCashflow: 376800000
+operatingMargins: 0.02754
+payoutRatio: 0.38509998
+phone: 44 1707 631000
+previousClose: 4708.0
+priceEpsCurrentYear: 1732.03
+priceHint: 2
+priceToBook: 5.18874
+priceToSalesTrailing12Months: 0.4237903
+profitMargins: 0.01695
+quickRatio: 0.751
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.72727
+region: US
+regularMarketChange: 158.0
+regularMarketChangePercent: 3.3559897
+regularMarketDayHigh: 4874.0
+regularMarketDayLow: 4736.0
+regularMarketDayRange: 4736.0 - 4874.0
+regularMarketOpen: 4750.0
+regularMarketPreviousClose: 4708.0
+regularMarketPrice: 4866.0
+regularMarketTime: 1794411511
+regularMarketVolume: 163248
+returnOnAssets: 0.049569998
+returnOnEquity: 0.22564
+revenueGrowth: 0.716
+revenuePerShare: 115.314
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+sharesOutstanding: 104948626
+shortName: COMPUTACENTER PLC ORD 7 5/9P
+sourceInterval: 15
+symbol: CCC.L
+targetHighPrice: 7299.0
+targetLowPrice: 5500.0
+targetMeanPrice: 6341.727
+targetMedianPrice: 6500.0
+totalCash: 333400000
+totalCashPerShare: 3.197
+totalDebt: 200400000
+totalRevenue: 12050299904
+tradeable: false
+trailingAnnualDividendRate: 0.781
+trailingAnnualDividendYield: 0.00016588786
+trailingEps: 1.94
+trailingPE: 25.082474
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 4256.635
+twoHundredDayAverageChange: 609.36523
+twoHundredDayAverageChangePercent: 0.14315657
+typeDisp: Equity
+volume: 163248
+website: https://www.computacenter.com
+zip: AL10 9TW

@@ -1,0 +1,265 @@
+52WeekChange: 0.116348386
+SandP52WeekChange: 0.097798586
+address1: Otto-Hahn-Ring 6
+allTimeHigh: 191.66
+allTimeLow: 6.402
+ask: 130.88
+auditRisk: 10
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 3488632
+averageDailyVolume3Month: 2138621
+averageVolume: 2138621
+averageVolume10days: 3488632
+beta: 1.865
+bid: 130.82
+boardRisk: 4
+bookValue: 12.607
+city: Munich
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Christian  Bruch
+  title: CEO, President, Chief Sustainability Officer & Chairman of Executive Board
+  totalPay: 5137000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria  Ferraro
+  title: CFO & Member of Executive Board
+  totalPay: 3162000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tim Oliver Holt
+  title: Member of the Executive Board
+  totalPay: 3126000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Karim Ahmed Amin Aly Khalil
+  title: Member of the Executive Board
+  totalPay: 3354000
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Vinod Mohan Philip
+  title: Member of the Executive Board
+  totalPay: 2875000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Anne-Laure Parrical de Chammard
+  title: Member of the Executive Board
+  totalPay: 2989000
+  unexercisedValue: 0
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hanna  Hennig
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Tobias  Hang
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tim  Proll-Gerwe
+  title: Head of Media Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nadja  Haakansson
+  title: Managing Director for Africa
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 130.92
+currentRatio: 0.904
+customPriceAlertConfidence: LOW
+dayHigh: 131.96
+dayLow: 126.02
+debtToEquity: 26.488
+dividendRate: 0.7
+dividendYield: 0.56
+earningsCallTimestampEnd: 1794391200
+earningsCallTimestampStart: 1794391200
+earningsGrowth: 0.8
+earningsQuarterlyGrowth: 0.761
+earningsTimestamp: 1794414600
+earningsTimestampEnd: 1794414600
+earningsTimestampStart: 1794414600
+ebitda: 4606000128
+ebitdaMargins: 0.110080004
+enterpriseToEbitda: 20.416
+enterpriseToRevenue: 2.247
+enterpriseValue: 94038302720
+epsCurrentYear: 4.5164
+epsForward: 8.07431
+epsTrailingTwelveMonths: 2.99
+esgPopulated: false
+exDividendDate: 1772150400
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 136.8024
+fiftyDayAverageChange: -5.8824005
+fiftyDayAverageChangePercent: -0.04299925
+fiftyTwoWeekChangePercent: 11.634838
+fiftyTwoWeekHigh: 191.66
+fiftyTwoWeekHighChange: -60.740005
+fiftyTwoWeekHighChangePercent: -0.3169154
+fiftyTwoWeekLow: 100.3
+fiftyTwoWeekLowChange: 30.619995
+fiftyTwoWeekLowChangePercent: 0.30528408
+fiftyTwoWeekRange: 100.3 - 191.66
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1601362800000
+floatShares: 777430232
+forwardEps: 8.07431
+forwardPE: 16.214388
+freeCashflow: 6204624896
+fullExchangeName: XETRA
+fullTimeEmployees: 106000
+fulldayChange: 11.080002
+fulldayChangePercent: 9.245664
+fulldayPrice: 130.92
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.20756
+grossProfits: 8684999680
+hasPrePostMarketData: false
+heldPercentInsiders: 0.08104999
+heldPercentInstitutions: 0.57962
+impliedSharesOutstanding: 850848567
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1772150400
+lastDividendValue: 0.7
+lastFiscalYearEnd: 1759190400
+longBusinessSummary: Siemens Energy AG operates as an energy technology company worldwide.
+  It operates through Gas Services, Grid Technologies, Transformation of Industry,
+  and Siemens Gamesa segments. The company provides gas and steam turbines, generators,
+  and heat pumps, as well as performance enhancement, maintenance, digitalization,
+  and consulting services for central and distributed power generation; and high voltage
+  direct current transmission systems, offshore wind farm grid connections, transformers,
+  flexible alternating current transmission systems, high voltage substations, air
+  and gas-insulated switchgears, circuit breakers, capacitor, digital grid solutions
+  and components, components and cyber security, and transformers and storage solutions.
+  It also offers electrolyzers, industrial steam turbines, industrial generators,
+  turbo and reciprocating compressors, drive systems and solutions, batteries and
+  fuel cells, and other systems and solutions, as well as service and digital offerings;
+  onshore and onshore wind turbines; design, engineering, manufacturing, and installation
+  solutions for onshore markets; offshore wind turbine equipment design, manufacturing,
+  and installation solutions; and management, operation and maintenance services for
+  wind farms. The company serves utilities, independent power producers, project developers,
+  municipal energy producers, engineering, procurement, and construction companies,
+  oil and gas, transmission and distribution system operators, and industrial and
+  infrastructure customers. Siemens Energy AG was founded in 1866 and is based in
+  Munich, Germany.
+longName: Siemens Energy AG
+market: de_market
+marketCap: 111393095680
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_612920998
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 2692000000
+nextFiscalYearEnd: 1790726400
+nonDilutedMarketCap: 101965692269
+numberOfAnalystOpinions: 28
+open: 129.0
+operatingCashflow: 9601000448
+operatingMargins: 0.08809
+overallRisk: 4
+payoutRatio: 0.22649999
+pegRatio: 0.34
+prevName: Siemens Energy
+previousClose: 119.84
+priceEpsCurrentYear: 28.98769
+priceHint: 2
+priceToBook: 10.3847065
+priceToSalesTrailing12Months: 2.6621044
+profitMargins: 0.064330004
+quickRatio: 0.57
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.89286
+region: US
+regularMarketChange: 11.080002
+regularMarketChangePercent: 9.245664
+regularMarketDayHigh: 131.96
+regularMarketDayLow: 126.02
+regularMarketDayRange: 126.02 - 131.96
+regularMarketOpen: 129.0
+regularMarketPreviousClose: 119.84
+regularMarketPrice: 130.92
+regularMarketTime: 1794411574
+regularMarketVolume: 2928240
+returnOnAssets: 0.03873
+returnOnEquity: 0.27749002
+revenueGrowth: 0.175
+revenuePerShare: 48.192
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 850848567
+shortName: Siemens Energy AG             N
+sourceInterval: 15
+symbol: ENR.DE
+targetHighPrice: 260.0
+targetLowPrice: 100.0
+targetMeanPrice: 192.54607
+targetMedianPrice: 205.0
+totalCash: 11088000000
+totalCashPerShare: 13.066
+totalDebt: 2959000064
+totalRevenue: 41843998720
+tradeable: false
+trailingAnnualDividendRate: 0.7
+trailingAnnualDividendYield: 0.0058411215
+trailingEps: 2.99
+trailingPE: 43.785954
+trailingPegRatio: 0.3248
+triggerable: false
+twoHundredDayAverage: 153.90836
+twoHundredDayAverageChange: -22.988358
+twoHundredDayAverageChangePercent: -0.14936393
+typeDisp: Equity
+volume: 2928240
+website: https://www.siemens-energy.com
+zip: '81739'

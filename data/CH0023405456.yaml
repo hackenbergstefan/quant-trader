@@ -1,0 +1,259 @@
+52WeekChange: 0.10066819
+SandP52WeekChange: 0.097798586
+address1: Brunngässlein 12
+allTimeHigh: 168.89693
+allTimeLow: 15.656726
+ask: 49.24
+auditRisk: 4
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 265845
+averageDailyVolume3Month: 245849
+averageVolume: 245849
+averageVolume10days: 265845
+beta: 1.023
+bid: 49.16
+boardRisk: 4
+bookValue: 11.486
+city: Basel
+companyOfficers:
+- age: 76
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Juan Carlos-Torres Carretero
+  title: Executive Chairman of the Board
+  totalPay: 5280000
+  unexercisedValue: 0
+  yearBorn: 1949
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Xavier Rossinyol Espel
+  title: Chief Executive Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Yves  Gerster
+  title: CFO & Group Treasurer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Rebecca Anne McClellan
+  title: Global Head of Investor Relations
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Pascal C. Duclos
+  title: Group General Counsel, Chief Legal Officer & Secretary to the Board
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Cathy  Jongens
+  title: Director of Corporate Communications
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Jordi  Martin-Consuegra
+  title: Chief Executive Officer North America
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Luis Marin Mas Sarda
+  title: President & CEO of Europe, Middle East and Africa (EMEA)
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 70
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Roger  Fordyce
+  title: Advisor
+  unexercisedValue: 0
+  yearBorn: 1955
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Freda  Cheung
+  title: President & CEO of Asia Pacific (APAC)
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1735603200
+compensationRisk: 5
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 49.18
+currentRatio: 0.734
+customPriceAlertConfidence: LOW
+dayHigh: 49.62
+dayLow: 48.62
+debtToEquity: 699.27
+dividendDate: 1747699200
+dividendRate: 1.15
+dividendYield: 2.33
+earningsCallTimestampEnd: 1785425400
+earningsCallTimestampStart: 1785425400
+earningsGrowth: 0.316
+earningsQuarterlyGrowth: 0.296
+earningsTimestampEnd: 1785425400
+earningsTimestampStart: 1785425400
+ebitda: 1596999936
+ebitdaMargins: 0.11557
+enterpriseToEbitda: 11.622
+enterpriseToRevenue: 1.343
+enterpriseValue: 18560800768
+epsCurrentYear: 3.47867
+epsForward: 3.96547
+epsTrailingTwelveMonths: 1.42
+esgPopulated: false
+exDividendDate: 1778198400
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 44.3468
+fiftyDayAverageChange: 4.8331985
+fiftyDayAverageChangePercent: 0.10898641
+fiftyTwoWeekChangePercent: 10.066819
+fiftyTwoWeekHigh: 55.8
+fiftyTwoWeekHighChange: -6.619999
+fiftyTwoWeekHighChangePercent: -0.11863798
+fiftyTwoWeekLow: 40.9
+fiftyTwoWeekLowChange: 8.279999
+fiftyTwoWeekLowChangePercent: 0.20244496
+fiftyTwoWeekRange: 40.9 - 55.8
+financialCurrency: CHF
+firstTradeDateMilliseconds: 1133856000000
+floatShares: 92549800
+forwardEps: 3.96547
+forwardPE: 12.4020605
+freeCashflow: 1797750016
+fullExchangeName: Swiss
+fullTimeEmployees: 69278
+fulldayChange: -0.23999786
+fulldayChangePercent: -0.48562905
+fulldayPrice: 49.18
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.62520003
+grossProfits: 8638999552
+hasPrePostMarketData: false
+heldPercentInsiders: 0.09020001
+heldPercentInstitutions: 0.62994
+impliedSharesOutstanding: 141508681
+industry: Specialty Retail
+industryDisp: Specialty Retail
+industryKey: specialty-retail
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778198400
+lastDividendValue: 1.15
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Avolta AG operates as a travel retail company in Europe, the
+  Middle East, Africa, North America, Latin America, and the Asia Pacific. It offers
+  perfumes and cosmetics, food and beverages, wines and spirits, luxury goods, fuel,
+  electronics, literature, publications, toys and souvenirs, soft drinks, packaged
+  food, travel accessories, personal items, newspapers, magazines, books, watches
+  and jewelry, sunglasses, destination, and other products; and confectionery and
+  catering, textile, leather, luggage, and tobacco and related products. The company
+  operates general travel retail shops under the Dufry, World Duty Free, Hellenic
+  Duty Free, Autogrill, and HMSHost brands; and convenience stores under the Hudson
+  brand. It operates duty-free and duty-paid shops, restaurants, and hybrid concepts
+  located at airports, border, downtown and hotel shops, railway stations, cruise
+  liners and ferries, seaports, and motorways. The company was formerly known as Dufry
+  AG and changed its name to Avolta AG in November 2023. Avolta AG was incorporated
+  in 1865 and is headquartered in Basel, Switzerland.
+longName: Avolta AG
+market: ch_market
+marketCap: 6959397376
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_9003256
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 207000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 6993359015
+numberOfAnalystOpinions: 17
+open: 49.08
+operatingCashflow: 2944999936
+operatingMargins: 0.07628
+overallRisk: 4
+payoutRatio: 0.8099
+pegRatio: 2.58
+phone: 41 61 266 44 44
+prevName: Dufry AG
+previousClose: 49.42
+priceEpsCurrentYear: 14.137588
+priceHint: 2
+priceToBook: 4.2817345
+priceToSalesTrailing12Months: 0.5036472
+profitMargins: 0.01498
+quickRatio: 0.422
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.35294
+region: US
+regularMarketChange: -0.23999786
+regularMarketChangePercent: -0.48562905
+regularMarketDayHigh: 49.62
+regularMarketDayLow: 48.62
+regularMarketDayRange: 48.62 - 49.62
+regularMarketOpen: 49.08
+regularMarketPreviousClose: 49.42
+regularMarketPrice: 49.18
+regularMarketTime: 1794411527
+regularMarketVolume: 42002
+returnOnAssets: 0.03878
+returnOnEquity: 0.18561001
+revenueGrowth: -0.025
+revenuePerShare: 97.234
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 10
+sharesOutstanding: 141508681
+shortName: AVOLTA N
+sourceInterval: 15
+symbol: AVOL.SW
+targetHighPrice: 60.0
+targetLowPrice: 45.0
+targetMeanPrice: 52.05882
+targetMedianPrice: 52.0
+totalCash: 993000000
+totalCashPerShare: 7.093
+totalDebt: 12460999680
+totalRevenue: 13818000384
+tradeable: false
+trailingAnnualDividendRate: 1.15
+trailingAnnualDividendYield: 0.02326993
+trailingEps: 1.42
+trailingPE: 34.633804
+trailingPegRatio: 2.6049
+triggerable: false
+twoHundredDayAverage: 47.5683
+twoHundredDayAverageChange: 1.611702
+twoHundredDayAverageChangePercent: 0.03388185
+typeDisp: Equity
+volume: 42002
+website: https://www.avoltaworld.com
+zip: '4010'

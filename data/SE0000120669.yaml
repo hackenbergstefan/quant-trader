@@ -1,0 +1,264 @@
+52WeekChange: 0.58358264
+SandP52WeekChange: 0.097798586
+address1: Klarabergsviadukten 70, D6
+address2: Box 70
+allTimeHigh: 200.91473
+allTimeLow: 10.993912
+ask: 96.22
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 3.0 - Hold
+averageDailyVolume10Day: 2679736
+averageDailyVolume3Month: 2295947
+averageVolume: 2295947
+averageVolume10days: 2679736
+beta: 1.204
+bid: 96.14
+bidSize: 0
+boardRisk: 3
+bookValue: 73.735
+city: Stockholm
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Johnny  Sjöström
+  title: President & CEO
+  totalPay: 21840000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Leena  Craelius M.Sc.
+  title: CFO & Executive VP
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carl  Orrling
+  title: Executive VP, CTO & Head of Transformation
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Per  Hillström
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Helena  Norrman
+  title: EVP & Head of Group Communications
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria  Langberg BSc, MBA
+  title: Executive Vice President of People, Culture & Sustainability
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 75
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Steven  Hansen
+  title: VP & Chief Technical Officer of SSAB Americas
+  unexercisedValue: 0
+  yearBorn: 1950
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregoire  Parenty
+  title: Head of SSAB Services
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Viktoria  Karsberg
+  title: Head of Corporate Identity & Group Communications
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Per  Elfgren
+  title: Executive VP & Head of SSAB Special Steels
+  unexercisedValue: 0
+  yearBorn: 1971
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 96.2
+currentRatio: 2.341
+customPriceAlertConfidence: HIGH
+dayHigh: 97.1
+dayLow: 96.0
+debtToEquity: 14.905
+dividendRate: 2.0
+dividendYield: 2.1
+earningsCallTimestampEnd: 1745911800
+earningsCallTimestampStart: 1745911800
+earningsGrowth: 0.047
+earningsQuarterlyGrowth: 0.047
+earningsTimestampEnd: 1753248600
+earningsTimestampStart: 1753248600
+ebitda: 10901000192
+ebitdaMargins: 0.1084
+enterpriseToEbitda: 7.908
+enterpriseToRevenue: 0.857
+enterpriseValue: 86205980672
+epsCurrentYear: 7.44964
+epsForward: 6.0
+epsTrailingTwelveMonths: 5.7
+esgPopulated: false
+exDividendDate: 1777420800
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 46 84 54 57 25
+fiftyDayAverage: 101.394
+fiftyDayAverageChange: -5.1940002
+fiftyDayAverageChangePercent: -0.051225916
+fiftyTwoWeekChangePercent: 58.358265
+fiftyTwoWeekHigh: 109.7
+fiftyTwoWeekHighChange: -13.5
+fiftyTwoWeekHighChangePercent: -0.1230629
+fiftyTwoWeekLow: 58.88
+fiftyTwoWeekLowChange: 37.319996
+fiftyTwoWeekLowChangePercent: 0.63383144
+fiftyTwoWeekRange: 58.88 - 109.7
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 5.63
+floatShares: 996181428
+forwardEps: 6.0
+forwardPE: 16.033333
+freeCashflow: -5072500224
+fullExchangeName: Stockholm
+fullTimeEmployees: 14679
+fulldayChange: 0.8999939
+fulldayChangePercent: 0.9443797
+fulldayPrice: 96.2
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.13987
+grossProfits: 14065999872
+hasPrePostMarketData: false
+heldPercentInsiders: 0.13087
+heldPercentInstitutions: 0.46539003
+impliedSharesOutstanding: 997668436
+industry: Steel
+industryDisp: Steel
+industryKey: steel
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777420800
+lastDividendValue: 2.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1151280000
+lastSplitFactor: '3:1'
+longBusinessSummary: 'SSAB AB (publ) engages in the production and sale of steel products
+  in Sweden, Finland, Germany, Poland, Denmark, Asia, the Rest of Europe, the United
+  States, and internationally. It operates through five segments: SSAB Special Steels,
+  SSAB Europe, SSAB Americas, Tibnor, and Ruukki Construction. The SSAB Special Steels
+  segment offers quenched and tempered steels, and advanced high-strength steel products.
+  The SSAB Europe segment provides strip, heavy plate, and tubular products. The SSAB
+  Americas segment is involved in the sale of heavy plates. The Tibnor segment distributes
+  a range of steel and non-ferrous metals in the Nordics and Baltics. The Ruukki Construction
+  segment produces and sells building solutions. It also offers fossil free steel
+  products. The company markets its steel products under the Strenx, Hardox, Docol,
+  GreenCoat, Toolox, Armox, Duroxite, Cor-Ten, SSAB AM, SSAB Boron, SSAB Domex, SSAB
+  Form, SSAB Laser, SSAB Weathering, and SSAB Multisteel brands. It serves heavy transport,
+  automotive, material handling, construction machinery, energy, construction, protection,
+  and tooling customers through its sales channels, service centers, and distributors.
+  SSAB AB (publ) was founded in 1878 and is headquartered in Stockholm, Sweden.'
+longName: SSAB AB (publ)
+market: se_market
+marketCap: 95975702528
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_631781
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 5676000256
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 94640262048
+numberOfAnalystOpinions: 3
+open: 96.0
+operatingCashflow: 12464000000
+operatingMargins: 0.07516
+overallRisk: 2
+payoutRatio: 0.35099998
+pegRatio: 3.76
+phone: 46 8 45 45 700
+previousClose: 95.3
+priceEpsCurrentYear: 12.913376
+priceHint: 2
+priceToBook: 1.3046721
+priceToSalesTrailing12Months: 0.95438385
+profitMargins: 0.05644
+quickRatio: 1.25
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.0
+region: US
+regularMarketChange: 0.8999939
+regularMarketChangePercent: 0.9443797
+regularMarketDayHigh: 97.1
+regularMarketDayLow: 96.0
+regularMarketDayRange: 96.0 - 97.1
+regularMarketOpen: 96.0
+regularMarketPreviousClose: 95.3
+regularMarketPrice: 96.2
+regularMarketTime: 1794412442
+regularMarketVolume: 885916
+returnOnAssets: 0.0428
+returnOnEquity: 0.08021
+revenueGrowth: 0.116
+revenuePerShare: 100.906
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 8
+sharesOutstanding: 700651337
+shortName: SSAB AB ser. B
+sourceInterval: 15
+symbol: SSAB-B.ST
+targetHighPrice: 102.0
+targetLowPrice: 92.0
+targetMeanPrice: 97.0
+targetMedianPrice: 97.0
+totalCash: 19771000832
+totalCashPerShare: 19.838
+totalDebt: 10958999552
+totalRevenue: 100563001344
+tradeable: false
+trailingAnnualDividendRate: 2.0
+trailingAnnualDividendYield: 0.020986358
+trailingEps: 5.7
+trailingPE: 16.877193
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 91.16385
+twoHundredDayAverageChange: 5.036148
+twoHundredDayAverageChangePercent: 0.05524282
+typeDisp: Equity
+volume: 885916
+website: https://www.ssab.com
+zip: 101 21

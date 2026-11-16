@@ -1,0 +1,256 @@
+52WeekChange: 0.16876161
+SandP52WeekChange: 0.097798586
+address1: 6 St James’s Square
+allTimeHigh: 9117.0
+allTimeLow: 321.3548
+ask: 6375.0
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 3784343
+averageDailyVolume3Month: 2688528
+averageVolume: 2688528
+averageVolume10days: 3784343
+beta: 0.709
+bid: 6373.0
+bidSize: 0
+boardRisk: 1
+bookValue: 30.060772
+city: London
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Simon Callas Trott BSc(Hon), GAICD, GradDipFin
+  title: CEO & Executive Director
+  totalPay: 2531693
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter Lloyd Cunningham B.A.
+  title: CFO & Director
+  totalPay: 1369996
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jerome X. Pecresse
+  title: Chief Executive of Aluminium & Lithium, President and CEO of Renewable Energy
+  totalPay: 1506622
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katie  Jackson
+  title: Chief Executive of Copper Business
+  totalPay: 1128100
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew  Holcz
+  title: Chief Executive of Iron Ore
+  totalPay: 838745
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark  Davies
+  title: Chief Safety & Technical Officer
+  totalPay: 1091517
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rachel  Arellano
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Trudi  Charles
+  title: Chief Legal, Governance & Corporate Affairs Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Georgie  Bezette
+  title: Chief People Officer
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bold  Baatar
+  title: Chief Commercial Officer
+  totalPay: 2182288
+  unexercisedValue: 0
+  yearBorn: 1974
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 6374.0
+currentRatio: 1.424
+customPriceAlertConfidence: LOW
+dayHigh: 6468.0
+dayLow: 6338.0
+debtToEquity: 31.872
+dividendRate: 3.48
+dividendYield: 5.51
+earningsCallTimestampEnd: 1785286800
+earningsCallTimestampStart: 1785286800
+earningsGrowth: 0.469
+earningsQuarterlyGrowth: 0.472
+earningsTimestampEnd: 1785252600
+earningsTimestampStart: 1785252600
+ebitda: 22911000576
+ebitdaMargins: 0.37077
+enterpriseToEbitda: 5.342
+enterpriseToRevenue: 1.981
+enterpriseValue: 122383335424
+epsCurrentYear: 8.17211
+epsForward: 6.1113467
+epsTrailingTwelveMonths: 5.5
+esgPopulated: false
+exDividendDate: 1786579200
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 6904.28
+fiftyDayAverageChange: -530.2798
+fiftyDayAverageChangePercent: -0.076804504
+fiftyTwoWeekChangePercent: 16.876162
+fiftyTwoWeekHigh: 9117.0
+fiftyTwoWeekHighChange: -2743.0
+fiftyTwoWeekHighChangePercent: -0.3008665
+fiftyTwoWeekLow: 5182.0
+fiftyTwoWeekLowChange: 1192.0
+fiftyTwoWeekLowChangePercent: 0.23002702
+fiftyTwoWeekRange: 5182.0 - 9117.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 6.59
+floatShares: 1432329800
+forwardEps: 6.1113467
+forwardPE: 10.42978
+freeCashflow: 3595500032
+fullExchangeName: LSE
+fullTimeEmployees: 56890
+fulldayChange: 51.0
+fulldayChangePercent: 0.8065792
+fulldayPrice: 6374.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.29751
+grossProfits: 18383998976
+hasPrePostMarketData: false
+heldPercentInsiders: 0.1469
+heldPercentInstitutions: 0.48879
+impliedSharesOutstanding: 1626497329
+industry: Other Industrial Metals & Mining
+industryDisp: Other Industrial Metals & Mining
+industryKey: other-industrial-metals-mining
+irWebsite: http://www.riotinto.com/investors-87.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786579200
+lastDividendValue: 1.566618
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 561945600
+lastSplitFactor: 2.5:1
+longBusinessSummary: Rio Tinto Group engages in exploring, mining, and processing
+  mineral resources worldwide. The company operates through Iron Ore; Aluminium and
+  lithium; and Copper segments. The Iron Ore segment engages in the iron ore mining,
+  and salt and gypsum production in Western Australia. The Aluminum and lithium segment
+  is involved in bauxite mining; alumina refining; and aluminium smelting, and recycling,
+  as well as mining and processing of lithium. The Copper segment engages in mining
+  and refining of copper, gold, silver, molybdenum, and other by-products and exploration
+  activities. It also owns and operates open pit and underground mines; and refineries,
+  smelters, processing plants and power, and shipping facilities. The company was
+  founded in 1873 and is headquartered in London, the United Kingdom.
+longName: Rio Tinto Group
+market: gb_market
+marketCap: 103672938496
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_299199
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 12101999616
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 102843426111
+numberOfAnalystOpinions: 20
+open: 6442.0
+operatingCashflow: 19081000960
+operatingMargins: 0.26689
+overallRisk: 2
+payoutRatio: 0.5453
+pegRatio: 5.63
+phone: 44 20 7781 2000
+previousClose: 6323.0
+priceEpsCurrentYear: 779.97
+priceHint: 2
+priceToBook: 2.1203713
+priceToSalesTrailing12Months: 1.6777456
+profitMargins: 0.19584998
+quickRatio: 0.926
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.28571
+region: US
+regularMarketChange: 51.0
+regularMarketChangePercent: 0.8065792
+regularMarketDayHigh: 6468.0
+regularMarketDayLow: 6338.0
+regularMarketDayRange: 6338.0 - 6468.0
+regularMarketOpen: 6442.0
+regularMarketPreviousClose: 6323.0
+regularMarketPrice: 6374.0
+regularMarketTime: 1794411555
+regularMarketVolume: 609365
+returnOnAssets: 0.08106
+returnOnEquity: 0.19312
+revenueGrowth: 0.155
+revenuePerShare: 38.026
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 10
+sharesOutstanding: 1254747091
+shortName: RIO TINTO PLC ORD 10P
+sourceInterval: 15
+symbol: RIO.L
+targetHighPrice: 8780.649
+targetLowPrice: 6176.4043
+targetMeanPrice: 7662.0264
+targetMedianPrice: 7694.935
+totalCash: 9507000320
+totalCashPerShare: 5.848
+totalDebt: 22851999744
+totalRevenue: 61793001472
+tradeable: false
+trailingAnnualDividendRate: 4.65
+trailingAnnualDividendYield: 0.00073541043
+trailingEps: 5.5
+trailingPE: 11.589091
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 7172.9854
+twoHundredDayAverageChange: -798.98535
+twoHundredDayAverageChangePercent: -0.11138812
+typeDisp: Equity
+volume: 609365
+website: https://www.riotinto.com
+zip: SW1Y 4AD

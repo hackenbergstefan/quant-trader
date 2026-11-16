@@ -1,0 +1,265 @@
+52WeekChange: -0.10231024
+SandP52WeekChange: 0.097798586
+address1: Zurich Airport
+address2: P.O. Box
+allTimeHigh: 266.6
+allTimeLow: 3.576349
+ask: 215.0
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 52042
+averageDailyVolume3Month: 56269
+averageVolume: 56269
+averageVolume10days: 52042
+beta: 0.558
+bid: 215.0
+bidSize: 0
+boardRisk: 3
+bookValue: 98.994
+city: Zurich
+companyOfficers:
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lukas  Brosi
+  title: CEO & Member of Management Board
+  totalPay: 1122637
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin  Fleck
+  title: CFO & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Gross
+  title: Chief Commercial Officer & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Tschudin
+  title: COO & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel  Bircher
+  title: MD of Zurich Airport International, Chief International Officer & Member
+    of Management Board
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lydia  Naef
+  title: Chief Real Estate Officer & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Müller
+  title: Head of Master Planning
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Weber
+  title: Head of Financial Services
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Britta  Muller-Ganz
+  title: General Secretary
+  unexercisedValue: 0
+  yearBorn: 1965
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 214.8
+currentRatio: 1.521
+customPriceAlertConfidence: LOW
+dayHigh: 217.2
+dayLow: 212.0
+debtToEquity: 58.985
+dividendDate: 1745280000
+dividendRate: 8.5
+dividendYield: 3.91
+earningsCallTimestampEnd: 1741348800
+earningsCallTimestampStart: 1741348800
+earningsGrowth: 0.015
+earningsQuarterlyGrowth: 0.015
+earningsTimestamp: 1787931000
+earningsTimestampEnd: 1787931000
+earningsTimestampStart: 1787931000
+ebitda: 776200000
+ebitdaMargins: 0.55681
+enterpriseToEbitda: 10.573
+enterpriseToRevenue: 5.887
+enterpriseValue: 8206528000
+epsCurrentYear: 10.3851
+epsForward: 9.30418
+epsTrailingTwelveMonths: 11.36
+esgPopulated: false
+exDividendDate: 1776729600
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 200.81
+fiftyDayAverageChange: 13.9900055
+fiftyDayAverageChangePercent: 0.069667876
+fiftyTwoWeekChangePercent: -10.231024
+fiftyTwoWeekHigh: 266.6
+fiftyTwoWeekHighChange: -51.800003
+fiftyTwoWeekHighChangePercent: -0.19429858
+fiftyTwoWeekLow: 186.4
+fiftyTwoWeekLowChange: 28.40001
+fiftyTwoWeekLowChangePercent: 0.15236057
+fiftyTwoWeekRange: 186.4 - 266.6
+financialCurrency: CHF
+firstTradeDateMilliseconds: 955954800000
+fiveYearAvgDividendYield: 2.25
+floatShares: 20429642
+forwardEps: 9.30418
+forwardPE: 23.086397
+freeCashflow: 98437504
+fullExchangeName: Swiss
+fullTimeEmployees: 1986
+fulldayChange: -2.800003
+fulldayChangePercent: -1.286766
+fulldayPrice: 214.8
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.65115
+grossProfits: 907699968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.38461
+heldPercentInstitutions: 0.33139
+impliedSharesOutstanding: 30697960
+industry: Airports & Air Services
+industryDisp: Airports & Air Services
+industryKey: airports-air-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776729600
+lastDividendValue: 8.5
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1462492800
+lastSplitFactor: '5:1'
+longBusinessSummary: Flughafen Zürich AG owns and operates the Zurich Airport in Switzerland.
+  The company operates through Aviation; Passengers with Reduced Mobility (PRM); Usage
+  Fees; Air Security; Access Fees; Noise; Non-Regulated Business; and International
+  segments. It provides infrastructure and services related to flight operations,
+  including the runway system, apron zones, passenger zones in the terminals, freight
+  operations, passenger handling and services, and safety; support for passengers
+  with reduced mobility; and check-in areas and facilities, baggage sorting and handling
+  system, aircraft power supply system, handling apron areas, and the related services
+  and fees. The company also offers passenger and aircraft security measures consisting
+  of systems, operation, and maintenance to prevent actions that affect the security
+  of commercial civil aviation, such as facilities for checks on passengers, hand
+  luggage, checked baggage, and freight. In addition, it provides air security-related
+  equipment and services comprising relevant systems, operation, and maintenance;
+  and airport policing duties, surveillance patrols, and other security-related duties.
+  Further, the company develops, markets, and operates commercial infrastructure at
+  Zurich Airport, including retail and restaurant/catering operations at the airport,
+  renting premises, parking services, and various commercial services; and provides
+  consulting services. Additionally, it develops and operates other airports in Brazil,
+  Chile, Curaçao, Colombia, and India. Flughafen Zürich AG was incorporated in 1986
+  and is based in Zurich, Switzerland.
+longName: Flughafen Zürich AG
+market: ch_market
+marketCap: 6593922048
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_4481887
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 348900000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 6679876096
+numberOfAnalystOpinions: 16
+open: 216.8
+operatingCashflow: 706800000
+operatingMargins: 0.33651
+overallRisk: 2
+payoutRatio: 0.7482
+pegRatio: 8.55
+phone: 41 43 816 22 11
+previousClose: 217.6
+priceEpsCurrentYear: 20.68348
+priceHint: 2
+priceToBook: 2.1698284
+priceToSalesTrailing12Months: 4.7302165
+profitMargins: 0.25029
+quickRatio: 1.392
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.4375
+region: US
+regularMarketChange: -2.800003
+regularMarketChangePercent: -1.286766
+regularMarketDayHigh: 217.2
+regularMarketDayLow: 212.0
+regularMarketDayRange: 212.0 - 217.2
+regularMarketOpen: 216.8
+regularMarketPreviousClose: 217.6
+regularMarketPrice: 214.8
+regularMarketTime: 1794411515
+regularMarketVolume: 12819
+returnOnAssets: 0.053740002
+returnOnEquity: 0.11658
+revenueGrowth: 0.051
+revenuePerShare: 45.408
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 30697960
+shortName: FLUGHAFEN ZUERICH N
+sourceInterval: 15
+symbol: FHZN.SW
+targetHighPrice: 283.0
+targetLowPrice: 200.0
+targetMeanPrice: 243.8125
+targetMedianPrice: 246.0
+totalCash: 267100000
+totalCashPerShare: 8.7
+totalDebt: 1792800000
+totalRevenue: 1394000000
+tradeable: false
+trailingAnnualDividendRate: 8.5
+trailingAnnualDividendYield: 0.0390625
+trailingEps: 11.36
+trailingPE: 18.908451
+trailingPegRatio: 8.6459
+triggerable: false
+twoHundredDayAverage: 229.6505
+twoHundredDayAverageChange: -14.850494
+twoHundredDayAverageChangePercent: -0.06466563
+typeDisp: Equity
+volume: 12819
+website: https://www.flughafen-zuerich.ch
+zip: '8058'

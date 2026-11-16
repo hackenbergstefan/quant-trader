@@ -1,0 +1,254 @@
+52WeekChange: 0.14029408
+SandP52WeekChange: 0.097798586
+address1: Schiphol Boulevard 223
+allTimeHigh: 55.825
+allTimeLow: 1.556
+ask: 0.0
+askSize: 0
+auditRisk: 1
+averageDailyVolume10Day: 4324779
+averageDailyVolume3Month: 4488118
+averageVolume: 4488118
+averageVolume10days: 4324779
+beta: 0.619
+bid: 0.0
+bidSize: 0
+boardRisk: 4
+bookValue: 6.004
+city: Schiphol
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eilard  Friese
+  title: CEO, Chairman of Management Board & Executive Director
+  totalPay: 3542000
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Duncan James Russell
+  title: CFO & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Marco Baptist Arie Keim RA
+  title: CEO of Aegon International & Member of the Management Board
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. J. Onno van Klinken
+  title: General Counsel, Executive VP & Member of the Management Board
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Anthony Holliday-Williams
+  title: CEO of Aegon UK & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wilford Herndon Fuller
+  title: Member of the Management Board & CEO of Aegon Americas
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Deborah  Waters
+  title: CTO & Member of the Management Board
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Astrid  Jakel
+  title: Chief Risk Officer & Member of the Management Board
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shawn C. D. Johnson B.S., M.B.A., M.Sc.
+  title: Global CEO of Aegon Asset Management & Member of Executive Committee
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michele A. E. Bareggi
+  title: Chief Strategy, Transformation & Growth Officer and Member of Management
+    Board
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 7.828
+currentRatio: 1.164
+customPriceAlertConfidence: LOW
+dayHigh: 7.844
+dayLow: 7.778
+debtToEquity: 42.673
+dividendRate: 0.42
+dividendYield: 5.42
+earningsCallTimestampEnd: 1787227200
+earningsCallTimestampStart: 1787227200
+earningsGrowth: 0.079
+earningsQuarterlyGrowth: 0.051
+earningsTimestamp: 1787239800
+earningsTimestampEnd: 1787239800
+earningsTimestampStart: 1787239800
+ebitdaMargins: 0.0
+enterpriseToRevenue: 1.019
+enterpriseValue: 11905872896
+epsCurrentYear: 0.88904
+epsForward: 0.9792
+epsTrailingTwelveMonths: 0.59
+esgPopulated: false
+exDividendDate: 1788307200
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 7.65228
+fiftyDayAverageChange: 0.17572021
+fiftyDayAverageChangePercent: 0.02296312
+fiftyTwoWeekChangePercent: 14.0294075
+fiftyTwoWeekHigh: 8.374
+fiftyTwoWeekHighChange: -0.5459995
+fiftyTwoWeekHighChangePercent: -0.06520176
+fiftyTwoWeekLow: 5.774
+fiftyTwoWeekLowChange: 2.054
+fiftyTwoWeekLowChangePercent: 0.35573256
+fiftyTwoWeekRange: 5.774 - 8.374
+financialCurrency: EUR
+firstTradeDateMilliseconds: 796287600000
+fiveYearAvgDividendYield: 4.68
+floatShares: 1206417480
+forwardEps: 0.9792
+forwardPE: 7.9942813
+freeCashflow: -4314749952
+fullExchangeName: Amsterdam
+fullTimeEmployees: 12100
+fulldayChange: 0.07399988
+fulldayChangePercent: 0.9543446
+fulldayPrice: 7.828
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.45736
+grossProfits: 5342000128
+hasPrePostMarketData: false
+heldPercentInsiders: 0.17079
+heldPercentInstitutions: 0.39293
+impliedSharesOutstanding: 1456605803
+industry: Insurance - Diversified
+industryDisp: Insurance - Diversified
+industryKey: insurance-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788307200
+lastDividendValue: 0.21
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Aegon Ltd. provides insurance services in the Americas, the Netherlands,
+  the United Kingdom, and internationally. It offers retirement plans, mutual funds,
+  and unit-linked products; and annuities, life, and health insurance. The company
+  provides its products under the Transamerica and World Financial Group brands. Aegon
+  Ltd. was founded in 1844 and is based in Schiphol, the Netherlands.
+longName: Aegon Ltd.
+market: nl_market
+marketCap: 11402310656
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_247906
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 970000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 11358081942
+numberOfAnalystOpinions: 13
+open: 7.788
+operatingCashflow: 1776000000
+operatingMargins: 0.043070003
+overallRisk: 3
+payoutRatio: 0.6154
+pegRatio: 14.28
+phone: 31 20 259 2500
+prevName: Aegon N.V.
+previousClose: 7.754
+priceEpsCurrentYear: 8.805003
+priceHint: 2
+priceToBook: 1.3037975
+priceToSalesTrailing12Months: 0.97622526
+profitMargins: 0.086219996
+quickRatio: 0.026
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 0.07399988
+regularMarketChangePercent: 0.9543446
+regularMarketDayHigh: 7.844
+regularMarketDayLow: 7.778
+regularMarketDayRange: 7.778 - 7.844
+regularMarketOpen: 7.788
+regularMarketPreviousClose: 7.754
+regularMarketPrice: 7.828
+regularMarketTime: 1794411551
+regularMarketVolume: 1308868
+returnOnAssets: 0.00097000005
+returnOnEquity: 0.110690005
+revenueGrowth: -0.082
+revenuePerShare: 7.687
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 9
+sharesOutstanding: 1456605803
+shortName: AEGON
+sourceInterval: 15
+symbol: AGN.AS
+targetHighPrice: 9.37
+targetLowPrice: 7.0
+targetMeanPrice: 8.14
+targetMedianPrice: 8.0
+totalCash: 3515000064
+totalCashPerShare: 2.367
+totalDebt: 3835000064
+totalRevenue: 11680000000
+tradeable: false
+trailingAnnualDividendRate: 0.42
+trailingAnnualDividendYield: 0.05416559
+trailingEps: 0.59
+trailingPE: 13.267797
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 7.28199
+twoHundredDayAverageChange: 0.54601
+twoHundredDayAverageChangePercent: 0.07498088
+typeDisp: Equity
+volume: 1308868
+website: https://www.aegon.com
+zip: 1118 BH

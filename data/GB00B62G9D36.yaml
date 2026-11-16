@@ -1,0 +1,224 @@
+52WeekChange: 0.018455267
+SandP52WeekChange: 0.097798586
+address1: Regal House
+address2: 14 James Street
+allTimeHigh: 1203.0
+allTimeLow: 92.9
+ask: 148.2
+auditRisk: 6
+averageDailyVolume10Day: 2838358
+averageDailyVolume3Month: 3571346
+averageVolume: 3571346
+averageVolume10days: 2838358
+beta: 0.976
+bid: 148.1
+boardRisk: 3
+bookValue: 2.247
+city: London
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ian David Hawksworth
+  title: CEO & Executive Director
+  totalPay: 1927000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Situl Suryakant Jobanputra
+  title: CFO & Executive Director
+  totalPay: 1387000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sarah Anne Corbett
+  title: Director of Commercial Finance & Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1986
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Alison Elizabeth Fisher
+  title: General Counsel
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ruth Elizabeth Pavey
+  title: Company Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Desna Lee Martin ACIS, BCom, FCA(Aust), FCS
+  title: Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 148.2
+currentRatio: 0.733
+customPriceAlertConfidence: LOW
+dayHigh: 149.8
+dayLow: 147.5
+debtToEquity: 20.31
+dividendRate: 0.04
+dividendYield: 2.89
+earningsCallTimestampEnd: 1785310200
+earningsCallTimestampStart: 1785310200
+earningsGrowth: 0.277
+earningsQuarterlyGrowth: 0.278
+earningsTimestampEnd: 1785339000
+earningsTimestampStart: 1785339000
+ebitda: 139600000
+ebitdaMargins: 0.57213
+enterpriseToEbitda: 30.195
+enterpriseToRevenue: 17.275
+enterpriseValue: 4215220992
+epsCurrentYear: 0.04887
+epsForward: 0.05357
+epsTrailingTwelveMonths: 0.21
+esgPopulated: false
+exDividendDate: 1787788800
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 141.398
+fiftyDayAverageChange: 6.802002
+fiftyDayAverageChangePercent: 0.048105363
+fiftyTwoWeekChangePercent: 1.8455267
+fiftyTwoWeekHigh: 155.1
+fiftyTwoWeekHighChange: -6.900009
+fiftyTwoWeekHighChangePercent: -0.044487484
+fiftyTwoWeekLow: 124.1
+fiftyTwoWeekLowChange: 24.099998
+fiftyTwoWeekLowChangePercent: 0.19419822
+fiftyTwoWeekRange: 124.1 - 155.1
+financialCurrency: GBP
+firstTradeDateMilliseconds: 1193904000000
+fiveYearAvgDividendYield: 1.28
+floatShares: 1346939444
+forwardEps: 0.05357
+forwardPE: 27.66474
+freeCashflow: 26375000
+fullExchangeName: LSE
+fullTimeEmployees: 104
+fulldayChange: -0.80000305
+fulldayChangePercent: -0.5369148
+fulldayPrice: 148.2
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.74016
+grossProfits: 180600000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00481
+heldPercentInstitutions: 0.72582
+impliedSharesOutstanding: 1830752374
+industry: REIT - Retail
+industryDisp: REIT - Retail
+industryKey: reit-retail
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787788800
+lastDividendValue: 0.022
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Shaftesbury Capital PLC (Shaftesbury Capital) is the leading
+  central London mixed-use REIT and is a constituent of the FTSE-250 Index. Our property
+  portfolio under management, valued at 5.6 billion pounds, extends to 2.8 million
+  square feet of lettable space across the most vibrant areas of London's West End.
+  With a diverse mix of shops, restaurants, cafes, bars, residential apartments and
+  offices, our destinations include the high footfall, thriving neighborhoods of Covent
+  Garden, Carnaby, Soho and Chinatown. Our properties are close to the main West End
+  Underground stations and transport hubs for the Elizabeth Line. Shaftesbury Capital
+  shares are listed on the London Stock Exchange (LSE) (primary) and the Johannesburg
+  Stock Exchange (JSE) (secondary) and the A2X (secondary). Shaftesbury Capital PLC
+  was incorporated on February 3rd, 2010 in United Kingdom.
+longName: Shaftesbury Capital PLC
+market: gb_market
+marketCap: 2713175040
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_47267950
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 382400000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 2727821037
+numberOfAnalystOpinions: 11
+open: 147.5
+operatingCashflow: 57100000
+operatingMargins: 0.56844
+overallRisk: 3
+payoutRatio: 0.19229999
+pegRatio: 30.88
+phone: 44 20 3214 9150
+prevName: Capital & Counties Properties PLC
+previousClose: 149.0
+priceEpsCurrentYear: 3032.5352
+priceHint: 2
+priceToBook: 0.6595461
+priceToSalesTrailing12Months: 11.11957
+profitMargins: 1.56721
+quickRatio: 0.658
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -0.80000305
+regularMarketChangePercent: -0.5369148
+regularMarketDayHigh: 149.8
+regularMarketDayLow: 147.5
+regularMarketDayRange: 147.5 - 149.8
+regularMarketOpen: 147.5
+regularMarketPreviousClose: 149.0
+regularMarketPrice: 148.2
+regularMarketTime: 1794411002
+regularMarketVolume: 930260
+returnOnAssets: 0.014830001
+returnOnEquity: 0.09676
+revenueGrowth: 0.043
+revenuePerShare: 0.134
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 1
+sharesOutstanding: 1830752374
+shortName: SHAFTESBURY CAPITAL PLC ORD 25P
+sourceInterval: 15
+symbol: SHC.L
+targetHighPrice: 200.0
+targetLowPrice: 140.0
+targetMeanPrice: 171.182
+targetMedianPrice: 170.0
+totalCash: 119300000
+totalCashPerShare: 0.065
+totalDebt: 965600000
+totalRevenue: 244000000
+tradeable: false
+trailingAnnualDividendRate: 0.043
+trailingAnnualDividendYield: 0.0002885906
+trailingEps: 0.21
+trailingPE: 7.057143
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 139.729
+twoHundredDayAverageChange: 8.470993
+twoHundredDayAverageChangePercent: 0.060624443
+typeDisp: Equity
+volume: 930260
+website: https://www.shaftesburycapital.com
+zip: WC2E 8BU

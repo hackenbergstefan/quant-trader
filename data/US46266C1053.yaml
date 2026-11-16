@@ -1,0 +1,276 @@
+52WeekChange: 0.24569905
+SandP52WeekChange: 0.097798586
+address1: 2400 Ellis Road
+allTimeHigh: 285.61
+allTimeLow: 40.1
+ask: 279.09
+askSize: 40
+auditRisk: 1
+averageAnalystRating: 1.3 - Strong Buy
+averageDailyVolume10Day: 1397620
+averageDailyVolume3Month: 1416656
+averageVolume: 1416656
+averageVolume10days: 1397620
+beta: 1.165
+bid: 278.83
+bidSize: 40
+boardRisk: 6
+bookValue: 40.413
+city: Durham
+companyOfficers:
+- age: 64
+  exercisedValue: 26319868
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ari  Bousbib
+  title: CEO & Chairman
+  totalPay: 7160123
+  unexercisedValue: 79675408
+  yearBorn: 1961
+- age: 61
+  exercisedValue: 1981723
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric M. Sherbet J.D.
+  title: Executive VP, General Counsel & Secretary
+  totalPay: 1500870
+  unexercisedValue: 2607266
+  yearBorn: 1964
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. W. Richard Staub III
+  title: President of Research & Development Solutions
+  totalPay: 1829079
+  unexercisedValue: 184221
+  yearBorn: 1963
+- age: 51
+  exercisedValue: 3593663
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alistair  Grenfell
+  title: President of Commercial Solutions
+  totalPay: 1704592
+  unexercisedValue: 63708
+  yearBorn: 1974
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael J. Fedock MBA
+  title: Executive VP & Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James G. Berkshire
+  title: Executive Vice President of Global Infrastructure & Operations
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Keriann  Cherofsky
+  title: Senior VP, Corporate Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1985
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jeffrey A. Spaeder M.D.
+  title: Chief Medical & Scientific Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Kerri  Joseph
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Duane  Sachs
+  title: Senior Vice President of Corporate Development
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 278.92
+currentRatio: 0.829
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 281.24
+dayLow: 276.08
+debtToEquity: 240.23
+displayName: IQVIA
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793106000
+earningsCallTimestampStart: 1793106000
+earningsGrowth: 0.088
+earningsQuarterlyGrowth: 0.057
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1793104200
+earningsTimestampStart: 1793104200
+ebitda: 3118000128
+ebitdaMargins: 0.18011999
+enterpriseToEbitda: 19.04
+enterpriseToRevenue: 3.429
+enterpriseValue: 59367718912
+epsCurrentYear: 12.95839
+epsForward: 14.20401
+epsTrailingTwelveMonths: 8.22
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 267.0748
+fiftyDayAverageChange: 11.845215
+fiftyDayAverageChangePercent: 0.044351675
+fiftyTwoWeekChangePercent: 24.569904
+fiftyTwoWeekHigh: 284.5
+fiftyTwoWeekHighChange: -5.5799866
+fiftyTwoWeekHighChangePercent: -0.019613309
+fiftyTwoWeekLow: 154.5
+fiftyTwoWeekLowChange: 124.42001
+fiftyTwoWeekLowChangePercent: 0.8053075
+fiftyTwoWeekRange: 154.5 - 284.5
+financialCurrency: USD
+firstTradeDateMilliseconds: 1368106200000
+floatShares: 156451232
+forwardEps: 14.20401
+forwardPE: 19.63671
+freeCashflow: 2115874944
+fullExchangeName: NYSE
+fullTimeEmployees: 95000
+fulldayChange: 3.7700195
+fulldayChangePercent: 1.3701688
+fulldayPrice: 278.92
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.33066002
+grossProfits: 5724000256
+hasPrePostMarketData: true
+heldPercentInsiders: 0.010880001
+heldPercentInstitutions: 1.05119
+impliedSharesOutstanding: 164800000
+industry: Diagnostics & Research
+industryDisp: Diagnostics & Research
+industryKey: diagnostics-research
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'IQVIA Holdings Inc. provides clinical research services, commercial
+  insights, and healthcare intelligence to the life sciences and healthcare industries
+  in the Americas, Europe, Africa, and the Asia-Pacific. It operates through three
+  segments: Technology & Analytics Solutions, Research & Development Solutions, and
+  Contract Sales & Medical Solutions. The Technology & Analytics Solutions segment
+  offers a range of cloud-based applications and associated implementation services;
+  real world solutions that enable life sciences and provider customers to generate
+  and disseminate evidence, which informs health care decision making and improves
+  patients'' outcomes; and strategic and implementation consulting services, such
+  as advanced analytics and commercial processes outsourcing services. This segment
+  also provides country level performance metrics related to sales of pharmaceutical
+  products, prescribing trends, medical treatment, and promotional activity across
+  various channels, including retail, hospital, and mail order; and measurement of
+  sales or prescribing activity at the regional, zip code, and individual prescriber
+  level. The Research & Development Solutions segment offers project management and
+  clinical monitoring; clinical trial support; strategic planning and design services;
+  and patient and site centric solutions, as well as central laboratory, genomic,
+  bioanalytical, ADME, discovery, vaccine and biomarker laboratory services. The Contract
+  Sales & Medical Solutions segment provides health care provider and patient engagement
+  services, and scientific strategy and medical services. It serves pharmaceutical,
+  biotechnology, device and diagnostic, and consumer health companies. The company
+  has a strategic collaboration with Kexing Biopharm Co., Ltd. for biosimilar development.
+  The company was formerly known as Quintiles IMS Holdings, Inc. and changed its name
+  to IQVIA Holdings Inc. in November 2017. IQVIA Holdings Inc. is based in Durham,
+  North Carolina.'
+longName: IQVIA Holdings Inc.
+market: us_market
+marketCap: 45966016512
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_137473239
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1394000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 45344720000
+numberOfAnalystOpinions: 18
+open: 276.89
+operatingCashflow: 2736000000
+operatingMargins: 0.13887
+overallRisk: 6
+payoutRatio: 0.0
+pegRatio: 1.03
+phone: 919 998 2000
+previousClose: 275.15
+priceEpsCurrentYear: 21.524279
+priceHint: 2
+priceToBook: 6.90174
+priceToSalesTrailing12Months: 2.6553068
+profitMargins: 0.08053
+quickRatio: 0.74
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.3
+region: US
+regularMarketChange: 3.7700195
+regularMarketChangePercent: 1.3701688
+regularMarketDayHigh: 281.24
+regularMarketDayLow: 276.08
+regularMarketDayRange: 276.08 - 281.24
+regularMarketOpen: 276.89
+regularMarketPreviousClose: 275.15
+regularMarketPrice: 278.92
+regularMarketTime: 1794413724
+regularMarketVolume: 327637
+returnOnAssets: 0.05076
+returnOnEquity: 0.21393
+revenueGrowth: 0.08
+revenuePerShare: 103.504
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 7
+sharesOutstanding: 164800000
+sharesPercentSharesOut: 0.0185
+sharesShort: 3041916
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3216119
+shortName: IQVIA Holdings, Inc.
+shortPercentOfFloat: 0.0214
+shortRatio: 2.21
+sourceInterval: 15
+state: NC
+symbol: IQV
+targetHighPrice: 346.0
+targetLowPrice: 268.0
+targetMeanPrice: 311.8889
+targetMedianPrice: 310.0
+totalCash: 2422000128
+totalCashPerShare: 14.697
+totalDebt: 16314000384
+totalRevenue: 17311000576
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 8.22
+trailingPE: 33.931873
+trailingPegRatio: 1.0148
+triggerable: true
+twoHundredDayAverage: 210.5574
+twoHundredDayAverageChange: 68.36261
+twoHundredDayAverageChangePercent: 0.32467446
+typeDisp: Equity
+volume: 327637
+website: https://www.iqvia.com
+zip: '27703'

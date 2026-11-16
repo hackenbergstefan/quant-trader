@@ -1,0 +1,244 @@
+52WeekChange: 0.47291493
+SandP52WeekChange: 0.097798586
+address1: Wiedner Gürtel 11
+allTimeHigh: 184.6
+allTimeLow: 17.5
+ask: 171.9
+askSize: 0
+auditRisk: 10
+averageDailyVolume10Day: 135125
+averageDailyVolume3Month: 126853
+averageVolume: 126853
+averageVolume10days: 135125
+beta: 0.805
+bid: 171.7
+bidSize: 0
+boardRisk: 4
+bookValue: 57.936
+city: Vienna
+companyOfficers:
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Mr. Anas  Abuzaakouk
+  title: Chairman of the Management Board & CEO
+  totalPay: 5290000
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Mr. Enver  Sirucic
+  title: CFO, Deputy CEO, Head of Commercial Bank Austria & Germany and Member of
+    Management Board
+  totalPay: 2760000
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Mr. Satyen  Shah
+  title: Deputy CEO, Head of Digital Bank & Specialty Finance and Member of Management
+    Board
+  totalPay: 4190000
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Mr. David  O'Leary
+  title: Chief Risk Officer & Member of the Management Board
+  totalPay: 3290000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Mr. Andrew  Wise
+  title: Chief Inv. Officer, Head of International & Real Estate Lending and Member
+    of the Management Board
+  totalPay: 3860000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Dr. Guido  Jestadt
+  title: Chief Administrative Officer & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Ms. Jutta  Wimmer
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2020
+  maxAge: 1
+  name: Manfred  Rapolter
+  title: Head of Corporate Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1609372800
+compensationRisk: 8
+corporateActions: []
+country: Austria
+cryptoTradeable: false
+currency: EUR
+currentPrice: 172.0
+customPriceAlertConfidence: LOW
+dayHigh: 173.5
+dayLow: 171.1
+dividendDate: 20217600
+dividendRate: 6.25
+dividendYield: 3.65
+earningsCallTimestampEnd: 1792396800
+earningsCallTimestampStart: 1792396800
+earningsGrowth: 0.148
+earningsQuarterlyGrowth: 0.133
+earningsTimestamp: 1792424100
+earningsTimestampEnd: 1792424100
+earningsTimestampStart: 1792424100
+ebitdaMargins: 0.0
+enterpriseToRevenue: 9.386
+enterpriseValue: 19755847680
+epsCurrentYear: 12.7308
+epsForward: 16.23232
+epsTrailingTwelveMonths: 11.43
+esgPopulated: false
+exDividendDate: 1776988800
+exchange: VIE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 171.482
+fiftyDayAverageChange: 0.5180054
+fiftyDayAverageChangePercent: 0.0030207566
+fiftyTwoWeekChangePercent: 47.291492
+fiftyTwoWeekHigh: 184.6
+fiftyTwoWeekHighChange: -12.600006
+fiftyTwoWeekHighChangePercent: -0.068255715
+fiftyTwoWeekLow: 109.0
+fiftyTwoWeekLowChange: 63.0
+fiftyTwoWeekLowChangePercent: 0.57798165
+fiftyTwoWeekRange: 109.0 - 184.6
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1508914500000
+fiveYearAvgDividendYield: 5.92
+floatShares: 73456595
+forwardEps: 16.23232
+forwardPE: 10.596144
+fullExchangeName: Vienna
+fullTimeEmployees: 2791
+fulldayChange: 0.69999695
+fulldayChangePercent: 0.40863803
+fulldayPrice: 172.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 2104800000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.04487
+heldPercentInstitutions: 0.59992003
+impliedSharesOutstanding: 76998527
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776988800
+lastDividendValue: 6.25
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: BAWAG Group AG operates as a holding company for BAWAG P.S.K.
+  Bank für Arbeit und Wirtschaft und Österreichische Postsparkasse Aktiengesellschaft
+  that provides various banking products and services in Austria, Western Europe,
+  Germany, Ireland, Switzerland, the Netherlands, North America, and internationally.
+  It operates through Retail & SME; Corporates, Real Estate & Public Sector; and Treasury
+  segments. The Retail & SME segment offers savings, payments, securities, cards and
+  lending, and investment and insurance products and services; small business lending;
+  factoring and leasing business; social housing activities; and auto, mobile, and
+  real estate leasing, as well as consumer and mortgage loans. This segment also owns
+  issues covered with retail assets and Wohnbaubank bonds. The Corporates, Real Estate
+  & Public segment provides lending products; international real estate financing;
+  corporate, mid-cap, and public lending; and other financial services. This segment
+  also owns issues covered with corporate or public sector assets. The Treasury segment
+  offers trading and investment services, such as group asset-liability management
+  transactions, including secured and unsecured funding. The company serves retail,
+  small business, corporate, real estate, and public sector customers. BAWAG Group
+  AG is headquartered in Vienna, Austria.
+longName: BAWAG Group AG
+market: at_market
+marketCap: 13243746304
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1554617
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 918800000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 13189847675
+numberOfAnalystOpinions: 8
+open: 173.0
+operatingMargins: 0.62738
+overallRisk: 7
+payoutRatio: 0.5468
+phone: 43 5 99 05 0
+previousClose: 171.3
+priceEpsCurrentYear: 13.510542
+priceHint: 2
+priceToBook: 2.9687932
+priceToSalesTrailing12Months: 6.292164
+profitMargins: 0.45848
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 0.69999695
+regularMarketChangePercent: 0.40863803
+regularMarketDayHigh: 173.5
+regularMarketDayLow: 171.1
+regularMarketDayRange: 171.1 - 173.5
+regularMarketOpen: 173.0
+regularMarketPreviousClose: 171.3
+regularMarketPrice: 172.0
+regularMarketTime: 1794411547
+regularMarketVolume: 30037
+returnOnAssets: 0.0135699995
+returnOnEquity: 0.21003
+revenueGrowth: 0.048
+revenuePerShare: 26.89
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 76998527
+shortName: BAWAG Group AG
+sourceInterval: 15
+symbol: BG.VI
+targetHighPrice: 216.0
+targetLowPrice: 188.0
+targetMeanPrice: 197.5
+targetMedianPrice: 196.0
+totalCash: 13200000000
+totalCashPerShare: 171.432
+totalDebt: 19765999616
+totalRevenue: 2104800000
+tradeable: false
+trailingAnnualDividendRate: 6.25
+trailingAnnualDividendYield: 0.036485698
+trailingEps: 11.43
+trailingPE: 15.048119
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 157.86
+twoHundredDayAverageChange: 14.139999
+twoHundredDayAverageChangePercent: 0.08957303
+typeDisp: Equity
+volume: 30037
+website: https://www.bawaggroup.com
+zip: '1100'

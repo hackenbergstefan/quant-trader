@@ -1,0 +1,294 @@
+52WeekChange: 0.20000005
+SandP52WeekChange: 0.097798586
+address1: 77 West Wacker Drive
+address2: Suite 4600
+allTimeHigh: 98.88
+allTimeLow: 1.367969
+ask: 69.79
+askSize: 300
+auditRisk: 10
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 4269090
+averageDailyVolume3Month: 3479700
+averageVolume: 3479700
+averageVolume10days: 4269090
+beta: 0.615
+bid: 69.74
+bidSize: 400
+boardRisk: 8
+bookValue: 49.897
+city: Chicago
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juan Ricardo Luciano
+  title: Chairman, CEO & President
+  totalPay: 6072517
+  unexercisedValue: 14126517
+  yearBorn: 1961
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Monish D. Patolawala
+  title: CFO & Executive VP
+  totalPay: 4043434
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ian Robert Pinner
+  title: Senior Vice President, President of Nutrition, Chief Sales & Marketing Officer
+  totalPay: 1583897
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher M. Cuddy
+  title: Senior VP, President of North America & President of Carbohydrate Solutions
+  totalPay: 1875545
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory A.  Morris
+  title: Senior VP and President of Agricultural Services & Oilseeds Business Unit
+  totalPay: 1682349
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey Dean  Rowe
+  title: EVP & COO
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Carrie A. Nichol CPA
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Nuria  Miquel
+  title: Senior VP & Chief Science Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nandha  Kumar
+  title: Senior VP, Chief Information & Digital Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Kathryn  Walsh
+  title: Director of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: ADM announced a cash dividend of $0.52 with an ex-date of Nov. 18, 2026
+  meta:
+    amount: '0.52'
+    dateEpochMs: 1794978000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 69.86
+currentRatio: 1.445
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 70.24
+dayLow: 69.57
+debtToEquity: 41.663
+displayName: Archer-Daniels-Midland
+dividendDate: 1796774400
+dividendRate: 2.08
+dividendYield: 3.0
+earningsCallTimestampEnd: 1793712600
+earningsCallTimestampStart: 1793712600
+earningsGrowth: 6.71
+earningsQuarterlyGrowth: 6.602
+earningsTimestamp: 1793712600
+earningsTimestampEnd: 1801575000
+earningsTimestampStart: 1801575000
+ebitda: 3540000000
+ebitdaMargins: 0.04211
+enterpriseToEbitda: 12.03
+enterpriseToRevenue: 0.507
+enterpriseValue: 42587201536
+epsCurrentYear: 5.68142
+epsForward: 5.65229
+epsTrailingTwelveMonths: 5.12
+esgPopulated: false
+exDividendDate: 1794960000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 80.6146
+fiftyDayAverageChange: -10.754601
+fiftyDayAverageChangePercent: -0.13340761
+fiftyTwoWeekChangePercent: 20.000004
+fiftyTwoWeekHigh: 88.75
+fiftyTwoWeekHighChange: -18.89
+fiftyTwoWeekHighChangePercent: -0.21284506
+fiftyTwoWeekLow: 56.8
+fiftyTwoWeekLowChange: 13.060001
+fiftyTwoWeekLowChangePercent: 0.22992961
+fiftyTwoWeekRange: 56.8 - 88.75
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 2.55
+floatShares: 471797732
+forwardEps: 5.65229
+forwardPE: 12.359592
+freeCashflow: -1129500032
+fullExchangeName: NYSE
+fullTimeEmployees: 40798
+fulldayChange: 0.55999756
+fulldayChangePercent: 0.8080773
+fulldayPrice: 69.86
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.07442
+grossProfits: 6256000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00717
+heldPercentInstitutions: 0.90900004
+impliedSharesOutstanding: 475919192
+industry: Farm Products
+industryDisp: Farm Products
+industryKey: farm-products
+irWebsite: http://www.adm.com/en-US/investors/Pages/default.aspx
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1787097600
+lastDividendValue: 0.52
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 999129600
+lastSplitFactor: 105:100
+longBusinessSummary: 'Archer-Daniels-Midland Company provides human and animal nutrition
+  ingredients and solutions in the United States, Switzerland, the Cayman Islands,
+  Brazil, Mexico, Canada, the United Kingdom, and internationally. It operates in
+  three segments: Ag Services and Oilseeds; Carbohydrate Solutions; and Nutrition.
+  The company engages in the origination, merchandising, transportation, and storage
+  of agricultural raw materials, as well as the crushing and processing of oilseeds,
+  including soybeans and soft seeds, such as cottonseed, sunflower seed, canola, rapeseed,
+  and flaxseed; produces and markets vegetable oils and oilseed protein meals used
+  by food, feed, energy, and industrial customers; sale of crude and partially refined
+  vegetable oils; supplies peanuts and peanut-derived ingredients; and manufactures
+  cotton cellulose pulp. It is also involved in the grain sourcing, handling, and
+  multimodal transportation network supporting import, export, and distribution activities;
+  structured trade finance activities; corn and wheat wet and dry milling and related
+  processing activities; production of distillers'' grains, corn gluten feed, and
+  corn gluten meal for use as animal feed ingredients; and carbon capture and sequestration
+  and other emissions-reduction initiatives. In addition, the company engages in the
+  creation, manufacturing, sale, and distribution of an array of ingredients and solutions
+  comprising plant-based proteins, flavors and colors derived from nature, flavor
+  systems, emulsifiers, soluble fiber, polyols, hydrocolloids, probiotics, prebiotics,
+  postbiotics, enzymes, botanical extracts, and other specialty food and feed ingredients
+  and systems. Further, it is involved in the derivatives and commodity exchanges
+  and clearing houses; and insurance coverage for certain property, casualty, marine,
+  medical, and other miscellaneous risks. The company was founded in 1902 and is based
+  in Chicago, Illinois.'
+longName: Archer-Daniels-Midland Company
+market: us_market
+marketCap: 33247715328
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_251704
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2483000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 32981200005
+numberOfAnalystOpinions: 10
+open: 69.68
+operatingCashflow: 1475000064
+operatingMargins: 0.02912
+overallRisk: 6
+payoutRatio: 0.4043
+pegRatio: 2.01
+phone: 312 634 8100
+previousClose: 69.3
+priceEpsCurrentYear: 12.296222
+priceHint: 2
+priceToBook: 1.4000843
+priceToSalesTrailing12Months: 0.3955142
+profitMargins: 0.02954
+quickRatio: 0.29
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.81818
+region: US
+regularMarketChange: 0.55999756
+regularMarketChangePercent: 0.8080773
+regularMarketDayHigh: 70.24
+regularMarketDayLow: 69.57
+regularMarketDayRange: 69.57 - 70.24
+regularMarketOpen: 69.68
+regularMarketPreviousClose: 69.3
+regularMarketPrice: 69.86
+regularMarketTime: 1794413704
+regularMarketVolume: 442265
+returnOnAssets: 0.02851
+returnOnEquity: 0.10639
+revenueGrowth: 0.096
+revenuePerShare: 173.413
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 1
+sharesOutstanding: 475919192
+sharesPercentSharesOut: 0.025999999
+sharesShort: 12383051
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 12765808
+shortName: Archer-Daniels-Midland Company
+shortPercentOfFloat: 0.0342
+shortRatio: 4.45
+sourceInterval: 15
+state: IL
+symbol: ADM
+targetHighPrice: 95.0
+targetLowPrice: 60.0
+targetMeanPrice: 78.5
+targetMedianPrice: 77.0
+totalCash: 756000000
+totalCashPerShare: 1.589
+totalDebt: 10062000128
+totalRevenue: 84062003200
+tradeable: false
+trailingAnnualDividendRate: 2.07
+trailingAnnualDividendYield: 0.029870128
+trailingEps: 5.12
+trailingPE: 13.644531
+trailingPegRatio: 2.0128
+triggerable: true
+twoHundredDayAverage: 76.6554
+twoHundredDayAverageChange: -6.7954025
+twoHundredDayAverageChangePercent: -0.08864871
+typeDisp: Equity
+volume: 442265
+website: https://www.adm.com
+zip: '60601'

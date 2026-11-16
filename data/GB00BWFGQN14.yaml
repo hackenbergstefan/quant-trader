@@ -1,0 +1,260 @@
+52WeekChange: 0.038108706
+SandP52WeekChange: 0.097798586
+address1: Charlton House
+address2: Cirencester Road
+allTimeHigh: 17225.0
+allTimeLow: 179.1729
+ask: 7610.0
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 193122
+averageDailyVolume3Month: 190955
+averageVolume: 190955
+averageVolume10days: 193122
+beta: 1.134
+bid: 7600.0
+bidSize: 0
+boardRisk: 1
+bookValue: 16.951
+city: Cheltenham
+companyOfficers:
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nimesh Balvir Patel B.Sc.
+  title: Group CEO & Executive Director
+  totalPay: 1551000
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Louisa Sachiko Burdett ACA, BSc Hons
+  title: CFO & Executive Director
+  totalPay: 1228000
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mal  Patel
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Celine Arlette Virginie Barroche L.L.M.
+  title: Group General Counsel & Company Secretary
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jim  Devine
+  title: Group Human Resources Director
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew John Mines
+  title: Managing Director of Electric Thermal Solutions
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Maurizio  Preziosa
+  title: Managing Director of Steam Thermal Solutions
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer  Forrester
+  title: Head of Employee Experience
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Darren  Towers
+  title: Head of Inclusion, Diversity & Wellbeing
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stuart  Roby
+  title: Managing Director of Watson-Marlow Fluid Technology Solutions
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 7605.0
+currentRatio: 2.143
+customPriceAlertConfidence: LOW
+dayHigh: 7705.0
+dayLow: 7400.0
+debtToEquity: 86.781
+dividendRate: 1.72
+dividendYield: 2.33
+earningsCallTimestampEnd: 1786433400
+earningsCallTimestampStart: 1786433400
+earningsGrowth: 0.557
+earningsQuarterlyGrowth: 0.555
+earningsTimestampEnd: 1786462200
+earningsTimestampStart: 1786462200
+ebitda: 386600000
+ebitdaMargins: 0.22161
+enterpriseToEbitda: 15.871
+enterpriseToRevenue: 3.517
+enterpriseValue: 6135690240
+epsCurrentYear: 3.22694
+epsForward: 3.60696
+epsTrailingTwelveMonths: 2.68
+esgPopulated: false
+exDividendDate: 1792022400
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 7188.6
+fiftyDayAverageChange: 416.3999
+fiftyDayAverageChangePercent: 0.057925034
+fiftyTwoWeekChangePercent: 3.8108706
+fiftyTwoWeekHigh: 8050.0
+fiftyTwoWeekHighChange: -445.0
+fiftyTwoWeekHighChangePercent: -0.055279505
+fiftyTwoWeekLow: 5950.0
+fiftyTwoWeekLowChange: 1655.0
+fiftyTwoWeekLowChangePercent: 0.27815127
+fiftyTwoWeekRange: 5950.0 - 8050.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 1.64
+floatShares: 72952038
+forwardEps: 3.60696
+forwardPE: 21.084236
+freeCashflow: 162750000
+fullExchangeName: LSE
+fullTimeEmployees: 10000
+fulldayChange: 250.0
+fulldayChangePercent: 3.3990483
+fulldayPrice: 7605.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.75334
+grossProfits: 1314200064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0055
+heldPercentInstitutions: 1.04362
+impliedSharesOutstanding: 73795881
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792022400
+lastDividendValue: 0.504
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1434326400
+lastSplitFactor: '27:28'
+longBusinessSummary: 'Spirax Group plc provides thermal energy and fluid technology
+  solutions in Europe, the Middle East, Africa, the Asia Pacific, and the Americas.
+  It operates through three segments: Steam Thermal Solutions, Electric Thermal Solutions,
+  and Watson-Marlow Fluid Technology Solutions. The company offers industrial and
+  commercial steam systems, including condensate management, controls, and thermal
+  energy management products and solutions for heating, curing, cooking, drying, cleaning,
+  sterilizing, space heating, humidifying, vacuum packing, and producing hot water;
+  electrical process heating and temperature management solutions, such as industrial
+  heaters and systems, heat tracing, and various component technologies; and designs
+  and manufactures peristaltic and niche pumps and associated fluid path technologies,
+  including tubing, specialised filling systems and products for single use applications.
+  The company serves food and beverage, pharmaceutical and biotechnology, oil and
+  gas, chemical, power generation, healthcare, buildings, water and wastewater, semiconductor,
+  transport, original equipment manufacturers machinery, and mining and precious metal
+  processing industries. The company was formerly known as Spirax-Sarco Engineering
+  plc and changed its name to Spirax Group PLC in June 2024. Spirax Group PLC was
+  founded in 1888 and is headquartered in Cheltenham, the United Kingdom.'
+longName: Spirax Group plc
+market: gb_market
+marketCap: 5612176896
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874584
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 198200000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5427687047
+numberOfAnalystOpinions: 19
+open: 7515.0
+operatingCashflow: 283000000
+operatingMargins: 0.18148
+overallRisk: 1
+payoutRatio: 0.6334
+pegRatio: 1.64
+phone: 44 1242 535 000
+prevName: Spirax-Sarco Engineering plc
+previousClose: 7355.0
+priceEpsCurrentYear: 2356.722
+priceHint: 2
+priceToBook: 4.4864607
+priceToSalesTrailing12Months: 3.2170691
+profitMargins: 0.11361
+quickRatio: 1.405
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.15789
+region: US
+regularMarketChange: 250.0
+regularMarketChangePercent: 3.3990483
+regularMarketDayHigh: 7705.0
+regularMarketDayLow: 7400.0
+regularMarketDayRange: 7400.0 - 7705.0
+regularMarketOpen: 7515.0
+regularMarketPreviousClose: 7355.0
+regularMarketPrice: 7605.0
+regularMarketTime: 1794411523
+regularMarketVolume: 150744
+returnOnAssets: 0.074650005
+returnOnEquity: 0.16620001
+revenueGrowth: 0.051
+revenuePerShare: 23.654
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 73795881
+shortName: SPIRAX GROUP PLC ORD 26 12/13P
+sourceInterval: 15
+symbol: SPX.L
+targetHighPrice: 9100.0
+targetLowPrice: 6700.0
+targetMeanPrice: 8118.6836
+targetMedianPrice: 8400.0
+totalCash: 378300000
+totalCashPerShare: 5.126
+totalDebt: 1085799936
+totalRevenue: 1744499968
+tradeable: false
+trailingAnnualDividendRate: 1.715
+trailingAnnualDividendYield: 0.00023317471
+trailingEps: 2.68
+trailingPE: 28.376865
+trailingPegRatio: 1.6443
+triggerable: false
+twoHundredDayAverage: 7125.26
+twoHundredDayAverageChange: 479.74023
+twoHundredDayAverageChangePercent: 0.06732951
+typeDisp: Equity
+volume: 150744
+website: https://www.spiraxgroup.com
+zip: GL53 8ER

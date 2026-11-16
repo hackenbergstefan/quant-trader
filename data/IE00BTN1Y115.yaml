@@ -1,0 +1,286 @@
+52WeekChange: 0.06032777
+SandP52WeekChange: 0.097798586
+address1: Building Two
+address2: Parkmore Business Park West
+allTimeHigh: 135.89
+allTimeLow: 0.129883
+ask: 100.67
+askSize: 200
+auditRisk: 8
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 8467470
+averageDailyVolume3Month: 16640834
+averageVolume: 16640834
+averageVolume10days: 8467470
+beta: 0.568
+bid: 100.63
+bidSize: 300
+boardRisk: 8
+bookValue: 39.242
+city: Galway
+companyOfficers:
+- age: 55
+  exercisedValue: 460404
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Geoffrey Straub Martha
+  title: Chairman of the Board & CEO
+  totalPay: 4092494
+  unexercisedValue: 245414
+  yearBorn: 1970
+- age: 54
+  exercisedValue: 35449
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Michael  Marinaro
+  title: President and President of Medical Surgical Portfolio, Americas & Global
+    Commercial Ops
+  totalPay: 1915981
+  unexercisedValue: 84361
+  yearBorn: 1971
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Thierry  Pieton
+  title: Executive VP & CFO
+  totalPay: 4216777
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Michelle  Quinn
+  title: Executive VP, General Counsel & Secretary
+  totalPay: 2487488
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Rogerio  Branco
+  title: SVP & Chief Operations and Supply Chain Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Denise L. Blomquist
+  title: VP, Global Controller & Chief Accounting Officer
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dr. Laura  Mauri M.D., M.Sc.
+  title: Senior VP and Chief Scientific & Medical Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Ingrid  Goldberg
+  title: Vice President & Head of Investor Relations
+  unexercisedValue: 0
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Matthew R. Walter
+  title: Senior Vice President of Human Resources, IT and Global Communications &
+    Corporate Marketing
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Alex  Gu
+  title: Senior VP & President of Greater China Region
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 6
+corporateActions: []
+country: Ireland
+cryptoTradeable: false
+currency: USD
+currentPrice: 101.0
+currentRatio: 2.067
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 101.05
+dayLow: 100.02
+debtToEquity: 55.365
+displayName: Medtronic
+dividendDate: 1792108800
+dividendRate: 2.88
+dividendYield: 2.83
+earningsCallTimestampEnd: 1795523400
+earningsCallTimestampStart: 1795523400
+earningsGrowth: 0.407
+earningsQuarterlyGrowth: 0.413
+earningsTimestamp: 1795527000
+earningsTimestampEnd: 1795527000
+earningsTimestampStart: 1795527000
+ebitda: 10407999488
+ebitdaMargins: 0.27724
+enterpriseToEbitda: 14.402
+enterpriseToRevenue: 3.993
+enterpriseValue: 149899624448
+epsCurrentYear: 5.97507
+epsForward: 6.40607
+epsTrailingTwelveMonths: 4.07
+esgPopulated: false
+exDividendDate: 1790294400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 353 1 438 1798
+fiftyDayAverage: 93.1598
+fiftyDayAverageChange: 7.8402023
+fiftyDayAverageChangePercent: 0.084158644
+fiftyTwoWeekChangePercent: 6.032777
+fiftyTwoWeekHigh: 106.33
+fiftyTwoWeekHighChange: -5.330002
+fiftyTwoWeekHighChangePercent: -0.05012698
+fiftyTwoWeekLow: 73.31
+fiftyTwoWeekLowChange: 27.690002
+fiftyTwoWeekLowChangePercent: 0.37771115
+fiftyTwoWeekRange: 73.31 - 106.33
+financialCurrency: USD
+firstTradeDateMilliseconds: 105197400000
+fiveYearAvgDividendYield: 3.06
+floatShares: 1276643571
+forwardEps: 6.40607
+forwardPE: 15.766296
+freeCashflow: 5412499968
+fullExchangeName: NYSE
+fullTimeEmployees: 95000
+fulldayChange: -0.58999634
+fulldayChangePercent: -0.58076227
+fulldayPrice: 101.0
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.65271
+grossProfits: 24504000512
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0034599998
+heldPercentInstitutions: 0.89482003
+impliedSharesOutstanding: 1279137890
+industry: Medical Devices
+industryDisp: Medical Devices
+industryKey: medical-devices
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790294400
+lastDividendValue: 0.72
+lastFiscalYearEnd: 1776988800
+lastSplitDate: 938390400
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Medtronic plc develops, manufactures, and sells device-based
+  medical therapies to healthcare systems, physicians, clinicians, and patients in
+  the United States, Ireland, and internationally. It operates through three segments:
+  The Cardiovascular Portfolio, Neuroscience Portfolio, and Medical Surgical Portfolio.
+  The Cardiovascular Portfolio segment offers implantable cardiac pacemakers, cardioverter
+  defibrillators, and cardiac resynchronization therapy devices; cardiac ablation
+  products; insertable cardiac monitor systems; TYRX products; and remote monitoring
+  and patient-centered software. It also provides aortic valves, surgical valve replacement
+  and repair products, endovascular stent grafts and accessories, and transcatheter
+  pulmonary valves, left atrial appendage exclusion systems, extracorporeal membrane
+  oxygenation (ECMO) systems and percutaneous coronary intervention products, percutaneous
+  angioplasty balloons, and endovenous products. The Neuroscience Portfolio segment
+  offers medical devices and implants, biologic solutions, spinal cord stimulation
+  and brain modulation systems, implantable drug infusion systems, and interventional
+  products, as well as nerve ablation system under the Accurian name. This segment
+  offers its products for spinal surgeons, neurosurgeons, neurologists, pain management
+  specialists, anesthesiologists, orthopedic surgeons, urologists, urogynecologists,
+  and interventional radiologists, as well as ear, nose, and throat specialists, and
+  energy surgical instruments. The Medical Surgical Portfolio segment offers surgical
+  stapling devices, vessel sealing instruments, wound closure and electrosurgery products,
+  AI-powered surgical video and analytics platform, robotic-assisted surgery products,
+  hernia mechanical devices, mesh implants, gynecology products, gastrointestinal
+  and hepatologic diagnostics and therapies, and therapies to treat diseases and conditions,
+  and patient monitoring and airway management products, as well as insulin pumps
+  and consumables, continuous glucose monitoring systems, and sensors. Medtronic plc
+  was founded in 1949 and is headquartered in Galway, Ireland.'
+longName: Medtronic plc
+market: us_market
+marketCap: 129192927232
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_31348
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 5231000064
+nextFiscalYearEnd: 1808524800
+nonDilutedMarketCap: 129947618245
+numberOfAnalystOpinions: 26
+open: 100.7
+operatingCashflow: 8034999808
+operatingMargins: 0.20097
+overallRisk: 7
+payoutRatio: 0.70019996
+pegRatio: 1.85
+phone: 353 1 438 1700
+previousClose: 101.59
+priceEpsCurrentYear: 16.903568
+priceHint: 2
+priceToBook: 2.573773
+priceToSalesTrailing12Months: 3.4412906
+profitMargins: 0.13934
+quickRatio: 1.286
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.8
+region: US
+regularMarketChange: -0.58999634
+regularMarketChangePercent: -0.58076227
+regularMarketDayHigh: 101.05
+regularMarketDayLow: 100.02
+regularMarketDayRange: 100.02 - 101.05
+regularMarketOpen: 100.7
+regularMarketPreviousClose: 101.59
+regularMarketPrice: 101.0
+regularMarketTime: 1794413744
+regularMarketVolume: 1030762
+returnOnAssets: 0.05118
+returnOnEquity: 0.106479995
+revenueGrowth: 0.137
+revenuePerShare: 29.299
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 6
+sharesOutstanding: 1279137890
+sharesPercentSharesOut: 0.0179
+sharesShort: 22952253
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 39974230
+shortName: Medtronic plc.
+shortPercentOfFloat: 0.018
+shortRatio: 0.77
+sourceInterval: 15
+symbol: MDT
+targetHighPrice: 121.0
+targetLowPrice: 85.0
+targetMeanPrice: 105.0
+targetMedianPrice: 106.0
+totalCash: 8819000320
+totalCashPerShare: 6.894
+totalDebt: 28152999936
+totalRevenue: 37541998592
+tradeable: false
+trailingAnnualDividendRate: 2.85
+trailingAnnualDividendYield: 0.028053943
+trailingEps: 4.07
+trailingPE: 24.815723
+trailingPegRatio: 1.8467
+triggerable: true
+twoHundredDayAverage: 88.2455
+twoHundredDayAverageChange: 12.754501
+twoHundredDayAverageChangePercent: 0.1445343
+typeDisp: Equity
+volume: 1030762
+website: https://www.medtronic.com
+zip: H91 4K49

@@ -1,0 +1,280 @@
+52WeekChange: 0.07529318
+SandP52WeekChange: 0.097798586
+address1: 1901 Chouteau Avenue
+allTimeHigh: 118.32
+allTimeLow: 19.51
+ask: 112.9
+askSize: 100
+auditRisk: 6
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 1990590
+averageDailyVolume3Month: 1773578
+averageVolume: 1773578
+averageVolume10days: 1990590
+beta: 0.423
+bid: 112.85
+bidSize: 200
+boardRisk: 8
+bookValue: 51.307
+city: Saint Louis
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin J. Lyons Jr.
+  title: President, CEO & Chairman of the Board
+  totalPay: 5265563
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Leonard P. Singh
+  title: Executive VP & CFO
+  totalPay: 1688968
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark C. Lindgren
+  title: Executive VP of Corporate Communications & Chief Human Resources Officer
+    of Ameren Services
+  totalPay: 1084774
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael L. Moehn
+  title: Group President, Ameren Utilities
+  totalPay: 2643109
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shawn E. Schukar
+  title: Chairman & President of Ameren Transmission Company of Illinois
+  totalPay: 1331266
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Theresa A. Shaw
+  title: Senior VP & Chief Accounting and Transformation Officer of Ameren Services
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew  Kirk
+  title: Senior Director of Investor Relations & Corporate Modeling
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David M. Feinberg J.D.
+  title: Executive VP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Gwendolyn Goosby Mizell
+  title: Senior VP & Chief Sustainability Officer of Ameren Services
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ajay K. Arora
+  title: Executive VP, Chief Growth & Generation Development Officer of Ameren Missouri
+  unexercisedValue: 0
+  yearBorn: 1971
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions:
+- header: Dividend
+  message: AEE announced a cash dividend of $0.75 with an ex-date of Dec. 8, 2026
+  meta:
+    amount: '0.75'
+    dateEpochMs: 1796706000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 113.185
+currentRatio: 0.744
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 113.47
+dayLow: 112.78
+debtToEquity: 157.038
+displayName: Ameren
+dividendDate: 1798675200
+dividendRate: 3.0
+dividendYield: 2.64
+earningsCallTimestampEnd: 1793977200
+earningsCallTimestampStart: 1793977200
+earningsGrowth: 0.03
+earningsQuarterlyGrowth: 0.056
+earningsTimestamp: 1793912400
+earningsTimestampEnd: 1793912400
+earningsTimestampStart: 1793912400
+ebitda: 4001999872
+ebitdaMargins: 0.46622002
+enterpriseToEbitda: 13.514
+enterpriseToRevenue: 6.301
+enterpriseValue: 54084255744
+epsCurrentYear: 5.40994
+epsForward: 5.81114
+epsTrailingTwelveMonths: 5.75
+esgPopulated: false
+exDividendDate: 1796688000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 105.2096
+fiftyDayAverageChange: 7.975395
+fiftyDayAverageChangePercent: 0.07580482
+fiftyTwoWeekChangePercent: 7.5293183
+fiftyTwoWeekHigh: 118.32
+fiftyTwoWeekHighChange: -5.135002
+fiftyTwoWeekHighChangePercent: -0.043399274
+fiftyTwoWeekLow: 96.57
+fiftyTwoWeekLowChange: 16.614998
+fiftyTwoWeekLowChangePercent: 0.17205134
+fiftyTwoWeekRange: 96.57 - 118.32
+financialCurrency: USD
+firstTradeDateMilliseconds: 883751400000
+fiveYearAvgDividendYield: 2.83
+floatShares: 275192785
+forwardEps: 5.81114
+forwardPE: 19.477245
+freeCashflow: -2546125056
+fullExchangeName: NYSE
+fullTimeEmployees: 8913
+fulldayChange: -0.49500275
+fulldayChangePercent: -0.4354352
+fulldayPrice: 113.185
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.52586
+grossProfits: 4513999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00321
+heldPercentInstitutions: 0.91526
+impliedSharesOutstanding: 276937491
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+irWebsite: http://www.ameren.com/INVESTORS/Pages/Investorshome.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788825600
+lastDividendValue: 0.75
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Ameren Corporation, together with its subsidiaries, operates
+  as a public utility holding company in the United States. The company operates through
+  four segments: Ameren Missouri, Ameren Illinois Electric Distribution, Ameren Illinois
+  Natural Gas, and Ameren Transmission. It engages in the rate-regulated electric
+  generation, transmission, and distribution business and natural gas transmission
+  and distribution business. The company also generates electricity through coal,
+  nuclear, and natural gas, as well as renewable energy, including hydroelectric,
+  wind, methane gas, and solar energy centers. It serves residential, commercial,
+  and industrial customers. Ameren Corporation was founded in 1881 and is headquartered
+  in Saint Louis, Missouri.'
+longName: Ameren Corporation
+market: us_market
+marketCap: 31345170432
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_373264
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1599000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 31482253976
+numberOfAnalystOpinions: 18
+open: 112.99
+operatingCashflow: 3148999936
+operatingMargins: 0.28588
+overallRisk: 8
+payoutRatio: 0.5148
+pegRatio: 2.82
+phone: 314 621 3222
+previousClose: 113.68
+priceEpsCurrentYear: 20.921675
+priceHint: 2
+priceToBook: 2.2060342
+priceToSalesTrailing12Months: 3.6515808
+profitMargins: 0.18628
+quickRatio: 0.392
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.89474
+region: US
+regularMarketChange: -0.49500275
+regularMarketChangePercent: -0.4354352
+regularMarketDayHigh: 113.47
+regularMarketDayLow: 112.78
+regularMarketDayRange: 112.78 - 113.47
+regularMarketOpen: 112.99
+regularMarketPreviousClose: 113.68
+regularMarketPrice: 113.185
+regularMarketTime: 1794413705
+regularMarketVolume: 151761
+returnOnAssets: 0.030620001
+returnOnEquity: 0.11775
+revenueGrowth: 0.067
+revenuePerShare: 31.172
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 8
+sharesOutstanding: 276937491
+sharesPercentSharesOut: 0.056399997
+sharesShort: 15623082
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 14232291
+shortName: Ameren Corporation
+shortPercentOfFloat: 0.064
+shortRatio: 8.27
+sourceInterval: 15
+state: MO
+symbol: AEE
+targetHighPrice: 127.0
+targetLowPrice: 104.0
+targetMeanPrice: 116.45
+targetMedianPrice: 115.5
+totalCash: 40000000
+totalCashPerShare: 0.144
+totalDebt: 22513000448
+totalRevenue: 8584000000
+tradeable: false
+trailingAnnualDividendRate: 2.96
+trailingAnnualDividendYield: 0.026038002
+trailingEps: 5.75
+trailingPE: 19.684347
+trailingPegRatio: 2.8181
+triggerable: true
+twoHundredDayAverage: 108.72535
+twoHundredDayAverageChange: 4.459648
+twoHundredDayAverageChangePercent: 0.041017555
+typeDisp: Equity
+volume: 151761
+website: https://www.amereninvestors.com
+zip: '63103'

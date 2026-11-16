@@ -1,0 +1,281 @@
+52WeekChange: -0.07264757
+SandP52WeekChange: 0.097798586
+address1: 1111 Expedia Group Way West
+allTimeHigh: 342.0
+allTimeLow: 12.0
+ask: 255.14
+askSize: 1
+auditRisk: 5
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 2849730
+averageDailyVolume3Month: 1967178
+averageVolume: 1967178
+averageVolume10days: 2849730
+beta: 1.391
+bid: 254.97
+bidSize: 4
+boardRisk: 10
+bookValue: 13.924
+city: Seattle
+companyOfficers:
+- age: 83
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Barry  Diller
+  title: Executive Chairman of the Board & Senior Executive
+  totalPay: 1139409
+  unexercisedValue: 0
+  yearBorn: 1942
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ariane  Gorin
+  title: CEO & Director
+  totalPay: 1902784
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lance A. Soliday
+  title: Senior VP & Chief Accounting Officer
+  totalPay: 505558
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert John Dzielak Esq., J.D.
+  title: Chief Legal & People Officer and Corporate Secretary
+  totalPay: 964004
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Derek  Andersen C.F.A.
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ramana  Thumu
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric  Hart
+  title: Chief Strategy, Business & Corporate Development Officer
+  totalPay: 2090467
+  unexercisedValue: 0
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jochen  Koedijk
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Susanne  Svensson
+  title: Head Of Brand Marketing EMEA
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Michael S. Marron
+  title: Senior VP of Legal & Assistant Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions:
+- header: Dividend
+  message: EXPE announced a cash dividend of $0.48 with an ex-date of Nov. 18, 2026
+  meta:
+    amount: '0.48'
+    dateEpochMs: 1794978000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 255.83
+currentRatio: 0.773
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 256.73
+dayLow: 248.43
+debtToEquity: 195.096
+displayName: Expedia
+dividendDate: 1796860800
+dividendRate: 1.92
+dividendYield: 0.76
+earningsCallTimestampEnd: 1793827800
+earningsCallTimestampStart: 1793827800
+earningsGrowth: 0.149
+earningsQuarterlyGrowth: 0.074
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1793826000
+earningsTimestampStart: 1793826000
+ebitda: 3135000064
+ebitdaMargins: 0.19320999
+enterpriseToEbitda: 10.04
+enterpriseToRevenue: 1.94
+enterpriseValue: 31476600832
+epsCurrentYear: 21.18691
+epsForward: 24.81959
+epsTrailingTwelveMonths: 17.06
+esgPopulated: false
+exDividendDate: 1794960000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 279.1286
+fiftyDayAverageChange: -23.2986
+fiftyDayAverageChangePercent: -0.08346905
+fiftyTwoWeekChangePercent: -7.264757
+fiftyTwoWeekHigh: 342.0
+fiftyTwoWeekHighChange: -86.17
+fiftyTwoWeekHighChangePercent: -0.25195906
+fiftyTwoWeekLow: 185.34
+fiftyTwoWeekLowChange: 70.490005
+fiftyTwoWeekLowChangePercent: 0.3803281
+fiftyTwoWeekRange: 185.34 - 342.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 1121952600000
+fiveYearAvgDividendYield: 0.77
+floatShares: 112104890
+forwardEps: 24.81959
+forwardPE: 10.307584
+freeCashflow: 2346500096
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 16000
+fulldayChange: 2.0599976
+fulldayChangePercent: 0.8117577
+fulldayPrice: 255.83
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.90478
+grossProfits: 14680999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00624
+heldPercentInstitutions: 1.0875701
+impliedSharesOutstanding: 118574304
+industry: Travel Services
+industryDisp: Travel Services
+industryKey: travel-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787788800
+lastDividendValue: 0.48
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1324425600
+lastSplitFactor: '1:2'
+longBusinessSummary: Expedia Group, Inc. operates as an online travel company in the
+  United States and internationally. The company operates through B2C, B2B, and trivago
+  segments. The B2C segment includes Brand Expedia, a full-service online travel brand
+  offers various travel products and services; Hotels.com for lodging accommodations;
+  Vrbo, an online marketplace for the alternative accommodations; and Orbitz, Travelocity,
+  ebookers, and Wotif Group. The B2B segment provides various travel and non-travel
+  companies including airlines, offline travel agents, online retailers, corporate
+  travel management, and financial institutions who leverage its travel technology
+  and tap into its diverse supply to augment their offerings and market Expedia Group
+  rates and availabilities to its travelers. The trivago segment sends referrals to
+  online travel companies and travel service providers from hotel metasearch websites.
+  In addition, it provides brand advertising through online and offline channels,
+  loyalty programs, mobile apps, and search engine marketing, as well as metasearch,
+  social media, direct and personalized traveler communications on its websites, and
+  through direct e-mail communication with its travelers. The company was formerly
+  known as Expedia, Inc. and changed its name to Expedia Group, Inc. in March 2018.
+  Expedia Group, Inc. was founded in 1996 and is headquartered in Seattle, Washington.
+longName: Expedia Group, Inc.
+market: us_market
+marketCap: 30334865408
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_25915843
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2107000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 30088229640
+numberOfAnalystOpinions: 35
+open: 250.725
+operatingCashflow: 4556000256
+operatingMargins: 0.1839
+overallRisk: 10
+payoutRatio: 0.1079
+pegRatio: 0.67
+phone: 206 481 4252
+previousClose: 253.77
+priceEpsCurrentYear: 12.074908
+priceHint: 2
+priceToBook: 18.373312
+priceToSalesTrailing12Months: 1.8695221
+profitMargins: 0.12985
+quickRatio: 0.606
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.18421
+region: US
+regularMarketChange: 2.0599976
+regularMarketChangePercent: 0.8117577
+regularMarketDayHigh: 256.73
+regularMarketDayLow: 248.43
+regularMarketDayRange: 248.43 - 256.73
+regularMarketOpen: 250.725
+regularMarketPreviousClose: 253.77
+regularMarketPrice: 255.83
+regularMarketTime: 1794413732
+regularMarketVolume: 571995
+returnOnAssets: 0.07179
+returnOnEquity: 0.76747
+revenueGrowth: 0.119
+revenuePerShare: 133.93
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 10
+sharesOutstanding: 113050852
+sharesPercentSharesOut: 0.060100004
+sharesShort: 7127039
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7916722
+shortName: Expedia Group, Inc.
+shortPercentOfFloat: 0.077800006
+shortRatio: 4.87
+sourceInterval: 15
+state: WA
+symbol: EXPE
+targetHighPrice: 430.0
+targetLowPrice: 235.0
+targetMeanPrice: 332.7143
+targetMedianPrice: 325.0
+totalCash: 5567000064
+totalCashPerShare: 46.949
+totalDebt: 5688999936
+totalRevenue: 16225999872
+tradeable: false
+trailingAnnualDividendRate: 1.84
+trailingAnnualDividendYield: 0.00725066
+trailingEps: 17.06
+trailingPE: 14.995897
+trailingPegRatio: 0.6685
+triggerable: true
+twoHundredDayAverage: 259.0694
+twoHundredDayAverageChange: -3.2393951
+twoHundredDayAverageChangePercent: -0.012503967
+typeDisp: Equity
+volume: 571995
+website: https://www.expediagroup.com
+zip: '98119'

@@ -1,0 +1,295 @@
+52WeekChange: 0.17072177
+SandP52WeekChange: 0.097798586
+address1: Midtown Union
+address2: 1331 Spring Street North West, Suite 2500
+allTimeHigh: 51.1
+allTimeLow: 6.275
+ask: 28.71
+askSize: 300
+auditRisk: 9
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 5737540
+averageDailyVolume3Month: 4635281
+averageVolume: 4635281
+averageVolume10days: 5737540
+beta: 1.65
+bid: 28.7
+bidSize: 200
+boardRisk: 4
+bookValue: 23.023
+city: Atlanta
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew Ryan Schlossberg
+  title: President, CEO & Director
+  totalPay: 6214946
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laura Allison Dukes
+  title: Senior MD & CFO
+  totalPay: 3089678
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew Tak Shing Lo
+  title: Senior MD & Head of Asia Pacific
+  totalPay: 3288832
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Douglas J. Sharp
+  title: Senior MD, Head of the Americas and EMEA & Chair of the Board of Invesco
+    UK
+  totalPay: 3358554
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tony L. Wong
+  title: Senior MD & Co-Head of Investments
+  totalPay: 2847398
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stephanie Claire Butcher
+  title: Senior MD & Co-Head of Investment
+  totalPay: 2873648
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shannon Anastasia Johnston
+  title: Senior MD & Chief Information and Operations Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory Wade Ketron CPA
+  title: Head of Investor Relations & Treasury
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey Howard Kupor J.D.
+  title: Senior MD & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alan Leonard Smith
+  title: Senior MD & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: IVZ announced a cash dividend of $0.215 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.215'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 28.755
+currentRatio: 0.654
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 28.78
+dayLow: 27.82
+debtToEquity: 9.402
+displayName: Invesco
+dividendDate: 1796169600
+dividendRate: 0.86
+dividendYield: 2.98
+earningsCallTimestampEnd: 1793106000
+earningsCallTimestampStart: 1793106000
+earningsGrowth: -0.015
+earningsQuarterlyGrowth: -0.041
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1800970200
+earningsTimestampStart: 1800970200
+ebitda: 1603699968
+ebitdaMargins: 0.22476
+enterpriseToEbitda: 10.297
+enterpriseToRevenue: 2.314
+enterpriseValue: 16514100224
+epsCurrentYear: 2.78295
+epsForward: 3.3045
+epsTrailingTwelveMonths: -0.69
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 404 439 3323
+fiftyDayAverage: 29.9
+fiftyDayAverageChange: -1.1450005
+fiftyDayAverageChangePercent: -0.03829433
+fiftyTwoWeekChangePercent: 17.072178
+fiftyTwoWeekHigh: 33.66
+fiftyTwoWeekHighChange: -4.9050007
+fiftyTwoWeekHighChangePercent: -0.14572194
+fiftyTwoWeekLow: 21.82
+fiftyTwoWeekLowChange: 6.9349995
+fiftyTwoWeekLowChangePercent: 0.31782767
+fiftyTwoWeekRange: 21.82 - 33.66
+financialCurrency: USD
+firstTradeDateMilliseconds: 809357400000
+fiveYearAvgDividendYield: 3.99
+floatShares: 354546018
+forwardEps: 3.3045
+forwardPE: 8.70177
+freeCashflow: 1319750016
+fullExchangeName: NYSE
+fullTimeEmployees: 7416
+fulldayChange: -0.11500168
+fulldayChangePercent: -0.3984812
+fulldayPrice: 28.755
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.31058002
+grossProfits: 2216100096
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00603
+heldPercentInstitutions: 0.97823995
+impliedSharesOutstanding: 439528938
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.215
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 973641600
+lastSplitFactor: '25:10'
+longBusinessSummary: Invesco Ltd. is a publicly owned investment manager. The firm
+  provides its services to retail clients, institutional clients, high-net worth clients,
+  public entities, corporations, unions, non-profit organizations, endowments, foundations,
+  pension funds, financial institutions, and sovereign wealth funds. It manages separate
+  client-focused equity and fixed income portfolios. The firm also launches equity,
+  commodity, fixed income, multi-asset, and balanced mutual funds for its clients.
+  It launches equity, fixed income, multi-asset, and balanced exchange-traded funds.
+  The firm also launches and manages private funds. It invests in the public equity
+  and fixed income markets across the globe. The firm prefers to invest between $5
+  million and $15 million in companies. The firm also invests in alternative markets,
+  such as commodities and currencies. For the equity portion of its portfolio, it
+  invests in growth and value stocks of large-cap, mid-cap, and small-cap companies.
+  For the fixed income portion of its portfolio, the firm invests in convertibles,
+  government bonds, municipal bonds, treasury securities, and cash. It also invests
+  in short term and intermediate term bonds, investment grade and high yield bonds,
+  taxable and tax-free bonds, senior secured loans, and structured securities such
+  as asset-backed securities, mortgage-backed securities, and commercial mortgage-backed
+  securities. The firm employs absolute return, global macro, and long/short strategies.
+  It employs quantitative analysis to make its investments. The firm was formerly
+  known as Invesco Plc, AMVESCAP plc, Amvesco plc, Invesco PLC, Invesco MIM, and H.
+  Lotery & Co. Ltd. Invesco Ltd. was founded in 1935 and is based in Atlanta, Georgia
+  with an additional office in Asia, Europe, Africa and North America.
+longName: Invesco Ltd.
+market: us_market
+marketCap: 12638654464
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_384779
+mostRecentQuarter: 1790726400
+netIncomeToCommon: -316000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 12689200440
+numberOfAnalystOpinions: 14
+open: 28.45
+operatingCashflow: 1877600000
+operatingMargins: 0.20612
+overallRisk: 3
+payoutRatio: 0.5646
+pegRatio: 0.9
+phone: 404 892 0896
+previousClose: 28.87
+priceEpsCurrentYear: 10.332561
+priceHint: 2
+priceToBook: 1.2489684
+priceToSalesTrailing12Months: 1.7712857
+profitMargins: -0.011030001
+quickRatio: 0.654
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.33333
+region: US
+regularMarketChange: -0.11500168
+regularMarketChangePercent: -0.3984812
+regularMarketDayHigh: 28.78
+regularMarketDayLow: 27.82
+regularMarketDayRange: 27.82 - 28.78
+regularMarketOpen: 28.45
+regularMarketPreviousClose: 28.87
+regularMarketPrice: 28.755
+regularMarketTime: 1794413734
+regularMarketVolume: 1824128
+returnOnAssets: 0.032780003
+returnOnEquity: -0.00579
+revenueGrowth: 0.142
+revenuePerShare: 15.831
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 4
+sharesOutstanding: 439528938
+sharesPercentSharesOut: 0.036199998
+sharesShort: 15909802
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 16111028
+shortName: Invesco Ltd
+shortPercentOfFloat: 0.0523
+shortRatio: 3.18
+sourceInterval: 15
+state: GA
+symbol: IVZ
+targetHighPrice: 41.0
+targetLowPrice: 30.0
+targetMeanPrice: 35.0
+targetMedianPrice: 34.5
+totalCash: 965500032
+totalCashPerShare: 2.197
+totalDebt: 1281299968
+totalRevenue: 7135300096
+tradeable: false
+trailingAnnualDividendRate: 0.855
+trailingAnnualDividendYield: 0.029615518
+trailingEps: -0.69
+trailingPegRatio: 0.9008
+triggerable: true
+twoHundredDayAverage: 27.96035
+twoHundredDayAverageChange: 0.7946491
+twoHundredDayAverageChangePercent: 0.028420571
+typeDisp: Equity
+volume: 1824128
+website: https://www.invesco.com/corporate/en/home.html
+zip: '30309'

@@ -1,0 +1,253 @@
+52WeekChange: 0.49590695
+SandP52WeekChange: 0.097798586
+address1: 9601 South Meridian Boulevard
+allTimeHigh: 147.25
+allTimeLow: 9.53
+ask: 102.78
+askSize: 1
+auditRisk: 10
+averageAnalystRating: 1.3 - Strong Buy
+averageDailyVolume10Day: 5777700
+averageDailyVolume3Month: 3743770
+averageVolume: 3743770
+averageVolume10days: 5777700
+beta: 1.093
+bid: 94.32
+bidSize: 2
+boardRisk: 10
+bookValue: 58.262
+city: Englewood
+companyOfficers:
+- age: 72
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles William Ergen
+  title: Co-Founder, President, CEO & Executive Chairman of the Board
+  totalPay: 4648665
+  unexercisedValue: 60486056
+  yearBorn: 1953
+- age: 56
+  exercisedValue: 3474766
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul W. Orban CPA
+  title: Executive VP & CFO
+  totalPay: 703674
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 47
+  exercisedValue: 8477047
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John W. Swieringa
+  title: President of Technology & COO
+  totalPay: 1397250
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 64
+  exercisedValue: 39845020
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hamid  Akhavan-Malayeri
+  title: Consultant
+  totalPay: 2513307
+  unexercisedValue: 23483540
+  yearBorn: 1961
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey H. Blum
+  title: Executive VP of Government Affairs, Acting Chief Legal Officer & Secretary
+  unexercisedValue: 0
+- age: 70
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kenneth G. Carroll
+  title: Executive Vice President of Corporate and Business Development
+  totalPay: 467038
+  unexercisedValue: 0
+  yearBorn: 1955
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Robert Joseph Rupczynski
+  title: President of Retail Wireless
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 102.52
+currentRatio: 10.158
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 104.9599
+dayLow: 101.74
+debtToEquity: 56.961
+displayName: EchoStar
+dividendYield: 0.0
+earningsCallTimestampEnd: 1785772800
+earningsCallTimestampStart: 1785772800
+earningsTimestamp: 1793712600
+earningsTimestampEnd: 1793712600
+earningsTimestampStart: 1793712600
+ebitda: 2000359040
+ebitdaMargins: 0.16440001
+enterpriseToEbitda: 13.03
+enterpriseToRevenue: 2.142
+enterpriseValue: 26065387520
+epsForward: 17.16333
+epsTrailingTwelveMonths: 27.58
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 92.6454
+fiftyDayAverageChange: 9.874596
+fiftyDayAverageChangePercent: 0.10658485
+fiftyTwoWeekChangePercent: 49.590694
+fiftyTwoWeekHigh: 147.25
+fiftyTwoWeekHighChange: -44.730003
+fiftyTwoWeekHighChangePercent: -0.3037691
+fiftyTwoWeekLow: 65.76
+fiftyTwoWeekLowChange: 36.759995
+fiftyTwoWeekLowChangePercent: 0.55900234
+fiftyTwoWeekRange: 65.76 - 147.25
+financialCurrency: USD
+firstTradeDateMilliseconds: 1199284200000
+floatShares: 137990570
+forwardEps: 17.16333
+forwardPE: 5.9732
+freeCashflow: -2278972672
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 12100
+fulldayChange: -1.640007
+fulldayChangePercent: -1.5745075
+fulldayPrice: 102.52
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.32491
+grossProfits: 3953231872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.13498001
+heldPercentInstitutions: 1.05669
+impliedSharesOutstanding: 290978155
+industry: Telecom Services
+industryDisp: Telecom Services
+industryKey: telecom-services
+irWebsite: http://sats.client.shareholder.com/
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1568160000
+lastSplitFactor: 1234:1000
+longBusinessSummary: EchoStar Corporation provides pay-tv services in the United States,
+  Mexico, Canada, South and Central America, Asia, Africa, Australia, Europe, India,
+  and the Middle East. The Pay-TV segment offers a direct broadcast and fixed satellite,
+  owned and leased satellites, leased fiber optic networks, in-home services, and
+  call center operation services; digital broadcast operations, including satellite
+  uplinking/downlinking, transmission and, other services to third-party pay-TV providers;
+  multichannel, live-linear and on-demand streaming over-the-top Internet-based domestic,
+  international, Latino, and Freestream video programming services; and receiver systems.
+  Its Wireless segment provides wireless communication services and products; and
+  a range of wireless devices. The Broadband and Satellite Services offers broadband
+  satellite technologies, and internet products and services to consumer customers,
+  including home and small to medium-sized businesses; managed services, equipment,
+  hardware, satellite services, and communications solutions to government and enterprise
+  customers, as well as to the unserved and underserved consumer, enterprise, aeronautical,
+  and government markets; and integrated multi-transport solutions that enable airline
+  and airline service providers to deliver in-flight network connectivity. This segment
+  also designs, provides, and installs gateway and terminal equipment to customers
+  for other satellite systems; and designs, develops, constructs, and provides telecommunication
+  networks comprising satellite ground segment systems and terminals to mobile system
+  operators and enterprise customers. Its Other segment consists of 5G network and
+  5G network deployment operations. The company sells its products and services under
+  the Boost Mobile, DISH, Gen Mobile, Hughes, Hughesnet, and Sling brands. The company
+  was formerly known as EchoStar Holding Corporation. EchoStar Corporation was founded
+  in 1980 and is headquartered in Englewood, Colorado.
+longName: EchoStar Corporation
+market: us_market
+marketCap: 29831077888
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_38893720
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 9890552832
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 30296645498
+numberOfAnalystOpinions: 10
+open: 104.39
+operatingCashflow: -83955000
+operatingMargins: 0.1121
+overallRisk: 10
+payoutRatio: 0.0
+pegRatio: 1.33
+phone: 303 723 1000
+previousClose: 104.16
+priceHint: 2
+priceToBook: 1.7596374
+priceToSalesTrailing12Months: 2.4517462
+profitMargins: 0.81288004
+quickRatio: 9.765
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.33333
+region: US
+regularMarketChange: -1.640007
+regularMarketChangePercent: -1.5745075
+regularMarketDayHigh: 104.9599
+regularMarketDayLow: 101.74
+regularMarketDayRange: 101.74 - 104.9599
+regularMarketOpen: 104.39
+regularMarketPreviousClose: 104.16
+regularMarketPrice: 102.52
+regularMarketTime: 1794413729
+regularMarketVolume: 851525
+returnOnAssets: 0.0209
+returnOnEquity: 0.8235
+revenueGrowth: -0.688
+revenuePerShare: 42.022
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 159629687
+sharesPercentSharesOut: 0.0871
+sharesShort: 25358318
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 25541886
+shortName: EchoStar Corporation
+shortPercentOfFloat: 0.22299999
+shortRatio: 5.85
+sourceInterval: 15
+state: CO
+symbol: ECHO
+targetHighPrice: 207.0
+targetLowPrice: 117.0
+targetMeanPrice: 139.2
+targetMedianPrice: 131.0
+totalCash: 13968699392
+totalCashPerShare: 48.006
+totalDebt: 9679403008
+totalRevenue: 12167277568
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 27.58
+trailingPE: 3.7171862
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 105.86785
+twoHundredDayAverageChange: -3.3478546
+twoHundredDayAverageChangePercent: -0.031622957
+typeDisp: Equity
+volume: 851525
+website: https://www.echostar.com
+zip: '80112'

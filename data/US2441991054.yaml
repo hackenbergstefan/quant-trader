@@ -1,0 +1,281 @@
+52WeekChange: 0.4302591
+SandP52WeekChange: 0.097798586
+address1: One John Deere Place
+allTimeHigh: 721.22
+allTimeLow: 2.3125
+ask: 689.55
+askSize: 80
+auditRisk: 7
+averageDailyVolume10Day: 1249000
+averageDailyVolume3Month: 1254398
+averageVolume: 1254398
+averageVolume10days: 1249000
+beta: 0.895
+bid: 688.83
+bidSize: 80
+boardRisk: 5
+bookValue: 103.811
+city: Moline
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John C. May II
+  title: Chairman, President & CEO
+  totalPay: 8282891
+  unexercisedValue: 18094032
+  yearBorn: 1969
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ryan D. Campbell
+  title: President of Worldwide Construction, Forestry & Power Systems
+  totalPay: 2870301
+  unexercisedValue: 3658758
+  yearBorn: 1975
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Deanna M. Kovar
+  title: President of Worldwide Ag & Turf Div, Production and Precision Ag and Americas
+    and Australia
+  totalPay: 2926661
+  unexercisedValue: 1311468
+  yearBorn: 1979
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. T. Brent Norwood
+  title: CFO & Senior VP
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jahmy J. Hindman
+  title: Senior VP & CTO
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Christopher  Seibert
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Renee A. Mailhot
+  title: VP & Chief Compliance Officer
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Felecia J. Pryor J.D.
+  title: Senior VP & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. J. B. Penn
+  title: Chief Economist
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew C. Traeger
+  title: Chief Risk Officer & Senior VP of International Business at John Deere Financial
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 690.09
+currentRatio: 2.132
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 692.59
+dayLow: 680.66
+debtToEquity: 230.298
+displayName: Deere
+dividendDate: 1794182400
+dividendRate: 6.48
+dividendYield: 0.94
+earningsCallTimestampEnd: 1795618800
+earningsCallTimestampStart: 1795618800
+earningsGrowth: 0.074
+earningsQuarterlyGrowth: 0.07
+earningsTimestamp: 1795613400
+earningsTimestampEnd: 1795613400
+earningsTimestampStart: 1795613400
+ebitda: 8600000512
+ebitdaMargins: 0.17944
+enterpriseToEbitda: 28.267
+enterpriseToRevenue: 5.072
+enterpriseValue: 243094224896
+epsCurrentYear: 18.07758
+epsForward: 22.91071
+epsTrailingTwelveMonths: 17.99
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 668.8884
+fiftyDayAverageChange: 21.2016
+fiftyDayAverageChangePercent: 0.031696763
+fiftyTwoWeekChangePercent: 43.02591
+fiftyTwoWeekHigh: 721.22
+fiftyTwoWeekHighChange: -31.129944
+fiftyTwoWeekHighChangePercent: -0.043162897
+fiftyTwoWeekLow: 455.91
+fiftyTwoWeekLowChange: 234.18002
+fiftyTwoWeekLowChangePercent: 0.51365405
+fiftyTwoWeekRange: 455.91 - 721.22
+financialCurrency: USD
+firstTradeDateMilliseconds: 76253400000
+fiveYearAvgDividendYield: 1.21
+floatShares: 269080769
+forwardEps: 22.91071
+forwardPE: 30.12085
+freeCashflow: 4516250112
+fullExchangeName: NYSE
+fullTimeEmployees: 73100
+fulldayChange: 2.4500122
+fulldayChangePercent: 0.35629284
+fulldayPrice: 690.09
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.25184
+grossProfits: 12069999616
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0017
+heldPercentInstitutions: 0.85473996
+impliedSharesOutstanding: 269625412
+industry: Farm & Heavy Construction Machinery
+industryDisp: Farm & Heavy Construction Machinery
+industryKey: farm-heavy-construction-machinery
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=83523&p=irol-stockquote
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 1.62
+lastFiscalYearEnd: 1762041600
+lastSplitDate: 1196726400
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Deere & Company manufactures and distributes various equipment
+  worldwide. It operates through four segments: Production and Precision Agriculture,
+  Small Agriculture and Turf, Construction and Forestry, and Financial Services. The
+  Production and Precision Agriculture segment provides track and row crop tractors,
+  harvesters, cotton pickers and strippers, sugarcane harvesters and loaders, soil
+  preparation, tillage, seeding, and crop care equipment; and application equipment,
+  such as sprayers and nutrient management, soil preparation machinery, and related
+  attachments and service parts. The Small Agriculture and Turf segment offers specialty,
+  utility, and compact tractors; self-propelled forage harvesters and attachments;
+  rotary mowers, hay and forage equipment, and utility vehicles; turf and utility
+  equipment, including riding lawn, commercial mowing, and golf course equipment,
+  and utility vehicles, as well as implements for mowing, tilling, snow and debris
+  handling, aerating, residential, commercial, golf, and sports turf care applications.
+  The Construction and Forestry segment provides backhoe loaders, crawler dozers and
+  loaders, loaders, excavators, motor graders, articulated dump trucks, skid-steer
+  loaders, milling machines, recyclers, slipform and asphalt pavers, surface miners,
+  compactors, tandem, static rollers, mobile crushers and screens, mobile and stationary
+  asphalt plants, and log harvesters; and road building and rehabilitation equipment.
+  The Financial Services segment finances sales and leases agriculture and turf, and
+  construction and forestry equipment. It also offers wholesale financing to dealers
+  of the foregoing equipment; and extended equipment warranties. It has a strategic
+  partnership with Tarter USA to develop and produce flex wing rotary cutters. It
+  also has strategic partnership with Yamaha Motor Corporation, Usa to co-develop
+  future side-by-side vehicles. The company was founded in 1837 and is headquartered
+  in Moline, Illinois.'
+longName: Deere & Company
+market: us_market
+marketCap: 186065797120
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_266112
+mostRecentQuarter: 1785628800
+netIncomeToCommon: 4872999936
+nextFiscalYearEnd: 1793577600
+nonDilutedMarketCap: 185405218307
+numberOfAnalystOpinions: 23
+open: 686.48
+operatingCashflow: 7245000192
+operatingMargins: 0.13518
+overallRisk: 5
+payoutRatio: 0.36020002
+pegRatio: 1.6
+phone: 309 765 8000
+previousClose: 687.64
+priceEpsCurrentYear: 38.173805
+priceHint: 2
+priceToBook: 6.647562
+priceToSalesTrailing12Months: 3.8822749
+profitMargins: 0.10168
+quickRatio: 1.911
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 2.4500122
+regularMarketChangePercent: 0.35629284
+regularMarketDayHigh: 692.59
+regularMarketDayLow: 680.66
+regularMarketDayRange: 680.66 - 692.59
+regularMarketOpen: 686.48
+regularMarketPreviousClose: 687.64
+regularMarketPrice: 690.09
+regularMarketTime: 1794413728
+regularMarketVolume: 152355
+returnOnAssets: 0.03759
+returnOnEquity: 0.18242
+revenueGrowth: 0.049
+revenuePerShare: 177.409
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 7
+sharesOutstanding: 269625412
+sharesPercentSharesOut: 0.0195
+sharesShort: 5268777
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5745795
+shortName: Deere & Company
+shortPercentOfFloat: 0.0196
+shortRatio: 4.68
+sourceInterval: 15
+state: IL
+symbol: DE
+targetHighPrice: 813.18
+targetLowPrice: 500.0
+targetMeanPrice: 694.0078
+targetMedianPrice: 728.0
+totalCash: 6940000256
+totalCashPerShare: 25.739
+totalDebt: 64577998848
+totalRevenue: 47927001088
+tradeable: false
+trailingAnnualDividendRate: 6.48
+trailingAnnualDividendYield: 0.009423535
+trailingEps: 17.99
+trailingPE: 38.359646
+trailingPegRatio: 1.604
+triggerable: true
+twoHundredDayAverage: 610.3368
+twoHundredDayAverageChange: 79.753235
+twoHundredDayAverageChangePercent: 0.13067086
+typeDisp: Equity
+volume: 152355
+website: https://www.deere.com
+zip: '61265'

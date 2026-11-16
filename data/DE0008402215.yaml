@@ -1,0 +1,265 @@
+52WeekChange: 0.14651167
+SandP52WeekChange: 0.097798586
+address1: Karl-Wiechert-Allee 50
+allTimeHigh: 309.2
+allTimeLow: 12.836666
+ask: 294.4
+askSize: 187
+auditRisk: 6
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 173422
+averageDailyVolume3Month: 137170
+averageVolume: 137170
+averageVolume10days: 173422
+beta: 0.09
+bid: 294.0
+bidSize: 96
+boardRisk: 5
+bookValue: 113.327
+city: Hanover
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Clemens  Jungsthofel
+  title: CEO & Chairman of the Executive Board
+  totalPay: 1980400
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Claude Jacques Chèvre
+  title: Member of the Executive Board
+  totalPay: 1304800
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sven  Althoff
+  title: Member of the Executive Board
+  totalPay: 1304900
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Silke  Sehm
+  title: Member of Executive Board
+  totalPay: 1267300
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sharon  Ooi
+  title: Member of Executive Board
+  totalPay: 1261000
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thorsten  Steinmann
+  title: Member of the Executive Board
+  totalPay: 1365300
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Karl  Steinle
+  title: General Manager Investor & Rating Agency Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Thomas  Fiedler
+  title: Managing Director & Chief Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Eberhardt
+  title: MD & Head of Hannover Re Australian Branch
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Andreas  Markert
+  title: Chief Risk Officer & Managing Director of Group Risk Management
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 294.2
+currentRatio: 0.205
+customPriceAlertConfidence: LOW
+dayHigh: 296.4
+dayLow: 291.6
+debtToEquity: 28.146
+dividendRate: 12.5
+dividendYield: 4.33
+earningsCallTimestampEnd: 1794216600
+earningsCallTimestampStart: 1794216600
+earningsGrowth: 0.067
+earningsQuarterlyGrowth: 0.067
+earningsTimestamp: 1794241800
+earningsTimestampEnd: 1794241800
+earningsTimestampStart: 1794241800
+ebitda: 3405199872
+ebitdaMargins: 0.1494
+enterpriseToEbitda: 9.532
+enterpriseToRevenue: 1.424
+enterpriseValue: 32456738816
+epsCurrentYear: 23.3156
+epsForward: 24.04172
+epsTrailingTwelveMonths: 23.57
+esgPopulated: false
+exDividendDate: 1778112000
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 511 5604 1188
+fiftyDayAverage: 267.58
+fiftyDayAverageChange: 26.620026
+fiftyDayAverageChangePercent: 0.09948437
+fiftyTwoWeekChangePercent: 14.651167
+fiftyTwoWeekHigh: 309.2
+fiftyTwoWeekHighChange: -15.0
+fiftyTwoWeekHighChangePercent: -0.048512287
+fiftyTwoWeekLow: 223.4
+fiftyTwoWeekLowChange: 70.80002
+fiftyTwoWeekLowChangePercent: 0.3169204
+fiftyTwoWeekRange: 223.4 - 309.2
+financialCurrency: EUR
+firstTradeDateMilliseconds: 972284400000
+fiveYearAvgDividendYield: 2.7
+floatShares: 60062604
+forwardEps: 24.04172
+forwardPE: 12.237062
+freeCashflow: 4631374848
+fullExchangeName: XETRA
+fullTimeEmployees: 3732
+fulldayChange: -1.5999756
+fulldayChangePercent: -0.5408978
+fulldayPrice: 294.2
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.16610001
+grossProfits: 3785700096
+hasPrePostMarketData: false
+heldPercentInsiders: 0.50200003
+heldPercentInstitutions: 0.29628
+impliedSharesOutstanding: 120597134
+industry: Insurance - Reinsurance
+industryDisp: Insurance - Reinsurance
+industryKey: insurance-reinsurance
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778112000
+lastDividendValue: 12.5
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1026691200
+lastSplitFactor: '3:1'
+longBusinessSummary: Hannover Rück SE, together with its subsidiaries, provides reinsurance
+  products and services in Germany, the United Kingdom, France, Europe, the United
+  States, Asia, Australia, Africa, and internationally. It operates through Property
+  & Casualty Reinsurance; and Life & Health Reinsurance segments. The company provides
+  property and casualty reinsurance solutions for agricultural, livestock, and bloodstock;
+  aviation and space; natural catastrophe; credit, surety, and political risks; cyber;
+  digital; marine and upstream energy; natural catastrophes; advanced and facultative
+  business, insurance-linked securities and structured reinsurance; and parametric
+  solutions. It also offers risk solutions in the areas of critical illness, disability,
+  health, longevity, long term care, and mortality. In addition, the company offers
+  group life, retirement, lifestyle, credit life, and Takaful reinsurance products.
+  Further, the company provides various financial solutions, including new-business
+  financing; monetization of embedded value; reserve and solvency relief; and reinsurance
+  and solvency II businesses. The company was formerly known as Hannover Rückversicherung
+  AG and changed its name to Hannover Rück SE in March 2013. Hannover Rück SE was
+  founded in 1966 and is based in Hanover, Germany. Hannover Rück SE operates as a
+  subsidiary of Talanx AG.
+longName: Hannover Rück SE
+market: de_market
+marketCap: 35479678976
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_882255
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2777299968
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 34852571726
+numberOfAnalystOpinions: 15
+open: 295.2
+operatingCashflow: 6775199744
+operatingMargins: 0.14556
+overallRisk: 4
+payoutRatio: 0.5428
+pegRatio: 5.33
+phone: 49 511 5604 0
+previousClose: 295.8
+priceEpsCurrentYear: 12.618162
+priceHint: 2
+priceToBook: 2.5960274
+priceToSalesTrailing12Months: 1.5566587
+profitMargins: 0.12185001
+quickRatio: 0.163
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.26667
+region: US
+regularMarketChange: -1.5999756
+regularMarketChangePercent: -0.5408978
+regularMarketDayHigh: 296.4
+regularMarketDayLow: 291.6
+regularMarketDayRange: 291.6 - 296.4
+regularMarketOpen: 295.2
+regularMarketPreviousClose: 295.8
+regularMarketPrice: 294.2
+regularMarketTime: 1794411535
+regularMarketVolume: 66452
+returnOnAssets: 0.028469998
+returnOnEquity: 0.21363
+revenueGrowth: 0.022
+revenuePerShare: 189.028
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 6
+sharesOutstanding: 120597134
+shortName: HANNOVER RUECK SE NA O.N.
+sourceInterval: 15
+symbol: HNR1.DE
+targetHighPrice: 330.0
+targetLowPrice: 251.0
+targetMeanPrice: 284.8
+targetMedianPrice: 275.0
+totalCash: 8427299840
+totalCashPerShare: 69.874
+totalDebt: 4145999872
+totalRevenue: 22792200192
+tradeable: false
+trailingAnnualDividendRate: 12.5
+trailingAnnualDividendYield: 0.042258285
+trailingEps: 23.57
+trailingPE: 12.481969
+trailingPegRatio: 5.3324
+triggerable: false
+twoHundredDayAverage: 255.169
+twoHundredDayAverageChange: 39.031006
+twoHundredDayAverageChangePercent: 0.15296139
+typeDisp: Equity
+volume: 66452
+website: https://www.hannover-re.com
+zip: '30625'

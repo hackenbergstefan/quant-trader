@@ -1,0 +1,279 @@
+52WeekChange: 0.29113173
+SandP52WeekChange: 0.097798586
+address1: One Lagoon Drive
+address2: 4th Floor
+allTimeHigh: 1128.68
+allTimeLow: 2.0
+ask: 977.79
+askSize: 1
+auditRisk: 2
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 802390
+averageDailyVolume3Month: 566295
+averageVolume: 566295
+averageVolume10days: 802390
+beta: 0.966
+bid: 1036.69
+bidSize: 1
+boardRisk: 8
+bookValue: 146.856
+city: Redwood City
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles John Meyers
+  title: Executive Chairman
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Adaire Rita Fox-Martin
+  title: President, CEO & Director
+  totalPay: 1237934
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Raouf F. Abdel
+  title: Executive Vice President of Global Operations
+  totalPay: 605523
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Keith D. Taylor
+  title: Special Advisor
+  totalPay: 714498
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Shane Paladin
+  title: Executive VP & Chief Customer and Revenue Officer
+  totalPay: 589560
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Olivier C. Leonetti
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ryan C. Burke
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kurt  Pletcher
+  title: Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. DD  Dasgupta
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Brandi Galvin Morandi J.D.
+  title: Chief People Officer
+  totalPay: 629870
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions:
+- header: Dividend
+  message: EQIX announced a cash dividend of $5.16 with an ex-date of Nov. 18, 2026
+  meta:
+    amount: '5.16'
+    dateEpochMs: 1794978000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 1066.89
+currentRatio: 1.04
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 1079.125
+dayLow: 1062.1539
+debtToEquity: 181.481
+displayName: Equinix
+dividendDate: 1797379200
+dividendRate: 20.64
+dividendYield: 1.97
+earningsCallTimestampEnd: 1793223000
+earningsCallTimestampStart: 1793223000
+earningsGrowth: 0.294
+earningsQuarterlyGrowth: 0.307
+earningsTimestamp: 1793217600
+earningsTimestampEnd: 1793217600
+earningsTimestampStart: 1793217600
+ebitda: 4689999872
+ebitdaMargins: 0.46221
+enterpriseToEbitda: 27.293
+enterpriseToRevenue: 12.615
+enterpriseValue: 128002736128
+epsCurrentYear: 18.73667
+epsForward: 20.695
+epsTrailingTwelveMonths: 16.65
+esgPopulated: false
+exDividendDate: 1794960000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 650 598 6900
+fiftyDayAverage: 1016.982
+fiftyDayAverageChange: 49.90802
+fiftyDayAverageChangePercent: 0.049074635
+fiftyTwoWeekChangePercent: 29.113174
+fiftyTwoWeekHigh: 1128.68
+fiftyTwoWeekHighChange: -61.79004
+fiftyTwoWeekHighChangePercent: -0.0547454
+fiftyTwoWeekLow: 720.62
+fiftyTwoWeekLowChange: 346.27002
+fiftyTwoWeekLowChangePercent: 0.48051682
+fiftyTwoWeekRange: 720.62 - 1128.68
+financialCurrency: USD
+firstTradeDateMilliseconds: 966000600000
+fiveYearAvgDividendYield: 1.88
+floatShares: 98589395
+forwardEps: 20.695
+forwardPE: 51.553032
+freeCashflow: 3177874944
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 13716
+fulldayChange: 16.890015
+fulldayChangePercent: 1.6085728
+fulldayPrice: 1066.89
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.51996
+grossProfits: 5276000256
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00271
+heldPercentInstitutions: 1.0129399
+impliedSharesOutstanding: 98988318
+industry: REIT - Specialty
+industryDisp: REIT - Specialty
+industryKey: reit-specialty
+irWebsite: http://investor.equinix.com/phoenix.zhtml?c=122662&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787097600
+lastDividendValue: 5.16
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1041292800
+lastSplitFactor: '1:32'
+longBusinessSummary: Equinix, Inc. has its digital infrastructure, data center footprint
+  and interconnected ecosystems empower innovations that enhance work, life and planet.
+  The firm connects economies, countries, organizations and communities, delivering
+  seamless digital experiences and cutting-edge AI quickly, efficiently and everywhere.
+  Equinix, Inc. was established on June 22, 1998 and incorporated in Delaware. Equinix,
+  Inc. is based in Redwood City, United States.
+longName: Equinix, Inc.
+market: us_market
+marketCap: 105609650176
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_28202
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1648000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 103937733900
+numberOfAnalystOpinions: 32
+open: 1065.75
+operatingCashflow: 4171000064
+operatingMargins: 0.24539
+overallRisk: 3
+payoutRatio: 1.2114
+pegRatio: 3.13
+phone: 650 598 6000
+prevName: Equinix, Inc. (REIT)
+previousClose: 1050.0
+priceEpsCurrentYear: 56.941284
+priceHint: 2
+priceToBook: 7.2648716
+priceToSalesTrailing12Months: 10.407968
+profitMargins: 0.16240999
+quickRatio: 0.816
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.45714
+region: US
+regularMarketChange: 16.890015
+regularMarketChangePercent: 1.6085728
+regularMarketDayHigh: 1079.125
+regularMarketDayLow: 1062.1539
+regularMarketDayRange: 1062.1539 - 1079.125
+regularMarketOpen: 1065.75
+regularMarketPreviousClose: 1050.0
+regularMarketPrice: 1066.89
+regularMarketTime: 1794413732
+regularMarketVolume: 131835
+returnOnAssets: 0.037720002
+returnOnEquity: 0.1145
+revenueGrowth: 0.104
+revenuePerShare: 103.009
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 2
+sharesOutstanding: 98988318
+sharesPercentSharesOut: 0.0179
+sharesShort: 1773799
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1574961
+shortName: Equinix, Inc.
+shortPercentOfFloat: 0.020499999
+shortRatio: 3.2
+sourceInterval: 15
+state: CA
+symbol: EQIX
+targetHighPrice: 1380.0
+targetLowPrice: 1100.0
+targetMeanPrice: 1234.875
+targetMedianPrice: 1230.0
+totalCash: 2361999872
+totalCashPerShare: 23.861
+totalDebt: 26410999808
+totalRevenue: 10147000320
+tradeable: false
+trailingAnnualDividendRate: 20.17
+trailingAnnualDividendYield: 0.019209525
+trailingEps: 16.65
+trailingPE: 64.07748
+trailingPegRatio: 3.129
+triggerable: true
+twoHundredDayAverage: 1018.7499
+twoHundredDayAverageChange: 48.140137
+twoHundredDayAverageChangePercent: 0.047254127
+typeDisp: Equity
+volume: 131835
+website: https://www.equinix.com
+zip: 94065-1562

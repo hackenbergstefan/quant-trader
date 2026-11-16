@@ -1,0 +1,255 @@
+52WeekChange: 0.07852888
+SandP52WeekChange: 0.097798586
+address1: Avenida de la Gran Vía de Hortaleza, 3
+allTimeHigh: 285.0
+allTimeLow: 29.46
+ask: 218.6
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 3.2 - Hold
+averageDailyVolume10Day: 71677
+averageDailyVolume3Month: 71624
+averageVolume: 71624
+averageVolume10days: 71677
+beta: 0.794
+bid: 218.4
+bidSize: 0
+boardRisk: 4
+bookValue: 88.827
+city: Madrid
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jose Manuel Entrecanales Domecq
+  title: Executive Chairman, CEO & MD
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juan  Ignacio Entrecanales Franco
+  title: Executive Vice Chairman & MD
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jose Entrecanales Carrion
+  title: Chief Financial & Sustainability Officer
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jose Angel Tejero Santos
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ada Tutor Cosin
+  title: Director of Investment Analysis
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Federico Garcia Guillen
+  title: Head of Technology, Innovation & Artificial Intelligence
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Pepa Chapa Alos
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jose Julio Figueroa Gomez De Salazar
+  title: Chief Legal Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Alberte Enrique Gonzalez Patino
+  title: Communications Director
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juan Antonio Muro-Lara Girod
+  title: Strategy & Corporate Development Director
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: Spain
+cryptoTradeable: false
+currency: EUR
+currentPrice: 219.0
+currentRatio: 1.143
+customPriceAlertConfidence: LOW
+dayHigh: 220.8
+dayLow: 216.6
+debtToEquity: 226.024
+dividendRate: 5.75
+dividendYield: 2.65
+earningsCallTimestampEnd: 1785511800
+earningsCallTimestampStart: 1785511800
+earningsGrowth: -0.841
+earningsQuarterlyGrowth: -0.842
+earningsTimestampEnd: 1785425400
+earningsTimestampStart: 1785425400
+ebitda: 1424999936
+ebitdaMargins: 0.06508
+enterpriseToEbitda: 15.451
+enterpriseToRevenue: 1.006
+enterpriseValue: 22017370112
+epsCurrentYear: 12.71916
+epsForward: 10.47196
+epsTrailingTwelveMonths: 6.62
+esgPopulated: false
+exDividendDate: 1783382400
+exchange: MCE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Madrid
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 210.25
+fiftyDayAverageChange: 8.75
+fiftyDayAverageChangePercent: 0.04161712
+fiftyTwoWeekChangePercent: 7.852888
+fiftyTwoWeekHigh: 285.0
+fiftyTwoWeekHighChange: -66.0
+fiftyTwoWeekHighChangePercent: -0.23157895
+fiftyTwoWeekLow: 165.0
+fiftyTwoWeekLowChange: 54.0
+fiftyTwoWeekLowChangePercent: 0.3272727
+fiftyTwoWeekRange: 165.0 - 285.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 2.86
+floatShares: 22567210
+forwardEps: 10.47196
+forwardPE: 20.91299
+freeCashflow: -722750016
+fullExchangeName: MCE
+fullTimeEmployees: 69659
+fulldayChange: 2.0
+fulldayChangePercent: 0.921659
+fulldayPrice: 219.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.69765997
+grossProfits: 15276000256
+hasPrePostMarketData: false
+heldPercentInsiders: 0.54045
+heldPercentInstitutions: 0.16274999
+impliedSharesOutstanding: 53204475
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1783382400
+lastDividendValue: 5.748671
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Acciona, S.A., together with its subsidiaries, provides energy
+  and infrastructure solutions in Spain and internationally. It develops, constructs,
+  operates, and maintains wind, solar photovoltaic, hydropower, thermal solar, and
+  biomass plants, as well as offers energy storage, renewable energy supply, energy
+  efficiency, self-consumption, green hydrogen, and electric mobility solutions; and
+  designs, develops, manufactures, and distributes wind turbines. The company also
+  engages in the construction and development of civil engineering infrastructure
+  projects, including roads, highways and motorways, bridges, tunnels, railways and
+  railway services, and metros and trams, as well as ports and water channels, airports
+  and airport services, freight forwarding, data center, and substation and transmission
+  lines; water solutions, such as waste water treatment and reuse, desalination, drinking
+  water, integral water cycle, and water for agriculture; and social services for
+  healthcare, university campuses, and ecosystem restoration. In addition, it is involved
+  in the provision of sustainable cities solutions comprising efficient building,
+  circular economy, urban ecosystems, museums and universal exhibitions, immersive
+  experiences, and event design and management; development of housing projects, hotels
+  and holiday resorts, fit outs, offices, and industrial properties; and fund management
+  and stock brokerage. The company was incorporated in 1916 and is headquartered in
+  Madrid, Spain.
+longName: Acciona, S.A.
+market: es_market
+marketCap: 11651780608
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_876153
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 360000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 11545371075
+numberOfAnalystOpinions: 10
+open: 219.8
+operatingCashflow: 1763000064
+operatingMargins: 0.02905
+overallRisk: 5
+payoutRatio: 1.6666
+pegRatio: 1.32
+phone: 34 91 663 28 50
+previousClose: 217.0
+priceEpsCurrentYear: 17.218119
+priceHint: 2
+priceToBook: 2.4654665
+priceToSalesTrailing12Months: 0.532142
+profitMargins: 0.01644
+quickRatio: 0.838
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.2
+region: US
+regularMarketChange: 2.0
+regularMarketChangePercent: 0.921659
+regularMarketDayHigh: 220.8
+regularMarketDayLow: 216.6
+regularMarketDayRange: 216.6 - 220.8
+regularMarketOpen: 219.8
+regularMarketPreviousClose: 217.0
+regularMarketPrice: 219.0
+regularMarketTime: 1794411566
+regularMarketVolume: 40950
+returnOnAssets: 0.011109999
+returnOnEquity: 0.10446
+revenueGrowth: 0.04
+revenuePerShare: 404.313
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 3
+sharesOutstanding: 53204475
+shortName: ACCIONA, S.A.
+sourceInterval: 15
+symbol: ANA.MC
+targetHighPrice: 266.0
+targetLowPrice: 150.0
+targetMeanPrice: 218.31
+targetMedianPrice: 225.0
+totalCash: 5824000000
+totalCashPerShare: 109.464
+totalDebt: 14574000128
+totalRevenue: 21895999488
+tradeable: false
+trailingAnnualDividendRate: 5.65
+trailingAnnualDividendYield: 0.026036866
+trailingEps: 6.62
+trailingPE: 33.08157
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 226.834
+twoHundredDayAverageChange: -7.8339996
+twoHundredDayAverageChangePercent: -0.03453627
+typeDisp: Equity
+volume: 40950
+website: https://www.acciona.com
+zip: '28033'

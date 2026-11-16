@@ -1,0 +1,254 @@
+52WeekChange: 0.024927855
+SandP52WeekChange: 0.097798586
+address1: 751 Lakefront Commons
+allTimeHigh: 271.64
+allTimeLow: 21.119324
+ask: 262.62
+askSize: 100
+auditRisk: 6
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1716460
+averageDailyVolume3Month: 1457982
+averageVolume: 1457982
+averageVolume10days: 1716460
+beta: 1.107
+bid: 262.25
+bidSize: 100
+boardRisk: 3
+bookValue: 34.422
+city: Newport News
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin M. Murphy
+  title: CEO, President & Director
+  totalPay: 4401667
+  unexercisedValue: 219534
+  yearBorn: 1970
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William  Brundage
+  title: CFO, Treasurer & Director
+  totalPay: 1937222
+  unexercisedValue: 65790
+  yearBorn: 1976
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ian Thomas Graham
+  title: Chief Legal Officer & Corporate Secretary
+  totalPay: 1418914
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard Paul Winckler
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Kennedy
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Todd  Young
+  title: Senior Vice President of Sales
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Keith D. Vander Vennet
+  title: Senior Vice President of Field Operations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: FERG announced a cash dividend of $0.89 with an ex-date of Nov. 20, 2026
+  meta:
+    amount: '0.89'
+    dateEpochMs: 1795150800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 262.72
+currentRatio: 1.742
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 263.75
+dayLow: 259.51
+debtToEquity: 122.886
+displayName: Ferguson Enterprises
+dividendDate: 1799366400
+dividendRate: 3.56
+dividendYield: 1.37
+earningsCallTimestampEnd: 1794231000
+earningsCallTimestampStart: 1794231000
+earningsGrowth: -0.049
+earningsQuarterlyGrowth: -0.063
+earningsTimestamp: 1794231000
+earningsTimestampEnd: 1794231000
+earningsTimestampStart: 1794231000
+ebitda: 3178599936
+ebitdaMargins: 0.098629996
+enterpriseToEbitda: 18.23
+enterpriseToRevenue: 1.798
+enterpriseValue: 57947193344
+epsCurrentYear: 11.52302
+epsForward: 12.69329
+epsTrailingTwelveMonths: 10.57
+esgPopulated: false
+exDividendDate: 1795132800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 226.72
+fiftyDayAverageChange: 36.0
+fiftyDayAverageChangePercent: 0.15878616
+fiftyTwoWeekChangePercent: 2.4927855
+fiftyTwoWeekHigh: 271.64
+fiftyTwoWeekHighChange: -8.920013
+fiftyTwoWeekHighChangePercent: -0.032837626
+fiftyTwoWeekLow: 212.13
+fiftyTwoWeekLowChange: 50.589996
+fiftyTwoWeekLowChangePercent: 0.23848581
+fiftyTwoWeekRange: 212.13 - 271.64
+financialCurrency: USD
+firstTradeDateMilliseconds: 1262701800000
+fiveYearAvgDividendYield: 1.73
+floatShares: 193166417
+forwardEps: 12.69329
+forwardPE: 20.69755
+fullExchangeName: NYSE
+fullTimeEmployees: 36000
+fulldayChange: 3.2799988
+fulldayChangePercent: 1.264261
+fulldayPrice: 262.72
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.30521
+grossProfits: 9836000256
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0017
+heldPercentInstitutions: 1.0407599
+impliedSharesOutstanding: 193648602
+industry: Industrial Distribution
+industryDisp: Industrial Distribution
+industryKey: industrial-distribution
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787270400
+lastDividendValue: 0.89
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1528675200
+lastSplitFactor: 947:1000
+longBusinessSummary: Ferguson Enterprises Inc. distributes essential water and air
+  solutions to specialized professional in the United States and Canada. The company
+  provides various products and services, including plumbing; pipe, valves, and fittings;
+  heating, ventilation, and air conditioning; appliances; lighting; and water and
+  wastewater solutions to residential and non-residential customers. It also supplies
+  specialized water and wastewater treatment products to residential, commercial,
+  and infrastructure contractors, as well as supplies pipe, valves, and fittings solutions
+  to industrial customers. In addition, it offers customized solutions, such as virtual
+  design, fabrication, valve actuation, pre-assembly, kitting, installation, and project
+  management services, as well as after-sales support that comprises warranty, credit,
+  project-based billing, returns and maintenance, and repair and operations support.
+  The company sells its products through a network of distribution centers, branches,
+  counter service and sales associates, showroom consultants, and e-commerce channels.
+  Ferguson Enterprises Inc. was founded in 1953 and is headquartered in Newport News,
+  Virginia.
+longName: Ferguson Enterprises Inc.
+market: us_market
+marketCap: 50875363328
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_875151
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1947399936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 50189372898
+numberOfAnalystOpinions: 22
+open: 258.33
+operatingCashflow: 1649600000
+operatingMargins: 0.0861
+overallRisk: 1
+payoutRatio: 0.3357
+pegRatio: 1.59
+phone: 757 874 7795
+prevName: Ferguson plc
+previousClose: 259.44
+priceEpsCurrentYear: 22.79958
+priceHint: 2
+priceToBook: 7.632328
+priceToSalesTrailing12Months: 1.5786467
+profitMargins: 0.06043
+quickRatio: 0.749
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.79167
+region: US
+regularMarketChange: 3.2799988
+regularMarketChangePercent: 1.264261
+regularMarketDayHigh: 263.75
+regularMarketDayLow: 259.51
+regularMarketDayRange: 259.51 - 263.75
+regularMarketOpen: 258.33
+regularMarketPreviousClose: 259.44
+regularMarketPrice: 262.72
+regularMarketTime: 1794413700
+regularMarketVolume: 238404
+revenueGrowth: 0.095
+revenuePerShare: 166.807
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 2
+sharesOutstanding: 193648602
+sharesPercentSharesOut: 0.0315
+sharesShort: 6093774
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7035895
+shortName: Ferguson Enterprises Inc.
+shortPercentOfFloat: 0.035099998
+shortRatio: 4.42
+sourceInterval: 15
+state: VA
+symbol: FERG
+targetHighPrice: 325.0
+targetLowPrice: 235.0
+targetMeanPrice: 290.0909
+targetMedianPrice: 295.5
+totalCash: 476000000
+totalCashPerShare: 2.458
+totalDebt: 8183000064
+totalRevenue: 32227201024
+tradeable: false
+trailingAnnualDividendRate: 4.308
+trailingAnnualDividendYield: 0.016604995
+trailingEps: 10.57
+trailingPE: 24.855251
+trailingPegRatio: 1.5882
+triggerable: true
+twoHundredDayAverage: 237.3259
+twoHundredDayAverageChange: 25.394104
+twoHundredDayAverageChangePercent: 0.107000984
+typeDisp: Equity
+volume: 238404
+website: https://www.corporate.ferguson.com
+zip: '23606'

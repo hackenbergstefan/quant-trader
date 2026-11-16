@@ -1,0 +1,264 @@
+52WeekChange: 0.22010028
+SandP52WeekChange: 0.097798586
+address1: 1750 Yankee Doodle Road
+allTimeHigh: 96.05
+allTimeLow: 47.16
+ask: 88.87
+askSize: 300
+auditRisk: 10
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 1572370
+averageDailyVolume3Month: 1070159
+averageVolume: 1070159
+averageVolume10days: 1572370
+beta: 0.748
+bid: 88.72
+bidSize: 100
+boardRisk: 3
+bookValue: 28.272
+city: Eagan
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bryan C. Hanson
+  title: CEO & Director
+  totalPay: 4930958
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wayde D. McMillan
+  title: Executive VP & CFO
+  totalPay: 1969895
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amy  Landucci
+  title: Chief Information & Digital Officer
+  totalPay: 1655567
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marcela A. Kirberger
+  title: Chief Corporate & Legal Affairs Officer & Corporate Secretary
+  totalPay: 1601132
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Heather L. Knight
+  title: Chief Commercial Officer
+  totalPay: 2264372
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Neil C. Zieselman
+  title: Senior VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amy  Wakeham
+  title: Senior Vice President of Investor Relations & External Finance Communications
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rachel H. Ellingson
+  title: Chief Strategy & Corporate Development Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tammy L. Gomez
+  title: Chief Human Resources Officer
+  totalPay: 1119093
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 88.86
+currentRatio: 1.033
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 90.26
+dayLow: 88.46
+debtToEquity: 110.177
+displayName: Solventum
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793914200
+earningsCallTimestampStart: 1793914200
+earningsTimestamp: 1793912400
+earningsTimestampEnd: 1793912400
+earningsTimestampStart: 1793912400
+ebitda: 1003000000
+ebitdaMargins: 0.12287
+enterpriseToEbitda: 20.073
+enterpriseToRevenue: 2.466
+enterpriseValue: 20133120000
+epsCurrentYear: 7.2309
+epsForward: 7.46813
+epsTrailingTwelveMonths: 0.89
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 87.692
+fiftyDayAverageChange: 1.1679993
+fiftyDayAverageChangePercent: 0.013319337
+fiftyTwoWeekChangePercent: 22.010029
+fiftyTwoWeekHigh: 94.16
+fiftyTwoWeekHighChange: -5.300003
+fiftyTwoWeekHighChangePercent: -0.0562872
+fiftyTwoWeekLow: 62.38
+fiftyTwoWeekLowChange: 26.48
+fiftyTwoWeekLowChangePercent: 0.424495
+fiftyTwoWeekRange: 62.38 - 94.16
+financialCurrency: USD
+firstTradeDateMilliseconds: 1711459800000
+floatShares: 143606267
+forwardEps: 7.46813
+forwardPE: 11.898561
+freeCashflow: 180124992
+fullExchangeName: NYSE
+fullTimeEmployees: 20584
+fulldayChange: -1.2200012
+fulldayChangePercent: -1.3543531
+fulldayPrice: 88.86
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.53828
+grossProfits: 4393999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.1538
+heldPercentInstitutions: 0.76129997
+impliedSharesOutstanding: 169956897
+industry: Medical Instruments & Supplies
+industryDisp: Medical Instruments & Supplies
+industryKey: medical-instruments-supplies
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Solventum Corporation, a healthcare company, develops, manufactures,
+  and commercializes a portfolio of solutions to address critical customer and patient
+  needs in the United States and internationally. It operates through three segments:
+  Medsurg, Dental Solutions, and Health Information Systems. The Medsurg segment offers
+  solutions, such as negative pressure wound therapy, advanced wound dressings, advanced
+  skin care, synthetic tissue matrices, I.V. site management, sterilization assurance,
+  temperature management, surgical supplies, medical tapes and wraps, stethoscopes,
+  medical electrodes, and medical technologies for original equipment manufacturers.
+  The Dental Solutions segment provides dental and orthodontic products, including
+  brackets, aligners, restorative cements, and bonding agents to span the life of
+  the tooth, and products for preventative dental care, direct and indirect restoration,
+  and orthodontic needs. The Health Information Systems segment offers healthcare
+  systems with software solutions comprising computer-assisted physician documentation,
+  direct-to-bill and coding automation, classification methodologies, speech recognition,
+  and data visualization platforms. The company sells its products and services through
+  direct-to-consumer, distribution, key account management, inside sales, and e-commerce.
+  Solventum Corporation was incorporated in 2023 and is headquartered in Eagan, Minnesota.'
+longName: Solventum Corporation
+market: us_market
+marketCap: 15102369792
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1871945009
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 156000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 15309717281
+numberOfAnalystOpinions: 13
+open: 89.3
+operatingCashflow: 310000000
+operatingMargins: 0.05905
+overallRisk: 7
+payoutRatio: 0.0
+pegRatio: 1.22
+phone: (651) 733-1110
+previousClose: 90.08
+priceEpsCurrentYear: 12.288927
+priceHint: 2
+priceToBook: 3.1430392
+priceToSalesTrailing12Months: 1.8501005
+profitMargins: 0.01911
+quickRatio: 0.515
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.2
+region: US
+regularMarketChange: -1.2200012
+regularMarketChangePercent: -1.3543531
+regularMarketDayHigh: 90.26
+regularMarketDayLow: 88.46
+regularMarketDayRange: 88.46 - 90.26
+regularMarketOpen: 89.3
+regularMarketPreviousClose: 90.08
+regularMarketPrice: 88.86
+regularMarketTime: 1794413698
+regularMarketVolume: 106198
+returnOnAssets: 0.02141
+returnOnEquity: 0.03187
+revenueGrowth: -0.07
+revenuePerShare: 47.171
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 6
+sharesOutstanding: 169956897
+sharesPercentSharesOut: 0.0297
+sharesShort: 5047939
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4894684
+shortName: Solventum Corporation
+shortPercentOfFloat: 0.035
+shortRatio: 4.77
+sourceInterval: 15
+state: MN
+symbol: SOLV
+targetHighPrice: 115.0
+targetLowPrice: 71.0
+targetMeanPrice: 97.69231
+targetMedianPrice: 100.0
+totalCash: 451000000
+totalCashPerShare: 2.657
+totalDebt: 5294000128
+totalRevenue: 8162999808
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 0.89
+trailingPE: 99.8427
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 78.66575
+twoHundredDayAverageChange: 10.194252
+twoHundredDayAverageChangePercent: 0.12958947
+typeDisp: Equity
+volume: 106198
+website: https://www.solventum.com
+zip: '55121'

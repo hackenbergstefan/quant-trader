@@ -1,0 +1,273 @@
+52WeekChange: -0.37081712
+SandP52WeekChange: 0.097798586
+address1: 400 Washington Blvd.
+allTimeHigh: 825.62
+allTimeLow: 29.1
+ask: 139.85
+askSize: 1
+auditRisk: 10
+averageAnalystRating: 3.0 - Hold
+averageDailyVolume10Day: 3248530
+averageDailyVolume3Month: 2988676
+averageVolume: 2988676
+averageVolume10days: 3248530
+beta: 0.731
+bid: 127.16
+bidSize: 1
+boardRisk: 7
+bookValue: 95.96
+city: Stamford
+companyOfficers:
+- age: 49
+  exercisedValue: 5864083
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher L. Winfrey
+  title: President, CEO & Director
+  totalPay: 6466193
+  unexercisedValue: 598712
+  yearBorn: 1976
+- age: 47
+  exercisedValue: 1196229
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard J. DiGeronimo
+  title: President of Product & Technology
+  totalPay: 4699591
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jamal H. Haughton J.D.
+  title: Executive VP, General Counsel & Corporate Secretary
+  totalPay: 1864019
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. R. Adam Ray
+  title: Advisor
+  totalPay: 1805456
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin D. Howard
+  title: EVP, Interim CFO, Chief Accounting Officer & Controller
+  totalPay: 1043631
+  unexercisedValue: 2852292
+  yearBorn: 1970
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nicholas Simon Jeffery
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey B. Murphy
+  title: Senior Vice President of Corporate Finance & Development
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jacob H. Perlman
+  title: Executive VP and Chief Technology & Information Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Anninger
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cameron R. Blanchard
+  title: Executive Vice President of Communications
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 133.01
+currentRatio: 0.374
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 135.0
+dayLow: 130.25
+debtToEquity: 368.638
+displayName: Charter Communications
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793971800
+earningsCallTimestampStart: 1793971800
+earningsTimestamp: 1793971800
+earningsTimestampEnd: 1801229400
+earningsTimestampStart: 1801229400
+ebitda: 22237999104
+ebitdaMargins: 0.39963
+enterpriseToEbitda: 6.455
+enterpriseToRevenue: 2.579
+enterpriseValue: 143535734784
+epsCurrentYear: 34.82889
+epsForward: 38.95625
+epsTrailingTwelveMonths: 10.64
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 119.9184
+fiftyDayAverageChange: 13.091591
+fiftyDayAverageChangePercent: 0.109170824
+fiftyTwoWeekChangePercent: -37.08171
+fiftyTwoWeekHigh: 254.11
+fiftyTwoWeekHighChange: -121.100006
+fiftyTwoWeekHighChangePercent: -0.4765653
+fiftyTwoWeekLow: 101.11
+fiftyTwoWeekLowChange: 31.899994
+fiftyTwoWeekLowChangePercent: 0.3154979
+fiftyTwoWeekRange: 101.11 - 254.11
+financialCurrency: USD
+firstTradeDateMilliseconds: 1262701800000
+floatShares: 110567357
+forwardEps: 38.95625
+forwardPE: 3.4143429
+freeCashflow: 3231000064
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 91900
+fulldayChange: -1.050003
+fulldayChangePercent: -0.7832337
+fulldayPrice: 133.01
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.55084
+grossProfits: 30652000256
+hasPrePostMarketData: true
+heldPercentInsiders: 0.03101
+heldPercentInstitutions: 0.94467
+impliedSharesOutstanding: 179051549
+industry: Telecom Services
+industryDisp: Telecom Services
+industryKey: telecom-services
+isEarningsDateEstimate: true
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Charter Communications, Inc. operates as a broadband connectivity
+  company in the United States. The company offers subscription-based internet, mobile,
+  video, and voice services; broadband connectivity services, including fixed internet,
+  WiFi, and mobile; Spectrum internet products; advanced WiFi services; and in-home
+  WiFi, which provides customers with high performance wireless routers and managed
+  WiFi services to enhance their wireless internet experience. It also offers wireline
+  voice communications services using voice over internet protocol technology; Call
+  Guard, an advanced caller ID and robocall blocking solution; video programming and
+  video services, including access to an interactive programming guide with parental
+  controls, video on demand and pay-per-view services; and broadband communications
+  solutions, such as internet access, data networking, fiber connectivity, video entertainment,
+  and business telephone services. In addition, the company provides advertising services
+  on cable television networks, various streaming services, and advertising platforms
+  for local, regional and national businesses. Further, it offers production and technical
+  services for regional sports networks; owns and manages local news channels, including
+  Spectrum News NY1® and Spectrum News SoCal; and delivers broadband connectivity
+  solutions to apartments, single-family gated communities, off-campus student housing,
+  senior residences, and RV parks. The company was founded in 1993 and is headquartered
+  in Stamford, Connecticut.
+longName: Charter Communications, Inc.
+market: us_market
+marketCap: 23815645184
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_19609
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1390000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 15343733001
+numberOfAnalystOpinions: 18
+open: 133.11
+operatingCashflow: 16017000448
+operatingMargins: 0.23389
+overallRisk: 10
+payoutRatio: 0.0
+pegRatio: 0.68
+phone: 203 905 7801
+previousClose: 134.06
+priceEpsCurrentYear: 3.8189557
+priceHint: 2
+priceToBook: 1.3860984
+priceToSalesTrailing12Months: 0.42798486
+profitMargins: 0.02498
+quickRatio: 0.299
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.0
+region: US
+regularMarketChange: -1.050003
+regularMarketChangePercent: -0.7832337
+regularMarketDayHigh: 135.0
+regularMarketDayLow: 130.25
+regularMarketDayRange: 130.25 - 135.0
+regularMarketOpen: 133.11
+regularMarketPreviousClose: 134.06
+regularMarketPrice: 133.01
+regularMarketTime: 1794413730
+regularMarketVolume: 715231
+returnOnAssets: 0.049099997
+returnOnEquity: 0.07019
+revenueGrowth: 0.091
+revenuePerShare: 454.618
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 6
+sharesOutstanding: 114454220
+sharesPercentSharesOut: 0.15609999
+sharesShort: 17865755
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 16505538
+shortName: Charter Communications, Inc.
+shortPercentOfFloat: 0.4495
+shortRatio: 6.46
+sourceInterval: 15
+state: CT
+symbol: CHTR
+targetHighPrice: 380.0
+targetLowPrice: 68.0
+targetMeanPrice: 170.44444
+targetMedianPrice: 145.0
+totalCash: 573000000
+totalCashPerShare: 5.006
+totalDebt: 109927997440
+totalRevenue: 55645999104
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 10.64
+trailingPE: 12.500939
+trailingPegRatio: 0.7521
+triggerable: true
+twoHundredDayAverage: 162.4649
+twoHundredDayAverageChange: -29.45491
+twoHundredDayAverageChangePercent: -0.18130015
+typeDisp: Equity
+volume: 715231
+website: https://corporate.charter.com
+zip: 06902

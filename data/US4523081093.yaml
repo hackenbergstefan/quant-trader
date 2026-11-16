@@ -1,0 +1,288 @@
+52WeekChange: 0.17365444
+SandP52WeekChange: 0.097798586
+address1: 155 Harlem Avenue
+allTimeHigh: 303.16
+allTimeLow: 0.476563
+ask: 287.31
+askSize: 120
+auditRisk: 7
+averageAnalystRating: 3.3 - Hold
+averageDailyVolume10Day: 1445520
+averageDailyVolume3Month: 1287145
+averageVolume: 1287145
+averageVolume10days: 1445520
+beta: 0.943
+bid: 287.15
+bidSize: 80
+boardRisk: 6
+bookValue: 11.052
+city: Glenview
+companyOfficers:
+- age: 61
+  exercisedValue: 7091843
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher A. O'Herlihy
+  title: President, CEO & Director
+  totalPay: 4455265
+  unexercisedValue: 13397937
+  yearBorn: 1964
+- age: 56
+  exercisedValue: 5268843
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael M. Larsen
+  title: Senior VP & CFO
+  totalPay: 3210588
+  unexercisedValue: 5226915
+  yearBorn: 1969
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mary Katherine Lawler
+  title: Senior VP & Chief Human Resources Officer
+  totalPay: 1711998
+  unexercisedValue: 5758431
+  yearBorn: 1966
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kenneth T. Escoe
+  title: Executive Vice President of Specialty Products
+  totalPay: 1527920
+  unexercisedValue: 1540860
+  yearBorn: 1976
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Axel R. J. Beck
+  title: Executive Vice President of Food Equipment
+  totalPay: 1623227
+  unexercisedValue: 2508439
+  yearBorn: 1966
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matteo C. Pigozzo
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Erin  Linnihan
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher P. Rauch
+  title: Senior VP, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Randall J. Scheuneman
+  title: Advisor
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sharon A. Szafranski
+  title: Executive Vice President of Welding
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 287.655
+currentRatio: 1.294
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 289.11
+dayLow: 286.17
+debtToEquity: 298.281
+displayName: Illinois Tool Works
+dividendDate: 1799971200
+dividendRate: 6.88
+dividendYield: 2.39
+earningsCallTimestampEnd: 1793109600
+earningsCallTimestampStart: 1793109600
+earningsGrowth: 0.068
+earningsQuarterlyGrowth: 0.041
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1793104200
+earningsTimestampStart: 1793104200
+ebitda: 4871000064
+ebitdaMargins: 0.29262
+enterpriseToEbitda: 18.565
+enterpriseToRevenue: 5.432
+enterpriseValue: 90427809792
+epsCurrentYear: 11.498
+epsForward: 12.34936
+epsTrailingTwelveMonths: 11.21
+esgPopulated: false
+exDividendDate: 1798675200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 272.2084
+fiftyDayAverageChange: 15.446594
+fiftyDayAverageChangePercent: 0.05674547
+fiftyTwoWeekChangePercent: 17.365444
+fiftyTwoWeekHigh: 303.16
+fiftyTwoWeekHighChange: -15.505005
+fiftyTwoWeekHighChangePercent: -0.051144626
+fiftyTwoWeekLow: 238.82
+fiftyTwoWeekLowChange: 48.83499
+fiftyTwoWeekLowChangePercent: 0.2044845
+fiftyTwoWeekRange: 238.82 - 303.16
+financialCurrency: USD
+firstTradeDateMilliseconds: 100881000000
+fiveYearAvgDividendYield: 2.27
+floatShares: 257135634
+forwardEps: 12.34936
+forwardPE: 23.29311
+freeCashflow: 2306625024
+fullExchangeName: NYSE
+fullTimeEmployees: 43000
+fulldayChange: -0.394989
+fulldayChangePercent: -0.13712516
+fulldayPrice: 287.655
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.44317
+grossProfits: 7376999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00374
+heldPercentInstitutions: 0.87284
+impliedSharesOutstanding: 284200000
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+irWebsite: http://investor.itw.com/phoenix.zhtml?c=71064&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 1.72
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1148601600
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Illinois Tool Works Inc. provides industrial products and equipment
+  in North America, Europe, the Middle East, Africa, the Asia Pacific, and South America.
+  It operates through seven segments: Automotive OEM; Food Equipment; Test & Measurement
+  and Electronics; Welding; Polymers & Fluids; Construction Products; and Specialty
+  Products. The Automotive OEM segment offers plastic and metal components, fasteners,
+  and assemblies for automobiles, light trucks, and other industrial uses. The Food
+  Equipment segment provides warewashing, cooking, refrigeration, and food processing
+  equipment; kitchen exhaust, ventilation, and pollution control systems; and food
+  equipment maintenance and repair services. The Test & Measurement and Electronics
+  segment produce and sells test and measurement; and electronic manufacturing and
+  maintenance, repair, and operations solutions. The Welding segment produces arc
+  welding equipment, and metal arc welding consumables and related accessories. The
+  Polymers & Fluids segment produces adhesives, sealants, lubrication and cutting
+  fluids, and fluids and polymers for auto aftermarket maintenance and appearance.
+  The Construction Products segment offers engineered fastening systems and solutions
+  for the residential construction, renovation/remodel, and commercial construction
+  markets. The Specialty Products segment provides beverage packaging equipment and
+  consumables, product coding and marking equipment and consumables, and appliance
+  components and fasteners. The company serves automotive OEM and aftermarket, commercial
+  food equipment, construction, general industrial, industrial capital goods, consumer
+  durables, and other markets, as well as MRO markets. It distributes its products
+  directly to industrial manufacturers, as well as through independent distributors.
+  Illinois Tool Works Inc. was founded in 1912 and is based in Glenview, Illinois.'
+longName: Illinois Tool Works Inc.
+market: us_market
+marketCap: 81751547904
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_280561
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3228000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 81863810000
+numberOfAnalystOpinions: 14
+open: 287.42
+operatingCashflow: 3262000128
+operatingMargins: 0.26859
+overallRisk: 4
+payoutRatio: 0.5843
+pegRatio: 2.71
+phone: 847 724 7500
+previousClose: 288.05
+priceEpsCurrentYear: 25.017828
+priceHint: 2
+priceToBook: 26.027416
+priceToSalesTrailing12Months: 4.911183
+profitMargins: 0.19392
+quickRatio: 0.848
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.3125
+region: US
+regularMarketChange: -0.394989
+regularMarketChangePercent: -0.13712516
+regularMarketDayHigh: 289.11
+regularMarketDayLow: 286.17
+regularMarketDayRange: 286.17 - 289.11
+regularMarketOpen: 287.42
+regularMarketPreviousClose: 288.05
+regularMarketPrice: 287.655
+regularMarketTime: 1794413705
+regularMarketVolume: 125185
+returnOnAssets: 0.17127001
+returnOnEquity: 1.01653
+revenueGrowth: 0.044
+revenuePerShare: 57.97
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 3
+sharesOutstanding: 284200000
+sharesPercentSharesOut: 0.0301
+sharesShort: 8540937
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 9189704
+shortName: Illinois Tool Works Inc.
+shortPercentOfFloat: 0.030199999
+shortRatio: 5.99
+sourceInterval: 15
+state: IL
+symbol: ITW
+targetHighPrice: 326.0
+targetLowPrice: 253.0
+targetMeanPrice: 294.14285
+targetMedianPrice: 298.5
+totalCash: 809000000
+totalCashPerShare: 2.847
+totalDebt: 9372000256
+totalRevenue: 16645999616
+tradeable: false
+trailingAnnualDividendRate: 6.55
+trailingAnnualDividendYield: 0.022739109
+trailingEps: 11.21
+trailingPE: 25.66057
+trailingPegRatio: 2.7145
+triggerable: true
+twoHundredDayAverage: 271.6148
+twoHundredDayAverageChange: 16.040192
+twoHundredDayAverageChangePercent: 0.059054922
+typeDisp: Equity
+volume: 125185
+website: https://www.itw.com
+zip: '60025'

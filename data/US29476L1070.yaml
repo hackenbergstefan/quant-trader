@@ -1,0 +1,250 @@
+52WeekChange: 0.10281789
+SandP52WeekChange: 0.097798586
+address1: Two North Riverside Plaza
+address2: Suite 400
+allTimeHigh: 94.32
+allTimeLow: 12.4375
+ask: 64.75
+askSize: 200
+auditRisk: 8
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 5758740
+averageDailyVolume3Month: 5733110
+averageVolume: 5733110
+averageVolume10days: 5758740
+beta: 0.549
+bid: 64.74
+bidSize: 100
+boardRisk: 9
+bookValue: 46.342
+city: Chicago
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Benjamin W. Schall
+  title: President, CEO & Member of the Board of Trustees
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 59
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Kevin P. O'Shea J.D.
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 56
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Michael L. Manelis
+  title: Executive VP & COO
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 58
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Sean J. Breslin
+  title: Executive VP and Chief Investment & Growth Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 53
+  exercisedValue: 0
+  maxAge: 1
+  name: Ms. Alaine S. Walsh
+  title: Executive Vice President of Human Capital & Administration
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Martin J. McKenna
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Scott J. Fenster J.D.
+  title: Executive VP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 62
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Edward M. Schulman
+  title: Executive Vice President of Legal Affairs
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 59
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Matthew H. Birenbaum
+  title: Executive VP & Chief Development Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 59
+  exercisedValue: 0
+  maxAge: 1
+  name: Ms. Pamela R. Thomas
+  title: Executive Vice President of Portfolio & Asset Management
+  unexercisedValue: 0
+  yearBorn: 1966
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 64.77
+currentRatio: 0.484
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 65.33
+dayLow: 64.66
+debtToEquity: 47.605
+dividendDate: 1792108800
+dividendRate: 2.81
+dividendYield: 4.27
+earningsCallTimestampEnd: 1793901600
+earningsCallTimestampStart: 1793901600
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1793826000
+earningsTimestampStart: 1793826000
+ebitda: 2071750016
+ebitdaMargins: 0.59109
+enterpriseToEbitda: 33.304
+enterpriseToRevenue: 19.685
+enterpriseValue: 68996702208
+epsCurrentYear: 1.40849
+epsForward: 1.57492
+epsTrailingTwelveMonths: -0.15
+esgPopulated: false
+exDividendDate: 1791158400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 62.6166
+fiftyDayAverageChange: 2.1533966
+fiftyDayAverageChangePercent: 0.03439019
+fiftyTwoWeekChangePercent: 10.28179
+fiftyTwoWeekHigh: 71.5
+fiftyTwoWeekHighChange: -6.7300034
+fiftyTwoWeekHighChangePercent: -0.09412592
+fiftyTwoWeekLow: 57.57
+fiftyTwoWeekLowChange: 7.199997
+fiftyTwoWeekLowChangePercent: 0.12506509
+fiftyTwoWeekRange: 57.57 - 71.5
+financialCurrency: USD
+firstTradeDateMilliseconds: 745162200000
+fiveYearAvgDividendYield: 3.4
+floatShares: 773070744
+forwardEps: 1.57492
+forwardPE: 41.125896
+freeCashflow: 1613509376
+fullExchangeName: NYSE
+fullTimeEmployees: 3011
+fulldayChange: -0.98000336
+fulldayChangePercent: -1.4904994
+fulldayPrice: 64.77
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.62238
+grossProfits: 2181422080
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00489
+heldPercentInstitutions: 0.58676
+impliedSharesOutstanding: 774798545
+industry: REIT - Residential
+industryDisp: REIT - Residential
+industryKey: reit-residential
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791158400
+lastDividendValue: 0.703
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1002844800
+lastSplitFactor: '2:1'
+longBusinessSummary: Vivmark Residential focused on building, buying, and managing
+  high-quality apartment communities across major U.S. metro areas. The company owns
+  or held investments in more than 184,000 rental apartments across premier U.S. markets
+  and over 11,100 apartments under construction. Vivmark Residential based in Chicago,
+  Illinois.
+longName: Vivmark Residential
+market: us_market
+marketCap: 50183696384
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_2017959012
+mostRecentQuarter: 1790726400
+netIncomeToCommon: -88966000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 50943004333
+numberOfAnalystOpinions: 20
+open: 65.08
+operatingCashflow: 1442305024
+operatingMargins: 0.13532
+overallRisk: 7
+payoutRatio: 0.96940005
+pegRatio: 7.17
+phone: (312) 474-1300
+previousClose: 65.75
+priceEpsCurrentYear: 45.985416
+priceHint: 2
+priceToBook: 1.3976521
+priceToSalesTrailing12Months: 14.317778
+profitMargins: -0.02538
+quickRatio: 0.031
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.13636
+region: US
+regularMarketChange: -0.98000336
+regularMarketChangePercent: -1.4904994
+regularMarketDayHigh: 65.33
+regularMarketDayLow: 64.66
+regularMarketDayRange: 64.66 - 65.33
+regularMarketOpen: 65.08
+regularMarketPreviousClose: 65.75
+regularMarketPrice: 64.77
+regularMarketTime: 1794413743
+regularMarketVolume: 665338
+returnOnAssets: 0.0076099997
+returnOnEquity: -0.0039399997
+revenueGrowth: 0.551
+revenuePerShare: 4.532
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 8
+sharesOutstanding: 774798545
+sharesPercentSharesOut: 0.0251
+sharesShort: 19411234
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 15231396
+shortName: Vivmark Residential
+shortPercentOfFloat: 0.0292
+shortRatio: 4.28
+sourceInterval: 15
+state: IL
+symbol: VMRK
+targetHighPrice: 80.0
+targetLowPrice: 63.0
+targetMeanPrice: 71.82
+targetMedianPrice: 72.5
+totalCash: 111876000
+totalCashPerShare: 0.144
+totalDebt: 17417660416
+totalRevenue: 3504992000
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: -0.15
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 64.1043
+twoHundredDayAverageChange: 0.6656952
+twoHundredDayAverageChangePercent: 0.010384563
+typeDisp: Equity
+volume: 665338
+website: https://www.vivmarkresidential.com
+zip: '60606'

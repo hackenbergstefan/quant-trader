@@ -1,0 +1,265 @@
+52WeekChange: 0.2554667
+SandP52WeekChange: 0.097798586
+address1: Am Belvedere 1
+allTimeHigh: 126.8
+allTimeLow: 6.804819
+ask: 117.5
+auditRisk: 8
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 462480
+averageDailyVolume3Month: 374447
+averageVolume: 374447
+averageVolume10days: 462480
+beta: 0.885
+bid: 117.3
+boardRisk: 2
+bookValue: 64.384
+city: Vienna
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Peter  Bosek MP
+  title: Chairman of the Management Board & CEO
+  totalPay: 3559651
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Dorfler
+  title: CFO & Member of Management Board
+  totalPay: 2374213
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Magistrate Alexandra  Habeler-Drabek Mag.
+  title: CRO & Member of the Management Board
+  totalPay: 2371363
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Maurizio  Poletto
+  title: COO, Chief Platform Officer & Member of Management Board
+  totalPay: 2379223
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Sommerauer
+  title: Head of Group Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gernot  Mittendorfer M.B.A., MP
+  title: Consultant
+  totalPay: 1176108
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Manfred  Neuwirth
+  title: Head of Group Markets Financial Institutions
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Bernhard  Leder
+  title: Head of Group Markets Origination & Funding
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Christoph  Schoefboeck
+  title: Chief Executive Officer of Erste Bank Croatia
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Engineer Peter  Krutil Ph.D.
+  title: Chief Executive Officer of Slovenská sporitelna
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Austria
+cryptoTradeable: false
+currency: EUR
+currentPrice: 117.4
+customPriceAlertConfidence: LOW
+dayHigh: 119.1
+dayLow: 116.3
+dividendDate: 20217600
+dividendRate: 0.75
+dividendYield: 0.64
+earningsCallTimestampEnd: 1793347200
+earningsCallTimestampStart: 1793347200
+earningsGrowth: 0.245
+earningsQuarterlyGrowth: 0.244
+earningsTimestamp: 1793378100
+earningsTimestampEnd: 1793378100
+earningsTimestampStart: 1793378100
+ebitdaMargins: 0.0
+enterpriseToRevenue: 9.035
+enterpriseValue: 128392527872
+epsCurrentYear: 10.05889
+epsForward: 11.38213
+epsTrailingTwelveMonths: 9.68
+esgPopulated: false
+exDividendDate: 1776816000
+exchange: VIE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 43 5 0100 9 10100
+fiftyDayAverage: 115.518
+fiftyDayAverageChange: 1.8820038
+fiftyDayAverageChangePercent: 0.016291866
+fiftyTwoWeekChangePercent: 25.546669
+fiftyTwoWeekHigh: 126.8
+fiftyTwoWeekHighChange: -9.400002
+fiftyTwoWeekHighChangePercent: -0.0741325
+fiftyTwoWeekLow: 86.05
+fiftyTwoWeekLowChange: 31.349998
+fiftyTwoWeekLowChangePercent: 0.36432305
+fiftyTwoWeekRange: 86.05 - 126.8
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886100000
+fiveYearAvgDividendYield: 2.76
+floatShares: 336596106
+forwardEps: 11.38213
+forwardPE: 10.314414
+fullExchangeName: Vienna
+fullTimeEmployees: 54959
+fulldayChange: -0.29999542
+fulldayChangePercent: -0.2548814
+fulldayPrice: 117.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 14211000320
+hasPrePostMarketData: false
+heldPercentInsiders: 0.2667
+heldPercentInstitutions: 0.40627
+impliedSharesOutstanding: 388356224
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776816000
+lastDividendValue: 0.75
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1089244800
+lastSplitFactor: '4:1'
+longBusinessSummary: Erste Group Bank AG provides various banking and other financial
+  services to retail, corporate, and public sector customers. It offers savings and
+  current accounts, and term deposit products; consumer credit and mortgage lending;
+  commercial real estate, investment loan, acquisition and leveraged finance, project
+  finance, and product neutral financial advice; and factoring, accounts receivable
+  purchasing, working capital finance, and structured trade finance, and ErsteConfirming,
+  a supply chain finance solution. The company also provides interests and FX hedging,
+  letters of credit, documentary collections, and guarantees; cash-management solutions,
+  such as cash pooling, payment transactions, digital banking, payment factory, VIRTUAL.IBAN,
+  and POS-terminals and e-commerce; equity interests and investments, revolving export
+  credit lines, and customer financing. In addition, it offers loan syndication, debt
+  capital market, and equity capital market services; custody and brokerage services,
+  including safekeeping, settlement, corporate action events, tax reclaim assistance,
+  proxy voting, brokerage services, securities lending, cash management, clearing
+  services for remote members on Vienna Stock Exchange, and market news services;
+  and George, a digital retail product. The company operates in Austria, the Czech
+  Republic, Poland, Slovakia, Bosnia, Romania, Hungary, North Macedonia, Montenegro,
+  Croatia, Serbia, and internationally. Erste Group Bank AG was founded in 1819 and
+  is based in Vienna, Austria.
+longName: Erste Group Bank AG
+market: at_market
+marketCap: 45593022464
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874634
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3879905024
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 45709527564
+numberOfAnalystOpinions: 17
+open: 119.1
+operatingCashflow: -18484000768
+operatingMargins: 0.48061
+overallRisk: 2
+payoutRatio: 0.0791
+pegRatio: 5.12
+phone: 43 5 0100 10100
+previousClose: 117.7
+priceEpsCurrentYear: 11.6712675
+priceHint: 2
+priceToBook: 1.8234344
+priceToSalesTrailing12Months: 3.2082908
+profitMargins: 0.28422
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.82353
+region: US
+regularMarketChange: -0.29999542
+regularMarketChangePercent: -0.2548814
+regularMarketDayHigh: 119.1
+regularMarketDayLow: 116.3
+regularMarketDayRange: 116.3 - 119.1
+regularMarketOpen: 119.1
+regularMarketPreviousClose: 117.7
+regularMarketPrice: 117.4
+regularMarketTime: 1794411547
+regularMarketVolume: 51014
+returnOnAssets: 0.01286
+returnOnEquity: 0.14036
+revenueGrowth: 0.402
+revenuePerShare: 34.749
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 9
+sharesOutstanding: 388356224
+shortName: Erste Group Bank AG
+sourceInterval: 15
+symbol: EBS.VI
+targetHighPrice: 160.7
+targetLowPrice: 79.9
+targetMeanPrice: 130.07648
+targetMedianPrice: 133.4
+totalCash: 17389000704
+totalCashPerShare: 44.776
+totalDebt: 86683000832
+totalRevenue: 14211000320
+tradeable: false
+trailingAnnualDividendRate: 0.75
+trailingAnnualDividendYield: 0.006372133
+trailingEps: 9.68
+trailingPE: 12.1280985
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 108.93
+twoHundredDayAverageChange: 8.470001
+twoHundredDayAverageChangePercent: 0.07775637
+typeDisp: Equity
+volume: 51014
+website: https://www.erstegroup.com
+zip: '1100'

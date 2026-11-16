@@ -1,0 +1,284 @@
+52WeekChange: 0.11406219
+SandP52WeekChange: 0.097798586
+address1: 600 East Canal Street
+allTimeHigh: 90.89
+allTimeLow: 3.083333
+ask: 67.93
+askSize: 500
+auditRisk: 10
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 5499570
+averageDailyVolume3Month: 4530854
+averageVolume: 4530854
+averageVolume10days: 5499570
+beta: 0.59
+bid: 67.91
+bidSize: 800
+boardRisk: 7
+bookValue: 32.458
+city: Richmond
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert M. Blue
+  title: President, CEO & Chairman of the Board
+  totalPay: 5909278
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven D. Ridge
+  title: Executive VP & CFO
+  totalPay: 1893292
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carlos M. Brown
+  title: EVP, Chief Admin & Projects Officer, Corporate Secretary and President of
+    Dominion Energy Services
+  totalPay: 2182189
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Edward H. Baine
+  title: Executive VP of Utility Operations & President of Dominion Energy Virginia
+  totalPay: 1624549
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric S. Carr
+  title: Chief Nuclear Officer and President-Nuclear Operations & Contracted Energy
+  totalPay: 1550584
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gary G. Ratliff Jr.
+  title: VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David M. McFarland
+  title: Senior Vice President of Investor Relations & Treasurer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Regina J. Elbert
+  title: SVP, Chief Legal & Human Resources Officer
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William L. Murray
+  title: Senior Vice President of Corporate Affairs & Communications
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Corynne S. Arnett
+  title: Executive VP and Chief Regulatory & Customer Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: D announced a cash dividend of $0.668 with an ex-date of Dec. 4, 2026
+  meta:
+    amount: '0.668'
+    dateEpochMs: 1796360400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 68.025
+currentRatio: 0.876
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 68.26
+dayLow: 67.845
+debtToEquity: 161.557
+displayName: Dominion Energy
+dividendDate: 1797724800
+dividendRate: 2.67
+dividendYield: 3.91
+earningsCallTimestampEnd: 1793372400
+earningsCallTimestampStart: 1793372400
+earningsGrowth: 0.12
+earningsQuarterlyGrowth: 0.153
+earningsTimestamp: 1793363400
+earningsTimestampEnd: 1793363400
+earningsTimestampStart: 1793363400
+ebitda: 8876999680
+ebitdaMargins: 0.46213
+enterpriseToEbitda: 13.648
+enterpriseToRevenue: 6.307
+enterpriseValue: 121152929792
+epsCurrentYear: 3.60231
+epsForward: 3.81921
+epsTrailingTwelveMonths: 3.03
+esgPopulated: false
+exDividendDate: 1796342400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 64.0396
+fiftyDayAverageChange: 3.985405
+fiftyDayAverageChangePercent: 0.062233448
+fiftyTwoWeekChangePercent: 11.4062195
+fiftyTwoWeekHigh: 72.99
+fiftyTwoWeekHighChange: -4.9649963
+fiftyTwoWeekHighChangePercent: -0.06802297
+fiftyTwoWeekLow: 55.85
+fiftyTwoWeekLowChange: 12.175003
+fiftyTwoWeekLowChangePercent: 0.21799469
+fiftyTwoWeekRange: 55.85 - 72.99
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 4.34
+floatShares: 877806946
+forwardEps: 3.81921
+forwardPE: 17.811275
+freeCashflow: -7814249984
+fullExchangeName: NYSE
+fullTimeEmployees: 15200
+fulldayChange: -0.34500122
+fulldayChangePercent: -0.50460905
+fulldayPrice: 68.025
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.46508998
+grossProfits: 8933999616
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00135
+heldPercentInstitutions: 0.84395
+impliedSharesOutstanding: 879566078
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+irWebsite: https://www.dom.com/investors/index.jsp
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788480000
+lastDividendValue: 0.668
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1195516800
+lastSplitFactor: '2:1'
+longBusinessSummary: Dominion Energy, Inc. provides regulated electricity and natural
+  gas services in the United States. It operates through Dominion Energy Virginia,
+  Dominion Energy South Carolina, and Contracted Energy segments. The Dominion Energy
+  Virginia segment engages in the generation, distribution, and transmission of electricity
+  to approximately 2.8 million residential, commercial, industrial, and governmental
+  customers in Virginia and North Carolina. The Dominion Energy South Carolina segment
+  generates, transmits, and distributes electricity to approximately 0.8 million customers
+  in the central, southern, and southwestern portions of South Carolina; and distributes
+  natural gas to approximately 0.5 million residential, commercial, and industrial
+  customers in South Carolina. The Contracted Energy segment is involved in the nonregulated
+  long-term contracted renewable electric generation fleet and renewable natural gas
+  facilities. As of December 31, 2025, the company's portfolio of assets included
+  approximately 30.7 GW of electric generating capacity, 10,800 miles of electric
+  transmission lines, and 80,400 miles of electric distribution lines. The company
+  was formerly known as Dominion Resources, Inc. Dominion Energy, Inc. was incorporated
+  in 1983 and is headquartered in Richmond, Virginia.
+longName: Dominion Energy, Inc.
+market: us_market
+marketCap: 59832483840
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_267105
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2660999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 60135932752
+numberOfAnalystOpinions: 12
+open: 67.87
+operatingCashflow: 5674999808
+operatingMargins: 0.31225002
+overallRisk: 6
+payoutRatio: 0.8812
+pegRatio: 2.65
+phone: 804 819 2284
+previousClose: 68.37
+priceEpsCurrentYear: 18.883717
+priceHint: 2
+priceToBook: 2.0957854
+priceToSalesTrailing12Months: 3.114815
+profitMargins: 0.13993
+quickRatio: 0.385
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.5625
+region: US
+regularMarketChange: -0.34500122
+regularMarketChangePercent: -0.50460905
+regularMarketDayHigh: 68.26
+regularMarketDayLow: 67.845
+regularMarketDayRange: 67.845 - 68.26
+regularMarketOpen: 67.87
+regularMarketPreviousClose: 68.37
+regularMarketPrice: 68.025
+regularMarketTime: 1794413687
+regularMarketVolume: 579774
+returnOnAssets: 0.031719998
+returnOnEquity: 0.08821
+revenueGrowth: 0.241
+revenuePerShare: 21.979
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 6
+sharesOutstanding: 879566078
+sharesPercentSharesOut: 0.027999999
+sharesShort: 24654587
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 24927099
+shortName: Dominion Energy, Inc.
+shortPercentOfFloat: 0.028099999
+shortRatio: 5.59
+sourceInterval: 15
+state: VA
+symbol: D
+targetHighPrice: 87.0
+targetLowPrice: 62.0
+targetMeanPrice: 70.16667
+targetMedianPrice: 68.0
+totalCash: 435000000
+totalCashPerShare: 0.495
+totalDebt: 55600001024
+totalRevenue: 19209000960
+tradeable: false
+trailingAnnualDividendRate: 2.67
+trailingAnnualDividendYield: 0.039052214
+trailingEps: 3.03
+trailingPE: 22.450497
+trailingPegRatio: 2.6524
+triggerable: true
+twoHundredDayAverage: 65.08025
+twoHundredDayAverageChange: 2.944748
+twoHundredDayAverageChangePercent: 0.04524795
+typeDisp: Equity
+volume: 579774
+website: https://www.dominionenergy.com
+zip: '23219'

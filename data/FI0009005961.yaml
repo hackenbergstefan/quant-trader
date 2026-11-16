@@ -1,0 +1,256 @@
+52WeekChange: -0.11317396
+SandP52WeekChange: 0.097798586
+address1: Katajanokanlaituri 4
+address2: PO Box 309
+allTimeHigh: 20.01
+allTimeLow: 2.65
+ask: 9.49
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 1665562
+averageDailyVolume3Month: 1470090
+averageVolume: 1470090
+averageVolume10days: 1665562
+beta: 0.604
+bid: 9.484
+bidSize: 0
+boardRisk: 4
+bookValue: 13.512
+city: Helsinki
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2023
+  maxAge: 1
+  name: Mr. Hans  Sohlstrom M.Sc., M.Sc. (Tech.)
+  title: President & CEO
+  totalPay: 1126410
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2023
+  maxAge: 1
+  name: Mr. Niclas  Rosenlew
+  title: Group CFO & Deputy CEO
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2023
+  maxAge: 1
+  name: Ms. Jutta  Mikkola
+  title: Senior VP & Head of Investor Relations
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2023
+  maxAge: 1
+  name: Ms. Micaela  Thorstrom
+  title: Executive VP of People & Legal and General Counsel
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2023
+  maxAge: 1
+  name: Mr. Anders  Bergkvist
+  title: Chief Financial Officer of China and Guangxi
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2023
+  maxAge: 1
+  name: Mr. Rickard  Arnqvist
+  title: Senior Vice President of Sourcing Consumer Board & Categories
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2023
+  maxAge: 1
+  name: Ms. Johanna  Hagelberg M.Sc.
+  title: Executive Vice President of Biomaterials Division
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2023
+  maxAge: 1
+  name: Ms. Liisa  Nyyssonen M.Sc. Econ
+  title: Senior Vice President of Communications - Stora Enso Paper Division
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2023
+  maxAge: 1
+  name: Hanne  Karrinaho
+  title: Head of Financial Communication
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2023
+  maxAge: 1
+  name: Ms. Satu  Harkonen
+  title: Head of Communications for Media Relations - Finland & Wood Supply Finland
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1703980800
+compensationRisk: 7
+corporateActions: []
+country: Finland
+cryptoTradeable: false
+currency: EUR
+currentPrice: 9.482
+currentRatio: 1.09
+customPriceAlertConfidence: HIGH
+dayHigh: 9.53
+dayLow: 9.394
+debtToEquity: 29.925
+dividendRate: 0.25
+dividendYield: 2.64
+earningsCallTimestampEnd: 1793350800
+earningsCallTimestampStart: 1793350800
+earningsGrowth: -0.96
+earningsQuarterlyGrowth: -0.889
+earningsTimestamp: 1793377800
+earningsTimestampEnd: 1793377800
+earningsTimestampStart: 1793377800
+ebitda: 710000000
+ebitdaMargins: 0.07655
+enterpriseToEbitda: 13.977
+enterpriseToRevenue: 1.07
+enterpriseValue: 9923768320
+epsCurrentYear: 0.47223
+epsForward: 0.70319
+epsTrailingTwelveMonths: 0.48
+esgPopulated: false
+exDividendDate: 1790208000
+exchange: HEL
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Helsinki
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fiftyDayAverage: 10.03014
+fiftyDayAverageChange: -0.5481396
+fiftyDayAverageChangePercent: -0.054649245
+fiftyTwoWeekChangePercent: -11.317396
+fiftyTwoWeekHigh: 12.26
+fiftyTwoWeekHighChange: -2.7779999
+fiftyTwoWeekHighChangePercent: -0.22659053
+fiftyTwoWeekLow: 8.732
+fiftyTwoWeekLowChange: 0.75
+fiftyTwoWeekLowChangePercent: 0.08589097
+fiftyTwoWeekRange: 8.732 - 12.26
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 1.94
+floatShares: 695476080
+forwardEps: 0.70319
+forwardPE: 13.484264
+freeCashflow: 34875000
+fullExchangeName: Helsinki
+fullTimeEmployees: 19000
+fulldayChange: 0.024000168
+fulldayChangePercent: 0.2537552
+fulldayPrice: 9.482
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.24863
+grossProfits: 2305999872
+hasPrePostMarketData: false
+heldPercentInsiders: 0.04058
+heldPercentInstitutions: 0.60585
+impliedSharesOutstanding: 788619987
+industry: Packaging & Containers
+industryDisp: Packaging & Containers
+industryKey: packaging-containers
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790208000
+lastDividendValue: 0.12
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Stora Enso Oyj provides renewable solutions for the packaging,
+  biomaterials, wooden constructions, and paper industries in Finland and internationally.
+  It operates through Packaging Materials, Packaging Solutions, Biomaterials, Wood
+  Products, Forest, and Other segments. The company's Packaging Materials segment
+  offers virgin and recycled fiber replace fossil-based materials, renewable and recyclable
+  packaging materials for food and beverage, and transport packaging. Its Packaging
+  Solutions segment develops and sells fiber-based packaging products and services,
+  including converting carton and corrugated boards for packaging solutions for retail,
+  e-commerce, and industrials. The company's Biomaterials segment provides various
+  pulp for packaging, paper, tissue, specialties, and hygiene products; and tall oil
+  and turpentine from biomass. Its Wood Products segment offers wood-based solutions,
+  including digital tools for design and construction of building projects with wood;
+  applications for windows and doors; and pellets for sustainable heating solutions.
+  The company's Forest segment engages in sustainable forest management, as well as
+  supplies wood. The company's Other segment produces electricity and heat. It serves
+  packaging manufacturers, brand owners, retailers, converters, and construction companies.
+  The company was incorporated in 1996 and is headquartered in Helsinki, Finland.
+longName: Stora Enso Oyj
+market: fi_market
+marketCap: 7477694976
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_683733
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 379000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 7458767837
+numberOfAnalystOpinions: 13
+open: 9.436
+operatingCashflow: 553000000
+operatingMargins: 0.02059
+overallRisk: 6
+payoutRatio: 0.5208
+pegRatio: 41.2
+phone: 358 2046 111
+previousClose: 9.458
+priceEpsCurrentYear: 20.0792
+priceHint: 2
+priceToBook: 0.70174664
+priceToSalesTrailing12Months: 0.8062205
+profitMargins: 0.04323
+quickRatio: 0.547
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.07143
+region: US
+regularMarketChange: 0.024000168
+regularMarketChangePercent: 0.2537552
+regularMarketDayHigh: 9.53
+regularMarketDayLow: 9.394
+regularMarketDayRange: 9.394 - 9.53
+regularMarketOpen: 9.436
+regularMarketPreviousClose: 9.458
+regularMarketPrice: 9.482
+regularMarketTime: 1794412478
+regularMarketVolume: 295947
+returnOnAssets: 0.0061799996
+returnOnEquity: 0.03749
+revenueGrowth: -0.019
+revenuePerShare: 11.761
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 10
+sharesOutstanding: 613188910
+shortName: Stora Enso Oyj R
+sourceInterval: 15
+symbol: STERV.HE
+targetHighPrice: 13.5
+targetLowPrice: 9.0
+targetMeanPrice: 11.40769
+targetMedianPrice: 11.5
+totalCash: 831000000
+totalCashPerShare: 1.054
+totalDebt: 3441999872
+totalRevenue: 9274999808
+tradeable: false
+trailingAnnualDividendRate: 0.25
+trailingAnnualDividendYield: 0.026432648
+trailingEps: 0.48
+trailingPE: 19.754168
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 10.03044
+twoHundredDayAverageChange: -0.54844
+twoHundredDayAverageChangePercent: -0.054677557
+typeDisp: Equity
+volume: 295947
+website: https://www.storaenso.com
+zip: '00101'

@@ -1,0 +1,283 @@
+52WeekChange: 0.10555124
+SandP52WeekChange: 0.097798586
+address1: 20 South Wacker Drive
+allTimeHigh: 329.16
+allTimeLow: 7.78
+ask: 309.25
+askSize: 2
+auditRisk: 1
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 1817480
+averageDailyVolume3Month: 1929920
+averageVolume: 1929920
+averageVolume10days: 1817480
+beta: 0.184
+bid: 305.88
+bidSize: 1
+boardRisk: 9
+bookValue: 74.31
+city: Chicago
+companyOfficers:
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Terrence A. Duffy
+  title: Chairman & CEO
+  totalPay: 10018304
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lynne C. Fitzpatrick
+  title: Senior MD, President & CFO
+  totalPay: 2212366
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sunil  Cutinho
+  title: Chief Information Officer
+  totalPay: 1571924
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Derek L. Sammann
+  title: Senior MD & Global Head of Commodities Markets
+  totalPay: 1583658
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie M. Winkler
+  title: Senior MD & Chief Commercial Officer
+  totalPay: 1571925
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Suzanne  Sprague
+  title: Senior MD, Group COO & Global Head of Clearing
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Adam  Minick
+  title: Investor Contact
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Clifford Marchese
+  title: General Counsel
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anita  Liskey
+  title: Senior Managing Director of Corporate Marketing & Communications
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hilda Harris Piell J.D.
+  title: Senior MD & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions:
+- header: Dividend
+  message: CME announced a cash dividend of $1.30 with an ex-date of Dec. 11, 2026
+  meta:
+    amount: '1.30'
+    dateEpochMs: 1796965200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 311.855
+currentRatio: 1.019
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 312.18
+dayLow: 308.26
+debtToEquity: 14.507
+displayName: CME
+dividendDate: 1798588800
+dividendRate: 5.2
+dividendYield: 1.68
+earningsCallTimestampEnd: 1792585800
+earningsCallTimestampStart: 1792585800
+earningsGrowth: 0.161
+earningsQuarterlyGrowth: 0.142
+earningsTimestamp: 1792585800
+earningsTimestampEnd: 1792585800
+earningsTimestampStart: 1792585800
+ebitda: 4940700160
+ebitdaMargins: 0.71027
+enterpriseToEbitda: 22.701
+enterpriseToRevenue: 16.124
+enterpriseValue: 112157286400
+epsCurrentYear: 12.39616
+epsForward: 13.245
+epsTrailingTwelveMonths: 12.2
+esgPopulated: false
+exDividendDate: 1796947200
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 283.9464
+fiftyDayAverageChange: 27.9086
+fiftyDayAverageChangePercent: 0.09828826
+fiftyTwoWeekChangePercent: 10.555124
+fiftyTwoWeekHigh: 329.16
+fiftyTwoWeekHighChange: -17.304993
+fiftyTwoWeekHighChangePercent: -0.052573193
+fiftyTwoWeekLow: 218.31
+fiftyTwoWeekLowChange: 93.54501
+fiftyTwoWeekLowChangePercent: 0.42849624
+fiftyTwoWeekRange: 218.31 - 329.16
+financialCurrency: USD
+firstTradeDateMilliseconds: 1039185000000
+fiveYearAvgDividendYield: 2.92
+floatShares: 353015872
+forwardEps: 13.245
+forwardPE: 23.545113
+freeCashflow: 3051225088
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 3875
+fulldayChange: 2.7650146
+fulldayChangePercent: 0.8945518
+fulldayPrice: 311.855
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 1.0
+grossProfits: 6956100096
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00433
+heldPercentInstitutions: 0.91890997
+impliedSharesOutstanding: 357933884
+industry: Financial Data & Stock Exchanges
+industryDisp: Financial Data & Stock Exchanges
+industryKey: financial-data-stock-exchanges
+irWebsite: http://investor.cmegroup.com/investor-relations/stockquote.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788912000
+lastDividendValue: 1.3
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1343001600
+lastSplitFactor: '5:1'
+longBusinessSummary: CME Group Inc., together with its subsidiaries, operates contract
+  markets for the trading of futures and options on futures contracts worldwide. It
+  offers futures and options products based on interest rates, equity indexes, and
+  foreign exchange; and agricultural, energy, and metals commodities, as well as fixed
+  income and foreign currency trading services. The company provides clearing house
+  services, including clearing, settling, and guaranteeing futures and options contracts,
+  and cleared swaps products traded through its exchanges. In addition, the company
+  offers a range of market data services, including real-time and historical data
+  services. It serves professional traders, financial institutions, institutional
+  and individual investors, corporations, manufacturers, producers, governments, and
+  central banks. CME Group Inc. partners with FutureSports to futures on sports indexes.
+  The company was formerly known as Chicago Mercantile Exchange Holdings Inc. and
+  changed its name to CME Group Inc. in July 2007. The company was founded in 1898
+  and is headquartered in Chicago, Illinois.
+longName: CME Group Inc.
+market: us_market
+marketCap: 111623479296
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_2004577
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4402200064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 110633784204
+numberOfAnalystOpinions: 16
+open: 308.26
+operatingCashflow: 4426800128
+operatingMargins: 0.66235
+overallRisk: 9
+payoutRatio: 0.92620003
+pegRatio: 4.2
+phone: 312 930 1000
+previousClose: 309.09
+priceEpsCurrentYear: 25.157389
+priceHint: 2
+priceToBook: 4.1966763
+priceToSalesTrailing12Months: 16.046848
+profitMargins: 0.63482
+quickRatio: 0.02
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.41176
+region: US
+regularMarketChange: 2.7650146
+regularMarketChangePercent: 0.8945518
+regularMarketDayHigh: 312.18
+regularMarketDayLow: 308.26
+regularMarketDayRange: 308.26 - 312.18
+regularMarketOpen: 308.26
+regularMarketPreviousClose: 309.09
+regularMarketPrice: 311.855
+regularMarketTime: 1794413725
+regularMarketVolume: 344854
+returnOnAssets: 0.015190001
+returnOnEquity: 0.16131
+revenueGrowth: 0.13
+revenuePerShare: 19.354
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 357930746
+sharesPercentSharesOut: 0.015
+sharesShort: 5351351
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5526063
+shortName: CME Group Inc.
+shortPercentOfFloat: 0.0167
+shortRatio: 2.55
+sourceInterval: 15
+state: IL
+symbol: CME
+targetHighPrice: 367.0
+targetLowPrice: 227.0
+targetMeanPrice: 317.0625
+targetMedianPrice: 328.5
+totalCash: 2329499904
+totalCashPerShare: 6.508
+totalDebt: 3852999936
+totalRevenue: 6956100096
+tradeable: false
+trailingAnnualDividendRate: 5.15
+trailingAnnualDividendYield: 0.016661813
+trailingEps: 12.2
+trailingPE: 25.561886
+trailingPegRatio: 4.1991
+triggerable: true
+twoHundredDayAverage: 281.11935
+twoHundredDayAverageChange: 30.735657
+twoHundredDayAverageChangePercent: 0.10933312
+typeDisp: Equity
+volume: 344854
+website: https://www.cmegroup.com
+zip: '60606'

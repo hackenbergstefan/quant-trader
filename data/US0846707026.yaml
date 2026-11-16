@@ -1,0 +1,272 @@
+52WeekChange: 0.1611067
+SandP52WeekChange: 0.097798586
+address1: 3555 Farnam Street
+allTimeHigh: 586.45
+allTimeLow: 19.8
+ask: 576.91
+askSize: 80
+auditRisk: 10
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 5647670
+averageDailyVolume3Month: 4595928
+averageVolume: 4595928
+averageVolume10days: 5647670
+beta: 0.571
+bid: 576.83
+bidSize: 120
+boardRisk: 10
+bookValue: 536413.0
+city: Omaha
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory Edward Abel
+  title: CEO, President & Director
+  totalPay: 22017500
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 75
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc David Hamburg
+  title: Executive Officer
+  totalPay: 4330000
+  unexercisedValue: 0
+  yearBorn: 1950
+- age: 73
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ajit  Jain
+  title: Vice Chairman of Insurance Operations & Director
+  totalPay: 22017500
+  unexercisedValue: 0
+  yearBorn: 1952
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles C. Chang
+  title: Senior VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel Jerome Jaksich
+  title: VP, Controller & Principal Accounting Officer
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael J. O'Sullivan J.D.
+  title: Senior VP & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam M. Johnson
+  title: President of Consumer Products, Service & Retailing
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kerby S. Ham
+  title: Treasurer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter James Eastwood
+  title: CEO & President of Specialty Insurance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kara Lee Raiguel
+  title: CEO & President of General Re Unit
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 578.575
+currentRatio: 2.616
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1790726400
+dayHigh: 581.5
+dayLow: 576.8
+debtToEquity: 17.127
+displayName: Berkshire Hathaway
+dividendYield: 0.0
+earningsGrowth: -0.276
+earningsQuarterlyGrowth: -0.282
+earningsTimestamp: 1794085200
+earningsTimestampEnd: 1794258000
+earningsTimestampStart: 1794258000
+ebitda: 119417004032
+ebitdaMargins: 0.30204
+enterpriseToEbitda: -2.04
+enterpriseToRevenue: -0.616
+enterpriseValue: -243565789184
+epsCurrentYear: 23.14688
+epsForward: 22.46995
+epsTrailingTwelveMonths: 35.73
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 524.5516
+fiftyDayAverageChange: 54.023438
+fiftyDayAverageChangePercent: 0.102989756
+fiftyTwoWeekChangePercent: 16.11067
+fiftyTwoWeekHigh: 586.45
+fiftyTwoWeekHighChange: -7.875
+fiftyTwoWeekHighChangePercent: -0.013428254
+fiftyTwoWeekLow: 464.01
+fiftyTwoWeekLowChange: 114.565
+fiftyTwoWeekLowChangePercent: 0.246902
+fiftyTwoWeekRange: 464.01 - 586.45
+financialCurrency: USD
+firstTradeDateMilliseconds: 831648600000
+floatShares: 1222991
+forwardEps: 22.46995
+forwardPE: 25.748835
+freeCashflow: 52474249216
+fullExchangeName: NYSE
+fullTimeEmployees: 387800
+fulldayChange: -4.7650146
+fulldayChangePercent: -0.8168503
+fulldayPrice: 578.575
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.26602
+grossProfits: 105174999040
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00274
+heldPercentInstitutions: 0.67481005
+impliedSharesOutstanding: 2124519233
+industry: Insurance - Diversified
+industryDisp: Insurance - Diversified
+industryKey: insurance-diversified
+isEarningsDateEstimate: true
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1264032000
+lastSplitFactor: '50:1'
+longBusinessSummary: Berkshire Hathaway Inc., together with its subsidiaries, engages
+  in the insurance, freight rail transportation, and utility businesses. The company
+  provides property, casualty, life, accident, and health insurance and reinsurance;
+  operates railroad systems in North America; generates, transmits, stores, and distributes
+  electricity from natural gas, coal, wind, solar, hydroelectric, nuclear, and geothermal
+  sources; operates natural gas distribution and storage facilities, interstate pipelines,
+  liquefied natural gas facilities, and compressor and meter stations; and holds interest
+  in coal mining assets. It manufactures boxed chocolates and other confectionery
+  products; specialty chemicals, metal cutting tools, and components for aerospace
+  and power generation applications; prefabricated and site-built residential homes,
+  flooring products; insulation, roofing, and engineered products; building and engineered
+  components; paints and coatings; and bricks and masonry products, as well as offers
+  manufactured and site-built home construction, and related lending and financial
+  services. In addition, the company provides recreational vehicles, apparel, footwear,
+  toys, jewelry, custom picture framing products, alkaline batteries, logistics services,
+  and professional aviation training and shared aircraft ownership programs; castings,
+  forgings, fasteners/fastener systems, aerostructures, and precision components;
+  and cobalt, nickel, and titanium alloys. Further, it distributes televisions and
+  information, and grocery and non-food consumer products; franchises and services
+  quick service restaurants; and distributes electronic components. Additionally,
+  it retails automobiles; furniture, bedding, and accessories; household appliances,
+  electronics, and floor coverings; watches, home decor and repair services; sells
+  kitchenware; and motorcycle clothing and equipment. The company was incorporated
+  in 1998 and is headquartered in Omaha, Nebraska.
+longName: Berkshire Hathaway Inc.
+market: us_market
+marketCap: 1229193740288
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_255251
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 77084000256
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 1239626956774
+numberOfAnalystOpinions: 3
+open: 577.02
+operatingCashflow: 45105999872
+operatingMargins: 0.26602
+overallRisk: 10
+payoutRatio: 0.0
+pegRatio: 10.06
+phone: 402 346 1400
+previousClose: 583.34
+priceEpsCurrentYear: 24.995811
+priceHint: 2
+priceToBook: 0.0010786
+priceToSalesTrailing12Months: 3.1090336
+profitMargins: 0.19497
+quickRatio: 2.397
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.25
+region: US
+regularMarketChange: -4.7650146
+regularMarketChangePercent: -0.8168503
+regularMarketDayHigh: 581.5
+regularMarketDayLow: 576.8
+regularMarketDayRange: 576.8 - 581.5
+regularMarketOpen: 577.02
+regularMarketPreviousClose: 583.34
+regularMarketPrice: 578.575
+regularMarketTime: 1794413732
+regularMarketVolume: 1253057
+returnOnAssets: 0.05197
+returnOnEquity: 0.10574
+revenueGrowth: 0.112
+revenuePerShare: 275560.06
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 1403805594
+sharesPercentSharesOut: 0.0058
+sharesShort: 12370081
+sharesShortPreviousMonthDate: 1788134400
+sharesShortPriorMonth: 12347326
+shortName: Berkshire Hathaway Inc. New
+shortPercentOfFloat: 0.0099
+shortRatio: 2.67
+sourceInterval: 15
+state: NE
+symbol: BRK-B
+targetHighPrice: 628.0
+targetLowPrice: 510.0
+targetMeanPrice: 555.6667
+targetMedianPrice: 529.0
+totalCash: 377434996736
+totalCashPerShare: 266484.1
+totalDebt: 130783002624
+totalRevenue: 395362009088
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 35.73
+trailingPE: 16.192976
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 498.7037
+twoHundredDayAverageChange: 79.87131
+twoHundredDayAverageChangePercent: 0.16015784
+typeDisp: Equity
+volume: 1253057
+website: https://www.berkshirehathaway.com
+zip: '68131'

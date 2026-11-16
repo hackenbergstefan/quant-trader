@@ -1,0 +1,244 @@
+52WeekChange: 0.1991508
+SandP52WeekChange: 0.097798586
+address1: Valeska-Gert-Strasse 5
+allTimeHigh: 105.9
+allTimeLow: 15.95
+ask: 27.77
+askSize: 255
+auditRisk: 10
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 1465241
+averageDailyVolume3Month: 1119194
+averageVolume: 1119194
+averageVolume10days: 1465241
+beta: 1.556
+bid: 27.75
+bidSize: 286
+boardRisk: 4
+bookValue: 9.986
+city: Berlin
+companyOfficers:
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert  Gentz
+  title: Co-Founder, Co-CEO, GM & Member of the Management Board
+  totalPay: 1094635
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Schroder
+  title: Co-CEO & Member of the Management Board
+  totalPay: 1361962
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Schneider
+  title: Co-Founder, GM & Member of the Management Board
+  totalPay: 647370
+  unexercisedValue: 10847
+  yearBorn: 1982
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Astrid  Arndt
+  title: Chief People Officer of Corporate Functions & Member of Management Board
+  totalPay: 1056034
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anna Lordanova Dimitrova
+  title: CFO & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Birgit  Opp
+  title: Vice President of Corporate Finance & Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick  Kofler
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Lena  Wallenhorst
+  title: Senior Vice President of Corporate Governance & General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Rost
+  title: Senior Vice President of Offprice (Zalando Lounge & Outlets)
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Simon  Thiel
+  title: Senior Vice-President of Corporate Affairs
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 27.76
+currentRatio: 0.972
+customPriceAlertConfidence: LOW
+dayHigh: 28.06
+dayLow: 27.32
+debtToEquity: 52.241
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793694600
+earningsCallTimestampStart: 1793694600
+earningsTimestamp: 1793723400
+earningsTimestampEnd: 1793723400
+earningsTimestampStart: 1793723400
+ebitda: 710800000
+ebitdaMargins: 0.052010003
+enterpriseToEbitda: 10.282
+enterpriseToRevenue: 0.535
+enterpriseValue: 7308414464
+epsCurrentYear: 1.68993
+epsForward: 1.87673
+epsTrailingTwelveMonths: 0.24
+esgPopulated: false
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 30 20008 89349
+fiftyDayAverage: 24.0996
+fiftyDayAverageChange: 3.6604004
+fiftyDayAverageChangePercent: 0.15188636
+fiftyTwoWeekChangePercent: 19.915081
+fiftyTwoWeekHigh: 30.43
+fiftyTwoWeekHighChange: -2.67
+fiftyTwoWeekHighChangePercent: -0.08774236
+fiftyTwoWeekLow: 18.61
+fiftyTwoWeekLowChange: 9.15
+fiftyTwoWeekLowChangePercent: 0.49167112
+fiftyTwoWeekRange: 18.61 - 30.43
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1412146800000
+floatShares: 228679714
+forwardEps: 1.87673
+forwardPE: 14.791686
+freeCashflow: 834362496
+fullExchangeName: XETRA
+fullTimeEmployees: 17349
+fulldayChange: -0.47999954
+fulldayChangePercent: -1.6997151
+fulldayPrice: 27.76
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.39683
+grossProfits: 5423200256
+hasPrePostMarketData: false
+heldPercentInsiders: 0.114700004
+heldPercentInstitutions: 0.66759
+impliedSharesOutstanding: 244223114
+industry: Internet Retail
+industryDisp: Internet Retail
+industryKey: internet-retail
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Zalando SE operates an online platform for fashion and lifestyle
+  products in Germany and internationally. The company operates through Business-to-Business
+  and Business-to-Consumer segments. It engages in the development, sourcing, marketing,
+  retail, and commission sale of various type of goods, including shoes, apparel,
+  accessories, and beauty products with free delivery and returns, as well as various
+  payment options. The company sells its products through Lounge by Zalando and its
+  outlets. Zalando SE was founded in 2008 and is headquartered in Berlin, Germany.
+longName: Zalando SE
+market: de_market
+marketCap: 6779633664
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_97997549
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 61900000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 6896860739
+numberOfAnalystOpinions: 23
+open: 27.97
+operatingCashflow: 859500032
+operatingMargins: 0.0319
+overallRisk: 4
+payoutRatio: 0.0
+pegRatio: 0.47
+phone: 49 30 20968 1584
+previousClose: 28.24
+priceEpsCurrentYear: 16.426716
+priceHint: 2
+priceToBook: 2.779892
+priceToSalesTrailing12Months: 0.4960877
+profitMargins: 0.00453
+quickRatio: 0.418
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.70833
+region: US
+regularMarketChange: -0.47999954
+regularMarketChangePercent: -1.6997151
+regularMarketDayHigh: 28.06
+regularMarketDayLow: 27.32
+regularMarketDayRange: 27.32 - 28.06
+regularMarketOpen: 27.97
+regularMarketPreviousClose: 28.24
+regularMarketPrice: 27.76
+regularMarketTime: 1794411556
+regularMarketVolume: 377552
+returnOnAssets: 0.030280001
+returnOnEquity: 0.022739999
+revenueGrowth: 0.051
+revenuePerShare: 54.635
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 244223114
+shortName: Zalando SE                    I
+sourceInterval: 15
+symbol: ZAL.DE
+targetHighPrice: 53.0
+targetLowPrice: 25.0
+targetMeanPrice: 35.13913
+targetMedianPrice: 35.0
+totalCash: 1294800000
+totalCashPerShare: 5.035
+totalDebt: 1341500032
+totalRevenue: 13666199552
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 0.24
+trailingPE: 115.66667
+trailingPegRatio: 0.4701
+triggerable: false
+twoHundredDayAverage: 23.38095
+twoHundredDayAverageChange: 4.3790493
+twoHundredDayAverageChangePercent: 0.18729132
+typeDisp: Equity
+volume: 377552
+website: https://corporate.zalando.com
+zip: '10243'

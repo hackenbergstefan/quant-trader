@@ -1,0 +1,270 @@
+52WeekChange: -0.079365075
+SandP52WeekChange: 0.097798586
+address1: Lilla Bantorget 15
+allTimeHigh: 152.2
+allTimeLow: 1.271606
+ask: 109.2
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 3333527
+averageDailyVolume3Month: 3623984
+averageVolume: 3623984
+averageVolume10days: 3333527
+beta: 0.85
+bid: 109.1
+bidSize: 0
+boardRisk: 4
+bookValue: 2.244
+city: Stockholm
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anders  Svensson
+  title: President & CEO
+  totalPay: 7250123
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Norbert  Hanke B.Sc. (Econ.)
+  title: Group Executive Vice President
+  totalPay: 1179100
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Enrique  Patrickson
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Burkhard  Boeckem
+  title: Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tom  Hull
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Felix Von Stedingk
+  title: Corporate Communications & Sustainability Manager
+  unexercisedValue: 0
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Madlen  Nicolaus
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hongquan  Li M.Sc.
+  title: President of China Region
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Claudio  Simão B.Sc., M.Sc.
+  title: Advisor to the Chief Executive Officer
+  unexercisedValue: 0
+  yearBorn: 1957
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Benjamin Gulliver Maslen B.Sc.
+  title: Chief Financial Officer of Octave
+  unexercisedValue: 0
+  yearBorn: 1972
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 109.1
+currentRatio: 1.402
+customPriceAlertConfidence: HIGH
+dayHigh: 109.2
+dayLow: 107.45
+debtToEquity: 39.606
+dividendRate: 1.52
+dividendYield: 1.41
+earningsCallTimestampEnd: 1792742400
+earningsCallTimestampStart: 1792742400
+earningsTimestamp: 1792769400
+earningsTimestampEnd: 1792769400
+earningsTimestampStart: 1792769400
+ebitda: 1536300032
+ebitdaMargins: 0.27727
+enterpriseToEbitda: 187.778
+enterpriseToRevenue: 52.065
+enterpriseValue: 288483049472
+epsCurrentYear: 0.32023
+epsForward: 5.33
+epsTrailingTwelveMonths: 10.09
+esgPopulated: false
+exDividendDate: 1777248000
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 46 86 01 26 21
+fiftyDayAverage: 101.6548
+fiftyDayAverageChange: 7.445198
+fiftyDayAverageChangePercent: 0.073240004
+fiftyTwoWeekChangePercent: -7.936507
+fiftyTwoWeekHigh: 118.35
+fiftyTwoWeekHighChange: -9.25
+fiftyTwoWeekHighChangePercent: -0.078158006
+fiftyTwoWeekLow: 71.57264
+fiftyTwoWeekLowChange: 37.52736
+fiftyTwoWeekLowChangePercent: 0.5243255
+fiftyTwoWeekRange: 71.57264 - 118.35
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 1.19
+floatShares: 2488982022
+forwardEps: 5.33
+forwardPE: 20.469044
+freeCashflow: 1638212480
+fullExchangeName: Stockholm
+fullTimeEmployees: 16117
+fulldayChange: 1.7999954
+fulldayChangePercent: 1.6775353
+fulldayPrice: 109.1
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.65817
+grossProfits: 3646799872
+hasPrePostMarketData: false
+heldPercentInsiders: 0.21542
+heldPercentInstitutions: 0.63368
+impliedSharesOutstanding: 2684377888
+industry: Scientific & Technical Instruments
+industryDisp: Scientific & Technical Instruments
+industryKey: scientific-technical-instruments
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777248000
+lastDividendValue: 0.14
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1621382400
+lastSplitFactor: '7:1'
+longBusinessSummary: Hexagon AB (publ) provides geospatial and industrial enterprise
+  solutions worldwide. It operates in Manufacturing Intelligence, Geosystems, Autonomous
+  Solutions and Octave segments. The company provides autonomy and perception, enterprise
+  software for farms, GNSS positioning, and machine control; airborne and mobile mapping,
+  geospatial content, laser scanning, ERIDAA imagin, lucaid, and M.app enterprise;
+  and asset lifecycle information management, design and visualization, engineering
+  and schematics, enterprise project performance, operations and maintenance, OT/ICS
+  cyber security, and smart digital reality, as well as procurement, fabrication,
+  and construction services. It offers automated measurement systems, CAD/CAM and
+  production software, CAE software, coordinate measuring machines, metrology software,
+  portable measuring systems, quality assurance software, and service and support
+  services. In addition, the company provides evaluation, planning and design; drill
+  and blast; load and haul; mine survey and monitoring; processing; reclamation; operational
+  safety; autonomous operations; and multi-senor technology insights services. Further,
+  it offers anti-jam systems, anti-jam systems, correction services, GNSS and SMART
+  antennas, GNSS/INS receivers and post processing, resilience and integrity technology,
+  and visualization software; HxGN Oncall, Connect, and dC3; forensics and investigations;
+  and AEC software, documentation and verification solutions, total stations, GNNS
+  systems, survey software, detection systems, digital realities platform, monitoring
+  solutions, and airborne solutions. It serves agriculture, geospatial, industrial
+  asset lifecycle, manufacturing, mining, positioning, safety, security, and surveillance
+  industries. The company was founded in 1975 and is headquartered in Stockholm, Sweden.
+longName: Hexagon AB (publ)
+market: se_market
+marketCap: 292865605632
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_875143
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2619000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 288033747382
+numberOfAnalystOpinions: 16
+open: 107.45
+operatingCashflow: 1388999936
+operatingMargins: 0.24334
+overallRisk: 3
+payoutRatio: 0.14479999
+pegRatio: 0.67
+phone: 46 86 01 26 20
+previousClose: 107.3
+priceEpsCurrentYear: 340.69263
+priceHint: 2
+priceToBook: 48.618538
+priceToSalesTrailing12Months: 52.856194
+profitMargins: 0.1849
+quickRatio: 1.114
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.5
+region: US
+regularMarketChange: 1.7999954
+regularMarketChangePercent: 1.6775353
+regularMarketDayHigh: 109.2
+regularMarketDayLow: 107.45
+regularMarketDayRange: 107.45 - 109.2
+regularMarketOpen: 107.45
+regularMarketPreviousClose: 107.3
+regularMarketPrice: 109.1
+regularMarketTime: 1794412374
+regularMarketVolume: 508549
+returnOnAssets: 0.061479997
+returnOnEquity: 0.32772
+revenueGrowth: 0.076
+revenuePerShare: 2.064
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 8
+sharesOutstanding: 2574127888
+shortName: Hexagon AB ser. B
+sourceInterval: 15
+symbol: HEXA-B.ST
+targetHighPrice: 134.50325
+targetLowPrice: 84.66385
+targetMeanPrice: 108.08039
+targetMedianPrice: 110.76282
+totalCash: 1948099968
+totalCashPerShare: 0.726
+totalDebt: 2388900096
+totalRevenue: 5540800000
+tradeable: false
+trailingAnnualDividendRate: 0.14
+trailingAnnualDividendYield: 0.001304753
+trailingEps: 10.09
+trailingPE: 10.812686
+trailingPegRatio: 0.6708
+triggerable: true
+twoHundredDayAverage: 94.07657
+twoHundredDayAverageChange: 15.02343
+twoHundredDayAverageChangePercent: 0.15969364
+typeDisp: Equity
+volume: 508549
+website: https://www.hexagon.com
+zip: 111 23

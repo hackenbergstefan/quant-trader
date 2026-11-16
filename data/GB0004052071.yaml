@@ -1,0 +1,251 @@
+52WeekChange: 0.0011540651
+SandP52WeekChange: 0.097798586
+address1: Misbourne Court
+address2: Rectory Way
+allTimeHigh: 4902.0
+allTimeLow: 19.025
+ask: 3536.0
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 1024472
+averageDailyVolume3Month: 984606
+averageVolume: 984606
+averageVolume10days: 1024472
+beta: 0.986
+bid: 3532.0
+bidSize: 0
+boardRisk: 1
+bookValue: 5.74
+city: Amersham
+companyOfficers:
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Marc Arthur Ronchetti
+  title: Group CEO, Member of Executive Board & Executive Director
+  totalPay: 3066000
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Carole Jean Cran
+  title: CFO, Member of Executive Board & Executive Director
+  totalPay: 1858000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Jennifer Suzanne Ward
+  title: Chief Talent, Culture & Communications Executive, Member of Executive Board
+    and Executive Director
+  totalPay: 1498000
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Funmi  Adegoke
+  title: Chief Sustainability Officer, CEO of Safety Sector & Member of Executive
+    Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Bill  Stoval
+  title: Healthcare Sector Chief Executive & Member of the Executive Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Steve  Brown
+  title: Environmental & Analysis Sector Chief Executive and Member of Executive Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Charles  King
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Robert  Lewis
+  title: Divisional Chief Executive of Environmental & Analysis Sector
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Mark Alun Jenkins
+  title: Company Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 3535.594
+currentRatio: 2.143
+customPriceAlertConfidence: LOW
+dayHigh: 3560.0
+dayLow: 3512.0
+debtToEquity: 42.131
+dividendRate: 0.25
+dividendYield: 0.71
+earningsCallTimestampEnd: 1795105800
+earningsCallTimestampStart: 1795105800
+earningsGrowth: 0.16
+earningsQuarterlyGrowth: 0.158
+earningsTimestamp: 1795105800
+earningsTimestampEnd: 1795105800
+earningsTimestampStart: 1795105800
+ebitda: 622800000
+ebitdaMargins: 0.24118
+enterpriseToEbitda: 22.279
+enterpriseToRevenue: 5.373
+enterpriseValue: 13875436544
+epsCurrentYear: 1.34474
+epsForward: 1.48684
+epsTrailingTwelveMonths: 0.98
+esgPopulated: false
+exDividendDate: 1783555200
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 3486.28
+fiftyDayAverageChange: 49.313965
+fiftyDayAverageChangePercent: 0.014145154
+fiftyTwoWeekChangePercent: 0.11540651
+fiftyTwoWeekHigh: 4902.0
+fiftyTwoWeekHighChange: -1366.406
+fiftyTwoWeekHighChangePercent: -0.2787446
+fiftyTwoWeekLow: 3198.0
+fiftyTwoWeekLowChange: 337.594
+fiftyTwoWeekLowChangePercent: 0.1055641
+fiftyTwoWeekRange: 3198.0 - 4902.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 0.77
+floatShares: 373100814
+forwardEps: 1.48684
+forwardPE: 23.779251
+freeCashflow: 261262496
+fullExchangeName: LSE
+fullTimeEmployees: 9000
+fulldayChange: 65.593994
+fulldayChangePercent: 1.8903168
+fulldayPrice: 3535.594
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.49959
+grossProfits: 1290099968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.01071
+heldPercentInstitutions: 0.52457
+impliedSharesOutstanding: 377678275
+industry: Conglomerates
+industryDisp: Conglomerates
+industryKey: conglomerates
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1783555200
+lastDividendValue: 0.1511
+lastFiscalYearEnd: 1774915200
+lastSplitDate: 871257600
+lastSplitFactor: '4:3'
+longBusinessSummary: 'Halma plc, together with its subsidiaries, provides technology
+  solutions in the safety, health, and environmental markets in the United States,
+  Mainland Europe, the United Kingdom, the Asia Pacific, Africa, the Middle East,
+  and internationally. The company operates in three segments: Safety, Environmental
+  & Analysis, and Healthcare. Its Safety segment provides products that protect people,
+  assets, and infrastructure used in public and commercial spaces and in industrial
+  and logistics operations. This segment serves fire safety, public safety, worker
+  safety, and infrastructure and asset safety markets. The Environmental & Analysis
+  segment offers technologies that monitor the environment used in optical solutions,
+  water analysis and treatment system, and environmental monitoring technologies.
+  Its Healthcare segment provides technologies and digital solutions for healthcare
+  enablement, discovery, prevention, and diagnostics, and therapeutic solutions. The
+  company also designs and manufactures differentiated orthobiologic products. Halma
+  plc was incorporated in 1894 and is headquartered in Amersham, the United Kingdom.'
+longName: Halma plc
+market: gb_market
+marketCap: 13353169920
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874804
+mostRecentQuarter: 1774915200
+netIncomeToCommon: 372300000
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 13105436142
+numberOfAnalystOpinions: 18
+open: 3524.0
+operatingCashflow: 480600000
+operatingMargins: 0.2054
+overallRisk: 1
+payoutRatio: 0.24190001
+pegRatio: 1.7
+phone: 44 1494 721111
+previousClose: 3470.0
+priceEpsCurrentYear: 2629.2026
+priceHint: 2
+priceToBook: 6.1595716
+priceToSalesTrailing12Months: 5.1710377
+profitMargins: 0.14417
+quickRatio: 1.412
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.94444
+region: US
+regularMarketChange: 65.593994
+regularMarketChangePercent: 1.8903168
+regularMarketDayHigh: 3560.0
+regularMarketDayLow: 3512.0
+regularMarketDayRange: 3512.0 - 3560.0
+regularMarketOpen: 3524.0
+regularMarketPreviousClose: 3470.0
+regularMarketPrice: 3535.594
+regularMarketTime: 1794411473
+regularMarketVolume: 351854
+returnOnAssets: 0.0951
+returnOnEquity: 0.18306999
+revenueGrowth: 0.146
+revenuePerShare: 6.837
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 377678275
+shortName: HALMA PLC ORD 10P
+sourceInterval: 15
+symbol: HLMA.L
+targetHighPrice: 5180.0
+targetLowPrice: 3650.0
+targetMeanPrice: 4401.667
+targetMedianPrice: 4375.0
+totalCash: 143400000
+totalCashPerShare: 0.38
+totalDebt: 913400000
+totalRevenue: 2582299904
+tradeable: false
+trailingAnnualDividendRate: 0.247
+trailingAnnualDividendYield: 7.118155e-05
+trailingEps: 0.98
+trailingPE: 36.07749
+trailingPegRatio: 1.7202
+triggerable: false
+twoHundredDayAverage: 3872.37
+twoHundredDayAverageChange: -336.77612
+twoHundredDayAverageChangePercent: -0.08696899
+typeDisp: Equity
+volume: 351854
+website: https://www.halma.com
+zip: HP7 0DE

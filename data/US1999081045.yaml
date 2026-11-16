@@ -1,0 +1,284 @@
+52WeekChange: 0.13640845
+SandP52WeekChange: 0.097798586
+address1: 9753 Katy Freeway
+address2: Suite 700
+allTimeHigh: 2073.99
+allTimeLow: 1.65
+ask: 1167.35
+askSize: 10
+auditRisk: 9
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 940850
+averageDailyVolume3Month: 486025
+averageVolume: 486025
+averageVolume10days: 940850
+beta: 1.643
+bid: 1165.83
+bidSize: 20
+boardRisk: 3
+bookValue: 95.467
+city: Houston
+companyOfficers:
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian E. Lane
+  title: CEO & Director
+  totalPay: 4371003
+  unexercisedValue: 0
+  yearBorn: 1957
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Trent T. McKenna J.D.
+  title: President
+  totalPay: 2138512
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 60
+  exercisedValue: 10925725
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William  George III
+  title: Executive VP & CFO
+  totalPay: 2331528
+  unexercisedValue: 8017110
+  yearBorn: 1965
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Terrence M. Reed
+  title: Senior VP & Chief Human Resources Officer
+  totalPay: 1128953
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 37
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laura Finley Howell J.D.
+  title: Senior Executive Advisor
+  totalPay: 1437002
+  unexercisedValue: 0
+  yearBorn: 1988
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Craig  Sasser
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie S. Shaeff C.P.A.
+  title: Senior VP & Chief Accounting Officer
+  totalPay: 996681
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 34
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rachel R. Eslicker
+  title: Senior VP, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1991
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. R. Dean Tillison
+  title: Regional President
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Brian  Evans
+  title: Regional President
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions:
+- header: Dividend
+  message: FIX announced a cash dividend of $1.00 with an ex-date of Nov. 12, 2026
+  meta:
+    amount: '1.00'
+    dateEpochMs: 1794459600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 1155.765
+currentRatio: 1.146
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 1191.05
+dayLow: 1141.46
+debtToEquity: 11.227
+displayName: Comfort Systems USA
+dividendDate: 1795392000
+dividendRate: 4.0
+dividendYield: 0.36
+earningsCallTimestampEnd: 1792767600
+earningsCallTimestampStart: 1792767600
+earningsGrowth: 0.686
+earningsQuarterlyGrowth: 0.677
+earningsTimestamp: 1792699200
+earningsTimestampEnd: 1792699200
+earningsTimestampStart: 1792699200
+ebitda: 2272187904
+ebitdaMargins: 0.18115
+enterpriseToEbitda: 16.186
+enterpriseToRevenue: 2.932
+enterpriseValue: 36778450944
+epsCurrentYear: 50.7477
+epsForward: 67.15436
+epsTrailingTwelveMonths: 46.3
+esgPopulated: false
+exDividendDate: 1794441600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 1494.7734
+fiftyDayAverageChange: -339.00842
+fiftyDayAverageChangePercent: -0.22679585
+fiftyTwoWeekChangePercent: 13.640844
+fiftyTwoWeekHigh: 2073.99
+fiftyTwoWeekHighChange: -918.225
+fiftyTwoWeekHighChangePercent: -0.44273356
+fiftyTwoWeekLow: 841.66
+fiftyTwoWeekLowChange: 314.10504
+fiftyTwoWeekLowChangePercent: 0.37319708
+fiftyTwoWeekRange: 841.66 - 2073.99
+financialCurrency: USD
+firstTradeDateMilliseconds: 867418200000
+fiveYearAvgDividendYield: 0.29
+floatShares: 34508071
+forwardEps: 67.15436
+forwardPE: 17.210573
+freeCashflow: 2128619008
+fullExchangeName: NYSE
+fullTimeEmployees: 22700
+fulldayChange: 49.83496
+fulldayChangePercent: 4.5061584
+fulldayPrice: 1155.765
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.25698
+grossProfits: 3223336960
+hasPrePostMarketData: true
+heldPercentInsiders: 0.010880001
+heldPercentInstitutions: 0.96569
+impliedSharesOutstanding: 35194329
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=67677&p=irol-IRHome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786579200
+lastDividendValue: 0.9
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Comfort Systems USA, Inc., together with its subsidiaries, provides
+  mechanical and electrical installation, renovation, maintenance, repair, and replacement
+  services for the mechanical and electrical services industry in the United States.
+  The company operates through two segments: Mechanical and Electrical. It offers
+  heating, ventilation, and air conditioning systems, as well as plumbing, electrical,
+  piping and controls, off-site construction, monitoring, and fire protection. The
+  company is also involved in the design, engineering, integration, installation,
+  and start-up of mechanical, electrical, and plumbing (MEP) and related systems in
+  new buildings; and renovation, expansion, maintenance, monitoring, repair, and replacement
+  of systems in existing buildings. In addition, it provides remote monitoring of
+  power usage, temperature, pressure, humidity and air flow for MEP and other building
+  systems. The company serves building owners and developers, general contractors,
+  architects, consulting engineers, and property managers in the commercial, industrial,
+  and institutional markets. Comfort Systems USA, Inc. was founded in 1917 and is
+  headquartered in Houston, Texas.'
+longName: Comfort Systems USA, Inc.
+market: us_market
+marketCap: 40676372480
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_100935
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1631830016
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 38922464270
+numberOfAnalystOpinions: 10
+open: 1181.0
+operatingCashflow: 3006919936
+operatingMargins: 0.16780001
+overallRisk: 8
+payoutRatio: 0.0648
+pegRatio: 0.34
+phone: 713 830 9600
+previousClose: 1105.93
+priceEpsCurrentYear: 22.774727
+priceHint: 2
+priceToBook: 12.106435
+priceToSalesTrailing12Months: 3.2428617
+profitMargins: 0.1301
+quickRatio: 1.105
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.41667
+region: US
+regularMarketChange: 49.83496
+regularMarketChangePercent: 4.5061584
+regularMarketDayHigh: 1191.05
+regularMarketDayLow: 1141.46
+regularMarketDayRange: 1141.46 - 1191.05
+regularMarketOpen: 1181.0
+regularMarketPreviousClose: 1105.93
+regularMarketPrice: 1155.765
+regularMarketTime: 1794413735
+regularMarketVolume: 201952
+returnOnAssets: 0.16882999
+returnOnEquity: 0.58608
+revenueGrowth: 0.537
+revenuePerShare: 356.325
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 9
+sharesOutstanding: 35194329
+sharesPercentSharesOut: 0.024600001
+sharesShort: 864696
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 849979
+shortName: Comfort Systems USA, Inc.
+shortPercentOfFloat: 0.028399998
+shortRatio: 1.65
+sourceInterval: 15
+state: TX
+symbol: FIX
+targetHighPrice: 2053.0
+targetLowPrice: 1050.0
+targetMeanPrice: 1808.5
+targetMedianPrice: 1872.5
+totalCash: 2223799040
+totalCashPerShare: 63.668
+totalDebt: 374432992
+totalRevenue: 12543356928
+tradeable: false
+trailingAnnualDividendRate: 3.0
+trailingAnnualDividendYield: 0.002712649
+trailingEps: 46.3
+trailingPE: 24.962528
+trailingPegRatio: 0.3379
+triggerable: true
+twoHundredDayAverage: 1605.0898
+twoHundredDayAverageChange: -449.32483
+twoHundredDayAverageChangePercent: -0.2799375
+typeDisp: Equity
+volume: 201952
+website: https://comfortsystemsusa.com
+zip: '77024'

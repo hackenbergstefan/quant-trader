@@ -1,0 +1,289 @@
+52WeekChange: -0.30358976
+SandP52WeekChange: 0.097798586
+address1: Unternehmer-Park 3
+allTimeHigh: 1667.0
+allTimeLow: 50.45
+ask: 681.2
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 114746
+averageDailyVolume3Month: 114106
+averageVolume: 114106
+averageVolume10days: 114746
+beta: 0.988
+bid: 680.8
+bidSize: 0
+boardRisk: 4
+bookValue: 56.84
+city: Baar
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steffen  Meister
+  title: Partner & Executive Chairman of the Board of Directors
+  totalPay: 352000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Michael Layton
+  title: CEO, Partner & Global Executive Board Member
+  totalPay: 1874000
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Marcel  Erni
+  title: Co-Founder & Executive Member of the Board of Directors
+  totalPay: 351000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alfred  Gantner
+  title: Co-Founder & Executive Member of Board of Director
+  totalPay: 352000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Urs  Wietlisbach
+  title: Co-Founder & Member of the Board of Director
+  totalPay: 351000
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juri  Jenkner
+  title: Partner & President
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joris  Groflin Liebherr
+  title: Partner, CFO, Head of Finance, Treasury & Member of the Executive Team and
+    Global Exec. Board
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Naf
+  title: Partner, Chairman of Clients, Co-Head Client Solutions Americas & Member
+    of Global Executive Board
+  totalPay: 806000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andreas  Knecht
+  title: Partner & Group General Counsel
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Stephan  Schäli Ph.D.
+  title: Partner, Chief Investment Officer & Global Executive Board Member
+  totalPay: 759000
+  unexercisedValue: 0
+  yearBorn: 1969
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 681.2
+currentRatio: 1.056
+customPriceAlertConfidence: LOW
+dayHigh: 682.0
+dayLow: 675.2
+debtToEquity: 192.836
+dividendDate: 1748304000
+dividendRate: 46.0
+dividendYield: 6.77
+earningsCallTimestampEnd: 1788249600
+earningsCallTimestampStart: 1788249600
+earningsGrowth: -0.12
+earningsQuarterlyGrowth: -0.132
+earningsTimestamp: 1788276600
+earningsTimestampEnd: 1788276600
+earningsTimestampStart: 1788276600
+ebitda: 1504199936
+ebitdaMargins: 0.61005
+enterpriseToEbitda: 13.39
+enterpriseToRevenue: 8.169
+enterpriseValue: 20141348864
+epsCurrentYear: 40.69432
+epsForward: 45.60035
+epsTrailingTwelveMonths: 45.8
+esgPopulated: false
+exDividendDate: 1779408000
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 629.284
+fiftyDayAverageChange: 51.916016
+fiftyDayAverageChangePercent: 0.08250014
+fiftyTwoWeekChangePercent: -30.358976
+fiftyTwoWeekHigh: 1097.5
+fiftyTwoWeekHighChange: -416.3
+fiftyTwoWeekHighChangePercent: -0.37931663
+fiftyTwoWeekLow: 582.6
+fiftyTwoWeekLowChange: 98.60004
+fiftyTwoWeekLowChangePercent: 0.1692414
+fiftyTwoWeekRange: 582.6 - 1097.5
+financialCurrency: CHF
+firstTradeDateMilliseconds: 1143187200000
+fiveYearAvgDividendYield: 3.5
+floatShares: 21218658
+forwardEps: 45.60035
+forwardPE: 14.938482
+freeCashflow: 1683187456
+fullExchangeName: Swiss
+fullTimeEmployees: 2056
+fulldayChange: 2.2000122
+fulldayChangePercent: 0.3240077
+fulldayPrice: 681.2
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.67863
+grossProfits: 1673299968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.16922002
+heldPercentInstitutions: 0.37998
+impliedSharesOutstanding: 25783135
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779408000
+lastDividendValue: 46.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Partners Group Holding AG is a private equity firm specializing
+  in direct, secondary, and primary investments across private equity, private real
+  estate, private infrastructure, private credit, private debt, royalties, and special
+  opportunities. The firm also makes fund of funds investments. It seeks to invest
+  in distressed, special situations, later stage, mature, early venture, mid venture,
+  late venture, industry consolidation, buyouts, recapitalizations, emerging growth,
+  and seed capital. Partners Group's cross-sector royalties strategy invests across
+  several key sectors, including pharmaceuticals, music, broader media & entertainment,
+  and energy transition. For direct private equity investments, the firm invests directly
+  in Technology, Health & Life, Goods & Products, and Services. For its private real
+  estate direct investment practice, it focuses on seeking out properties globally.
+  It also makes investments in private real estate secondaries and primaries and focuses
+  on distressed assets in United States, Europe, and Japan. Under private debt, the
+  firm provides senior debt financing, junior debt lending, broadly syndicated loan,
+  mezzanine financing, alongside secondaries and primaries, CLO debt securities and
+  equity, and participates in add on acquisitions in in first/second lien. It seeks
+  to invest in upper middle markets in Americas, Europe, and Asia. In energy infrastructure,
+  the firm seeks to invest in the areas of midstream, power generation, gas transportation,
+  gas export infrastructure, renewable energy including wind and solar energy. The
+  firm seeks to invest globally with a focus on South Africa, China, India, Philippines,
+  Austria, France, Germany, Switzerland, Russia, Brazil, and Chile. It seeks to invest
+  between 0.50 million ($0.68 million) and 100 million ($137 million) in equity investment
+  in companies with enterprise value between 100 million ($137 million) to 2 billion
+  ($2740 million). While investing in funds, it invests in venture capital, mezzanine,
+  private equity, real estate, distressed, turnaround, and secondary funds. It typically
+  invests between 20 million ($21.17) and 100 million ($105.87) per fund. The firm
+  is a value-add investor targeting majority and minority stake in its investee companies.
+  Partners Group Holding AG was founded in 1996 and is based in Baar, Switzerland
+  with additional offices across North America, South America, Europe, Australia,
+  Asia and Abu Dhabi, United Arab Emirates.
+longName: Partners Group Holding AG
+market: ch_market
+marketCap: 17563471872
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_21863226
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1184600064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 17490948335
+numberOfAnalystOpinions: 14
+open: 676.6
+operatingCashflow: 1938899968
+operatingMargins: 0.59691
+overallRisk: 4
+payoutRatio: 1.0044
+pegRatio: 2.59
+phone: 41 41 784 60 00
+previousClose: 679.0
+priceEpsCurrentYear: 16.739437
+priceHint: 2
+priceToBook: 11.984518
+priceToSalesTrailing12Months: 7.1231174
+profitMargins: 0.48043
+quickRatio: 0.371
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.64286
+region: US
+regularMarketChange: 2.2000122
+regularMarketChangePercent: 0.3240077
+regularMarketDayHigh: 682.0
+regularMarketDayLow: 675.2
+regularMarketDayRange: 675.2 - 682.0
+regularMarketOpen: 676.6
+regularMarketPreviousClose: 679.0
+regularMarketPrice: 681.2
+regularMarketTime: 1794411573
+regularMarketVolume: 24409
+returnOnAssets: 0.14856
+returnOnEquity: 0.75391996
+revenueGrowth: -0.074
+revenuePerShare: 95.548
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 9
+sharesOutstanding: 25783135
+shortName: PARTNERS GROUP N
+sourceInterval: 15
+symbol: PGHN.SW
+targetHighPrice: 910.0
+targetLowPrice: 605.0
+targetMeanPrice: 767.5
+targetMedianPrice: 772.5
+totalCash: 173100000
+totalCashPerShare: 6.72
+totalDebt: 2823500032
+totalRevenue: 2465700096
+tradeable: false
+trailingAnnualDividendRate: 46.0
+trailingAnnualDividendYield: 0.067746684
+trailingEps: 45.8
+trailingPE: 14.873363
+trailingPegRatio: 2.6077
+triggerable: false
+twoHundredDayAverage: 756.049
+twoHundredDayAverageChange: -74.849
+twoHundredDayAverageChangePercent: -0.09900019
+typeDisp: Equity
+volume: 24409
+website: https://www.partnersgroup.com/en
+zip: '6340'

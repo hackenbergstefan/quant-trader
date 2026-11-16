@@ -1,0 +1,270 @@
+52WeekChange: 0.13429153
+SandP52WeekChange: 0.097798586
+address1: Hulsterweg 82
+allTimeHigh: 62.756256
+allTimeLow: 1.877324
+ask: 50.29
+askSize: 1100
+auditRisk: 2
+averageAnalystRating: 2.9 - Hold
+averageDailyVolume10Day: 4513130
+averageDailyVolume3Month: 3764228
+averageVolume: 3764228
+averageVolume10days: 4513130
+beta: 0.557
+bid: 50.28
+bidSize: 300
+boardRisk: 2
+bookValue: 16.828
+city: Venlo
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Roland  Sackers
+  title: CFO, MD & Member of Management Board
+  totalPay: 1329050
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Antonio  Santos
+  title: Senior VP & Head of Global Operations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel  Wendorff CEFA, CIIA
+  title: VP & Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Gilardi
+  title: VP & Head of Corporate Communications
+  unexercisedValue: 0
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stephany  Foster
+  title: Senior VP & Head of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Thomas  Schweins
+  title: Senior Vice President of Life Science Business Area
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Thomas  Theuringer
+  title: Senior Director & Head of External Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Pascal  Viola
+  title: Senior VP & Head of Corporate Strategy and Business Development
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nitin  Sood
+  title: Senior VP & Head of Product Portfolio & Innovation
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Michael  Scheffler
+  title: Vice President & Head of Global Sample Technologies
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: USD
+currentPrice: 50.31
+currentRatio: 2.631
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 50.385
+dayLow: 50.255
+debtToEquity: 47.435
+displayName: Qiagen
+dividendDate: 1783987200
+dividendRate: 0.35
+dividendYield: 0.69
+earningsCallTimestampEnd: 1786023000
+earningsCallTimestampStart: 1786023000
+earningsGrowth: -0.192
+earningsQuarterlyGrowth: -0.188
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1801688400
+earningsTimestampStart: 1801688400
+ebitda: 751241984
+ebitdaMargins: 0.35509
+enterpriseToEbitda: 14.969
+enterpriseToRevenue: 5.315
+enterpriseValue: 11245641728
+epsCurrentYear: 2.49025
+epsForward: 2.66451
+epsTrailingTwelveMonths: 1.85
+esgPopulated: false
+exDividendDate: 1783382400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 46.1266
+fiftyDayAverageChange: 4.183403
+fiftyDayAverageChangePercent: 0.09069394
+fiftyTwoWeekChangePercent: 13.429153
+fiftyTwoWeekHigh: 57.82
+fiftyTwoWeekHighChange: -7.5099983
+fiftyTwoWeekHighChangePercent: -0.12988582
+fiftyTwoWeekLow: 32.53
+fiftyTwoWeekLowChange: 17.780003
+fiftyTwoWeekLowChangePercent: 0.5465725
+fiftyTwoWeekRange: 32.53 - 57.82
+financialCurrency: USD
+firstTradeDateMilliseconds: 835968600000
+floatShares: 205165094
+forwardEps: 2.66451
+forwardPE: 18.881521
+freeCashflow: 372880256
+fullExchangeName: NYSE
+fullTimeEmployees: 5400
+fulldayChange: -0.19999695
+fulldayChangePercent: -0.39595518
+fulldayPrice: 50.31
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.66952
+grossProfits: 1416466048
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00481
+heldPercentInstitutions: 0.76897
+impliedSharesOutstanding: 206496521
+industry: Diagnostics & Research
+industryDisp: Diagnostics & Research
+industryKey: diagnostics-research
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1783382400
+lastDividendValue: 0.35
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1485302400
+lastSplitFactor: 962:1000
+longBusinessSummary: Qiagen N.V. provides sample to insight solutions that transform
+  biological samples into molecular insights worldwide. The company offers sample
+  technology consumables, such as nucleic acid stabilization and purification kits
+  for sample materials, manual and automated processing for genotyping, gene expression,
+  and viral and bacterial analysis, as well as silica membranes and magnetic bead
+  technologies; secondary sample technology consumables, including kits and components
+  for purification of nucleic acids; and instruments for nucleic acid purification,
+  quality control, and accessories. It also provides Immune response consumables,
+  such as interferon-gamma release assay for TB testing, and assays for post-transplant
+  testing and viral load monitoring; oncology and sexual and reproductive health consumables,
+  inclsuing assays for prenatal testing and detection of sexually transmitted diseases
+  and HPV; assays for analysis of genomic variants; and sample to insight instruments,
+  including one-step molecular analysis of hard-to-diagnose syndromes, and integrated
+  PCR testing. The company offers research PCR consumables, such as quantitative PCR,
+  reverse transcription, and combinations kits for analysis of gene expression, genotyping
+  and gene regulation, and running on QIAGEN instruments and technologies; human ID/forensics
+  assay consumables comprising short tandem repeat assays for human ID, and assays
+  for food contamination; PCR instruments, including digital PCR and qPCR solutions;
+  and developed and configured enzymes and PCR solutions. It offers NGS gene panels,
+  library prep kits and components, and whole genome amplification; DNA methylation
+  analysis; QIAGEN consumables and instruments; bioinformatics solutions; and sequence-based
+  assays forensic genetic genealog services. it provides software-as-a-service. It
+  serves molecular diagnostics and life sciences sectors. The company was founded
+  in 1984 and is headquartered in Venlo, the Netherlands.
+longName: Qiagen N.V.
+market: us_market
+marketCap: 10388840448
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_33471
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 384932000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 10430139275
+numberOfAnalystOpinions: 11
+open: 50.3
+operatingCashflow: 635075968
+operatingMargins: 0.26705998
+overallRisk: 2
+payoutRatio: 0.18959999
+pegRatio: 1.35
+phone: 31 77 355 6600
+previousClose: 50.51
+priceEpsCurrentYear: 20.202791
+priceHint: 2
+priceToBook: 2.9896603
+priceToSalesTrailing12Months: 4.9104743
+profitMargins: 0.18195
+quickRatio: 1.892
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.91667
+region: US
+regularMarketChange: -0.19999695
+regularMarketChangePercent: -0.39595518
+regularMarketDayHigh: 50.385
+regularMarketDayLow: 50.255
+regularMarketDayRange: 50.255 - 50.385
+regularMarketOpen: 50.3
+regularMarketPreviousClose: 50.51
+regularMarketPrice: 50.31
+regularMarketTime: 1794412421
+regularMarketVolume: 1379729
+returnOnAssets: 0.05652
+returnOnEquity: 0.108059995
+revenueGrowth: 0.029
+revenuePerShare: 10.246
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 5
+sharesOutstanding: 206496521
+sharesPercentSharesOut: 0.031
+sharesShort: 6404422
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7682054
+shortName: Qiagen N.V.
+shortPercentOfFloat: 0.035099998
+shortRatio: 1.21
+sourceInterval: 15
+symbol: QGEN
+targetHighPrice: 53.0
+targetLowPrice: 40.0
+targetMeanPrice: 49.59273
+targetMedianPrice: 52.0
+totalCash: 832856000
+totalCashPerShare: 4.033
+totalDebt: 1648333952
+totalRevenue: 2115649024
+tradeable: false
+trailingAnnualDividendRate: 0.35
+trailingAnnualDividendYield: 0.006929321
+trailingEps: 1.85
+trailingPE: 27.194595
+trailingPegRatio: 1.3492
+triggerable: true
+twoHundredDayAverage: 42.5075
+twoHundredDayAverageChange: 7.8025017
+twoHundredDayAverageChangePercent: 0.18355589
+typeDisp: Equity
+volume: 1379729
+website: https://www.qiagen.com
+zip: 5912 PL

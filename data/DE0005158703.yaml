@@ -1,0 +1,257 @@
+52WeekChange: -0.023631096
+SandP52WeekChange: 0.097798586
+address1: Bechtle Platz 1
+allTimeHigh: 69.75
+allTimeLow: 0.8
+ask: 34.12
+askSize: 51
+auditRisk: 3
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 245490
+averageDailyVolume3Month: 194618
+averageVolume: 194618
+averageVolume10days: 245490
+beta: 0.89
+bid: 34.06
+bidSize: 58
+boardRisk: 3
+bookValue: 16.444
+city: Neckarsulm
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Dr. Thomas  Olemotz Dipl.-Kfm
+  title: CEO & Chairman of The Executive Board
+  totalPay: 2983000
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Mr. Michael  Guschlbauer
+  title: COO & Member of Executive Board
+  totalPay: 1416500
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Mr. Marcus Christian Jehle
+  title: CFO & Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Mr. Konstantin  Ebert
+  title: Member of the Executive Board & COO
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Ms. Gabi  Schepperle
+  title: Head of Group Accounting & Treasury
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Mr. Dirk  Muller-Niessner
+  title: Executive VP of Southern Region - Bechtle Systemhaus Holding AG & CTO
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Mr. Martin  Link
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Ms. Katja  Jager
+  title: Head of Sales Controlling
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Mr. Gozard  Polak
+  title: Managing Director of Bechtle Brussels
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2021
+  maxAge: 1
+  name: Mr. Oliver  Schmidt
+  title: Executive Vice President of Managed Services
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1640908800
+compensationRisk: 9
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 34.1
+currentRatio: 1.864
+customPriceAlertConfidence: LOW
+dayHigh: 34.26
+dayLow: 33.56
+debtToEquity: 53.521
+dividendRate: 0.7
+dividendYield: 2.11
+earningsCallTimestampEnd: 1746772200
+earningsCallTimestampStart: 1746772200
+earningsGrowth: 0.213
+earningsQuarterlyGrowth: 0.213
+earningsTimestamp: 1794587400
+earningsTimestampEnd: 1794587400
+earningsTimestampStart: 1794587400
+ebitda: 435296992
+ebitdaMargins: 0.064380005
+enterpriseToEbitda: 11.127
+enterpriseToRevenue: 0.716
+enterpriseValue: 4843579904
+epsCurrentYear: 2.01253
+epsForward: 2.19652
+epsTrailingTwelveMonths: 1.99
+esgPopulated: false
+exDividendDate: 1781740800
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 34.7496
+fiftyDayAverageChange: -0.649601
+fiftyDayAverageChangePercent: -0.01869377
+fiftyTwoWeekChangePercent: -2.3631096
+fiftyTwoWeekHigh: 45.14
+fiftyTwoWeekHighChange: -11.040001
+fiftyTwoWeekHighChangePercent: -0.24457246
+fiftyTwoWeekLow: 24.56
+fiftyTwoWeekLowChange: 9.539999
+fiftyTwoWeekLowChangePercent: 0.38843644
+fiftyTwoWeekRange: 24.56 - 45.14
+financialCurrency: EUR
+firstTradeDateMilliseconds: 948700800000
+fiveYearAvgDividendYield: 1.52
+floatShares: 81840780
+forwardEps: 2.19652
+forwardPE: 15.524556
+freeCashflow: 5276000
+fullExchangeName: XETRA
+fullTimeEmployees: 16418
+fulldayChange: 0.2199974
+fulldayChangePercent: 0.64934295
+fulldayPrice: 34.1
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.18681
+grossProfits: 1263105024
+hasPrePostMarketData: false
+heldPercentInsiders: 0.35047
+heldPercentInstitutions: 0.41039002
+impliedSharesOutstanding: 126000000
+industry: Information Technology Services
+industryDisp: Information Technology Services
+industryKey: information-technology-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1781740800
+lastDividendValue: 0.7
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1629072000
+lastSplitFactor: '3:1'
+longBusinessSummary: Bechtle AG provides information technology (IT) services in Germany,
+  France, Benelux, and Europe. It operates through IT System House & Managed Services
+  and IT E-Commerce segments. The company offers IT strategy consulting, hardware
+  and software solutions, IT infrastructure consulting, modern workplace, application
+  solutions, project planning and implementation, system integration, maintenance
+  and training to multi cloud and managed services, and IT security services and artificial
+  intelligence. The company also provides data centers workplace, networking, cybersecurity,
+  IoT solutions, data and analytics, engineering and manufacturing, consulting, professional,
+  managed, financial, and e-procurement services. In addition, it offers business
+  applications, including business intelligence, collaboration, customer relationship
+  management, and enterprise resource planning. Bechtle AG was founded in 1983 and
+  is headquartered in Neckarsulm, Germany.
+longName: Bechtle AG
+market: de_market
+marketCap: 4296599552
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_4975204
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 245516992
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 4178160000
+numberOfAnalystOpinions: 10
+open: 34.02
+operatingCashflow: 163835008
+operatingMargins: 0.0531
+overallRisk: 5
+payoutRatio: 0.35900003
+pegRatio: 2.99
+phone: 49 7132 981 0
+previousClose: 33.88
+priceEpsCurrentYear: 16.943846
+priceHint: 2
+priceToBook: 2.0737045
+priceToSalesTrailing12Months: 0.6354461
+profitMargins: 0.036310002
+quickRatio: 1.142
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.4
+region: US
+regularMarketChange: 0.2199974
+regularMarketChangePercent: 0.64934295
+regularMarketDayHigh: 34.26
+regularMarketDayLow: 33.56
+regularMarketDayRange: 33.56 - 34.26
+regularMarketOpen: 34.02
+regularMarketPreviousClose: 33.88
+regularMarketPrice: 34.1
+regularMarketTime: 1794411509
+regularMarketVolume: 60236
+returnOnAssets: 0.05016
+returnOnEquity: 0.12287
+revenueGrowth: 0.165
+revenuePerShare: 53.663
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 126000000
+shortName: BECHTLE AG                    I
+sourceInterval: 15
+symbol: BC8.DE
+targetHighPrice: 49.0
+targetLowPrice: 38.0
+targetMeanPrice: 43.7
+targetMedianPrice: 42.0
+totalCash: 537481024
+totalCashPerShare: 4.266
+totalDebt: 1110043008
+totalRevenue: 6761548800
+tradeable: false
+trailingAnnualDividendRate: 0.7
+trailingAnnualDividendYield: 0.020661157
+trailingEps: 1.99
+trailingPE: 17.135677
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 32.7688
+twoHundredDayAverageChange: 1.3311996
+twoHundredDayAverageChangePercent: 0.040624
+typeDisp: Equity
+volume: 60236
+website: https://www.bechtle.com
+zip: 74 172

@@ -1,0 +1,275 @@
+52WeekChange: -0.5707289
+SandP52WeekChange: 0.097798586
+address1: 300 Boston Scientific Way
+allTimeHigh: 109.5
+allTimeLow: 2.34375
+ask: 45.34
+askSize: 1200
+auditRisk: 10
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 26531050
+averageDailyVolume3Month: 19868629
+averageVolume: 19868629
+averageVolume10days: 26531050
+beta: 0.585
+bid: 45.34
+bidSize: 1000
+boardRisk: 8
+bookValue: 17.682
+city: Marlborough
+companyOfficers:
+- age: 60
+  exercisedValue: 25786816
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael F. Mahoney
+  title: Chairman, President & CEO
+  totalPay: 5732403
+  unexercisedValue: 80468448
+  yearBorn: 1965
+- age: 51
+  exercisedValue: 1713888
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathan R. Monson
+  title: Executive VP & CFO
+  totalPay: 1470301
+  unexercisedValue: 4918464
+  yearBorn: 1974
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vance R. Brown J.D.
+  title: EVP, General Counsel & Corporate Secretary
+  totalPay: 1602123
+  unexercisedValue: 3446400
+  yearBorn: 1970
+- age: 61
+  exercisedValue: 23536068
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph M. Fitzgerald
+  title: Executive VP & Group President of Cardiovascular
+  totalPay: 2396262
+  unexercisedValue: 23706244
+  yearBorn: 1964
+- age: 54
+  exercisedValue: 5381204
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Arthur Crosswell  Butcher
+  title: Executive VP and Group President of MedSurg & Asia Pacific
+  totalPay: 1976990
+  unexercisedValue: 8240690
+  yearBorn: 1971
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paudie  O'Connor
+  title: Executive Vice President of Global Operations
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Emily M. Woodworth
+  title: Senior VP, Global Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam  Smith
+  title: General Manager of Global Sales & Marketing
+  unexercisedValue: 0
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Miriam  O'sullivan
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 45.51
+currentRatio: 1.365
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 45.6
+dayLow: 43.8692
+debtToEquity: 46.199
+displayName: Boston Scientific
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793188800
+earningsCallTimestampStart: 1793188800
+earningsGrowth: -0.215
+earningsQuarterlyGrowth: -0.229
+earningsTimestamp: 1793190600
+earningsTimestampEnd: 1793190600
+earningsTimestampStart: 1793190600
+ebitda: 5569999872
+ebitdaMargins: 0.26436
+enterpriseToEbitda: 13.712
+enterpriseToRevenue: 3.625
+enterpriseValue: 76378456064
+epsCurrentYear: 3.17194
+epsForward: 3.13069
+epsTrailingTwelveMonths: 2.37
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 44.2044
+fiftyDayAverageChange: 1.3055992
+fiftyDayAverageChangePercent: 0.029535504
+fiftyTwoWeekChangePercent: -57.07289
+fiftyTwoWeekHigh: 105.65
+fiftyTwoWeekHighChange: -60.140003
+fiftyTwoWeekHighChangePercent: -0.56923807
+fiftyTwoWeekLow: 39.57
+fiftyTwoWeekLowChange: 5.9399986
+fiftyTwoWeekLowChangePercent: 0.15011369
+fiftyTwoWeekRange: 39.57 - 105.65
+financialCurrency: USD
+firstTradeDateMilliseconds: 706282200000
+floatShares: 1444979855
+forwardEps: 3.13069
+forwardPE: 14.536731
+freeCashflow: 2491875072
+fullExchangeName: NYSE
+fullTimeEmployees: 59000
+fulldayChange: 0.80999756
+fulldayChangePercent: 1.812075
+fulldayPrice: 45.51
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.67977995
+grossProfits: 14323000320
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00265
+heldPercentInstitutions: 0.94866997
+impliedSharesOutstanding: 1449473222
+industry: Medical Devices
+industryDisp: Medical Devices
+industryKey: medical-devices
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=62272&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1068076800
+lastSplitFactor: '2:1'
+longBusinessSummary: Boston Scientific Corporation develops, manufactures, and markets
+  medical devices for use in various interventional medical specialties worldwide.
+  The company operates in two segments, MedSurg and Cardiovascular. It offers devices
+  to diagnose and treat a range of gastrointestinal conditions, such as resolution
+  clips, biliary stent systems, stents and electrocautery enhanced delivery systems,
+  SpyGlass, single-use scopes used for diagnostic and therapeutic procedures in the
+  pancreaticobiliary system, in endoscopic retrograde cholangiopancreatography procedures,
+  and single-use duodenoscopes, as well as endoluminal surgery and infection prevention
+  products; devices to treat urological conditions, including ureteral stents, catheters,
+  baskets, guidewires, urinary and bowel dysfunction, sheaths, balloons, single-use
+  digital flexible ureteroscopes, holmium laser systems, penile implants, artificial
+  urinary sphincter, laser system, and hydrogel systems; and devices to treat neurological
+  movement disorders and manage chronic pain, such as spinal cord stimulator systems,
+  radiofrequency ablation, and intraosseous nerve ablation and deep brain stimulation
+  systems. The company also provides technologies for diagnosing and treating a range
+  of diseases and abnormalities of the heart; WATCHMAN FLX, a left atrial appendage
+  closure (LAAC) device; and implantable devices that monitor the heart and deliver
+  electricity to treat cardiac abnormalities, such as cardioverter and cardiac resynchronization
+  therapy defibrillators, MRI S-ICD systems, cardiac resynchronization therapy pacemakers,
+  remote patient management systems, insertable cardiac monitor systems, and remote
+  cardiac monitoring systems. In addition, it offers diagnosis and treatment of rate
+  and rhythm disorders of the heart; peripheral arterial and venous diseases; and
+  products to diagnose and treat forms of cancer. The company was incorporated in
+  1979 and is headquartered in Marlborough, Massachusetts.
+longName: Boston Scientific Corporation
+market: us_market
+marketCap: 65965527040
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_317627
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3502000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 64791453023
+numberOfAnalystOpinions: 28
+open: 44.06
+operatingCashflow: 4233999872
+operatingMargins: 0.19639
+overallRisk: 7
+payoutRatio: 0.0
+pegRatio: 0.74
+phone: 508 683 4000
+previousClose: 44.7
+priceEpsCurrentYear: 14.347686
+priceHint: 2
+priceToBook: 2.573804
+priceToSalesTrailing12Months: 3.1307795
+profitMargins: 0.16621
+quickRatio: 0.622
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.93548
+region: US
+regularMarketChange: 0.80999756
+regularMarketChangePercent: 1.812075
+regularMarketDayHigh: 45.6
+regularMarketDayLow: 43.8692
+regularMarketDayRange: 43.8692 - 45.6
+regularMarketOpen: 44.06
+regularMarketPreviousClose: 44.7
+regularMarketPrice: 45.51
+regularMarketTime: 1794413733
+regularMarketVolume: 4775285
+returnOnAssets: 0.05867
+returnOnEquity: 0.14116
+revenueGrowth: 0.014
+revenuePerShare: 14.317
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 4
+sharesOutstanding: 1449473222
+sharesPercentSharesOut: 0.0242
+sharesShort: 35113858
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 41410512
+shortName: Boston Scientific Corporation
+shortPercentOfFloat: 0.024300002
+shortRatio: 1.9
+sourceInterval: 15
+state: MA
+symbol: BSX
+targetHighPrice: 60.0
+targetLowPrice: 41.0
+targetMeanPrice: 49.59857
+targetMedianPrice: 49.0
+totalCash: 609000000
+totalCashPerShare: 0.42
+totalDebt: 11953000448
+totalRevenue: 21070000128
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 2.37
+trailingPE: 19.202532
+trailingPegRatio: 0.7403
+triggerable: true
+twoHundredDayAverage: 54.87395
+twoHundredDayAverageChange: -9.363953
+twoHundredDayAverageChangePercent: -0.17064478
+typeDisp: Equity
+volume: 4775285
+website: https://www.bostonscientific.com
+zip: 01752-1234

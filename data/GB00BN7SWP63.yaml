@@ -1,0 +1,276 @@
+52WeekChange: 0.051275015
+SandP52WeekChange: 0.097798586
+address1: 79 New Oxford Street
+allTimeHigh: 2746.588
+allTimeLow: 236.729
+ask: 1881.5
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 8200067
+averageDailyVolume3Month: 6583961
+averageVolume: 6583961
+averageVolume10days: 8200067
+beta: 0.28
+bid: 1881.0
+bidSize: 0
+boardRisk: 3
+bookValue: 4.678
+city: London
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie Belita Brown A.C.A.
+  title: CFO & Executive Director
+  totalPay: 4493000
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 74
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jesse L. Goodman M.D., M.P.H.
+  title: Scientific & Medical Expert
+  totalPay: 61967
+  unexercisedValue: 0
+  yearBorn: 1951
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Luke Victor Miels
+  title: CEO & Director
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shobie  Ramakrishnan
+  title: Chief Digital & Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tony  Wood
+  title: Chief Scientific Officer and Head of R&D
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeff  McLaughlin
+  title: VP of Investor Relations & Interim Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James  Ford
+  title: Senior VP and Group General Counsel of Legal & Compliance
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Simon Redfern BSc (Hons), CA
+  title: President of Corporate Development
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Roanne  Parry
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philip C. Thomson
+  title: President of Global Affairs
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: GSK.L announced a cash dividend of GBp 0.17 with an ex-date of Nov. 12,
+    2026
+  meta:
+    amount: '0.17'
+    dateEpochMs: 1794441600000
+    eventType: DIVIDEND
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 1882.0
+currentRatio: 0.864
+customPriceAlertConfidence: LOW
+dayHigh: 1919.5
+dayLow: 1877.0
+debtToEquity: 129.626
+dividendRate: 0.68
+dividendYield: 3.55
+earningsCallTimestampEnd: 1793188800
+earningsCallTimestampStart: 1793188800
+earningsGrowth: -0.228
+earningsQuarterlyGrowth: -0.233
+earningsTimestamp: 1793205000
+earningsTimestampEnd: 1793205000
+earningsTimestampStart: 1793205000
+ebitda: 11491999744
+ebitdaMargins: 0.34261
+enterpriseToEbitda: 8.467
+enterpriseToRevenue: 2.901
+enterpriseValue: 97300529152
+epsCurrentYear: 1.79497
+epsForward: 1.87864
+epsTrailingTwelveMonths: 1.07
+esgPopulated: false
+exDividendDate: 1794441600
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 1844.33
+fiftyDayAverageChange: 37.670044
+fiftyDayAverageChangePercent: 0.020424785
+fiftyTwoWeekChangePercent: 5.1275015
+fiftyTwoWeekHigh: 2282.0
+fiftyTwoWeekHighChange: -400.0
+fiftyTwoWeekHighChangePercent: -0.17528483
+fiftyTwoWeekLow: 1690.0
+fiftyTwoWeekLowChange: 192.0
+fiftyTwoWeekLowChangePercent: 0.11360947
+fiftyTwoWeekRange: 1690.0 - 2282.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 4.09
+floatShares: 3885442620
+forwardEps: 1.87864
+forwardPE: 10.017885
+freeCashflow: 5553500160
+fullExchangeName: LSE
+fullTimeEmployees: 66841
+fulldayChange: -35.0
+fulldayChangePercent: -1.8257694
+fulldayPrice: 1882.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.73759
+grossProfits: 24740999168
+hasPrePostMarketData: false
+heldPercentInsiders: 0.01867
+heldPercentInstitutions: 0.48169
+impliedSharesOutstanding: 4008939182
+industry: Drug Manufacturers - General
+industryDisp: Drug Manufacturers - General
+industryKey: drug-manufacturers-general
+irWebsite: http://www.gsk.com/investors.html
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794441600
+lastDividendValue: 0.17
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1658188800
+lastSplitFactor: '4:5'
+longBusinessSummary: GSK plc, together with its subsidiaries, engages in the research,
+  development, and manufacture of vaccines, specialty medicines, and general medicines
+  to prevent and treat disease in the United Kingdom, the United States, and internationally.
+  It operates through Commercial Operations and Total R&D segments. The company offers
+  specialty medicines that include oncology, respiratory/immunology, inflammation,
+  and inhaled medicines for HIV, respiratory eosinophildriven diseases, lupus and
+  lupus nephritis, ovarian cancer, and endometrial cancer. It also provides vaccines
+  for Shingles, Meningitis, RSV, Seasonal Influenza, Hepatitis, Diphtheria, Tetanus,
+  Acellular Pertussis, Rotavirus, Pertussis, Polio, Haemophilus, Invasive Diseases,
+  Pneumonia, Acute Otitis Media, Measles, Mumps, Rubella and Chickenpox, and Human
+  Papilloma Virus. Additionally, the company offers general medicines for asthma,
+  COPD, bacterial infection, benign prostatic hyperplasia, allergic rhinitis, and
+  inflammatory skin conditions. It also focuses on the discovery, development, and
+  commercialization of oral small molecule therapies for patients with unmet needs
+  in oncology and inflammatory diseases. It has a collaboration agreement with CureVac
+  to develop mRNA vaccines for infectious diseases; and strategic research collaboration
+  with Engitix Ltd. to identify and validate novel therapeutic targets driving liver
+  fibrosis regression. The company has a strategic alliance with AN2 Therapeutics,
+  Inc. for the development of new therapies for TB. GSK plc was formerly known as
+  GlaxoSmithKline plc and changed its name to GSK plc in May 2022. The company was
+  founded in 1715 and is headquartered in London, United Kingdom.
+longName: GSK plc
+market: gb_market
+marketCap: 75448238080
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_275442
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 4351000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 76851364118
+numberOfAnalystOpinions: 21
+open: 1916.5
+operatingCashflow: 8917999616
+operatingMargins: 0.30543
+overallRisk: 2
+payoutRatio: 0.6361
+pegRatio: 6.48
+phone: 44 20 8047 5000
+prevName: GlaxoSmithKline plc
+previousClose: 1917.0
+priceEpsCurrentYear: 1048.4855
+priceHint: 2
+priceToBook: 4.023087
+priceToSalesTrailing12Months: 2.249299
+profitMargins: 0.12971
+quickRatio: 0.554
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.6087
+region: US
+regularMarketChange: -35.0
+regularMarketChangePercent: -1.8257694
+regularMarketDayHigh: 1919.5
+regularMarketDayLow: 1877.0
+regularMarketDayRange: 1877.0 - 1919.5
+regularMarketOpen: 1916.5
+regularMarketPreviousClose: 1917.0
+regularMarketPrice: 1882.0
+regularMarketTime: 1794411566
+regularMarketVolume: 1432680
+returnOnAssets: 0.096260004
+returnOnEquity: 0.2827
+revenueGrowth: 0.04
+revenuePerShare: 8.353
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 4008939182
+shortName: GSK PLC ORD 31 1/4P
+sourceInterval: 15
+symbol: GSK.L
+targetHighPrice: 3004.0
+targetLowPrice: 1455.0
+targetMeanPrice: 2149.762
+targetMedianPrice: 2100.0
+totalCash: 2961999872
+totalCashPerShare: 0.739
+totalDebt: 23801999360
+totalRevenue: 33543000064
+tradeable: false
+trailingAnnualDividendRate: 0.69
+trailingAnnualDividendYield: 0.0003599374
+trailingEps: 1.07
+trailingPE: 17.588783
+trailingPegRatio: 6.5231
+triggerable: false
+twoHundredDayAverage: 1956.6188
+twoHundredDayAverageChange: -74.618774
+twoHundredDayAverageChangePercent: -0.038136594
+typeDisp: Equity
+volume: 1432680
+website: https://www.gsk.com
+zip: WC1A 1DG

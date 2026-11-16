@@ -1,0 +1,259 @@
+52WeekChange: 0.051185966
+SandP52WeekChange: 0.097798586
+address1: 10, rue Marcel Dassault
+address2: CS 40501
+allTimeHigh: 56.82
+allTimeLow: 1.519
+ask: 0.0
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 2427090
+averageDailyVolume3Month: 1852138
+averageVolume: 1852138
+averageVolume10days: 2427090
+beta: 0.564
+bid: 0.0
+bidSize: 0
+boardRisk: 4
+bookValue: 7.303
+city: Vélizy-Villacoublay
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pascal  Daloz
+  title: Chairman & CEO
+  totalPay: 1996767
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 87
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles  Edelstenne
+  title: Founder & Honorary Chairman of the Board
+  unexercisedValue: 0
+  yearBorn: 1938
+- age: 70
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Genevieve B. Berger M.D., Ph.D.
+  title: Lead Director of Sustainable Development & Independent Director
+  unexercisedValue: 0
+  yearBorn: 1955
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Rouven  Bergmann Ph.D.
+  title: CFO & Executive VP
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pierre  Barnabe
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laurence  Baucher-Barthès
+  title: Executive VP and Chief People & Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sgolne  Moignet
+  title: Corporate Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Victoire  de Margerie
+  title: Vice President of Corporate Marketing, Communication & Identity
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elisa  Prisner
+  title: Executive VP of Strategy, Industry, Marketing & Transformation
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philippe  Laufer
+  title: Executive Vice President of 3DS Global Brands
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 25.43
+currentRatio: 1.772
+customPriceAlertConfidence: LOW
+dayHigh: 25.64
+dayLow: 25.16
+debtToEquity: 28.579
+dividendRate: 0.27
+dividendYield: 1.07
+earningsCallTimestampEnd: 1793194200
+earningsCallTimestampStart: 1793194200
+earningsGrowth: 0.099
+earningsQuarterlyGrowth: 0.058
+earningsTimestamp: 1793205000
+earningsTimestampEnd: 1793205000
+earningsTimestampStart: 1793205000
+ebitda: 1843699968
+ebitdaMargins: 0.29274
+enterpriseToEbitda: 17.574
+enterpriseToRevenue: 5.145
+enterpriseValue: 32400740352
+epsCurrentYear: 1.35333
+epsForward: 1.44639
+epsTrailingTwelveMonths: 0.99
+esgPopulated: false
+exDividendDate: 1779840000
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 22.4618
+fiftyDayAverageChange: 2.9682007
+fiftyDayAverageChangePercent: 0.13214439
+fiftyTwoWeekChangePercent: 5.1185966
+fiftyTwoWeekHigh: 26.39
+fiftyTwoWeekHighChange: -0.9599991
+fiftyTwoWeekHighChangePercent: -0.03637738
+fiftyTwoWeekLow: 15.825
+fiftyTwoWeekLowChange: 9.6050005
+fiftyTwoWeekLowChangePercent: 0.60695106
+fiftyTwoWeekRange: 15.825 - 26.39
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 0.55
+floatShares: 1204866480
+forwardEps: 1.44639
+forwardPE: 17.581703
+freeCashflow: 1620274944
+fullExchangeName: Paris
+fullTimeEmployees: 26999
+fulldayChange: 0.17000008
+fulldayChangePercent: 0.6730011
+fulldayPrice: 25.43
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.84186
+grossProfits: 5302099968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.49051
+heldPercentInstitutions: 0.29948
+impliedSharesOutstanding: 1314247393
+industry: Software - Application
+industryDisp: Software - Application
+industryKey: software-application
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779840000
+lastDividendValue: 0.27
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1625616000
+lastSplitFactor: '5:1'
+longBusinessSummary: "Dassault Systèmes SE provides software solutions and services\
+  \ worldwide. The company offers 3D modeling applications, such as SOLIDWORKS, CATIA,\
+  \ GEOVIA, and BIOVIA; social and collaborative applications, including 3DEXCITE,\
+  \ CENTRIC PLM, and ENOVIA; and simulation applications comprising SIMULIA, DELMIA,\
+  \ 3DVIA. It also provides information intelligence applications consisting of NETVIBES\
+  \ and MEDIDATA; and OUTSCALE, an infrastructure for business experiences, as well\
+  \ as 3DEXPERIENCE platform, a business and innovation platform that provides organizations\
+  \ with a holistic and real-time vision of their business activity and ecosystem.\
+  \ The company distributes its products through direct and indirect sales channels,\
+  \ as well as commercial partners. It primarily serves companies in the aerospace\
+  \ and defense; architecture, engineering and construction; business services; cities\
+  \ and public services; consumer packaged goods \x96 retail; high-tech; home and\
+  \ lifestyle; industrial equipment; infrastructure, energy, and materials; life sciences\
+  \ and healthcare; marine and offshore; and transportation & mobility industries.\
+  \ The company was incorporated in 1981 and is headquartered in Vélizy-Villacoublay,\
+  \ France."
+longName: Dassault Systèmes SE
+market: fr_market
+marketCap: 33421312000
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_355361
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1339600000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 33841870369
+numberOfAnalystOpinions: 20
+open: 25.22
+operatingCashflow: 1863299968
+operatingMargins: 0.25524
+overallRisk: 6
+payoutRatio: 0.2727
+pegRatio: 3.65
+phone: 33 1 61 62 61 62
+previousClose: 25.26
+priceEpsCurrentYear: 18.790688
+priceHint: 2
+priceToBook: 3.4821308
+priceToSalesTrailing12Months: 5.3065705
+profitMargins: 0.21270001
+quickRatio: 1.638
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.66667
+region: US
+regularMarketChange: 0.17000008
+regularMarketChangePercent: 0.6730011
+regularMarketDayHigh: 25.64
+regularMarketDayLow: 25.16
+regularMarketDayRange: 25.16 - 25.64
+regularMarketOpen: 25.22
+regularMarketPreviousClose: 25.26
+regularMarketPrice: 25.43
+regularMarketTime: 1794411509
+regularMarketVolume: 387057
+returnOnAssets: 0.06608
+returnOnEquity: 0.14895001
+revenueGrowth: 0.063
+revenuePerShare: 4.767
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 8
+sharesOutstanding: 1314247393
+shortName: DASSAULT SYSTEMES
+sourceInterval: 15
+symbol: DSY.PA
+targetHighPrice: 33.35
+targetLowPrice: 17.0
+targetMeanPrice: 24.8825
+targetMedianPrice: 24.25
+totalCash: 3814000128
+totalCashPerShare: 2.881
+totalDebt: 2765100032
+totalRevenue: 6298100224
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 0.99
+trailingPE: 25.686869
+trailingPegRatio: 3.6455
+triggerable: false
+twoHundredDayAverage: 19.97425
+twoHundredDayAverageChange: 5.4557495
+twoHundredDayAverageChangePercent: 0.27313912
+typeDisp: Equity
+volume: 387057
+website: https://www.3ds.com
+zip: '78140'

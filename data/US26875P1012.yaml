@@ -1,0 +1,261 @@
+52WeekChange: 0.39332354
+SandP52WeekChange: 0.097798586
+address1: 1111 Bagby Street
+address2: Sky Lobby 2
+allTimeHigh: 165.93
+allTimeLow: 2.03125
+ask: 152.86
+askSize: 200
+auditRisk: 9
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 3822060
+averageDailyVolume3Month: 3064335
+averageVolume: 3064335
+averageVolume10days: 3822060
+beta: 0.269
+bid: 152.74
+bidSize: 100
+boardRisk: 5
+bookValue: 63.664
+city: Houston
+companyOfficers:
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ezra Y. Yacob
+  title: CEO & Chairman
+  totalPay: 4847008
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ann D. Janssen
+  title: Executive VP & CFO
+  totalPay: 1787354
+  unexercisedValue: 1130262
+  yearBorn: 1965
+- age: 45
+  exercisedValue: 393989
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey R. Leitzell
+  title: Executive VP & COO
+  totalPay: 1962005
+  unexercisedValue: 731403
+  yearBorn: 1980
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael P. Donaldson
+  title: Executive VP & Chief Legal Officer
+  totalPay: 1996068
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Laura B. Distefano
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sandeep  Bhakhri
+  title: Senior VP and Chief Information & Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pearce Wheless Hammond Jr., C.F.A.
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Lori A. Geiger
+  title: Vice President of Marketing
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Chase  Krieger
+  title: Vice President of Corporate Development
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Michele L. Hatz
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 152.72
+currentRatio: 1.899
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 153.85
+dayLow: 151.71
+debtToEquity: 24.96
+displayName: EOG Resources
+dividendDate: 1801180800
+dividendRate: 4.4
+dividendYield: 2.9
+earningsCallTimestampEnd: 1793977200
+earningsCallTimestampStart: 1793977200
+earningsGrowth: 0.974
+earningsQuarterlyGrowth: 0.891
+earningsTimestamp: 1793912400
+earningsTimestampEnd: 1793912400
+earningsTimestampStart: 1793912400
+ebitda: 16060999680
+ebitdaMargins: 0.55052
+enterpriseToEbitda: 5.048
+enterpriseToRevenue: 2.779
+enterpriseValue: 81070546944
+epsCurrentYear: 18.79115
+epsForward: 16.54159
+epsTrailingTwelveMonths: 15.49
+esgPopulated: false
+exDividendDate: 1799971200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 713 651 6995
+fiftyDayAverage: 149.5392
+fiftyDayAverageChange: 3.1808014
+fiftyDayAverageChangePercent: 0.021270687
+fiftyTwoWeekChangePercent: 39.332355
+fiftyTwoWeekHigh: 165.93
+fiftyTwoWeekHighChange: -13.209991
+fiftyTwoWeekHighChangePercent: -0.07961184
+fiftyTwoWeekLow: 101.59
+fiftyTwoWeekLowChange: 51.130005
+fiftyTwoWeekLowChangePercent: 0.5032976
+fiftyTwoWeekRange: 101.59 - 165.93
+financialCurrency: USD
+firstTradeDateMilliseconds: 623511000000
+fiveYearAvgDividendYield: 2.61
+floatShares: 516659160
+forwardEps: 16.54159
+forwardPE: 9.232487
+freeCashflow: 5560249856
+fullExchangeName: NYSE
+fullTimeEmployees: 3400
+fulldayChange: 1.2100067
+fulldayChangePercent: 0.7986316
+fulldayPrice: 152.72
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.62984
+grossProfits: 18375000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00285
+heldPercentInstitutions: 0.99342
+impliedSharesOutstanding: 518484224
+industry: Oil & Gas E&P
+industryDisp: Oil & Gas E&P
+industryKey: oil-gas-e-p
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792108800
+lastDividendValue: 1.02
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1396310400
+lastSplitFactor: '2:1'
+longBusinessSummary: EOG Resources, Inc., together with its subsidiaries, explores
+  for, develops, produces, and markets crude oil, natural gas liquids, and natural
+  gas in producing basins in the United States, the Republic of Trinidad and Tobago,
+  and internationally. The company also offers crude oil and condensate, and gathering,
+  processing and marketing. The company was formerly known as Enron Oil & Gas Company.
+  EOG Resources, Inc. was incorporated in 1985 and is headquartered in Houston, Texas.
+longName: EOG Resources, Inc.
+market: us_market
+marketCap: 79182913536
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_269660
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 8185999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 78555544778
+numberOfAnalystOpinions: 29
+open: 152.91
+operatingCashflow: 14060000256
+operatingMargins: 0.3547
+overallRisk: 3
+payoutRatio: 0.2634
+pegRatio: 1.12
+phone: 713 651 7000
+previousClose: 151.51
+priceEpsCurrentYear: 8.127231
+priceHint: 2
+priceToBook: 2.398844
+priceToSalesTrailing12Months: 2.7141604
+profitMargins: 0.28059
+quickRatio: 1.638
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.36364
+region: US
+regularMarketChange: 1.2100067
+regularMarketChangePercent: 0.7986316
+regularMarketDayHigh: 153.85
+regularMarketDayLow: 151.71
+regularMarketDayRange: 151.71 - 153.85
+regularMarketOpen: 152.91
+regularMarketPreviousClose: 151.51
+regularMarketPrice: 152.72
+regularMarketTime: 1794413713
+regularMarketVolume: 479170
+returnOnAssets: 0.11903
+returnOnEquity: 0.25829
+revenueGrowth: 0.427
+revenuePerShare: 55.254
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 2
+sharesOutstanding: 518484224
+sharesPercentSharesOut: 0.0323
+sharesShort: 16749376
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 16296281
+shortName: EOG Resources, Inc.
+shortPercentOfFloat: 0.036199998
+shortRatio: 6.2
+sourceInterval: 15
+state: TX
+symbol: EOG
+targetHighPrice: 213.0
+targetLowPrice: 141.0
+targetMeanPrice: 167.58621
+targetMedianPrice: 165.0
+totalCash: 5746999808
+totalCashPerShare: 11.084
+totalDebt: 8262000128
+totalRevenue: 29173999616
+tradeable: false
+trailingAnnualDividendRate: 4.08
+trailingAnnualDividendYield: 0.026928917
+trailingEps: 15.49
+trailingPE: 9.859264
+trailingPegRatio: 1.1224
+triggerable: true
+twoHundredDayAverage: 138.56975
+twoHundredDayAverageChange: 14.150253
+twoHundredDayAverageChangePercent: 0.102116466
+typeDisp: Equity
+volume: 479170
+website: https://www.eogresources.com
+zip: '77002'

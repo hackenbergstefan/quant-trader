@@ -1,0 +1,279 @@
+52WeekChange: 0.29231894
+SandP52WeekChange: 0.097798586
+address1: 4500 Dorr Street
+allTimeHigh: 255.2
+allTimeLow: 6.166667
+ask: 245.6
+askSize: 200
+auditRisk: 4
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 3472130
+averageDailyVolume3Month: 2775740
+averageVolume: 2775740
+averageVolume10days: 3472130
+beta: 0.787
+bid: 245.41
+bidSize: 700
+boardRisk: 4
+bookValue: 66.369
+city: Toledo
+companyOfficers:
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shankh S. Mitra
+  title: CEO & Director
+  totalPay: 7911537
+  unexercisedValue: 3033959
+  yearBorn: 1981
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy G. McHugh C.F.A.
+  title: Co-President & CFO
+  totalPay: 3201500
+  unexercisedValue: 600609
+  yearBorn: 1985
+- age: 37
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nikhil  Chaudhri
+  title: Co-President & Chief Investment Officer
+  totalPay: 3551850
+  unexercisedValue: 657342
+  yearBorn: 1988
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John F. Burkart
+  title: Vice Chairman & COO
+  totalPay: 2976500
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew Grant McQueen J.D.
+  title: Chief Legal Officer, General Counsel & Corporate Secretary
+  totalPay: 2551500
+  unexercisedValue: 303325
+  yearBorn: 1973
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joshua T. Fieweger
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeff  Stott
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tucker  Joseph
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Olympitis
+  title: Executive VP & Head of Corporate Development
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Pam  Byrne
+  title: Senior VP & Head of Human Capital
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions:
+- header: Dividend
+  message: WELL announced a cash dividend of $0.85 with an ex-date of Nov. 10, 2026
+  meta:
+    amount: '0.85'
+    dateEpochMs: 1794286800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 245.89
+currentRatio: 1.662
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 247.36
+dayLow: 243.8
+debtToEquity: 42.494
+displayName: Welltower
+dividendDate: 1795046400
+dividendRate: 3.4
+dividendYield: 1.37
+earningsCallTimestampEnd: 1793106000
+earningsCallTimestampStart: 1793106000
+earningsGrowth: 0.303
+earningsQuarterlyGrowth: 0.414
+earningsTimestamp: 1793044800
+earningsTimestampEnd: 1793044800
+earningsTimestampStart: 1793044800
+ebitda: 3694594048
+ebitdaMargins: 0.26785
+enterpriseToEbitda: 54.643
+enterpriseToRevenue: 14.636
+enterpriseValue: 201881944064
+epsCurrentYear: 2.74
+epsForward: 3.14
+epsTrailingTwelveMonths: 2.36
+esgPopulated: false
+exDividendDate: 1794268800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 419 247 2826
+fiftyDayAverage: 234.2038
+fiftyDayAverageChange: 11.686203
+fiftyDayAverageChangePercent: 0.04989758
+fiftyTwoWeekChangePercent: 29.231894
+fiftyTwoWeekHigh: 255.2
+fiftyTwoWeekHighChange: -9.309998
+fiftyTwoWeekHighChangePercent: -0.036481183
+fiftyTwoWeekLow: 181.47
+fiftyTwoWeekLowChange: 64.42
+fiftyTwoWeekLowChangePercent: 0.3549898
+fiftyTwoWeekRange: 181.47 - 255.2
+financialCurrency: USD
+firstTradeDateMilliseconds: 322324200000
+fiveYearAvgDividendYield: 2.11
+floatShares: 732553465
+forwardEps: 3.14
+forwardPE: 78.308914
+freeCashflow: 8672651264
+fullExchangeName: NYSE
+fullTimeEmployees: 712
+fulldayChange: -1.7700043
+fulldayChangePercent: -0.7146912
+fulldayPrice: 245.89
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.3923
+grossProfits: 5411138048
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00061
+heldPercentInstitutions: 0.99671
+impliedSharesOutstanding: 733609863
+industry: REIT - Healthcare Facilities
+industryDisp: REIT - Healthcare Facilities
+industryKey: reit-healthcare-facilities
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794268800
+lastDividendValue: 0.85
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 494640000
+lastSplitFactor: '3:2'
+longBusinessSummary: Welltower Inc., an S&P 500 company, is positioned at the center
+  of the silver economy, focusing on rental housing for aging seniors across the United
+  States, United Kingdom, and Canada. Their portfolio of 2,500+ seniors and wellness
+  housing communities are positioned at the intersection of housing and hospitality,
+  creating vibrant communities for mature renters and older adults. They believe our
+  real estate portfolio is unmatched, located in highly attractive micro markets with
+  stunning built environments. Yet, Welltower is an unusual real estate organization
+  as they view themselves as an operating company in a real estate wrapper, driven
+  by highly aligned partnerships and an unconventional culture. Through their disciplined
+  approach to capital allocation powered by their Data Science platform and superior
+  operating results driven by the Welltower Business System - their end-to-end operating
+  platform - they aspire to deliver long-term compounding of per share growth for
+  their existing investors, North Star. Welltower Inc. was incorporated in 1970 in
+  Delaware and is based in Toledo, Ohio.
+longName: Welltower Inc.
+market: us_market
+marketCap: 180387332096
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_277914
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1666701952
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 181685818670
+numberOfAnalystOpinions: 22
+open: 245.9
+operatingCashflow: 3331016960
+operatingMargins: 0.07179
+overallRisk: 9
+payoutRatio: 1.3008
+pegRatio: 3.66
+phone: 419 247 2800
+previousClose: 247.66
+priceEpsCurrentYear: 89.740875
+priceHint: 2
+priceToBook: 3.7048922
+priceToSalesTrailing12Months: 13.077895
+profitMargins: 0.12083
+quickRatio: 1.207
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.54545
+region: US
+regularMarketChange: -1.7700043
+regularMarketChangePercent: -0.7146912
+regularMarketDayHigh: 247.36
+regularMarketDayLow: 243.8
+regularMarketDayRange: 243.8 - 247.36
+regularMarketOpen: 245.9
+regularMarketPreviousClose: 247.66
+regularMarketPrice: 245.89
+regularMarketTime: 1794413753
+regularMarketVolume: 455475
+returnOnAssets: 0.00929
+returnOnEquity: 0.0392
+revenueGrowth: 0.384
+revenuePerShare: 19.537
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 8
+sharesOutstanding: 733609863
+sharesPercentSharesOut: 0.0238
+sharesShort: 17481953
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 17744284
+shortName: Welltower Inc.
+shortPercentOfFloat: 0.0269
+shortRatio: 6.13
+sourceInterval: 15
+state: OH
+symbol: WELL
+targetHighPrice: 292.0
+targetLowPrice: 230.0
+targetMeanPrice: 262.72726
+targetMedianPrice: 265.0
+totalCash: 2274909952
+totalCashPerShare: 3.101
+totalDebt: 21189011456
+totalRevenue: 13793300480
+tradeable: false
+trailingAnnualDividendRate: 3.18
+trailingAnnualDividendYield: 0.012840184
+trailingEps: 2.36
+trailingPE: 104.19068
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 220.538
+twoHundredDayAverageChange: 25.352005
+twoHundredDayAverageChangePercent: 0.11495527
+typeDisp: Equity
+volume: 455475
+website: https://www.welltower.com
+zip: 43615-4040

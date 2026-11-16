@@ -1,0 +1,264 @@
+52WeekChange: 0.0382874
+SandP52WeekChange: 0.097798586
+address1: 222 Berkeley Street
+allTimeHigh: 303.72
+allTimeLow: 0.6
+ask: 189.57
+askSize: 100
+auditRisk: 1
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 2980550
+averageDailyVolume3Month: 2833365
+averageVolume: 2833365
+averageVolume10days: 2980550
+beta: 0.842
+bid: 189.44
+bidSize: 200
+boardRisk: 3
+bookValue: 7.576
+city: Boston
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven O. Vondran J.D.
+  title: President, CEO & Director
+  totalPay: 3325757
+  unexercisedValue: 2707355
+  yearBorn: 1971
+- age: 59
+  exercisedValue: 3163067
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rodney M. Smith
+  title: Executive VP, CFO & Treasurer
+  totalPay: 1647286
+  unexercisedValue: 2776813
+  yearBorn: 1966
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eugene M. Noel
+  title: Executive VP & COO
+  totalPay: 1581269
+  unexercisedValue: 3332160
+  yearBorn: 1969
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ruth T. Dowling
+  title: Executive VP, Chief Administrative Officer, General Counsel & Secretary
+  totalPay: 1547966
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul  Blanchett
+  title: SVP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1984
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Spencer Harris Kurn
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Brenna D. Jones
+  title: SVP & Chief Human Resources Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Colleen Richards Powell
+  title: Senior VP & Chief Diversity, Equity and Inclusion Officer
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juan A. Font
+  title: Senior VP and President & CEO of Coresite
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard C. Rossi Jr.
+  title: Executive VP & President of U.S. Tower
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 189.66
+currentRatio: 0.353
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 190.86
+dayLow: 188.07
+debtToEquity: 463.814
+displayName: American Tower
+dividendDate: 1792454400
+dividendRate: 7.16
+dividendYield: 3.76
+earningsCallTimestampEnd: 1793104200
+earningsCallTimestampStart: 1793104200
+earningsGrowth: -0.099
+earningsQuarterlyGrowth: -0.103
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1793104200
+earningsTimestampStart: 1793104200
+ebitda: 7076599808
+ebitdaMargins: 0.64277
+enterpriseToEbitda: 19.495
+enterpriseToRevenue: 12.531
+enterpriseValue: 137957965824
+epsCurrentYear: 6.99488
+epsForward: 7.00741
+epsTrailingTwelveMonths: 7.1
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 617 375 7575
+fiftyDayAverage: 177.829
+fiftyDayAverageChange: 11.831009
+fiftyDayAverageChangePercent: 0.06653026
+fiftyTwoWeekChangePercent: 3.8287401
+fiftyTwoWeekHigh: 202.5
+fiftyTwoWeekHighChange: -12.839996
+fiftyTwoWeekHighChangePercent: -0.06340739
+fiftyTwoWeekLow: 160.06
+fiftyTwoWeekLowChange: 29.600006
+fiftyTwoWeekLowChangePercent: 0.1849307
+fiftyTwoWeekRange: 160.06 - 202.5
+financialCurrency: USD
+firstTradeDateMilliseconds: 888589800000
+fiveYearAvgDividendYield: 2.99
+floatShares: 462256323
+forwardEps: 7.00741
+forwardPE: 27.065636
+freeCashflow: 3017250048
+fullExchangeName: NYSE
+fullTimeEmployees: 4866
+fulldayChange: -0.70999146
+fulldayChangePercent: -0.37295344
+fulldayPrice: 189.66
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.73517
+grossProfits: 8093899776
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0008
+heldPercentInstitutions: 0.97066003
+impliedSharesOutstanding: 463763555
+industry: REIT - Specialty
+industryDisp: REIT - Specialty
+industryKey: reit-specialty
+irWebsite: http://www.americantower.com/atcweb/irpages/irhome.asp
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 1.79
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: American Tower Corporation one of the largest global REITs, is
+  a leading independent owner, operator and developer of multitenant communications
+  real estate with a portfolio of over 147,000 communications sites and a highly interconnected
+  footprint of U.S. data center facilities. American Tower Corporation was incorporated
+  in 1995 in Delaware and is based in Massachusetts, Boston.
+longName: American Tower Corporation
+market: us_market
+marketCap: 87957397504
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_24766
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 3313499904
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 88286667965
+numberOfAnalystOpinions: 23
+open: 188.07
+operatingCashflow: 5707700224
+operatingMargins: 0.45494
+overallRisk: 1
+payoutRatio: 0.9958
+pegRatio: 1.85
+phone: 617 375 7500
+prevName: American Tower Corporation (REIT)
+previousClose: 190.37
+priceEpsCurrentYear: 27.114117
+priceHint: 2
+priceToBook: 25.034319
+priceToSalesTrailing12Months: 7.9892273
+profitMargins: 0.30097
+quickRatio: 0.306
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.52
+region: US
+regularMarketChange: -0.70999146
+regularMarketChangePercent: -0.37295344
+regularMarketDayHigh: 190.86
+regularMarketDayLow: 188.07
+regularMarketDayRange: 188.07 - 190.86
+regularMarketOpen: 188.07
+regularMarketPreviousClose: 190.37
+regularMarketPrice: 189.66
+regularMarketTime: 1794413727
+regularMarketVolume: 290263
+returnOnAssets: 0.04935
+returnOnEquity: 0.32959998
+revenueGrowth: 0.025
+revenuePerShare: 23.612
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 3
+sharesOutstanding: 463763555
+sharesPercentSharesOut: 0.0136
+sharesShort: 6289825
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7349221
+shortName: American Tower Corporation (REI
+shortPercentOfFloat: 0.0156
+shortRatio: 1.76
+sourceInterval: 15
+state: MA
+symbol: AMT
+targetHighPrice: 260.0
+targetLowPrice: 188.0
+targetMeanPrice: 215.8261
+targetMedianPrice: 210.0
+totalCash: 1871900032
+totalCashPerShare: 4.036
+totalDebt: 45294198784
+totalRevenue: 11009500160
+tradeable: false
+trailingAnnualDividendRate: 7.07
+trailingAnnualDividendYield: 0.037138205
+trailingEps: 7.1
+trailingPE: 26.712677
+trailingPegRatio: 1.8472
+triggerable: true
+twoHundredDayAverage: 177.79526
+twoHundredDayAverageChange: 11.864746
+twoHundredDayAverageChangePercent: 0.06673264
+typeDisp: Equity
+volume: 290263
+website: https://www.americantower.com
+zip: '02116'

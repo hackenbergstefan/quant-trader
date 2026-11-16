@@ -1,0 +1,271 @@
+52WeekChange: -0.18134934
+SandP52WeekChange: 0.097798586
+address1: 2699 Howell Street
+address2: Suite 800
+allTimeHigh: 589.7133
+allTimeLow: 0.372222
+ask: 282.66
+askSize: 40
+auditRisk: 4
+averageAnalystRating: 3.0 - Hold
+averageDailyVolume10Day: 575140
+averageDailyVolume3Month: 384339
+averageVolume: 384339
+averageVolume10days: 575140
+beta: 0.58
+bid: 281.17
+bidSize: 40
+boardRisk: 4
+bookValue: 26.127
+city: Dallas
+companyOfficers:
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tyler  Glover
+  title: President, CEO & Trustee
+  totalPay: 2035450
+  unexercisedValue: 0
+  yearBorn: 1985
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Steddum
+  title: Chief Financial Officer
+  totalPay: 1236350
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Micheal W. Dobbs J.D.
+  title: Senior VP, Secretary & General Counsel
+  totalPay: 923483
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stephanie D. Buffington
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shawn  Amini
+  title: Vice President of Finance & Investor Relations
+  unexercisedValue: 0
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert A. Crain
+  title: Executive Vice President of Texas Pacific Water Resources LLC
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeremy  Smith
+  title: Senior Vice President of Business Development
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katie  Keenan
+  title: Senior VP of Commercial Transactions and Assistant General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lawrence F. Labanowski
+  title: Senior Vice President of Mergers & Acquisitions
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: TPL announced a cash dividend of $0.60 with an ex-date of Dec. 1, 2026
+  meta:
+    amount: '0.60'
+    dateEpochMs: 1796101200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 279.57
+currentRatio: 5.409
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 283.96
+dayLow: 275.63
+debtToEquity: 0.982
+displayName: Texas Pacific Land
+dividendDate: 1797292800
+dividendRate: 2.4
+dividendYield: 0.87
+earningsCallTimestampEnd: 1793892600
+earningsCallTimestampStart: 1793892600
+earningsGrowth: 0.376
+earningsQuarterlyGrowth: 0.38
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1793826000
+earningsTimestampStart: 1793826000
+ebitda: 808473984
+ebitdaMargins: 0.83532995
+enterpriseToEbitda: 22.995
+enterpriseToRevenue: 19.208
+enterpriseValue: 18590646272
+epsForward: 73.12
+epsTrailingTwelveMonths: 8.51
+esgPopulated: false
+exDividendDate: 1796083200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 342.1094
+fiftyDayAverageChange: -62.5394
+fiftyDayAverageChangePercent: -0.18280526
+fiftyTwoWeekChangePercent: -18.134933
+fiftyTwoWeekHigh: 547.2
+fiftyTwoWeekHighChange: -267.63
+fiftyTwoWeekHighChangePercent: -0.4890899
+fiftyTwoWeekLow: 265.31
+fiftyTwoWeekLowChange: 14.26001
+fiftyTwoWeekLowChangePercent: 0.05374848
+fiftyTwoWeekRange: 265.31 - 547.2
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 0.61
+floatShares: 58866443
+forwardEps: 73.12
+forwardPE: 3.8234408
+freeCashflow: 81014624
+fullExchangeName: NYSE
+fullTimeEmployees: 114
+fulldayChange: 4.9400024
+fulldayChangePercent: 1.7987847
+fulldayPrice: 279.57
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.94089997
+grossProfits: 910649024
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00402
+heldPercentInstitutions: 0.7539
+impliedSharesOutstanding: 68974683
+industry: Oil & Gas E&P
+industryDisp: Oil & Gas E&P
+industryKey: oil-gas-e-p
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788220800
+lastDividendValue: 0.6
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1766448000
+lastSplitFactor: '3:1'
+longBusinessSummary: Texas Pacific Land Corporation engages in the land and resource
+  management, and water services and operations businesses. The Land and Resource
+  Management segment manages surface acres of land, and oil and gas royalty interest
+  in Permian Basin. This segment also engages in easements, such as transporting oil,
+  gas and related hydrocarbons, power line and utility, and subsurface wellbore easements.
+  In addition, this segment leases its land for processing, storage, and compression
+  facilities and roads; and is involved in sale of materials, such as caliche, sand,
+  and other material, as well as sells land. The Water Services and Operations segment
+  provides full-service water offerings, including water sourcing, produced-water
+  treatment, infrastructure development, and disposal solutions to operators in the
+  Permian Basin. This segment also holds produced water royalties. The company owns
+  a 1/128th nonparticipating perpetual oil and gas royalty interest (NPRI) under approximately
+  85,000 acres of land; a 1/16th NPRI under approximately 371,000 acres of land; and
+  approximately 33,000 additional net royalty acres, total of approximately 224,000
+  NRA located in the Permian Basin. The company was founded in 1888 and is headquartered
+  in Dallas, Texas.
+longName: Texas Pacific Land Corporation
+market: us_market
+marketCap: 19283251200
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_308037
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 587545984
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 18942517192
+numberOfAnalystOpinions: 2
+open: 280.0
+operatingCashflow: 640931968
+operatingMargins: 0.75738
+overallRisk: 2
+payoutRatio: 0.2742
+pegRatio: 7.33
+phone: 214 969 5530
+prevName: Texas Pacific Land Trust
+previousClose: 274.63
+priceHint: 2
+priceToBook: 10.700425
+priceToSalesTrailing12Months: 19.923883
+profitMargins: 0.60707
+quickRatio: 5.269
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.0
+region: US
+regularMarketChange: 4.9400024
+regularMarketChangePercent: 1.7987847
+regularMarketDayHigh: 283.96
+regularMarketDayLow: 275.63
+regularMarketDayRange: 275.63 - 283.96
+regularMarketOpen: 280.0
+regularMarketPreviousClose: 274.63
+regularMarketPrice: 279.57
+regularMarketTime: 1794413718
+regularMarketVolume: 89341
+returnOnAssets: 0.26083001
+returnOnEquity: 0.37068
+revenueGrowth: 0.346
+revenuePerShare: 14.035
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 5
+sharesOutstanding: 68974683
+sharesPercentSharesOut: 0.0616
+sharesShort: 4248745
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4228958
+shortName: Texas Pacific Land Corporation
+shortPercentOfFloat: 0.0725
+shortRatio: 14.4
+sourceInterval: 15
+state: TX
+symbol: TPL
+targetHighPrice: 639.0
+targetLowPrice: 250.0
+targetMeanPrice: 444.5
+targetMedianPrice: 444.5
+totalCash: 369558016
+totalCashPerShare: 5.358
+totalDebt: 17688000
+totalRevenue: 967846016
+tradeable: false
+trailingAnnualDividendRate: 2.33
+trailingAnnualDividendYield: 0.008484142
+trailingEps: 8.51
+trailingPE: 32.85194
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 400.0619
+twoHundredDayAverageChange: -120.49188
+twoHundredDayAverageChangePercent: -0.3011831
+typeDisp: Equity
+volume: 89341
+website: https://www.texaspacific.com
+zip: '75204'

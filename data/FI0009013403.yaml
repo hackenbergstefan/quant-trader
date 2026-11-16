@@ -1,0 +1,272 @@
+52WeekChange: -0.0136425495
+SandP52WeekChange: 0.097798586
+address1: Keilasatama 3
+address2: PO Box 7
+allTimeHigh: 76.2
+allTimeLow: 5.3875
+ask: 57.5
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 741002
+averageDailyVolume3Month: 645742
+averageVolume: 645742
+averageVolume10days: 741002
+beta: 0.788
+bid: 57.46
+bidSize: 0
+boardRisk: 7
+bookValue: 5.329
+city: Espoo
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philippe  Delorme M.B.A., M.Sc.
+  title: President, CEO & Member of Executive Board
+  totalPay: 2028900
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jussi  Herlin M.Sc.(Econ)
+  title: Executive Vice Chairman
+  totalPay: 229376
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ilkka  Hara M.Sc.
+  title: Executive VP, CFO & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karla Marianne Lindahl
+  title: Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tomio  Pihkala M. Sc.
+  title: CTO & Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mikko  Korte M.Sc.
+  title: Executive VP of Supply Chain & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ken  Schmid
+  title: Executive VP of KONE Americas & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Johannes  Frande
+  title: Secretary to the Board, Executive VP, General Counsel & Member of Executive
+    Board
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Samer  Halabi
+  title: Executive VP of Asia-Pacific, Middle East & Africa and Member of the Executive
+    Board
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joe  Bao
+  title: Executive VP of Greater China & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1982
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: Finland
+cryptoTradeable: false
+currency: EUR
+currentPrice: 57.5
+currentRatio: 1.04
+customPriceAlertConfidence: HIGH
+dayHigh: 58.02
+dayLow: 57.22
+debtToEquity: 24.19
+dividendRate: 1.8
+dividendYield: 3.11
+earningsCallTimestampEnd: 1793176200
+earningsCallTimestampStart: 1793176200
+earningsGrowth: 0.209
+earningsQuarterlyGrowth: 0.196
+earningsTimestamp: 1801240200
+earningsTimestampEnd: 1801240200
+earningsTimestampStart: 1801240200
+ebitda: 1543000064
+ebitdaMargins: 0.13402
+enterpriseToEbitda: 19.01
+enterpriseToRevenue: 2.548
+enterpriseValue: 29332226048
+epsCurrentYear: 2.20922
+epsForward: 2.47889
+epsTrailingTwelveMonths: 1.9
+esgPopulated: false
+exDividendDate: 1772755200
+exchange: HEL
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Helsinki
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fiftyDayAverage: 53.149
+fiftyDayAverageChange: 4.3510017
+fiftyDayAverageChangePercent: 0.08186423
+fiftyTwoWeekChangePercent: -1.364255
+fiftyTwoWeekHigh: 64.42
+fiftyTwoWeekHighChange: -6.919998
+fiftyTwoWeekHighChangePercent: -0.10742003
+fiftyTwoWeekLow: 46.22
+fiftyTwoWeekLowChange: 11.279999
+fiftyTwoWeekLowChangePercent: 0.24405016
+fiftyTwoWeekRange: 46.22 - 64.42
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1117609200000
+fiveYearAvgDividendYield: 3.54
+floatShares: 367245416
+forwardEps: 2.47889
+forwardPE: 23.195866
+freeCashflow: 1066700032
+fullExchangeName: Helsinki
+fullTimeEmployees: 65299
+fulldayChange: -0.34000015
+fulldayChangePercent: -0.58782876
+fulldayPrice: 57.5
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.5648
+grossProfits: 6502400000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.27951
+heldPercentInstitutions: 0.4139
+impliedSharesOutstanding: 518283632
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+irWebsite: http://www.kone.com/corporate/en/Investors/Pages/default.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1772755200
+lastDividendValue: 1.8
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1386028800
+lastSplitFactor: '2:1'
+longBusinessSummary: KONE Oyj, together with its subsidiaries, engages in the elevator
+  and escalator business worldwide. The company provides elevators, escalators, automatic
+  building doors, and integrated access control solutions, as well as maintenance
+  and modernization solutions. It also offers KONE Office Flow, a modular connected
+  people flow solution that delivers personalized access and enhanced user experiences
+  in workplaces; health and well-being solutions for elevators, escalators, and doors;
+  KONE Access, an access control system, which is integrated with elevator system
+  and building doors; KONE Destination, a destination control system that reduce waiting
+  and travel times; KONE infotainment, a communication channel for building tenants
+  and visitors; and monitoring solutions that enable real-time inspection of elevators
+  and escalators. In addition, the company provides people flow planning and consulting
+  services; solutions for special buildings and large projects; cybersecurity solutions;
+  and energy solutions for greener buildings. It also offers hands-on, immersive training
+  to technicians, engineers, and service professional through a training center in
+  Egypt. KONE Oyj was founded in 1908 and is based in Espoo, Finland.
+longName: KONE Oyj
+market: fi_market
+marketCap: 29801310208
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_686868
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 987699968
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 29977525274
+numberOfAnalystOpinions: 21
+open: 57.64
+operatingCashflow: 1366000000
+operatingMargins: 0.11851
+overallRisk: 8
+payoutRatio: 0.9474
+pegRatio: 1.98
+phone: 358 204 751
+previousClose: 57.84
+priceEpsCurrentYear: 26.027287
+priceHint: 2
+priceToBook: 10.790017
+priceToSalesTrailing12Months: 2.588537
+profitMargins: 0.08579001
+quickRatio: 0.723
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.33333
+region: US
+regularMarketChange: -0.34000015
+regularMarketChangePercent: -0.58782876
+regularMarketDayHigh: 58.02
+regularMarketDayLow: 57.22
+regularMarketDayRange: 57.22 - 58.02
+regularMarketOpen: 57.64
+regularMarketPreviousClose: 57.84
+regularMarketPrice: 57.5
+regularMarketTime: 1794412397
+regularMarketVolume: 85923
+returnOnAssets: 0.093439996
+returnOnEquity: 0.37504002
+revenueGrowth: 0.052
+revenuePerShare: 22.298
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 9
+sharesOutstanding: 442074920
+shortName: KONE Corporation
+sourceInterval: 15
+symbol: KNEBV.HE
+targetHighPrice: 82.0
+targetLowPrice: 46.0
+targetMeanPrice: 60.02857
+targetMedianPrice: 60.0
+totalCash: 1358599936
+totalCashPerShare: 2.621
+totalDebt: 676899968
+totalRevenue: 11512800256
+tradeable: false
+trailingAnnualDividendRate: 1.8
+trailingAnnualDividendYield: 0.031120332
+trailingEps: 1.9
+trailingPE: 30.263159
+trailingPegRatio: 1.9747
+triggerable: true
+twoHundredDayAverage: 53.7431
+twoHundredDayAverageChange: 3.7569008
+twoHundredDayAverageChangePercent: 0.069904804
+typeDisp: Equity
+volume: 85923
+website: https://www.kone.com
+zip: '02150'

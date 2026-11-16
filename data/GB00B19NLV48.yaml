@@ -1,0 +1,252 @@
+52WeekChange: -0.104724646
+SandP52WeekChange: 0.097798586
+address1: 2 Cumberland Place
+address2: Fenian Street
+allTimeHigh: 4101.0
+allTimeLow: 250.0
+ask: 2975.0
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 1446415
+averageDailyVolume3Month: 2341541
+averageVolume: 2341541
+averageVolume10days: 1446415
+beta: 0.89
+bid: 2974.0
+bidSize: 0
+boardRisk: 4
+bookValue: 4.603485
+city: Dublin
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Brian J. Cassin
+  title: CEO & Executive Director
+  totalPay: 8090000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Lloyd Mark Pitchford
+  title: CFO & Executive Director
+  totalPay: 4809000
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Nadia  Ridout-Jamieson Ph.D.
+  title: Chief Communications Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Darryl  Gibson
+  title: Group General Counsel
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Jacqueline Theresa Simmonds
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Dayna  Parker
+  title: Chief Human Resources Officer of Experian North America
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Gerry  Tschopp
+  title: Head of Global External Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Vijay  Mehta
+  title: Chief AI Officer
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Alexander M. Lintner
+  title: Chief Executive Officer of Experian Technology, Software Solutions & Innovation
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Valdemir  Bertolo
+  title: Chief Executive Officer of Experian Latin America
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 3
+corporateActions: []
+country: Ireland
+cryptoTradeable: false
+currency: GBp
+currentPrice: 2975.0
+currentRatio: 0.854
+customPriceAlertConfidence: LOW
+dayHigh: 3000.169
+dayLow: 2935.0
+debtToEquity: 100.322
+dividendRate: 0.52
+dividendYield: 1.74
+earningsCallTimestampEnd: 1779265800
+earningsCallTimestampStart: 1779265800
+earningsGrowth: 0.231
+earningsQuarterlyGrowth: 0.224
+earningsTimestamp: 1795019400
+earningsTimestampEnd: 1795019400
+earningsTimestampStart: 1795019400
+ebitda: 2540000000
+ebitdaMargins: 0.30076998
+enterpriseToEbitda: 12.62
+enterpriseToRevenue: 3.796
+enterpriseValue: 32055166976
+epsCurrentYear: 2.01103
+epsForward: 1.6958908
+epsTrailingTwelveMonths: 1.22
+esgPopulated: false
+exDividendDate: 1782345600
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fax: 353 1 846 9150
+fiftyDayAverage: 2792.46
+fiftyDayAverageChange: 182.54004
+fiftyDayAverageChangePercent: 0.0653689
+fiftyTwoWeekChangePercent: -10.472465
+fiftyTwoWeekHigh: 3568.0
+fiftyTwoWeekHighChange: -593.0
+fiftyTwoWeekHighChangePercent: -0.16619955
+fiftyTwoWeekLow: 2203.0
+fiftyTwoWeekLowChange: 772.0
+fiftyTwoWeekLowChangePercent: 0.35043123
+fiftyTwoWeekRange: 2203.0 - 3568.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 1160377200000
+fiveYearAvgDividendYield: 1.4
+floatShares: 897269721
+forwardEps: 1.6958908
+forwardPE: 17.542404
+freeCashflow: 911249984
+fullExchangeName: LSE
+fullTimeEmployees: 25200
+fulldayChange: 0.0
+fulldayChangePercent: 0.0
+fulldayPrice: 2975.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.42013
+grossProfits: 3548000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00224
+heldPercentInstitutions: 0.54601
+impliedSharesOutstanding: 875983604
+industry: Consulting Services
+industryDisp: Consulting Services
+industryKey: consulting-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1782345600
+lastDividendValue: 0.359345
+lastFiscalYearEnd: 1774915200
+longBusinessSummary: 'Experian plc, together with its subsidiaries, operates as a
+  data and technology company in North America, Latin America, the United Kingdom,
+  Ireland, Europe, the Middle East, Africa, and the Asia Pacific. It operates through
+  two segments: Business-to-Business and Consumer Services. The company provides data,
+  software, and AI-enabled analytics integrate directly into client workflows to support
+  decisioning, risk management, fraud prevention and customer engagement at scale;
+  credit information, affordability insights, identity protection and personalized
+  offers. It serves its customers in financial service, health, automotive, and marketing
+  services. The company was formerly known as Experian Group Limited and changed its
+  name to Experian plc in July 2008. Experian plc was founded in 1826 and is headquartered
+  in Dublin, Ireland.'
+longName: Experian plc
+market: gb_market
+marketCap: 26060513280
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_8122148
+mostRecentQuarter: 1774915200
+netIncomeToCommon: 1502000000
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 26060512219
+numberOfAnalystOpinions: 18
+open: 2935.0
+operatingCashflow: 2239000064
+operatingMargins: 0.24962
+overallRisk: 2
+payoutRatio: 0.3841
+pegRatio: 1.38
+phone: 353 1 846 9100
+previousClose: 2975.0
+priceEpsCurrentYear: 1479.3414
+priceHint: 2
+priceToBook: 6.4624953
+priceToSalesTrailing12Months: 3.0859103
+profitMargins: 0.17785999
+quickRatio: 0.847
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.55556
+region: US
+regularMarketChange: 0.0
+regularMarketChangePercent: 0.0
+regularMarketDayHigh: 3000.169
+regularMarketDayLow: 2935.0
+regularMarketDayRange: 2935.0 - 3000.169
+regularMarketOpen: 2935.0
+regularMarketPreviousClose: 2975.0
+regularMarketPrice: 2975.0
+regularMarketTime: 1794411538
+regularMarketVolume: 388799
+returnOnAssets: 0.09696
+returnOnEquity: 0.28258
+revenueGrowth: 0.123
+revenuePerShare: 9.25
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 875983604
+shortName: EXPERIAN PLC ORD USD0.10
+sourceInterval: 15
+symbol: EXPN.L
+targetHighPrice: 4760.3545
+targetLowPrice: 2442.057
+targetMeanPrice: 3701.9697
+targetMedianPrice: 3678.968
+totalCash: 337000000
+totalCashPerShare: 0.375
+totalDebt: 5600999936
+totalRevenue: 8445000192
+tradeable: false
+trailingAnnualDividendRate: 0.693
+trailingAnnualDividendYield: 0.00023294118
+trailingEps: 1.22
+trailingPE: 24.385246
+trailingPegRatio: 1.3551
+triggerable: false
+twoHundredDayAverage: 2708.821
+twoHundredDayAverageChange: 266.17896
+twoHundredDayAverageChangePercent: 0.09826376
+typeDisp: Equity
+volume: 388799
+website: https://www.experianplc.com
+zip: D02 HY05

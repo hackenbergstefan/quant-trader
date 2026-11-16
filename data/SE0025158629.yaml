@@ -1,0 +1,266 @@
+52WeekChange: 0.35348833
+SandP52WeekChange: 0.097798586
+address1: Nytorpsvägen 9
+address2: PO Box 3141
+allTimeHigh: 364.4
+allTimeLow: 2.219567
+ask: 301.4
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 315353
+averageDailyVolume3Month: 278651
+averageVolume: 278651
+averageVolume10days: 315353
+beta: 0.672
+bid: 301.0
+bidSize: 0
+boardRisk: 6
+bookValue: 43.535
+city: Täby
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anders  Lindqvist
+  title: President & CEO
+  totalPay: 20300000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pierre  Brorsson BA, MSc.
+  title: CFO & Senior VP of Corporate Development
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Magnus  Marthinsson
+  title: Senior Vice President of Global Technologies Division
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sven  Chetkovich
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Annika  Haaker
+  title: Senior Vice President People & Culture
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Charlott  Samuelsson
+  title: Senior Vice President of Pattern Generators Division
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lena  Bavegard M.Sc. (Eng.)
+  title: Senior Vice President of Global Functions
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Clemens G. Jargon
+  title: Senior Vice President of PCB Assembly Solutions
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ivan  Li M.Sc.
+  title: Senior Vice President of High Volume Division
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristina  Svanteson
+  title: Sustainability Manager
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 301.2
+currentRatio: 2.284
+customPriceAlertConfidence: HIGH
+dayHigh: 305.6
+dayLow: 297.8
+debtToEquity: 4.881
+dividendRate: 3.25
+dividendYield: 1.12
+earningsCallTimestampEnd: 1792656000
+earningsCallTimestampStart: 1792656000
+earningsGrowth: 1.171
+earningsQuarterlyGrowth: 1.171
+earningsTimestamp: 1792683000
+earningsTimestampEnd: 1792683000
+earningsTimestampStart: 1792683000
+ebitda: 2961999872
+ebitdaMargins: 0.3186
+enterpriseToEbitda: 18.222
+enterpriseToRevenue: 5.806
+enterpriseValue: 53974261760
+epsCurrentYear: 11.10652
+epsForward: 16.37
+epsTrailingTwelveMonths: 10.19
+esgPopulated: false
+exDividendDate: 1778112000
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 46 86 38 52 90
+fiftyDayAverage: 316.964
+fiftyDayAverageChange: -15.763977
+fiftyDayAverageChangePercent: -0.049734283
+fiftyTwoWeekChangePercent: 35.34883
+fiftyTwoWeekHigh: 364.4
+fiftyTwoWeekHighChange: -63.19998
+fiftyTwoWeekHighChangePercent: -0.17343573
+fiftyTwoWeekLow: 183.32
+fiftyTwoWeekLowChange: 117.880005
+fiftyTwoWeekLowChangePercent: 0.64302856
+fiftyTwoWeekRange: 183.32 - 364.4
+financialCurrency: SEK
+firstTradeDateMilliseconds: 952675200000
+fiveYearAvgDividendYield: 1.29
+floatShares: 150391233
+forwardEps: 16.37
+forwardPE: 18.399511
+freeCashflow: 1879250048
+fullExchangeName: Stockholm
+fullTimeEmployees: 2875
+fulldayChange: 10.200012
+fulldayChangePercent: 3.505159
+fulldayPrice: 301.2
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.54877996
+grossProfits: 5102000128
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00204
+heldPercentInstitutions: 0.79240996
+impliedSharesOutstanding: 195293000
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778112000
+lastDividendValue: 3.25
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1748908800
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Mycronic AB (publ) develops, manufactures, and sells production
+  equipment for electronics industry in Sweden, rest of Europe, the United States,
+  other Americas, China, South Korea, rest of Asia, and internationally. It operates
+  through four segments: Pattern Generators, PCB Assembly, High-Volume, and Global
+  Technologies. The Pattern Generators segment develops, manufactures, and markets
+  mask writers and metrology systems for display manufacturing and production of semiconductors.
+  The PCB Assembly segment develops, manufactures, and markets flexible PCB assembly
+  solutions, including jet printing, stencil printing, 3D inspection, component placement,
+  and automated storage solutions. The High-Volume segment develops, manufactures,
+  and markets automated system for dispensing and conformal coating for high-volume
+  electronics production. The Global Technologies segment offers die bonding, PCB
+  test, photonic interconnects, magnetic test, and applied plasma. The company sells
+  its products through agents and distributors. It serves aerospace, defense, medical,
+  and industrial electronics sectors. The company was formerly known as Micronic Mydata
+  AB (publ) and changed its name to Mycronic AB (publ) in June 2014. Mycronic AB (publ)
+  was incorporated in 1989 and is headquartered in Täby, Sweden.'
+longName: Mycronic AB (publ)
+market: se_market
+marketCap: 58822250496
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_418425
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1990000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 56830263000
+numberOfAnalystOpinions: 4
+open: 299.0
+operatingCashflow: 2412000000
+operatingMargins: 0.29418
+overallRisk: 7
+payoutRatio: 0.3189
+pegRatio: 0.42
+phone: 46 86 38 52 00
+previousClose: 291.0
+priceEpsCurrentYear: 27.119207
+priceHint: 2
+priceToBook: 6.9185715
+priceToSalesTrailing12Months: 6.327014
+profitMargins: 0.21405001
+quickRatio: 1.549
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.75
+region: US
+regularMarketChange: 10.200012
+regularMarketChangePercent: 3.505159
+regularMarketDayHigh: 305.6
+regularMarketDayLow: 297.8
+regularMarketDayRange: 297.8 - 305.6
+regularMarketOpen: 299.0
+regularMarketPreviousClose: 291.0
+regularMarketPrice: 301.2
+regularMarketTime: 1794412411
+regularMarketVolume: 155393
+returnOnAssets: 0.14333999
+returnOnEquity: 0.25745
+revenueGrowth: 0.379
+revenuePerShare: 47.614
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 195293000
+shortName: Mycronic AB
+sourceInterval: 15
+symbol: MYCR.ST
+targetHighPrice: 385.0
+targetLowPrice: 242.0
+targetMeanPrice: 319.0
+targetMedianPrice: 324.5
+totalCash: 3271000064
+totalCashPerShare: 16.749
+totalDebt: 415000000
+totalRevenue: 9297000448
+tradeable: false
+trailingAnnualDividendRate: 3.25
+trailingAnnualDividendYield: 0.011168385
+trailingEps: 10.19
+trailingPE: 29.558393
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 285.2907
+twoHundredDayAverageChange: 15.909302
+twoHundredDayAverageChangePercent: 0.05576523
+typeDisp: Equity
+volume: 155393
+website: https://www.mycronic.com
+zip: 183 03

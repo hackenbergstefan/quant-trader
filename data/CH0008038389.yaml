@@ -1,0 +1,243 @@
+52WeekChange: 0.15490532
+SandP52WeekChange: 0.097798586
+address1: Poststrasse 4a
+allTimeHigh: 147.6
+allTimeLow: 40.007393
+ask: 133.1
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 148341
+averageDailyVolume3Month: 119544
+averageVolume: 119544
+averageVolume10days: 148341
+bid: 133.0
+bidSize: 0
+boardRisk: 1
+bookValue: 87.174
+city: Zug
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rene  Zahnd
+  title: Member of Executive Board
+  totalPay: 1326000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Marcel  Kucher
+  title: CEO & Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Martina Claudia Moosmann
+  title: CFO & Member of Group Executive Board
+  unexercisedValue: 0
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anastasius  Tschopp
+  title: CEO of Swiss Prime Site Solutions AG & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karin  Voigt
+  title: Chief Investment Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jürg  Sommer
+  title: Head of Group Legal and Compliance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Samuel  Bergstein
+  title: Head of Acquisitions & Sales
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Urs  Baumann
+  title: Chief Development Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Pfenninger
+  title: Head Group Sustainability
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fabian  Linke
+  title: Head of Business Development & Fundraising
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 133.0
+currentRatio: 0.104
+customPriceAlertConfidence: LOW
+dayHigh: 134.4
+dayLow: 132.7
+debtToEquity: 87.211
+dividendDate: 1742860800
+dividendRate: 3.5
+dividendYield: 2.61
+earningsCallTimestampEnd: 1787212800
+earningsCallTimestampStart: 1787212800
+earningsGrowth: 0.147
+earningsQuarterlyGrowth: 0.172
+earningsTimestamp: 1787239800
+earningsTimestampEnd: 1787239800
+earningsTimestampStart: 1787239800
+ebitda: 430728000
+ebitdaMargins: 0.76956004
+enterpriseToEbitda: 39.123
+enterpriseToRevenue: 30.107
+enterpriseValue: 16851312640
+epsCurrentYear: 3.95164
+epsForward: 4.32077
+epsTrailingTwelveMonths: 5.09
+esgPopulated: false
+exDividendDate: 1774569600
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 125.114
+fiftyDayAverageChange: 7.8860016
+fiftyDayAverageChangePercent: 0.063030526
+fiftyTwoWeekChangePercent: 15.490532
+fiftyTwoWeekHigh: 147.6
+fiftyTwoWeekHighChange: -14.600006
+fiftyTwoWeekHighChangePercent: -0.098916024
+fiftyTwoWeekLow: 115.0
+fiftyTwoWeekLowChange: 18.0
+fiftyTwoWeekLowChangePercent: 0.15652174
+fiftyTwoWeekRange: 115.0 - 147.6
+financialCurrency: CHF
+firstTradeDateMilliseconds: 946972800000
+fiveYearAvgDividendYield: 2.93
+forwardEps: 4.32077
+forwardPE: 30.781551
+freeCashflow: 409999136
+fullExchangeName: Swiss
+fullTimeEmployees: 189
+fulldayChange: -1.199997
+fulldayChangePercent: -0.89418554
+fulldayPrice: 133.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.90186
+grossProfits: 504775008
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0011
+heldPercentInstitutions: 0.67478997
+impliedSharesOutstanding: 80232868
+industry: Real Estate - Diversified
+industryDisp: Real Estate - Diversified
+industryKey: real-estate-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1774569600
+lastDividendValue: 3.5
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1114992000
+lastSplitFactor: '5:1'
+longBusinessSummary: Swiss Prime Site AG, through its subsidiaries, operates as a
+  real estate company in Switzerland. It operates through Real Estate, Asset management,
+  and Corporate & Shared Services segments. The company purchases, develops, sells,
+  and leases properties, as well as financing activities. It is also involved in the
+  funds, asset management, and investment advisory businesses. The company was founded
+  in 1999 and is headquartered in Zug, Switzerland.
+longName: Swiss Prime Site AG
+market: ch_market
+marketCap: 10670970880
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_2444407
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 410732000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 10767366297
+numberOfAnalystOpinions: 7
+open: 133.9
+operatingCashflow: 377152000
+operatingMargins: 0.76195997
+overallRisk: 2
+payoutRatio: 0.6876
+pegRatio: 6.45
+phone: 41 58 317 17 17
+previousClose: 134.2
+priceEpsCurrentYear: 33.656914
+priceHint: 2
+priceToBook: 1.5256842
+priceToSalesTrailing12Months: 19.065315
+profitMargins: 0.73384005
+quickRatio: 0.09
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.75
+region: US
+regularMarketChange: -1.199997
+regularMarketChangePercent: -0.89418554
+regularMarketDayHigh: 134.4
+regularMarketDayLow: 132.7
+regularMarketDayRange: 132.7 - 134.4
+regularMarketOpen: 133.9
+regularMarketPreviousClose: 134.2
+regularMarketPrice: 133.0
+regularMarketTime: 1794411543
+regularMarketVolume: 19271
+returnOnAssets: 0.0185
+returnOnEquity: 0.059359998
+revenueGrowth: -0.001
+revenuePerShare: 6.976
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 1
+sharesOutstanding: 80232868
+shortName: SWISS PRIME SITE N
+sourceInterval: 15
+symbol: SPSN.SW
+targetHighPrice: 150.0
+targetLowPrice: 105.0
+targetMeanPrice: 132.42857
+targetMedianPrice: 128.0
+totalCash: 15875000
+totalCashPerShare: 0.198
+totalDebt: 6099821056
+totalRevenue: 559705984
+tradeable: false
+trailingAnnualDividendRate: 3.5
+trailingAnnualDividendYield: 0.026080478
+trailingEps: 5.09
+trailingPE: 26.129665
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 131.2395
+twoHundredDayAverageChange: 1.760498
+twoHundredDayAverageChangePercent: 0.013414391
+typeDisp: Equity
+volume: 19271
+website: https://sps.swiss
+zip: '6300'

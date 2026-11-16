@@ -1,0 +1,272 @@
+52WeekChange: 0.21642542
+SandP52WeekChange: 0.097798586
+address1: One Strawberry Lane
+allTimeHigh: 163.07
+allTimeLow: 15.0
+ask: 131.58
+askSize: 100
+auditRisk: 7
+averageDailyVolume10Day: 1339500
+averageDailyVolume3Month: 1271731
+averageVolume: 1271731
+averageVolume10days: 1339500
+beta: 0.252
+bid: 131.45
+bidSize: 100
+boardRisk: 4
+bookValue: 53.834
+city: Orrville
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Captain Mark T. Smucker
+  title: CEO, President & Chairman
+  totalPay: 3801159
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Tucker H. Marshall
+  title: CFO and Executive VP of Frozen Handheld & Spreads and Sweet Baked Snacks
+  totalPay: 1658275
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Jill R. Penrose
+  title: Chief People & Administrative Officer and Chief of Staff
+  totalPay: 1305431
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Jeannette L. Knudsen J.D.
+  title: Chief Legal & Governance Officer
+  totalPay: 1350442
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Robert D. Ferguson
+  title: Chief Product Supply Officer and Executive VP of Coffee, Pet & Away from
+    Home
+  totalPay: 1612888
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Douglas  Guilherme
+  title: Senior Vice President of Operations and Supply Chain
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jeffrey  Varcoe Ph.D.
+  title: Senior Vice President of Science & Technical Excellence
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Crystal  Beiting
+  title: Vice President of Investor Relations and FP&A
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Abbey  Linville
+  title: Vice President of Corporate Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Robert  Crane
+  title: Senior VP and Head of Sales & International
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 8
+corporateActions:
+- header: Dividend
+  message: SJM announced a cash dividend of $1.12 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '1.12'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 131.925
+currentRatio: 0.87
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 133.0908
+dayLow: 131.3201
+debtToEquity: 120.682
+displayName: J. M. Smucker
+dividendDate: 1796083200
+dividendRate: 4.48
+dividendYield: 3.35
+earningsCallTimestampEnd: 1795528800
+earningsCallTimestampStart: 1795528800
+earningsTimestamp: 1795527000
+earningsTimestampEnd: 1795527000
+earningsTimestampStart: 1795527000
+ebitda: 2263899904
+ebitdaMargins: 0.24723
+enterpriseToEbitda: 9.35
+enterpriseToRevenue: 2.312
+enterpriseValue: 21168576512
+epsCurrentYear: 10.77271
+epsForward: 10.99296
+epsTrailingTwelveMonths: 2.14
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 124.6618
+fiftyDayAverageChange: 7.2632065
+fiftyDayAverageChangePercent: 0.05826329
+fiftyTwoWeekChangePercent: 21.642542
+fiftyTwoWeekHigh: 136.22
+fiftyTwoWeekHighChange: -4.294998
+fiftyTwoWeekHighChangePercent: -0.031529866
+fiftyTwoWeekLow: 88.25
+fiftyTwoWeekLowChange: 43.675003
+fiftyTwoWeekLowChangePercent: 0.49490088
+fiftyTwoWeekRange: 88.25 - 136.22
+financialCurrency: USD
+firstTradeDateMilliseconds: 783613800000
+fiveYearAvgDividendYield: 3.35
+floatShares: 104516870
+forwardEps: 10.99296
+forwardPE: 12.000863
+freeCashflow: 1464337536
+fullExchangeName: NYSE
+fulldayChange: -1.675003
+fulldayChangePercent: -1.2537447
+fulldayPrice: 131.925
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.37951002
+grossProfits: 3475099904
+hasPrePostMarketData: true
+heldPercentInsiders: 0.02256
+heldPercentInstitutions: 0.91678
+impliedSharesOutstanding: 106823183
+industry: Packaged Foods
+industryDisp: Packaged Foods
+industryKey: packaged-foods
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=77952&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 1.12
+lastFiscalYearEnd: 1777507200
+longBusinessSummary: 'The J. M. Smucker Company manufactures and markets branded food
+  and beverage products worldwide. The company operates through five segments: U.S.
+  Retail Coffee, U.S. Retail Frozen Handheld and Spreads, U.S. Retail Pet Foods, Sweet
+  Baked Snacks, and Away From Home. It offers coffee, sweet baked goods, pet snacks,
+  frozen handheld products, peanut butter, cat and dog food, fruit and specialty spreads,
+  cookies, frozen sandwiches and snacks, hot beverages, portion control products,
+  toppings and syrups, baking mixes and ingredients, and flour. The company provides
+  its products under the Folgers, Café Bustelo, Dunkin'', Jif, Smucker''s, Uncrustables,
+  Meow Mix, Milk-Bone, Pup-Peroni, Canine Carry Outs, Hostess, and 1850 brand names.
+  It sells its products through direct sales and brokers to food retailers, club stores,
+  discount and dollar stores, online retailers, pet specialty stores, distributors,
+  drug stores, military commissaries, mass merchandisers, supermarket chains, national
+  mass retailers, convenience stores, vending channels, and foodservice distributors
+  and operators. The J. M. Smucker Company was founded in 1897 and is headquartered
+  in Orrville, Ohio.'
+longName: The J. M. Smucker Company
+market: us_market
+marketCap: 14092648448
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_303591
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 229500000
+nextFiscalYearEnd: 1809043200
+nonDilutedMarketCap: 14271577248
+numberOfAnalystOpinions: 16
+open: 132.07
+operatingCashflow: 1909900032
+operatingMargins: 0.18556
+overallRisk: 8
+payoutRatio: 2.0561
+pegRatio: 2.17
+phone: 330 682 3000
+previousClose: 133.6
+priceEpsCurrentYear: 12.2462225
+priceHint: 2
+priceToBook: 2.450589
+priceToSalesTrailing12Months: 1.5390196
+profitMargins: 0.02506
+quickRatio: 0.288
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -1.675003
+regularMarketChangePercent: -1.2537447
+regularMarketDayHigh: 133.0908
+regularMarketDayLow: 131.3201
+regularMarketDayRange: 131.3201 - 133.0908
+regularMarketOpen: 132.07
+regularMarketPreviousClose: 133.6
+regularMarketPrice: 131.925
+regularMarketTime: 1794413748
+regularMarketVolume: 181384
+returnOnAssets: 0.06257
+returnOnEquity: 0.03931
+revenueGrowth: 0.05
+revenuePerShare: 85.779
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 8
+sharesOutstanding: 106823183
+sharesPercentSharesOut: 0.0295
+sharesShort: 3146553
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4257083
+shortName: The J.M. Smucker Company
+shortPercentOfFloat: 0.030199999
+shortRatio: 2.88
+sourceInterval: 15
+state: OH
+symbol: SJM
+targetHighPrice: 160.0
+targetLowPrice: 120.0
+targetMeanPrice: 141.8125
+targetMedianPrice: 145.0
+totalCash: 43200000
+totalCashPerShare: 0.404
+totalDebt: 6940199936
+totalRevenue: 9156899840
+tradeable: false
+trailingAnnualDividendRate: 4.42
+trailingAnnualDividendYield: 0.03308383
+trailingEps: 2.14
+trailingPE: 61.647194
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 112.2035
+twoHundredDayAverageChange: 19.721504
+twoHundredDayAverageChangePercent: 0.1757655
+typeDisp: Equity
+volume: 181384
+website: https://www.jmsmucker.com
+zip: 44667-0280

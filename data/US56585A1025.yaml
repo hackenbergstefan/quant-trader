@@ -1,0 +1,291 @@
+52WeekChange: 0.9784155
+SandP52WeekChange: 0.097798586
+address1: 539 South Main Street
+allTimeHigh: 493.98
+allTimeLow: 13.175
+ask: 397.54
+askSize: 160
+auditRisk: 7
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 2727810
+averageDailyVolume3Month: 2548145
+averageVolume: 2548145
+averageVolume10days: 2727810
+beta: 0.509
+bid: 396.96
+bidSize: 80
+boardRisk: 4
+bookValue: 84.396
+city: Findlay
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maryann T. Mannen
+  title: President, CEO & Chairman of the Board
+  totalPay: 5157481
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 58
+  exercisedValue: 1091381
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Molly R. Benson
+  title: Chief Legal Officer & Corporate Secretary
+  totalPay: 1721107
+  unexercisedValue: 1975820
+  yearBorn: 1967
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rick D. Hessling
+  title: Chief Commercial Officer
+  totalPay: 1733780
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria A. Khoury
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Brian  Worthington
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marlon J. Sullivan
+  title: Senior VP of Communications & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian K. Partee
+  title: Chief Business Transformation Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James R. Wilkins
+  title: Senior Vice President of Health, Environment, Safety & Security
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David R. Heppner
+  title: Chief Strategy Officer & Senior VP of Business Development
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ehren D. Powell
+  title: Senior VP & Chief Digital Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: MPC announced a cash dividend of $1.10 with an ex-date of Nov. 18, 2026
+  meta:
+    amount: '1.10'
+    dateEpochMs: 1794978000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 396.585
+currentRatio: 1.446
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 398.6
+dayLow: 391.21
+debtToEquity: 115.416
+displayName: Marathon Petroleum
+dividendDate: 1796860800
+dividendRate: 4.4
+dividendYield: 1.13
+earningsCallTimestampEnd: 1793721600
+earningsCallTimestampStart: 1793721600
+earningsGrowth: 4.896
+earningsQuarterlyGrowth: 4.436
+earningsTimestamp: 1793712600
+earningsTimestampEnd: 1801575000
+earningsTimestampStart: 1801575000
+ebitda: 23747999744
+ebitdaMargins: 0.13539
+enterpriseToEbitda: 5.624
+enterpriseToRevenue: 0.761
+enterpriseValue: 133555560448
+epsCurrentYear: 68.84958
+epsForward: 61.41917
+epsTrailingTwelveMonths: 50.47
+esgPopulated: false
+exDividendDate: 1794960000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 422.4882
+fiftyDayAverageChange: -25.903198
+fiftyDayAverageChangePercent: -0.06131106
+fiftyTwoWeekChangePercent: 97.84155
+fiftyTwoWeekHigh: 493.98
+fiftyTwoWeekHighChange: -97.39502
+fiftyTwoWeekHighChangePercent: -0.1971639
+fiftyTwoWeekLow: 161.93
+fiftyTwoWeekLowChange: 234.655
+fiftyTwoWeekLowChangePercent: 1.4491138
+fiftyTwoWeekRange: 161.93 - 493.98
+financialCurrency: USD
+firstTradeDateMilliseconds: 1308922200000
+fiveYearAvgDividendYield: 1.97
+floatShares: 271449096
+forwardEps: 61.41917
+forwardPE: 6.457023
+freeCashflow: 16243250176
+fullExchangeName: NYSE
+fullTimeEmployees: 18500
+fulldayChange: 7.0350037
+fulldayChangePercent: 1.805931
+fulldayPrice: 396.585
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.16202
+grossProfits: 28418000896
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0034
+heldPercentInstitutions: 0.80802
+impliedSharesOutstanding: 272282280
+industry: Oil & Gas Refining & Marketing
+industryDisp: Oil & Gas Refining & Marketing
+industryKey: oil-gas-refining-marketing
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1787097600
+lastDividendValue: 1.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1433980800
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Marathon Petroleum Corporation, together with its subsidiaries,
+  operates as an integrated downstream energy company in the United States. The company
+  operates through three segments: Refining & Marketing; Midstream; and Renewable
+  Diesel. The Refining & Marketing segment refines crude oil and other feedstocks
+  at its refineries in the Gulf Coast, Mid-Continent, and West Coast regions of the
+  United States; and purchases refined products and ethanol for resale and distributes
+  refined products through transportation, storage, distribution, and marketing services.
+  Its refined products include transportation fuels, such as reformulated gasolines
+  and blend-grade gasolines; heavy fuel oil; and asphalt. This segment also manufactures
+  propane and petrochemicals. The company sells refined products to wholesale marketing
+  customers in the United States and internationally, buyers on the spot market, and
+  independent entrepreneurs who operate primarily Marathon branded outlets, as well
+  as through long-term fuel supply contracts to direct dealer locations primarily
+  under the ARCO brand. The Midstream segment gathers, transports, stores, distributes,
+  and markets crude oil and refined products, including renewable diesel and other
+  hydrocarbon-based products through refining logistics assets, pipelines, terminals,
+  towboats, and barges; gathers, processes, and transports natural gas; and transports,
+  fractionates, stores, and markets natural gas liquids. The Renewable Diesel segment
+  processes renewable feedstocks into renewable diesel, markets, and distributes renewable
+  diesel through its Midstream segment and third parties. It sells renewable diesel
+  to wholesale marketing customers, buyers on the spot market, and through long-term
+  supply contracts to direct dealers under the ARCO brand. Marathon Petroleum Corporation
+  was founded in 1887 and is headquartered in Findlay, Ohio.'
+longName: Marathon Petroleum Corporation
+market: us_market
+marketCap: 107983060992
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_118315802
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 14618000384
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 106067562174
+numberOfAnalystOpinions: 17
+open: 395.95
+operatingCashflow: 25248999424
+operatingMargins: 0.11652
+overallRisk: 6
+payoutRatio: 0.0793
+pegRatio: 0.9
+phone: 419 422 2121
+previousClose: 389.55
+priceEpsCurrentYear: 5.7601657
+priceHint: 2
+priceToBook: 4.6990967
+priceToSalesTrailing12Months: 0.6156424
+profitMargins: 0.08342
+quickRatio: 1.068
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.33333
+region: US
+regularMarketChange: 7.0350037
+regularMarketChangePercent: 1.805931
+regularMarketDayHigh: 398.6
+regularMarketDayLow: 391.21
+regularMarketDayRange: 391.21 - 398.6
+regularMarketOpen: 395.95
+regularMarketPreviousClose: 389.55
+regularMarketPrice: 396.585
+regularMarketTime: 1794413719
+regularMarketVolume: 384796
+returnOnAssets: 0.13753
+returnOnEquity: 0.6046
+revenueGrowth: 0.609
+revenuePerShare: 604.824
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 9
+sharesOutstanding: 272282280
+sharesPercentSharesOut: 0.0234
+sharesShort: 6375498
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7039952
+shortName: Marathon Petroleum Corporation
+shortPercentOfFloat: 0.0273
+shortRatio: 3.15
+sourceInterval: 15
+state: OH
+symbol: MPC
+targetHighPrice: 564.0
+targetLowPrice: 236.0
+targetMeanPrice: 466.9412
+targetMedianPrice: 466.0
+totalCash: 13608999936
+totalCashPerShare: 49.981
+totalDebt: 34453999616
+totalRevenue: 175398993920
+tradeable: false
+trailingAnnualDividendRate: 4.1
+trailingAnnualDividendYield: 0.010524965
+trailingEps: 50.47
+trailingPE: 7.857836
+trailingPegRatio: 0.8983
+triggerable: true
+twoHundredDayAverage: 298.2386
+twoHundredDayAverageChange: 98.346405
+twoHundredDayAverageChangePercent: 0.32975748
+typeDisp: Equity
+volume: 384796
+website: https://www.marathonpetroleum.com
+zip: 45840-3229

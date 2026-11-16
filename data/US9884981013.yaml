@@ -1,0 +1,266 @@
+52WeekChange: 0.072571516
+SandP52WeekChange: 0.097798586
+address1: 1441 Gardiner Lane
+allTimeHigh: 170.14
+allTimeLow: 4.234813
+ask: 158.18
+askSize: 200
+auditRisk: 5
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 2732010
+averageDailyVolume3Month: 2434865
+averageVolume: 2434865
+averageVolume10days: 2732010
+beta: 0.527
+bid: 158.07
+bidSize: 400
+boardRisk: 3
+bookValue: -22.918
+city: Louisville
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher Lee Turner
+  title: CEO & Director
+  totalPay: 3078667
+  unexercisedValue: 6039464
+  yearBorn: 1975
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ranjith  Roy
+  title: Chief Financial Officer
+  totalPay: 1300932
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 52
+  exercisedValue: 5439828
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tracy L. Skeans
+  title: COO and Chief People & Culture Officer
+  totalPay: 2654376
+  unexercisedValue: 12551290
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sean C. Tresvant
+  title: Chief Consumer Officer & CEO of Taco Bell
+  totalPay: 3372865
+  unexercisedValue: 686243
+  yearBorn: 1971
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James A. Dausch
+  title: Chief Digital & Technology Officer and President of Byte by Yum
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew Robert Morris
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Erika  Burkhardt
+  title: Chief Legal Officer & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Andrea  Whitney
+  title: Chief Communications & Community Impact Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ken  Muench
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James  Fripp
+  title: Chief Culture, Opportunity & Belonging Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 158.38
+currentRatio: 0.963
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 159.5
+dayLow: 157.32
+displayName: Yum! Brands
+dividendDate: 1789689600
+dividendRate: 3.0
+dividendYield: 1.87
+earningsCallTimestampEnd: 1793711700
+earningsCallTimestampStart: 1793711700
+earningsGrowth: 3.199
+earningsQuarterlyGrowth: 3.088
+earningsTimestamp: 1801661400
+earningsTimestampEnd: 1801661400
+earningsTimestampStart: 1801661400
+ebitda: 3060000000
+ebitdaMargins: 0.34785
+enterpriseToEbitda: 17.524
+enterpriseToRevenue: 6.096
+enterpriseValue: 53623717888
+epsCurrentYear: 6.39692
+epsForward: 6.72122
+epsTrailingTwelveMonths: 12.42
+esgPopulated: false
+exDividendDate: 1788912000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 147.1516
+fiftyDayAverageChange: 11.228409
+fiftyDayAverageChangePercent: 0.07630504
+fiftyTwoWeekChangePercent: 7.2571516
+fiftyTwoWeekHigh: 170.14
+fiftyTwoWeekHighChange: -11.7599945
+fiftyTwoWeekHighChangePercent: -0.06911951
+fiftyTwoWeekLow: 134.26
+fiftyTwoWeekLowChange: 24.12001
+fiftyTwoWeekLowChangePercent: 0.17965151
+fiftyTwoWeekRange: 134.26 - 170.14
+financialCurrency: USD
+firstTradeDateMilliseconds: 874503000000
+fiveYearAvgDividendYield: 1.84
+floatShares: 267588010
+forwardEps: 6.72122
+forwardPE: 23.564175
+freeCashflow: 1327374976
+fullExchangeName: NYSE
+fullTimeEmployees: 49000
+fulldayChange: -1.8300018
+fulldayChangePercent: -1.1422518
+fulldayPrice: 158.38
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.44697
+grossProfits: 3932000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0016300001
+heldPercentInstitutions: 0.92221
+impliedSharesOutstanding: 268258657
+industry: Restaurants
+industryDisp: Restaurants
+industryKey: restaurants
+irWebsite: http://www.yum.com/investors/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788912000
+lastDividendValue: 0.75
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1477958400
+lastSplitFactor: 1391:1000
+longBusinessSummary: 'Yum! Brands, Inc., together with its subsidiaries, develops,
+  operates, and franchises traditional and non-traditional quick service restaurants
+  in the United States, China, and internationally. The company operates in four segments:
+  KFC Division, Taco Bell Division, Pizza Hut Division, and Habit Burger & Grill Division.
+  It also operates restaurants under the KFC, Pizza Hut, Taco Bell, and Habit Burger
+  & Grill brands, which specialize in chicken, Mexican-style food and pizza categories,
+  made-to-order chargrilled burgers, sandwiches, and other products. The company was
+  formerly known as TRICON Global Restaurants, Inc. and changed its name to Yum! Brands,
+  Inc. in May 2002. Yum! Brands, Inc. was incorporated in 1997 and is headquartered
+  in Louisville, Kentucky.'
+longName: Yum! Brands, Inc.
+market: us_market
+marketCap: 42486808576
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_365997
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3443000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 42977719437
+numberOfAnalystOpinions: 22
+open: 157.89
+operatingCashflow: 2015000064
+operatingMargins: 0.32011002
+overallRisk: 4
+payoutRatio: 0.2383
+pegRatio: 2.13
+phone: 502 874 8300
+previousClose: 160.21
+priceEpsCurrentYear: 24.758791
+priceHint: 2
+priceToBook: -6.9107256
+priceToSalesTrailing12Months: 4.8296933
+profitMargins: 0.39138
+quickRatio: 0.838
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.19231
+region: US
+regularMarketChange: -1.8300018
+regularMarketChangePercent: -1.1422518
+regularMarketDayHigh: 159.5
+regularMarketDayLow: 157.32
+regularMarketDayRange: 157.32 - 159.5
+regularMarketOpen: 157.89
+regularMarketPreviousClose: 160.21
+regularMarketPrice: 158.38
+regularMarketTime: 1794413731
+regularMarketVolume: 422285
+returnOnAssets: 0.22052
+revenueGrowth: 0.038
+revenuePerShare: 31.873
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 7
+sharesOutstanding: 268258657
+sharesPercentSharesOut: 0.0468
+sharesShort: 12555456
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 12410553
+shortName: Yum! Brands, Inc.
+shortPercentOfFloat: 0.053600002
+shortRatio: 5.43
+sourceInterval: 15
+state: KY
+symbol: YUM
+targetHighPrice: 200.0
+targetLowPrice: 150.0
+targetMeanPrice: 174.86818
+targetMedianPrice: 175.5
+totalCash: 2108000000
+totalCashPerShare: 7.858
+totalDebt: 12753999872
+totalRevenue: 8796999680
+tradeable: false
+trailingAnnualDividendRate: 0.75
+trailingAnnualDividendYield: 0.0046813553
+trailingEps: 12.42
+trailingPE: 12.752013
+trailingPegRatio: 2.1344
+triggerable: true
+twoHundredDayAverage: 153.6547
+twoHundredDayAverageChange: 4.7253113
+twoHundredDayAverageChangePercent: 0.030752795
+typeDisp: Equity
+volume: 422285
+website: https://www.yum.com
+zip: '40213'

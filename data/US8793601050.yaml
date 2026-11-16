@@ -1,0 +1,280 @@
+52WeekChange: 0.24392128
+SandP52WeekChange: 0.097798586
+address1: 1049 Camino Dos Rios
+allTimeHigh: 697.67
+allTimeLow: 7.8125
+ask: 654.9
+askSize: 40
+auditRisk: 4
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 408230
+averageDailyVolume3Month: 305212
+averageVolume: 305212
+averageVolume10days: 408230
+beta: 0.877
+bid: 652.72
+bidSize: 80
+boardRisk: 9
+bookValue: 240.936
+city: Thousand Oaks
+companyOfficers:
+- age: 84
+  exercisedValue: 10098536
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Robert  Mehrabian
+  title: Executive Chairman
+  totalPay: 3895863
+  unexercisedValue: 14834877
+  yearBorn: 1941
+- age: 50
+  exercisedValue: 4268415
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. George C. Bobb III
+  title: President, CEO & Director
+  totalPay: 1922981
+  unexercisedValue: 1940271
+  yearBorn: 1975
+- age: 62
+  exercisedValue: 1622875
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephen Finis Blackwood
+  title: CFO & Executive VP
+  totalPay: 1224947
+  unexercisedValue: 3739000
+  yearBorn: 1963
+- age: 65
+  exercisedValue: 2964184
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melanie Susan Cibik J.D.
+  title: Executive VP, General Counsel, Secretary & Chief Compliance Officer
+  totalPay: 1158525
+  unexercisedValue: 2355799
+  yearBorn: 1960
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott  Hudson
+  title: VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason W. Connell
+  title: Senior VP of Human Resources & Associate General Counsel
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carl W. Adams
+  title: VP & Chief Audit Executive
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin  Prusso
+  title: President and GM of Test & Measurement Instrumentation
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Vicki L. Benne
+  title: President & GM of Teledyne Lab and Field Instruments
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. JihFen  Lei
+  title: Senior VP & President of Teledyne FLIR Defense
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 654.235
+currentRatio: 2.306
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 654.93
+dayLow: 644.045
+debtToEquity: 18.21
+displayName: Teledyne
+dividendYield: 0.0
+earningsCallTimestampEnd: 1792594800
+earningsCallTimestampStart: 1792594800
+earningsGrowth: 0.252
+earningsQuarterlyGrowth: 0.236
+earningsTimestamp: 1792585800
+earningsTimestampEnd: 1800451800
+earningsTimestampStart: 1800451800
+ebitda: 1656899968
+ebitdaMargins: 0.25413
+enterpriseToEbitda: 18.837
+enterpriseToRevenue: 4.787
+enterpriseValue: 31210909696
+epsCurrentYear: 25.53178
+epsForward: 27.73695
+epsTrailingTwelveMonths: 21.84
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 619.6412
+fiftyDayAverageChange: 34.59381
+fiftyDayAverageChangePercent: 0.05582878
+fiftyTwoWeekChangePercent: 24.392128
+fiftyTwoWeekHigh: 697.67
+fiftyTwoWeekHighChange: -43.434998
+fiftyTwoWeekHighChangePercent: -0.062257227
+fiftyTwoWeekLow: 483.02
+fiftyTwoWeekLowChange: 171.215
+fiftyTwoWeekLowChangePercent: 0.35446772
+fiftyTwoWeekRange: 483.02 - 697.67
+financialCurrency: USD
+firstTradeDateMilliseconds: 943367400000
+floatShares: 45489965
+forwardEps: 27.73695
+forwardPE: 23.587128
+freeCashflow: 953875008
+fullExchangeName: NYSE
+fullTimeEmployees: 15800
+fulldayChange: 8.10498
+fulldayChangePercent: 1.2543885
+fulldayPrice: 654.235
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.43598
+grossProfits: 2842500096
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00847
+heldPercentInstitutions: 1.0221801
+impliedSharesOutstanding: 46329138
+industry: Scientific & Technical Instruments
+industryDisp: Scientific & Technical Instruments
+industryKey: scientific-technical-instruments
+irWebsite: http://www.investquest.com/iq/t/tdy/
+isEarningsDateEstimate: true
+language: en-US
+lastFiscalYearEnd: 1766880000
+longBusinessSummary: Teledyne Technologies Incorporated provides enabling technologies
+  for industrial growth markets in the United States, Europe, Asia, and internationally.
+  The Digital Imaging segment provides visible spectrum sensors and digital cameras;
+  and infrared, ultraviolet, visible, and X-ray spectrum products, as well as micro-electromechanical
+  systems and semiconductors, such as analog-to-digital and digital-to-analog converters.
+  This segment offers cooled and uncooled infrared or thermal products, including
+  sensors, camera cores, and camera systems; high-resolution, low-dose X-ray sensors,
+  high-power microwave, and high-energy X-ray subsystems; and instruments for the
+  measurement of physical properties and maritime products, as well as develops and
+  manufactures multi-spectrum electro-optic/infrared imaging systems and associated
+  products, such as lasers, optics, radars, CBRNE (chemical, biological, radiological,
+  nuclear, and explosive) detectors, and unmanned air and ground systems. The Instrumentation
+  segment provides monitoring, control, and electronic test and measurement equipment;
+  and power and communications connectivity devices for distributed instrumentation
+  systems and sensor networks. The Aerospace and Defense Electronics segment offers
+  electronic and optical components and subsystems, data acquisition and communications
+  components and equipment, harsh-environment interconnects, general aviation batteries
+  and other components; and onboard avionics systems and ground-based applications,
+  aircraft data and connectivity solutions, hardware systems, and software applications.
+  The Engineered Systems segment provides systems engineering, integration and advanced
+  technology development, and complex manufacturing solutions for defense, space,
+  environmental, and energy applications; and designs and manufactures electrochemical
+  energy systems and specialty electronics for military applications. The company
+  was founded in 1960 and is headquartered in Thousand Oaks, California.
+longName: Teledyne Technologies Incorporated
+market: us_market
+marketCap: 30310141952
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_406526
+mostRecentQuarter: 1790467200
+netIncomeToCommon: 1026899968
+nextFiscalYearEnd: 1798416000
+nonDilutedMarketCap: 29951790995
+numberOfAnalystOpinions: 12
+open: 652.52
+operatingCashflow: 1280700032
+operatingMargins: 0.20165001
+overallRisk: 8
+payoutRatio: 0.0
+pegRatio: 1.4
+phone: 805 373 4545
+previousClose: 646.13
+priceEpsCurrentYear: 25.624338
+priceHint: 2
+priceToBook: 2.715389
+priceToSalesTrailing12Months: 4.6489377
+profitMargins: 0.1575
+quickRatio: 1.277
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.75
+region: US
+regularMarketChange: 8.10498
+regularMarketChangePercent: 1.2543885
+regularMarketDayHigh: 654.93
+regularMarketDayLow: 644.045
+regularMarketDayRange: 644.045 - 654.93
+regularMarketOpen: 652.52
+regularMarketPreviousClose: 646.13
+regularMarketPrice: 654.235
+regularMarketTime: 1794413747
+regularMarketVolume: 44886
+returnOnAssets: 0.05313
+returnOnEquity: 0.09466
+revenueGrowth: 0.094
+revenuePerShare: 140.437
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 8
+sharesOutstanding: 46329138
+sharesPercentSharesOut: 0.0247
+sharesShort: 1144639
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1118780
+shortName: Teledyne Technologies Incorpora
+shortPercentOfFloat: 0.028800001
+shortRatio: 3.43
+sourceInterval: 15
+state: CA
+symbol: TDY
+targetHighPrice: 915.0
+targetLowPrice: 646.0
+targetMeanPrice: 770.0833
+targetMedianPrice: 777.5
+totalCash: 562400000
+totalCashPerShare: 12.216
+totalDebt: 2027800064
+totalRevenue: 6519799808
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 21.84
+trailingPE: 29.955814
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 635.1268
+twoHundredDayAverageChange: 19.108215
+twoHundredDayAverageChangePercent: 0.030085672
+typeDisp: Equity
+volume: 44886
+website: https://www.teledyne.com
+zip: 91360-2362

@@ -1,0 +1,253 @@
+52WeekChange: -0.013533831
+SandP52WeekChange: 0.097798586
+address1: Rue Belliard 40 (box 11)
+address2: 1040 Brussels
+allTimeHigh: 132.58302
+allTimeLow: 21.39938
+ask: 0.0
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 111931
+averageDailyVolume3Month: 113752
+averageVolume: 113752
+averageVolume10days: 111931
+beta: 0.965
+bid: 0.0
+bidSize: 0
+boardRisk: 1
+bookValue: 76.871
+city: Brussels
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefaan  Gielens
+  title: MD, CEO, Executive Director & Executive Manager
+  totalPay: 1178343
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ingrid  Daerden
+  title: CFO & Executive Manager
+  totalPay: 725579
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Raoul  Thomassen
+  title: COO & Executive Manager
+  totalPay: 535934
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles-Antoine  Van Aelst
+  title: Chief Investment Officer & Executive Manager
+  totalPay: 604147
+  unexercisedValue: 0
+  yearBorn: 1986
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sven Andre Bogaerts
+  title: Chief Mergers & Acquisitions Officer, Chief Legal Officer and Executive Manager
+  totalPay: 615731
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Delphine  Noirhomme
+  title: Investor Relations Manager
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Moerman
+  title: Group General Counsel & Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Bob  Boeckx
+  title: Corporate Communications Manager
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Fabienne  Vanderhulst
+  title: HR Manager
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Martina  Carlsson
+  title: Control & Communication Manager
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Belgium
+cryptoTradeable: false
+currency: EUR
+currentPrice: 65.4
+currentRatio: 0.127
+customPriceAlertConfidence: LOW
+dayHigh: 65.7
+dayLow: 65.2
+debtToEquity: 74.772
+dividendRate: 4.0
+dividendYield: 6.1
+earningsCallTimestampEnd: 1739953800
+earningsCallTimestampStart: 1739953800
+earningsGrowth: -0.127
+earningsQuarterlyGrowth: 0.534
+earningsTimestamp: 1788277200
+earningsTimestampEnd: 1788277200
+earningsTimestampStart: 1788277200
+ebitda: 403196992
+ebitdaMargins: 0.83065003
+enterpriseToEbitda: 28.807
+enterpriseToRevenue: 23.929
+enterpriseValue: 11614968832
+epsCurrentYear: 5.38991
+epsForward: 5.54181
+epsTrailingTwelveMonths: 10.04
+esgPopulated: false
+exDividendDate: 1778716800
+exchange: BRU
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Brussels
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 32 2 626 07 71
+fiftyDayAverage: 64.22
+fiftyDayAverageChange: 1.1800003
+fiftyDayAverageChangePercent: 0.018374342
+fiftyTwoWeekChangePercent: -1.3533831
+fiftyTwoWeekHigh: 80.05
+fiftyTwoWeekHighChange: -14.650002
+fiftyTwoWeekHighChangePercent: -0.18301064
+fiftyTwoWeekLow: 60.35
+fiftyTwoWeekLowChange: 5.050003
+fiftyTwoWeekLowChangePercent: 0.083678596
+fiftyTwoWeekRange: 60.35 - 80.05
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1161586800000
+fiveYearAvgDividendYield: 4.19
+floatShares: 83418772
+forwardEps: 5.54181
+forwardPE: 11.801199
+freeCashflow: 299276384
+fullExchangeName: Brussels
+fullTimeEmployees: 127
+fulldayChange: -0.19999695
+fulldayChangePercent: -0.3048734
+fulldayPrice: 65.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.91753
+grossProfits: 445368992
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00059
+heldPercentInstitutions: 0.39338002
+impliedSharesOutstanding: 83469689
+industry: REIT - Healthcare Facilities
+industryDisp: REIT - Healthcare Facilities
+industryKey: reit-healthcare-facilities
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778716800
+lastDividendValue: 4.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Aedifica NV/SA is a Belgian public regulated real estate company
+  specializing in European healthcare real estate, particularly properties for elderly
+  care. Aedifica has built a real estate portfolio worth approximately 12.5 billion
+  euros in Belgium, Germany, the Netherlands, the United Kingdom, Finland, Ireland,
+  Spain, France, and Italy. Aedifica NV/SA was established on November 07, 2005 and
+  incorporated in 2005 in Belgium.
+longName: Aedifica NV/SA
+market: be_market
+marketCap: 5458917888
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_7925468
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 640865024
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5475611598
+numberOfAnalystOpinions: 10
+open: 65.55
+operatingCashflow: 353404000
+operatingMargins: 0.82709
+overallRisk: 1
+payoutRatio: 0.3984
+phone: 32 2 626 07 70
+prevName: Aedifica SA
+previousClose: 65.6
+priceEpsCurrentYear: 12.133783
+priceHint: 2
+priceToBook: 0.85077596
+priceToSalesTrailing12Months: 11.24618
+profitMargins: 1.32028
+quickRatio: 0.079
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: -0.19999695
+regularMarketChangePercent: -0.3048734
+regularMarketDayHigh: 65.7
+regularMarketDayLow: 65.2
+regularMarketDayRange: 65.2 - 65.7
+regularMarketOpen: 65.55
+regularMarketPreviousClose: 65.6
+regularMarketPrice: 65.4
+regularMarketTime: 1794411546
+regularMarketVolume: 38128
+returnOnAssets: 0.025710002
+returnOnEquity: 0.12157
+revenueGrowth: 1.043
+revenuePerShare: 8.26
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 1
+sharesOutstanding: 83469689
+shortName: AEDIFICA
+sourceInterval: 15
+symbol: AED.BR
+targetHighPrice: 90.0
+targetLowPrice: 67.0
+targetMeanPrice: 81.6
+targetMedianPrice: 82.5
+totalCash: 55611000
+totalCashPerShare: 0.666
+totalDebt: 5395460096
+totalRevenue: 485401984
+tradeable: false
+trailingAnnualDividendRate: 4.0
+trailingAnnualDividendYield: 0.06097561
+trailingEps: 10.04
+trailingPE: 6.5139446
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 69.53225
+twoHundredDayAverageChange: -4.132248
+twoHundredDayAverageChangePercent: -0.05942923
+typeDisp: Equity
+volume: 38128
+website: https://www.aedifica.eu
+zip: '1040'

@@ -1,0 +1,289 @@
+52WeekChange: 0.2837541
+SandP52WeekChange: 0.097798586
+address1: 100 First Stamford Place
+address2: Suite 700
+allTimeHigh: 1202.12
+allTimeLow: 2.52
+ask: 1134.76
+askSize: 20
+auditRisk: 5
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 562980
+averageDailyVolume3Month: 501640
+averageVolume: 501640
+averageVolume10days: 562980
+beta: 1.808
+bid: 1132.85
+bidSize: 20
+boardRisk: 4
+bookValue: 156.394
+city: Stamford
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew J. Flannery
+  title: President, CEO & Director
+  totalPay: 2977097
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William Edward Grace
+  title: Executive VP & CFO
+  totalPay: 1320470
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael D. Durand
+  title: Executive VP & COO
+  totalPay: 1258556
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Craig Adam Pintoff J.D.
+  title: Executive VP & Chief Administrative Officer
+  totalPay: 1389826
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Joli L. Gross J.D.
+  title: Senior VP, Corporate Secretary and Chief Legal & Sustainability Officer
+  totalPay: 1141054
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew B. Limoges
+  title: VP, Controller & Principal Accounting Officer
+  totalPay: 729806
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anthony S. Leopold
+  title: Senior VP and Chief Technology & Strategy Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elizabeth Carolyn Grenfell
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert N. Halsey
+  title: Vice President of Marketing
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris A. Burlog
+  title: Senior Vice President of Operations Central Division
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: URI announced a cash dividend of $1.97 with an ex-date of Nov. 10, 2026
+  meta:
+    amount: '1.97'
+    dateEpochMs: 1794286800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 1133.505
+currentRatio: 0.796
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 1134.8
+dayLow: 1112.27
+debtToEquity: 163.662
+displayName: United Rentals
+dividendDate: 1795564800
+dividendRate: 7.88
+dividendYield: 0.71
+earningsCallTimestampEnd: 1792672200
+earningsCallTimestampStart: 1792672200
+earningsGrowth: 0.354
+earningsQuarterlyGrowth: 0.312
+earningsTimestamp: 1792612800
+earningsTimestampEnd: 1801083600
+earningsTimestampStart: 1801083600
+ebitda: 5040999936
+ebitdaMargins: 0.28812
+enterpriseToEbitda: 16.689
+enterpriseToRevenue: 4.808
+enterpriseValue: 84128112640
+epsCurrentYear: 51.84173
+epsForward: 61.4375
+epsTrailingTwelveMonths: 45.43
+esgPopulated: false
+exDividendDate: 1794268800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 203 622 6080
+fiftyDayAverage: 1057.195
+fiftyDayAverageChange: 76.31006
+fiftyDayAverageChangePercent: 0.072181635
+fiftyTwoWeekChangePercent: 28.375412
+fiftyTwoWeekHigh: 1202.12
+fiftyTwoWeekHighChange: -68.61499
+fiftyTwoWeekHighChangePercent: -0.05707832
+fiftyTwoWeekLow: 701.59
+fiftyTwoWeekLowChange: 431.91498
+fiftyTwoWeekLowChangePercent: 0.61562306
+fiftyTwoWeekRange: 701.59 - 1202.12
+financialCurrency: USD
+firstTradeDateMilliseconds: 882455400000
+floatShares: 61560568
+forwardEps: 61.4375
+forwardPE: 18.449726
+freeCashflow: 2115000064
+fullExchangeName: NYSE
+fullTimeEmployees: 28600
+fulldayChange: 28.565063
+fulldayChangePercent: 2.5852141
+fulldayPrice: 1133.505
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.39192
+grossProfits: 6856999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0043599997
+heldPercentInstitutions: 0.95873
+impliedSharesOutstanding: 61916588
+industry: Rental & Leasing Services
+industryDisp: Rental & Leasing Services
+industryKey: rental-leasing-services
+irWebsite: http://www.unitedrentals.com/en/our-company/investor-relations
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1794268800
+lastDividendValue: 1.97
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: United Rentals, Inc., through its subsidiaries, operates as an
+  equipment rental company in the United States, Canada, Europe, Australia, and New
+  Zealand. It operates through two segments, General Rentals and Specialty. The General
+  Rentals segment rents general construction and industrial equipment, such as backhoes,
+  skid-steer loaders, forklifts, earthmoving equipment, and material handling equipment;
+  aerial work platforms, including boom and scissor lifts; and general tools and light
+  equipment comprising pressure washers, water pumps, and power tools for construction
+  and industrial companies, manufacturers, utilities, municipalities, homeowners,
+  and government entities. The specialty segment rents trench safety equipment consists
+  of trench shields, aluminum hydraulic shoring systems, slide rails, crossing plates,
+  construction lasers, and line testing equipment for underground work; power and
+  heating, ventilating, and air conditioning equipment, such as portable diesel generators,
+  electrical distribution equipment, and temperature control equipment; fluid solutions
+  equipment for fluid containment, transfer, and treatment; surface protection mats;
+  and mobile storage equipment and modular office space. This segment serves construction
+  companies involved in infrastructure projects, and municipalities and industrial
+  companies. The company also sells aerial lifts, reach forklifts, telehandlers, compressors,
+  and generators; construction consumables, tools, small equipment, and safety supplies;
+  and parts for equipment that is owned by its customers, as well as provides repair
+  and maintenance services. It sells used equipment through its sales force, brokers,
+  website, at auctions, and directly to manufacturers. United Rentals, Inc. was incorporated
+  in 1997 and is headquartered in Stamford, Connecticut.
+longName: United Rentals, Inc.
+market: us_market
+marketCap: 70182764544
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_36005
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2856999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 68414114744
+numberOfAnalystOpinions: 21
+open: 1130.85
+operatingCashflow: 6190000128
+operatingMargins: 0.26252002
+overallRisk: 1
+payoutRatio: 0.16950001
+pegRatio: 1.33
+phone: 203 622 3131
+previousClose: 1104.94
+priceEpsCurrentYear: 21.864723
+priceHint: 2
+priceToBook: 7.2477527
+priceToSalesTrailing12Months: 4.0113606
+profitMargins: 0.16329001
+quickRatio: 0.649
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.77273
+region: US
+regularMarketChange: 28.565063
+regularMarketChangePercent: 2.5852141
+regularMarketDayHigh: 1134.8
+regularMarketDayLow: 1112.27
+regularMarketDayRange: 1112.27 - 1134.8
+regularMarketOpen: 1130.85
+regularMarketPreviousClose: 1104.94
+regularMarketPrice: 1133.505
+regularMarketTime: 1794413750
+regularMarketVolume: 68559
+returnOnAssets: 0.091350004
+returnOnEquity: 0.30563998
+revenueGrowth: 0.157
+revenuePerShare: 278.801
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 2
+sharesOutstanding: 61916588
+sharesPercentSharesOut: 0.0217
+sharesShort: 1346537
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1407116
+shortName: United Rentals, Inc.
+shortPercentOfFloat: 0.0249
+shortRatio: 2.47
+sourceInterval: 15
+state: CT
+symbol: URI
+targetHighPrice: 1652.0
+targetLowPrice: 950.0
+targetMeanPrice: 1295.4286
+targetMedianPrice: 1325.0
+totalCash: 153000000
+totalCashPerShare: 2.471
+totalDebt: 15866999808
+totalRevenue: 17496000512
+tradeable: false
+trailingAnnualDividendRate: 7.7
+trailingAnnualDividendYield: 0.0069687045
+trailingEps: 45.43
+trailingPE: 24.950583
+trailingPegRatio: 1.3342
+triggerable: true
+twoHundredDayAverage: 977.30304
+twoHundredDayAverageChange: 156.20197
+twoHundredDayAverageChangePercent: 0.15982962
+typeDisp: Equity
+volume: 68559
+website: https://www.unitedrentals.com
+zip: 06902

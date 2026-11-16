@@ -1,0 +1,276 @@
+52WeekChange: 0.29083836
+SandP52WeekChange: 0.097798586
+address1: Frankfurter Strasse 250
+allTimeHigh: 231.5
+allTimeLow: 8.763275
+ask: 151.25
+askSize: 112
+auditRisk: 1
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 300718
+averageDailyVolume3Month: 270004
+averageVolume: 270004
+averageVolume10days: 300718
+beta: 0.814
+bid: 151.15
+bidSize: 67
+boardRisk: 4
+bookValue: 69.58
+city: Darmstadt
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Kai  Beckmann
+  title: CEO & Chair of Management Board
+  totalPay: 4933000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Helene  von Roeder
+  title: CFO & Member of Executive Board
+  totalPay: 4765000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Danny Pinhas Bar-Zohar M.D.
+  title: Member of the Executive Board & CEO of Healthcare
+  totalPay: 1224800
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean Charles Wirth
+  title: Member of the Executive Board & CEO Life Science
+  totalPay: 1207800
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Khadija Ben Hammada
+  title: Member of the Executive Board & Chief People Officer
+  totalPay: 1210000
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Benjamin  Hein
+  title: Member of Management Board & CEO of Electronics Business Sector
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Florian  Schraeder
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Axel  Lober
+  title: Head of Global Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank  Gotthardt
+  title: Head of Corporate & Government Relations - Europe
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc  Horn
+  title: Head of Life Science Controlling
+  unexercisedValue: 0
+  yearBorn: 1975
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 151.15
+currentRatio: 1.695
+customPriceAlertConfidence: LOW
+dayHigh: 151.5
+dayLow: 149.3
+debtToEquity: 40.618
+dividendRate: 2.2
+dividendYield: 1.47
+earningsCallTimestampEnd: 1794488400
+earningsCallTimestampStart: 1794488400
+earningsGrowth: -0.247
+earningsQuarterlyGrowth: -0.248
+earningsTimestamp: 1794501000
+earningsTimestampEnd: 1794501000
+earningsTimestampStart: 1794501000
+ebitda: 5586999808
+ebitdaMargins: 0.26435
+enterpriseToEbitda: 13.255
+enterpriseToRevenue: 3.504
+enterpriseValue: 74056392704
+epsCurrentYear: 8.52607
+epsForward: 9.08868
+epsTrailingTwelveMonths: 5.46
+esgPopulated: false
+exDividendDate: 1777248000
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 6151 72 2000
+fiftyDayAverage: 139.734
+fiftyDayAverageChange: 11.416
+fiftyDayAverageChangePercent: 0.08169809
+fiftyTwoWeekChangePercent: 29.083836
+fiftyTwoWeekHigh: 152.1
+fiftyTwoWeekHighChange: -0.9500122
+fiftyTwoWeekHighChangePercent: -0.0062459707
+fiftyTwoWeekLow: 100.7
+fiftyTwoWeekLowChange: 50.449997
+fiftyTwoWeekLowChangePercent: 0.500993
+fiftyTwoWeekRange: 100.7 - 152.1
+financialCurrency: EUR
+firstTradeDateMilliseconds: 898844400000
+fiveYearAvgDividendYield: 1.3
+floatShares: 128856991
+forwardEps: 9.08868
+forwardPE: 16.630577
+freeCashflow: 2632999936
+fullExchangeName: XETRA
+fullTimeEmployees: 62136
+fulldayChange: 1.7999878
+fulldayChangePercent: 1.2052144
+fulldayPrice: 151.15
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.59087
+grossProfits: 12487999488
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.60764
+impliedSharesOutstanding: 434777878
+industry: Drug Manufacturers - Specialty & Generic
+industryDisp: Drug Manufacturers - Specialty & Generic
+industryKey: drug-manufacturers-specialty-generic
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777248000
+lastDividendValue: 2.2
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1404086400
+lastSplitFactor: '2:1'
+longBusinessSummary: Merck KGaA operates as a science and technology company in Europe,
+  North America, Latin America, Middle East and Africa, and the Asia Pacific. The
+  Life Science segment offers products, solutions, and services to academic, research
+  and diagnostic labs, biotech, and pharmaceutical companies, as well as the industrial
+  sector; reagents, consumables, devices, instruments, software, and services for
+  research, production, and testing to lab water instruments, microbiology and biomonitoring
+  products, test assays, analytical reagents, and flow cytometry kits and instruments.
+  This segment also provides traditional and novel therapies, such as ration devices,
+  chromatography resins, single-use systems, process chemicals, and excipients for
+  bioprocessing; contract development, manufacturing and testing services, which supports
+  customers from preclinical phases to commercialization. The Healthcare segment discovers,
+  develops, manufactures, and markets prescription drugs and biopharmaceuticals to
+  the therapeutic areas of oncology, rare diseases, neurology and immunology, fertility,
+  cardiovascular, and metabolic and endocrinological disorders. The Electronics segment
+  offers advanced dielectric and metallic materials; photoresist, anti-reflective
+  coating, and material lithography products; clean and selective etch chemistries;
+  materials for chemical-mechanical planarization; high-purity gases for semiconductor
+  manufacturing; and develops and installs delivery equipment for handling of specialty
+  chemicals and gases for semiconductor manufacturing; develops modulating, creating,
+  engineering, and guiding light; and material solutions in liquid crystals, OLED
+  materials, and photoresists. It has in-licensing agreement with Abbisko Therapeutics
+  Co. Ltd., China on drug candidates for the treatment of tenosynovial giant cell
+  tumor; and strategic partnership with Versant Ventures to advance treatments for
+  rare genetic cardiomyopathies. The company was founded in 1668 and is headquartered
+  in Darmstadt, Germany. Merck KGaA operates as a subsidiary of E. Merck KG.
+longName: Merck KGaA
+market: de_market
+marketCap: 65716674560
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_596117
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 2369999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 64868859397
+numberOfAnalystOpinions: 13
+open: 149.3
+operatingCashflow: 4232000000
+operatingMargins: 0.17611
+overallRisk: 3
+payoutRatio: 0.4037
+pegRatio: 2.41
+phone: 49 6151 72 0
+prevName: MERCK Kommanditgesellschaft auf Aktien
+previousClose: 149.35
+priceEpsCurrentYear: 17.72798
+priceHint: 2
+priceToBook: 2.1723194
+priceToSalesTrailing12Months: 3.1093767
+profitMargins: 0.11214
+quickRatio: 0.988
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.14286
+region: US
+regularMarketChange: 1.7999878
+regularMarketChangePercent: 1.2052144
+regularMarketDayHigh: 151.5
+regularMarketDayLow: 149.3
+regularMarketDayRange: 149.3 - 151.5
+regularMarketOpen: 149.3
+regularMarketPreviousClose: 149.35
+regularMarketPrice: 151.15
+regularMarketTime: 1794411550
+regularMarketVolume: 69912
+returnOnAssets: 0.04651
+returnOnEquity: 0.08134
+revenueGrowth: 0.034
+revenuePerShare: 48.63
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 10
+sharesOutstanding: 129242252
+shortName: MERCK KGAA                    I
+sourceInterval: 15
+symbol: MRK.DE
+targetHighPrice: 179.0
+targetLowPrice: 135.0
+targetMeanPrice: 156.23077
+targetMedianPrice: 156.0
+totalCash: 3123000064
+totalCashPerShare: 7.202
+totalDebt: 12302000128
+totalRevenue: 21134999552
+tradeable: false
+trailingAnnualDividendRate: 2.2
+trailingAnnualDividendYield: 0.014730498
+trailingEps: 5.46
+trailingPE: 27.68315
+trailingPegRatio: 2.4079
+triggerable: false
+twoHundredDayAverage: 129.99525
+twoHundredDayAverageChange: 21.15474
+twoHundredDayAverageChangePercent: 0.1627347
+typeDisp: Equity
+volume: 69912
+website: https://www.merckgroup.com
+zip: '64293'

@@ -1,0 +1,237 @@
+52WeekChange: 0.4430014
+SandP52WeekChange: 0.097798586
+address1: 4 Amerikis Street
+allTimeHigh: 5126286.0
+allTimeLow: 0.700309
+ask: 9.18
+askSize: 1373
+auditRisk: 1
+averageAnalystRating: 1.2 - Strong Buy
+averageDailyVolume10Day: 11369180
+averageDailyVolume3Month: 6499634
+averageVolume: 6499634
+averageVolume10days: 11369180
+beta: 0.899
+bid: 10.21
+bidSize: 3158
+boardRisk: 3
+bookValue: 7.596
+city: Athens
+companyOfficers:
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christos Loannis Megalou
+  title: MD, CEO & Executive Director
+  totalPay: 1812557
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Theodoros Ch. Gnardellis
+  title: Executive GM & Group CFO
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charalampos  Margaritis
+  title: Executive GM & Group COO
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Panagiotis  Vlachopoulos
+  title: Chief Investment Officer of Piraeus Bank
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Arvanitis  Athanasios
+  title: Executive GM, Group Chief Treasurer & Head of Piraeus Financial Markets
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lydia  Papadopoulou
+  title: Company Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Greece
+cryptoTradeable: false
+currency: EUR
+currentPrice: 10.21
+customPriceAlertConfidence: LOW
+dayHigh: 10.35
+dayLow: 9.982
+dividendDate: 1516147200
+dividendRate: 0.4
+dividendYield: 4.0
+earningsCallTimestampEnd: 1793361600
+earningsCallTimestampStart: 1793361600
+earningsGrowth: 0.067
+earningsQuarterlyGrowth: 0.054
+earningsTimestamp: 1793373600
+earningsTimestampEnd: 1793373600
+earningsTimestampStart: 1793373600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 4.46
+enterpriseValue: 12001634304
+epsCurrentYear: 0.95516
+epsForward: 1.12668
+epsTrailingTwelveMonths: 0.88
+esgPopulated: false
+exDividendDate: 1797811200
+exchange: ATH
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Athens
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fiftyDayAverage: 10.11696
+fiftyDayAverageChange: 0.09304047
+fiftyDayAverageChangePercent: 0.009196485
+fiftyTwoWeekChangePercent: 44.30014
+fiftyTwoWeekHigh: 10.98
+fiftyTwoWeekHighChange: -0.7699995
+fiftyTwoWeekHighChangePercent: -0.070127465
+fiftyTwoWeekLow: 6.53
+fiftyTwoWeekLowChange: 3.6799998
+fiftyTwoWeekLowChangePercent: 0.5635528
+fiftyTwoWeekRange: 6.53 - 10.98
+financialCurrency: EUR
+firstTradeDateMilliseconds: 505038600000
+fiveYearAvgDividendYield: 2.9
+floatShares: 1057381476
+forwardEps: 1.12668
+forwardPE: 9.062023
+fullExchangeName: Athens
+fullTimeEmployees: 8574
+fulldayChange: 0.21000004
+fulldayChangePercent: 2.1000004
+fulldayPrice: 10.21
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 2691000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.61499
+impliedSharesOutstanding: 1232063429
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1797811200
+lastDividendValue: 0.1
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1618358400
+lastSplitFactor: '1:16.5'
+longBusinessSummary: 'Piraeus Bank S.A. provides various banking products and services
+  in Greece, Europe, and internationally. The company operates through five segments:
+  Retail Banking, Business Banking, Piraeus Financial Markets, Snappi, and Other.
+  It offers term deposits, savings, current, and payroll and pension accounts; mortgage
+  and personal loans; credit, debit, and prepaid cards; car, civil liability and legal
+  protection, home security, health, pension plans, life and accident, and lifestyle
+  insurance plans; investment products, including savings programs, portfolio management,
+  mutual funds, stock market transactions and services, government bonds and treasury
+  bills, gold investment, and securities custody; and electronic banking services.
+  The company also provides corporate banking products and services, such as professional
+  and farmer accounts; corporate cards; farmer''s, business premise, liability, and
+  photovoltaic park insurance plans; and payments and receipts comprising IRIS payments
+  for businesses, business remittance, payment records, collection through bank channels,
+  payroll, accepting cards, money management, checks, and management of bills of exchange.
+  In addition, it offers financing solutions for businesses, which include working
+  capital; professional housing and equipment; co-financed programs, such as farmer
+  financing and specialized solutions; factoring; and letter of guarantee, as well
+  as real estate, equipment, and development leasing. Further, the company provides
+  online stock and bond trading; wealth services comprising investment advice, wealth
+  advisor, multi-family office, execution of transactions, and custody; asset management
+  products, including alternative, structured, and thematic products; and economic
+  and financial planning. It offers its products and services through e-banking, Piraeus
+  app, phone banking, and stores and ATMs. Piraeus Bank S.A. was founded in 1916 and
+  is headquartered in Athens, Greece.'
+longName: Piraeus Bank S.A.
+market: gr_market
+marketCap: 12579367936
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_882014
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1128000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 12320634290
+numberOfAnalystOpinions: 15
+open: 10.08
+operatingCashflow: -2935000064
+operatingMargins: 0.62022
+overallRisk: 2
+payoutRatio: 0.4396
+pegRatio: 0.91
+phone: 30 210 32 88 100
+previousClose: 10.0
+priceEpsCurrentYear: 10.689308
+priceHint: 2
+priceToBook: 1.3441285
+priceToSalesTrailing12Months: 4.6746073
+profitMargins: 0.42474997
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.2
+region: US
+regularMarketChange: 0.21000004
+regularMarketChangePercent: 2.1000004
+regularMarketDayHigh: 10.35
+regularMarketDayLow: 9.982
+regularMarketDayRange: 9.982 - 10.35
+regularMarketOpen: 10.08
+regularMarketPreviousClose: 10.0
+regularMarketPrice: 10.21
+regularMarketTime: 1794410392
+regularMarketVolume: 10449811
+returnOnAssets: 0.01281
+returnOnEquity: 0.12139
+revenueGrowth: 0.092
+revenuePerShare: 2.183
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 5
+sharesOutstanding: 1232063429
+shortName: PIRAEUS BANK S.A.
+sourceInterval: 10
+symbol: TPEIR.AT
+targetHighPrice: 13.7
+targetLowPrice: 9.75
+targetMeanPrice: 11.74418
+targetMedianPrice: 12.2
+totalCash: 10769000448
+totalCashPerShare: 8.741
+totalDebt: 10186999808
+totalRevenue: 2691000064
+tradeable: false
+trailingAnnualDividendRate: 0.4
+trailingAnnualDividendYield: 0.04
+trailingEps: 0.88
+trailingPE: 11.602273
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 9.059
+twoHundredDayAverageChange: 1.151
+twoHundredDayAverageChangePercent: 0.12705597
+typeDisp: Equity
+volume: 10449811
+website: https://www.piraeusbank.gr
+zip: '10564'

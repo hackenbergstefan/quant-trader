@@ -1,0 +1,220 @@
+52WeekChange: 0.116161585
+SandP52WeekChange: 0.097798586
+address1: Kolinplatz 2
+allTimeHigh: 168.4
+allTimeLow: 19.0625
+ask: 153.9
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 91986
+averageDailyVolume3Month: 67348
+averageVolume: 67348
+averageVolume10days: 91986
+beta: 0.433
+bid: 153.7
+bidSize: 0
+boardRisk: 5
+bookValue: 125.651
+city: Zug
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Giacomo  Balzarini MBA
+  title: CEO, CFO & Member of the Executive Board
+  totalPay: 1936000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Heggli
+  title: COO & Member of the Executive Board
+  totalPay: 780000
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Reto  Grunder
+  title: Chief Investment Officer & Member of the Executive Board
+  totalPay: 965000
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vasco  Cecchini
+  title: Chief Communications Officer & Head of IR
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Ronald  Ruepp
+  title: Secretary of the Board
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 153.8
+currentRatio: 0.111
+customPriceAlertConfidence: LOW
+dayHigh: 154.8
+dayLow: 153.4
+debtToEquity: 58.082
+dividendDate: 1744156800
+dividendRate: 3.95
+dividendYield: 2.55
+earningsCallTimestampEnd: 1794297600
+earningsCallTimestampStart: 1794297600
+earningsGrowth: -0.109
+earningsQuarterlyGrowth: -0.109
+earningsTimestamp: 1794328200
+earningsTimestampEnd: 1794328200
+earningsTimestampStart: 1794328200
+ebitda: 335287008
+ebitdaMargins: 0.67200994
+enterpriseToEbitda: 31.043
+enterpriseToRevenue: 20.861
+enterpriseValue: 10408386560
+epsCurrentYear: 5.41
+epsForward: 5.30371
+epsTrailingTwelveMonths: 9.83
+esgPopulated: false
+exDividendDate: 1775520000
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 147.468
+fiftyDayAverageChange: 6.3320007
+fiftyDayAverageChangePercent: 0.04293813
+fiftyTwoWeekChangePercent: 11.6161585
+fiftyTwoWeekHigh: 168.4
+fiftyTwoWeekHighChange: -14.599991
+fiftyTwoWeekHighChangePercent: -0.086698286
+fiftyTwoWeekLow: 137.6
+fiftyTwoWeekLowChange: 16.199997
+fiftyTwoWeekLowChangePercent: 0.11773253
+fiftyTwoWeekRange: 137.6 - 168.4
+financialCurrency: CHF
+firstTradeDateMilliseconds: 999500400000
+fiveYearAvgDividendYield: 3.09
+floatShares: 45867891
+forwardEps: 5.30371
+forwardPE: 28.99857
+freeCashflow: 296187616
+fullExchangeName: Swiss
+fullTimeEmployees: 83
+fulldayChange: -0.8999939
+fulldayChangePercent: -0.58176726
+fulldayPrice: 153.8
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.73788
+grossProfits: 368151008
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0062800003
+heldPercentInstitutions: 0.61446
+impliedSharesOutstanding: 45867891
+industry: Real Estate Services
+industryDisp: Real Estate Services
+industryKey: real-estate-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1775520000
+lastDividendValue: 3.95
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1084406400
+lastSplitFactor: '4:1'
+longBusinessSummary: PSP Swiss Property AG, together with its subsidiaries, owns and
+  manages real estate properties in Switzerland. The company operates through Real
+  Estate Investments and Property Management segments. The Real Estate Investment
+  segment includes investment properties, investment properties for sale, own-used
+  properties, and development properties, as well as development projects for sale,
+  and rents properties. The Property Management segment consists of services and activities
+  regarding the management of own real estate portfolio. It owns a real estate portfolio
+  of office and commercial properties. PSP Swiss Property AG was incorporated in 1999
+  and is based in Zug, Switzerland.
+longName: PSP Swiss Property AG
+market: ch_market
+marketCap: 7054481920
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_2429770
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 443556000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 7095762737
+numberOfAnalystOpinions: 8
+open: 153.4
+operatingCashflow: 372467008
+operatingMargins: 0.66984004
+overallRisk: 3
+payoutRatio: 0.4018
+pegRatio: 6.19
+phone: 41 41 728 04 04
+previousClose: 154.7
+priceEpsCurrentYear: 28.428837
+priceHint: 2
+priceToBook: 1.2240252
+priceToSalesTrailing12Months: 14.139165
+profitMargins: 0.88901
+quickRatio: 0.073
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.55556
+region: US
+regularMarketChange: -0.8999939
+regularMarketChangePercent: -0.58176726
+regularMarketDayHigh: 154.8
+regularMarketDayLow: 153.4
+regularMarketDayRange: 153.4 - 154.8
+regularMarketOpen: 153.4
+regularMarketPreviousClose: 154.7
+regularMarketPrice: 153.8
+regularMarketTime: 1794411545
+regularMarketVolume: 16982
+returnOnAssets: 0.02046
+returnOnEquity: 0.07881
+revenueGrowth: -0.025
+revenuePerShare: 10.878
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 1
+sharesOutstanding: 45867891
+shortName: PSP N
+sourceInterval: 15
+symbol: PSPN.SW
+targetHighPrice: 185.0
+targetLowPrice: 130.0
+targetMeanPrice: 158.125
+targetMedianPrice: 157.0
+totalCash: 34815000
+totalCashPerShare: 0.759
+totalDebt: 3347439104
+totalRevenue: 498932000
+tradeable: false
+trailingAnnualDividendRate: 3.95
+trailingAnnualDividendYield: 0.02553329
+trailingEps: 9.83
+trailingPE: 15.645982
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 150.2745
+twoHundredDayAverageChange: 3.5254974
+twoHundredDayAverageChangePercent: 0.023460383
+typeDisp: Equity
+volume: 16982
+website: https://www.psp.info
+zip: '6300'

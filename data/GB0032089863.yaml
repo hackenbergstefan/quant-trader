@@ -1,0 +1,239 @@
+52WeekChange: 0.10207677
+SandP52WeekChange: 0.097798586
+address1: Desford Road
+allTimeHigh: 16175.0
+allTimeLow: 12.5
+ask: 15740.0
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 269110
+averageDailyVolume3Month: 337743
+averageVolume: 337743
+averageVolume10days: 269110
+beta: 1.087
+bid: 15735.0
+bidSize: 0
+boardRisk: 2
+bookValue: 13.064
+city: Enderby
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Lord Simon Adam Wolfson
+  title: CEO & Executive Director
+  totalPay: 2687000
+  unexercisedValue: 2306368
+  yearBorn: 1967
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jonathan Neil Blanchard FCCA
+  title: CFO & Director
+  totalPay: 1592000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Richard Simon Vaughan Papp
+  title: Group Merchandise & Operations Director and Executive Director
+  totalPay: 1861000
+  unexercisedValue: 1361377
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jeremy Paul Stakol
+  title: Group Investments, Acquisitions & Third Party Brands Director and Executive
+    Director
+  totalPay: 1569000
+  unexercisedValue: 1219044
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Matt  Barnes
+  title: Group Sales & Marketing Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Hannah  Woodall-Pagan
+  title: Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: NXT.L announced a cash dividend of GBp 0.98 with an ex-date of Dec. 3,
+    2026
+  meta:
+    amount: '0.98'
+    dateEpochMs: 1796256000000
+    eventType: DIVIDEND
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 15735.0
+currentRatio: 1.548
+customPriceAlertConfidence: LOW
+dayHigh: 15765.0
+dayLow: 15555.0
+debtToEquity: 120.189
+dividendRate: 2.68
+dividendYield: 1.71
+earningsCallTimestampEnd: 1743073140
+earningsCallTimestampStart: 1743073140
+earningsGrowth: 0.128
+earningsQuarterlyGrowth: 0.106
+earningsTimestamp: 1789659000
+earningsTimestampEnd: 1789659000
+earningsTimestampStart: 1789659000
+ebitda: 1483000064
+ebitdaMargins: 0.20586
+enterpriseToEbitda: 13.521
+enterpriseToRevenue: 2.783
+enterpriseValue: 20050960384
+epsCurrentYear: 8.22838
+epsForward: 8.81664
+epsTrailingTwelveMonths: 7.86
+esgPopulated: false
+exDividendDate: 1796256000
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 14950.5
+fiftyDayAverageChange: 784.5
+fiftyDayAverageChangePercent: 0.05247316
+fiftyTwoWeekChangePercent: 10.207677
+fiftyTwoWeekHigh: 16175.0
+fiftyTwoWeekHighChange: -440.0
+fiftyTwoWeekHighChangePercent: -0.027202472
+fiftyTwoWeekLow: 11695.0
+fiftyTwoWeekLowChange: 4040.0
+fiftyTwoWeekLowChangePercent: 0.34544677
+fiftyTwoWeekRange: 11695.0 - 16175.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 2.16
+floatShares: 108102528
+forwardEps: 8.81664
+forwardPE: 17.846935
+freeCashflow: 734462528
+fullExchangeName: LSE
+fullTimeEmployees: 31589
+fulldayChange: 80.0
+fulldayChangePercent: 0.5110189
+fulldayPrice: 15735.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.44133
+grossProfits: 3179300096
+hasPrePostMarketData: false
+heldPercentInsiders: 0.06018
+heldPercentInstitutions: 0.71081
+impliedSharesOutstanding: 114152051
+industry: Apparel Retail
+industryDisp: Apparel Retail
+industryKey: apparel-retail
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1796256000
+lastDividendValue: 0.98
+lastFiscalYearEnd: 1769817600
+lastSplitDate: 472694400
+lastSplitFactor: '3:1'
+longBusinessSummary: NEXT plc engages in the retail of clothing, homeware, and beauty
+  products in the United Kingdom, rest of Europe, the Middle East, Asia, and internationally.
+  It operates through Retail Stores, Online (UK), Online (International), NEXT Finance,
+  Total Platform, and Other Business Activities segments. The company offers NEXT
+  branded products; and women's, men's, children's fashion clothing, and accessories;
+  and third-party branded products. It also provides consumer credit; services to
+  third-party brands, including websites, marketing, warehousing, distribution networks,
+  and contact centers; and property management, which holds and leases properties.
+  The company operates through retail stores, online retail platforms, and franchise
+  stores. The company was formerly known as J Hepworth & Son and changed its name
+  to NEXT plc in 1986. NEXT plc was founded in 1864 and is headquartered in Enderby,
+  the United Kingdom.
+longName: NEXT plc
+market: gb_market
+marketCap: 17961824256
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_7685493
+mostRecentQuarter: 1785542400
+netIncomeToCommon: 928600000
+nextFiscalYearEnd: 1801353600
+nonDilutedMarketCap: 17870503584
+numberOfAnalystOpinions: 20
+open: 15670.0
+operatingCashflow: 1314499968
+operatingMargins: 0.18594
+overallRisk: 2
+payoutRatio: 0.3409
+pegRatio: 2.91
+phone: 44 33 3777 4577
+previousClose: 15655.0
+priceEpsCurrentYear: 1912.284
+priceHint: 2
+priceToBook: 12.04455
+priceToSalesTrailing12Months: 2.4933472
+profitMargins: 0.1289
+quickRatio: 0.889
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: 80.0
+regularMarketChangePercent: 0.5110189
+regularMarketDayHigh: 15765.0
+regularMarketDayLow: 15555.0
+regularMarketDayRange: 15555.0 - 15765.0
+regularMarketOpen: 15670.0
+regularMarketPreviousClose: 15655.0
+regularMarketPrice: 15735.0
+regularMarketTime: 1794411540
+regularMarketVolume: 55377
+returnOnAssets: 0.16104999
+returnOnEquity: 0.54543996
+revenueGrowth: 0.096
+revenuePerShare: 62.129
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 114152051
+shortName: NEXT PLC ORD 10P
+sourceInterval: 15
+symbol: NXT.L
+targetHighPrice: 18700.0
+targetLowPrice: 14400.0
+targetMeanPrice: 16460.25
+targetMedianPrice: 16225.0
+totalCash: 62400000
+totalCashPerShare: 0.542
+totalDebt: 1956199936
+totalRevenue: 7203899904
+tradeable: false
+trailingAnnualDividendRate: 2.79
+trailingAnnualDividendYield: 0.00017821782
+trailingEps: 7.86
+trailingPE: 20.019085
+trailingPegRatio: 2.9071
+triggerable: false
+twoHundredDayAverage: 14047.9
+twoHundredDayAverageChange: 1687.0996
+twoHundredDayAverageChangePercent: 0.120096214
+typeDisp: Equity
+volume: 55377
+website: https://www.nextplc.co.uk
+zip: LE19 4AT

@@ -1,0 +1,256 @@
+52WeekChange: 0.26121128
+SandP52WeekChange: 0.097798586
+address1: Via San Carlo 8/20
+allTimeHigh: 15.1
+allTimeLow: 1.0015
+ask: 13.414
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 6315745
+averageDailyVolume3Month: 5471269
+averageVolume: 5471269
+averageVolume10days: 6315745
+beta: 0.67
+bid: 13.394
+bidSize: 0
+boardRisk: 3
+bookValue: 8.877
+city: Modena
+companyOfficers:
+- age: 69
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Gianni Franco Giacomo Papa
+  title: CEO & Director
+  totalPay: 2586000
+  unexercisedValue: 0
+  yearBorn: 1956
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Simone  Marcucci
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Elvio  Sonnino
+  title: Vice GM & COO
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marco  Mandelli
+  title: Chief Corporate & Investment Banking Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Massimiliano  Baga
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nicola  Sponghi
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carlo  Appetiti
+  title: Chief Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Advocate Paolo  Mazza
+  title: Chief General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Andrea  Merenda
+  title: Chief Human Resource Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Michele  Pisani
+  title: Chief AML Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: BPE.MI announced a cash dividend of EUR 0.33 with an ex-date of Nov. 23,
+    2026
+  meta:
+    amount: '0.33'
+    dateEpochMs: 1795388400000
+    eventType: DIVIDEND
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 13.412
+customPriceAlertConfidence: LOW
+dayHigh: 13.81
+dayLow: 13.344
+dividendRate: 0.66
+dividendYield: 4.84
+earningsCallTimestampEnd: 1793869200
+earningsCallTimestampStart: 1793869200
+earningsGrowth: 0.001
+earningsQuarterlyGrowth: 0.158
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1801758600
+earningsTimestampStart: 1801758600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 6.163
+enterpriseValue: 43440558080
+epsCurrentYear: 1.20799
+epsForward: 1.30867
+epsTrailingTwelveMonths: 1.12
+esgPopulated: false
+exDividendDate: 1795392000
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 39 05 92 02 20 33
+fiftyDayAverage: 13.71644
+fiftyDayAverageChange: -0.3044405
+fiftyDayAverageChangePercent: -0.0221953
+fiftyTwoWeekChangePercent: 26.121128
+fiftyTwoWeekHigh: 15.1
+fiftyTwoWeekHighChange: -1.6880007
+fiftyTwoWeekHighChangePercent: -0.111788124
+fiftyTwoWeekLow: 9.926
+fiftyTwoWeekLowChange: 3.486
+fiftyTwoWeekLowChangePercent: 0.35119888
+fiftyTwoWeekRange: 9.926 - 15.1
+financialCurrency: EUR
+firstTradeDateMilliseconds: 796032000000
+fiveYearAvgDividendYield: 3.88
+floatShares: 1658344790
+forwardEps: 1.30867
+forwardPE: 10.248572
+fullExchangeName: Milan
+fullTimeEmployees: 19871
+fulldayChange: -0.22800064
+fulldayChangePercent: -1.6715589
+fulldayPrice: 13.412
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 6889037824
+hasPrePostMarketData: false
+heldPercentInsiders: 0.27166
+heldPercentInstitutions: 0.40285
+impliedSharesOutstanding: 2078476183
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1795392000
+lastDividendValue: 0.33
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1337558400
+lastSplitFactor: 71:70
+longBusinessSummary: BPER Banca SpA engages in the provision of banking products and
+  services for individuals, and businesses and professionals in Italy and internationally.
+  It offers current and saving accounts, loans, mortgages, insurance and social security,
+  and digital banking and related services; cards; and investments and savings products
+  and services. The company also provides financing and leasing, collection and payment,
+  import and export, liquidity and investment management, digital, and other services.
+  In addition, it offers wealth management services comprising portfolio management,
+  consultancy, financial advice, and wealth advisory services; insurance investment
+  products; and funds and SICAVs. The company was founded in 1867 and is headquartered
+  in Modena, Italy.
+longName: BPER Banca SpA
+market: it_market
+marketCap: 27876521984
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_877000
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 2282624000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 28350415136
+numberOfAnalystOpinions: 11
+open: 13.746
+operatingMargins: 0.56038
+overallRisk: 1
+payoutRatio: 0.58849996
+pegRatio: 0.65
+phone: 39 05 92 02 11 11
+prevName: BPER Banca S.p.A.
+previousClose: 13.64
+priceEpsCurrentYear: 11.10274
+priceHint: 2
+priceToBook: 1.5108708
+priceToSalesTrailing12Months: 3.955071
+profitMargins: 0.32384998
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.09091
+region: US
+regularMarketChange: -0.22800064
+regularMarketChangePercent: -1.6715589
+regularMarketDayHigh: 13.81
+regularMarketDayLow: 13.344
+regularMarketDayRange: 13.344 - 13.81
+regularMarketOpen: 13.746
+regularMarketPreviousClose: 13.64
+regularMarketPrice: 13.412
+regularMarketTime: 1794411561
+regularMarketVolume: 4033305
+returnOnAssets: 0.01127
+returnOnEquity: 0.1301
+revenueGrowth: 0.266
+revenuePerShare: 3.379
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 2078476183
+shortName: BPER BANCA
+sourceInterval: 20
+state: MO
+symbol: BPE.MI
+targetHighPrice: 17.1
+targetLowPrice: 14.3
+targetMeanPrice: 15.52727
+targetMedianPrice: 15.5
+totalCash: 14059193344
+totalCashPerShare: 6.74
+totalDebt: 28991830016
+totalRevenue: 7048299008
+tradeable: false
+trailingAnnualDividendRate: 0.55
+trailingAnnualDividendYield: 0.04032258
+trailingEps: 1.12
+trailingPE: 11.974999
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 12.93762
+twoHundredDayAverageChange: 0.47437954
+twoHundredDayAverageChangePercent: 0.036666676
+typeDisp: Equity
+volume: 4033305
+website: https://www.bper.it
+zip: '41121'

@@ -1,0 +1,255 @@
+52WeekChange: 0.32330823
+SandP52WeekChange: 0.097798586
+address1: 5 Churchill Place
+address2: Canary Wharf
+allTimeHigh: 973.0
+allTimeLow: 33.0761
+ask: 896.0
+askSize: 0
+auditRisk: 7
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 1985552
+averageDailyVolume3Month: 1643854
+averageVolume: 1643854
+averageVolume10days: 1985552
+beta: 0.552
+bid: 895.0
+bidSize: 0
+boardRisk: 5
+bookValue: 2.316
+city: London
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philip David Hoare
+  title: CEO & Director
+  totalPay: 2938735
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 92
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Lord William  Weir
+  title: Honorary President
+  totalPay: 63583
+  unexercisedValue: 0
+  yearBorn: 1933
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John P. Tarpey Jr.
+  title: Chief of Organization Development
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Myles St John Westcott
+  title: Group CFO & Executive Director
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark  Johnnie
+  title: Chief Operating Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jon  Ozanne
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Jim  Ryan
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ed  Egerton
+  title: Chief Legal & Commercial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Louise  McCulloch
+  title: Chief Communications & Corporate Affairs Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kellie  Ajjanas
+  title: Senior Vice President of Human Resources
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 895.5
+currentRatio: 0.977
+customPriceAlertConfidence: LOW
+dayHigh: 897.5
+dayLow: 883.0
+debtToEquity: 94.774
+dividendRate: 0.15
+dividendYield: 1.65
+earningsCallTimestampEnd: 1786521600
+earningsCallTimestampStart: 1786521600
+earningsGrowth: 0.01
+earningsQuarterlyGrowth: -0.04
+earningsTimestamp: 1786548600
+earningsTimestampEnd: 1786548600
+earningsTimestampStart: 1786548600
+ebitda: 189000000
+ebitdaMargins: 0.019
+enterpriseToEbitda: 17.223
+enterpriseToRevenue: 0.327
+enterpriseValue: 3255200000
+epsCurrentYear: 0.49668
+epsForward: 0.56469
+epsTrailingTwelveMonths: 0.52
+esgPopulated: false
+exDividendDate: 1793232000
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 876.18
+fiftyDayAverageChange: 19.320007
+fiftyDayAverageChangePercent: 0.022050273
+fiftyTwoWeekChangePercent: 32.330822
+fiftyTwoWeekHigh: 973.0
+fiftyTwoWeekHighChange: -77.5
+fiftyTwoWeekHighChangePercent: -0.079650566
+fiftyTwoWeekLow: 636.5
+fiftyTwoWeekLowChange: 259.0
+fiftyTwoWeekLowChangePercent: 0.4069128
+fiftyTwoWeekRange: 636.5 - 973.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 2.32
+floatShares: 473318120
+forwardEps: 0.56469
+forwardPE: 15.858259
+freeCashflow: 350000000
+fullExchangeName: LSE
+fullTimeEmployees: 26000
+fulldayChange: 15.5
+fulldayChangePercent: 1.7613636
+fulldayPrice: 895.5
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.04745
+grossProfits: 472000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.014140001
+heldPercentInstitutions: 0.61557
+impliedSharesOutstanding: 465986724
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793232000
+lastDividendValue: 0.047
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Balfour Beatty plc finances, develops, builds, maintains, and
+  operates infrastructure in the United Kingdom, the United States, and internationally.
+  It operates through three segments: Construction Services, Support Services, Infrastructure
+  Investments. The company constructs buildings, including commercial, healthcare,
+  education, retail, and residential assets; and infrastructure assets comprising
+  highways and railways, as well as other large-scale infrastructure assets, such
+  as waste, water, and energy plants. It also offers a range of services, including
+  design and/or build, mechanical and electrical engineering, shell and core and/or
+  fit-out, and interior refurbishment; support services to various utility assets
+  comprising servicing of power transmission and distribution assets, as well as construction
+  and maintenance of electricity networks, including replacement or new build of overhead
+  lines, underground cabling, cable tunnels, and offshore wind farm maintenance; and
+  maintenance, asset and network management, and design services for highways, railways,
+  and public assets. In addition, the company operates a portfolio of service concession
+  assets comprising roads, healthcare, student accommodation, biomass, and waste and
+  offshore transmission sectors; offers real estate management services, such as property
+  development and asset management services; and develops housing units on land. Balfour
+  Beatty plc was founded in 1909 and is based in London, the United Kingdom.'
+longName: Balfour Beatty plc
+market: gb_market
+marketCap: 4172911104
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_682098
+mostRecentQuarter: 1782432000
+netIncomeToCommon: 259000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 4100683171
+numberOfAnalystOpinions: 10
+open: 887.5
+operatingCashflow: 609000000
+operatingMargins: 0.01518
+overallRisk: 4
+payoutRatio: 0.2682
+phone: 44 20 7216 6800
+previousClose: 880.0
+priceEpsCurrentYear: 1802.9718
+priceHint: 2
+priceToBook: 3.8665802
+priceToSalesTrailing12Months: 0.41951454
+profitMargins: 0.02604
+quickRatio: 0.888
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6
+region: US
+regularMarketChange: 15.5
+regularMarketChangePercent: 1.7613636
+regularMarketDayHigh: 897.5
+regularMarketDayLow: 883.0
+regularMarketDayRange: 883.0 - 897.5
+regularMarketOpen: 887.5
+regularMarketPreviousClose: 880.0
+regularMarketPrice: 895.5
+regularMarketTime: 1794411396
+regularMarketVolume: 770869
+returnOnAssets: 0.01474
+returnOnEquity: 0.23518999
+revenueGrowth: 0.101
+revenuePerShare: 20.446
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 465986724
+shortName: BALFOUR BEATTY PLC ORD 50P
+sourceInterval: 15
+symbol: BBY.L
+targetHighPrice: 1120.0
+targetLowPrice: 770.0
+targetMeanPrice: 1008.0
+targetMedianPrice: 1025.0
+totalCash: 2082000000
+totalCashPerShare: 4.302
+totalDebt: 1070000000
+totalRevenue: 9946999808
+tradeable: false
+trailingAnnualDividendRate: 0.145
+trailingAnnualDividendYield: 0.00016477272
+trailingEps: 0.52
+trailingPE: 17.221155
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 833.7737
+twoHundredDayAverageChange: 61.72632
+twoHundredDayAverageChangePercent: 0.07403246
+typeDisp: Equity
+volume: 770869
+website: https://www.balfourbeatty.com
+zip: E14 5HU

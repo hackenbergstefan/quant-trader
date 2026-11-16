@@ -1,0 +1,280 @@
+52WeekChange: 0.018147111
+SandP52WeekChange: 0.097798586
+address1: 1221 Broadway
+allTimeHigh: 239.87
+allTimeLow: 0.6875
+ask: 102.57
+askSize: 100
+auditRisk: 8
+averageAnalystRating: 3.2 - Hold
+averageDailyVolume10Day: 4106100
+averageDailyVolume3Month: 3033931
+averageVolume: 3033931
+averageVolume10days: 4106100
+beta: 0.581
+bid: 102.45
+bidSize: 100
+boardRisk: 3
+bookValue: -0.322
+city: Oakland
+companyOfficers:
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Linda J. Rendle
+  title: CEO & Chairman
+  totalPay: 3300565
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Luc  Bellet
+  title: Executive VP & CFO
+  totalPay: 1366806
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Chris T. Hyder
+  title: Executive VP & COO
+  totalPay: 1321501
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Kirsten M. Marriner
+  title: Executive VP & Chief Administrative Officer
+  totalPay: 1343801
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Angela C. Hilt
+  title: Executive VP, Chief Legal & External Affairs Officer and Corporate Secretary
+  totalPay: 1319277
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Laura E. Peck
+  title: VP, Chief Accounting Officer & Corporate Controller
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Chau  Banks
+  title: Senior VP and Chief Information & Data Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Lisah  Burhan
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Eric Sean Schwartz
+  title: Senior VP & Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Shanique  Bonelli-Moore
+  title: VP and Chief Diversity & Social Impact Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 102.96
+currentRatio: 0.654
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 105.05
+dayLow: 102.15
+debtToEquity: 4623.14
+displayName: Clorox
+dividendDate: 1794528000
+dividendRate: 5.0
+dividendYield: 4.69
+earningsCallTimestampEnd: 1793656800
+earningsCallTimestampStart: 1793656800
+earningsGrowth: 1.138
+earningsQuarterlyGrowth: 1.125
+earningsTimestamp: 1793653200
+earningsTimestampEnd: 1801602000
+earningsTimestampStart: 1801602000
+ebitda: 1296999936
+ebitdaMargins: 0.18024
+enterpriseToEbitda: 14.252
+enterpriseToRevenue: 2.569
+enterpriseValue: 18484312064
+epsCurrentYear: 5.72283
+epsForward: 6.1684
+epsTrailingTwelveMonths: 5.56
+esgPopulated: false
+exDividendDate: 1793145600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 87.9518
+fiftyDayAverageChange: 15.008202
+fiftyDayAverageChangePercent: 0.17064121
+fiftyTwoWeekChangePercent: 1.8147111
+fiftyTwoWeekHigh: 128.9
+fiftyTwoWeekHighChange: -25.939995
+fiftyTwoWeekHighChangePercent: -0.20124124
+fiftyTwoWeekLow: 79.12
+fiftyTwoWeekLowChange: 23.839996
+fiftyTwoWeekLowChangePercent: 0.3013144
+fiftyTwoWeekRange: 79.12 - 128.9
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 3.49
+floatShares: 120706419
+forwardEps: 6.1684
+forwardPE: 16.691525
+freeCashflow: 207124992
+fullExchangeName: NYSE
+fullTimeEmployees: 9200
+fulldayChange: -3.6399994
+fulldayChangePercent: -3.4146335
+fulldayPrice: 102.96
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.41939998
+grossProfits: 3017999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0069199996
+heldPercentInstitutions: 0.88284
+impliedSharesOutstanding: 120938184
+industry: Household & Personal Products
+industryDisp: Household & Personal Products
+industryKey: household-personal-products
+irWebsite: http://investors.thecloroxcompany.com/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1793145600
+lastDividendValue: 1.25
+lastFiscalYearEnd: 1782777600
+lastSplitDate: 935452800
+lastSplitFactor: '2:1'
+longBusinessSummary: 'The Clorox Company manufactures and markets consumer and professional
+  products worldwide. It operates through four segments: Health and Wellness, Household,
+  Lifestyle, and International. The company home care cleaning and disinfecting products
+  and laundry additives, skin sanitization and cleaning products, professional cleaning
+  and disinfecting products, and professional food service products under the Clorox,
+  Clorox2, Pine-Sol, Scentiva, Tilex, Liquid-Plumr, Formula 409, Purell, GOJO, CloroxPro,
+  Clorox Healthcare, Hidden Valley, Poett, Clorinda, and Chux brands. It also provides
+  bags and wraps, cat litter, and grilling products under the Glad, Fresh Step, Scoop
+  Away, Kingsford, and Ever Clean brands; and dressings, dips, seasonings, sauces,
+  water-filtration products, and natural personal care products under the Brita and
+  Burt''s Bees brands. The company sells its products through mass retailers; grocery
+  outlets; warehouse clubs; dollar stores; home hardware centers; drug, pet, and military
+  stores; third-party and owned e-commerce channels; distributors; and other retail
+  outlets through direct sales force. The company was founded in 1913 and is headquartered
+  in Oakland, California.'
+longName: The Clorox Company
+market: us_market
+marketCap: 12451794944
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_89450
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 677000000
+nextFiscalYearEnd: 1814313600
+nonDilutedMarketCap: 12892010414
+numberOfAnalystOpinions: 16
+open: 104.89
+operatingCashflow: 662000000
+operatingMargins: 0.14286
+overallRisk: 7
+payoutRatio: 0.8939
+pegRatio: 1.32
+phone: 510 271 7000
+previousClose: 106.6
+priceEpsCurrentYear: 17.991098
+priceHint: 2
+priceToBook: -319.75156
+priceToSalesTrailing12Months: 1.7303772
+profitMargins: 0.09408
+quickRatio: 0.314
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.16667
+region: US
+regularMarketChange: -3.6399994
+regularMarketChangePercent: -3.4146335
+regularMarketDayHigh: 105.05
+regularMarketDayLow: 102.15
+regularMarketDayRange: 102.15 - 105.05
+regularMarketOpen: 104.89
+regularMarketPreviousClose: 106.6
+regularMarketPrice: 102.96
+regularMarketTime: 1794413711
+regularMarketVolume: 777948
+returnOnAssets: 0.09618
+returnOnEquity: 5.34363
+revenueGrowth: 0.333
+revenuePerShare: 59.215
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 8
+sharesOutstanding: 120938184
+sharesPercentSharesOut: 0.089499995
+sharesShort: 10822721
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 11584354
+shortName: Clorox Company (The)
+shortPercentOfFloat: 0.1031
+shortRatio: 4.25
+sourceInterval: 15
+state: CA
+symbol: CLX
+targetHighPrice: 142.0
+targetLowPrice: 74.0
+targetMeanPrice: 97.0
+targetMedianPrice: 96.0
+totalCash: 184000000
+totalCashPerShare: 1.519
+totalDebt: 5593999872
+totalRevenue: 7196000256
+tradeable: false
+trailingAnnualDividendRate: 4.98
+trailingAnnualDividendYield: 0.046716698
+trailingEps: 5.56
+trailingPE: 18.517986
+trailingPegRatio: 1.3213
+triggerable: true
+twoHundredDayAverage: 99.3434
+twoHundredDayAverageChange: 3.6166
+twoHundredDayAverageChangePercent: 0.036405034
+typeDisp: Equity
+volume: 777948
+website: https://www.thecloroxcompany.com
+zip: 94612-1888

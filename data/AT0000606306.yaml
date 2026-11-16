@@ -1,0 +1,267 @@
+52WeekChange: 0.90403426
+SandP52WeekChange: 0.097798586
+address1: Am Stadtpark 9
+allTimeHigh: 118.65054
+allTimeLow: 8.81
+ask: 63.45
+askSize: 2184
+auditRisk: 9
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 313434
+averageDailyVolume3Month: 322339
+averageVolume: 322339
+averageVolume10days: 313434
+beta: 1.353
+bid: 63.35
+bidSize: 720
+boardRisk: 8
+bookValue: 61.982
+city: Vienna
+companyOfficers:
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Magistrate Michael  Hollerer
+  title: Chief Executive Officer
+  totalPay: 94000
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Magistrate Andreas  Gschwenter
+  title: COO, Chief Information Officer & Member of Management Board
+  totalPay: 1772000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Hannes  Mosenbacher
+  title: Chief Risk Officer & Member of Management Board
+  totalPay: 2028000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Magistrate Marie-Valerie  Brunner
+  title: Member of the Management Board & CIB Customer Coverage
+  totalPay: 1657000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kamila  Makhmudova
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rainer  Schnabl
+  title: Member of Management Board & CIB Products and Solutions
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Harald  Schönauer
+  title: Head of Investment Banking
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Helmut  Breit
+  title: Head of Corporate Finance
+  unexercisedValue: 0
+  yearBorn: 1957
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John P. Carlson C.F.A.
+  title: Head of group Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Schmutzer
+  title: Head of Group Compliance
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Austria
+cryptoTradeable: false
+currency: EUR
+currentPrice: 63.5
+customPriceAlertConfidence: LOW
+dayHigh: 63.55
+dayLow: 62.2
+dividendDate: 20217600
+dividendRate: 1.6
+dividendYield: 2.57
+earningsCallTimestampEnd: 1793710800
+earningsCallTimestampStart: 1793710800
+earningsGrowth: -0.136
+earningsQuarterlyGrowth: -0.509
+earningsTimestamp: 1793723700
+earningsTimestampEnd: 1793723700
+earningsTimestampStart: 1793723700
+ebitdaMargins: 0.0
+enterpriseToRevenue: 1.931
+enterpriseValue: 17228345344
+epsCurrentYear: 5.7797
+epsForward: 6.54875
+epsTrailingTwelveMonths: 5.97
+esgPopulated: false
+exDividendDate: 1776124800
+exchange: VIE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 60.332
+fiftyDayAverageChange: 3.1679993
+fiftyDayAverageChangePercent: 0.052509435
+fiftyTwoWeekChangePercent: 90.40343
+fiftyTwoWeekHigh: 66.75
+fiftyTwoWeekHighChange: -3.25
+fiftyTwoWeekHighChangePercent: -0.04868914
+fiftyTwoWeekLow: 30.92
+fiftyTwoWeekLowChange: 32.58
+fiftyTwoWeekLowChangePercent: 1.053687
+fiftyTwoWeekRange: 30.92 - 66.75
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1114412100000
+fiveYearAvgDividendYield: 4.27
+floatShares: 127162855
+forwardEps: 6.54875
+forwardPE: 9.696507
+fullExchangeName: Vienna
+fullTimeEmployees: 41319
+fulldayChange: 1.2000008
+fulldayChangePercent: 1.926165
+fulldayPrice: 63.5
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 8920999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.6117
+heldPercentInstitutions: 0.15684
+impliedSharesOutstanding: 328416464
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: http://investor.rbinternational.com/index.php?id=498&no_cache=1&L=1
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776124800
+lastDividendValue: 1.6
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Raiffeisen Bank International AG, together with its subsidiaries,
+  offers banking services to corporate, retail, and institutional customers. The company
+  provides cash management, investment and subsidized financing, eSpeedTrack, financing
+  and sustainable solutions, electronic bank account management, reporting and payment,
+  supply chain financing, payment acceptance, factoring solutions, export and trade
+  finance, factoring, leveraged and acquisition financing, project and structured
+  financing, real estate financing, leasing, digital banking, working capital, investment
+  banking, investing, hedging, and investor services to its institutional clients
+  and corporate customers in agri food and beverage, mobility, construction and building
+  materials, healthcare and pharmaceuticals, infrastructure and logistics, manufacturing,
+  metals and mining, energy, packaging, real estate, retail, technology, telecom,
+  and utilities industries. It also offers corporate, investment, and retail banking
+  services, such as wealth management services to retail customers and small and medium-sized
+  enterprises. In addition, the company provides accounts, clearing, reporting, settlement,
+  domestic banks, and instant payment services; and investment banking services, including
+  asset based finance, fund finance and alternatives investments, loan syndication,
+  mergers and acquisitions advisory, and debt and equity capital markets services.
+  It operates through a network of business outlets in Central, Southeastern, and
+  Eastern Europe, as well as Albania, Bosnia and Herzegovina, Croatia, Kosovo, Romania,
+  Serbia, Russia, Austria, Czech Republic, Hungary, Poland, Slovenia, Montenegro,
+  Slovakia, and Ukraine. Raiffeisen Bank International AG was founded in 1886 and
+  is based in Vienna, Austria.
+longName: Raiffeisen Bank International AG
+market: at_market
+marketCap: 20854444032
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_6950864
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1958000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 20460345707
+numberOfAnalystOpinions: 12
+open: 63.0
+operatingCashflow: 2312000000
+operatingMargins: 0.46765998
+overallRisk: 7
+payoutRatio: 0.268
+pegRatio: 2.84
+phone: 43 1 71 707 0
+previousClose: 62.3
+priceEpsCurrentYear: 10.98673
+priceHint: 2
+priceToBook: 1.024491
+priceToSalesTrailing12Months: 2.33768
+profitMargins: 0.23349
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: 1.2000008
+regularMarketChangePercent: 1.926165
+regularMarketDayHigh: 63.55
+regularMarketDayLow: 62.2
+regularMarketDayRange: 62.2 - 63.55
+regularMarketOpen: 63.0
+regularMarketPreviousClose: 62.3
+regularMarketPrice: 63.5
+regularMarketTime: 1794411563
+regularMarketVolume: 75454
+returnOnAssets: 0.010670001
+returnOnEquity: 0.10172
+revenueGrowth: 0.017
+revenuePerShare: 27.198
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 6
+sharesOutstanding: 328416464
+shortName: Raiffeisen Bank Internat. AG
+sourceInterval: 15
+symbol: RBI.VI
+targetHighPrice: 80.0
+targetLowPrice: 35.8
+targetMeanPrice: 61.54167
+targetMedianPrice: 64.85
+totalCash: 40049000448
+totalCashPerShare: 121.946
+totalDebt: 35370000384
+totalRevenue: 8920999936
+tradeable: false
+trailingAnnualDividendRate: 1.6
+trailingAnnualDividendYield: 0.025682183
+trailingEps: 5.97
+trailingPE: 10.636517
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 51.5594
+twoHundredDayAverageChange: 11.940601
+twoHundredDayAverageChangePercent: 0.23158923
+typeDisp: Equity
+volume: 75454
+website: https://www.rbinternational.com/de/home.html
+zip: '1030'

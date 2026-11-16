@@ -1,0 +1,248 @@
+52WeekChange: 0.122555375
+SandP52WeekChange: 0.097798586
+address1: Gotthardstrasse 6
+allTimeHigh: 183.4
+allTimeLow: 4.82
+ask: 176.4
+askSize: 0
+averageDailyVolume10Day: 27275
+averageDailyVolume3Month: 27077
+averageVolume: 27077
+averageVolume10days: 27275
+beta: 0.615
+bid: 176.2
+bidSize: 0
+bookValue: 30.645
+city: Zurich
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Giulio  Vitarelli
+  title: CEO & Member of Executive Board
+  totalPay: 1416000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rafael  Pfaffen
+  title: CFO & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc  Weber
+  title: Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Schonbucher
+  title: Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Manuel  Rutsche
+  title: Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Simon  Tellenbach
+  title: MD Corporate Clients & Insurance Brokerage and Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philipp  Heer
+  title: Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1984
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Petra  Mark
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Adriano  Pavone
+  title: Head of Media Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 176.4
+currentRatio: 0.348
+customPriceAlertConfidence: LOW
+dayHigh: 176.6
+dayLow: 173.8
+debtToEquity: 77.965
+dividendDate: 1744675200
+dividendRate: 2.95
+dividendYield: 1.71
+earningsCallTimestampEnd: 1755255540
+earningsCallTimestampStart: 1755255540
+earningsGrowth: 0.181
+earningsQuarterlyGrowth: 0.181
+earningsTimestamp: 1786721400
+earningsTimestampEnd: 1786721400
+earningsTimestampStart: 1786721400
+ebitda: 312894016
+ebitdaMargins: 0.47224998
+enterpriseToEbitda: 17.847
+enterpriseToRevenue: 8.428
+enterpriseValue: 5584097280
+epsCurrentYear: 6.94257
+epsForward: 7.80836
+epsTrailingTwelveMonths: 6.46
+esgPopulated: false
+exDividendDate: 1774915200
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 164.884
+fiftyDayAverageChange: 11.515991
+fiftyDayAverageChangePercent: 0.06984299
+fiftyTwoWeekChangePercent: 12.255537
+fiftyTwoWeekHigh: 182.6
+fiftyTwoWeekHighChange: -6.200012
+fiftyTwoWeekHighChangePercent: -0.033954065
+fiftyTwoWeekLow: 139.4
+fiftyTwoWeekLowChange: 37.0
+fiftyTwoWeekLowChangePercent: 0.26542327
+fiftyTwoWeekRange: 139.4 - 182.6
+financialCurrency: CHF
+firstTradeDateMilliseconds: 1174550400000
+fiveYearAvgDividendYield: 1.79
+floatShares: 14930200
+forwardEps: 7.80836
+forwardPE: 22.591171
+freeCashflow: 596548736
+fullExchangeName: Swiss
+fullTimeEmployees: 1794
+fulldayChange: 4.199997
+fulldayChangePercent: 2.4390228
+fulldayPrice: 176.4
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.64742
+grossProfits: 428953984
+hasPrePostMarketData: false
+heldPercentInsiders: 0.62237
+heldPercentInstitutions: 0.21214001
+impliedSharesOutstanding: 39383277
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1774915200
+lastDividendValue: 2.95
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1587427200
+lastSplitFactor: '5:1'
+longBusinessSummary: VZ Holding AG, together with its subsidiaries, provides financial
+  services in Switzerland, Germany, and England. The company offers retirement planning,
+  estate planning, real estate pension scheme, tax advice, and corporate succession
+  services; portfolio management, invest with ETFs, securities account consultancy,
+  securities custody account, and securities portfolio check services; and estate
+  consultation, execution of wills, corporate succession planning, VZ safe, and LGBT
+  advice services. It also provides mortgages, mortgage alarm, real estate valuation,
+  and properties sale services; tax returns, tax planning, and LGBT tax advice services;
+  and pension analysis, vested benefits, and ETFs and individual stocks services.
+  In addition, the company offers insurance, insurance check, pension planning, and
+  digital organizers; VZ depository; VZ financial portal that enables to find properties
+  worth, manage financial investments, insurance policies, and mortgages digitally,
+  as well as set interest rate alarms; investment consultancy services; and trading
+  of crypto assets. VZ Holding AG was founded in 1992 and is headquartered in Zurich,
+  Switzerland. VZ Holding AG operates as a subsidiary of Madarex AG.
+longName: VZ Holding AG
+market: ch_market
+marketCap: 6947209728
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_33103325
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 255743008
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 6781800299
+numberOfAnalystOpinions: 2
+open: 173.8
+operatingCashflow: -26323000
+operatingMargins: 0.45692003
+payoutRatio: 0.45669997
+pegRatio: 0.88
+phone: 41 44 207 27 27
+previousClose: 172.2
+priceEpsCurrentYear: 25.408457
+priceHint: 2
+priceToBook: 5.7562404
+priceToSalesTrailing12Months: 10.485468
+profitMargins: 0.38599
+quickRatio: 0.343
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 4.199997
+regularMarketChangePercent: 2.4390228
+regularMarketDayHigh: 176.6
+regularMarketDayLow: 173.8
+regularMarketDayRange: 173.8 - 176.6
+regularMarketOpen: 173.8
+regularMarketPreviousClose: 172.2
+regularMarketPrice: 176.4
+regularMarketTime: 1794411565
+regularMarketVolume: 16825
+returnOnAssets: 0.02251
+returnOnEquity: 0.22594999
+revenueGrowth: 0.118
+revenuePerShare: 16.805
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+sharesOutstanding: 39383277
+shortName: VZ HOLDING N
+sourceInterval: 15
+symbol: VZN.SW
+targetHighPrice: 200.0
+targetLowPrice: 181.0
+targetMeanPrice: 190.5
+targetMedianPrice: 190.5
+totalCash: 2139421952
+totalCashPerShare: 54.323
+totalDebt: 941286976
+totalRevenue: 662556032
+tradeable: false
+trailingAnnualDividendRate: 2.95
+trailingAnnualDividendYield: 0.017131243
+trailingEps: 6.46
+trailingPE: 27.306501
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 156.615
+twoHundredDayAverageChange: 19.784988
+twoHundredDayAverageChangePercent: 0.12632881
+typeDisp: Equity
+volume: 16825
+website: https://www.vermoegenszentrum.ch/en
+zip: '8002'

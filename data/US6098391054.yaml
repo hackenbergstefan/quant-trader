@@ -1,0 +1,257 @@
+52WeekChange: 0.41660142
+SandP52WeekChange: 0.097798586
+address1: 1555 Palm Beach Lakes Boulevard
+allTimeHigh: 1714.09
+allTimeLow: 5.85
+ask: 1395.65
+askSize: 1
+auditRisk: 10
+averageAnalystRating: 1.2 - Strong Buy
+averageDailyVolume10Day: 1396060
+averageDailyVolume3Month: 809771
+averageVolume: 809771
+averageVolume10days: 1396060
+beta: 1.725
+bid: 1324.6
+bidSize: 1
+boardRisk: 8
+bookValue: 76.524
+city: West Palm Beach
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael R. Hsing
+  title: Founder, Chairman, President & CEO
+  totalPay: 7244404
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Deming  Xiao
+  title: Executive Vice President of Global Operations
+  totalPay: 3771994
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Saria  Tseng
+  title: EVP of Strategic Corporate Development, General Counsel & Corporate Secretary
+  totalPay: 3772180
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Maurice  Sciammas
+  title: Executive Vice President of Worldwide Sales & Marketing
+  totalPay: 3769595
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tony  Balow
+  title: CFO & VP
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert W. Dean II
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Genevieve  Cunningham
+  title: Senior Manager of Marketing Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Arthur  Lee
+  title: Finance Manager
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 1471.525
+currentRatio: 3.702
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 1479.33
+dayLow: 1390.0
+debtToEquity: 0.572
+displayName: Monolithic Power Systems
+dividendDate: 1792022400
+dividendRate: 8.0
+dividendYield: 0.59
+earningsCallTimestampEnd: 1793307600
+earningsCallTimestampStart: 1793307600
+earningsGrowth: 0.473
+earningsQuarterlyGrowth: 0.508
+earningsTimestamp: 1793304000
+earningsTimestampEnd: 1793304000
+earningsTimestampStart: 1793304000
+ebitda: 1167911936
+ebitdaMargins: 0.31241
+enterpriseToEbitda: 55.773
+enterpriseToRevenue: 17.424
+enterpriseValue: 65137573888
+epsCurrentYear: 29.24384
+epsForward: 46.34466
+epsTrailingTwelveMonths: 18.24
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 1271.8242
+fiftyDayAverageChange: 199.7008
+fiftyDayAverageChangePercent: 0.15701918
+fiftyTwoWeekChangePercent: 41.66014
+fiftyTwoWeekHigh: 1714.09
+fiftyTwoWeekHighChange: -242.56494
+fiftyTwoWeekHighChangePercent: -0.14151238
+fiftyTwoWeekLow: 833.18
+fiftyTwoWeekLowChange: 638.34503
+fiftyTwoWeekLowChangePercent: 0.766155
+fiftyTwoWeekRange: 833.18 - 1714.09
+financialCurrency: USD
+firstTradeDateMilliseconds: 1100874600000
+fiveYearAvgDividendYield: 0.62
+floatShares: 47010889
+forwardEps: 46.34466
+forwardPE: 31.75177
+freeCashflow: 506380128
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 4501
+fulldayChange: 113.92505
+fulldayChangePercent: 8.391651
+fulldayPrice: 1471.525
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.55263
+grossProfits: 2065940992
+hasPrePostMarketData: true
+heldPercentInsiders: 0.03595
+heldPercentInstitutions: 0.99425006
+impliedSharesOutstanding: 48768000
+industry: Semiconductors
+industryDisp: Semiconductors
+industryKey: semiconductors
+irWebsite: http://ir.monolithicpower.com/index.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 2.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Monolithic Power Systems, Inc. provides semiconductor-based power
+  electronics solutions in China, Taiwan, South Korea, Southeast Asia, Europe, the
+  United States, Japan, and internationally. The company offers direct current (DC)
+  to DC solutions to convert and control voltages within a range of electronic systems,
+  such as cloud-based and on-premises CPU servers and workstations, AI systems, memory,
+  storage solutions, notebooks, infotainment, power sources, home appliances, network
+  infrastructure, and satellite communications. It also provides alternating current
+  (AC) to DC; driver metal-oxide-semiconductor field-effect transistors; power management
+  integrated circuits (ICs); and current limit switch and lighting control products.
+  The company serves storage and computing, enterprise data, automotive, communications,
+  consumer, and industrial end markets through third-party distributors and value-added
+  resellers. Monolithic Power Systems, Inc. was incorporated in 1997 and is based
+  in West Palm Beach, Florida.
+longName: Monolithic Power Systems, Inc.
+market: us_market
+marketCap: 71763329024
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_3051626
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 893246976
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 66207436800
+numberOfAnalystOpinions: 14
+open: 1434.495
+operatingCashflow: 872984000
+operatingMargins: 0.29496
+overallRisk: 9
+payoutRatio: 0.4165
+pegRatio: 0.79
+phone: 561 839 3999
+previousClose: 1357.6
+priceEpsCurrentYear: 50.319145
+priceHint: 2
+priceToBook: 19.229588
+priceToSalesTrailing12Months: 19.196314
+profitMargins: 0.23893999
+quickRatio: 2.424
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.1875
+region: US
+regularMarketChange: 113.92505
+regularMarketChangePercent: 8.391651
+regularMarketDayHigh: 1479.33
+regularMarketDayLow: 1390.0
+regularMarketDayRange: 1390.0 - 1479.33
+regularMarketOpen: 1434.495
+regularMarketPreviousClose: 1357.6
+regularMarketPrice: 1471.525
+regularMarketTime: 1794413740
+regularMarketVolume: 317594
+returnOnAssets: 0.15524
+returnOnEquity: 0.24466999
+revenueGrowth: 0.631
+revenuePerShare: 76.374
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 9
+sharesOutstanding: 48768000
+sharesPercentSharesOut: 0.0326
+sharesShort: 1589806
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1858921
+shortName: Monolithic Power Systems, Inc.
+shortPercentOfFloat: 0.044
+shortRatio: 1.98
+sourceInterval: 15
+state: FL
+symbol: MPWR
+targetHighPrice: 2100.0
+targetLowPrice: 1500.0
+targetMeanPrice: 1820.6428
+targetMedianPrice: 1810.0
+totalCash: 1091234048
+totalCashPerShare: 22.376
+totalDebt: 21371000
+totalRevenue: 3738391040
+tradeable: false
+trailingAnnualDividendRate: 7.56
+trailingAnnualDividendYield: 0.0055686506
+trailingEps: 18.24
+trailingPE: 80.67571
+trailingPegRatio: 0.7918
+triggerable: true
+twoHundredDayAverage: 1323.9385
+twoHundredDayAverageChange: 147.58655
+twoHundredDayAverageChangePercent: 0.111475386
+typeDisp: Equity
+volume: 317594
+website: https://www.monolithicpower.com
+zip: '33401'

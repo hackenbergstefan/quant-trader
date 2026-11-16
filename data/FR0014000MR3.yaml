@@ -1,0 +1,256 @@
+52WeekChange: 0.47793865
+SandP52WeekChange: 0.097798586
+address1: 23 Val Fleuri
+allTimeHigh: 127.68
+allTimeLow: 0.176
+ask: 0.0
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 3.0 - Hold
+averageDailyVolume10Day: 285367
+averageDailyVolume3Month: 311237
+averageVolume: 311237
+averageVolume10days: 285367
+beta: 0.873
+bid: 0.0
+bidSize: 0
+boardRisk: 3
+bookValue: 20.854
+city: Luxembourg
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Gilles G. Martin Ph.D.
+  title: Chairman of the Board & CEO
+  totalPay: 2861750
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Valerie  Hanote
+  title: Executive Director
+  totalPay: 462000
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Laurent  Lebras
+  title: Group Administration & CFO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gonzalo  Mele
+  title: Group Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew  Swift
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David W. Bryant
+  title: Senior VP of Strategic Business Development North America
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gabriel  Julia
+  title: Senior VP of Clinical Diagnostics Europe
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Timothy S. Oostdyk
+  title: Executive VP of BioPharma, Genomics & Agrosciences Services North America
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joachim  Reichelt
+  title: Senior Vice President of Food & Feed Testing Europe
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Yvoine  Remy
+  title: Senior Vice President of Environment Testing Europe
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: Luxembourg
+cryptoTradeable: false
+currency: EUR
+currentPrice: 87.9
+currentRatio: 1.132
+customPriceAlertConfidence: LOW
+dayHigh: 88.16
+dayLow: 87.18
+debtToEquity: 96.122
+dividendRate: 0.72
+dividendYield: 0.82
+earningsCallTimestampEnd: 1784820600
+earningsCallTimestampStart: 1784820600
+earningsGrowth: 0.284
+earningsQuarterlyGrowth: 0.222
+earningsTimestampEnd: 1784820600
+earningsTimestampStart: 1784820600
+ebitda: 1537100032
+ebitdaMargins: 0.20812
+enterpriseToEbitda: 12.439
+enterpriseToRevenue: 2.589
+enterpriseValue: 19120689152
+epsCurrentYear: 4.15772
+epsForward: 4.74276
+epsTrailingTwelveMonths: 2.88
+esgPopulated: false
+exDividendDate: 1777334400
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 352 26 18 53 31
+fiftyDayAverage: 78.8648
+fiftyDayAverageChange: 9.035202
+fiftyDayAverageChangePercent: 0.114565715
+fiftyTwoWeekChangePercent: 47.793865
+fiftyTwoWeekHigh: 89.28
+fiftyTwoWeekHighChange: -1.3799973
+fiftyTwoWeekHighChangePercent: -0.015456959
+fiftyTwoWeekLow: 54.86
+fiftyTwoWeekLowChange: 33.04
+fiftyTwoWeekLowChangePercent: 0.6022603
+fiftyTwoWeekRange: 54.86 - 89.28
+financialCurrency: EUR
+firstTradeDateMilliseconds: 877939200000
+fiveYearAvgDividendYield: 1.12
+floatShares: 108300028
+forwardEps: 4.74276
+forwardPE: 18.533512
+freeCashflow: 339562496
+fullExchangeName: Paris
+fullTimeEmployees: 65000
+fulldayChange: 0.13999939
+fulldayChangePercent: 0.15948895
+fulldayPrice: 87.9
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.23128
+grossProfits: 1708099968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.3655
+heldPercentInstitutions: 0.35699
+impliedSharesOutstanding: 171052223
+industry: Diagnostics & Research
+industryDisp: Diagnostics & Research
+industryKey: diagnostics-research
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777334400
+lastDividendValue: 0.72
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1605744000
+lastSplitFactor: '10:1'
+longBusinessSummary: Eurofins Scientific SE, together with its subsidiaries, provides
+  various analytical testing and laboratory services worldwide. It provides services,
+  such as agroscience, including biological assessment, consumer and human, environmental
+  safety, product chemistry, regulatory consultancy, and seed services; agro testing;
+  assurance, including sustainability, audit, certification, quality inspection, QA-QC
+  programme, and food and dietary supplement labelling services; biopharma, and clinical
+  diagnostics. The company also offers consumer product testing, which include sustainability,
+  testing, certifications and approvals, expert services and regulatory, inspections,
+  audits, consumer research and sensory evaluation, and training courses; cosmetics
+  and personal care; and electrical and electronics laboratories services. In addition,
+  it provides environment testing, including maritime, water, air, soil, building
+  material, pollution, waste, fuel/oil, microplastics, and radioactivity testing;
+  and food and feed testing that include allergen, audit and certification, authenticity,
+  carbohydrates, consulting, dioxins and POPs, food irradiation, GMO, heavy metal,
+  melamine, microbiology, molecular biology, mycotoxin, nutritional analyses, organic
+  contaminants, pesticide, veterinary drug, vitamin, and residual DNA testing. Further,
+  the company provides forensic, genomic, maritime, materials and engineering, REACH,
+  and sensory and consumer services, as well as in vitro diagnostics and PSS insourcing
+  solutions. The company was founded in 1987 and is headquartered in Luxembourg, Luxembourg.
+longName: Eurofins Scientific SE
+market: fr_market
+marketCap: 15035490304
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_883811
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 469900000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 14922595934
+numberOfAnalystOpinions: 14
+open: 87.42
+operatingCashflow: 1486800000
+operatingMargins: 0.14083
+overallRisk: 6
+payoutRatio: 0.25
+pegRatio: 1.06
+phone: 352 26 18 53 20
+previousClose: 87.76
+priceEpsCurrentYear: 21.141396
+priceHint: 2
+priceToBook: 4.2150187
+priceToSalesTrailing12Months: 2.0358121
+profitMargins: 0.07171
+quickRatio: 0.874
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.0
+region: US
+regularMarketChange: 0.13999939
+regularMarketChangePercent: 0.15948895
+regularMarketDayHigh: 88.16
+regularMarketDayLow: 87.18
+regularMarketDayRange: 87.18 - 88.16
+regularMarketOpen: 87.42
+regularMarketPreviousClose: 87.76
+regularMarketPrice: 87.9
+regularMarketTime: 1794411565
+regularMarketVolume: 93407
+returnOnAssets: 0.05993
+returnOnEquity: 0.11328
+revenueGrowth: 0.025
+revenuePerShare: 41.844
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 10
+sharesOutstanding: 171052223
+shortName: EUROFINS SCIENT.
+sourceInterval: 15
+symbol: ERF.PA
+targetHighPrice: 92.5
+targetLowPrice: 60.5
+targetMeanPrice: 74.77857
+targetMedianPrice: 72.45
+totalCash: 617800000
+totalCashPerShare: 3.559
+totalDebt: 4471600128
+totalRevenue: 7385500160
+tradeable: false
+trailingAnnualDividendRate: 0.72
+trailingAnnualDividendYield: 0.008204194
+trailingEps: 2.88
+trailingPE: 30.520832
+trailingPegRatio: 1.0608
+triggerable: false
+twoHundredDayAverage: 69.0318
+twoHundredDayAverageChange: 18.868202
+twoHundredDayAverageChangePercent: 0.27332625
+typeDisp: Equity
+volume: 93407
+website: https://www.eurofins.com
+zip: '1526'

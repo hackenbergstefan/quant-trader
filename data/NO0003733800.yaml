@@ -1,0 +1,268 @@
+52WeekChange: 0.029951692
+SandP52WeekChange: 0.097798586
+address1: Pb. 423 Skøyen
+allTimeHigh: 131.2
+allTimeLow: 6.5
+ask: 105.3
+askSize: 288
+auditRisk: 6
+averageAnalystRating: 3.0 - Hold
+averageDailyVolume10Day: 1760503
+averageDailyVolume3Month: 1663039
+averageVolume: 1663039
+averageVolume10days: 1760503
+beta: 0.198
+bid: 105.2
+bidSize: 942
+boardRisk: 4
+bookValue: 43.353
+city: Oslo
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nils Kloumann Selte
+  title: President & CEO
+  totalPay: 22731000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Arve  Regland
+  title: EVP & CFO
+  totalPay: 7696000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Camilla Tellefsdal Robstad
+  title: Executive Vice President of Legal & Compliance
+  totalPay: 5629000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hege Holter Brekke
+  title: Executive VP of Investments
+  totalPay: 6800000
+  unexercisedValue: 6047695
+  yearBorn: 1969
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria  Syse-Nybraaten
+  title: Executive VP of Investments
+  totalPay: 6530000
+  unexercisedValue: 0
+  yearBorn: 1986
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Audun  Stensvold
+  title: Executive Vice President of Investments
+  totalPay: 6534000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oyvind  Torpp
+  title: Executive Vice President of Investments
+  totalPay: 11440000
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frode  Kronstad
+  title: Senior Vice President of Corporate Accounting
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Annie Golden Bersagel
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christer  Gronberg
+  title: Head of Corporate Functions
+  unexercisedValue: 0
+  yearBorn: 1961
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Norway
+cryptoTradeable: false
+currency: NOK
+currentPrice: 104.9
+currentRatio: 1.026
+customPriceAlertConfidence: LOW
+dayHigh: 106.2
+dayLow: 104.9
+debtToEquity: 54.032
+dividendRate: 4.0
+dividendYield: 3.75
+earningsCallTimestampEnd: 1793950200
+earningsCallTimestampStart: 1793950200
+earningsGrowth: 0.145
+earningsQuarterlyGrowth: 0.106
+earningsTimestamp: 1793978400
+earningsTimestampEnd: 1793978400
+earningsTimestampStart: 1793978400
+ebitda: 9205999616
+ebitdaMargins: 0.13074
+enterpriseToEbitda: 13.875
+enterpriseToRevenue: 1.814
+enterpriseValue: 127732801536
+epsCurrentYear: 6.812
+epsForward: 6.83048
+epsTrailingTwelveMonths: 6.51
+esgPopulated: false
+exDividendDate: 1776988800
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 94.643
+fiftyDayAverageChange: 10.257004
+fiftyDayAverageChangePercent: 0.10837573
+fiftyTwoWeekChangePercent: 2.9951692
+fiftyTwoWeekHigh: 131.2
+fiftyTwoWeekHighChange: -26.299995
+fiftyTwoWeekHighChangePercent: -0.20045729
+fiftyTwoWeekLow: 90.0
+fiftyTwoWeekLowChange: 14.900002
+fiftyTwoWeekLowChangePercent: 0.16555557
+fiftyTwoWeekRange: 90.0 - 131.2
+financialCurrency: NOK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 3.59
+floatShares: 715095104
+forwardEps: 6.83048
+forwardPE: 15.357633
+freeCashflow: 4573624832
+fullExchangeName: Oslo
+fullTimeEmployees: 17541
+fulldayChange: -1.699997
+fulldayChangePercent: -1.5947438
+fulldayPrice: 104.9
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.48436
+grossProfits: 34107000832
+hasPrePostMarketData: false
+heldPercentInsiders: 0.05244
+heldPercentInstitutions: 0.80197996
+impliedSharesOutstanding: 948950013
+industry: Packaged Foods
+industryDisp: Packaged Foods
+industryKey: packaged-foods
+irWebsite: http://www.orkla.com/Investor-relations
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776988800
+lastDividendValue: 6.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1177027200
+lastSplitFactor: '5:1'
+longBusinessSummary: Orkla ASA operates as an industrial investment company within
+  brands and consumer-oriented businesses worldwide. It offers decorative paints,
+  marine coatings, protective coatings, and powder coatings; frozen pizza, condiments,
+  bread toppings, and ready-to-eat meals; bakery, ice cream, and plant-based products;
+  and confectionery, biscuits, and salty snacks. The company also provides branded
+  consumer health products, such as daily nutrition and oral health, wound care, and
+  functional personal care under the Möller's, Jordan, and Salvequick brand names;
+  spices and spice blends, ready-to-eat sweets, breakfast mixes, and other; and cleaning
+  and personal hygiene products, such as detergents, cleaning equipment, and personal
+  care products. In addition, it operates a franchised pizza business; offers paintbrushes,
+  rollers, and other painting project consumables comprising sanding equipment, tape,
+  protective gear, and cleaning products; and health and sports nutrition products.
+  The company was founded in 1654 and is headquartered in Oslo, Norway.
+longName: Orkla ASA
+market: no_market
+marketCap: 99544858624
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_4002987
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 6393999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 101158071385
+numberOfAnalystOpinions: 8
+open: 106.0
+operatingCashflow: 9203000320
+operatingMargins: 0.10431
+overallRisk: 5
+payoutRatio: 0.61439997
+pegRatio: 1.14
+phone: 47 22 54 40 00
+previousClose: 106.6
+priceEpsCurrentYear: 15.399296
+priceHint: 2
+priceToBook: 2.419671
+priceToSalesTrailing12Months: 1.4136682
+profitMargins: 0.09915
+quickRatio: 0.564
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.0
+region: US
+regularMarketChange: -1.699997
+regularMarketChangePercent: -1.5947438
+regularMarketDayHigh: 106.2
+regularMarketDayLow: 104.9
+regularMarketDayRange: 104.9 - 106.2
+regularMarketOpen: 106.0
+regularMarketPreviousClose: 106.6
+regularMarketPrice: 104.9
+regularMarketTime: 1794410970
+regularMarketVolume: 1672787
+returnOnAssets: 0.052270003
+returnOnEquity: 0.14706999
+revenueGrowth: -0.023
+revenuePerShare: 71.828
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 1
+sharesOutstanding: 948950013
+shortName: ORKLA
+sourceInterval: 15
+symbol: ORK.OL
+targetHighPrice: 140.0
+targetLowPrice: 89.0
+targetMeanPrice: 110.25
+targetMedianPrice: 106.0
+totalCash: 1440999936
+totalCashPerShare: 1.497
+totalDebt: 23953000448
+totalRevenue: 70415998976
+tradeable: false
+trailingAnnualDividendRate: 4.0
+trailingAnnualDividendYield: 0.037523452
+trailingEps: 6.51
+trailingPE: 16.11367
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 107.14975
+twoHundredDayAverageChange: -2.2497482
+twoHundredDayAverageChangePercent: -0.020996299
+typeDisp: Equity
+volume: 1672787
+website: https://www.orkla.com
+zip: '0213'

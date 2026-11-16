@@ -1,0 +1,252 @@
+52WeekChange: -0.5110029
+SandP52WeekChange: 0.097798586
+address1: Rheinmetall Platz 1
+allTimeHigh: 2008.0
+allTimeLow: 6.41
+ask: 802.4
+askSize: 45
+auditRisk: 10
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 312588
+averageDailyVolume3Month: 195100
+averageVolume: 195100
+averageVolume10days: 312588
+beta: 0.449
+bid: 802.3
+bidSize: 267
+boardRisk: 2
+bookValue: 114.459
+city: Düsseldorf
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Armin Theodor Papperger
+  title: Chairman of the Executive Board & CEO
+  totalPay: 6037000
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Klaus Jürgen Neumann
+  title: CFO & Member of Executive Board
+  totalPay: 1907000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rene  Gansauge
+  title: COO & Member of Executive Board
+  totalPay: 2022000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Vera  Saal
+  title: CHRO, Director of Labor Relations & Member of Executive Board
+  totalPay: 926000
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dirk  Winkels
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Michael  Salzmann
+  title: Chief Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Rolf  Giebeler MPA (Harvard)
+  title: Representative Director of Law & General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Philipp  von Brandenstein
+  title: Head of Corporate Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Anika Giulia Marker
+  title: Investor Relations Manager
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 801.9
+currentRatio: 1.0
+customPriceAlertConfidence: LOW
+dayHigh: 865.0
+dayLow: 801.0
+debtToEquity: 57.465
+dividendRate: 11.5
+dividendYield: 1.36
+earningsCallTimestampEnd: 1793883600
+earningsCallTimestampStart: 1793883600
+earningsGrowth: 0.927
+earningsQuarterlyGrowth: 0.947
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 2500000000
+ebitdaMargins: 0.20402001
+enterpriseToEbitda: 17.377
+enterpriseToRevenue: 3.545
+enterpriseValue: 43442331648
+epsCurrentYear: 33.45727
+epsForward: 49.81505
+epsTrailingTwelveMonths: 28.69
+esgPopulated: false
+exDividendDate: 1778630400
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 991.454
+fiftyDayAverageChange: -189.55396
+fiftyDayAverageChangePercent: -0.19118784
+fiftyTwoWeekChangePercent: -51.10029
+fiftyTwoWeekHigh: 1966.0
+fiftyTwoWeekHighChange: -1164.1
+fiftyTwoWeekHighChangePercent: -0.59211594
+fiftyTwoWeekLow: 792.6
+fiftyTwoWeekLowChange: 9.300049
+fiftyTwoWeekLowChangePercent: 0.011733597
+fiftyTwoWeekRange: 792.6 - 1966.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 902300400000
+fiveYearAvgDividendYield: 0.91
+floatShares: 46540880
+forwardEps: 49.81505
+forwardPE: 16.097546
+freeCashflow: 806515008
+fullExchangeName: XETRA
+fullTimeEmployees: 30845
+fulldayChange: -51.399963
+fulldayChangePercent: -6.0236683
+fulldayPrice: 801.9
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.51983
+grossProfits: 6369999872
+hasPrePostMarketData: false
+heldPercentInsiders: 0.016490001
+heldPercentInstitutions: 0.46063998
+impliedSharesOutstanding: 46668063
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778630400
+lastDividendValue: 11.5
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Rheinmetall AG provides mobility and security technologies in
+  Germany, Rest of Europe, North, Middle, and South America, Asia and the Near East,
+  and internationally. The company operates through the Vehicle Systems, Weapon and
+  Ammunition, and Electronic Solutions segments. Its Vehicle Systems segment offers
+  combat, logistics, support, and special vehicles, including armored tracked vehicles,
+  CBRN protection systems, artillery, turret systems, and wheeled logistics and tactical
+  vehicles. The Weapon and Ammunition segment provides firepower and protection solutions,
+  such as weapons and ammunition, protection systems, propellants, and international
+  projects and services. Its Electronic Solutions segment offers a chain of systems
+  network, such as sensors, networking platforms, automated connected effectors for
+  soldiers, cyberspace protection solutions, and training and simulation solutions.
+  The company's products include air defense, soldier, and fire control systems; radar
+  technology; and command, control and reconnaissance systems, as well as simulations
+  for the army, air force, navy, and civil applications. It also engages in the aftermarket
+  activities. The company was formerly known as Rheinmetall Berlin AG and changed
+  its name to Rheinmetall AG in 1996. Rheinmetall AG was founded in 1889 and is headquartered
+  in Düsseldorf, Germany.
+longName: Rheinmetall AG
+market: de_market
+marketCap: 37423120384
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_8185600
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1350000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 39453180460
+numberOfAnalystOpinions: 22
+open: 860.0
+operatingCashflow: 1412999936
+operatingMargins: 0.16941
+overallRisk: 5
+payoutRatio: 0.3976
+pegRatio: 0.33
+phone: 49 211 473 01
+previousClose: 853.3
+priceEpsCurrentYear: 23.967884
+priceHint: 2
+priceToBook: 7.0060024
+priceToSalesTrailing12Months: 3.0539513
+profitMargins: 0.07018
+quickRatio: 0.37
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.72727
+region: US
+regularMarketChange: -51.399963
+regularMarketChangePercent: -6.0236683
+regularMarketDayHigh: 865.0
+regularMarketDayLow: 801.0
+regularMarketDayRange: 801.0 - 865.0
+regularMarketOpen: 860.0
+regularMarketPreviousClose: 853.3
+regularMarketPrice: 801.9
+regularMarketTime: 1794411573
+regularMarketVolume: 210124
+returnOnAssets: 0.06934
+returnOnEquity: 0.26709
+revenueGrowth: 0.364
+revenuePerShare: 264.594
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 46668063
+shortName: RHEINMETALL AG                I
+sourceInterval: 15
+symbol: RHM.DE
+targetHighPrice: 2100.0
+targetLowPrice: 900.0
+targetMeanPrice: 1380.5454
+targetMedianPrice: 1310.0
+totalCash: 636000000
+totalCashPerShare: 13.665
+totalDebt: 3536999936
+totalRevenue: 12254000128
+tradeable: false
+trailingAnnualDividendRate: 11.5
+trailingAnnualDividendYield: 0.013477089
+trailingEps: 28.69
+trailingPE: 27.950506
+trailingPegRatio: 0.3317
+triggerable: false
+twoHundredDayAverage: 1232.613
+twoHundredDayAverageChange: -430.713
+twoHundredDayAverageChangePercent: -0.34943083
+typeDisp: Equity
+volume: 210124
+website: https://www.rheinmetall.com
+zip: '40476'

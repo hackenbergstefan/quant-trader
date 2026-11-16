@@ -1,0 +1,282 @@
+52WeekChange: 0.053862453
+SandP52WeekChange: 0.097798586
+address1: 767 Fifth Avenue
+address2: Floor 12A
+allTimeHigh: 23.68
+allTimeLow: 10.5
+auditRisk: 4
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 1061859
+averageDailyVolume3Month: 1072693
+averageVolume: 1072693
+averageVolume10days: 1061859
+beta: 0.864
+boardRisk: 5
+bookValue: 1.497
+city: New York
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rolly  Van Rappard
+  title: Co-Founder, Chairman, Managing Partner & Co-Head of Global Investments
+  totalPay: 670475
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert R. Lucas
+  title: CEO & Director
+  totalPay: 652220
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frederick Inglis Watt
+  title: Senior Advisor
+  totalPay: 631584
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter William James Rutland
+  title: President & Managing Partner
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Patrick Hourican
+  title: CFO & Director
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kenneth John MacDonald Young
+  title: Managing Partner & COO
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steve  Greenwood CPA
+  title: Director of Group Accounting
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew  Green
+  title: CTO & Global Head of IT
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Carmen  Andre
+  title: Director of Corporate Administration
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bruce Allan Hamilton
+  title: Head of Shareholder & Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: EUR
+currentPrice: 14.88
+currentRatio: 1.976
+customPriceAlertConfidence: LOW
+dayHigh: 14.95
+dayLow: 14.73
+debtToEquity: 106.503
+dividendRate: 0.74
+dividendYield: 4.96
+earningsCallTimestampEnd: 1773246600
+earningsCallTimestampStart: 1773246600
+earningsGrowth: 0.001
+earningsQuarterlyGrowth: -0.378
+earningsTimestampEnd: 1788449400
+earningsTimestampStart: 1788449400
+ebitda: 1175761024
+ebitdaMargins: 0.58599997
+enterpriseToEbitda: 15.057
+enterpriseToRevenue: 8.824
+enterpriseValue: 17703626752
+epsCurrentYear: 0.79447
+epsForward: 0.91752
+epsTrailingTwelveMonths: 0.77
+esgPopulated: false
+exDividendDate: 1787184000
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 212-776-4254
+fiftyDayAverage: 13.0244
+fiftyDayAverageChange: 1.8556004
+fiftyDayAverageChangePercent: 0.14247109
+fiftyTwoWeekChangePercent: 5.3862453
+fiftyTwoWeekHigh: 16.2
+fiftyTwoWeekHighChange: -1.3200006
+fiftyTwoWeekHighChangePercent: -0.08148152
+fiftyTwoWeekLow: 10.5
+fiftyTwoWeekLowChange: 4.38
+fiftyTwoWeekLowChangePercent: 0.41714287
+fiftyTwoWeekRange: 10.5 - 16.2
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1714114800000
+floatShares: 935326122
+forwardEps: 0.91752
+forwardPE: 16.21763
+freeCashflow: 939937024
+fullExchangeName: Amsterdam
+fullTimeEmployees: 1587
+fulldayChange: 0.010000229
+fulldayChangePercent: 0.067251034
+fulldayPrice: 14.88
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.70028
+grossProfits: 1405048960
+hasPrePostMarketData: false
+heldPercentInsiders: 0.23958999
+heldPercentInstitutions: 0.28797
+impliedSharesOutstanding: 1089189393
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1787184000
+lastDividendValue: 0.2628
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: "CVC Capital Partners plc is a private equity and venture capital\
+  \ firm specializing in middle market secondaries, infrastructure and credit, management\
+  \ buyouts, leveraged buyouts, growth equity, mature, recapitalizations, strip sales,\
+  \ and spinouts. The firm makes investments in medium to large sized companies. It\
+  \ seeks to invest in fintech, healthcare, industrial, Education, telecommunications,\
+  \ information technology, electronics, biotechnology, medical, energy, chemistry,\
+  \ new materials, industrial automatisms, tech-enabled businesses such as human resources\
+  \ software, data centers, software as a service, payments, industrial goods and\
+  \ services, real estate, other manufactured goods, financial services, manufacturing,\
+  \ services, distribution, media, retail, consumer goods, consumer services, sports,\
+  \ entertainment, buildings and construction, chemicals, gaming, oil and gas, and\
+  \ public works. For Growth Partners, the firm seeks to invest in growth-oriented\
+  \ companies operating in the software and technology-enabled business services sectors.\
+  \ The firm also seeks to make infrastructure investments in Europe in the following\
+  \ sectors: transport, public or business utilities, provision of government services,\
+  \ communications infrastructure, energy production and provision, and businesses\
+  \ providing related regulated services. It prefers to invest in companies based\
+  \ in the United Kingdom, Belgium, Bermuda, Czech Republic, Finland, Greece, Iceland,\
+  \ Netherlands, Poland, Spain, Sweden, Korea, Malta, Middle East, North Africa, North\
+  \ America, United States, Latin America, Southeast Asia, Hong Kong, Philippines,\
+  \ Japan, Australia, New Zealand, Vietnam, Singapore, Malaysia, South Korea, Greater\
+  \ China, Taiwan, America, and Europe, with a focus on France, Italy, Germany, and\
+  \ Switzerland. For Asia private equity strategy, it seeks to invest in companies\
+  \ with enterprise value between USD 250 million and USD 1500 million. For CVC Catalyst,\
+  \ it seeks to invest in companies with equity investments of between \x8075 million\
+  \ ($86.36 million) and \x80250 million ($287.89 million). For Strategic Opportunities,\
+  \ it seeks to invest in companies with enterprise value between EUR 1000 million\
+  \ (USD 1067.05 million) and more than EUR 5000 million (USD 5727.4 million), with\
+  \ a longer holding period of around six to fifteen years. It seeks to invest in\
+  \ companies with enterprise value between USD 250 million and USD 5727.4 million.\
+  \ For Growth strategy, its equity investments are more than USD 50 million. It seeks\
+  \ to make equity investments between $50 million and $287.97 million. Asia private\
+  \ equity strategy is focused on control, co-control, structured minority, and majority\
+  \ investments. Europe and Americas strategy is focused on control or co-control\
+  \ investments. For minority stakes, it takes equity investments between 15% and\
+  \ 20%. For credit strategies, the firm focuses on investing in senior secured loans,\
+  \ bonds, corporate credit, private credit, direct lending, and private credit. CVC\
+  \ Capital Partners plc was founded in 1981 and is based in New York, New York, with\
+  \ additional offices across Australia, Europe, South America, and Asia."
+longName: CVC Capital Partners plc
+market: nl_market
+marketCap: 16207137792
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_19947
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 966105984
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 16196246273
+numberOfAnalystOpinions: 13
+open: 14.87
+operatingCashflow: 730705024
+operatingMargins: 0.5116
+overallRisk: 5
+payoutRatio: 0.9225
+pegRatio: 1.37
+phone: 212 653 8400
+prevName: CVC Capital Partners Limited
+previousClose: 14.87
+priceEpsCurrentYear: 18.729467
+priceHint: 2
+priceToBook: 9.93988
+priceToSalesTrailing12Months: 8.077667
+profitMargins: 0.48151
+quickRatio: 1.976
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: 0.010000229
+regularMarketChangePercent: 0.067251034
+regularMarketDayHigh: 14.95
+regularMarketDayLow: 14.73
+regularMarketDayRange: 14.73 - 14.95
+regularMarketOpen: 14.87
+regularMarketPreviousClose: 14.87
+regularMarketPrice: 14.88
+regularMarketTime: 1794411279
+regularMarketVolume: 324724
+returnOnAssets: 0.12100001
+returnOnEquity: 0.51133
+revenueGrowth: 0.184
+revenuePerShare: 1.895
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 1089189393
+shortName: CVC CAPITAL
+sourceInterval: 15
+state: NY
+symbol: CVC.AS
+targetHighPrice: 20.9
+targetLowPrice: 14.5
+targetMeanPrice: 17.23077
+targetMedianPrice: 17.2
+totalCash: 1034000000
+totalCashPerShare: 0.981
+totalDebt: 2391000064
+totalRevenue: 2006413056
+tradeable: false
+trailingAnnualDividendRate: 0.5
+trailingAnnualDividendYield: 0.03362475
+trailingEps: 0.77
+trailingPE: 19.324677
+trailingPegRatio: 1.3832
+triggerable: false
+twoHundredDayAverage: 13.0634
+twoHundredDayAverageChange: 1.8165998
+twoHundredDayAverageChangePercent: 0.13906026
+typeDisp: Equity
+volume: 324724
+website: https://www.cvc.com
+zip: '10153'

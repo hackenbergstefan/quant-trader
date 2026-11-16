@@ -1,0 +1,246 @@
+52WeekChange: -0.3385672
+SandP52WeekChange: 0.097798586
+address1: Peninsula House
+address2: Rydon Lane
+allTimeHigh: 2384.2488
+allTimeLow: 29.167
+ask: 334.2
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 2100065
+averageDailyVolume3Month: 2825427
+averageVolume: 2825427
+averageVolume10days: 2100065
+beta: 0.619
+bid: 333.6
+bidSize: 0
+boardRisk: 3
+bookValue: 2.985
+city: Exeter
+companyOfficers:
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. David  Sproul
+  title: Group Executive Chairman of the Board
+  totalPay: 312000
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Laura  Flowerdew
+  title: Group CFO & Director and Member of Executive Board
+  totalPay: 660000
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. James Keith Haslett
+  title: Member of Executive Board, Group CEO & Executive Director
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Paul Michael Ringham
+  title: MD of Pennon Power & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Richard  Price
+  title: MD of Waste Services of South West Water & Member of Executive Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. David  Harris
+  title: MD of Water Services & Member of Executive Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Carolyn  Cadman
+  title: Chief Sustainability & Natural Resources Officer and Member of Executive
+    Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Lan  Cain
+  title: CEO of Retail & Customer Markets and Member of Executive Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Ian  Christie
+  title: Group Chief Asset Officer & Member of Executive Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Sarah  Heald
+  title: Chief Strategy & Regulatory Affairs Officer and Member of Executive Board
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 5
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 334.0
+currentRatio: 1.512
+customPriceAlertConfidence: LOW
+dayHigh: 339.4
+dayLow: 331.8
+debtToEquity: 347.103
+dividendRate: 0.26
+dividendYield: 7.86
+earningsCallTimestampEnd: 1781078400
+earningsCallTimestampStart: 1781078400
+earningsTimestamp: 1796142600
+earningsTimestampEnd: 1796142600
+earningsTimestampStart: 1796142600
+ebitda: 504900000
+ebitdaMargins: 0.39126998
+enterpriseToEbitda: 12.2
+enterpriseToRevenue: 4.774
+enterpriseValue: 6159733248
+epsCurrentYear: 0.23691
+epsForward: 0.23766
+epsTrailingTwelveMonths: 0.17
+esgPopulated: false
+exDividendDate: 1784764800
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 392.76083
+fiftyDayAverageChange: -58.760834
+fiftyDayAverageChangePercent: -0.14960971
+fiftyTwoWeekChangePercent: -33.85672
+fiftyTwoWeekHigh: 605.0
+fiftyTwoWeekHighChange: -271.0
+fiftyTwoWeekHighChangePercent: -0.44793388
+fiftyTwoWeekLow: 307.5757
+fiftyTwoWeekLowChange: 26.424286
+fiftyTwoWeekLowChangePercent: 0.08591148
+fiftyTwoWeekRange: 307.5757 - 605.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 629366400000
+fiveYearAvgDividendYield: 5.27
+floatShares: 470697769
+forwardEps: 0.23766
+forwardPE: 14.05369
+freeCashflow: -342224992
+fullExchangeName: LSE
+fullTimeEmployees: 3809
+fulldayChange: -3.0
+fulldayChangePercent: -0.8902077
+fulldayPrice: 334.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.96977997
+grossProfits: 1251399936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.024360001
+heldPercentInstitutions: 0.59762
+impliedSharesOutstanding: 691992314
+industry: Utilities - Regulated Water
+industryDisp: Utilities - Regulated Water
+industryKey: utilities-regulated-water
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1784764800
+lastDividendValue: 0.181198
+lastFiscalYearEnd: 1774915200
+lastSplitDate: 1625443200
+lastSplitFactor: '2:3'
+longBusinessSummary: Pennon Group Plc provides water and wastewater services in the
+  United Kingdom. The company operates through two segments, Water and Non-Household
+  Retail. It is also involved in renewable energy generation activities, as well as
+  provides water retail services. Pennon Group Plc was incorporated in 1989 and is
+  based in Exeter, the United Kingdom.
+longName: Pennon Group Plc
+market: gb_market
+marketCap: 2311254272
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_877102
+mostRecentQuarter: 1774915200
+netIncomeToCommon: 91500000
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 2332014098
+numberOfAnalystOpinions: 13
+open: 338.8
+operatingCashflow: 358700000
+operatingMargins: 0.24650998
+overallRisk: 4
+payoutRatio: 1.4864999
+pegRatio: 6.93
+phone: 44 13 9244 6677
+previousClose: 337.0
+priceEpsCurrentYear: 1409.8181
+priceHint: 2
+priceToBook: 1.118928
+priceToSalesTrailing12Months: 1.7911146
+profitMargins: 0.07091
+quickRatio: 1.323
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.15385
+region: US
+regularMarketChange: -3.0
+regularMarketChangePercent: -0.8902077
+regularMarketDayHigh: 339.4
+regularMarketDayLow: 331.8
+regularMarketDayRange: 331.8 - 339.4
+regularMarketOpen: 338.8
+regularMarketPreviousClose: 337.0
+regularMarketPrice: 334.0
+regularMarketTime: 1794411450
+regularMarketVolume: 251195
+returnOnAssets: 0.02737
+returnOnEquity: 0.0647
+revenueGrowth: 0.217
+revenuePerShare: 2.735
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 1
+sharesOutstanding: 691992314
+shortName: PENNON GROUP PLC ORD 61 1/20P
+sourceInterval: 15
+symbol: PNN.L
+targetHighPrice: 600.0
+targetLowPrice: 350.0
+targetMeanPrice: 427.53802
+targetMedianPrice: 405.00003
+totalCash: 333300000
+totalCashPerShare: 0.707
+totalDebt: 4899700224
+totalRevenue: 1290400000
+tradeable: false
+trailingAnnualDividendRate: 0.293
+trailingAnnualDividendYield: 0.00086943625
+trailingEps: 0.17
+trailingPE: 19.647058
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 483.4327
+twoHundredDayAverageChange: -149.43271
+twoHundredDayAverageChangePercent: -0.30910757
+typeDisp: Equity
+volume: 251195
+website: https://www.pennon-group.co.uk
+zip: EX2 7HR

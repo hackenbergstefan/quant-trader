@@ -1,0 +1,229 @@
+52WeekChange: -0.3237661
+SandP52WeekChange: 0.097798586
+address1: Porscheplatz 1
+allTimeHigh: 102.0
+allTimeLow: 23.18226
+ask: 25.32
+askSize: 120
+averageDailyVolume10Day: 484458
+averageDailyVolume3Month: 637809
+averageVolume: 637809
+averageVolume10days: 484458
+beta: 0.933
+bid: 25.29
+bidSize: 141
+bookValue: 123.484
+city: Stuttgart
+companyOfficers:
+- age: 74
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Hans Dieter Potsch M.Sc.
+  title: Chairman of the Board of Management
+  totalPay: 1471000
+  unexercisedValue: 0
+  yearBorn: 1951
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Johannes  Lattwein
+  title: Member of the Management Board, CFO & IT Officer
+  totalPay: 1277000
+  unexercisedValue: 0
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Manfred  Doss Ph.D.
+  title: Member of the Management Board for Legal Affairs & Compliance
+  totalPay: 1153000
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Karsten  Hoeldtke
+  title: Head of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jens  Brucker
+  title: Head of the Seat Plant - Martorell
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hannes  Ruoff
+  title: CEO of Porsche Asia Pacific
+  unexercisedValue: 0
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tobias  Suhlmann
+  title: Head of Design of Porsche
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexander  Pollich
+  title: CEO & President of Porsche China, Hong Kong and Macao
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc  Ouayoun
+  title: Managing Director of Porsche France Sa
+  unexercisedValue: 0
+  yearBorn: 1971
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 25.31
+currentRatio: 3.919
+customPriceAlertConfidence: LOW
+dayHigh: 25.47
+dayLow: 25.09
+debtToEquity: 19.233
+dividendRate: 1.51
+dividendYield: 5.78
+earningsCallTimestampEnd: 1742986740
+earningsCallTimestampStart: 1742986740
+earningsTimestampEnd: 1786116600
+earningsTimestampStart: 1786116600
+ebitda: -60750000
+ebitdaMargins: 0.0
+enterpriseToEbitda: -211.087
+enterpriseValue: 12823562240
+epsCurrentYear: 16.57
+epsForward: 12.54081
+epsTrailingTwelveMonths: 0.3
+esgPopulated: false
+exDividendDate: 1782432000
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 711 911 11819
+fiftyDayAverage: 26.291
+fiftyDayAverageChange: -0.9810009
+fiftyDayAverageChangePercent: -0.037313182
+fiftyTwoWeekChangePercent: -32.37661
+fiftyTwoWeekHigh: 41.52
+fiftyTwoWeekHighChange: -16.210001
+fiftyTwoWeekHighChangePercent: -0.39041427
+fiftyTwoWeekLow: 24.24
+fiftyTwoWeekLowChange: 1.0699997
+fiftyTwoWeekLowChangePercent: 0.044141904
+fiftyTwoWeekRange: 24.24 - 41.52
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1233129600000
+fiveYearAvgDividendYield: 4.8
+floatShares: 153125000
+forwardEps: 12.54081
+forwardPE: 2.018211
+freeCashflow: -454375008
+fullExchangeName: XETRA
+fullTimeEmployees: 49
+fulldayChange: 0.10000038
+fulldayChangePercent: 0.3966695
+fulldayPrice: 25.31
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.0
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.22833
+impliedSharesOutstanding: 306250000
+industry: Auto Manufacturers
+industryDisp: Auto Manufacturers
+industryKey: auto-manufacturers
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1782432000
+lastDividendValue: 1.51
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: "Porsche Automobil Holding SE, through its subsidiaries, operates\
+  \ as an automobile manufacturer worldwide. It operates in two segments, Core Investments\
+  \ and Portfolio Investments. The company is involved in investments in the areas\
+  \ of mobility and industrial technology. It offers its products under the Volkswagen,\
+  \ Audi, SEAT, \x8AKODA, Cupra Bentley, Lamborghini, Ducati, and Porsche brand names.\
+  \ The company was formerly known as Dr. Ing. h.c. F. Porsche Aktiengesellschaft\
+  \ and changed its name to Porsche Automobil Holding SE in November 2007. Porsche\
+  \ Automobil Holding SE was incorporated in 2007 and is headquartered in Stuttgart,\
+  \ Germany."
+longName: Porsche Automobil Holding SE
+market: de_market
+marketCap: 7751186944
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_875012
+mostRecentQuarter: 1790726400
+netIncomeToCommon: -1372000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 7720562500
+numberOfAnalystOpinions: 8
+open: 25.16
+operatingCashflow: 430000000
+operatingMargins: 0.0
+payoutRatio: 4.8710003
+pegRatio: 0.05
+phone: 49 711 911 24420
+previousClose: 25.21
+priceEpsCurrentYear: 1.5274593
+priceHint: 2
+priceToBook: 0.20496581
+profitMargins: 0.0
+quickRatio: 3.879
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 0.10000038
+regularMarketChangePercent: 0.3966695
+regularMarketDayHigh: 25.47
+regularMarketDayLow: 25.09
+regularMarketDayRange: 25.09 - 25.47
+regularMarketOpen: 25.16
+regularMarketPreviousClose: 25.21
+regularMarketPrice: 25.31
+regularMarketTime: 1794411480
+regularMarketVolume: 228342
+returnOnAssets: -0.00091
+returnOnEquity: -0.03867
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+sharesOutstanding: 153125000
+shortName: Porsche Automobil Holding SE  I
+sourceInterval: 15
+symbol: PAH3.DE
+targetHighPrice: 43.0
+targetLowPrice: 25.0
+targetMeanPrice: 35.15625
+targetMedianPrice: 36.5
+totalCash: 1671000064
+totalCashPerShare: 5.456
+totalDebt: 6774000128
+tradeable: false
+trailingAnnualDividendRate: 1.51
+trailingAnnualDividendYield: 0.059896868
+trailingEps: 0.3
+trailingPE: 84.36666
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 29.8753
+twoHundredDayAverageChange: -4.5653
+twoHundredDayAverageChangePercent: -0.15281186
+typeDisp: Equity
+volume: 228342
+website: https://www.porsche-se.com
+zip: '70435'

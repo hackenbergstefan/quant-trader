@@ -1,0 +1,271 @@
+52WeekChange: 0.26853204
+SandP52WeekChange: 0.097798586
+address1: 800 Nicollet Mall
+allTimeHigh: 66.08
+allTimeLow: 0.330556
+ask: 60.53
+askSize: 200
+auditRisk: 7
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 6973580
+averageDailyVolume3Month: 7371120
+averageVolume: 7371120
+averageVolume10days: 6973580
+beta: 1.026
+bid: 60.53
+bidSize: 800
+boardRisk: 7
+bookValue: 38.261
+city: Minneapolis
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Gunjan  Kedia
+  title: President, CEO & Chairman
+  totalPay: 4721311
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John C. Stern
+  title: Vice Chair & Chief Financial Officer
+  totalPay: 2569372
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Elcio R. T. Barcelos
+  title: Senior EVP & Chief Human Resources Officer
+  totalPay: 2014772
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephen L. Philipson
+  title: Vice Chair & Head of Wealth, Corporate, Commercial and Institutional Banking
+  totalPay: 2472720
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Toby  Clements
+  title: Senior EVP & Chief Operations Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alan  Flanagan
+  title: Head of Global Investment Services
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer Ann Thompson C.F.A.
+  title: EVP & Head of Corporate Finance
+  unexercisedValue: 0
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dilip  Venkatachari
+  title: Senior EVP and Chief Information & Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam C. Graves
+  title: Senior EVP and Head of Enterprise Strategy & Administration
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian James Mauney
+  title: Head of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 60.68
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 61.03
+dayLow: 60.37
+dividendDate: 1792022400
+dividendRate: 2.16
+dividendYield: 3.56
+earningsCallTimestampEnd: 1800367200
+earningsCallTimestampStart: 1800367200
+earningsGrowth: 0.102
+earningsQuarterlyGrowth: 0.1
+earningsTimestamp: 1800365400
+earningsTimestampEnd: 1800365400
+earningsTimestampStart: 1800365400
+ebitdaMargins: 0.0
+enterpriseToRevenue: 4.505
+enterpriseValue: 125639188480
+epsCurrentYear: 5.33789
+epsForward: 5.86054
+epsTrailingTwelveMonths: 5.14
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 59.5974
+fiftyDayAverageChange: 1.0825996
+fiftyDayAverageChangePercent: 0.018165216
+fiftyTwoWeekChangePercent: 26.853203
+fiftyTwoWeekHigh: 66.08
+fiftyTwoWeekHighChange: -5.4000015
+fiftyTwoWeekHighChangePercent: -0.08171915
+fiftyTwoWeekLow: 45.02
+fiftyTwoWeekLowChange: 15.66
+fiftyTwoWeekLowChangePercent: 0.3478454
+fiftyTwoWeekRange: 45.02 - 66.08
+financialCurrency: USD
+firstTradeDateMilliseconds: 105283800000
+fiveYearAvgDividendYield: 4.12
+floatShares: 1553674437
+forwardEps: 5.86054
+forwardPE: 10.353995
+fullExchangeName: NYSE
+fullTimeEmployees: 70000
+fulldayChange: -0.069999695
+fulldayChangePercent: -0.11522584
+fulldayPrice: 60.68
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 27886000128
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00126
+heldPercentInstitutions: 0.84907997
+impliedSharesOutstanding: 1558208825
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: http://www.usbank.com/cgi_w/cfm/about/investor/index.cfm?icid=HPC_6143&WT.mc_id=r6143&original_ref=http%3A%2F%2Fwww%2Eusbank%2Ecom%2Fen%2FAboutHome%2Ecfm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 0.54
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 924220800
+lastSplitFactor: '3:1'
+longBusinessSummary: U.S. Bancorp, a financial services holding company, provides
+  various financial services to individuals, businesses, institutional organizations,
+  governmental entities, and other financial institutions in the United States. The
+  company operates through Wealth, Corporate, Commercial and Institutional Banking;
+  Consumer and Business Banking; Payment Services; and Treasury and Corporate Support
+  segments. It offers depository services, including checking accounts, savings accounts,
+  and time certificate contracts; and lending services, such as traditional credit
+  products and credit card services, lease financing and import/export trade, agricultural
+  finance, asset-backed lending, and other products. The company also provides cash
+  management, capital markets, and trust and investment management services; and ancillary
+  services comprising capital markets, treasury management, and receivable lock-box
+  collection services to corporate and governmental entity customers. In addition,
+  it offers asset management and fiduciary services for individuals, estates, foundations,
+  business corporations, and charitable organizations; and investment and insurance
+  products to its customers principally within its domestic markets, as well as fund
+  administration services to mutual and other funds. Further, the company provides
+  corporate and purchasing card, and corporate trust services; and credit card services,
+  merchant and ATM processing, mortgage banking, insurance, brokerage and leasing
+  services. U.S. Bancorp was founded in 1863 and is headquartered in Minneapolis,
+  Minnesota.
+longName: U.S. Bancorp
+market: us_market
+marketCap: 94552104960
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_305304
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 7999000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 94661186118
+numberOfAnalystOpinions: 22
+open: 60.69
+operatingCashflow: 12938000384
+operatingMargins: 0.39266998
+overallRisk: 6
+payoutRatio: 0.4086
+pegRatio: 1.48
+phone: 651-466-3000
+previousClose: 60.75
+priceEpsCurrentYear: 11.367787
+priceHint: 2
+priceToBook: 1.5859491
+priceToSalesTrailing12Months: 3.3906658
+profitMargins: 0.30010998
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.79167
+region: US
+regularMarketChange: -0.069999695
+regularMarketChangePercent: -0.11522584
+regularMarketDayHigh: 61.03
+regularMarketDayLow: 60.37
+regularMarketDayRange: 60.37 - 61.03
+regularMarketOpen: 60.69
+regularMarketPreviousClose: 60.75
+regularMarketPrice: 60.68
+regularMarketTime: 1794413748
+regularMarketVolume: 1199413
+returnOnAssets: 0.012
+returnOnEquity: 0.12843001
+revenueGrowth: 0.084
+revenuePerShare: 17.936
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 7
+sharesOutstanding: 1558208825
+sharesPercentSharesOut: 0.0001
+sharesShort: 119597
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 25960020
+shortName: U.S. Bancorp
+shortPercentOfFloat: 0.0001
+shortRatio: 0.02
+sourceInterval: 15
+state: MN
+symbol: USB
+targetHighPrice: 75.0
+targetLowPrice: 65.0
+targetMeanPrice: 68.79545
+targetMedianPrice: 68.5
+totalCash: 55005999104
+totalCashPerShare: 35.301
+totalDebt: 78713004032
+totalRevenue: 27886000128
+tradeable: false
+trailingAnnualDividendRate: 2.1
+trailingAnnualDividendYield: 0.0345679
+trailingEps: 5.14
+trailingPE: 11.805448
+trailingPegRatio: 1.4788
+triggerable: true
+twoHundredDayAverage: 58.23155
+twoHundredDayAverageChange: 2.448452
+twoHundredDayAverageChangePercent: 0.04204683
+typeDisp: Equity
+volume: 1199413
+website: https://www.usbank.com
+zip: '55402'

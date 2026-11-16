@@ -1,0 +1,274 @@
+52WeekChange: 0.29932618
+SandP52WeekChange: 0.097798586
+address1: Seon Place
+address2: 4th Floor 141 Front Street PO Box HM 845
+allTimeHigh: 431.19
+allTimeLow: 18.5
+ask: 418.17
+askSize: 80
+auditRisk: 8
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 595670
+averageDailyVolume3Month: 390645
+averageVolume: 390645
+averageVolume10days: 595670
+beta: 0.226
+bid: 417.76
+bidSize: 40
+boardRisk: 3
+bookValue: 381.07
+city: Hamilton
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James Allan Williamson
+  title: CEO, President & Director
+  totalPay: 3801910
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anthony  Vidovich
+  title: Executive VP & General Counsel
+  totalPay: 2207144
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jill Alexis Beggs C.P.C.U.
+  title: Executive VP & Chief Executive Officer of Reinsurance
+  totalPay: 1768980
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Elias Farid Habayeb
+  title: Group CFO & Executive VP
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dean  Brown
+  title: Executive Vice President of Group Operations & IT
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert Joseph Freiling
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian Lee Bedner
+  title: Head of Corporate Finance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Srini  Maddineni
+  title: Group Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew Jay Rohrmann
+  title: Senior VP & Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Dawn  Lauer
+  title: Chief Communications Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: EG announced a cash dividend of $2.00 with an ex-date of Dec. 4, 2026
+  meta:
+    amount: '2.00'
+    dateEpochMs: 1796360400000
+    eventType: DIVIDEND
+country: Bermuda
+cryptoTradeable: false
+currency: USD
+currentPrice: 419.505
+currentRatio: 0.411
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 422.0
+dayLow: 417.0
+debtToEquity: 25.189
+displayName: Everest
+dividendDate: 1797552000
+dividendRate: 8.0
+dividendYield: 1.89
+earningsCallTimestampEnd: 1793275200
+earningsCallTimestampStart: 1793275200
+earningsGrowth: 0.005
+earningsQuarterlyGrowth: -0.086
+earningsTimestamp: 1793217600
+earningsTimestampEnd: 1793217600
+earningsTimestampStart: 1793217600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 0.938
+enterpriseValue: 15191998464
+epsCurrentYear: 54.14457
+epsForward: 60.78844
+epsTrailingTwelveMonths: 47.59
+esgPopulated: false
+exDividendDate: 1796342400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 441 295 4828
+fiftyDayAverage: 384.1618
+fiftyDayAverageChange: 35.3432
+fiftyDayAverageChangePercent: 0.09200082
+fiftyTwoWeekChangePercent: 29.932617
+fiftyTwoWeekHigh: 431.19
+fiftyTwoWeekHighChange: -11.684998
+fiftyTwoWeekHighChangePercent: -0.027099418
+fiftyTwoWeekLow: 304.55
+fiftyTwoWeekLowChange: 114.95502
+fiftyTwoWeekLowChangePercent: 0.3774586
+fiftyTwoWeekRange: 304.55 - 431.19
+financialCurrency: USD
+firstTradeDateMilliseconds: 812727000000
+fiveYearAvgDividendYield: 2.08
+floatShares: 34417388
+forwardEps: 60.78844
+forwardPE: 6.9010653
+freeCashflow: 1621874944
+fullExchangeName: NYSE
+fullTimeEmployees: 3064
+fulldayChange: -2.8150024
+fulldayChangePercent: -0.6665567
+fulldayPrice: 419.505
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.15744
+grossProfits: 2550000128
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00857
+heldPercentInstitutions: 1.08946
+impliedSharesOutstanding: 37042996
+industry: Insurance - Reinsurance
+industryDisp: Insurance - Reinsurance
+industryKey: insurance-reinsurance
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=70696&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788912000
+lastDividendValue: 2.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Everest Group, Ltd., together with subsidiaries, provides reinsurance
+  and insurance products in the United States, Europe, and internationally. It operates
+  in two segment, Insurance and Reinsurance. The company writes property and casualty
+  reinsurance; treaty and facultative reinsurance products; and specialty lines of
+  business through reinsurance brokers, as well as directly with ceding companies;
+  and writes property and casualty insurance directly, as well as through brokers,
+  surplus lines, and general agents. It provides reinsurance products comprising mortgage,
+  catastrophe, marine, aviation, engineering, professional line, credit and surety,
+  motor, agriculture/crop, and political violence reinsurance products. In addition,
+  the company offers commercial property and casualty insurance products through wholesale
+  and retail brokers, surplus lines brokers, and program administrators. The company
+  was formerly known as Everest Re Group, Ltd. and changed its name to Everest Group,
+  Ltd. in July 2023.Everest Group, Ltd., was founded in 1973 and is headquartered
+  in Hamilton, Bermuda.
+longName: Everest Group, Ltd.
+market: us_market
+marketCap: 15539722240
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_340813
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1868000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 15643998070
+numberOfAnalystOpinions: 16
+open: 418.0
+operatingCashflow: 1208000000
+operatingMargins: 0.14935
+overallRisk: 5
+payoutRatio: 0.1681
+pegRatio: 0.97
+phone: 441 295 0006
+prevName: Everest Re Group, Ltd.
+previousClose: 422.32
+priceEpsCurrentYear: 7.7478685
+priceHint: 2
+priceToBook: 1.1008607
+priceToSalesTrailing12Months: 0.9594198
+profitMargins: 0.11675
+quickRatio: 0.26
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.41176
+region: US
+regularMarketChange: -2.8150024
+regularMarketChangePercent: -0.6665567
+regularMarketDayHigh: 422.0
+regularMarketDayLow: 417.0
+regularMarketDayRange: 417.0 - 422.0
+regularMarketOpen: 418.0
+regularMarketPreviousClose: 422.32
+regularMarketPrice: 419.505
+regularMarketTime: 1794413739
+regularMarketVolume: 59011
+returnOnAssets: 0.024330001
+returnOnEquity: 0.12765001
+revenueGrowth: -0.144
+revenuePerShare: 412.4
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 8
+sharesOutstanding: 37042996
+sharesPercentSharesOut: 0.041199997
+sharesShort: 1526627
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1647728
+shortName: Everest Group, Ltd.
+shortPercentOfFloat: 0.048600003
+shortRatio: 3.63
+sourceInterval: 15
+symbol: EG
+targetHighPrice: 530.0
+targetLowPrice: 378.0
+targetMeanPrice: 433.375
+targetMedianPrice: 429.0
+totalCash: 4041999872
+totalCashPerShare: 109.116
+totalDebt: 3590000128
+totalRevenue: 16197000192
+tradeable: false
+trailingAnnualDividendRate: 8.0
+trailingAnnualDividendYield: 0.018942982
+trailingEps: 47.59
+trailingPE: 8.814982
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 356.7334
+twoHundredDayAverageChange: 62.771606
+twoHundredDayAverageChangePercent: 0.17596224
+typeDisp: Equity
+volume: 59011
+website: https://www.everestglobal.com
+zip: HM 19

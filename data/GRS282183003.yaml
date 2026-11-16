@@ -1,0 +1,266 @@
+52WeekChange: -0.008474588
+SandP52WeekChange: 0.097798586
+address1: 9 Cyprus and Hydras street
+address2: Attica region
+allTimeHigh: 32.74
+allTimeLow: 0.970869
+ask: 25.32
+askSize: 123
+auditRisk: 9
+averageAnalystRating: 1.3 - Strong Buy
+averageDailyVolume10Day: 270936
+averageDailyVolume3Month: 414540
+averageVolume: 414540
+averageVolume10days: 270936
+beta: 0.341
+bid: 28.16
+bidSize: 883
+boardRisk: 6
+bookValue: 12.076
+city: Moschato
+companyOfficers:
+- age: 71
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Apostolos-Evangelos  Vakakis
+  title: Executive Chairman of the Board of Directors
+  totalPay: 668920
+  unexercisedValue: 0
+  yearBorn: 1954
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Konstantina  Demiri
+  title: MD, CEO & Executive Director
+  totalPay: 454831
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Polys  Polycarpou
+  title: CFO & Executive Director
+  totalPay: 232821
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 38
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Sofia  Vakaki
+  title: Head of Strategic Planning & Marketing Departments and Executive Director
+  totalPay: 160647
+  unexercisedValue: 0
+  yearBorn: 1987
+- age: 26
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Zante  Anastasia
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1999
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Panagiotis  Xiros
+  title: Head of the Accounting Department
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Amalia  Karamitsoli
+  title: Head of Shareholder Service Unit & Corporate Announcements, Head of Investor
+    Relations & Secretary
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 34
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Paraskevi  Economou
+  title: Head of Legal Department
+  unexercisedValue: 0
+  yearBorn: 1991
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Grammenos  Efstathios
+  title: Head of HR
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Vernadaki  Kalliopi
+  title: MD & Financial Director
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1735603200
+compensationRisk: 6
+corporateActions:
+- header: Dividend
+  message: BELA.AT announced a cash dividend of EUR 1.00 with an ex-date of Nov. 16,
+    2026
+  meta:
+    amount: '1.00'
+    dateEpochMs: 1794780000000
+    eventType: DIVIDEND
+country: Greece
+cryptoTradeable: false
+currency: EUR
+currentPrice: 28.3
+currentRatio: 5.538
+customPriceAlertConfidence: LOW
+dayHigh: 28.3
+dayLow: 27.78
+debtToEquity: 3.838
+dividendDate: 866678400
+dividendRate: 0.7
+dividendYield: 2.49
+earningsCallTimestampEnd: 1790256600
+earningsCallTimestampStart: 1790256600
+earningsGrowth: 0.03
+earningsQuarterlyGrowth: 0.03
+earningsTimestamp: 1790259600
+earningsTimestampEnd: 1790259600
+earningsTimestampStart: 1790259600
+ebitda: 422832416
+ebitdaMargins: 0.33695
+enterpriseToEbitda: 7.779
+enterpriseToRevenue: 2.621
+enterpriseValue: 3289113344
+epsCurrentYear: 2.46
+epsForward: 2.56
+epsTrailingTwelveMonths: 2.41
+esgPopulated: false
+exDividendDate: 1794787200
+exchange: ATH
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Athens
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fiftyDayAverage: 26.1236
+fiftyDayAverageChange: 2.1763992
+fiftyDayAverageChangePercent: 0.08331161
+fiftyTwoWeekChangePercent: -0.84745884
+fiftyTwoWeekHigh: 28.7
+fiftyTwoWeekHighChange: -0.40000153
+fiftyTwoWeekHighChangePercent: -0.013937335
+fiftyTwoWeekLow: 21.22
+fiftyTwoWeekLowChange: 7.08
+fiftyTwoWeekLowChangePercent: 0.33364752
+fiftyTwoWeekRange: 21.22 - 28.7
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946888200000
+fiveYearAvgDividendYield: 1.5
+floatShares: 112023256
+forwardEps: 2.56
+forwardPE: 11.0546875
+freeCashflow: 247181792
+fullExchangeName: Athens
+fullTimeEmployees: 6181
+fulldayChange: 0.21999931
+fulldayChangePercent: 0.7834734
+fulldayPrice: 28.3
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.541
+grossProfits: 678891264
+hasPrePostMarketData: false
+heldPercentInsiders: 0.16420001
+heldPercentInstitutions: 0.41669998
+impliedSharesOutstanding: 134365561
+industry: Specialty Retail
+industryDisp: Specialty Retail
+industryKey: specialty-retail
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794787200
+lastDividendValue: 1.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1393977600
+lastSplitFactor: '23:22'
+longBusinessSummary: Jumbo S.A. engages in the retail sale of toys, infant supplies,
+  seasonal items, home products, decoration items, books, and stationery in Greece,
+  Cyprus, Bulgaria, and Romania. The company also operates e-jumbo, an online store
+  platform. In addition, it is involved in the wholesale of toys and related products
+  to third parties. Jumbo S.A. was incorporated in 1986 and is headquartered in Moschato,
+  Greece.
+longName: Jumbo S.A.
+market: gr_market
+marketCap: 3802545408
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_915277
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 323780096
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 3754173774
+numberOfAnalystOpinions: 8
+open: 28.1
+operatingCashflow: 341955648
+operatingMargins: 0.31272
+overallRisk: 5
+payoutRatio: 0.21020001
+pegRatio: 10.83
+previousClose: 28.08
+priceEpsCurrentYear: 11.504065
+priceHint: 2
+priceToBook: 2.343491
+priceToSalesTrailing12Months: 3.030198
+profitMargins: 0.25802
+quickRatio: 3.757
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.28571
+region: US
+regularMarketChange: 0.21999931
+regularMarketChangePercent: 0.7834734
+regularMarketDayHigh: 28.3
+regularMarketDayLow: 27.78
+regularMarketDayRange: 27.78 - 28.3
+regularMarketOpen: 28.1
+regularMarketPreviousClose: 28.08
+regularMarketPrice: 28.3
+regularMarketTime: 1794410307
+regularMarketVolume: 289188
+returnOnAssets: 0.13619
+returnOnEquity: 0.21159
+revenueGrowth: 0.044
+revenuePerShare: 9.342
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 5
+sharesOutstanding: 134365561
+shortName: JUMBO S.A.
+sourceInterval: 10
+symbol: BELA.AT
+targetHighPrice: 39.0
+targetLowPrice: 26.3
+targetMeanPrice: 32.9375
+targetMedianPrice: 32.75
+totalCash: 546140096
+totalCashPerShare: 4.065
+totalDebt: 62268540
+totalRevenue: 1254883456
+tradeable: false
+trailingAnnualDividendRate: 0.7
+trailingAnnualDividendYield: 0.024928775
+trailingEps: 2.41
+trailingPE: 11.742738
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 24.3735
+twoHundredDayAverageChange: 3.9264984
+twoHundredDayAverageChangePercent: 0.16109702
+typeDisp: Equity
+volume: 289188
+website: https://www.e-jumbo.gr
+zip: 183 46

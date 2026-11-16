@@ -1,0 +1,257 @@
+52WeekChange: 0.32545078
+SandP52WeekChange: 0.097798586
+address1: Piazza Duca degli Abruzzi, 2
+allTimeHigh: 46.24
+allTimeLow: 8.06669
+ask: 44.57
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 3.0 - Hold
+averageDailyVolume10Day: 1674862
+averageDailyVolume3Month: 2241354
+averageVolume: 2241354
+averageVolume10days: 1674862
+beta: 0.674
+bid: 44.56
+bidSize: 0
+boardRisk: 1
+bookValue: 21.231
+city: Trieste
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Philippe Roger Donnet
+  title: MD, Group CEO & Director
+  totalPay: 5509793
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Dr. Cristiano  Borean
+  title: Group Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. David  Cis
+  title: Group Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Luca  Cetrano
+  title: Group Chief Investment Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Fabio  Cleva C.F.A.
+  title: Head of Investor & Rating Agency Relations
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Dr. Antonio  Cangeri
+  title: Group General Counsel
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Ms. Stefania  Bergamo
+  title: Group Chief Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Simone  Bemporad
+  title: Group Chief Communications & Public Affairs Officer and Group Spokesperson
+  unexercisedValue: 0
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Ms. Isabelle Marguerite Conner
+  title: Group Chief Marketing & Customer Officer
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Ms. Monica Alessandra Possa
+  title: Group Chief People & Organization Officer
+  unexercisedValue: 0
+  yearBorn: 1964
+compensationAsOfEpochDate: 1672444800
+compensationRisk: 3
+corporateActions: []
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 44.58
+currentRatio: 2.459
+customPriceAlertConfidence: LOW
+dayHigh: 45.0
+dayLow: 44.51
+debtToEquity: 118.93
+dividendRate: 1.64
+dividendYield: 3.66
+earningsCallTimestampEnd: 1794576600
+earningsCallTimestampStart: 1794576600
+earningsGrowth: 0.171
+earningsQuarterlyGrowth: 0.179
+earningsTimestamp: 1794587400
+earningsTimestampEnd: 1794587400
+earningsTimestampStart: 1794587400
+ebitda: 8077000192
+ebitdaMargins: 0.13616
+enterpriseToEbitda: 12.923
+enterpriseToRevenue: 1.76
+enterpriseValue: 104376967168
+epsCurrentYear: 3.20448
+epsForward: 3.39468
+epsTrailingTwelveMonths: 2.95
+esgPopulated: false
+exDividendDate: 1779062400
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 39 040 671127
+fiftyDayAverage: 43.413
+fiftyDayAverageChange: 1.1670036
+fiftyDayAverageChangePercent: 0.026881434
+fiftyTwoWeekChangePercent: 32.54508
+fiftyTwoWeekHigh: 46.24
+fiftyTwoWeekHighChange: -1.6599998
+fiftyTwoWeekHighChangePercent: -0.03589965
+fiftyTwoWeekLow: 32.06
+fiftyTwoWeekLowChange: 12.52
+fiftyTwoWeekLowChangePercent: 0.39051777
+fiftyTwoWeekRange: 32.06 - 46.24
+financialCurrency: EUR
+firstTradeDateMilliseconds: 522658800000
+fiveYearAvgDividendYield: 5.3
+floatShares: 700372361
+forwardEps: 3.39468
+forwardPE: 13.132314
+freeCashflow: 4112624896
+fullExchangeName: Milan
+fullTimeEmployees: 88255
+fulldayChange: -0.25999832
+fulldayChangePercent: -0.5798357
+fulldayPrice: 44.58
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.20421
+grossProfits: 12113999872
+hasPrePostMarketData: false
+heldPercentInsiders: 0.16469999
+heldPercentInstitutions: 0.49992
+impliedSharesOutstanding: 1500347767
+industry: Insurance - Diversified
+industryDisp: Insurance - Diversified
+industryKey: insurance-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779062400
+lastDividendValue: 1.64
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1180310400
+lastSplitFactor: '11:10'
+longBusinessSummary: Assicurazioni Generali S.p.A. provides various insurance solutions
+  under the Generali brand in the Americas, Italy, rest of Europe, Africa, the Middle
+  East, Asia, and the Oceania. The company operates through Life, Property & Casualty,
+  and Asset & Wealth Management segments. It offers savings, individual and family
+  protection, and unit linked products, as well as motor third-party liability, home,
+  property and casualty, accident, health, and commercial and industrial risks insurance
+  products; and insurance plans for multinational companies. It also provides equity
+  and fixed-income funds, and alternative products. The company was formerly known
+  as Assicurazioni Generali Austro-Italiche and changed its name to Assicurazioni
+  Generali S.p.A. in 1848. Assicurazioni Generali S.p.A. was founded in 1831 and is
+  headquartered in Trieste, Italy.
+longName: Assicurazioni Generali S.p.A.
+market: it_market
+marketCap: 66885505024
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_723344
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 4526000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 67275593872
+numberOfAnalystOpinions: 15
+open: 44.9
+operatingCashflow: 22057000960
+operatingMargins: 0.12856
+overallRisk: 1
+payoutRatio: 0.5561
+pegRatio: 9.89
+phone: 39 040 671111
+previousClose: 44.84
+priceEpsCurrentYear: 13.911775
+priceHint: 2
+priceToBook: 2.0997598
+priceToSalesTrailing12Months: 1.1275371
+profitMargins: 0.07684
+quickRatio: 1.928
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.0
+region: US
+regularMarketChange: -0.25999832
+regularMarketChangePercent: -0.5798357
+regularMarketDayHigh: 45.0
+regularMarketDayLow: 44.51
+regularMarketDayRange: 44.51 - 45.0
+regularMarketOpen: 44.9
+regularMarketPreviousClose: 44.84
+regularMarketPrice: 44.58
+regularMarketTime: 1794411566
+regularMarketVolume: 1380196
+returnOnAssets: 0.00849
+returnOnEquity: 0.1514
+revenueGrowth: 0.054
+revenuePerShare: 39.366
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 1500347767
+shortName: GENERALI
+sourceInterval: 20
+state: TS
+symbol: G.MI
+targetHighPrice: 73.0
+targetLowPrice: 29.5
+targetMeanPrice: 43.30071
+targetMedianPrice: 43.0
+totalCash: 7687000064
+totalCashPerShare: 5.084
+totalDebt: 41485000704
+totalRevenue: 59320000512
+tradeable: false
+trailingAnnualDividendRate: 1.64
+trailingAnnualDividendYield: 0.036574487
+trailingEps: 2.95
+trailingPE: 15.111865
+trailingPegRatio: 9.8947
+triggerable: false
+twoHundredDayAverage: 40.14325
+twoHundredDayAverageChange: 4.4367523
+twoHundredDayAverageChangePercent: 0.110523
+typeDisp: Equity
+volume: 1380196
+website: https://www.generali.com
+zip: '34132'

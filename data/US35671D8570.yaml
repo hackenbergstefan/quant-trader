@@ -1,0 +1,268 @@
+52WeekChange: 0.44247782
+SandP52WeekChange: 0.097798586
+address1: 4340 E. Cotton Center Blvd.
+address2: Suite 110
+allTimeHigh: 80.24
+allTimeLow: 3.375
+ask: 62.32
+askSize: 300
+auditRisk: 4
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 13545290
+averageDailyVolume3Month: 12444871
+averageVolume: 12444871
+averageVolume10days: 13545290
+beta: 1.373
+bid: 62.29
+bidSize: 100
+boardRisk: 5
+bookValue: 14.621
+city: Phoenix
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kathleen Lynne Quirk
+  title: CEO, President & Director
+  totalPay: 3007529
+  unexercisedValue: 30896940
+  yearBorn: 1964
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maree E. Robertson
+  title: Executive VP & CFO
+  totalPay: 1690079
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephen T. Higgins
+  title: Executive VP & Chief Administrative Officer
+  totalPay: 1429566
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Douglas N. Currault II
+  title: Executive VP & General Counsel
+  totalPay: 1301254
+  unexercisedValue: 5775500
+  yearBorn: 1965
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ellie L. Mikes
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bertrand L. Odinet II
+  title: Senior VP, Chief Information Officer & Chief Innovation Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Joint
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Pamela Q. Masson
+  title: Senior VP & Chief Human Resources Officer,
+  unexercisedValue: 0
+- age: 75
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. W. Russell King
+  title: Senior Vice President of International Relations & Federal Government Affairs
+  unexercisedValue: 0
+  yearBorn: 1950
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. A. Cory Stevens
+  title: Senior Vice President and President & COO of Freeport McMoRan Mining Services
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 61.925
+currentRatio: 2.017
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 62.33
+dayLow: 60.77
+debtToEquity: 30.81
+displayName: Freeport-McMoRan
+dividendDate: 1793577600
+dividendRate: 0.6
+dividendYield: 0.99
+earningsCallTimestampEnd: 1793109600
+earningsCallTimestampStart: 1793109600
+earningsGrowth: 0.761
+earningsQuarterlyGrowth: 0.742
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1800538200
+earningsTimestampStart: 1800538200
+ebitda: 9959000064
+ebitdaMargins: 0.37664002
+enterpriseToEbitda: 10.563
+enterpriseToRevenue: 3.978
+enterpriseValue: 105193996288
+epsCurrentYear: 3.10747
+epsForward: 4.26869
+epsTrailingTwelveMonths: 2.38
+esgPopulated: false
+exDividendDate: 1792022400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 69.2482
+fiftyDayAverageChange: -7.3232
+fiftyDayAverageChangePercent: -0.10575293
+fiftyTwoWeekChangePercent: 44.247784
+fiftyTwoWeekHigh: 80.24
+fiftyTwoWeekHighChange: -18.314999
+fiftyTwoWeekHighChangePercent: -0.22825272
+fiftyTwoWeekLow: 38.85
+fiftyTwoWeekLowChange: 23.075
+fiftyTwoWeekLowChangePercent: 0.59395117
+fiftyTwoWeekRange: 38.85 - 80.24
+financialCurrency: USD
+firstTradeDateMilliseconds: 805383000000
+fiveYearAvgDividendYield: 1.22
+floatShares: 1425264565
+forwardEps: 4.26869
+forwardPE: 14.506792
+freeCashflow: 1867000064
+fullExchangeName: NYSE
+fullTimeEmployees: 29000
+fulldayChange: 1.6149979
+fulldayChangePercent: 2.6778276
+fulldayPrice: 61.925
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.38854998
+grossProfits: 10273999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00713
+heldPercentInstitutions: 0.90271
+impliedSharesOutstanding: 1434936034
+industry: Copper
+industryDisp: Copper
+industryKey: copper
+irWebsite: http://www.fcx.com/ir/index.htm
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1792022400
+lastDividendValue: 0.15
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1296604800
+lastSplitFactor: '2:1'
+longBusinessSummary: Freeport-McMoRan Inc. engages in the mining of mineral properties
+  in North America, South America, and Indonesia. The company primarily explores for
+  copper, gold, molybdenum, silver, and other metals. Its assets include the Grasberg
+  minerals district in Indonesia; Morenci, Bagdad, Safford, Sierrita, and Miami in
+  Arizona; Chino and Tyrone in New Mexico; and Henderson and Climax in Colorado, North
+  America, as well as Cerro Verde in Peru and El Abra in Chile. The company was formerly
+  known as Freeport-McMoRan Copper & Gold Inc. and changed its name to Freeport-McMoRan
+  Inc. in July 2014. The company was incorporated in 1987 and is headquartered in
+  Phoenix, Arizona.
+longName: Freeport-McMoRan Inc.
+market: us_market
+marketCap: 88858411008
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_273607
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3436000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 86540992210
+numberOfAnalystOpinions: 22
+open: 61.6
+operatingCashflow: 6216999936
+operatingMargins: 0.28598
+overallRisk: 3
+payoutRatio: 0.2521
+pegRatio: 3.61
+phone: 602 366 8100
+previousClose: 60.31
+priceEpsCurrentYear: 19.927786
+priceHint: 2
+priceToBook: 4.2353463
+priceToSalesTrailing12Months: 3.3605025
+profitMargins: 0.13029
+quickRatio: 0.786
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.78261
+region: US
+regularMarketChange: 1.6149979
+regularMarketChangePercent: 2.6778276
+regularMarketDayHigh: 62.33
+regularMarketDayLow: 60.77
+regularMarketDayRange: 60.77 - 62.33
+regularMarketOpen: 61.6
+regularMarketPreviousClose: 60.31
+regularMarketPrice: 61.925
+regularMarketTime: 1794413737
+regularMarketVolume: 2971652
+returnOnAssets: 0.0799
+returnOnEquity: 0.15719
+revenueGrowth: 0.082
+revenuePerShare: 18.391
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 6
+sharesOutstanding: 1434936034
+sharesPercentSharesOut: 0.0207
+sharesShort: 29757797
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 25136099
+shortName: Freeport-McMoRan, Inc.
+shortPercentOfFloat: 0.0208
+shortRatio: 2.58
+sourceInterval: 15
+state: AZ
+symbol: FCX
+targetHighPrice: 90.0
+targetLowPrice: 33.0
+targetMeanPrice: 78.08636
+targetMedianPrice: 81.5
+totalCash: 4335000064
+totalCashPerShare: 3.021
+totalDebt: 10355999744
+totalRevenue: 26442000384
+tradeable: false
+trailingAnnualDividendRate: 0.6
+trailingAnnualDividendYield: 0.009948599
+trailingEps: 2.38
+trailingPE: 26.018906
+trailingPegRatio: 3.6064
+triggerable: true
+twoHundredDayAverage: 65.2485
+twoHundredDayAverageChange: -3.3234978
+twoHundredDayAverageChangePercent: -0.050936006
+typeDisp: Equity
+volume: 2971652
+website: https://fcx.com
+zip: 85040-8852

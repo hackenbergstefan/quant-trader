@@ -1,0 +1,249 @@
+52WeekChange: 0.081499815
+SandP52WeekChange: 0.097798586
+address1: 1100 Park Place
+address2: Suite 200
+allTimeHigh: 363.36
+allTimeLow: 14.625
+ask: 272.94
+askSize: 120
+auditRisk: 2
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 741220
+averageDailyVolume3Month: 539420
+averageVolume: 539420
+averageVolume10days: 741220
+beta: 0.706
+bid: 272.54
+bidSize: 80
+boardRisk: 9
+bookValue: 82.355
+city: San Mateo
+companyOfficers:
+- age: 54
+  exercisedValue: 532900
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Angela L. Kleiman
+  title: President, CEO & Director
+  totalPay: 5363550
+  unexercisedValue: 671608
+  yearBorn: 1971
+- age: 48
+  exercisedValue: 631800
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Barbara M. Pak CFA
+  title: Executive VP & CFO
+  totalPay: 2708014
+  unexercisedValue: 284537
+  yearBorn: 1977
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rylan K. Burns
+  title: Executive VP & Chief Investment Officer
+  totalPay: 2074761
+  unexercisedValue: 284537
+  yearBorn: 1985
+- age: 44
+  exercisedValue: 257100
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anne M. Morrison
+  title: Executive VP, Chief Administrative Officer, General Counsel & Secretary
+  totalPay: 1791247
+  unexercisedValue: 173045
+  yearBorn: 1981
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brennan  McGreevy
+  title: Group VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1985
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Kao
+  title: Senior VP & CTO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dmitry  Taraschansky
+  title: Senior Vice President of Transactions
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Yunmi  Martin
+  title: Senior Vice President of Property Operations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 272.86
+currentRatio: 0.409
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 274.81
+dayLow: 272.23
+debtToEquity: 121.003
+displayName: Essex Property Trust
+dividendDate: 1792022400
+dividendRate: 10.36
+dividendYield: 3.76
+earningsCallTimestampEnd: 1793203200
+earningsCallTimestampStart: 1793203200
+earningsGrowth: -0.405
+earningsQuarterlyGrowth: -0.404
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1793131200
+earningsTimestampStart: 1793131200
+ebitda: 1281131008
+ebitdaMargins: 0.64662004
+enterpriseToEbitda: 19.098
+enterpriseToRevenue: 12.349
+enterpriseValue: 24467132416
+epsCurrentYear: 5.53312
+epsForward: 6.26926
+epsTrailingTwelveMonths: 5.39
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 650 655 7810
+fiftyDayAverage: 272.114
+fiftyDayAverageChange: 0.7459717
+fiftyDayAverageChangePercent: 0.0027413939
+fiftyTwoWeekChangePercent: 8.1499815
+fiftyTwoWeekHigh: 303.35
+fiftyTwoWeekHighChange: -30.49002
+fiftyTwoWeekHighChangePercent: -0.10051103
+fiftyTwoWeekLow: 238.46
+fiftyTwoWeekLowChange: 34.39998
+fiftyTwoWeekLowChangePercent: 0.1442589
+fiftyTwoWeekRange: 238.46 - 303.35
+financialCurrency: USD
+firstTradeDateMilliseconds: 770995800000
+fiveYearAvgDividendYield: 3.51
+floatShares: 63622081
+forwardEps: 6.26926
+forwardPE: 43.523476
+freeCashflow: 1098009600
+fullExchangeName: NYSE
+fullTimeEmployees: 1686
+fulldayChange: -2.8900146
+fulldayChangePercent: -1.0480561
+fulldayPrice: 272.86
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.68415
+grossProfits: 1355495936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00732
+heldPercentInstitutions: 1.05411
+impliedSharesOutstanding: 69001963
+industry: REIT - Residential
+industryDisp: REIT - Residential
+industryKey: reit-residential
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 2.59
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Essex Property Trust, Inc., an S&P 500 company, is a fully integrated
+  real estate investment trust. The firm acquires, develops, redevelops, and manages
+  multifamily residential properties in selected West Coast markets. Essex currently
+  has ownership interests in 258 apartment communities comprising over 62,000 apartment
+  homes with an additional property in active development. Essex Property Trust, Inc.
+  was incorporated in 1971 in Maryland and is based in San Mateo, United States.
+longName: Essex Property Trust, Inc.
+market: us_market
+marketCap: 18827874304
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_332646
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 347289984
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 17741069485
+numberOfAnalystOpinions: 25
+open: 274.14
+operatingCashflow: 1108807040
+operatingMargins: 0.33632
+overallRisk: 6
+payoutRatio: 1.9183999
+pegRatio: 7.02
+phone: 650 655 7800
+previousClose: 275.75
+priceEpsCurrentYear: 49.313946
+priceHint: 2
+priceToBook: 3.313217
+priceToSalesTrailing12Months: 9.502898
+profitMargins: 0.17528999
+quickRatio: 0.18
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.57692
+region: US
+regularMarketChange: -2.8900146
+regularMarketChangePercent: -1.0480561
+regularMarketDayHigh: 274.81
+regularMarketDayLow: 272.23
+regularMarketDayRange: 272.23 - 274.81
+regularMarketOpen: 274.14
+regularMarketPreviousClose: 275.75
+regularMarketPrice: 272.86
+regularMarketTime: 1794413711
+regularMarketVolume: 52709
+returnOnAssets: 0.03208
+returnOnEquity: 0.06515
+revenueGrowth: 0.022
+revenuePerShare: 30.786
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 8
+sharesOutstanding: 64337514
+sharesPercentSharesOut: 0.0353
+sharesShort: 2271721
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2541065
+shortName: Essex Property Trust, Inc.
+shortPercentOfFloat: 0.055999998
+shortRatio: 4.11
+sourceInterval: 15
+state: CA
+symbol: ESS
+targetHighPrice: 330.0
+targetLowPrice: 239.0
+targetMeanPrice: 296.14
+targetMedianPrice: 297.0
+totalCash: 98559000
+totalCashPerShare: 1.532
+totalDebt: 6637626880
+totalRevenue: 1981277056
+tradeable: false
+trailingAnnualDividendRate: 10.34
+trailingAnnualDividendYield: 0.037497733
+trailingEps: 5.39
+trailingPE: 50.623375
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 270.3175
+twoHundredDayAverageChange: 2.5424805
+twoHundredDayAverageChangePercent: 0.009405534
+typeDisp: Equity
+volume: 52709
+website: https://www.essexapartmenthomes.com
+zip: '94403'

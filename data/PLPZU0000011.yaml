@@ -1,0 +1,249 @@
+52WeekChange: 0.20039105
+SandP52WeekChange: 0.097798586
+address1: Rondo Ignacego Daszynskiego 4
+allTimeHigh: 77.2
+allTimeLow: 20.27
+ask: 74.6
+averageDailyVolume10Day: 0
+averageDailyVolume3Month: 1296739
+averageVolume: 1296739
+averageVolume10days: 0
+beta: 0.25
+bid: 74.22
+bookValue: 39.89
+city: Warsaw
+companyOfficers:
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tomasz  Tarkowski
+  title: Acting CEO & Member of the Management Board
+  totalPay: 1605000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bogdan  Benczak
+  title: President of the Management Board
+  totalPay: 442000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tomasz Pawel Kulik A.C.A.
+  title: Member of the Management Board
+  totalPay: 2280000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elzbieta  Hauser-Schoneich
+  title: Member of the Management Board
+  totalPay: 2060000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jan  Zimowicz
+  title: Member of the Management Board
+  totalPay: 2060000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Maciej  Fedyna
+  title: Member of the Management Board
+  totalPay: 1511000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anna  Machnikowska
+  title: Secretary of the Supervisory Board & Independent Member of the Supervisory
+    Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bartosz  Grzeskowiak
+  title: Member of Management Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Piotr  Matczuk
+  title: Member of the Management Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Magdalena  Komaracka C.F.A.
+  title: Director of Management Consolidation & IR
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Poland
+cryptoTradeable: false
+currency: PLN
+currentPrice: 74.6
+currentRatio: 3.728
+customPriceAlertConfidence: LOW
+dayHigh: 74.6
+dayLow: 73.36
+debtToEquity: 71.141
+dividendRate: 4.8
+dividendYield: 6.51
+earningsCallTimestampEnd: 1787223600
+earningsCallTimestampStart: 1787223600
+earningsGrowth: 0.12
+earningsQuarterlyGrowth: 0.12
+earningsTimestamp: 1795104300
+earningsTimestampEnd: 1795104300
+earningsTimestampStart: 1795104300
+ebitda: 25282000896
+ebitdaMargins: 0.4053
+enterpriseToEbitda: 3.644
+enterpriseToRevenue: 1.477
+enterpriseValue: 92129427456
+epsCurrentYear: 7.12358
+epsForward: 6.29
+epsTrailingTwelveMonths: 7.51
+esgPopulated: false
+exDividendDate: 1789516800
+exchange: WSE
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Warsaw
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 48 22 308 4955
+fiftyDayAverage: 73.5172
+fiftyDayAverageChange: 1.0828018
+fiftyDayAverageChangePercent: 0.014728552
+fiftyTwoWeekChangePercent: 20.039104
+fiftyTwoWeekHigh: 77.2
+fiftyTwoWeekHighChange: -2.5999985
+fiftyTwoWeekHighChangePercent: -0.033678737
+fiftyTwoWeekLow: 58.8
+fiftyTwoWeekLowChange: 15.799999
+fiftyTwoWeekLowChangePercent: 0.26870748
+fiftyTwoWeekRange: 58.8 - 77.2
+financialCurrency: PLN
+firstTradeDateMilliseconds: 1273561200000
+fiveYearAvgDividendYield: 6.65
+floatShares: 567975853
+forwardEps: 6.29
+forwardPE: 11.860095
+freeCashflow: 7783000064
+fullExchangeName: Warsaw
+fullTimeEmployees: 31538
+fulldayChange: 1.0599976
+fulldayChangePercent: 1.4413891
+fulldayPrice: 74.6
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.58856
+grossProfits: 36713000960
+hasPrePostMarketData: false
+heldPercentInsiders: 0.34188
+heldPercentInstitutions: 0.27996
+impliedSharesOutstanding: 863523000
+industry: Insurance - Property & Casualty
+industryDisp: Insurance - Property & Casualty
+industryKey: insurance-property-casualty
+irWebsite: http://www.pzu.pl/relacje-inwestorskie/akcje-pzu-na-gpw
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789516800
+lastDividendValue: 4.8
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1448841600
+lastSplitFactor: '10:1'
+longBusinessSummary: Powszechny Zaklad Ubezpieczen SA provides life and non-life insurance
+  products and services in Poland, the Baltic States, and Ukraine. It operates through
+  Corporate Insurance; Mass Insurance; Group Insurance and Individually Continued
+  Insurance; Individual Insurance; Life Investment Insurance; Investments; Banking;
+  Pension Insurance; Baltic Countries; Ukraine; and Investment Contracts segments.
+  The company offers motor, property, casualty, agricultural, fire, and third-party
+  liability insurance, as well as health and accident insurance. It also provides
+  banking, asset management, brokerage, investment and transaction advisory, finance
+  leasing, and factoring; and transfer agent, call center, business consulting, IT,
+  venture capital fund management, medical, training, assistance, data center, printing,
+  human resources and payroll, and financial and accounting services, as well as manages
+  pension and mutual funds. In addition, the company is involved in buying, operating,
+  leasing, and selling real estate; property management; rental of office and commercial
+  space; investment activities; and investment of free funds and development activity
+  in the construction of commercial real estate. Further, it engages in the manufacture
+  and sale of bathroom and kitchen taps, aluminum central heating radiators, shower
+  cabins, valves, and screens; and auxiliary activities associated with insurance
+  and pension funds. Powszechny Zaklad Ubezpieczen SA was founded in 1803 and is headquartered
+  in Warsaw, Poland.
+longName: Powszechny Zaklad Ubezpieczen SA
+market: pl_market
+marketCap: 64418816000
+marketState: CLOSED
+maxAge: 86400
+messageBoardId: finmb_2159401
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 6478000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 63624374640
+numberOfAnalystOpinions: 8
+open: 73.9
+operatingCashflow: 15036999680
+operatingMargins: 0.39304
+payoutRatio: 0.5952
+pegRatio: 1.72
+phone: 48 22 582 2623
+previousClose: 73.54
+priceEpsCurrentYear: 10.472262
+priceHint: 2
+priceToBook: 1.8701429
+priceToSalesTrailing12Months: 1.0327169
+profitMargins: 0.10385
+quickRatio: 3.396
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 1.0599976
+regularMarketChangePercent: 1.4413891
+regularMarketDayHigh: 74.6
+regularMarketDayLow: 73.36
+regularMarketDayRange: 73.36 - 74.6
+regularMarketOpen: 73.9
+regularMarketPreviousClose: 73.54
+regularMarketPrice: 74.6
+regularMarketTime: 1794326397
+regularMarketVolume: 1768077
+returnOnAssets: 0.02834
+returnOnEquity: 0.19540001
+revenueGrowth: -0.014
+revenuePerShare: 72.253
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+sharesOutstanding: 863523000
+shortName: PZU C.XWAR PLN
+sourceInterval: 15
+symbol: PZU.WA
+targetHighPrice: 85.0
+targetLowPrice: 73.0
+targetMeanPrice: 79.125
+targetMedianPrice: 78.5
+totalCash: 56517001216
+totalCashPerShare: 65.466
+totalDebt: 49337999360
+totalRevenue: 62378000384
+tradeable: false
+trailingAnnualDividendRate: 4.8
+trailingAnnualDividendYield: 0.0652706
+trailingEps: 7.51
+trailingPE: 9.933421
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 68.9849
+twoHundredDayAverageChange: 5.615097
+twoHundredDayAverageChangePercent: 0.08139603
+typeDisp: Equity
+volume: 1768077
+website: https://www.pzu.pl
+zip: 00-843

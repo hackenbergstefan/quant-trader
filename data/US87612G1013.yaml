@@ -1,0 +1,277 @@
+52WeekChange: 0.64919686
+SandP52WeekChange: 0.097798586
+address1: 811 Louisiana Street
+address2: Suite 2100
+allTimeHigh: 316.6
+allTimeLow: 3.66
+ask: 288.77
+askSize: 80
+auditRisk: 3
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 1679320
+averageDailyVolume3Month: 1247731
+averageVolume: 1247731
+averageVolume10days: 1679320
+beta: 0.744
+bid: 288.4
+bidSize: 80
+boardRisk: 2
+bookValue: 17.79
+city: Houston
+companyOfficers:
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew J. Meloy
+  title: CEO & Director
+  totalPay: 5194715
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer R. Kneale
+  title: President
+  totalPay: 2632073
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick J. McDonie
+  title: President of Gathering & Processing
+  totalPay: 1985235
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert M. Muraro
+  title: Chief Commercial Officer
+  totalPay: 1985235
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William A. Byers
+  title: Executive Officer
+  totalPay: 1835817
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Benjamin J. Branstetter
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1985
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Christopher Eklof
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tristan James Richardson
+  title: VP of Investor Relations & Fundamentals
+  unexercisedValue: 0
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gerald R. Shrader
+  title: Executive VP, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1960
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Denny  Latham
+  title: Executive Vice President of Permian
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 288.55
+currentRatio: 0.743
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 290.0401
+dayLow: 282.56
+debtToEquity: 501.048
+displayName: Targa Resources
+dividendDate: 1794873600
+dividendRate: 5.0
+dividendYield: 1.78
+earningsCallTimestampEnd: 1793894400
+earningsCallTimestampStart: 1793894400
+earningsGrowth: 0.382
+earningsQuarterlyGrowth: 0.376
+earningsTimestamp: 1793885400
+earningsTimestampEnd: 1793885400
+earningsTimestampStart: 1793885400
+ebitda: 5824000000
+ebitdaMargins: 0.3202
+enterpriseToEbitda: 13.771
+enterpriseToRevenue: 4.41
+enterpriseValue: 80205135872
+epsCurrentYear: 11.85372
+epsForward: 12.34278
+epsTrailingTwelveMonths: 11.3
+esgPopulated: false
+exDividendDate: 1793318400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 713 584 1100
+fiftyDayAverage: 288.8212
+fiftyDayAverageChange: -0.27120972
+fiftyDayAverageChangePercent: -0.00093902287
+fiftyTwoWeekChangePercent: 64.919685
+fiftyTwoWeekHigh: 316.6
+fiftyTwoWeekHighChange: -28.050018
+fiftyTwoWeekHighChangePercent: -0.088597655
+fiftyTwoWeekLow: 166.18
+fiftyTwoWeekLowChange: 122.369995
+fiftyTwoWeekLowChangePercent: 0.7363702
+fiftyTwoWeekRange: 166.18 - 316.6
+financialCurrency: USD
+firstTradeDateMilliseconds: 1291732200000
+fiveYearAvgDividendYield: 1.61
+floatShares: 211157621
+forwardEps: 12.34278
+forwardPE: 23.378038
+freeCashflow: 162124992
+fullExchangeName: NYSE
+fullTimeEmployees: 3570
+fulldayChange: 7.2299805
+fulldayChangePercent: 2.57002
+fulldayPrice: 288.55
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.41818002
+grossProfits: 7606199808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.013789999
+heldPercentInstitutions: 0.98524004
+impliedSharesOutstanding: 214554011
+industry: Oil & Gas Midstream
+industryDisp: Oil & Gas Midstream
+industryKey: oil-gas-midstream
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793318400
+lastDividendValue: 1.25
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Targa Resources Corp., together with its subsidiaries, owns,
+  operates, acquires, and develops a portfolio of complementary domestic infrastructure
+  assets in North America. It operates in two segments, Gathering and Processing,
+  and Logistics and Transportation. The company is involved in gathering, compressing,
+  treating, processing, transporting, and selling natural gas; storing, fractionating,
+  treating, transporting, and selling natural gas liquids (NGL) and NGL products,
+  including services to liquefied petroleum gas exporters; and gathering, storing,
+  terminaling, purchasing, and selling crude oil. It is involved in the purchase and
+  resale of NGL products; and sale of propane, as well as provision of related logistics
+  services to multi-state retailers, independent retailers, and other end-users. In
+  addition, the company offers NGL balancing services; and transportation services
+  to refineries and petrochemical companies in the Gulf Coast area, as well as purchases,
+  markets, and resells natural gas. The company also leased and owned railcars, tractors,
+  vacuum trucks and pressurized NGL barges. Targa Resources Corp. was incorporated
+  in 2005 and is headquartered in Houston, Texas.
+longName: Targa Resources Corp.
+market: us_market
+marketCap: 61909557248
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_39153321
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2434800128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 60358334374
+numberOfAnalystOpinions: 21
+open: 286.94
+operatingCashflow: 5051400192
+operatingMargins: 0.22513
+overallRisk: 6
+payoutRatio: 0.3982
+pegRatio: 1.25
+phone: 713 584 1000
+previousClose: 281.32
+priceEpsCurrentYear: 24.34257
+priceHint: 2
+priceToBook: 16.219786
+priceToSalesTrailing12Months: 3.4036999
+profitMargins: 0.13455
+quickRatio: 0.593
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.36364
+region: US
+regularMarketChange: 7.2299805
+regularMarketChangePercent: 2.57002
+regularMarketDayHigh: 290.0401
+regularMarketDayLow: 282.56
+regularMarketDayRange: 282.56 - 290.0401
+regularMarketOpen: 286.94
+regularMarketPreviousClose: 281.32
+regularMarketPrice: 288.55
+regularMarketTime: 1794413715
+regularMarketVolume: 181389
+returnOnAssets: 0.09519
+returnOnEquity: 0.73421997
+revenueGrowth: 0.349
+revenuePerShare: 84.698
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 9
+sharesOutstanding: 214554011
+sharesPercentSharesOut: 0.0306
+sharesShort: 6575190
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5304246
+shortName: Targa Resources, Inc.
+shortPercentOfFloat: 0.0359
+shortRatio: 5.85
+sourceInterval: 15
+state: TX
+symbol: TRGP
+targetHighPrice: 362.0
+targetLowPrice: 294.0
+targetMeanPrice: 331.0
+targetMedianPrice: 335.0
+totalCash: 142600000
+totalCashPerShare: 0.665
+totalDebt: 19844499456
+totalRevenue: 18188900352
+tradeable: false
+trailingAnnualDividendRate: 4.75
+trailingAnnualDividendYield: 0.016884686
+trailingEps: 11.3
+trailingPE: 25.535397
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 262.8605
+twoHundredDayAverageChange: 25.689484
+twoHundredDayAverageChangePercent: 0.09773048
+typeDisp: Equity
+volume: 181389
+website: https://www.targaresources.com
+zip: '77002'

@@ -1,0 +1,284 @@
+52WeekChange: 0.06041217
+SandP52WeekChange: 0.097798586
+address1: 4300 Wilson Boulevard
+address2: 11th Floor
+allTimeHigh: 72.8125
+allTimeLow: 0.92
+ask: 14.93
+askSize: 20100
+auditRisk: 10
+averageAnalystRating: 3.0 - Hold
+averageDailyVolume10Day: 9515070
+averageDailyVolume3Month: 8510539
+averageVolume: 8510539
+averageVolume10days: 9515070
+beta: 0.92
+bid: 14.92
+bidSize: 27600
+boardRisk: 8
+bookValue: 8.005
+city: Arlington
+companyOfficers:
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andres Ricardo Gluski Weilert Ph.D.
+  title: Chairman & CEO
+  totalPay: 4134779
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ricardo Manuel Falu
+  title: President
+  totalPay: 1532676
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephen  Coughlin
+  title: Executive VP & CFO
+  totalPay: 1749097
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juan Ignacio Rubiolo
+  title: Executive VP & COO
+  totalPay: 2151404
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Aubrey  Jarred
+  title: Principal Accounting Officer, VP & Controller
+  unexercisedValue: 0
+  yearBorn: 1986
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Susan Pasley Keppelman Harcourt
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul L. Freedman J.D.
+  title: Executive VP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 49
+  exercisedValue: 410766
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Letitia D. Mendoza
+  title: Executive VP & Chief Human Resources Officer
+  totalPay: 1415036
+  unexercisedValue: 487600
+  yearBorn: 1976
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sherry L. Kohan
+  title: Chief Financial Officer of AES' U.S. Utilities Business
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 38
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gustavo  Garavaglia
+  title: VP & CFO of US Utilities
+  unexercisedValue: 0
+  yearBorn: 1987
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 14.925
+currentRatio: 0.864
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 14.94
+dayLow: 14.92
+debtToEquity: 242.923
+displayName: AES
+dividendDate: 1794528000
+dividendRate: 0.7
+dividendYield: 4.72
+earningsCallTimestampEnd: 1772452800
+earningsCallTimestampStart: 1772452800
+earningsGrowth: -0.144
+earningsQuarterlyGrowth: -0.135
+earningsTimestampEnd: 1793826000
+earningsTimestampStart: 1793826000
+ebitda: 4355999744
+ebitdaMargins: 0.32088003
+enterpriseToEbitda: 11.597
+enterpriseToRevenue: 3.721
+enterpriseValue: 50516385792
+epsCurrentYear: 2.28958
+epsForward: 2.38312
+epsTrailingTwelveMonths: 2.49
+esgPopulated: false
+exDividendDate: 1793318400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 14.8936
+fiftyDayAverageChange: 0.031399727
+fiftyDayAverageChangePercent: 0.0021082696
+fiftyTwoWeekChangePercent: 6.041217
+fiftyTwoWeekHigh: 17.65
+fiftyTwoWeekHighChange: -2.7249994
+fiftyTwoWeekHighChangePercent: -0.1543909
+fiftyTwoWeekLow: 13.28
+fiftyTwoWeekLowChange: 1.6450005
+fiftyTwoWeekLowChangePercent: 0.12387052
+fiftyTwoWeekRange: 13.28 - 17.65
+financialCurrency: USD
+firstTradeDateMilliseconds: 677943000000
+fiveYearAvgDividendYield: 3.65
+floatShares: 708933623
+forwardEps: 2.38312
+forwardPE: 6.2627983
+freeCashflow: -3240499968
+fullExchangeName: NYSE
+fullTimeEmployees: 8336
+fulldayChange: 0.0050001144
+fulldayChangePercent: 0.03351283
+fulldayPrice: 14.925
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.21340999
+grossProfits: 2896999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00644
+heldPercentInstitutions: 0.91417
+impliedSharesOutstanding: 713564658
+industry: Utilities - Diversified
+industryDisp: Utilities - Diversified
+industryKey: utilities-diversified
+irWebsite: http://investor.aes.com/phoenix.zhtml?c=76149&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1793318400
+lastDividendValue: 0.176
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 959904000
+lastSplitFactor: '2:1'
+longBusinessSummary: 'The AES Corporation, together with its subsidiaries, operates
+  as a power generation and utility company. It operates through four segments: Renewables,
+  Utilities, Energy Infrastructure, and New Energy Technologies. The company owns
+  and/or operates power plants to generate and sell power to customers, such as utilities,
+  industrial users, and other intermediaries; owns and/or operates utilities to generate
+  or purchase, distribute, transmit, and sell electricity to end-user customers in
+  the residential, commercial, industrial, and governmental sectors; and generates
+  and sells electricity on the wholesale market, as well as investments in technologies
+  to support leading-edge greener energy solutions. It uses various fuels and technologies
+  to generate electricity, such as solar, hydro, wind, coal, and gas, as well as renewables
+  comprising energy storage and landfill gas. The company owns and/or operates a generation
+  portfolio of approximately 34,740 megawatts and distributes power to 2.7 million
+  customers. The company operates in the United States, Chile, Dominican Republic,
+  El Salvador, Mexico, Bulgaria, Panama, Colombia, Argentina, Vietnam, Jordan, Puerto
+  Rico, and internationally. The company was formerly known as Applied Energy Services,
+  Inc. and changed its name to The AES Corporation in April 2000. The AES Corporation
+  was incorporated in 1981 and is based in Arlington, Virginia.'
+longName: The AES Corporation
+market: us_market
+marketCap: 10649953280
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_35312
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1784000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 10646384697
+numberOfAnalystOpinions: 8
+open: 14.94
+operatingCashflow: 4935000064
+operatingMargins: 0.19705
+overallRisk: 9
+payoutRatio: 0.2827
+pegRatio: 0.81
+phone: 703 522 1315
+previousClose: 14.92
+priceEpsCurrentYear: 6.5186625
+priceHint: 2
+priceToBook: 1.8644598
+priceToSalesTrailing12Months: 0.78452694
+profitMargins: 0.13157
+quickRatio: 0.502
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.0
+region: US
+regularMarketChange: 0.0050001144
+regularMarketChangePercent: 0.03351283
+regularMarketDayHigh: 14.94
+regularMarketDayLow: 14.92
+regularMarketDayRange: 14.92 - 14.94
+regularMarketOpen: 14.94
+regularMarketPreviousClose: 14.92
+regularMarketPrice: 14.925
+regularMarketTime: 1794413711
+regularMarketVolume: 377767
+returnOnAssets: 0.0313
+returnOnEquity: 0.08676
+revenueGrowth: 0.155
+revenuePerShare: 19.046
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 4
+sharesOutstanding: 713564658
+sharesPercentSharesOut: 0.0368
+sharesShort: 26276540
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 23613828
+shortName: The AES Corporation
+shortPercentOfFloat: 0.037
+shortRatio: 2.67
+sourceInterval: 15
+state: VA
+symbol: AES
+targetHighPrice: 15.0
+targetLowPrice: 15.0
+targetMeanPrice: 15.0
+targetMedianPrice: 15.0
+totalCash: 2026000000
+totalCashPerShare: 2.839
+totalDebt: 33724999680
+totalRevenue: 13575000064
+tradeable: false
+trailingAnnualDividendRate: 0.704
+trailingAnnualDividendYield: 0.047184985
+trailingEps: 2.49
+trailingPE: 5.993976
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 14.7902
+twoHundredDayAverageChange: 0.13479996
+twoHundredDayAverageChangePercent: 0.00911414
+typeDisp: Equity
+volume: 377767
+website: https://www.aes.com
+zip: '22203'

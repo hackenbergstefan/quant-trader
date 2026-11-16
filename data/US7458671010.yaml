@@ -1,0 +1,268 @@
+52WeekChange: 0.08264947
+SandP52WeekChange: 0.097798586
+address1: 3350 Peachtree Road NE
+address2: Suite 1500
+allTimeHigh: 149.47
+allTimeLow: 0.140625
+ask: 128.25
+askSize: 100
+auditRisk: 6
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 2201810
+averageDailyVolume3Month: 1803287
+averageVolume: 1803287
+averageVolume10days: 2201810
+beta: 1.179
+bid: 128.12
+bidSize: 200
+boardRisk: 4
+bookValue: 70.835
+city: Atlanta
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ryan R. Marshall
+  title: President, CEO & Director
+  totalPay: 6318313
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James L. Ossowski
+  title: Executive VP & CFO
+  totalPay: 2053027
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew W. Koart
+  title: Executive VP & COO
+  totalPay: 2969959
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Todd N. Sheldon J.D.
+  title: Executive VP, General Counsel & Corporate Secretary
+  totalPay: 1378800
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin Alan Henry
+  title: Executive VP & Chief People Officer
+  totalPay: 1024848
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mike  Guhl
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James P. Zeumer
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lisa Johnson Sharp
+  title: Vice President of Compliance
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Manish M. Shrivastava
+  title: VP & Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Anthony W. Barbee
+  title: Area President of North Area
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 128.35
+currentRatio: 6.994
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 129.92
+dayLow: 127.63
+debtToEquity: 18.435
+displayName: PulteGroup
+dividendDate: 1790899200
+dividendRate: 1.04
+dividendYield: 0.8
+earningsCallTimestampEnd: 1792672200
+earningsCallTimestampStart: 1792672200
+earningsGrowth: -0.145
+earningsQuarterlyGrowth: -0.188
+earningsTimestamp: 1792672200
+earningsTimestampEnd: 1801143000
+earningsTimestampStart: 1801143000
+ebitda: 2608161024
+ebitdaMargins: 0.16325001
+enterpriseToEbitda: 9.618
+enterpriseToRevenue: 1.57
+enterpriseValue: 25085362176
+epsCurrentYear: 9.29917
+epsForward: 9.40916
+epsTrailingTwelveMonths: 9.36
+esgPopulated: false
+exDividendDate: 1789430400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 119.8152
+fiftyDayAverageChange: 8.534805
+fiftyDayAverageChangePercent: 0.07123308
+fiftyTwoWeekChangePercent: 8.264947
+fiftyTwoWeekHigh: 144.5
+fiftyTwoWeekHighChange: -16.149994
+fiftyTwoWeekHighChangePercent: -0.11176466
+fiftyTwoWeekLow: 107.16
+fiftyTwoWeekLowChange: 21.190002
+fiftyTwoWeekLowChangePercent: 0.19774172
+fiftyTwoWeekRange: 107.16 - 144.5
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 0.83
+floatShares: 182641673
+forwardEps: 9.40916
+forwardPE: 13.640964
+freeCashflow: 844184000
+fullExchangeName: NYSE
+fullTimeEmployees: 6506
+fulldayChange: -2.25
+fulldayChangePercent: -1.7228177
+fulldayPrice: 128.35
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.25316
+grossProfits: 4044529920
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00676
+heldPercentInstitutions: 1.01803
+impliedSharesOutstanding: 190486353
+industry: Residential Construction
+industryDisp: Residential Construction
+industryKey: residential-construction
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=77968&p=irol-Irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1789430400
+lastDividendValue: 0.26
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1125619200
+lastSplitFactor: '2:1'
+longBusinessSummary: PulteGroup, Inc., through its subsidiaries, engages in the homebuilding
+  business in the United States. The company is involved in the acquisition and development
+  of land primarily for residential purposes, as well as construction of housing;
+  and sale of single-family detached homes; and attached homes, such as townhomes,
+  condominiums, and duplexes under the Centex, Pulte Homes, Del Webb, DiVosta Homes,
+  and John Wieland Homes and Neighborhoods brands. It also engages in the mortgage
+  banking, title, and insurance agency operations. PulteGroup, Inc. was founded in
+  1950 and is headquartered in Atlanta, Georgia.
+longName: PulteGroup, Inc.
+market: us_market
+marketCap: 24448923648
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_294550
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1796340992
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 24877517701
+numberOfAnalystOpinions: 17
+open: 129.96
+operatingCashflow: 1408093056
+operatingMargins: 0.15614
+overallRisk: 1
+payoutRatio: 0.111099996
+pegRatio: 1.46
+phone: 404 978 6400
+previousClose: 130.6
+priceEpsCurrentYear: 13.802308
+priceHint: 2
+priceToBook: 1.8119575
+priceToSalesTrailing12Months: 1.5303414
+profitMargins: 0.112440005
+quickRatio: 0.589
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.11111
+region: US
+regularMarketChange: -2.25
+regularMarketChangePercent: -1.7228177
+regularMarketDayHigh: 129.92
+regularMarketDayLow: 127.63
+regularMarketDayRange: 127.63 - 129.92
+regularMarketOpen: 129.96
+regularMarketPreviousClose: 130.6
+regularMarketPrice: 128.35
+regularMarketTime: 1794413685
+regularMarketVolume: 277902
+returnOnAssets: 0.08582
+returnOnEquity: 0.13859999
+revenueGrowth: -0.098
+revenuePerShare: 83.848
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 2
+sharesOutstanding: 190486353
+sharesPercentSharesOut: 0.0418
+sharesShort: 7956770
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8213045
+shortName: PulteGroup, Inc.
+shortPercentOfFloat: 0.0556
+shortRatio: 3.67
+sourceInterval: 15
+state: GA
+symbol: PHM
+targetHighPrice: 162.0
+targetLowPrice: 100.0
+targetMeanPrice: 132.41176
+targetMedianPrice: 136.0
+totalCash: 1370588032
+totalCashPerShare: 7.445
+totalDebt: 2414220032
+totalRevenue: 15976123392
+tradeable: false
+trailingAnnualDividendRate: 1.04
+trailingAnnualDividendYield: 0.007963246
+trailingEps: 9.36
+trailingPE: 13.712608
+trailingPegRatio: 1.4619
+triggerable: true
+twoHundredDayAverage: 124.17865
+twoHundredDayAverageChange: 4.171356
+twoHundredDayAverageChangePercent: 0.033591572
+typeDisp: Equity
+volume: 277902
+website: https://pultegroupinc.com
+zip: '30326'

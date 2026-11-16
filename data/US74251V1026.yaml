@@ -1,0 +1,289 @@
+52WeekChange: 0.3604269
+SandP52WeekChange: 0.097798586
+address1: 711 High Street
+allTimeHigh: 121.18
+allTimeLow: 5.41
+ask: 121.8
+askSize: 1
+auditRisk: 9
+averageAnalystRating: 3.0 - Hold
+averageDailyVolume10Day: 1297810
+averageDailyVolume3Month: 1272229
+averageVolume: 1272229
+averageVolume10days: 1297810
+beta: 0.886
+bid: 109.32
+bidSize: 1
+boardRisk: 6
+bookValue: 55.537
+city: Des Moines
+companyOfficers:
+- age: 56
+  exercisedValue: 4161825
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Deanna Dawnette Strable-Soethout
+  title: President, CEO & Chair of the Board
+  totalPay: 4266137
+  unexercisedValue: 10751072
+  yearBorn: 1969
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joel Michael Pitz
+  title: Executive VP & CFO
+  totalPay: 1357420
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amy Christine Friedrich
+  title: President of Benefits & Protection
+  totalPay: 2252656
+  unexercisedValue: 7147747
+  yearBorn: 1971
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher James Littlefield
+  title: President of Retirement & Income Solutions
+  totalPay: 3216805
+  unexercisedValue: 2802548
+  yearBorn: 1967
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kamal  Bhatia C.F.A.
+  title: President & CEO of Principal Asset Management
+  totalPay: 5062012
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kathleen B. Kay
+  title: Executive VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Humphrey  Lee
+  title: VP & Head of Investor Relations
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Noreen M. Fierro
+  title: Senior VP and Enterprise Chief Ethics & Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy Wayne Brown B.S., J.D.
+  title: EVP, General Counsel & Secretary
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Bethany A. Wood
+  title: Executive VP & Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: PFG announced a cash dividend of $0.85 with an ex-date of Dec. 2, 2026
+  meta:
+    amount: '0.85'
+    dateEpochMs: 1796187600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 114.9
+currentRatio: 1.545
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 116.54
+dayLow: 114.34
+debtToEquity: 39.482
+displayName: Principal Financial
+dividendDate: 1797552000
+dividendRate: 3.4
+dividendYield: 2.93
+earningsCallTimestampEnd: 1793109600
+earningsCallTimestampStart: 1793109600
+earningsGrowth: 2.063
+earningsQuarterlyGrowth: 1.956
+earningsTimestamp: 1793044800
+earningsTimestampEnd: 1793044800
+earningsTimestampStart: 1793044800
+ebitda: 2747899904
+ebitdaMargins: 0.16525999
+enterpriseToEbitda: 8.851
+enterpriseToRevenue: 1.463
+enterpriseValue: 24322447360
+epsCurrentYear: 9.19333
+epsForward: 10.05282
+epsTrailingTwelveMonths: 8.98
+esgPopulated: false
+exDividendDate: 1796169600
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 112.5052
+fiftyDayAverageChange: 2.3947983
+fiftyDayAverageChangePercent: 0.021286111
+fiftyTwoWeekChangePercent: 36.04269
+fiftyTwoWeekHigh: 121.18
+fiftyTwoWeekHighChange: -6.279999
+fiftyTwoWeekHighChangePercent: -0.051823724
+fiftyTwoWeekLow: 80.0
+fiftyTwoWeekLowChange: 34.9
+fiftyTwoWeekLowChangePercent: 0.43625003
+fiftyTwoWeekRange: 80.0 - 121.18
+financialCurrency: USD
+firstTradeDateMilliseconds: 1003843800000
+fiveYearAvgDividendYield: 3.35
+floatShares: 211057609
+forwardEps: 10.05282
+forwardPE: 11.429628
+freeCashflow: 1737449984
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 19700
+fulldayChange: -1.0899963
+fulldayChangePercent: -0.939733
+fulldayPrice: 114.9
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.48400003
+grossProfits: 8048000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0113
+heldPercentInstitutions: 0.82392
+impliedSharesOutstanding: 212376467
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=125598&p=irol-irhome2
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788393600
+lastDividendValue: 0.84
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Principal Financial Group, Inc. provides retirement, asset management,
+  and insurance products and services to businesses, individuals, and institutional
+  clients worldwide. The company operates through Retirement and Income Solutions,
+  Principal Asset Management, and Benefits and Protection segments. The Retirement
+  and Income Solutions segment provides retirement, and related financial products
+  and services. This segment offers products and services for defined contribution
+  plans, including 401(k) and 403(b) plans, defined benefit plans, nonqualified executive
+  benefit plans, employee stock ownership plans, equity compensation, and pension
+  risk transfer services; individual retirement accounts; investment only products;
+  and mutual funds, individual variable annuities, registered index-linked annuities,
+  and bank products, as well as trust and custody services. The Principal Asset Management
+  segment provides equity, fixed income, real estate, and other alternative investments,
+  as well as fund offerings. This segment also offers pension accumulation products
+  and services, mutual funds, asset management, income annuities, and life insurance
+  accumulation products, as well as voluntary savings plans. The Benefits and Protection
+  segment provides specialty benefits, such as specialty benefits group dental and
+  vision insurance, group life and other insurance, and group and individual disability
+  insurance, as well as administers group dental, disability, and vision benefits;
+  and individual life insurance products comprising universal, variable universal,
+  indexed universal, and term life insurance products. This segment serves insurance
+  solutions for small and medium-sized businesses and their owners, as well as employees.
+  The company was founded in 1879 and is based in Des Moines, Iowa.
+longName: Principal Financial Group, Inc.
+market: us_market
+marketCap: 24402055168
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_201105
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1976899968
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 24633546407
+numberOfAnalystOpinions: 12
+open: 115.99
+operatingCashflow: 5534900224
+operatingMargins: 0.15012999
+overallRisk: 8
+payoutRatio: 0.36189997
+pegRatio: 1.06
+phone: 515 247 5111
+previousClose: 115.99
+priceEpsCurrentYear: 12.498192
+priceHint: 2
+priceToBook: 2.068891
+priceToSalesTrailing12Months: 1.467528
+profitMargins: 0.11889
+quickRatio: 0.318
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.0
+region: US
+regularMarketChange: -1.0899963
+regularMarketChangePercent: -0.939733
+regularMarketDayHigh: 116.54
+regularMarketDayLow: 114.34
+regularMarketDayRange: 114.34 - 116.54
+regularMarketOpen: 115.99
+regularMarketPreviousClose: 115.99
+regularMarketPrice: 114.9
+regularMarketTime: 1794413734
+regularMarketVolume: 117744
+returnOnAssets: 0.00464
+returnOnEquity: 0.16107
+revenueGrowth: 0.254
+revenuePerShare: 76.804
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 9
+sharesOutstanding: 212376467
+sharesPercentSharesOut: 0.0418
+sharesShort: 8887367
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8239414
+shortName: Principal Financial Group Inc
+shortPercentOfFloat: 0.048600003
+shortRatio: 6.82
+sourceInterval: 15
+state: IA
+symbol: PFG
+targetHighPrice: 125.0
+targetLowPrice: 86.0
+targetMeanPrice: 109.41667
+targetMedianPrice: 111.5
+totalCash: 5618899968
+totalCashPerShare: 26.457
+totalDebt: 4847200256
+totalRevenue: 16627999744
+tradeable: false
+trailingAnnualDividendRate: 3.25
+trailingAnnualDividendYield: 0.028019657
+trailingEps: 8.98
+trailingPE: 12.795101
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 104.3849
+twoHundredDayAverageChange: 10.515099
+twoHundredDayAverageChangePercent: 0.1007339
+typeDisp: Equity
+volume: 117744
+website: https://www.principal.com
+zip: '50392'

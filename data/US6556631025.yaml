@@ -1,0 +1,282 @@
+52WeekChange: 0.37614286
+SandP52WeekChange: 0.097798586
+address1: 28601 Clemens Road
+allTimeHigh: 339.12
+allTimeLow: 0.888889
+ask: 327.87
+askSize: 1
+auditRisk: 8
+averageDailyVolume10Day: 372990
+averageDailyVolume3Month: 387185
+averageVolume: 387185
+averageVolume10days: 372990
+beta: 0.992
+bid: 333.46
+bidSize: 1
+boardRisk: 3
+bookValue: 58.691
+city: Westlake
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sundaram  Nagarajan
+  title: President, CEO & Director
+  totalPay: 2442473
+  unexercisedValue: 3858527
+  yearBorn: 1963
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel R. Hopgood
+  title: Executive VP & CFO
+  totalPay: 1010322
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer L. McDonough J.D.
+  title: Executive VP, General Counsel & Corporate Secretary
+  totalPay: 850843
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph P. Kelley
+  title: Executive VP of Industrial Precision Solutions Leader
+  totalPay: 1023107
+  unexercisedValue: 1148384
+  yearBorn: 1973
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph M. Rutledge
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lara L. Mahoney
+  title: Vice President of Investor Relations & Corporate Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Katie  Colacarro
+  title: Vice President of Corporate Development
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sarah  Siddiqui
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Justin  Hall
+  title: Executive Vice President of Medical & Fluid Solutions
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew  Matejka
+  title: Senior Director of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 328.66
+currentRatio: 1.823
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 328.865
+dayLow: 325.915
+debtToEquity: 55.619
+displayName: Nordson
+dividendDate: 1790899200
+dividendRate: 3.76
+dividendYield: 1.16
+earningsCallTimestampEnd: 1797427800
+earningsCallTimestampStart: 1797427800
+earningsGrowth: 0.23
+earningsQuarterlyGrowth: 0.215
+earningsTimestamp: 1797368400
+earningsTimestampEnd: 1797368400
+earningsTimestampStart: 1797368400
+ebitda: 957891008
+ebitdaMargins: 0.32146
+enterpriseToEbitda: 20.683
+enterpriseToRevenue: 6.649
+enterpriseValue: 19812151296
+epsCurrentYear: 11.94571
+epsForward: 12.98286
+epsTrailingTwelveMonths: 9.88
+esgPopulated: false
+exDividendDate: 1788998400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 322.4016
+fiftyDayAverageChange: 6.2583923
+fiftyDayAverageChangePercent: 0.01941179
+fiftyTwoWeekChangePercent: 37.614285
+fiftyTwoWeekHigh: 339.12
+fiftyTwoWeekHighChange: -10.459991
+fiftyTwoWeekHighChangePercent: -0.030844513
+fiftyTwoWeekLow: 223.29
+fiftyTwoWeekLowChange: 105.37001
+fiftyTwoWeekLowChangePercent: 0.4718976
+fiftyTwoWeekRange: 223.29 - 339.12
+financialCurrency: USD
+firstTradeDateMilliseconds: 322237800000
+fiveYearAvgDividendYield: 1.08
+floatShares: 52473259
+forwardEps: 12.98286
+forwardPE: 25.314917
+freeCashflow: 613806656
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 8200
+fulldayChange: 3.5599976
+fulldayChangePercent: 1.0950469
+fulldayPrice: 328.66
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.55391
+grossProfits: 1650532992
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00302
+heldPercentInstitutions: 0.78160006
+impliedSharesOutstanding: 55717948
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+irWebsite: http://www.nordson.com/en-us/about-nordson/investors/Pages/default.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788998400
+lastDividendValue: 0.94
+lastFiscalYearEnd: 1761868800
+lastSplitDate: 1302652800
+lastSplitFactor: '2:1'
+longBusinessSummary: Nordson Corporation engineers, manufactures, and markets products
+  and systems to dispense, apply, and control adhesives, coatings, polymers, sealants,
+  biomaterials, medical components, and other fluids. The Industrial Precision Solutions
+  segment provides dispensing, coating, and laminating systems for adhesives, lotions,
+  liquids, and fibers to disposable products and roll goods; automated adhesive dispensing
+  systems; components and systems for thermoplastic and biopolymer melt stream; fluid
+  components, such as nozzles, pumps, and filters; smart components that measure and
+  control the flow, quantity and location of dispensed fluid; control systems; and
+  product assembly solutions. It also offers automated and manual dispensing products
+  and systems for cold materials, container coating, liquid finishing, and powder
+  coating, as well as ultraviolet equipment. The Medical and Fluid Solutions segment
+  offers precision manual and semi-automated dispensers, plastic molded syringes,
+  cartridges, tips, and fluid connection components; interventional solutions for
+  engineered shafts and interventional delivery systems, medical tubing, balloons,
+  balloon inflators, nitinol devices, cardiovascular cannula, and biomaterial delivery;
+  medical fluid components; and microplegia myocardial protection devices and related
+  consumables. The Advanced Technology Solutions segment provides automated dispensing
+  systems for high-speed, precise application of various attachment, protection, and
+  coating fluids, and related gas plasma treatment systems; destructive and non-destructive
+  testing technologies, such as bond testers and automated optical, acoustic microscopy,
+  and x-ray inspection systems used in the semiconductor and printed circuit board
+  industries; and precision measurement and control technologies. The company markets
+  its products through direct sales force, distributors, and sales representatives.
+  Nordson Corporation was founded in 1909 and is headquartered in Westlake, Ohio.
+longName: Nordson Corporation
+market: us_market
+marketCap: 18312261632
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_143614
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 555177984
+nextFiscalYearEnd: 1793404800
+nonDilutedMarketCap: 18108420880
+numberOfAnalystOpinions: 7
+open: 328.4
+operatingCashflow: 773384000
+operatingMargins: 0.27196
+overallRisk: 9
+payoutRatio: 0.33200002
+pegRatio: 1.85
+phone: 440-892-1580
+previousClose: 325.1
+priceEpsCurrentYear: 27.512806
+priceHint: 2
+priceToBook: 5.5998363
+priceToSalesTrailing12Months: 6.1454773
+profitMargins: 0.18631001
+quickRatio: 1.047
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 3.5599976
+regularMarketChangePercent: 1.0950469
+regularMarketDayHigh: 328.865
+regularMarketDayLow: 325.915
+regularMarketDayRange: 325.915 - 328.865
+regularMarketOpen: 328.4
+regularMarketPreviousClose: 325.1
+regularMarketPrice: 328.66
+regularMarketTime: 1794413741
+regularMarketVolume: 35441
+returnOnAssets: 0.084709994
+returnOnEquity: 0.17763
+revenueGrowth: 0.103
+revenuePerShare: 53.361
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 55717948
+sharesPercentSharesOut: 0.0218
+sharesShort: 1211878
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1446518
+shortName: Nordson Corporation
+shortPercentOfFloat: 0.024500001
+shortRatio: 3.32
+sourceInterval: 15
+state: OH
+symbol: NDSN
+targetHighPrice: 375.0
+targetLowPrice: 282.0
+targetMeanPrice: 349.7143
+targetMedianPrice: 360.0
+totalCash: 113924000
+totalCashPerShare: 2.045
+totalDebt: 1818211968
+totalRevenue: 2979794944
+tradeable: false
+trailingAnnualDividendRate: 3.28
+trailingAnnualDividendYield: 0.010089203
+trailingEps: 9.88
+trailingPE: 33.265182
+trailingPegRatio: 1.8466
+triggerable: true
+twoHundredDayAverage: 296.85864
+twoHundredDayAverageChange: 31.801361
+twoHundredDayAverageChangePercent: 0.10712627
+typeDisp: Equity
+volume: 35441
+website: https://www.nordson.com
+zip: 44145-4551

@@ -1,0 +1,289 @@
+52WeekChange: 0.539492
+SandP52WeekChange: 0.097798586
+address1: 1027 Newport Avenue
+allTimeHigh: 126.87
+allTimeLow: 0.079012
+ask: 132.09
+askSize: 2
+auditRisk: 10
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 2142120
+averageDailyVolume3Month: 1946389
+averageVolume: 1946389
+averageVolume10days: 2142120
+beta: 0.362
+bid: 111.99
+bidSize: 2
+boardRisk: 2
+bookValue: 6.52
+city: Pawtucket
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian P. Cocks
+  title: CEO & Director
+  totalPay: 8172422
+  unexercisedValue: 4199613
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Gina  Goetter
+  title: CFO & COO
+  totalPay: 3258738
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tarrant L. Sibley J.D.
+  title: Executive VP, Chief Legal Officer & Corporate Secretary
+  totalPay: 2003400
+  unexercisedValue: 879937
+  yearBorn: 1969
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy J. Kilpin
+  title: President of Toys, Licensing & Entertainment
+  totalPay: 1349000
+  unexercisedValue: 478695
+  yearBorn: 1961
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Hight
+  title: Advisor
+  totalPay: 2513779
+  unexercisedValue: 0
+  yearBorn: 1961
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frederick Charles Wightman IV, C.F.A.
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason  Bunge
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Holly  Barbacovi
+  title: Executive VP & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Billy  Lagor
+  title: President of Toys & Game
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kim  Boyd
+  title: President of Licensing & Entertainment
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: HAS announced a cash dividend of $0.70 with an ex-date of Nov. 18, 2026
+  meta:
+    amount: '0.70'
+    dateEpochMs: 1794978000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 123.445
+currentRatio: 1.4
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 123.445
+dayLow: 121.01
+debtToEquity: 410.35
+displayName: Hasbro
+dividendDate: 1796169600
+dividendRate: 2.8
+dividendYield: 2.3
+earningsCallTimestampEnd: 1792499400
+earningsCallTimestampStart: 1792499400
+earningsGrowth: 0.689
+earningsQuarterlyGrowth: 0.692
+earningsTimestamp: 1792499400
+earningsTimestampEnd: 1792499400
+earningsTimestampStart: 1792499400
+ebitda: 1548400000
+ebitdaMargins: 0.29885998
+enterpriseToEbitda: 12.584
+enterpriseToRevenue: 3.761
+enterpriseValue: 19485661184
+epsCurrentYear: 7.1162
+epsForward: 6.97676
+epsTrailingTwelveMonths: 6.71
+esgPopulated: false
+exDividendDate: 1794960000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 99.8692
+fiftyDayAverageChange: 23.575798
+fiftyDayAverageChangePercent: 0.23606676
+fiftyTwoWeekChangePercent: 53.9492
+fiftyTwoWeekHigh: 124.0
+fiftyTwoWeekHighChange: -0.5550003
+fiftyTwoWeekHighChangePercent: -0.0044758087
+fiftyTwoWeekLow: 74.78
+fiftyTwoWeekLowChange: 48.665
+fiftyTwoWeekLowChangePercent: 0.6507756
+fiftyTwoWeekRange: 74.78 - 124.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 3.84
+floatShares: 139222018
+forwardEps: 6.97676
+forwardPE: 17.693743
+freeCashflow: 804499968
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 4520
+fulldayChange: 1.625
+fulldayChangePercent: 1.3339353
+fulldayPrice: 123.445
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.65345
+grossProfits: 3385499904
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00579
+heldPercentInstitutions: 1.0054699
+impliedSharesOutstanding: 139862589
+industry: Leisure
+industryDisp: Leisure
+industryKey: leisure
+irWebsite: http://investor.hasbro.com/index.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787097600
+lastDividendValue: 0.7
+lastFiscalYearEnd: 1766880000
+lastSplitDate: 921542400
+lastSplitFactor: '3:2'
+longBusinessSummary: 'Hasbro, Inc. operates as a toy and game company in the United
+  States, Europe, Canada, Mexico, Latin America, Australia, China, and Hong Kong.
+  The company offers trading cards and collectibles, action figures, arts and crafts
+  and creative play products, dolls, play sets, preschool toys, plush products, vehicles
+  and toy-related specialty products, sports action products and accessories, and
+  other consumer products; and licensed products, such as apparel, publishing products,
+  home goods and electronics, and toy products. It also engages in the sourcing, marketing,
+  and sale of toy and game products; and promotes its brands through the out-licensing
+  of trademarks, characters, and other brand and intellectual property rights to third
+  parties through the sale of branded consumer products, such as toys and apparel.
+  In addition, the company is involved in the promotion of its brands through the
+  development of trading cards, role-playing, and digital game experiences based on
+  Hasbro and Wizards of the Coast games; and license certain brands to other third-party
+  digital game developers who transform Hasbro brand-based characters and other intellectual
+  properties, into digital gaming experiences. Further, it develops and produces of
+  Hasbro-branded entertainment content, including film, television, children''s programming,
+  digital content, and live entertainment. The company sells its products to retailers,
+  distributors, wholesalers, discount stores, specialty hobby stores, drug stores,
+  mail order houses, catalog stores, department stores, and other traditional retailers,
+  as well as ecommerce retailers under the MAGIC: THE GATHERING, MONOPOLY, HASBRO
+  GAMES, PLAY-DOH, TRANSFORMERS, DUNGEONS & DRAGONS, NERF, and PEPPA PIG, as well
+  as LUCASFILMS'' STAR WARS, BEYBLADE, Final Fantasy, The Lord of the Rings, Fallout,
+  SPIDER-MAN, and THE AVENGERS brands. Hasbro, Inc. was founded in 1923 and is headquartered
+  in Pawtucket, Rhode Island.'
+longName: Hasbro, Inc.
+market: us_market
+marketCap: 17265338368
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_277746
+mostRecentQuarter: 1790467200
+netIncomeToCommon: 955400000
+nextFiscalYearEnd: 1798416000
+nonDilutedMarketCap: 17037361279
+numberOfAnalystOpinions: 13
+open: 121.31
+operatingCashflow: 1310499968
+operatingMargins: 0.2752
+overallRisk: 5
+payoutRatio: 0.4173
+pegRatio: 1.73
+phone: 401 431 8697
+previousClose: 121.82
+priceEpsCurrentYear: 17.347038
+priceHint: 2
+priceToBook: 18.933283
+priceToSalesTrailing12Months: 3.3324335
+profitMargins: 0.1844
+quickRatio: 1.145
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: 1.625
+regularMarketChangePercent: 1.3339353
+regularMarketDayHigh: 123.445
+regularMarketDayLow: 121.01
+regularMarketDayRange: 121.01 - 123.445
+regularMarketOpen: 121.31
+regularMarketPreviousClose: 121.82
+regularMarketPrice: 123.445
+regularMarketTime: 1794413721
+regularMarketVolume: 280356
+returnOnAssets: 0.14942999
+returnOnEquity: 1.3978101
+revenueGrowth: 0.15
+revenuePerShare: 36.758
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 8
+sharesOutstanding: 139862589
+sharesPercentSharesOut: 0.045300003
+sharesShort: 6329318
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8284793
+shortName: Hasbro, Inc.
+shortPercentOfFloat: 0.0515
+shortRatio: 2.47
+sourceInterval: 15
+state: RI
+symbol: HAS
+targetHighPrice: 137.0
+targetLowPrice: 100.0
+targetMeanPrice: 119.07692
+targetMedianPrice: 120.0
+totalCash: 1426899968
+totalCashPerShare: 10.202
+totalDebt: 3849900032
+totalRevenue: 5181000192
+tradeable: false
+trailingAnnualDividendRate: 2.8
+trailingAnnualDividendYield: 0.022984732
+trailingEps: 6.71
+trailingPE: 18.39717
+trailingPegRatio: 1.7313
+triggerable: true
+twoHundredDayAverage: 93.57645
+twoHundredDayAverageChange: 29.868553
+twoHundredDayAverageChangePercent: 0.3191888
+typeDisp: Equity
+volume: 280356
+website: https://corporate.hasbro.com
+zip: 02861

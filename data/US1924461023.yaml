@@ -1,0 +1,294 @@
+52WeekChange: -0.123989224
+SandP52WeekChange: 0.097798586
+address1: 300 Frank West Burr Boulevard
+address2: Suite 36, 6th Floor
+allTimeHigh: 93.47
+allTimeLow: 0.145833
+ask: 66.72
+askSize: 1
+auditRisk: 1
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 6662530
+averageDailyVolume3Month: 6575217
+averageVolume: 6575217
+averageVolume10days: 6662530
+beta: 0.827
+bid: 60.67
+bidSize: 1
+boardRisk: 4
+bookValue: 32.871
+city: Teaneck
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ravi Kumar Singisetti
+  title: CEO & Director
+  totalPay: 5707950
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jatin Pravinchandra Dalal C.F.A.
+  title: Chief Financial Officer
+  totalPay: 2233200
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Sunshin Kim
+  title: Chief Legal Officer, Chief Administrative Officer & Corporate Secretary
+  totalPay: 2165950
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Balu Ganesh Ayyar
+  title: President of Asia Pacific & Japan and Industry Solutions Group
+  totalPay: 2098251
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Surya  Gummadi
+  title: President of Americas
+  totalPay: 1797455
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rajesh  Varrier
+  title: President of Operations & CMD of Cognizant India
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Alina  Kerdman
+  title: SVP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tyler J. Scott
+  title: Global Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Thea  Hayden
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kathryn  Diaz
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: CTSH announced a cash dividend of $0.33 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.33'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 64.23
+currentRatio: 2.224
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 64.56
+dayLow: 63.455
+debtToEquity: 14.478
+displayName: Cognizant
+dividendDate: 1795564800
+dividendRate: 1.32
+dividendYield: 2.03
+earningsCallTimestampEnd: 1793277000
+earningsCallTimestampStart: 1793277000
+earningsGrowth: 1.482
+earningsQuarterlyGrowth: 1.288
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 4107000064
+ebitdaMargins: 0.18761
+enterpriseToEbitda: 7.216
+enterpriseToRevenue: 1.354
+enterpriseValue: 29636976640
+epsCurrentYear: 5.76919
+epsForward: 6.27722
+epsTrailingTwelveMonths: 5.48
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 62.4624
+fiftyDayAverageChange: 1.7676048
+fiftyDayAverageChangePercent: 0.028298702
+fiftyTwoWeekChangePercent: -12.398922
+fiftyTwoWeekHigh: 87.03
+fiftyTwoWeekHighChange: -22.799995
+fiftyTwoWeekHighChangePercent: -0.26197857
+fiftyTwoWeekLow: 37.08
+fiftyTwoWeekLowChange: 27.150002
+fiftyTwoWeekLowChangePercent: 0.7322006
+fiftyTwoWeekRange: 37.08 - 87.03
+financialCurrency: USD
+firstTradeDateMilliseconds: 898263000000
+fiveYearAvgDividendYield: 1.62
+floatShares: 445725096
+forwardEps: 6.27722
+forwardPE: 10.232238
+freeCashflow: 2079250048
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 359900
+fulldayChange: -0.76999664
+fulldayChangePercent: -1.1846102
+fulldayPrice: 64.23
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.3342
+grossProfits: 7315999744
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0014599999
+heldPercentInstitutions: 1.1554
+impliedSharesOutstanding: 447030425
+industry: Information Technology Services
+industryDisp: Information Technology Services
+industryKey: information-technology-services
+irWebsite: http://investors.cognizant.com/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787011200
+lastDividendValue: 0.33
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1394409600
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Cognizant Technology Solutions Corporation, a professional services
+  company, provides consulting and technology, and outsourcing services in North America,
+  Europe, and internationally. It operates through four segments: Financial Services;
+  Health Sciences; Products and Resources; and Communications, Media and Technology.
+  It provides services, such as artificial intelligence (AI) and other technology
+  services and solutions, consulting, application development, systems integration,
+  quality engineering and assurance, engineering research and development, application
+  maintenance, infrastructure, security, and business process services and automation.
+  It also offers AI-led automation, which includes advisory, and process and IT automation
+  solutions designed to simplify and accelerate automation adoption; business process
+  outsourcing services, which help deliver business outcomes including revenue growth,
+  increased customer and employee satisfaction, and cost savings; and Cognizant Moment,
+  a digital experience service that uses AI to reimagine customer experiences and
+  engineer strategies aimed at driving growth. It develops, licenses, implements,
+  and supports proprietary and third-party software products and platforms; and develops
+  industry-specific products and services. It offers solution to healthcare providers
+  and payers, life sciences companies, banking, capital markets, payments and insurance
+  companies, manufacturers, automakers, retailers, consumer goods, travel and hospitality,
+  communications, media and entertainment, education, information services, and technology
+  companies; and businesses providing logistic, energy, and utility services. It has
+  a strategic partnership with Uniphore Technologies Inc. for the development of AI
+  solutions that combine small language models and AI agents. It holds a strategic
+  partnership with Travelport to build intelligent travel retail for the AI era. The
+  company was incorporated in 1988 and is headquartered in Teaneck, New Jersey.'
+longName: Cognizant Technology Solutions Corporation
+market: us_market
+marketCap: 28712765440
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_386024
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2572999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 29070388537
+numberOfAnalystOpinions: 25
+open: 64.28
+operatingCashflow: 2694000128
+operatingMargins: 0.1634
+overallRisk: 1
+payoutRatio: 0.23719999
+pegRatio: 0.82
+phone: 201 801 0233
+previousClose: 65.0
+priceEpsCurrentYear: 11.13328
+priceHint: 2
+priceToBook: 1.9540023
+priceToSalesTrailing12Months: 1.3116242
+profitMargins: 0.117539994
+quickRatio: 1.76
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.2069
+region: US
+regularMarketChange: -0.76999664
+regularMarketChangePercent: -1.1846102
+regularMarketDayHigh: 64.56
+regularMarketDayLow: 63.455
+regularMarketDayRange: 63.455 - 64.56
+regularMarketOpen: 64.28
+regularMarketPreviousClose: 65.0
+regularMarketPrice: 64.23
+regularMarketTime: 1794413726
+regularMarketVolume: 675283
+returnOnAssets: 0.10784
+returnOnEquity: 0.17372
+revenueGrowth: 0.046
+revenuePerShare: 46.801
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 2
+sharesOutstanding: 447030425
+sharesPercentSharesOut: 0.0519
+sharesShort: 23180899
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 33055948
+shortName: 'Cognizant Technology Solutions '
+shortPercentOfFloat: 0.0519
+shortRatio: 3.27
+sourceInterval: 15
+state: NJ
+symbol: CTSH
+targetHighPrice: 84.0
+targetLowPrice: 47.0
+targetMeanPrice: 69.784
+targetMedianPrice: 70.0
+totalCash: 1552000000
+totalCashPerShare: 3.472
+totalDebt: 2132000000
+totalRevenue: 21891000320
+tradeable: false
+trailingAnnualDividendRate: 1.32
+trailingAnnualDividendYield: 0.020307694
+trailingEps: 5.48
+trailingPE: 11.720803
+trailingPegRatio: 0.8166
+triggerable: true
+twoHundredDayAverage: 58.2763
+twoHundredDayAverageChange: 5.953705
+twoHundredDayAverageChangePercent: 0.102163404
+typeDisp: Equity
+volume: 675243
+website: https://www.cognizant.com
+zip: '07666'

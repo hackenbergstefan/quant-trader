@@ -1,0 +1,275 @@
+52WeekChange: 0.26002753
+SandP52WeekChange: 0.097798586
+address1: 2401 Utah Avenue South
+allTimeHigh: 126.32
+allTimeLow: 0.320313
+ask: 115.49
+askSize: 1
+auditRisk: 8
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 9493860
+averageDailyVolume3Month: 7800706
+averageVolume: 7800706
+averageVolume10days: 9493860
+beta: 1.012
+bid: 104.14
+bidSize: 1
+boardRisk: 5
+bookValue: -6.727
+city: Seattle
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian R. Niccol
+  title: Chairman & CEO
+  totalPay: 11111188
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Catherine R. Smith CPA
+  title: Executive VP & CFO
+  totalPay: 3306718
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mike  Grams
+  title: EVP & COO
+  totalPay: 1380012
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bao Giang Val Bauduin
+  title: Principal Accounting Officer and Senior VP of Corporate Finance & Development
+  totalPay: 719698
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brady  Brewer
+  title: Chief Executive Officer of Starbucks International
+  totalPay: 1300465
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 45
+  exercisedValue: 502968
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sara  Kelly
+  title: Executive VP & Chief Partner Officer
+  totalPay: 1151889
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anand  Varadarajan
+  title: EVP & CTO
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Pilar  Ramos
+  title: Executive VP & Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andy  Adams
+  title: Senior Vice President of Global Growth & Concepts
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Janet  Landers
+  title: Senior Vice President of Business Technology
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions:
+- header: Dividend
+  message: SBUX announced a cash dividend of $0.63 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.63'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 109.075
+currentRatio: 0.759
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 110.3
+dayLow: 108.67
+displayName: Starbucks
+dividendDate: 1795737600
+dividendRate: 2.52
+dividendYield: 2.29
+earningsCallTimestampEnd: 1793304900
+earningsCallTimestampStart: 1793304900
+earningsGrowth: 4.054
+earningsQuarterlyGrowth: 4.084
+earningsTimestamp: 1793304000
+earningsTimestampEnd: 1801083600
+earningsTimestampStart: 1801083600
+ebitda: 5733600256
+ebitdaMargins: 0.15123999
+enterpriseToEbitda: 25.1
+enterpriseToRevenue: 3.796
+enterpriseValue: 143910699008
+epsCurrentYear: 3.21427
+epsForward: 3.72459
+epsTrailingTwelveMonths: 2.21
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 99.2512
+fiftyDayAverageChange: 9.823799
+fiftyDayAverageChangePercent: 0.09897915
+fiftyTwoWeekChangePercent: 26.002752
+fiftyTwoWeekHigh: 111.5
+fiftyTwoWeekHighChange: -2.425003
+fiftyTwoWeekHighChangePercent: -0.021748906
+fiftyTwoWeekLow: 81.97
+fiftyTwoWeekLowChange: 27.104996
+fiftyTwoWeekLowChangePercent: 0.3306697
+fiftyTwoWeekRange: 81.97 - 111.5
+financialCurrency: USD
+firstTradeDateMilliseconds: 709565400000
+fiveYearAvgDividendYield: 2.32
+floatShares: 1137774196
+forwardEps: 3.72459
+forwardPE: 29.2851
+freeCashflow: 3186162432
+fullExchangeName: NasdaqGS
+fulldayChange: -0.875
+fulldayChangePercent: -0.7958163
+fulldayPrice: 109.075
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.22431
+grossProfits: 8503900160
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00127
+heldPercentInstitutions: 0.87351996
+impliedSharesOutstanding: 1140100000
+industry: Restaurants
+industryDisp: Restaurants
+industryKey: restaurants
+irWebsite: http://investor.starbucks.com/phoenix.zhtml?c=99518&p=irol-IRHome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.62
+lastFiscalYearEnd: 1790467200
+lastSplitDate: 1428537600
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Starbucks Corporation, together with its subsidiaries, operates
+  as a roaster, marketer, and retailer of coffee internationally. The company operates
+  through three segments: North America, International, and Channel Development. Its
+  stores offer coffee, tea, and other beverages, roasted whole beans and ground coffees,
+  complementary food, packaged coffees, single-serve products, and ready-to-drink
+  beverages; and various food products, such as pastries, breakfast sandwiches, and
+  lunch items. The company also licenses its trademarks through licensed stores, and
+  grocery and foodservice accounts. The company offers its products under the Starbucks
+  Coffee, Teavana, Seattle''s Best Coffee, Ethos, and Starbucks Reserve brands. Starbucks
+  Corporation was founded in 1971 and is based in Seattle, Washington.'
+longName: Starbucks Corporation
+market: us_market
+marketCap: 124356403200
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_34745
+mostRecentQuarter: 1790467200
+netIncomeToCommon: 2526700032
+nextFiscalYearEnd: 1822003200
+nonDilutedMarketCap: 125353995000
+numberOfAnalystOpinions: 30
+open: 109.89
+operatingCashflow: 4988400128
+operatingMargins: 0.10917
+overallRisk: 7
+payoutRatio: 1.4277
+pegRatio: 1.18
+phone: 206 447 1575
+previousClose: 109.95
+priceEpsCurrentYear: 33.93461
+priceHint: 2
+priceToBook: -16.214508
+priceToSalesTrailing12Months: 3.280254
+profitMargins: 0.06665
+quickRatio: 0.498
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.33333
+region: US
+regularMarketChange: -0.875
+regularMarketChangePercent: -0.7958163
+regularMarketDayHigh: 110.3
+regularMarketDayLow: 108.67
+regularMarketDayRange: 108.67 - 110.3
+regularMarketOpen: 109.89
+regularMarketPreviousClose: 109.95
+regularMarketPrice: 109.075
+regularMarketTime: 1794413749
+regularMarketVolume: 1301405
+returnOnAssets: 0.08564
+revenueGrowth: -0.045
+revenuePerShare: 33.156
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 2
+sharesOutstanding: 1140100000
+sharesPercentSharesOut: 0.0385
+sharesShort: 43904229
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 41974811
+shortName: Starbucks Corporation
+shortPercentOfFloat: 0.0428
+shortRatio: 4.62
+sourceInterval: 15
+state: WA
+symbol: SBUX
+targetHighPrice: 141.0
+targetLowPrice: 82.0
+targetMeanPrice: 111.06667
+targetMedianPrice: 110.5
+totalCash: 3864199936
+totalCashPerShare: 3.389
+totalDebt: 22413600768
+totalRevenue: 37910601728
+tradeable: false
+trailingAnnualDividendRate: 2.49
+trailingAnnualDividendYield: 0.022646658
+trailingEps: 2.21
+trailingPE: 49.3552
+trailingPegRatio: 1.1807
+triggerable: true
+twoHundredDayAverage: 100.26595
+twoHundredDayAverageChange: 8.809044
+twoHundredDayAverageChangePercent: 0.087856784
+typeDisp: Equity
+volume: 1301405
+website: https://www.starbucks.com
+zip: '98134'

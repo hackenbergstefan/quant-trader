@@ -1,0 +1,231 @@
+52WeekChange: 0.636598
+SandP52WeekChange: 0.097798586
+address1: Dornkaulstraße 2
+allTimeHigh: 158.245
+allTimeLow: 2.04
+ask: 33.99
+askSize: 1475
+auditRisk: 4
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 963951
+averageDailyVolume3Month: 705680
+averageVolume: 705680
+averageVolume10days: 963951
+beta: 0.787
+bid: 33.95
+bidSize: 125
+boardRisk: 1
+bookValue: 9.028
+city: Herzogenrath
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Felix J. Grawert Ph.D.
+  title: President, CEO & Chairman of Executive Board
+  totalPay: 2044000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Christian  Danninger
+  title: CFO & Member of the Executive Board
+  totalPay: 1214000
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles  Russell
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian  Ludwig
+  title: Vice President of Investor Relations & Corporate Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Vincent  Meric
+  title: Senior Vice President of Marketing
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Christoph  Putz
+  title: Senior Manager of ESG & Sustainability
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ralf  Penner
+  title: Senior IR Manager
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 33.96
+currentRatio: 3.614
+customPriceAlertConfidence: LOW
+dayHigh: 34.03
+dayLow: 32.92
+debtToEquity: 34.67
+dividendRate: 0.15
+dividendYield: 0.47
+earningsCallTimestampEnd: 1793282400
+earningsCallTimestampStart: 1793282400
+earningsGrowth: 1.818
+earningsQuarterlyGrowth: 1.717
+earningsTimestamp: 1793291400
+earningsTimestampEnd: 1793291400
+earningsTimestampStart: 1793291400
+ebitda: 128178000
+ebitdaMargins: 0.23513001
+enterpriseToEbitda: 23.696
+enterpriseToRevenue: 5.572
+enterpriseValue: 3037270528
+epsCurrentYear: 0.7049
+epsForward: 1.54008
+epsTrailingTwelveMonths: 0.72
+esgPopulated: false
+exDividendDate: 1778716800
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 2407 9030 40
+fiftyDayAverage: 34.4918
+fiftyDayAverageChange: -0.5317993
+fiftyDayAverageChangePercent: -0.015418138
+fiftyTwoWeekChangePercent: 63.659798
+fiftyTwoWeekHigh: 62.66
+fiftyTwoWeekHighChange: -28.7
+fiftyTwoWeekHighChangePercent: -0.45802745
+fiftyTwoWeekLow: 16.07
+fiftyTwoWeekLowChange: 17.89
+fiftyTwoWeekLowChangePercent: 1.1132545
+fiftyTwoWeekRange: 16.07 - 62.66
+financialCurrency: EUR
+firstTradeDateMilliseconds: 879235200000
+fiveYearAvgDividendYield: 0.84
+forwardEps: 1.54008
+forwardPE: 22.050802
+freeCashflow: 323850624
+fullExchangeName: XETRA
+fullTimeEmployees: 996
+fulldayChange: 2.209999
+fulldayChangePercent: 6.960627
+fulldayPrice: 33.96
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.42375
+grossProfits: 231003008
+hasPrePostMarketData: false
+heldPercentInsiders: 0.01598
+heldPercentInstitutions: 0.62414
+impliedSharesOutstanding: 112785858
+industry: Semiconductor Equipment & Materials
+industryDisp: Semiconductor Equipment & Materials
+industryKey: semiconductor-equipment-materials
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778716800
+lastDividendValue: 0.15
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 930700800
+lastSplitFactor: '3:1'
+longBusinessSummary: AIXTRON SE, together with its subsidiaries, manufactures and
+  sells deposition equipment to the semiconductor industry in Asia, Europe, and the
+  United States. The company offers G10-SiC, G10-GaN, G10-AsP, AIX G5+ C, Closed Coupled
+  Showerhead systems for research and development, AIX 2800G4-TM, and AIX G5 WW C.
+  It also develops, produces, and installs equipment for the deposition of semiconductor
+  materials; and offers deposition processes, consulting, training, customer support,
+  and other related services, as well as peripheral equipment and services to support
+  the operation of its systems. In addition, the company engages in supplying deposition
+  equipment for volume production; and research and development and pre-series production
+  activities. Its products are used in laser, LED, display technologies, optical data
+  transmission, SiC and GaN power electronics, and other applications. AIXTRON SE
+  was founded in 1983 and is headquartered in Herzogenrath, Germany.
+longName: AIXTRON SE
+market: de_market
+marketCap: 3830207488
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_138633
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 80500000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 3579823132
+numberOfAnalystOpinions: 15
+open: 32.95
+operatingCashflow: 390952992
+operatingMargins: 0.20005
+overallRisk: 1
+payoutRatio: 0.2083
+pegRatio: 2.08
+phone: 49 2407 9030 0
+previousClose: 31.75
+priceEpsCurrentYear: 48.177044
+priceHint: 2
+priceToBook: 3.7616305
+priceToSalesTrailing12Months: 7.0260606
+profitMargins: 0.14767
+quickRatio: 2.669
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.73333
+region: US
+regularMarketChange: 2.209999
+regularMarketChangePercent: 6.960627
+regularMarketDayHigh: 34.03
+regularMarketDayLow: 32.92
+regularMarketDayRange: 32.92 - 34.03
+regularMarketOpen: 32.95
+regularMarketPreviousClose: 31.75
+regularMarketPrice: 33.96
+regularMarketTime: 1794411553
+regularMarketVolume: 352956
+returnOnAssets: 0.04868
+returnOnEquity: 0.08507
+revenueGrowth: 0.536
+revenuePerShare: 4.856
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 112785858
+shortName: AIXTRON SE                    N
+sourceInterval: 15
+symbol: AIXA.DE
+targetHighPrice: 77.0
+targetLowPrice: 39.0
+targetMeanPrice: 48.18
+targetMedianPrice: 44.0
+totalCash: 944825024
+totalCashPerShare: 8.276
+totalDebt: 357387008
+totalRevenue: 545142976
+tradeable: false
+trailingAnnualDividendRate: 0.15
+trailingAnnualDividendYield: 0.0047244094
+trailingEps: 0.72
+trailingPE: 47.166664
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 39.3585
+twoHundredDayAverageChange: -5.3985023
+twoHundredDayAverageChangePercent: -0.1371623
+typeDisp: Equity
+volume: 352956
+website: https://www.aixtron.com
+zip: '52134'

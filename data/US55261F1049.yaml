@@ -1,0 +1,276 @@
+52WeekChange: 0.17252195
+SandP52WeekChange: 0.097798586
+address1: One M&T Plaza
+allTimeHigh: 255.95
+allTimeLow: 0.46875
+ask: 220.04
+askSize: 200
+auditRisk: 6
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 835690
+averageDailyVolume3Month: 994067
+averageVolume: 994067
+averageVolume10days: 835690
+beta: 0.642
+bid: 219.54
+bidSize: 100
+boardRisk: 9
+bookValue: 174.955
+city: Buffalo
+companyOfficers:
+- age: 60
+  exercisedValue: 4208441
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rene F. Jones CPA
+  title: Chairman & CEO
+  totalPay: 4593056
+  unexercisedValue: 2605952
+  yearBorn: 1965
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daryl N. Bible C.F.A.
+  title: Senior EVP & CFO
+  totalPay: 2445718
+  unexercisedValue: 157499
+  yearBorn: 1961
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter G. D'Arcy
+  title: Senior EVP & Head of Commercial Banking
+  totalPay: 1708979
+  unexercisedValue: 560145
+  yearBorn: 1974
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher E. Kay J.D.
+  title: Senior EVP & Head of Enterprise Platforms
+  totalPay: 2366879
+  unexercisedValue: 479625
+  yearBorn: 1965
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael A. Wisler
+  title: Senior Executive VP & Chief Technology and Operations Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian K. Green C.F.A.
+  title: Chief Investment Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Hugh  Giorgio
+  title: Head of Investment Banking
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tracy S. Woodrow
+  title: Senior EVP, Regional President for Western New York & Chief Administrative
+    Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rajiv  Ranjan
+  title: Head of Investor Relations & Corporate Development
+  unexercisedValue: 0
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laura P. O'Hara J.D.
+  title: Senior EVP & Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1960
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 220.21
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 220.8
+dayLow: 219.08
+displayName: M&T Bank
+dividendDate: 1790726400
+dividendRate: 6.0
+dividendYield: 2.72
+earningsCallTimestampEnd: 1800363600
+earningsCallTimestampStart: 1800363600
+earningsGrowth: 0.046
+earningsQuarterlyGrowth: -0.021
+earningsTimestamp: 1800365400
+earningsTimestampEnd: 1800365400
+earningsTimestampStart: 1800365400
+ebitdaMargins: 0.0
+enterpriseToRevenue: 4.124
+enterpriseValue: 39034068992
+epsCurrentYear: 19.46343
+epsForward: 21.11213
+epsTrailingTwelveMonths: 19.14
+esgPopulated: false
+exDividendDate: 1788220800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 223.8016
+fiftyDayAverageChange: -3.5915985
+fiftyDayAverageChangePercent: -0.016048135
+fiftyTwoWeekChangePercent: 17.252195
+fiftyTwoWeekHigh: 255.95
+fiftyTwoWeekHighChange: -35.73999
+fiftyTwoWeekHighChangePercent: -0.1396366
+fiftyTwoWeekLow: 179.75
+fiftyTwoWeekLowChange: 40.460007
+fiftyTwoWeekLowChangePercent: 0.22509044
+fiftyTwoWeekRange: 179.75 - 255.95
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 3.01
+floatShares: 142761726
+forwardEps: 21.11213
+forwardPE: 10.430497
+fullExchangeName: NYSE
+fullTimeEmployees: 21562
+fulldayChange: -0.3999939
+fulldayChangePercent: -0.18131268
+fulldayPrice: 220.21
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 9464000512
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00324
+heldPercentInstitutions: 0.91085
+impliedSharesOutstanding: 143434433
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: http://ir.mandtbank.com/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788220800
+lastDividendValue: 1.5
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 970790400
+lastSplitFactor: '10:1'
+longBusinessSummary: 'M&T Bank Corporation operates as a bank holding company for
+  Manufacturers and Traders Trust Company and Wilmington Trust, National Association
+  that provides retail and commercial banking products and services in the United
+  States. The company operates through three segments: Commercial Bank, Retail Bank,
+  and Institutional Services and Wealth Management. It offers a range of credit products
+  and banking services, such as commercial lending and leasing, letters of credits,
+  deposit products, cash management services, commercial real estate loans, and credit
+  facilities secured by various commercial real estate properties to middle-market
+  and large commercial customers. The company also provides customers deposit products,
+  including demand, savings and time accounts, and other services; automobile and
+  recreational finance loans, home equity loans and lines of credit, credit cards,
+  and other loan products, as well as residential mortgage and real estate loans;
+  business loans, cash management, payroll, direct deposit, and merchant credit card
+  services to consumers and small businesses through branch network, telephone banking,
+  internet banking, and automated teller machines. In addition, it offers trustee,
+  agency, investment management, and administrative services; personal trust, planning
+  and advisory, fiduciary, asset management, family office, and other services; and
+  investment products, including mutual funds and annuities, and other services for
+  corporations and institutions, investment bankers, corporate tax, finance and legal
+  executives, and other institutional clients. M&T Bank Corporation was founded in
+  1856 and is headquartered in Buffalo, New York.'
+longName: M&T Bank Corporation
+market: us_market
+marketCap: 31585697792
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_272285
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2851000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 31703421880
+numberOfAnalystOpinions: 21
+open: 220.19
+operatingCashflow: 4056999936
+operatingMargins: 0.42159998
+overallRisk: 7
+payoutRatio: 0.31350002
+pegRatio: 1.32
+phone: 716 635 4000
+previousClose: 220.61
+priceEpsCurrentYear: 11.314039
+priceHint: 2
+priceToBook: 1.2586665
+priceToSalesTrailing12Months: 3.3374574
+profitMargins: 0.31868
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.77273
+region: US
+regularMarketChange: -0.3999939
+regularMarketChangePercent: -0.18131268
+regularMarketDayHigh: 220.8
+regularMarketDayLow: 219.08
+regularMarketDayRange: 219.08 - 220.8
+regularMarketOpen: 220.19
+regularMarketPreviousClose: 220.61
+regularMarketPrice: 220.21
+regularMarketTime: 1794413625
+regularMarketVolume: 86464
+returnOnAssets: 0.01397
+returnOnEquity: 0.106029995
+revenueGrowth: 0.005
+revenuePerShare: 63.962
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 6
+sharesOutstanding: 143434433
+sharesPercentSharesOut: 0.0344
+sharesShort: 4929491
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5093452
+shortName: M&T Bank Corporation
+shortPercentOfFloat: 0.0399
+shortRatio: 4.87
+sourceInterval: 15
+state: NY
+symbol: MTB
+targetHighPrice: 294.0
+targetLowPrice: 198.0
+targetMeanPrice: 245.92857
+targetMedianPrice: 245.0
+totalCash: 16586000384
+totalCashPerShare: 115.635
+totalDebt: 20960000000
+totalRevenue: 9464000512
+tradeable: false
+trailingAnnualDividendRate: 6.0
+trailingAnnualDividendYield: 0.027197316
+trailingEps: 19.14
+trailingPE: 11.505225
+trailingPegRatio: 1.3189
+triggerable: true
+twoHundredDayAverage: 225.33165
+twoHundredDayAverageChange: -5.121643
+twoHundredDayAverageChangePercent: -0.022729356
+typeDisp: Equity
+volume: 86464
+website: https://www.mtb.com
+zip: '14203'

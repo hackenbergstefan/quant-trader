@@ -1,0 +1,280 @@
+52WeekChange: 0.19107664
+SandP52WeekChange: 0.097798586
+address1: Bøge Allé 6-8
+allTimeHigh: 669.0
+allTimeLow: 9.75
+ask: 248.2
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.0 - Strong Buy
+averageDailyVolume10Day: 163329
+averageDailyVolume3Month: 230088
+averageVolume: 230088
+averageVolume10days: 163329
+beta: 0.74
+bid: 247.8
+bidSize: 0
+boardRisk: 2
+bookValue: 31.287
+city: Horsholm
+companyOfficers:
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Halling
+  title: President, CEO & Member of Management Board
+  totalPay: 17018000
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Claus Steensen Solje
+  title: Executive VP of Global Business Operations, CFO & Member of Management Board
+  totalPay: 8109000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Søren Daniel Niegel
+  title: Member of Management Board
+  totalPay: 12003000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katja Barnkob Thalund
+  title: Senior Project Director, Global Clinical Development & Employee-elected Director
+  totalPay: 400000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nanna Rassov Carlson
+  title: Senior Manager of QA Release & Employee Representative Director
+  totalPay: 400000
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Johan  Smedsrud
+  title: Senior Maintenance Supporter of Process & Production Support & Employee Representative
+    Director
+  totalPay: 400000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lise Lund Maerkedahl
+  title: Project Director of Global Clinical Development & Employee-elected Director
+  totalPay: 400000
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Per  Plotnikof
+  title: VP of Corporate Communications, Investor Relations & Strategic Planning and
+    Head of IR
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lika  Thiesen
+  title: Executive Vice President of Global People & Organisation
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Prof. Hendrik Kees Kam Nolte M.D., Ph.D.
+  title: Senior Vice President of Research &  Development - North America and International
+    Markets
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: Denmark
+cryptoTradeable: false
+currency: DKK
+currentPrice: 247.8
+currentRatio: 3.457
+customPriceAlertConfidence: HIGH
+dayHigh: 248.4
+dayLow: 245.2
+debtToEquity: 6.079
+dividendRate: 1.6
+dividendYield: 0.65
+earningsCallTimestampEnd: 1794925800
+earningsCallTimestampStart: 1794925800
+earningsGrowth: 0.25
+earningsQuarterlyGrowth: 0.289
+earningsTimestamp: 1794931200
+earningsTimestampEnd: 1794931200
+earningsTimestampStart: 1794931200
+ebitda: 2095000064
+ebitdaMargins: 0.30677998
+enterpriseToEbitda: 25.384
+enterpriseToRevenue: 7.787
+enterpriseValue: 53179523072
+epsCurrentYear: 6.744
+epsForward: 7.354
+epsTrailingTwelveMonths: 6.1
+esgPopulated: false
+exDividendDate: 1773705600
+exchange: CPH
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Copenhagen
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 45 45 74 86 90
+fiftyDayAverage: 219.344
+fiftyDayAverageChange: 28.456009
+fiftyDayAverageChangePercent: 0.12973234
+fiftyTwoWeekChangePercent: 19.107664
+fiftyTwoWeekHigh: 271.4
+fiftyTwoWeekHighChange: -23.59999
+fiftyTwoWeekHighChangePercent: -0.08695649
+fiftyTwoWeekLow: 191.8
+fiftyTwoWeekLowChange: 56.0
+fiftyTwoWeekLowChangePercent: 0.2919708
+fiftyTwoWeekRange: 191.8 - 271.4
+financialCurrency: DKK
+firstTradeDateMilliseconds: 952675200000
+fiveYearAvgDividendYield: 0.57
+floatShares: 132126828
+forwardEps: 7.354
+forwardPE: 33.69595
+freeCashflow: 819625024
+fullExchangeName: Copenhagen
+fullTimeEmployees: 2773
+fulldayChange: 2.199997
+fulldayChangePercent: 0.89576423
+fulldayPrice: 247.8
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.6818
+grossProfits: 4656000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.64645
+impliedSharesOutstanding: 221584562
+industry: Biotechnology
+industryDisp: Biotechnology
+industryKey: biotechnology
+irWebsite: http://ir.alk-abello.com/index.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1773705600
+lastDividendValue: 1.6
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1648425600
+lastSplitFactor: '20:1'
+longBusinessSummary: ALK-Abelló A/S, an allergy solutions company, develops treatments
+  for respiratory allergy, anaphylaxis, and food allergy and new disease areas in
+  the European Union, the United Kingdom, Norway, Switzerland, the United States,
+  Canada, Japan, China, and internationally. The company offers allergy immunotherapy
+  products in the form of vaccines, injections, sublingual drops, and tablets for
+  the treatment of various allergies, including grass and tree pollen, house dust
+  mites, ragweed, Japanese cedar, peanuts, and tree nuts; adrenaline nasal sprays
+  for emergency treatment of anaphylaxis and acute flares in chronic spontaneous urticaria;
+  and ALK 014, a biologic for food allergies. It also provides GRAZAX/GRASTEK, a tablet
+  for grass pollen allergy; ACARIZAX, ODACTRA, and MITICURE/SENSIMUNE, which are tablets
+  for house dust mite allergies; ITULAZAX/ITULATEK, a tablet for tree pollen allergy;
+  RAGWITEK/RAGWIZAX, a tablet for ragweed pollen allergy; and CEDARCURE, a tablet
+  for Japanese cedar pollen allergy. In addition, the company offers consumer healthcare
+  solutions, such as klarify.me, a digital patient engagement platform to help people
+  manage their allergies. Further, it provides allergen extracts for use in the diagnosis
+  of specific allergies, such as skin prick and blood test; and emergency medicine
+  treatment, such as adrenaline autoinjectors, an intra-muscular injection of adrenaline
+  for the treatment of acute life-threatening allergic reactions, including anaphylaxis.
+  The company has a collaboration with Torii Pharmaceutical Co., Ltd. for the development
+  of GRAZAX and CEDARCURE; and Dr. Reddy's Laboratories for the development of Sensimune.
+  ALK-Abelló A/S was founded in 1923 and is headquartered in Horsholm, Denmark.
+longName: ALK-Abelló A/S
+market: dk_market
+marketCap: 54908653568
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1856089
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1356000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 54493504995
+numberOfAnalystOpinions: 6
+open: 246.6
+operatingCashflow: 2158000128
+operatingMargins: 0.26871002
+overallRisk: 4
+payoutRatio: 0.26229998
+pegRatio: 9.87
+phone: 45 45 74 75 76
+previousClose: 245.6
+priceEpsCurrentYear: 36.743774
+priceHint: 2
+priceToBook: 7.9202223
+priceToSalesTrailing12Months: 8.040511
+profitMargins: 0.19856001
+quickRatio: 2.087
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.0
+region: US
+regularMarketChange: 2.199997
+regularMarketChangePercent: 0.89576423
+regularMarketDayHigh: 248.4
+regularMarketDayLow: 245.2
+regularMarketDayRange: 245.2 - 248.4
+regularMarketOpen: 246.6
+regularMarketPreviousClose: 245.6
+regularMarketPrice: 247.8
+regularMarketTime: 1794412440
+regularMarketVolume: 59634
+returnOnAssets: 0.12745
+returnOnEquity: 0.21205999
+revenueGrowth: 0.176
+revenuePerShare: 30.733
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 9
+sharesOutstanding: 201327842
+shortName: ALK-Abelló B A/S
+sourceInterval: 15
+symbol: ALK-B.CO
+targetHighPrice: 300.0
+targetLowPrice: 275.0
+targetMeanPrice: 289.16666
+targetMedianPrice: 287.5
+totalCash: 1736000000
+totalCashPerShare: 7.824
+totalDebt: 422000000
+totalRevenue: 6829000192
+tradeable: false
+trailingAnnualDividendRate: 1.6
+trailingAnnualDividendYield: 0.0065146578
+trailingEps: 6.1
+trailingPE: 40.62295
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 227.4435
+twoHundredDayAverageChange: 20.356506
+twoHundredDayAverageChangePercent: 0.08950138
+typeDisp: Equity
+volume: 59634
+website: https://www.alk.net
+zip: '2970'

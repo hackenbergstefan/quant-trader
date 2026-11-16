@@ -1,0 +1,279 @@
+52WeekChange: 0.042060614
+SandP52WeekChange: 0.097798586
+address1: 1 Riverside Plaza
+allTimeHigh: 140.58
+allTimeLow: 13.5
+ask: 134.76
+askSize: 1
+auditRisk: 8
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 4799650
+averageDailyVolume3Month: 3720685
+averageVolume: 3720685
+averageVolume10days: 4799650
+beta: 0.442
+bid: 119.74
+bidSize: 1
+boardRisk: 6
+bookValue: 60.192
+city: Columbus
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William J. Fehrman
+  title: Chairman, President & CEO
+  totalPay: 7226057
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert B. Berntsen
+  title: Executive VP, General Counsel & Secretary
+  totalPay: 2159797
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Douglas A. Cannon
+  title: President of AEP Transmission
+  totalPay: 2607091
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kate  Dixon
+  title: Senior VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1985
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Johannes G. Eckert
+  title: Executive VP and Chief Information & Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andy  Gurgol
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Brathwaite
+  title: VP & Chief Communications Officer
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Phillip R. Ulrich
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Quinton  Lies
+  title: President of Nuclear Development
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffery D. LaFleur
+  title: Senior Vice President of Commercial Operations
+  unexercisedValue: 0
+  yearBorn: 1959
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions:
+- header: Dividend
+  message: AEP announced a cash dividend of $0.97 with an ex-date of Nov. 10, 2026
+  meta:
+    amount: '0.97'
+    dateEpochMs: 1794286800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 128.3
+currentRatio: 0.513
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 128.73
+dayLow: 127.37
+debtToEquity: 161.928
+displayName: American Electric Power
+dividendDate: 1796860800
+dividendRate: 3.88
+dividendYield: 3.03
+earningsCallTimestampEnd: 1793192400
+earningsCallTimestampStart: 1793192400
+earningsGrowth: 0.193
+earningsQuarterlyGrowth: 0.221
+earningsTimestamp: 1793190600
+earningsTimestampEnd: 1793190600
+earningsTimestampStart: 1793190600
+ebitda: 9456000000
+ebitdaMargins: 0.40047002
+enterpriseToEbitda: 13.255
+enterpriseToRevenue: 5.308
+enterpriseValue: 125335248896
+epsCurrentYear: 6.45758
+epsForward: 6.8981
+epsTrailingTwelveMonths: 6.12
+esgPopulated: false
+exDividendDate: 1794268800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 124.1948
+fiftyDayAverageChange: 4.1052017
+fiftyDayAverageChangePercent: 0.033054538
+fiftyTwoWeekChangePercent: 4.2060614
+fiftyTwoWeekHigh: 140.58
+fiftyTwoWeekHighChange: -12.279999
+fiftyTwoWeekHighChangePercent: -0.08735239
+fiftyTwoWeekLow: 112.54
+fiftyTwoWeekLowChange: 15.760002
+fiftyTwoWeekLowChangePercent: 0.14003912
+fiftyTwoWeekRange: 112.54 - 140.58
+financialCurrency: USD
+firstTradeDateMilliseconds: -252322200000
+fiveYearAvgDividendYield: 3.44
+floatShares: 543627862
+forwardEps: 6.8981
+forwardPE: 18.599325
+freeCashflow: -7771250176
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 17581
+fulldayChange: 0.4600067
+fulldayChangePercent: 0.35983005
+fulldayPrice: 128.3
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.46616
+grossProfits: 11006999552
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00034000003
+heldPercentInstitutions: 0.96999
+impliedSharesOutstanding: 544526330
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+irWebsite: https://www.aep.com/investors/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794268800
+lastDividendValue: 0.97
+lastFiscalYearEnd: 1767139200
+lastSplitDate: -226281600
+lastSplitFactor: '2:1'
+longBusinessSummary: American Electric Power Company, Inc., an electric public utility
+  holding company, engages in the generation, transmission, and distribution of electricity
+  for sale to retail and wholesale customers in the United States. It operates through
+  Vertically Integrated Utilities, Transmission and Distribution Utilities, AEP Transmission
+  Holdco, and Generation & Marketing segments. The company generates electricity using
+  coal and lignite, nuclear, natural gas, renewable, hydro, solar, wind, and other
+  energy sources; owns, operates, maintains, and invests in transmission infrastructure;
+  and engages in the retail supply, and wholesale energy trading and marketing businesses.
+  It operates approximately 252,000 circuit miles of distribution lines; 38,000 circuit
+  miles of transmission lines; and 25,000 MWs of regulated owned generating capacity.
+  American Electric Power Company, Inc. was incorporated in 1906 and is headquartered
+  in Columbus, Ohio.
+longName: American Electric Power Company, Inc.
+market: us_market
+marketCap: 69862727680
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_135470
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3356000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 69612246027
+numberOfAnalystOpinions: 22
+open: 127.98
+operatingCashflow: 7580000256
+operatingMargins: 0.24334998
+overallRisk: 7
+payoutRatio: 0.6209
+pegRatio: 2.78
+phone: 614 716 1000
+previousClose: 127.84
+priceEpsCurrentYear: 19.868124
+priceHint: 2
+priceToBook: 2.1315124
+priceToSalesTrailing12Months: 2.9587805
+profitMargins: 0.14213
+quickRatio: 0.295
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.82609
+region: US
+regularMarketChange: 0.4600067
+regularMarketChangePercent: 0.35983005
+regularMarketDayHigh: 128.73
+regularMarketDayLow: 127.37
+regularMarketDayRange: 127.37 - 128.73
+regularMarketOpen: 127.98
+regularMarketPreviousClose: 127.84
+regularMarketPrice: 128.3
+regularMarketTime: 1794413718
+regularMarketVolume: 593434
+returnOnAssets: 0.030439999
+returnOnEquity: 0.10601
+revenueGrowth: 0.137
+revenuePerShare: 43.599
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 6
+sharesOutstanding: 544526330
+sharesPercentSharesOut: 0.050300002
+sharesShort: 27366896
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 29468689
+shortName: American Electric Power Company
+shortPercentOfFloat: 0.050300002
+shortRatio: 7.68
+sourceInterval: 15
+state: OH
+symbol: AEP
+targetHighPrice: 153.0
+targetLowPrice: 126.0
+targetMeanPrice: 141.56818
+targetMedianPrice: 141.25
+totalCash: 670000000
+totalCashPerShare: 1.23
+totalDebt: 55125000192
+totalRevenue: 23612000256
+tradeable: false
+trailingAnnualDividendRate: 3.8
+trailingAnnualDividendYield: 0.029724656
+trailingEps: 6.12
+trailingPE: 20.964054
+trailingPegRatio: 2.7799
+triggerable: true
+twoHundredDayAverage: 128.4613
+twoHundredDayAverageChange: -0.16130066
+twoHundredDayAverageChangePercent: -0.0012556362
+typeDisp: Equity
+volume: 593434
+website: https://www.aep.com
+zip: 43215-2373

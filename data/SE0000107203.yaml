@@ -1,0 +1,240 @@
+52WeekChange: 0.33088052
+SandP52WeekChange: 0.097798586
+address1: Storgatan 10
+allTimeHigh: 566.8
+allTimeLow: 34.0
+ask: 545.6
+askSize: 0
+averageAnalystRating: 4.0 - Underperform
+averageDailyVolume10Day: 275234
+averageDailyVolume3Month: 327797
+averageVolume: 327797
+averageVolume10days: 275234
+beta: 0.906
+bid: 545.4
+bidSize: 0
+bookValue: 515.502
+city: Stockholm
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Helena  Stjernholm
+  title: President, CEO & Director
+  totalPay: 24300000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Karl  Åberg
+  title: Deputy CEO and Head of Investments & Finance Function
+  totalPay: 9200000
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Jennie  Knutsson
+  title: General Counsel
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Sverker  Sivall
+  title: Head of Corporate Communications & Sustainability
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Sofie  Forsberg
+  title: Human Resource Manager
+  unexercisedValue: 0
+- age: 80
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Carl-Olof  By
+  title: Executive VP & Senior Advisor
+  unexercisedValue: 0
+  yearBorn: 1945
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Madeleine  Wallmark
+  title: Investment Manager
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Peter  Nyström CFA
+  title: Investment Manager
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Peter  Sigfrid
+  title: Investment Manager
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 38
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Beniam  Poutiainen
+  title: Investment Analyst
+  unexercisedValue: 0
+  yearBorn: 1987
+compensationAsOfEpochDate: 1735603200
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 545.6
+currentRatio: 1.304
+customPriceAlertConfidence: HIGH
+dayHigh: 548.6
+dayLow: 543.2
+debtToEquity: 2.821
+dividendRate: 8.75
+dividendYield: 1.61
+earningsTimestamp: 1791387000
+earningsTimestampEnd: 1791387000
+earningsTimestampStart: 1791387000
+ebitda: 54127001600
+ebitdaMargins: 0.99777
+enterpriseToEbitda: 4.401
+enterpriseToRevenue: 4.392
+enterpriseValue: 238237450240
+epsTrailingTwelveMonths: 124.61
+esgPopulated: false
+exDividendDate: 1776124800
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 523.756
+fiftyDayAverageChange: 21.843994
+fiftyDayAverageChangePercent: 0.041706435
+fiftyTwoWeekChangePercent: 33.08805
+fiftyTwoWeekHigh: 566.8
+fiftyTwoWeekHighChange: -21.200012
+fiftyTwoWeekHighChangePercent: -0.037402987
+fiftyTwoWeekLow: 383.0
+fiftyTwoWeekLowChange: 162.59998
+fiftyTwoWeekLowChangePercent: 0.42454302
+fiftyTwoWeekRange: 383.0 - 566.8
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 2.19
+floatShares: 301754950
+freeCashflow: 33769875456
+fullExchangeName: Stockholm
+fullTimeEmployees: 15
+fulldayChange: 3.0
+fulldayChangePercent: 0.5528935
+fulldayPrice: 545.6
+gmtOffSetMilliseconds: 3600000
+grossMargins: 1.0
+grossProfits: 54248001536
+hasPrePostMarketData: false
+heldPercentInsiders: 0.2718
+heldPercentInstitutions: 0.33516997
+impliedSharesOutstanding: 431899108
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776124800
+lastDividendValue: 8.75
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1177459200
+lastSplitFactor: '2:1'
+longBusinessSummary: AB Industrivärden is a publicly owned investment manager. The
+  firm invests in the public equity markets of Nordic region. It employs fundamental
+  analysis, with a focus on factors like long term return potential, proven business
+  model, balance between risk and return, and attractive valuation to create its portfolio.
+  AB Industrivärden was founded in 1944 and is based in Stockholm, Sweden.
+longName: AB Industrivärden (publ)
+market: se_market
+marketCap: 235644141568
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_142742
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 53819998208
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 235275227481
+numberOfAnalystOpinions: 2
+open: 545.2
+operatingCashflow: 9189999616
+operatingMargins: 0.99766
+payoutRatio: 0.070199996
+pegRatio: 5.47
+phone: 46 86 66 64 00
+previousClose: 542.6
+priceHint: 2
+priceToBook: 1.0583857
+priceToSalesTrailing12Months: 4.343831
+profitMargins: 0.99211
+quickRatio: 1.229
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: underperform
+recommendationMean: 4.0
+region: US
+regularMarketChange: 3.0
+regularMarketChangePercent: 0.5528935
+regularMarketDayHigh: 548.6
+regularMarketDayLow: 543.2
+regularMarketDayRange: 543.2 - 548.6
+regularMarketOpen: 545.2
+regularMarketPreviousClose: 542.6
+regularMarketPrice: 545.6
+regularMarketTime: 1794412286
+regularMarketVolume: 158883
+returnOnAssets: 0.16498
+returnOnEquity: 0.27234
+revenuePerShare: 125.609
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+sharesOutstanding: 221269226
+shortName: Industrivärden, AB ser. C
+sourceInterval: 15
+symbol: INDU-C.ST
+targetHighPrice: 520.0
+targetLowPrice: 506.0
+targetMeanPrice: 513.0
+targetMedianPrice: 513.0
+totalCash: 2391000064
+totalCashPerShare: 5.536
+totalDebt: 6280000000
+totalRevenue: 54248001536
+tradeable: false
+trailingAnnualDividendRate: 8.75
+trailingAnnualDividendYield: 0.01612606
+trailingEps: 124.61
+trailingPE: 4.3784604
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 506.7575
+twoHundredDayAverageChange: 38.84247
+twoHundredDayAverageChangePercent: 0.076649025
+typeDisp: Equity
+volume: 158883
+website: https://www.industrivarden.se/en-GB
+zip: 114 51

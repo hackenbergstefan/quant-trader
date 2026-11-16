@@ -1,0 +1,254 @@
+52WeekChange: 0.09912729
+SandP52WeekChange: 0.097798586
+address1: Viale Regina Margherita, 137
+allTimeHigh: 10.31
+allTimeLow: 2.02
+ask: 9.79
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 16122545
+averageDailyVolume3Month: 17987582
+averageVolume: 17987582
+averageVolume10days: 16122545
+beta: 0.836
+bid: 9.791
+bidSize: 0
+boardRisk: 2
+bookValue: 2.488
+city: Rome
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Flavio  Cattaneo
+  title: CEO, GM & Executive Director
+  totalPay: 5991452
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stéfano  De Angelis
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Omar  Al Bayaty
+  title: Head of Group IR
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Francesco  Puntillo
+  title: Head of Legal, Corporate, Regulatory & Antitrust Affairs
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Roberto Antonio Enzo Deambrogio
+  title: Head of Communications of the Group
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elisabetta  Colacchia
+  title: Head of People & Organization
+  unexercisedValue: 0
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Claudio  Machetti
+  title: Head of Global Energy & Commodity Management and Chief Pricing Officer
+  unexercisedValue: 0
+  yearBorn: 1958
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Silvia  Fiori
+  title: Head of Audit Function
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jose Damian Bogas Galvez
+  title: Head of Country Iberia
+  unexercisedValue: 0
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Enrico  Viale
+  title: Head of North America
+  unexercisedValue: 0
+  yearBorn: 1957
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 9.789
+currentRatio: 0.721
+customPriceAlertConfidence: LOW
+dayHigh: 9.875
+dayLow: 9.747
+debtToEquity: 147.743
+dividendRate: 0.52
+dividendYield: 5.29
+earningsCallTimestampEnd: 1794502800
+earningsCallTimestampStart: 1794502800
+earningsGrowth: 0.318
+earningsQuarterlyGrowth: 0.324
+earningsTimestamp: 1794501000
+earningsTimestampEnd: 1794501000
+earningsTimestampStart: 1794501000
+ebitda: 20621000704
+ebitdaMargins: 0.25939
+enterpriseToEbitda: 8.773
+enterpriseToRevenue: 2.276
+enterpriseValue: 180908146688
+epsCurrentYear: 0.72577
+epsForward: 0.76144
+epsTrailingTwelveMonths: 0.42
+esgPopulated: false
+exDividendDate: 1784505600
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 39 06 83 05 50 28
+fiftyDayAverage: 9.06454
+fiftyDayAverageChange: 0.72445965
+fiftyDayAverageChangePercent: 0.079922386
+fiftyTwoWeekChangePercent: 9.912729
+fiftyTwoWeekHigh: 10.31
+fiftyTwoWeekHighChange: -0.52100086
+fiftyTwoWeekHighChangePercent: -0.050533544
+fiftyTwoWeekLow: 8.584
+fiftyTwoWeekLowChange: 1.2049999
+fiftyTwoWeekLowChangePercent: 0.14037745
+fiftyTwoWeekRange: 8.584 - 10.31
+financialCurrency: EUR
+firstTradeDateMilliseconds: 941529600000
+fiveYearAvgDividendYield: 6.08
+floatShares: 7525406225
+forwardEps: 0.76144
+forwardPE: 12.855905
+freeCashflow: -685750016
+fullExchangeName: Milan
+fullTimeEmployees: 61900
+fulldayChange: -0.0350008
+fulldayChangePercent: -0.3562785
+fulldayPrice: 9.789
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.38202998
+grossProfits: 30370000896
+hasPrePostMarketData: false
+heldPercentInsiders: 0.24144
+heldPercentInstitutions: 0.36568
+impliedSharesOutstanding: 9937548896
+industry: Utilities - Diversified
+industryDisp: Utilities - Diversified
+industryKey: utilities-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1784505600
+lastDividendValue: 0.26
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 994636800
+lastSplitFactor: '1:2'
+longBusinessSummary: Enel SpA operates as an integrated operator in the electricity
+  and gas industries worldwide. The company operates through the Thermal Generation
+  and Trading, Enel Green Power, Enel Grids, and End-User Markets segments. It operates
+  renewable, nuclear, wind, hydroelectric, thermal, solar, and geothermal power plants.
+  The company also generates, distributes, transmits, and sells electricity. In addition,
+  it provides solutions and technologies for the electrification of cities, such as
+  smart cities and street lighting; for businesses, including energy efficiency and
+  demand response; and for individuals, including energy efficiency solutions for
+  houses and apartment buildings. Further, the company engages in the sale of energy
+  commodities. The company was founded in 1962 and is headquartered in Rome, Italy.
+longName: Enel SpA
+market: it_market
+marketCap: 97278664704
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_93486
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 4256000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 97626480354
+numberOfAnalystOpinions: 22
+open: 9.873
+operatingCashflow: 13331999744
+operatingMargins: 0.18154
+overallRisk: 1
+payoutRatio: 1.1548
+pegRatio: 0.81
+phone: 39 06 83 05 40 00
+previousClose: 9.824
+priceEpsCurrentYear: 13.487743
+priceHint: 2
+priceToBook: 3.9344854
+priceToSalesTrailing12Months: 1.2236772
+profitMargins: 0.05711
+quickRatio: 0.374
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.34783
+region: US
+regularMarketChange: -0.0350008
+regularMarketChangePercent: -0.3562785
+regularMarketDayHigh: 9.875
+regularMarketDayLow: 9.747
+regularMarketDayRange: 9.747 - 9.875
+regularMarketOpen: 9.873
+regularMarketPreviousClose: 9.824
+regularMarketPrice: 9.789
+regularMarketTime: 1794411567
+regularMarketVolume: 4945542
+returnOnAssets: 0.04894
+returnOnEquity: 0.122559994
+revenueGrowth: 0.085
+revenuePerShare: 7.932
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 1
+sharesOutstanding: 9937548896
+shortName: ENEL
+sourceInterval: 20
+state: RM
+symbol: ENEL.MI
+targetHighPrice: 12.0
+targetLowPrice: 8.8
+targetMeanPrice: 10.22727
+targetMedianPrice: 10.25
+totalCash: 4742000128
+totalCashPerShare: 0.478
+totalDebt: 73377996800
+totalRevenue: 79497003008
+tradeable: false
+trailingAnnualDividendRate: 0.26
+trailingAnnualDividendYield: 0.026465796
+trailingEps: 0.42
+trailingPE: 23.307142
+trailingPegRatio: 0.8052
+triggerable: false
+twoHundredDayAverage: 9.54893
+twoHundredDayAverageChange: 0.24006939
+twoHundredDayAverageChangePercent: 0.025140973
+typeDisp: Equity
+volume: 4945542
+website: https://www.enel.com
+zip: 00198

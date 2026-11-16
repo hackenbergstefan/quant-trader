@@ -1,0 +1,288 @@
+52WeekChange: 0.37764156
+SandP52WeekChange: 0.097798586
+address1: 1400 Smith Street
+allTimeHigh: 236.48
+allTimeLow: 2.375
+ask: 212.35
+askSize: 100
+auditRisk: 10
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 8910580
+averageDailyVolume3Month: 8480521
+averageVolume: 8480521
+averageVolume10days: 8910580
+beta: 0.453
+bid: 212.3
+bidSize: 200
+boardRisk: 4
+bookValue: 99.591
+city: Houston
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael K. Wirth
+  title: Chairman & CEO
+  totalPay: 7846953
+  unexercisedValue: 69928984
+  yearBorn: 1961
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Eimear P. Bonner
+  title: Chief Financial Officer
+  totalPay: 2753975
+  unexercisedValue: 2769632
+  yearBorn: 1974
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. R. Hewitt Pate J.D.
+  title: Chief Legal Officer
+  totalPay: 4127550
+  unexercisedValue: 10125178
+  yearBorn: 1963
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark A. Nelson
+  title: Vice Chairman & Executive VP of Oil, Products and Gas
+  totalPay: 3476435
+  unexercisedValue: 13199126
+  yearBorn: 1963
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert Clay Neff
+  title: President of Upstream
+  totalPay: 5451007
+  unexercisedValue: 4095339
+  yearBorn: 1962
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Amit Rajindrasingh Ghai
+  title: Controller & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. T. Ryder Booth
+  title: Chief Technology & Engineering Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jeanine  Wai
+  title: Director of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jake Robert Spiering
+  title: President of Corporate Business Development
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Michelle R. Green
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: CVX announced a cash dividend of $1.78 with an ex-date of Nov. 18, 2026
+  meta:
+    amount: '1.78'
+    dateEpochMs: 1794978000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 212.17
+currentRatio: 1.342
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 213.18
+dayLow: 210.88
+debtToEquity: 16.769
+displayName: Chevron
+dividendDate: 1796860800
+dividendRate: 7.12
+dividendYield: 3.37
+earningsCallTimestampEnd: 1793372400
+earningsCallTimestampStart: 1793372400
+earningsGrowth: 1.78
+earningsQuarterlyGrowth: 1.804
+earningsTimestamp: 1793363400
+earningsTimestampEnd: 1801229400
+earningsTimestampStart: 1801229400
+ebitda: 58090999808
+ebitdaMargins: 0.25675
+enterpriseToEbitda: 7.549
+enterpriseToRevenue: 1.938
+enterpriseValue: 438523789312
+epsCurrentYear: 18.26888
+epsForward: 16.49543
+epsTrailingTwelveMonths: 13.62
+esgPopulated: false
+exDividendDate: 1794960000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 215.174
+fiftyDayAverageChange: -3.0039978
+fiftyDayAverageChangePercent: -0.013960784
+fiftyTwoWeekChangePercent: 37.764156
+fiftyTwoWeekHigh: 236.48
+fiftyTwoWeekHighChange: -24.309998
+fiftyTwoWeekHighChangePercent: -0.102799386
+fiftyTwoWeekLow: 146.49
+fiftyTwoWeekLowChange: 65.67999
+fiftyTwoWeekLowChangePercent: 0.44835818
+fiftyTwoWeekRange: 146.49 - 236.48
+financialCurrency: USD
+firstTradeDateMilliseconds: -252322200000
+fiveYearAvgDividendYield: 3.84
+floatShares: 1858120348
+forwardEps: 16.49543
+forwardPE: 12.86235
+freeCashflow: 26048374784
+fullExchangeName: NYSE
+fullTimeEmployees: 43039
+fulldayChange: 0.94999695
+fulldayChangePercent: 0.44976658
+fulldayPrice: 212.17
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.44384998
+grossProfits: 100424998912
+hasPrePostMarketData: true
+heldPercentInsiders: 0.04817
+heldPercentInstitutions: 0.72146004
+impliedSharesOutstanding: 1951253686
+industry: Oil & Gas Integrated
+industryDisp: Oil & Gas Integrated
+industryKey: oil-gas-integrated
+irWebsite: http://investor.chevron.com/phoenix.zhtml?c=130102&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1787097600
+lastDividendValue: 1.78
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1095033600
+lastSplitFactor: '2:1'
+longBusinessSummary: Chevron Corporation, through its subsidiaries, engages in the
+  integrated energy and chemicals operations. It operates through Upstream and Downstream
+  segments. The Upstream segment engages in the exploration for, development, production,
+  and transportation of crude oil and natural gas; processing, liquefaction, transportation,
+  and regasification of liquefied natural gas; transportation of crude oil through
+  pipelines; transportation, storage, and marketing of natural gas; carbon capture
+  and storage; and operation of a gas-to-liquids plant. The Downstream segment refines
+  crude oil into petroleum products; markets crude oil, refined products, and lubricants;
+  manufactures and markets renewable fuels; transports crude oil and refined products
+  through pipeline, marine vessel, motor equipment, and rail car; and manufactures
+  and markets commodity petrochemicals, plastics for industrial uses, and fuel and
+  lubricant additives. The company operates in North America, South America, Europe,
+  Africa, Asia, and Australia. The company was formerly known as ChevronTexaco Corporation
+  and changed its name to Chevron Corporation in May 2005. Chevron Corporation was
+  founded in 1879 and is headquartered in Houston, Texas.
+longName: Chevron Corporation
+market: us_market
+marketCap: 413997465600
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_98506
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 26976000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 412143803556
+numberOfAnalystOpinions: 24
+open: 212.315
+operatingCashflow: 51949998080
+operatingMargins: 0.15105
+overallRisk: 1
+payoutRatio: 0.5176
+pegRatio: 0.79
+phone: 832-854-1000
+previousClose: 211.22
+priceEpsCurrentYear: 11.613738
+priceHint: 2
+priceToBook: 2.1304133
+priceToSalesTrailing12Months: 1.8297665
+profitMargins: 0.11923
+quickRatio: 0.93
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.61538
+region: US
+regularMarketChange: 0.94999695
+regularMarketChangePercent: 0.44976658
+regularMarketDayHigh: 213.18
+regularMarketDayLow: 210.88
+regularMarketDayRange: 210.88 - 213.18
+regularMarketOpen: 212.315
+regularMarketPreviousClose: 211.22
+regularMarketPrice: 212.17
+regularMarketTime: 1794413728
+regularMarketVolume: 1253692
+returnOnAssets: 0.0647
+returnOnEquity: 0.13853
+revenueGrowth: 0.348
+revenuePerShare: 114.595
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 2
+sharesOutstanding: 1951253686
+sharesPercentSharesOut: 0.0134000005
+sharesShort: 26190072
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 23657838
+shortName: Chevron Corporation
+shortPercentOfFloat: 0.0135
+shortRatio: 3.57
+sourceInterval: 15
+state: TX
+symbol: CVX
+targetHighPrice: 272.0
+targetLowPrice: 202.0
+targetMeanPrice: 243.45833
+targetMedianPrice: 243.5
+totalCash: 12803999744
+totalCashPerShare: 6.562
+totalDebt: 33533999104
+totalRevenue: 226256994304
+tradeable: false
+trailingAnnualDividendRate: 7.05
+trailingAnnualDividendYield: 0.03337752
+trailingEps: 13.62
+trailingPE: 15.5778265
+trailingPegRatio: 0.7941
+triggerable: true
+twoHundredDayAverage: 195.09875
+twoHundredDayAverageChange: 17.071243
+twoHundredDayAverageChangePercent: 0.08750053
+typeDisp: Equity
+volume: 1253692
+website: https://www.chevron.com
+zip: 77002-7327

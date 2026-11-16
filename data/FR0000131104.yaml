@@ -1,0 +1,259 @@
+52WeekChange: 0.38057435
+SandP52WeekChange: 0.097798586
+address1: 16 boulevard des Italiens
+allTimeHigh: 113.82
+allTimeLow: 12.914961
+ask: 0.0
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 2626880
+averageDailyVolume3Month: 2263089
+averageVolume: 2263089
+averageVolume10days: 2626880
+beta: 1.077
+bid: 0.0
+bidSize: 0
+boardRisk: 4
+bookValue: 110.731
+city: Paris
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Laurent  Bonnafe
+  title: MD, CEO & Director
+  totalPay: 4739778
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Yann  Gerardin
+  title: Deputy MD, COO & Executive Chairman of Corporate & Institutional Banking
+    (CIB)
+  totalPay: 3637360
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thierry  Laborde
+  title: COO, Deputy CEO, Head of Commercial, Personal Banking & Services
+  totalPay: 2205916
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hugues  Epaillard
+  title: Business Manager of Real Estate & Employee Representative Director
+  totalPay: 137307
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Juliette  Brisac
+  title: Senior Advisor to Head of Corporate Engagement & Emplo. Shareholders Repre.
+    Director
+  totalPay: 114586
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lars  Machenil Ph.D.
+  title: Group Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Renaud Fabrice Dumora
+  title: Deputy COO and Head of Investment & Protection Services
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc  Camus
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stephanie  Maarek
+  title: Chief Compliance Officer
+  unexercisedValue: 0
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elise  Hermant
+  title: Head of Group Communications
+  unexercisedValue: 0
+  yearBorn: 1982
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 95.57
+customPriceAlertConfidence: LOW
+dayHigh: 96.7
+dayLow: 95.13
+dividendRate: 6.46
+dividendYield: 6.75
+earningsCallTimestampEnd: 1793192400
+earningsCallTimestampStart: 1793192400
+earningsGrowth: 0.082
+earningsQuarterlyGrowth: 0.135
+earningsTimestamp: 1793205000
+earningsTimestampEnd: 1793205000
+earningsTimestampStart: 1793205000
+ebitdaMargins: 0.0
+epsCurrentYear: 11.36641
+epsForward: 13.00437
+epsTrailingTwelveMonths: 11.43
+esgPopulated: false
+exDividendDate: 1790208000
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 94.4348
+fiftyDayAverageChange: 1.1352005
+fiftyDayAverageChangePercent: 0.012020998
+fiftyTwoWeekChangePercent: 38.057434
+fiftyTwoWeekHigh: 113.82
+fiftyTwoWeekHighChange: -18.25
+fiftyTwoWeekHighChangePercent: -0.16034089
+fiftyTwoWeekLow: 65.87
+fiftyTwoWeekLowChange: 29.699997
+fiftyTwoWeekLowChangePercent: 0.45088804
+fiftyTwoWeekRange: 65.87 - 113.82
+financialCurrency: EUR
+firstTradeDateMilliseconds: 750931200000
+fiveYearAvgDividendYield: 6.61
+floatShares: 1043390474
+forwardEps: 13.00437
+forwardPE: 7.349068
+fullExchangeName: Paris
+fullTimeEmployees: 180000
+fulldayChange: -0.09000397
+fulldayChangePercent: -0.094087355
+fulldayPrice: 95.57
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 52680998912
+hasPrePostMarketData: false
+heldPercentInsiders: 0.11287
+heldPercentInstitutions: 0.47993
+impliedSharesOutstanding: 1096000000
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790208000
+lastDividendValue: 3.23
+lastSplitDate: 1014163200
+lastSplitFactor: '2:1'
+longBusinessSummary: 'BNP Paribas SA provides various banking and financial products
+  and services in Europe, the Middle East, Africa, the Americas, and the Asia Pacific.
+  It operates through three divisions: Corporate & Institutional Banking; Commercial,
+  Personal Banking & Services; and Investment & Protection Services. The Corporate
+  & Institutional Banking division offers capital market, securities, financing, risk
+  management, securities clearing, custody, consulting, transaction banking, cash
+  management, investment banking, and financial advisory services for corporate and
+  institutional clients. Its Commercial, Personal Banking & Services division provides
+  financing and equipment leasing services, lending, investment, financial and non-financial
+  services, mobility, and digital banking services, as well as current accounts, savings
+  products, bancassurance, insurance products and services, and consumer loans. The
+  Investment & Protection Services division provides protection, savings, investment,
+  and real estate services to support individuals, professionals, corporate clients,
+  and institutions, as well as asset management, insurance, protection, pensions,
+  and private banking services. The company was formerly known as Banque Nationale
+  de Paris and changed its name to BNP Paribas SA in May 2000. BNP Paribas SA was
+  founded in 1822 and is headquartered in Paris, France.'
+longName: BNP Paribas SA
+market: fr_market
+marketCap: 104744722432
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_873976
+netIncomeToCommon: 13285000192
+nonDilutedMarketCap: 103002080000
+numberOfAnalystOpinions: 19
+open: 95.89
+operatingMargins: 0.3729
+overallRisk: 2
+payoutRatio: 0.5073
+pegRatio: 0.83
+phone: 33 1 40 14 45 46
+previousClose: 95.66
+priceEpsCurrentYear: 8.408108
+priceHint: 2
+priceToBook: 0.8630826
+priceToSalesTrailing12Months: 1.9882828
+profitMargins: 0.26556
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.68421
+region: US
+regularMarketChange: -0.09000397
+regularMarketChangePercent: -0.094087355
+regularMarketDayHigh: 96.7
+regularMarketDayLow: 95.13
+regularMarketDayRange: 95.13 - 96.7
+regularMarketOpen: 95.89
+regularMarketPreviousClose: 95.66
+regularMarketPrice: 95.57
+regularMarketTime: 1794411552
+regularMarketVolume: 773654
+returnOnAssets: 0.00489
+returnOnEquity: 0.109139994
+revenueGrowth: 0.097
+revenuePerShare: 45.382
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 1096000000
+shortName: BNP PARIBAS ACT.A
+sourceInterval: 15
+symbol: BNP.PA
+targetHighPrice: 142.0
+targetLowPrice: 96.5
+targetMeanPrice: 120.17
+targetMedianPrice: 120.0
+totalCash: 1264931962880
+totalCashPerShare: 1074.584
+totalDebt: 730617020416
+totalRevenue: 52680998912
+tradeable: false
+trailingAnnualDividendRate: 5.8
+trailingAnnualDividendYield: 0.0606314
+trailingEps: 11.43
+trailingPE: 8.36133
+trailingPegRatio: 0.8348
+triggerable: false
+twoHundredDayAverage: 95.37375
+twoHundredDayAverageChange: 0.19625092
+twoHundredDayAverageChangePercent: 0.0020577037
+typeDisp: Equity
+volume: 773654
+website: https://group.bnpparibas
+zip: '75009'

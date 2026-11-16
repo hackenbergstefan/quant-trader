@@ -1,0 +1,256 @@
+52WeekChange: 0.2646855
+SandP52WeekChange: 0.097798586
+address1: Alfredstrasse 236
+allTimeHigh: 554.0
+allTimeLow: 10.5
+ask: 369.0
+askSize: 69
+auditRisk: 2
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 77427
+averageDailyVolume3Month: 66015
+averageVolume: 66015
+averageVolume10days: 77427
+beta: 0.835
+bid: 368.4
+bidSize: 395
+boardRisk: 7
+bookValue: 20.716
+city: Essen
+companyOfficers:
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juan Santamaria Cases
+  title: Chairman of the Executive Board
+  totalPay: 2657000
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christa  Andresky
+  title: CFO & Member of Executive Board
+  totalPay: 574000
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Martina  Steffen
+  title: Labor Director, Chief Sustainability & Human Resources Officer and Member
+    of Executive Board
+  totalPay: 1262000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Angel Muriel Bernal Ph.D.
+  title: COO & Member of Executive Board
+  totalPay: 1081000
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nadine  Wärmer
+  title: Investor Relations Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Georg  von Bronk
+  title: Chief Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Bernd  Pütter
+  title: Senior Vice President of Corporate Communications
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Pinkney C.F.A.
+  title: Head of Corporate Strategy
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tobias  Loskamp
+  title: Head of Capital Markets Strategy
+  unexercisedValue: 0
+- age: 70
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter J. Davoren
+  title: CEO & President of Turner Construction Company
+  unexercisedValue: 0
+  yearBorn: 1955
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 368.6
+currentRatio: 1.083
+customPriceAlertConfidence: LOW
+dayHigh: 377.0
+dayLow: 365.2
+debtToEquity: 556.888
+dividendRate: 6.6
+dividendYield: 1.83
+earningsCallTimestampEnd: 1793890800
+earningsCallTimestampStart: 1793890800
+earningsGrowth: 0.489
+earningsQuarterlyGrowth: 0.489
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 1747611008
+ebitdaMargins: 0.04143
+enterpriseToEbitda: 16.849
+enterpriseToRevenue: 0.698
+enterpriseValue: 29445097472
+epsCurrentYear: 14.53838
+epsForward: 18.55403
+epsTrailingTwelveMonths: 13.13
+esgPopulated: false
+exDividendDate: 1777507200
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 201 824 2777
+fiftyDayAverage: 389.78
+fiftyDayAverageChange: -21.179993
+fiftyDayAverageChangePercent: -0.054338325
+fiftyTwoWeekChangePercent: 26.468552
+fiftyTwoWeekHigh: 554.0
+fiftyTwoWeekHighChange: -185.4
+fiftyTwoWeekHighChangePercent: -0.33465704
+fiftyTwoWeekLow: 268.0
+fiftyTwoWeekLowChange: 100.600006
+fiftyTwoWeekLowChangePercent: 0.37537315
+fiftyTwoWeekRange: 268.0 - 554.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 901090800000
+fiveYearAvgDividendYield: 2.8
+floatShares: 18284778
+forwardEps: 18.55403
+forwardPE: 19.866304
+freeCashflow: 1979884544
+fullExchangeName: XETRA
+fullTimeEmployees: 64415
+fulldayChange: 2.600006
+fulldayChangePercent: 0.7103842
+fulldayPrice: 368.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.24159001
+grossProfits: 10189887488
+hasPrePostMarketData: false
+heldPercentInsiders: 0.75714
+heldPercentInstitutions: 0.090909995
+impliedSharesOutstanding: 75245947
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777507200
+lastDividendValue: 6.6
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: HOCHTIEF Aktiengesellschaft engages in the construction business
+  worldwide. It operates under Turner, CIMIC, Engineering and construction, and Abertis
+  segment. The company provides solutions for large-scale building, civil engineering
+  and industrial projects, including engineering, project management, supply chain,
+  and procurement services to the execution of civil works and industrial and infrastructure
+  maintenance services, as well as construction management services. It also engages
+  in the engineering and construction businesses for public and private clients; infrastructure
+  investment activities; and industrial, energy, natural resources, and civil infrastructure
+  business. HOCHTIEF Aktiengesellschaft was founded in 1873 and is headquartered in
+  Essen, Germany. HOCHTIEF Aktiengesellschaft is a subsidiary of ACS, Actividades
+  de Construcción y Servicios, S.A.
+longName: HOCHTIEF Aktiengesellschaft
+market: de_market
+marketCap: 27735654400
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_875295
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 974352000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 27163786867
+numberOfAnalystOpinions: 8
+open: 374.8
+operatingCashflow: 2569923072
+operatingMargins: 0.03141
+overallRisk: 7
+payoutRatio: 0.5097
+pegRatio: 2.8
+phone: 49 201 824 0
+previousClose: 366.0
+priceEpsCurrentYear: 25.353582
+priceHint: 2
+priceToBook: 17.79301
+priceToSalesTrailing12Months: 0.65758216
+profitMargins: 0.0231
+quickRatio: 1.048
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.625
+region: US
+regularMarketChange: 2.600006
+regularMarketChangePercent: 0.7103842
+regularMarketDayHigh: 377.0
+regularMarketDayLow: 365.2
+regularMarketDayRange: 365.2 - 377.0
+regularMarketOpen: 374.8
+regularMarketPreviousClose: 366.0
+regularMarketPrice: 368.6
+regularMarketTime: 1794411502
+regularMarketVolume: 30090
+returnOnAssets: 0.032479998
+returnOnEquity: 0.79535
+revenueGrowth: 0.223
+revenuePerShare: 560.558
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 6
+sharesOutstanding: 75245947
+shortName: HOCHTIEF AG                   I
+sourceInterval: 15
+symbol: HOT.DE
+targetHighPrice: 562.0
+targetLowPrice: 372.0
+targetMeanPrice: 472.575
+targetMedianPrice: 496.5
+totalCash: 7200357888
+totalCashPerShare: 95.691
+totalDebt: 9040794624
+totalRevenue: 42178232320
+tradeable: false
+trailingAnnualDividendRate: 6.6
+trailingAnnualDividendYield: 0.018032787
+trailingEps: 13.13
+trailingPE: 28.073114
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 431.8945
+twoHundredDayAverageChange: -63.294495
+twoHundredDayAverageChangePercent: -0.14655082
+typeDisp: Equity
+volume: 30090
+website: https://www.hochtief.com
+zip: '45133'

@@ -1,0 +1,267 @@
+52WeekChange: 0.27286136
+SandP52WeekChange: 0.097798586
+address1: 14-16 boulevard Garibaldi
+allTimeHigh: 62.4
+allTimeLow: 13.0
+ask: 0.0
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 637927
+averageDailyVolume3Month: 510644
+averageVolume: 510644
+averageVolume10days: 637927
+beta: 0.654
+bid: 0.0
+bidSize: 0
+boardRisk: 4
+bookValue: -4.259
+city: Issy-les-Moulineaux
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bertrand  Dumazy C.A.
+  title: Chairman & CEO
+  totalPay: 2761596
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Cedric  Appert
+  title: Financial Communication & Investor Relations Director and Employee-Representative
+    Director
+  totalPay: 54350
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Virginie J. H. Duperat-Vergne
+  title: Executive Vice President of Finance
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philippe  Doublet
+  title: Executive Vice President of Technology
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philippe  Relland-Bernard
+  title: Executive VP of Legal & Regulatory Affairs and Secretary
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Emmanuelle  Chatelain
+  title: Vice President of Communications
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jacques  Adoue
+  title: Executive Vice President of Human Resources & Corporate Social Responsibility
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Diane  Coliche
+  title: Chief Operating Officer of Mobility
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Constance  Le Bouar
+  title: Executive Vice President of Strategy & Transformation
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Damien  Perillat
+  title: Chief Operating Officer of Payment Solutions & New Markets
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 25.36
+currentRatio: 0.836
+customPriceAlertConfidence: LOW
+dayHigh: 25.56
+dayLow: 25.1
+dividendRate: 1.33
+dividendYield: 5.14
+earningsCallTimestampEnd: 1784788200
+earningsCallTimestampStart: 1784788200
+earningsGrowth: -0.063
+earningsQuarterlyGrowth: -0.089
+earningsTimestampEnd: 1771950600
+earningsTimestampStart: 1771950600
+ebitda: 1072000000
+ebitdaMargins: 0.38924998
+enterpriseToEbitda: 7.334
+enterpriseToRevenue: 2.855
+enterpriseValue: 7861849600
+epsCurrentYear: 2.12212
+epsForward: 2.40685
+epsTrailingTwelveMonths: 2.06
+esgPopulated: false
+exDividendDate: 1781049600
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 27.4264
+fiftyDayAverageChange: -2.0663986
+fiftyDayAverageChangePercent: -0.075343415
+fiftyTwoWeekChangePercent: 27.286137
+fiftyTwoWeekHigh: 30.85
+fiftyTwoWeekHighChange: -5.49
+fiftyTwoWeekHighChangePercent: -0.17795785
+fiftyTwoWeekLow: 15.23
+fiftyTwoWeekLowChange: 10.130001
+fiftyTwoWeekLowChangePercent: 0.66513467
+fiftyTwoWeekRange: 15.23 - 30.85
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1277967600000
+fiveYearAvgDividendYield: 2.5
+floatShares: 199458125
+forwardEps: 2.40685
+forwardPE: 10.536593
+freeCashflow: 993750016
+fullExchangeName: Paris
+fullTimeEmployees: 12102
+fulldayChange: -0.5299988
+fulldayChangePercent: -2.0471177
+fulldayPrice: 25.36
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.42084
+grossProfits: 1159000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00091
+heldPercentInstitutions: 0.69653
+impliedSharesOutstanding: 228106655
+industry: Credit Services
+industryDisp: Credit Services
+industryKey: credit-services
+irWebsite: http://www.edenred.com/en/Finance/Edenred-shares/Pages/default.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1781049600
+lastDividendValue: 1.33
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Edenred SE operates as a digital platform for services and payments
+  for companies, employees, and merchants worldwide. It offers employee benefit solutions,
+  including Ticket Restaurant, a solution that allows employees to take time out for
+  lunch at a partner merchant; Ticket Alimentación, which allows users to pay for
+  groceries in stores and supermarkets; Edenred Regalo, a gift voucher; Ticket CESU,
+  a human services solution; Edenred City, a solution that enables the purchase of
+  staples, such as food and fuel; Welfare Edenred, which employees can use to pay
+  for various services, including access to sports facilities and solutions for their
+  children's educational needs; Edenred Eco, a solution that encourages the purchase
+  of environmentally friendly products in Belgium; and Kadéos Culture in France and
+  Ticket Cultura in Brazil for cultural goods and services, as well as mobility solutions
+  through Edenred Mobility. The company also offers mobility solutions comprising
+  Ticket Car for employees to pay for fuel and other business travel expenses; Empresarial,
+  which enables companies to control spending to reimburse expense claims; Cintelink,
+  a smart cloud platform for service stations and commercial fleets; UTA Edenred,
+  a fuel card; Ticket Fleet Pro for truck fleet management; Edenred Finance that provides
+  refund services to European transportation companies; The Right Fuel Card, a fuel
+  card manager; and Spirii, a platform for recharging electric vehicles. In addition,
+  it provides complementary solutions comprising corporate payment, incentive and
+  rewards, salary card solutions; and benefits and engagement programs. Edenred SE
+  was founded in 1962 and is headquartered in Issy-les-Moulineaux, France.
+longName: Edenred SE
+market: fr_market
+marketCap: 5784784896
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_20424975
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 500000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5905681297
+numberOfAnalystOpinions: 15
+open: 25.39
+operatingCashflow: 1254000000
+operatingMargins: 0.2963
+overallRisk: 6
+payoutRatio: 0.64559996
+pegRatio: 1.44
+phone: 33 1 74 31 75 00
+prevName: Edenred SA
+previousClose: 25.89
+priceEpsCurrentYear: 11.9503145
+priceHint: 2
+priceToBook: -5.9544497
+priceToSalesTrailing12Months: 2.100503
+profitMargins: 0.18155001
+quickRatio: 0.682
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.13333
+region: US
+regularMarketChange: -0.5299988
+regularMarketChangePercent: -2.0471177
+regularMarketDayHigh: 25.56
+regularMarketDayLow: 25.1
+regularMarketDayRange: 25.1 - 25.56
+regularMarketOpen: 25.39
+regularMarketPreviousClose: 25.89
+regularMarketPrice: 25.36
+regularMarketTime: 1794411507
+regularMarketVolume: 181187
+returnOnAssets: 0.037249997
+revenueGrowth: 0.015
+revenuePerShare: 11.731
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 4
+sharesOutstanding: 228106655
+shortName: EDENRED
+sourceInterval: 15
+symbol: EDEN.PA
+targetHighPrice: 37.0
+targetLowPrice: 25.2
+targetMeanPrice: 31.24
+targetMedianPrice: 32.0
+totalCash: 3319000064
+totalCashPerShare: 14.379
+totalDebt: 5082999808
+totalRevenue: 2753999872
+tradeable: false
+trailingAnnualDividendRate: 1.33
+trailingAnnualDividendYield: 0.051371187
+trailingEps: 2.06
+trailingPE: 12.31068
+trailingPegRatio: 1.5291
+triggerable: false
+twoHundredDayAverage: 23.4645
+twoHundredDayAverageChange: 1.8955002
+twoHundredDayAverageChangePercent: 0.080781616
+typeDisp: Equity
+volume: 181187
+website: https://www.edenred.com
+zip: '92130'

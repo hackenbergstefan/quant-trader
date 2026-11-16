@@ -1,0 +1,262 @@
+52WeekChange: 0.24871433
+SandP52WeekChange: 0.097798586
+address1: 677 Washington Boulevard
+address2: Suite 1100
+allTimeHigh: 214.35
+allTimeLow: 32.04
+ask: 193.02
+askSize: 500
+auditRisk: 2
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 5244940
+averageDailyVolume3Month: 4611525
+averageVolume: 4611525
+averageVolume10days: 5244940
+beta: 0.35
+bid: 192.94
+bidSize: 100
+boardRisk: 5
+bookValue: -5.092
+city: Stamford
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jacek  Olczak
+  title: Group CEO & Director
+  totalPay: 7054208
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Massimo  Andolina
+  title: Group Chief Financial Officer
+  totalPay: 3009359
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frederic  de Wilde
+  title: CEO of PMI International
+  totalPay: 3581310
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stacey  Kennedy
+  title: CEO of PMI U.S.
+  totalPay: 3353263
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Emmanuel  Babeau
+  title: Strategic Advisor
+  totalPay: 4051987
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott  Coutts
+  title: Chief Global Operations Officer
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Voegele
+  title: Chief Digital & Information Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James R. Bushnell
+  title: Vice President of Investor Relations & Financial Communications
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Yann  Guerin
+  title: Group Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Moira  Gilchrist
+  title: Chief Communications Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 193.45
+currentRatio: 1.024
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 194.41
+dayLow: 192.75
+displayName: Philip Morris
+dividendDate: 1792972800
+dividendRate: 6.4
+dividendYield: 3.29
+earningsCallTimestampEnd: 1792587600
+earningsCallTimestampStart: 1792587600
+earningsGrowth: -0.048
+earningsQuarterlyGrowth: -0.047
+earningsTimestamp: 1792585800
+earningsTimestampEnd: 1792585800
+earningsTimestampStart: 1792585800
+ebitda: 20117999616
+ebitdaMargins: 0.46636
+enterpriseToEbitda: 17.189
+enterpriseToRevenue: 8.016
+enterpriseValue: 345798868992
+epsCurrentYear: 8.35277
+epsForward: 9.04303
+epsTrailingTwelveMonths: 6.85
+esgPopulated: false
+exDividendDate: 1790899200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 195.6832
+fiftyDayAverageChange: -2.2332
+fiftyDayAverageChangePercent: -0.011412324
+fiftyTwoWeekChangePercent: 24.871433
+fiftyTwoWeekHigh: 214.35
+fiftyTwoWeekHighChange: -20.90001
+fiftyTwoWeekHighChangePercent: -0.097504124
+fiftyTwoWeekLow: 146.35
+fiftyTwoWeekLowChange: 47.09999
+fiftyTwoWeekLowChangePercent: 0.32183114
+fiftyTwoWeekRange: 146.35 - 214.35
+financialCurrency: USD
+firstTradeDateMilliseconds: 1205760600000
+fiveYearAvgDividendYield: 4.22
+floatShares: 1554743403
+forwardEps: 9.04303
+forwardPE: 21.392166
+freeCashflow: 11525125120
+fullExchangeName: NYSE
+fullTimeEmployees: 84900
+fulldayChange: -0.80000305
+fulldayChangePercent: -0.411842
+fulldayPrice: 193.45
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.67697
+grossProfits: 29202999296
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00168
+heldPercentInstitutions: 0.85141
+impliedSharesOutstanding: 1558655629
+industry: Tobacco
+industryDisp: Tobacco
+industryKey: tobacco
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790899200
+lastDividendValue: 1.6
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Philip Morris International Inc. operates as a tobacco company.
+  The company offers cigarettes and smoke-free products, including heat-not-burn,
+  e-vapor, and oral nicotine products under the IQOS, VEEV, and ZYN brands; and consumer
+  accessories, such as lighters and matches. It also offers wellness products. The
+  company was incorporated in 1987 and is headquartered in Stamford, Connecticut.
+longName: Philip Morris International Inc.
+market: us_market
+marketCap: 301521928192
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_6569181
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 10680999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 302768855933
+numberOfAnalystOpinions: 16
+open: 193.4
+operatingCashflow: 15153999872
+operatingMargins: 0.41873002
+overallRisk: 2
+payoutRatio: 0.8774
+pegRatio: 2.55
+phone: 203 905 2410
+previousClose: 194.25
+priceEpsCurrentYear: 23.15998
+priceHint: 2
+priceToBook: -37.990967
+priceToSalesTrailing12Months: 6.989706
+profitMargins: 0.24825001
+quickRatio: 0.525
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.76471
+region: US
+regularMarketChange: -0.80000305
+regularMarketChangePercent: -0.411842
+regularMarketDayHigh: 194.41
+regularMarketDayLow: 192.75
+regularMarketDayRange: 192.75 - 194.41
+regularMarketOpen: 193.4
+regularMarketPreviousClose: 194.25
+regularMarketPrice: 193.45
+regularMarketTime: 1794413737
+regularMarketVolume: 606580
+returnOnAssets: 0.16876
+revenueGrowth: 0.055
+revenuePerShare: 27.697
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 5
+sharesOutstanding: 1558655629
+sharesPercentSharesOut: 0.0095
+sharesShort: 14876445
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 17747343
+shortName: Philip Morris International Inc
+shortPercentOfFloat: 0.0095999995
+shortRatio: 3.29
+sourceInterval: 15
+state: CT
+symbol: PM
+targetHighPrice: 240.0
+targetLowPrice: 175.0
+targetMeanPrice: 212.4375
+targetMedianPrice: 217.5
+totalCash: 6693000192
+totalCashPerShare: 4.294
+totalDebt: 47730999296
+totalRevenue: 43137998848
+tradeable: false
+trailingAnnualDividendRate: 6.01
+trailingAnnualDividendYield: 0.030939512
+trailingEps: 6.85
+trailingPE: 28.240875
+trailingPegRatio: 2.5606
+triggerable: true
+twoHundredDayAverage: 182.9491
+twoHundredDayAverageChange: 10.5009
+twoHundredDayAverageChangePercent: 0.057397936
+typeDisp: Equity
+volume: 606580
+website: https://www.pmi.com
+zip: 06901

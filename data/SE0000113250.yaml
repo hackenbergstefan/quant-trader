@@ -1,0 +1,259 @@
+52WeekChange: 0.23174214
+SandP52WeekChange: 0.097798586
+address1: Warfvinges vAeg 25
+allTimeHigh: 302.7
+allTimeLow: 38.1
+ask: 304.2
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 979729
+averageDailyVolume3Month: 722660
+averageVolume: 722660
+averageVolume10days: 979729
+beta: 0.81
+bid: 304.1
+bidSize: 0
+boardRisk: 4
+bookValue: 155.302
+city: Stockholm
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anders  Danielsson
+  title: President & CEO
+  totalPay: 31199000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pontus  Winqvist
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dan-Magnus  Skold
+  title: Chief Operating Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Antonia  Junelind
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anders  Goransson
+  title: Senior Vice President of Internal Audit & Compliance
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Åsa Maria Widholm Thunman LLM
+  title: Executive VP & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karolina  Cederhage
+  title: Senior Vice President of Communications
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Therese  Tegner
+  title: Executive Vice President of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Claes  Larsson
+  title: Executive Vice President
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Louise  Hallqvist
+  title: Sernior Vice President for Group Finance Operations
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 304.1
+currentRatio: 1.448
+customPriceAlertConfidence: HIGH
+dayHigh: 304.3
+dayLow: 301.0
+debtToEquity: 24.328
+dividendRate: 8.5
+dividendYield: 2.82
+earningsCallTimestampEnd: 1801213200
+earningsCallTimestampStart: 1801213200
+earningsGrowth: 0.187
+earningsQuarterlyGrowth: 0.189
+earningsTimestamp: 1801240200
+earningsTimestampEnd: 1801240200
+earningsTimestampStart: 1801240200
+ebitda: 9303000064
+ebitdaMargins: 0.05219
+enterpriseToEbitda: 13.084
+enterpriseToRevenue: 0.683
+enterpriseValue: 121724510208
+epsCurrentYear: 16.70497
+epsForward: 16.86
+epsTrailingTwelveMonths: 16.45
+esgPopulated: false
+exDividendDate: 1775001600
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 273.826
+fiftyDayAverageChange: 30.274017
+fiftyDayAverageChangePercent: 0.11055933
+fiftyTwoWeekChangePercent: 23.174213
+fiftyTwoWeekHigh: 304.3
+fiftyTwoWeekHighChange: -0.19998169
+fiftyTwoWeekHighChangePercent: -0.00065718597
+fiftyTwoWeekLow: 233.0
+fiftyTwoWeekLowChange: 71.100006
+fiftyTwoWeekLowChangePercent: 0.30515024
+fiftyTwoWeekRange: 233.0 - 304.3
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 3.36
+floatShares: 374377555
+forwardEps: 16.86
+forwardPE: 18.036774
+freeCashflow: 5016625152
+fullExchangeName: Stockholm
+fullTimeEmployees: 26493
+fulldayChange: 2.2000122
+fulldayChangePercent: 0.72872216
+fulldayPrice: 304.1
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.090299994
+grossProfits: 16097000448
+hasPrePostMarketData: false
+heldPercentInsiders: 0.15262
+heldPercentInstitutions: 0.40528
+impliedSharesOutstanding: 413754578
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1775001600
+lastDividendValue: 14.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 992822400
+lastSplitFactor: '4:1'
+longBusinessSummary: 'Skanska AB (publ) operates as a construction and project development
+  company in the Nordics, Europe, and the United States. It operates through four
+  segments: Construction, Residential Development, Commercial Property Development,
+  and Investment Properties. The Construction segment builds social infrastructure,
+  including schools, hospitals, healthcare, and judicial buildings; mass transit comprising
+  rails, subways, and airports; highways, bridges, and tunnels; data centers and advanced
+  tech manufacturing buildings/facilities; energy; defense-related buildings and infrastructure;
+  offices, manufacturing, and other commercial buildings; and residential multifamily
+  buildings. Its Residential Development segment develops and builds single and multifamily
+  homes. The Commercial Property Development segment initiates, develops, leases,
+  and divests in offices, life-science, and logistics and commercial warehouses, as
+  well as residential rental properties. Its Investment Properties segment invests
+  and manages office properties. The company was formerly known as Skånska Cementgjuteriet
+  and changed its name to Skanska AB (publ) in December 1983. Skanska AB (publ) was
+  founded in 1887 and is headquartered in Stockholm, Sweden.'
+longName: Skanska AB (publ)
+market: se_market
+marketCap: 125822771200
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874186
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 6830000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 124912507097
+numberOfAnalystOpinions: 8
+open: 301.9
+operatingCashflow: 14316000256
+operatingMargins: 0.041490003
+overallRisk: 3
+payoutRatio: 0.51669997
+pegRatio: 5.82
+phone: 46 1 04 48 00 00
+previousClose: 301.9
+priceEpsCurrentYear: 18.204165
+priceHint: 2
+priceToBook: 1.9581203
+priceToSalesTrailing12Months: 0.7058622
+profitMargins: 0.03832
+quickRatio: 0.72
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: 2.2000122
+regularMarketChangePercent: 0.72872216
+regularMarketDayHigh: 304.3
+regularMarketDayLow: 301.0
+regularMarketDayRange: 301.0 - 304.3
+regularMarketOpen: 301.9
+regularMarketPreviousClose: 301.9
+regularMarketPrice: 304.1
+regularMarketTime: 1794412466
+regularMarketVolume: 283873
+returnOnAssets: 0.027490001
+returnOnEquity: 0.11013
+revenueGrowth: 0.097
+revenuePerShare: 430.589
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 8
+sharesOutstanding: 394241286
+shortName: Skanska AB ser. B
+sourceInterval: 15
+symbol: SKA-B.ST
+targetHighPrice: 330.0
+targetLowPrice: 260.0
+targetMeanPrice: 297.75
+targetMedianPrice: 303.5
+totalCash: 19079999488
+totalCashPerShare: 46.114
+totalDebt: 15683000320
+totalRevenue: 178254004224
+tradeable: false
+trailingAnnualDividendRate: 8.5
+trailingAnnualDividendYield: 0.02815502
+trailingEps: 16.45
+trailingPE: 18.486322
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 261.6535
+twoHundredDayAverageChange: 42.446503
+twoHundredDayAverageChangePercent: 0.1622241
+typeDisp: Equity
+volume: 283873
+website: https://www.skanska.com/group
+zip: 112 74

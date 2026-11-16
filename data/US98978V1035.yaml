@@ -1,0 +1,277 @@
+52WeekChange: -0.3199175
+SandP52WeekChange: 0.097798586
+address1: 10 Sylvan Way
+allTimeHigh: 249.27
+allTimeLow: 28.14
+ask: 81.12
+askSize: 100
+auditRisk: 5
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 5518870
+averageDailyVolume3Month: 4643089
+averageVolume: 4643089
+averageVolume10days: 5518870
+beta: 0.678
+bid: 81.13
+bidSize: 600
+boardRisk: 2
+bookValue: 8.106
+city: Parsippany
+companyOfficers:
+- age: 54
+  exercisedValue: 42246
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristin C. Peck
+  title: CEO & Director
+  totalPay: 5421697
+  unexercisedValue: 6077486
+  yearBorn: 1971
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Roxanne  Lagano
+  title: Executive VP, General Counsel & Corporate Secretary
+  totalPay: 1435587
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Robert J. Polzer Ph.D.
+  title: Scientific Advisor
+  totalPay: 1445441
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jamie  Brannan
+  title: Executive VP & Chief Commercial Officer
+  totalPay: 1742448
+  unexercisedValue: 201455
+  yearBorn: 1973
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James K. Saccaro
+  title: Executive VP, CFO & COO
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Keith  Sarbaugh
+  title: Executive VP & Chief Digital and Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven  Frank
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie A. Fuller
+  title: Executive VP, Chief Human Resources Officer & Global Operations
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 37
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Abhay U. Nayak
+  title: Executive VP & President of U.S. Commercial Operations
+  unexercisedValue: 0
+  yearBorn: 1988
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jeannette Ferran Astorga
+  title: Executive VP of Corporate Affairs & Chief Sustainability Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 81.035
+currentRatio: 2.346
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 82.0
+dayLow: 80.9463
+debtToEquity: 280.26
+displayName: Zoetis
+dividendDate: 1796083200
+dividendRate: 2.12
+dividendYield: 2.57
+earningsCallTimestampEnd: 1793885400
+earningsCallTimestampStart: 1793885400
+earningsGrowth: -0.118
+earningsQuarterlyGrowth: -0.18
+earningsTimestamp: 1793885400
+earningsTimestampEnd: 1793885400
+earningsTimestampStart: 1793885400
+ebitda: 4032000000
+ebitdaMargins: 0.42469
+enterpriseToEbitda: 10.225
+enterpriseToRevenue: 4.343
+enterpriseValue: 41228828672
+epsCurrentYear: 6.27357
+epsForward: 6.38146
+epsTrailingTwelveMonths: 5.88
+esgPopulated: false
+exDividendDate: 1793318400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 75.8978
+fiftyDayAverageChange: 5.137207
+fiftyDayAverageChangePercent: 0.06768585
+fiftyTwoWeekChangePercent: -31.99175
+fiftyTwoWeekHigh: 132.49
+fiftyTwoWeekHighChange: -51.455
+fiftyTwoWeekHighChangePercent: -0.38836893
+fiftyTwoWeekLow: 68.77
+fiftyTwoWeekLowChange: 12.265007
+fiftyTwoWeekLowChangePercent: 0.17834823
+fiftyTwoWeekRange: 68.77 - 132.49
+financialCurrency: USD
+firstTradeDateMilliseconds: 1359729000000
+fiveYearAvgDividendYield: 0.94
+floatShares: 405462883
+forwardEps: 6.38146
+forwardPE: 12.698505
+freeCashflow: 2053124992
+fullExchangeName: NYSE
+fullTimeEmployees: 14500
+fulldayChange: -1.4249954
+fulldayChangePercent: -1.7281051
+fulldayPrice: 81.035
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.71645
+grossProfits: 6801999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0018799999
+heldPercentInstitutions: 1.03138
+impliedSharesOutstanding: 406316147
+industry: Drug Manufacturers - Specialty & Generic
+industryDisp: Drug Manufacturers - Specialty & Generic
+industryKey: drug-manufacturers-specialty-generic
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793318400
+lastDividendValue: 0.53
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Zoetis Inc. engages in the discovery, development, manufacture,
+  and commercialization of medicines, vaccines, diagnostic products and services,
+  biodevices, genetic tests, and precision animal health solutions for the animal
+  health industry in the United States and internationally. The company commercializes
+  products primarily across companion animals comprising dogs, cats, and horses; and
+  species, including livestock, such as cattle, swine, poultry, fish, and sheep. It
+  also offers parasiticides, vaccines, dermatology, anti-infectives, pain and sedation,
+  other pharmaceutical, and animal health diagnostics. In addition, the company provides
+  animal health diagnostics, including point-of-care diagnostic products, instruments
+  and reagents, rapid immunoassay tests, reference laboratory kits and services, and
+  blood glucose monitors; and other non-pharmaceutical products, which include nutritionals,
+  as well as products and services in biodevices, genetic tests, and precision animal
+  health. It markets its products to veterinarians, livestock producers, and pet owners.
+  The company has collaborated with Blacksmith Medicines, Inc. to discover and develop
+  novel antibiotics for animal health. Zoetis Inc. was incorporated in 2012 and is
+  headquartered in Parsippany, New Jersey.
+longName: Zoetis Inc.
+market: us_market
+marketCap: 32925831168
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_215548781
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2507000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 33504829481
+numberOfAnalystOpinions: 13
+open: 81.49
+operatingCashflow: 2728000000
+operatingMargins: 0.37908
+overallRisk: 4
+payoutRatio: 0.3524
+pegRatio: 15.32
+phone: 973 822 7000
+previousClose: 82.46
+priceEpsCurrentYear: 12.916888
+priceHint: 2
+priceToBook: 9.996917
+priceToSalesTrailing12Months: 3.4680674
+profitMargins: 0.26406
+quickRatio: 1.202
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.5
+region: US
+regularMarketChange: -1.4249954
+regularMarketChangePercent: -1.7281051
+regularMarketDayHigh: 82.0
+regularMarketDayLow: 80.9463
+regularMarketDayRange: 80.9463 - 82.0
+regularMarketOpen: 81.49
+regularMarketPreviousClose: 82.46
+regularMarketPrice: 81.035
+regularMarketTime: 1794413754
+regularMarketVolume: 655579
+returnOnAssets: 0.14873
+returnOnEquity: 0.57626
+revenueGrowth: -0.013
+revenuePerShare: 22.478
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 7
+sharesOutstanding: 406316147
+sharesPercentSharesOut: 0.041199997
+sharesShort: 16722420
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 18424459
+shortName: Zoetis Inc.
+shortPercentOfFloat: 0.0467
+shortRatio: 4.25
+sourceInterval: 15
+state: NJ
+symbol: ZTS
+targetHighPrice: 115.0
+targetLowPrice: 73.0
+targetMeanPrice: 89.69231
+targetMedianPrice: 85.0
+totalCash: 1532999936
+totalCashPerShare: 3.773
+totalDebt: 9256999936
+totalRevenue: 9493999616
+tradeable: false
+trailingAnnualDividendRate: 2.09
+trailingAnnualDividendYield: 0.025345622
+trailingEps: 5.88
+trailingPE: 13.781463
+trailingPegRatio: 15.3471
+triggerable: true
+twoHundredDayAverage: 92.08085
+twoHundredDayAverageChange: -11.045845
+twoHundredDayAverageChangePercent: -0.11995812
+typeDisp: Equity
+volume: 655579
+website: https://www.zoetis.com
+zip: '07054'

@@ -1,0 +1,263 @@
+52WeekChange: 0.08954203
+SandP52WeekChange: 0.097798586
+address1: Christian Neefestraat 2
+address2: P.O. Box 75730
+allTimeHigh: 108.45
+allTimeLow: 17.999996
+ask: 0.0
+askSize: 0
+auditRisk: 9
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 669276
+averageDailyVolume3Month: 520869
+averageVolume: 520869
+averageVolume10days: 669276
+beta: 1.161
+bid: 0.0
+bidSize: 0
+boardRisk: 9
+bookValue: 28.314
+city: Amsterdam
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregoire  Poux-Guillaume
+  title: CEO & Chairman of the Management Board
+  totalPay: 3186311
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Maarten Jan de Vries
+  title: Member of Management Board
+  totalPay: 1826318
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fredrik  Westin
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jan Willem Enhus
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Charlotte van Meer
+  title: General Counsel
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Armand  Sohet
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles W. Shaver
+  title: CEO of Specialty Chemicals
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wiebe  Wiechers
+  title: Chief Development Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel  Campos
+  title: Executive Officer - Global Decorative Paints
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 63.56
+currentRatio: 1.926
+customPriceAlertConfidence: LOW
+dayHigh: 64.28
+dayLow: 63.4
+debtToEquity: 129.548
+dividendRate: 1.98
+dividendYield: 3.11
+earningsCallTimestampEnd: 1792566000
+earningsCallTimestampStart: 1792566000
+earningsTimestamp: 1792596600
+earningsTimestampEnd: 1792596600
+earningsTimestampStart: 1792596600
+ebitda: 1032000000
+ebitdaMargins: 0.104399994
+enterpriseToEbitda: 13.745
+enterpriseToRevenue: 1.435
+enterpriseValue: 14184464384
+epsCurrentYear: 3.86748
+epsForward: 4.24242
+epsTrailingTwelveMonths: 3.79
+esgPopulated: false
+exDividendDate: 1792713600
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 58.8532
+fiftyDayAverageChange: 4.7068024
+fiftyDayAverageChangePercent: 0.0799753
+fiftyTwoWeekChangePercent: 8.954203
+fiftyTwoWeekHigh: 67.64
+fiftyTwoWeekHighChange: -4.079998
+fiftyTwoWeekHighChangePercent: -0.06031931
+fiftyTwoWeekLow: 46.18
+fiftyTwoWeekLowChange: 17.380001
+fiftyTwoWeekLowChangePercent: 0.3763534
+fiftyTwoWeekRange: 46.18 - 67.64
+financialCurrency: EUR
+firstTradeDateMilliseconds: 796287600000
+fiveYearAvgDividendYield: 3.02
+floatShares: 153706378
+forwardEps: 4.24242
+forwardPE: 14.982015
+freeCashflow: 404750016
+fullExchangeName: Amsterdam
+fullTimeEmployees: 29900
+fulldayChange: -0.19999695
+fulldayChangePercent: -0.31357315
+fulldayPrice: 63.56
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.40252998
+grossProfits: 3979000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00067000004
+heldPercentInstitutions: 0.91103995
+impliedSharesOutstanding: 171400000
+industry: Specialty Chemicals
+industryDisp: Specialty Chemicals
+industryKey: specialty-chemicals
+irWebsite: http://www.akzonobel.com/investor_relations/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792713600
+lastDividendValue: 0.44
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1548115200
+lastSplitFactor: '8:9'
+longBusinessSummary: Akzo Nobel N.V. produces and sells paints and coatings worldwide.
+  It operates through Decorative Paints and Performance Coatings segments. The company
+  offers decorative paints, including paints, enamels, varnishes, and surface preparation
+  products; and a range of mixing machines, color concepts and advice, and training
+  for applicators. It also provides performance coatings that produces engineered
+  coatings designed to deliver functional properties, such as corrosion and fouling
+  control, anti-scratch performance, and fire protection to protect and enhance ships,
+  cars, aircraft, yachts, and architectural components, consumer goods, and oil and
+  gas facilities. The company offers its products under the AkzoNobel, Alabastine,
+  Alba, Andercol, Apla, Armstead Trade, Astral, Astral Batiment, AwlGrip, Brikol,
+  Bruguer, Cetabever, Cetol, Chemcraft, Colourland Paints, CONSOLAN, Coral, Cromadex,
+  Cuprinol, Dulux, Dynacoat, Flexa, Glitsa, Grip-Gard, Hammerite, Herbol, Inca, Innenweis,
+  Interlux, International, Interpon, Lesonal, Levis, Luxol, Mactra, Marshall, Mauvilac,
+  Maxilite, Modern Classikk, Molto, Nordsjo, Oxirite, Pintuco, Pinotex, Polycell,
+  Polyfilla, Procolor, Protecto, Relest, Resicoat, Sadolin, Salcomix, Savana, Sea
+  Hawk, Sikkens, Sparlack, Taubmans, Titanlux, Trimetal, U-Tech, Vivechrom, VPowdertech,
+  Wanda, Xyladecor, and Xylazel brands. The company serves energy, packaging, infrastructure,
+  and shipbuilding and maintenance industries, as well as general industries, such
+  as agricultural and construction equipment, construction-related steel, metal fabrication,
+  pipes, appliances, and transportation. The company was formerly known as Akzo NV
+  and changed its name to Akzo Nobel N.V. in 1994. Akzo Nobel N.V. was founded in
+  1646 and is headquartered in Amsterdam, the Netherlands.
+longName: Akzo Nobel N.V.
+market: nl_market
+marketCap: 10894184448
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_325843
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 654000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 10928464000
+numberOfAnalystOpinions: 16
+open: 64.1
+operatingCashflow: 732000000
+operatingMargins: 0.07628
+overallRisk: 7
+payoutRatio: 0.5224
+pegRatio: 2.75
+phone: 31 88 969 7555
+previousClose: 63.76
+priceEpsCurrentYear: 16.434475
+priceHint: 2
+priceToBook: 2.244826
+priceToSalesTrailing12Months: 1.1020925
+profitMargins: 0.065960005
+quickRatio: 1.432
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.9375
+region: US
+regularMarketChange: -0.19999695
+regularMarketChangePercent: -0.31357315
+regularMarketDayHigh: 64.28
+regularMarketDayLow: 63.4
+regularMarketDayRange: 63.4 - 64.28
+regularMarketOpen: 64.1
+regularMarketPreviousClose: 63.76
+regularMarketPrice: 63.56
+regularMarketTime: 1794411561
+regularMarketVolume: 99578
+returnOnAssets: 0.0315
+returnOnEquity: 0.14863
+revenueGrowth: -0.004
+revenuePerShare: 57.736
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 10
+sharesOutstanding: 171400000
+shortName: AKZO NOBEL
+sourceInterval: 15
+symbol: AKZA.AS
+targetHighPrice: 75.0
+targetLowPrice: 55.0
+targetMeanPrice: 65.8125
+targetMedianPrice: 65.0
+totalCash: 3412000000
+totalCashPerShare: 19.907
+totalDebt: 6502000128
+totalRevenue: 9884999680
+tradeable: false
+trailingAnnualDividendRate: 1.54
+trailingAnnualDividendYield: 0.024153074
+trailingEps: 3.79
+trailingPE: 16.770449
+trailingPegRatio: 2.7435
+triggerable: false
+twoHundredDayAverage: 56.94035
+twoHundredDayAverageChange: 6.619652
+twoHundredDayAverageChangePercent: 0.1162559
+typeDisp: Equity
+volume: 99578
+website: https://www.akzonobel.com
+zip: 1070 AS

@@ -1,0 +1,231 @@
+52WeekChange: 0.37286043
+SandP52WeekChange: 0.097798586
+address1: Reguliersdwarsstraat 63
+allTimeHigh: 18.206
+allTimeLow: 11.02
+auditRisk: 7
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 1212994
+averageDailyVolume3Month: 1060787
+averageVolume: 1060787
+averageVolume10days: 1212994
+boardRisk: 3
+bookValue: 1.766
+city: Amsterdam
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter Frank Ter Kulve
+  title: CEO & Executive Director
+  totalPay: 717000
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Abhijit  Bhattacharya
+  title: CFO & Executive Director
+  totalPay: 515000
+  unexercisedValue: 0
+  yearBorn: 1961
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark  O'Brien
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Vanessa  Vilar
+  title: Chief Legal Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Julien  Barraux
+  title: Chief Creative Officer and Chief Growth & Marketing Officer
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ronald Adrianus Wilhelmus Schellekens
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gerardo  Rozanski
+  title: President of North America & Latin America
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tahir Toloy Tanridagli
+  title: President of Ice Cream - South Asia, Middle East, Africa & Turkey
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Wai-Fung  Loh
+  title: President of Asia
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mustafa  Seckin
+  title: President of Europe and Australia & New Zealand
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 17.666
+currentRatio: 1.01
+customPriceAlertConfidence: LOW
+dayHigh: 17.958
+dayLow: 17.592
+debtToEquity: 342.692
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793268000
+earningsCallTimestampStart: 1793268000
+earningsQuarterlyGrowth: -0.247
+earningsTimestamp: 1793291400
+earningsTimestampEnd: 1801153800
+earningsTimestampStart: 1801153800
+ebitda: 1159000064
+ebitdaMargins: 0.14312
+enterpriseToEbitda: 12.261
+enterpriseToRevenue: 1.755
+enterpriseValue: 14210896896
+epsCurrentYear: 0.99174
+epsForward: 1.07923
+epsTrailingTwelveMonths: 0.42
+esgPopulated: false
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 16.67532
+fiftyDayAverageChange: 0.9906807
+fiftyDayAverageChangePercent: 0.05941
+fiftyTwoWeekChangePercent: 37.28604
+fiftyTwoWeekHigh: 18.206
+fiftyTwoWeekHighChange: -0.539999
+fiftyTwoWeekHighChangePercent: -0.029660499
+fiftyTwoWeekLow: 11.02
+fiftyTwoWeekLowChange: 6.646
+fiftyTwoWeekLowChangePercent: 0.6030853
+fiftyTwoWeekRange: 11.02 - 18.206
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1765180800000
+floatShares: 489709830
+forwardEps: 1.07923
+forwardPE: 16.36908
+freeCashflow: 396624992
+fullExchangeName: Amsterdam
+fullTimeEmployees: 19000
+fulldayChange: -0.13999939
+fulldayChangePercent: -0.7862484
+fulldayPrice: 17.666
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.36145002
+grossProfits: 2927000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.27244
+heldPercentInstitutions: 0.61421
+impliedSharesOutstanding: 603807595
+industry: Packaged Foods
+industryDisp: Packaged Foods
+industryKey: packaged-foods
+isEarningsDateEstimate: true
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: The Magnum Ice Cream Company N.V. engages in the ice cream business
+  in the Netherlands. The company offers its products under the Magnum, Ben & Jerry's,
+  Cornetto, and Wall's brands. It also operates in rest of Europe, North America,
+  South America, Africa, Asia, the Middle East, Australia, and New Zealand. The company
+  was incorporated in 2025 and is headquartered in Amsterdam, the Netherlands.
+longName: The Magnum Ice Cream Company N.V.
+market: nl_market
+marketCap: 10666865664
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1966146852
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 181000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 10601653753
+numberOfAnalystOpinions: 17
+open: 17.658
+operatingCashflow: 746000000
+operatingMargins: 0.11484
+overallRisk: 3
+payoutRatio: 0.0
+pegRatio: 0.66
+phone: 31 61 158 5067
+previousClose: 17.806
+priceEpsCurrentYear: 17.813137
+priceHint: 2
+priceToBook: 10.003398
+priceToSalesTrailing12Months: 1.3172222
+profitMargins: 0.022349998
+quickRatio: 0.768
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.5
+region: US
+regularMarketChange: -0.13999939
+regularMarketChangePercent: -0.7862484
+regularMarketDayHigh: 17.958
+regularMarketDayLow: 17.592
+regularMarketDayRange: 17.592 - 17.958
+regularMarketOpen: 17.658
+regularMarketPreviousClose: 17.806
+regularMarketPrice: 17.666
+regularMarketTime: 1794411572
+regularMarketVolume: 245445
+returnOnAssets: 0.0726
+returnOnEquity: 0.09639
+revenueGrowth: 0.042
+revenuePerShare: 13.226
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 7
+sharesOutstanding: 603807595
+shortName: THE MAGNUM ICE CREAM COMPANY N.
+sourceInterval: 15
+symbol: MICC.AS
+targetHighPrice: 20.5
+targetLowPrice: 15.2
+targetMeanPrice: 17.71176
+targetMedianPrice: 18.0
+totalCash: 577000000
+totalCashPerShare: 0.942
+totalDebt: 3844999936
+totalRevenue: 8097999872
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 0.42
+trailingPE: 42.06191
+trailingPegRatio: 0.6639
+triggerable: false
+twoHundredDayAverage: 14.97309
+twoHundredDayAverageChange: 2.6929102
+twoHundredDayAverageChangePercent: 0.17985
+typeDisp: Equity
+volume: 245445
+website: https://corporate.magnumicecream.com
+zip: 1017 BK

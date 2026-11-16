@@ -1,0 +1,259 @@
+52WeekChange: 0.19564092
+SandP52WeekChange: 0.097798586
+address1: 25, Avenue Matignon
+allTimeHigh: 46.37
+allTimeLow: 3.799835
+ask: 0.0
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 2997706
+averageDailyVolume3Month: 3017451
+averageVolume: 3017451
+averageVolume10days: 2997706
+beta: 0.58
+bid: 0.0
+bidSize: 0
+boardRisk: 2
+bookValue: 22.091
+city: Paris
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Thomas  Buberl Ph.D.
+  title: CEO & Director
+  totalPay: 2994125
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Helen  Browne
+  title: Group General Counsel & Employee Shareholders Representative Director
+  totalPay: 106419
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alban  de Mailly Nesle
+  title: Group Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Gregoire de Montchalin
+  title: Chief Accounting & Reporting Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthieu  Caillat
+  title: Group Chief Technology & AI Officer, Chief Executive Officer of AXA Group
+    Operations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anu  Venkataraman
+  title: Group Chief Strategy Officer & Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ulrike  Decoene
+  title: Group Chief Communication, Brand & Sustainability Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Astrid  Panosyan-Bouvet
+  title: Group Chief Human Resources Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hassan  El-Shabrawishi
+  title: Chief Executive Officer of International Markets
+  unexercisedValue: 0
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Guillaume  Borie
+  title: Global Head of Finance, Strategy, Underwriting, Risk & Technology
+  unexercisedValue: 0
+  yearBorn: 1986
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 45.99
+currentRatio: 11.53
+customPriceAlertConfidence: LOW
+dayHigh: 46.26
+dayLow: 45.77
+debtToEquity: 119.437
+dividendRate: 2.32
+dividendYield: 5.03
+earningsCallTimestampEnd: 1785511800
+earningsCallTimestampStart: 1785511800
+earningsGrowth: 0.132
+earningsQuarterlyGrowth: 0.063
+earningsTimestampEnd: 1785511800
+earningsTimestampStart: 1785511800
+ebitdaMargins: 0.0
+enterpriseToRevenue: 0.63
+enterpriseValue: 60942512128
+epsCurrentYear: 4.18624
+epsForward: 4.48424
+epsTrailingTwelveMonths: 3.71
+esgPopulated: false
+exDividendDate: 1778457600
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 43.284
+fiftyDayAverageChange: 2.7060013
+fiftyDayAverageChangePercent: 0.06251736
+fiftyTwoWeekChangePercent: 19.564093
+fiftyTwoWeekHigh: 46.37
+fiftyTwoWeekHighChange: -0.37999725
+fiftyTwoWeekHighChangePercent: -0.0081948945
+fiftyTwoWeekLow: 36.55
+fiftyTwoWeekLowChange: 9.440002
+fiftyTwoWeekLowChangePercent: 0.2582764
+fiftyTwoWeekRange: 36.55 - 46.37
+financialCurrency: EUR
+firstTradeDateMilliseconds: 651481200000
+fiveYearAvgDividendYield: 5.65
+floatShares: 1592268029
+forwardEps: 4.48424
+forwardPE: 10.2559185
+freeCashflow: -26394499072
+fullExchangeName: Paris
+fullTimeEmployees: 107756
+fulldayChange: -0.09000015
+fulldayChangePercent: -0.19535522
+fulldayPrice: 45.99
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.14852001
+grossProfits: 14375999488
+hasPrePostMarketData: false
+heldPercentInsiders: 0.20604
+heldPercentInstitutions: 0.40293998
+impliedSharesOutstanding: 2091096997
+industry: Insurance - Diversified
+industryDisp: Insurance - Diversified
+industryKey: insurance-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778457600
+lastDividendValue: 2.32
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 989971200
+lastSplitFactor: '4:1'
+longBusinessSummary: AXA SA, through its subsidiaries, provides insurance, asset management,
+  and banking services worldwide. The company operates through France, Europe, AXA
+  XL, Asia, Africa & EME-LATAM, and Transversal & Other segments. It offers life and
+  savings insurance and property and casualty insurance products. The company also
+  provides protection and retirement products for individual and professional customers;
+  reinsurance coverages; property, primary and excess casualty, excess and surplus
+  lines, environmental liability, professional liability, construction, marine, energy,
+  aviation and satellite, fine art and specie, livestock and aquaculture, accident
+  and health, and crisis management. In addition, it offers reinsurance solutions
+  with casualty, property risk, property catastrophe, specialty, and other reinsurance;
+  proportional and non-proportional, and facultative reinsurance; risk management
+  solutions and consulting services; integrated ecosystem between healthcare solutions
+  and the insurance coverage, which includes onsite services in clinics, remote teleconsultation
+  and digital services, and home services; travel insurance and assistance services,
+  as well as AXA Multilink platform, a B2B2C platform; Sophia, the customer facing
+  GenAI chatbot; and EMMA, a digital assistant. Further, the company offers motor,
+  household, property and general liability, banking, savings, health, term life,
+  whole life, universal life, endowment, deferred and immediate annuities, and other
+  investment-based products for retail/individual and commercial/group customers.
+  AXA SA was founded in 1852 and is headquartered in Paris, France.
+longName: AXA SA
+market: fr_market
+marketCap: 96169549824
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_121238
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 7654000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 94852159783
+numberOfAnalystOpinions: 16
+open: 46.19
+operatingCashflow: 14919999488
+operatingMargins: 0.11265001
+overallRisk: 4
+payoutRatio: 0.6253
+pegRatio: 20.03
+phone: 33 1 40 75 57 00
+previousClose: 46.08
+priceEpsCurrentYear: 10.985992
+priceHint: 2
+priceToBook: 2.0818434
+priceToSalesTrailing12Months: 0.99354863
+profitMargins: 0.10379
+quickRatio: 8.966
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.76471
+region: US
+regularMarketChange: -0.09000015
+regularMarketChangePercent: -0.19535522
+regularMarketDayHigh: 46.26
+regularMarketDayLow: 45.77
+regularMarketDayRange: 45.77 - 46.26
+regularMarketOpen: 46.19
+regularMarketPreviousClose: 46.08
+regularMarketPrice: 45.99
+regularMarketTime: 1794411558
+regularMarketVolume: 550275
+returnOnAssets: 0.01051
+returnOnEquity: 0.14881
+revenueGrowth: 0.045
+revenuePerShare: 47.079
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 6
+sharesOutstanding: 2091096997
+shortName: AXA
+sourceInterval: 15
+symbol: CS.PA
+targetHighPrice: 77.0
+targetLowPrice: 42.0
+targetMeanPrice: 52.0225
+targetMedianPrice: 50.5
+totalCash: 99860996096
+totalCashPerShare: 49.361
+totalDebt: 61108998144
+totalRevenue: 96794001408
+tradeable: false
+trailingAnnualDividendRate: 2.32
+trailingAnnualDividendYield: 0.05034722
+trailingEps: 3.71
+trailingPE: 12.396227
+trailingPegRatio: 20.0265
+triggerable: false
+twoHundredDayAverage: 41.8795
+twoHundredDayAverageChange: 4.1105003
+twoHundredDayAverageChangePercent: 0.09815065
+typeDisp: Equity
+volume: 550275
+website: https://www.axa.com
+zip: '75008'

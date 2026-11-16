@@ -1,0 +1,259 @@
+52WeekChange: 0.38360882
+SandP52WeekChange: 0.097798586
+address1: Grenzacherstrasse 124
+allTimeHigh: 405.9
+allTimeLow: 62.2134
+ask: 399.9
+auditRisk: 8
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 1117073
+averageDailyVolume3Month: 974576
+averageVolume: 974576
+averageVolume10days: 1117073
+beta: 0.317
+bid: 399.8
+boardRisk: 7
+bookValue: 41.032
+city: Basel
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Dr. Severin  Schwan Ph.D.
+  title: Executive Chairman
+  totalPay: 7509307
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Dr. Thomas  Schinecker
+  title: Group Chief Executive Officer
+  totalPay: 3869052
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Dr. Alan  Hippe
+  title: Chief Financial Officer
+  totalPay: 4106374
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Ms. Wafaa  Mamilli
+  title: Chief Digital & Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Dr. Bruno  Eschli
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Ms. Claudia  Bockstiegel
+  title: General Counsel
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Dr. Nina  Schwab-Hautzinger
+  title: Head of Group Communications
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Ms. Maria Cristina A. Wilbur
+  title: Chief People Officer
+  totalPay: 2921524
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Dr. Nicolas  Dunant
+  title: Head of Group Media Relations
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Boris L.  Zaitra
+  title: Head of Corporate Business Development
+  unexercisedValue: 0
+  yearBorn: 1972
+compensationAsOfEpochDate: 1672444800
+compensationRisk: 7
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 399.8
+currentRatio: 1.228
+customPriceAlertConfidence: LOW
+dayHigh: 402.2
+dayLow: 397.5
+debtToEquity: 90.718
+dividendRate: 9.8
+dividendYield: 2.44
+earningsCallTimestampEnd: 1801153800
+earningsCallTimestampStart: 1801153800
+earningsGrowth: -0.077
+earningsQuarterlyGrowth: -0.073
+earningsTimestamp: 1801153800
+earningsTimestampEnd: 1801153800
+earningsTimestampStart: 1801153800
+ebitda: 23964000256
+ebitdaMargins: 0.38063
+enterpriseToEbitda: 14.511
+enterpriseToRevenue: 5.523
+enterpriseValue: 347737554944
+epsCurrentYear: 20.51794
+epsForward: 22.05566
+epsTrailingTwelveMonths: 15.33
+esgPopulated: false
+exDividendDate: 1773273600
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 41 61 691 00 14
+fiftyDayAverage: 370.064
+fiftyDayAverageChange: 29.735992
+fiftyDayAverageChangePercent: 0.08035365
+fiftyTwoWeekChangePercent: 38.36088
+fiftyTwoWeekHigh: 405.9
+fiftyTwoWeekHighChange: -6.100006
+fiftyTwoWeekHighChangePercent: -0.015028347
+fiftyTwoWeekLow: 283.6
+fiftyTwoWeekLowChange: 116.19998
+fiftyTwoWeekLowChangePercent: 0.40973195
+fiftyTwoWeekRange: 283.6 - 405.9
+financialCurrency: CHF
+firstTradeDateMilliseconds: 796892400000
+fiveYearAvgDividendYield: 3.22
+floatShares: 723670608
+forwardEps: 22.05566
+forwardPE: 18.126865
+freeCashflow: 10317875200
+fullExchangeName: Swiss
+fulldayChange: -2.0
+fulldayChangePercent: -0.4977601
+fulldayPrice: 399.8
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.74167
+grossProfits: 46694998016
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.44881
+impliedSharesOutstanding: 796765913
+industry: Drug Manufacturers - General
+industryDisp: Drug Manufacturers - General
+industryKey: drug-manufacturers-general
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1773273600
+lastDividendValue: 9.8
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 988934400
+lastSplitFactor: '100:1'
+longBusinessSummary: Roche Holding AG engages in the pharmaceuticals and diagnostics
+  businesses in Europe, North America, Latin America, Asia, Africa, Australia, and
+  New Zealand. The company offers pharma solutions in the therapeutic areas of anaemia,
+  blood and solid tumors, dermatology, haematology, infectious diseases, inflammatory
+  and autoimmune, neurological disorders, ophthalmology, respiratory disorders, and
+  transplantation. It also provides in vitro tests for the diagnosis of various diseases,
+  such as cancer, diabetes, Covid-19, hepatitis, human papillomavirus, and others;
+  diagnostic instruments; and digital health solutions. Roche Holding AG has a collaboration
+  agreement with Excalipoint Therapeutics to evaluate EXP011 in DLL3-expressing solid
+  tumors. The company was founded in 1896 and is based in Basel, Switzerland.
+longName: Roche Holding AG
+market: ch_market
+marketCap: 318547001344
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_687140
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 12341000192
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 320532357604
+numberOfAnalystOpinions: 21
+open: 399.2
+operatingCashflow: 19387000832
+operatingMargins: 0.33117
+overallRisk: 8
+payoutRatio: 0.6393
+pegRatio: 1.78
+phone: 41 61 688 88 80
+previousClose: 401.8
+priceEpsCurrentYear: 19.485386
+priceHint: 2
+priceToBook: 9.743614
+priceToSalesTrailing12Months: 5.059594
+profitMargins: 0.19601999
+quickRatio: 0.8
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.27273
+region: US
+regularMarketChange: -2.0
+regularMarketChangePercent: -0.4977601
+regularMarketDayHigh: 402.2
+regularMarketDayLow: 397.5
+regularMarketDayRange: 397.5 - 402.2
+regularMarketOpen: 399.2
+regularMarketPreviousClose: 401.8
+regularMarketPrice: 399.8
+regularMarketTime: 1794411577
+regularMarketVolume: 441002
+returnOnAssets: 0.13506
+returnOnEquity: 0.38108003
+revenueGrowth: -0.012
+revenuePerShare: 79.094
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 9
+sharesOutstanding: 690074913
+shortName: ROCHE PS
+sourceInterval: 15
+symbol: ROP.SW
+targetHighPrice: 500.0
+targetLowPrice: 250.0
+targetMeanPrice: 396.41287
+targetMedianPrice: 410.0
+totalCash: 9733999616
+totalCashPerShare: 12.217
+totalDebt: 33308000256
+totalRevenue: 62959001600
+tradeable: false
+trailingAnnualDividendRate: 9.8
+trailingAnnualDividendYield: 0.024390245
+trailingEps: 15.33
+trailingPE: 26.079582
+trailingPegRatio: 1.7793
+triggerable: false
+twoHundredDayAverage: 344.9235
+twoHundredDayAverageChange: 54.876495
+twoHundredDayAverageChangePercent: 0.15909758
+typeDisp: Equity
+volume: 441002
+website: https://www.roche.com
+zip: '4070'

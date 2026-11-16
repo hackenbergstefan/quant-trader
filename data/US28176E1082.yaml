@@ -1,0 +1,268 @@
+52WeekChange: 0.21535408
+SandP52WeekChange: 0.097798586
+address1: One Edwards Way
+allTimeHigh: 131.73
+allTimeLow: 1.0
+ask: 104.53
+askSize: 200
+auditRisk: 4
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 6445430
+averageDailyVolume3Month: 3756064
+averageVolume: 3756064
+averageVolume10days: 6445430
+beta: 0.832
+bid: 104.47
+bidSize: 200
+boardRisk: 2
+bookValue: 18.869
+city: Irvine
+companyOfficers:
+- age: 57
+  exercisedValue: 1055580
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bernard J. Zovighian
+  title: CEO & Director
+  totalPay: 3788122
+  unexercisedValue: 1744319
+  yearBorn: 1968
+- age: 63
+  exercisedValue: 1042589
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Donald E. Bobo Jr.
+  title: Corporate Vice President of Strategy & Corporate Development
+  totalPay: 1595262
+  unexercisedValue: 1890761
+  yearBorn: 1962
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daveen  Chopra
+  title: Corporate Vice President of Transcatheter Mitral & Tricuspid Therapies
+  totalPay: 1555892
+  unexercisedValue: 399726
+  yearBorn: 1979
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Annette Maria Bruls
+  title: Corporate Vice President of EMEA, Canada, & Latin America
+  totalPay: 1627873
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Theodora  Mistras
+  title: Corporate VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph  Nuzzolese
+  title: Corporate Vice President of Global Operations & Quality
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew M. Dahl
+  title: Principal Accounting Officer, Senior VP & Corporate Controller
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Todd  Brinton FACC, M.D.
+  title: Corporate VP of Advanced Innovation & Technology and Chief Scientific Officer
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Snehashish  Sarkar
+  title: Senior VP and Chief Information & Digital Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark D. Peterson
+  title: Corporate VP & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1963
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 104.6775
+currentRatio: 4.597
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 104.76
+dayLow: 102.73
+debtToEquity: 6.427
+displayName: Edwards Lifesciences
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793829600
+earningsCallTimestampStart: 1793829600
+earningsGrowth: 0.067
+earningsQuarterlyGrowth: 0.056
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1793826000
+earningsTimestampStart: 1793826000
+ebitda: 2094700032
+ebitdaMargins: 0.31383
+enterpriseToEbitda: 26.718
+enterpriseToRevenue: 8.385
+enterpriseValue: 55965949952
+epsCurrentYear: 3.01301
+epsForward: 3.4022
+epsTrailingTwelveMonths: 1.72
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 89.4758
+fiftyDayAverageChange: 15.201698
+fiftyDayAverageChangePercent: 0.16989732
+fiftyTwoWeekChangePercent: 21.535408
+fiftyTwoWeekHigh: 105.37
+fiftyTwoWeekHighChange: -0.6925049
+fiftyTwoWeekHighChangePercent: -0.0065721255
+fiftyTwoWeekLow: 74.66
+fiftyTwoWeekLowChange: 30.017494
+fiftyTwoWeekLowChangePercent: 0.4020559
+fiftyTwoWeekRange: 74.66 - 105.37
+financialCurrency: USD
+firstTradeDateMilliseconds: 954167400000
+floatShares: 573280750
+forwardEps: 3.4022
+forwardPE: 30.767591
+freeCashflow: 1145337472
+fullExchangeName: NYSE
+fullTimeEmployees: 16000
+fulldayChange: 0.6674957
+fulldayChangePercent: 0.64176106
+fulldayPrice: 104.6775
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.78018
+grossProfits: 5207499776
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00195
+heldPercentInstitutions: 0.95198995
+impliedSharesOutstanding: 575000000
+industry: Medical Devices
+industryDisp: Medical Devices
+industryKey: medical-devices
+irWebsite: http://ir.edwards.com/
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1590969600
+lastSplitFactor: '3:1'
+longBusinessSummary: Edwards Lifesciences Corporation provides products and technologies
+  to treat advanced cardiovascular diseases in the United States, Europe, Japan, and
+  internationally. It offers transcatheter heart valve replacement products for minimally
+  invasive replacement of aortic heart valves under the Edwards SAPIEN family of valves
+  system; and transcatheter heart valve repair and replacement products to treat mitral
+  and tricuspid valve diseases under the PASCAL and EVOQUE brands. The company also
+  provides surgical structural heart solutions, such as aortic surgical valve under
+  the INSPIRIS brand name; INSPIRIS RESILIA aortic valve, which offers RESILIA tissue
+  and VFit technology; KONECT RESILIA, a pre-assembled tissue valve conduit for complex
+  combined procedures; and MITRIS RESILIA valve. It distributes its products through
+  a direct sales force and independent distributors. Edwards Lifesciences Corporation
+  was founded in 1958 and is headquartered in Irvine, California.
+longName: Edwards Lifesciences Corporation
+market: us_market
+marketCap: 60189560832
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_411220
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 994300032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 59805750000
+numberOfAnalystOpinions: 27
+open: 103.76
+operatingCashflow: 1716899968
+operatingMargins: 0.28818
+overallRisk: 2
+payoutRatio: 0.0
+pegRatio: 2.14
+phone: 949 250 2500
+previousClose: 104.01
+priceEpsCurrentYear: 34.741837
+priceHint: 2
+priceToBook: 5.547591
+priceToSalesTrailing12Months: 9.017569
+profitMargins: 0.15301
+quickRatio: 3.541
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.53333
+region: US
+regularMarketChange: 0.6674957
+regularMarketChangePercent: 0.64176106
+regularMarketDayHigh: 104.76
+regularMarketDayLow: 102.73
+regularMarketDayRange: 102.73 - 104.76
+regularMarketOpen: 103.76
+regularMarketPreviousClose: 104.01
+regularMarketPrice: 104.6775
+regularMarketTime: 1794413716
+regularMarketVolume: 654255
+returnOnAssets: 0.0877
+returnOnEquity: 0.09333
+revenueGrowth: 0.105
+revenuePerShare: 11.545
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 4
+sharesOutstanding: 575000000
+sharesPercentSharesOut: 0.0163
+sharesShort: 9382239
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 9538735
+shortName: Edwards Lifesciences Corporatio
+shortPercentOfFloat: 0.0186
+shortRatio: 2.58
+sourceInterval: 15
+state: CA
+symbol: EW
+targetHighPrice: 120.0
+targetLowPrice: 84.0
+targetMeanPrice: 111.64481
+targetMedianPrice: 115.0
+totalCash: 4644700160
+totalCashPerShare: 8.078
+totalDebt: 704499968
+totalRevenue: 6674699776
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 1.72
+trailingPE: 60.85901
+trailingPegRatio: 2.1423
+triggerable: true
+twoHundredDayAverage: 85.97585
+twoHundredDayAverageChange: 18.701645
+twoHundredDayAverageChangePercent: 0.21752207
+typeDisp: Equity
+volume: 654255
+website: https://www.edwards.com
+zip: '92614'

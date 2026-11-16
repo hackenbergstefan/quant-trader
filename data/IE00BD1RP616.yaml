@@ -1,0 +1,245 @@
+52WeekChange: 0.25
+SandP52WeekChange: 0.097798586
+address1: Baggot Plaza
+address2: 27-33 Upper Baggot St
+allTimeHigh: 418.6531
+allTimeLow: 1.281
+ask: 19.58
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1976382
+averageDailyVolume3Month: 2057332
+averageVolume: 2057332
+averageVolume10days: 1976382
+beta: 0.415
+bid: 19.57
+bidSize: 0
+boardRisk: 2
+bookValue: 13.804
+city: Dublin
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Myles  O'Grady FCCA
+  title: Group CEO & Executive Director
+  totalPay: 1858000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark Joseph Spain
+  title: CFO & Executive Director
+  totalPay: 1176000
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ciaran  Coyle
+  title: Group Chief Operating Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sharon  Donnelly
+  title: Interim Chief Technology & Payments Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eamonn  Hughes
+  title: Chief Sustainability & Investor Relations Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Gabrielle  Ryan
+  title: Group General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Damien  Garvey
+  title: Head of Group External Communications & Public Affairs
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew H. Elliott BCom, CIPD, Dip. Commerce, MA, MSc
+  title: Group Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Mangan
+  title: Head of US Leveraged Acquisition Finance - US
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Owen  Clifford
+  title: Head of Retail Convenience
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: Ireland
+cryptoTradeable: false
+currency: EUR
+currentPrice: 19.58
+customPriceAlertConfidence: LOW
+dayHigh: 19.85
+dayLow: 19.555
+dividendRate: 0.84
+dividendYield: 4.29
+earningsCallTimestampEnd: 1785511800
+earningsCallTimestampStart: 1785511800
+earningsGrowth: 0.356
+earningsQuarterlyGrowth: 0.288
+earningsTimestampEnd: 1785511800
+earningsTimestampStart: 1785511800
+ebitdaMargins: 0.0
+enterpriseToRevenue: 2.073
+enterpriseValue: 8721800192
+epsCurrentYear: 1.6319
+epsForward: 1.85903
+epsTrailingTwelveMonths: 1.35
+esgPopulated: false
+exDividendDate: 1790812800
+exchange: ISE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Dublin
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fax: 353 1 661 5671
+fiftyDayAverage: 19.2432
+fiftyDayAverageChange: 0.33679962
+fiftyDayAverageChangePercent: 0.017502267
+fiftyTwoWeekChangePercent: 25.0
+fiftyTwoWeekHigh: 20.58
+fiftyTwoWeekHighChange: -1.0
+fiftyTwoWeekHighChangePercent: -0.048590865
+fiftyTwoWeekLow: 14.58
+fiftyTwoWeekLowChange: 5.0
+fiftyTwoWeekLowChangePercent: 0.34293553
+fiftyTwoWeekRange: 14.58 - 20.58
+financialCurrency: EUR
+firstTradeDateMilliseconds: 995007600000
+fiveYearAvgDividendYield: 1.82
+floatShares: 942717100
+forwardEps: 1.85903
+forwardPE: 10.532374
+fullExchangeName: Irish
+fullTimeEmployees: 11030
+fulldayChange: -0.020000458
+fulldayChangePercent: -0.10209524
+fulldayPrice: 19.58
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 4207000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00063
+heldPercentInstitutions: 0.65679
+impliedSharesOutstanding: 943000000
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790812800
+lastDividendValue: 0.39
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1499385600
+lastSplitFactor: '1:30'
+longBusinessSummary: Bank of Ireland Group plc provides banking and other financial
+  services in the Republic of Ireland, the United Kingdom, and internationally. It
+  offers current and savings accounts, demand and notice accounts, and business accounts
+  and deposits; personal, car, home improvement and energy upgrade, top-up loans,
+  and student loans, as well as overdrafts and mortgages; and business and farming
+  loans, green business, insurance premium finance, invoice finance, hire purchase,
+  and leasing services. The company also provides international payments and credit
+  cards; international money transfer services; investment products; premier and private
+  banking services; and business protection, mortgage protection, income protection,
+  home protection, and protection for individuals and families. In addition, it provides
+  home, car, travel, and life insurance products. It offers its products and services
+  through its bank branches, banking app, and online and phone banking channels. Bank
+  of Ireland Group plc was founded in 1783 and is headquartered in Dublin, Ireland.
+longName: Bank of Ireland Group plc
+market: ie_market
+marketCap: 18463940608
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_387895
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1288000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 18138605000
+numberOfAnalystOpinions: 13
+open: 19.775
+operatingCashflow: 438000000
+operatingMargins: 0.45923
+overallRisk: 4
+payoutRatio: 0.517
+phone: 353 1 661 5933
+previousClose: 19.6
+priceEpsCurrentYear: 11.998284
+priceHint: 2
+priceToBook: 1.4184295
+priceToSalesTrailing12Months: 4.3888617
+profitMargins: 0.32707
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.84615
+region: US
+regularMarketChange: -0.020000458
+regularMarketChangePercent: -0.10209524
+regularMarketDayHigh: 19.85
+regularMarketDayLow: 19.555
+regularMarketDayRange: 19.555 - 19.85
+regularMarketOpen: 19.775
+regularMarketPreviousClose: 19.6
+regularMarketPrice: 19.58
+regularMarketTime: 1794410647
+regularMarketVolume: 227520
+returnOnAssets: 0.0083099995
+returnOnEquity: 0.10549
+revenueGrowth: 0.133
+revenuePerShare: 4.417
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 943000000
+shortName: BANK OF IRELAND GROUP PLC
+sourceInterval: 15
+symbol: BIRG.IR
+targetHighPrice: 23.75
+targetLowPrice: 18.0
+targetMeanPrice: 21.69385
+targetMedianPrice: 22.05
+totalCash: 21991000064
+totalCashPerShare: 23.32
+totalDebt: 12227000320
+totalRevenue: 4207000064
+tradeable: false
+trailingAnnualDividendRate: 0.84
+trailingAnnualDividendYield: 0.04285714
+trailingEps: 1.35
+trailingPE: 14.503703
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 17.66885
+twoHundredDayAverageChange: 1.91115
+twoHundredDayAverageChangePercent: 0.10816494
+typeDisp: Equity
+volume: 227520
+website: https://www.bankofireland.com
+zip: D04 VX58

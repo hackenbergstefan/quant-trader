@@ -1,0 +1,273 @@
+52WeekChange: -0.1639446
+SandP52WeekChange: 0.097798586
+address1: 6110 Stoneridge Mall Road
+allTimeHigh: 311.28
+allTimeLow: 45.05
+ask: 197.84
+askSize: 1
+auditRisk: 9
+averageDailyVolume10Day: 2293840
+averageDailyVolume3Month: 3112914
+averageVolume: 3112914
+averageVolume10days: 2293840
+beta: 1.009
+bid: 181.62
+bidSize: 1
+boardRisk: 10
+bookValue: 26.805
+city: Pleasanton
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Aneel  Bhusri
+  title: Co-Founder, CEO & Executive Chairman of the Board
+  totalPay: 3909259
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Zane C. Rowe
+  title: Chief Financial Officer
+  totalPay: 1187790
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Richard Harry Sauer J.D.
+  title: Chief Legal Officer, Head of Corporate Affairs & Corporate Secretary
+  totalPay: 928254
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Gerrit  Kazmaier
+  title: President of Product & Technology
+  totalPay: 1525077
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Robert  Enslin
+  title: President & Chief Commercial Officer
+  totalPay: 633236
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 84
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. David Albert Duffield
+  title: Co-Founder & CEO Emeritus
+  unexercisedValue: 0
+  yearBorn: 1941
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Mark S. Garfield
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Gabriel  Monroy
+  title: Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Rani  Johnson
+  title: Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Justin Allen Furby
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 190.25
+currentRatio: 0.908
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 191.25
+dayLow: 188.02
+debtToEquity: 58.39
+displayName: Workday
+dividendYield: 0.0
+earningsCallTimestampEnd: 1795555800
+earningsCallTimestampStart: 1795555800
+earningsGrowth: 2.06
+earningsQuarterlyGrowth: 1.772
+earningsTimestamp: 1795554000
+earningsTimestampEnd: 1795554000
+earningsTimestampStart: 1795554000
+ebitda: 1586000000
+ebitdaMargins: 0.15618
+enterpriseToEbitda: 28.935
+enterpriseToRevenue: 4.519
+enterpriseValue: 45891489792
+epsCurrentYear: 11.08703
+epsForward: 13.24296
+epsTrailingTwelveMonths: 4.91
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 925 951 9001
+fiftyDayAverage: 193.8682
+fiftyDayAverageChange: -3.6181946
+fiftyDayAverageChangePercent: -0.018663168
+fiftyTwoWeekChangePercent: -16.39446
+fiftyTwoWeekHigh: 236.8
+fiftyTwoWeekHighChange: -46.550003
+fiftyTwoWeekHighChangePercent: -0.1965794
+fiftyTwoWeekLow: 110.36
+fiftyTwoWeekLowChange: 79.89
+fiftyTwoWeekLowChangePercent: 0.7239036
+fiftyTwoWeekRange: 110.36 - 236.8
+financialCurrency: USD
+firstTradeDateMilliseconds: 1350048600000
+floatShares: 194286970
+forwardEps: 13.24296
+forwardPE: 14.366123
+freeCashflow: 3046374912
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 20896
+fulldayChange: 1.3600006
+fulldayChangePercent: 0.7199961
+fulldayPrice: 190.25
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.75795
+grossProfits: 7696999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.021089999
+heldPercentInstitutions: 1.1007199
+impliedSharesOutstanding: 241000000
+industry: Software - Application
+industryDisp: Software - Application
+industryKey: software-application
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1769817600
+longBusinessSummary: Workday, Inc. provides enterprise cloud applications in the United
+  States and internationally. The company offers a suite of financial management applications
+  to maintain accounting information; manage financial processes, such as payables
+  and receivables; identify real-time financial, operational, and management insights;
+  perform financial consolidation; reduce time-to-close; promote internal control
+  and auditability; and achieve consistency across finance operations. It also provides
+  spend management solutions that help organizations to streamline supplier selection
+  and contract management, build and execute sourcing events, such as requests for
+  proposals, and manage indirect spend; expense management solutions to submit and
+  approve expenses; and a suite of human capital management applications that enables
+  HR teams to hire, onboard, pay, develop, reskill, and provide employee experiences.
+  In addition, the company offers planning applications. Further, it provides supply
+  chain and inventory solutions to healthcare organizations; solutions to manage the
+  end-to-end student and faculty lifecycle; Workday Extend for customers and their
+  developers to build custom applications. The company serves the professional and
+  business services, financial services, healthcare, manufacturing, media, education,
+  government, technology, media, retail, and hospitality industries. It sells its
+  solutions through its direct sales organization. The company was formerly known
+  as North Tahoe Power Tools, Inc. and changed its name to Workday, Inc. in July 2005.
+  Workday, Inc. was incorporated in 2005 and is headquartered in Pleasanton, California.
+longName: Workday, Inc.
+market: us_market
+marketCap: 45850251264
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_23815047
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 1251000064
+nextFiscalYearEnd: 1801353600
+nonDilutedMarketCap: 45522490000
+numberOfAnalystOpinions: 37
+open: 190.49
+operatingCashflow: 3080999936
+operatingMargins: 0.12024
+overallRisk: 10
+payoutRatio: 0.0
+pegRatio: 0.57
+phone: 925 951 9000
+previousClose: 188.89
+priceEpsCurrentYear: 17.159689
+priceHint: 2
+priceToBook: 7.097556
+priceToSalesTrailing12Months: 4.515042
+profitMargins: 0.12319
+quickRatio: 0.81
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 1.3600006
+regularMarketChangePercent: 0.7199961
+regularMarketDayHigh: 191.25
+regularMarketDayLow: 188.02
+regularMarketDayRange: 188.02 - 191.25
+regularMarketOpen: 190.49
+regularMarketPreviousClose: 188.89
+regularMarketPrice: 190.25
+regularMarketTime: 1794413743
+regularMarketVolume: 215137
+returnOnAssets: 0.04513
+returnOnEquity: 0.16006
+revenueGrowth: 0.128
+revenuePerShare: 39.59
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 10
+sharesOutstanding: 196000000
+sharesPercentSharesOut: 0.048800003
+sharesShort: 11749706
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 12620102
+shortName: Workday, Inc.
+shortPercentOfFloat: 0.0691
+shortRatio: 5.32
+sourceInterval: 15
+state: CA
+symbol: WDAY
+targetHighPrice: 275.0
+targetLowPrice: 92.0
+targetMeanPrice: 209.25323
+targetMedianPrice: 210.0
+totalCash: 3403000064
+totalCashPerShare: 14.12
+totalDebt: 3772000000
+totalRevenue: 10154999808
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 4.91
+trailingPE: 38.747456
+trailingPegRatio: 0.5685
+triggerable: true
+twoHundredDayAverage: 155.8913
+twoHundredDayAverageChange: 34.358704
+twoHundredDayAverageChangePercent: 0.22040167
+typeDisp: Equity
+volume: 215137
+website: https://www.workday.com
+zip: '94588'

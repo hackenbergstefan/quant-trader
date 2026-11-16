@@ -1,0 +1,287 @@
+52WeekChange: 0.05261886
+SandP52WeekChange: 0.097798586
+address1: 40 Westminster Street
+allTimeHigh: 101.57
+allTimeLow: 1.421875
+ask: 86.16
+askSize: 100
+auditRisk: 3
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 2172420
+averageDailyVolume3Month: 1745587
+averageVolume: 1745587
+averageVolume10days: 2172420
+beta: 0.88
+bid: 86.02
+bidSize: 200
+boardRisk: 4
+bookValue: 47.897
+city: Providence
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott C. Donnelly
+  title: Executive Chairman
+  totalPay: 4921737
+  unexercisedValue: 43363544
+  yearBorn: 1962
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Rosenberg
+  title: Executive VP & CFO
+  totalPay: 1979888
+  unexercisedValue: 214189
+  yearBorn: 1977
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. E. Robert Lupone
+  title: Executive VP, General Counsel, Secretary & Chief Compliance Officer
+  totalPay: 2105762
+  unexercisedValue: 5543967
+  yearBorn: 1960
+- age: 59
+  exercisedValue: 1050409
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie G. Duffy
+  title: Executive VP & Chief Human Resources Officer
+  totalPay: 1641212
+  unexercisedValue: 2150925
+  yearBorn: 1966
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lisa M. Atherton
+  title: CEO, President & Director
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Todd A. Kackley
+  title: VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott P. Hegstrom
+  title: Vice President of Investor Relations & Treasurer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jorg  Rautenstrauch
+  title: CEO & President of Industrial Segment and Kautex and Textron Specialized
+    Vehicles
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shannon H. Hines
+  title: Senior Vice President of Government Affairs & Washington Operations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tom  Hammoor
+  title: President & CEO of Textron Systems Segment
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions:
+- header: Dividend
+  message: TXT announced a cash dividend of $0.02 with an ex-date of Dec. 11, 2026
+  meta:
+    amount: '0.02'
+    dateEpochMs: 1796965200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 86.29
+currentRatio: 1.803
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 87.15
+dayLow: 85.3201
+debtToEquity: 51.861
+displayName: Textron
+dividendDate: 1798761600
+dividendRate: 0.08
+dividendYield: 0.09
+earningsCallTimestampEnd: 1793275200
+earningsCallTimestampStart: 1793275200
+earningsGrowth: 0.191
+earningsQuarterlyGrowth: 0.154
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1801056600
+earningsTimestampStart: 1801056600
+ebitda: 1692000000
+ebitdaMargins: 0.10953
+enterpriseToEbitda: 10.228
+enterpriseToRevenue: 1.12
+enterpriseValue: 17306306560
+epsCurrentYear: 6.6298
+epsForward: 7.20767
+epsTrailingTwelveMonths: 5.56
+esgPopulated: false
+exDividendDate: 1796947200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 79.1192
+fiftyDayAverageChange: 7.1707993
+fiftyDayAverageChangePercent: 0.090632856
+fiftyTwoWeekChangePercent: 5.261886
+fiftyTwoWeekHigh: 101.57
+fiftyTwoWeekHighChange: -15.279999
+fiftyTwoWeekHighChangePercent: -0.15043812
+fiftyTwoWeekLow: 71.87
+fiftyTwoWeekLowChange: 14.419998
+fiftyTwoWeekLowChangePercent: 0.20064001
+fiftyTwoWeekRange: 71.87 - 101.57
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 0.1
+floatShares: 168056637
+forwardEps: 7.20767
+forwardPE: 11.971969
+freeCashflow: 756499968
+fullExchangeName: NYSE
+fullTimeEmployees: 34000
+fulldayChange: -0.5299988
+fulldayChangePercent: -0.610457
+fulldayPrice: 86.29
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.1753
+grossProfits: 2708000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0074400003
+heldPercentInstitutions: 0.97175
+impliedSharesOutstanding: 169399979
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=110047&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1789084800
+lastDividendValue: 0.02
+lastFiscalYearEnd: 1767398400
+lastSplitDate: 1188172800
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Textron Inc. operates in the aircraft, defense, industrial,
+  and finance businesses worldwide. It operates in six segments: Textron Aviation,
+  Bell, Textron Systems, Industrial, Textron eAviation, and Finance. The Textron Aviation
+  segment manufactures, sells, and services business jets, turboprop and piston engine
+  aircraft, and military trainer and defense aircraft, as well as offers maintenance,
+  inspection, and repair services; commercial parts; and advanced flight training
+  devices. The Bell segment supplies military and commercial helicopters, tiltrotor
+  aircraft, and related spare parts and services. The Textron Systems segment offers
+  unmanned aircraft systems, electronic systems and solutions, advanced marine crafts,
+  piston aircraft engines, live military air-to-air and air-to-ship training, weapons
+  and related components, and armored and specialty vehicles. The Industrial segment
+  offers blow-molded solutions, including conventional plastic fuel tanks and pressurized
+  fuel tanks; plastic tanks for catalytic reduction systems and other fuel system
+  components; lightweight and composite pentatonic battery systems for use in electric
+  vehicles primarily to automobile original equipment manufacturers; and golf cars,
+  off-road utility vehicles, powersports products, light transportation vehicles,
+  aviation ground support equipment, professional turf-maintenance equipment, and
+  turf-care vehicles to golf courses and resorts, government agencies and municipalities,
+  consumers, outdoor enthusiasts, and commercial and industrial users. The Textron
+  eAviation segment manufactures and sells light aircraft and gliders with electric
+  and combustion engines; and provides other research and development initiatives
+  related to sustainable aviation solutions. The Finance segment offers financing
+  services to purchase new and pre-owned aviation aircraft and Bell helicopters. Textron
+  Inc. was founded in 1923 and is headquartered in Providence, Rhode Island.'
+longName: Textron Inc.
+market: us_market
+marketCap: 14617525248
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_35303
+mostRecentQuarter: 1790985600
+netIncomeToCommon: 974000000
+nextFiscalYearEnd: 1798934400
+nonDilutedMarketCap: 14707306176
+numberOfAnalystOpinions: 15
+open: 86.32
+operatingCashflow: 1312000000
+operatingMargins: 0.08344
+overallRisk: 6
+payoutRatio: 0.014400001
+pegRatio: 1.0
+phone: 401 421 2800
+previousClose: 86.82
+priceEpsCurrentYear: 13.015476
+priceHint: 2
+priceToBook: 1.8015742
+priceToSalesTrailing12Months: 0.9462406
+profitMargins: 0.062989995
+quickRatio: 0.652
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.1875
+region: US
+regularMarketChange: -0.5299988
+regularMarketChangePercent: -0.610457
+regularMarketDayHigh: 87.15
+regularMarketDayLow: 85.3201
+regularMarketDayRange: 85.3201 - 87.15
+regularMarketOpen: 86.32
+regularMarketPreviousClose: 86.82
+regularMarketPrice: 86.29
+regularMarketTime: 1794413718
+regularMarketVolume: 134909
+returnOnAssets: 0.045100003
+returnOnEquity: 0.1248
+revenueGrowth: 0.041
+revenuePerShare: 88.922
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 7
+sharesOutstanding: 169399979
+sharesPercentSharesOut: 0.0432
+sharesShort: 7309932
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8160813
+shortName: Textron Inc.
+shortPercentOfFloat: 0.0502
+shortRatio: 4.08
+sourceInterval: 15
+state: RI
+symbol: TXT
+targetHighPrice: 115.0
+targetLowPrice: 92.0
+targetMeanPrice: 101.26667
+targetMedianPrice: 100.0
+totalCash: 1610000000
+totalCashPerShare: 9.504
+totalDebt: 4208999936
+totalRevenue: 15448000512
+tradeable: false
+trailingAnnualDividendRate: 0.08
+trailingAnnualDividendYield: 0.00092144666
+trailingEps: 5.56
+trailingPE: 15.519785
+trailingPegRatio: 1.0031
+triggerable: true
+twoHundredDayAverage: 88.01645
+twoHundredDayAverageChange: -1.726448
+twoHundredDayAverageChangePercent: -0.019615062
+typeDisp: Equity
+volume: 134909
+website: https://www.textron.com
+zip: 02903

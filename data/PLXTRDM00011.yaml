@@ -1,0 +1,192 @@
+52WeekChange: 0.8727524
+SandP52WeekChange: 0.097798586
+address1: Prosta street 67
+allTimeHigh: 186.7
+allTimeLow: 2.91
+ask: 135.4
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 586112
+averageDailyVolume3Month: 653808
+averageVolume: 653808
+averageVolume10days: 586112
+beta: 0.036
+bid: 135.12
+bookValue: 21.771
+city: Warsaw
+companyOfficers:
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Omar  Arnaout
+  title: Chairman of the Management Board & CEO
+  totalPay: 2213000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pawel  Szejko
+  title: CFO & Member of the Management Board
+  totalPay: 1087000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Filip  Kaczmarzyk
+  title: Director of Trading Department & Member of the Management Board
+  totalPay: 1512000
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bartosz  Osinski
+  title: Member of Management Board for Risk
+  totalPay: 120000
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Poland
+cryptoTradeable: false
+currency: PLN
+currentPrice: 135.4
+customPriceAlertConfidence: LOW
+dayHigh: 136.18
+dayLow: 133.24
+debtToEquity: 10.736
+dividendRate: 4.07
+dividendYield: 3.01
+earningsGrowth: 3.039
+earningsQuarterlyGrowth: 3.015
+earningsTimestamp: 1795190700
+earningsTimestampEnd: 1795190700
+earningsTimestampStart: 1795190700
+ebitdaMargins: 0.0
+enterpriseToRevenue: 1.775
+enterpriseValue: 5996533760
+epsCurrentYear: 15.03449
+epsForward: 7.5
+epsTrailingTwelveMonths: 10.73
+esgPopulated: false
+exDividendDate: 1781222400
+exchange: WSE
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Warsaw
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 143.2492
+fiftyDayAverageChange: -7.8492126
+fiftyDayAverageChangePercent: -0.05479411
+fiftyTwoWeekChangePercent: 87.275246
+fiftyTwoWeekHigh: 186.7
+fiftyTwoWeekHighChange: -51.300003
+fiftyTwoWeekHighChangePercent: -0.27477238
+fiftyTwoWeekLow: 67.24
+fiftyTwoWeekLowChange: 68.159996
+fiftyTwoWeekLowChangePercent: 1.0136822
+fiftyTwoWeekRange: 67.24 - 186.7
+financialCurrency: PLN
+firstTradeDateMilliseconds: 1462518000000
+fiveYearAvgDividendYield: 6.34
+floatShares: 84739213
+forwardEps: 7.5
+forwardPE: 18.053333
+fullExchangeName: Warsaw
+fullTimeEmployees: 1177
+fulldayChange: 2.4599915
+fulldayChangePercent: 1.8504524
+fulldayPrice: 135.4
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.93056
+grossProfits: 3143715072
+hasPrePostMarketData: false
+heldPercentInsiders: 0.35781
+heldPercentInstitutions: 0.23336
+impliedSharesOutstanding: 117397851
+industry: Capital Markets
+industryDisp: Capital Markets
+industryKey: capital-markets
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1781222400
+lastDividendValue: 4.07
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: XTB S.A., together with its subsidiaries, provides ETF, currency
+  derivatives, commodities, indices, stocks, and bonds brokerage services in Central
+  and Eastern Europe, Western Europe, Latin America, and the Middle East. It operates
+  in two segments, Retail Operations and Institutional Activity. The Retail operations
+  segment engages in the provision of trading in financial instruments for individual
+  customers. The Institutional Activity segment involves the provision of trading
+  in financial instruments and offering trade infrastructure to entities that provide
+  services of trading in financial instruments for own customers under own brand.
+  The company was formerly known as X-Trade Brokers Dom Maklerski Spólka Akcyjna and
+  changed its name to XTB S.A. in January 2022. XTB S.A. was founded in 2002 and is
+  headquartered in Warsaw, Poland. XTB S.A. operates as a subsidiary of XXZW Investment
+  Group S.A.
+longName: XTB S.A.
+market: pl_market
+marketCap: 15895667712
+marketState: CLOSED
+maxAge: 86400
+messageBoardId: finmb_106419004
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1421820032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 15895669025
+numberOfAnalystOpinions: 4
+open: 134.5
+operatingMargins: 0.51435
+payoutRatio: 0.3793
+phone: 44 20 3695 3086
+prevName: X-Trade Brokers Dom Maklerski S.A.
+previousClose: 132.94
+priceEpsCurrentYear: 9.005959
+priceHint: 2
+priceToBook: 6.219282
+priceToSalesTrailing12Months: 4.705217
+profitMargins: 0.42087
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: 2.4599915
+regularMarketChangePercent: 1.8504524
+regularMarketDayHigh: 136.18
+regularMarketDayLow: 133.24
+regularMarketDayRange: 133.24 - 136.18
+regularMarketOpen: 134.5
+regularMarketPreviousClose: 132.94
+regularMarketPrice: 135.4
+regularMarketTime: 1794326537
+regularMarketVolume: 388197
+revenueGrowth: 0.641
+revenuePerShare: 28.735
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+sharesOutstanding: 117397851
+shortName: XTB C.XWAR PLN
+sourceInterval: 15
+symbol: XTB.WA
+targetHighPrice: 178.74944
+targetLowPrice: 147.0
+targetMeanPrice: 159.93736
+targetMedianPrice: 157.0
+totalCash: 10198028288
+totalCashPerShare: 86.741
+totalDebt: 274892000
+totalRevenue: 3378307072
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 10.73
+trailingPE: 12.618826
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 122.1666
+twoHundredDayAverageChange: 13.233391
+twoHundredDayAverageChangePercent: 0.108322494
+typeDisp: Equity
+volume: 388197
+website: https://www.xtb.com
+zip: 00-838

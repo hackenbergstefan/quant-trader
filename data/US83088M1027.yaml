@@ -1,0 +1,276 @@
+52WeekChange: 0.19075727
+SandP52WeekChange: 0.097798586
+address1: 5260 California Avenue
+allTimeHigh: 204.0
+allTimeLow: 0.541667
+ask: 89.57
+askSize: 1
+auditRisk: 4
+averageAnalystRating: 3.0 - Hold
+averageDailyVolume10Day: 5093440
+averageDailyVolume3Month: 6488151
+averageVolume: 6488151
+averageVolume10days: 5093440
+beta: 1.493
+bid: 80.79
+bidSize: 1
+boardRisk: 4
+bookValue: 38.181
+city: Irvine
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philip Gordon Brace
+  title: CEO, President & Director
+  totalPay: 2267283
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philip Matthew Carter
+  title: Senior VP, CFO and Principal Financial & Accounting Officer
+  totalPay: 1428727
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Reza  Kasnavi
+  title: Executive VP, Chief Operations & Technology Officer
+  totalPay: 1476680
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karilee A. Durham
+  title: Senior Vice President of Human Resources
+  totalPay: 1125868
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rajvindra S. Gill
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason K. Givens
+  title: Senior VP, General Counsel & Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Todd  Lepinski
+  title: Senior VP of Sales & Marketing
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joel R. King
+  title: Senior VP & GM of Mobile Solutions Business
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Yusuf  Jamal
+  title: Senior VP & GM of Diversified Analog Solutions
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank P. Stewart
+  title: Senior VP & President of Advanced Cellular
+  unexercisedValue: 0
+  yearBorn: 1974
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 86.05
+currentRatio: 3.341
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 86.345
+dayLow: 83.155
+debtToEquity: 43.263
+displayName: Skyworks
+dividendDate: 1781568000
+dividendRate: 0.0
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793741400
+earningsCallTimestampStart: 1793741400
+earningsGrowth: -0.842
+earningsQuarterlyGrowth: -0.835
+earningsTimestamp: 1793739600
+earningsTimestampEnd: 1801602000
+earningsTimestampStart: 1801602000
+ebitda: 818700032
+ebitdaMargins: 0.20676
+enterpriseToEbitda: 14.961
+enterpriseToRevenue: 3.093
+enterpriseValue: 12248386560
+epsCurrentYear: 5.70851
+epsForward: 7.54222
+epsTrailingTwelveMonths: 1.14
+esgPopulated: false
+exDividendDate: 1779753600
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 82.7934
+fiftyDayAverageChange: 3.2565994
+fiftyDayAverageChangePercent: 0.039334044
+fiftyTwoWeekChangePercent: 19.075727
+fiftyTwoWeekHigh: 92.8
+fiftyTwoWeekHighChange: -6.75
+fiftyTwoWeekHighChangePercent: -0.07273707
+fiftyTwoWeekLow: 51.93
+fiftyTwoWeekLowChange: 34.120003
+fiftyTwoWeekLowChangePercent: 0.6570384
+fiftyTwoWeekRange: 51.93 - 92.8
+financialCurrency: USD
+firstTradeDateMilliseconds: 463411800000
+fiveYearAvgDividendYield: 2.68
+floatShares: 148629645
+forwardEps: 7.54222
+forwardPE: 11.409108
+freeCashflow: 1128412544
+fullExchangeName: NasdaqGS
+fulldayChange: 3.340004
+fulldayChangePercent: 4.0382104
+fulldayPrice: 86.05
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.40784
+grossProfits: 1614899968
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00405
+heldPercentInstitutions: 0.88629997
+impliedSharesOutstanding: 235165549
+industry: Semiconductors
+industryDisp: Semiconductors
+industryKey: semiconductors
+irWebsite: http://www.skyworksinc.com/Investors.aspx
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1779753600
+lastDividendValue: 0.71
+lastFiscalYearEnd: 1790899200
+lastSplitDate: 956188800
+lastSplitFactor: '2:1'
+longBusinessSummary: Skyworks Solutions, Inc., together with its subsidiaries, develops,
+  manufactures, and markets analog and mixed-signal semiconductor products and solutions
+  in the United States, Taiwan, China, South Korea, Europe, the Middle East, Africa,
+  and the Asia Pacific. The company offers amplifiers, antenna tuners, attenuators,
+  automotive tuners and digital radios, wireless ASoC, Beamformers and antenna solutions,
+  DC/DC converters, demodulators, detectors, digital power isolators, diodes, directional
+  couplers, diversity receive modules, filters, front-end modules, hybrids, light
+  emitting diode drivers, low noise amplifiers, led drivers, mixers, modulators, and
+  optocouplers/optoisolators. It also provides phase locked loops, phase shifters,
+  power dividers/combiners, power over ethernet, power isolators, power management
+  and motor control solutions, ProSLIC family of subscriber line interface circuits,
+  receivers, system in package, switches, synthesizers, timing devices, voltage-controlled
+  oscillators/synthesizers, and voltage regulators. The company sells its products
+  through direct sales force, electronic component distributors, and independent sales
+  representatives. Its products are used in aerospace, automotive, broadband, cellular
+  infrastructure, connected home, defense, industrial, medical, smartphone, and tablet
+  applications. The company was founded in 1962 and is headquartered in Irvine, California.
+longName: Skyworks Solutions, Inc.
+market: us_market
+marketCap: 20235997184
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1462309
+mostRecentQuarter: 1790899200
+netIncomeToCommon: 172100000
+nextFiscalYearEnd: 1822435200
+nonDilutedMarketCap: 19450542557
+numberOfAnalystOpinions: 18
+open: 85.0
+operatingCashflow: 549900032
+operatingMargins: 0.08996
+overallRisk: 10
+payoutRatio: 1.4714999
+pegRatio: 0.41
+phone: 949 231 3000
+previousClose: 82.71
+priceEpsCurrentYear: 15.073987
+priceHint: 2
+priceToBook: 2.2537389
+priceToSalesTrailing12Months: 5.110616
+profitMargins: 0.04346
+quickRatio: 2.484
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.04
+region: US
+regularMarketChange: 3.340004
+regularMarketChangePercent: 4.0382104
+regularMarketDayHigh: 86.345
+regularMarketDayLow: 83.155
+regularMarketDayRange: 83.155 - 86.345
+regularMarketOpen: 85.0
+regularMarketPreviousClose: 82.71
+regularMarketPrice: 86.05
+regularMarketTime: 1794413714
+regularMarketVolume: 574337
+returnOnAssets: 0.02566
+returnOnEquity: 0.03
+revenueGrowth: -0.05
+revenuePerShare: 26.397
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 9
+sharesOutstanding: 235165549
+sharesPercentSharesOut: 0.1018
+sharesShort: 23944079
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 27851200
+shortName: Skyworks Solutions, Inc.
+shortPercentOfFloat: 0.1333
+shortRatio: 3.64
+sourceInterval: 15
+state: CA
+symbol: SWKS
+targetHighPrice: 107.0
+targetLowPrice: 58.0
+targetMeanPrice: 79.11111
+targetMedianPrice: 78.0
+totalCash: 2606099968
+totalCashPerShare: 17.409
+totalDebt: 2472800000
+totalRevenue: 3959600128
+tradeable: false
+trailingAnnualDividendRate: 2.13
+trailingAnnualDividendYield: 0.025752632
+trailingEps: 1.14
+trailingPE: 75.48246
+trailingPegRatio: 0.4116
+triggerable: true
+twoHundredDayAverage: 68.50945
+twoHundredDayAverageChange: 17.54055
+twoHundredDayAverageChangePercent: 0.2560311
+typeDisp: Equity
+volume: 574337
+website: https://www.skyworksinc.com
+zip: '92617'

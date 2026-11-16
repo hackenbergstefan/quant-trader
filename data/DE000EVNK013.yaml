@@ -1,0 +1,255 @@
+52WeekChange: 0.49604034
+SandP52WeekChange: 0.097798586
+address1: Rellinghauser Strasse 1-11
+allTimeHigh: 37.745
+allTimeLow: 12.49
+ask: 20.92
+askSize: 160
+auditRisk: 4
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 1232972
+averageDailyVolume3Month: 1319779
+averageVolume: 1319779
+averageVolume10days: 1232972
+beta: 0.496
+bid: 20.9
+bidSize: 1100
+boardRisk: 6
+bookValue: 16.656
+city: Essen
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Wessel
+  title: Chief Human Resources Officer, Labor Relations Director & Member of Executive
+    Board
+  totalPay: 1759000
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lauren  Kjeldsen
+  title: COO of Custom Solutions & Member of the Management Board
+  totalPay: 1339800
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Claudine  Mollenkopf
+  title: COO of Advanced Technologies & Member of the Management Board
+  totalPay: 1329800
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Claus  Rettig
+  title: Interim CEO & Deputy Chairman of the Management Board
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Rauch L.L.M., M.B.A.
+  title: CFO & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Wilfried  Ostendorf
+  title: Head of Production and Technology
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christoph  Finke
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Mahlstedt
+  title: Vice President M&A, Corporate Legal & Compliance
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian  Schmid
+  title: Head of Corporate Communications
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Stefan  Mack
+  title: Head of the Methionine & Derivatives Product Line
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 20.9
+currentRatio: 1.269
+customPriceAlertConfidence: LOW
+dayHigh: 20.96
+dayLow: 20.7
+debtToEquity: 48.9
+dividendRate: 1.0
+dividendYield: 4.78
+earningsCallTimestampEnd: 1793700000
+earningsCallTimestampStart: 1793700000
+earningsTimestamp: 1793723400
+earningsTimestampEnd: 1793723400
+earningsTimestampStart: 1793723400
+ebitda: 1592999936
+ebitdaMargins: 0.109510005
+enterpriseToEbitda: 8.475
+enterpriseToRevenue: 0.928
+enterpriseValue: 13500181504
+epsCurrentYear: 1.87068
+epsForward: 1.53371
+epsTrailingTwelveMonths: 0.37
+esgPopulated: false
+exDividendDate: 1780531200
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 201 177 3053
+fiftyDayAverage: 19.9356
+fiftyDayAverageChange: 0.96439934
+fiftyDayAverageChangePercent: 0.048375737
+fiftyTwoWeekChangePercent: 49.604034
+fiftyTwoWeekHigh: 21.84
+fiftyTwoWeekHighChange: -0.94000053
+fiftyTwoWeekHighChangePercent: -0.043040317
+fiftyTwoWeekLow: 12.49
+fiftyTwoWeekLowChange: 8.41
+fiftyTwoWeekLowChangePercent: 0.67333865
+fiftyTwoWeekRange: 12.49 - 21.84
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1373266800000
+fiveYearAvgDividendYield: 6.03
+floatShares: 260181818
+forwardEps: 1.53371
+forwardPE: 13.627087
+freeCashflow: 830649984
+fullExchangeName: XETRA
+fullTimeEmployees: 30319
+fulldayChange: 0.11999893
+fulldayChangePercent: 0.57747316
+fulldayPrice: 20.9
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.24686001
+grossProfits: 3591000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.46523997
+heldPercentInstitutions: 0.40062
+impliedSharesOutstanding: 466000000
+industry: Specialty Chemicals
+industryDisp: Specialty Chemicals
+industryKey: specialty-chemicals
+irWebsite: http://corporate.evonik.com/en/investor-relations/pages/default.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1780531200
+lastDividendValue: 1.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Evonik Industries AG operates as a chemicals company in the Asia-Pacific,
+  Europe, the Middle East, Africa, and the Americas. It operates through the Advanced
+  Technologies, Custom Solutions, and Infrastructure segments. The Advanced Technologies
+  segment provides polymers for medical applications; crosslinkers; hydrogen peroxide,
+  a sterilizing agent for cleaning silicon wafers and a bleaching agent for the paper
+  and textile industries; fumed and precipitated silicas and silanes for the automotive,
+  tire, electronics, and cosmetics industries; and D-/L-methionine and lysine for
+  animal nutrition. Its Custom Solutions segment provides additives for coatings,
+  adhesives, sealants, polyurethane foams, and lubricants for the cosmetic, cleaning,
+  and pharmaceutical industries. The Infrastructure segment engages in the infrastructure
+  activities and offers butadiene, MTBE, butene-1, isononanol, and DINP for use in
+  the plastic and packaging industries, production of rubber and fuels, and as plasticizers
+  in the construction and automotive sectors. The company was founded in 1847 and
+  is headquartered in Essen, Germany.
+longName: Evonik Industries AG
+market: de_market
+marketCap: 9739400192
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_8237790
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 174000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 9683480000
+numberOfAnalystOpinions: 11
+open: 20.74
+operatingCashflow: 1810000000
+operatingMargins: 0.05362
+overallRisk: 7
+payoutRatio: 2.7027
+pegRatio: 6.23
+phone: 49 201 177 3315
+previousClose: 20.78
+priceEpsCurrentYear: 11.172408
+priceHint: 2
+priceToBook: 1.2548031
+priceToSalesTrailing12Months: 0.6695126
+profitMargins: 0.01196
+quickRatio: 0.531
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.83333
+region: US
+regularMarketChange: 0.11999893
+regularMarketChangePercent: 0.57747316
+regularMarketDayHigh: 20.96
+regularMarketDayLow: 20.7
+regularMarketDayRange: 20.7 - 20.96
+regularMarketOpen: 20.74
+regularMarketPreviousClose: 20.78
+regularMarketPrice: 20.9
+regularMarketTime: 1794411543
+regularMarketVolume: 430991
+returnOnAssets: 0.026099999
+returnOnEquity: 0.0223
+revenueGrowth: 0.128
+revenuePerShare: 30.884
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 1
+sharesOutstanding: 466000000
+shortName: Evonik Industries AG          N
+sourceInterval: 15
+symbol: EVK.DE
+targetHighPrice: 22.5
+targetLowPrice: 15.0
+targetMeanPrice: 19.46364
+targetMedianPrice: 20.0
+totalCash: 533000000
+totalCashPerShare: 1.106
+totalDebt: 3956000000
+totalRevenue: 14547000320
+tradeable: false
+trailingAnnualDividendRate: 1.0
+trailingAnnualDividendYield: 0.048123192
+trailingEps: 0.37
+trailingPE: 56.486485
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 17.35865
+twoHundredDayAverageChange: 3.5413494
+twoHundredDayAverageChangePercent: 0.20401065
+typeDisp: Equity
+volume: 430991
+website: https://evonik.com
+zip: '45128'

@@ -1,0 +1,253 @@
+52WeekChange: -0.17460316
+SandP52WeekChange: 0.097798586
+address1: Woolsington House
+address2: Woolsington
+allTimeHigh: 4336.0
+allTimeLow: 65.7873
+ask: 2268.0
+askSize: 0
+auditRisk: 7
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 674245
+averageDailyVolume3Month: 545708
+averageVolume: 545708
+averageVolume10days: 674245
+beta: 1.347
+bid: 2266.0
+bidSize: 0
+boardRisk: 5
+bookValue: 31.293
+city: Newcastle upon Tyne
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jason Michael Honeyman
+  title: Group CEO & Executive Director
+  totalPay: 1883710
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Shane Michael Doherty
+  title: CFO & Director
+  totalPay: 1200388
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Simon  Scougall
+  title: Chief Commercial Officer & Executive Director
+  totalPay: 1064314
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Gavin  Jago
+  title: Group Investor Relations Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Matt  Grayson
+  title: Group Customer Experience & Sales Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Heidi  Khoshtaghaza-Hay
+  title: Group HR Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Stefan  Briddon
+  title: Group Strategic Land Managing Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Tony  Atkin
+  title: Group Production Managing Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Philip Robert Hope
+  title: Company Secretary & Group Finance Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Steve  Brown
+  title: Scotland & West Regional Chair
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: BWY.L announced a cash dividend of GBp 0.52 with an ex-date of Dec. 3,
+    2026
+  meta:
+    amount: '0.52'
+    dateEpochMs: 1796256000000
+    eventType: DIVIDEND
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 2266.0
+currentRatio: 5.078
+customPriceAlertConfidence: LOW
+dayHigh: 2298.0
+dayLow: 2256.0
+debtToEquity: 4.252
+dividendRate: 0.72
+dividendYield: 3.15
+earningsCallTimestampEnd: 1791878400
+earningsCallTimestampStart: 1791878400
+earningsGrowth: 0.69
+earningsQuarterlyGrowth: 0.641
+earningsTimestamp: 1791905400
+earningsTimestampEnd: 1791905400
+earningsTimestampStart: 1791905400
+ebitda: 323500000
+ebitdaMargins: 0.102299996
+enterpriseToEbitda: 7.531
+enterpriseToRevenue: 0.77
+enterpriseValue: 2436237568
+epsCurrentYear: 1.43925
+epsForward: 1.82505
+epsTrailingTwelveMonths: 1.65
+esgPopulated: false
+exDividendDate: 1796256000
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 2115.18
+fiftyDayAverageChange: 150.82007
+fiftyDayAverageChangePercent: 0.07130366
+fiftyTwoWeekChangePercent: -17.460316
+fiftyTwoWeekHigh: 2890.0
+fiftyTwoWeekHighChange: -624.0
+fiftyTwoWeekHighChangePercent: -0.21591696
+fiftyTwoWeekLow: 1715.0
+fiftyTwoWeekLowChange: 551.0
+fiftyTwoWeekLowChangePercent: 0.3212828
+fiftyTwoWeekRange: 1715.0 - 2890.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 3.7
+floatShares: 105543745
+forwardEps: 1.82505
+forwardPE: 12.416099
+freeCashflow: 321849984
+fullExchangeName: LSE
+fullTimeEmployees: 2790
+fulldayChange: -22.0
+fulldayChangePercent: -0.96153843
+fulldayPrice: 2266.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.15742
+grossProfits: 497800000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00952
+heldPercentInstitutions: 0.80513
+impliedSharesOutstanding: 110798441
+industry: Residential Construction
+industryDisp: Residential Construction
+industryKey: residential-construction
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1796256000
+lastDividendValue: 0.52
+lastFiscalYearEnd: 1785456000
+lastSplitDate: 759369600
+lastSplitFactor: '2:1'
+longBusinessSummary: Bellway p.l.c., together with its subsidiaries, engages in the
+  homebuilding business in the United Kingdom. The company builds one-bedroom and
+  two-bedroom apartments; and five-bedroom family home. It offers its homes under
+  the Bellway and Ashberry brands. The company was founded in 1946 and is headquartered
+  in Newcastle upon Tyne, the United Kingdom.
+longName: Bellway p.l.c.
+market: gb_market
+marketCap: 2510692608
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_877369
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 193400000
+nextFiscalYearEnd: 1816992000
+nonDilutedMarketCap: 2535068330
+numberOfAnalystOpinions: 19
+open: 2268.0
+operatingCashflow: 337100000
+operatingMargins: 0.10142
+overallRisk: 4
+payoutRatio: 0.4374
+pegRatio: 1.9
+phone: 44 19 1217 0717
+previousClose: 2288.0
+priceEpsCurrentYear: 1574.4312
+priceHint: 2
+priceToBook: 0.7241236
+priceToSalesTrailing12Months: 0.79397017
+profitMargins: 0.061160002
+quickRatio: 0.365
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -22.0
+regularMarketChangePercent: -0.96153843
+regularMarketDayHigh: 2298.0
+regularMarketDayLow: 2256.0
+regularMarketDayRange: 2256.0 - 2298.0
+regularMarketOpen: 2268.0
+regularMarketPreviousClose: 2288.0
+regularMarketPrice: 2266.0
+regularMarketTime: 1794411477
+regularMarketVolume: 239687
+returnOnAssets: 0.03896
+returnOnEquity: 0.05466
+revenueGrowth: 0.213
+revenuePerShare: 27.156
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 110798441
+shortName: BELLWAY PLC ORD 12.5P
+sourceInterval: 15
+symbol: BWY.L
+targetHighPrice: 3743.0
+targetLowPrice: 1900.0
+targetMeanPrice: 2369.474
+targetMedianPrice: 2370.0
+totalCash: 287700000
+totalCashPerShare: 2.557
+totalDebt: 149700000
+totalRevenue: 3162200064
+tradeable: false
+trailingAnnualDividendRate: 0.75
+trailingAnnualDividendYield: 0.0003277972
+trailingEps: 1.65
+trailingPE: 13.733334
+trailingPegRatio: 1.8965
+triggerable: false
+twoHundredDayAverage: 2096.195
+twoHundredDayAverageChange: 169.80493
+twoHundredDayAverageChangePercent: 0.081006266
+typeDisp: Equity
+volume: 239687
+website: https://www.bellwayplc.co.uk
+zip: NE13 8BF

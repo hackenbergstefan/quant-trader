@@ -1,0 +1,271 @@
+52WeekChange: -0.2138353
+SandP52WeekChange: 0.097798586
+address1: 1020 Kifer Road
+allTimeHigh: 616.0
+allTimeLow: 0.666667
+ask: 449.17
+askSize: 1
+auditRisk: 1
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 2826060
+averageDailyVolume3Month: 2399681
+averageVolume: 2399681
+averageVolume10days: 2826060
+beta: 1.439
+bid: 456.52
+bidSize: 1
+boardRisk: 6
+bookValue: 46.123
+city: Sunnyvale
+companyOfficers:
+- age: 59
+  exercisedValue: 44367860
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Gary S. Guthart Ph.D.
+  title: Executive Chair
+  totalPay: 2140275
+  unexercisedValue: 69788808
+  yearBorn: 1966
+- age: 57
+  exercisedValue: 27076576
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David J. Rosa
+  title: CEO & Director
+  totalPay: 2322608
+  unexercisedValue: 65149152
+  yearBorn: 1968
+- age: 54
+  exercisedValue: 678331
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jamie E. Samath
+  title: Executive VP, CFO & Enterprise Technology Leader
+  totalPay: 1481816
+  unexercisedValue: 1121478
+  yearBorn: 1971
+- age: 55
+  exercisedValue: 3150448
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Henry L. Charlton
+  title: Senior VP of Global Business Operations
+  totalPay: 1453840
+  unexercisedValue: 5902177
+  yearBorn: 1970
+- age: 55
+  exercisedValue: 1032824
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gary H. Loeb J.D.
+  title: Executive VP and Chief Legal & Compliance Officer
+  totalPay: 1335480
+  unexercisedValue: 2955669
+  yearBorn: 1970
+- age: 58
+  exercisedValue: 2104750
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark P. Brosius
+  title: EVP, Chief Manufacturing & Supply Chain Officer
+  totalPay: 1018593
+  unexercisedValue: 22041914
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fredrik  Widman
+  title: VP, Principal Accounting Officer & Corporate Controller
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Milind  Wagle
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel P. Connally C.F.A.
+  title: VP & Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Christopher R. Carlson Ph.D.
+  title: Executive Vice President of Research, Corporate Development, Corporate Strategy
+    & Intuitive Ventures
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 444.825
+currentRatio: 3.327
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 450.994
+dayLow: 443.24
+displayName: Intuitive Surgical
+dividendYield: 0.0
+earningsCallTimestampEnd: 1792526400
+earningsCallTimestampStart: 1792526400
+earningsGrowth: -0.236
+earningsQuarterlyGrowth: -0.258
+earningsTimestamp: 1792526400
+earningsTimestampEnd: 1800565200
+earningsTimestampStart: 1800565200
+ebitda: 4470700032
+ebitdaMargins: 0.38614
+enterpriseToEbitda: 34.02
+enterpriseToRevenue: 13.136
+enterpriseValue: 152092639232
+epsCurrentYear: 11.25264
+epsForward: 12.46877
+epsTrailingTwelveMonths: 8.27
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 408 523 1390
+fiftyDayAverage: 413.1526
+fiftyDayAverageChange: 31.672424
+fiftyDayAverageChangePercent: 0.07666036
+fiftyTwoWeekChangePercent: -21.38353
+fiftyTwoWeekHigh: 603.88
+fiftyTwoWeekHighChange: -159.055
+fiftyTwoWeekHighChangePercent: -0.2633884
+fiftyTwoWeekLow: 328.57
+fiftyTwoWeekLowChange: 116.255005
+fiftyTwoWeekLowChangePercent: 0.3538211
+fiftyTwoWeekRange: 328.57 - 603.88
+financialCurrency: USD
+firstTradeDateMilliseconds: 961162200000
+floatShares: 344608919
+forwardEps: 12.46877
+forwardPE: 35.675133
+freeCashflow: 3434800128
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 17021
+fulldayChange: -5.2149963
+fulldayChangePercent: -1.1587851
+fulldayPrice: 444.825
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.66642
+grossProfits: 7715800064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00528
+heldPercentInstitutions: 0.90858
+impliedSharesOutstanding: 346643718
+industry: Medical Instruments & Supplies
+industryDisp: Medical Instruments & Supplies
+industryKey: medical-instruments-supplies
+irWebsite: http://investor.intuitivesurgical.com/phoenix.zhtml?c=122359&p=irol-IRHome
+isEarningsDateEstimate: true
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1633392000
+lastSplitFactor: '3:1'
+longBusinessSummary: Intuitive Surgical, Inc. develops, manufactures, and markets
+  products that enable physicians and healthcare providers to enhance the quality
+  of and access to minimally invasive care in the United States and internationally.
+  It offers the da Vinci Surgical System that enables surgical procedures using a
+  minimally invasive approach; and Ion endoluminal system, which extends its commercial
+  offerings beyond surgery into diagnostic endoluminal procedures enabling minimally
+  invasive biopsies in the lung. The company also provides a suite of stapling, energy,
+  and core instrumentation for its multi-port da Vinci surgical systems; progressive
+  learning pathways to support the use of its technology; infrastructure of customer
+  service and support specialists, a complement of services to its customers, including
+  installation, repair, maintenance, 24/7 technical support, and proactive system
+  health monitoring; and integrated digital capabilities providing connected offerings,
+  streamlining performance for hospitals with program-enhancing insights. It sells
+  its products through direct sales organizations, such as capital and clinical sales
+  teams. Intuitive Surgical, Inc. was incorporated in 1995 and is headquartered in
+  Sunnyvale, California.
+longName: Intuitive Surgical, Inc.
+market: us_market
+marketCap: 154195787776
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_30239
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2957199872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 156003538848
+numberOfAnalystOpinions: 30
+open: 446.0
+operatingCashflow: 4089499904
+operatingMargins: 0.31702
+overallRisk: 4
+payoutRatio: 0.0
+pegRatio: 2.07
+phone: 408 523 2100
+previousClose: 450.04
+priceEpsCurrentYear: 39.530724
+priceHint: 2
+priceToBook: 9.6443205
+priceToSalesTrailing12Months: 13.317998
+profitMargins: 0.25542
+quickRatio: 2.316
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.76471
+region: US
+regularMarketChange: -5.2149963
+regularMarketChangePercent: -1.1587851
+regularMarketDayHigh: 450.994
+regularMarketDayLow: 443.24
+regularMarketDayRange: 443.24 - 450.994
+regularMarketOpen: 446.0
+regularMarketPreviousClose: 450.04
+regularMarketPrice: 444.825
+regularMarketTime: 1794413731
+regularMarketVolume: 358112
+returnOnAssets: 0.118549995
+returnOnEquity: 0.17932
+revenueGrowth: 0.217
+revenuePerShare: 32.778
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 4
+sharesOutstanding: 346643718
+sharesPercentSharesOut: 0.020399999
+sharesShort: 7058186
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7411662
+shortName: Intuitive Surgical, Inc.
+shortPercentOfFloat: 0.020499999
+shortRatio: 3.06
+sourceInterval: 15
+state: CA
+symbol: ISRG
+targetHighPrice: 685.0
+targetLowPrice: 324.0
+targetMeanPrice: 486.56668
+targetMedianPrice: 500.0
+totalCash: 4042500096
+totalCashPerShare: 11.662
+totalDebt: 0
+totalRevenue: 11578000384
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 8.27
+trailingPE: 53.787785
+trailingPegRatio: 2.0741
+triggerable: true
+twoHundredDayAverage: 430.4888
+twoHundredDayAverageChange: 14.336212
+twoHundredDayAverageChangePercent: 0.033302173
+typeDisp: Equity
+volume: 358112
+website: https://www.intuitive.com
+zip: 94086-5304

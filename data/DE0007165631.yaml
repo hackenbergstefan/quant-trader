@@ -1,0 +1,250 @@
+52WeekChange: 0.24924791
+SandP52WeekChange: 0.097798586
+address1: Otto-Brenner-Strasse 20
+allTimeHigh: 631.6
+allTimeLow: 0.8125
+ask: 291.6
+askSize: 68
+auditRisk: 2
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 97560
+averageDailyVolume3Month: 99799
+averageVolume: 99799
+averageVolume10days: 97560
+beta: 1.51
+bid: 291.4
+bidSize: 115
+boardRisk: 6
+bookValue: 39.199
+city: Göttingen
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Michael  Grosse
+  title: CEO & Chairman of the Executive Board
+  totalPay: 1152000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Florian  Funck Dipl.Kfm.
+  title: CFO & Member of Executive Board
+  totalPay: 1422000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Rene  Faber
+  title: Head of Bioprocess Solutions Division & Member of Executive Board
+  totalPay: 1484000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Alexandra  Gatzemeyer
+  title: Head of the Lab Products & Services Division and Member of Executive Board
+  totalPay: 1192000
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Patricia  Spannagel
+  title: Head of Quality Assurance - Mechatronics Division Goettingen
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ralf  Mohrschladt
+  title: Physicist & Head of Supply Chain Management - Germany
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Petra  Muller
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Maurice  Phelan
+  title: President of Sartorius North America
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Theo  Thijssen
+  title: President of Environmental Technology Division
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 291.5
+currentRatio: 1.068
+customPriceAlertConfidence: LOW
+dayHigh: 293.5
+dayLow: 288.2
+debtToEquity: 94.361
+dividendRate: 0.74
+dividendYield: 0.25
+earningsCallTimestampEnd: 1744801200
+earningsCallTimestampStart: 1744801200
+earningsQuarterlyGrowth: 0.509
+earningsTimestampEnd: 1753160400
+earningsTimestampStart: 1753160400
+ebitda: 978000000
+ebitdaMargins: 0.26686
+enterpriseToEbitda: 25.526
+enterpriseToRevenue: 6.812
+enterpriseValue: 24964700160
+epsCurrentYear: 5.35809
+epsForward: 6.48677
+epsTrailingTwelveMonths: 3.16
+esgPopulated: false
+exDividendDate: 1774569600
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 551 308 3289
+fiftyDayAverage: 261.378
+fiftyDayAverageChange: 30.12201
+fiftyDayAverageChangePercent: 0.1152431
+fiftyTwoWeekChangePercent: 24.924791
+fiftyTwoWeekHigh: 299.3
+fiftyTwoWeekHighChange: -7.799988
+fiftyTwoWeekHighChangePercent: -0.02606077
+fiftyTwoWeekLow: 198.5
+fiftyTwoWeekLowChange: 93.0
+fiftyTwoWeekLowChangePercent: 0.46851385
+fiftyTwoWeekRange: 198.5 - 299.3
+financialCurrency: EUR
+firstTradeDateMilliseconds: 925282800000
+fiveYearAvgDividendYield: 0.31
+floatShares: 27453809
+forwardEps: 6.48677
+forwardPE: 44.93762
+freeCashflow: 380587488
+fullExchangeName: XETRA
+fullTimeEmployees: 14273
+fulldayChange: 0.7999878
+fulldayChangePercent: 0.2751936
+fulldayPrice: 291.5
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.45426998
+grossProfits: 1664800000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.25611
+heldPercentInstitutions: 0.30512
+impliedSharesOutstanding: 69052290
+industry: Medical Instruments & Supplies
+industryDisp: Medical Instruments & Supplies
+industryKey: medical-instruments-supplies
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1774569600
+lastDividendValue: 0.74
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1465776000
+lastSplitFactor: '4:1'
+longBusinessSummary: Sartorius Aktiengesellschaft provides bioprocess solutions, and
+  lab products and services worldwide. The company offers analytical solutions, such
+  as biolayer interferometry systems, high-throughput screening by cytometry systems,
+  process analytical technology and data analytics, cell selection and retrieval,
+  live-cell imaging and analysis systems, and surface plasmon resonance systems; cell
+  culture solutions, including bioreactors and fermenters, cell culture reagents,
+  supplements and matrices, nucleic acid and delivery solutions, cell culture media,
+  and cell lines and buffers; and fluid management products. It also provides lab
+  filtration and purification solutions, lab water purification systems, microtissue
+  technologies, lab weighing, pipettes, tips and dispensers, microbiological testing
+  solutions, lab data and fleet management software, and OEM solutions; and Process
+  chromatography and filtration solutions. The company serves the life science research,
+  biopharmaceutical manufacturing, cell and gene therapy, and applied industries.
+  The company was founded in 1870 and is headquartered in Göttingen, Germany.
+longName: Sartorius Aktiengesellschaft
+market: de_market
+marketCap: 20128741376
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_881470
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 218500000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 17892497487
+numberOfAnalystOpinions: 20
+open: 290.9
+operatingCashflow: 887600000
+operatingMargins: 0.17796
+overallRisk: 7
+payoutRatio: 0.2342
+pegRatio: 0.94
+phone: 49 551 308 0
+previousClose: 290.7
+priceEpsCurrentYear: 54.403717
+priceHint: 2
+priceToBook: 7.436414
+priceToSalesTrailing12Months: 5.492453
+profitMargins: 0.05962
+quickRatio: 0.42
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.7
+region: US
+regularMarketChange: 0.7999878
+regularMarketChangePercent: 0.2751936
+regularMarketDayHigh: 293.5
+regularMarketDayLow: 288.2
+regularMarketDayRange: 288.2 - 293.5
+regularMarketOpen: 290.9
+regularMarketPreviousClose: 290.7
+regularMarketPrice: 291.5
+regularMarketTime: 1794411455
+regularMarketVolume: 14350
+returnOnAssets: 0.04227
+returnOnEquity: 0.07861
+revenueGrowth: 0.099
+revenuePerShare: 51.243
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 10
+sharesOutstanding: 34813621
+shortName: SARTORIUS AG                  V
+sourceInterval: 15
+symbol: SRT3.DE
+targetHighPrice: 340.0
+targetLowPrice: 200.0
+targetMeanPrice: 294.5
+targetMedianPrice: 302.5
+totalCash: 230700000
+totalCashPerShare: 3.341
+totalDebt: 3910599936
+totalRevenue: 3664800000
+tradeable: false
+trailingAnnualDividendRate: 0.74
+trailingAnnualDividendYield: 0.0025455796
+trailingEps: 3.16
+trailingPE: 92.24683
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 236.041
+twoHundredDayAverageChange: 55.459
+twoHundredDayAverageChangePercent: 0.23495494
+typeDisp: Equity
+volume: 14350
+website: https://www.sartorius.com
+zip: '37079'

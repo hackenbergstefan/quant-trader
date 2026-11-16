@@ -1,0 +1,270 @@
+52WeekChange: 0.06505358
+SandP52WeekChange: 0.097798586
+address1: One Park Plaza
+allTimeHigh: 556.52
+allTimeLow: 17.03
+ask: 497.44
+askSize: 120
+auditRisk: 8
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 1550430
+averageDailyVolume3Month: 1366248
+averageVolume: 1366248
+averageVolume10days: 1550430
+beta: 1.101
+bid: 497.26
+bidSize: 160
+boardRisk: 9
+bookValue: -38.301
+city: Nashville
+companyOfficers:
+- age: 65
+  exercisedValue: 22645304
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Samuel N. Hazen
+  title: CEO & Director
+  totalPay: 7533573
+  unexercisedValue: 241592864
+  yearBorn: 1960
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael A. Marks
+  title: CFO & Executive VP
+  totalPay: 3489035
+  unexercisedValue: 16107644
+  yearBorn: 1970
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jon Mack Foster
+  title: Executive VP & COO
+  totalPay: 3755736
+  unexercisedValue: 35616660
+  yearBorn: 1962
+- age: 61
+  exercisedValue: 2962591
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael R. McAlevey
+  title: Executive VP and Chief Legal & Administrative Officer
+  totalPay: 3166950
+  unexercisedValue: 4275922
+  yearBorn: 1964
+- age: 59
+  exercisedValue: 2604092
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Michael S. Cuffe M.B.A., M.D.
+  title: Executive Officer
+  totalPay: 3160812
+  unexercisedValue: 9288201
+  yearBorn: 1966
+- age: 86
+  exercisedValue: 673362
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Thomas F. Frist Jr., M.D.
+  title: Founder & Chairman Emeritus
+  totalPay: 17973
+  unexercisedValue: 4267438
+  yearBorn: 1939
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher F. Wyatt
+  title: Senior VP, Principal Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chad J. Wasserman
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank George Morgan C.F.A.
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Wendy  Warren
+  title: Senior VP and Chief Ethics & Compliance Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 497.72
+currentRatio: 0.82
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 505.37
+dayLow: 493.59
+displayName: HCA Healthcare
+dividendDate: 1798502400
+dividendRate: 3.12
+dividendYield: 0.62
+earningsCallTimestampEnd: 1793109600
+earningsCallTimestampStart: 1793109600
+earningsGrowth: 0.045
+earningsQuarterlyGrowth: -0.039
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1800970200
+earningsTimestampStart: 1800970200
+ebitda: 15790999552
+ebitdaMargins: 0.20065
+enterpriseToEbitda: 10.148
+enterpriseToRevenue: 2.036
+enterpriseValue: 160254558208
+epsCurrentYear: 30.1597
+epsForward: 31.27564
+epsTrailingTwelveMonths: 30.15
+esgPopulated: false
+exDividendDate: 1797292800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 447.1542
+fiftyDayAverageChange: 50.565796
+fiftyDayAverageChangePercent: 0.11308357
+fiftyTwoWeekChangePercent: 6.505358
+fiftyTwoWeekHigh: 556.52
+fiftyTwoWeekHighChange: -58.80002
+fiftyTwoWeekHighChangePercent: -0.10565661
+fiftyTwoWeekLow: 353.99
+fiftyTwoWeekLowChange: 143.73001
+fiftyTwoWeekLowChangePercent: 0.40602845
+fiftyTwoWeekRange: 353.99 - 556.52
+financialCurrency: USD
+firstTradeDateMilliseconds: 1299767400000
+fiveYearAvgDividendYield: 0.77
+floatShares: 136720141
+forwardEps: 31.27564
+forwardPE: 15.913982
+freeCashflow: 3943249920
+fullExchangeName: NYSE
+fullTimeEmployees: 230000
+fulldayChange: -6.700012
+fulldayChangePercent: -1.3282605
+fulldayPrice: 497.72
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.42755002
+grossProfits: 33649000448
+hasPrePostMarketData: true
+heldPercentInsiders: 0.17211
+heldPercentInstitutions: 0.81057
+impliedSharesOutstanding: 208892500
+industry: Medical Care Facilities
+industryDisp: Medical Care Facilities
+industryKey: medical-care-facilities
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=63489&p=irol-homeprofile
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1789516800
+lastDividendValue: 0.78
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: HCA Healthcare, Inc., through its subsidiaries, provides health
+  care services in the United States. The company owns, manages, and operates hospitals,
+  ASCs, freestanding emergency care facilities, urgent care facilities, walk-in clinics,
+  diagnostic and imaging centers, radiation and oncology therapy centers, as well
+  as rehabilitation and physical therapy centers, physician practices, home health
+  agencies, hospices, outpatient physical therapy providers, home and community-based
+  services providers, and various other facilities. Its general and acute care hospitals
+  offer medical and surgical services, including inpatient care, intensive care, cardiac
+  care, diagnostic services, and emergency services; and outpatient services, such
+  as outpatient surgery, laboratory, radiology, respiratory therapy, cardiology, and
+  physical therapy. The company was formerly known as HCA Holdings, Inc. HCA Healthcare,
+  Inc. was founded in 1968 and is headquartered in Nashville, Tennessee.
+longName: HCA Healthcare, Inc.
+market: us_market
+marketCap: 103969972224
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_261825
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 6776000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 105467734325
+numberOfAnalystOpinions: 22
+open: 501.65
+operatingCashflow: 11169000448
+operatingMargins: 0.15314001
+overallRisk: 6
+payoutRatio: 0.1015
+pegRatio: 1.54
+phone: 615 344 9551
+previousClose: 504.42
+priceEpsCurrentYear: 16.502817
+priceHint: 2
+priceToBook: -12.994962
+priceToSalesTrailing12Months: 1.3210756
+profitMargins: 0.0861
+quickRatio: 0.633
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -6.700012
+regularMarketChangePercent: -1.3282605
+regularMarketDayHigh: 505.37
+regularMarketDayLow: 493.59
+regularMarketDayRange: 493.59 - 505.37
+regularMarketOpen: 501.65
+regularMarketPreviousClose: 504.42
+regularMarketPrice: 497.72
+regularMarketTime: 1794413728
+regularMarketVolume: 352472
+returnOnAssets: 0.122279994
+revenueGrowth: 0.036
+revenuePerShare: 355.539
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 3
+sharesOutstanding: 208892500
+sharesPercentSharesOut: 0.023
+sharesShort: 4800941
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4884718
+shortName: HCA Healthcare, Inc.
+shortPercentOfFloat: 0.036
+shortRatio: 3.82
+sourceInterval: 15
+state: TN
+symbol: HCA
+targetHighPrice: 550.0
+targetLowPrice: 380.0
+targetMeanPrice: 477.27274
+targetMedianPrice: 488.0
+totalCash: 1019000000
+totalCashPerShare: 4.878
+totalDebt: 52425998336
+totalRevenue: 78701002752
+tradeable: false
+trailingAnnualDividendRate: 3.06
+trailingAnnualDividendYield: 0.006066373
+trailingEps: 30.15
+trailingPE: 16.508127
+trailingPegRatio: 1.5434
+triggerable: true
+twoHundredDayAverage: 445.1932
+twoHundredDayAverageChange: 52.526794
+twoHundredDayAverageChangePercent: 0.117986515
+typeDisp: Equity
+volume: 352172
+website: https://www.hcahealthcare.com
+zip: '37203'

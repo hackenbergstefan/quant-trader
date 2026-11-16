@@ -1,0 +1,266 @@
+52WeekChange: -0.04616946
+SandP52WeekChange: 0.097798586
+address1: Viale Carlo Berti Pichat 2/4
+allTimeHigh: 4.494
+allTimeLow: 0.914496
+ask: 3.734
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 3080510
+averageDailyVolume3Month: 3320843
+averageVolume: 3320843
+averageVolume10days: 3080510
+beta: 0.826
+bid: 3.732
+bidSize: 0
+boardRisk: 5
+bookValue: 2.762
+city: Bologna
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Cristian  Fabbri
+  title: Executive Chairman
+  totalPay: 817746
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Orazio  Iacono
+  title: CEO, Renewable Energies ad interim & Director
+  totalPay: 823720
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Massimo  Vai
+  title: Group Manager of Administration, Finance & Control
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jens Klint Hansen
+  title: Manager of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Francesca  Leoni
+  title: Group Manager of Legal & Corporate Affairs
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Giuseppe  Gagliano
+  title: Group Manager of Communication & External Affairs
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alessandro  Camilleri
+  title: Personnel & Organization Group Manager
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Roberto  Gasparetto
+  title: General Manager and Chairman of AcegasApsAmga SPA
+  unexercisedValue: 0
+  yearBorn: 1957
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Filippo Maria Bocchi
+  title: Manager of Shared Value & Sustainability
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 72
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mauro  Tiviroli
+  title: Chief Executive Officer of Marche Multiservizi SPA
+  unexercisedValue: 0
+  yearBorn: 1953
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 3.734
+currentRatio: 1.132
+customPriceAlertConfidence: LOW
+dayHigh: 3.772
+dayLow: 3.696
+debtToEquity: 133.318
+dividendRate: 0.16
+dividendYield: 4.26
+earningsCallTimestampEnd: 1794405600
+earningsCallTimestampStart: 1794405600
+earningsGrowth: 0.085
+earningsQuarterlyGrowth: 0.07
+earningsTimestamp: 1794414600
+earningsTimestampEnd: 1794414600
+earningsTimestampStart: 1794414600
+ebitda: 1414099968
+ebitdaMargins: 0.111590005
+enterpriseToEbitda: 7.298
+enterpriseToRevenue: 0.814
+enterpriseValue: 10319663104
+epsCurrentYear: 0.31791
+epsForward: 0.33202
+epsTrailingTwelveMonths: 0.32
+esgPopulated: false
+exDividendDate: 1782086400
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 39 051 287525
+fiftyDayAverage: 3.60048
+fiftyDayAverageChange: 0.13351989
+fiftyDayAverageChangePercent: 0.037083913
+fiftyTwoWeekChangePercent: -4.616946
+fiftyTwoWeekHigh: 4.45
+fiftyTwoWeekHighChange: -0.71599984
+fiftyTwoWeekHighChangePercent: -0.16089885
+fiftyTwoWeekLow: 3.412
+fiftyTwoWeekLowChange: 0.32200003
+fiftyTwoWeekLowChangePercent: 0.09437281
+fiftyTwoWeekRange: 3.412 - 4.45
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1048838400000
+fiveYearAvgDividendYield: 3.96
+floatShares: 93468851
+forwardEps: 0.33202
+forwardPE: 11.24631
+freeCashflow: 16400000
+fullExchangeName: Milan
+fullTimeEmployees: 11209
+fulldayChange: -0.026000023
+fulldayChangePercent: -0.69149
+fulldayPrice: 3.734
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.18302
+grossProfits: 2319300096
+hasPrePostMarketData: false
+heldPercentInsiders: 0.33957002
+heldPercentInstitutions: 0.23172002
+impliedSharesOutstanding: 1478373666
+industry: Utilities - Diversified
+industryDisp: Utilities - Diversified
+industryKey: utilities-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1782086400
+lastDividendValue: 0.16
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Hera S.p.A., a multi-utility company, engages in the waste management,
+  water services, and energy businesses in Italy. It is involved in the sale and distribution
+  of methane and natural gas, as well as in the district heating and heating management
+  business; generation, distribution, and sale of electricity; aqueduct, purification,
+  and sewage services related to water cycle; waste collection, treatment, recycling,
+  and disposal services; and provision of public lighting, telecommunications, and
+  other services. The company's water services include activities related to water
+  collection, drinking water treatment, and distribution for civil and industrial
+  applications, as well as sewerage and sewage treatment activities. It also offers
+  environmental services comprising sweeping, waste collection, transport, and recovery
+  and disposal, and technical call center services. The company serves residential
+  and business customers, as well as consumer associations. Hera S.p.A. was founded
+  in 2002 and is based in Bologna, Italy.
+longName: Hera S.p.A.
+market: it_market
+marketCap: 5520247296
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_9609666
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 470500000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5543263107
+numberOfAnalystOpinions: 5
+open: 3.75
+operatingCashflow: 1271100032
+operatingMargins: 0.06432
+overallRisk: 6
+payoutRatio: 0.5
+pegRatio: 2.53
+phone: 39 051 287111
+previousClose: 3.76
+priceEpsCurrentYear: 11.745463
+priceHint: 4
+priceToBook: 1.3519188
+priceToSalesTrailing12Months: 0.43560496
+profitMargins: 0.037130002
+quickRatio: 0.956
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -0.026000023
+regularMarketChangePercent: -0.69149
+regularMarketDayHigh: 3.772
+regularMarketDayLow: 3.696
+regularMarketDayRange: 3.696 - 3.772
+regularMarketOpen: 3.75
+regularMarketPreviousClose: 3.76
+regularMarketPrice: 3.734
+regularMarketTime: 1794411432
+regularMarketVolume: 1851201
+returnOnAssets: 0.03461
+returnOnEquity: 0.121079996
+revenueGrowth: 0.217
+revenuePerShare: 8.593
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 10
+sharesOutstanding: 1478373666
+shortName: HERA
+sourceInterval: 20
+state: BO
+symbol: HER.MI
+targetHighPrice: 4.8
+targetLowPrice: 4.4
+targetMeanPrice: 4.54
+targetMedianPrice: 4.4
+totalCash: 1353299968
+totalCashPerShare: 0.918
+totalDebt: 5829199872
+totalRevenue: 12672600064
+tradeable: false
+trailingAnnualDividendRate: 0.16
+trailingAnnualDividendYield: 0.04255319
+trailingEps: 0.32
+trailingPE: 11.66875
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 3.86897
+twoHundredDayAverageChange: -0.13496995
+twoHundredDayAverageChangePercent: -0.034885243
+typeDisp: Equity
+volume: 1851201
+website: https://www.gruppohera.it
+zip: '40127'

@@ -1,0 +1,282 @@
+52WeekChange: -0.14463937
+SandP52WeekChange: 0.097798586
+address1: 208 South Akard Street
+allTimeHigh: 45.270016
+allTimeLow: 3.461732
+ask: 21.92
+askSize: 3400
+auditRisk: 1
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 46330450
+averageDailyVolume3Month: 42524440
+averageVolume: 42524440
+averageVolume10days: 46330450
+beta: 0.494
+bid: 21.91
+bidSize: 12500
+boardRisk: 7
+bookValue: 15.792
+city: Dallas
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John T. Stankey
+  title: CEO, President & Chairman
+  totalPay: 8909937
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pascal  Desroches CPA
+  title: Senior EVP & CFO
+  totalPay: 5144684
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffery Scott McElfresh
+  title: Chief Operating Officer
+  totalPay: 4612074
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David R. McAtee II
+  title: Senior EVP & General Counsel
+  totalPay: 4934039
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lori M. Lee
+  title: Global Marketing Officer & Senior Executive VP of International
+  totalPay: 2840429
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sabrina  Sanders
+  title: Senior VP, Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brett Joseph Feldman
+  title: Senior Vice President of Finance & Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Larry  Solomon
+  title: Chief Communications Officer
+  unexercisedValue: 0
+- age: 73
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rick  Moore
+  title: Senior Vice President of Corporate Development
+  unexercisedValue: 0
+  yearBorn: 1952
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kellyn Smith Kenny M.B.A.
+  title: Chief Marketing & Growth Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 21.935
+currentRatio: 0.868
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 22.11
+dayLow: 21.845
+debtToEquity: 144.768
+displayName: AT&T
+dividendDate: 1793577600
+dividendRate: 1.11
+dividendYield: 5.06
+earningsCallTimestampEnd: 1792585800
+earningsCallTimestampStart: 1792585800
+earningsGrowth: -0.904
+earningsQuarterlyGrowth: -0.904
+earningsTimestamp: 1792585800
+earningsTimestampEnd: 1801056600
+earningsTimestampStart: 1801056600
+ebitda: 45940998144
+ebitdaMargins: 0.35654
+enterpriseToEbitda: 7.306
+enterpriseToRevenue: 2.605
+enterpriseValue: 335628238848
+epsCurrentYear: 2.39539
+epsForward: 2.5958
+epsTrailingTwelveMonths: 1.87
+esgPopulated: false
+exDividendDate: 1791504000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 23.7902
+fiftyDayAverageChange: -1.8551998
+fiftyDayAverageChangePercent: -0.07798169
+fiftyTwoWeekChangePercent: -14.463938
+fiftyTwoWeekHigh: 29.44
+fiftyTwoWeekHighChange: -7.505001
+fiftyTwoWeekHighChangePercent: -0.2549253
+fiftyTwoWeekLow: 19.89
+fiftyTwoWeekLowChange: 2.045
+fiftyTwoWeekLowChangePercent: 0.102815494
+fiftyTwoWeekRange: 19.89 - 29.44
+financialCurrency: USD
+firstTradeDateMilliseconds: 438273000000
+fiveYearAvgDividendYield: 5.62
+floatShares: 6722057380
+forwardEps: 2.5958
+forwardPE: 8.450189
+freeCashflow: 11961749504
+fullExchangeName: NYSE
+fullTimeEmployees: 133030
+fulldayChange: -0.005001068
+fulldayChangePercent: -0.022794293
+fulldayPrice: 21.935
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.59742
+grossProfits: 76979003392
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00092
+heldPercentInstitutions: 0.69676
+impliedSharesOutstanding: 6736473433
+industry: Telecom Services
+industryDisp: Telecom Services
+industryKey: telecom-services
+irWebsite: http://www.att.com/gen/landing-pages?pid=5718
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1791504000
+lastDividendValue: 0.278
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1649635200
+lastSplitFactor: 1324:1000
+longBusinessSummary: AT&T Inc. provides telecommunications and technology services
+  worldwide. It operates through two segments, Communications and Latin America. The
+  Communications segment offers wireless voice and data communications services; and
+  sells handsets, wireless data cards, wireless computing devices, carrying cases/protective
+  covers, and wireless chargers through its own company-owned stores, agents, and
+  third-party retail stores. It also provides AT&T Dedicated Internet, fiber ethernet
+  and broadband, fixed wireless, and hosted and managed professional services; and
+  copper-based voice and data, Virtual Private Networks (VPN), wholesale, outsourcing,
+  and IP, as well as customer premises equipment for multinational corporations, small
+  and mid-sized businesses, governmental, and wholesale customers. In addition, this
+  segment offers broadband services, including fiber connections, legacy telephony
+  voice communication services, and other VoIP services and equipment to residential
+  customers. This segment markets its communications services and products under the
+  AT&T, AT&T Business, Cricket, AT&T PREPAID, AT&T Fiber, and AT&T Internet Air brand
+  names. Its Latin America segment provides postpaid and prepaid wireless services
+  in Mexico under the AT&T and Unefon brand names, as well as sells smartphones through
+  its stores, agents and third-party retail stores. The company was formerly known
+  as SBC Communications Inc. and changed its name to AT&T Inc. in 2005. AT&T Inc.
+  was incorporated in 1983 and is based in Dallas, Texas.
+longName: AT&T Inc.
+market: us_market
+marketCap: 147764543488
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_100231
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 13093999616
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 147798227120
+numberOfAnalystOpinions: 23
+open: 21.87
+operatingCashflow: 40432001024
+operatingMargins: 0.22593
+overallRisk: 3
+payoutRatio: 0.59360003
+pegRatio: 1.28
+phone: 210 821 4105
+previousClose: 21.94
+priceEpsCurrentYear: 9.157172
+priceHint: 2
+priceToBook: 1.3889945
+priceToSalesTrailing12Months: 1.1467773
+profitMargins: 0.101940006
+quickRatio: 0.411
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.08333
+region: US
+regularMarketChange: -0.005001068
+regularMarketChangePercent: -0.022794293
+regularMarketDayHigh: 22.11
+regularMarketDayLow: 21.845
+regularMarketDayRange: 21.845 - 22.11
+regularMarketOpen: 21.87
+regularMarketPreviousClose: 21.94
+regularMarketPrice: 21.935
+regularMarketTime: 1794413732
+regularMarketVolume: 7951421
+returnOnAssets: 0.041869998
+returnOnEquity: 0.11613
+revenueGrowth: 0.053
+revenuePerShare: 18.484
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 3
+sharesOutstanding: 6736473433
+sharesPercentSharesOut: 0.0201
+sharesShort: 135379158
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 124401574
+shortName: AT&T Inc.
+shortPercentOfFloat: 0.0201
+shortRatio: 2.54
+sourceInterval: 15
+state: TX
+symbol: T
+targetHighPrice: 34.0
+targetLowPrice: 20.0
+targetMeanPrice: 27.58696
+targetMedianPrice: 27.0
+totalCash: 10766999552
+totalCashPerShare: 1.598
+totalDebt: 180612005888
+totalRevenue: 128852000768
+tradeable: false
+trailingAnnualDividendRate: 1.11
+trailingAnnualDividendYield: 0.050592523
+trailingEps: 1.87
+trailingPE: 11.729946
+trailingPegRatio: 1.286
+triggerable: true
+twoHundredDayAverage: 24.9209
+twoHundredDayAverageChange: -2.9859009
+twoHundredDayAverageChangePercent: -0.119815126
+typeDisp: Equity
+volume: 7951421
+website: https://www.att.com
+zip: '75202'

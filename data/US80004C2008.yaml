@@ -1,0 +1,261 @@
+52WeekChange: 2.0377605
+SandP52WeekChange: 0.097798586
+address1: 951 Sandisk Drive
+allTimeHigh: 2354.39
+allTimeLow: 27.885
+ask: 1004.85
+askSize: 4
+auditRisk: 8
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 14201340
+averageDailyVolume3Month: 10899042
+averageVolume: 10899042
+averageVolume10days: 14201340
+bid: 989.32
+bidSize: 1
+boardRisk: 8
+bookValue: 125.931
+city: Milpitas
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. David V.  Goeckeler
+  title: Chairman & CEO
+  totalPay: 6166810
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Luis Felipe Visoso
+  title: Executive VP & CFO
+  totalPay: 3437874
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Alper  Ilkbahar
+  title: Executive VP & CTO
+  totalPay: 1958556
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Bernard  Shek
+  title: Senior VP, Chief Legal Officer & Secretary
+  totalPay: 1336065
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. V. Don Angspatt
+  title: Executive VP & COO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Michael R. Pokorny
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Ivan  Donaldson
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Christine  Bastian
+  title: Executive VP & Chief People Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Janet  Allgaier
+  title: Executive VP and Chief Consumer Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Khurram  Ismail
+  title: Executive VP & Chief Product Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 6
+corporateActions:
+- header: Stock split
+  message: SNDK announces 8 for 1 split effective Nov. 20, 2026
+  meta:
+    dateEpochMs: 1795150800000
+    eventType: SPLIT
+    splitRatio: '8:1'
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 991.76
+currentRatio: 2.58
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 1006.3088
+dayLow: 920.1845
+debtToEquity: 1.108
+displayName: Sandisk
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793305800
+earningsCallTimestampStart: 1793305800
+earningsGrowth: 69.133
+earningsQuarterlyGrowth: 71.33
+earningsTimestamp: 1793304000
+earningsTimestampEnd: 1793304000
+earningsTimestampStart: 1793304000
+ebitda: 21212000256
+ebitdaMargins: 0.73218
+enterpriseToEbitda: 5.533
+enterpriseToRevenue: 4.051
+enterpriseValue: 117362434048
+epsCurrentYear: 227.4808
+epsForward: 289.05396
+epsTrailingTwelveMonths: 125.12
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 1478.3313
+fiftyDayAverageChange: -486.5713
+fiftyDayAverageChangePercent: -0.32913548
+fiftyTwoWeekChangePercent: 203.77605
+fiftyTwoWeekHigh: 2354.39
+fiftyTwoWeekHighChange: -1362.6299
+fiftyTwoWeekHighChangePercent: -0.57876134
+fiftyTwoWeekLow: 183.0
+fiftyTwoWeekLowChange: 808.76
+fiftyTwoWeekLowChangePercent: 4.4194536
+fiftyTwoWeekRange: 183.0 - 2354.39
+financialCurrency: USD
+firstTradeDateMilliseconds: 1739457000000
+floatShares: 140388379
+forwardEps: 289.05396
+forwardPE: 3.431055
+freeCashflow: 11241124864
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 11100
+fulldayChange: 131.77002
+fulldayChangePercent: 15.322273
+fulldayPrice: 991.76
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.79952
+grossProfits: 23163000832
+hasPrePostMarketData: true
+heldPercentInsiders: 0.01115
+heldPercentInstitutions: 0.84228
+impliedSharesOutstanding: 142289365
+industry: Computer Hardware
+industryDisp: Computer Hardware
+industryKey: computer-hardware
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1783036800
+longBusinessSummary: Sandisk Corporation develops, manufactures, and sells data storage
+  devices and solutions using NAND flash technology in the Americas, Europe, the Middle
+  East, Africa, Asia, and internationally. The company provides solid state drives
+  for desktop and notebook PCs, gaming consoles, and set top boxes; and flash-based
+  embedded storage products for mobile phones, tablets, notebook PCs and other portable
+  and wearable devices, automotive applications, Internet of Things, industrial, and
+  connected home applications, as well as removable cards, universal serial bus drives,
+  and wafers and components. It sells its products to computer manufacturers and original
+  equipment manufacturers, datacenters, private cloud customers, cloud service providers,
+  resellers, distributors, and retailers through its sales personnel, dealers, distributors,
+  retailers, and subsidiaries. Sandisk Corporation was incorporated in 2024 and is
+  based in Milpitas, California.
+longName: Sandisk Corporation
+market: us_market
+marketCap: 141116899328
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1860586153
+mostRecentQuarter: 1790899200
+netIncomeToCommon: 19421999104
+nextFiscalYearEnd: 1814572800
+nonDilutedMarketCap: 122367431006
+numberOfAnalystOpinions: 24
+open: 928.24
+operatingCashflow: 17546000384
+operatingMargins: 0.7268
+overallRisk: 7
+payoutRatio: 0.0
+phone: 408 801 1000
+previousClose: 859.99
+priceEpsCurrentYear: 4.3597527
+priceHint: 2
+priceToBook: 7.875424
+priceToSalesTrailing12Months: 4.870971
+profitMargins: 0.67039
+quickRatio: 1.994
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.48
+region: US
+regularMarketChange: 131.77002
+regularMarketChangePercent: 15.322273
+regularMarketDayHigh: 1006.3088
+regularMarketDayLow: 920.1845
+regularMarketDayRange: 920.1845 - 1006.3088
+regularMarketOpen: 928.24
+regularMarketPreviousClose: 859.99
+regularMarketPrice: 991.76
+regularMarketTime: 1794413751
+regularMarketVolume: 8277170
+returnOnAssets: 0.68289
+returnOnEquity: 1.41174
+revenueGrowth: 3.779
+revenuePerShare: 197.082
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 5
+sharesOutstanding: 142289365
+sharesPercentSharesOut: 0.0345
+sharesShort: 4911149
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4819278
+shortName: Sandisk Corporation
+shortPercentOfFloat: 0.0346
+shortRatio: 0.57
+sourceInterval: 15
+state: CA
+symbol: SNDK
+targetHighPrice: 3000.0
+targetLowPrice: 870.0
+targetMeanPrice: 2047.375
+targetMedianPrice: 2050.0
+totalCash: 5206000128
+totalCashPerShare: 36.587
+totalDebt: 201000000
+totalRevenue: 28970999808
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 125.12
+trailingPE: 7.9264703
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 1276.1749
+twoHundredDayAverageChange: -284.41492
+twoHundredDayAverageChangePercent: -0.22286515
+typeDisp: Equity
+volume: 8277170
+website: https://www.sandisk.com
+zip: '95035'

@@ -1,0 +1,282 @@
+52WeekChange: -0.29773033
+SandP52WeekChange: 0.097798586
+address1: 345 Park Avenue
+allTimeHigh: 699.54
+allTimeLow: 0.207031
+ask: 234.68
+askSize: 1
+auditRisk: 1
+averageAnalystRating: 3.0 - Hold
+averageDailyVolume10Day: 3968850
+averageDailyVolume3Month: 4632131
+averageVolume: 4632131
+averageVolume10days: 3968850
+beta: 1.383
+bid: 237.0
+bidSize: 1
+boardRisk: 6
+bookValue: 30.087
+city: San Jose
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shantanu  Narayen
+  title: Chairman & CEO
+  totalPay: 5797825
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Adele Louise  Pentland
+  title: EVP of Legal & Government Relations, Chief Legal Officer and Corporate Secretary
+  totalPay: 3055813
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Anil S. Chakravarthy
+  title: President of Customer Experience Orchestration Business
+  totalPay: 1889926
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven  Day
+  title: Interim CFO and Senior VP of Finance, Technology, Security & Operations
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jillian  Forusz
+  title: Senior VP, Chief Accounting Officer & Corporate Controller
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Douglas G. Clark C.F.A.
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lara H. Balazs
+  title: Chief Marketing Officer & Executive Vice President of Global Marketing
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Gloria  Chen
+  title: Chief People Officer & Executive VP of Employee Experience
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shanmugh  Natarajan
+  title: MD of India & VP of Products
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Abhigyan  Modi
+  title: Senior Vice President of Document Cloud
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 237.67
+currentRatio: 0.77
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 237.7599
+dayLow: 234.84
+debtToEquity: 57.693
+displayName: Adobe
+dividendYield: 0.0
+earningsCallTimestampEnd: 1796853600
+earningsCallTimestampStart: 1796853600
+earningsGrowth: 0.105
+earningsQuarterlyGrowth: 0.031
+earningsTimestamp: 1796850000
+earningsTimestampEnd: 1796850000
+earningsTimestampStart: 1796850000
+ebitda: 9916999680
+ebitdaMargins: 0.38186002
+enterpriseToEbitda: 9.405
+enterpriseToRevenue: 3.591
+enterpriseValue: 93268639744
+epsCurrentYear: 24.47864
+epsForward: 27.40718
+epsTrailingTwelveMonths: 17.91
+esgPopulated: false
+exDividendDate: 1111622400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 408 537 6000
+fiftyDayAverage: 249.0374
+fiftyDayAverageChange: -11.367401
+fiftyDayAverageChangePercent: -0.045645356
+fiftyTwoWeekChangePercent: -29.773033
+fiftyTwoWeekHigh: 362.71
+fiftyTwoWeekHighChange: -125.03999
+fiftyTwoWeekHighChangePercent: -0.34473822
+fiftyTwoWeekLow: 190.12
+fiftyTwoWeekLowChange: 47.550003
+fiftyTwoWeekLowChangePercent: 0.25010523
+fiftyTwoWeekRange: 190.12 - 362.71
+financialCurrency: USD
+firstTradeDateMilliseconds: 524323800000
+fiveYearAvgDividendYield: 0.07
+floatShares: 388040184
+forwardEps: 27.40718
+forwardPE: 8.671815
+freeCashflow: 9345125376
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 31360
+fulldayChange: 0.9700012
+fulldayChangePercent: 0.40980196
+fulldayPrice: 237.67
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.89252996
+grossProfits: 23178999808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00223
+heldPercentInstitutions: 0.87975
+impliedSharesOutstanding: 389200000
+industry: Software - Application
+industryDisp: Software - Application
+industryKey: software-application
+irWebsite: http://www.adobe.com/aboutadobe/invrelations/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1111622400
+lastDividendValue: 0.0065
+lastFiscalYearEnd: 1764288000
+lastSplitDate: 1116892800
+lastSplitFactor: '2:1'
+longBusinessSummary: Adobe Inc. operates as a technology company worldwide. The Digital
+  Media segment offers products and services that enable individuals, teams, and enterprises
+  to create, publish, and promote content. This segment serves photographers, video
+  editors, graphic and experience designers, game developers, content creators, students,
+  marketers, business owners, knowledge workers, and consumers. The Digital Experience
+  segment provides an integrated platform; and products, services, and solutions that
+  enable brands and businesses to create, manage, execute, measure, monetize, and
+  optimize customer experiences from analytics to commerce. This segment serves marketers,
+  advertisers, agencies, publishers, merchandisers, merchants, web analysts, data
+  scientists, developers, and executives across the C-suite. The Publishing and Advertising
+  segment offers e-learning, technical document publishing, web conferencing, document
+  and forms platform, web application development, printing, and Adobe Advertising
+  solutions. It also provides consulting, training, customer management, technical
+  support, and learning services. The company offers its solutions to enterprise customers,
+  and businesses and consumers; and licenses its products to end-user customers through
+  app stores and website at adobe.com. It markets and distributes its products through
+  distributors, retailers, software developers, mobile app stores, systems integrators,
+  independent software vendors, value-added resellers, and original equipment and
+  hardware manufacturers. The company also provides an online visibility management
+  and content marketing software-as-a-service platform. The company has a strategic
+  alliance with HUMAIN for the development of generative AI models and AI-powered
+  applications. The company was formerly known as Adobe Systems Incorporated and changed
+  its name to Adobe Inc. in October 2018. Adobe Inc. was founded in 1982 and is headquartered
+  in San Jose, California.
+longName: Adobe Inc.
+market: us_market
+marketCap: 92501164032
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_24321
+mostRecentQuarter: 1787875200
+netIncomeToCommon: 7283999744
+nextFiscalYearEnd: 1795824000
+nonDilutedMarketCap: 92123640000
+numberOfAnalystOpinions: 33
+open: 235.56
+operatingCashflow: 10805999616
+operatingMargins: 0.36323002
+overallRisk: 8
+payoutRatio: 0.0
+pegRatio: 0.57
+phone: 408 536 6000
+previousClose: 236.7
+priceEpsCurrentYear: 9.709281
+priceHint: 2
+priceToBook: 7.899425
+priceToSalesTrailing12Months: 3.561847
+profitMargins: 0.28048
+quickRatio: 0.65
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.97436
+region: US
+regularMarketChange: 0.9700012
+regularMarketChangePercent: 0.40980196
+regularMarketDayHigh: 237.7599
+regularMarketDayLow: 234.84
+regularMarketDayRange: 234.84 - 237.7599
+regularMarketOpen: 235.56
+regularMarketPreviousClose: 236.7
+regularMarketPrice: 237.67
+regularMarketTime: 1794413718
+regularMarketVolume: 653797
+returnOnAssets: 0.20075001
+returnOnEquity: 0.61902
+revenueGrowth: 0.129
+revenuePerShare: 63.95
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 389200000
+sharesPercentSharesOut: 0.0431
+sharesShort: 16762913
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 17705400
+shortName: Adobe Inc.
+shortPercentOfFloat: 0.048299998
+shortRatio: 3.93
+sourceInterval: 15
+state: CA
+symbol: ADBE
+targetHighPrice: 373.0
+targetLowPrice: 140.0
+targetMeanPrice: 266.9097
+targetMedianPrice: 260.0
+totalCash: 5641999872
+totalCashPerShare: 14.496
+totalDebt: 6786999808
+totalRevenue: 25969999872
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 17.91
+trailingPE: 13.27024
+trailingPegRatio: 0.5701
+triggerable: true
+twoHundredDayAverage: 248.5134
+twoHundredDayAverageChange: -10.843399
+twoHundredDayAverageChangePercent: -0.043633055
+typeDisp: Equity
+volume: 653797
+website: https://www.adobe.com
+zip: 95110-2704

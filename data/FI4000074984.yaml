@@ -1,0 +1,248 @@
+52WeekChange: 0.006654978
+SandP52WeekChange: 0.097798586
+address1: Keilasatama 5
+allTimeHigh: 38.59
+allTimeLow: 6.0
+ask: 28.74
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 341330
+averageDailyVolume3Month: 342862
+averageVolume: 342862
+averageVolume10days: 341330
+beta: 1.116
+bid: 28.72
+bidSize: 0
+boardRisk: 2
+bookValue: 13.961
+city: Espoo
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Hinnerskov M.Sc.
+  title: CEO & President
+  totalPay: 1658413
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Niklas  Nylund
+  title: VP of Group Finance & Interim CFO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pekka  Rouhiainen
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rasmus  Oksala
+  title: Executive VP of Legal And General Counsel & Secretary to the Board
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anu  Pires M.Sc.
+  title: Executive VP of People, Communications & Culture
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Aki Petri Niemi
+  title: Executive VP of Global Supply
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Celso Luiz Tacla
+  title: Executive VP of Latin America
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Xiangdong  Zhu B.Sc. (Eng.), MBA
+  title: Executive VP of China Chair
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Finland
+cryptoTradeable: false
+currency: EUR
+currentPrice: 28.72
+currentRatio: 1.134
+customPriceAlertConfidence: HIGH
+dayHigh: 29.0
+dayLow: 28.54
+debtToEquity: 72.586
+dividendRate: 1.35
+dividendYield: 4.7
+earningsCallTimestampEnd: 1793172600
+earningsCallTimestampStart: 1793172600
+earningsGrowth: -0.174
+earningsQuarterlyGrowth: -0.186
+earningsTimestamp: 1793205000
+earningsTimestampEnd: 1793205000
+earningsTimestampStart: 1793205000
+ebitda: 685000000
+ebitdaMargins: 0.12692
+enterpriseToEbitda: 9.492
+enterpriseToRevenue: 1.205
+enterpriseValue: 6501833728
+epsCurrentYear: 2.1378
+epsForward: 2.38285
+epsTrailingTwelveMonths: 1.54
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: HEL
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Helsinki
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fax: 358 1067 20300
+fiftyDayAverage: 27.9584
+fiftyDayAverageChange: 0.7615986
+fiftyDayAverageChangePercent: 0.02724042
+fiftyTwoWeekChangePercent: 0.6654978
+fiftyTwoWeekHigh: 30.37
+fiftyTwoWeekHighChange: -1.6500015
+fiftyTwoWeekHighChangePercent: -0.05432998
+fiftyTwoWeekLow: 20.74
+fiftyTwoWeekLowChange: 7.9799995
+fiftyTwoWeekLowChangePercent: 0.38476372
+fiftyTwoWeekRange: 20.74 - 30.37
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1388563200000
+fiveYearAvgDividendYield: 4.27
+floatShares: 183952177
+forwardEps: 2.38285
+forwardPE: 12.052794
+freeCashflow: 354272992
+fullExchangeName: Helsinki
+fullTimeEmployees: 19400
+fulldayChange: -0.020000458
+fulldayChangePercent: -0.069591016
+fulldayPrice: 28.72
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.27311
+grossProfits: 1474000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.22073
+heldPercentInstitutions: 0.48255002
+impliedSharesOutstanding: 184232210
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 0.67
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Valmet Oyj develops and supplies process technologies, automation,
+  and services for the pulp, paper, and energy industries in North America, Latin
+  America, EMEA, China, and Asia-Pacific. It operates through two segments: Process
+  Performance Solutions and Biomaterial Solutions and Services. The Process Performance
+  Solutions segment delivers flow control technologies and automation systems, ranging
+  from individual measurements to full plant-wide solutions. The Biomaterial Solutions
+  and Services segment serves global producers in the pulp, paper, packaging, tissue,
+  and bioenergy industries, providing complete production lines, key process islands;
+  and a full range of lifecycle services, enabling improvements in fiber yield, energy
+  and water efficiency, emissions, and operational uptime. It offers automation systems,
+  distributed control systems, industrial applications, analyzers and measurements,
+  industrial internet solutions, automation services, valves, pumps, and valve automation
+  soultions. The company also provides technologies for pulp, energy, circularity,
+  packaging, paper, and tissue, including rebuilds, upgrades, conversions, and maintenance
+  services. In addition, the company develops digital solutions for remote or on-site
+  monitoring and predictive maintenance. It serves pulp, board and paper, energy and
+  industrial gas, biomaterials and fuel, chemical, and mineral industries. Valmet
+  Oyj was founded in 1750 and is headquartered in Espoo, Finland.'
+longName: Valmet Oyj
+market: fi_market
+marketCap: 5291148800
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_241216471
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 284000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5294833715
+numberOfAnalystOpinions: 6
+open: 28.74
+operatingCashflow: 500000000
+operatingMargins: 0.100609995
+overallRisk: 1
+payoutRatio: 0.8766
+phone: 358 1067 20000
+previousClose: 28.74
+priceEpsCurrentYear: 13.434372
+priceHint: 2
+priceToBook: 2.0571592
+priceToSalesTrailing12Months: 0.980387
+profitMargins: 0.05262
+quickRatio: 0.683
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.66667
+region: US
+regularMarketChange: -0.020000458
+regularMarketChangePercent: -0.069591016
+regularMarketDayHigh: 29.0
+regularMarketDayLow: 28.54
+regularMarketDayRange: 28.54 - 29.0
+regularMarketOpen: 28.74
+regularMarketPreviousClose: 28.74
+regularMarketPrice: 28.72
+regularMarketTime: 1794412149
+regularMarketVolume: 64966
+returnOnAssets: 0.048649997
+returnOnEquity: 0.1125
+revenueGrowth: 0.05
+revenuePerShare: 29.294
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 4
+sharesOutstanding: 184232210
+shortName: Valmet Corporation
+sourceInterval: 15
+symbol: VALMT.HE
+targetHighPrice: 36.5
+targetLowPrice: 28.0
+targetMeanPrice: 32.58333
+targetMedianPrice: 32.5
+totalCash: 672000000
+totalCashPerShare: 3.648
+totalDebt: 1872000000
+totalRevenue: 5397000192
+tradeable: false
+trailingAnnualDividendRate: 1.35
+trailingAnnualDividendYield: 0.04697286
+trailingEps: 1.54
+trailingPE: 18.649351
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 25.73605
+twoHundredDayAverageChange: 2.9839497
+twoHundredDayAverageChangePercent: 0.115944356
+typeDisp: Equity
+volume: 64966
+website: https://www.valmet.com
+zip: '02150'

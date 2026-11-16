@@ -1,0 +1,284 @@
+52WeekChange: 0.1948328
+SandP52WeekChange: 0.097798586
+address1: 1 Health Drive
+allTimeHigh: 630.73
+allTimeLow: 0.082031
+ask: 397.42
+askSize: 80
+auditRisk: 10
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 5360220
+averageDailyVolume3Month: 5223575
+averageVolume: 5223575
+averageVolume10days: 5360220
+beta: 0.52
+bid: 397.21
+bidSize: 80
+boardRisk: 9
+bookValue: 109.482
+city: Eden Prairie
+companyOfficers:
+- age: 72
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephen J. Hemsley
+  title: CEO & Non-Independent Non-Executive Chairman
+  totalPay: 1282348
+  unexercisedValue: 0
+  yearBorn: 1953
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Wayne Scott DeVeydt
+  title: Chief Financial Officer
+  totalPay: 3082209
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher R. Zaetta
+  title: Executive VP, Chief Legal Officer & Corporate Secretary
+  totalPay: 1791462
+  unexercisedValue: 15435
+  yearBorn: 1972
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy John Noel
+  title: Chief Executive Officer of UnitedHealthcare Business
+  totalPay: 3201161
+  unexercisedValue: 93891
+  yearBorn: 1972
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Patrick Hugh Conway M.D., M.Sc.
+  title: Chief Executive Officer of Optum
+  totalPay: 2921605
+  unexercisedValue: 115656
+  yearBorn: 1975
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dennis  Stankiewicz
+  title: Chief Accounting Officer & Corporate Controller
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sandeep  Dadlani
+  title: Executive VP and Chief Digital & Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jodeen Ann Kozlak
+  title: Chief Administrative Officer
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Zachary William Sopcak
+  title: Senior Vice President of Capital Markets Communications & Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions:
+- header: Dividend
+  message: UNH announced a cash dividend of $2.32 with an ex-date of Dec. 7, 2026
+  meta:
+    amount: '2.32'
+    dateEpochMs: 1796619600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 398.9299
+currentRatio: 0.739
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 404.74
+dayLow: 396.94
+debtToEquity: 70.426
+displayName: UnitedHealth
+dividendDate: 1797292800
+dividendRate: 9.28
+dividendYield: 2.29
+earningsCallTimestampEnd: 1791892800
+earningsCallTimestampStart: 1791892800
+earningsGrowth: 0.761
+earningsQuarterlyGrowth: 0.75
+earningsTimestamp: 1791894600
+earningsTimestampEnd: 1799760600
+earningsTimestampStart: 1799760600
+ebitda: 28903000064
+ebitdaMargins: 0.06422
+enterpriseToEbitda: 14.401
+enterpriseToRevenue: 0.925
+enterpriseValue: 416227688448
+epsCurrentYear: 20.61144
+epsForward: 23.33315
+epsTrailingTwelveMonths: 17.52
+esgPopulated: false
+exDividendDate: 1796601600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 391.0558
+fiftyDayAverageChange: 7.874115
+fiftyDayAverageChangePercent: 0.02013553
+fiftyTwoWeekChangePercent: 19.48328
+fiftyTwoWeekHigh: 461.62
+fiftyTwoWeekHighChange: -62.690094
+fiftyTwoWeekHighChangePercent: -0.13580455
+fiftyTwoWeekLow: 255.97
+fiftyTwoWeekLowChange: 142.9599
+fiftyTwoWeekLowChangePercent: 0.55850255
+fiftyTwoWeekRange: 255.97 - 461.62
+financialCurrency: USD
+firstTradeDateMilliseconds: 466867800000
+fiveYearAvgDividendYield: 1.56
+floatShares: 893442066
+forwardEps: 23.33315
+forwardPE: 17.09713
+freeCashflow: 26501249024
+fullExchangeName: NYSE
+fullTimeEmployees: 390000
+fulldayChange: -6.190094
+fulldayChangePercent: -1.5283613
+fulldayPrice: 398.9299
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.20048
+grossProfits: 90226999296
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0025099998
+heldPercentInstitutions: 0.90779
+impliedSharesOutstanding: 896022611
+industry: Healthcare Plans
+industryDisp: Healthcare Plans
+industryKey: healthcare-plans
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1789344000
+lastDividendValue: 2.32
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1117497600
+lastSplitFactor: '2:1'
+longBusinessSummary: 'UnitedHealth Group Incorporated operates as a health care company
+  in the United States and internationally. It operates through four segments: Optum
+  Health, Optum Insight, Optum Rx; and UnitedHealthcare. The Optum Health segment
+  provides care delivery, care management, wellness and consumer engagement, and health
+  financial services with patients, consumers, care delivery systems, providers, employers,
+  payers, and public-sector entities. The Optum Insight segment offers software and
+  information products, advisory consulting arrangements, and managed services outsourcing
+  contracts to hospital systems, physicians, health plans, public entities, life sciences
+  companies and other organizations. The Optum Rx segment provides pharmacy care services
+  and programs, including retail network contracting, home delivery, specialty and
+  community health pharmacy services, infusion, and purchasing and clinical capabilities,
+  as well as develops programs in the areas of step therapy, formulary management,
+  drug adherence, and disease and drug therapy management. The UnitedHealthcare segment
+  offers consumer-oriented health benefit plans and services for national employers,
+  public sector employers, mid-sized employers, small businesses, and individuals;
+  Medicaid plans, including Temporary Assistance to Needy Families; Children''s Health
+  Insurance Programs; Dual SNPs; Long-Term Services and Supports; Aged, Blind and
+  Disabled; and other federal, state, and community health care programs. and health
+  care benefits products and services to state programs caring for the economically
+  disadvantaged, medically underserved, and those without the benefit of employer-funded
+  health care coverage. UnitedHealth Group Incorporated was founded in 1974 and is
+  based in Eden Prairie, Minnesota.'
+longName: UnitedHealth Group Incorporated
+market: us_market
+marketCap: 357450219520
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_104673
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 15884000256
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 362996680168
+numberOfAnalystOpinions: 25
+open: 404.39
+operatingCashflow: 26194999296
+operatingMargins: 0.058530003
+overallRisk: 9
+payoutRatio: 0.5171
+pegRatio: 1.01
+phone: (800)-328-5979
+previousClose: 405.12
+priceEpsCurrentYear: 19.35478
+priceHint: 2
+priceToBook: 3.6437943
+priceToSalesTrailing12Months: 0.7942297
+profitMargins: 0.03529
+quickRatio: 0.662
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.61538
+region: US
+regularMarketChange: -6.190094
+regularMarketChangePercent: -1.5283613
+regularMarketDayHigh: 404.74
+regularMarketDayLow: 396.94
+regularMarketDayRange: 396.94 - 404.74
+regularMarketOpen: 404.39
+regularMarketPreviousClose: 405.12
+regularMarketPrice: 398.9299
+regularMarketTime: 1794413751
+regularMarketVolume: 1134830
+returnOnAssets: 0.05243
+returnOnEquity: 0.15773
+revenueGrowth: -0.004
+revenuePerShare: 498.128
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 896022611
+sharesPercentSharesOut: 0.0156
+sharesShort: 13963759
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 15950438
+shortName: UnitedHealth Group Incorporated
+shortPercentOfFloat: 0.0174
+shortRatio: 2.41
+sourceInterval: 15
+state: MN
+symbol: UNH
+targetHighPrice: 531.0
+targetLowPrice: 380.0
+targetMeanPrice: 476.64
+targetMedianPrice: 490.0
+totalCash: 28548999168
+totalCashPerShare: 31.862
+totalDebt: 74330996736
+totalRevenue: 450059010048
+tradeable: false
+trailingAnnualDividendRate: 9.06
+trailingAnnualDividendYield: 0.022363745
+trailingEps: 17.52
+trailingPE: 22.769972
+trailingPegRatio: 1.0106
+triggerable: true
+twoHundredDayAverage: 364.70465
+twoHundredDayAverageChange: 34.22525
+twoHundredDayAverageChangePercent: 0.09384374
+typeDisp: Equity
+volume: 1134830
+website: https://www.unitedhealthgroup.com
+zip: '55344'

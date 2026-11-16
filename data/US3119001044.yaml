@@ -1,0 +1,280 @@
+52WeekChange: 0.33854043
+SandP52WeekChange: 0.097798586
+address1: 2001 Theurer Boulevard
+allTimeHigh: 54.99
+allTimeLow: 0.026042
+ask: 57.74
+askSize: 1
+auditRisk: 2
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 7688960
+averageDailyVolume3Month: 7229612
+averageVolume: 7229612
+averageVolume10days: 7688960
+beta: 0.661
+bid: 51.81
+bidSize: 1
+boardRisk: 6
+bookValue: 3.617
+city: Winona
+companyOfficers:
+- age: 53
+  exercisedValue: 1683249
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffery Michael Watts
+  title: President, CEO & Director
+  totalPay: 2355481
+  unexercisedValue: 2190550
+  yearBorn: 1972
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Max H. Tunnicliff
+  title: Senior EVP & CFO
+  totalPay: 466403
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 58
+  exercisedValue: 471844
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sheryl Ann Lisowski
+  title: Executive VP, Chief Accounting Officer & Treasurer
+  totalPay: 1283580
+  unexercisedValue: 121384
+  yearBorn: 1967
+- age: 62
+  exercisedValue: 5729983
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel L. Florness
+  title: Strategic Advisor to the CEO
+  totalPay: 3321941
+  unexercisedValue: 8780861
+  yearBorn: 1963
+- age: 54
+  exercisedValue: 2111651
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Lewis Soderberg
+  title: Senior Executive Vice President of Information Technology
+  totalPay: 1357149
+  unexercisedValue: 1212503
+  yearBorn: 1971
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles S. Miller
+  title: Senior Executive Vice President of Sales
+  totalPay: 1585487
+  unexercisedValue: 1047561
+  yearBorn: 1974
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anthony P. Broersma
+  title: Executive Vice President of Operations
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John J. Milek
+  title: VP & General Counsel
+  unexercisedValue: 0
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Donnalee K. Papenfuss
+  title: Executive VP of Strategy & Communications
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Noelle Joan Oas J.D.
+  title: Executive Vice President of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1985
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 55.1
+currentRatio: 3.93
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 55.279
+dayLow: 54.73
+debtToEquity: 10.886
+displayName: Fastenal
+dividendDate: 1795564800
+dividendRate: 1.04
+dividendYield: 1.9
+earningsCallTimestampEnd: 1791986400
+earningsCallTimestampStart: 1791986400
+earningsGrowth: 0.207
+earningsQuarterlyGrowth: 0.197
+earningsTimestamp: 1800365400
+earningsTimestampEnd: 1800365400
+earningsTimestampStart: 1800365400
+ebitda: 2044099968
+ebitdaMargins: 0.22514
+enterpriseToEbitda: 30.898
+enterpriseToRevenue: 6.956
+enterpriseValue: 63157813248
+epsCurrentYear: 1.27491
+epsForward: 1.4125
+epsTrailingTwelveMonths: 1.23
+esgPopulated: false
+exDividendDate: 1793145600
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 50.8586
+fiftyDayAverageChange: 4.241398
+fiftyDayAverageChangePercent: 0.08339588
+fiftyTwoWeekChangePercent: 33.854042
+fiftyTwoWeekHigh: 55.279
+fiftyTwoWeekHighChange: -0.17900085
+fiftyTwoWeekHighChangePercent: -0.0032381348
+fiftyTwoWeekLow: 38.97
+fiftyTwoWeekLowChange: 16.129997
+fiftyTwoWeekLowChangePercent: 0.41390806
+fiftyTwoWeekRange: 38.97 - 55.279
+financialCurrency: USD
+firstTradeDateMilliseconds: 556464600000
+fiveYearAvgDividendYield: 2.12
+floatShares: 1144639749
+forwardEps: 1.4125
+forwardPE: 39.008846
+freeCashflow: 916437504
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 21749
+fulldayChange: 0.25999832
+fulldayChangePercent: 0.47410342
+fulldayPrice: 55.1
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.44607
+grossProfits: 4049999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00103
+heldPercentInstitutions: 0.87706
+impliedSharesOutstanding: 1147301488
+industry: Industrial Distribution
+industryDisp: Industrial Distribution
+industryKey: industrial-distribution
+irWebsite: http://investor.fastenal.com/index.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793145600
+lastDividendValue: 0.26
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1747872000
+lastSplitFactor: '2:1'
+longBusinessSummary: Fastenal Company, together with its subsidiaries, engages in
+  the wholesale distribution of industrial and construction supplies in the United
+  States, Canada, Mexico, and internationally. It offers fasteners, and related industrial
+  and construction supplies under the Fastenal name. The company's fastener products
+  include threaded fasteners, bolts, nuts, screws, studs, and related washers that
+  are used in manufactured products and construction projects, as well as in the maintenance
+  and repair of machines. It offers miscellaneous supplies and hardware, including
+  pins, machinery keys, concrete anchors, metal framing systems, wire ropes, strut
+  products, rivets, and related accessories. The company serves the manufacturing
+  market comprising original equipment manufacturers; maintenance, repair, and operations
+  customers; non-residential construction market; farmers, truckers, railroads, mining
+  companies, schools, and retail trades; and oil exploration, production, and refinement
+  companies, as well as federal, state, and local governmental entities. Fastenal
+  Company was founded in 1967 and is headquartered in Winona, Minnesota.
+longName: Fastenal Company
+market: us_market
+marketCap: 63216312320
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_270747
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1418200064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 62918013601
+numberOfAnalystOpinions: 13
+open: 55.0
+operatingCashflow: 1433799936
+operatingMargins: 0.20536
+overallRisk: 4
+payoutRatio: 0.78050005
+pegRatio: 3.52
+phone: 507 454 5374
+previousClose: 54.84
+priceEpsCurrentYear: 43.21874
+priceHint: 2
+priceToBook: 15.233618
+priceToSalesTrailing12Months: 6.9626856
+profitMargins: 0.15619999
+quickRatio: 1.875
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.72222
+region: US
+regularMarketChange: 0.25999832
+regularMarketChangePercent: 0.47410342
+regularMarketDayHigh: 55.279
+regularMarketDayLow: 54.73
+regularMarketDayRange: 54.73 - 55.279
+regularMarketOpen: 55.0
+regularMarketPreviousClose: 54.84
+regularMarketPrice: 55.1
+regularMarketTime: 1794413734
+regularMarketVolume: 1132294
+returnOnAssets: 0.21965
+returnOnEquity: 0.35262
+revenueGrowth: 0.155
+revenuePerShare: 7.911
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 1147301488
+sharesPercentSharesOut: 0.0334
+sharesShort: 38315307
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 34618329
+shortName: Fastenal Company
+shortPercentOfFloat: 0.0381
+shortRatio: 4.61
+sourceInterval: 15
+state: MN
+symbol: FAST
+targetHighPrice: 61.0
+targetLowPrice: 39.9
+targetMeanPrice: 51.14615
+targetMedianPrice: 51.0
+totalCash: 211900000
+totalCashPerShare: 0.185
+totalDebt: 451700000
+totalRevenue: 9079300096
+tradeable: false
+trailingAnnualDividendRate: 0.96
+trailingAnnualDividendYield: 0.01750547
+trailingEps: 1.23
+trailingPE: 44.796745
+trailingPegRatio: 3.5243
+triggerable: true
+twoHundredDayAverage: 47.5457
+twoHundredDayAverageChange: 7.5542984
+twoHundredDayAverageChangePercent: 0.158885
+typeDisp: Equity
+volume: 1132276
+website: https://www.fastenal.com
+zip: 55987-1500

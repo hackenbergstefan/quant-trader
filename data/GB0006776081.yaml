@@ -1,0 +1,265 @@
+52WeekChange: 0.2749753
+SandP52WeekChange: 0.097798586
+address1: 80 Strand
+allTimeHigh: 2272.1863
+allTimeLow: 6.874
+ask: 1296.0
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 3.1 - Hold
+averageDailyVolume10Day: 1574932
+averageDailyVolume3Month: 1687530
+averageVolume: 1687530
+averageVolume10days: 1574932
+beta: -0.049
+bid: 1295.5
+bidSize: 0
+boardRisk: 1
+bookValue: 5.424
+city: London
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Omar Paul Abbosh
+  title: CEO &  Executive Director
+  totalPay: 2799000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Simon Glen Robson
+  title: Group CFO & Executive Director
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dave  Treat
+  title: Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cinthia  Nespoli
+  title: General Counsel & Executive Leader for Sustainability
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ginny Cartwright Ziegler
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Allison P. Bebo
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tim  Bozik
+  title: President of Higher Education, Interim Chief Product Officer & Co-President
+    of Direct to Consumer
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Albert Roger Hitchcock
+  title: Head of Telecom & Technology Partnerships
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 76
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert  Whelan
+  title: President of Assessments & Qualifications
+  unexercisedValue: 0
+  yearBorn: 1949
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Cedrick  Collomb
+  title: Senior Vice President for Global Product Technology
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 1295.5
+currentRatio: 2.001
+customPriceAlertConfidence: LOW
+dayHigh: 1301.0
+dayLow: 1287.5
+debtToEquity: 52.426
+dividendRate: 0.26
+dividendYield: 1.99
+earningsCallTimestampEnd: 1785483000
+earningsCallTimestampStart: 1785483000
+earningsGrowth: -0.029
+earningsQuarterlyGrowth: -0.098
+earningsTimestampEnd: 1785511800
+earningsTimestampStart: 1785511800
+ebitda: 604000000
+ebitdaMargins: 0.16621
+enterpriseToEbitda: 15.533
+enterpriseToRevenue: 2.582
+enterpriseValue: 9382107136
+epsCurrentYear: 0.70707
+epsForward: 0.78456
+epsTrailingTwelveMonths: 0.5
+esgPopulated: false
+exDividendDate: 1786579200
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 1256.96
+fiftyDayAverageChange: 38.54004
+fiftyDayAverageChangePercent: 0.03066131
+fiftyTwoWeekChangePercent: 27.49753
+fiftyTwoWeekHigh: 1390.0
+fiftyTwoWeekHighChange: -94.5
+fiftyTwoWeekHighChangePercent: -0.06798561
+fiftyTwoWeekLow: 874.8
+fiftyTwoWeekLowChange: 420.7
+fiftyTwoWeekLowChangePercent: 0.48090994
+fiftyTwoWeekRange: 874.8 - 1390.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 2.31
+floatShares: 609650123
+forwardEps: 0.78456
+forwardPE: 16.51244
+freeCashflow: 838499968
+fullExchangeName: LSE
+fullTimeEmployees: 13665
+fulldayChange: 6.5
+fulldayChangePercent: 0.50426686
+fulldayPrice: 1295.5
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.52036
+grossProfits: 1891000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0055400003
+heldPercentInstitutions: 0.82115996
+impliedSharesOutstanding: 601090414
+industry: Publishing
+industryDisp: Publishing
+industryKey: publishing
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786579200
+lastDividendValue: 0.082
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 708566400
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Pearson plc provides educational courseware, assessments, and
+  services in the United Kingdom, the United States, Canada, the Asia Pacific, other
+  European countries, and internationally. It operates through five segments: Assessment
+  & Qualifications, Virtual Learning, English Language Learning, Enterprise Learning
+  & Skills, and Higher Education. The Assessment & Qualifications segment offers pearson
+  professional assessments, US student assessment, clinical assessment, UK GCSE, and
+  A levels and international academic qualifications and associated courseware, including
+  the English-speaking Canadian and Australian K-12 businesses, and PDR. The Virtual
+  Learning segment provides virtual schools and online program management. The English
+  Language Learning segment offers Pearson test of English, institutional courseware,
+  and English online solutions. The Enterprise Learning & Skills segment provides
+  vocational qualifications, GED, TalentLens, Faethm, Credly, Pearson College, and
+  Enterprise content and training. The Higher Education segment engages in the US,
+  Canadian, and international higher education courseware businesses. Pearson plc
+  was founded in 1844 and is headquartered in London, the United Kingdom.'
+longName: Pearson plc
+market: gb_market
+marketCap: 7787126272
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_134992
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 319000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 7748055436
+numberOfAnalystOpinions: 10
+open: 1298.0
+operatingCashflow: 806000000
+operatingMargins: 0.14117
+overallRisk: 6
+payoutRatio: 0.504
+pegRatio: 1.81
+phone: 44 20 7010 2000
+previousClose: 1289.0
+priceEpsCurrentYear: 1832.209
+priceHint: 2
+priceToBook: 2.388459
+priceToSalesTrailing12Months: 2.1428525
+profitMargins: 0.08778
+quickRatio: 1.2
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.1
+region: US
+regularMarketChange: 6.5
+regularMarketChangePercent: 0.50426686
+regularMarketDayHigh: 1301.0
+regularMarketDayLow: 1287.5
+regularMarketDayRange: 1287.5 - 1301.0
+regularMarketOpen: 1298.0
+regularMarketPreviousClose: 1289.0
+regularMarketPrice: 1295.5
+regularMarketTime: 1794411548
+regularMarketVolume: 164884
+returnOnAssets: 0.0509
+returnOnEquity: 0.09161
+revenueGrowth: 0.033
+revenuePerShare: 5.78
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 601090414
+shortName: PEARSON PLC ORD 25P
+sourceInterval: 15
+symbol: PSON.L
+targetHighPrice: 1440.0
+targetLowPrice: 1050.0
+targetMeanPrice: 1288.5
+targetMedianPrice: 1330.0
+totalCash: 339000000
+totalCashPerShare: 0.55
+totalDebt: 1760999936
+totalRevenue: 3633999872
+tradeable: false
+trailingAnnualDividendRate: 0.256
+trailingAnnualDividendYield: 0.00019860358
+trailingEps: 0.5
+trailingPE: 25.91
+trailingPegRatio: 1.8253
+triggerable: false
+twoHundredDayAverage: 1140.17
+twoHundredDayAverageChange: 155.32996
+twoHundredDayAverageChangePercent: 0.13623403
+typeDisp: Equity
+volume: 164884
+website: https://plc.pearson.com
+zip: WC2R 0RL

@@ -1,0 +1,257 @@
+52WeekChange: 0.47184992
+SandP52WeekChange: 0.097798586
+address1: Evert van de Beekstraat 1-77
+allTimeHigh: 37.4
+allTimeLow: 6.47573
+ask: 0.0
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 395170
+averageDailyVolume3Month: 398167
+averageVolume: 398167
+averageVolume10days: 395170
+beta: 0.638
+bid: 0.0
+bidSize: 0
+boardRisk: 2
+bookValue: 23.980347
+city: Schiphol
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oivind  Tangen
+  title: CEO & Chair of the Management Board
+  totalPay: 2257000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Douglas H. M. Wood
+  title: CFO & Member of Management Board
+  totalPay: 1411000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexander  Glenn
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Wouter  Holties
+  title: Corporate Finance & Investor Relations Manager
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Murray  Done
+  title: Group General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Evelyn  Tachau-Brown
+  title: Group Communications Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Charles  Rinaldi
+  title: Sales & Marketing Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anne  Guerin-Moens
+  title: Group Human Resources Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stein  Rasmussen
+  title: Group Safety, Sustainability & Assurance Director
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Olivier  Icyk
+  title: Chief Business Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 33.71
+currentRatio: 1.256
+customPriceAlertConfidence: LOW
+dayHigh: 33.86
+dayLow: 33.24
+debtToEquity: 107.735
+dividendRate: 1.02
+dividendYield: 3.08
+earningsCallTimestampEnd: 1786030200
+earningsCallTimestampStart: 1786030200
+earningsGrowth: 0.044
+earningsQuarterlyGrowth: 0.009
+earningsTimestampEnd: 1786030200
+earningsTimestampStart: 1786030200
+ebitda: 1818000000
+ebitdaMargins: 0.31088
+enterpriseToEbitda: 7.47
+enterpriseToRevenue: 2.322
+enterpriseValue: 13581348864
+epsCurrentYear: 5.83519
+epsForward: 3.736163
+epsTrailingTwelveMonths: 4.57
+esgPopulated: false
+exDividendDate: 1786320000
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 35.2012
+fiftyDayAverageChange: -1.4911995
+fiftyDayAverageChangePercent: -0.04236218
+fiftyTwoWeekChangePercent: 47.18499
+fiftyTwoWeekHigh: 37.4
+fiftyTwoWeekHighChange: -3.6900024
+fiftyTwoWeekHighChangePercent: -0.098663166
+fiftyTwoWeekLow: 22.3
+fiftyTwoWeekLowChange: 11.41
+fiftyTwoWeekLowChangePercent: 0.5116592
+fiftyTwoWeekRange: 22.3 - 37.4
+financialCurrency: USD
+firstTradeDateMilliseconds: 900918000000
+fiveYearAvgDividendYield: 4.31
+floatShares: 131178695
+forwardEps: 3.736163
+forwardPE: 9.022626
+freeCashflow: 2060249984
+fullExchangeName: Amsterdam
+fullTimeEmployees: 6716
+fulldayChange: 0.77000046
+fulldayChangePercent: 2.3368754
+fulldayPrice: 33.71
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.35157
+grossProfits: 2056000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.24924
+heldPercentInstitutions: 0.48301
+impliedSharesOutstanding: 164539740
+industry: Oil & Gas Equipment & Services
+industryDisp: Oil & Gas Equipment & Services
+industryKey: oil-gas-equipment-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786320000
+lastDividendValue: 0.5075
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1149206400
+lastSplitFactor: '4:1'
+longBusinessSummary: SBM Offshore N.V. provides floating production solutions to the
+  offshore energy industry worldwide. It operates in two segments, Lease and Operate,
+  and Turnkey. It engages in the design, supply, installation, operation, demobilization,
+  and life extension of floating production storage and offloading (FPSO) vessels.
+  The company also operates catenary anchor leg mooring (CALM), a single point mooring
+  (SPM) system terminal; tension leg floaters, turret mooring systems, floating offshore
+  wind, and brownfield and offshore loading terminals; and floating energy hubs. In
+  addition, it owns and operates a fleet of 15 FPSOs and 1 semi-submersible unit,
+  as well as offering offshore technologies development and digital services in the
+  offshore oil and gas industry and broader offshore infrastructure sector. Further,
+  the company offers turnkey supply contracts and after-sales services, which consist
+  mainly of large production systems, large mooring systems, deepwater export systems,
+  fluid transfer systems, tanker loading and discharge terminals, design services,
+  supply of special components and proprietary designs and equipment activities. The
+  company was formerly known as IHC Caland and changed its name to SBM Offshore N.V.
+  in 2005. SBM Offshore N.V. was founded in 1862 and is headquartered in Schiphol,
+  the Netherlands.
+longName: SBM Offshore N.V.
+market: nl_market
+marketCap: 5546634752
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_875490
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 925000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5419939035
+numberOfAnalystOpinions: 8
+open: 33.38
+operatingCashflow: 3300999936
+operatingMargins: 0.30455
+overallRisk: 2
+payoutRatio: 0.1093
+pegRatio: 0.23
+phone: 31 20 236 3000
+previousClose: 32.94
+priceEpsCurrentYear: 5.7770185
+priceHint: 2
+priceToBook: 1.4057344
+priceToSalesTrailing12Months: 0.94846696
+profitMargins: 0.15817
+quickRatio: 1.148
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.77778
+region: US
+regularMarketChange: 0.77000046
+regularMarketChangePercent: 2.3368754
+regularMarketDayHigh: 33.86
+regularMarketDayLow: 33.24
+regularMarketDayRange: 33.24 - 33.86
+regularMarketOpen: 33.38
+regularMarketPreviousClose: 32.94
+regularMarketPrice: 33.71
+regularMarketTime: 1794411544
+regularMarketVolume: 306644
+returnOnAssets: 0.06431
+returnOnEquity: 0.18027
+revenueGrowth: -0.019
+revenuePerShare: 34.36
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 6
+sharesOutstanding: 164539740
+shortName: SBM OFFSHORE
+sourceInterval: 15
+symbol: SBMO.AS
+targetHighPrice: 50.968266
+targetLowPrice: 39.54015
+targetMeanPrice: 46.0538
+targetMedianPrice: 46.79661
+totalCash: 1251000064
+totalCashPerShare: 7.496
+totalDebt: 7173000192
+totalRevenue: 5848000000
+tradeable: false
+trailingAnnualDividendRate: 1.17
+trailingAnnualDividendYield: 0.035519127
+trailingEps: 4.57
+trailingPE: 7.376367
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 33.87
+twoHundredDayAverageChange: -0.15999985
+twoHundredDayAverageChangePercent: -0.00472394
+typeDisp: Equity
+volume: 306644
+website: https://www.sbmoffshore.com
+zip: 1118 CL

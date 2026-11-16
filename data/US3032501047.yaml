@@ -1,0 +1,280 @@
+52WeekChange: -0.5890343
+SandP52WeekChange: 0.097798586
+address1: 5 West Mendenhall
+address2: Suite 105
+allTimeHigh: 2402.52
+allTimeLow: 0.555556
+ask: 722.65
+askSize: 40
+auditRisk: 6
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 801450
+averageDailyVolume3Month: 773871
+averageVolume: 773871
+averageVolume10days: 801450
+beta: 1.338
+bid: 721.0
+bidSize: 240
+boardRisk: 6
+bookValue: -181.152
+city: Bozeman
+companyOfficers:
+- age: 67
+  exercisedValue: 74315840
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William J. Lansing J.D.
+  title: President, CEO & Director
+  totalPay: 1953407
+  unexercisedValue: 19057774
+  yearBorn: 1958
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven P. Weber
+  title: Executive VP & CFO
+  totalPay: 703585
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 15405
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark Russell Scadina
+  title: Executive VP, General Counsel & Corporate Secretary
+  totalPay: 884176
+  unexercisedValue: 5062313
+  yearBorn: 1969
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard Shawn Deal
+  title: Executive VP & Chief Human Resources Officer
+  totalPay: 708177
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nikhil  Behl
+  title: President of Software
+  totalPay: 909490
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael S. Leonard
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Amir  Hermelin
+  title: VP & CTO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dave  Singleton
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Chen
+  title: Managing Director of China Operations
+  unexercisedValue: 0
+- age: 69
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas A. Bowers
+  title: Executive Vice President of Corporate Strategy
+  unexercisedValue: 0
+  yearBorn: 1956
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 725.54
+currentRatio: 0.991
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 734.9407
+dayLow: 718.29
+displayName: Fair Isaac
+dividendDate: 1489708800
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793829600
+earningsCallTimestampStart: 1793829600
+earningsGrowth: 0.265
+earningsQuarterlyGrowth: 0.129
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1801083600
+earningsTimestampStart: 1801083600
+ebitda: 1309704960
+ebitdaMargins: 0.51667
+enterpriseToEbitda: 15.801
+enterpriseToRevenue: 8.164
+enterpriseValue: 20694595584
+epsCurrentYear: 44.75162
+epsForward: 51.4017
+epsTrailingTwelveMonths: 36.32
+esgPopulated: false
+exDividendDate: 1488326400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 810.7734
+fiftyDayAverageChange: -85.2334
+fiftyDayAverageChangePercent: -0.105126046
+fiftyTwoWeekChangePercent: -58.90343
+fiftyTwoWeekHigh: 1858.91
+fiftyTwoWeekHighChange: -1133.3701
+fiftyTwoWeekHighChangePercent: -0.60969603
+fiftyTwoWeekLow: 586.05
+fiftyTwoWeekLowChange: 139.48999
+fiftyTwoWeekLowChangePercent: 0.23801722
+fiftyTwoWeekRange: 586.05 - 1858.91
+financialCurrency: USD
+firstTradeDateMilliseconds: 553959000000
+fiveYearAvgDividendYield: 0.05
+floatShares: 20679848
+forwardEps: 51.4017
+forwardPE: 14.115097
+freeCashflow: 843796608
+fullExchangeName: NYSE
+fullTimeEmployees: 3747
+fulldayChange: -5.119995
+fulldayChangePercent: -0.7007357
+fulldayPrice: 725.54
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.86134005
+grossProfits: 2183393024
+hasPrePostMarketData: true
+heldPercentInsiders: 0.030439999
+heldPercentInstitutions: 1.0321
+impliedSharesOutstanding: 21380929
+industry: Software - Application
+industryDisp: Software - Application
+industryKey: software-application
+irWebsite: http://www.fico.com/en/Company/Investors/Pages/default.aspx
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1488326400
+lastDividendValue: 0.02
+lastFiscalYearEnd: 1790726400
+lastSplitDate: 1078963200
+lastSplitFactor: '3:2'
+longBusinessSummary: Fair Isaac Corporation provides analytics software in the Americas,
+  Europe, the Middle East, Africa, and the Asia Pacific. It operates through two segments,
+  Scores and Software. The Scores segment offers business-to-business scoring solutions
+  and services that give clients access to predictive credit and other scores that
+  can be integrated into their transaction streams and decision-making processes,
+  as well as business-to-consumer scoring solutions comprising myFICO.com subscription
+  offerings. The Software segment provides decisioning capabilities, models and solutions
+  designed for various business needs or processes, such as account origination, customer
+  management, customer engagement, fraud detection, and marketing, as well as associated
+  professional services. This segment also offers FICO Platform, a modern and modular
+  set of multi-purpose intelligent decisioning capabilities designed to support artificial
+  intelligence, and advanced analytic and decision use cases. In addition, the company
+  offers analytic and decisioning software comprising FICO Falcon fraud manager, FICO
+  Customer Communication Service, FICO Decision Modeler, FICO Blaze Advisor, FICO
+  Xpress Optimization, FICO Analytics Workbench, FICO Strategy Director, FICO Data
+  Orchestrator, FICO DMP Streaming, and FICO TRIAD Customer Manager. Further, it develops
+  predictive, machine learning, and AI models; business and technical systems for
+  the secure and private sharing of data across consortiums of banking institutions;
+  and provides professional services, as well as software implementation and configuration
+  services. It markets its products and services primarily through its direct sales
+  organization and indirect channels. The company was formerly known as Fair Isaac
+  & Company, Inc. and changed its name to Fair Isaac Corporation in July 1992. Fair
+  Isaac Corporation was founded in 1956 and is headquartered in Bozeman, Montana.
+longName: Fair Isaac Corporation
+market: us_market
+marketCap: 15512718336
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_270427
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 834966976
+nextFiscalYearEnd: 1822262400
+nonDilutedMarketCap: 15622189583
+numberOfAnalystOpinions: 19
+open: 718.29
+operatingCashflow: 1072065024
+operatingMargins: 0.51008
+overallRisk: 5
+payoutRatio: 0.0
+pegRatio: 0.79
+phone: (406) 982-7276
+previousClose: 730.66
+priceEpsCurrentYear: 16.212597
+priceHint: 2
+priceToBook: -4.005145
+priceToSalesTrailing12Months: 6.119722
+profitMargins: 0.32939
+quickRatio: 0.944
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.47619
+region: US
+regularMarketChange: -5.119995
+regularMarketChangePercent: -0.7007357
+regularMarketDayHigh: 734.9407
+regularMarketDayLow: 718.29
+regularMarketDayRange: 718.29 - 734.9407
+regularMarketOpen: 718.29
+regularMarketPreviousClose: 730.66
+regularMarketPrice: 725.54
+regularMarketTime: 1794413708
+regularMarketVolume: 78130
+returnOnAssets: 0.40987998
+revenueGrowth: 0.274
+revenuePerShare: 110.872
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 4
+sharesOutstanding: 21380929
+sharesPercentSharesOut: 0.1184
+sharesShort: 2531656
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2246634
+shortName: Fair Isaac Corporation
+shortPercentOfFloat: 0.1429
+shortRatio: 2.17
+sourceInterval: 15
+state: MT
+symbol: FICO
+targetHighPrice: 1230.97
+targetLowPrice: 481.0
+targetMeanPrice: 821.7879
+targetMedianPrice: 800.0
+totalCash: 217599008
+totalCashPerShare: 10.177
+totalDebt: 5290003968
+totalRevenue: 2534873088
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 36.32
+trailingPE: 19.97632
+trailingPegRatio: 0.7861
+triggerable: true
+twoHundredDayAverage: 1093.9916
+twoHundredDayAverageChange: -368.4516
+twoHundredDayAverageChangePercent: -0.33679566
+typeDisp: Equity
+volume: 78130
+website: https://www.fico.com
+zip: '59715'

@@ -1,0 +1,260 @@
+52WeekChange: 0.24801314
+SandP52WeekChange: 0.097798586
+address1: Waterside House
+address2: 35 North Wharf Road
+allTimeHigh: 789.2689
+allTimeLow: 73.9
+ask: 457.2
+askSize: 0
+auditRisk: 9
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 8299289
+averageDailyVolume3Month: 7791785
+averageVolume: 7791785
+averageVolume10days: 8299289
+beta: 1.146
+bid: 457.1
+bidSize: 0
+boardRisk: 4
+bookValue: 1.573
+city: London
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Stuart Barry Machin
+  title: CEO & Director
+  totalPay: 913000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Alison Ann Dolan
+  title: Chief Financial Officer & Director
+  totalPay: 672000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Sacha Mark Berendji
+  title: Operations Director
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Fraser  Ramzan
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Nick James Folland
+  title: Group General Counsel & Company Secretary
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Gayatri  Solanki
+  title: Chief Manager of Marketing, PR & Brand Communication
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Hayley Marie Tatum M.B.E.
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Craig  Taylor
+  title: Head of Operations for Food Supply Chain
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. David  Stokes
+  title: Head of Sourcing
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Stephen  Langford
+  title: Head of Clothing & Home Online
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: MKS.L announced a cash dividend of GBp 0.014 with an ex-date of Nov. 26,
+    2026
+  meta:
+    amount: '0.014'
+    dateEpochMs: 1795651200000
+    eventType: DIVIDEND
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 457.2
+currentRatio: 0.868
+customPriceAlertConfidence: LOW
+dayHigh: 460.6
+dayLow: 453.2
+debtToEquity: 102.855
+dividendRate: 0.04
+dividendYield: 0.92
+earningsCallTimestampEnd: 1793784600
+earningsCallTimestampStart: 1793784600
+earningsGrowth: 41.0
+earningsQuarterlyGrowth: 41.871
+earningsTimestamp: 1793809800
+earningsTimestampEnd: 1793809800
+earningsTimestampStart: 1793809800
+ebitda: 1081900032
+ebitdaMargins: 0.058480002
+enterpriseToEbitda: 11.105
+enterpriseToRevenue: 0.649
+enterpriseValue: 12014970880
+epsCurrentYear: 0.327
+epsForward: 0.3593
+epsTrailingTwelveMonths: 12.72
+esgPopulated: false
+exDividendDate: 1795651200
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 397.288
+fiftyDayAverageChange: 59.912018
+fiftyDayAverageChangePercent: 0.1508025
+fiftyTwoWeekChangePercent: 24.801313
+fiftyTwoWeekHigh: 460.6
+fiftyTwoWeekHighChange: -3.399994
+fiftyTwoWeekHighChangePercent: -0.0073816627
+fiftyTwoWeekLow: 301.1
+fiftyTwoWeekLowChange: 156.1
+fiftyTwoWeekLowChangePercent: 0.51843244
+fiftyTwoWeekRange: 301.1 - 460.6
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 5.86
+floatShares: 1949107020
+forwardEps: 0.3593
+forwardPE: 12.724744
+freeCashflow: 163375008
+fullExchangeName: LSE
+fullTimeEmployees: 51405
+fulldayChange: 1.8000183
+fulldayChangePercent: 0.39526093
+fulldayPrice: 457.2
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.35349998
+grossProfits: 6539800064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00832
+heldPercentInstitutions: 0.6384
+impliedSharesOutstanding: 2069052388
+industry: Department Stores
+industryDisp: Department Stores
+industryKey: department-stores
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1795651200
+lastDividendValue: 0.014
+lastFiscalYearEnd: 1774656000
+lastSplitDate: 1016496000
+lastSplitFactor: '17:21'
+longBusinessSummary: Marks and Spencer Group plc operates various retail stores. It
+  operates through Fashion, Home & Beauty; Food; International; and Ocado segments.
+  The company offers womenswear, menswear, lingerie, kids wear, beauty, and home products
+  through UK and ROI, retail stores, and online. It also provides meat, fish, protein
+  deli and dairy; produce and floral; meals, frozen, and food on the move; core basket;
+  beers, wines, and spirits; and impulse and events, and hospitality services. In
+  addition, it operates international franchises; and provides banking services. The
+  company also exports its products. The company was founded in 1884 and is based
+  in London, the United Kingdom.
+longName: Marks and Spencer Group plc
+market: gb_market
+marketCap: 9459707904
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874723
+mostRecentQuarter: 1790380800
+netIncomeToCommon: 519000000
+nextFiscalYearEnd: 1806192000
+nonDilutedMarketCap: 9422464574
+numberOfAnalystOpinions: 19
+open: 456.0
+operatingCashflow: 1813600000
+operatingMargins: 0.03846
+overallRisk: 3
+payoutRatio: 0.0034
+pegRatio: 0.68
+phone: 44 20 7935 4422
+previousClose: 455.4
+priceEpsCurrentYear: 1398.1652
+priceHint: 2
+priceToBook: 2.9065483
+priceToSalesTrailing12Months: 0.51133835
+profitMargins: 0.02805
+quickRatio: 0.525
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.55556
+region: US
+regularMarketChange: 1.8000183
+regularMarketChangePercent: 0.39526093
+regularMarketDayHigh: 460.6
+regularMarketDayLow: 453.2
+regularMarketDayRange: 453.2 - 460.6
+regularMarketOpen: 456.0
+regularMarketPreviousClose: 455.4
+regularMarketPrice: 457.2
+regularMarketTime: 1794411563
+regularMarketVolume: 5399251
+returnOnAssets: 0.04304
+returnOnEquity: 0.16087
+revenueGrowth: 0.154
+revenuePerShare: 8.999
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 2069052388
+shortName: MARKS AND SPENCER GROUP PLC ORD
+sourceInterval: 15
+symbol: MKS.L
+targetHighPrice: 750.0
+targetLowPrice: 360.0
+targetMeanPrice: 484.105
+targetMedianPrice: 480.00003
+totalCash: 1044700032
+totalCashPerShare: 0.507
+totalDebt: 3505499904
+totalRevenue: 18499899392
+tradeable: false
+trailingAnnualDividendRate: 0.044
+trailingAnnualDividendYield: 9.661836e-05
+trailingEps: 12.72
+trailingPE: 0.35943395
+trailingPegRatio: 0.7094
+triggerable: false
+twoHundredDayAverage: 375.34436
+twoHundredDayAverageChange: 81.85565
+twoHundredDayAverageChangePercent: 0.21808147
+typeDisp: Equity
+volume: 5399251
+website: https://corporate.marksandspencer.com
+zip: W2 1NW

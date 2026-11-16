@@ -1,0 +1,271 @@
+52WeekChange: 0.13306308
+SandP52WeekChange: 0.097798586
+address1: 3655 N.W. 87th Avenue
+allTimeHigh: 72.7
+allTimeLow: 2.03125
+ask: 30.84
+askSize: 500
+auditRisk: 10
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 20611070
+averageDailyVolume3Month: 21566275
+averageVolume: 21566275
+averageVolume10days: 20611070
+beta: 2.456
+bid: 30.83
+bidSize: 500
+boardRisk: 9
+bookValue: 10.494
+city: Miami
+companyOfficers:
+- age: 76
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Meir Arison
+  title: Executive Chairman of the Board
+  totalPay: 126507
+  unexercisedValue: 0
+  yearBorn: 1949
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joshua Ian Weinstein
+  title: CEO & Director
+  totalPay: 6926749
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Bernstein
+  title: CFO & Chief Accounting Officer
+  totalPay: 3574533
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Enrique  Miguez J.D.
+  title: Chief Legal & Administrative Officer
+  totalPay: 1919353
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Bettina A. Deynes
+  title: Global Chief Human Resources Officer
+  totalPay: 1532644
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lars  Ljoen
+  title: Chief Maritime Officer
+  totalPay: 1848443
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Beth  Roberts
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jody  Venturoni
+  title: Chief Communications Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Hon. E. H. Horst Rahe
+  title: Life President of AIDA Cruises
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adolfo M. Perez
+  title: Senior Vice President of Trade Sales and Marketing for Carnival Cruise Line
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 30.825
+currentRatio: 0.274
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 31.04
+dayLow: 30.59
+debtToEquity: 177.11
+displayName: Carnival
+dividendDate: 1795737600
+dividendRate: 0.6
+dividendYield: 1.95
+earningsCallTimestampEnd: 1790690400
+earningsCallTimestampStart: 1790690400
+earningsGrowth: 0.05
+earningsQuarterlyGrowth: 0.037
+earningsTimestamp: 1790685000
+earningsTimestampEnd: 1797600600
+earningsTimestampStart: 1797600600
+ebitda: 7292000256
+ebitdaMargins: 0.26427
+enterpriseToEbitda: 8.954
+enterpriseToRevenue: 2.366
+enterpriseValue: 65294315520
+epsCurrentYear: 2.26378
+epsForward: 2.57471
+epsTrailingTwelveMonths: 2.27
+esgPopulated: false
+exDividendDate: 1793923200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 25.5418
+fiftyDayAverageChange: 5.283201
+fiftyDayAverageChangePercent: 0.2068453
+fiftyTwoWeekChangePercent: 13.306308
+fiftyTwoWeekHigh: 34.03
+fiftyTwoWeekHighChange: -3.204998
+fiftyTwoWeekHighChangePercent: -0.09418155
+fiftyTwoWeekLow: 21.45
+fiftyTwoWeekLowChange: 9.375
+fiftyTwoWeekLowChangePercent: 0.43706292
+fiftyTwoWeekRange: 21.45 - 34.03
+financialCurrency: USD
+firstTradeDateMilliseconds: 554131800000
+fiveYearAvgDividendYield: 3.44
+floatShares: 1245740946
+forwardEps: 2.57471
+forwardPE: 11.972223
+freeCashflow: 1807624960
+fullExchangeName: NYSE
+fullTimeEmployees: 160000
+fulldayChange: 0.08500099
+fulldayChangePercent: 0.2765159
+fulldayPrice: 30.825
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.5538
+grossProfits: 15281000448
+hasPrePostMarketData: true
+heldPercentInsiders: 0.07236
+heldPercentInstitutions: 0.71702003
+impliedSharesOutstanding: 1344610129
+industry: Travel Services
+industryDisp: Travel Services
+industryKey: travel-services
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1793923200
+lastDividendValue: 0.15
+lastFiscalYearEnd: 1764460800
+lastSplitDate: 897868800
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Carnival Corporation Ltd., a cruise company, provides leisure
+  travel services. The company operates through four segments: North America Cruise
+  Operations, Europe Cruise Operations, Cruise Support, and Tour and Other. It operates
+  port destinations and islands, as well as owns and operates hotels, lodges, glass-domed
+  railcars, and motorcoaches. The company offers its services under the AIDA Cruises,
+  Carnival Cruise Line, Costa Cruises, Cunard, Holland America Line, P&O Cruises (Australia),
+  P&O Cruises (UK), Princess Cruises, and Seabourn brands. It sells its cruises through
+  travel agents, tour operators, vacation planners, websites, and onboard future cruise
+  consultants. Carnival Corporation Ltd. was founded in 1972 and is headquartered
+  in Miami, Florida.'
+longName: Carnival Corporation Ltd.
+market: us_market
+marketCap: 41447608320
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_258823
+mostRecentQuarter: 1788134400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 3136999936
+nextFiscalYearEnd: 1795996800
+nonDilutedMarketCap: 41333315365
+numberOfAnalystOpinions: 27
+open: 30.74
+operatingCashflow: 6821000192
+operatingMargins: 0.15923999
+overallRisk: 9
+payoutRatio: 0.1982
+pegRatio: 1.06
+phone: 305 599 2600
+prevName: Carnival Corporation & Plc
+previousClose: 30.74
+priceEpsCurrentYear: 13.616606
+priceHint: 2
+priceToBook: 2.9373927
+priceToSalesTrailing12Months: 1.5021058
+profitMargins: 0.113690004
+quickRatio: 0.152
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.63333
+region: US
+regularMarketChange: 0.08500099
+regularMarketChangePercent: 0.2765159
+regularMarketDayHigh: 31.04
+regularMarketDayLow: 30.59
+regularMarketDayRange: 30.59 - 31.04
+regularMarketOpen: 30.74
+regularMarketPreviousClose: 30.74
+regularMarketPrice: 30.825
+regularMarketTime: 1794413728
+regularMarketVolume: 2967858
+returnOnAssets: 0.05395
+returnOnEquity: 0.23998
+revenueGrowth: 0.035
+revenuePerShare: 20.289
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 9
+sharesOutstanding: 1344610129
+sharesPercentSharesOut: 0.0301
+sharesShort: 40533263
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 40981501
+shortName: Carnival Corporation Ltd.
+shortPercentOfFloat: 0.0325
+shortRatio: 1.96
+sourceInterval: 15
+state: FL
+symbol: CCL
+targetHighPrice: 43.0
+targetLowPrice: 23.0
+targetMeanPrice: 33.48889
+targetMedianPrice: 33.0
+totalCash: 1220000000
+totalCashPerShare: 0.907
+totalDebt: 25162000384
+totalRevenue: 27593000960
+tradeable: false
+trailingAnnualDividendRate: 0.45
+trailingAnnualDividendYield: 0.014638906
+trailingEps: 2.27
+trailingPE: 13.579295
+trailingPegRatio: 1.0587
+triggerable: true
+twoHundredDayAverage: 27.1323
+twoHundredDayAverageChange: 3.6927013
+twoHundredDayAverageChangePercent: 0.13609983
+typeDisp: Equity
+volume: 2967858
+website: https://www.carnivalcorp.com
+zip: 33178-2428

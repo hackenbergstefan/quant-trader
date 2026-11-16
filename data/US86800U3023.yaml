@@ -1,0 +1,274 @@
+52WeekChange: -0.26694804
+SandP52WeekChange: 0.097798586
+address1: 980 Rock Avenue
+allTimeHigh: 122.9
+allTimeLow: 0.363
+ask: 32.91
+askSize: 2
+auditRisk: 10
+averageAnalystRating: 2.9 - Hold
+averageDailyVolume10Day: 47534520
+averageDailyVolume3Month: 42864815
+averageVolume: 42864815
+averageVolume10days: 47534520
+beta: 2.181
+bid: 30.36
+bidSize: 2
+boardRisk: 10
+bookValue: 17.965
+city: San Jose
+companyOfficers:
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Charles  Liang
+  title: Founder, Chairman of the Board, President & CEO
+  totalPay: 1
+  unexercisedValue: 282919008
+  yearBorn: 1958
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Chiu-Chu  Liu Liang
+  title: Co-Founder, Senior VP & Director
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Vikranth  Malyala
+  title: Chief Business Officer
+  totalPay: 1012166
+  unexercisedValue: 7829030
+- age: 61
+  exercisedValue: 280824
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jin  Xiao
+  title: Senior Corporate Vice President of Engineering
+  totalPay: 610830
+  unexercisedValue: 4499418
+  yearBorn: 1964
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Mark Patrick Long J.D.
+  title: Senior VP & Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Kenneth  Cheung
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Yitai  Hu
+  title: SVP of Corporate Development & General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. DeAnna  Luna
+  title: Acting Chief Compliance Officer
+  unexercisedValue: 0
+- age: 76
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Shin-Chun  Hsu
+  title: Sr. Chief Executive of Strategic Business
+  totalPay: 306101
+  unexercisedValue: 825535
+  yearBorn: 1949
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Michael Thomas Staiger
+  title: Senior Vice President of Corporate Development
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 30.68
+currentRatio: 3.024
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 30.87
+dayLow: 29.12
+debtToEquity: 57.12
+displayName: Super Micro Computer
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793743200
+earningsCallTimestampStart: 1793743200
+earningsGrowth: 5.813
+earningsQuarterlyGrowth: 8.473
+earningsTimestamp: 1793739600
+earningsTimestampEnd: 1801602000
+earningsTimestampStart: 1801602000
+ebitda: 4551495168
+ebitdaMargins: 0.084300004
+enterpriseToEbitda: 5.451
+enterpriseToRevenue: 0.46
+enterpriseValue: 24812302336
+epsCurrentYear: 6.5223
+epsForward: 6.94506
+epsTrailingTwelveMonths: 4.74
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 408 503 8008
+fiftyDayAverage: 37.0828
+fiftyDayAverageChange: -6.382801
+fiftyDayAverageChangePercent: -0.17212294
+fiftyTwoWeekChangePercent: -26.694805
+fiftyTwoWeekHigh: 51.4
+fiftyTwoWeekHighChange: -20.7
+fiftyTwoWeekHighChangePercent: -0.40272373
+fiftyTwoWeekLow: 19.48
+fiftyTwoWeekLowChange: 11.220001
+fiftyTwoWeekLowChangePercent: 0.5759754
+fiftyTwoWeekRange: 19.48 - 51.4
+financialCurrency: USD
+firstTradeDateMilliseconds: 1175175000000
+floatShares: 559987279
+forwardEps: 6.94506
+forwardPE: 4.4204082
+freeCashflow: -8191506944
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 7000
+fulldayChange: 2.9099998
+fulldayChangePercent: 10.471393
+fulldayPrice: 30.7
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.11378
+grossProfits: 6143321088
+hasPrePostMarketData: true
+heldPercentInsiders: 0.12617
+heldPercentInstitutions: 0.66740996
+impliedSharesOutstanding: 659227367
+industry: Computer Hardware
+industryDisp: Computer Hardware
+industryKey: computer-hardware
+irWebsite: http://ir.supermicro.com/
+isEarningsDateEstimate: true
+language: en-US
+lastFiscalYearEnd: 1782777600
+lastSplitDate: 1727740800
+lastSplitFactor: '10:1'
+longBusinessSummary: Super Micro Computer, Inc., together with its subsidiaries, develops
+  and sells server and storage solutions based on modular and open-standard architecture
+  in the United States, Asia, Europe, and internationally. The company offers liquid
+  and air-cooled AI servers for training and inferencing with integrated graphics
+  processing units (GPUs) or PCIe based architectures; SuperBlade, MicroBlade, FlexTwin,
+  GrandTwin, and BigTwin blade and multi-node systems; SuperStorage systems; Hyper,
+  CloudDC, and WIO and rackmount systems; embedded (5G/IoT/Edge) systems; and MicroCloud
+  server systems. It also provides workstations and networking devices; and modular
+  server subsystems and accessories, including server boards, chassis, power supplies,
+  and other accessories. In addition, the company offers remote system management
+  solutions, such as Server Management suite comprising Supermicro Server Manager,
+  Supermicro Power Management software, Supermicro Update Manager, SuperCloud Composer,
+  SuperCloud Director, and SuperDoctor 5. Further, the company identifies service
+  requirements; creates and executes project plans; conducts verification testing;
+  offers training; and provides technical documentation. Additionally, it provides
+  rack level services from design to deployment for full rack and cluster level deployments
+  of AI and HPC datacenters; help desk services and on-site product support; and warranties,
+  maintenance, and technical support services. The company serves enterprise data
+  centers, cloud computing, artificial intelligence, 5G, and edge computing markets
+  through direct and indirect sales force, distributors, value-added resellers, system
+  integrators, and original equipment manufacturers. Super Micro Computer, Inc. has
+  a strategic alliance with NetApp, Inc. Super Micro Computer, Inc. was incorporated
+  in 1993 and is headquartered in San Jose, California.
+longName: Super Micro Computer, Inc.
+market: us_market
+marketCap: 20238280704
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_6479558
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3294405120
+nextFiscalYearEnd: 1814313600
+nonDilutedMarketCap: 18319928528
+numberOfAnalystOpinions: 15
+open: 29.62
+operatingCashflow: -6326384128
+operatingMargins: 0.08326
+overallRisk: 10
+payoutRatio: 0.0
+pegRatio: 0.91
+phone: 408 503 8000
+previousClose: 27.79
+priceEpsCurrentYear: 4.7069287
+priceHint: 2
+priceToBook: 1.7088784
+priceToSalesTrailing12Months: 0.37460047
+profitMargins: 0.067719996
+quickRatio: 1.526
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.94444
+region: US
+regularMarketChange: 2.9099998
+regularMarketChangePercent: 10.471393
+regularMarketDayHigh: 30.87
+regularMarketDayLow: 29.12
+regularMarketDayRange: 29.12 - 30.87
+regularMarketOpen: 29.62
+regularMarketPreviousClose: 27.79
+regularMarketPrice: 30.7
+regularMarketTime: 1794413750
+regularMarketVolume: 18378940
+returnOnAssets: 0.11212
+returnOnEquity: 0.32368
+revenueGrowth: 2.975
+revenuePerShare: 87.445
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 9
+sharesOutstanding: 659227367
+sharesPercentSharesOut: 0.113800004
+sharesShort: 75016977
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 87363140
+shortName: Super Micro Computer, Inc.
+shortPercentOfFloat: 0.1268
+shortRatio: 2.15
+sourceInterval: 15
+state: CA
+symbol: SMCI
+targetHighPrice: 65.0
+targetLowPrice: 18.0
+targetMeanPrice: 43.6
+targetMedianPrice: 45.0
+totalCash: 6912595968
+totalCashPerShare: 10.486
+totalDebt: 9178550272
+totalRevenue: 53991112704
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 4.74
+trailingPE: 6.476794
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 32.58265
+twoHundredDayAverageChange: -1.8826485
+twoHundredDayAverageChangePercent: -0.057780705
+typeDisp: Equity
+volume: 18377268
+website: https://www.supermicro.com
+zip: '95131'

@@ -1,0 +1,275 @@
+52WeekChange: 0.55868435
+SandP52WeekChange: 0.097798586
+address1: 100 Grainger Parkway
+allTimeHigh: 1521.41
+allTimeLow: 1.9375
+ask: 1479.44
+askSize: 30
+auditRisk: 4
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 346490
+averageDailyVolume3Month: 259151
+averageVolume: 259151
+averageVolume10days: 346490
+beta: 0.955
+bid: 1478.11
+bidSize: 100
+boardRisk: 4
+bookValue: 92.585
+city: Lake Forest
+companyOfficers:
+- age: 57
+  exercisedValue: 20286624
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Donald G. Macpherson
+  title: Chairman & CEO
+  totalPay: 3157689
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nancy L. Berardinelli-Krantz
+  title: Senior VP & Chief Legal Officer
+  totalPay: 1246641
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melanie J. Tinto
+  title: Senior VP & Chief Human Resources Officer
+  totalPay: 1271983
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Paige K. Robbins
+  title: Senior VP & President of Grainger Business Unit
+  totalPay: 1533647
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laurie R. Thomson
+  title: Interim CFO, VP, Controller & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonny  LeRoy
+  title: Senior VP &  CTO
+  totalPay: 1152721
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kyle  Bland
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Masaya  Suzuki
+  title: Managing Director of Endless Assortment Business
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Barry  Greenhouse
+  title: Senior Vice President of Brand, Online Experience & Assortment
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian Charles Walker
+  title: Senior Vice President of Sales & Onsite Services
+  unexercisedValue: 0
+  yearBorn: 1978
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 1481.61
+currentRatio: 2.611
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 1487.28
+dayLow: 1472.4357
+debtToEquity: 64.753
+displayName: W.W. Grainger
+dividendDate: 1796083200
+dividendRate: 9.96
+dividendYield: 0.68
+earningsCallTimestampEnd: 1801584000
+earningsCallTimestampStart: 1801584000
+earningsGrowth: 1.029
+earningsQuarterlyGrowth: 0.997
+earningsTimestamp: 1801575000
+earningsTimestampEnd: 1801575000
+earningsTimestampStart: 1801575000
+ebitda: 3347000064
+ebitdaMargins: 0.1728
+enterpriseToEbitda: 21.407
+enterpriseToRevenue: 3.699
+enterpriseValue: 71650025472
+epsCurrentYear: 47.58071
+epsForward: 52.13672
+epsTrailingTwelveMonths: 45.51
+esgPopulated: false
+exDividendDate: 1794182400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 1318.2299
+fiftyDayAverageChange: 163.38013
+fiftyDayAverageChangePercent: 0.12393903
+fiftyTwoWeekChangePercent: 55.868435
+fiftyTwoWeekHigh: 1521.41
+fiftyTwoWeekHighChange: -39.80005
+fiftyTwoWeekHighChangePercent: -0.026159976
+fiftyTwoWeekLow: 906.52
+fiftyTwoWeekLowChange: 575.08997
+fiftyTwoWeekLowChangePercent: 0.63439304
+fiftyTwoWeekRange: 906.52 - 1521.41
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 0.9
+floatShares: 42815752
+forwardEps: 52.13672
+forwardPE: 28.417784
+freeCashflow: 1331750016
+fullExchangeName: NYSE
+fullTimeEmployees: 22100
+fulldayChange: 8.699951
+fulldayChangePercent: 0.59066415
+fulldayPrice: 1481.61
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.39429
+grossProfits: 7637000192
+hasPrePostMarketData: true
+heldPercentInsiders: 0.06319
+heldPercentInstitutions: 0.77021
+impliedSharesOutstanding: 46814148
+industry: Industrial Distribution
+industryDisp: Industrial Distribution
+industryKey: industrial-distribution
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794182400
+lastDividendValue: 2.49
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 897868800
+lastSplitFactor: '2:1'
+longBusinessSummary: W.W. Grainger, Inc., together with its subsidiaries, distributes
+  maintenance, repair, and operating products and services primarily in North America,
+  Japan, and the United Kingdom. The company operates through two segments, High-Touch
+  Solutions North America and Endless Assortment. It provides safety, security, material
+  handling and storage equipment, pumps and plumbing equipment, cleaning and maintenance,
+  and metalworking and hand tools. The company also offers technical support and inventory
+  management services. It serves smaller businesses to large corporations, government
+  entities, and other institutions, as well as commercial, healthcare, and manufacturing
+  industries through sales and service representatives, and electronic and ecommerce
+  channels. W.W. Grainger, Inc. was founded in 1927 and is headquartered in Lake Forest,
+  Illinois.
+longName: W.W. Grainger, Inc.
+market: us_market
+marketCap: 69360312320
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_276060
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2163000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 68953026730
+numberOfAnalystOpinions: 14
+open: 1475.79
+operatingCashflow: 2239000064
+operatingMargins: 0.15943
+overallRisk: 3
+payoutRatio: 0.2087
+pegRatio: 1.9
+phone: 847 535 1000
+previousClose: 1472.91
+priceEpsCurrentYear: 31.138878
+priceHint: 2
+priceToBook: 16.0027
+priceToSalesTrailing12Months: 3.5809958
+profitMargins: 0.111669995
+quickRatio: 1.534
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.77778
+region: US
+regularMarketChange: 8.699951
+regularMarketChangePercent: 0.59066415
+regularMarketDayHigh: 1487.28
+regularMarketDayLow: 1472.4357
+regularMarketDayRange: 1472.4357 - 1487.28
+regularMarketOpen: 1475.79
+regularMarketPreviousClose: 1472.91
+regularMarketPrice: 1481.61
+regularMarketTime: 1794413692
+regularMarketVolume: 49681
+returnOnAssets: 0.20341
+returnOnEquity: 0.52327996
+revenueGrowth: 0.113
+revenuePerShare: 409.493
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 4
+sharesOutstanding: 46814148
+sharesPercentSharesOut: 0.025899999
+sharesShort: 1210388
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1242296
+shortName: W.W. Grainger, Inc.
+shortPercentOfFloat: 0.0308
+shortRatio: 5.14
+sourceInterval: 15
+state: IL
+symbol: GWW
+targetHighPrice: 1645.0
+targetLowPrice: 1172.0
+targetMeanPrice: 1435.1428
+targetMedianPrice: 1416.5
+totalCash: 768000000
+totalCashPerShare: 16.405
+totalDebt: 3068000000
+totalRevenue: 19369000960
+tradeable: false
+trailingAnnualDividendRate: 9.5
+trailingAnnualDividendYield: 0.0064498167
+trailingEps: 45.51
+trailingPE: 32.555702
+trailingPegRatio: 1.9041
+triggerable: true
+twoHundredDayAverage: 1249.9293
+twoHundredDayAverageChange: 231.68066
+twoHundredDayAverageChangePercent: 0.18535501
+typeDisp: Equity
+volume: 49681
+website: https://www.grainger.com
+zip: 60045-5201

@@ -1,0 +1,213 @@
+52WeekChange: -0.15205723
+SandP52WeekChange: 0.097798586
+address1: GjOerwellsgatan 22
+address2: Box 340 44
+allTimeHigh: 265.0
+allTimeLow: 3.00944
+ask: 141.1
+askSize: 0
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 313078
+averageDailyVolume3Month: 317280
+averageVolume: 317280
+averageVolume10days: 313078
+beta: 0.952
+bid: 141.1
+bidSize: 0
+bookValue: 37.308
+city: Stockholm
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Asa  Bergman
+  title: President, CEO & Director
+  totalPay: 23545000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jan  Allde
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Catharina  Sabel
+  title: HR Chief
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 141.0
+currentRatio: 1.182
+customPriceAlertConfidence: HIGH
+dayHigh: 142.7
+dayLow: 139.9
+debtToEquity: 54.839
+dividendRate: 3.7
+dividendYield: 2.6
+earningsCallTimestampEnd: 1793260800
+earningsCallTimestampStart: 1793260800
+earningsGrowth: 0.231
+earningsQuarterlyGrowth: 0.229
+earningsTimestamp: 1793291400
+earningsTimestampEnd: 1793291400
+earningsTimestampStart: 1793291400
+ebitda: 4190000128
+ebitdaMargins: 0.12675
+enterpriseToEbitda: 13.875
+enterpriseToRevenue: 1.759
+enterpriseValue: 58134433792
+epsCurrentYear: 7.10203
+epsForward: 7.23
+epsTrailingTwelveMonths: 6.62
+esgPopulated: false
+exDividendDate: 1776902400
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 132.528
+fiftyDayAverageChange: 8.472
+fiftyDayAverageChangePercent: 0.063926116
+fiftyTwoWeekChangePercent: -15.205723
+fiftyTwoWeekHigh: 168.5
+fiftyTwoWeekHighChange: -27.5
+fiftyTwoWeekHighChangePercent: -0.16320474
+fiftyTwoWeekLow: 122.0
+fiftyTwoWeekLowChange: 19.0
+fiftyTwoWeekLowChangePercent: 0.1557377
+fiftyTwoWeekRange: 122.0 - 168.5
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 2.08
+floatShares: 210643096
+forwardEps: 7.23
+forwardPE: 19.502075
+freeCashflow: 2814125056
+fullExchangeName: Stockholm
+fullTimeEmployees: 22000
+fulldayChange: -1.199997
+fulldayChangePercent: -0.8438797
+fulldayPrice: 141.0
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.34142
+grossProfits: 11285999616
+hasPrePostMarketData: false
+heldPercentInsiders: 0.09797
+heldPercentInstitutions: 0.73570997
+impliedSharesOutstanding: 361240754
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776902400
+lastDividendValue: 3.7
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1604966400
+lastSplitFactor: '3:1'
+longBusinessSummary: Sweco AB (publ) provides architecture and engineering consultancy
+  services worldwide. The company operates through Buildings and Urban Areas; Water,
+  Energy, and Industry; Transportation Infrastructure; and Architecture segments.
+  It provides energy analysis and environmental certification, fire safety engineering
+  and risk analysis, and HVAC and sanitation, as well as design of electrical, telecom,
+  and security systems; building construction and industrial structures design, and
+  construction economics, as well as steel, timber, and glass structures design; statistics
+  and forecasts, analysis and strategy, studies, and planning and design; project
+  and design management, property development and management, and site supervision;
+  and systems development and big data, data coordination and BIM, 3D visualization
+  and geographical analyses, and strategy and operational support services, as well
+  as Twinfinity, a BIM platform. The company offers energy production studies, transmission
+  and distribution planning, and energy market analysis and optimization advice; water
+  and wastewater engineering, water resource planning, urban water management, and
+  design of flood protection structures; waste management planning and advice, environmental
+  studies and impact assessments, and chemical substances and associated legislation;
+  and process engineering, plant design, and logistics planning services. It provides
+  road and land use planning, rock excavation design and geotechnical engineering,
+  bridge design, port master planning, and surveying; tracks, electricity, signaling,
+  telecoms, and operation and maintenance; and capacity, accessibility, and strategic
+  planning services, as well as intelligent transportation systems. The company also
+  offers urban planning; landscape, building, and interior architecture; and cultural
+  heritage and lighting design services. The company was founded in 1889 and is headquartered
+  in Stockholm, Sweden.
+longName: Sweco AB (publ)
+market: se_market
+marketCap: 50934947840
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_3449723
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2375000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 51393234870
+numberOfAnalystOpinions: 6
+open: 142.2
+operatingCashflow: 3779000064
+operatingMargins: 0.1109
+payoutRatio: 0.5632
+pegRatio: 4.61
+phone: 46 86 95 60 00
+previousClose: 142.2
+priceEpsCurrentYear: 19.85348
+priceHint: 2
+priceToBook: 3.7793505
+priceToSalesTrailing12Months: 1.5408684
+profitMargins: 0.07185
+quickRatio: 0.064
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: -1.199997
+regularMarketChangePercent: -0.8438797
+regularMarketDayHigh: 142.7
+regularMarketDayLow: 139.9
+regularMarketDayRange: 139.9 - 142.7
+regularMarketOpen: 142.2
+regularMarketPreviousClose: 142.2
+regularMarketPrice: 141.0
+regularMarketTime: 1794412476
+regularMarketVolume: 151771
+returnOnAssets: 0.07891
+returnOnEquity: 0.18655
+revenueGrowth: 0.066
+revenuePerShare: 91.587
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+sharesOutstanding: 330241190
+shortName: SWECO AB ser. B
+sourceInterval: 15
+symbol: SWEC-B.ST
+targetHighPrice: 200.0
+targetLowPrice: 139.0
+targetMeanPrice: 171.33333
+targetMedianPrice: 169.5
+totalCash: 634000000
+totalCashPerShare: 1.755
+totalDebt: 7393999872
+totalRevenue: 33056000000
+tradeable: false
+trailingAnnualDividendRate: 3.7
+trailingAnnualDividendYield: 0.02601969
+trailingEps: 6.62
+trailingPE: 21.299093
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 133.7855
+twoHundredDayAverageChange: 7.214493
+twoHundredDayAverageChangePercent: 0.053925816
+typeDisp: Equity
+volume: 151771
+website: https://www.swecogroup.com
+zip: 100 26

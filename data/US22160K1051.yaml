@@ -1,0 +1,276 @@
+52WeekChange: 0.16645515
+SandP52WeekChange: 0.097798586
+address1: 999 Lake Drive
+allTimeHigh: 1096.5
+allTimeLow: 5.875
+ask: 1078.29
+askSize: 1
+auditRisk: 6
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 2539590
+averageDailyVolume3Month: 2182425
+averageVolume: 2182425
+averageVolume10days: 2539590
+beta: 0.852
+bid: 1053.5
+bidSize: 1
+boardRisk: 2
+bookValue: 80.771
+city: Issaquah
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ron M. Vachris
+  title: President, CEO & Director
+  totalPay: 1841901
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gary  Millerchip
+  title: Executive VP & CFO
+  totalPay: 1316800
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Javier  Polit
+  title: Executive VP and CI&DO of Information Systems
+  totalPay: 3837307
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pierre  Riel
+  title: Executive VP & COO of International Division
+  totalPay: 1162886
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tiffany M. Barbre
+  title: Senior VP, Corporate Controller & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Claudine E. Adamo
+  title: Executive Vice President of Administration
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Sullivan
+  title: Executive VP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1960
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Sheri  Flies
+  title: Senior Vice President of Global Sustainability & Compliance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Peter  Gruening
+  title: Senior VP of Membership, Marketing & Member Service Centers
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Brenda  Weber
+  title: Senior Vice President of Human Resources
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 1079.555
+currentRatio: 1.06
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 1091.92
+dayLow: 1071.34
+debtToEquity: 28.436
+displayName: Costco Wholesale
+dividendDate: 1794528000
+dividendRate: 5.88
+dividendYield: 0.55
+earningsCallTimestampEnd: 1796940000
+earningsCallTimestampStart: 1796940000
+earningsGrowth: 0.15
+earningsQuarterlyGrowth: 0.149
+earningsTimestamp: 1796936400
+earningsTimestampEnd: 1796936400
+earningsTimestampStart: 1796936400
+ebitda: 14184999936
+ebitdaMargins: 0.04679
+enterpriseToEbitda: 32.522
+enterpriseToRevenue: 1.522
+enterpriseValue: 461317931008
+epsCurrentYear: 22.78803
+epsForward: 25.0337
+epsTrailingTwelveMonths: 20.76
+esgPopulated: false
+exDividendDate: 1793318400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 957.2726
+fiftyDayAverageChange: 122.28247
+fiftyDayAverageChangePercent: 0.12774049
+fiftyTwoWeekChangePercent: 16.645515
+fiftyTwoWeekHigh: 1096.5
+fiftyTwoWeekHighChange: -16.944946
+fiftyTwoWeekHighChangePercent: -0.015453667
+fiftyTwoWeekLow: 844.06
+fiftyTwoWeekLowChange: 235.49506
+fiftyTwoWeekLowChangePercent: 0.27900276
+fiftyTwoWeekRange: 844.06 - 1096.5
+financialCurrency: USD
+firstTradeDateMilliseconds: 521299800000
+fiveYearAvgDividendYield: 0.57
+floatShares: 442229796
+forwardEps: 25.0337
+forwardPE: 43.12407
+freeCashflow: 6752750080
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 355000
+fulldayChange: 13.415039
+fulldayChangePercent: 1.2582811
+fulldayPrice: 1079.555
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.12765999
+grossProfits: 38700998656
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00093999994
+heldPercentInstitutions: 0.74281996
+impliedSharesOutstanding: 443129349
+industry: Discount Stores
+industryDisp: Discount Stores
+industryKey: discount-stores
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=83830&p=irol-irhome&cm_re=1_en-_-Bottom_Nav-_-Bottom_investor&lang=en-US
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793318400
+lastDividendValue: 1.47
+lastFiscalYearEnd: 1788048000
+lastSplitDate: 947808000
+lastSplitFactor: '2:1'
+longBusinessSummary: Costco Wholesale Corporation, together with its subsidiaries,
+  engages in the operation of membership warehouses in the United States, Puerto Rico,
+  Canada, Mexico, Japan, the United Kingdom, Korea, Australia, Taiwan, China, Spain,
+  France, Sweden, Iceland, and New Zealand. It offers merchandise, including sundries,
+  dry groceries, candies, coolers, freezers, liquor, and tobacco; non-food merchandise
+  comprising consumer electronics, appliances, small electrics, health and beauty
+  aids, hardware, lawn and garden, sporting goods, tires, toys and seasonal, automotive,
+  stamps, tickets, apparel, furniture, domestics, housewares, special order kiosks,
+  and jewelry; and fresh food, such as meat, produce, deli, and bakery products. The
+  company is also involved in warehouse ancillary operations, which include gasoline,
+  pharmacies, food courts, optical, hearing aids, and tire installation centers. In
+  addition, it engages in e-commerce, business centers, travel, and other businesses.
+  Further, the company operates e-commerce sites; and offers branded and private-label
+  products in various categories. The company was formerly known as Costco Companies,
+  Inc. and changed its name to Costco Wholesale Corporation in August 1999. Costco
+  Wholesale Corporation was founded in 1976 and is based in Issaquah, Washington.
+longName: Costco Wholesale Corporation
+market: us_market
+marketCap: 478382522368
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_92817
+mostRecentQuarter: 1788048000
+netIncomeToCommon: 9226000384
+nextFiscalYearEnd: 1819584000
+nonDilutedMarketCap: 472437924142
+numberOfAnalystOpinions: 37
+open: 1081.0
+operatingCashflow: 15816999936
+operatingMargins: 0.03797
+overallRisk: 1
+payoutRatio: 0.2669
+pegRatio: 5.34
+phone: 425 313 8100
+previousClose: 1066.14
+priceEpsCurrentYear: 47.373775
+priceHint: 2
+priceToBook: 13.365626
+priceToSalesTrailing12Months: 1.5780182
+profitMargins: 0.03043
+quickRatio: 0.575
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.97561
+region: US
+regularMarketChange: 13.415039
+regularMarketChangePercent: 1.2582811
+regularMarketDayHigh: 1091.92
+regularMarketDayLow: 1071.34
+regularMarketDayRange: 1071.34 - 1091.92
+regularMarketOpen: 1081.0
+regularMarketPreviousClose: 1066.14
+regularMarketPrice: 1079.555
+regularMarketTime: 1794413723
+regularMarketVolume: 763987
+returnOnAssets: 0.0866
+returnOnEquity: 0.28402
+revenueGrowth: 0.111
+revenuePerShare: 682.852
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 1
+sharesOutstanding: 443129349
+sharesPercentSharesOut: 0.0178
+sharesShort: 7891668
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7325824
+shortName: Costco Wholesale Corporation
+shortPercentOfFloat: 0.0178
+shortRatio: 3.68
+sourceInterval: 15
+state: WA
+symbol: COST
+targetHighPrice: 1315.0
+targetLowPrice: 770.0
+targetMeanPrice: 1073.3513
+targetMedianPrice: 1095.0
+totalCash: 21301000192
+totalCashPerShare: 48.069
+totalDebt: 10181000192
+totalRevenue: 303154003968
+tradeable: false
+trailingAnnualDividendRate: 5.54
+trailingAnnualDividendYield: 0.0051963157
+trailingEps: 20.76
+trailingPE: 52.001686
+trailingPegRatio: 5.3396
+triggerable: true
+twoHundredDayAverage: 973.67413
+twoHundredDayAverageChange: 105.88092
+twoHundredDayAverageChangePercent: 0.10874369
+typeDisp: Equity
+volume: 763987
+website: https://www.costco.com
+zip: '98027'

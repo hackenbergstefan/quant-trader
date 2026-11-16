@@ -1,0 +1,275 @@
+52WeekChange: 0.0031241179
+SandP52WeekChange: 0.097798586
+address1: 301 Merritt Seven
+allTimeHigh: 951.96
+allTimeLow: 1.0
+ask: 675.98
+askSize: 40
+auditRisk: 3
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 678660
+averageDailyVolume3Month: 417200
+averageVolume: 417200
+averageVolume10days: 678660
+beta: 1.157
+bid: 673.69
+bidSize: 120
+boardRisk: 6
+bookValue: 97.195
+city: Norwalk
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anthony J. Guzzi
+  title: Chairman, President & CEO
+  totalPay: 10874727
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 37
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason R. Nalbandian
+  title: Senior VP, CFO & Chief Accounting Officer
+  totalPay: 2551263
+  unexercisedValue: 0
+  yearBorn: 1988
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maxine Lum Mauricio Esq.
+  title: Chief Administrative Officer, Executive VP, General Counsel & Corporate Secretary
+  totalPay: 3392066
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven H. Fried
+  title: Vice President of Compliance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Susan N. Masters Esq.
+  title: VP of Human Resources & Assistant General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laura M. D'Entrone
+  title: VP & Chief Information Security Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Douglas R. Harrington Jr.
+  title: President & CEO of EMCOR Industrial Services
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kostas  Christakos
+  title: Treasurer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel  Fitzgibbons
+  title: President & CEO of EMCOR Electrical Construction Services
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert  Lind
+  title: VP & Controller
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 668.77
+currentRatio: 1.17
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 676.005
+dayLow: 658.02
+debtToEquity: 13.246
+displayName: EMCOR
+dividendDate: 1793318400
+dividendRate: 1.6
+dividendYield: 0.25
+earningsCallTimestampEnd: 1793284200
+earningsCallTimestampStart: 1793284200
+earningsGrowth: 0.376
+earningsQuarterlyGrowth: 0.354
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 2174053888
+ebitdaMargins: 0.109589994
+enterpriseToEbitda: 12.902
+enterpriseToRevenue: 1.414
+enterpriseValue: 28049266688
+epsCurrentYear: 34.91161
+epsForward: 40.90654
+epsTrailingTwelveMonths: 34.59
+esgPopulated: false
+exDividendDate: 1792022400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 727.837
+fiftyDayAverageChange: -59.066956
+fiftyDayAverageChangePercent: -0.0811541
+fiftyTwoWeekChangePercent: 0.3124118
+fiftyTwoWeekHigh: 951.96
+fiftyTwoWeekHighChange: -283.19
+fiftyTwoWeekHighChangePercent: -0.29748097
+fiftyTwoWeekLow: 564.92
+fiftyTwoWeekLowChange: 103.85004
+fiftyTwoWeekLowChangePercent: 0.18383141
+fiftyTwoWeekRange: 564.92 - 951.96
+financialCurrency: USD
+firstTradeDateMilliseconds: 789748200000
+fiveYearAvgDividendYield: 0.24
+floatShares: 43442256
+forwardEps: 40.90654
+forwardPE: 16.348732
+freeCashflow: 1285164672
+fullExchangeName: NYSE
+fullTimeEmployees: 44000
+fulldayChange: 23.380005
+fulldayChangePercent: 3.6226165
+fulldayPrice: 668.77
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.19588
+grossProfits: 3885733120
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00714
+heldPercentInstitutions: 0.97189003
+impliedSharesOutstanding: 43782004
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+irWebsite: http://www.emcorgroup.com/investors_relations
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792022400
+lastDividendValue: 0.4
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1184025600
+lastSplitFactor: '2:1'
+longBusinessSummary: EMCOR Group, Inc. provides electrical and mechanical construction
+  and facilities, building, and industrial services in the United States and the United
+  Kingdom. It offers design, integration, installation, startup, operation, and maintenance
+  services related to power transmission, distribution, and generation systems; energy
+  solutions; premises electrical and lighting systems; process instrumentation; low-voltage
+  systems; voice and data communications systems; roadway and transit lighting, signaling,
+  and fiber optic lines; computerized traffic control systems, and signal and communication
+  equipment; heating, ventilation, air conditioning, refrigeration, and geothermal
+  solutions; clean-room process ventilation systems; fire protection and suppression
+  systems; plumbing, process, and piping systems; control and filtration systems;
+  water and wastewater treatment systems; central plant heating and cooling systems;
+  crane and rigging; millwright; and steel fabrication, erection, and welding services.
+  The company also provides site-based operations and maintenance; facility management
+  and maintenance; energy retrofit; military base operations support; indoor air quality;
+  floor care and janitorial; landscaping, lot sweeping, and snow removal; vendor management
+  and call center; installation and support for building systems; program development,
+  management, and maintenance for energy systems; technical consulting and diagnostic;
+  infrastructure and building projects; modification and retrofit projects; and reception,
+  security, and catering services. In addition, it offers refinery turnaround planning
+  and engineering; welding; overhaul and maintenance; technical; instrumentation,
+  controls, and electrical; electrical panel design, fabrication, and installation;
+  on-site repair and maintenance; and renewable energy services, as well as design,
+  manufacturing, repair, and hydro blast cleaning services. The company was incorporated
+  in 1987 and is headquartered in Norwalk, Connecticut.
+longName: EMCOR Group, Inc.
+market: us_market
+marketCap: 29280092160
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_28014
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1543714944
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 28256467561
+numberOfAnalystOpinions: 9
+open: 674.69
+operatingCashflow: 1611035008
+operatingMargins: 0.0988
+overallRisk: 5
+payoutRatio: 0.0419
+pegRatio: 0.41
+phone: 203 849 7800
+previousClose: 645.39
+priceEpsCurrentYear: 19.156092
+priceHint: 2
+priceToBook: 6.880704
+priceToSalesTrailing12Months: 1.4759773
+profitMargins: 0.07782
+quickRatio: 1.123
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.83333
+region: US
+regularMarketChange: 23.380005
+regularMarketChangePercent: 3.6226165
+regularMarketDayHigh: 676.005
+regularMarketDayLow: 658.02
+regularMarketDayRange: 658.02 - 676.005
+regularMarketOpen: 674.69
+regularMarketPreviousClose: 645.39
+regularMarketPrice: 668.77
+regularMarketTime: 1794413659
+regularMarketVolume: 124664
+returnOnAssets: 0.12326
+returnOnEquity: 0.40552
+revenueGrowth: 0.288
+revenuePerShare: 446.328
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 5
+sharesOutstanding: 43782004
+sharesPercentSharesOut: 0.0172
+sharesShort: 752243
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 763942
+shortName: EMCOR Group, Inc.
+shortPercentOfFloat: 0.0173
+shortRatio: 1.82
+sourceInterval: 15
+state: CT
+symbol: EME
+targetHighPrice: 1200.0
+targetLowPrice: 690.0
+targetMeanPrice: 884.1111
+targetMedianPrice: 918.0
+totalCash: 774752000
+totalCashPerShare: 17.696
+totalDebt: 566513984
+totalRevenue: 19837765632
+tradeable: false
+trailingAnnualDividendRate: 0.4
+trailingAnnualDividendYield: 0.0006197803
+trailingEps: 34.59
+trailingPE: 19.334202
+trailingPegRatio: 0.4118
+triggerable: true
+twoHundredDayAverage: 780.2272
+twoHundredDayAverageChange: -111.45715
+twoHundredDayAverageChangePercent: -0.14285219
+typeDisp: Equity
+volume: 124664
+website: https://emcorgroup.com
+zip: 06851-1092

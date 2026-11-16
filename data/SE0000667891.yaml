@@ -1,0 +1,265 @@
+52WeekChange: 0.24855101
+SandP52WeekChange: 0.097798586
+address1: Sandvik AB
+address2: Kungsbron 1 Sektion G plan 5
+allTimeHigh: 413.1
+allTimeLow: 31.692974
+ask: 373.6
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 1910441
+averageDailyVolume3Month: 1884301
+averageVolume: 1884301
+averageVolume10days: 1910441
+beta: 1.344
+bid: 373.4
+bidSize: 0
+boardRisk: 3
+bookValue: 87.426
+city: Stockholm
+companyOfficers:
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Widing
+  title: President, CEO & Director
+  totalPay: 35264079
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cecilia  Felton
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sofia  Sirvell
+  title: Executive VP, Chief Information Officer & Chief Digital Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Louise  Tjeder
+  title: Head of Investor Relations & VP
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Johanna  Kreft
+  title: Executive VP, General Counsel & Board Secretary
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Björn  Roodzant
+  title: Executive VP and Head of Group Communications & Sustainability
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Bjorn  Axelsson
+  title: Executive VP & Head of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard  Harris
+  title: President of the Rock Processing
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mattias  Nilsson
+  title: President of the Intelligent Manufacturing
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick  Murphy
+  title: President of Business Area Mining
+  unexercisedValue: 0
+  yearBorn: 1976
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 373.6
+currentRatio: 1.62
+customPriceAlertConfidence: HIGH
+dayHigh: 375.9
+dayLow: 371.4
+debtToEquity: 39.811
+dividendRate: 6.0
+dividendYield: 1.64
+earningsCallTimestampEnd: 1792656000
+earningsCallTimestampStart: 1792656000
+earningsGrowth: 0.631
+earningsQuarterlyGrowth: 0.631
+earningsTimestamp: 1792683000
+earningsTimestampEnd: 1792683000
+earningsTimestampStart: 1792683000
+ebitda: 32203999232
+ebitdaMargins: 0.234
+enterpriseToEbitda: 15.5
+enterpriseToRevenue: 3.627
+enterpriseValue: 499161137152
+epsCurrentYear: 17.91715
+epsForward: 13.6
+epsTrailingTwelveMonths: 15.21
+esgPopulated: false
+exDividendDate: 1777420800
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 367.334
+fiftyDayAverageChange: 6.265991
+fiftyDayAverageChangePercent: 0.01705802
+fiftyTwoWeekChangePercent: 24.8551
+fiftyTwoWeekHigh: 413.1
+fiftyTwoWeekHighChange: -39.5
+fiftyTwoWeekHighChangePercent: -0.095618494
+fiftyTwoWeekLow: 272.7
+fiftyTwoWeekLowChange: 100.899994
+fiftyTwoWeekLowChangePercent: 0.37000364
+fiftyTwoWeekRange: 272.7 - 413.1
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 2.19
+floatShares: 1024933713
+forwardEps: 13.6
+forwardPE: 27.470589
+freeCashflow: 13560975360
+fullExchangeName: Stockholm
+fullTimeEmployees: 42831
+fulldayChange: 7.399994
+fulldayChangePercent: 2.020752
+fulldayPrice: 373.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.40335998
+grossProfits: 55513001984
+hasPrePostMarketData: false
+heldPercentInsiders: 0.18554
+heldPercentInstitutions: 0.50029
+impliedSharesOutstanding: 1254385923
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777420800
+lastDividendValue: 6.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1149724800
+lastSplitFactor: '5:1'
+longBusinessSummary: Sandvik AB (publ), an engineering company, provides products
+  and solutions for mining and rock excavation, metal cutting, and materials technology
+  worldwide. The company offers mining and rock excavation equipment, including drill
+  rigs and bolters, underground loaders and trucks, mechanical cutting equipment,
+  rock tools and rock drills, and mining automation; rock processing equipment, such
+  as crushers, screens, hydraulic breakers, demolition tools, and breaker booms. It
+  provides cutting tools and tooling systems, and digital solutions and software;
+  metal powder for additive manufacturing, and products made from controlled expansion
+  alloys; and tungsten powders, as well as recycling services of secondary tungsten
+  raw materials. It serves aerospace, automotive, mining, general engineering, infrastructure,
+  and other industries. Sandvik AB (publ) was founded in 1862 and is headquartered
+  in Stockholm, Sweden.
+longName: Sandvik AB (publ)
+market: se_market
+marketCap: 468638597120
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_621806
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 19082999808
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 459356125002
+numberOfAnalystOpinions: 21
+open: 371.6
+operatingCashflow: 21903998976
+operatingMargins: 0.19026
+overallRisk: 1
+payoutRatio: 0.39470002
+pegRatio: 1.16
+phone: 46 84 56 11 00
+prevName: Sandvik AB
+previousClose: 366.2
+priceEpsCurrentYear: 20.85153
+priceHint: 2
+priceToBook: 4.2733283
+priceToSalesTrailing12Months: 3.4051852
+profitMargins: 0.13866
+quickRatio: 0.795
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.38095
+region: US
+regularMarketChange: 7.399994
+regularMarketChangePercent: 2.020752
+regularMarketDayHigh: 375.9
+regularMarketDayLow: 371.4
+regularMarketDayRange: 371.4 - 375.9
+regularMarketOpen: 371.6
+regularMarketPreviousClose: 366.2
+regularMarketPrice: 373.6
+regularMarketTime: 1794412446
+regularMarketVolume: 414112
+returnOnAssets: 0.08788
+returnOnEquity: 0.19024
+revenueGrowth: 0.291
+revenuePerShare: 109.715
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 1254385923
+shortName: Sandvik AB
+sourceInterval: 15
+symbol: SAND.ST
+targetHighPrice: 465.0
+targetLowPrice: 290.0
+targetMeanPrice: 396.90475
+targetMedianPrice: 410.0
+totalCash: 4033999872
+totalCashPerShare: 3.216
+totalDebt: 43710001152
+totalRevenue: 137624993792
+tradeable: false
+trailingAnnualDividendRate: 6.0
+trailingAnnualDividendYield: 0.016384488
+trailingEps: 15.21
+trailingPE: 24.562788
+trailingPegRatio: 1.1736
+triggerable: true
+twoHundredDayAverage: 373.935
+twoHundredDayAverageChange: -0.33499146
+twoHundredDayAverageChangePercent: -0.0008958548
+typeDisp: Equity
+volume: 414112
+website: https://www.home.sandvik
+zip: 111 22

@@ -1,0 +1,257 @@
+52WeekChange: 0.5389507
+SandP52WeekChange: 0.097798586
+address1: Esplanaden 50
+allTimeHigh: 25380.0
+allTimeLow: 2632.82
+ask: 19730.0
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 3.5 - Hold
+averageDailyVolume10Day: 19230
+averageDailyVolume3Month: 15671
+averageVolume: 15671
+averageVolume10days: 19230
+beta: 0.546
+bid: 19710.0
+bidSize: 0
+boardRisk: 3
+bookValue: 24855.56
+city: Copenhagen
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vincent  Clerc
+  title: CEO & Member of Management Board
+  totalPay: 26600000
+  unexercisedValue: 12101970
+  yearBorn: 1972
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert  Erni
+  title: CFO & Member of the Executive Board
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rabab  Boulos
+  title: Chief Operating Officer
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Navneet  Kapoor
+  title: Chief Technology & Information Officer
+  totalPay: 13170000
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin Christopher Dunwoodie
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mikkel  Linnet
+  title: Head of Global Media Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Susana  Elvira
+  title: Chief People Officer
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Caroline  Pontoppidan
+  title: Chief Corporate Affairs Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katharina  Poehlmann
+  title: Senior VP & Head of Strategy
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Karsten  Kildahl
+  title: Chief Commercial Officer & Emerging Markets
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Denmark
+cryptoTradeable: false
+currency: DKK
+currentPrice: 19710.0
+currentRatio: 2.159
+customPriceAlertConfidence: HIGH
+dayHigh: 19860.0
+dayLow: 19235.0
+debtToEquity: 30.231
+dividendRate: 480.0
+dividendYield: 2.48
+earningsCallTimestampEnd: 1793872800
+earningsCallTimestampStart: 1793872800
+earningsGrowth: 1.986
+earningsQuarterlyGrowth: 1.852
+earningsTimestamp: 1793894400
+earningsTimestampEnd: 1793894400
+earningsTimestampStart: 1793894400
+ebitda: 7927000064
+ebitdaMargins: 0.13178
+enterpriseToEbitda: 37.734
+enterpriseToRevenue: 4.973
+enterpriseValue: 299117510656
+epsCurrentYear: 499.702
+epsForward: 1331.512
+epsTrailingTwelveMonths: 1878.02
+esgPopulated: false
+exDividendDate: 1774483200
+exchange: CPH
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Copenhagen
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 23077.1
+fiftyDayAverageChange: -3367.0996
+fiftyDayAverageChangePercent: -0.14590654
+fiftyTwoWeekChangePercent: 53.89507
+fiftyTwoWeekHigh: 25380.0
+fiftyTwoWeekHighChange: -5670.0
+fiftyTwoWeekHighChangePercent: -0.22340426
+fiftyTwoWeekLow: 12125.0
+fiftyTwoWeekLowChange: 7585.0
+fiftyTwoWeekLowChangePercent: 0.625567
+fiftyTwoWeekRange: 12125.0 - 25380.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 5.31
+floatShares: 8977740
+forwardEps: 1331.512
+forwardPE: 14.802721
+freeCashflow: 3652124928
+fullExchangeName: Copenhagen
+fullTimeEmployees: 100000
+fulldayChange: 350.0
+fulldayChangePercent: 1.8078512
+fulldayPrice: 19710.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.26103002
+grossProfits: 15701999616
+hasPrePostMarketData: false
+heldPercentInsiders: 0.3114
+heldPercentInstitutions: 0.23121001
+impliedSharesOutstanding: 14371463
+industry: Marine Shipping
+industryDisp: Marine Shipping
+industryKey: marine-shipping
+irWebsite: http://investor.maersk.com/index.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1774483200
+lastDividendValue: 480.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1396569600
+lastSplitFactor: '5:1'
+longBusinessSummary: A.P. Møller - Mærsk A/S, together with its subsidiaries, operates
+  as an integrated logistics company in Denmark and internationally. The company operates
+  through Ocean, Logistics & Services, and Terminals segments. The company offers
+  ocean, inland, less-than-container load, and air and ground freight solutions; warehousing,
+  distribution, and depot services; cold chain solutions, cold chain management, pharmaceutical
+  cold chain management, and cold storage solutions; and customs clearance, e-commerce
+  logistics, and lead logistics services. It also provides ocean transport, specialized
+  airlift, and vessel chartering services; project planning, orchestration, and site
+  support; specialized cargo handling, cargo storage, and survey services. In addition,
+  the company offers value-added services, such as labelling, relabeling, tagging
+  or retagging, kitting and product customization, garments on hangers, re-packing,
+  quality controls, reporting, shaving/topping off pallets, reverse logistics, and
+  goods disposal services. It serves FMCG, fashion and lifestyle, retail, chemicals,
+  automotive, technology, pharma and healthcare, and perishables industries. The company
+  was founded in 1904 and is based in Copenhagen, Denmark.
+longName: A.P. Møller - Mærsk A/S
+market: dk_market
+marketCap: 283261534208
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_875418
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4232000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 275466971950
+numberOfAnalystOpinions: 18
+open: 19345.0
+operatingCashflow: 10174999552
+operatingMargins: 0.07877
+overallRisk: 5
+payoutRatio: 0.2551
+pegRatio: 5.49
+phone: 45 33 63 33 63
+previousClose: 19360.0
+priceEpsCurrentYear: 39.44351
+priceHint: 2
+priceToBook: 0.7929815
+priceToSalesTrailing12Months: 4.7090178
+profitMargins: 0.07035
+quickRatio: 2.02
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.47368
+region: US
+regularMarketChange: 350.0
+regularMarketChangePercent: 1.8078512
+regularMarketDayHigh: 19860.0
+regularMarketDayLow: 19235.0
+regularMarketDayRange: 19235.0 - 19860.0
+regularMarketOpen: 19345.0
+regularMarketPreviousClose: 19360.0
+regularMarketPrice: 19710.0
+regularMarketTime: 1794412470
+regularMarketVolume: 8689
+returnOnAssets: 0.03286
+returnOnEquity: 0.07595
+revenueGrowth: 0.274
+revenuePerShare: 4118.153
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 4838362
+shortName: A.P. Møller - Mærsk B A/S
+sourceInterval: 15
+symbol: MAERSK-B.CO
+targetHighPrice: 26302.213
+targetLowPrice: 12080.07
+targetMeanPrice: 19746.521
+targetMedianPrice: 18705.264
+totalCash: 20632000512
+totalCashPerShare: 1328.341
+totalDebt: 17888999424
+totalRevenue: 60152999936
+tradeable: false
+trailingAnnualDividendRate: 75.461
+trailingAnnualDividendYield: 0.003897779
+trailingEps: 1878.02
+trailingPE: 10.495096
+trailingPegRatio: 5.3486
+triggerable: true
+twoHundredDayAverage: 18196.775
+twoHundredDayAverageChange: 1513.2246
+twoHundredDayAverageChangePercent: 0.08315894
+typeDisp: Equity
+volume: 8689
+website: https://www.maersk.com
+zip: '1263'

@@ -1,0 +1,264 @@
+52WeekChange: -0.14638197
+SandP52WeekChange: 0.097798586
+address1: 100 S. Mill Ave
+address2: Suite 1600
+allTimeHigh: 216.0
+allTimeLow: 20.0
+ask: 113.25
+askSize: 200
+auditRisk: 2
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 1860830
+averageDailyVolume3Month: 2023146
+averageVolume: 2023146
+averageVolume10days: 1860830
+beta: 0.941
+bid: 113.01
+bidSize: 200
+boardRisk: 2
+bookValue: -1.135
+city: Tempe
+companyOfficers:
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Amanpal Singh Bhutani
+  title: CEO & Director
+  totalPay: 2133572
+  unexercisedValue: 18103458
+  yearBorn: 1976
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark  McCaffrey
+  title: Chief Financial Officer
+  totalPay: 1003904
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Roger  Chen
+  title: Chief Operating Officer
+  totalPay: 1004805
+  unexercisedValue: 166205
+  yearBorn: 1971
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jared Franklin Sine J.D.
+  title: Chief Strategy & Legal Officer
+  totalPay: 959243
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Phontip  Palitwanon
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1985
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Travis  Muhlestein
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christie  Masoner
+  title: Vice President & Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sarfraz  Nakai
+  title: Chief People Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gourav  Pani
+  title: Chief Business Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 112.965
+currentRatio: 0.61
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 113.92
+dayLow: 111.315
+displayName: GoDaddy
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793307600
+earningsCallTimestampStart: 1793307600
+earningsGrowth: 0.377
+earningsQuarterlyGrowth: 0.244
+earningsTimestamp: 1793304000
+earningsTimestampEnd: 1793304000
+earningsTimestampStart: 1793304000
+ebitda: 1426599936
+ebitdaMargins: 0.27537
+enterpriseToEbitda: 11.494
+enterpriseToRevenue: 3.165
+enterpriseValue: 16396906496
+epsCurrentYear: 9.76
+epsForward: 11.235
+epsTrailingTwelveMonths: 7.27
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 103.8786
+fiftyDayAverageChange: 9.086395
+fiftyDayAverageChangePercent: 0.08747129
+fiftyTwoWeekChangePercent: -14.638197
+fiftyTwoWeekHigh: 133.34
+fiftyTwoWeekHighChange: -20.375
+fiftyTwoWeekHighChangePercent: -0.15280487
+fiftyTwoWeekLow: 71.59
+fiftyTwoWeekLowChange: 41.375
+fiftyTwoWeekLowChangePercent: 0.57794386
+fiftyTwoWeekRange: 71.59 - 133.34
+financialCurrency: USD
+firstTradeDateMilliseconds: 1427808600000
+floatShares: 120302078
+forwardEps: 11.235
+forwardPE: 10.05474
+freeCashflow: 1213387520
+fullExchangeName: NYSE
+fullTimeEmployees: 5845
+fulldayChange: -0.16500092
+fulldayChangePercent: -0.14585072
+fulldayPrice: 112.965
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.63747
+grossProfits: 3302500096
+hasPrePostMarketData: true
+heldPercentInsiders: 0.01008
+heldPercentInstitutions: 1.13705
+impliedSharesOutstanding: 121274701
+industry: Software - Infrastructure
+industryDisp: Software - Infrastructure
+industryKey: software-infrastructure
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'GoDaddy Inc. engages in the design and development of cloud-based
+  products in the United States and internationally. It operates in two segments:
+  Applications and Commerce (A&C), and Core Platform (Core). The A&C segment offers
+  applications products, including Websites + Marketing, a mobile-optimized online
+  tool that enables customers to build websites and e-commerce enabled online stores;
+  and Managed WordPress, a streamlined and optimized website building that allows
+  customers to build and manage a WordPress site; marketing tools and services, such
+  as GoDaddy Studio and search engine optimization designed to help businesses acquire
+  and engage customers and create content; and digital marketing services include
+  email marketing, reputation management, and development of brand guides. This segment
+  also offers Microsoft 365 that connects to customers'' domains; email service plans
+  with a multi-feature web interface; email backup, encryption, archiving, and other
+  advanced e-mail security services; added security functionality services; GoDaddy
+  Payments, a payment facilitator that enables customers to accept various forms of
+  payments; Smart Terminal, a dual screen all-in-one point-of-sale system that allows
+  customers to manage in-store inventory and product catalogs and accept payments;
+  payment acceptance solutions; and online store capabilities. The Core segment offers
+  domain products, including primary registrations, domain aftermarket platform, and
+  domain name add-ons, as well as GoDaddy Registry, a provider of domain name registry
+  services; and hosting and security services comprising shared website hosting and
+  virtual private servers, as well as security products with a suite of tools designed
+  to help secure customers'' online presence; and SSL certificates. The company serves
+  small businesses, individuals, organizations, developers, designers, and domain
+  investors. GoDaddy Inc. was founded in 1997 and is headquartered in Tempe, Arizona.'
+longName: GoDaddy Inc.
+market: us_market
+marketCap: 13699796992
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_265777695
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 961600000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 13719806924
+numberOfAnalystOpinions: 16
+open: 111.75
+operatingCashflow: 1772300032
+operatingMargins: 0.26051
+overallRisk: 3
+payoutRatio: 0.0
+pegRatio: 0.62
+phone: 480 505 8800
+previousClose: 113.13
+priceEpsCurrentYear: 11.574282
+priceHint: 2
+priceToBook: -99.52863
+priceToSalesTrailing12Months: 2.6444423
+profitMargins: 0.18562001
+quickRatio: 0.398
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.44444
+region: US
+regularMarketChange: -0.16500092
+regularMarketChangePercent: -0.14585072
+regularMarketDayHigh: 113.92
+regularMarketDayLow: 111.315
+regularMarketDayRange: 111.315 - 113.92
+regularMarketOpen: 111.75
+regularMarketPreviousClose: 113.13
+regularMarketPrice: 112.965
+regularMarketTime: 1794413710
+regularMarketVolume: 115271
+returnOnAssets: 0.10616
+revenueGrowth: 0.06
+revenuePerShare: 39.528
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 7
+sharesOutstanding: 121274701
+sharesPercentSharesOut: 0.052199997
+sharesShort: 6324820
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 6514799
+shortName: GoDaddy Inc.
+shortPercentOfFloat: 0.0725
+shortRatio: 3.81
+sourceInterval: 15
+state: AZ
+symbol: GDDY
+targetHighPrice: 170.0
+targetLowPrice: 76.0
+targetMeanPrice: 117.6875
+targetMedianPrice: 115.0
+totalCash: 1164899968
+totalCashPerShare: 9.605
+totalDebt: 3841999872
+totalRevenue: 5180599808
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 7.27
+trailingPE: 15.538514
+trailingPegRatio: 0.6269
+triggerable: true
+twoHundredDayAverage: 92.28415
+twoHundredDayAverageChange: 20.680847
+twoHundredDayAverageChangePercent: 0.22409967
+typeDisp: Equity
+volume: 115271
+website: https://www.godaddy.com
+zip: '85281'

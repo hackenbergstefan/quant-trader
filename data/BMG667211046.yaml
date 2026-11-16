@@ -1,0 +1,266 @@
+52WeekChange: -0.02270329
+SandP52WeekChange: 0.097798586
+address1: 7665 Corporate Center Drive
+allTimeHigh: 64.27
+allTimeLow: 7.03
+ask: 18.53
+askSize: 3700
+auditRisk: 5
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 26307920
+averageDailyVolume3Month: 19198704
+averageVolume: 19198704
+averageVolume10days: 26307920
+beta: 1.964
+bid: 18.52
+bidSize: 9800
+boardRisk: 9
+bookValue: 6.856
+city: Miami
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John W. Chidsey III, J.D.
+  title: President, CEO & Chairman
+  totalPay: 144444
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark A. Kempa
+  title: Executive VP & CFO
+  totalPay: 2109415
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel S. Farkas J.D.
+  title: Executive VP, General Counsel, Chief Development Officer & Secretary
+  totalPay: 1638456
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason M. Montague
+  title: Chief Luxury Officer
+  totalPay: 2060269
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Captain Patrik  Dahlgren
+  title: Executive VP and Chief Vessel Operations & Newbuild Officer
+  totalPay: 2109912
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Faye L. Ashby
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel P. Henry
+  title: Executive VP and Chief Digital & Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sarah  Inmon
+  title: Head of Investor Relations & Corporate Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Todd  Hamilton
+  title: Senior Vice President of Sales
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lee D. Applbaum
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 18.5426
+currentRatio: 0.225
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 18.6799
+dayLow: 18.33
+debtToEquity: 508.958
+displayName: Norwegian Cruise Line
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793277000
+earningsCallTimestampStart: 1793277000
+earningsGrowth: 0.243
+earningsQuarterlyGrowth: 0.172
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 2508570880
+ebitdaMargins: 0.24684
+enterpriseToEbitda: 9.675
+enterpriseToRevenue: 2.388
+enterpriseValue: 24271507456
+epsCurrentYear: 1.72548
+epsForward: 1.42301
+epsTrailingTwelveMonths: 1.81
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 305 436 4140
+fiftyDayAverage: 15.5568
+fiftyDayAverageChange: 2.9858007
+fiftyDayAverageChangePercent: 0.19192898
+fiftyTwoWeekChangePercent: -2.270329
+fiftyTwoWeekHigh: 25.13
+fiftyTwoWeekHighChange: -6.5873985
+fiftyTwoWeekHighChangePercent: -0.26213285
+fiftyTwoWeekLow: 13.63
+fiftyTwoWeekLowChange: 4.9126005
+fiftyTwoWeekLowChangePercent: 0.36042556
+fiftyTwoWeekRange: 13.63 - 25.13
+financialCurrency: USD
+firstTradeDateMilliseconds: 1358519400000
+floatShares: 455435902
+forwardEps: 1.42301
+forwardPE: 13.030548
+freeCashflow: -1046450624
+fullExchangeName: NYSE
+fullTimeEmployees: 44500
+fulldayChange: 0.032600403
+fulldayChangePercent: 0.17612319
+fulldayPrice: 18.5426
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.41396
+grossProfits: 4207052032
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00846
+heldPercentInstitutions: 1.07132
+impliedSharesOutstanding: 459275445
+industry: Travel Services
+industryDisp: Travel Services
+industryKey: travel-services
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Norwegian Cruise Line Holdings Ltd., together with its subsidiaries,
+  operates as a cruise company in North America, Europe, the Asia-Pacific, and internationally.
+  It offers itineraries to destinations, such as Europe, Asia, Australia, New Zealand,
+  South America, Africa, Canada, Bermuda, the Caribbean, and Alaska; and inter-island
+  itinerary in Hawaii. The company also provides features, amenities, and activities,
+  including various accommodations, dining venues, bars and lounges, spas, casino
+  and retail shopping areas, and entertainment choices; shore excursions at each port
+  of call, and air transportation and hotel packages for stays before or after a voyage.
+  It offers its products and services under the Norwegian Cruise Line, Oceania Cruises,
+  and Regent Seven Seas Cruises brands. The company was founded in 1966 and is based
+  in Miami, Florida.
+longName: Norwegian Cruise Line Holdings Ltd.
+market: us_market
+marketCap: 8516161536
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_4180463
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 832937984
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 8501188486
+numberOfAnalystOpinions: 24
+open: 18.37
+operatingCashflow: 2165469952
+operatingMargins: 0.14064999
+overallRisk: 5
+payoutRatio: 0.0
+pegRatio: 1.53
+phone: 305 436 4000
+previousClose: 18.51
+priceEpsCurrentYear: 10.746344
+priceHint: 2
+priceToBook: 2.70458
+priceToSalesTrailing12Months: 0.8379634
+profitMargins: 0.08196
+quickRatio: 0.087
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.30769
+region: US
+regularMarketChange: 0.032600403
+regularMarketChangePercent: 0.17612319
+regularMarketDayHigh: 18.6799
+regularMarketDayLow: 18.33
+regularMarketDayRange: 18.33 - 18.6799
+regularMarketOpen: 18.37
+regularMarketPreviousClose: 18.51
+regularMarketPrice: 18.5426
+regularMarketTime: 1794413739
+regularMarketVolume: 3710978
+returnOnAssets: 0.03865
+returnOnEquity: 0.31184
+revenueGrowth: 0.003
+revenuePerShare: 22.21
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 3
+sharesOutstanding: 459275445
+sharesPercentSharesOut: 0.17989999
+sharesShort: 82633930
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 96829357
+shortName: 'Norwegian Cruise Line Holdings '
+shortPercentOfFloat: 0.2038
+shortRatio: 3.69
+sourceInterval: 15
+state: FL
+symbol: NCLH
+targetHighPrice: 26.0
+targetLowPrice: 13.0
+targetMeanPrice: 19.66667
+targetMedianPrice: 19.5
+totalCash: 256508000
+totalCashPerShare: 0.559
+totalDebt: 16026825728
+totalRevenue: 10162927616
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 1.81
+trailingPE: 10.244531
+trailingPegRatio: 1.5367
+triggerable: true
+twoHundredDayAverage: 18.58225
+twoHundredDayAverageChange: -0.039649963
+twoHundredDayAverageChangePercent: -0.0021337545
+typeDisp: Equity
+volume: 3710978
+website: https://www.nclhltd.com
+zip: '33126'

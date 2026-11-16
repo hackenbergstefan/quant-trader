@@ -1,0 +1,278 @@
+52WeekChange: -0.07254624
+SandP52WeekChange: 0.097798586
+address1: 770 Cochituate Road
+allTimeHigh: 170.0
+allTimeLow: 0.273438
+ask: 135.25
+askSize: 100
+auditRisk: 9
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 6283890
+averageDailyVolume3Month: 7730296
+averageVolume: 7730296
+averageVolume10days: 6283890
+beta: 0.587
+bid: 135.14
+bidSize: 100
+boardRisk: 6
+bookValue: 9.672
+city: Framingham
+companyOfficers:
+- age: 71
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Carol M. Meyrowitz
+  title: Executive Chairman
+  totalPay: 5503632
+  unexercisedValue: 0
+  yearBorn: 1954
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Ernie L. Herrman
+  title: CEO, President & Director
+  totalPay: 10745540
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. John  Klinger
+  title: Senior Executive VP & CFO
+  totalPay: 3326376
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Kenneth  Canestrari
+  title: Senior EVP & Group President
+  totalPay: 4212688
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Douglas W. Mizzi
+  title: Senior EVP & Group President
+  totalPay: 4346800
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 85
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Bernard  Cammarata
+  title: Founder & Executive Advisor
+  totalPay: 541929
+  unexercisedValue: 22321860
+  yearBorn: 1940
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jeff  Botte
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Alicia C. Kelly
+  title: Executive VP, Secretary & General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Debra  McConnell
+  title: Senior Vice President of Global Communications
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Peter  Benjamin
+  title: Senior EVP & Group President
+  unexercisedValue: 0
+  yearBorn: 1963
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 7
+corporateActions:
+- header: Dividend
+  message: TJX announced a cash dividend of $0.48 with an ex-date of Nov. 12, 2026
+  meta:
+    amount: '0.48'
+    dateEpochMs: 1794459600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 135.3575
+currentRatio: 1.147
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 136.58
+dayLow: 134.86
+debtToEquity: 134.419
+displayName: TJX
+dividendDate: 1796256000
+dividendRate: 1.92
+dividendYield: 1.4
+earningsCallTimestampEnd: 1795017600
+earningsCallTimestampStart: 1795017600
+earningsGrowth: 0.236
+earningsQuarterlyGrowth: 0.223
+earningsTimestamp: 1795008600
+earningsTimestampEnd: 1795008600
+earningsTimestampStart: 1795008600
+ebitda: 8903000064
+ebitdaMargins: 0.14276
+enterpriseToEbitda: 17.85
+enterpriseToRevenue: 2.548
+enterpriseValue: 158921441280
+epsCurrentYear: 5.22861
+epsForward: 5.74806
+epsTrailingTwelveMonths: 5.4
+esgPopulated: false
+exDividendDate: 1794441600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 135.9148
+fiftyDayAverageChange: -0.55729675
+fiftyDayAverageChangePercent: -0.004100339
+fiftyTwoWeekChangePercent: -7.2546244
+fiftyTwoWeekHigh: 170.0
+fiftyTwoWeekHighChange: -34.6425
+fiftyTwoWeekHighChangePercent: -0.20377943
+fiftyTwoWeekLow: 122.78
+fiftyTwoWeekLowChange: 12.577499
+fiftyTwoWeekLowChangePercent: 0.10243932
+fiftyTwoWeekRange: 122.78 - 170.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 551712600000
+fiveYearAvgDividendYield: 1.32
+floatShares: 1097422121
+forwardEps: 5.74806
+forwardPE: 23.548378
+freeCashflow: 4398125056
+fullExchangeName: NYSE
+fullTimeEmployees: 377000
+fulldayChange: -1.5625
+fulldayChangePercent: -1.1411773
+fulldayPrice: 135.3575
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.31467
+grossProfits: 19623999488
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0017299999
+heldPercentInstitutions: 0.94815004
+impliedSharesOutstanding: 1104704446
+industry: Apparel Retail
+industryDisp: Apparel Retail
+industryKey: apparel-retail
+irWebsite: http://www.tjx.com/investor_landing.asp
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786579200
+lastDividendValue: 0.48
+lastFiscalYearEnd: 1769817600
+lastSplitDate: 1541548800
+lastSplitFactor: '2:1'
+longBusinessSummary: 'The TJX Companies, Inc., together with its subsidiaries, operates
+  as an off-price apparel and home fashions retailer worldwide. It operates through
+  four segments: Marmaxx, HomeGoods, TJX Canada, and TJX International. The company
+  provides family apparel comprising footwear; accessories, such as beauty and jewelry;
+  home fashion products, including home basics, decorative accessories and giftware,
+  as well as furniture, rugs, lighting, soft home, decorative accessories, tabletop,
+  and cookware; pet and gourmet food; and other merchandise. It also offers home decor,
+  furniture, and seasonal home merchandise. The company sells its products through
+  stores and e-commerce sites. The TJX Companies, Inc. was incorporated in 1962 and
+  is headquartered in Framingham, Massachusetts.'
+longName: The TJX Companies, Inc.
+market: us_market
+marketCap: 149530017792
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_306688
+mostRecentQuarter: 1785542400
+netIncomeToCommon: 6066999808
+nextFiscalYearEnd: 1801353600
+nonDilutedMarketCap: 150608448432
+numberOfAnalystOpinions: 20
+open: 135.58
+operatingCashflow: 8033999872
+operatingMargins: 0.12161
+overallRisk: 6
+payoutRatio: 0.325
+pegRatio: 2.45
+phone: 508 390 1000
+previousClose: 136.92
+priceEpsCurrentYear: 25.887856
+priceHint: 2
+priceToBook: 13.994779
+priceToSalesTrailing12Months: 2.397736
+profitMargins: 0.09729
+quickRatio: 0.504
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6087
+region: US
+regularMarketChange: -1.5625
+regularMarketChangePercent: -1.1411773
+regularMarketDayHigh: 136.58
+regularMarketDayLow: 134.86
+regularMarketDayRange: 134.86 - 136.58
+regularMarketOpen: 135.58
+regularMarketPreviousClose: 136.92
+regularMarketPrice: 135.3575
+regularMarketTime: 1794413751
+regularMarketVolume: 1147258
+returnOnAssets: 0.13543001
+returnOnEquity: 0.62171
+revenueGrowth: 0.054
+revenuePerShare: 56.259
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 4
+sharesOutstanding: 1104704446
+sharesPercentSharesOut: 0.0143
+sharesShort: 15756141
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 18188745
+shortName: TJX Companies, Inc. (The)
+shortPercentOfFloat: 0.0143
+shortRatio: 2.45
+sourceInterval: 15
+state: MA
+symbol: TJX
+targetHighPrice: 190.0
+targetLowPrice: 136.0
+targetMeanPrice: 168.85
+targetMedianPrice: 174.0
+totalCash: 6003999744
+totalCashPerShare: 5.458
+totalDebt: 14316999680
+totalRevenue: 62363000832
+tradeable: false
+trailingAnnualDividendRate: 1.81
+trailingAnnualDividendYield: 0.0132193975
+trailingEps: 5.4
+trailingPE: 25.066202
+trailingPegRatio: 2.451
+triggerable: true
+twoHundredDayAverage: 150.64575
+twoHundredDayAverageChange: -15.288254
+twoHundredDayAverageChangePercent: -0.1014848
+typeDisp: Equity
+volume: 1147258
+website: https://www.tjx.com
+zip: '01701'

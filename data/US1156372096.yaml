@@ -1,0 +1,282 @@
+52WeekChange: 0.12687385
+SandP52WeekChange: 0.097798586
+address1: 850 Dixie Highway
+allTimeHigh: 83.4
+allTimeLow: 0.407407
+ask: 29.74
+askSize: 300
+auditRisk: 9
+averageAnalystRating: 3.2 - Hold
+averageDailyVolume10Day: 2829280
+averageDailyVolume3Month: 2472168
+averageVolume: 2472168
+averageVolume10days: 2829280
+beta: 0.31
+bid: 29.72
+bidSize: 400
+boardRisk: 10
+bookValue: 8.653
+city: Louisville
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Marshall B. Farrer
+  title: Executive Chairman
+  totalPay: 3750611
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Lawson E. Whiting
+  title: CEO, President & Director
+  totalPay: 6784518
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. James W. Peters
+  title: Executive VP & CFO
+  totalPay: 256374
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Michael E. Carr Jr.
+  title: Executive Vice President, General Counsel & Secretary
+  totalPay: 2756537
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Campbell P. Brown
+  title: Executive Director
+  totalPay: 143077
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Michael Andrew Masick
+  title: Executive VP & President of Americas
+  totalPay: 1889712
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Yiannis  Pafilis
+  title: Executive Vice President of Europe, Africa & Asia Pacific
+  totalPay: 1979987
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 36
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Angela S. Enyard
+  title: Senior VP, Chief Accounting Officer & Treasurer
+  unexercisedValue: 0
+  yearBorn: 1989
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Timothy M. Nall
+  title: Executive VP, Chief Global Supply Chain & Technology Officer
+  totalPay: 861314
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Larry  Combs
+  title: Chief Information Officer and Director of Supply Chain Integration & Strategy
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 29.82
+currentRatio: 3.263
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1790726400
+dayHigh: 30.43
+dayLow: 29.71
+debtToEquity: 61.502
+displayName: Brown-Forman
+dividendDate: 1790812800
+dividendRate: 0.92
+dividendYield: 3.0
+earningsCallTimestampEnd: 1796310000
+earningsCallTimestampStart: 1796310000
+earningsGrowth: 0.057
+earningsQuarterlyGrowth: 0.035
+earningsTimestamp: 1796304600
+earningsTimestampEnd: 1796304600
+earningsTimestampStart: 1796304600
+ebitda: 1186000000
+ebitdaMargins: 0.30294
+enterpriseToEbitda: 13.729
+enterpriseToRevenue: 4.159
+enterpriseValue: 16282196992
+epsCurrentYear: 1.69319
+epsForward: 1.71385
+epsTrailingTwelveMonths: 1.55
+esgPopulated: false
+exDividendDate: 1788393600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 27.5098
+fiftyDayAverageChange: 2.3101997
+fiftyDayAverageChangePercent: 0.083977334
+fiftyTwoWeekChangePercent: 12.687386
+fiftyTwoWeekHigh: 31.92
+fiftyTwoWeekHighChange: -2.1000004
+fiftyTwoWeekHighChangePercent: -0.06578948
+fiftyTwoWeekLow: 22.61
+fiftyTwoWeekLowChange: 7.209999
+fiftyTwoWeekLowChangePercent: 0.3188854
+fiftyTwoWeekRange: 22.61 - 31.92
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 1.66
+floatShares: 318589459
+forwardEps: 1.71385
+forwardPE: 17.399422
+freeCashflow: 685625024
+fullExchangeName: NYSE
+fullTimeEmployees: 4900
+fulldayChange: -1.0
+fulldayChangePercent: -3.2446463
+fulldayPrice: 29.82
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.60664004
+grossProfits: 2375000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.028010001
+heldPercentInstitutions: 0.70711
+impliedSharesOutstanding: 458864265
+industry: Beverages - Wineries & Distilleries
+industryDisp: Beverages - Wineries & Distilleries
+industryKey: beverages-wineries-distilleries
+irWebsite: http://investors.brown-forman.com/phoenix.zhtml?c=98415&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788393600
+lastDividendValue: 0.231
+lastFiscalYearEnd: 1777507200
+lastSplitDate: 1519862400
+lastSplitFactor: '5:4'
+longBusinessSummary: Brown-Forman Corporation, together with its subsidiaries, manufactures,
+  distills, bottles, imports, exports, markets, and sells a variety of alcohol beverages.
+  The company provides spirits, wines, whiskey spirits, whiskey-based flavored liqueurs,
+  ready-to-drink cocktails, ready-to-pour products, vodkas, tequilas, gin, brandy,
+  rum, bourbons, and liqueurs. The company offers its products primarily under the
+  Jack Daniel's, Woodford Reserve, Old Forester, Gentleman Jack, Herradura, el Jimador,
+  Fords Gin, The Glendronach, Chambord, Coopers' Craft, Diplomático, Benriach, Glenglassaugh,
+  and Slane brands. It is also involved in the sale of used barrels, and bulk whiskey
+  and wine; and provision of contract bottling services. The company serves retail
+  customers and consumers through distributors and state governments; and retailers,
+  wholesalers, and provincial governments directly. It operates in the United States,
+  Germany, Australia, the United Kingdom, Canada, Spain, France, Mexico, Poland, Brazil,
+  Türkiye, and internationally. Brown-Forman Corporation was founded in 1870 and is
+  headquartered in Louisville, Kentucky.
+longName: Brown-Forman Corporation
+market: us_market
+marketCap: 13683332096
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_256839
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 721000000
+nextFiscalYearEnd: 1809043200
+nonDilutedMarketCap: 14297199028
+numberOfAnalystOpinions: 17
+open: 30.25
+operatingCashflow: 1013000000
+operatingMargins: 0.28199
+overallRisk: 10
+payoutRatio: 0.59319997
+pegRatio: 2.32
+phone: 502 585 1100
+previousClose: 30.82
+priceEpsCurrentYear: 17.611727
+priceHint: 2
+priceToBook: 3.4462037
+priceToSalesTrailing12Months: 3.4951038
+profitMargins: 0.18416001
+quickRatio: 0.926
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.22222
+region: US
+regularMarketChange: -1.0
+regularMarketChangePercent: -3.2446463
+regularMarketDayHigh: 30.43
+regularMarketDayLow: 29.71
+regularMarketDayRange: 29.71 - 30.43
+regularMarketOpen: 30.25
+regularMarketPreviousClose: 30.82
+regularMarketPrice: 29.82
+regularMarketTime: 1794413730
+regularMarketVolume: 487391
+returnOnAssets: 0.08627
+returnOnEquity: 0.18122
+revenueGrowth: -0.014
+revenuePerShare: 8.458
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 10
+sharesOutstanding: 290383416
+sharesPercentSharesOut: 0.0677
+sharesShort: 31059339
+sharesShortPreviousMonthDate: 1788134400
+sharesShortPriorMonth: 27732862
+shortName: Brown Forman Inc
+shortPercentOfFloat: 0.11
+shortRatio: 11.88
+sourceInterval: 15
+state: KY
+symbol: BF-B
+targetHighPrice: 35.0
+targetLowPrice: 20.0
+targetMeanPrice: 28.25882
+targetMedianPrice: 28.0
+totalCash: 301000000
+totalCashPerShare: 0.656
+totalDebt: 2440999936
+totalRevenue: 3915000064
+tradeable: false
+trailingAnnualDividendRate: 0.92
+trailingAnnualDividendYield: 0.029850747
+trailingEps: 1.55
+trailingPE: 19.23871
+trailingPegRatio: 2.3158
+triggerable: true
+twoHundredDayAverage: 27.14105
+twoHundredDayAverageChange: 2.6789494
+twoHundredDayAverageChangePercent: 0.0987047
+typeDisp: Equity
+volume: 487391
+website: https://www.brown-forman.com
+zip: '40210'

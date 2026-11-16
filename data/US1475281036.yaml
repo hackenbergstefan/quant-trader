@@ -1,0 +1,269 @@
+52WeekChange: 0.30586302
+SandP52WeekChange: 0.097798586
+address1: One SE Convenience Boulevard
+allTimeHigh: 927.85
+allTimeLow: 0.875
+ask: 701.98
+askSize: 1
+auditRisk: 7
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 466100
+averageDailyVolume3Month: 534434
+averageVolume: 534434
+averageVolume10days: 466100
+beta: 0.588
+bid: 704.93
+bidSize: 1
+boardRisk: 5
+bookValue: 110.708
+city: Ankeny
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Darren M. Rebelez
+  title: President, CEO & Board Chair
+  totalPay: 5093310
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Ena Williams Koschel
+  title: Chief Operating Officer
+  totalPay: 2191541
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Chad Michael Frazell
+  title: Chief Human Resources Officer
+  totalPay: 1360605
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Kory  Ross
+  title: Vice President of Accounting
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Doug  Means
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Samuel  James
+  title: Senior Vice President of Finance & Investor Relations
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Katrina S. Lindsey
+  title: Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. John C. Soupene
+  title: Senior VP & Head of CEFCO
+  totalPay: 842125
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Paul  Suarez
+  title: VP & Chief Information Security Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Chris  Boling
+  title: Senior Vice President of Store Operations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 698.74
+currentRatio: 1.019
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 699.32
+dayLow: 683.77
+debtToEquity: 70.547
+displayName: Casey's General Stores
+dividendDate: 1794528000
+dividendRate: 2.6
+dividendYield: 0.37
+earningsCallTimestampEnd: 1788957000
+earningsCallTimestampStart: 1788957000
+earningsGrowth: 0.277
+earningsQuarterlyGrowth: 0.271
+earningsTimestamp: 1788897600
+earningsTimestampEnd: 1796763600
+earningsTimestampStart: 1796763600
+ebitda: 1564246016
+ebitdaMargins: 0.08377
+enterpriseToEbitda: 18.015
+enterpriseToRevenue: 1.509
+enterpriseValue: 28180027392
+epsCurrentYear: 21.37094
+epsForward: 23.51074
+epsTrailingTwelveMonths: 20.76
+esgPopulated: false
+exDividendDate: 1793318400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 515 965 6160
+fiftyDayAverage: 656.3152
+fiftyDayAverageChange: 42.424805
+fiftyDayAverageChangePercent: 0.0646409
+fiftyTwoWeekChangePercent: 30.586302
+fiftyTwoWeekHigh: 927.85
+fiftyTwoWeekHighChange: -229.10999
+fiftyTwoWeekHighChangePercent: -0.24692568
+fiftyTwoWeekLow: 529.84
+fiftyTwoWeekLowChange: 168.89996
+fiftyTwoWeekLowChangePercent: 0.3187754
+fiftyTwoWeekRange: 529.84 - 927.85
+financialCurrency: USD
+firstTradeDateMilliseconds: 435504600000
+fiveYearAvgDividendYield: 0.48
+floatShares: 36698119
+forwardEps: 23.51074
+forwardPE: 29.720034
+freeCashflow: 503306880
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 23490
+fulldayChange: 0.26000977
+fulldayChangePercent: 0.037225086
+fulldayPrice: 698.74
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.2382
+grossProfits: 4447789056
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0057800002
+heldPercentInstitutions: 0.90610003
+impliedSharesOutstanding: 36960167
+industry: Specialty Retail
+industryDisp: Specialty Retail
+industryKey: specialty-retail
+irWebsite: http://www.caseys.com/investors.html
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1793318400
+lastDividendValue: 0.65
+lastFiscalYearEnd: 1777507200
+lastSplitDate: 887673600
+lastSplitFactor: '2:1'
+longBusinessSummary: Casey's General Stores, Inc., together with its subsidiaries,
+  operates convenience stores under the Casey's and Casey's General Store names in
+  the United States. Its stores offer pizza, donuts, hot breakfast items, and sandwiches;
+  and beverages, tobacco and nicotine products. The company's stores also provide
+  soft drinks, energy, water, sports drinks, juices, coffee, and tea and dairy products;
+  beer, wine, and spirits; snacks, candy, packaged bakery, and other food items; ice,
+  ice cream, meals, and appetizers; health and beauty aids, automotive products, electronic
+  accessories, and housewares. In addition, its stores offer motor fuel for sale on
+  a self-service basis; gasoline and diesel fuel; and ATM, lotto/lottery, and prepaid
+  cards, as well as car wash services. The company also operates distribution centers.
+  Casey's General Stores, Inc. was founded in 1959 and is headquartered in Ankeny,
+  Iowa.
+longName: Casey's General Stores, Inc.
+market: us_market
+marketCap: 25825548288
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_258629
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 772812992
+nextFiscalYearEnd: 1809043200
+nonDilutedMarketCap: 25815937446
+numberOfAnalystOpinions: 19
+open: 692.26
+operatingCashflow: 1389195008
+operatingMargins: 0.059299998
+overallRisk: 5
+payoutRatio: 0.1137
+pegRatio: 3.16
+phone: 515 965 6100
+previousClose: 698.48
+priceEpsCurrentYear: 32.6958
+priceHint: 2
+priceToBook: 6.3115582
+priceToSalesTrailing12Months: 1.3830918
+profitMargins: 0.041389998
+quickRatio: 0.565
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6
+region: US
+regularMarketChange: 0.26000977
+regularMarketChangePercent: 0.037225086
+regularMarketDayHigh: 699.32
+regularMarketDayLow: 683.77
+regularMarketDayRange: 683.77 - 699.32
+regularMarketOpen: 692.26
+regularMarketPreviousClose: 698.48
+regularMarketPrice: 698.74
+regularMarketTime: 1794413725
+regularMarketVolume: 122986
+returnOnAssets: 0.07912
+returnOnEquity: 0.19983
+revenueGrowth: 0.243
+revenuePerShare: 504.392
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 7
+sharesOutstanding: 36960167
+sharesPercentSharesOut: 0.0656
+sharesShort: 2423510
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1702754
+shortName: Caseys General Stores, Inc.
+shortPercentOfFloat: 0.0734
+shortRatio: 4.94
+sourceInterval: 15
+state: IA
+symbol: CASY
+targetHighPrice: 933.0
+targetLowPrice: 687.0
+targetMeanPrice: 788.6842
+targetMedianPrice: 775.0
+totalCash: 524059008
+totalCashPerShare: 14.179
+totalDebt: 2888147968
+totalRevenue: 18672330752
+tradeable: false
+trailingAnnualDividendRate: 2.36
+trailingAnnualDividendYield: 0.0033787652
+trailingEps: 20.76
+trailingPE: 33.657997
+trailingPegRatio: 3.1626
+triggerable: true
+twoHundredDayAverage: 743.94995
+twoHundredDayAverageChange: -45.20996
+twoHundredDayAverageChangePercent: -0.060770165
+typeDisp: Equity
+volume: 122986
+website: https://www.caseys.com
+zip: '50021'

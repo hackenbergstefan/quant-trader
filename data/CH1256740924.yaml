@@ -1,0 +1,266 @@
+52WeekChange: 0.09995687
+SandP52WeekChange: 0.097798586
+address1: Zugerstrasse 57
+allTimeHigh: 118.135666
+allTimeLow: 6.720982
+ask: 102.55
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.5 - Hold
+averageDailyVolume10Day: 437186
+averageDailyVolume3Month: 328542
+averageVolume: 328542
+averageVolume10days: 437186
+beta: 0.565
+bid: 102.5
+bidSize: 0
+boardRisk: 3
+bookValue: 5.096
+city: Baar
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Geraldine J. M.  Picaud
+  title: CEO & Director
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marta  Vlatchkova
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Plaza
+  title: Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ariel  Bauer
+  title: Head of Communications, Sustainability & Investor Relations
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Olivier  Merkt
+  title: Senior VP of Legal, Chief Compliance Officer & Corporate Security
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Oesch
+  title: Chief Legal Officer & Group General Counsel
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James  Roberts
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Teymur  Abasov
+  title: Head of Eastern Europe, Middle East & Africa
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Malcolm  Reid
+  title: Head of Europe
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anthony John Hall
+  title: Global Head of Innovation
+  unexercisedValue: 0
+  yearBorn: 1963
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 102.5
+currentRatio: 0.952
+customPriceAlertConfidence: LOW
+dayHigh: 102.8
+dayLow: 101.1
+debtToEquity: 464.47
+dividendDate: 1745452800
+dividendRate: 3.2
+dividendYield: 3.14
+earningsCallTimestampEnd: 1784880000
+earningsCallTimestampStart: 1784880000
+earningsGrowth: -0.037
+earningsQuarterlyGrowth: -0.016
+earningsTimestampEnd: 1770827400
+earningsTimestampStart: 1770827400
+ebitda: 1303000064
+ebitdaMargins: 0.18082
+enterpriseToEbitda: 18.548
+enterpriseToRevenue: 3.354
+enterpriseValue: 24167409664
+epsCurrentYear: 4.19077
+epsForward: 4.5677
+epsTrailingTwelveMonths: 3.41
+esgPopulated: false
+exDividendDate: 1775088000
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 96.9436
+fiftyDayAverageChange: 5.5563965
+fiftyDayAverageChangePercent: 0.057315763
+fiftyTwoWeekChangePercent: 9.9956875
+fiftyTwoWeekHigh: 104.8
+fiftyTwoWeekHighChange: -2.300003
+fiftyTwoWeekHighChangePercent: -0.021946594
+fiftyTwoWeekLow: 81.36
+fiftyTwoWeekLowChange: 21.14
+fiftyTwoWeekLowChangePercent: 0.25983283
+fiftyTwoWeekRange: 81.36 - 104.8
+financialCurrency: CHF
+firstTradeDateMilliseconds: 796892400000
+fiveYearAvgDividendYield: 3.6
+floatShares: 169090013
+forwardEps: 4.5677
+forwardPE: 22.440178
+freeCashflow: 756124992
+fullExchangeName: Swiss
+fullTimeEmployees: 83000
+fulldayChange: 0.5999985
+fulldayChangePercent: 0.58881104
+fulldayPrice: 102.5
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.44185
+grossProfits: 3184000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.14262
+heldPercentInstitutions: 0.46273997
+impliedSharesOutstanding: 197785167
+industry: Consulting Services
+industryDisp: Consulting Services
+industryKey: consulting-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1775088000
+lastDividendValue: 3.2
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1712016000
+lastSplitFactor: 38.057693:37.057693
+longBusinessSummary: SGS SA operates as a testing, inspection, and certification company
+  in the Asia Pacific, Europe, North America, Eastern Europe, the Middle East and
+  Africa, and America. It operates in two segments, Testing & Inspection and Certification.
+  The company offers testing services, such as crop production testing, agricultural
+  commodities testing, field studies, laboratory studies, seed quality control, and
+  seed research and development; and inspection services, including draft survey and
+  marine services, e-certificates, loading and discharge supervision, pre-shipment
+  inspection, quality and quantity inspection, and tally. It also provides consulting,
+  digital trust assurance, medical devices regulatory compliance, product certification,
+  supply chain assurance, sustainability assurance, and verification and assurance,
+  as well as assessment, auditing, and certification services; and professional training
+  services. The company serves agriculture and forestry, building and infrastructure,
+  consumer products and retail, cosmetics and personal care, cybersecurity and technology,
+  environmental, health and safety, food, government and trade facilitation, industrial
+  manufacturing and processing, MedTech, mining, oil, gas and chemicals, pharma, power
+  and utilities, and transportation industries. SGS SA was founded in 1878 and is
+  headquartered in Baar, Switzerland.
+longName: SGS SA
+market: ch_market
+marketCap: 20272979968
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1034298
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 663000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 20135409124
+numberOfAnalystOpinions: 19
+open: 101.1
+operatingCashflow: 1283000064
+operatingMargins: 0.14141
+overallRisk: 2
+payoutRatio: 0.9412
+pegRatio: 5.71
+phone: 41 22 739 91 11
+previousClose: 101.9
+priceEpsCurrentYear: 24.458511
+priceHint: 2
+priceToBook: 20.113813
+priceToSalesTrailing12Months: 2.813347
+profitMargins: 0.09201
+quickRatio: 0.932
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.52632
+region: US
+regularMarketChange: 0.5999985
+regularMarketChangePercent: 0.58881104
+regularMarketDayHigh: 102.8
+regularMarketDayLow: 101.1
+regularMarketDayRange: 101.1 - 102.8
+regularMarketOpen: 101.1
+regularMarketPreviousClose: 101.9
+regularMarketPrice: 102.5
+regularMarketTime: 1794411470
+regularMarketVolume: 84171
+returnOnAssets: 0.081379995
+returnOnEquity: 0.76313
+revenueGrowth: 0.076
+revenuePerShare: 37.144
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 197785167
+shortName: SGS N
+sourceInterval: 15
+symbol: SGSN.SW
+targetHighPrice: 120.0
+targetLowPrice: 87.0
+targetMeanPrice: 104.0
+targetMedianPrice: 103.5
+totalCash: 1300000000
+totalCashPerShare: 6.579
+totalDebt: 5216000000
+totalRevenue: 7206000128
+tradeable: false
+trailingAnnualDividendRate: 3.2
+trailingAnnualDividendYield: 0.031403337
+trailingEps: 3.41
+trailingPE: 30.058651
+trailingPegRatio: 5.6864
+triggerable: false
+twoHundredDayAverage: 92.2616
+twoHundredDayAverageChange: 10.238403
+twoHundredDayAverageChangePercent: 0.11097145
+typeDisp: Equity
+volume: 84171
+website: https://www.sgs.com
+zip: '6340'

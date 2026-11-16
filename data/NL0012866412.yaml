@@ -1,0 +1,264 @@
+52WeekChange: 0.1141485
+SandP52WeekChange: 0.097798586
+address1: Ratio 6
+allTimeHigh: 328.4
+allTimeLow: 0.525
+ask: 0.0
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 604527
+averageDailyVolume3Month: 528898
+averageVolume: 528898
+averageVolume10days: 604527
+beta: 1.361
+bid: 0.0
+bidSize: 0
+boardRisk: 1
+bookValue: 8.195
+city: Duiven
+companyOfficers:
+- age: 71
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard W. Blickman
+  title: Chairman of Management Board, President & CEO
+  totalPay: 5730773
+  unexercisedValue: 0
+  yearBorn: 1954
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Andrea  Kopp-Battaglia
+  title: Senior Vice President of Finance
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Henk-Jan Jonge Poerink
+  title: Senior Vice President of Global Operations
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Scanlan
+  title: Senior Vice President of Technology
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Edmond  Franco
+  title: Vice President of Corporate Development
+  unexercisedValue: 0
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rene W. Hendriks
+  title: Senior Vice President of Sales - North America & Europe
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Wiedner
+  title: Senior Vice President of Sub Micron Die Attach
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jong Kwon Park
+  title: Senior Vice President of Sales & Customer Support - APAC
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeroen  Kleijburg
+  title: Senior Vice President of Packaging
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christoph  Scheiring
+  title: Senior Vice President of Die Attach
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 158.55
+currentRatio: 4.487
+customPriceAlertConfidence: LOW
+dayHigh: 159.4
+dayLow: 153.975
+debtToEquity: 53.668
+dividendRate: 1.58
+dividendYield: 1.05
+earningsCallTimestampEnd: 1792677600
+earningsCallTimestampStart: 1792677600
+earningsGrowth: 3.149
+earningsQuarterlyGrowth: 3.24
+earningsTimestamp: 1792683000
+earningsTimestampEnd: 1792683000
+earningsTimestampStart: 1792683000
+ebitda: 370708992
+ebitdaMargins: 0.41911998
+enterpriseToEbitda: 32.225
+enterpriseToRevenue: 13.506
+enterpriseValue: 11946194944
+epsCurrentYear: 4.4299
+epsForward: 6.50494
+epsTrailingTwelveMonths: 3.63
+esgPopulated: false
+exDividendDate: 1777248000
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 174.695
+fiftyDayAverageChange: -16.145004
+fiftyDayAverageChangePercent: -0.09241824
+fiftyTwoWeekChangePercent: 11.41485
+fiftyTwoWeekHigh: 328.4
+fiftyTwoWeekHighChange: -169.84999
+fiftyTwoWeekHighChangePercent: -0.5172046
+fiftyTwoWeekLow: 120.15
+fiftyTwoWeekLowChange: 38.4
+fiftyTwoWeekLowChangePercent: 0.31960052
+fiftyTwoWeekRange: 120.15 - 328.4
+financialCurrency: EUR
+firstTradeDateMilliseconds: 900918000000
+fiveYearAvgDividendYield: 1.8
+floatShares: 63196001
+forwardEps: 6.50494
+forwardPE: 24.373783
+freeCashflow: 188873120
+fullExchangeName: Amsterdam
+fullTimeEmployees: 2001
+fulldayChange: 7.75
+fulldayChangePercent: 5.1409616
+fulldayPrice: 158.55
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.64721
+grossProfits: 572452992
+hasPrePostMarketData: false
+heldPercentInsiders: 0.21687001
+heldPercentInstitutions: 0.61428
+impliedSharesOutstanding: 79082186
+industry: Semiconductor Equipment & Materials
+industryDisp: Semiconductor Equipment & Materials
+industryKey: semiconductor-equipment-materials
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777248000
+lastDividendValue: 1.58
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1525392000
+lastSplitFactor: '2:1'
+longBusinessSummary: 'BE Semiconductor Industries N.V. develops, manufactures, markets,
+  sells, and services semiconductor assembly equipment for the semiconductor and electronics
+  industries in the Netherlands, Switzerland, Austria, Singapore, Malaysia, and internationally.
+  It operates through three segments: Die Attach, Packaging, and Plating. The company
+  offers single chip, multi chip, multi module, flip chip, epoxy and soft solder die
+  bonding systems, hybrid, TCB and embedded bridge die bonding, die lid attach, and
+  fan out wafer level packaging systems; and conventional, ultra-thin and wafer level
+  molding, trim and form, and singulation systems. It also provides tin, copper, precious
+  metal and solar plating systems, and related process chemicals; and tooling, conversion
+  kits, spare parts, and other services. The company sells its products under the
+  Fico, Meco, Datacon, and Esec brands. It serves multinational chip manufacturers,
+  foundries, assembly subcontractors and electronics, and industrial companies. BE
+  Semiconductor Industries N.V. was incorporated in 1995 and is headquartered in Duiven,
+  the Netherlands.'
+longName: BE Semiconductor Industries N.V.
+market: nl_market
+marketCap: 12538480640
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_393455
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 290579008
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 11927093053
+numberOfAnalystOpinions: 23
+open: 154.0
+operatingCashflow: 295800992
+operatingMargins: 0.40543
+overallRisk: 3
+payoutRatio: 0.4353
+pegRatio: 0.5
+phone: 31 26 319 4500
+previousClose: 150.8
+priceEpsCurrentYear: 35.790874
+priceHint: 2
+priceToBook: 19.347164
+priceToSalesTrailing12Months: 14.175799
+profitMargins: 0.32852
+quickRatio: 3.783
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.09091
+region: US
+regularMarketChange: 7.75
+regularMarketChangePercent: 5.1409616
+regularMarketDayHigh: 159.4
+regularMarketDayLow: 153.975
+regularMarketDayRange: 153.975 - 159.4
+regularMarketOpen: 154.0
+regularMarketPreviousClose: 150.8
+regularMarketPrice: 158.55
+regularMarketTime: 1794411553
+regularMarketVolume: 358980
+returnOnAssets: 0.19188
+returnOnEquity: 0.56796
+revenueGrowth: 1.135
+revenuePerShare: 11.087
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 5
+sharesOutstanding: 79082186
+shortName: BE Semiconductor Industries N.V
+sourceInterval: 15
+symbol: BESI.AS
+targetHighPrice: 340.0
+targetLowPrice: 148.0
+targetMeanPrice: 231.69565
+targetMedianPrice: 240.0
+totalCash: 591886016
+totalCashPerShare: 7.326
+totalDebt: 355329984
+totalRevenue: 884499008
+tradeable: false
+trailingAnnualDividendRate: 1.58
+trailingAnnualDividendYield: 0.0104774535
+trailingEps: 3.63
+trailingPE: 43.677685
+trailingPegRatio: 0.5092
+triggerable: false
+twoHundredDayAverage: 214.36925
+twoHundredDayAverageChange: -55.819244
+twoHundredDayAverageChangePercent: -0.2603883
+typeDisp: Equity
+volume: 358980
+website: https://www.besi.com
+zip: 6921 RW

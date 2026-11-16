@@ -1,0 +1,255 @@
+52WeekChange: -0.030973434
+SandP52WeekChange: 0.097798586
+address1: Provincialeweg 11
+allTimeHigh: 42.54
+allTimeLow: 8.47167
+ask: 0.0
+askSize: 0
+auditRisk: 6
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 2697049
+averageDailyVolume3Month: 2429722
+averageVolume: 2429722
+averageVolume10days: 2697049
+beta: 0.343
+bid: 0.0
+bidSize: 0
+boardRisk: 1
+bookValue: 16.615
+city: Zaandam
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frans W. H. Muller
+  title: President, CEO & Chairman of Management Board
+  totalPay: 3473000
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. M. Jolanda Poots-Bijl RC
+  title: CFO & Member of Management Board
+  totalPay: 1917000
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Margaret  Versteden-Van Duijn
+  title: CEO of Ahold Delhaize Europe & Indonesia and Member of Management Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Claire  Peters
+  title: CEO of Ahold Delhaize USA & Member of Management Board
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jan  Brecht
+  title: Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John-Paul  O'Meara
+  title: Senior VP & Head of Investor Relations
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Linn  Evans
+  title: Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria  Verheij
+  title: Global Head of Communications
+  unexercisedValue: 0
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Natalia  Wallenberg
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Daniella  Vega
+  title: Global Senior Vice President of Health & Sustainability
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 35.1
+currentRatio: 0.704
+customPriceAlertConfidence: LOW
+dayHigh: 35.19
+dayLow: 34.77
+debtToEquity: 137.37
+dividendRate: 1.24
+dividendYield: 3.54
+earningsCallTimestampEnd: 1793782800
+earningsCallTimestampStart: 1793782800
+earningsGrowth: 0.106
+earningsQuarterlyGrowth: 0.07
+earningsTimestamp: 1793809800
+earningsTimestampEnd: 1793809800
+earningsTimestampStart: 1793809800
+ebitda: 5448999936
+ebitdaMargins: 0.05922
+enterpriseToEbitda: 8.532
+enterpriseToRevenue: 0.505
+enterpriseValue: 46488690688
+epsCurrentYear: 2.66819
+epsForward: 2.90416
+epsTrailingTwelveMonths: 2.58
+esgPopulated: false
+exDividendDate: 1786060800
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 32.1938
+fiftyDayAverageChange: 2.9061966
+fiftyDayAverageChangePercent: 0.09027193
+fiftyTwoWeekChangePercent: -3.0973434
+fiftyTwoWeekHigh: 42.54
+fiftyTwoWeekHighChange: -7.4400024
+fiftyTwoWeekHighChangePercent: -0.17489427
+fiftyTwoWeekLow: 30.335
+fiftyTwoWeekLowChange: 4.7649994
+fiftyTwoWeekLowChangePercent: 0.15707926
+fiftyTwoWeekRange: 30.335 - 42.54
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1224831600000
+fiveYearAvgDividendYield: 3.45
+floatShares: 854904249
+forwardEps: 2.90416
+forwardPE: 12.08611
+freeCashflow: 2976499968
+fullExchangeName: Amsterdam
+fullTimeEmployees: 384000
+fulldayChange: 0.05999756
+fulldayChangePercent: 0.1712259
+fulldayPrice: 35.1
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.26642
+grossProfits: 24515999744
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00079
+heldPercentInstitutions: 0.58467
+impliedSharesOutstanding: 873011999
+industry: Grocery Stores
+industryDisp: Grocery Stores
+industryKey: grocery-stores
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786060800
+lastDividendValue: 0.51
+lastFiscalYearEnd: 1766880000
+lastSplitDate: 1468800000
+lastSplitFactor: '16:17'
+longBusinessSummary: Koninklijke Ahold Delhaize N.V. operates retail food stores and
+  e-commerce in the Netherlands, the United States, and internationally. The company's
+  stores offer produce, dairy, meat, deli, bakery, seafood, and frozen products; grocery,
+  beer, and wine; floral, pet food, health and beauty care, kitchen and cookware,
+  gardening tools, general merchandise articles, electronics, newspapers and magazines,
+  and tobacco; gasoline; and pharmacy products. It operates its supermarkets, convenience
+  stores, and online stores under the Albert, Albert Heijin, Alfa Beta Vassilopoulos,
+  bol, Delhaize, ENA, Food Lion, Gall & Gall, Giant Food, The GIANT Company, Hannaford,
+  Maxi, Mega Image, Stop & Shop, Profi, and Super Indo brands. The company was formerly
+  known as Koninklijke Ahold N.V. and changed its name to Koninklijke Ahold Delhaize
+  N.V. in July 2016. The company was founded in 1867 and is headquartered in Zaandam,
+  the Netherlands.
+longName: Koninklijke Ahold Delhaize N.V.
+market: nl_market
+marketCap: 30642718720
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_373545
+mostRecentQuarter: 1790467200
+netIncomeToCommon: 2280000000
+nextFiscalYearEnd: 1798416000
+nonDilutedMarketCap: 30590340444
+numberOfAnalystOpinions: 18
+open: 34.88
+operatingCashflow: 6730999808
+operatingMargins: 0.04092
+overallRisk: 1
+payoutRatio: 0.4806
+pegRatio: 2.74
+phone: 31 88 659 9111
+previousClose: 35.04
+priceEpsCurrentYear: 13.154984
+priceHint: 2
+priceToBook: 2.1125488
+priceToSalesTrailing12Months: 0.33300427
+profitMargins: 0.02478
+quickRatio: 0.368
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.47368
+region: US
+regularMarketChange: 0.05999756
+regularMarketChangePercent: 0.1712259
+regularMarketDayHigh: 35.19
+regularMarketDayLow: 34.77
+regularMarketDayRange: 34.77 - 35.19
+regularMarketOpen: 34.88
+regularMarketPreviousClose: 35.04
+regularMarketPrice: 35.1
+regularMarketTime: 1794411565
+regularMarketVolume: 699662
+returnOnAssets: 0.04759
+returnOnEquity: 0.16149001
+revenueGrowth: 0.026
+revenuePerShare: 104.656
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 6
+sharesOutstanding: 873011999
+shortName: KONINKLIJKE AHOLD DELHAIZE N.V.
+sourceInterval: 15
+symbol: AD.AS
+targetHighPrice: 44.0
+targetLowPrice: 23.02
+targetMeanPrice: 37.34556
+targetMedianPrice: 38.5
+totalCash: 3574000128
+totalCashPerShare: 4.131
+totalDebt: 19747000320
+totalRevenue: 92018999296
+tradeable: false
+trailingAnnualDividendRate: 1.24
+trailingAnnualDividendYield: 0.035388127
+trailingEps: 2.58
+trailingPE: 13.6046505
+trailingPegRatio: 2.8099
+triggerable: false
+twoHundredDayAverage: 35.99665
+twoHundredDayAverageChange: -0.8966522
+twoHundredDayAverageChangePercent: -0.024909323
+typeDisp: Equity
+volume: 699662
+website: https://www.aholddelhaize.com
+zip: 1506 MA

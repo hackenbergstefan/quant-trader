@@ -1,0 +1,238 @@
+52WeekChange: 1.4456797
+SandP52WeekChange: 0.097798586
+address1: Parc Technologique des Fontaines
+address2: Chemin des Franques
+allTimeHigh: 521.4891
+allTimeLow: 7.676769
+auditRisk: 2
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 442821
+averageDailyVolume3Month: 306873
+averageVolume: 306873
+averageVolume10days: 442821
+beta: 1.777
+boardRisk: 2
+bookValue: 37.184
+city: Bernin
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Laurent  Remont
+  title: CEO & Director
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 60
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Albin  Jacquemont
+  title: Executive & CFO
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Cyril  Menon
+  title: Senior EVP of Operations Excellence & Quality and COO
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Christophe  Maleville
+  title: Senior EVP of Innovation & CTO
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Steve  Babureck
+  title: Executive VP of Strategy, Communications and Marketing & Chief Strategy Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Calvin  Chen
+  title: Executive VP & Group Chief Sales Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Ms. Jeannette  Schuh
+  title: Executive VP and Chief Human Resources Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Rene  Jonker
+  title: Executive VP & Chief Product Officer
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Emmanuel  Sabonnadière Ph.D.
+  title: Executive Vice President of Automotive & Industrial Division
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Jean-Marc  Le Meil
+  title: Executive Vice President of Mobile Communications Division
+  unexercisedValue: 0
+compensationRisk: 4
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 106.4
+currentRatio: 3.885
+customPriceAlertConfidence: LOW
+dayHigh: 108.1
+dayLow: 102.7
+debtToEquity: 46.727
+dividendYield: 0.0
+earningsCallTimestampEnd: 1779969600
+earningsCallTimestampStart: 1779969600
+earningsTimestamp: 1795019400
+earningsTimestampEnd: 1795019400
+earningsTimestampStart: 1795019400
+ebitda: 93732000
+ebitdaMargins: 0.15825
+enterpriseToEbitda: 37.47
+enterpriseToRevenue: 5.929
+enterpriseValue: 3512122624
+epsCurrentYear: 1.18433
+epsForward: 4.05768
+epsTrailingTwelveMonths: -6.23
+esgPopulated: false
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 33 4 38 92 17 89
+fiftyDayAverage: 134.8252
+fiftyDayAverageChange: -28.425194
+fiftyDayAverageChangePercent: -0.21082999
+fiftyTwoWeekChangePercent: 144.56796
+fiftyTwoWeekHigh: 200.5
+fiftyTwoWeekHighChange: -94.1
+fiftyTwoWeekHighChangePercent: -0.46932667
+fiftyTwoWeekLow: 22.62
+fiftyTwoWeekLowChange: 83.78
+fiftyTwoWeekLowChangePercent: 3.7038019
+fiftyTwoWeekRange: 22.62 - 200.5
+financialCurrency: EUR
+firstTradeDateMilliseconds: 910944000000
+floatShares: 27106906
+forwardEps: 4.05768
+forwardPE: 26.22188
+freeCashflow: 21234000
+fullExchangeName: Paris
+fullTimeEmployees: 1961
+fulldayChange: 9.599998
+fulldayChangePercent: 9.917354
+fulldayPrice: 106.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.16278
+grossProfits: 96415000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.15669
+heldPercentInstitutions: 0.48099
+impliedSharesOutstanding: 35791907
+industry: Semiconductor Equipment & Materials
+industryDisp: Semiconductor Equipment & Materials
+industryKey: semiconductor-equipment-materials
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1774915200
+lastSplitDate: 1486512000
+lastSplitFactor: '1:20'
+longBusinessSummary: Soitec SA develops and manufactures semiconductor materials in
+  Asia, Europe, and the United States. The company offers CONNECT Radio Frequency
+  Silicon-on-Insulator for smartphone front-end modules; CONNECT FD SOI for AI applications;
+  CONNECT Piezoelectric-on-Insulator RF filters for smartphones; photonics and optical
+  sensing solution for the integration of silicon optical components in data centers;
+  and CONNECT RF gallium nitride which increases the frequency system efficiency and
+  power density of next generation sub 6GHz and mmWave-band cellular 5G infrastructures
+  and mobile devices. It also provides Power-SOI products for the automotive and industrial
+  power electronic devices; Auto Smartsic for cost optimization of electric vehicles
+  and industrial applications; and Photonics SOI that integrates photonic components
+  on a silicon-on-insulator (SOI) substrate to enhance optical communication capabilities,
+  as well as AUTO FD-SOI for automotive radar and processors. In addition, the company
+  offers Imager-SOI, a compact solution for high-resolution 3D images and small form
+  factor; PD -SOI offers complex computation capabilities and functionalities in cloud
+  computing and network equipment; FD-SOI technology which provides the optimal balance
+  between digital performance, mixed signal/RF compatibility, and power consumption
+  and cost; and MEMS-SOI, an insulating oxide layer, and a supporting handle layer.
+  It serves mobile communication, automotive, industry, edge AI and Internet of Things,
+  and cloud AI and network infrastructure market. Soitec SA was incorporated in 1992
+  and is headquartered in Bernin, France.
+longName: Soitec SA
+market: fr_market
+marketCap: 3808259072
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_125027
+mostRecentQuarter: 1774915200
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: -222104000
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 3574895671
+numberOfAnalystOpinions: 19
+open: 102.8
+operatingCashflow: 202167008
+operatingMargins: -0.03351
+overallRisk: 2
+payoutRatio: 0.0
+pegRatio: 18.11
+phone: 33 4 76 92 75 00
+prevName: Soitec S.A.
+previousClose: 96.8
+priceEpsCurrentYear: 89.83983
+priceHint: 2
+priceToBook: 2.861446
+priceToSalesTrailing12Months: 6.4294057
+profitMargins: -0.37146
+quickRatio: 3.08
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.36842
+region: US
+regularMarketChange: 9.599998
+regularMarketChangePercent: 9.917354
+regularMarketDayHigh: 108.1
+regularMarketDayLow: 102.7
+regularMarketDayRange: 102.7 - 108.1
+regularMarketOpen: 102.8
+regularMarketPreviousClose: 96.8
+regularMarketPrice: 106.4
+regularMarketTime: 1794411569
+regularMarketVolume: 306665
+returnOnAssets: -0.00484
+returnOnEquity: -0.15201999
+revenueGrowth: -0.346
+revenuePerShare: 16.603
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 6
+sharesOutstanding: 35791907
+shortName: SOITEC
+sourceInterval: 15
+symbol: SOI.PA
+targetHighPrice: 300.0
+targetLowPrice: 55.0
+targetMeanPrice: 166.15788
+targetMedianPrice: 175.0
+totalCash: 563052032
+totalCashPerShare: 15.775
+totalDebt: 620156032
+totalRevenue: 592318976
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: -6.23
+trailingPegRatio: 18.1063
+triggerable: false
+twoHundredDayAverage: 106.89165
+twoHundredDayAverageChange: -0.4916458
+twoHundredDayAverageChangePercent: -0.004599478
+typeDisp: Equity
+volume: 306665
+website: https://www.soitec.com
+zip: '38190'

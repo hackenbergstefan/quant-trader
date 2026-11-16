@@ -1,0 +1,264 @@
+52WeekChange: 0.053611517
+SandP52WeekChange: 0.097798586
+address1: 10 Paternoster Square
+allTimeHigh: 12185.0
+allTimeLow: 243.5971
+ask: 9582.0
+auditRisk: 1
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 1137509
+averageDailyVolume3Month: 1370567
+averageVolume: 1370567
+averageVolume10days: 1137509
+beta: 0.367
+bid: 9580.0
+boardRisk: 6
+bookValue: 37.628
+city: London
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Adam Schwimmer J.D.
+  title: Group CEO & Executive Director
+  totalPay: 4746000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michel-Alain M. Proch
+  title: CFO & Director
+  totalPay: 2243000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pascal  Boillat
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Irfan  Hussain
+  title: Chief Information Officer
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peregrine Douglas Gonzague Riviere
+  title: Group Head of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Catherine  Johnson
+  title: Group General Counsel & Head of Compliance
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steve  John
+  title: Chief Corporate Affairs & Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Coleman
+  title: Group Head of Sales & Account Management
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Erica  Bourne
+  title: Chief People Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Claire  Dorrian
+  title: Head of London & Southern Region, UK Primary Markets, Capital Markets
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 9578.0
+currentRatio: 1.001
+customPriceAlertConfidence: LOW
+dayHigh: 9586.0
+dayLow: 9337.621
+debtToEquity: 64.292
+dividendRate: 1.58
+dividendYield: 1.68
+earningsCallTimestampEnd: 1785402000
+earningsCallTimestampStart: 1785402000
+earningsGrowth: 0.337
+earningsQuarterlyGrowth: 0.254
+earningsTimestampEnd: 1785425400
+earningsTimestampStart: 1785425400
+ebitda: 3144000000
+ebitdaMargins: 0.32549998
+enterpriseToEbitda: 18.563
+enterpriseToRevenue: 6.042
+enterpriseValue: 58363179008
+epsCurrentYear: 4.81644
+epsForward: 5.49502
+epsTrailingTwelveMonths: 2.78
+esgPopulated: false
+exDividendDate: 1786579200
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 8719.4
+fiftyDayAverageChange: 858.5996
+fiftyDayAverageChangePercent: 0.09847003
+fiftyTwoWeekChangePercent: 5.3611517
+fiftyTwoWeekHigh: 10140.0
+fiftyTwoWeekHighChange: -562.0
+fiftyTwoWeekHighChangePercent: -0.055424064
+fiftyTwoWeekLow: 6684.0
+fiftyTwoWeekLowChange: 2894.0
+fiftyTwoWeekLowChangePercent: 0.43297428
+fiftyTwoWeekRange: 6684.0 - 10140.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 995612400000
+fiveYearAvgDividendYield: 1.29
+floatShares: 439402670
+forwardEps: 5.49502
+forwardPE: 17.430328
+freeCashflow: 1719250048
+fullExchangeName: LSE
+fullTimeEmployees: 28516
+fulldayChange: 184.0
+fulldayChangePercent: 1.9586971
+fulldayPrice: 9578.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.88746
+grossProfits: 8572000256
+hasPrePostMarketData: false
+heldPercentInsiders: 0.05075
+heldPercentInstitutions: 0.71819997
+impliedSharesOutstanding: 478330878
+industry: Financial Data & Stock Exchanges
+industryDisp: Financial Data & Stock Exchanges
+industryKey: financial-data-stock-exchanges
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786579200
+lastDividendValue: 0.55
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1090800000
+lastSplitFactor: '6:7'
+longBusinessSummary: 'London Stock Exchange Group plc provides financial markets infrastructure
+  and data products in the United Kingdom, the United States, Europe, Asia, and internationally.
+  The company operates through four segments: Data & Analytics, FTSE Russell, Risk
+  Intelligence, and Markets. It offers data, analytics, and AI tools through an open
+  and interoperable architecture; real-time data and news, text, reference, and legal
+  entity information; and cross-asset models and analytics solutions, such as Yield
+  Book fixed income, Lipper fund performance, private credit analytics, and StarMine
+  sentiment analysis. The company also provides index and benchmark solutions; risk
+  intelligence solutions to meet Know Your Customer and Know Your Third Party obligations,
+  perform due diligence, and mitigate identity and payment fraud risks; World-Check
+  Verify, a cloud-native screening API; and World-Check On Demand for continuously
+  updated sanctions, politically exposed persons, adverse media, and enforcement data.
+  In addition, it offers access to various liquidity pools in multiple asset classes
+  comprising equities, fixed income, exchange-traded funds and products, and foreign
+  exchange; capital formation and execution venues consisting of London Stock Exchange,
+  AIM, Turquoise, FXall, FX Matching, and Tradeweb; and clearing and capital optimization
+  solutions for interest rate swap, foreign exchange, and credit default swap OTC
+  derivatives. Further, the company provides securities clearing, capital optimization,
+  and regulatory reporting solutions; software licenses; network connections; hosting
+  services; clearing, settlement, and other post trade services; and events and media
+  services. London Stock Exchange Group plc was founded in 1698 and is based in London,
+  the United Kingdom.'
+longName: London Stock Exchange Group plc
+market: gb_market
+marketCap: 45814530048
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_4003514
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1414000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 44934402679
+numberOfAnalystOpinions: 16
+open: 9368.0
+operatingCashflow: 3924999936
+operatingMargins: 0.2699
+overallRisk: 4
+payoutRatio: 0.5394
+pegRatio: 0.85
+phone: 44 20 7797 1000
+previousClose: 9394.0
+priceEpsCurrentYear: 1988.6056
+priceHint: 2
+priceToBook: 2.545445
+priceToSalesTrailing12Months: 4.743196
+profitMargins: 0.14639
+quickRatio: 0.008
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: 184.0
+regularMarketChangePercent: 1.9586971
+regularMarketDayHigh: 9586.0
+regularMarketDayLow: 9337.621
+regularMarketDayRange: 9337.621 - 9586.0
+regularMarketOpen: 9368.0
+regularMarketPreviousClose: 9394.0
+regularMarketPrice: 9578.0
+regularMarketTime: 1794411560
+regularMarketVolume: 230566
+returnOnAssets: 0.00191
+returnOnEquity: 0.07694
+revenueGrowth: 0.067
+revenuePerShare: 19.014
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 478330878
+shortName: LONDON STOCK EXCHANGE GROUP PLC
+sourceInterval: 15
+symbol: LSEG.L
+targetHighPrice: 13770.0
+targetLowPrice: 10400.0
+targetMeanPrice: 11852.5
+targetMedianPrice: 11835.0
+totalCash: 4241999872
+totalCashPerShare: 8.535
+totalDebt: 13546999808
+totalRevenue: 9658999808
+tradeable: false
+trailingAnnualDividendRate: 1.58
+trailingAnnualDividendYield: 0.00016819246
+trailingEps: 2.78
+trailingPE: 34.453236
+trailingPegRatio: 0.8474
+triggerable: false
+twoHundredDayAverage: 8753.72
+twoHundredDayAverageChange: 824.2803
+twoHundredDayAverageChangePercent: 0.09416343
+typeDisp: Equity
+volume: 230566
+website: https://www.lseg.com
+zip: EC4M 7LS

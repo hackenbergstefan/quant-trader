@@ -1,0 +1,254 @@
+52WeekChange: 0.52004004
+SandP52WeekChange: 0.097798586
+address1: Herrengasse 10
+address2: Postfach 141
+allTimeHigh: 452.2
+allTimeLow: 7.5
+ask: 318.2
+askSize: 0
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 44147
+averageDailyVolume3Month: 29798
+averageVolume: 29798
+averageVolume10days: 44147
+beta: 1.774
+bid: 317.4
+bidSize: 0
+bookValue: 41.116
+city: Flamatt
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephan Eirik Haferl
+  title: Interim President of the X-Ray Systems Division & CEO
+  totalPay: 691246
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian  Witt
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andre  Grede
+  title: Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Ulrich  Steiner
+  title: Vice President of Investor Relations & Sustainability
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Marc  Splisgardt
+  title: Secretary of the Board & Group General Counsel
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Meike  Boekelmann
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Lars Berger
+  title: President of Industrial X-Ray Systems
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joeri  Durinckx
+  title: President of Plasma Control Technologies Division
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Erich  Kalbermatten
+  title: Head of Business Applications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Isabella  Drolz
+  title: Global Head of IXS & VP of Commercial Stream
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 317.8
+currentRatio: 2.525
+customPriceAlertConfidence: LOW
+dayHigh: 320.0
+dayLow: 313.6
+debtToEquity: 27.815
+dividendDate: 1744761600
+dividendRate: 0.5
+dividendYield: 0.16
+earningsCallTimestampEnd: 1785511800
+earningsCallTimestampStart: 1785511800
+earningsGrowth: 0.331
+earningsQuarterlyGrowth: 0.334
+earningsTimestampEnd: 1785511800
+earningsTimestampStart: 1785511800
+ebitda: 47428000
+ebitdaMargins: 0.10097
+enterpriseToEbitda: 50.245
+enterpriseToRevenue: 5.073
+enterpriseValue: 2383019776
+epsCurrentYear: 9.27162
+epsForward: 17.89621
+epsTrailingTwelveMonths: 2.29
+esgPopulated: false
+exDividendDate: 1776297600
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 343.148
+fiftyDayAverageChange: -25.348022
+fiftyDayAverageChangePercent: -0.073869064
+fiftyTwoWeekChangePercent: 52.004005
+fiftyTwoWeekHigh: 452.2
+fiftyTwoWeekHighChange: -134.40002
+fiftyTwoWeekHighChangePercent: -0.29721367
+fiftyTwoWeekLow: 174.3
+fiftyTwoWeekLowChange: 143.49998
+fiftyTwoWeekLowChangePercent: 0.8232931
+fiftyTwoWeekRange: 174.3 - 452.2
+financialCurrency: CHF
+firstTradeDateMilliseconds: 1040112000000
+fiveYearAvgDividendYield: 0.47
+floatShares: 7773066
+forwardEps: 17.89621
+forwardPE: 17.75795
+freeCashflow: -16973124
+fullExchangeName: Swiss
+fullTimeEmployees: 1557
+fulldayChange: 14.399994
+fulldayChangePercent: 4.7462077
+fulldayPrice: 317.8
+gmtOffSetMilliseconds: 3600000
+grossMargins: 0.39020002
+grossProfits: 183284000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00226
+heldPercentInstitutions: 0.56282
+impliedSharesOutstanding: 7770025
+industry: Scientific & Technical Instruments
+industryDisp: Scientific & Technical Instruments
+industryKey: scientific-technical-instruments
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776297600
+lastDividendValue: 0.5
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1493164800
+lastSplitFactor: '10:1'
+longBusinessSummary: 'Comet Holding AG, together with its subsidiaries, provides X-ray
+  and radio frequency (RF) power technology solutions in Europe, North America, Asia,
+  and internationally. It operates through three divisions: Plasma Control Technologies,
+  X-Ray Systems, and Industrial X-Ray Modules. The Plasma Control Technologies division
+  develops, manufactures, and markets vacuum capacitors, RF generators, and RF impedance
+  matching networks for the high-precision control of plasma processes required in
+  the production of memory chips and flat panel displays. The X-Ray Systems division
+  develops, manufactures, and markets compact x-ray and provides related services,
+  for non destructive examination using x-ray computed tomography. The Industrial
+  X-Ray Modules division develops, manufactures, and markets compact X-ray sources
+  and portable X-ray modules for non-destructive examination, steel metrology, and
+  security inspection. The company offers its products under the Comet and Comet Yxlon
+  brands. The company serves manufacturers in the semiconductor, aerospace, automotive,
+  and security sectors. Comet Holding AG was founded in 1948 and is headquartered
+  in Flamatt, Switzerland.'
+longName: Comet Holding AG
+market: ch_market
+marketCap: 2469313792
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1163899
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 15586000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 2357622795
+numberOfAnalystOpinions: 10
+open: 314.0
+operatingCashflow: 45468000
+operatingMargins: 0.06962
+payoutRatio: 0.25
+pegRatio: 1.45
+phone: 41 31 744 90 00
+previousClose: 303.4
+priceEpsCurrentYear: 34.27664
+priceHint: 2
+priceToBook: 7.7293506
+priceToSalesTrailing12Months: 5.256946
+profitMargins: 0.033180002
+quickRatio: 1.455
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.8
+region: US
+regularMarketChange: 14.399994
+regularMarketChangePercent: 4.7462077
+regularMarketDayHigh: 320.0
+regularMarketDayLow: 313.6
+regularMarketDayRange: 313.6 - 320.0
+regularMarketOpen: 314.0
+regularMarketPreviousClose: 303.4
+regularMarketPrice: 317.8
+regularMarketTime: 1794411458
+regularMarketVolume: 17605
+returnOnAssets: 0.03974
+returnOnEquity: 0.0496
+revenueGrowth: 0.056
+revenuePerShare: 60.395
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+sharesOutstanding: 7770025
+shortName: COMET N
+sourceInterval: 15
+symbol: COTN.SW
+targetHighPrice: 640.0
+targetLowPrice: 270.0
+targetMeanPrice: 498.0
+targetMedianPrice: 523.0
+totalCash: 69792000
+totalCashPerShare: 8.958
+totalDebt: 89098000
+totalRevenue: 469724000
+tradeable: false
+trailingAnnualDividendRate: 0.5
+trailingAnnualDividendYield: 0.0016479895
+trailingEps: 2.29
+trailingPE: 138.77728
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 331.304
+twoHundredDayAverageChange: -13.503998
+twoHundredDayAverageChangePercent: -0.040760145
+typeDisp: Equity
+volume: 17605
+website: https://comet.tech
+zip: '3175'

@@ -1,0 +1,282 @@
+52WeekChange: -0.38040793
+SandP52WeekChange: 0.097798586
+address1: 22, Avenue Montaigne
+allTimeHigh: 904.6
+allTimeLow: 16.68
+ask: 0.0
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 618259
+averageDailyVolume3Month: 587188
+averageVolume: 587188
+averageVolume10days: 618259
+beta: 0.896
+bid: 0.0
+bidSize: 0
+boardRisk: 5
+bookValue: 138.096
+city: Paris
+companyOfficers:
+- age: 76
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bernard  Arnault
+  title: Chairman & CEO
+  totalPay: 3454603
+  unexercisedValue: 0
+  yearBorn: 1949
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Antoine  Arnault
+  title: Chief of Image, Communication and Sustainable Development & Director
+  totalPay: 1197213
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 31
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frederic  Arnault
+  title: CEO of TAG Heuer & Director
+  totalPay: 1706547
+  unexercisedValue: 0
+  yearBorn: 1994
+- age: 33
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexandre Bernard Francois Jean Arnault
+  title: Deputy CEO of Wines and Spirits Division, Moët Hennessy & Director
+  totalPay: 1518917
+  unexercisedValue: 0
+  yearBorn: 1992
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cecile  Cabanis
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jerome  Sibille
+  title: General Administration & Legal Affairs
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Bernard  Kuhn
+  title: General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Yann  Bouillonnec
+  title: Vice President of Sales
+  unexercisedValue: 0
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maud  Alvarez-Pereyre
+  title: Group Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher  de Lapuente
+  title: Chairman & CEO of Selective Retailing Division
+  unexercisedValue: 0
+  yearBorn: 1963
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions:
+- header: Dividend
+  message: MC.PA announced a cash dividend of EUR 5.50 with an ex-date of Dec. 1,
+    2026
+  meta:
+    amount: '5.50'
+    dateEpochMs: 1796079600000
+    eventType: DIVIDEND
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 400.65
+currentRatio: 1.631
+customPriceAlertConfidence: LOW
+dayHigh: 405.65
+dayLow: 400.0
+debtToEquity: 53.306
+dividendRate: 13.0
+dividendYield: 3.24
+earningsCallTimestampEnd: 1785166200
+earningsCallTimestampStart: 1785166200
+earningsGrowth: 0.008
+earningsQuarterlyGrowth: -0.0
+earningsTimestampEnd: 1785166200
+earningsTimestampStart: 1785166200
+ebitda: 20053999616
+ebitdaMargins: 0.2518
+enterpriseToEbitda: 11.183
+enterpriseToRevenue: 2.816
+enterpriseValue: 224268795904
+epsCurrentYear: 22.19624
+epsForward: 23.90473
+epsTrailingTwelveMonths: 22.02
+esgPopulated: false
+exDividendDate: 1796083200
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 33 1 44 13 22 23
+fiftyDayAverage: 399.136
+fiftyDayAverageChange: 1.5140076
+fiftyDayAverageChangePercent: 0.0037932124
+fiftyTwoWeekChangePercent: -38.040794
+fiftyTwoWeekHigh: 654.7
+fiftyTwoWeekHighChange: -254.05002
+fiftyTwoWeekHighChangePercent: -0.38804033
+fiftyTwoWeekLow: 375.65
+fiftyTwoWeekLowChange: 25.0
+fiftyTwoWeekLowChangePercent: 0.06655131
+fiftyTwoWeekRange: 375.65 - 654.7
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 1.76
+floatShares: 241746827
+forwardEps: 23.90473
+forwardPE: 16.76028
+freeCashflow: 11537125376
+fullExchangeName: Paris
+fullTimeEmployees: 196647
+fulldayChange: -0.3500061
+fulldayChangePercent: -0.08728332
+fulldayPrice: 400.65
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.66365
+grossProfits: 52854001664
+hasPrePostMarketData: false
+heldPercentInsiders: 0.50329
+heldPercentInstitutions: 0.18259001
+impliedSharesOutstanding: 490630174
+industry: Luxury Goods
+industryDisp: Luxury Goods
+industryKey: luxury-goods
+irWebsite: http://www.lvmh.com/investor-relations/shareholders
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1796083200
+lastDividendValue: 5.5
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 962582400
+lastSplitFactor: '5:1'
+longBusinessSummary: LVMH Moët Hennessy - Louis Vuitton, Société Européenne, together
+  with its subsidiaries, operates as a luxury goods company worldwide. It offers wine
+  and spirit products under the Ao Yun, Ardbeg, Armand de Brignac, Belvedere, Bodega
+  Numanthia, Chandon, Cheval des Andes, Château Cheval Blanc, Château Galoupet, Château
+  d'Yquem, Château d'Esclans, Cloudy Bay, Colgin Cellars, Dom Pérignon, Domaine des
+  Lambrays, Eminente, Glenmorangie, Hennessy, Joseph Phelps, Krug, Mercier, Minuty,
+  Moët & Chandon, Newton Vineyard, Ruinart, SirDavis, Terrazas de los Andes, Veuve
+  Clicquot, Volcan de mi Tierra, and Woodinville brands; fashion and leather products
+  under Barton Perreira,Berluti, Celine, Christian Dior, Fendi, Givenchy, Kenzo, Loewe,
+  Loro Piana, Louis Vuitton, Marc Jacobs, Moynat, Patou, Pucci, Rimowa, and Vuarnet
+  brands; and perfumes and cosmetics products under the Acqua di Parma, Benefit Cosmetics,
+  Fenty Beauty by Rihanna, Fresh, Givenchy Parfums, Guerlain, Kenzo Parfums, Loewe
+  Perfumes, Maison Francis Kurkdjian, Make Up For Ever, OLEHENRIKSEN, Officine Universelle
+  Buly, and Parfums Christian Dior brands. The company also provides watches and jewelry
+  under the Bvlgari, Chaumet, DANIEL ROTH, Fred, Gérald Genta, Hublot, L'Epée 1839,
+  Repossi, TAG Heuer, Tiffany & Co., and Zenith brands; and selective retailing under
+  the 24S, DFS, La Grande Épicerie de Paris, Le Bon Marché Rive Gauche, Samaritaine,
+  and Sephora brands. In addition, it offers french business and cultural publications
+  under the Les Echos group brand; custom-designed yachts under the Feadship brand;
+  hotels under the Cheval Blanc and Belmond brands; and other activities under the
+  Connaissance des Arts, Cova, Investir, Jardin d'Acclimatation, Le Parisien, Paris
+  Match, and Radio Classique brands. LVMH Moët Hennessy - Louis Vuitton, Société Européenne
+  was founded in 1365 and is headquartered in Paris, France.
+longName: LVMH Moët Hennessy - Louis Vuitton, Société Européenne
+market: fr_market
+marketCap: 196570972160
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_195488
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 10876999680
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 197454113526
+numberOfAnalystOpinions: 27
+open: 401.5
+operatingCashflow: 18639998976
+operatingMargins: 0.21823
+overallRisk: 7
+payoutRatio: 0.5925
+pegRatio: 2.0
+phone: 33 1 44 13 22 22
+previousClose: 401.0
+priceEpsCurrentYear: 18.050354
+priceHint: 2
+priceToBook: 2.9012427
+priceToSalesTrailing12Months: 2.468213
+profitMargins: 0.13658
+quickRatio: 0.661
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -0.3500061
+regularMarketChangePercent: -0.08728332
+regularMarketDayHigh: 405.65
+regularMarketDayLow: 400.0
+regularMarketDayRange: 400.0 - 405.65
+regularMarketOpen: 401.5
+regularMarketPreviousClose: 401.0
+regularMarketPrice: 400.65
+regularMarketTime: 1794411573
+regularMarketVolume: 172255
+returnOnAssets: 0.07667
+returnOnEquity: 0.16586
+revenueGrowth: -0.029
+revenuePerShare: 160.656
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 8
+sharesOutstanding: 490630174
+shortName: LVMH
+sourceInterval: 15
+symbol: MC.PA
+targetHighPrice: 590.0
+targetLowPrice: 415.0
+targetMeanPrice: 491.35556
+targetMedianPrice: 490.0
+totalCash: 12213999616
+totalCashPerShare: 24.77
+totalDebt: 37150998528
+totalRevenue: 79641001984
+tradeable: false
+trailingAnnualDividendRate: 13.0
+trailingAnnualDividendYield: 0.03241895
+trailingEps: 22.02
+trailingPE: 18.194822
+trailingPegRatio: 2.0008
+triggerable: false
+twoHundredDayAverage: 463.019
+twoHundredDayAverageChange: -62.36902
+twoHundredDayAverageChangePercent: -0.13470078
+typeDisp: Equity
+volume: 172255
+website: https://www.lvmh.com
+zip: '75008'

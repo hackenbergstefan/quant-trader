@@ -1,0 +1,236 @@
+52WeekChange: 0.26877356
+SandP52WeekChange: 0.097798586
+address1: 9348 Civic Center Drive
+allTimeHigh: 189.25
+allTimeLow: 2.47
+ask: 180.47
+askSize: 100
+auditRisk: 10
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 3537540
+averageDailyVolume3Month: 2093039
+averageVolume: 2093039
+averageVolume10days: 3537540
+beta: 1.157
+bid: 180.09
+bidSize: 200
+boardRisk: 5
+bookValue: 1.976
+city: Beverly Hills
+companyOfficers:
+- age: 59
+  exercisedValue: 34491536
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Rapino
+  title: President, CEO & Director
+  totalPay: 22551956
+  unexercisedValue: 22192236
+  yearBorn: 1966
+- age: 60
+  exercisedValue: 16495946
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joe  Berchtold
+  title: President & CFO
+  totalPay: 6180053
+  unexercisedValue: 10613643
+  yearBorn: 1965
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian J. Capo
+  title: Chief Accounting Officer & Senior VP
+  totalPay: 712500
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Hopmans
+  title: Executive Vice President of Mergers & Acquisitions and Strategic Finance
+  totalPay: 3012416
+  unexercisedValue: 38664792
+  yearBorn: 1959
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amy  Yong
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 180.5257
+currentRatio: 0.951
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 181.96
+dayLow: 177.19
+debtToEquity: 510.002
+displayName: Live Nation Entertainment
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793916000
+earningsCallTimestampStart: 1793916000
+earningsGrowth: 1.312
+earningsQuarterlyGrowth: 0.038
+earningsTimestamp: 1793912400
+earningsTimestampEnd: 1793912400
+earningsTimestampStart: 1793912400
+ebitda: 2140209024
+ebitdaMargins: 0.07677
+enterpriseToEbitda: 22.009
+enterpriseToRevenue: 1.69
+enterpriseValue: 47103315968
+epsCurrentYear: -0.4427
+epsForward: 2.01617
+epsTrailingTwelveMonths: -0.11
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 172.6736
+fiftyDayAverageChange: 7.8520966
+fiftyDayAverageChangePercent: 0.045473635
+fiftyTwoWeekChangePercent: 26.877356
+fiftyTwoWeekHigh: 189.25
+fiftyTwoWeekHighChange: -8.724304
+fiftyTwoWeekHighChangePercent: -0.04609936
+fiftyTwoWeekLow: 125.34
+fiftyTwoWeekLowChange: 55.1857
+fiftyTwoWeekLowChangePercent: 0.44028804
+fiftyTwoWeekRange: 125.34 - 189.25
+financialCurrency: USD
+firstTradeDateMilliseconds: 1135175400000
+floatShares: 157539525
+forwardEps: 2.01617
+forwardPE: 89.538925
+freeCashflow: 1278413312
+fullExchangeName: NYSE
+fullTimeEmployees: 17700
+fulldayChange: 2.2756958
+fulldayChangePercent: 1.2766877
+fulldayPrice: 180.5257
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.25355
+grossProfits: 7068612096
+hasPrePostMarketData: true
+heldPercentInsiders: 0.32374
+heldPercentInstitutions: 0.85536003
+impliedSharesOutstanding: 235696543
+industry: Entertainment
+industryDisp: Entertainment
+industryKey: entertainment
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Live Nation Entertainment, Inc. operates as a live entertainment
+  company worldwide. The company operates through Concerts, Ticketing, and Sponsorship
+  & Advertising segments. Its Concerts segment promotes live music events in its owned
+  or operated venues, and in rented third-party venues. This segment operates and
+  manages music venues; produces music festivals; creates associated content; and
+  offers management and other services to artists. The Ticketing segment manages the
+  ticketing operations, including the provision of ticketing software and services
+  to consumers with marketplace for tickets and event information through mobile apps,
+  other websites, and retail outlets, as well as its websites, such as livenation.com
+  and ticketmaster.com; and provides ticket resale services. This segment offers ticketing
+  services for arenas, stadiums, amphitheaters, music clubs, concert promoters, professional
+  sports franchises and leagues, college sports teams, performing arts venues, museums,
+  and theaters. Its Sponsorship & Advertising segment sells international, national,
+  and local sponsorships and placement of advertising, including signage, online advertising,
+  and promotional programs; rich media offering, including advertising related with
+  live streaming and music-related content; and ads through distribution network of
+  venues, events, and websites. This segment also manages the development of strategic
+  sponsorship programs, as well as develops, books, and produces custom events or
+  programs for specific brands. It owns, operates, or leases entertainment venues.
+  The company was formerly known as Live Nation, Inc. and changed its name to Live
+  Nation Entertainment, Inc. in January 2010. Live Nation Entertainment, Inc. was
+  incorporated in 2005 and is headquartered in Beverly Hills, California.
+longName: Live Nation Entertainment, Inc.
+market: us_market
+marketCap: 42549280768
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_384687
+mostRecentQuarter: 1790726400
+netIncomeToCommon: -24401000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 42012908789
+numberOfAnalystOpinions: 23
+open: 178.775
+operatingCashflow: 2046690048
+operatingMargins: 0.05145
+overallRisk: 9
+payoutRatio: 0.0
+pegRatio: 4.61
+phone: 310 867 7000
+previousClose: 178.25
+priceEpsCurrentYear: -407.78336
+priceHint: 2
+priceToBook: 91.35916
+priceToSalesTrailing12Months: 1.5262439
+profitMargins: 0.00542
+quickRatio: 0.771
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.64
+region: US
+regularMarketChange: 2.2756958
+regularMarketChangePercent: 1.2766877
+regularMarketDayHigh: 181.96
+regularMarketDayLow: 177.19
+regularMarketDayRange: 177.19 - 181.96
+regularMarketOpen: 178.775
+regularMarketPreviousClose: 178.25
+regularMarketPrice: 180.5257
+regularMarketTime: 1794413727
+regularMarketVolume: 629436
+returnOnAssets: 0.03531
+returnOnEquity: 0.21014
+revenueGrowth: 0.189
+revenuePerShare: 119.828
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 9
+sharesOutstanding: 235696543
+sharesPercentSharesOut: 0.107700005
+sharesShort: 25384822
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 23891774
+shortName: Live Nation Entertainment, Inc.
+shortPercentOfFloat: 0.1586
+shortRatio: 14.08
+sourceInterval: 15
+state: CA
+symbol: LYV
+targetHighPrice: 221.0
+targetLowPrice: 145.0
+targetMeanPrice: 203.26086
+targetMedianPrice: 210.0
+totalCash: 8257467904
+totalCashPerShare: 35.401
+totalDebt: 11905175552
+totalRevenue: 27878426624
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: -0.11
+trailingPegRatio: 4.6072
+triggerable: true
+twoHundredDayAverage: 167.8852
+twoHundredDayAverageChange: 12.640503
+twoHundredDayAverageChangePercent: 0.07529254
+typeDisp: Equity
+volume: 629436
+website: https://www.livenationentertainment.com
+zip: '90210'

@@ -1,0 +1,267 @@
+52WeekChange: 0.21517122
+SandP52WeekChange: 0.097798586
+address1: 75 quai d'Orsay
+allTimeHigh: 191.0
+allTimeLow: 18.30792
+ask: 0.0
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 1166912
+averageDailyVolume3Month: 816954
+averageVolume: 816954
+averageVolume10days: 1166912
+beta: 0.618
+bid: 0.0
+bidSize: 0
+boardRisk: 3
+bookValue: 41.663
+city: Paris
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Francois  Jackow
+  title: CEO & Director
+  totalPay: 2668000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jérôme  Pelletan
+  title: Group VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Aude  Rodriguez
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amelia  Irion
+  title: Group Human Resources Vice President
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Francois  Venet
+  title: Senior Vice President of Large Industries & Strategy
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Armelle  Levieux
+  title: Group Vice President of Innovation & Technology
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Christiane  Muller
+  title: Vice President of Global Markets & Technologies Activities
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam  Peters
+  title: CEO of Air Liquide North America
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Diana  Schillag
+  title: Group VP & General Secretary
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marcelo  Fioranelli
+  title: Group VP & CEO of Airgas
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 192.08
+currentRatio: 0.875
+customPriceAlertConfidence: LOW
+dayHigh: 192.64
+dayLow: 190.06
+debtToEquity: 63.307
+dividendRate: 3.36
+dividendYield: 1.77
+earningsCallTimestampEnd: 1785252600
+earningsCallTimestampStart: 1785252600
+earningsGrowth: 0.007
+earningsQuarterlyGrowth: 0.012
+earningsTimestampEnd: 1785252600
+earningsTimestampStart: 1785252600
+ebitda: 7624500224
+ebitdaMargins: 0.28191
+enterpriseToEbitda: 17.98
+enterpriseToRevenue: 5.069
+enterpriseValue: 137089007616
+epsCurrentYear: 6.40329
+epsForward: 7.18603
+epsTrailingTwelveMonths: 5.55
+esgPopulated: false
+exDividendDate: 1779062400
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 172.59
+fiftyDayAverageChange: 19.490005
+fiftyDayAverageChangePercent: 0.112926625
+fiftyTwoWeekChangePercent: 21.517122
+fiftyTwoWeekHigh: 192.64
+fiftyTwoWeekHighChange: -0.55999756
+fiftyTwoWeekHighChangePercent: -0.0029069642
+fiftyTwoWeekLow: 140.78181
+fiftyTwoWeekLowChange: 51.298187
+fiftyTwoWeekLowChangePercent: 0.36438078
+fiftyTwoWeekRange: 140.78181 - 192.64
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 1.83
+floatShares: 621507652
+forwardEps: 7.18603
+forwardPE: 26.729641
+freeCashflow: 243312496
+fullExchangeName: Paris
+fullTimeEmployees: 65000
+fulldayChange: 1.7400055
+fulldayChangePercent: 0.9140605
+fulldayPrice: 192.08
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.64595
+grossProfits: 17470199808
+hasPrePostMarketData: false
+heldPercentInsiders: 0.023
+heldPercentInstitutions: 0.33271
+impliedSharesOutstanding: 638168550
+industry: Specialty Chemicals
+industryDisp: Specialty Chemicals
+industryKey: specialty-chemicals
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779062400
+lastDividendValue: 3.363636
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1780876800
+lastSplitFactor: '11:10'
+longBusinessSummary: L'Air Liquide S.A. provides gases, technologies, and services
+  for the industrial and health sectors in Europe, the Americas, the Asia Pacific,
+  the Middle East, and Africa. It operates in Gas & Services, and Engineering & Construction
+  segments. The Gas & Services segment comprises large industries business, which
+  offers gas and energy solutions including oxygen, nitrogen, argon, hydrogen, and
+  carbon monoxide, as well as operates cogeneration plants to supply steam and electricity
+  to metals, chemicals, refining, and energy industries; and industrial merchant business
+  line provides industrial gases, equipment, hardgoods, and associated services to
+  materials and energy, materials and chemicals, food and pharmaceuticals, technology
+  and research, and fabrication and construction sectors. This segment also includes
+  healthcare business, which provides medical gases, home healthcare services, medical
+  equipment, and specialty ingredient; healthcare professionals, and hospitals; and
+  electronic business supply carrier gases, electronic specialty and advanced materials,
+  equipment and installation, service, and analysis to semiconductor, flat panel,
+  and photovoltaic markets. The Engineering & Construction segment designs, develops,
+  and builds industrial gas production plants to third parties; and designs and manufacture
+  plants in the traditional, renewable, and alternative energy sectors. This segment
+  also focuses on markets which require a global approach, drawing on science, technologies,
+  development models, and usages related to digital transformation. L'Air Liquide
+  S.A. was incorporated in 1902 and is headquartered in Paris, France.
+longName: L'Air Liquide S.A.
+market: fr_market
+marketCap: 122579419136
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_873964
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 3539399936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 120907413483
+numberOfAnalystOpinions: 20
+open: 190.3
+operatingCashflow: 5495900160
+operatingMargins: 0.19676
+overallRisk: 2
+payoutRatio: 0.6053
+pegRatio: 2.05
+phone: 33 1 40 62 55 55
+previousClose: 190.34
+priceEpsCurrentYear: 29.997082
+priceHint: 2
+priceToBook: 4.610326
+priceToSalesTrailing12Months: 4.532274
+profitMargins: 0.13087
+quickRatio: 0.585
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.35
+region: US
+regularMarketChange: 1.7400055
+regularMarketChangePercent: 0.9140605
+regularMarketDayHigh: 192.64
+regularMarketDayLow: 190.06
+regularMarketDayRange: 190.06 - 192.64
+regularMarketOpen: 190.3
+regularMarketPreviousClose: 190.34
+regularMarketPrice: 192.08
+regularMarketTime: 1794411563
+regularMarketVolume: 337610
+returnOnAssets: 0.062979996
+returnOnEquity: 0.13967
+revenueGrowth: 0.008
+revenuePerShare: 42.604
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 1
+sharesOutstanding: 638168550
+shortName: AIR LIQUIDE
+sourceInterval: 15
+symbol: AI.PA
+targetHighPrice: 227.0
+targetLowPrice: 172.0
+targetMeanPrice: 202.125
+targetMedianPrice: 203.5
+totalCash: 2061200000
+totalCashPerShare: 3.238
+totalDebt: 17258899456
+totalRevenue: 27045900288
+tradeable: false
+trailingAnnualDividendRate: 3.364
+trailingAnnualDividendYield: 0.017673638
+trailingEps: 5.55
+trailingPE: 34.60901
+trailingPegRatio: 2.0458
+triggerable: false
+twoHundredDayAverage: 167.02963
+twoHundredDayAverageChange: 25.05037
+twoHundredDayAverageChangePercent: 0.1499756
+typeDisp: Equity
+volume: 337610
+website: https://www.airliquide.com
+zip: '75007'

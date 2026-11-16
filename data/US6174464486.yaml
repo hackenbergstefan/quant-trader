@@ -1,0 +1,275 @@
+52WeekChange: 0.10381353
+SandP52WeekChange: 0.097798586
+address1: 1585 Broadway
+allTimeHigh: 232.25
+allTimeLow: 6.71
+ask: 190.53
+askSize: 100
+auditRisk: 6
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 6766850
+averageDailyVolume3Month: 5492034
+averageVolume: 5492034
+averageVolume10days: 6766850
+beta: 1.22
+bid: 190.35
+bidSize: 100
+boardRisk: 5
+bookValue: 68.591
+city: New York
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Edward N. Pick
+  title: CEO & Chairman of the Board
+  totalPay: 12690324
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel Aaron Simkowitz
+  title: Co-President
+  totalPay: 12201500
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew Michael Saperstein
+  title: Co-President
+  totalPay: 12297226
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sharon  Yeshaya
+  title: Executive VP & CFO
+  totalPay: 8924403
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric F. Grossman
+  title: Executive VP and Chief Legal & Administrative Officer
+  totalPay: 8981786
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael A. Pizzi
+  title: Executive VP & Global Head of Technology and Operations
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael John Wilson
+  title: Chief U.S. Equity Strategist & Chief Investment Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Victoria  Worster
+  title: Chief Accounting Officer & Controller
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Robyn Maslynsky Goldschmid
+  title: Managing Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Clint G. Gartin
+  title: Chairman of Investment Banking
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 190.11
+currentRatio: 2.124
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 190.93
+dayLow: 187.25
+debtToEquity: 489.762
+dividendDate: 1794528000
+dividendRate: 4.6
+dividendYield: 2.45
+earningsCallTimestampEnd: 1791984600
+earningsCallTimestampStart: 1791984600
+earningsGrowth: 0.082
+earningsQuarterlyGrowth: 0.065
+earningsTimestamp: 1791981000
+earningsTimestampEnd: 1799933400
+earningsTimestampStart: 1799933400
+ebitdaMargins: 0.0
+enterpriseToRevenue: 1.456
+enterpriseValue: 116199505920
+epsCurrentYear: 12.89833
+epsForward: 13.67012
+epsTrailingTwelveMonths: 12.61
+esgPopulated: false
+exDividendDate: 1793318400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 194.1116
+fiftyDayAverageChange: -4.001602
+fiftyDayAverageChangePercent: -0.020614956
+fiftyTwoWeekChangePercent: 10.381353
+fiftyTwoWeekHigh: 232.25
+fiftyTwoWeekHighChange: -42.14
+fiftyTwoWeekHighChangePercent: -0.18144241
+fiftyTwoWeekLow: 152.8
+fiftyTwoWeekLowChange: 37.309998
+fiftyTwoWeekLowChangePercent: 0.24417537
+fiftyTwoWeekRange: 152.8 - 232.25
+financialCurrency: USD
+firstTradeDateMilliseconds: 730477800000
+fiveYearAvgDividendYield: 2.84
+floatShares: 1184755989
+forwardEps: 13.67012
+forwardPE: 13.906974
+fullExchangeName: NYSE
+fullTimeEmployees: 84000
+fulldayChange: 2.550003
+fulldayChangePercent: 1.3595666
+fulldayPrice: 190.11
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.87307
+grossProfits: 69665996800
+hasPrePostMarketData: true
+heldPercentInsiders: 0.24184
+heldPercentInstitutions: 0.63021
+impliedSharesOutstanding: 1563043865
+industry: Capital Markets
+industryDisp: Capital Markets
+industryKey: capital-markets
+irWebsite: http://www.morganstanley.com/about/ir/index.html
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1793318400
+lastDividendValue: 1.15
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 948931200
+lastSplitFactor: '2:1'
+longBusinessSummary: Morgan Stanley, a financial holding company, provides various
+  financial products and services to corporations, governments, financial institutions,
+  and individuals in the Americas, Asia, Europe, the Middle East, and Africa. It operates
+  through Institutional Securities, Wealth Management, and Investment Management segments.
+  The company offers capital raising and financial advisory services, including services
+  related to the underwriting of debt, equity securities, and other products, as well
+  as advice on mergers and acquisitions, restructurings, and project finance. It also
+  provides equity and fixed income products comprising sales, financing, prime brokerage,
+  and market-making services; Asia wealth management; business-related investments
+  services; originating corporate and commercial real estate loans, secured lending
+  facilities, and extending securities-based and other financing; and research activities.
+  In addition, the company offers financial advisor-led brokerage, investment advisory,
+  custody, cash management, and administrative services; self-directed brokerage services;
+  financial and wealth planning services; stock plan administration; securities-based
+  lending, residential real estate loans, and other lending products; banking; and
+  retirement plan services. Further, it provides equity, fixed income, alternatives
+  and solutions, and liquidity and overlay services to benefit/defined contribution
+  plans, foundations, endowments, government entities, sovereign wealth funds, insurance
+  companies, third-party fund sponsors, corporations, and individuals. Morgan Stanley
+  was founded in 1924 and is headquartered in New York, New York.
+longName: Morgan Stanley
+market: us_market
+marketCap: 297150251008
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_472898
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 19847999488
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 293164507319
+numberOfAnalystOpinions: 22
+open: 190.26
+operatingCashflow: -58278998016
+operatingMargins: 0.40196
+overallRisk: 6
+payoutRatio: 0.3291
+pegRatio: 1.63
+phone: 212 761 4000
+previousClose: 187.56
+priceEpsCurrentYear: 14.739118
+priceHint: 2
+priceToBook: 2.7716463
+priceToSalesTrailing12Months: 3.723967
+profitMargins: 0.25634
+quickRatio: 1.726
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.30769
+region: US
+regularMarketChange: 2.550003
+regularMarketChangePercent: 1.3595666
+regularMarketDayHigh: 190.93
+regularMarketDayLow: 187.25
+regularMarketDayRange: 187.25 - 190.93
+regularMarketOpen: 190.26
+regularMarketPreviousClose: 187.56
+regularMarketPrice: 190.11
+regularMarketTime: 1794413742
+regularMarketVolume: 1578109
+returnOnAssets: 0.01353
+returnOnEquity: 0.18035
+revenueGrowth: 0.108
+revenuePerShare: 51.257
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 7
+sharesOutstanding: 1563043865
+sharesPercentSharesOut: 0.0
+sharesShort: 23634
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 14606885
+shortName: Morgan Stanley
+shortPercentOfFloat: 0.0
+shortRatio: 0.0
+sourceInterval: 15
+state: NY
+symbol: MS
+targetHighPrice: 262.0
+targetLowPrice: 185.0
+targetMeanPrice: 211.5
+targetMedianPrice: 206.5
+totalCash: 767412011008
+totalCashPerShare: 490.973
+totalDebt: 579486023680
+totalRevenue: 79794003968
+tradeable: false
+trailingAnnualDividendRate: 4.375
+trailingAnnualDividendYield: 0.02332587
+trailingEps: 12.61
+trailingPE: 15.076131
+trailingPegRatio: 1.6276
+triggerable: true
+twoHundredDayAverage: 194.4046
+twoHundredDayAverageChange: -4.2946014
+twoHundredDayAverageChangePercent: -0.022091048
+typeDisp: Equity
+volume: 1578109
+website: https://www.morganstanley.com
+zip: '10036'

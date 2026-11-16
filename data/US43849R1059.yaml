@@ -1,0 +1,254 @@
+52WeekChange: -0.16764998
+SandP52WeekChange: 0.097798586
+address1: 1944 East Sky Harbor Circle N
+allTimeHigh: 297.5
+allTimeLow: 147.4
+ask: 179.82
+askSize: 2
+averageAnalystRating: 2.5 - Hold
+averageDailyVolume10Day: 4324650
+averageDailyVolume3Month: 3579510
+averageVolume: 3579510
+averageVolume10days: 4324650
+bid: 152.81
+bidSize: 2
+bookValue: -8.113
+city: Phoenix
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. James E. Currier
+  title: President, CEO & Director
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 46
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Joshua A. Jepsen
+  title: CFO & Senior VP
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  maxAge: 1
+  name: William Michael Lautar
+  title: VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Todd  Giles
+  title: Senior VP & CTO
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Sean Christopher Meakim C.F.A.
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. John  Donofrio J.D.
+  title: Senior VP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 56
+  exercisedValue: 0
+  maxAge: 1
+  name: Ms. Karen Elizabeth Arlak
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 68
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Timothy O. Mahoney
+  title: Senior Vice President of Enterprise Transformation
+  unexercisedValue: 0
+  yearBorn: 1957
+- age: 52
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Richard  DeGraff
+  title: President & Chief Executive Officer of Control Systems
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 59
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. David Andrew Marinick
+  title: President and CEO of Engines & Power Systems
+  unexercisedValue: 0
+  yearBorn: 1966
+corporateActions:
+- header: Dividend
+  message: HONA announced a cash dividend of $0.40 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.40'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 167.5
+currentRatio: 1.643
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 167.7604
+dayLow: 165.3701
+displayName: Honeywell Aerospace
+dividendDate: 1796342400
+dividendRate: 1.6
+dividendYield: 0.96
+earningsCallTimestampEnd: 1793221200
+earningsCallTimestampStart: 1793221200
+earningsGrowth: 0.128
+earningsQuarterlyGrowth: 0.127
+earningsTimestamp: 1793217600
+earningsTimestampEnd: 1793217600
+earningsTimestampStart: 1793217600
+ebitda: 4260000000
+ebitdaMargins: 0.23632999
+enterpriseToEbitda: 15.84
+enterpriseToRevenue: 3.743
+enterpriseValue: 67480289280
+epsCurrentYear: 7.90746
+epsForward: 8.73793
+epsTrailingTwelveMonths: 3.53
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 159.4734
+fiftyDayAverageChange: 8.026596
+fiftyDayAverageChangePercent: 0.05033188
+fiftyTwoWeekChangePercent: -16.765
+fiftyTwoWeekHigh: 297.5
+fiftyTwoWeekHighChange: -130.0
+fiftyTwoWeekHighChangePercent: -0.4369748
+fiftyTwoWeekLow: 147.4
+fiftyTwoWeekLowChange: 20.100006
+fiftyTwoWeekLowChangePercent: 0.13636369
+fiftyTwoWeekRange: 147.4 - 297.5
+financialCurrency: USD
+firstTradeDateMilliseconds: 1781530200000
+floatShares: 316635546
+forwardEps: 8.73793
+forwardPE: 19.1693
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 30000
+fulldayChange: 1.0299988
+fulldayChangePercent: 0.61872935
+fulldayPrice: 167.5
+gmtOffSetMilliseconds: -18000000
+grossMargins: 0.34644002
+grossProfits: 6245000192
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00084
+heldPercentInstitutions: 0.79336
+impliedSharesOutstanding: 317031836
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Honeywell Aerospace Inc. supplies mission critical systems and
+  technologies that enable the production, maintenance, and safe operation of aerospace
+  and defense platforms. It operates through three segments: Electronic Solutions
+  (ES), Engines & Power Systems (E&PS), and Control Systems (CS). The ES segment provides
+  avionics, radars, flight management systems, precision inertial navigation systems,
+  and space components; solutions that enable complex sensing protection, targeting,
+  and communications operations in the electromagnetic spectrum; and electronic warfare
+  solutions, as well as solutions that focus on in-flight connectivity, cockpit safety,
+  defense radiofrequency, and counter unmanned aerial systems. It serves OEMs, airlines,
+  defense prime contractors, and space-system integrators, as well as aftermarket
+  maintenance, repair, and overhaul providers. The E&PS segment offers propulsion
+  engines, small and military auxiliary power units (APUs), narrowbody and widebody
+  APUs, electric power systems, and fuel cells and adjacencies. This segment serves
+  aerospace original equipment manufacturers, the U.S. military branches, and scaled
+  aftermarket service providers. The CS segment provides environmental control systems,
+  cabin pressure control systems, thermal management systems, engine start systems,
+  fuel control systems, flight control actuation systems, and wheels and braking systems.
+  The company operates in the United States, Switzerland, Europe, the Middle East,
+  Africa, and internationally. Honeywell Aerospace Inc. was founded in 1914 and is
+  headquartered in Phoenix, Arizona. Honeywell Aerospace Inc. is as a prior subsidiary
+  of Honeywell International Inc.'
+longName: Honeywell Aerospace Inc.
+market: us_market
+marketCap: 53102833664
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_3129738
+mostRecentQuarter: 1790380800
+netIncomeToCommon: 2028000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 52776289738
+numberOfAnalystOpinions: 15
+open: 166.47
+operatingCashflow: 2855000064
+operatingMargins: 0.21058
+payoutRatio: 0.0
+pegRatio: 1.0
+phone: 800-601-3099
+previousClose: 166.47
+priceEpsCurrentYear: 21.182528
+priceHint: 2
+priceToBook: -20.645878
+priceToSalesTrailing12Months: 2.945902
+profitMargins: 0.1125
+quickRatio: 0.835
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.52941
+region: US
+regularMarketChange: 1.0299988
+regularMarketChangePercent: 0.61872935
+regularMarketDayHigh: 167.7604
+regularMarketDayLow: 165.3701
+regularMarketDayRange: 165.3701 - 167.7604
+regularMarketOpen: 166.47
+regularMarketPreviousClose: 166.47
+regularMarketPrice: 167.5
+regularMarketTime: 1794413739
+regularMarketVolume: 393558
+revenueGrowth: 0.024
+revenuePerShare: 56.859
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+sharesOutstanding: 317031836
+sharesPercentSharesOut: 0.0275
+sharesShort: 8729136
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8614534
+shortName: Honeywell Aerospace Inc.
+shortRatio: 2.91
+sourceInterval: 15
+state: AZ
+symbol: HONA
+targetHighPrice: 261.0
+targetLowPrice: 170.0
+targetMeanPrice: 193.26666
+targetMedianPrice: 190.0
+totalCash: 1558000000
+totalCashPerShare: 4.914
+totalDebt: 16179000320
+totalRevenue: 18026000384
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 3.53
+trailingPE: 47.450424
+trailingPegRatio: 1.0086
+triggerable: true
+twoHundredDayAverage: 181.895
+twoHundredDayAverageChange: -14.395004
+twoHundredDayAverageChangePercent: -0.07913908
+typeDisp: Equity
+volume: 393558
+website: https://www.honeywellaerospace.com
+zip: '85034'

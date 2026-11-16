@@ -1,0 +1,259 @@
+52WeekChange: 0.17426574
+SandP52WeekChange: 0.097798586
+address1: 1 Braham Street
+allTimeHigh: 1058.6382
+allTimeLow: 22.982
+ask: 211.9
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 2.9 - Hold
+averageDailyVolume10Day: 23497400
+averageDailyVolume3Month: 16617494
+averageVolume: 16617494
+averageVolume10days: 23497400
+beta: 0.503
+bid: 211.7
+bidSize: 0
+boardRisk: 4
+bookValue: 1.296
+city: London
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Allison  Kirkby FCMA
+  title: CEO & Director
+  totalPay: 2330000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Simon Jonathan Lowth
+  title: Executive Officer
+  totalPay: 1705000
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Patricia  Cobian González
+  title: Group CFO & Executive Director
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Nicholas  Delfas
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Sabine  Chalmers
+  title: Group General Counsel, Company Secretary & Director of Regulatory Affairs
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Alison  Wilcox
+  title: Chief People & Culture Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Ashish  Gupta
+  title: Chief Operating Officer of Enterprise Business
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Chris  Sims
+  title: Managing Director of Strategy, Marketing & Digital
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Neil  McRae
+  title: Managing Director & Chief Architect
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Greg  McCall
+  title: Chief Security & Networks Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 211.9
+currentRatio: 0.849
+customPriceAlertConfidence: LOW
+dayHigh: 214.6
+dayLow: 209.1
+debtToEquity: 179.853
+dividendRate: 0.08
+dividendYield: 3.96
+earningsCallTimestampEnd: 1793872800
+earningsCallTimestampStart: 1793872800
+earningsGrowth: 0.24
+earningsQuarterlyGrowth: 0.243
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 6554999808
+ebitdaMargins: 0.33262002
+enterpriseToEbitda: 6.429
+enterpriseToRevenue: 2.138
+enterpriseValue: 42141831168
+epsCurrentYear: 0.18287
+epsForward: 0.18977
+epsTrailingTwelveMonths: 0.13
+esgPopulated: false
+exDividendDate: 1798070400
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 204.733
+fiftyDayAverageChange: 7.166992
+fiftyDayAverageChangePercent: 0.03500653
+fiftyTwoWeekChangePercent: 17.426575
+fiftyTwoWeekHigh: 247.3
+fiftyTwoWeekHighChange: -35.40001
+fiftyTwoWeekHighChangePercent: -0.14314601
+fiftyTwoWeekLow: 173.0
+fiftyTwoWeekLowChange: 38.899994
+fiftyTwoWeekLowChangePercent: 0.22485545
+fiftyTwoWeekRange: 173.0 - 247.3
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 3.72
+floatShares: 5122650390
+forwardEps: 0.18977
+forwardPE: 11.166149
+freeCashflow: 195624992
+fullExchangeName: LSE
+fullTimeEmployees: 77200
+fulldayChange: 2.0
+fulldayChangePercent: 0.9528347
+fulldayPrice: 211.9
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.47278
+grossProfits: 9317000192
+hasPrePostMarketData: false
+heldPercentInsiders: 0.42481
+heldPercentInstitutions: 0.32788
+impliedSharesOutstanding: 9853621250
+industry: Telecom Services
+industryDisp: Telecom Services
+industryKey: telecom-services
+irWebsite: http://www.btplc.com/sharesandperformance/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1798070400
+lastDividendValue: 0.025
+lastFiscalYearEnd: 1774915200
+longBusinessSummary: BT Group plc provides communications products and services in
+  the United Kingdom, Europe, the Middle East, Africa, the Americas, and the Asia
+  Pacific. The company operates through Consumer, Business, International, and Openreach
+  segments. It builds, owns, and operates fixed and mobile networks; and designs,
+  builds, markets, sells, and supports network access, connectivity, and related products.
+  The company also offers mobile, broadband, and landline, as well as entertainment
+  services to individuals and households; connectivity, networking, cybersecurity,
+  collaboration tools, cloud connectivity, and cloud services to private and public
+  sector businesses; and managed solutions for larger businesses and public sector
+  customers. In addition, it provides fixed and IP voice; unified communications;
+  mobile; fixed and networking; managed services; and security, and cloud and IoT
+  solutions. Further, the company develops, manages, and leases network infrastructure,
+  including mobile cell and switch sites; and offers handsets, network equipment,
+  consumer electronics, gaming and insurance. It provides its products and services
+  under the BT, EE, Plusnet, and Openreach brands. The company was formerly known
+  as Newgate Telecommunications Limited and changed its name to BT Group plc in September
+  2001. BT Group plc was founded in 1846 and is headquartered in London, the United
+  Kingdom.
+longName: BT Group plc
+market: gb_market
+marketCap: 20879822848
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_171577
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1178000000
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 20682751003
+numberOfAnalystOpinions: 17
+open: 209.8
+operatingCashflow: 6774000128
+operatingMargins: 0.16329001
+overallRisk: 2
+payoutRatio: 0.7051
+pegRatio: 1.42
+phone: 44 20 7356 5000
+previousClose: 209.9
+priceEpsCurrentYear: 1158.7466
+priceHint: 2
+priceToBook: 1.6350309
+priceToSalesTrailing12Months: 1.059513
+profitMargins: 0.06267
+quickRatio: 0.593
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.875
+region: US
+regularMarketChange: 2.0
+regularMarketChangePercent: 0.9528347
+regularMarketDayHigh: 214.6
+regularMarketDayLow: 209.1
+regularMarketDayRange: 209.1 - 214.6
+regularMarketOpen: 209.8
+regularMarketPreviousClose: 209.9
+regularMarketPrice: 211.9
+regularMarketTime: 1794411555
+regularMarketVolume: 8382892
+returnOnAssets: 0.04081
+returnOnEquity: 0.0928
+revenueGrowth: 0.006
+revenuePerShare: 1.999
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 9853621250
+shortName: BT GROUP PLC ORD 5P
+sourceInterval: 15
+symbol: BT-A.L
+targetHighPrice: 340.0
+targetLowPrice: 143.0
+targetMeanPrice: 226.882
+targetMedianPrice: 219.0
+totalCash: 1574000000
+totalCashPerShare: 0.16
+totalDebt: 23004999680
+totalRevenue: 19707000832
+tradeable: false
+trailingAnnualDividendRate: 0.084
+trailingAnnualDividendYield: 0.00040019056
+trailingEps: 0.13
+trailingPE: 16.300001
+trailingPegRatio: 1.3956
+triggerable: false
+twoHundredDayAverage: 206.79054
+twoHundredDayAverageChange: 5.1094513
+twoHundredDayAverageChangePercent: 0.024708342
+typeDisp: Equity
+volume: 8382892
+website: https://www.bt.com
+zip: E1 8EE

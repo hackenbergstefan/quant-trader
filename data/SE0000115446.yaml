@@ -1,0 +1,275 @@
+52WeekChange: 0.19672132
+SandP52WeekChange: 0.097798586
+address1: Gropegårdsgatan 2
+allTimeHigh: 374.5
+allTimeLow: 5.3
+ask: 323.4
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 3769264
+averageDailyVolume3Month: 3184216
+averageVolume: 3184216
+averageVolume10days: 3769264
+beta: 1.016
+bid: 323.1
+bidSize: 0
+boardRisk: 7
+bookValue: 94.082
+city: Gothenburg
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Lundstedt M.Sc.
+  title: CEO, President, Member of the Group Executive Board & Director
+  totalPay: 40193000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mats  Backman
+  title: Executive VP of Group Finance, CFO & Member of Group Executive Board
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kina  Wileke
+  title: Executive VP of Group Communication & Member of the Group Executive Board
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott  Rafkin
+  title: Executive VP, Chief Digital Officer & Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Roger  Alm
+  title: Executive VP, Member of Group Executive Board & President of Volvo Trucks
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Melker  Jernberg
+  title: Executive VP, Member of Group Executive Board & President of Volvo Construction
+    Equipment
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Diana  Niu
+  title: Member of Group Executive Board and Executive VP of Group People & Culture
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jens  Holtinger
+  title: Group Chief Technology Officer & Member of Group Executive Board
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nina  Aresund
+  title: Executive VP of Group Legal, Compliance, General Counsel & Secretary and
+    Member of Executive Board
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephen  Roy
+  title: Member of Executive Board, Executive VP of Volvo Group & President of Mack
+    Trucks
+  unexercisedValue: 0
+  yearBorn: 1963
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 323.2
+currentRatio: 1.111
+customPriceAlertConfidence: HIGH
+dayHigh: 324.5
+dayLow: 320.5
+debtToEquity: 140.869
+dividendRate: 8.5
+dividendYield: 2.65
+earningsCallTimestampEnd: 1792738800
+earningsCallTimestampStart: 1792738800
+earningsGrowth: 0.426
+earningsQuarterlyGrowth: 0.428
+earningsTimestamp: 1792769400
+earningsTimestampEnd: 1792769400
+earningsTimestampStart: 1792769400
+ebitda: 58197999616
+ebitdaMargins: 0.121149994
+enterpriseToEbitda: 14.919
+enterpriseToRevenue: 1.807
+enterpriseValue: 868262805504
+epsCurrentYear: 21.62448
+epsForward: 24.9
+epsTrailingTwelveMonths: 19.21
+esgPopulated: false
+exDividendDate: 1775692800
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 323.152
+fiftyDayAverageChange: 0.04800415
+fiftyDayAverageChangePercent: 0.00014854975
+fiftyTwoWeekChangePercent: 19.67213
+fiftyTwoWeekHigh: 374.5
+fiftyTwoWeekHighChange: -51.299988
+fiftyTwoWeekHighChangePercent: -0.1369826
+fiftyTwoWeekLow: 255.5
+fiftyTwoWeekLowChange: 67.70001
+fiftyTwoWeekLowChangePercent: 0.2649707
+fiftyTwoWeekRange: 255.5 - 374.5
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 2.92
+floatShares: 1942455103
+forwardEps: 24.9
+forwardPE: 12.97992
+freeCashflow: 24308750336
+fullExchangeName: Stockholm
+fullTimeEmployees: 89535
+fulldayChange: 2.0
+fulldayChangePercent: 0.622665
+fulldayPrice: 323.2
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.2473
+grossProfits: 118794002432
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0189
+heldPercentInstitutions: 0.63939
+impliedSharesOutstanding: 2033452084
+industry: Farm & Heavy Construction Machinery
+industryDisp: Farm & Heavy Construction Machinery
+industryKey: farm-heavy-construction-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1775692800
+lastDividendValue: 13.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1177545600
+lastSplitFactor: '5:1'
+longBusinessSummary: AB Volvo (publ), together with its subsidiaries, manufactures
+  and sells trucks, buses, construction equipment, and marine and industrial engines
+  in Europe, North America, South America, Asia, Africa, and Oceania. The company
+  operates through Industrial Operations - Trucks, Industrial Operations - Construction
+  Equipment, Industrial Operations - Buses, Industrial Operations - Volvo Penta, Industrial
+  Operations - Group Functions & Other, and Financial Services segments. The company
+  offers heavy-duty trucks for long-haulage and construction work, and light-duty
+  trucks for distribution purposes under the Volvo, Renault Trucks, Mack, Eicher,
+  and Dongfeng Trucks brands; and city and intercity buses, coaches, and chassis under
+  the Prevost and Volvo Bus brands. It also provides haulers, wheel loaders, excavators,
+  road construction machines, and compact equipment under the Volvo, SDLG, and Rokbak
+  brands. In addition, the company offers engines and power solutions for industrial
+  off-highway applications and power generation, as well as for leisure boats, yachts,
+  and commercial vessels under the Volvo Penta brand. Further, it provides customer
+  support agreements, machine control systems, attachments, financing, and leasing;
+  and insurance, rentals, spare parts, repairs, preventive maintenance, uptime and
+  service agreements, and assistance services. It serves customers primarily in the
+  transportation, infrastructure, construction, marine, industrial, and public transportation
+  industries. The company offers its products and services through a network of dealers.
+  AB Volvo (publ) was incorporated in 1915 and is headquartered in Gothenburg, Sweden.
+longName: AB Volvo (publ)
+market: se_market
+marketCap: 657211719680
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_312375
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 39068000256
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 653672981111
+numberOfAnalystOpinions: 20
+open: 322.8
+operatingCashflow: 51467001856
+operatingMargins: 0.10557
+overallRisk: 6
+payoutRatio: 0.4427
+pegRatio: 0.87
+phone: 46 31 66 00 00
+previousClose: 321.2
+priceEpsCurrentYear: 14.946025
+priceHint: 2
+priceToBook: 3.4353013
+priceToSalesTrailing12Months: 1.3681451
+profitMargins: 0.08133
+quickRatio: 0.811
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.28571
+region: US
+regularMarketChange: 2.0
+regularMarketChangePercent: 0.622665
+regularMarketDayHigh: 324.5
+regularMarketDayLow: 320.5
+regularMarketDayRange: 320.5 - 324.5
+regularMarketOpen: 322.8
+regularMarketPreviousClose: 321.2
+regularMarketPrice: 323.2
+regularMarketTime: 1794412456
+regularMarketVolume: 1351093
+returnOnAssets: 0.04691
+returnOnEquity: 0.21511
+revenueGrowth: 0.08
+revenuePerShare: 236.232
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 8
+sharesOutstanding: 1593308975
+shortName: Volvo, AB ser. B
+sourceInterval: 15
+symbol: VOLV-B.ST
+targetHighPrice: 450.0
+targetLowPrice: 285.0
+targetMeanPrice: 351.3
+targetMedianPrice: 352.5
+totalCash: 54648999936
+totalCashPerShare: 26.875
+totalDebt: 269654999040
+totalRevenue: 480366985216
+tradeable: false
+trailingAnnualDividendRate: 8.5
+trailingAnnualDividendYield: 0.02646326
+trailingEps: 19.21
+trailingPE: 16.824572
+trailingPegRatio: 0.8868
+triggerable: true
+twoHundredDayAverage: 328.9765
+twoHundredDayAverageChange: -5.7764893
+twoHundredDayAverageChangePercent: -0.017558971
+typeDisp: Equity
+volume: 1351093
+website: https://www.volvogroup.com
+zip: 417 15

@@ -1,0 +1,269 @@
+52WeekChange: 0.485224
+SandP52WeekChange: 0.097798586
+address1: Buddingevej 197
+allTimeHigh: 313.4
+allTimeLow: 65.44
+ask: 311.2
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 358527
+averageDailyVolume3Month: 266497
+averageVolume: 266497
+averageVolume10days: 358527
+beta: 0.823
+bid: 311.4
+bidSize: 0
+boardRisk: 1
+bookValue: 57.958
+city: Søborg
+companyOfficers:
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kasper  Fangel
+  title: Group CEO & Member of the Executive Group Management Board
+  totalPay: 16803000
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mads Romer Holm
+  title: Group Chief Financial Officer & Member of the Executive Management Board
+  totalPay: 8889000
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Signe  Adamsen
+  title: Group Workplace Development Director & Employee Elected Director
+  totalPay: 556000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rune  Christensen
+  title: Head of Legal Affairs & M&A Support and Employee Representative Director
+  totalPay: 556000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tove Møller Eriksen
+  title: Head of Optimisation & Internal Controls and Employee representative
+  totalPay: 556000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Troels  Bjerg
+  title: Group Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elizabeth Michelle Benison
+  title: Group Chief People & Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael K. Vitfell-Rasmussen
+  title: Head of Group Investor Relations
+  unexercisedValue: 0
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bjørn  Raasteen
+  title: Senior VP & Group General Counsel
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Pernille  Benborg
+  title: Group VP, Head of Group Compliance & Financial Controlling
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Denmark
+cryptoTradeable: false
+currency: DKK
+currentPrice: 311.0
+currentRatio: 0.856
+customPriceAlertConfidence: HIGH
+dayHigh: 312.2
+dayLow: 308.0
+debtToEquity: 200.733
+dividendRate: 3.2
+dividendYield: 1.03
+earningsCallTimestampEnd: 1786460400
+earningsCallTimestampStart: 1786460400
+earningsGrowth: 0.271
+earningsQuarterlyGrowth: 0.181
+earningsTimestampEnd: 1786460400
+earningsTimestampStart: 1786460400
+ebitda: 4757000192
+ebitdaMargins: 0.0542
+enterpriseToEbitda: 13.625
+enterpriseToRevenue: 0.738
+enterpriseValue: 64814514176
+epsCurrentYear: 19.50844
+epsForward: 23.13827
+epsTrailingTwelveMonths: 17.0
+esgPopulated: false
+exDividendDate: 1776384000
+exchange: CPH
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Copenhagen
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 45 38 17 00 11
+fiftyDayAverage: 291.096
+fiftyDayAverageChange: 19.903992
+fiftyDayAverageChangePercent: 0.068376034
+fiftyTwoWeekChangePercent: 48.5224
+fiftyTwoWeekHigh: 313.4
+fiftyTwoWeekHighChange: -2.399994
+fiftyTwoWeekHighChangePercent: -0.0076579256
+fiftyTwoWeekLow: 189.3
+fiftyTwoWeekLowChange: 121.7
+fiftyTwoWeekLowChangePercent: 0.64289486
+fiftyTwoWeekRange: 189.3 - 313.4
+financialCurrency: DKK
+firstTradeDateMilliseconds: 1394697600000
+fiveYearAvgDividendYield: 3.52
+floatShares: 156364446
+forwardEps: 23.13827
+forwardPE: 13.440936
+freeCashflow: 4790125056
+fullExchangeName: Copenhagen
+fullTimeEmployees: 260728
+fulldayChange: -0.6000061
+fulldayChangePercent: -0.19255652
+fulldayPrice: 311.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.91625
+grossProfits: 80422002688
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.55651003
+impliedSharesOutstanding: 152560584
+industry: Specialty Business Services
+industryDisp: Specialty Business Services
+industryKey: specialty-business-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776384000
+lastDividendValue: 3.2
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: ISS A/S operates as workplace experience and facility management
+  company in the United Kingdom, Ireland, the United States, Canada, Switzerland,
+  Germany, Australia, New Zealand, Türkiye, Spain, Denmark, and internationally. The
+  company offers space office, space plus, and space production; transportation and
+  infrastructure cleaning, food hygiene, and hospitality and cleaning services; and
+  catering, fine dining and event catering; and micro-kitchens and vending services,
+  as well as operates restaurants and pop-ups. It also provides security services
+  comprising front of house, concierge and manned guarding, video surveillance, and
+  technical services. In addition, the company offers support services, which include
+  front desk and reception, meeting and conference management, switchboards and service
+  desk, concierge, mail and courier, document, executive and administrative support,
+  and experience curation and management services. Further, the company provides energy
+  management, asset management, critical environments, and waste management services.
+  Additionally, it designs and delivers workplace strategies and solutions, such as
+  portfolio strategy, curated experience and workplace strategy, workplace and service
+  design, relocation strategy, capital projects, and mental rebuild services. It serves
+  financial and professional services, life science, and technology industries. ISS
+  A/S was founded in 1901 and is headquartered in Søborg, Denmark.
+longName: ISS A/S
+market: dk_market
+marketCap: 47446339584
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_26972979
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 2787000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 47537877974
+numberOfAnalystOpinions: 13
+open: 311.4
+operatingCashflow: 5154999808
+operatingMargins: 0.04874
+overallRisk: 1
+payoutRatio: 0.1882
+phone: 45 38 17 00 00
+previousClose: 311.6
+priceEpsCurrentYear: 15.941818
+priceHint: 2
+priceToBook: 5.365955
+priceToSalesTrailing12Months: 0.5405573
+profitMargins: 0.03175
+quickRatio: 0.782
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.61538
+region: US
+regularMarketChange: -0.6000061
+regularMarketChangePercent: -0.19255652
+regularMarketDayHigh: 312.2
+regularMarketDayLow: 308.0
+regularMarketDayRange: 308.0 - 312.2
+regularMarketOpen: 311.4
+regularMarketPreviousClose: 311.6
+regularMarketPrice: 311.0
+regularMarketTime: 1794412469
+regularMarketVolume: 134777
+returnOnAssets: 0.05294
+returnOnEquity: 0.28561002
+revenueGrowth: 0.074
+revenuePerShare: 546.545
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 152560584
+shortName: ISS A/S
+sourceInterval: 15
+symbol: ISS.CO
+targetHighPrice: 370.0
+targetLowPrice: 270.0
+targetMeanPrice: 336.53845
+targetMedianPrice: 345.0
+totalCash: 2796999936
+totalCashPerShare: 17.871
+totalDebt: 18631999488
+totalRevenue: 87773003776
+tradeable: false
+trailingAnnualDividendRate: 3.2
+trailingAnnualDividendYield: 0.010269577
+trailingEps: 17.0
+trailingPE: 18.294117
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 266.331
+twoHundredDayAverageChange: 44.669006
+twoHundredDayAverageChangePercent: 0.1677199
+typeDisp: Equity
+volume: 134777
+website: https://www.issworld.com
+zip: '2860'

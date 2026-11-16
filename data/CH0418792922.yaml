@@ -1,0 +1,213 @@
+52WeekChange: 0.22940433
+SandP52WeekChange: 0.097798586
+address1: Zugerstrasse 50
+allTimeHigh: 385.7
+allTimeLow: 4.3
+ask: 193.45
+askSize: 0
+auditRisk: 8
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 380884
+averageDailyVolume3Month: 351663
+averageVolume: 351663
+averageVolume10days: 380884
+beta: 1.283
+bid: 193.35
+bidSize: 0
+boardRisk: 2
+bookValue: 42.473
+city: Baar
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Hasler Executive MBA, M.B.A.
+  title: Chief Executive Officer
+  totalPay: 2602000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adrian  Widmer
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Jochen  Werling
+  title: Chief Digital & Information Officer
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Raffaella  Marzi
+  title: Head of Human Resources, Legal & Compliance
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 193.4
+customPriceAlertConfidence: LOW
+dayHigh: 194.6
+dayLow: 192.55
+debtToEquity: 89.155
+dividendDate: 1743379200
+dividendRate: 3.7
+dividendYield: 1.91
+earningsCallTimestampEnd: 1785252600
+earningsCallTimestampStart: 1785252600
+earningsQuarterlyGrowth: 0.062
+earningsTimestampEnd: 1771864200
+earningsTimestampStart: 1771864200
+ebitda: 1964199936
+ebitdaMargins: 0.17329
+enterpriseToEbitda: 18.628
+enterpriseToRevenue: 3.228
+enterpriseValue: 36588212224
+epsCurrentYear: 7.39436
+epsForward: 8.30657
+epsTrailingTwelveMonths: 6.48
+esgPopulated: false
+exDividendDate: 1774483200
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 41 58 436 68 50
+fiftyDayAverage: 182.929
+fiftyDayAverageChange: 10.470993
+fiftyDayAverageChangePercent: 0.05724075
+fiftyTwoWeekChangePercent: 22.940434
+fiftyTwoWeekHigh: 197.6
+fiftyTwoWeekHighChange: -4.200012
+fiftyTwoWeekHighChangePercent: -0.021255122
+fiftyTwoWeekLow: 120.35
+fiftyTwoWeekLowChange: 73.049995
+fiftyTwoWeekLowChangePercent: 0.6069796
+fiftyTwoWeekRange: 120.35 - 197.6
+financialCurrency: CHF
+firstTradeDateMilliseconds: 796892400000
+fiveYearAvgDividendYield: 1.36
+floatShares: 160184143
+forwardEps: 8.30657
+forwardPE: 23.282774
+fullExchangeName: Swiss
+fullTimeEmployees: 33700
+fulldayChange: -0.6000061
+fulldayChangePercent: -0.3092815
+fulldayPrice: 193.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.55235
+grossProfits: 6260899840
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00159
+heldPercentInstitutions: 0.49011
+impliedSharesOutstanding: 160439241
+industry: Specialty Chemicals
+industryDisp: Specialty Chemicals
+industryKey: specialty-chemicals
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1774483200
+lastDividendValue: 3.7
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1528848000
+lastSplitFactor: '60:1'
+longBusinessSummary: Sika AG, a specialty chemicals company, develops, produces, and
+  sells systems and products for bonding, sealing, damping, reinforcing, and protecting
+  in the building sector and motor vehicle industry worldwide. It offers admixtures
+  and additives for concrete, cement, and mortar production;waterproofing solutions,
+  such as flexible membrane systems, liquid-applied membranes, joint waterproofing
+  systems, waterproofing mortars, and injection resins under the SikaProof brand for
+  commercial and residential basements, tunnels, bridges, and water retaining structures;
+  and flat roofing systems, including both flexible sheet and liquid-applied membranes
+  under the Sika Sarnafil brand, as well as vapor control layers, adhesives, insulation,
+  fixation, roof drainage, and accessories. The company also provides adhesives and
+  grouts, systems for under-tile waterproofing, sound reduction, decorative finishes,
+  and exterior insulation finishing systems; flooring solutions, such as synthetic
+  resin and cementitious systems for industrial and commercial settings; and sealants,
+  adhesives, spray foams, and tapes for commercial, industrial, residential, and infrastructure
+  construction projects. It serves automobile and commercial vehicle assembly, industrial
+  lamination, renewable energy, home appliances, and advanced resins industries. The
+  company was founded in 1910 and is headquartered in Baar, Switzerland.
+longName: Sika AG
+market: ch_market
+marketCap: 31028948992
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_694958
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1061100032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 31125212754
+numberOfAnalystOpinions: 18
+open: 194.0
+operatingMargins: 0.13645001
+overallRisk: 1
+payoutRatio: 0.571
+pegRatio: 2.64
+phone: 41 58 436 68 00
+previousClose: 194.0
+priceEpsCurrentYear: 26.15507
+priceHint: 2
+priceToBook: 4.553481
+priceToSalesTrailing12Months: 2.7374458
+profitMargins: 0.09361
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -0.6000061
+regularMarketChangePercent: -0.3092815
+regularMarketDayHigh: 194.6
+regularMarketDayLow: 192.55
+regularMarketDayRange: 192.55 - 194.6
+regularMarketOpen: 194.0
+regularMarketPreviousClose: 194.0
+regularMarketPrice: 193.4
+regularMarketTime: 1794411547
+regularMarketVolume: 101413
+revenueGrowth: 0.076
+revenuePerShare: 69.809
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 1
+sharesOutstanding: 160439241
+shortName: SIKA N
+sourceInterval: 15
+symbol: SIKA.SW
+targetHighPrice: 245.0
+targetLowPrice: 159.0
+targetMeanPrice: 207.0
+targetMedianPrice: 210.0
+totalCash: 625299968
+totalCashPerShare: 3.897
+totalDebt: 6077899776
+totalRevenue: 11335000064
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 6.48
+trailingPE: 29.845678
+trailingPegRatio: 2.6779
+triggerable: false
+twoHundredDayAverage: 162.89925
+twoHundredDayAverageChange: 30.500748
+twoHundredDayAverageChangePercent: 0.18723689
+typeDisp: Equity
+volume: 101413
+website: https://www.sika.com
+zip: '6340'

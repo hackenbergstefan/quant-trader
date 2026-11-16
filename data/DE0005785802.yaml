@@ -1,0 +1,269 @@
+52WeekChange: -0.021859229
+SandP52WeekChange: 0.097798586
+address1: Else-Kröner-Strasse 1
+allTimeHigh: 93.82
+allTimeLow: 6.66
+ask: 40.66
+askSize: 1053
+auditRisk: 5
+averageAnalystRating: 3.2 - Hold
+averageDailyVolume10Day: 1207026
+averageDailyVolume3Month: 884766
+averageVolume: 884766
+averageVolume10days: 1207026
+beta: 0.794
+bid: 40.64
+bidSize: 387
+boardRisk: 6
+bookValue: 49.296
+city: Bad Homburg
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shervin J. Korangy
+  title: CEO & Chairman of the Management Board
+  totalPay: 250000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Fischer
+  title: CFO & Member of the Management Board
+  totalPay: 2180000
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jorg  Haring
+  title: Member of the Management Board, Global Head of Legal,Compliance & Human Resources
+    and Labor Director
+  totalPay: 1649000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph E. Turk Jr.
+  title: CEO of Care Enablement & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Charles  Hugh-Jones M.D.
+  title: Global Chief Medical Officer & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cassie  McLean
+  title: CEO of Care Delivery & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Dominik  Heger
+  title: Executive VP and Head of Investor Relations, Strategic Development & Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joachim  Weith
+  title: Senior Vice President of Corporate Communications & Governmental Affairs
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Gail-Suzanne  Brown
+  title: Senior Vice President of Research & Development
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Glenn  Slater
+  title: Senior Vice President of Manufacturing and Supply Chain Operations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 40.65
+currentRatio: 0.992
+customPriceAlertConfidence: LOW
+dayHigh: 41.22
+dayLow: 40.54
+debtToEquity: 79.247
+dividendRate: 1.49
+dividendYield: 3.64
+earningsCallTimestampEnd: 1793710800
+earningsCallTimestampStart: 1793710800
+earningsGrowth: -0.354
+earningsQuarterlyGrowth: -0.419
+earningsTimestamp: 1793723400
+earningsTimestampEnd: 1793723400
+earningsTimestampStart: 1793723400
+ebitda: 2697829888
+ebitdaMargins: 0.1385
+enterpriseToEbitda: 7.908
+enterpriseToRevenue: 1.095
+enterpriseValue: 21335269376
+epsCurrentYear: 4.04869
+epsForward: 3.85873
+epsTrailingTwelveMonths: 2.96
+esgPopulated: false
+exDividendDate: 1779408000
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 39.5086
+fiftyDayAverageChange: 1.1414032
+fiftyDayAverageChangePercent: 0.028889995
+fiftyTwoWeekChangePercent: -2.1859229
+fiftyTwoWeekHigh: 45.9
+fiftyTwoWeekHighChange: -5.25
+fiftyTwoWeekHighChangePercent: -0.11437908
+fiftyTwoWeekLow: 34.57
+fiftyTwoWeekLowChange: 6.080002
+fiftyTwoWeekLowChangePercent: 0.1758751
+fiftyTwoWeekRange: 34.57 - 45.9
+financialCurrency: EUR
+firstTradeDateMilliseconds: 901090800000
+fiveYearAvgDividendYield: 3.09
+floatShares: 192231562
+forwardEps: 3.85873
+forwardPE: 10.5345545
+freeCashflow: 1493011968
+fullExchangeName: XETRA
+fullTimeEmployees: 106291
+fulldayChange: -0.069999695
+fulldayChangePercent: -0.17186275
+fulldayPrice: 40.65
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.26455
+grossProfits: 5153219072
+hasPrePostMarketData: false
+heldPercentInsiders: 0.25015
+heldPercentInstitutions: 0.53411
+impliedSharesOutstanding: 259509365
+industry: Medical Care Facilities
+industryDisp: Medical Care Facilities
+industryKey: medical-care-facilities
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779408000
+lastDividendValue: 1.49
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1182124800
+lastSplitFactor: '3:1'
+longBusinessSummary: Fresenius Medical Care AG provides dialysis and related services
+  for individuals with renal diseases in Germany, the United States, and internationally.
+  The company offers dialysis treatment and related laboratory and diagnostic services
+  through a network of outpatient dialysis clinics; materials, training, and patient
+  support services comprising clinical monitoring, follow-up assistance, and arranging
+  for delivery of the supplies to the patient's residence; and dialysis services under
+  contract to hospitals in the United States for the hospitalized end-stage renal
+  disease (ESRD) patients and for patients suffering from acute kidney failure. The
+  company operates through Care Delivery and Care Enablement segments. It also develops,
+  manufactures, and distributes various health care products, including hemodialysis
+  machines, peritoneal dialysis cyclers, peritoneal dialysis solutions, hemodialysis
+  concentrates, solutions and granulates, bloodlines, renal pharmaceuticals, systems
+  for water treatment, and acute cardiopulmonary and apheresis products. In addition,
+  the company develops, acquires, and in-licenses renal pharmaceuticals; offers renal
+  medications and supplies to patients at homes or to dialysis clinics; and provides
+  vascular specialty, ambulatory surgery center, physician nephrology practice management,
+  pharmacy and other services. The company sells its products to dialysis clinics,
+  hospitals, and specialized treatment clinics, as well as through local sales forces,
+  independent distributors, dealers, and sales agents. The company was incorporated
+  in 1996 and is headquartered in Bad Homburg, Germany.
+longName: Fresenius Medical Care AG
+market: de_market
+marketCap: 10549055488
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_384522
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 822761024
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 10632098684
+numberOfAnalystOpinions: 17
+open: 40.96
+operatingCashflow: 2886429952
+operatingMargins: 0.100959994
+overallRisk: 4
+payoutRatio: 0.5
+pegRatio: 1.0
+phone: 49 6172 609 0
+prevName: Fresenius Medical Care AG & Co. KGaA
+previousClose: 40.72
+priceEpsCurrentYear: 10.040285
+priceHint: 2
+priceToBook: 0.82461053
+priceToSalesTrailing12Months: 0.54155934
+profitMargins: 0.04224
+quickRatio: 0.575
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.23529
+region: US
+regularMarketChange: -0.069999695
+regularMarketChangePercent: -0.17186275
+regularMarketDayHigh: 41.22
+regularMarketDayLow: 40.54
+regularMarketDayRange: 40.54 - 41.22
+regularMarketOpen: 40.96
+regularMarketPreviousClose: 40.72
+regularMarketPrice: 40.65
+regularMarketTime: 1794411552
+regularMarketVolume: 271643
+returnOnAssets: 0.03944
+returnOnEquity: 0.07842
+revenueGrowth: 0.011
+revenuePerShare: 71.329
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 259509365
+shortName: Fresenius Medical Care AG     I
+sourceInterval: 15
+symbol: FME.DE
+targetHighPrice: 62.0
+targetLowPrice: 29.0
+targetMeanPrice: 39.8
+targetMedianPrice: 38.0
+totalCash: 1099113984
+totalCashPerShare: 4.235
+totalDebt: 10902354944
+totalRevenue: 19479040000
+tradeable: false
+trailingAnnualDividendRate: 1.49
+trailingAnnualDividendYield: 0.036591355
+trailingEps: 2.96
+trailingPE: 13.7331085
+trailingPegRatio: 0.9979
+triggerable: false
+twoHundredDayAverage: 39.7789
+twoHundredDayAverageChange: 0.8711014
+twoHundredDayAverageChangePercent: 0.021898579
+typeDisp: Equity
+volume: 271643
+website: https://www.freseniusmedicalcare.com
+zip: '61352'

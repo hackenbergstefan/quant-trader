@@ -1,0 +1,272 @@
+52WeekChange: 0.14464724
+SandP52WeekChange: 0.097798586
+address1: 650 West Peachtree Street NW
+allTimeHigh: 358.6
+allTimeLow: 4.472222
+ask: 327.32
+askSize: 80
+auditRisk: 10
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 1127480
+averageDailyVolume3Month: 1029976
+averageVolume: 1029976
+averageVolume10days: 1127480
+beta: 1.177
+bid: 326.93
+bidSize: 80
+boardRisk: 1
+bookValue: 74.482
+city: Atlanta
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark R. George
+  title: President, CEO & Director
+  totalPay: 4234167
+  unexercisedValue: 1337542
+  yearBorn: 1968
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason A. Zampi
+  title: Executive VP & CFO
+  totalPay: 1817625
+  unexercisedValue: 16078
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anil  Bhatt
+  title: Executive VP and Chief Information & Digital Officer
+  totalPay: 1818467
+  unexercisedValue: 23653
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Claude E. Elkins Jr.
+  title: Executive VP & Chief Commercial Officer
+  totalPay: 1906059
+  unexercisedValue: 234515
+  yearBorn: 1966
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian  Barr
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Michael T. Barr
+  title: Vice President Treasurer & Investor Relations and Integrated Resource Planning
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason M. Morris
+  title: Senior Vice President & Chief Legal Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Angela D. Kolar
+  title: VP & Chief Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elizabeth  Talton-Buck
+  title: VP & Chief Communications Officer
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 319316
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ann A. Adams Ph.D.
+  title: Chief Human Resources Officer
+  totalPay: 636550
+  unexercisedValue: 30381
+  yearBorn: 1971
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 328.02
+currentRatio: 0.903
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 328.72
+dayLow: 326.18
+debtToEquity: 102.493
+displayName: Norfolk Southern
+dividendDate: 1795132800
+dividendRate: 5.4
+dividendYield: 1.65
+earningsCallTimestampEnd: 1792677600
+earningsCallTimestampStart: 1792677600
+earningsGrowth: 0.067
+earningsQuarterlyGrowth: 0.068
+earningsTimestamp: 1792672200
+earningsTimestampEnd: 1801143000
+earningsTimestampStart: 1801143000
+ebitda: 5792000000
+ebitdaMargins: 0.44681
+enterpriseToEbitda: 15.402
+enterpriseToRevenue: 6.882
+enterpriseValue: 89207545856
+epsCurrentYear: 13.03343
+epsForward: 14.52435
+epsTrailingTwelveMonths: 11.93
+esgPopulated: false
+exDividendDate: 1793923200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 324.0944
+fiftyDayAverageChange: 3.9255981
+fiftyDayAverageChangePercent: 0.012112515
+fiftyTwoWeekChangePercent: 14.464724
+fiftyTwoWeekHigh: 358.6
+fiftyTwoWeekHighChange: -30.580017
+fiftyTwoWeekHighChangePercent: -0.08527612
+fiftyTwoWeekLow: 277.8
+fiftyTwoWeekLowChange: 50.22
+fiftyTwoWeekLowChangePercent: 0.18077755
+fiftyTwoWeekRange: 277.8 - 358.6
+financialCurrency: USD
+firstTradeDateMilliseconds: 391872600000
+fiveYearAvgDividendYield: 2.01
+floatShares: 224252807
+forwardEps: 14.52435
+forwardPE: 22.584143
+freeCashflow: 1619000064
+fullExchangeName: NYSE
+fullTimeEmployees: 19300
+fulldayChange: 0.08999634
+fulldayChangePercent: 0.027443765
+fulldayPrice: 328.02
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.44681
+grossProfits: 5792000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00046
+heldPercentInstitutions: 0.77666
+impliedSharesOutstanding: 224616686
+industry: Railroads
+industryDisp: Railroads
+industryKey: railroads
+irWebsite: http://www.nscorp.com/nscportal/nscorp/Investors/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1793923200
+lastDividendValue: 1.35
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 876441600
+lastSplitFactor: '3:1'
+longBusinessSummary: Norfolk Southern Corporation, together with its subsidiaries,
+  engages in the rail transportation of raw materials, intermediate products, and
+  finished goods in the United States. The company transports agriculture, forest,
+  and consumer products comprising soybeans, wheat, corn, fertilizers, livestock and
+  poultry feed, food products, food oils, flour, sweeteners, ethanol, lumber and wood
+  products, pulp board and paper products, wood fibers, wood pulp, beverages, and
+  canned goods; chemicals, including sulfur and related chemicals, petroleum products
+  comprising crude oil, chlorine and bleaching compounds, plastics, rubber, industrial
+  chemicals, chemical wastes, sand, and natural gas liquids; metals and construction
+  materials, such as steel, aluminum products, machinery, scrap metals, cement, aggregates,
+  minerals, clay, transportation equipment, and military-related products; and automotive,
+  including finished motor vehicles and automotive parts, as well as coal. It also
+  transports overseas freight through various Atlantic and Gulf Coast ports; and operates
+  an intermodal network. Norfolk Southern Corporation was incorporated in 1980 and
+  is headquartered in Atlanta, Georgia.
+longName: Norfolk Southern Corporation
+market: us_market
+marketCap: 73678766080
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_292268
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2680999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 73658549839
+numberOfAnalystOpinions: 18
+open: 326.52
+operatingCashflow: 3783000064
+operatingMargins: 0.3368
+overallRisk: 4
+payoutRatio: 0.45259997
+pegRatio: 3.83
+phone: 855 667 3655
+previousClose: 327.93
+priceEpsCurrentYear: 25.167587
+priceHint: 2
+priceToBook: 4.404017
+priceToSalesTrailing12Months: 5.683774
+profitMargins: 0.20705
+quickRatio: 0.768
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.57143
+region: US
+regularMarketChange: 0.08999634
+regularMarketChangePercent: 0.027443765
+regularMarketDayHigh: 328.72
+regularMarketDayLow: 326.18
+regularMarketDayRange: 326.18 - 328.72
+regularMarketOpen: 326.52
+regularMarketPreviousClose: 327.93
+regularMarketPrice: 328.02
+regularMarketTime: 1794413740
+regularMarketVolume: 147294
+returnOnAssets: 0.06028
+returnOnEquity: 0.16843
+revenueGrowth: 0.136
+revenuePerShare: 57.729
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 6
+sharesOutstanding: 224616686
+sharesPercentSharesOut: 0.026300002
+sharesShort: 5903083
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7152583
+shortName: Norfolk Southern Corporation
+shortPercentOfFloat: 0.026300002
+shortRatio: 7.29
+sourceInterval: 15
+state: GA
+symbol: NSC
+targetHighPrice: 400.0
+targetLowPrice: 297.0
+targetMeanPrice: 357.44443
+targetMedianPrice: 352.5
+totalCash: 1598000000
+totalCashPerShare: 7.114
+totalDebt: 17146999808
+totalRevenue: 12963000320
+tradeable: false
+trailingAnnualDividendRate: 5.4
+trailingAnnualDividendYield: 0.016466929
+trailingEps: 11.93
+trailingPE: 27.495388
+trailingPegRatio: 3.8323
+triggerable: true
+twoHundredDayAverage: 316.6973
+twoHundredDayAverageChange: 11.322693
+twoHundredDayAverageChangePercent: 0.035752416
+typeDisp: Equity
+volume: 147294
+website: https://www.norfolksouthern.com
+zip: 30308-1925

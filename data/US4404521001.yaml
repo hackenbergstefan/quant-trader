@@ -1,0 +1,279 @@
+52WeekChange: -0.0026941895
+SandP52WeekChange: 0.097798586
+address1: 1 Hormel Place
+allTimeHigh: 55.11
+allTimeLow: 0.208984
+ask: 21.71
+askSize: 700
+auditRisk: 9
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 5223250
+averageDailyVolume3Month: 5316142
+averageVolume: 5316142
+averageVolume10days: 5223250
+beta: 0.262
+bid: 21.71
+bidSize: 300
+boardRisk: 3
+bookValue: 14.252
+city: Austin
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John F. Ghingo
+  title: President, CEO & Director
+  totalPay: 2667169
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Colleen R. Batcheler J.D.
+  title: Senior VP of External Affairs, General Counsel & Corporate Secretary
+  totalPay: 1179235
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Swen  Neufeldt
+  title: Group VP & President of Hormel Foods International
+  totalPay: 688168
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 38
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ash  Bhumbla
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1987
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul R. Kuehneman
+  title: VP, Controller, Principal Accounting Officer & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Donald  Monk
+  title: Senior VP & CTO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jess  Blomberg
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pierre M. Lilly
+  title: Senior VP & Chief Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mary Katherine Clark
+  title: Senior VP & Chief Communications Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nathan P. Annis
+  title: Vice President of Corporate Development
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 21.785
+currentRatio: 1.882
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 22.0683
+dayLow: 21.68
+debtToEquity: 36.326
+displayName: Hormel Foods
+dividendDate: 1794787200
+dividendRate: 1.17
+dividendYield: 5.27
+earningsCallTimestampEnd: 1796306400
+earningsCallTimestampStart: 1796306400
+earningsGrowth: -0.672
+earningsQuarterlyGrowth: -0.676
+earningsTimestamp: 1796304600
+earningsTimestampEnd: 1796304600
+earningsTimestampStart: 1796304600
+ebitda: 1264931968
+ebitdaMargins: 0.10414
+enterpriseToEbitda: 11.247
+enterpriseToRevenue: 1.171
+enterpriseValue: 14226178048
+epsCurrentYear: 1.48248
+epsForward: 1.56554
+epsTrailingTwelveMonths: 0.62
+esgPopulated: false
+exDividendDate: 1791849600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 20.7014
+fiftyDayAverageChange: 1.0835991
+fiftyDayAverageChangePercent: 0.05234424
+fiftyTwoWeekChangePercent: -0.26941895
+fiftyTwoWeekHigh: 26.6
+fiftyTwoWeekHighChange: -4.8150005
+fiftyTwoWeekHighChangePercent: -0.18101506
+fiftyTwoWeekLow: 18.96
+fiftyTwoWeekLowChange: 2.8250008
+fiftyTwoWeekLowChangePercent: 0.14899793
+fiftyTwoWeekRange: 18.96 - 26.6
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 3.13
+floatShares: 290744824
+forwardEps: 1.56554
+forwardPE: 13.915327
+freeCashflow: 621551616
+fullExchangeName: NYSE
+fullTimeEmployees: 20000
+fulldayChange: -0.42499924
+fulldayChangePercent: -1.9135491
+fulldayPrice: 21.785
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.15741
+grossProfits: 1912066944
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0047999998
+heldPercentInstitutions: 0.91536003
+impliedSharesOutstanding: 550350800
+industry: Packaged Foods
+industryDisp: Packaged Foods
+industryKey: packaged-foods
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=71258&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791849600
+lastDividendValue: 0.293
+lastFiscalYearEnd: 1761436800
+lastSplitDate: 1455062400
+lastSplitFactor: '2:1'
+longBusinessSummary: "Hormel Foods Corporation develops, processes, and distributes\
+  \ various meat, nut, and other food products to foodservice, convenience stores,\
+  \ and commercial customers in the United States and internationally. It operates\
+  \ through three segments: Retail, Foodservice, and International. The company provides\
+  \ perishable products, including fresh meats, frozen items, refrigerated meal solutions,\
+  \ bacon, sausages, hams, guacamole, and other items that require refrigeration,\
+  \ as well as shelf-stable products, such as canned luncheon meats, nut butters,\
+  \ snack nuts, chili, shelf-stable microwaveable meals, hash, stews, tortillas, salsas,\
+  \ tortilla chips, and other items that do not require refrigeration. It sells its\
+  \ products under the HORMEL, ALWAYS TENDER, APPLEGATE, AUSTIN BLUES, BACON 1, BLACK\
+  \ LABEL, BREAD READY, BURKE, CAFÉ H, CERATTI, CHI-CHI'S, COLUMBUS, COMPLEATS, CORN\
+  \ NUTS, CURE 81, DAN'S PRIZE, DI LUSSO, DINTY MOORE, DON MIGUEL, DOÑA MARIA, EMBASA,\
+  \ FAST \x91N EASY, FIRE BRAISED, FONTANINI, HERDEZ, HORMEL GATHERINGS, HOUSE OF\
+  \ TSANG, JENNIE-O, JUSTIN'S, LA VICTORIA, LAYOUT, LLOYD'S, MARY KITCHEN, MR. PEANUT,\
+  \ NATURAL CHOICE, NUT-RITION, OLD SMOKEHOUSE, OVEN READY, PILLOW PACK, PLANTERS,\
+  \ ROSA GRANDE, SADLER'S SMOKEHOUSE, SKIPPY, SPAM, SQUARE TABLE, SPECIAL RECIPE,\
+  \ VALLEY FRESH, and WHOLLY brands through sales personnel, independent brokers,\
+  \ and distributors. The company was formerly known as Geo. A. Hormel & Company and\
+  \ changed its name to Hormel Foods Corporation in January 1995. Hormel Foods Corporation\
+  \ was founded in 1891 and is headquartered in Austin, Minnesota."
+longName: Hormel Foods Corporation
+market: us_market
+marketCap: 11989391360
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_279042
+mostRecentQuarter: 1785024000
+netIncomeToCommon: 342711008
+nextFiscalYearEnd: 1792972800
+nonDilutedMarketCap: 12223291268
+numberOfAnalystOpinions: 8
+open: 21.94
+operatingCashflow: 1091657984
+operatingMargins: 0.08177
+overallRisk: 7
+payoutRatio: 1.8831
+pegRatio: 1.53
+phone: 507 437 5611
+previousClose: 22.21
+priceEpsCurrentYear: 14.69497
+priceHint: 2
+priceToBook: 1.5285574
+priceToSalesTrailing12Months: 0.9870321
+profitMargins: 0.028210001
+quickRatio: 0.886
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.6
+region: US
+regularMarketChange: -0.42499924
+regularMarketChangePercent: -1.9135491
+regularMarketDayHigh: 22.0683
+regularMarketDayLow: 21.68
+regularMarketDayRange: 21.68 - 22.0683
+regularMarketOpen: 21.94
+regularMarketPreviousClose: 22.21
+regularMarketPrice: 21.785
+regularMarketTime: 1794413731
+regularMarketVolume: 673968
+returnOnAssets: 0.04634
+returnOnEquity: 0.042930003
+revenueGrowth: -0.024
+revenuePerShare: 22.063
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 8
+sharesOutstanding: 550350800
+sharesPercentSharesOut: 0.0418
+sharesShort: 23015709
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 22804692
+shortName: Hormel Foods Corporation
+shortPercentOfFloat: 0.0788
+shortRatio: 4.16
+sourceInterval: 15
+state: MN
+symbol: HRL
+targetHighPrice: 28.0
+targetLowPrice: 23.0
+targetMeanPrice: 24.9375
+targetMedianPrice: 25.0
+totalCash: 868446016
+totalCashPerShare: 1.578
+totalDebt: 2855122944
+totalRevenue: 12146911232
+tradeable: false
+trailingAnnualDividendRate: 1.168
+trailingAnnualDividendYield: 0.052588925
+trailingEps: 0.62
+trailingPE: 35.137096
+trailingPegRatio: 1.5319
+triggerable: true
+twoHundredDayAverage: 22.7418
+twoHundredDayAverageChange: -0.95680046
+twoHundredDayAverageChangePercent: -0.042072326
+typeDisp: Equity
+volume: 673968
+website: https://www.hormelfoods.com
+zip: 55912-3680

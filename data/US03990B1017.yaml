@@ -1,0 +1,277 @@
+52WeekChange: -0.09291428
+SandP52WeekChange: 0.097798586
+address1: 1800 Avenue of the Stars
+address2: Suite 1400
+allTimeHigh: 200.485
+allTimeLow: 10.72
+ask: 140.66
+askSize: 100
+auditRisk: 8
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 2578780
+averageDailyVolume3Month: 2212732
+averageVolume: 2212732
+averageVolume10days: 2578780
+beta: 1.507
+bid: 140.45
+bidSize: 200
+boardRisk: 10
+bookValue: 10.415
+city: Los Angeles
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Antony Peter Ressler
+  title: Partner, Director, Co-Founder & Executive Chairman
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael J. Arougheti
+  title: Co-Founder, Partner, CEO & Director
+  totalPay: 18759532
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Blair Victor Jacobson
+  title: Partner & Co-President
+  totalPay: 16144646
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert Kipp DeVeer III
+  title: Partner, Director & Co-President
+  totalPay: 22410731
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jarrod Morgan Phillips CPA
+  title: CFO, Partner & Principal Financial and Accounting Officer
+  totalPay: 1827192
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Naseem Sera Sagati Aghili J.D.
+  title: Partner, General Counsel & Corporate Secretary
+  totalPay: 2527297
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ryan James-Barclay Berry
+  title: Partner, Chief Marketing & Strategy Officer
+  totalPay: 3888408
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William Stephen Benjamin
+  title: Partner & Vice Chairman
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Seth J. Brufsky
+  title: Partner & Vice Chair of Ares
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory A. Margolies
+  title: Partner & Vice Chair of Ares
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 140.65
+currentRatio: 0.602
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 141.91
+dayLow: 139.305
+debtToEquity: 167.167
+displayName: Ares Management
+dividendDate: 1798675200
+dividendRate: 5.4
+dividendYield: 3.87
+earningsCallTimestampEnd: 1793278800
+earningsCallTimestampStart: 1793278800
+earningsGrowth: -0.819
+earningsQuarterlyGrowth: -0.705
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitdaMargins: 0.0
+enterpriseToRevenue: 10.315
+enterpriseValue: 51375751168
+epsCurrentYear: 5.6416
+epsForward: 6.97826
+epsTrailingTwelveMonths: 1.22
+esgPopulated: false
+exDividendDate: 1797465600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 124.966
+fiftyDayAverageChange: 15.6839905
+fiftyDayAverageChangePercent: 0.12550606
+fiftyTwoWeekChangePercent: -9.291429
+fiftyTwoWeekHigh: 181.19
+fiftyTwoWeekHighChange: -40.54001
+fiftyTwoWeekHighChangePercent: -0.22374308
+fiftyTwoWeekLow: 95.8
+fiftyTwoWeekLowChange: 44.84999
+fiftyTwoWeekLowChangePercent: 0.46816272
+fiftyTwoWeekRange: 95.8 - 181.19
+financialCurrency: USD
+firstTradeDateMilliseconds: 1399037400000
+fiveYearAvgDividendYield: 2.74
+floatShares: 219938669
+forwardEps: 6.97826
+forwardPE: 20.155453
+fullExchangeName: NYSE
+fullTimeEmployees: 4393
+fulldayChange: 1.2399902
+fulldayChangePercent: 0.88945574
+fulldayPrice: 140.65
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 1.0
+grossProfits: 4980667904
+hasPrePostMarketData: true
+heldPercentInsiders: 0.11156
+heldPercentInstitutions: 0.94699997
+impliedSharesOutstanding: 331956235
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789516800
+lastDividendValue: 1.35
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Ares Management Corporation operates as an alternative asset
+  manager. Its Direct Lending Group segment provides financing solutions to small-to-medium
+  sized companies. The company's Private Equity Group segment specializes in early
+  venture, turnaround, mid venture, late venture, recapitalization, growth capital,
+  middle market, mezzanine, distressed and growth buyouts. The firm seeks to invest
+  in healthcare, services, energy, industrials and consumer. The firm seeks to takes
+  majority, minority and shared-control investments primarily in under-capitalized
+  companies in North America, Europe, Asia Pacific, Southeast Asia and Australia.
+  Its Real Estate Group segment invests in new developments and the repositioning
+  of assets, with a focus on control or majority-control investments; and originates
+  and invests in a range of self-originated financing opportunities for middle-market
+  owners and operators of commercial real estate. The firm prefers to invest between
+  $1 million and $500 million in companies having EBITDA between $10 million and $250
+  million and debt investment value between $10 million and $100 million. Ares Management
+  Corporation was founded in 1997 and is based in Los Angeles, California with additional
+  offices in North America, Europe and Asia.
+longName: Ares Management Corporation
+market: us_market
+marketCap: 46689640448
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_44707236
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 281732000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 31733611254
+numberOfAnalystOpinions: 20
+open: 139.77
+operatingCashflow: -514876000
+operatingMargins: 0.07182
+overallRisk: 10
+payoutRatio: 4.2377
+pegRatio: 1.03
+phone: 310 201 4100
+previousClose: 139.41
+priceEpsCurrentYear: 24.930868
+priceHint: 2
+priceToBook: 13.50456
+priceToSalesTrailing12Months: 9.374172
+profitMargins: 0.086899996
+quickRatio: 0.53
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.95
+region: US
+regularMarketChange: 1.2399902
+regularMarketChangePercent: 0.88945574
+regularMarketDayHigh: 141.91
+regularMarketDayLow: 139.305
+regularMarketDayRange: 139.305 - 141.91
+regularMarketOpen: 139.77
+regularMarketPreviousClose: 139.41
+regularMarketPrice: 140.65
+regularMarketTime: 1794413684
+regularMarketVolume: 248593
+returnOnAssets: 0.03384
+returnOnEquity: 0.11063
+revenueGrowth: -0.187
+revenuePerShare: 22.159
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 224138030
+sharesPercentSharesOut: 0.066700004
+sharesShort: 15175999
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 15483969
+shortName: Ares Management Corporation
+shortPercentOfFloat: 0.14130001
+shortRatio: 6.74
+sourceInterval: 15
+state: CA
+symbol: ARES
+targetHighPrice: 171.0
+targetLowPrice: 129.0
+targetMeanPrice: 146.55
+targetMedianPrice: 142.5
+totalCash: 1762460032
+totalCashPerShare: 7.743
+totalDebt: 14876133376
+totalRevenue: 4980667904
+tradeable: false
+trailingAnnualDividendRate: 5.17
+trailingAnnualDividendYield: 0.03708486
+trailingEps: 1.22
+trailingPE: 115.28688
+trailingPegRatio: 1.0328
+triggerable: true
+twoHundredDayAverage: 123.81335
+twoHundredDayAverageChange: 16.836647
+twoHundredDayAverageChangePercent: 0.13598411
+typeDisp: Equity
+volume: 248593
+website: https://www.ares.com
+zip: '90067'

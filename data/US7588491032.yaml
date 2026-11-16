@@ -1,0 +1,264 @@
+52WeekChange: 0.09342861
+SandP52WeekChange: 0.097798586
+address1: One Independent Drive
+address2: Suite 114
+allTimeHigh: 93.49
+allTimeLow: 15.125
+ask: 82.35
+askSize: 2
+auditRisk: 6
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 1440240
+averageDailyVolume3Month: 1272457
+averageVolume: 1272457
+averageVolume10days: 1440240
+beta: 0.817
+bid: 70.0
+bidSize: 2
+boardRisk: 8
+bookValue: 36.114
+city: Jacksonville
+companyOfficers:
+- age: 72
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin E. Stein Jr.
+  title: Non Independent Executive Chairman of the Board
+  totalPay: 540828
+  unexercisedValue: 0
+  yearBorn: 1953
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lisa  Palmer
+  title: President, CEO & Director
+  totalPay: 3993334
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael J. Mas CPA
+  title: Executive VP & CFO
+  totalPay: 2193074
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alan Todd Roth
+  title: President of East Region & COO
+  totalPay: 1583938
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nicholas Andrew Wibbenmeyer
+  title: President of West Region & Chief Investment Officer
+  totalPay: 1576970
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Terah L. Devereaux
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kathryn  McKie
+  title: VP of Investor Relations & Corporate Analysis
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael R. Herman J.D.
+  title: Senior VP, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jan X. Hanak
+  title: Senior VP of Marketing & Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amy  D'Olimpio
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 75.605
+currentRatio: 1.137
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 76.32
+dayLow: 75.575
+debtToEquity: 72.246
+displayName: Regency Centers
+dividendDate: 1799107200
+dividendRate: 3.2
+dividendYield: 4.18
+earningsCallTimestampEnd: 1793980800
+earningsCallTimestampStart: 1793980800
+earningsGrowth: -0.293
+earningsQuarterlyGrowth: -0.282
+earningsTimestamp: 1793912400
+earningsTimestampEnd: 1801774800
+earningsTimestampStart: 1801774800
+ebitda: 1093933056
+ebitdaMargins: 0.63754004
+enterpriseToEbitda: 17.793
+enterpriseToRevenue: 11.344
+enterpriseValue: 19464345600
+epsCurrentYear: 2.48913
+epsForward: 2.49977
+epsTrailingTwelveMonths: 2.79
+esgPopulated: false
+exDividendDate: 1797206400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 73.7102
+fiftyDayAverageChange: 1.8948059
+fiftyDayAverageChangePercent: 0.025706157
+fiftyTwoWeekChangePercent: 9.342861
+fiftyTwoWeekHigh: 83.66
+fiftyTwoWeekHighChange: -8.055
+fiftyTwoWeekHighChangePercent: -0.09628257
+fiftyTwoWeekLow: 66.86
+fiftyTwoWeekLowChange: 8.745003
+fiftyTwoWeekLowChangePercent: 0.13079573
+fiftyTwoWeekRange: 66.86 - 83.66
+financialCurrency: USD
+firstTradeDateMilliseconds: 751901400000
+fiveYearAvgDividendYield: 3.92
+floatShares: 164374085
+forwardEps: 2.49977
+forwardPE: 30.244785
+freeCashflow: 751929472
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 503
+fulldayChange: -0.93499756
+fulldayChangePercent: -1.2215803
+fulldayPrice: 75.605
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.71497
+grossProfits: 1226785024
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0064700004
+heldPercentInstitutions: 1.04084
+impliedSharesOutstanding: 186963266
+industry: REIT - Retail
+industryDisp: REIT - Retail
+industryKey: reit-retail
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1789084800
+lastDividendValue: 0.755
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Regency Centers Corporation is a pre-eminent national owner,
+  operator, and developer of shopping centers located in suburban trade areas with
+  compelling demographics. Our portfolio includes thriving properties merchandised
+  with highly productive grocers, restaurants, service providers, and best-in-class
+  retailers that connect to their neighborhoods, communities, and customers. Operating
+  as a fully integrated real estate company, Regency Centers is a qualified real estate
+  investment trust (REIT) that is self-administered, self-managed, and an S&P 500
+  Index member. Regency Centers Corporation was incorporated in 1963 and is based
+  in Jacksonville, Florida.
+longName: Regency Centers Corporation
+market: us_market
+marketCap: 14135358464
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_816889
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 511680000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 14016046667
+numberOfAnalystOpinions: 18
+open: 76.1
+operatingCashflow: 858144000
+operatingMargins: 0.39962003
+overallRisk: 1
+payoutRatio: 1.0824
+pegRatio: 2.61
+phone: 904 598 7000
+previousClose: 76.54
+priceEpsCurrentYear: 30.374067
+priceHint: 2
+priceToBook: 2.0935097
+priceToSalesTrailing12Months: 8.238074
+profitMargins: 0.30616
+quickRatio: 1.041
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.05
+region: US
+regularMarketChange: -0.93499756
+regularMarketChangePercent: -1.2215803
+regularMarketDayHigh: 76.32
+regularMarketDayLow: 75.575
+regularMarketDayRange: 75.575 - 76.32
+regularMarketOpen: 76.1
+regularMarketPreviousClose: 76.54
+regularMarketPrice: 75.605
+regularMarketTime: 1794413737
+regularMarketVolume: 166616
+returnOnAssets: 0.03282
+returnOnEquity: 0.07666
+revenueGrowth: 0.075
+revenuePerShare: 9.377
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 1
+sharesOutstanding: 183125078
+sharesPercentSharesOut: 0.039300002
+sharesShort: 7191579
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 6637442
+shortName: Regency Centers Corporation
+shortPercentOfFloat: 0.0531
+shortRatio: 5.8
+sourceInterval: 15
+state: FL
+symbol: REG
+targetHighPrice: 94.0
+targetLowPrice: 76.0
+targetMeanPrice: 84.27778
+targetMedianPrice: 84.5
+totalCash: 144082000
+totalCashPerShare: 0.789
+totalDebt: 5126384128
+totalRevenue: 1715857024
+tradeable: false
+trailingAnnualDividendRate: 3.02
+trailingAnnualDividendYield: 0.039456494
+trailingEps: 2.79
+trailingPE: 27.098568
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 76.84745
+twoHundredDayAverageChange: -1.2424469
+twoHundredDayAverageChangePercent: -0.016167704
+typeDisp: Equity
+volume: 166616
+website: https://www.regencycenters.com
+zip: 32202-5019

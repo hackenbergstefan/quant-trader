@@ -1,0 +1,259 @@
+52WeekChange: 0.33101857
+SandP52WeekChange: 0.097798586
+address1: Westhaven House
+address2: Arleston Way Shirley
+allTimeHigh: 3345.0
+allTimeLow: 17.5619
+ask: 2930.0
+askSize: 0
+auditRisk: 3
+averageDailyVolume10Day: 167961
+averageDailyVolume3Month: 213640
+averageVolume: 213640
+averageVolume10days: 167961
+beta: 1.248
+bid: 2925.0
+bidSize: 0
+boardRisk: 5
+bookValue: 5.8413343
+city: Solihull
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rutger Albert Helbing
+  title: CEO, Member of Executive Board & Director
+  totalPay: 1589576
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher Mark McLeish A.C.A., B.Sc.
+  title: CFO, Member of Executive Board & Executive Director
+  totalPay: 795858
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joel  Whitehouse
+  title: Corporate Development Director & Member of Executive Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tim  Tehan
+  title: Member of Executive Board & Group President of US
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Lucinda  Farrington-Parker
+  title: Group Head of Sustainability
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark  Else
+  title: Group Financial Controller
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karen Lorraine Atterbury
+  title: Group Company Secretary
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark A. Tonks
+  title: Managing Director of Hill & Smith Ltd and Varley & Gulliver Ltd
+  unexercisedValue: 0
+  yearBorn: 1963
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: HILS.L announced a cash dividend of GBp 0.25 with an ex-date of Nov. 26,
+    2026
+  meta:
+    amount: '0.25'
+    dateEpochMs: 1795651200000
+    eventType: DIVIDEND
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 2925.0
+currentRatio: 2.041
+customPriceAlertConfidence: LOW
+dayHigh: 2950.0
+dayLow: 2905.0
+debtToEquity: 41.036
+dividendRate: 0.53
+dividendYield: 1.84
+earningsCallTimestampEnd: 1786526100
+earningsCallTimestampStart: 1786526100
+earningsGrowth: -0.209
+earningsQuarterlyGrowth: -0.223
+earningsTimestamp: 1786548600
+earningsTimestampEnd: 1786548600
+earningsTimestampStart: 1786548600
+ebitda: 228667008
+ebitdaMargins: 0.19082001
+enterpriseToEbitda: 10.705
+enterpriseToRevenue: 2.043
+enterpriseValue: 2447899904
+epsCurrentYear: 1.41829
+epsForward: 1.56416
+epsTrailingTwelveMonths: 0.88
+esgPopulated: false
+exDividendDate: 1795651200
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fax: 44 12 1704 7439
+fiftyDayAverage: 3009.2
+fiftyDayAverageChange: -84.19995
+fiftyDayAverageChangePercent: -0.027980844
+fiftyTwoWeekChangePercent: 33.101856
+fiftyTwoWeekHigh: 3345.0
+fiftyTwoWeekHighChange: -420.0
+fiftyTwoWeekHighChangePercent: -0.12556054
+fiftyTwoWeekLow: 1994.0
+fiftyTwoWeekLowChange: 931.0
+fiftyTwoWeekLowChangePercent: 0.4669007
+fiftyTwoWeekRange: 1994.0 - 3345.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 2.17
+floatShares: 79028928
+forwardEps: 1.56416
+forwardPE: 18.700132
+freeCashflow: 85964600
+fullExchangeName: LSE
+fullTimeEmployees: 5000
+fulldayChange: 50.0
+fulldayChangePercent: 1.7391304
+fulldayPrice: 2925.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.40392
+grossProfits: 484019552
+hasPrePostMarketData: false
+heldPercentInsiders: 0.01875
+heldPercentInstitutions: 0.65734
+impliedSharesOutstanding: 77540282
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1795651200
+lastDividendValue: 0.25
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 828316800
+lastSplitFactor: '16:15'
+longBusinessSummary: Hill & Smith PLC manufactures and supplies infrastructure products
+  in the United Kingdom, the rest of Europe, North America, the Middle East, the rest
+  of Asia, and internationally. It operates through US Engineered Solutions, UK &
+  India Engineered Solutions, and Galvanizing Services segments. The US Engineered
+  Solutions segment provides composite and steel solutions for infrastructure construction,
+  such as energy transmission and distribution, data centres, waterfront protection,
+  transportation, and other industrial facilities, engineered support for water, power,
+  and liquid natural gas markets, seismic protection solutions for road work zone
+  safety products, and off-grid solar lighting and power solutions. The UK & India
+  Engineered Solutions segment offers hostile vehicle mitigation and off-grid solar
+  lighting solutions for energy markets. The Galvanizing Services segment offers hot-dip
+  galvanizing and powder coating services, increasing the sustainability and maintenance-free
+  life of steel products, such as structural steelwork, lighting, bridges, and other
+  products for infrastructure and construction end markets. It also offers fiber reinforced
+  polymer composite solutions; electrical transmission and distribution substation
+  structures; temporary and permanent road safety barriers, vehicle restraint systems,
+  security solutions, bridge parapets, and retained earth systems; engineered pipe
+  support and ancillary; lighting columns and traffic safety; vibration and seismic
+  control; and hostile vehicle mitigation perimeter security; solar light towers,
+  message signs, and other construction equipment; perimeter security solutions; galvanized
+  lintels, construction fittings, composite doors, builders' metalwork, and plasterers'
+  accessories; and open steel flooring, and handrailing. It was formerly known as
+  Hill & Smith Holdings PLC and changed its name to Hill & Smith PLC in November 2022.
+  The company was founded in 1824 and is based in Solihull, the United Kingdom.
+longName: Hill & Smith PLC
+market: gb_market
+marketCap: 2268053248
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_877851
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 95760008
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 2229283107
+numberOfAnalystOpinions: 9
+open: 2920.0
+operatingCashflow: 151710496
+operatingMargins: 0.1552
+overallRisk: 3
+payoutRatio: 0.6029
+phone: 44 12 1704 7430
+prevName: Hill & Smith Holdings PLC
+previousClose: 2875.0
+priceEpsCurrentYear: 2062.3428
+priceHint: 2
+priceToBook: 5.0074177
+priceToSalesTrailing12Months: 1.8927045
+profitMargins: 0.07991
+quickRatio: 1.45
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 50.0
+regularMarketChangePercent: 1.7391304
+regularMarketDayHigh: 2950.0
+regularMarketDayLow: 2905.0
+regularMarketDayRange: 2905.0 - 2950.0
+regularMarketOpen: 2920.0
+regularMarketPreviousClose: 2875.0
+regularMarketPrice: 2925.0
+regularMarketTime: 1794411550
+regularMarketVolume: 43563
+returnOnAssets: 0.105059996
+returnOnEquity: 0.15045
+revenueGrowth: 0.081
+revenuePerShare: 15.045
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 77540282
+shortName: HILL & SMITH PLC ORD 25P
+sourceInterval: 15
+symbol: HILS.L
+targetHighPrice: 4000.0
+targetLowPrice: 2600.0
+targetMeanPrice: 3342.667
+targetMedianPrice: 3343.9998
+totalCash: 83400000
+totalCashPerShare: 1.053
+totalDebt: 254300000
+totalRevenue: 1198313472
+tradeable: false
+trailingAnnualDividendRate: 0.719
+trailingAnnualDividendYield: 0.00025008695
+trailingEps: 0.88
+trailingPE: 33.238636
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 2705.95
+twoHundredDayAverageChange: 219.05005
+twoHundredDayAverageChangePercent: 0.08095126
+typeDisp: Equity
+volume: 43563
+website: https://www.hsgroup.com
+zip: B90 4LH

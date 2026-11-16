@@ -1,0 +1,275 @@
+52WeekChange: 0.2986827
+SandP52WeekChange: 0.097798586
+address1: 8150 Maple Lawn Boulevard
+address2: Suite 300
+allTimeHigh: 1057.0
+allTimeLow: 4.98
+ask: 301.05
+askSize: 120
+auditRisk: 7
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 3660830
+averageDailyVolume3Month: 2888825
+averageVolume: 2888825
+averageVolume10days: 3660830
+beta: 1.351
+bid: 300.67
+bidSize: 80
+boardRisk: 1
+bookValue: 21.542
+city: Fulton
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gary B. Smith
+  title: CEO, President & Director
+  totalPay: 3892858
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc D. Graff
+  title: Senior VP & CFO
+  totalPay: 2511306
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason M. Phipps
+  title: Senior Vice President of Global Customer Engagement
+  totalPay: 1586935
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dino  DiPerna
+  title: Senior Vice President of Global Research & Development
+  totalPay: 1226989
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David M. Rothenstein J.D.
+  title: Senior VP, Chief Strategy Officer & Corporate Secretary
+  totalPay: 1375068
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brodie  Gage
+  title: Chief Product and Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregg M. Lampf
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sheela  Kosaraju
+  title: Senior VP & Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rebecca  Smith
+  title: Senior VP of Global Marketing & Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Monika  Fahlbusch
+  title: Executive VP & Chief People Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 297.375
+currentRatio: 3.797
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 301.16
+dayLow: 286.0
+debtToEquity: 107.496
+displayName: Ciena
+dividendYield: 0.0
+earningsCallTimestampEnd: 1788438600
+earningsCallTimestampStart: 1788438600
+earningsGrowth: 4.229
+earningsQuarterlyGrowth: 4.296
+earningsTimestamp: 1788438600
+earningsTimestampEnd: 1796909400
+earningsTimestampStart: 1796909400
+ebitda: 1025539008
+ebitdaMargins: 0.17033
+enterpriseToEbitda: 38.265
+enterpriseToRevenue: 6.518
+enterpriseValue: 39241973760
+epsCurrentYear: 7.16563
+epsForward: 11.86283
+epsTrailingTwelveMonths: 4.47
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 346.4786
+fiftyDayAverageChange: -49.103607
+fiftyDayAverageChangePercent: -0.1417219
+fiftyTwoWeekChangePercent: 29.868269
+fiftyTwoWeekHigh: 637.51
+fiftyTwoWeekHighChange: -340.135
+fiftyTwoWeekHighChangePercent: -0.53353673
+fiftyTwoWeekLow: 168.22
+fiftyTwoWeekLowChange: 129.155
+fiftyTwoWeekLowChangePercent: 0.76777434
+fiftyTwoWeekRange: 168.22 - 637.51
+financialCurrency: USD
+firstTradeDateMilliseconds: 855325800000
+floatShares: 141170387
+forwardEps: 11.86283
+forwardPE: 25.067795
+freeCashflow: 633368384
+fullExchangeName: NYSE
+fullTimeEmployees: 8898
+fulldayChange: 25.274994
+fulldayChangePercent: 9.288862
+fulldayPrice: 297.375
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.44072
+grossProfits: 2653518080
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0056
+heldPercentInstitutions: 0.95448
+impliedSharesOutstanding: 141808525
+industry: Communication Equipment
+industryDisp: Communication Equipment
+industryKey: communication-equipment
+irWebsite: http://investor.ciena.com/
+isEarningsDateEstimate: true
+language: en-US
+lastFiscalYearEnd: 1761955200
+lastSplitDate: 1159142400
+lastSplitFactor: '1:7'
+longBusinessSummary: Ciena Corporation, a network technology company, provides hardware,
+  software, and services for various network operators in the Americas, Europe, the
+  Middle East, Africa, the Asia Pacific, Japan, and India. It operates through Networking
+  Platforms, Platform Software and Services, Blue Planet Automation Software and Services,
+  and Global Services segments. The Networking Platforms segment consists optical
+  networking, routing, and switching products and services. This segment products
+  include the 6500 Packet-Optical Platform, Waveserver modular interconnect system,
+  the 6500 Reconfigurable Line System, and coherent pluggable transceivers; and the
+  3000 family of service delivery platforms and the 5000 family of service aggregation,
+  as well as the 8100 Coherent Routing platforms and virtualization software. The
+  Platform Software and Services segment offers navigator network control suite; and
+  software subscription services, consulting, network migration and integration, installation
+  and upgrade support services, and technical support solutions. The Blue Planet Automation
+  Software and Services segment inventory management, orchestration, route optimization
+  and analysis, and unified assurance and analytics software; and sells subscription,
+  installation, support, consulting, and design services related to the Blue Planet
+  automation platform. The Global Services segment provides services for advisory
+  and enablement, implementation, and maintenance, support, and learning activities.
+  Ciena Corporation was incorporated in 1992 and is headquartered in Fulton, Maryland.
+longName: Ciena Corporation
+market: us_market
+marketCap: 42170310656
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_26486
+mostRecentQuarter: 1785542400
+netIncomeToCommon: 654409984
+nextFiscalYearEnd: 1793491200
+nonDilutedMarketCap: 38586099652
+numberOfAnalystOpinions: 20
+open: 295.215
+operatingCashflow: 1054683008
+operatingMargins: 0.14125
+overallRisk: 4
+payoutRatio: 0.0
+pegRatio: 0.27
+phone: 410 694 5700
+previousClose: 272.1
+priceEpsCurrentYear: 41.50019
+priceHint: 2
+priceToBook: 13.804429
+priceToSalesTrailing12Months: 7.0039945
+profitMargins: 0.10869
+quickRatio: 2.904
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.66667
+region: US
+regularMarketChange: 25.274994
+regularMarketChangePercent: 9.288862
+regularMarketDayHigh: 301.16
+regularMarketDayLow: 286.0
+regularMarketDayRange: 286.0 - 301.16
+regularMarketOpen: 295.215
+regularMarketPreviousClose: 272.1
+regularMarketPrice: 297.375
+regularMarketTime: 1794413729
+regularMarketVolume: 1384761
+returnOnAssets: 0.07734
+returnOnEquity: 0.22396
+revenueGrowth: 0.37
+revenuePerShare: 42.381
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 7
+sharesOutstanding: 141808525
+sharesPercentSharesOut: 0.0275
+sharesShort: 3905235
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3868972
+shortName: Ciena Corporation
+shortPercentOfFloat: 0.0433
+shortRatio: 1.25
+sourceInterval: 15
+state: MD
+symbol: CIEN
+targetHighPrice: 660.0
+targetLowPrice: 347.0
+targetMeanPrice: 512.9907
+targetMedianPrice: 536.5
+totalCash: 2630000896
+totalCashPerShare: 18.546
+totalDebt: 3285876992
+totalRevenue: 6020894208
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 4.47
+trailingPE: 66.52685
+trailingPegRatio: 0.2723
+triggerable: true
+twoHundredDayAverage: 406.07834
+twoHundredDayAverageChange: -108.70334
+twoHundredDayAverageChangePercent: -0.26769057
+typeDisp: Equity
+volume: 1384761
+website: https://www.ciena.com
+zip: '20759'

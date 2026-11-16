@@ -1,0 +1,285 @@
+52WeekChange: 0.49585044
+SandP52WeekChange: 0.097798586
+address1: 7575 West Jefferson Boulevard
+allTimeHigh: 288.74
+allTimeLow: 2.0625
+ask: 252.0
+askSize: 1
+auditRisk: 4
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 1042720
+averageDailyVolume3Month: 1059606
+averageVolume: 1059606
+averageVolume10days: 1042720
+beta: 1.443
+bid: 223.25
+bidSize: 1
+boardRisk: 4
+bookValue: 69.092
+city: Fort Wayne
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark D. Millett
+  title: Co-Founder, Chairman & CEO
+  totalPay: 6964502
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Theresa E. Wagler
+  title: Executive VP, CFO, Company Secretary & Director
+  totalPay: 3874126
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Barry T. Schneider
+  title: Executive VP & CTO
+  totalPay: 4211543
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher A. Graham
+  title: Executive VP & COO of Flat Rolled Steel Operations
+  totalPay: 2165337
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David A. Lipschitz
+  title: Investor Relations Director
+  unexercisedValue: 0
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James S. Anderson
+  title: Executive VP & COO of Construction Products Operations
+  unexercisedValue: 0
+  yearBorn: 1961
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeff  Hansen
+  title: Senior Vice President of Environmental Sustainability & Energy
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Miguel  Alvarez
+  title: Executive VP and COO of Aluminum Flat Rolled Products & Metals Recycling
+    Operations
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chad  Bickford
+  title: Senior Vice President of Steel Fabrication
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William T. Scruggs
+  title: Senior Vice President of Flat Rolled Commercial & Processing
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 238.04
+currentRatio: 3.145
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 240.0
+dayLow: 235.795
+debtToEquity: 45.123
+displayName: Steel Dynamics
+dividendDate: 1791504000
+dividendRate: 2.12
+dividendYield: 0.9
+earningsCallTimestampEnd: 1792508400
+earningsCallTimestampStart: 1792508400
+earningsGrowth: 0.92
+earningsQuarterlyGrowth: 0.873
+earningsTimestamp: 1792440000
+earningsTimestampEnd: 1800910800
+earningsTimestampStart: 1800910800
+ebitda: 3209409024
+ebitdaMargins: 0.14444
+enterpriseToEbitda: 11.529
+enterpriseToRevenue: 1.665
+enterpriseValue: 37001744384
+epsCurrentYear: 17.49576
+epsForward: 21.40102
+epsTrailingTwelveMonths: 13.54
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 238.3018
+fiftyDayAverageChange: -0.2618103
+fiftyDayAverageChangePercent: -0.0010986502
+fiftyTwoWeekChangePercent: 49.585045
+fiftyTwoWeekHigh: 288.74
+fiftyTwoWeekHighChange: -50.699997
+fiftyTwoWeekHighChangePercent: -0.17559049
+fiftyTwoWeekLow: 151.21
+fiftyTwoWeekLowChange: 86.82999
+fiftyTwoWeekLowChangePercent: 0.57423437
+fiftyTwoWeekRange: 151.21 - 288.74
+financialCurrency: USD
+firstTradeDateMilliseconds: 848673000000
+fiveYearAvgDividendYield: 1.29
+floatShares: 132488389
+forwardEps: 21.40102
+forwardPE: 11.122834
+freeCashflow: 429926752
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 14400
+fulldayChange: 1.9199982
+fulldayChangePercent: 0.8131451
+fulldayPrice: 238.04
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.15904
+grossProfits: 3533775104
+hasPrePostMarketData: true
+heldPercentInsiders: 0.065809995
+heldPercentInstitutions: 0.86433
+impliedSharesOutstanding: 142217487
+industry: Steel
+industryDisp: Steel
+industryKey: steel
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 0.53
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1206921600
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Steel Dynamics, Inc., together with its subsidiaries, operates
+  as a steel producer and metal recycler in the United States. It operates through
+  four segments: Steel Operations, Metals Recycling Operations, Steel Fabrication
+  Operations, and Aluminum Operations. The Steel Operations segment offers hot rolled,
+  cold rolled, and coated steel products; parallel flange beams and channel sections,
+  large unequal leg angles, and reinforcing steel bars, standard strength carbon,
+  intermediate alloy hardness, and premium grade rail products; engineered special-bar-quality
+  products, merchant-bar-quality products, and other engineered round steel bars;
+  channels, angles, flats, merchant rounds, and reinforcing steel bars; and specialty
+  shapes and light structural steel products. This segment also engages in turning,
+  polishing, straightening, chamfering, precision saw-cutting, and heat treating of
+  bar products. Its products are used in construction, automotive, manufacturing,
+  transportation, heavy and agricultural equipment, energy, and pipe and tube markets.
+  The Metals Recycling Operations segment is involved in the ferrous and nonferrous
+  scrap metal processing, transportation, marketing, brokerage, and scrap management
+  services. Its ferrous products include heavy melting steel, busheling, bundled scrap,
+  shredded scrap, steel turnings, and cast-iron products; and nonferrous products
+  comprise aluminum, brass, copper, stainless steel, and other nonferrous metals.
+  The Steel Fabrication Operations segment produces steel non-residential building
+  components, such as steel joists, joist girders, and steel deck products for non-residential
+  steel fabricators, metal building companies, general construction contractors, developers,
+  property owners, brokers, and governmental entities. The Aluminum Operations segment
+  offers recycled aluminum flat rolled products. The company also exports its products.
+  Steel Dynamics, Inc. was incorporated in 1993 and is headquartered in Fort Wayne,
+  Indiana.'
+longName: Steel Dynamics, Inc.
+market: us_market
+marketCap: 33853450240
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_34768
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1959555968
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 33580393030
+numberOfAnalystOpinions: 14
+open: 239.1
+operatingCashflow: 1694758016
+operatingMargins: 0.114989996
+overallRisk: 3
+payoutRatio: 0.15439999
+pegRatio: 11.95
+phone: 260 969 3500
+previousClose: 236.12
+priceEpsCurrentYear: 13.605582
+priceHint: 2
+priceToBook: 3.4452612
+priceToSalesTrailing12Months: 1.5235656
+profitMargins: 0.088190004
+quickRatio: 1.324
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: 1.9199982
+regularMarketChangePercent: 0.8131451
+regularMarketDayHigh: 240.0
+regularMarketDayLow: 235.795
+regularMarketDayRange: 235.795 - 240.0
+regularMarketOpen: 239.1
+regularMarketPreviousClose: 236.12
+regularMarketPrice: 238.04
+regularMarketTime: 1794413613
+regularMarketVolume: 93160
+returnOnAssets: 0.09449001
+returnOnEquity: 0.20812
+revenueGrowth: 0.348
+revenuePerShare: 153.927
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 3
+sharesOutstanding: 142217487
+sharesPercentSharesOut: 0.026300002
+sharesShort: 3740099
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4017745
+shortName: Steel Dynamics, Inc.
+shortPercentOfFloat: 0.0332
+shortRatio: 3.83
+sourceInterval: 15
+state: IN
+symbol: STLD
+targetHighPrice: 310.0
+targetLowPrice: 205.45
+targetMeanPrice: 272.675
+targetMedianPrice: 273.5
+totalCash: 928558016
+totalCashPerShare: 6.529
+totalDebt: 4412827136
+totalRevenue: 22219882496
+tradeable: false
+trailingAnnualDividendRate: 2.09
+trailingAnnualDividendYield: 0.008851431
+trailingEps: 13.54
+trailingPE: 17.580502
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 225.9401
+twoHundredDayAverageChange: 12.099899
+twoHundredDayAverageChangePercent: 0.053553574
+typeDisp: Equity
+volume: 93160
+website: https://www.steeldynamics.com
+zip: '46804'

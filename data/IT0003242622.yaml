@@ -1,0 +1,250 @@
+52WeekChange: 0.077435136
+SandP52WeekChange: 0.097798586
+address1: Viale Egidio Galbani, 70
+allTimeHigh: 10.41
+allTimeLow: 1.705
+ask: 9.722
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 3504232
+averageDailyVolume3Month: 3620249
+averageVolume: 3620249
+averageVolume10days: 3504232
+beta: 0.609
+bid: 9.718
+bidSize: 0
+boardRisk: 1
+bookValue: 2.964
+city: Rome
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Pasqualino  Monti
+  title: CEO, GM & Director
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 52
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Francesco  Beccali dipl.ecc.
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Fabrizio  Ragnacci
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Giacomo  Aiello
+  title: Executive VP of Legal & General Affairs
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 49
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Giovanni Antonio Macchiarola
+  title: Director of Public Affairs & Communication
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 57
+  exercisedValue: 0
+  maxAge: 1
+  name: Ms. Monica  Cacciapuoti
+  title: Director of Human Resources & Organization
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 56
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Francesco  Del Pizzo
+  title: Executive Vice President of Grid Development Strategies & Dispatching
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 55
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Pier Francesco Zanuzzi
+  title: Executive Vice President of National Transmission Grid
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Giacomo  Donnini
+  title: Executive Vice President of Major Projects & International Development
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Luca  Marchisio
+  title: Head of Strategy
+  unexercisedValue: 0
+compensationRisk: 1
+corporateActions: []
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 9.718
+currentRatio: 0.964
+customPriceAlertConfidence: LOW
+dayHigh: 9.76
+dayLow: 9.686
+debtToEquity: 172.37
+dividendRate: 0.4
+dividendYield: 4.08
+earningsCallTimestampEnd: 1794495600
+earningsCallTimestampStart: 1794495600
+earningsGrowth: 0.005
+earningsQuarterlyGrowth: 0.007
+earningsTimestamp: 1794501000
+earningsTimestampEnd: 1794501000
+earningsTimestampStart: 1794501000
+ebitda: 2821199872
+ebitdaMargins: 0.66896003
+enterpriseToEbitda: 11.397
+enterpriseToRevenue: 7.624
+enterpriseValue: 32153057280
+epsCurrentYear: 0.54893
+epsForward: 0.55378
+epsTrailingTwelveMonths: 0.51
+esgPopulated: false
+exDividendDate: 1782086400
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 9.36116
+fiftyDayAverageChange: 0.35684013
+fiftyDayAverageChangePercent: 0.03811922
+fiftyTwoWeekChangePercent: 7.7435136
+fiftyTwoWeekHigh: 10.41
+fiftyTwoWeekHighChange: -0.69199944
+fiftyTwoWeekHighChangePercent: -0.06647449
+fiftyTwoWeekLow: 8.698
+fiftyTwoWeekLowChange: 1.0200005
+fiftyTwoWeekLowChangePercent: 0.11726839
+fiftyTwoWeekRange: 8.698 - 10.41
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1087974000000
+fiveYearAvgDividendYield: 4.15
+floatShares: 1406547321
+forwardEps: 0.55378
+forwardPE: 17.548485
+freeCashflow: -786737472
+fullExchangeName: Milan
+fullTimeEmployees: 7260
+fulldayChange: 0.006000519
+fulldayChangePercent: 0.061784584
+fulldayPrice: 9.718
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.80100995
+grossProfits: 3378099968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.29851
+heldPercentInstitutions: 0.35987
+impliedSharesOutstanding: 2005566575
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1782086400
+lastDividendValue: 0.277
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Terna S.p.A., together with its subsidiaries, provides electricity
+  transmission and dispatching services in Italy, other Euro-area countries, and internationally.
+  It operates through Regulated, Non-Regulated, and International segments. The company
+  is involved in the design, construction, management, development, operation, and
+  maintenance of national transmission grid; dispatching and metering; and construction
+  of storage systems. It also supplies transformers and cables; provides energy and
+  connectivity services; and installs and operates interconnecting lines. In addition,
+  the company designs, produces, commercializes, and repairs power transformers for
+  electricity transmission and distribution grids; industrial transformers for the
+  steel and metals industries; special transformers for convertors used in electrochemical
+  production; manufactures and sells marine and terrestrial cables; develops renewable
+  energy projects; and undertakes private interconnector projects. The company was
+  founded in 1962 and is headquartered in Rome, Italy.
+longName: Terna S.p.A.
+market: it_market
+marketCap: 19490097152
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_5489548
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1066000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 19478062576
+numberOfAnalystOpinions: 20
+open: 9.71
+operatingCashflow: 2924499968
+operatingMargins: 0.43732
+overallRisk: 2
+payoutRatio: 0.7456
+pegRatio: 2.14
+phone: 39 06 83 13 81 11
+prevName: Terna - Rete Elettrica Nazionale Società per Azioni
+previousClose: 9.712
+priceEpsCurrentYear: 17.703533
+priceHint: 2
+priceToBook: 3.2786777
+priceToSalesTrailing12Months: 4.6214633
+profitMargins: 0.26439
+quickRatio: 0.92
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.8
+region: US
+regularMarketChange: 0.006000519
+regularMarketChangePercent: 0.061784584
+regularMarketDayHigh: 9.76
+regularMarketDayLow: 9.686
+regularMarketDayRange: 9.686 - 9.76
+regularMarketOpen: 9.71
+regularMarketPreviousClose: 9.712
+regularMarketPrice: 9.718
+regularMarketTime: 1794411553
+regularMarketVolume: 1114282
+returnOnAssets: 0.03935
+returnOnEquity: 0.13828
+revenueGrowth: 0.123
+revenuePerShare: 2.101
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 9
+sharesOutstanding: 2005566575
+shortName: TERNA
+sourceInterval: 20
+state: RM
+symbol: TRN.MI
+targetHighPrice: 11.2
+targetLowPrice: 8.6
+targetMeanPrice: 9.835
+targetMedianPrice: 10.0
+totalCash: 2266500096
+totalCashPerShare: 1.13
+totalDebt: 14910499840
+totalRevenue: 4217299968
+tradeable: false
+trailingAnnualDividendRate: 0.25
+trailingAnnualDividendYield: 0.025741352
+trailingEps: 0.51
+trailingPE: 19.054903
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 9.83323
+twoHundredDayAverageChange: -0.11522961
+twoHundredDayAverageChangePercent: -0.011718389
+typeDisp: Equity
+volume: 1114282
+website: https://www.terna.it
+zip: '00156'

@@ -1,0 +1,254 @@
+52WeekChange: -0.0062582493
+SandP52WeekChange: 0.097798586
+address1: Mythenquai 50/60
+address2: P.O. Box
+allTimeHigh: 206.793
+allTimeLow: 11.88
+ask: 150.45
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 4.2 - Underperform
+averageDailyVolume10Day: 863304
+averageDailyVolume3Month: 718978
+averageVolume: 718978
+averageVolume10days: 863304
+beta: 0.304
+bid: 150.4
+bidSize: 0
+boardRisk: 2
+bookValue: 68.68509
+city: Zurich
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexander Andreas M. Berger
+  title: Group Chief Executive Officer
+  totalPay: 3715000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Anders Bjorn Malmstrom
+  title: Group Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Bohun
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hermann  Geiger Ph.D.
+  title: Group Chief Legal Officer and Head of Legal & Compliance
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elena  Logutenkova
+  title: Head of Media Relations & Corporate Reporting Group Communications
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nicole  Pieterse
+  title: Group Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Beat  Strebel
+  title: Head of the Middle East & Africa business
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Pravina  Ladva
+  title: Group Chief Digital & Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philippe  Brahin
+  title: Head of Americas Public Sector Solutions Team
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stefanie  Weitz
+  title: Head of Communications Strategy & Insights Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 150.4
+currentRatio: 2.86
+customPriceAlertConfidence: LOW
+dayHigh: 151.1
+dayLow: 149.75
+debtToEquity: 36.291
+dividendDate: 1744848000
+dividendRate: 6.25
+dividendYield: 4.14
+earningsCallTimestampEnd: 1793883600
+earningsCallTimestampStart: 1793883600
+earningsGrowth: -0.051
+earningsQuarterlyGrowth: -0.064
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 6631249920
+ebitdaMargins: 0.15946001
+enterpriseToEbitda: 7.089
+enterpriseToRevenue: 1.13
+enterpriseValue: 47005798400
+epsCurrentYear: 17.1454
+epsForward: 12.823931
+epsTrailingTwelveMonths: 13.03
+esgPopulated: false
+exDividendDate: 1776124800
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 145.224
+fiftyDayAverageChange: 5.175995
+fiftyDayAverageChangePercent: 0.035641458
+fiftyTwoWeekChangePercent: -0.6258249
+fiftyTwoWeekHigh: 160.45
+fiftyTwoWeekHighChange: -10.050003
+fiftyTwoWeekHighChangePercent: -0.06263635
+fiftyTwoWeekLow: 114.05
+fiftyTwoWeekLowChange: 36.34999
+fiftyTwoWeekLowChangePercent: 0.31871977
+fiftyTwoWeekRange: 114.05 - 160.45
+financialCurrency: USD
+firstTradeDateMilliseconds: 796892400000
+fiveYearAvgDividendYield: 5.41
+floatShares: 267364800
+forwardEps: 12.823931
+forwardPE: 11.728073
+fullExchangeName: Swiss
+fullTimeEmployees: 13806
+fulldayChange: -0.4500122
+fulldayChangePercent: -0.29831767
+fulldayPrice: 150.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.20233
+grossProfits: 8414000128
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00105
+heldPercentInstitutions: 0.41175
+impliedSharesOutstanding: 294919585
+industry: Insurance - Reinsurance
+industryDisp: Insurance - Reinsurance
+industryKey: insurance-reinsurance
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776124800
+lastDividendValue: 8.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Swiss Re AG, together with its subsidiaries, provides reinsurance,
+  insurance, other insurance-based forms of risk transfer, and other insurance-related
+  services worldwide. The company operates through Property & Casualty Reinsurance,
+  Life & Health Reinsurance, and Corporate Solutions segments. The Property & Casualty
+  Reinsurance segment underwrites property reinsurance, including property, credit,
+  surety and political, engineering and project, aviation, marine, agriculture, renewable
+  energy, retakaful, and facultative reinsurance solutions; and casualty reinsurance,
+  such as liability, motor, worker's compensation, personal accident, management and
+  professional liability, cyber, and facultative reinsurance solutions. Its Life &
+  Health Reinsurance segment underwrites life and health insurance products. The Corporate
+  Solutions segment offers standard risk transfer covers and multi-line programs to
+  customized solutions. It serves stock and mutual insurance companies, public sector
+  and governmental entities, mid-sized and large corporations, and individuals. The
+  company was founded in 1863 and is headquartered in Zurich, Switzerland.
+longName: Swiss Re AG
+market: ch_market
+marketCap: 44355903488
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874650
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4738999808
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 44311667646
+numberOfAnalystOpinions: 16
+open: 150.0
+operatingMargins: 0.15787
+overallRisk: 1
+payoutRatio: 0.48720002
+pegRatio: 0.8
+phone: 41 43 285 2121
+previousClose: 150.85
+priceEpsCurrentYear: 8.772032
+priceHint: 2
+priceToBook: 2.1897037
+priceToSalesTrailing12Months: 1.0666323
+profitMargins: 0.117419995
+quickRatio: 1.569
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: underperform
+recommendationMean: 4.1875
+region: US
+regularMarketChange: -0.4500122
+regularMarketChangePercent: -0.29831767
+regularMarketDayHigh: 151.1
+regularMarketDayLow: 149.75
+regularMarketDayRange: 149.75 - 151.1
+regularMarketOpen: 150.0
+regularMarketPreviousClose: 150.85
+regularMarketPrice: 150.4
+regularMarketTime: 1794411569
+regularMarketVolume: 693665
+returnOnAssets: 0.03079
+returnOnEquity: 0.19808
+revenueGrowth: -0.024
+revenuePerShare: 145.345
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 294919585
+shortName: SWISS RE N
+sourceInterval: 15
+symbol: SREN.SW
+targetHighPrice: 148.07234
+targetLowPrice: 111.69619
+targetMeanPrice: 129.47714
+targetMedianPrice: 126.644005
+totalCash: 5394999808
+totalCashPerShare: 18.733
+totalDebt: 8892999680
+totalRevenue: 41585000448
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 13.03
+trailingPE: 11.542594
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 133.4245
+twoHundredDayAverageChange: 16.975494
+twoHundredDayAverageChangePercent: 0.12722921
+typeDisp: Equity
+volume: 693665
+website: https://www.swissre.com
+zip: '8022'

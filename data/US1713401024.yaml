@@ -1,0 +1,295 @@
+52WeekChange: 0.30897164
+SandP52WeekChange: 0.097798586
+address1: Princeton South Corporate Center
+address2: 500 Charles Ewing Boulevard
+allTimeHigh: 116.46
+allTimeLow: 0.166667
+ask: 111.5
+askSize: 400
+auditRisk: 4
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 2214650
+averageDailyVolume3Month: 1900575
+averageVolume: 1900575
+averageVolume10days: 2214650
+beta: 0.45
+bid: 111.43
+bidSize: 100
+boardRisk: 4
+bookValue: 18.901
+city: Ewing
+companyOfficers:
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard A. Dierker
+  title: President, CEO & Director
+  totalPay: 2715604
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lee B. McChesney
+  title: CFO & Executive VP
+  totalPay: 1378489
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 65
+  exercisedValue: 2295209
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick D. de Maynadier Esq., J.D.
+  title: Executive VP, General Counsel & Secretary
+  totalPay: 1112230
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael G. Read
+  title: Executive Vice President of International
+  totalPay: 1103325
+  unexercisedValue: 710873
+  yearBorn: 1975
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Charles R. Raup
+  title: Executive VP & President of US Domestic
+  totalPay: 943788
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph James Longo
+  title: VP, Chief Accounting Officer & Corporate Controller
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carlos G. Linares
+  title: Executive VP, CTO & Global New Product Innovation
+  totalPay: 1321907
+  unexercisedValue: 6355628
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stacey  Ramstedt
+  title: Senior VP & Chief Marketing Officer
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rene M. Hemsey
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian  Buchert
+  title: Executive VP of Strategy, M&A and Business Partnerships
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: CHD announced a cash dividend of $0.308 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.308'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 111.77
+currentRatio: 0.957
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 111.8628
+dayLow: 110.56
+debtToEquity: 52.942
+displayName: Church & Dwight
+dividendDate: 1796083200
+dividendRate: 1.23
+dividendYield: 1.1
+earningsCallTimestampEnd: 1793368800
+earningsCallTimestampStart: 1793368800
+earningsGrowth: 0.187
+earningsQuarterlyGrowth: 0.165
+earningsTimestamp: 1793363400
+earningsTimestampEnd: 1801229400
+earningsTimestampStart: 1801229400
+ebitda: 1391100032
+ebitdaMargins: 0.22273001
+enterpriseToEbitda: 20.348
+enterpriseToRevenue: 4.532
+enterpriseValue: 28305942528
+epsCurrentYear: 3.77419
+epsForward: 4.05416
+epsTrailingTwelveMonths: 3.26
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 100.6106
+fiftyDayAverageChange: 11.159393
+fiftyDayAverageChangePercent: 0.110916674
+fiftyTwoWeekChangePercent: 30.897163
+fiftyTwoWeekHigh: 114.64
+fiftyTwoWeekHighChange: -2.8700027
+fiftyTwoWeekHighChangePercent: -0.025034916
+fiftyTwoWeekLow: 81.49
+fiftyTwoWeekLowChange: 30.279999
+fiftyTwoWeekLowChangePercent: 0.37157932
+fiftyTwoWeekRange: 81.49 - 114.64
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 1.16
+floatShares: 235300353
+forwardEps: 4.05416
+forwardPE: 27.569212
+freeCashflow: 777249984
+fullExchangeName: NYSE
+fullTimeEmployees: 5550
+fulldayChange: 0.009994507
+fulldayChangePercent: 0.008942829
+fulldayPrice: 111.77
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.45728
+grossProfits: 2856000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00199
+heldPercentInstitutions: 0.96022004
+impliedSharesOutstanding: 236032052
+industry: Household & Personal Products
+industryDisp: Household & Personal Products
+industryKey: household-personal-products
+irWebsite: http://www.churchdwight.com/investors.aspx
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.308
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1472774400
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Church & Dwight Co., Inc. develops, manufactures, and markets
+  household, personal care, and specialty products. It operates in three segments:
+  Consumer Domestic, Consumer International, and Specialty Products Division. The
+  company offers baking soda, cat litters, laundry detergents, carpet deodorizers,
+  and other baking soda-based products under the ARM & HAMMER brand; stain removers,
+  cleaning solutions, laundry detergents, and bleach alternatives under the OXICLEAN
+  brand; dry shampoos under the BATISTE brand; water flossers under the WATERPIK brand;
+  oral care products under the THERABREATH brand; acne treatment products under the
+  HERO brand; hand sanitizers under the TOUCHLAND brand; and condoms, lubricants,
+  and vibrators under the TROJAN brand. It also provides home pregnancy and ovulation
+  test kits under the FIRST RESPONSE brand; depilatories under the NAIR; oral analgesics
+  under the ORAJEL brand; laundry detergents under the XTRA brand; and cold shortening
+  and relief products under the ZICAM brand. In addition, the company''s specialty
+  products include animal and food productivity products, such as ARM & HAMMER baking
+  soda as a feed additive to help dairy cow; BIO-CHLOR and FERMENTEN used to reduce
+  health issues associated with calving, as well as needed protein; CELMANAX refined
+  functional carbohydrate, a yeast-based prebiotic; and CERTILLUS a probiotics products
+  used in the poultry, dairy, beef, and swine industries. Additionally, it offers
+  sodium bicarbonate; and cleaning and deodorizing products. The company sells its
+  consumer products through supermarkets, mass merchandisers, wholesale clubs, drugstores,
+  convenience stores, home stores, dollar and other discount stores, pet and other
+  specialty stores, websites and other e-commerce channels; and specialty products
+  to industrial customers and livestock producers through distributors. Church & Dwight
+  Co., Inc. was founded in 1846 and is headquartered in Ewing, New Jersey.'
+longName: Church & Dwight Co., Inc.
+market: us_market
+marketCap: 26381301760
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_261105
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 774800000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 26378942131
+numberOfAnalystOpinions: 18
+open: 110.83
+operatingCashflow: 1204600064
+operatingMargins: 0.18581
+overallRisk: 3
+payoutRatio: 0.3735
+pegRatio: 3.12
+phone: 609 806 1200
+previousClose: 111.76
+priceEpsCurrentYear: 29.614302
+priceHint: 2
+priceToBook: 5.913444
+priceToSalesTrailing12Months: 4.223982
+profitMargins: 0.124060005
+quickRatio: 0.584
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.25
+region: US
+regularMarketChange: 0.009994507
+regularMarketChangePercent: 0.008942829
+regularMarketDayHigh: 111.8628
+regularMarketDayLow: 110.56
+regularMarketDayRange: 110.56 - 111.8628
+regularMarketOpen: 110.83
+regularMarketPreviousClose: 111.76
+regularMarketPrice: 111.77
+regularMarketTime: 1794413723
+regularMarketVolume: 246168
+returnOnAssets: 0.07848
+returnOnEquity: 0.17797
+revenueGrowth: 0.01
+revenuePerShare: 26.328
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 5
+sharesOutstanding: 236032052
+sharesPercentSharesOut: 0.0446
+sharesShort: 10530014
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 12144481
+shortName: Church & Dwight Company, Inc.
+shortPercentOfFloat: 0.0513
+shortRatio: 5.04
+sourceInterval: 15
+state: NJ
+symbol: CHD
+targetHighPrice: 124.0
+targetLowPrice: 78.0
+targetMeanPrice: 110.27778
+targetMedianPrice: 115.0
+totalCash: 446900000
+totalCashPerShare: 1.893
+totalDebt: 2373900032
+totalRevenue: 6245600256
+tradeable: false
+trailingAnnualDividendRate: 1.213
+trailingAnnualDividendYield: 0.010853616
+trailingEps: 3.26
+trailingPE: 34.285275
+trailingPegRatio: 3.1218
+triggerable: true
+twoHundredDayAverage: 98.38925
+twoHundredDayAverageChange: 13.380745
+twoHundredDayAverageChangePercent: 0.13599804
+typeDisp: Equity
+volume: 246501
+website: https://www.churchdwight.com
+zip: 08628

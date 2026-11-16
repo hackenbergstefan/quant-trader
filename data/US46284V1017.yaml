@@ -1,0 +1,272 @@
+52WeekChange: 0.12937093
+SandP52WeekChange: 0.097798586
+address1: 85 New Hampshire Avenue
+address2: Suite 150
+allTimeHigh: 134.68
+allTimeLow: 2.510212
+ask: 113.65
+askSize: 100
+auditRisk: 1
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 1911070
+averageDailyVolume3Month: 1535076
+averageVolume: 1535076
+averageVolume10days: 1911070
+beta: 1.2
+bid: 113.38
+bidSize: 100
+boardRisk: 3
+bookValue: -4.662
+city: Portsmouth
+companyOfficers:
+- age: 65
+  exercisedValue: 49136788
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William L. Meaney BSc, MEng, MSIA
+  title: President, CEO & Director
+  totalPay: 3545663
+  unexercisedValue: 114638624
+  yearBorn: 1960
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Barry A. Hytinen
+  title: Executive VP & CFO
+  totalPay: 1782764
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 44
+  exercisedValue: 506744
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark  Kidd
+  title: Executive VP and GM of Iron Mountain Data Centers & Asset Lifecycle Management
+  totalPay: 1992969
+  unexercisedValue: 5026928
+  yearBorn: 1981
+- age: 52
+  exercisedValue: 436202
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Greg W. McIntosh CA
+  title: Executive VP & Chief Commercial Officer
+  totalPay: 1185331
+  unexercisedValue: 1153874
+  yearBorn: 1973
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mithu  Bhargava
+  title: Executive VP & GM for digital solutions
+  totalPay: 911073
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dale  Lawing
+  title: Executive Vice President of Global Operations
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel  Borges
+  title: Chief Accounting Officer & Senior VP
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark Andrew Rupe
+  title: Senior VP & Head of Investor Relations
+  unexercisedValue: 0
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Michelle  Altamura
+  title: Executive VP, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jemma  Johns
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 112.735
+currentRatio: 0.555
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 114.11
+dayLow: 111.79
+displayName: Iron Mountain
+dividendDate: 1799193600
+dividendRate: 3.97
+dividendYield: 3.59
+earningsCallTimestampEnd: 1793885400
+earningsCallTimestampStart: 1793885400
+earningsGrowth: 0.464
+earningsQuarterlyGrowth: 0.473
+earningsTimestamp: 1793885400
+earningsTimestampEnd: 1793885400
+earningsTimestampStart: 1793885400
+ebitda: 2639223040
+ebitdaMargins: 0.33841
+enterpriseToEbitda: 20.341
+enterpriseToRevenue: 6.883
+enterpriseValue: 53684289536
+epsCurrentYear: 2.48246
+epsForward: 2.71601
+epsTrailingTwelveMonths: 1.53
+esgPopulated: false
+exDividendDate: 1797292800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 113.5286
+fiftyDayAverageChange: -0.793602
+fiftyDayAverageChangePercent: -0.0069903266
+fiftyTwoWeekChangePercent: 12.937093
+fiftyTwoWeekHigh: 134.68
+fiftyTwoWeekHighChange: -21.944992
+fiftyTwoWeekHighChangePercent: -0.16294174
+fiftyTwoWeekLow: 77.77
+fiftyTwoWeekLowChange: 34.965004
+fiftyTwoWeekLowChangePercent: 0.44959503
+fiftyTwoWeekRange: 77.77 - 134.68
+financialCurrency: USD
+firstTradeDateMilliseconds: 823185000000
+fiveYearAvgDividendYield: 3.46
+floatShares: 295054997
+forwardEps: 2.71601
+forwardPE: 41.50758
+freeCashflow: -451656640
+fullExchangeName: NYSE
+fullTimeEmployees: 29400
+fulldayChange: 1.9550018
+fulldayChangePercent: 1.7647606
+fulldayPrice: 112.735
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.53871
+grossProfits: 4201434880
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00878
+heldPercentInstitutions: 0.86586
+impliedSharesOutstanding: 297833786
+industry: REIT - Specialty
+industryDisp: REIT - Specialty
+industryKey: reit-specialty
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789430400
+lastDividendValue: 0.864
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1411689600
+lastSplitFactor: 1082:1000
+longBusinessSummary: Iron Mountain Incorporated partners with more than 240,000 customers
+  across 61 countries, including approximately 95% of the Fortune 1000. They serve
+  as the trusted guardians of what matters most, helping to unlock what's possible.
+  By connecting physical, digital, and intelligent workflows, lifecycle solutions
+  help organizations realize enterprise value on a scale. From complex challenges
+  across information management and digital transformation to data security, data
+  centers, and asset lifecycle management, the firm empower organizations to navigate
+  an ever-changing landscape to prepare for tomorrow's possibilities. Their longstanding
+  commitment to safety, security, sustainability, and continuous innovation defines
+  everything they do. Iron Mountain Incorporated was founded in 1951 and is incorporated
+  in Delaware and is based in Portsmouth, New Hampshire.
+longName: Iron Mountain Incorporated
+market: us_market
+marketCap: 33576292352
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_30292
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 458504992
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 32994026813
+numberOfAnalystOpinions: 11
+open: 113.57
+operatingCashflow: 1703632000
+operatingMargins: 0.20778999
+overallRisk: 2
+payoutRatio: 2.2588
+pegRatio: 2.7
+phone: 617 535 4766
+previousClose: 110.78
+priceEpsCurrentYear: 45.412613
+priceHint: 2
+priceToBook: -24.18168
+priceToSalesTrailing12Months: 4.3052077
+profitMargins: 0.058790002
+quickRatio: 0.448
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.66667
+region: US
+regularMarketChange: 1.9550018
+regularMarketChangePercent: 1.7647606
+regularMarketDayHigh: 114.11
+regularMarketDayLow: 111.79
+regularMarketDayRange: 111.79 - 114.11
+regularMarketOpen: 113.57
+regularMarketPreviousClose: 110.78
+regularMarketPrice: 112.735
+regularMarketTime: 1794413722
+regularMarketVolume: 236415
+returnOnAssets: 0.04716
+revenueGrowth: 0.135
+revenuePerShare: 26.247
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 5
+sharesOutstanding: 297833786
+sharesPercentSharesOut: 0.023599999
+sharesShort: 7042041
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 6999689
+shortName: Iron Mountain Incorporated (Del
+shortPercentOfFloat: 0.0321
+shortRatio: 5.21
+sourceInterval: 15
+state: NH
+symbol: IRM
+targetHighPrice: 155.0
+targetLowPrice: 124.0
+targetMeanPrice: 138.72726
+targetMedianPrice: 137.0
+totalCash: 188160000
+totalCashPerShare: 0.632
+totalDebt: 20490969088
+totalRevenue: 7798994944
+tradeable: false
+trailingAnnualDividendRate: 3.456
+trailingAnnualDividendYield: 0.031196969
+trailingEps: 1.53
+trailingPE: 73.68301
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 115.8851
+twoHundredDayAverageChange: -3.1501007
+twoHundredDayAverageChangePercent: -0.027182965
+typeDisp: Equity
+volume: 236415
+website: https://www.ironmountain.com
+zip: 03801

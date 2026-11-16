@@ -1,0 +1,261 @@
+52WeekChange: 0.06726277
+SandP52WeekChange: 0.097798586
+address1: One Pickwick Plaza
+allTimeHigh: 98.75
+allTimeLow: 3.17
+ask: 87.78
+askSize: 2
+auditRisk: 4
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 5838630
+averageDailyVolume3Month: 4240242
+averageVolume: 4240242
+averageVolume10days: 5838630
+beta: 1.381
+bid: 74.61
+bidSize: 2
+boardRisk: 10
+bookValue: 13.717
+city: Greenwich
+companyOfficers:
+- age: 81
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas Pechy Peterffy
+  title: Founder & Chairman
+  totalPay: 766500
+  unexercisedValue: 0
+  yearBorn: 1944
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Milan  Galik
+  title: President, CEO & Director
+  totalPay: 5119486
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul Jonathan Brody
+  title: CFO, Treasurer, Secretary & Director
+  totalPay: 3369565
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 69
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Thomas A. J. Frank Ph.D.
+  title: Executive Vice President
+  totalPay: 1071021
+  unexercisedValue: 0
+  yearBorn: 1956
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Denis  Mendonca
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nancy Enslein Stuebe
+  title: Director of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Eric  Friedland
+  title: Managing Director of Asia Pacific Operations
+  unexercisedValue: 0
+  yearBorn: 1964
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions:
+- header: Dividend
+  message: IBKR announced a cash dividend of $0.15 with an ex-date of Dec. 1, 2026
+  meta:
+    amount: '0.15'
+    dateEpochMs: 1796101200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 82.79
+currentRatio: 1.099
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 82.95
+dayLow: 79.68
+debtToEquity: 154.342
+displayName: Interactive Brokers
+dividendDate: 1797206400
+dividendRate: 0.6
+dividendYield: 0.77
+earningsCallTimestampEnd: 1792096200
+earningsCallTimestampStart: 1792096200
+earningsGrowth: 0.169
+earningsQuarterlyGrowth: 0.194
+earningsTimestamp: 1792094400
+earningsTimestampEnd: 1800997200
+earningsTimestampStart: 1800997200
+ebitdaMargins: 0.0
+enterpriseToRevenue: -5.939
+enterpriseValue: -41914675200
+epsCurrentYear: 2.70154
+epsForward: 3.30943
+epsTrailingTwelveMonths: 2.62
+esgPopulated: false
+exDividendDate: 1796083200
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 85.6402
+fiftyDayAverageChange: -2.8501968
+fiftyDayAverageChangePercent: -0.03328106
+fiftyTwoWeekChangePercent: 6.726277
+fiftyTwoWeekHigh: 98.75
+fiftyTwoWeekHighChange: -15.959999
+fiftyTwoWeekHighChangePercent: -0.16162024
+fiftyTwoWeekLow: 58.95
+fiftyTwoWeekLowChange: 23.84
+fiftyTwoWeekLowChangePercent: 0.4044105
+fiftyTwoWeekRange: 58.95 - 98.75
+financialCurrency: USD
+firstTradeDateMilliseconds: 1178285400000
+fiveYearAvgDividendYield: 0.47
+floatShares: 439216168
+forwardEps: 3.30943
+forwardPE: 25.016394
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 3283
+fulldayChange: 5.2000046
+fulldayChangePercent: 6.701901
+fulldayPrice: 82.79
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.92661005
+grossProfits: 6540000256
+hasPrePostMarketData: true
+heldPercentInsiders: 0.02661
+heldPercentInstitutions: 0.86656
+impliedSharesOutstanding: 1703841215
+industry: Capital Markets
+industryDisp: Capital Markets
+industryKey: capital-markets
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788220800
+lastDividendValue: 0.088
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1750204800
+lastSplitFactor: '4:1'
+longBusinessSummary: Interactive Brokers Group, Inc. operates as an automated electronic
+  broker in the United States and internationally. The company engages in the execution,
+  clearance, and settlement of trades in stocks, options, futures, foreign exchange
+  instruments, bonds, precious metals, and cryptocurrencies; and the company provides
+  custody, prime brokerage, securities, and margin lending services. It also offers
+  custody and service accounts for hedge and mutual funds, ETFs, registered investment
+  advisors, proprietary trading groups, introducing brokers, and individual investors.
+  In addition, the company provides trading platforms, including IBKR Trader Workstation,
+  IBKR Desktop, IBKR Mobile, and IBKR Client Portal platform, as well as IBKR GlobalTrader
+  mobile application, and IBKR APIs, builds custom trading applications and automates
+  any part of the trading process. Further, it offers IBKR Pro, IBKR Lite, IBKR Universal
+  Account, insured bank deposit sweep program, investors' marketplace, mutual fund
+  marketplace, bond marketplace, forecast and event contracts, fractional trading,
+  no transaction fee program for exchange-traded funds, overnight trading hours, and
+  karta visa infinite charge card. It serves institutional and individual customers
+  through electronic exchanges and market centers. Interactive Brokers Group, Inc.
+  was founded in 1977 and is headquartered in Greenwich, Connecticut.
+longName: Interactive Brokers Group, Inc.
+market: us_market
+marketCap: 141061013504
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_4185357
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1176999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 35156323764
+numberOfAnalystOpinions: 16
+open: 79.68
+operatingCashflow: 12293999616
+operatingMargins: 0.77586
+overallRisk: 10
+payoutRatio: 0.1279
+pegRatio: 1.1
+phone: 203 618 5800
+previousClose: 77.59
+priceEpsCurrentYear: 30.645485
+priceHint: 2
+priceToBook: 6.0355763
+priceToSalesTrailing12Months: 19.985975
+profitMargins: 0.16676001
+quickRatio: 1.099
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.70588
+region: US
+regularMarketChange: 5.2000046
+regularMarketChangePercent: 6.701901
+regularMarketDayHigh: 82.95
+regularMarketDayLow: 79.68
+regularMarketDayRange: 79.68 - 82.95
+regularMarketOpen: 79.68
+regularMarketPreviousClose: 77.59
+regularMarketPrice: 82.79
+regularMarketTime: 1794413735
+regularMarketVolume: 2243912
+returnOnAssets: 0.022809999
+returnOnEquity: 0.23674
+revenueGrowth: 0.135
+revenuePerShare: 15.762
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 453103399
+sharesPercentSharesOut: 0.031
+sharesShort: 14062713
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 13713846
+shortName: Interactive Brokers Group, Inc.
+shortPercentOfFloat: 0.036
+shortRatio: 3.23
+sourceInterval: 15
+state: CT
+symbol: IBKR
+targetHighPrice: 120.0
+targetLowPrice: 75.0
+targetMeanPrice: 104.0375
+targetMedianPrice: 104.3
+totalCash: 129992998912
+totalCashPerShare: 286.895
+totalDebt: 35885998080
+totalRevenue: 7057999872
+tradeable: false
+trailingAnnualDividendRate: 0.335
+trailingAnnualDividendYield: 0.004317567
+trailingEps: 2.62
+trailingPE: 31.599237
+trailingPegRatio: 1.1038
+triggerable: true
+twoHundredDayAverage: 83.02665
+twoHundredDayAverageChange: -0.23664856
+twoHundredDayAverageChangePercent: -0.0028502722
+typeDisp: Equity
+volume: 2243912
+website: https://www.interactivebrokers.com
+zip: 06830

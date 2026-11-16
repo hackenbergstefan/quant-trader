@@ -1,0 +1,254 @@
+52WeekChange: -0.029790103
+SandP52WeekChange: 0.097798586
+address1: Hovedgaden 630
+allTimeHigh: 1913.5
+allTimeLow: 10.9
+ask: 1463.0
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 445021
+averageDailyVolume3Month: 502055
+averageVolume: 502055
+averageVolume10days: 445021
+beta: 0.973
+bid: 1462.0
+bidSize: 0
+boardRisk: 3
+bookValue: 541.493
+city: Hedehusene
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jens Hesselberg Lund
+  title: Group CEO & Member of the Executive Board
+  totalPay: 23700000
+  unexercisedValue: 28435000
+  yearBorn: 1969
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Ebbe
+  title: Group CFO & Member of Executive Board
+  totalPay: 15600000
+  unexercisedValue: 4680000
+  yearBorn: 1970
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian  Ejsing
+  title: Group COO, Member of Executive Board & CEO of Road Division
+  totalPay: 13000000
+  unexercisedValue: 2340000
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jesper  Riis
+  title: Group Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vishal  Sharma
+  title: Group Chief Commercial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Saskia  Blochberger
+  title: Group Chief People & Strategy Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Maciej  Walenda
+  title: CEO of Contract Logistics Division
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Marlow
+  title: President of DSV Solutions North America
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank  Sobotka
+  title: Chief Executive Officer of Air & Sea Division
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: Denmark
+cryptoTradeable: false
+currency: DKK
+currentPrice: 1464.0
+currentRatio: 1.018
+customPriceAlertConfidence: HIGH
+dayHigh: 1464.0
+dayLow: 1426.5
+debtToEquity: 73.245
+dividendRate: 7.0
+dividendYield: 0.49
+earningsCallTimestampEnd: 1792573200
+earningsCallTimestampStart: 1792573200
+earningsGrowth: 0.448
+earningsQuarterlyGrowth: 0.466
+earningsTimestamp: 1792594800
+earningsTimestampEnd: 1792594800
+earningsTimestampStart: 1792594800
+ebitda: 27056001024
+ebitdaMargins: 0.09034
+enterpriseToEbitda: 15.663
+enterpriseToRevenue: 1.415
+enterpriseValue: 423769636864
+epsCurrentYear: 61.99216
+epsForward: 78.74777
+epsTrailingTwelveMonths: 33.53
+esgPopulated: false
+exDividendDate: 1773964800
+exchange: CPH
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Copenhagen
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 1283.96
+fiftyDayAverageChange: 180.04004
+fiftyDayAverageChangePercent: 0.14022247
+fiftyTwoWeekChangePercent: -2.9790103
+fiftyTwoWeekHigh: 1913.5
+fiftyTwoWeekHighChange: -449.5
+fiftyTwoWeekHighChangePercent: -0.23490985
+fiftyTwoWeekLow: 1130.5
+fiftyTwoWeekLowChange: 333.5
+fiftyTwoWeekLowChangePercent: 0.29500222
+fiftyTwoWeekRange: 1130.5 - 1913.5
+financialCurrency: DKK
+firstTradeDateMilliseconds: 948441600000
+fiveYearAvgDividendYield: 0.48
+floatShares: 196151781
+forwardEps: 78.74777
+forwardPE: 18.591002
+freeCashflow: 13408874496
+fullExchangeName: Copenhagen
+fullTimeEmployees: 148405
+fulldayChange: 31.0
+fulldayChangePercent: 2.1632938
+fulldayPrice: 1464.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.26229
+grossProfits: 78551998464
+hasPrePostMarketData: false
+heldPercentInsiders: 0.177
+heldPercentInstitutions: 0.48808998
+impliedSharesOutstanding: 238638148
+industry: Integrated Freight & Logistics
+industryDisp: Integrated Freight & Logistics
+industryKey: integrated-freight-logistics
+irWebsite: http://investor.dsv.com/index.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1773964800
+lastDividendValue: 7.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1178582400
+lastSplitFactor: '2:1'
+longBusinessSummary: 'DSV A/S offers freight forwarding and logistics services in
+  Europe, the Middle East, Africa, North America, South America, Asia, Australia,
+  and the Pacific. It operates through three segments: Air & Sea, Road, and Solutions.
+  The company provides air freight, charter, and sea-air freight services, as well
+  as unit load devices; sea freight services, including less-than-container load services,
+  sea freight services, break bulk, sea containers, and DSV LCL sailing schedule services;
+  and warehousing, e-commerce fulfilment, supply chain, contract logistics, and logistics
+  solutions. It also offers road freight services, such as full load, part load, and
+  groupage; conventional freight forwarding services and tailored project cargo solutions;
+  and freight management, customs clearance, decarbonising logistics, order management,
+  insurance, and e-commerce solutions. The company serves the automotive, technology,
+  healthcare, energy, industrial, consumer, defense, aerospace, and chemical industries.
+  The company was formerly known as DSV Panalpina A/S and changed its name to DSV
+  A/S in September 2021. DSV A/S was incorporated in 1976 and is based in Hedehusene,
+  Denmark.'
+longName: DSV A/S
+market: dk_market
+marketCap: 349366255616
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_878704
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 8024999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 341968466084
+numberOfAnalystOpinions: 21
+open: 1438.5
+operatingCashflow: 11500000256
+operatingMargins: 0.07751
+overallRisk: 4
+payoutRatio: 0.2087
+pegRatio: 0.77
+phone: 45 43 20 30 40
+prevName: DSV Panalpina A/S
+previousClose: 1433.0
+priceEpsCurrentYear: 23.615889
+priceHint: 2
+priceToBook: 2.7036362
+priceToSalesTrailing12Months: 1.1665334
+profitMargins: 0.02612
+quickRatio: 1.0
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.38095
+region: US
+regularMarketChange: 31.0
+regularMarketChangePercent: 2.1632938
+regularMarketDayHigh: 1464.0
+regularMarketDayLow: 1426.5
+regularMarketDayRange: 1426.5 - 1464.0
+regularMarketOpen: 1438.5
+regularMarketPreviousClose: 1433.0
+regularMarketPrice: 1464.0
+regularMarketTime: 1794412465
+regularMarketVolume: 131222
+returnOnAssets: 0.04759
+returnOnEquity: 0.06861
+revenueGrowth: 0.121
+revenuePerShare: 1255.589
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 238638148
+shortName: DSV A/S
+sourceInterval: 15
+symbol: DSV.CO
+targetHighPrice: 2300.0
+targetLowPrice: 1250.0
+targetMeanPrice: 1817.7142
+targetMedianPrice: 1805.0
+totalCash: 13752999936
+totalCashPerShare: 57.597
+totalDebt: 94977998848
+totalRevenue: 299491000320
+tradeable: false
+trailingAnnualDividendRate: 7.0
+trailingAnnualDividendYield: 0.0048848568
+trailingEps: 33.53
+trailingPE: 43.66239
+trailingPegRatio: 0.7647
+triggerable: true
+twoHundredDayAverage: 1501.9475
+twoHundredDayAverageChange: -37.94751
+twoHundredDayAverageChangePercent: -0.025265537
+typeDisp: Equity
+volume: 131222
+website: https://www.dsv.com
+zip: '2640'

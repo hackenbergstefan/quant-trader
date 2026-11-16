@@ -1,0 +1,272 @@
+52WeekChange: 0.22603977
+SandP52WeekChange: 0.097798586
+address1: Lindholmspiren 7A
+address2: P.O. Box 8861
+allTimeHigh: 431.6
+allTimeLow: 13.436612
+ask: 276.2
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 437152
+averageDailyVolume3Month: 534198
+averageVolume: 534198
+averageVolume10days: 437152
+beta: 0.801
+bid: 276.3
+bidSize: 0
+boardRisk: 9
+bookValue: 119.881
+city: Gothenburg
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mattias  Perjos M.Sc.
+  title: CEO, President & Director
+  totalPay: 58829000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Agneta  Palmer
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: David  Kordel
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anna  Romberg MSc Econ
+  title: Executive Vice President of Sustainability, Legal & Compliance
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Alexandra  Holland
+  title: Executive Vice President of Brand & Communications
+  unexercisedValue: 0
+  yearBorn: 1986
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Magnus  Lundback Ph.D.
+  title: Executive Vice President of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carsten  Blecker
+  title: Chief Commercial Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephane Le Roy
+  title: President of Surgical Workflows
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Patricia A. Fitch
+  title: President of North America Region
+  unexercisedValue: 0
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elin  Frostehav M.Sc.
+  title: President of Acute Care Therapies
+  unexercisedValue: 0
+  yearBorn: 1982
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 276.0
+currentRatio: 1.245
+customPriceAlertConfidence: HIGH
+dayHigh: 277.1
+dayLow: 271.2
+debtToEquity: 34.337
+dividendRate: 4.75
+dividendYield: 1.75
+earningsCallTimestampEnd: 1792569600
+earningsCallTimestampStart: 1792569600
+earningsGrowth: 0.27
+earningsQuarterlyGrowth: 0.27
+earningsTimestamp: 1792596600
+earningsTimestampEnd: 1792596600
+earningsTimestampStart: 1792596600
+ebitda: 6048999936
+ebitdaMargins: 0.17556
+enterpriseToEbitda: 13.556
+enterpriseToRevenue: 2.38
+enterpriseValue: 82000625664
+epsCurrentYear: 13.262
+epsForward: 10.94
+epsTrailingTwelveMonths: 10.39
+esgPopulated: false
+exDividendDate: 1776816000
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 46 1 03 35 56 40
+fiftyDayAverage: 254.44
+fiftyDayAverageChange: 21.559998
+fiftyDayAverageChangePercent: 0.084735096
+fiftyTwoWeekChangePercent: 22.603977
+fiftyTwoWeekHigh: 283.0
+fiftyTwoWeekHighChange: -7.0
+fiftyTwoWeekHighChangePercent: -0.024734983
+fiftyTwoWeekLow: 175.9
+fiftyTwoWeekLowChange: 100.100006
+fiftyTwoWeekLowChangePercent: 0.5690734
+fiftyTwoWeekRange: 175.9 - 283.0
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 1.79
+floatShares: 178530084
+forwardEps: 10.94
+forwardPE: 25.22852
+freeCashflow: 3403124992
+fullExchangeName: Stockholm
+fullTimeEmployees: 11847
+fulldayChange: 4.799988
+fulldayChangePercent: 1.7699069
+fulldayPrice: 276.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.49013
+grossProfits: 16888000512
+hasPrePostMarketData: false
+heldPercentInsiders: 0.15201001
+heldPercentInstitutions: 0.62347
+impliedSharesOutstanding: 272369573
+industry: Medical Devices
+industryDisp: Medical Devices
+industryKey: medical-devices
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776816000
+lastDividendValue: 4.75
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1069891200
+lastSplitFactor: '4:1'
+longBusinessSummary: Getinge AB (publ) provides products and solutions for operating
+  rooms, intensive-care units, and sterilization departments in Sweden and internationally.
+  The company operates through Acute Care Therapies, Life Science, and Surgical Workflows
+  segments. It offers extracorporeal membrane oxygenation, mechanical ventilation,
+  advanced patient monitoring, ICU infrastructure equipment, and drainage solutions.
+  In addition, the company provides surgical perfusion, endoscopic vessel harvesting,
+  intra-aortic balloon counterpulsation, vascular and cardiothoracic surgery equipment,
+  peripheral stenting, OEM solutions, and beating heart surgery equipment; and operating
+  room equipment, anesthesia, advanced patient monitoring, and operating room integration
+  solutions. Further, it offers pre-cleaning, cleaning and disinfection, sterilization,
+  consumables, endoscope reprocessing, and sterile supply management solutions; connected
+  medical devices, and patient flow management; and low temperature sterilization,
+  biocontainment in vaccine production, terminal sterilization, sterile isolation
+  technology, cleaning and sterilization, aseptic transfer, and large-scale cultivation.
+  Additionally, the company provides bioreactor preparation solution, bioprocess development
+  and optimization, labware cleaning and sterilization, biocontainment, and vivarium.
+  It offers its products through a network of sales companies, as well as through
+  agents and distributors in the Americas, Europe, the Middle East, Africa, and the
+  Asia and Pacific. Getinge AB (publ) was founded in 1904 and is headquartered in
+  Gothenburg, Sweden.
+longName: Getinge AB (publ)
+market: se_market
+marketCap: 75174002688
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_134377
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 2830000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 73866628197
+numberOfAnalystOpinions: 11
+open: 271.2
+operatingCashflow: 5519000064
+operatingMargins: 0.14294
+overallRisk: 9
+payoutRatio: 0.45720002
+pegRatio: 1.49
+phone: 46 1 03 35 00 00
+prevName: Getinge AB
+previousClose: 271.2
+priceEpsCurrentYear: 20.81134
+priceHint: 2
+priceToBook: 2.302283
+priceToSalesTrailing12Months: 2.181739
+profitMargins: 0.08213
+quickRatio: 0.718
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.36364
+region: US
+regularMarketChange: 4.799988
+regularMarketChangePercent: 1.7699069
+regularMarketDayHigh: 277.1
+regularMarketDayLow: 271.2
+regularMarketDayRange: 271.2 - 277.1
+regularMarketOpen: 271.2
+regularMarketPreviousClose: 271.2
+regularMarketPrice: 276.0
+regularMarketTime: 1794412434
+regularMarketVolume: 140585
+returnOnAssets: 0.05289
+returnOnEquity: 0.091359995
+revenueGrowth: 0.027
+revenuePerShare: 126.505
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 9
+sharesOutstanding: 254152373
+shortName: Getinge AB ser. B
+sourceInterval: 15
+symbol: GETI-B.ST
+targetHighPrice: 320.0
+targetLowPrice: 193.0
+targetMeanPrice: 272.9091
+targetMedianPrice: 280.0
+totalCash: 3156999936
+totalCashPerShare: 11.591
+totalDebt: 11232000000
+totalRevenue: 34455998464
+tradeable: false
+trailingAnnualDividendRate: 4.75
+trailingAnnualDividendYield: 0.017514748
+trailingEps: 10.39
+trailingPE: 26.564003
+trailingPegRatio: 1.463
+triggerable: true
+twoHundredDayAverage: 217.0515
+twoHundredDayAverageChange: 58.9485
+twoHundredDayAverageChangePercent: 0.27158764
+typeDisp: Equity
+volume: 140585
+website: https://www.getinge.com
+zip: 417 56

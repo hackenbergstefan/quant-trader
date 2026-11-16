@@ -1,0 +1,276 @@
+52WeekChange: 0.32118917
+SandP52WeekChange: 0.097798586
+address1: 801 5th Avenue
+allTimeHigh: 483.3
+allTimeLow: 1.875
+ask: 361.34
+askSize: 1
+auditRisk: 4
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 1581020
+averageDailyVolume3Month: 704432
+averageVolume: 704432
+averageVolume10days: 1581020
+beta: 1.086
+bid: 323.65
+bidSize: 1
+boardRisk: 5
+bookValue: 70.501
+city: Seattle
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Francois  Locoh-Donou
+  title: President, CEO & Chairman
+  totalPay: 2396967
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Edward Cooper Werner
+  title: Executive VP & Chief Financial Officer
+  totalPay: 975661
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Thomas Dean Fountain Ph.D.
+  title: Executive VP & COO
+  totalPay: 1271026
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Maddison
+  title: Executive VP & Chief Marketing Officer
+  totalPay: 895930
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chad Michael Whalen Esq.
+  title: Executive VP & Chief Revenue Officer
+  totalPay: 1132576
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael F. Montoya
+  title: Executive VP & Chief Technology Operations Officer
+  totalPay: 92500
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Suzanne  DuLong
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Angelique M. Okeke
+  title: Executive VP, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rob  Gruening
+  title: Director of Corporate Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cathy  Peterman
+  title: Executive VP & Chief People Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 323.475
+currentRatio: 1.731
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 326.92
+dayLow: 322.0
+debtToEquity: 5.304
+displayName: F5
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793133000
+earningsCallTimestampStart: 1793133000
+earningsGrowth: -0.01
+earningsQuarterlyGrowth: -0.023
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1800997200
+earningsTimestampStart: 1800997200
+ebitda: 925395008
+ebitdaMargins: 0.27085
+enterpriseToEbitda: 17.991
+enterpriseToRevenue: 4.873
+enterpriseValue: 16648621056
+epsCurrentYear: 18.22742
+epsForward: 19.97686
+epsTrailingTwelveMonths: 12.52
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 206 272 5556
+fiftyDayAverage: 418.3408
+fiftyDayAverageChange: -94.86578
+fiftyDayAverageChangePercent: -0.22676675
+fiftyTwoWeekChangePercent: 32.118916
+fiftyTwoWeekHigh: 483.3
+fiftyTwoWeekHighChange: -159.82498
+fiftyTwoWeekHighChangePercent: -0.33069518
+fiftyTwoWeekLow: 223.76
+fiftyTwoWeekLowChange: 99.71501
+fiftyTwoWeekLowChangePercent: 0.44563377
+fiftyTwoWeekRange: 223.76 - 483.3
+financialCurrency: USD
+firstTradeDateMilliseconds: 928503000000
+floatShares: 56336628
+forwardEps: 19.97686
+forwardPE: 16.192486
+freeCashflow: 640425984
+fullExchangeName: NasdaqGS
+fulldayChange: 6.1650085
+fulldayChangePercent: 1.9428977
+fulldayPrice: 323.475
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.81983
+grossProfits: 2801092096
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0054900004
+heldPercentInstitutions: 1.0214
+impliedSharesOutstanding: 56811000
+industry: Software - Infrastructure
+industryDisp: Software - Infrastructure
+industryKey: software-infrastructure
+irWebsite: http://www.f5.com/about/investor-relations/
+isEarningsDateEstimate: true
+language: en-US
+lastFiscalYearEnd: 1790726400
+lastSplitDate: 1187654400
+lastSplitFactor: '2:1'
+longBusinessSummary: F5, Inc. provides multicloud application security and delivery
+  solutions in the United States, Europe, the Middle East, Africa, and the Asia Pacific
+  region. The company's distributed cloud services enable its customers to deploy,
+  secure, and operate applications in any architecture, from on-premises to the public
+  cloud. It also offers unified, security, networking, and application management
+  solutions, such as web app and API protection; multi-cloud networking; application
+  delivery and deployment; domain name system; content delivery network; and application
+  deployment and orchestration. In addition, the company provides application security
+  and delivery products, including NGINX Plus; NGINX One Console; NGINX Ingress Controller;
+  WAF for NGINX; BIG-IP Packaged Software; and BIG-IP Systems. Further, it provides
+  a range of professional services, including maintenance, consulting, training, and
+  other technical support services. The company sells its products to large enterprise
+  businesses, public sector institutions, governments, and service providers through
+  distributors, value-added resellers, managed service providers, systems integrators,
+  and other indirect channel partners. It has partnerships with public cloud providers,
+  such as Amazon Web Services, Microsoft Azure, and Google Cloud Platform. The company
+  was formerly known as F5 Networks, Inc. and changed its name to F5, Inc. in November
+  2021. F5, Inc. was incorporated in 1996 and is headquartered in Seattle, Washington.
+longName: F5, Inc.
+market: us_market
+marketCap: 18376939520
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_90323
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 722148992
+nextFiscalYearEnd: 1822262400
+nonDilutedMarketCap: 18026698410
+numberOfAnalystOpinions: 9
+open: 322.83
+operatingCashflow: 959489024
+operatingMargins: 0.24259001
+overallRisk: 5
+payoutRatio: 0.0
+pegRatio: 1.28
+phone: 206 272 5555
+prevName: F5 Networks, Inc.
+previousClose: 317.31
+priceEpsCurrentYear: 17.746614
+priceHint: 2
+priceToBook: 4.588233
+priceToSalesTrailing12Months: 5.378613
+profitMargins: 0.21136
+quickRatio: 1.122
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.69231
+region: US
+regularMarketChange: 6.1650085
+regularMarketChangePercent: 1.9428977
+regularMarketDayHigh: 326.92
+regularMarketDayLow: 322.0
+regularMarketDayRange: 322.0 - 326.92
+regularMarketOpen: 322.83
+regularMarketPreviousClose: 317.31
+regularMarketPrice: 323.475
+regularMarketTime: 1794413737
+regularMarketVolume: 127706
+returnOnAssets: 0.07743
+returnOnEquity: 0.19011
+revenueGrowth: 0.133
+revenuePerShare: 59.98
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 4
+sharesOutstanding: 56811000
+sharesPercentSharesOut: 0.0222
+sharesShort: 1262477
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1260728
+shortName: F5, Inc.
+shortPercentOfFloat: 0.0294
+shortRatio: 1.46
+sourceInterval: 15
+state: WA
+symbol: FFIV
+targetHighPrice: 540.0
+targetLowPrice: 300.0
+targetMeanPrice: 444.66666
+targetMedianPrice: 448.0
+totalCash: 1590528000
+totalCashPerShare: 27.997
+totalDebt: 212451008
+totalRevenue: 3416668928
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 12.52
+trailingPE: 25.83666
+trailingPegRatio: 1.2758
+triggerable: true
+twoHundredDayAverage: 365.2153
+twoHundredDayAverageChange: -41.740295
+twoHundredDayAverageChangePercent: -0.11428956
+typeDisp: Equity
+volume: 127706
+website: https://www.f5.com
+zip: '98104'

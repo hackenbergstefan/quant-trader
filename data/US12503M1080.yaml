@@ -1,0 +1,292 @@
+52WeekChange: 0.39838243
+SandP52WeekChange: 0.097798586
+address1: 433 West Van Buren Street
+allTimeHigh: 371.18
+allTimeLow: 19.6
+ask: 366.66
+askSize: 40
+auditRisk: 6
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 1264590
+averageDailyVolume3Month: 1161651
+averageVolume: 1161651
+averageVolume10days: 1264590
+beta: 0.362
+bid: 366.47
+bidSize: 80
+boardRisk: 1
+bookValue: 56.781
+city: Chicago
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Craig Steven Donohue
+  title: CEO, President & Director
+  totalPay: 3604464
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jill M. Griebenow CPA
+  title: Executive VP & CFO
+  totalPay: 1819282
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy  Lipscomb
+  title: Executive VP & CTO
+  totalPay: 1375864
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Patrick Sexton J.D.
+  title: Executive VP, General Counsel & Corporate Secretary
+  totalPay: 1531922
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher Andrew Isaacson
+  title: Advisor
+  totalPay: 2623850
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 69
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fredric J. Tomczyk A.C.A.
+  title: Director
+  totalPay: 3102620
+  unexercisedValue: 0
+  yearBorn: 1956
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott L. Johnston
+  title: Executive VP & COO
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 37
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Allen L. Wilkinson CPA
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1988
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kenneth William Hill C.F.A.
+  title: Senior VP, Treasurer and Head of Investor Relations & Business Intelligence
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Stacie  Fleming
+  title: Senior Vice President of Marketing & Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: CBOE announced a cash dividend of $0.86 with an ex-date of Nov. 30, 2026
+  meta:
+    amount: '0.86'
+    dateEpochMs: 1796014800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 368.13
+currentRatio: 1.605
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1535673600
+dayHigh: 369.54
+dayLow: 359.96
+debtToEquity: 26.628
+displayName: Cboe Global Markets
+dividendDate: 1797292800
+dividendRate: 3.44
+dividendYield: 0.94
+earningsCallTimestampEnd: 1793363400
+earningsCallTimestampStart: 1793363400
+earningsGrowth: 0.432
+earningsQuarterlyGrowth: 0.424
+earningsTimestamp: 1793363400
+earningsTimestampEnd: 1793363400
+earningsTimestampStart: 1793363400
+ebitda: 2029600000
+ebitdaMargins: 0.38451
+enterpriseToEbitda: 18.218
+enterpriseToRevenue: 7.005
+enterpriseValue: 36975714304
+epsCurrentYear: 14.38463
+epsForward: 15.47654
+epsTrailingTwelveMonths: 14.05
+esgPopulated: false
+exDividendDate: 1795996800
+exchange: BTS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 312 786 7367
+fiftyDayAverage: 300.7716
+fiftyDayAverageChange: 67.3584
+fiftyDayAverageChangePercent: 0.22395198
+fiftyTwoWeekChangePercent: 39.83824
+fiftyTwoWeekHigh: 371.18
+fiftyTwoWeekHighChange: -3.0499878
+fiftyTwoWeekHighChangePercent: -0.008217005
+fiftyTwoWeekLow: 227.15
+fiftyTwoWeekLowChange: 140.98001
+fiftyTwoWeekLowChangePercent: 0.6206472
+fiftyTwoWeekRange: 227.15 - 371.18
+financialCurrency: USD
+firstTradeDateMilliseconds: 1276608600000
+fiveYearAvgDividendYield: 1.22
+floatShares: 103935867
+forwardEps: 15.47654
+forwardPE: 23.786325
+freeCashflow: 848625024
+fullExchangeName: Cboe US
+fullTimeEmployees: 1661
+fulldayChange: 3.3200073
+fulldayChangePercent: 0.91006476
+fulldayPrice: 368.13
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.53876
+grossProfits: 2843800064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0025499999
+heldPercentInstitutions: 0.88389
+impliedSharesOutstanding: 104330235
+industry: Financial Data & Stock Exchanges
+industryDisp: Financial Data & Stock Exchanges
+industryKey: financial-data-stock-exchanges
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788134400
+lastDividendValue: 0.86
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Cboe Global Markets, Inc., through its subsidiaries, operates
+  as a derivatives and securities exchange network that delivers trading, clearing,
+  and investment solutions in the United States and internationally. It operates through
+  five segments: Options, North American Equities, Europe and Asia Pacific, Futures,
+  and Global FX. The Options segment includes options on market indices, stocks of
+  individual corporations, and exchange-traded products (ETPs), such as exchange-traded
+  funds (ETFs) and exchange-traded notes (ETNs). This segment also offers trading
+  in listed options through a single system. The North American Equities segment comprises
+  U.S. equities and ETP transaction services. This segment also includes listing services
+  on Cboe Canada, ETP listings on BZX, the Cboe Global Markets, Inc. common stock
+  listing, and applicable market data. The Europe and Asia Pacific segment provides
+  pan-European derivatives transaction services; ETPs, including exchange-traded funds,
+  exchange-traded notes, and exchange-traded commodities; international depository
+  receipts; and an ETP listings business on regulated markets and clearing activities,
+  as well as equities services. The Futures segment offers transaction services, including
+  trading in VIX futures and other futures products, the licensing of proprietary
+  market data, and access and capacity services. The Global FX segment provides institutional
+  foreign exchange (FX) trading and non-deliverable forward FX transaction services.
+  The company also provides trading solutions and products in multiple asset classes,
+  including equities, derivatives, and FX across North America, Europe, and Asia Pacific.
+  It has strategic relationships with S&P Dow Jones Indices, LLC; Frank Russell Company;
+  and FTSE International Limited. The company was formerly known as CBOE Holdings,
+  Inc. and changed its name to Cboe Global Markets, Inc. in October 2017. Cboe Global
+  Markets, Inc. was founded in 1973 and is headquartered in Chicago, Illinois.'
+longName: Cboe Global Markets, Inc.
+market: us_market
+marketCap: 38407090176
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_32624297
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1474800000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 38060713030
+numberOfAnalystOpinions: 15
+open: 363.43
+operatingCashflow: 2625999872
+operatingMargins: 0.36426
+overallRisk: 2
+payoutRatio: 0.2149
+pegRatio: 3.12
+phone: 312 786 5600
+previousClose: 364.81
+priceEpsCurrentYear: 25.5919
+priceHint: 2
+priceToBook: 6.483331
+priceToSalesTrailing12Months: 7.276275
+profitMargins: 0.28048
+quickRatio: 0.797
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.66667
+region: US
+regularMarketChange: 3.3200073
+regularMarketChangePercent: 0.91006476
+regularMarketDayHigh: 369.54
+regularMarketDayLow: 359.96
+regularMarketDayRange: 359.96 - 369.54
+regularMarketOpen: 363.43
+regularMarketPreviousClose: 364.81
+regularMarketPrice: 368.13
+regularMarketTime: 1794413711
+regularMarketVolume: 387152
+returnOnAssets: 0.11842
+returnOnEquity: 0.27388
+revenueGrowth: 0.19
+revenuePerShare: 50.451
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 5
+sharesOutstanding: 104330235
+sharesPercentSharesOut: 0.0228
+sharesShort: 2549419
+sharesShortPreviousMonthDate: 1532995200
+sharesShortPriorMonth: 2578029
+shortName: Cboe Global Markets, Inc.
+shortPercentOfFloat: 0.0298
+shortRatio: 2.87
+sourceInterval: 15
+state: IL
+symbol: CBOE
+targetHighPrice: 461.0
+targetLowPrice: 299.0
+targetMeanPrice: 355.6
+targetMedianPrice: 350.0
+totalCash: 2663099904
+totalCashPerShare: 25.526
+totalDebt: 1578099968
+totalRevenue: 5278400000
+tradeable: false
+trailingAnnualDividendRate: 3.02
+trailingAnnualDividendYield: 0.008278281
+trailingEps: 14.05
+trailingPE: 26.201424
+trailingPegRatio: 3.2282
+triggerable: true
+twoHundredDayAverage: 295.26065
+twoHundredDayAverageChange: 72.869354
+twoHundredDayAverageChangePercent: 0.2467967
+typeDisp: Equity
+volume: 387152
+website: https://www.cboe.com
+zip: '60607'

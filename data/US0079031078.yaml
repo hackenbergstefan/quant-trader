@@ -1,0 +1,279 @@
+52WeekChange: 0.99007297
+SandP52WeekChange: 0.097798586
+address1: 2485 Augustine Drive
+allTimeHigh: 658.52
+allTimeLow: 1.61
+ask: 535.99
+askSize: 2
+auditRisk: 10
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 40896620
+averageDailyVolume3Month: 23289404
+averageVolume: 23289404
+averageVolume10days: 40896620
+beta: 2.542
+bid: 530.5
+bidSize: 2
+boardRisk: 3
+bookValue: 41.701
+city: Santa Clara
+companyOfficers:
+- age: 55
+  exercisedValue: 29165564
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Lisa T. Su Ph.D.
+  title: Chair, President & CEO
+  totalPay: 4540876
+  unexercisedValue: 47659288
+  yearBorn: 1970
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jean X. Hu Ph.D.
+  title: Executive VP, CFO & Treasurer
+  totalPay: 1976642
+  unexercisedValue: 1801494
+  yearBorn: 1963
+- age: 63
+  exercisedValue: 21492850
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark D. Papermaster
+  title: CTO and Executive VP of Technology & Engineering
+  totalPay: 2165455
+  unexercisedValue: 14220974
+  yearBorn: 1962
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul Darren Grasby
+  title: Executive VP, Chief Sales Officer & President of EMEA
+  totalPay: 2180902
+  unexercisedValue: 6177534
+  yearBorn: 1970
+- age: 60
+  exercisedValue: 2639673
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Forrest E. Norrod
+  title: Executive VP & GM of the Data Center Solutions Business Group
+  totalPay: 1939077
+  unexercisedValue: 12280258
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Keivan  Keshvari
+  title: Senior Vice President of Global Operations & Quality
+  unexercisedValue: 0
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Emily  Ellis
+  title: Corporate VP, Chief Accounting Officer & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hasmukh  Ranjan
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ruth  Cotter
+  title: Senior VP & Chief Administrative Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew D. Ramsay
+  title: Vice President of Financial Strategy & Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 551.125
+currentRatio: 2.725
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 555.68
+dayLow: 522.65
+debtToEquity: 13.469
+displayName: Advanced Micro Devices
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793743200
+earningsCallTimestampStart: 1793743200
+earningsGrowth: 0.938
+earningsQuarterlyGrowth: 0.953
+earningsTimestamp: 1793739600
+earningsTimestampEnd: 1801602000
+earningsTimestampStart: 1801602000
+ebitda: 11143000064
+ebitdaMargins: 0.24525
+enterpriseToEbitda: 75.242
+enterpriseToRevenue: 18.453
+enterpriseValue: 838424330240
+epsCurrentYear: 8.08425
+epsForward: 17.68947
+epsTrailingTwelveMonths: 4.68
+esgPopulated: false
+exDividendDate: 798940800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 548.5636
+fiftyDayAverageChange: 2.616394
+fiftyDayAverageChangePercent: 0.004769536
+fiftyTwoWeekChangePercent: 99.00729
+fiftyTwoWeekHigh: 658.52
+fiftyTwoWeekHighChange: -107.34003
+fiftyTwoWeekHighChangePercent: -0.16300192
+fiftyTwoWeekLow: 188.22
+fiftyTwoWeekLowChange: 362.96
+fiftyTwoWeekLowChangePercent: 1.9283817
+fiftyTwoWeekRange: 188.22 - 658.52
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+floatShares: 1631148775
+forwardEps: 17.68947
+forwardPE: 31.15865
+freeCashflow: 7357125120
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 31000
+fulldayChange: 35.96997
+fulldayChangePercent: 6.9845953
+fulldayPrice: 551.18
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.56
+grossProfits: 25443999744
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00417
+heldPercentInstitutions: 0.76956004
+impliedSharesOutstanding: 1640087251
+industry: Semiconductors
+industryDisp: Semiconductors
+industryKey: semiconductors
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=74093&p=irol-IRHome
+isEarningsDateEstimate: true
+language: en-US
+lastFiscalYearEnd: 1766793600
+lastSplitDate: 966902400
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Advanced Micro Devices, Inc. operates as a semiconductor company
+  internationally. It operates in three segments: Data Center, Client and Gaming,
+  and Embedded. The company offers artificial intelligence (AI) accelerators, microprocessors,
+  and graphics processing units (GPUs) as standalone devices or as incorporated into
+  accelerated processing units, chipsets, and data center and professional GPUs; and
+  embedded processors and semi-custom system-on-chip (SoC) products, microprocessor
+  and SoC development services and technology, data processing units, field programmable
+  gate arrays (FPGA), system on modules, AI network interface cards, and adaptive
+  SoC products. It provides processors under the AMD Ryzen, AMD Ryzen AI, AMD Ryzen
+  PRO, AMD Ryzen Threadripper, AMD Ryzen Threadripper PRO, AMD Athlon, and AMD PRO
+  A-Series brands; graphics under the AMD Radeon graphics and AMD Embedded Radeon
+  graphics; professional graphics under the AMD Radeon Pro graphics brand; and AI
+  and general-purpose compute infrastructure for hyperscale providers. The company
+  offers data center graphics under the AMD Instinct accelerators and Radeon PRO V-series
+  brands; server microprocessors under the AMD EPYC brand; low power solutions under
+  the AMD Athlon, AMD Geode, AMD Ryzen, AMD EPYC, and AMD R-Series and G-Series brands;
+  FPGA products under the Virtex-6, Virtex-7, Virtex UltraScale+, Kintex-7, Kintex
+  UltraScale, Kintex UltraScale+, Artix-7, Artix UltraScale+, Spartan-6, and Spartan-7
+  brands; adaptive SOCs under the Zynq-7000, Zynq UltraScale+ MPSoC, Zynq UltraScale+
+  RFSoCs, Versal HBM, Versal Premium, Versal Prime, Versal AI Core, Versal AI Edge,
+  Vitis, and Vivado brands; and compute and network acceleration board products under
+  the Alveo and Pensando brands. It serves original equipment and design manufacturers,
+  public cloud service providers, system integrators, distributors, and add-in-board
+  manufacturers. The company was incorporated in 1969 and is headquartered in Santa
+  Clara, California.'
+longName: Advanced Micro Devices, Inc.
+market: us_market
+marketCap: 903983333376
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_168864
+mostRecentQuarter: 1790380800
+netIncomeToCommon: 7725000192
+nextFiscalYearEnd: 1798329600
+nonDilutedMarketCap: 844989352587
+numberOfAnalystOpinions: 48
+open: 543.06
+operatingCashflow: 9123000320
+operatingMargins: 0.17820999
+overallRisk: 4
+payoutRatio: 0.0
+pegRatio: 0.46
+phone: 408 749 4000
+previousClose: 515.21
+priceEpsCurrentYear: 68.17948
+priceHint: 2
+priceToBook: 13.217428
+priceToSalesTrailing12Months: 19.893764
+profitMargins: 0.16769
+quickRatio: 1.725
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.39623
+region: US
+regularMarketChange: 35.96997
+regularMarketChangePercent: 6.9845953
+regularMarketDayHigh: 555.68
+regularMarketDayLow: 522.65
+regularMarketDayRange: 522.65 - 555.68
+regularMarketOpen: 543.06
+regularMarketPreviousClose: 515.21
+regularMarketPrice: 551.18
+regularMarketTime: 1794413733
+regularMarketVolume: 20201981
+returnOnAssets: 0.05895
+returnOnEquity: 0.1196
+revenueGrowth: 0.447
+revenuePerShare: 27.849
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 3
+sharesOutstanding: 1640087251
+sharesPercentSharesOut: 0.0235
+sharesShort: 38603935
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 39281942
+shortName: Advanced Micro Devices, Inc.
+shortPercentOfFloat: 0.023599999
+shortRatio: 1.91
+sourceInterval: 15
+state: CA
+symbol: AMD
+targetHighPrice: 1250.0
+targetLowPrice: 525.0
+targetMeanPrice: 657.4875
+targetMedianPrice: 650.0
+totalCash: 15776000000
+totalCashPerShare: 9.619
+totalDebt: 9210999808
+totalRevenue: 45435998208
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 4.68
+trailingPE: 117.773506
+trailingPegRatio: 0.4634
+triggerable: true
+twoHundredDayAverage: 418.5415
+twoHundredDayAverageChange: 132.63849
+twoHundredDayAverageChangePercent: 0.31690642
+typeDisp: Equity
+volume: 20201307
+website: https://www.amd.com
+zip: '95054'

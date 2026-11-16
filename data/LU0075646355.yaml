@@ -1,0 +1,262 @@
+52WeekChange: 0.65112627
+SandP52WeekChange: 0.097798586
+address1: Route d'Esch
+address2: 412 Floor
+allTimeHigh: 358.2
+allTimeLow: 7.61
+ask: 320.2
+askSize: 1280
+auditRisk: 5
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 313750
+averageDailyVolume3Month: 295668
+averageVolume: 295668
+averageVolume10days: 313750
+beta: 0.601
+bid: 320.0
+bidSize: 371
+boardRisk: 7
+bookValue: 137.35095
+city: Luxembourg
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark  Foley
+  title: Chief Financial Officer
+  totalPay: 9351554
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stuart  Fitzgerald
+  title: Chief Executive Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Phillip  Simons
+  title: Executive Vice President of Projects & Operations
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katherine  Tonks
+  title: Head of Investor Relations & Investor Relations Director
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nathalie  Louys
+  title: General Counsel & Company Secretary
+  unexercisedValue: 0
+  yearBorn: 1963
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Julie  Taylor
+  title: Head of Group Communications
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katherine  Lyne
+  title: Executive Vice President of Human Resources
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Olivier  Blaringhem
+  title: Executive Vice President of Subsea & Conventional
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Philippe  Gleize
+  title: MD of Seaway 7 Integrated Projects & Floating Wind Business Unit
+  unexercisedValue: 0
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marcelo Lopes Xavier
+  title: Executive Vice President of Strategy & Sustainability
+  unexercisedValue: 0
+  yearBorn: 1980
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Luxembourg
+cryptoTradeable: false
+currency: NOK
+currentPrice: 322.0
+currentRatio: 1.043
+customPriceAlertConfidence: LOW
+dayHigh: 323.8
+dayLow: 316.4
+debtToEquity: 19.543
+dividendRate: 19.5
+dividendYield: 6.19
+earningsCallTimestampEnd: 1795089600
+earningsCallTimestampStart: 1795089600
+earningsGrowth: 0.889
+earningsQuarterlyGrowth: 0.896
+earningsTimestamp: 1795101600
+earningsTimestampEnd: 1795101600
+earningsTimestampStart: 1795101600
+ebitda: 1426400000
+ebitdaMargins: 0.18974
+enterpriseToEbitda: 65.333
+enterpriseToRevenue: 12.396
+enterpriseValue: 93191479296
+epsCurrentYear: 2.63884
+epsForward: 25.208359
+epsTrailingTwelveMonths: 20.28
+esgPopulated: false
+exDividendDate: 1779235200
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 324.356
+fiftyDayAverageChange: -2.3559875
+fiftyDayAverageChangePercent: -0.007263586
+fiftyTwoWeekChangePercent: 65.112625
+fiftyTwoWeekHigh: 358.2
+fiftyTwoWeekHighChange: -36.200012
+fiftyTwoWeekHighChangePercent: -0.10106089
+fiftyTwoWeekLow: 184.3
+fiftyTwoWeekLowChange: 137.7
+fiftyTwoWeekLowChangePercent: 0.7471514
+fiftyTwoWeekRange: 184.3 - 358.2
+financialCurrency: USD
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 1.4
+floatShares: 197551289
+forwardEps: 25.208359
+forwardPE: 12.7735405
+freeCashflow: 1507262464
+fullExchangeName: Oslo
+fullTimeEmployees: 13513
+fulldayChange: 6.799988
+fulldayChangePercent: 2.1573565
+fulldayPrice: 322.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.18375999
+grossProfits: 1381500032
+hasPrePostMarketData: false
+heldPercentInsiders: 0.23709999
+heldPercentInstitutions: 0.57951
+impliedSharesOutstanding: 296996725
+industry: Oil & Gas Equipment & Services
+industryDisp: Oil & Gas Equipment & Services
+industryKey: oil-gas-equipment-services
+irWebsite: http://www.acergy-group.com
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779235200
+lastDividendValue: 13.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Subsea 7 S.A. delivers offshore projects and services for the
+  energy industry worldwide. The company offers subsea field development products
+  and services, including project management, design and engineering, procurement,
+  fabrication, survey, installation, and commissioning of production facilities on
+  the seabed and the tie-back of its facilities to fixed or floating platforms or
+  to the shore. It also provides remotely operated vehicles and tooling services to
+  support exploration and production activities and to deliver full life-of-field
+  services; procurement and installation of offshore wind turbine foundations and
+  inter-array cables, as well as heavy lifting operations for renewables structures
+  and heavy transportation services; and engineering and advisory services to clients
+  in the oil and gas, renewables, and utilities industries. In addition, the company
+  offers engineering, procurement, installation, and commissioning of subsea oil and
+  gas systems in deep waters; fabrication, installation, extension, and refurbishment
+  of fixed and floating platforms and associated pipelines in shallow water environments;
+  inspection, and repair and maintenance services, management of subsea infrastructure,
+  and remote intervention support; and carbon capture, utilization, and storage services.
+  The company was incorporated in 1993 and is based in Luxembourg, Luxembourg.
+longName: Subsea 7 S.A.
+market: no_market
+marketCap: 95632949248
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_359868
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 613000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 94385559205
+numberOfAnalystOpinions: 17
+open: 316.4
+operatingCashflow: 1906400000
+operatingMargins: 0.13726
+overallRisk: 7
+payoutRatio: 0.9365
+pegRatio: 1.28
+previousClose: 315.2
+priceEpsCurrentYear: 122.023315
+priceHint: 2
+priceToBook: 2.3443594
+priceToSalesTrailing12Months: 12.720869
+profitMargins: 0.08154
+quickRatio: 1.013
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.41176
+region: US
+regularMarketChange: 6.799988
+regularMarketChangePercent: 2.1573565
+regularMarketDayHigh: 323.8
+regularMarketDayLow: 316.4
+regularMarketDayRange: 316.4 - 323.8
+regularMarketOpen: 316.4
+regularMarketPreviousClose: 315.2
+regularMarketPrice: 322.0
+regularMarketTime: 1794410941
+regularMarketVolume: 241705
+returnOnAssets: 0.07966
+returnOnEquity: 0.14193
+revenueGrowth: 0.098
+revenuePerShare: 25.397
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 1
+sharesOutstanding: 296996725
+shortName: SUBSEA 7
+sourceInterval: 15
+symbol: SUBC.OL
+targetHighPrice: 476.40634
+targetLowPrice: 252.60243
+targetMeanPrice: 374.30038
+targetMedianPrice: 379.83878
+totalCash: 1045800000
+totalCashPerShare: 3.531
+totalDebt: 855699968
+totalRevenue: 7517799936
+tradeable: false
+trailingAnnualDividendRate: 1.29
+trailingAnnualDividendYield: 0.0040926393
+trailingEps: 20.28
+trailingPE: 15.877711
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 310.67
+twoHundredDayAverageChange: 11.329987
+twoHundredDayAverageChangePercent: 0.03646952
+typeDisp: Equity
+volume: 241705
+website: https://www.subsea7.com
+zip: '1471'

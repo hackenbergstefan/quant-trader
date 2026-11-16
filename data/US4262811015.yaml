@@ -1,0 +1,281 @@
+52WeekChange: 0.047975063
+SandP52WeekChange: 0.097798586
+address1: 663 West Highway 60
+address2: PO Box 807
+allTimeHigh: 212.62
+allTimeLow: 0.0625
+ask: 189.71
+askSize: 2
+auditRisk: 3
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1029130
+averageDailyVolume3Month: 957706
+averageVolume: 957706
+averageVolume10days: 1029130
+beta: 0.537
+bid: 160.38
+bidSize: 2
+boardRisk: 2
+bookValue: 29.284
+city: Monett
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Gregory R. Adelson
+  title: CEO, President & Director
+  totalPay: 2046375
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Mimi L. Carsley
+  title: CFO & Treasurer
+  totalPay: 1278959
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Shanon G. McLachlan
+  title: Senior VP, Executive Officer & COO
+  totalPay: 1074089
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Renee A. Swearingen
+  title: Senior VP, Chief Accounting Officer & Assistant Treasurer
+  totalPay: 549956
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Craig Keith Morgan
+  title: Chief Legal Officer & Secretary
+  totalPay: 1100553
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Benjamin  Metz
+  title: VP & Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Dennis  McDonald
+  title: VP & Chief Information and Security Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Vance  Sherard C.F.A.
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Michael  Carnovali
+  title: Chief Risk & Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Mark  Folk
+  title: Director of Corporate Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 174.9
+currentRatio: 1.375
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 175.57
+dayLow: 171.75
+debtToEquity: 5.749
+displayName: Jack Henry & Associates
+dividendDate: 1790121600
+dividendRate: 2.44
+dividendYield: 1.39
+earningsCallTimestampEnd: 1793799900
+earningsCallTimestampStart: 1793799900
+earningsGrowth: 0.157
+earningsQuarterlyGrowth: 0.114
+earningsTimestamp: 1793739600
+earningsTimestampEnd: 1801602000
+earningsTimestampStart: 1801602000
+ebitda: 729166016
+ebitdaMargins: 0.28032
+enterpriseToEbitda: 16.857
+enterpriseToRevenue: 4.726
+enterpriseValue: 12291853312
+epsCurrentYear: 7.27091
+epsForward: 7.99786
+epsTrailingTwelveMonths: 7.28
+esgPopulated: false
+exDividendDate: 1788480000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 157.1424
+fiftyDayAverageChange: 17.757599
+fiftyDayAverageChangePercent: 0.11300323
+fiftyTwoWeekChangePercent: 4.7975063
+fiftyTwoWeekHigh: 193.39
+fiftyTwoWeekHighChange: -18.490005
+fiftyTwoWeekHighChangePercent: -0.09560993
+fiftyTwoWeekLow: 121.04
+fiftyTwoWeekLowChange: 53.859993
+fiftyTwoWeekLowChangePercent: 0.4449768
+fiftyTwoWeekRange: 121.04 - 193.39
+financialCurrency: USD
+firstTradeDateMilliseconds: 501345000000
+fiveYearAvgDividendYield: 1.24
+floatShares: 69204482
+forwardEps: 7.99786
+forwardPE: 21.86835
+freeCashflow: 403928256
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 7300
+fulldayChange: -0.29000854
+fulldayChangePercent: -0.16553944
+fulldayPrice: 174.9
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.44067
+grossProfits: 1146242048
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00624
+heldPercentInstitutions: 1.04216
+impliedSharesOutstanding: 69618713
+industry: Information Technology Services
+industryDisp: Information Technology Services
+industryKey: information-technology-services
+irWebsite: http://jkhy.client.shareholder.com/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788480000
+lastDividendValue: 0.61
+lastFiscalYearEnd: 1782777600
+lastSplitDate: 983750400
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Jack Henry & Associates, Inc. operates as a financial technology
+  company that connects people and financial institutions through technology solutions
+  and payment processing services in the United States. It operates through four segments:
+  Core, Payments, Complementary, and Corporate Services. The Core segment provides
+  core information processing platforms to banks and credit unions, which consists
+  of integrated applications required to process deposit, loan, general ledger transactions,
+  and maintain centralized accountholder information. The Payments segment offers
+  secure payment processing tools and services, including ATM, money movement and
+  embedded payment capabilities, remote deposit capture processing, and risk management
+  products and services, as well as debit and credit card processing services, and
+  online and mobile bill pay solutions. The Complementary segment provides software,
+  and hosted processing platforms and services comprising digital/mobile banking,
+  treasury, online account opening, fraud/anti-money laundering, and lending/deposit
+  solutions. The Corporate Services segment offers hardware and other products. It
+  offers specialized financial performance, imaging and payment, information security
+  and risk management, retail delivery, and online and mobile solutions to financial
+  services organizations and corporate entities. The company also provides SilverLake
+  system, a system primarily designed for commercial-focused banks; CIF 20/20, a parameter-driven
+  system for banks; and Core Director, a system with point-and-click operation for
+  banks; and Symitar, a system designed for credit unions. It provides digital products
+  and services under the Banno Digital Platform, and electronic payment solutions;
+  hardware systems; implementation, training, and support and services; and data and
+  transaction processing, and software licensing and related services, as well as
+  professional services. The company was founded in 1976 and is headquartered in Monett,
+  Missouri.'
+longName: Jack Henry & Associates, Inc.
+market: us_market
+marketCap: 12176312320
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_277617
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 519201984
+nextFiscalYearEnd: 1814313600
+nonDilutedMarketCap: 12191629020
+numberOfAnalystOpinions: 19
+open: 173.07
+operatingCashflow: 802622976
+operatingMargins: 0.25611
+overallRisk: 1
+payoutRatio: 0.33099997
+pegRatio: 2.08
+phone: 417 235 6652
+previousClose: 175.19
+priceEpsCurrentYear: 24.05476
+priceHint: 2
+priceToBook: 5.9725447
+priceToSalesTrailing12Months: 4.6811304
+profitMargins: 0.1996
+quickRatio: 0.825
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.7619
+region: US
+regularMarketChange: -0.29000854
+regularMarketChangePercent: -0.16553944
+regularMarketDayHigh: 175.57
+regularMarketDayLow: 171.75
+regularMarketDayRange: 171.75 - 175.57
+regularMarketOpen: 173.07
+regularMarketPreviousClose: 175.19
+regularMarketPrice: 174.9
+regularMarketTime: 1794413724
+regularMarketVolume: 81691
+returnOnAssets: 0.13340001
+returnOnEquity: 0.24302
+revenueGrowth: 0.088
+revenuePerShare: 36.537
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 5
+sharesOutstanding: 69618713
+sharesPercentSharesOut: 0.0672
+sharesShort: 4677552
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4792445
+shortName: Jack Henry & Associates, Inc.
+shortPercentOfFloat: 0.0675
+shortRatio: 5.88
+sourceInterval: 15
+state: MO
+symbol: JKHY
+targetHighPrice: 220.0
+targetLowPrice: 168.0
+targetMeanPrice: 200.0
+targetMedianPrice: 197.0
+totalCash: 25356000
+totalCashPerShare: 0.364
+totalDebt: 120707000
+totalRevenue: 2601147904
+tradeable: false
+trailingAnnualDividendRate: 2.41
+trailingAnnualDividendYield: 0.013756493
+trailingEps: 7.28
+trailingPE: 24.024723
+trailingPegRatio: 2.0833
+triggerable: true
+twoHundredDayAverage: 153.94945
+twoHundredDayAverageChange: 20.950546
+twoHundredDayAverageChangePercent: 0.13608718
+typeDisp: Equity
+volume: 81691
+website: https://www.jackhenry.com
+zip: 65708-8215

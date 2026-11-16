@@ -1,0 +1,250 @@
+52WeekChange: 0.2069608
+SandP52WeekChange: 0.097798586
+address1: Ty Admiral
+address2: David Street
+allTimeHigh: 4128.0
+allTimeLow: 113.0
+ask: 3870.0
+askSize: 0
+auditRisk: 1
+averageDailyVolume10Day: 606373
+averageDailyVolume3Month: 723595
+averageVolume: 723595
+averageVolume10days: 606373
+beta: 0.207
+bid: 3868.0
+bidSize: 0
+boardRisk: 1
+bookValue: 4.964
+city: Cardiff
+companyOfficers:
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Milena  Mondini-de-Focatiis
+  title: Group CEO & Executive Director
+  totalPay: 2212979
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rachel Victoria Lewis
+  title: Group CFO & Executive Director
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Elliott
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Diane  Michelberger
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel John Caunt
+  title: Group Company Secretary  & General Counsel
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Keith Gerald Davies
+  title: Group Chief Risk & Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Zareena  Brown
+  title: Group Chief People Officer
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Graham Stevens CBE
+  title: Advisor
+  totalPay: 421285
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alistair  Hargreaves
+  title: Chief Executive Officer of UK Insurance Business
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Noel  Summerfield
+  title: Head of Household
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 3870.0
+currentRatio: 6.129
+customPriceAlertConfidence: LOW
+dayHigh: 3912.0
+dayLow: 3866.0
+debtToEquity: 139.039
+dividendRate: 1.43
+dividendYield: 3.69
+earningsCallTimestampEnd: 1786005000
+earningsCallTimestampStart: 1786005000
+earningsGrowth: -0.178
+earningsQuarterlyGrowth: -0.18
+earningsTimestampEnd: 1786030200
+earningsTimestampStart: 1786030200
+ebitda: 983200000
+ebitdaMargins: 0.19588
+enterpriseToEbitda: 12.283
+enterpriseToRevenue: 2.406
+enterpriseValue: 12076914688
+epsCurrentYear: 2.46338
+epsForward: 2.7396
+epsTrailingTwelveMonths: 2.18
+esgPopulated: false
+exDividendDate: 1788393600
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 3777.4
+fiftyDayAverageChange: 92.6001
+fiftyDayAverageChangePercent: 0.024514243
+fiftyTwoWeekChangePercent: 20.69608
+fiftyTwoWeekHigh: 4128.0
+fiftyTwoWeekHighChange: -258.0
+fiftyTwoWeekHighChangePercent: -0.0625
+fiftyTwoWeekLow: 2624.0
+fiftyTwoWeekLowChange: 1246.0
+fiftyTwoWeekLowChangePercent: 0.47484756
+fiftyTwoWeekRange: 2624.0 - 4128.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 1095922800000
+fiveYearAvgDividendYield: 3.88
+floatShares: 262269668
+forwardEps: 2.7396
+forwardPE: 14.12615
+freeCashflow: -4439737344
+fullExchangeName: LSE
+fullTimeEmployees: 14805
+fulldayChange: -14.0
+fulldayChangePercent: -0.36045313
+fulldayPrice: 3870.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.40258998
+grossProfits: 2020700032
+hasPrePostMarketData: false
+heldPercentInsiders: 0.15657
+heldPercentInstitutions: 0.69758004
+impliedSharesOutstanding: 299792457
+industry: Insurance - Property & Casualty
+industryDisp: Insurance - Property & Casualty
+industryKey: insurance-property-casualty
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788393600
+lastDividendValue: 0.705
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: "Admiral Group plc, a financial services company, provides insurance\
+  \ and personal lending products in the United Kingdom, France, Italy, and Spain.\
+  \ It operates through four segments: UK Insurance, European Insurance, Admiral Money,\
+  \ and Other. The company offers underwriting services that include motor, household,\
+  \ pet, travel, and other insurance, as well as car and home insurance; and distributes\
+  \ and underwrites unsecured personal loans, car finance products, and secured homeowner\
+  \ loans. It provides its insurance products and services under the Admiral, Admiral\
+  \ Business, Admiral Money, Admiral Pioneer, Balumba, Bell, Connect by Admiral, ConTe.it\
+  \ Assicurazioni, ConTe.it Prestiti, Diamond, Gladiator, L'olivier \x96 assurance,\
+  \ More Than, Qualitas Auto, and Veygo brand names. The company was formerly known\
+  \ as Admiral Group Limited and changed its name to Admiral Group plc in September\
+  \ 2004. Admiral Group plc was founded in 1993 and is headquartered in Cardiff, the\
+  \ United Kingdom."
+longName: Admiral Group plc
+market: gb_market
+marketCap: 11601968128
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_728553
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 668600000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 11643939029
+numberOfAnalystOpinions: 14
+open: 3878.0
+operatingCashflow: 496700000
+operatingMargins: 0.1915
+overallRisk: 1
+payoutRatio: 0.72870004
+pegRatio: 2.5
+phone: 44 3332 202 062
+previousClose: 3884.0
+priceEpsCurrentYear: 1571.0121
+priceHint: 2
+priceToBook: 7.7961316
+priceToSalesTrailing12Months: 2.3114715
+profitMargins: 0.1336
+quickRatio: 3.98
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -14.0
+regularMarketChangePercent: -0.36045313
+regularMarketDayHigh: 3912.0
+regularMarketDayLow: 3866.0
+regularMarketDayRange: 3866.0 - 3912.0
+regularMarketOpen: 3878.0
+regularMarketPreviousClose: 3884.0
+regularMarketPrice: 3870.0
+regularMarketTime: 1794411526
+regularMarketVolume: 237470
+returnOnAssets: 0.06684
+returnOnEquity: 0.45558
+revenueGrowth: -0.0
+revenuePerShare: 16.777
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 299792457
+shortName: ADMIRAL GROUP PLC ORD 0.1P
+sourceInterval: 15
+symbol: ADM.L
+targetHighPrice: 4800.0
+targetLowPrice: 2460.0
+targetMeanPrice: 3957.357
+targetMedianPrice: 4141.5
+totalCash: 1731100032
+totalCashPerShare: 5.735
+totalDebt: 2083500032
+totalRevenue: 5019299840
+tradeable: false
+trailingAnnualDividendRate: 1.433
+trailingAnnualDividendYield: 0.00036894952
+trailingEps: 2.18
+trailingPE: 17.752293
+trailingPegRatio: 2.4775
+triggerable: false
+twoHundredDayAverage: 3480.82
+twoHundredDayAverageChange: 389.17993
+twoHundredDayAverageChangePercent: 0.11180697
+typeDisp: Equity
+volume: 237470
+website: https://admiralgroup.co.uk
+zip: CF10 2EH

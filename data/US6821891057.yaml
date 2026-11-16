@@ -1,0 +1,259 @@
+52WeekChange: 0.41282725
+SandP52WeekChange: 0.097798586
+address1: 5701 North Pima Road
+allTimeHigh: 134.92
+allTimeLow: 0.89
+ask: 76.42
+askSize: 1
+auditRisk: 5
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 13861390
+averageDailyVolume3Month: 10465115
+averageVolume: 10465115
+averageVolume10days: 13861390
+beta: 2.151
+bid: 69.89
+bidSize: 1
+boardRisk: 3
+bookValue: 19.424
+city: Scottsdale
+companyOfficers:
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hassane S. El-Khoury
+  title: President, CEO & Director
+  totalPay: 1242399
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. S. Thad Trent
+  title: Executive VP, CFO, Treasurer & Principal Accounting Officer
+  totalPay: 1188542
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sudhir  Gopalswamy
+  title: Group President of Intelligent Sensing & Analog and Mixed Signal Group
+  totalPay: 1007662
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Wei-Chung  Wang Ph.D.
+  title: Executive Vice President of Operations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul  Dutton
+  title: Senior VP, Chief Legal Officer & Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Krystal  Heaton
+  title: Director & Head of Public Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Felicity  Carson
+  title: Senior VP & Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bert  Somsin
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Catherine  Cote
+  title: VP, Chief of Staff & Head of Office of the CEO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Marcus  Kneifel Ph.D.
+  title: Senior Vice President of Systems Engineering
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 73.58
+currentRatio: 3.548
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 73.68
+dayLow: 70.34
+debtToEquity: 62.097
+displayName: ON Semiconductor
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793656800
+earningsCallTimestampStart: 1793656800
+earningsGrowth: 0.261
+earningsQuarterlyGrowth: 0.231
+earningsTimestamp: 1793653200
+earningsTimestampEnd: 1793653200
+earningsTimestampStart: 1793653200
+ebitda: 1941500032
+ebitdaMargins: 0.30482998
+enterpriseToEbitda: 14.143
+enterpriseToRevenue: 4.311
+enterpriseValue: 27458492416
+epsCurrentYear: 3.29082
+epsForward: 4.73561
+epsTrailingTwelveMonths: 1.71
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 74.0642
+fiftyDayAverageChange: -0.48419952
+fiftyDayAverageChangePercent: -0.006537565
+fiftyTwoWeekChangePercent: 41.282726
+fiftyTwoWeekHigh: 134.92
+fiftyTwoWeekHighChange: -61.339996
+fiftyTwoWeekHighChangePercent: -0.45463976
+fiftyTwoWeekLow: 44.56
+fiftyTwoWeekLowChange: 29.02
+fiftyTwoWeekLowChangePercent: 0.65125674
+fiftyTwoWeekRange: 44.56 - 134.92
+financialCurrency: USD
+firstTradeDateMilliseconds: 957274200000
+floatShares: 387630030
+forwardEps: 4.73561
+forwardPE: 15.537598
+freeCashflow: 1614162560
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 22600
+fulldayChange: 3.9700012
+fulldayChangePercent: 5.703205
+fulldayPrice: 73.58
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.39898
+grossProfits: 2541199872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00308
+heldPercentInstitutions: 1.04541
+impliedSharesOutstanding: 389284489
+industry: Semiconductors
+industryDisp: Semiconductors
+industryKey: semiconductors
+irWebsite: http://www.onsemi.com/PowerSolutions/content.do?id=1116
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'ON Semiconductor Corporation provides intelligent sensing and
+  power solutions in Hong Kong, Singapore, the United Kingdom, the United States,
+  and internationally. It operates through three segments: Power Solutions Group,
+  Analog and Mixed-Signal Group, and Intelligent Sensing Group. The Power Solutions
+  Group segment offers discrete, module, and integrated semiconductor devices designed
+  to enable power conversion, including power switching, signal conditioning, and
+  circuit protection technologies. Its Analog and Mixed-Signal Group segment designs
+  and develops analog and mixed-signal solutions, including power management, sensor
+  interface, connectivity, and standard products for automotive, industrial automation,
+  AI data centers, computing, and mobile end markets. The Intelligent Sensing Group
+  segment develops complementary metal-oxide-semiconductor image sensors, image signal
+  processors, short-wave infrared sensors, and other products, as well as photon-counting
+  technologies, including single-photon avalanche diode arrays and silicon photomultiplier
+  devices for depth sensing, factory automation, safety systems, and robotics industries.
+  ON Semiconductor Corporation was incorporated in 1992 and is headquartered in Scottsdale,
+  Arizona.'
+longName: ON Semiconductor Corporation
+market: us_market
+marketCap: 28643553280
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_411950
+mostRecentQuarter: 1790899200
+netIncomeToCommon: 689100032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 27098093279
+numberOfAnalystOpinions: 25
+open: 72.45
+operatingCashflow: 1769699968
+operatingMargins: 0.20412001
+overallRisk: 2
+payoutRatio: 0.0
+pegRatio: 0.14
+phone: 602 244 6600
+previousClose: 69.61
+priceEpsCurrentYear: 22.35917
+priceHint: 2
+priceToBook: 3.7880974
+priceToSalesTrailing12Months: 4.497198
+profitMargins: 0.10819
+quickRatio: 2.409
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.03448
+region: US
+regularMarketChange: 3.9700012
+regularMarketChangePercent: 5.703205
+regularMarketDayHigh: 73.68
+regularMarketDayLow: 70.34
+regularMarketDayRange: 70.34 - 73.68
+regularMarketOpen: 72.45
+regularMarketPreviousClose: 69.61
+regularMarketPrice: 73.58
+regularMarketTime: 1794413739
+regularMarketVolume: 2259563
+returnOnAssets: 0.06032
+returnOnEquity: 0.089090005
+revenueGrowth: 0.111
+revenuePerShare: 16.179
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 6
+sharesOutstanding: 389284489
+sharesPercentSharesOut: 0.0735
+sharesShort: 28623629
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 30002949
+shortName: ON Semiconductor Corporation
+shortPercentOfFloat: 0.101
+shortRatio: 2.71
+sourceInterval: 15
+state: AZ
+symbol: 'ON'
+targetHighPrice: 125.0
+targetLowPrice: 75.0
+targetMeanPrice: 96.16
+targetMedianPrice: 90.0
+totalCash: 4367699968
+totalCashPerShare: 11.22
+totalDebt: 4707800064
+totalRevenue: 6369200128
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 1.71
+trailingPE: 43.02924
+trailingPegRatio: 0.1448
+triggerable: true
+twoHundredDayAverage: 82.63565
+twoHundredDayAverageChange: -9.055649
+twoHundredDayAverageChangePercent: -0.109585255
+typeDisp: Equity
+volume: 2259563
+website: https://www.onsemi.com
+zip: '85250'

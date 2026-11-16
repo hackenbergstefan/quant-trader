@@ -1,0 +1,269 @@
+52WeekChange: 0.2413218
+SandP52WeekChange: 0.097798586
+address1: Karakaari 7
+allTimeHigh: 65.0
+allTimeLow: 1.33
+ask: 7.71
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 15099835
+averageDailyVolume3Month: 17403886
+averageVolume: 17403886
+averageVolume10days: 15099835
+beta: 0.756
+bid: 7.706
+bidSize: 0
+boardRisk: 1
+bookValue: 3.753
+city: Espoo
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Justin  Hotard
+  title: President & CEO
+  totalPay: 6346592
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marco  Wiren M.Sc. (Econ.)
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephan  Prosi
+  title: Vice President of Corporate Controlling & Accounting
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Pallavi  Mahajan
+  title: Chief Technology & AI Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Esa  Niinimaki
+  title: Chief Legal & Admin. Officer, Corporate and Secretary
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Terence Mulholland C.F.A.
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Louise  Fisk
+  title: Chief Communications & Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Konstanty  Owczarek
+  title: Chief Corporate Development Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristen  Pressner
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lise  Karstensen
+  title: Head of Nordic&Baltic, Global Enterprise & Public Sector and Country Director
+    of Denmark
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Finland
+cryptoTradeable: false
+currency: EUR
+currentPrice: 7.706
+currentRatio: 1.461
+customPriceAlertConfidence: HIGH
+dayHigh: 7.76
+dayLow: 7.584
+debtToEquity: 15.815
+dividendRate: 0.14
+dividendYield: 1.88
+earningsCallTimestampEnd: 1792670400
+earningsCallTimestampStart: 1792670400
+earningsGrowth: 2.221
+earningsQuarterlyGrowth: 0.949
+earningsTimestamp: 1792683000
+earningsTimestampEnd: 1792683000
+earningsTimestampStart: 1792683000
+ebitda: 2755000064
+ebitdaMargins: 0.13215
+enterpriseToEbitda: 14.721
+enterpriseToRevenue: 1.945
+enterpriseValue: 40556163072
+epsCurrentYear: 0.36171
+epsForward: 0.42653
+epsTrailingTwelveMonths: 0.14
+esgPopulated: false
+exDividendDate: 1792972800
+exchange: HEL
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Helsinki
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fax: 358 104 481 002
+fiftyDayAverage: 8.59852
+fiftyDayAverageChange: -0.8925204
+fiftyDayAverageChangePercent: -0.103799306
+fiftyTwoWeekChangePercent: 24.13218
+fiftyTwoWeekHigh: 14.995
+fiftyTwoWeekHighChange: -7.289
+fiftyTwoWeekHighChangePercent: -0.48609537
+fiftyTwoWeekLow: 5.072
+fiftyTwoWeekLowChange: 2.6339998
+fiftyTwoWeekLowChangePercent: 0.51932174
+fiftyTwoWeekRange: 5.072 - 14.995
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 1.75
+floatShares: 4508021293
+forwardEps: 0.42653
+forwardPE: 18.066725
+freeCashflow: 1290749952
+fullExchangeName: Helsinki
+fullTimeEmployees: 78005
+fulldayChange: 0.26799965
+fulldayChangePercent: 3.6031144
+fulldayPrice: 7.706
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.45433998
+grossProfits: 9472000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.06609
+heldPercentInstitutions: 0.40660998
+impliedSharesOutstanding: 5658935619
+industry: Communication Equipment
+industryDisp: Communication Equipment
+industryKey: communication-equipment
+irWebsite: http://www.nokia.com/global/about-nokia/investors/investors/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792972800
+lastDividendValue: 0.03
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Nokia Oyj, together with its subsidiaries, provides mobile,
+  fixed, and cloud network solutions in North and Latin America, Greater China, India,
+  Asia Pacific, Europe, the Middle East, and Africa. It operates in four segments:
+  Network Infrastructure, Mobile Networks, Cloud and Network Services, and Nokia Technologies.
+  The company offers fixed network solutions, such as fiber and copper technologies,
+  access infrastructure, in-home Wi-Fi solutions, and cloud and virtualization services;
+  IP network solutions, which delivers IP edge routing and data center networking
+  solutions for residential, mobile, enterprise, and cloud applications; and optical
+  networks solutions, which provides optical transport networks for metro, regional,
+  and long-haul applications. It also provides mobile technology products, agentic
+  AI platform, and services for radio access networks and microwave radio links for
+  transport networks; and network management solutions, as well as network planning,
+  optimization, network deployment, and technical support services. In addition, the
+  company offers cloud and network services, including open, secure, automated, and
+  scalable software and solutions; and 5G core, secure autonomous networks, private
+  wireless and industrial edge, and network APIs. Further, it licenses intellectual
+  property, including patents, technologies, and the Nokia brand. The company serves
+  its products and services to defense communications energy and resources, enterprise
+  and industrial campus, private networks, public sector, and transportation industries.
+  Nokia Oyj was founded in 1865 and is headquartered in Espoo, Finland.'
+longName: Nokia Oyj
+market: fi_market
+marketCap: 43607756800
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_205573
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 785000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 42091163134
+numberOfAnalystOpinions: 23
+open: 7.628
+operatingCashflow: 629000000
+operatingMargins: 0.098859996
+overallRisk: 1
+payoutRatio: 1.0
+pegRatio: 0.62
+phone: 358 1044 88000
+prevName: Nokia Corporation
+previousClose: 7.438
+priceEpsCurrentYear: 21.30436
+priceHint: 2
+priceToBook: 2.0532906
+priceToSalesTrailing12Months: 2.0916996
+profitMargins: 0.03751
+quickRatio: 1.176
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.45455
+region: US
+regularMarketChange: 0.26799965
+regularMarketChangePercent: 3.6031144
+regularMarketDayHigh: 7.76
+regularMarketDayLow: 7.584
+regularMarketDayRange: 7.584 - 7.76
+regularMarketOpen: 7.628
+regularMarketPreviousClose: 7.438
+regularMarketPrice: 7.706
+regularMarketTime: 1794412469
+regularMarketVolume: 6687477
+returnOnAssets: 0.03494
+returnOnEquity: 0.03882
+revenueGrowth: 0.097
+revenuePerShare: 3.734
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 5658935619
+shortName: Nokia Corporation
+sourceInterval: 15
+symbol: NOKIA.HE
+targetHighPrice: 18.0
+targetLowPrice: 4.65
+targetMeanPrice: 10.53174
+targetMedianPrice: 10.2
+totalCash: 5006000128
+totalCashPerShare: 0.885
+totalDebt: 3374000128
+totalRevenue: 20848001024
+tradeable: false
+trailingAnnualDividendRate: 0.14
+trailingAnnualDividendYield: 0.018822264
+trailingEps: 0.14
+trailingPE: 55.042854
+trailingPegRatio: 0.6241
+triggerable: true
+twoHundredDayAverage: 9.015145
+twoHundredDayAverageChange: -1.3091455
+twoHundredDayAverageChangePercent: -0.14521624
+typeDisp: Equity
+volume: 6687477
+website: https://www.nokia.com
+zip: '02610'

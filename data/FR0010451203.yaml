@@ -1,0 +1,242 @@
+52WeekChange: 0.1830709
+SandP52WeekChange: 0.097798586
+address1: 13 Boulevard du Fort de Vaux
+address2: Cedex 17 CS 60002
+allTimeHigh: 39.8
+allTimeLow: 3.557
+ask: 0.0
+askSize: 0
+auditRisk: 3
+averageDailyVolume10Day: 871826
+averageDailyVolume3Month: 683498
+averageVolume: 683498
+averageVolume10days: 871826
+beta: 0.978
+bid: 0.0
+bidSize: 0
+boardRisk: 1
+bookValue: 18.764
+city: Paris
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Guillaume Jean Philippe Texier
+  title: CEO & Director
+  totalPay: 2155181
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Laurent  Delabarre
+  title: Group Chief Financial Officer - Leading the China & India Cluster
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ludovic  Debailleux
+  title: Investors Relations Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Oriane  Faure
+  title: General Counsel, Ethics & Compliance Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Julien  Neuschwander
+  title: Group Chief Digital & Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Martin  Maurer
+  title: Group Human Resources Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Roger  Little
+  title: Chief Executive Officer of USA
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Moreau
+  title: Chief Executive Officer of France
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Nour  Mejri
+  title: Chief Strategy Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Antoine  Audureau
+  title: Group Chief Procurement Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 36.36
+currentRatio: 1.662
+customPriceAlertConfidence: LOW
+dayHigh: 36.9
+dayLow: 36.2
+debtToEquity: 106.997
+dividendRate: 1.2
+dividendYield: 3.33
+earningsCallTimestampEnd: 1785166200
+earningsCallTimestampStart: 1785166200
+earningsGrowth: 0.309
+earningsQuarterlyGrowth: 0.307
+earningsTimestampEnd: 1785166200
+earningsTimestampStart: 1785166200
+ebitda: 1217699968
+ebitdaMargins: 0.06204
+enterpriseToEbitda: 12.705
+enterpriseToRevenue: 0.788
+enterpriseValue: 15471080448
+epsCurrentYear: 2.57743
+epsForward: 3.06242
+epsTrailingTwelveMonths: 2.26
+esgPopulated: false
+exDividendDate: 1778457600
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 33 1 42 85 92 02
+fiftyDayAverage: 35.0012
+fiftyDayAverageChange: 1.358799
+fiftyDayAverageChangePercent: 0.038821496
+fiftyTwoWeekChangePercent: 18.30709
+fiftyTwoWeekHigh: 39.8
+fiftyTwoWeekHighChange: -3.4399986
+fiftyTwoWeekHighChangePercent: -0.08643213
+fiftyTwoWeekLow: 29.87
+fiftyTwoWeekLowChange: 6.49
+fiftyTwoWeekLowChangePercent: 0.21727484
+fiftyTwoWeekRange: 29.87 - 39.8
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1175756400000
+fiveYearAvgDividendYield: 3.69
+floatShares: 236556403
+forwardEps: 3.06242
+forwardPE: 11.872964
+freeCashflow: 570800000
+fullExchangeName: Paris
+fullTimeEmployees: 26395
+fulldayChange: 0.29999924
+fulldayChangePercent: 0.83217543
+fulldayPrice: 36.36
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.25151
+grossProfits: 4936699904
+hasPrePostMarketData: false
+heldPercentInsiders: 0.015570001
+heldPercentInstitutions: 0.75675005
+impliedSharesOutstanding: 308247666
+industry: Electronics & Computer Distribution
+industryDisp: Electronics & Computer Distribution
+industryKey: electronics-computer-distribution
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778457600
+lastDividendValue: 1.2
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Rexel S.A., together with its subsidiaries, engages in the distribution
+  of low voltage electrical products for the residential, commercial, and industrial
+  markets in France, rest of Europe, North America, and the Asia-Pacific. The company
+  offers electrical supplies and solutions including industrial control, automation
+  and specialty products. It also offers a range of digital channels: automated logistics,
+  webshops, mobile apps, online tools for product configuration, and electronic data
+  interchanges. The company was founded in 1967 and is headquartered in Paris, France.'
+longName: Rexel S.A.
+market: fr_market
+marketCap: 11207885824
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_876205
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 668800000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 10911967376
+numberOfAnalystOpinions: 13
+open: 36.62
+operatingCashflow: 937000000
+operatingMargins: 0.058179997
+overallRisk: 1
+payoutRatio: 0.53099996
+pegRatio: 1.12
+phone: 33 1 42 85 85 00
+previousClose: 36.06
+priceEpsCurrentYear: 14.107076
+priceHint: 2
+priceToBook: 1.9377532
+priceToSalesTrailing12Months: 0.57100934
+profitMargins: 0.03407
+quickRatio: 1.12
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: 0.29999924
+regularMarketChangePercent: 0.83217543
+regularMarketDayHigh: 36.9
+regularMarketDayLow: 36.2
+regularMarketDayRange: 36.2 - 36.9
+regularMarketOpen: 36.62
+regularMarketPreviousClose: 36.06
+regularMarketPrice: 36.36
+regularMarketTime: 1794411565
+regularMarketVolume: 183009
+returnOnAssets: 0.04782
+returnOnEquity: 0.12609
+revenueGrowth: 0.022
+revenuePerShare: 66.734
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 308247666
+shortName: REXEL
+sourceInterval: 15
+symbol: RXL.PA
+targetHighPrice: 46.0
+targetLowPrice: 30.0
+targetMeanPrice: 41.86154
+targetMedianPrice: 44.0
+totalCash: 1033800000
+totalCashPerShare: 3.522
+totalDebt: 5907100160
+totalRevenue: 19628199936
+tradeable: false
+trailingAnnualDividendRate: 1.2
+trailingAnnualDividendYield: 0.03327787
+trailingEps: 2.26
+trailingPE: 16.088495
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 36.0316
+twoHundredDayAverageChange: 0.32839966
+twoHundredDayAverageChangePercent: 0.009114212
+typeDisp: Equity
+volume: 183009
+website: https://www.rexel.com
+zip: '75017'

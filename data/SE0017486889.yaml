@@ -1,0 +1,269 @@
+52WeekChange: 0.17986953
+SandP52WeekChange: 0.097798586
+address1: Sickla Industriväg 19
+allTimeHigh: 214.1
+allTimeLow: 4.359147
+ask: 194.05
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 5418308
+averageDailyVolume3Month: 4637849
+averageVolume: 4637849
+averageVolume10days: 5418308
+beta: 1.074
+bid: 193.95
+bidSize: 0
+boardRisk: 5
+bookValue: 24.323
+city: Nacka
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vagner  Rego
+  title: President, CEO & Director
+  totalPay: 25502000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Kinnart
+  title: Senior VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marcus  Hvied
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel  Althoff
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Eva  Klasen
+  title: Senior VP & Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sara Hagg Liljedal
+  title: Senior VP & Chief Communications Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cecilia  Sandberg
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew  Walker
+  title: Senior Executive VP & Business Area President of Power Technique
+  unexercisedValue: 0
+  yearBorn: 1961
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lars  Eklof
+  title: President of MVI Tools & Assembly Systems
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philippe  Ernens
+  title: Senior Executive VP & Business Area President Compressor Technique
+  unexercisedValue: 0
+  yearBorn: 1971
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 194.05
+currentRatio: 1.439
+customPriceAlertConfidence: HIGH
+dayHigh: 195.0
+dayLow: 192.65
+debtToEquity: 31.54
+dividendRate: 3.0
+dividendYield: 1.58
+earningsCallTimestampEnd: 1792670400
+earningsCallTimestampStart: 1792670400
+earningsGrowth: 0.153
+earningsQuarterlyGrowth: 0.156
+earningsTimestamp: 1792683000
+earningsTimestampEnd: 1792683000
+earningsTimestampStart: 1792683000
+ebitda: 43897999360
+ebitdaMargins: 0.24911
+enterpriseToEbitda: 21.419
+enterpriseToRevenue: 5.336
+enterpriseValue: 940250693632
+epsCurrentYear: 6.24635
+epsForward: 6.41
+epsTrailingTwelveMonths: 5.67
+esgPopulated: false
+exDividendDate: 1792368000
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 198.282
+fiftyDayAverageChange: -4.2319946
+fiftyDayAverageChangePercent: -0.021343313
+fiftyTwoWeekChangePercent: 17.986954
+fiftyTwoWeekHigh: 214.1
+fiftyTwoWeekHighChange: -20.050003
+fiftyTwoWeekHighChangePercent: -0.09364784
+fiftyTwoWeekLow: 149.45
+fiftyTwoWeekLowChange: 44.600006
+fiftyTwoWeekLowChangePercent: 0.2984276
+fiftyTwoWeekRange: 149.45 - 214.1
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 1.52
+floatShares: 4879079600
+forwardEps: 6.41
+forwardPE: 30.273012
+freeCashflow: 25982124032
+fullExchangeName: Stockholm
+fullTimeEmployees: 57147
+fulldayChange: 4.150009
+fulldayChangePercent: 2.1853657
+fulldayPrice: 194.05
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.42141
+grossProfits: 74259996672
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00029
+heldPercentInstitutions: 0.70018995
+impliedSharesOutstanding: 4880446125
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792368000
+lastDividendValue: 1.5
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1652400000
+lastSplitFactor: '4:1'
+longBusinessSummary: Atlas Copco AB (publ) provides compressed air and gas, air treatment
+  systems, vacuum, industrial power tools and assembly systems, machine vision, and
+  power and flow solutions in North America, South America, Europe, Africa, the Middle
+  East, Asia, and Oceania. It operates through Compressor Technique, Vacuum Technique,
+  Industrial Technique, and Power Technique segments. The company offers piston compressors,
+  oil-free tooth and scroll compressors, rotary screw compressors, oil-free blowers,
+  oil-free centrifugal compressors, gas and process compressors, air and gas treatment
+  equipment, expanders and pumps, and medical air solutions. It also provides oil-sealed
+  rotary vane, dry, and liquid ring vacuum pumps; turbomolecular and cryogenic pumps;
+  abatement and integrated systems; industrial assembly tools and solutions; self-pierce
+  riveting solutions; adhesive dispensing and flow drill fastening equipment; material
+  removal tools, and drills and other pneumatic products; machine vision solutions;
+  construction and demolition tools; mobile compressors, generators, and energy storage
+  systems; and industrial flow, portable power, portable flow, and portable air products,
+  as well as specialty rental services. The company serves the semiconductor and flat
+  panel, industrial manufacturing, civil engineering, demolition, exploration drilling,
+  automotive, off-highway vehicle producers, electronics, aerospace, energy, food,
+  pharmaceutical, textile, and other industries. Atlas Copco AB (publ) was founded
+  in 1873 and is headquartered in Nacka, Sweden.
+longName: Atlas Copco AB (publ)
+market: se_market
+marketCap: 947050577920
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_418524
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 27658000384
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 887896442054
+numberOfAnalystOpinions: 20
+open: 193.0
+operatingCashflow: 32146999296
+operatingMargins: 0.21008
+overallRisk: 4
+payoutRatio: 0.5291
+pegRatio: 2.26
+phone: 46 87 43 80 00
+prevName: Atlas Copco AB
+previousClose: 189.9
+priceEpsCurrentYear: 31.066145
+priceHint: 2
+priceToBook: 7.9780455
+priceToSalesTrailing12Months: 5.3743734
+profitMargins: 0.15696
+quickRatio: 1.018
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.7619
+region: US
+regularMarketChange: 4.150009
+regularMarketChangePercent: 2.1853657
+regularMarketDayHigh: 195.0
+regularMarketDayLow: 192.65
+regularMarketDayRange: 192.65 - 195.0
+regularMarketOpen: 193.0
+regularMarketPreviousClose: 189.9
+regularMarketPrice: 194.05
+regularMarketTime: 1794412458
+regularMarketVolume: 1173705
+returnOnAssets: 0.10457
+returnOnEquity: 0.24542
+revenueGrowth: 0.151
+revenuePerShare: 36.143
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 7
+sharesOutstanding: 3319570093
+shortName: Atlas Copco AB ser. A
+sourceInterval: 15
+symbol: ATCO-A.ST
+targetHighPrice: 260.0
+targetLowPrice: 165.0
+targetMeanPrice: 225.35
+targetMedianPrice: 232.5
+totalCash: 24277999616
+totalCashPerShare: 4.975
+totalDebt: 37510000640
+totalRevenue: 176215998464
+tradeable: false
+trailingAnnualDividendRate: 3.0
+trailingAnnualDividendYield: 0.015797788
+trailingEps: 5.67
+trailingPE: 34.223988
+trailingPegRatio: 2.2911
+triggerable: true
+twoHundredDayAverage: 189.673
+twoHundredDayAverageChange: 4.376999
+twoHundredDayAverageChangePercent: 0.023076551
+typeDisp: Equity
+volume: 1173705
+website: https://www.atlascopcogroup.com
+zip: 105 23

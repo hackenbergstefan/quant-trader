@@ -1,0 +1,288 @@
+52WeekChange: 0.020156384
+SandP52WeekChange: 0.097798586
+address1: 5205 N. O'Connor Boulevard
+address2: Suite 100
+allTimeHigh: 1073.46
+allTimeLow: 1.229167
+ask: 599.57
+askSize: 40
+auditRisk: 4
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 4972460
+averageDailyVolume3Month: 2898726
+averageVolume: 2898726
+averageVolume10days: 4972460
+beta: 1.64
+bid: 599.02
+bidSize: 80
+boardRisk: 4
+bookValue: 46.948
+city: Irving
+companyOfficers:
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph E. Creed CPA
+  title: Chairman & CEO
+  totalPay: 4368476
+  unexercisedValue: 36623136
+  yearBorn: 1976
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christine M. Pambianchi
+  title: Chief Human Resources Officer
+  totalPay: 2075625
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Denise C. Johnson
+  title: Group President of Resource Industries
+  totalPay: 2492993
+  unexercisedValue: 36318824
+  yearBorn: 1966
+- age: 55
+  exercisedValue: 8231793
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bob  De Lange
+  title: Group President of Services, Distribution & Digital
+  totalPay: 2361317
+  unexercisedValue: 97235608
+  yearBorn: 1970
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kyle J. Epley
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William E. Schaupp
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jaime  Mineart
+  title: Senior VP & CTO
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jamie L. Engstrom
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Alex  Kapper
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Derek R. Owens
+  title: Chief Legal Officer & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1974
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 599.61
+currentRatio: 1.422
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 601.28
+dayLow: 588.5
+debtToEquity: 210.413
+displayName: Caterpillar
+dividendDate: 1795046400
+dividendRate: 6.52
+dividendYield: 1.12
+earningsCallTimestampEnd: 1801135800
+earningsCallTimestampStart: 1801135800
+earningsGrowth: 0.461
+earningsQuarterlyGrowth: 0.429
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1801139400
+earningsTimestampStart: 1801139400
+ebitda: 16949999616
+ebitdaMargins: 0.21794
+enterpriseToEbitda: 18.029
+enterpriseToRevenue: 3.929
+enterpriseValue: 305593810944
+epsCurrentYear: 27.11168
+epsForward: 32.24703
+epsTrailingTwelveMonths: 25.48
+esgPopulated: false
+exDividendDate: 1792972800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 309 494 4818
+fiftyDayAverage: 752.0576
+fiftyDayAverageChange: -152.44763
+fiftyDayAverageChangePercent: -0.20270738
+fiftyTwoWeekChangePercent: 2.0156384
+fiftyTwoWeekHigh: 1073.46
+fiftyTwoWeekHighChange: -473.84998
+fiftyTwoWeekHighChangePercent: -0.44142306
+fiftyTwoWeekLow: 537.08
+fiftyTwoWeekLowChange: 62.52997
+fiftyTwoWeekLowChangePercent: 0.1164258
+fiftyTwoWeekRange: 537.08 - 1073.46
+financialCurrency: USD
+firstTradeDateMilliseconds: -252322200000
+fiveYearAvgDividendYield: 1.4
+floatShares: 456134449
+forwardEps: 32.24703
+forwardPE: 18.59427
+freeCashflow: 3973250048
+fullExchangeName: NYSE
+fullTimeEmployees: 118000
+fulldayChange: 15.039978
+fulldayChangePercent: 2.5728276
+fulldayPrice: 599.61
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.29542
+grossProfits: 22976000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00225
+heldPercentInstitutions: 0.74230003
+impliedSharesOutstanding: 457594174
+industry: Farm & Heavy Construction Machinery
+industryDisp: Farm & Heavy Construction Machinery
+industryKey: farm-heavy-construction-machinery
+irWebsite: http://www.caterpillar.com/investors
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792972800
+lastDividendValue: 1.63
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1121299200
+lastSplitFactor: '2:1'
+longBusinessSummary: Caterpillar Inc. provides construction and mining equipment,
+  off-highway diesel and natural gas engines, industrial gas turbines, and diesel-electric
+  locomotives in the United States and internationally. The Construction Industries
+  segment offers asphalt pavers, cold planers, compactors, forestry machines, material
+  handlers, motor graders, pipelayers, road reclaimers, telehandlers, track-type tractors,
+  and track and wheel excavators; backhoe, compact track, skid steer, track-type,
+  and wheel loaders; and related parts and work tools. Its Resource Industries segment
+  provides electric rope and hydraulic shovels, draglines, rotary drills, hard rock
+  vehicles, mining trucks, wheel loaders, off-highway and articulated trucks, wide-body
+  trucks, wheel tractor scrapers and dozers, and landfill and soil compactors; machinery
+  components, and wear and maintenance components; and technology products and services
+  for fleet management, equipment management analytics, autonomous machine capabilities,
+  safety services, and mining performance solutions. The Energy & Transportation segment
+  offers reciprocating engine powered generator sets; reciprocating engines, drivetrain,
+  and integrated systems and solutions; centrifugal gas compressors and related services;
+  and diesel-electric locomotive components, and other rail-related products. Its
+  Financial Products segment provides operating and finance leases, revolving charge
+  accounts, installment sale contracts, repair/rebuild financing, working capital
+  loans, and wholesale financing; and insurance and risk management products and services.
+  The All Other segment offers parts distribution; logistics and distribution services;
+  electronics and control systems; dealer portfolio management; brand management and
+  marketing strategy; and digital investment services. It also provides mining software
+  solutions. The company was formerly known as Caterpillar Tractor Co. Caterpillar
+  Inc. was incorporated in 1925 and is headquartered in Irving, Texas.
+longName: Caterpillar Inc.
+market: us_market
+marketCap: 274378031104
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_259378
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 11831000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 267495826295
+numberOfAnalystOpinions: 26
+open: 600.7
+operatingCashflow: 14183999488
+operatingMargins: 0.18761
+overallRisk: 3
+payoutRatio: 0.24180001
+pegRatio: 1.05
+phone: 972 891 7700
+previousClose: 584.57
+priceEpsCurrentYear: 22.116299
+priceHint: 2
+priceToBook: 12.77179
+priceToSalesTrailing12Months: 3.5279343
+profitMargins: 0.15212
+quickRatio: 0.804
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.96552
+region: US
+regularMarketChange: 15.039978
+regularMarketChangePercent: 2.5728276
+regularMarketDayHigh: 601.28
+regularMarketDayLow: 588.5
+regularMarketDayRange: 588.5 - 601.28
+regularMarketOpen: 600.7
+regularMarketPreviousClose: 584.57
+regularMarketPrice: 599.61
+regularMarketTime: 1794413728
+regularMarketVolume: 1022098
+returnOnAssets: 0.09094
+returnOnEquity: 0.56135
+revenueGrowth: 0.173
+revenuePerShare: 168.24
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 5
+sharesOutstanding: 457594174
+sharesPercentSharesOut: 0.0179
+sharesShort: 8186379
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 8005755
+shortName: Caterpillar, Inc.
+shortPercentOfFloat: 0.02
+shortRatio: 2.68
+sourceInterval: 15
+state: TX
+symbol: CAT
+targetHighPrice: 1044.68
+targetLowPrice: 575.0
+targetMeanPrice: 823.4139
+targetMedianPrice: 800.0
+totalCash: 7102000128
+totalCashPerShare: 15.52
+totalDebt: 45200998400
+totalRevenue: 77772996608
+tradeable: false
+trailingAnnualDividendRate: 6.28
+trailingAnnualDividendYield: 0.010742939
+trailingEps: 25.48
+trailingPE: 23.532574
+trailingPegRatio: 1.0501
+triggerable: true
+twoHundredDayAverage: 808.1339
+twoHundredDayAverageChange: -208.52393
+twoHundredDayAverageChangePercent: -0.2580314
+typeDisp: Equity
+volume: 1022098
+website: https://www.caterpillar.com
+zip: '75039'

@@ -1,0 +1,274 @@
+52WeekChange: 0.0008889437
+SandP52WeekChange: 0.097798586
+address1: Sandviksboder 77A/B
+allTimeHigh: 30408.13
+allTimeLow: 7.7
+ask: 227.0
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 1248085
+averageDailyVolume3Month: 1168290
+averageVolume: 1168290
+averageVolume10days: 1248085
+beta: 0.514
+bid: 226.8
+bidSize: 0
+boardRisk: 6
+bookValue: 87.49508
+city: Bergen
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ivan  Vindheim
+  title: Chief Executive Officer
+  totalPay: 9607097
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kristian  Ellingsen
+  title: Chief Financial Officer
+  totalPay: 3556625
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Catarina  Martins
+  title: Chief Sustainability Officer & CTO
+  totalPay: 2756911
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ola  Brattvoll
+  title: Chief Operating Officer of Sales & Marketing
+  totalPay: 3735509
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kjersti  Eikeseth
+  title: Chief Human Resources Officer
+  totalPay: 2115034
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Benjamin  Hadfield
+  title: Chief Operating Officer of Farming Scotland, Ireland, Faroes & Canada East
+  totalPay: 5061351
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oyvind  Oaland
+  title: Chief Operating Officer of Farming Norway & Iceland
+  totalPay: 3672373
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Atle  Kvist
+  title: Chief Operating Officer of Feed
+  totalPay: 2925271
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fernando  Villarroel
+  title: Chief Operating Officer of Farming Americas
+  totalPay: 3283039
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kim Galtung Dosvig
+  title: Head of Treasury & Investor Relations Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: MOWI.OL announced a cash dividend of NOK 2.30 with an ex-date of Nov. 13,
+    2026
+  meta:
+    amount: '2.30'
+    dateEpochMs: 1794524400000
+    eventType: DIVIDEND
+country: Norway
+cryptoTradeable: false
+currency: NOK
+currentPrice: 227.2
+currentRatio: 3.129
+customPriceAlertConfidence: LOW
+dayHigh: 227.4
+dayLow: 224.4
+debtToEquity: 81.93
+dividendRate: 7.6
+dividendYield: 3.37
+earningsCallTimestampEnd: 1793775600
+earningsCallTimestampStart: 1793775600
+earningsGrowth: 0.714
+earningsQuarterlyGrowth: 0.724
+earningsTimestamp: 1793805600
+earningsTimestampEnd: 1793805600
+earningsTimestampStart: 1793805600
+ebitda: 1260499968
+ebitdaMargins: 0.19522
+enterpriseToEbitda: 97.178
+enterpriseToRevenue: 18.971
+enterpriseValue: 122492542976
+epsCurrentYear: 1.19749
+epsForward: 15.737014
+epsTrailingTwelveMonths: 15.3
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 207.842
+fiftyDayAverageChange: 19.358002
+fiftyDayAverageChangePercent: 0.09313807
+fiftyTwoWeekChangePercent: 0.08889437
+fiftyTwoWeekHigh: 245.8
+fiftyTwoWeekHighChange: -18.600006
+fiftyTwoWeekHighChangePercent: -0.0756713
+fiftyTwoWeekLow: 179.4
+fiftyTwoWeekLowChange: 47.800003
+fiftyTwoWeekLowChangePercent: 0.26644373
+fiftyTwoWeekRange: 179.4 - 245.8
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 2.92
+floatShares: 393137323
+forwardEps: 15.737014
+forwardPE: 14.437301
+freeCashflow: -135424992
+fullExchangeName: Oslo
+fullTimeEmployees: 11500
+fulldayChange: 2.0
+fulldayChangePercent: 0.88809955
+fulldayPrice: 227.2
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.49523997
+grossProfits: 3197600000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.19854
+heldPercentInstitutions: 0.60785997
+impliedSharesOutstanding: 527290596
+industry: Farm Products
+industryDisp: Farm Products
+industryKey: farm-products
+irWebsite: http://www.marineharvest.com/en/Investor1/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794528000
+lastDividendValue: 2.3
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1390262400
+lastSplitFactor: '1:10'
+longBusinessSummary: Mowi ASA, a seafood company, produces and sells Atlantic salmon
+  products worldwide. It operates through Feed, Farming, Markets, Consumer Products,
+  and other segments. The company is involved in salmon feed production, salmon farming
+  and primary processing, and seafood secondary processing activities. It offers whole
+  fish, plain and marinated fillets and steaks, hot- and cold-smoked salmon, and burgers
+  and patties, as well as breaded, gravad, and sushi products. The company was formerly
+  known as Marine Harvest ASA and changed its name to Mowi ASA in December 2018. Mowi
+  ASA was founded in 1964 and is based in Bergen, Norway.
+longName: Mowi ASA
+market: no_market
+marketCap: 119800422400
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_884283
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 716600000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 116953054192
+numberOfAnalystOpinions: 12
+open: 226.0
+operatingCashflow: 840099968
+operatingMargins: 0.1524
+overallRisk: 3
+payoutRatio: 0.493
+pegRatio: 1.5
+phone: 47 21 56 23 00
+previousClose: 225.2
+priceEpsCurrentYear: 189.7302
+priceHint: 2
+priceToBook: 2.5967174
+priceToSalesTrailing12Months: 18.554436
+profitMargins: 0.11099
+quickRatio: 0.964
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: 2.0
+regularMarketChangePercent: 0.88809955
+regularMarketDayHigh: 227.4
+regularMarketDayLow: 224.4
+regularMarketDayRange: 224.4 - 227.4
+regularMarketOpen: 226.0
+regularMarketPreviousClose: 225.2
+regularMarketPrice: 227.2
+regularMarketTime: 1794410948
+regularMarketVolume: 1105029
+returnOnAssets: 0.06568
+returnOnEquity: 0.16864
+revenueGrowth: 0.245
+revenuePerShare: 12.775
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 1
+sharesOutstanding: 527290596
+shortName: MOWI
+sourceInterval: 15
+symbol: MOWI.OL
+targetHighPrice: 254.58127
+targetLowPrice: 206.02557
+targetMeanPrice: 238.97116
+targetMedianPrice: 248.66928
+totalCash: 162200000
+totalCashPerShare: 0.308
+totalDebt: 3734799872
+totalRevenue: 6456699904
+tradeable: false
+trailingAnnualDividendRate: 7.023
+trailingAnnualDividendYield: 0.031185612
+trailingEps: 15.3
+trailingPE: 14.849673
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 207.036
+twoHundredDayAverageChange: 20.164001
+twoHundredDayAverageChangePercent: 0.0973937
+typeDisp: Equity
+volume: 1105029
+website: https://www.mowi.com
+zip: '5035'

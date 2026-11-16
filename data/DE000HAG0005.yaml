@@ -1,0 +1,262 @@
+52WeekChange: 0.012801886
+SandP52WeekChange: 0.097798586
+address1: Willy-Messerschmitt-Strasse 3
+allTimeHigh: 117.7
+allTimeLow: 9.66
+ask: 83.1
+auditRisk: 5
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 277942
+averageDailyVolume3Month: 221247
+averageVolume: 221247
+averageVolume10days: 277942
+beta: 0.435
+bid: 82.96
+boardRisk: 6
+bookValue: 10.004
+city: Taufkirchen
+companyOfficers:
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oliver  Dorre
+  title: CEO & Chairman of Management Board
+  totalPay: 1484185
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian  Ladurner
+  title: CFO & Member of Management Board
+  totalPay: 798651
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Lars  Immisch
+  title: Executive Officer
+  totalPay: 812248
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Nicolas  Debove
+  title: Chief Operating Officer
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Inka  Tews
+  title: Chief Human Resources Officer, Labour Director & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Veronika  Endres
+  title: Head of Group Reporting & Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Katja  Stadelmann
+  title: General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Simona  Patap
+  title: Marketing Manager
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Hess
+  title: Head of Group Sales & Account Management
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Temur  Karbassioun
+  title: Head of Customer Service
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 83.02
+currentRatio: 1.1
+customPriceAlertConfidence: LOW
+dayHigh: 87.48
+dayLow: 82.2
+debtToEquity: 157.559
+dividendRate: 0.55
+dividendYield: 0.66
+earningsCallTimestampEnd: 1793880000
+earningsCallTimestampStart: 1793880000
+earningsGrowth: 3.721
+earningsQuarterlyGrowth: 3.417
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 392000000
+ebitdaMargins: 0.14091
+enterpriseToEbitda: 25.372
+enterpriseToRevenue: 3.575
+enterpriseValue: 9945888768
+epsCurrentYear: 1.91265
+epsForward: 2.54661
+epsTrailingTwelveMonths: 1.41
+esgPopulated: false
+exDividendDate: 1779667200
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 80.5312
+fiftyDayAverageChange: 2.4888
+fiftyDayAverageChangePercent: 0.030904794
+fiftyTwoWeekChangePercent: 1.2801886
+fiftyTwoWeekHigh: 96.7
+fiftyTwoWeekHighChange: -13.68
+fiftyTwoWeekHighChangePercent: -0.14146847
+fiftyTwoWeekLow: 63.18
+fiftyTwoWeekLowChange: 19.839996
+fiftyTwoWeekLowChangePercent: 0.31402338
+fiftyTwoWeekRange: 63.18 - 96.7
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1601017200000
+fiveYearAvgDividendYield: 0.8
+floatShares: 54994444
+forwardEps: 2.54661
+forwardPE: 32.6002
+freeCashflow: 265624992
+fullExchangeName: XETRA
+fullTimeEmployees: 9899
+fulldayChange: -0.84000397
+fulldayChangePercent: -1.0016742
+fulldayPrice: 83.02
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.22142
+grossProfits: 616000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.47919998
+heldPercentInstitutions: 0.31511
+impliedSharesOutstanding: 115500000
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779667200
+lastDividendValue: 0.55
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Hensoldt AG, together with its subsidiaries, provides sensor
+  solutions for defense and security applications worldwide. It operates through Sensors
+  and Optronics segments. It offers mobile and stationary radar, and identification
+  friend or foe systems used for surveillance, reconnaissance, civil air traffic control,
+  and air defense; systems for secure data connections for air, sea and land platforms;
+  electronic systems for the acquisition and evaluation of radar and radio signals
+  and jammers; defensive cyber solutions; and situational awareness systems, mission
+  computers, and flight data recorders. The company also provides electronic self-protection
+  systems that integrate missile, laser and radar warning sensors; customer support
+  and service activities; simulation solutions, training courses and special services,
+  and components and solutions for space-based sensors; and solutions and services
+  for secure digitalization and networking in military and civil dimensions. In addition,
+  it offers telescopic sights, visors, laser rangefinders, night vision devices and
+  thermal imaging cameras; devices for surveillance and target acquisition for armored
+  vehicles; submarine periscopes, optronic mast systems, and other electro-optical
+  systems for use at sea; and mobile and stationary surveillance solutions; and special
+  equipment for industrial and space applications. Further, the company provides friend-or-foe
+  detection systems, radar for ship and land applications, cryptographic devices,
+  and tactical point-to-point communication systems; delivery, installation and maintenance
+  of air traffic control radar, weather radar, navigation, voice communications, and
+  runway lighting systems for military and civil airports; and software solutions
+  for military and non-military use. Hensoldt AG was incorporated in 2020 and is headquartered
+  in Taufkirchen, Germany.
+longName: Hensoldt AG
+market: de_market
+marketCap: 9588809728
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_328775146
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 161000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 9685830000
+numberOfAnalystOpinions: 16
+open: 87.0
+operatingCashflow: 586000000
+operatingMargins: 0.107480004
+overallRisk: 7
+payoutRatio: 0.3957
+pegRatio: 1.06
+phone: 49 89 51518 0
+prevName: HENSOLDT GmbH
+previousClose: 83.86
+priceEpsCurrentYear: 43.405743
+priceHint: 2
+priceToBook: 8.29868
+priceToSalesTrailing12Months: 3.4467323
+profitMargins: 0.05787
+quickRatio: 0.6
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -0.84000397
+regularMarketChangePercent: -1.0016742
+regularMarketDayHigh: 87.48
+regularMarketDayLow: 82.2
+regularMarketDayRange: 82.2 - 87.48
+regularMarketOpen: 87.0
+regularMarketPreviousClose: 83.86
+regularMarketPrice: 83.02
+regularMarketTime: 1794411530
+regularMarketVolume: 175043
+returnOnAssets: 0.03435
+returnOnEquity: 0.1658
+revenueGrowth: 0.176
+revenuePerShare: 23.786
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 9
+sharesOutstanding: 115500000
+shortName: HENSOLDT AG                   I
+sourceInterval: 15
+symbol: HAG.DE
+targetHighPrice: 105.0
+targetLowPrice: 70.0
+targetMeanPrice: 92.40625
+targetMedianPrice: 93.0
+totalCash: 593000000
+totalCashPerShare: 5.618
+totalDebt: 1678000000
+totalRevenue: 2782000128
+tradeable: false
+trailingAnnualDividendRate: 0.55
+trailingAnnualDividendYield: 0.00655855
+trailingEps: 1.41
+trailingPE: 58.879433
+trailingPegRatio: 1.0746
+triggerable: false
+twoHundredDayAverage: 79.7501
+twoHundredDayAverageChange: 3.2698975
+twoHundredDayAverageChangePercent: 0.041001797
+typeDisp: Equity
+volume: 175043
+website: https://www.hensoldt.net
+zip: '82024'

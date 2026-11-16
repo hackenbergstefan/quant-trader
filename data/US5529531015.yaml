@@ -1,0 +1,272 @@
+52WeekChange: -0.0033162236
+SandP52WeekChange: 0.097798586
+address1: 3600 Las Vegas Boulevard South
+allTimeHigh: 100.5
+allTimeLow: 1.81
+ask: 33.13
+askSize: 200
+auditRisk: 10
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 7584870
+averageDailyVolume3Month: 4467651
+averageVolume: 4467651
+averageVolume10days: 7584870
+beta: 1.324
+bid: 33.11
+bidSize: 300
+boardRisk: 2
+bookValue: 9.954
+city: Las Vegas
+companyOfficers:
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William Joseph Hornbuckle IV
+  title: President, CEO & Director
+  totalPay: 15276405
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathan S. Halkyard
+  title: CFO & Treasurer
+  totalPay: 2862587
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John M. McManus Esq.
+  title: Chief Legal & Administrative Officer and Secretary
+  totalPay: 2050032
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Corey Ian Sanders
+  title: Advisor to President & CEO
+  totalPay: 3455043
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gary M. Fritz
+  title: Chief Commercial Officer & President of MGM Digital
+  totalPay: 3476377
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ayesha Khanna Molino
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Todd R. Meinert
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sarah A. Rogers
+  title: Senior VP of Corporate Finance & Treasurer
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Howard H. Wang CPA
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeff  Mochal
+  title: Senior Vice President of Corporate Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 32.9879
+currentRatio: 1.238
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 33.32
+dayLow: 32.75
+debtToEquity: 880.331
+displayName: MGM Resorts
+dividendDate: 1671062400
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793221200
+earningsCallTimestampStart: 1793221200
+earningsTimestamp: 1793217600
+earningsTimestampEnd: 1793217600
+earningsTimestampStart: 1793217600
+ebitda: 2128648960
+ebitdaMargins: 0.12011
+enterpriseToEbitda: 17.081
+enterpriseToRevenue: 2.052
+enterpriseValue: 36359135232
+epsCurrentYear: 1.47357
+epsForward: 1.38676
+epsTrailingTwelveMonths: 2.6
+esgPopulated: false
+exDividendDate: 1670457600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 33.2932
+fiftyDayAverageChange: -0.30530167
+fiftyDayAverageChangePercent: -0.009170091
+fiftyTwoWeekChangePercent: -0.33162236
+fiftyTwoWeekHigh: 51.59
+fiftyTwoWeekHighChange: -18.6021
+fiftyTwoWeekHighChangePercent: -0.3605757
+fiftyTwoWeekLow: 26.71
+fiftyTwoWeekLowChange: 6.2779007
+fiftyTwoWeekLowChangePercent: 0.23503934
+fiftyTwoWeekRange: 26.71 - 51.59
+financialCurrency: USD
+firstTradeDateMilliseconds: 578583000000
+fiveYearAvgDividendYield: 0.02
+floatShares: 182430725
+forwardEps: 1.38676
+forwardPE: 23.78775
+freeCashflow: 889266624
+fullExchangeName: NYSE
+fullTimeEmployees: 60000
+fulldayChange: -0.07210159
+fulldayChangePercent: -0.21819608
+fulldayPrice: 32.9879
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.4362
+grossProfits: 7730741248
+hasPrePostMarketData: true
+heldPercentInsiders: 0.27825
+heldPercentInstitutions: 0.66809
+impliedSharesOutstanding: 253010547
+industry: Resorts & Casinos
+industryDisp: Resorts & Casinos
+industryKey: resorts-casinos
+irWebsite: http://mgmresorts.investorroom.com/index.php?s=122
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1670457600
+lastDividendValue: 0.003
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1116460800
+lastSplitFactor: '2:1'
+longBusinessSummary: 'MGM Resorts International, through its subsidiaries, operates
+  as a gaming and entertainment company in the United States, China, and internationally.
+  It operates through four segments: Las Vegas Strip Resorts, Regional Operations,
+  MGM China, and MGM Digital. The company operates casino resorts that offer gaming,
+  hotel, convention, dining, entertainment, retail, and other resort amenities, as
+  well as online/digital games through its online platforms. Its casino operations
+  include slots and table games, as well as live dealer, online sports betting, and
+  iGaming through BetMGM. The company''s customers include premium gaming customers;
+  leisure and wholesale travel customers; business travelers; and group customers,
+  including conventions, trade associations, and small meetings. The company was formerly
+  known as MGM MIRAGE and changed its name to MGM Resorts International in June 2010.
+  MGM Resorts International was incorporated in 1986 and is based in Las Vegas, Nevada.'
+longName: MGM Resorts International
+market: us_market
+marketCap: 8346286592
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_286798
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 691153024
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 8364528683
+numberOfAnalystOpinions: 19
+open: 32.77
+operatingCashflow: 2314061056
+operatingMargins: 0.057979997
+overallRisk: 1
+payoutRatio: 0.0
+pegRatio: 0.69
+phone: 702 693 7120
+previousClose: 33.06
+priceEpsCurrentYear: 22.386381
+priceHint: 2
+priceToBook: 3.3140345
+priceToSalesTrailing12Months: 0.47093314
+profitMargins: 0.03916
+quickRatio: 1.098
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.30435
+region: US
+regularMarketChange: -0.07210159
+regularMarketChangePercent: -0.21819608
+regularMarketDayHigh: 33.32
+regularMarketDayLow: 32.75
+regularMarketDayRange: 32.75 - 33.32
+regularMarketOpen: 32.77
+regularMarketPreviousClose: 33.06
+regularMarketPrice: 32.9879
+regularMarketTime: 1794413745
+regularMarketVolume: 840834
+returnOnAssets: 0.01588
+returnOnEquity: 0.26933
+revenueGrowth: -0.009
+revenuePerShare: 68.849
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 253010547
+sharesPercentSharesOut: 0.083500005
+sharesShort: 21122527
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 19019942
+shortName: MGM Resorts International
+shortPercentOfFloat: 0.1742
+shortRatio: 3.86
+sourceInterval: 15
+state: NV
+symbol: MGM
+targetHighPrice: 57.0
+targetLowPrice: 26.0
+targetMeanPrice: 38.42105
+targetMedianPrice: 39.0
+totalCash: 2609344000
+totalCashPerShare: 10.313
+totalDebt: 29731098624
+totalRevenue: 17722869760
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 2.6
+trailingPE: 12.6876545
+trailingPegRatio: 0.6949
+triggerable: true
+twoHundredDayAverage: 38.9709
+twoHundredDayAverageChange: -5.9830017
+twoHundredDayAverageChangePercent: -0.15352485
+typeDisp: Equity
+volume: 840834
+website: https://www.mgmresorts.com
+zip: '89109'

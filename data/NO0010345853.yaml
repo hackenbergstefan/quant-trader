@@ -1,0 +1,238 @@
+52WeekChange: 0.19665277
+SandP52WeekChange: 0.097798586
+address1: Fornebuporten
+address2: Oksenøyveien 10
+allTimeHigh: 420.5
+allTimeLow: 16.360708
+ask: 322.4
+auditRisk: 1
+averageAnalystRating: 3.1 - Hold
+averageDailyVolume10Day: 2586780
+averageDailyVolume3Month: 1182585
+averageVolume: 1182585
+averageVolume10days: 2586780
+beta: -0.063
+bid: 322.2
+boardRisk: 9
+bookValue: 181.0365
+city: Lysaker
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Karl Johnny Hersvik
+  title: Chief Executive Officer
+  totalPay: 14237142
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Torvik Tonne
+  title: Chief Financial Officer
+  totalPay: 7024906
+  unexercisedValue: 0
+  yearBorn: 1985
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Per Harald Kongelf
+  title: Chief Operating Officer
+  totalPay: 6668977
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas Ditlev Hoff-Hansen
+  title: Chief Information Officer
+  totalPay: 4954900
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marit  Blaasmo
+  title: Senior Vice President of People and Safety
+  totalPay: 4964267
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ole-Johan  Molvig
+  title: Senior Vice President of Valhall
+  totalPay: 5451327
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Knut Arne Kristian Sandvik
+  title: Senior Vice President of Projects
+  totalPay: 5666757
+  unexercisedValue: 0
+  yearBorn: 1962
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Norway
+cryptoTradeable: false
+currency: NOK
+currentPrice: 322.2
+currentRatio: 1.165
+customPriceAlertConfidence: LOW
+dayHigh: 322.5
+dayLow: 317.1
+debtToEquity: 79.286
+dividendRate: 24.59
+dividendYield: 7.81
+earningsCallTimestampEnd: 1793259000
+earningsCallTimestampStart: 1793259000
+earningsGrowth: 2.451
+earningsQuarterlyGrowth: 2.455
+earningsTimestamp: 1793287200
+earningsTimestampEnd: 1793287200
+earningsTimestampStart: 1793287200
+ebitda: 11328499712
+ebitdaMargins: 0.85987
+enterpriseToEbitda: 18.154
+enterpriseToRevenue: 15.61
+enterpriseValue: 205657882624
+epsCurrentYear: 4.19603
+epsForward: 32.112717
+epsTrailingTwelveMonths: 32.59
+esgPopulated: false
+exDividendDate: 1793664000
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 358.734
+fiftyDayAverageChange: -36.533997
+fiftyDayAverageChangePercent: -0.101841465
+fiftyTwoWeekChangePercent: 19.665277
+fiftyTwoWeekHigh: 394.8
+fiftyTwoWeekHighChange: -72.599976
+fiftyTwoWeekHighChangePercent: -0.18389052
+fiftyTwoWeekLow: 240.6
+fiftyTwoWeekLowChange: 81.600006
+fiftyTwoWeekLowChangePercent: 0.33915213
+fiftyTwoWeekRange: 240.6 - 394.8
+financialCurrency: USD
+firstTradeDateMilliseconds: 1231488000000
+fiveYearAvgDividendYield: 7.21
+floatShares: 294275878
+forwardEps: 32.112717
+forwardPE: 10.033409
+freeCashflow: 420387488
+fullExchangeName: Oslo
+fullTimeEmployees: 3013
+fulldayChange: 7.600006
+fulldayChangePercent: 2.415768
+fulldayPrice: 322.2
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.90915
+grossProfits: 11977700352
+hasPrePostMarketData: false
+heldPercentInsiders: 0.50522
+heldPercentInstitutions: 0.41525
+impliedSharesOutstanding: 631200000
+industry: Oil & Gas E&P
+industryDisp: Oil & Gas E&P
+industryKey: oil-gas-e-p
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793664000
+lastDividendValue: 6.14642
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1261526400
+lastSplitFactor: 1.403328:1
+longBusinessSummary: Aker BP ASA engages in the exploration, field development, and
+  production of oil and gas on the Norwegian Continental Shelf. It operates field
+  centers, including Valhall, Ula, Edvard Grieg/Ivar Aasen, Alvheim, and Skarv. The
+  company was formerly known as Det norske oljeselskap ASA and changed its name to
+  Aker BP ASA in October 2016. Aker BP ASA was founded in 2001 and is headquartered
+  in Lysaker, Norway.
+longName: Aker BP ASA
+market: no_market
+marketCap: 203372642304
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_9048461
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2119900032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 198575520000
+numberOfAnalystOpinions: 16
+open: 317.1
+operatingCashflow: 9154499584
+operatingMargins: 0.68759
+overallRisk: 8
+payoutRatio: 0.77019995
+phone: 47 51 35 30 00
+previousClose: 314.6
+priceEpsCurrentYear: 76.786865
+priceHint: 2
+priceToBook: 1.7797517
+priceToSalesTrailing12Months: 15.436723
+profitMargins: 0.16091
+quickRatio: 0.943
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.05882
+region: US
+regularMarketChange: 7.600006
+regularMarketChangePercent: 2.415768
+regularMarketDayHigh: 322.5
+regularMarketDayLow: 317.1
+regularMarketDayRange: 317.1 - 322.5
+regularMarketOpen: 317.1
+regularMarketPreviousClose: 314.6
+regularMarketPrice: 322.2
+regularMarketTime: 1794410945
+regularMarketVolume: 1721609
+returnOnAssets: 0.11988
+returnOnEquity: 0.17711
+revenueGrowth: 0.494
+revenuePerShare: 20.861
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 1
+sharesOutstanding: 631200000
+shortName: AKER BP
+sourceInterval: 15
+symbol: AKRBP.OL
+targetHighPrice: 446.11383
+targetLowPrice: 226.57825
+targetMeanPrice: 359.45428
+targetMedianPrice: 357.7461
+totalCash: 2607000064
+totalCashPerShare: 4.13
+totalDebt: 9673799680
+totalRevenue: 13174599680
+tradeable: false
+trailingAnnualDividendRate: 2.615
+trailingAnnualDividendYield: 0.008312142
+trailingEps: 32.59
+trailingPE: 9.886469
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 334.4485
+twoHundredDayAverageChange: -12.248474
+twoHundredDayAverageChangePercent: -0.0366229
+typeDisp: Equity
+volume: 1721609
+website: https://akerbp.com
+zip: '1366'

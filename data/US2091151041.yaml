@@ -1,0 +1,285 @@
+52WeekChange: 0.19053793
+SandP52WeekChange: 0.097798586
+address1: 4 Irving Place
+allTimeHigh: 122.75
+allTimeLow: 1.5
+ask: 117.54
+askSize: 200
+auditRisk: 6
+averageAnalystRating: 3.2 - Hold
+averageDailyVolume10Day: 2547240
+averageDailyVolume3Month: 2231032
+averageVolume: 2231032
+averageVolume10days: 2547240
+beta: 0.223
+bid: 117.52
+bidSize: 100
+boardRisk: 7
+bookValue: 70.876
+city: New York
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy P. Cawley
+  title: Chairman, President & CEO
+  totalPay: 4357347
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kirkland B. Andrews
+  title: Senior VP & CFO
+  totalPay: 1983342
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kamran  Ziaee
+  title: SVP & Chief Information Officer
+  totalPay: 2621334
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Deneen Lynette Donnley J.D.
+  title: Senior VP & General Counsel
+  totalPay: 1754236
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew  Ketschke
+  title: President of Consolidated Edison Company of New York, Inc.
+  totalPay: 1885062
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph  Miller
+  title: VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Yukari  Saegusa
+  title: VP, Treasurer & Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert  Sanchez
+  title: President of Shared Services of Con Edison of New York
+  totalPay: 1288542
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sylvia V. Dooley
+  title: VP & Corporate Secretary
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Michele L. O'Connell
+  title: President and Chief Executive Officer of Orange and Rockland Utilities, Inc.
+  unexercisedValue: 0
+  yearBorn: 1976
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: ED announced a cash dividend of $0.887 with an ex-date of Nov. 18, 2026
+  meta:
+    amount: '0.887'
+    dateEpochMs: 1794978000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 117.98
+currentRatio: 1.179
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 118.475
+dayLow: 117.22
+debtToEquity: 106.442
+displayName: Consolidated Edison
+dividendDate: 1797292800
+dividendRate: 3.55
+dividendYield: 2.98
+earningsGrowth: 0.084
+earningsQuarterlyGrowth: 0.113
+earningsTimestamp: 1793912400
+earningsTimestampEnd: 1793912400
+earningsTimestampStart: 1793912400
+ebitda: 6307999744
+ebitdaMargins: 0.34905
+enterpriseToEbitda: 11.439
+enterpriseToRevenue: 3.993
+enterpriseValue: 72157831168
+epsCurrentYear: 6.11106
+epsForward: 6.50055
+epsTrailingTwelveMonths: 6.23
+esgPopulated: false
+exDividendDate: 1794960000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 109.3628
+fiftyDayAverageChange: 8.617203
+fiftyDayAverageChangePercent: 0.07879464
+fiftyTwoWeekChangePercent: 19.053793
+fiftyTwoWeekHigh: 122.75
+fiftyTwoWeekHighChange: -4.7699966
+fiftyTwoWeekHighChangePercent: -0.038859442
+fiftyTwoWeekLow: 94.96
+fiftyTwoWeekLowChange: 23.020004
+fiftyTwoWeekLowChangePercent: 0.2424179
+fiftyTwoWeekRange: 94.96 - 122.75
+financialCurrency: USD
+firstTradeDateMilliseconds: -252322200000
+fiveYearAvgDividendYield: 3.38
+floatShares: 370614173
+forwardEps: 6.50055
+forwardPE: 18.149235
+freeCashflow: -1344000000
+fullExchangeName: NYSE
+fullTimeEmployees: 15407
+fulldayChange: -1.2999954
+fulldayChangePercent: -1.0898688
+fulldayPrice: 117.98
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.53723997
+grossProfits: 9708999680
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00207
+heldPercentInstitutions: 0.77819
+impliedSharesOutstanding: 371133760
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+irWebsite: http://investor.conedison.com/phoenix.zhtml?c=61493&p=irol-homeprofile
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787097600
+lastDividendValue: 0.888
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 615427200
+lastSplitFactor: '2:1'
+longBusinessSummary: Consolidated Edison, Inc., through its subsidiaries, engages
+  in the regulated electric, gas, and steam delivery businesses in the United States.
+  The company offers electric services to approximately 3.7 million customers in New
+  York City and Westchester County; gas to approximately 1.1 million customers in
+  Manhattan, the Bronx, parts of Queens, and Westchester County; and steam to approximately
+  1,490 customers in parts of Manhattan. It also supplies electricity to approximately
+  0.3 million customers in southeastern New York and northern New Jersey; and gas
+  to approximately 0.1 million customers in southeastern New York. In addition, the
+  company operates 552 circuit miles of transmission lines; 16 transmission substations;
+  63 distribution substations; 89,675 in-service line transformers; 3,764 pole miles
+  of overhead distribution lines; and 2,417 miles of underground distribution lines,
+  as well as 4,374 miles of mains and 379, 939 service lines for natural gas distribution.
+  Further, it invests in electric and gas transmission projects. The company primarily
+  sells electricity to industrial, commercial, residential, and government customers.
+  Consolidated Edison, Inc. was founded in 1823 and is based in New York, New York.
+longName: Consolidated Edison, Inc.
+market: us_market
+marketCap: 43786362880
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_263295
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2295000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 44268834892
+numberOfAnalystOpinions: 17
+open: 118.23
+operatingCashflow: 4304999936
+operatingMargins: 0.2199
+overallRisk: 4
+payoutRatio: 0.56380004
+pegRatio: 2.34
+phone: 212 460 4600
+previousClose: 119.28
+priceEpsCurrentYear: 19.30598
+priceHint: 2
+priceToBook: 1.6645974
+priceToSalesTrailing12Months: 2.4228842
+profitMargins: 0.12699
+quickRatio: 0.727
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.21053
+region: US
+regularMarketChange: -1.2999954
+regularMarketChangePercent: -1.0898688
+regularMarketDayHigh: 118.475
+regularMarketDayLow: 117.22
+regularMarketDayRange: 117.22 - 118.475
+regularMarketOpen: 118.23
+regularMarketPreviousClose: 119.28
+regularMarketPrice: 117.98
+regularMarketTime: 1794413697
+regularMarketVolume: 364361
+returnOnAssets: 0.03333
+returnOnEquity: 0.090959996
+revenueGrowth: 0.085
+revenuePerShare: 49.465
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 4
+sharesOutstanding: 371133760
+sharesPercentSharesOut: 0.031
+sharesShort: 11495267
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 11761411
+shortName: Consolidated Edison, Inc.
+shortPercentOfFloat: 0.039300002
+shortRatio: 4.92
+sourceInterval: 15
+state: NY
+symbol: ED
+targetHighPrice: 134.0
+targetLowPrice: 87.0
+targetMeanPrice: 109.5
+targetMedianPrice: 109.0
+totalCash: 100000000
+totalCashPerShare: 0.269
+totalDebt: 27989000192
+totalRevenue: 18072000512
+tradeable: false
+trailingAnnualDividendRate: 3.513
+trailingAnnualDividendYield: 0.029451711
+trailingEps: 6.23
+trailingPE: 18.9374
+trailingPegRatio: 2.3423
+triggerable: true
+twoHundredDayAverage: 109.5541
+twoHundredDayAverageChange: 8.425903
+twoHundredDayAverageChangePercent: 0.07691089
+typeDisp: Equity
+volume: 364361
+website: https://www.conedison.com
+zip: '10003'

@@ -1,0 +1,256 @@
+52WeekChange: 0.674392
+SandP52WeekChange: 0.097798586
+address1: 24-26, Boulevard d’Avranches
+allTimeHigh: 138.16974
+allTimeLow: 5.279424
+ask: 0.0
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 1689286
+averageDailyVolume3Month: 1482495
+averageVolume: 1482495
+averageVolume10days: 1689286
+beta: 1.708
+bid: 0.0
+bidSize: 0
+boardRisk: 5
+bookValue: 63.979633
+city: Luxembourg
+companyOfficers:
+- age: 75
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Lakshmi Nivas Mittal B.Com.
+  title: Executive Chairman of the Board
+  unexercisedValue: 0
+  yearBorn: 1950
+- age: 49
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Aditya  Mittal
+  title: CEO & Director
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 54
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Genuino Jose Magalhaes Christino
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Daniel  Fairclough
+  title: Head of Investor Relations & VP of Corporate Finance
+  unexercisedValue: 0
+- exercisedValue: 0
+  maxAge: 1
+  name: Mr. Pinakin  Chaubal
+  title: VP & Chief Technology Officer
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Henk  Scheffer
+  title: Group Compliance, Data Protection Officer & Company Secretary
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 46
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Sapan  Gupta
+  title: VP & Group General Counsel
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  maxAge: 1
+  name: Ms. Nicola  Davidson
+  title: VP, Head of Corporate Communications & Sustainable Development
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  maxAge: 1
+  name: Ms. Stephanie  Werner-Dietz
+  title: Executive VP & Global Head of HR
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 73
+  exercisedValue: 0
+  maxAge: 1
+  name: Mr. Augustine  Kochuparampil
+  title: VP & CEO of Long Products Europe
+  unexercisedValue: 0
+  yearBorn: 1952
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: MT.AS announced a cash dividend of EUR 0.15 with an ex-date of Nov. 12,
+    2026
+  meta:
+    amount: '0.15'
+    dateEpochMs: 1794438000000
+    eventType: DIVIDEND
+country: Luxembourg
+cryptoTradeable: false
+currency: EUR
+currentPrice: 59.36
+currentRatio: 1.413
+customPriceAlertConfidence: LOW
+dayHigh: 59.98
+dayLow: 59.06
+debtToEquity: 24.201
+dividendRate: 0.53
+dividendYield: 0.91
+earningsCallTimestampEnd: 1793890800
+earningsCallTimestampStart: 1793890800
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1801758600
+earningsTimestampStart: 1801758600
+ebitda: 4988000256
+ebitdaMargins: 0.07836
+enterpriseToEbitda: 11.301
+enterpriseToRevenue: 0.886
+enterpriseValue: 56367558656
+epsCurrentYear: 3.16025
+epsForward: 6.3855457
+epsTrailingTwelveMonths: 1.18
+esgPopulated: false
+exDividendDate: 1794441600
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 352 4792 2675
+fiftyDayAverage: 59.1064
+fiftyDayAverageChange: 0.25360107
+fiftyDayAverageChangePercent: 0.004290586
+fiftyTwoWeekChangePercent: 67.4392
+fiftyTwoWeekHigh: 68.56
+fiftyTwoWeekHighChange: -9.199997
+fiftyTwoWeekHighChangePercent: -0.134189
+fiftyTwoWeekLow: 33.26
+fiftyTwoWeekLowChange: 26.100002
+fiftyTwoWeekLowChangePercent: 0.7847265
+fiftyTwoWeekRange: 33.26 - 68.56
+financialCurrency: USD
+firstTradeDateMilliseconds: 1122274800000
+fiveYearAvgDividendYield: 1.27
+floatShares: 412651530
+forwardEps: 6.3855457
+forwardPE: 9.295995
+freeCashflow: -802875008
+fullExchangeName: Amsterdam
+fullTimeEmployees: 125554
+fulldayChange: 0.84000015
+fulldayChangePercent: 1.4354069
+fulldayPrice: 59.36
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.08163
+grossProfits: 5196000256
+hasPrePostMarketData: false
+heldPercentInsiders: 0.43894002
+heldPercentInstitutions: 0.29036
+impliedSharesOutstanding: 751935008
+industry: Steel
+industryDisp: Steel
+industryKey: steel
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1794441600
+lastDividendValue: 0.15
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1495065600
+lastSplitFactor: '1:3'
+longBusinessSummary: ArcelorMittal S.A., together with its subsidiaries, operates
+  as integrated steel and mining companies in the Americas, Europe, Asia, and Africa.
+  It offers semi-finished flat products, including slabs; finished flat products comprising
+  plates, hot- and cold-rolled coils and sheets, hot-dipped and electro-galvanized
+  coils and sheets, tinplate, and color coated coils and sheets; semi-finished long
+  products, such as blooms and billets; finished long products consisting of bars,
+  wire-rods, structural sections, rails, sheet piles, and wire-products; and seamless
+  and welded pipes and tubes. The company also provides mining products, such as iron
+  ore lumps, fines, concentrate, pellets, and sinter feeds; and coking coal. It sells
+  its products to various customers in the automotive, appliance, engineering, construction,
+  energy, and machinery industries through a centralized marketing organization, and
+  distributors. The company operates iron ore mining activities in Brazil, Bosnia,
+  Liberia, Mexico, South Africa, and Ukraine, as well as in India and in Canada. ArcelorMittal
+  S.A. was founded in 1976 and is headquartered in Luxembourg, Luxembourg.
+longName: ArcelorMittal S.A.
+market: nl_market
+marketCap: 44634861568
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_364040
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 1044000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 44003236668
+numberOfAnalystOpinions: 14
+open: 59.42
+operatingCashflow: 4611999744
+operatingMargins: 0.03235
+overallRisk: 3
+payoutRatio: 0.52889997
+pegRatio: 0.42
+phone: 352 47 921
+prevName: ArcelorMittal
+previousClose: 58.52
+priceEpsCurrentYear: 18.783325
+priceHint: 2
+priceToBook: 0.92779523
+priceToSalesTrailing12Months: 0.70119965
+profitMargins: 0.0164
+quickRatio: 0.348
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.57143
+region: US
+regularMarketChange: 0.84000015
+regularMarketChangePercent: 1.4354069
+regularMarketDayHigh: 59.98
+regularMarketDayLow: 59.06
+regularMarketDayRange: 59.06 - 59.98
+regularMarketOpen: 59.42
+regularMarketPreviousClose: 58.52
+regularMarketPrice: 59.36
+regularMarketTime: 1794411548
+regularMarketVolume: 731859
+returnOnAssets: 0.01306
+returnOnEquity: 0.018339999
+revenueGrowth: 0.052
+revenuePerShare: 83.839
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 1
+sharesOutstanding: 751935008
+shortName: ARCELORMITTAL SA
+sourceInterval: 15
+symbol: MT.AS
+targetHighPrice: 80.907036
+targetLowPrice: 54.611816
+targetMeanPrice: 69.89275
+targetMedianPrice: 70.79376
+totalCash: 3191000064
+totalCashPerShare: 4.238
+totalDebt: 13564999680
+totalRevenue: 63654998016
+tradeable: false
+trailingAnnualDividendRate: 0.6
+trailingAnnualDividendYield: 0.010252905
+trailingEps: 1.18
+trailingPE: 50.305088
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 55.76335
+twoHundredDayAverageChange: 3.5966492
+twoHundredDayAverageChangePercent: 0.06449844
+typeDisp: Equity
+volume: 731859
+website: https://corporate.arcelormittal.com
+zip: '1160'

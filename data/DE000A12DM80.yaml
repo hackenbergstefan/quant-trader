@@ -1,0 +1,262 @@
+52WeekChange: 0.008963585
+SandP52WeekChange: 0.097798586
+address1: Invalidenstrasse 65
+allTimeHigh: 122.8
+allTimeLow: 24.105
+ask: 90.4
+askSize: 11
+auditRisk: 1
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 297680
+averageDailyVolume3Month: 445771
+averageVolume: 445771
+averageVolume10days: 297680
+beta: 0.561
+bid: 90.35
+bidSize: 304
+boardRisk: 1
+bookValue: 17.695
+city: Berlin
+companyOfficers:
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Ralf  Weitz
+  title: CEO & Chairman of the Management Board
+  totalPay: 1486100
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Dr. Gesa  Crockford
+  title: Chief Commercial Officer & Member of the Management Board
+  totalPay: 944375
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Martin  Mildner
+  title: CFO & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Gertrud  Kolb
+  title: Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Filip  Lindvall
+  title: Vice President of Strategy & Investor Relations
+  unexercisedValue: 0
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Dr. Christian  Ronge
+  title: General Counsel
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Dr. Claudia  Viehweger
+  title: Chief Operating Officer of International
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Jan  Sprengnetter
+  title: Managing Director of bulwiengesa GmbH & Scout24 Proptech GmbH
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Stephen  Molloy
+  title: Chief Product Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+compensationAsOfEpochDate: 1735603200
+compensationRisk: 5
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 90.4
+currentRatio: 0.291
+customPriceAlertConfidence: LOW
+dayHigh: 90.7
+dayLow: 89.4
+debtToEquity: 53.786
+dividendRate: 1.5
+dividendYield: 1.69
+earningsCallTimestampEnd: 1793800800
+earningsCallTimestampStart: 1793800800
+earningsGrowth: -0.27
+earningsQuarterlyGrowth: -0.3
+earningsTimestamp: 1793809800
+earningsTimestampEnd: 1793809800
+earningsTimestampStart: 1793809800
+ebitda: 373104512
+ebitdaMargins: 0.50676
+enterpriseToEbitda: 18.303
+enterpriseToRevenue: 9.275
+enterpriseValue: 6828872704
+epsCurrentYear: 4.04592
+epsForward: 4.772
+epsTrailingTwelveMonths: 4.58
+esgPopulated: false
+exDividendDate: 1781740800
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 89 2620 24929
+fiftyDayAverage: 76.939
+fiftyDayAverageChange: 13.460999
+fiftyDayAverageChangePercent: 0.17495675
+fiftyTwoWeekChangePercent: 0.8963585
+fiftyTwoWeekHigh: 93.6
+fiftyTwoWeekHighChange: -3.199997
+fiftyTwoWeekHighChangePercent: -0.034188002
+fiftyTwoWeekLow: 62.7
+fiftyTwoWeekLowChange: 27.7
+fiftyTwoWeekLowChangePercent: 0.4417863
+fiftyTwoWeekRange: 62.7 - 93.6
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1443682800000
+fiveYearAvgDividendYield: 1.51
+floatShares: 69029126
+forwardEps: 4.772
+forwardPE: 18.94384
+fullExchangeName: XETRA
+fullTimeEmployees: 921
+fulldayChange: 0.34999847
+fulldayChangePercent: 0.38867125
+fulldayPrice: 90.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.75543
+grossProfits: 556195968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.057940003
+heldPercentInstitutions: 0.7417
+impliedSharesOutstanding: 69640229
+industry: Internet Content & Information
+industryDisp: Internet Content & Information
+industryKey: internet-content-information
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1781740800
+lastDividendValue: 1.5
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Scout24 SE operates ImmoScout24, a digital marketplace for the
+  residential and commercial real estate sectors in Germany and internationally. The
+  company operates through Professional and Private segments. It offers Pay-per-ad,
+  for listing real estate without membership; Realtor Lead Engine (RLE) for selling
+  real estate; Mortgage Lead Engine; CRM software solutions for real estate agents;
+  and ESG energy performance certificates. In addition, the company provides software
+  solutions for real estate valuations, such as viewings and expert opinions; an automated
+  valuation model, a product for the automated valuation of real estate through application
+  programming interfaces; provision of transaction-related documents for real estate
+  professionals; and training courses, digital training, and education software. Further,
+  it offers SearchPlus and SearchPlus for buying, which offers market analysis and
+  a digital document folder; LivingPlus for digital services and legal protection;
+  and LettingPlus, a cloud-based software solution to supports private landlords in
+  rental and property management. It offers its products under the ImmoScout24, FLOWFACT,
+  Vermietet.de, immoverkauf24, Propstack, BaufiTeam, SPRENGNETTER, Wohnungsboerse,
+  bulwiengesa, EXPLOREAL, neubau kompass, and ENERGIE AUSWEIS 48 brand names. The
+  company serves residential and business real estate agents, appraisers, financing
+  intermediaries and banks, consumers, homeowners, and commercial service providers.
+  The company was formerly known as Scout24 AG and changed its name to Scout24 SE
+  in October 2021. Scout24 SE was founded in 1998 and is headquartered in Berlin,
+  Germany.
+longName: Scout24 SE
+market: de_market
+marketCap: 6295477248
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_225965284
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 252343008
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 6271102621
+numberOfAnalystOpinions: 19
+open: 90.25
+operatingMargins: 0.48668
+overallRisk: 1
+payoutRatio: 0.4195
+phone: 49 89 2620 24920
+prevName: Scout24 AG
+previousClose: 90.05
+priceEpsCurrentYear: 22.343498
+priceHint: 2
+priceToBook: 5.108788
+priceToSalesTrailing12Months: 8.550606
+profitMargins: 0.34273997
+quickRatio: 0.099
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.52632
+region: US
+regularMarketChange: 0.34999847
+regularMarketChangePercent: 0.38867125
+regularMarketDayHigh: 90.7
+regularMarketDayLow: 89.4
+regularMarketDayRange: 89.4 - 90.7
+regularMarketOpen: 90.25
+regularMarketPreviousClose: 90.05
+regularMarketPrice: 90.4
+regularMarketTime: 1794411366
+regularMarketVolume: 40010
+returnOnAssets: 0.103870004
+returnOnEquity: 0.19055
+revenueGrowth: 0.197
+revenuePerShare: 10.451
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 69640229
+shortName: Scout24 SE                    N
+sourceInterval: 15
+symbol: G24.DE
+targetHighPrice: 140.0
+targetLowPrice: 80.0
+targetMeanPrice: 108.27895
+targetMedianPrice: 105.0
+totalCash: 44200000
+totalCashPerShare: 0.64
+totalDebt: 657000000
+totalRevenue: 736260992
+tradeable: false
+trailingAnnualDividendRate: 1.5
+trailingAnnualDividendYield: 0.016657412
+trailingEps: 4.58
+trailingPE: 19.737991
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 73.282
+twoHundredDayAverageChange: 17.118004
+twoHundredDayAverageChangePercent: 0.23359084
+typeDisp: Equity
+volume: 40010
+website: https://www.scout24.com
+zip: '10557'

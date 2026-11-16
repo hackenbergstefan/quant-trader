@@ -1,0 +1,258 @@
+52WeekChange: 0.34524357
+SandP52WeekChange: 0.097798586
+address1: Piazza Salimbeni 3
+allTimeHigh: 240006.81
+allTimeLow: 1.4866
+ask: 11.388
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 9167187
+averageDailyVolume3Month: 9957530
+averageVolume: 9957530
+averageVolume10days: 9167187
+beta: 0.853
+bid: 11.384
+bidSize: 0
+boardRisk: 1
+bookValue: 8.824
+city: Siena
+companyOfficers:
+- age: 70
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Luigi  Lovaglio
+  title: CEO, GM & Director
+  totalPay: 582840
+  unexercisedValue: 0
+  yearBorn: 1955
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Dr. Andrea Francesco Maffezzoni
+  title: CFO & Chief Financial Reporting Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Alessandro  Giacometti
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Nicola Massimo Clarelli
+  title: Head of Administration, Financial Statements & Reporting and Financial Reporting
+    Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Elisabetta  Pozzi
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Renzo Filippo Riccardo Quagliana
+  title: Group General Counsel
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Ettore  Carneade
+  title: Chief Compliance Executive
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Fiorella  Ferri
+  title: Chief Human Capital Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Maurizio  Bai
+  title: Deputy GM & Chief Commercial Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Fabrizio  Leandri
+  title: Chief Lending Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+compensationAsOfEpochDate: 1735603200
+compensationRisk: 4
+corporateActions: []
+country: Italy
+cryptoTradeable: false
+currency: EUR
+currentPrice: 11.388
+customPriceAlertConfidence: LOW
+dayHigh: 11.78
+dayLow: 11.374
+dividendRate: 0.86
+dividendYield: 7.42
+earningsCallTimestampEnd: 1793952000
+earningsCallTimestampStart: 1793952000
+earningsGrowth: -0.496
+earningsQuarterlyGrowth: 0.145
+earningsTimestamp: 1793982600
+earningsTimestampEnd: 1793982600
+earningsTimestampStart: 1793982600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 19.177
+enterpriseValue: 80141811712
+epsCurrentYear: 0.77897
+epsForward: 0.90629
+epsTrailingTwelveMonths: 0.99
+esgPopulated: false
+exDividendDate: 1779062400
+exchange: MIL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Rome
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 39 0577 29 40 17
+fiftyDayAverage: 11.38544
+fiftyDayAverageChange: 0.0025596619
+fiftyDayAverageChangePercent: 0.00022481888
+fiftyTwoWeekChangePercent: 34.524357
+fiftyTwoWeekHigh: 12.084
+fiftyTwoWeekHighChange: -0.6960001
+fiftyTwoWeekHighChangePercent: -0.057596833
+fiftyTwoWeekLow: 6.848
+fiftyTwoWeekLowChange: 4.5399995
+fiftyTwoWeekLowChangePercent: 0.6629672
+fiftyTwoWeekRange: 6.848 - 12.084
+financialCurrency: EUR
+firstTradeDateMilliseconds: 930294000000
+fiveYearAvgDividendYield: 2.68
+floatShares: 2199094461
+forwardEps: 0.90629
+forwardPE: 12.565514
+fullExchangeName: Milan
+fullTimeEmployees: 21769
+fulldayChange: -0.20800018
+fulldayChangePercent: -1.7937236
+fulldayPrice: 11.388
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 4148817920
+hasPrePostMarketData: false
+heldPercentInsiders: 0.37627998
+heldPercentInstitutions: 0.27093
+impliedSharesOutstanding: 3038418183
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779062400
+lastDividendValue: 0.86
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1664150400
+lastSplitFactor: 1:100
+longBusinessSummary: 'Banca Monte dei Paschi di Siena S.p.A., together with its subsidiaries,
+  provides various banking products and services in Italy and internationally. It
+  operates through four segments: Retail Banking, Wealth Management, Corporate Banking,
+  and Large Corporate and Investment Banking. The company offers savings and deposit
+  accounts, cards, advanced payment systems, insurance products, pensions, mortgages,
+  and loans, as well as financial advisory, electronic payment, self-service customer
+  operations, and consultancy services. It also provides asset management, financial
+  planning, consultancy on non-financial services, and fiduciary and trust services;
+  and credit intermediation, collaboration with trade associations, factoring offers,
+  and third-party custody and storage services for dairy products. In addition, the
+  company offers corporate and structured finance, medium and long-term credit, and
+  specialized support, as well as leasing and bancassurance. It serves private customers,
+  corporate and large group clients, and small and medium enterprises. The company
+  was founded in 1472 and is headquartered in Siena, Italy.'
+longName: Banca Monte dei Paschi di Siena S.p.A.
+market: it_market
+marketCap: 34601504768
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_691202
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3006231040
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 35233497250
+numberOfAnalystOpinions: 6
+open: 11.702
+operatingMargins: 0.46047002
+overallRisk: 1
+payoutRatio: 0.6825
+pegRatio: 0.96
+phone: 39 0577 29 41 11
+previousClose: 11.596
+priceEpsCurrentYear: 14.619305
+priceHint: 2
+priceToBook: 1.2905711
+priceToSalesTrailing12Months: 8.279619
+profitMargins: 0.71929
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -0.20800018
+regularMarketChangePercent: -1.7937236
+regularMarketDayHigh: 11.78
+regularMarketDayLow: 11.374
+regularMarketDayRange: 11.374 - 11.78
+regularMarketOpen: 11.702
+regularMarketPreviousClose: 11.596
+regularMarketPrice: 11.388
+regularMarketTime: 1794411546
+regularMarketVolume: 7806557
+returnOnAssets: 0.0089
+returnOnEquity: 0.07397
+revenueGrowth: 1.021
+revenuePerShare: 1.373
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 3038418183
+shortName: BANCA MONTE PASCHI SIENA
+sourceInterval: 20
+state: SI
+symbol: BMPS.MI
+targetHighPrice: 12.5
+targetLowPrice: 10.5
+targetMeanPrice: 11.88333
+targetMedianPrice: 12.3
+totalCash: 39677501440
+totalCashPerShare: 13.053
+totalDebt: 82276499456
+totalRevenue: 4179118080
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 0.99
+trailingPE: 11.50303
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 10.043975
+twoHundredDayAverageChange: 1.3440247
+twoHundredDayAverageChangePercent: 0.13381402
+typeDisp: Equity
+volume: 7806557
+website: https://www.gruppomps.it
+zip: '53100'

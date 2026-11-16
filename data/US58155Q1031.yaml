@@ -1,0 +1,284 @@
+52WeekChange: 0.28764796
+SandP52WeekChange: 0.097798586
+address1: 6555 State Highway 161
+allTimeHigh: 1121.5
+allTimeLow: 15.0625
+ask: 1070.18
+askSize: 40
+auditRisk: 10
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 802250
+averageDailyVolume3Month: 825090
+averageVolume: 825090
+averageVolume10days: 802250
+beta: 0.279
+bid: 1068.44
+bidSize: 40
+boardRisk: 6
+bookValue: -34.383
+city: Irving
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Brian S. Tyler Ph.D.
+  title: CEO & Chairman
+  totalPay: 7011842
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Michele  Lau J.D.
+  title: Executive VP & Chief Legal Officer
+  totalPay: 1944669
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. LeAnn B. Smith
+  title: Executive VP & Chief Human Resources Officer
+  totalPay: 1753129
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Kenny K. Cheung
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Napoleon B. Rutledge Jr.
+  title: Senior VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Paula  Adkison
+  title: Senior Vice President of Corporate Finance, Investor Relations & Strategic
+    Finance
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Francisco J. Fraga
+  title: Executive VP, Chief Information Officer & CTO
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Jeni  Dominguez
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Kirk  Kaminsky
+  title: Executive VP & Group President of North American Pharmaceutical Services
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Stanton J. McComb
+  title: President of Medical-Surgical
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: MCK announced a cash dividend of $0.94 with an ex-date of Dec. 1, 2026
+  meta:
+    amount: '0.94'
+    dateEpochMs: 1796101200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 1071.72
+currentRatio: 0.896
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 1080.16
+dayLow: 1067.375
+displayName: McKesson
+dividendDate: 1799020800
+dividendRate: 3.76
+dividendYield: 0.35
+earningsCallTimestampEnd: 1793827800
+earningsCallTimestampStart: 1793827800
+earningsGrowth: 0.17
+earningsQuarterlyGrowth: 0.097
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1801688400
+earningsTimestampStart: 1801688400
+ebitda: 7302000128
+ebitdaMargins: 0.017439999
+enterpriseToEbitda: 18.16
+enterpriseToRevenue: 0.317
+enterpriseValue: 132604231680
+epsCurrentYear: 45.75226
+epsForward: 52.19593
+epsTrailingTwelveMonths: 38.77
+esgPopulated: false
+exDividendDate: 1796083200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 944.9574
+fiftyDayAverageChange: 126.76257
+fiftyDayAverageChangePercent: 0.13414633
+fiftyTwoWeekChangePercent: 28.764797
+fiftyTwoWeekHigh: 1121.5
+fiftyTwoWeekHighChange: -49.78003
+fiftyTwoWeekHighChangePercent: -0.04438701
+fiftyTwoWeekLow: 723.68
+fiftyTwoWeekLowChange: 348.03998
+fiftyTwoWeekLowChangePercent: 0.48093078
+fiftyTwoWeekRange: 723.68 - 1121.5
+financialCurrency: USD
+firstTradeDateMilliseconds: 784477800000
+fiveYearAvgDividendYield: 0.46
+floatShares: 115263851
+forwardEps: 52.19593
+forwardPE: 20.532635
+freeCashflow: 7402625024
+fullExchangeName: NYSE
+fullTimeEmployees: 41600
+fulldayChange: -10.869995
+fulldayChangePercent: -1.0040731
+fulldayPrice: 1071.72
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.036530003
+grossProfits: 15299000320
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00054000004
+heldPercentInstitutions: 0.95786005
+impliedSharesOutstanding: 115456664
+industry: Medical Distribution
+industryDisp: Medical Distribution
+industryKey: medical-distribution
+irWebsite: http://www.mckesson.com/investors/stock-information/stock-information/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788220800
+lastDividendValue: 0.94
+lastFiscalYearEnd: 1774915200
+lastSplitDate: 883958400
+lastSplitFactor: '2:1'
+longBusinessSummary: 'McKesson Corporation provides healthcare services in the United
+  States and internationally. It operates through four segments: North American Pharmaceutical,
+  Oncology & Multispecialty, Prescription Technology Solutions, and Medical-Surgical
+  Solutions. The company distributes branded, generic, specialty, biosimilar and over-the-counter
+  pharmaceutical drugs, and other healthcare-related products; delivers products to
+  retail pharmacies, hospitals, long-term care centers, clinics, and institutions;
+  and provides logistics and distribution services for manufacturers. It also provides
+  consulting, outsourcing, technological, and other services, as well as sells financial,
+  operational, and clinical solutions to pharmacies; gene therapy with InspiroGene,
+  practice consulting, and vaccine distribution services; and technology solutions,
+  as well as research, insights, technologies, and services to improve cancer and
+  specialty care. In addition, the company helps in solving medication access, affordability,
+  and adherence challenges for patients by working across healthcare to connect patients,
+  pharmacies, providers, pharmacy benefit managers, health plans, and biopharma companies.
+  Further, it offers technology services, which includes electronic prior authorization,
+  prescription price transparency, benefit insight, dispensing support services, patient
+  enrollment, third-party logistics, and wholesale distribution support; medical-surgical
+  supplies, laboratory equipment, pharmaceutical distribution, logistics, and other
+  services to healthcare providers, including physician offices, surgery centers,
+  hospital reference labs, nursing homes, hospice and home health care agencies, government
+  facilities, and online marketplaces and retailers. McKesson Corporation was founded
+  in 1833 and is headquartered in Irving, Texas.'
+longName: McKesson Corporation
+market: us_market
+marketCap: 123737210880
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_288195
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4700000256
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 124992229879
+numberOfAnalystOpinions: 14
+open: 1075.23
+operatingCashflow: 7503000064
+operatingMargins: 0.0159
+overallRisk: 5
+payoutRatio: 0.0877
+pegRatio: 1.83
+phone: 972 446 4800
+previousClose: 1082.59
+priceEpsCurrentYear: 23.424417
+priceHint: 2
+priceToBook: -31.170055
+priceToSalesTrailing12Months: 0.29546362
+profitMargins: 0.01122
+quickRatio: 0.502
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.5625
+region: US
+regularMarketChange: -10.869995
+regularMarketChangePercent: -1.0040731
+regularMarketDayHigh: 1080.16
+regularMarketDayLow: 1067.375
+regularMarketDayRange: 1067.375 - 1080.16
+regularMarketOpen: 1075.23
+regularMarketPreviousClose: 1082.59
+regularMarketPrice: 1071.72
+regularMarketTime: 1794413700
+regularMarketVolume: 71647
+returnOnAssets: 0.04716
+revenueGrowth: 0.076
+revenuePerShare: 3487.011
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 4
+sharesOutstanding: 115456664
+sharesPercentSharesOut: 0.0172
+sharesShort: 1990460
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2288007
+shortName: McKesson Corporation
+shortPercentOfFloat: 0.0173
+shortRatio: 2.78
+sourceInterval: 15
+state: TX
+symbol: MCK
+targetHighPrice: 1260.0
+targetLowPrice: 965.0
+targetMeanPrice: 1144.2858
+targetMedianPrice: 1200.0
+totalCash: 6528000000
+totalCashPerShare: 56.541
+totalDebt: 11201999872
+totalRevenue: 418790014976
+tradeable: false
+trailingAnnualDividendRate: 3.4
+trailingAnnualDividendYield: 0.0031406167
+trailingEps: 38.77
+trailingPE: 27.643023
+trailingPegRatio: 1.827
+triggerable: true
+twoHundredDayAverage: 870.3737
+twoHundredDayAverageChange: 201.34625
+twoHundredDayAverageChangePercent: 0.2313331
+typeDisp: Equity
+volume: 71647
+website: https://www.mckesson.com
+zip: '75039'

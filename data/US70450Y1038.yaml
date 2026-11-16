@@ -1,0 +1,272 @@
+52WeekChange: -0.1252976
+SandP52WeekChange: 0.097798586
+address1: 2211 North First Street
+allTimeHigh: 310.16
+allTimeLow: 30.0
+ask: 61.53
+askSize: 1
+auditRisk: 1
+averageAnalystRating: 3.0 - Hold
+averageDailyVolume10Day: 10887750
+averageDailyVolume3Month: 11904312
+averageVolume: 11904312
+averageVolume10days: 10887750
+beta: 1.316
+bid: 55.24
+bidSize: 1
+boardRisk: 4
+bookValue: 23.277
+city: San Jose
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Enrique J. Lores
+  title: President, CEO & Director
+  totalPay: 167534
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jamie S. Miller
+  title: Chief Financial & Operating Officer and Executive VP
+  totalPay: 1934206
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank  Keller
+  title: President of Checkout Solutions & PayPal
+  totalPay: 1766568
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Suzan Bulyaba Kereere
+  title: President of Global Markets
+  totalPay: 1766568
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher  Natali
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Srinivasan  Venkatesan
+  title: Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven Eric Winoker
+  title: Chief Investor Relations Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bimal  Patel
+  title: Chief Legal Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amy  Bonitatibus
+  title: Chief Corporate Affairs & Communications Officer
+  unexercisedValue: 0
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Antonio J. Lucio
+  title: Chief Marketing & Corporate Affairs Officer
+  unexercisedValue: 0
+  yearBorn: 1959
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: PYPL announced a cash dividend of $0.14 with an ex-date of Dec. 4, 2026
+  meta:
+    amount: '0.14'
+    dateEpochMs: 1796360400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 58.97
+currentRatio: 1.264
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 59.08
+dayLow: 57.85
+debtToEquity: 73.146
+displayName: PayPal
+dividendDate: 1798070400
+dividendRate: 0.56
+dividendYield: 0.95
+earningsCallTimestampEnd: 1793102400
+earningsCallTimestampStart: 1793102400
+earningsGrowth: -0.038
+earningsQuarterlyGrowth: -0.14
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1793104200
+earningsTimestampStart: 1793104200
+ebitda: 6520999936
+ebitdaMargins: 0.19014
+enterpriseToEbitda: 8.096
+enterpriseToRevenue: 1.539
+enterpriseValue: 52797095936
+epsCurrentYear: 5.57951
+epsForward: 5.90149
+epsTrailingTwelveMonths: 5.24
+esgPopulated: false
+exDividendDate: 1796342400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 55.3453
+fiftyDayAverageChange: 3.6247025
+fiftyDayAverageChangePercent: 0.06549251
+fiftyTwoWeekChangePercent: -12.52976
+fiftyTwoWeekHigh: 67.99
+fiftyTwoWeekHighChange: -9.019997
+fiftyTwoWeekHighChangePercent: -0.13266653
+fiftyTwoWeekLow: 38.46
+fiftyTwoWeekLowChange: 20.510002
+fiftyTwoWeekLowChangePercent: 0.5332814
+fiftyTwoWeekRange: 38.46 - 67.99
+financialCurrency: USD
+firstTradeDateMilliseconds: 1436189400000
+floatShares: 828706251
+forwardEps: 5.90149
+forwardPE: 9.992392
+freeCashflow: 4487374848
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 23800
+fulldayChange: 0.19000244
+fulldayChangePercent: 0.32324335
+fulldayPrice: 58.97
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.40548
+grossProfits: 13905999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00723
+heldPercentInstitutions: 0.80120003
+impliedSharesOutstanding: 830658298
+industry: Credit Services
+industryDisp: Credit Services
+industryKey: credit-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788480000
+lastDividendValue: 0.14
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: PayPal Holdings, Inc. operates a technology platform that enables
+  digital payments for merchants and consumers worldwide. The company operates a two-sided
+  network at scale that connects merchants and consumers that enables its customers
+  to connect, transact, and send and receive payments through online and in person,
+  as well as transfer and withdraw funds using various funding sources, such as bank
+  accounts, PayPal or Venmo account balance, consumer credit and debit products, credit
+  and debit cards, and cryptocurrencies, as well as other stored value products, including
+  gift cards and eligible rewards. It provides payment solutions under the PayPal,
+  PayPal Credit, Braintree, Venmo, Xoom, Hyperwallet, Honey, and Paidy names. The
+  company was founded in 1998 and is headquartered in San Jose, California.
+longName: PayPal Holdings, Inc.
+market: us_market
+marketCap: 48983920640
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_112732
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4727000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 48826094756
+numberOfAnalystOpinions: 33
+open: 58.167
+operatingCashflow: 7093000192
+operatingMargins: 0.17695999
+overallRisk: 2
+payoutRatio: 0.1069
+pegRatio: 0.96
+phone: 408 967 7000
+previousClose: 58.78
+priceEpsCurrentYear: 10.569028
+priceHint: 2
+priceToBook: 2.533402
+priceToSalesTrailing12Months: 1.4283109
+profitMargins: 0.13783
+quickRatio: 0.232
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.97674
+region: US
+regularMarketChange: 0.19000244
+regularMarketChangePercent: 0.32324335
+regularMarketDayHigh: 59.08
+regularMarketDayLow: 57.85
+regularMarketDayRange: 57.85 - 59.08
+regularMarketOpen: 58.167
+regularMarketPreviousClose: 58.78
+regularMarketPrice: 58.97
+regularMarketTime: 1794413743
+regularMarketVolume: 1654174
+returnOnAssets: 0.047
+returnOnEquity: 0.23825
+revenueGrowth: 0.02
+revenuePerShare: 38.404
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 6
+sharesOutstanding: 830658298
+sharesPercentSharesOut: 0.0344
+sharesShort: 28540225
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 29919083
+shortName: PayPal Holdings, Inc.
+shortPercentOfFloat: 0.038599998
+shortRatio: 2.54
+sourceInterval: 15
+state: CA
+symbol: PYPL
+targetHighPrice: 80.0
+targetLowPrice: 36.0
+targetMeanPrice: 57.13182
+targetMedianPrice: 58.0
+totalCash: 10279999488
+totalCashPerShare: 12.376
+totalDebt: 14250999808
+totalRevenue: 34294999040
+tradeable: false
+trailingAnnualDividendRate: 0.56
+trailingAnnualDividendYield: 0.00952705
+trailingEps: 5.24
+trailingPE: 11.253818
+trailingPegRatio: 0.9399
+triggerable: true
+twoHundredDayAverage: 50.06855
+twoHundredDayAverageChange: 8.901451
+twoHundredDayAverageChangePercent: 0.17778528
+typeDisp: Equity
+volume: 1654174
+website: https://www.paypal.com
+zip: '95131'

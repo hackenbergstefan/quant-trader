@@ -1,0 +1,279 @@
+52WeekChange: 0.58359146
+SandP52WeekChange: 0.097798586
+address1: 1400 Fountaingrove Parkway
+allTimeHigh: 389.93
+allTimeLow: 21.071
+ask: 311.45
+askSize: 40
+auditRisk: 5
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 1643850
+averageDailyVolume3Month: 1339728
+averageVolume: 1339728
+averageVolume10days: 1643850
+beta: 1.209
+bid: 310.74
+bidSize: 120
+boardRisk: 5
+bookValue: 38.585
+city: Santa Rosa
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Satish C. Dhanasekaran
+  title: President, CEO & Director
+  totalPay: 2550511
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Neil P. Dougherty
+  title: Executive VP & CFO
+  totalPay: 1474225
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ingrid A. Estrada
+  title: SVP and Chief of Supply Chain & Operations Officer
+  totalPay: 1223987
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kailash  Narayanan
+  title: Senior VP & President of Communications Solutions Group
+  totalPay: 1220395
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lisa M. Poole
+  title: VP, Principal Accounting Officer & Corporate Controller
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey K. Li J.D.
+  title: Senior VP, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marie  Hattar
+  title: Chief Marketing Officer & Senior VP
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sung J. Yoon
+  title: Senior Vice President of Global Sales
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jo Ann Juskie J.D.
+  title: Senior VP & Chief People Officer
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason A. Kary
+  title: Senior VP & President of the Electronic Industrial Solutions Group
+  unexercisedValue: 0
+  yearBorn: 1969
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 310.23
+currentRatio: 2.024
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 313.26
+dayLow: 302.34
+debtToEquity: 42.094
+displayName: Keysight
+dividendYield: 0.0
+earningsCallTimestampEnd: 1795123800
+earningsCallTimestampStart: 1795123800
+earningsGrowth: 1.091
+earningsQuarterlyGrowth: 1.079
+earningsTimestamp: 1795122000
+earningsTimestampEnd: 1795122000
+earningsTimestampStart: 1795122000
+ebitda: 1698000000
+ebitdaMargins: 0.25798
+enterpriseToEbitda: 29.317
+enterpriseToRevenue: 7.563
+enterpriseValue: 49780535296
+epsCurrentYear: 11.49984
+epsForward: 13.93407
+epsTrailingTwelveMonths: 7.39
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 800 829 4433
+fiftyDayAverage: 336.1368
+fiftyDayAverageChange: -25.9068
+fiftyDayAverageChangePercent: -0.07707219
+fiftyTwoWeekChangePercent: 58.359146
+fiftyTwoWeekHigh: 389.93
+fiftyTwoWeekHighChange: -79.69998
+fiftyTwoWeekHighChangePercent: -0.20439562
+fiftyTwoWeekLow: 167.23
+fiftyTwoWeekLowChange: 143.00002
+fiftyTwoWeekLowChangePercent: 0.8551099
+fiftyTwoWeekRange: 167.23 - 389.93
+financialCurrency: USD
+firstTradeDateMilliseconds: 1413811800000
+floatShares: 169109213
+forwardEps: 13.93407
+forwardPE: 22.264135
+freeCashflow: 1867124992
+fullExchangeName: NYSE
+fullTimeEmployees: 16600
+fulldayChange: 18.77002
+fulldayChangePercent: 6.4399986
+fulldayPrice: 310.23
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.63278997
+grossProfits: 4164999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0058
+heldPercentInstitutions: 0.92425
+impliedSharesOutstanding: 170244745
+industry: Scientific & Technical Instruments
+industryDisp: Scientific & Technical Instruments
+industryKey: scientific-technical-instruments
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1761868800
+longBusinessSummary: Keysight Technologies, Inc. provides electronic design and test
+  solutions worldwide. The company operates through Communications Solutions Group
+  and Electronic Industrial Solutions Group segments. It offers electronic design
+  and test software, instrumentation, systems, and related services used in the design,
+  simulation, validation, manufacturing, installation, and optimization of communication
+  systems in wireless, data center ecosystem, enterprise, and aerospace, defense,
+  and government end markets. The company also develops and deploys communications
+  products and services; and operates communications networks. In addition, it provides
+  electronic design, test and simulation software, instrumentation, systems, computer-aided
+  engineering solutions, and related services used in the design, simulation, validation,
+  manufacturing, installation, and optimization of electronic equipment in the automotive
+  and energy, semiconductor solutions, and general electronics industries. Further,
+  the company offers product support; technical and application support for hardware,
+  software, and solutions; and professional services, such as installation, training,
+  engineering, optimization of equipment and solution adoption, utilization, and integration
+  services. Additionally, it provides oscilloscopes; generators, sources and power
+  supplies; software products; analyzers; wireless products; network test and security;
+  modular instruments; meters; network visibility; and other products, as well as
+  KeysightCare support plans, calibration, repair, technology refresh, test as a service,
+  network/security, consulting, financial alternatives, education, software testing,
+  support, managed, device vulnerability analysis, support portal, and used equipment
+  services. Keysight Technologies, Inc. was founded in 1939 and is headquartered in
+  Santa Rosa, California.
+longName: Keysight Technologies, Inc.
+market: us_market
+marketCap: 52815032320
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_247017859
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 1279000064
+nextFiscalYearEnd: 1793404800
+nonDilutedMarketCap: 49619533377
+numberOfAnalystOpinions: 12
+open: 307.6
+operatingCashflow: 1604000000
+operatingMargins: 0.19827
+overallRisk: 6
+payoutRatio: 0.0
+pegRatio: 0.57
+phone: 800 829 4444
+previousClose: 291.46
+priceEpsCurrentYear: 26.976898
+priceHint: 2
+priceToBook: 8.040172
+priceToSalesTrailing12Months: 8.024161
+profitMargins: 0.19143
+quickRatio: 1.43
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: 18.77002
+regularMarketChangePercent: 6.4399986
+regularMarketDayHigh: 313.26
+regularMarketDayLow: 302.34
+regularMarketDayRange: 302.34 - 313.26
+regularMarketOpen: 307.6
+regularMarketPreviousClose: 291.46
+regularMarketPrice: 310.23
+regularMarketTime: 1794413740
+regularMarketVolume: 354670
+returnOnAssets: 0.072270006
+returnOnEquity: 0.20897
+revenueGrowth: 0.365
+revenuePerShare: 38.435
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 8
+sharesOutstanding: 170244745
+sharesPercentSharesOut: 0.0128999995
+sharesShort: 2201996
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2436733
+shortName: Keysight Technologies Inc.
+shortPercentOfFloat: 0.0148
+shortRatio: 1.68
+sourceInterval: 15
+state: CA
+symbol: KEYS
+targetHighPrice: 487.0
+targetLowPrice: 350.0
+targetMeanPrice: 419.66666
+targetMedianPrice: 425.0
+totalCash: 2604999936
+totalCashPerShare: 15.302
+totalDebt: 2766000128
+totalRevenue: 6582000128
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 7.39
+trailingPE: 41.979706
+trailingPegRatio: 0.573
+triggerable: true
+twoHundredDayAverage: 319.23264
+twoHundredDayAverageChange: -9.0026245
+twoHundredDayAverageChangePercent: -0.028200828
+typeDisp: Equity
+volume: 354670
+website: https://www.keysight.com
+zip: 95403-1738

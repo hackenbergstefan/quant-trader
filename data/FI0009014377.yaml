@@ -1,0 +1,273 @@
+52WeekChange: 0.70116866
+SandP52WeekChange: 0.097798586
+address1: Orionintie 1A
+allTimeHigh: 103.6
+allTimeLow: 10.3
+ask: 102.4
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 163386
+averageDailyVolume3Month: 158956
+averageVolume: 158956
+averageVolume10days: 163386
+beta: 0.231
+bid: 102.2
+bidSize: 0
+boardRisk: 1
+bookValue: 9.963
+city: Espo
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Liisa  Hurme Ph.D.
+  title: President, CEO & Chairman of Executive Management Board
+  totalPay: 1287554
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rene  Lindell M.Sc., Ph.D.
+  title: CFO & Member of Group Executive Management Board
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Satu  Ahomäki M.Sc., M.Sc. (Econ.)
+  title: Executive VP of Generics and Consumer Health & Member of the Exe. Mgmt. Board
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Prof. Outi  Vaarala M.D., Ph.D.
+  title: Executive VP of Research & Development and Member of the Exe. Mgmt. Board
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juhani  Kankaanpaa M.Sc.
+  title: Executive VP of Global Operations & Member of Executive Management Board
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Niclas  Lindstedt EMBA, M.Sc.
+  title: Executive VP of Animal Health & Member of the Exe. Mgmt. Board
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hao  Pan M.Sc.
+  title: Executive VP of the Branded Products & Member of the Exe. Mgmt. Board
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julia Irene Macharey
+  title: Executive VP of People & Culture & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mikko  Kemppainen
+  title: General Counsel, Secretary to the Board & Member of Executive Management
+    Board
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Berkeley  Vincent
+  title: Executive Vice President of Innovative Medicines & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1977
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Finland
+cryptoTradeable: false
+currency: EUR
+currentPrice: 102.3
+currentRatio: 2.722
+customPriceAlertConfidence: HIGH
+dayHigh: 102.8
+dayLow: 101.8
+debtToEquity: 8.975
+dividendRate: 1.8
+dividendYield: 1.77
+earningsCallTimestampEnd: 1793188800
+earningsCallTimestampStart: 1793188800
+earningsGrowth: 0.75
+earningsQuarterlyGrowth: 0.746
+earningsTimestamp: 1793205000
+earningsTimestampEnd: 1793205000
+earningsTimestampStart: 1793205000
+ebitda: 884400000
+ebitdaMargins: 0.40627998
+enterpriseToEbitda: 16.152
+enterpriseToRevenue: 6.562
+enterpriseValue: 14284507136
+epsCurrentYear: 4.32019
+epsForward: 5.05005
+epsTrailingTwelveMonths: 4.68
+esgPopulated: false
+exDividendDate: 1792368000
+exchange: HEL
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Helsinki
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fiftyDayAverage: 86.833
+fiftyDayAverageChange: 15.467003
+fiftyDayAverageChangePercent: 0.17812356
+fiftyTwoWeekChangePercent: 70.11687
+fiftyTwoWeekHigh: 103.6
+fiftyTwoWeekHighChange: -1.2999954
+fiftyTwoWeekHighChangePercent: -0.0125482185
+fiftyTwoWeekLow: 58.85
+fiftyTwoWeekLowChange: 43.450005
+fiftyTwoWeekLowChangePercent: 0.73831785
+fiftyTwoWeekRange: 58.85 - 103.6
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1097132400000
+fiveYearAvgDividendYield: 2.91
+floatShares: 122991595
+forwardEps: 5.05005
+forwardPE: 20.257227
+freeCashflow: 271400000
+fullExchangeName: Helsinki
+fullTimeEmployees: 4215
+fulldayChange: 0.40000153
+fulldayChangePercent: 0.3925432
+fulldayPrice: 102.3
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.67443
+grossProfits: 1468099968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.02629
+heldPercentInstitutions: 0.46562
+impliedSharesOutstanding: 140366112
+industry: Drug Manufacturers - General
+industryDisp: Drug Manufacturers - General
+industryKey: drug-manufacturers-general
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792368000
+lastDividendValue: 0.9
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Orion Oyj develops, manufactures, and markets human and veterinary
+  pharmaceuticals and active pharmaceutical ingredients (APIs) in Finland, Scandinavia,
+  rest of Europe, North America, and internationally. It offers pharmaceutical products,
+  which includes Nubeqa for the treatment of prostate cancer; Entacapone, Stalevo,
+  Comtess, and Comtan to treat Parkinson's disease; Burana for inflammatory pain;
+  Divina series for menopausal symptoms; Simdax for acute decompensated heart failure;
+  Fareston for breast cancer; Quetiapine products for antipsychotic; Trexan for rheumatoid
+  arthritis and cancer; Easyhaler product portfolio for asthma and COPD; and Dexdor,
+  Precedex, and Dexmedetomidine products for human use. The company also provides
+  Salmeterol/fluticasone Easyhaler, Budesonide/formoterol Easyhaler, Formoterol Easyhaler,
+  Budesonide Easyhaler, Beclomet Easyhaler, and Buventol Easyhaler drugs for the treatment
+  of asthma and chronic obstructive pulmonary disease. In addition, it offers veterinary
+  drugs comprising Bonqat, Clevor, Domosedan, Domitor, Antisedan, Dexdomitor, Domosedan
+  Gel, Sileo, and Tessie; APIs for generic compounds and proprietary products, as
+  well as contract manufacturing services; and markets and sells drugs and products
+  manufactured by other companies. Additionally, the company provides self-care products,
+  including non-prescription medicines, cosmetics, dietary supplements, vitamins,
+  and skincare products. It also offers its products online. The company has a licensing
+  agreement with Tenax Therapeutics, Inc. to develop oral levosimendan (TNX-103) for
+  pulmonary hypertension in heart failure with preserved ejection fraction (PH-HFpEF);
+  and Bayer for the development and commercialisation of darolutamide Nubeqa. Orion
+  Oyj was founded in 1917 and is headquartered in Espo, Finland.
+longName: Orion Oyj
+market: fi_market
+marketCap: 14359453696
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_27881517
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 658700032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 14281225458
+numberOfAnalystOpinions: 6
+open: 101.9
+operatingCashflow: 489400000
+operatingMargins: 0.38111
+overallRisk: 2
+payoutRatio: 0.3675
+pegRatio: 5.73
+phone: 358 10 4261
+previousClose: 101.9
+priceEpsCurrentYear: 23.679516
+priceHint: 2
+priceToBook: 10.267992
+priceToSalesTrailing12Months: 6.5965886
+profitMargins: 0.3026
+quickRatio: 1.613
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.16667
+region: US
+regularMarketChange: 0.40000153
+regularMarketChangePercent: 0.3925432
+regularMarketDayHigh: 102.8
+regularMarketDayLow: 101.8
+regularMarketDayRange: 101.8 - 102.8
+regularMarketOpen: 101.9
+regularMarketPreviousClose: 101.9
+regularMarketPrice: 102.3
+regularMarketTime: 1794412456
+regularMarketVolume: 45241
+returnOnAssets: 0.27421
+returnOnEquity: 0.54494
+revenueGrowth: 0.281
+revenuePerShare: 15.464
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 10
+sharesOutstanding: 108992933
+shortName: Orion Corporation B
+sourceInterval: 15
+symbol: ORNBV.HE
+targetHighPrice: 115.0
+targetLowPrice: 55.0
+targetMeanPrice: 87.5
+targetMedianPrice: 89.5
+totalCash: 144300000
+totalCashPerShare: 1.028
+totalDebt: 125500000
+totalRevenue: 2176800000
+tradeable: false
+trailingAnnualDividendRate: 1.8
+trailingAnnualDividendYield: 0.017664377
+trailingEps: 4.68
+trailingPE: 21.858976
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 75.65825
+twoHundredDayAverageChange: 26.641754
+twoHundredDayAverageChangePercent: 0.35213283
+typeDisp: Equity
+volume: 45241
+website: https://www.orionpharma.com
+zip: '02200'

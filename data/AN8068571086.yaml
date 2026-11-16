@@ -1,0 +1,295 @@
+52WeekChange: 0.38342118
+SandP52WeekChange: 0.097798586
+address1: 5599 San Felipe
+address2: 17th Floor
+allTimeHigh: 118.76
+allTimeLow: 6.5
+ask: 50.88
+askSize: 500
+auditRisk: 3
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 13024740
+averageDailyVolume3Month: 12704100
+averageVolume: 12704100
+averageVolume10days: 13024740
+beta: 0.792
+bid: 50.86
+bidSize: 200
+boardRisk: 1
+bookValue: 17.649
+city: Houston
+companyOfficers:
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Olivier  Le Peuch
+  title: CEO & Director
+  totalPay: 4058208
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephane  Biguet
+  title: Executive VP & CFO
+  totalPay: 1837839
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Demosthenis  Pafitis
+  title: Chief Technology Officer
+  totalPay: 1224750
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Dianne B. Ralston J.D.
+  title: Chief Legal Officer & Secretary
+  totalPay: 1632502
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Abdellah  Merad
+  title: Executive Vice President of Core Services & Equipment
+  totalPay: 1897794
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Howard  Guild
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sebastien  Lehnherr
+  title: Chief Information Officer
+  unexercisedValue: 0
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James R. McDonald
+  title: Senior Vice President of Investor Relations & Industry Affairs
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Josh  Byerly
+  title: SVP of Global Communications
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Agnieszka  Kmieciak
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: SLB announced a cash dividend of $0.295 with an ex-date of Dec. 2, 2026
+  meta:
+    amount: '0.295'
+    dateEpochMs: 1796187600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 50.79
+currentRatio: 1.389
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 51.2
+dayLow: 49.9
+debtToEquity: 47.08
+displayName: SLB
+dividendDate: 1799280000
+dividendRate: 1.18
+dividendYield: 2.36
+earningsCallTimestampEnd: 1792762200
+earningsCallTimestampStart: 1792762200
+earningsGrowth: -0.02
+earningsQuarterlyGrowth: -0.005
+earningsTimestamp: 1792758600
+earningsTimestampEnd: 1800624600
+earningsTimestampStart: 1800624600
+ebitda: 7386999808
+ebitdaMargins: 0.20025998
+enterpriseToEbitda: 11.375
+enterpriseToRevenue: 2.278
+enterpriseValue: 84027875328
+epsCurrentYear: 2.45216
+epsForward: 3.07816
+epsTrailingTwelveMonths: 2.06
+esgPopulated: false
+exDividendDate: 1796169600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 51.8562
+fiftyDayAverageChange: -1.0662003
+fiftyDayAverageChangePercent: -0.02056071
+fiftyTwoWeekChangePercent: 38.342117
+fiftyTwoWeekHigh: 60.46
+fiftyTwoWeekHighChange: -9.669998
+fiftyTwoWeekHighChangePercent: -0.15994042
+fiftyTwoWeekLow: 34.65
+fiftyTwoWeekLowChange: 16.14
+fiftyTwoWeekLowChangePercent: 0.46580082
+fiftyTwoWeekRange: 34.65 - 60.46
+financialCurrency: USD
+firstTradeDateMilliseconds: 378657000000
+fiveYearAvgDividendYield: 1.89
+floatShares: 1471542483
+forwardEps: 3.07816
+forwardPE: 16.500116
+freeCashflow: 3078374912
+fullExchangeName: NYSE
+fullTimeEmployees: 109000
+fulldayChange: 0.8899994
+fulldayChangePercent: 1.7835659
+fulldayPrice: 50.79
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.16594
+grossProfits: 6120999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00184
+heldPercentInstitutions: 0.93071
+impliedSharesOutstanding: 1476029613
+industry: Oil & Gas Equipment & Services
+industryDisp: Oil & Gas Equipment & Services
+industryKey: oil-gas-equipment-services
+irWebsite: http://investorcenter.slb.com/phoenix.zhtml?c=97513&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788307200
+lastDividendValue: 0.295
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1144627200
+lastSplitFactor: '2:1'
+longBusinessSummary: 'SLB N.V. engages in the provision of technology for the energy
+  industry worldwide. The company operates through four divisions: Digital & Integration,
+  Reservoir Performance, Well Construction, and Production Systems. The company provides
+  field development and hydrocarbon production, carbon management, and integration
+  of adjacent energy systems; reservoir interpretation and data processing services
+  for exploration data; and well construction and production improvement services
+  and products. It also offers subsurface geology and fluids evaluation information;
+  stimulation services to restore or enhance well productivity through hydraulic fracturing,
+  matrix stimulation, and water treatment; and intervention services to oil and gas
+  operators. In addition, the company offers mud logging, directional drilling, measurement-while-drilling,
+  and logging-while-drilling services, as well as engineering support services; supplies
+  drilling fluid systems; designs, manufactures, and markets roller cone and fixed
+  cutter drill bits; bottom-hole-assembly and borehole enlargement technologies; well
+  planning, well drilling, engineering, supervision, logistics, procurement, and contracting
+  of third parties, as well as drilling rig management solutions; and drilling equipment
+  and services, as well as land drilling rigs and related services. Further, it provides
+  artificial lift; supplies packers, safety valves, sand control technology, and various
+  intelligent systems; midstream production systems; valves, chokes, actuators, and
+  surface trees; and OneSubsea, an integrated solutions, products, systems, and services,
+  including wellheads, subsea trees, manifolds and flowline connectors, control systems,
+  connectors, and services. SLB N.V. was formerly known as Schlumberger Limited and
+  change its name to SLB N.V. in October 2025. The company was founded in 1926 and
+  is based in Houston, Texas.'
+longName: SLB N.V.
+market: us_market
+marketCap: 74967539712
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_301966
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 3096999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 73653877688
+numberOfAnalystOpinions: 29
+open: 50.87
+operatingCashflow: 6360999936
+operatingMargins: 0.1381
+overallRisk: 1
+payoutRatio: 0.568
+pegRatio: 1.4
+phone: 713 513 2000
+prevName: Schlumberger Limited
+previousClose: 49.9
+priceEpsCurrentYear: 20.712353
+priceHint: 2
+priceToBook: 2.8777835
+priceToSalesTrailing12Months: 2.0323567
+profitMargins: 0.08396
+quickRatio: 0.904
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.53333
+region: US
+regularMarketChange: 0.8899994
+regularMarketChangePercent: 1.7835659
+regularMarketDayHigh: 51.2
+regularMarketDayLow: 49.9
+regularMarketDayRange: 49.9 - 51.2
+regularMarketOpen: 50.87
+regularMarketPreviousClose: 49.9
+regularMarketPrice: 50.79
+regularMarketTime: 1794413737
+regularMarketVolume: 1857379
+returnOnAssets: 0.057210002
+returnOnEquity: 0.1166
+revenueGrowth: 0.058
+revenuePerShare: 24.731
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 6
+sharesOutstanding: 1476029613
+sharesPercentSharesOut: 0.039
+sharesShort: 57495467
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 60276250
+shortName: SLB Limited
+shortPercentOfFloat: 0.0446
+shortRatio: 4.76
+sourceInterval: 15
+state: TX
+symbol: SLB
+targetHighPrice: 71.0
+targetLowPrice: 44.0
+targetMeanPrice: 62.24138
+targetMedianPrice: 63.0
+totalCash: 3600000000
+totalCashPerShare: 2.439
+totalDebt: 12812000256
+totalRevenue: 36886999040
+tradeable: false
+trailingAnnualDividendRate: 1.17
+trailingAnnualDividendYield: 0.023446891
+trailingEps: 2.06
+trailingPE: 24.65534
+trailingPegRatio: 1.4041
+triggerable: true
+twoHundredDayAverage: 51.5576
+twoHundredDayAverageChange: -0.7675972
+twoHundredDayAverageChangePercent: -0.014888149
+typeDisp: Equity
+volume: 1857379
+website: https://www.slb.com
+zip: '77056'

@@ -1,0 +1,281 @@
+52WeekChange: 0.07484591
+SandP52WeekChange: 0.097798586
+address1: 4902 North Biltmore Lane
+allTimeHigh: 78.81
+allTimeLow: 3.375
+ask: 79.03
+askSize: 2
+auditRisk: 5
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 3814200
+averageDailyVolume3Month: 2746339
+averageVolume: 2746339
+averageVolume10days: 3814200
+beta: 0.5
+bid: 67.28
+bidSize: 2
+boardRisk: 1
+bookValue: 30.105
+city: Madison
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lisa M. Barton
+  title: President, CEO & Director
+  totalPay: 3527707
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert J. Durian CPA
+  title: Executive VP & CFO
+  totalPay: 1727664
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rajagopalan  Sundararajan
+  title: Executive VP & Chief Strategy Officer
+  totalPay: 1736733
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Antonio P. Smyth
+  title: Executive Vice President of Power Generation & Gas Strategy
+  totalPay: 1711910
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dylan M. Syse
+  title: Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1986
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melissa A. Kehoe
+  title: Vice President of Strategic Financial Planning & Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1985
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amy L. Cralam
+  title: VP & General Counsel
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Aimee L. Davis
+  title: Vice President of Marketing, Communications & Customer Operations
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amy E. Best
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mayuri N. Farlinger
+  title: President of Iowa Energy & VP of Energy Delivery
+  unexercisedValue: 0
+  yearBorn: 1983
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 72.99
+currentRatio: 0.509
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 73.23
+dayLow: 72.725
+debtToEquity: 160.899
+displayName: Alliant Energy
+dividendDate: 1794787200
+dividendRate: 2.14
+dividendYield: 2.92
+earningsCallTimestampEnd: 1793368800
+earningsCallTimestampStart: 1793368800
+earningsGrowth: 0.395
+earningsQuarterlyGrowth: 0.416
+earningsTimestamp: 1793304000
+earningsTimestampEnd: 1793304000
+earningsTimestampStart: 1793304000
+ebitda: 1880999936
+ebitdaMargins: 0.41763002
+enterpriseToEbitda: 16.764
+enterpriseToRevenue: 7.001
+enterpriseValue: 31532646400
+epsCurrentYear: 3.43467
+epsForward: 3.68007
+epsTrailingTwelveMonths: 3.59
+esgPopulated: false
+exDividendDate: 1793318400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 67.6416
+fiftyDayAverageChange: 5.3483963
+fiftyDayAverageChangePercent: 0.07906963
+fiftyTwoWeekChangePercent: 7.484591
+fiftyTwoWeekHigh: 78.81
+fiftyTwoWeekHighChange: -5.8199997
+fiftyTwoWeekHighChangePercent: -0.07384849
+fiftyTwoWeekLow: 62.54
+fiftyTwoWeekLowChange: 10.449997
+fiftyTwoWeekLowChangePercent: 0.16709301
+fiftyTwoWeekRange: 62.54 - 78.81
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 3.13
+floatShares: 258516133
+forwardEps: 3.68007
+forwardPE: 19.833862
+freeCashflow: -1528625024
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 2948
+fulldayChange: -0.25
+fulldayChangePercent: -0.34134355
+fulldayPrice: 72.99
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.45049
+grossProfits: 2028999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00166
+heldPercentInstitutions: 0.99241996
+impliedSharesOutstanding: 259361652
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=71431&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793318400
+lastDividendValue: 0.535
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1463702400
+lastSplitFactor: '2:1'
+longBusinessSummary: Alliant Energy Corporation operates as a utility holding company
+  that provides regulated electric and natural gas services in the United States.
+  It operates through IPL and WPL segments. The company's IPL segment engages primarily
+  in the generation and distribution of electricity and the distribution and transportation
+  of natural gas to retail customers in select markets in Iowa. This segment also
+  sells electricity to wholesale customers in Minnesota, Illinois and Iowa; and generates
+  and distributes steam for two customers in Cedar Rapids, Iowa. Its WPL segment generates
+  and distributes electricity, and distributes and transports natural gas to retail
+  customers in select markets in Wisconsin; and sells electricity to wholesale customers
+  in Wisconsin. It serves retail customers in the farming, agriculture, industrial
+  manufacturing, chemical, packaging, and food industries, as well as wholesale customers
+  comprising municipalities and rural electric cooperatives. In addition, the company
+  owns and operates a short-line rail freight service in Iowa; a Mississippi River
+  barge, rail, and truck freight terminal in Illinois; freight brokerage services;
+  wind turbine blade recycling services; and a rail-served warehouse in Iowa. Further,
+  it holds interests in a natural gas-fired electric generating unit near Sheboygan
+  Falls, Wisconsin; and a wind farm located in Oklahoma. The company was formerly
+  known as Interstate Energy Corp. and changed its name to Alliant Energy Corporation
+  in May 1999. Alliant Energy Corporation is headquartered in Madison, Wisconsin.
+longName: Alliant Energy Corporation
+market: us_market
+marketCap: 18930806784
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_312949
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 934000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 18995647392
+numberOfAnalystOpinions: 13
+open: 72.96
+operatingCashflow: 1178000000
+operatingMargins: 0.22225
+overallRisk: 1
+payoutRatio: 0.5884
+pegRatio: 2.42
+phone: 608 458 3311
+previousClose: 73.24
+priceEpsCurrentYear: 21.25095
+priceHint: 2
+priceToBook: 2.424514
+priceToSalesTrailing12Months: 4.2031097
+profitMargins: 0.20737
+quickRatio: 0.217
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -0.25
+regularMarketChangePercent: -0.34134355
+regularMarketDayHigh: 73.23
+regularMarketDayLow: 72.725
+regularMarketDayRange: 72.725 - 73.23
+regularMarketOpen: 72.96
+regularMarketPreviousClose: 73.24
+regularMarketPrice: 72.99
+regularMarketTime: 1794413731
+regularMarketVolume: 399238
+returnOnAssets: 0.02474
+returnOnEquity: 0.12359
+revenueGrowth: 0.062
+revenuePerShare: 17.449
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 3
+sharesOutstanding: 259361652
+sharesPercentSharesOut: 0.1101
+sharesShort: 28546184
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 27670572
+shortName: Alliant Energy Corporation
+shortPercentOfFloat: 0.1259
+shortRatio: 9.36
+sourceInterval: 15
+state: WI
+symbol: LNT
+targetHighPrice: 83.0
+targetLowPrice: 68.0
+targetMeanPrice: 76.65385
+targetMedianPrice: 77.0
+totalCash: 26000000
+totalCashPerShare: 0.1
+totalDebt: 12563000320
+totalRevenue: 4504000000
+tradeable: false
+trailingAnnualDividendRate: 2.113
+trailingAnnualDividendYield: 0.028850354
+trailingEps: 3.59
+trailingPE: 20.331476
+trailingPegRatio: 2.4176
+triggerable: true
+twoHundredDayAverage: 70.7589
+twoHundredDayAverageChange: 2.2310944
+twoHundredDayAverageChangePercent: 0.031530935
+typeDisp: Equity
+volume: 399238
+website: https://www.alliantenergy.com
+zip: '53718'

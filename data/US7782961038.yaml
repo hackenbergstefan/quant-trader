@@ -1,0 +1,270 @@
+52WeekChange: 0.46730125
+SandP52WeekChange: 0.097798586
+address1: 5130 Hacienda Drive
+allTimeHigh: 257.0
+allTimeLow: 0.113281
+ask: 252.0
+askSize: 1
+auditRisk: 10
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 2374390
+averageDailyVolume3Month: 2311185
+averageVolume: 2311185
+averageVolume10days: 2374390
+beta: 0.847
+bid: 224.58
+bidSize: 1
+boardRisk: 3
+bookValue: 21.094
+city: Dublin
+companyOfficers:
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James G. Conroy
+  title: CEO & Director
+  totalPay: 6756605
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael J. Hartshorn
+  title: Group President, COO & Director
+  totalPay: 3938334
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William W. Sheehan II
+  title: Executive VP & CFO
+  totalPay: 1455842
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karen  Fleming
+  title: President & Chief Merchandising Officer - Ross Dress for Less
+  totalPay: 2982163
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey P. Burrill
+  title: Group Senior VP, Corporate Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Connie  Kao
+  title: Senior Vice President of Investor Relations & Group Vice President of Media
+    Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ken  Jew
+  title: Group Senior VP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gary L. Cribb
+  title: Senior Group Executive Vice President of Stores & Loss Prevention
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephen  Brinkley
+  title: President of Operations
+  totalPay: 1709178
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karen  Sykes
+  title: President & Chief Merchandising Officer of dd's DISCOUNTS
+  unexercisedValue: 0
+  yearBorn: 1961
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 239.2
+currentRatio: 1.612
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 239.91
+dayLow: 237.34
+debtToEquity: 70.281
+displayName: Ross Stores
+dividendDate: 1790726400
+dividendRate: 1.78
+dividendYield: 0.75
+earningsCallTimestampEnd: 1747944900
+earningsCallTimestampStart: 1747944900
+earningsGrowth: 0.705
+earningsQuarterlyGrowth: 0.676
+earningsTimestamp: 1795122000
+earningsTimestampEnd: 1795122000
+earningsTimestampStart: 1795122000
+ebitda: 3657101056
+ebitdaMargins: 0.1492
+enterpriseToEbitda: 20.996
+enterpriseToRevenue: 3.133
+enterpriseValue: 76784345088
+epsCurrentYear: 8.2082
+epsForward: 9.01462
+epsTrailingTwelveMonths: 8.27
+esgPopulated: false
+exDividendDate: 1788825600
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 231.2754
+fiftyDayAverageChange: 7.924591
+fiftyDayAverageChangePercent: 0.034264736
+fiftyTwoWeekChangePercent: 46.730125
+fiftyTwoWeekHigh: 257.0
+fiftyTwoWeekHighChange: -17.800003
+fiftyTwoWeekHighChangePercent: -0.06926071
+fiftyTwoWeekLow: 157.73
+fiftyTwoWeekLowChange: 81.47
+fiftyTwoWeekLowChangePercent: 0.5165156
+fiftyTwoWeekRange: 157.73 - 257.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 492355800000
+fiveYearAvgDividendYield: 1.01
+floatShares: 311808597
+forwardEps: 9.01462
+forwardPE: 26.534674
+freeCashflow: 2002041600
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 111000
+fulldayChange: 0.25
+fulldayChangePercent: 0.1046244
+fulldayPrice: 239.2
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.33385
+grossProfits: 8183229952
+hasPrePostMarketData: true
+heldPercentInsiders: 0.02138
+heldPercentInstitutions: 0.95227
+impliedSharesOutstanding: 319453110
+industry: Apparel Retail
+industryDisp: Apparel Retail
+industryKey: apparel-retail
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=64847&p=irol-IRHome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788825600
+lastDividendValue: 0.445
+lastFiscalYearEnd: 1769817600
+lastSplitDate: 1434067200
+lastSplitFactor: '2:1'
+longBusinessSummary: Ross Stores, Inc., together with its subsidiaries, operates off-price
+  retail apparel and home fashion stores under the Ross Dress for Less and dd's DISCOUNTS
+  brands in the United States. The company offers designer apparel, accessories, footwear,
+  and home-fashioned products for the entire family. It sells its products to middle
+  income households and households with lower to more moderate incomes. Ross Stores,
+  Inc. was incorporated in 1957 and is headquartered in Dublin, California.
+longName: Ross Stores, Inc.
+market: us_market
+marketCap: 76413181952
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_33926
+mostRecentQuarter: 1785542400
+netIncomeToCommon: 2659063040
+nextFiscalYearEnd: 1801353600
+nonDilutedMarketCap: 76323737041
+numberOfAnalystOpinions: 19
+open: 239.41
+operatingCashflow: 3660572928
+operatingMargins: 0.12717
+overallRisk: 4
+payoutRatio: 0.2056
+pegRatio: 2.17
+phone: 925 965 4400
+previousClose: 238.95
+priceEpsCurrentYear: 29.141588
+priceHint: 2
+priceToBook: 11.339717
+priceToSalesTrailing12Months: 3.1174042
+profitMargins: 0.10848
+quickRatio: 0.929
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.61905
+region: US
+regularMarketChange: 0.25
+regularMarketChangePercent: 0.1046244
+regularMarketDayHigh: 239.91
+regularMarketDayLow: 237.34
+regularMarketDayRange: 237.34 - 239.91
+regularMarketOpen: 239.41
+regularMarketPreviousClose: 238.95
+regularMarketPrice: 239.2
+regularMarketTime: 1794413743
+regularMarketVolume: 341945
+returnOnAssets: 0.12785
+returnOnEquity: 0.42628
+revenueGrowth: 0.133
+revenuePerShare: 76.74
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 4
+sharesOutstanding: 319453110
+sharesPercentSharesOut: 0.027999999
+sharesShort: 8957374
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 10181362
+shortName: Ross Stores, Inc.
+shortPercentOfFloat: 0.0327
+shortRatio: 4.42
+sourceInterval: 15
+state: CA
+symbol: ROST
+targetHighPrice: 315.0
+targetLowPrice: 187.0
+targetMeanPrice: 272.05264
+targetMedianPrice: 279.0
+totalCash: 4288123904
+totalCashPerShare: 13.423
+totalDebt: 4739150848
+totalRevenue: 24511797248
+tradeable: false
+trailingAnnualDividendRate: 1.7
+trailingAnnualDividendYield: 0.0071144593
+trailingEps: 8.27
+trailingPE: 28.923819
+trailingPegRatio: 2.1747
+triggerable: true
+twoHundredDayAverage: 224.0047
+twoHundredDayAverageChange: 15.195297
+twoHundredDayAverageChangePercent: 0.06783473
+typeDisp: Equity
+volume: 341945
+website: https://www.rossstores.com
+zip: 94568-7579

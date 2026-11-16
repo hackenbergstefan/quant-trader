@@ -1,0 +1,183 @@
+52WeekChange: 0.23235297
+SandP52WeekChange: 0.097798586
+address1: Zählerweg 10
+allTimeHigh: 196.8
+allTimeLow: 53.0
+ask: 193.85
+auditRisk: 8
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 510550
+averageDailyVolume3Month: 610622
+averageVolume: 610622
+averageVolume10days: 510550
+beta: -0.108
+bid: 193.75
+boardRisk: 3
+bookValue: 29.039038
+city: Zug
+companyOfficers:
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Flemming  Ornskov M.B.A., M.D., M.P.H.
+  title: CEO & Director
+  totalPay: 6031000
+  unexercisedValue: 0
+  yearBorn: 1958
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 193.75
+currentRatio: 1.242
+customPriceAlertConfidence: LOW
+dayHigh: 194.0
+dayLow: 187.7
+debtToEquity: 33.061
+dividendDate: 1745884800
+dividendRate: 0.35
+dividendYield: 0.19
+earningsCallTimestampEnd: 1784820600
+earningsCallTimestampStart: 1784820600
+earningsGrowth: 1.307
+earningsQuarterlyGrowth: 1.289
+earningsTimestampEnd: 1772728200
+earningsTimestampStart: 1772728200
+ebitda: 1386000000
+ebitdaMargins: 0.234
+enterpriseToEbitda: 33.077
+enterpriseToRevenue: 7.74
+enterpriseValue: 45844774912
+epsCurrentYear: 4.80742
+epsForward: 5.514524
+epsTrailingTwelveMonths: 2.9
+esgPopulated: false
+exDividendDate: 1776988800
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 170.641
+fiftyDayAverageChange: 23.108994
+fiftyDayAverageChangePercent: 0.13542461
+fiftyTwoWeekChangePercent: 23.235298
+fiftyTwoWeekHigh: 196.8
+fiftyTwoWeekHighChange: -3.050003
+fiftyTwoWeekHighChangePercent: -0.0154979825
+fiftyTwoWeekLow: 136.3
+fiftyTwoWeekLowChange: 57.449997
+fiftyTwoWeekLowChangePercent: 0.42149666
+fiftyTwoWeekRange: 136.3 - 196.8
+financialCurrency: USD
+firstTradeDateMilliseconds: 1711008000000
+floatShares: 131266716
+forwardEps: 5.514524
+forwardPE: 35.13449
+freeCashflow: 874625024
+fullExchangeName: Swiss
+fullTimeEmployees: 7676
+fulldayChange: 5.199997
+fulldayChangePercent: 2.7578876
+fulldayPrice: 193.75
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.69374
+grossProfits: 4108999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.21000999
+heldPercentInstitutions: 0.47227
+impliedSharesOutstanding: 233188937
+industry: Drug Manufacturers - Specialty & Generic
+industryDisp: Drug Manufacturers - Specialty & Generic
+industryKey: drug-manufacturers-specialty-generic
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776988800
+lastDividendValue: 0.35
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Galderma Group AG operates as a dermatology company worldwide.
+  The company delivers a science-based portfolio of brands and services for the dermatology
+  market, including injectable aesthetics, dermatological skincare, and therapeutic
+  dermatology. Its portfolio of flagship brands includes Azzalure, ALLUZIENCE, Dysport,
+  Restylane, Restylane Skinboosters, Sculptra, Cetaphil, ALASTIN, Soolantra, Epiduo,
+  Epiduo Forte, Differin, AKLIEF, Oracea, Metvix, NEMLUVIO, Relfydess, Benzac, and
+  Loceryl in therapeutic dermatology. The company was founded in 1981 and is headquartered
+  in Zug, Switzerland.
+longName: Galderma Group AG
+market: ch_market
+marketCap: 45180358656
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1871598340
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 863000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 43967774071
+numberOfAnalystOpinions: 17
+open: 187.95
+operatingCashflow: 1206000000
+operatingMargins: 0.19094999
+overallRisk: 5
+payoutRatio: 0.12
+pegRatio: 1.35
+phone: 41 58 455 85 92
+previousClose: 188.55
+priceEpsCurrentYear: 40.302284
+priceHint: 2
+priceToBook: 6.672053
+priceToSalesTrailing12Months: 7.627952
+profitMargins: 0.1457
+quickRatio: 0.903
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.70588
+region: US
+regularMarketChange: 5.199997
+regularMarketChangePercent: 2.7578876
+regularMarketDayHigh: 194.0
+regularMarketDayLow: 187.7
+regularMarketDayRange: 187.7 - 194.0
+regularMarketOpen: 187.95
+regularMarketPreviousClose: 188.55
+regularMarketPrice: 193.75
+regularMarketTime: 1794411503
+regularMarketVolume: 106208
+returnOnAssets: 0.05355
+returnOnEquity: 0.10825
+revenueGrowth: 0.277
+revenuePerShare: 25.299
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 233188937
+shortName: GALDERMA GROUP N
+sourceInterval: 15
+symbol: GALD.SW
+targetHighPrice: 267.77554
+targetLowPrice: 136.45218
+targetMeanPrice: 209.2833
+targetMedianPrice: 215.30379
+totalCash: 839000000
+totalCashPerShare: 3.598
+totalDebt: 2716000000
+totalRevenue: 5922999808
+tradeable: false
+trailingAnnualDividendRate: 0.441
+trailingAnnualDividendYield: 0.002338902
+trailingEps: 2.9
+trailingPE: 66.81034
+trailingPegRatio: 1.3318
+triggerable: false
+twoHundredDayAverage: 164.56525
+twoHundredDayAverageChange: 29.184753
+twoHundredDayAverageChangePercent: 0.17734458
+typeDisp: Equity
+volume: 106208
+website: https://www.galderma.com
+zip: '6300'

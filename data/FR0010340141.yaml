@@ -1,0 +1,266 @@
+52WeekChange: -0.0452708
+SandP52WeekChange: 0.097798586
+address1: 1 Rue de France
+allTimeHigh: 202.6
+allTimeLow: 35.11
+auditRisk: 6
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 107455
+averageDailyVolume3Month: 112807
+averageVolume: 112807
+averageVolume10days: 107455
+beta: 0.878
+boardRisk: 7
+bookValue: 43.57
+city: Tremblay-en-France
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philippe  Pascal
+  title: Chairman & CEO
+  totalPay: 451488
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Justine  Coutard
+  title: Deputy Chief Executive Officer
+  totalPay: 389633
+  unexercisedValue: 0
+  yearBorn: 1985
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christelle de Robillard
+  title: Deputy Executive Officer of Finance, Strategy & Development
+  unexercisedValue: 0
+  yearBorn: 1985
+- age: 36
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Antoine Roger Bernard Crombez
+  title: Chief Investment Officer & Deputy CFO
+  unexercisedValue: 0
+  yearBorn: 1989
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Loic  Aubouin
+  title: Executive VP, Transformation and HR & General Counsel, Chief Audit, Security
+    & Risk Mgmt. Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bertrand  Sirven
+  title: Chief Communications Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Laurent  Gasse
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Regis Sebastien Lacote
+  title: Executive VP in charge of Operations and Innovation & MD of Paris-Charles
+    de Gaulle Airport
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mathieu  Daubert
+  title: Executive VP in charge of Retail and Hospitality & Chief Customer Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Xavier Marie Martin Benoit Hurstel
+  title: Chief Economic & International Relations Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 116.4
+currentRatio: 1.263
+customPriceAlertConfidence: LOW
+dayHigh: 118.1
+dayLow: 115.1
+debtToEquity: 218.873
+dividendRate: 3.0
+dividendYield: 2.54
+earningsCallTimestampEnd: 1785425400
+earningsCallTimestampStart: 1785425400
+earningsGrowth: 2.222
+earningsQuarterlyGrowth: 2.216
+earningsTimestampEnd: 1771432200
+earningsTimestampStart: 1771432200
+ebitda: 2124999936
+ebitdaMargins: 0.31454
+enterpriseToEbitda: 10.215
+enterpriseToRevenue: 3.213
+enterpriseValue: 21707323392
+epsCurrentYear: 5.7788
+epsForward: 6.82572
+epsTrailingTwelveMonths: 6.03
+esgPopulated: false
+exDividendDate: 1780358400
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 109.492
+fiftyDayAverageChange: 6.9080048
+fiftyDayAverageChangePercent: 0.06309141
+fiftyTwoWeekChangePercent: -4.52708
+fiftyTwoWeekHigh: 133.9
+fiftyTwoWeekHighChange: -17.499992
+fiftyTwoWeekHighChangePercent: -0.1306945
+fiftyTwoWeekLow: 99.05
+fiftyTwoWeekLowChange: 17.349998
+fiftyTwoWeekLowChangePercent: 0.17516404
+fiftyTwoWeekRange: 99.05 - 133.9
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1150700400000
+fiveYearAvgDividendYield: 1.66
+floatShares: 31526627
+forwardEps: 6.82572
+forwardPE: 17.053146
+freeCashflow: -826124992
+fullExchangeName: Paris
+fullTimeEmployees: 26055
+fulldayChange: -1.699997
+fulldayChangePercent: -1.4394555
+fulldayPrice: 116.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.60642
+grossProfits: 4096999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.60418
+heldPercentInstitutions: 0.33946
+impliedSharesOutstanding: 98933152
+industry: Airports & Air Services
+industryDisp: Airports & Air Services
+industryKey: airports-air-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1780358400
+lastDividendValue: 3.8
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Aeroports de Paris SA, together with its subsidiaries, operates
+  and designs airports in France, Turkey, Kazakhstan, Jordan, Georgia, and internationally.
+  It operates in five segments: Aviation; Retail and Services; Real Estate; International
+  and Airport Developments; and Other Activities. The Aviation segment offers airport
+  services, such as landing, parking, and passengers; check-in and boarding counters,
+  baggage handling facilities, de-icing facilities, and the supplying of electricity
+  to aircraft; and security and airport safety services, including security checkpoints
+  and screening systems, aircraft rescue, and fire-fighting services. Its Retail and
+  Services segment is involved in retail activities in terminals comprising retail
+  shops, bars and restaurants, banks and currency exchange offices, and car rentals;
+  commercial distribution; advertising; car parks; production and supply of heat,
+  drinking water, and access to the chilled distribution networks; tourism; luxury
+  passenger services; and construction of metro station. The Real Estate segment engages
+  in property leasing services; construction, commercialization, and lease management
+  of office buildings, logistic buildings, and freight terminals; and rental of serviced
+  land. Its International and Airport Developments segment designs and operates airport
+  activities. The Other Activities segment offers telecom and cybersecurity services.
+  Aeroports de Paris SA was incorporated in 1945 and is headquartered in Tremblay-en-France,
+  France.'
+longName: Aeroports de Paris SA
+market: fr_market
+marketCap: 11515819008
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874778
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 597000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 11693898566
+numberOfAnalystOpinions: 16
+open: 118.1
+operatingCashflow: 1556999936
+operatingMargins: 0.18606001
+overallRisk: 6
+payoutRatio: 0.4975
+pegRatio: 0.89
+phone: 33 1 74 25 67 00
+previousClose: 118.1
+priceEpsCurrentYear: 20.14259
+priceHint: 2
+priceToBook: 2.6715631
+priceToSalesTrailing12Months: 1.7045321
+profitMargins: 0.088369995
+quickRatio: 0.96
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.4375
+region: US
+regularMarketChange: -1.699997
+regularMarketChangePercent: -1.4394555
+regularMarketDayHigh: 118.1
+regularMarketDayLow: 115.1
+regularMarketDayRange: 115.1 - 118.1
+regularMarketOpen: 118.1
+regularMarketPreviousClose: 118.1
+regularMarketPrice: 116.4
+regularMarketTime: 1794411557
+regularMarketVolume: 34426
+returnOnAssets: 0.03807
+returnOnEquity: 0.12818
+revenueGrowth: 0.016
+revenuePerShare: 68.343
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 98933152
+shortName: ADP
+sourceInterval: 15
+symbol: ADP.PA
+targetHighPrice: 147.0
+targetLowPrice: 108.0
+targetMeanPrice: 125.09375
+targetMedianPrice: 125.0
+totalCash: 2647000064
+totalCashPerShare: 26.752
+totalDebt: 11655000064
+totalRevenue: 6755999744
+tradeable: false
+trailingAnnualDividendRate: 3.0
+trailingAnnualDividendYield: 0.025402201
+trailingEps: 6.03
+trailingPE: 19.303482
+trailingPegRatio: 0.8904
+triggerable: false
+twoHundredDayAverage: 110.342
+twoHundredDayAverageChange: 6.0579987
+twoHundredDayAverageChangePercent: 0.054902017
+typeDisp: Equity
+volume: 34426
+website: https://www.parisaeroport.fr
+zip: '93290'

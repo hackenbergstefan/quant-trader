@@ -1,0 +1,250 @@
+52WeekChange: 0.1547072
+SandP52WeekChange: 0.097798586
+address1: Kings Place
+address2: 90 York Way
+allTimeHigh: 1586.0
+allTimeLow: 22.0485
+ask: 1326.0
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 19606063
+averageDailyVolume3Month: 19050765
+averageVolume: 19050765
+averageVolume10days: 19606063
+beta: 1.291
+bid: 1325.6
+bidSize: 0
+boardRisk: 1
+bookValue: 0.343
+city: London
+companyOfficers:
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. M. Tufan Erginbilgic
+  title: CEO & Executive Director
+  totalPay: 4689000
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Helen  McCabe
+  title: CFO & Director
+  totalPay: 2699000
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Cholerton
+  title: Group President
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Simon  Burr M.B.E.
+  title: Group Director of Engineering, Technology & Safety
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeremy David Bragg
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria Rosaria Varsellona J.D., L.L.B.
+  title: Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard  Wray
+  title: Director of External Communications & Brand
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sarah Anne Armstrong
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Robert  Watson
+  title: President of Civil Aerospace
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Kelly
+  title: President of Middle East, Türkiye & Africa
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 1325.6
+currentRatio: 1.239
+customPriceAlertConfidence: LOW
+dayHigh: 1358.6
+dayLow: 1311.0
+debtToEquity: 151.735
+dividendRate: 0.12
+dividendYield: 0.9
+earningsCallTimestampEnd: 1785398400
+earningsCallTimestampStart: 1785398400
+earningsGrowth: -0.63
+earningsQuarterlyGrowth: -0.635
+earningsTimestampEnd: 1785425400
+earningsTimestampStart: 1785425400
+ebitda: 5096999936
+ebitdaMargins: 0.22003001
+enterpriseToEbitda: 21.306
+enterpriseToRevenue: 4.688
+enterpriseValue: 108597157888
+epsCurrentYear: 0.43845
+epsForward: 0.50598
+epsTrailingTwelveMonths: 0.36
+esgPopulated: false
+exDividendDate: 1785974400
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 1385.644
+fiftyDayAverageChange: -60.044067
+fiftyDayAverageChangePercent: -0.043332968
+fiftyTwoWeekChangePercent: 15.470719
+fiftyTwoWeekHigh: 1586.0
+fiftyTwoWeekHighChange: -260.40002
+fiftyTwoWeekHighChangePercent: -0.16418664
+fiftyTwoWeekLow: 990.0
+fiftyTwoWeekLowChange: 335.59998
+fiftyTwoWeekLowChangePercent: 0.33898988
+fiftyTwoWeekRange: 990.0 - 1586.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 1.1
+floatShares: 8177848938
+forwardEps: 0.50598
+forwardPE: 26.198662
+freeCashflow: 4602500096
+fullExchangeName: LSE
+fullTimeEmployees: 43162
+fulldayChange: -5.2000732
+fulldayChangePercent: -0.3907479
+fulldayPrice: 1325.6
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.28802
+grossProfits: 6672000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0005
+heldPercentInstitutions: 0.53898
+impliedSharesOutstanding: 8197675594
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1785974400
+lastDividendValue: 0.06
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Rolls-Royce Holdings plc designs and manages mission-critical
+  power systems in the United Kingdom and internationally. The company operates through
+  three segments: Civil Aerospace, Defence, and Power Systems. The Civil Aerospace
+  segment develops, manufactures, markets, and sells aero engines for large commercial
+  aircraft, regional jet, and business aviation markets, as well as provides aftermarket
+  services. The Defence segment is involved in the development, manufacture, marketing,
+  and sale of military aero engines, naval engines, and submarine nuclear power plants,
+  as well as offers aftermarket services. The Power Systems segment engages in the
+  development, manufacture, marketing, and sale of integrated solutions for onsite
+  power and propulsion under the mtu brand name. Rolls-Royce Holdings plc was founded
+  in 1884 and is headquartered in London, the United Kingdom.'
+longName: Rolls-Royce Holdings plc
+market: gb_market
+marketCap: 108668387328
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_408374
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 3038000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 109094666804
+numberOfAnalystOpinions: 20
+open: 1357.4
+operatingCashflow: 5117000192
+operatingMargins: 0.20717
+overallRisk: 3
+payoutRatio: 0.2619
+pegRatio: 2.0
+phone: 44 1332 242 424
+previousClose: 1330.8
+priceEpsCurrentYear: 3023.3777
+priceHint: 2
+priceToBook: 38.64723
+priceToSalesTrailing12Months: 4.691059
+profitMargins: 0.13114999
+quickRatio: 0.753
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6
+region: US
+regularMarketChange: -5.2000732
+regularMarketChangePercent: -0.3907479
+regularMarketDayHigh: 1358.6
+regularMarketDayLow: 1311.0
+regularMarketDayRange: 1311.0 - 1358.6
+regularMarketOpen: 1357.4
+regularMarketPreviousClose: 1330.8
+regularMarketPrice: 1325.6
+regularMarketTime: 1794411578
+regularMarketVolume: 3762959
+returnOnAssets: 0.07796
+returnOnEquity: 1.14485
+revenueGrowth: 0.206
+revenuePerShare: 2.766
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 8197675594
+shortName: ROLLS-ROYCE HOLDINGS PLC ORD SH
+sourceInterval: 15
+symbol: RR.L
+targetHighPrice: 2000.0
+targetLowPrice: 1199.0
+targetMeanPrice: 1720.8
+targetMedianPrice: 1729.9999
+totalCash: 6483999744
+totalCashPerShare: 0.78
+totalDebt: 4373000192
+totalRevenue: 23164999680
+tradeable: false
+trailingAnnualDividendRate: 0.11
+trailingAnnualDividendYield: 8.265705e-05
+trailingEps: 0.36
+trailingPE: 36.82222
+trailingPegRatio: 2.011
+triggerable: false
+twoHundredDayAverage: 1338.0475
+twoHundredDayAverageChange: -12.44751
+twoHundredDayAverageChangePercent: -0.009302742
+typeDisp: Equity
+volume: 3762959
+website: https://www.rolls-royce.com
+zip: N1 9FX

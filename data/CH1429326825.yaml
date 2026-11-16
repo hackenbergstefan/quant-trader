@@ -1,0 +1,260 @@
+52WeekChange: -0.06413615
+SandP52WeekChange: 0.097798586
+address1: Untere Bruehlstrasse 4
+allTimeHigh: 118.8
+allTimeLow: 5.44
+ask: 71.2
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 112513
+averageDailyVolume3Month: 113379
+averageVolume: 113379
+averageVolume10days: 112513
+beta: 0.778
+bid: 71.05
+bidSize: 0
+boardRisk: 1
+bookValue: 22.646
+city: Zofingen
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marcel  Imwinkelried
+  title: CEO & COO Drug Products ad interim
+  totalPay: 1662410
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tania  Micki B.A., M.B.A.
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eduardo Ricardo Santos Montanha
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Randl
+  title: Chief Scientific Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Stierli
+  title: Head of Corporate Communications
+  unexercisedValue: 0
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Olesia  Silanteva
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1982
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Enno  Schweinberger Ph.D.
+  title: Head Global Quality Management DS - Zofingen
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Beatrice  Harder
+  title: Head Regulatory Affairs - Site Zofingen
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: John  Jones
+  title: Head of Operations - Malta
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Florent  Trouillet
+  title: Head Corporate Quality Systems - Global Quality Systems
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 71.15
+currentRatio: 3.453
+customPriceAlertConfidence: LOW
+dayHigh: 71.85
+dayLow: 70.6
+debtToEquity: 93.088
+dividendDate: 1745452800
+dividendRate: 0.4
+dividendYield: 0.56
+earningsCallTimestampEnd: 1787299200
+earningsCallTimestampStart: 1787299200
+earningsGrowth: 0.04
+earningsQuarterlyGrowth: 0.041
+earningsTimestamp: 1787326200
+earningsTimestampEnd: 1787326200
+earningsTimestampStart: 1787326200
+ebitda: 316528000
+ebitdaMargins: 0.23599
+enterpriseToEbitda: 12.51
+enterpriseToRevenue: 2.952
+enterpriseValue: 3959821824
+epsCurrentYear: 4.14154
+epsForward: 4.70728
+epsTrailingTwelveMonths: 3.91
+esgPopulated: false
+exDividendDate: 1777334400
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 41 62 746 1202
+fiftyDayAverage: 71.647
+fiftyDayAverageChange: -0.49700165
+fiftyDayAverageChangePercent: -0.00693681
+fiftyTwoWeekChangePercent: -6.4136147
+fiftyTwoWeekHigh: 101.6
+fiftyTwoWeekHighChange: -30.449997
+fiftyTwoWeekHighChangePercent: -0.2997047
+fiftyTwoWeekLow: 65.05
+fiftyTwoWeekLowChange: 6.0999985
+fiftyTwoWeekLowChangePercent: 0.09377399
+fiftyTwoWeekRange: 65.05 - 101.6
+financialCurrency: CHF
+firstTradeDateMilliseconds: 796892400000
+fiveYearAvgDividendYield: 0.43
+floatShares: 39901761
+forwardEps: 4.70728
+forwardPE: 15.114885
+freeCashflow: -137695248
+fullExchangeName: Swiss
+fullTimeEmployees: 4454
+fulldayChange: -0.34999847
+fulldayChangePercent: -0.48950836
+fulldayPrice: 71.15
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.26966998
+grossProfits: 361703008
+hasPrePostMarketData: false
+heldPercentInsiders: 0.13225001
+heldPercentInstitutions: 0.51849
+impliedSharesOutstanding: 43808440
+industry: Drug Manufacturers - Specialty & Generic
+industryDisp: Drug Manufacturers - Specialty & Generic
+industryKey: drug-manufacturers-specialty-generic
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777334400
+lastDividendValue: 0.4
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1745798400
+lastSplitFactor: '10:1'
+longBusinessSummary: Siegfried Holding AG, together with its subsidiaries, engages
+  in contract development and manufacturing of active pharmaceutical ingredient (API)
+  and finished dosage forms worldwide. It offers drug substances, including exclusive
+  synthesis that manufactures custom APIs. The company also offers an API portfolio,
+  including non-exclusive APIs and pharma-grade substances that focus on anesthetics,
+  pain and addiction treatment applications, and central nervous and respiratory diseases,
+  as well as caffeine for human health and nutrition. In addition, it offers drug
+  products, including steriles, which includes fill and finish in vials, ampoules,
+  cartridges, and pre-filled syringes; ophthalmics, such as sterile ointments, gels,
+  and suspensions and solutions; inhalation products, including capsules in medical
+  devices for inhalation applications; oral solid dosage forms, which includes tablets
+  and capsules; and viral vectors, such as AAV and lentiviruses for gene therapy.
+  Further, the company provides technologies with chemistry capabilities, analytical
+  services, formulation technologies, bridging technologies, containment technology,
+  and cell and gene therapies. The company was founded in 1873 and is headquartered
+  in Zofingen, Switzerland.
+longName: Siegfried Holding AG
+market: ch_market
+marketCap: 3116970496
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_879592
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 171344992
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 3132303460
+numberOfAnalystOpinions: 12
+open: 71.2
+operatingCashflow: 172275008
+operatingMargins: 0.16713
+overallRisk: 1
+payoutRatio: 0.1026
+pegRatio: 1.33
+phone: 41 62 746 1111
+previousClose: 71.5
+priceEpsCurrentYear: 17.1796
+priceHint: 2
+priceToBook: 3.1418352
+priceToSalesTrailing12Months: 2.3238535
+profitMargins: 0.12775
+quickRatio: 1.359
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -0.34999847
+regularMarketChangePercent: -0.48950836
+regularMarketDayHigh: 71.85
+regularMarketDayLow: 70.6
+regularMarketDayRange: 70.6 - 71.85
+regularMarketOpen: 71.2
+regularMarketPreviousClose: 71.5
+regularMarketPrice: 71.15
+regularMarketTime: 1794411381
+regularMarketVolume: 53750
+returnOnAssets: 0.06385
+returnOnEquity: 0.16959
+revenueGrowth: 0.022
+revenuePerShare: 30.537
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 43808440
+shortName: SIEGFRIED N
+sourceInterval: 15
+symbol: SFZN.SW
+targetHighPrice: 140.0
+targetLowPrice: 76.0
+targetMeanPrice: 99.41667
+targetMedianPrice: 99.0
+totalCash: 105160000
+totalCashPerShare: 2.394
+totalDebt: 925200000
+totalRevenue: 1341293952
+tradeable: false
+trailingAnnualDividendRate: 0.4
+trailingAnnualDividendYield: 0.005594406
+trailingEps: 3.91
+trailingPE: 18.196932
+trailingPegRatio: 1.3364
+triggerable: false
+twoHundredDayAverage: 76.72825
+twoHundredDayAverageChange: -5.578247
+twoHundredDayAverageChangePercent: -0.07270135
+typeDisp: Equity
+volume: 53750
+website: https://www.siegfried.ch
+zip: '4800'

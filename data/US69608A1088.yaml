@@ -1,0 +1,283 @@
+52WeekChange: -0.0833469
+SandP52WeekChange: 0.097798586
+address1: 19505 Biscayne Blvd
+address2: Suite 2350
+allTimeHigh: 212.94
+allTimeLow: 5.92
+ask: 184.53
+askSize: 2
+auditRisk: 7
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 31101200
+averageDailyVolume3Month: 26553234
+averageVolume: 26553234
+averageVolume10days: 31101200
+beta: 1.61
+bid: 159.34
+bidSize: 2
+boardRisk: 10
+bookValue: 4.661
+city: Aventura
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Alexander C. Karp J.D.
+  title: Co-Founder, CEO & Director
+  totalPay: 8623000
+  unexercisedValue: 4566856704
+  yearBorn: 1967
+- age: 41
+  exercisedValue: 318076640
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephen Andrew Cohen
+  title: Co-Founder, President, Secretary & Director
+  totalPay: 1003995
+  unexercisedValue: 3464737024
+  yearBorn: 1984
+- age: 40
+  exercisedValue: 13802735
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David A. Glazer J.D.
+  title: CFO & Treasurer
+  totalPay: 486735
+  unexercisedValue: 67654728
+  yearBorn: 1985
+- age: 42
+  exercisedValue: 131851840
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shyam  Sankar
+  title: CTO & Executive VP
+  totalPay: 1209250
+  unexercisedValue: 62388752
+  yearBorn: 1983
+- age: 42
+  exercisedValue: 37098980
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ryan D. Taylor J.D.
+  title: Chief Revenue Officer & Chief Legal Officer
+  totalPay: 479460
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter Andreas Thiel J.D.
+  title: Co-Founder & Chairman
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph Todd Lonsdale
+  title: Co-Founder
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey  Buckley B.S., CPA
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 75
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David B. MacNaughton
+  title: President of Palantir Canada
+  unexercisedValue: 0
+  yearBorn: 1950
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Kevin  Kawasaki
+  title: Head of Business Development
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 172.805
+currentRatio: 7.102
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 175.41
+dayLow: 170.8001
+debtToEquity: 1.986
+displayName: Palantir
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793656800
+earningsCallTimestampStart: 1793656800
+earningsGrowth: 1.444
+earningsQuarterlyGrowth: 1.372
+earningsTimestamp: 1793653200
+earningsTimestampEnd: 1801515600
+earningsTimestampStart: 1801515600
+ebitda: 3355290112
+ebitdaMargins: 0.46036997
+enterpriseToEbitda: 118.187
+enterpriseToRevenue: 54.41
+enterpriseValue: 396552208384
+epsCurrentYear: 1.70165
+epsForward: 2.53522
+epsTrailingTwelveMonths: 1.42
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 185.1882
+fiftyDayAverageChange: -12.383209
+fiftyDayAverageChangePercent: -0.06686824
+fiftyTwoWeekChangePercent: -8.33469
+fiftyTwoWeekHigh: 212.94
+fiftyTwoWeekHighChange: -40.13501
+fiftyTwoWeekHighChangePercent: -0.18848036
+fiftyTwoWeekLow: 106.37
+fiftyTwoWeekLowChange: 66.43499
+fiftyTwoWeekLowChangePercent: 0.62456506
+fiftyTwoWeekRange: 106.37 - 212.94
+financialCurrency: USD
+firstTradeDateMilliseconds: 1601472600000
+floatShares: 2115249642
+forwardEps: 2.53522
+forwardPE: 68.161736
+freeCashflow: 2652487680
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 4634
+fulldayChange: 3.9849854
+fulldayChangePercent: 2.3604934
+fulldayPrice: 172.805
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.84744
+grossProfits: 6176339968
+hasPrePostMarketData: true
+heldPercentInsiders: 0.03491
+heldPercentInstitutions: 0.66245
+impliedSharesOutstanding: 2409497474
+industry: Software - Infrastructure
+industryDisp: Software - Infrastructure
+industryKey: software-infrastructure
+ipoExpectedDate: '2024-11-26'
+isEarningsDateEstimate: true
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Palantir Technologies Inc. builds and deploys software platforms
+  for the intelligence community to assist in counterterrorism investigations and
+  operations in the United States, the United Kingdom, and internationally. It provides
+  Palantir Gotham integrates with other platforms for defense offerings which enables
+  users to see, understand, and act in the modern battlespace; operations centers
+  to the tactical edge; integrating data from domains and sensors in near real-time;
+  and situational awareness and accelerating operational decision-making, as well
+  as facilitates the hand-off between analysts and operational users, helping operators
+  plan and execute real-world responses to threats that have been identified within
+  the platform. It also offers Palantir Foundry, a platform that helps organizations
+  operate by creating a central operating system for their data; and allows individual
+  users to integrate and analyze the data they need in one place. In addition, it
+  provides Palantir Apollo, a software that delivers software and updates across the
+  business, as well as enables customers to deploy their software virtually in any
+  environment; and Palantir Artificial Intelligence Platform that provides unified
+  access to open-source, self-hosted, and commercial large language models (LLMs)
+  that can transform structured and unstructured data into LLM-understandable objects
+  and can turn organizations' actions and processes into tools for humans and LLM-driven
+  agents. The company also has a strategic partnership with Ondas Inc. to develop
+  and deploy AI-enabled operational capabilities to scale stratospheric, aerial, and
+  land-based ISR missions. The company has a strategic collaboration with NVIDIA to
+  deliver an intelligent engine for running NVIDIA AI and Nemotron open models in
+  sovereign environments and with PwC to transform critical business operations and
+  deliver measurable enterprise value. The company was incorporated in 2003 and is
+  headquartered in Aventura, Florida.
+longName: Palantir Technologies Inc.
+market: us_market
+marketCap: 416373211136
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_43580005
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3669104896
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 406771363560
+numberOfAnalystOpinions: 28
+open: 173.31
+operatingCashflow: 4097197056
+operatingMargins: 0.45638
+overallRisk: 10
+payoutRatio: 0.0
+pegRatio: 1.39
+phone: 720 358 3679
+previousClose: 168.82
+priceEpsCurrentYear: 101.55143
+priceHint: 2
+priceToBook: 37.07466
+priceToSalesTrailing12Months: 57.129303
+profitMargins: 0.50343
+quickRatio: 6.923
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.84848
+region: US
+regularMarketChange: 3.9849854
+regularMarketChangePercent: 2.3604934
+regularMarketDayHigh: 175.41
+regularMarketDayLow: 170.8001
+regularMarketDayRange: 170.8001 - 175.41
+regularMarketOpen: 173.31
+regularMarketPreviousClose: 168.82
+regularMarketPrice: 172.805
+regularMarketTime: 1794413746
+regularMarketVolume: 6097252
+returnOnAssets: 0.19313999
+returnOnEquity: 0.40907001
+revenueGrowth: 0.959
+revenuePerShare: 3.041
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 10
+sharesOutstanding: 2306705341
+sharesPercentSharesOut: 0.0232
+sharesShort: 55905800
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 55587983
+shortName: Palantir Technologies Inc.
+shortPercentOfFloat: 0.025999999
+shortRatio: 2.5
+sourceInterval: 15
+state: FL
+symbol: PLTR
+targetHighPrice: 273.0
+targetLowPrice: 80.0
+targetMeanPrice: 222.25357
+targetMedianPrice: 235.0
+totalCash: 10561530880
+totalCashPerShare: 4.383
+totalDebt: 225267008
+totalRevenue: 7288260096
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 1.42
+trailingPE: 121.69366
+trailingPegRatio: 1.3834
+triggerable: true
+twoHundredDayAverage: 153.53752
+twoHundredDayAverageChange: 19.267471
+twoHundredDayAverageChangePercent: 0.12549031
+typeDisp: Equity
+volume: 6097252
+website: https://www.palantir.com
+zip: '33180'

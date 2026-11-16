@@ -1,0 +1,290 @@
+52WeekChange: 0.31962192
+SandP52WeekChange: 0.097798586
+address1: 6801 Rockledge Drive
+allTimeHigh: 692.0
+allTimeLow: 0.281186
+ask: 606.5
+askSize: 80
+auditRisk: 1
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 1675810
+averageDailyVolume3Month: 1299901
+averageVolume: 1299901
+averageVolume10days: 1675810
+beta: 0.081
+bid: 606.0
+bidSize: 80
+boardRisk: 9
+bookValue: 43.752
+city: Bethesda
+companyOfficers:
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James D. Taiclet Jr.
+  title: Chairman, President & CEO
+  totalPay: 9785663
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Evan T. Scott
+  title: Chief Financial Officer
+  totalPay: 2382567
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank A. St. John
+  title: Chief Operating Officer
+  totalPay: 4056161
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kevin James O'Connor J.D.
+  title: Senior VP, Chief Legal Officer & Corporate Secretary
+  totalPay: 2496841
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Timothy S. Cahill
+  title: President of Missiles & Fire Control
+  totalPay: 2953419
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Craig  Martell
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria  Demaree
+  title: Senior VP of Enterprise Business & Digital Transformation and Chief information
+    Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mark D. Kvasnak
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jenna  McMullin
+  title: Senior VP & Chief Communications Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher J. Wronsky
+  title: Senior VP & Chief Human Resource Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: LMT announced a cash dividend of $3.60 with an ex-date of Dec. 1, 2026
+  meta:
+    amount: '3.60'
+    dateEpochMs: 1796101200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 605.87
+currentRatio: 1.263
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 608.23
+dayLow: 597.49
+debtToEquity: 203.697
+displayName: Lockheed Martin
+dividendDate: 1798675200
+dividendRate: 14.4
+dividendYield: 2.39
+earningsCallTimestampEnd: 1792672200
+earningsCallTimestampStart: 1792672200
+earningsGrowth: 0.147
+earningsQuarterlyGrowth: 0.14
+earningsTimestamp: 1792672200
+earningsTimestampEnd: 1800970200
+earningsTimestampStart: 1800970200
+ebitda: 9857999872
+ebitdaMargins: 0.1246
+enterpriseToEbitda: 15.608
+enterpriseToRevenue: 1.945
+enterpriseValue: 153861521408
+epsCurrentYear: 30.69047
+epsForward: 33.28431
+epsTrailingTwelveMonths: 28.16
+esgPopulated: false
+exDividendDate: 1796083200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 720 479 2750
+fiftyDayAverage: 549.5196
+fiftyDayAverageChange: 56.350403
+fiftyDayAverageChangePercent: 0.102544844
+fiftyTwoWeekChangePercent: 31.962193
+fiftyTwoWeekHigh: 692.0
+fiftyTwoWeekHighChange: -86.130005
+fiftyTwoWeekHighChangePercent: -0.124465324
+fiftyTwoWeekLow: 437.25
+fiftyTwoWeekLowChange: 168.62
+fiftyTwoWeekLowChangePercent: 0.3856375
+fiftyTwoWeekRange: 437.25 - 692.0
+financialCurrency: USD
+firstTradeDateMilliseconds: -252322200000
+fiveYearAvgDividendYield: 2.58
+floatShares: 197612919
+forwardEps: 33.28431
+forwardPE: 18.202871
+freeCashflow: 5645499904
+fullExchangeName: NYSE
+fullTimeEmployees: 123000
+fulldayChange: 2.75
+fulldayChangePercent: 0.45596233
+fulldayPrice: 605.87
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.11732
+grossProfits: 9281999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00115
+heldPercentInstitutions: 0.77482
+impliedSharesOutstanding: 231004640
+industry: Aerospace & Defense
+industryDisp: Aerospace & Defense
+industryKey: aerospace-defense
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=83941&p=irol-IRHome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1788220800
+lastDividendValue: 3.45
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 915408000
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Lockheed Martin Corporation, an aerospace and defense company,
+  engages in the research, design, development, manufacture, integration, and sustainment
+  of technology systems, products, and services in the United States, Europe, Asia,
+  the Middle East, and internationally. The company operates through four segments:
+  Aeronautics; Missiles and Fire Control (MFC); Rotary and Mission Systems (RMS);
+  and Space. The Aeronautics segment offers combat and air mobility aircraft, unmanned
+  air vehicles, and related technologies. The MFC segment provides air and missile
+  defense systems; tactical missiles and precision strike weapon systems; logistics;
+  fire control systems; mission operations support, readiness, engineering support,
+  and integration services; and ground vehicles. The RMS segment offers military and
+  commercial helicopters, surface ships, sea- and land-based missile defense systems,
+  radar and laser systems, sea- and air-based mission and combat systems, command
+  and control mission solutions, cyber solutions, simulation and training solutions,
+  and services and support for surface ships. The Space segment provides satellites;
+  space transportation systems; strategic, advanced strike, and defensive systems;
+  and classified systems and services in support of national security systems. This
+  segment also provides network-enabled situational awareness; and integrates space
+  and ground global systems to help its customers gather, analyze, and securely distribute
+  critical intelligence data. It primarily serves the U.S. government and international
+  customers, as well as foreign military sales contracted through the U.S. government.
+  The company was formerly known as The Lockheed Corporation and changed its name
+  to Lockheed Martin Corporation in March 1995. Lockheed Martin Corporation was founded
+  in 1912 and is based in Bethesda, Maryland.'
+longName: Lockheed Martin Corporation
+market: us_market
+marketCap: 139958779904
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_285827
+mostRecentQuarter: 1790467200
+netIncomeToCommon: 6512999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 139323518476
+numberOfAnalystOpinions: 22
+open: 597.67
+operatingCashflow: 10112000000
+operatingMargins: 0.108260006
+overallRisk: 6
+payoutRatio: 0.4901
+pegRatio: 1.08
+phone: 301 897 6000
+previousClose: 603.12
+priceEpsCurrentYear: 19.741308
+priceHint: 2
+priceToBook: 13.847824
+priceToSalesTrailing12Months: 1.7690325
+profitMargins: 0.082320005
+quickRatio: 1.058
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.20833
+region: US
+regularMarketChange: 2.75
+regularMarketChangePercent: 0.45596233
+regularMarketDayHigh: 608.23
+regularMarketDayLow: 597.49
+regularMarketDayRange: 597.49 - 608.23
+regularMarketOpen: 597.67
+regularMarketPreviousClose: 603.12
+regularMarketPrice: 605.87
+regularMarketTime: 1794413730
+regularMarketVolume: 153904
+returnOnAssets: 0.0858
+returnOnEquity: 0.8019
+revenueGrowth: 0.113
+revenuePerShare: 343.423
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 7
+sharesOutstanding: 231004640
+sharesPercentSharesOut: 0.0126
+sharesShort: 2905516
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2742605
+shortName: Lockheed Martin Corporation
+shortPercentOfFloat: 0.015
+shortRatio: 1.96
+sourceInterval: 15
+state: MD
+symbol: LMT
+targetHighPrice: 835.0
+targetLowPrice: 498.0
+targetMeanPrice: 660.86365
+targetMedianPrice: 661.5
+totalCash: 5960000000
+totalCashPerShare: 25.8
+totalDebt: 20497999872
+totalRevenue: 79116001280
+tradeable: false
+trailingAnnualDividendRate: 13.8
+trailingAnnualDividendYield: 0.02288102
+trailingEps: 28.16
+trailingPE: 21.51527
+trailingPegRatio: 1.0793
+triggerable: true
+twoHundredDayAverage: 569.02344
+twoHundredDayAverageChange: 36.846558
+twoHundredDayAverageChangePercent: 0.064754024
+typeDisp: Equity
+volume: 153904
+website: https://www.lockheedmartin.com
+zip: '20817'

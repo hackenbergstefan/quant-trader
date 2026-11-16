@@ -1,0 +1,276 @@
+52WeekChange: 0.34449756
+SandP52WeekChange: 0.097798586
+address1: Building 735
+address2: 974 Centre Road
+allTimeHigh: 177.28
+allTimeLow: 70.5
+ask: 128.69
+askSize: 600
+auditRisk: 10
+averageAnalystRating: 1.3 - Strong Buy
+averageDailyVolume10Day: 2618200
+averageDailyVolume3Month: 1784598
+averageVolume: 1784598
+averageVolume10days: 2618200
+bid: 128.54
+bidSize: 100
+boardRisk: 4
+bookValue: 36.282
+city: Wilmington
+companyOfficers:
+- age: 48
+  exercisedValue: 35518
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jon D. Kemp
+  title: CEO & Director
+  totalPay: 1981406
+  unexercisedValue: 710594
+  yearBorn: 1977
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter W. Hennessey
+  title: SVP & General Counsel
+  totalPay: 764980
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kathleen  Fortebuono
+  title: Chief People Officer
+  totalPay: 805452
+  unexercisedValue: 107422
+  yearBorn: 1971
+- age: 60
+  exercisedValue: 42089
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chuck  Xu Ph.D.
+  title: President of Interconnect Solutions
+  totalPay: 916034
+  unexercisedValue: 141189
+  yearBorn: 1965
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ken  Rizvi
+  title: Senior VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Francis Singer
+  title: Chief Operations & Engineering Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael G. Goss
+  title: VP of Finance & Controllership and Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Randy  King
+  title: Chief Technology & Sustainability Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bruce  Mathews
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nahla A. Azmy
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: Q announced a cash dividend of $0.08 with an ex-date of Nov. 30, 2026
+  meta:
+    amount: '0.08'
+    dateEpochMs: 1796014800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 127.665
+currentRatio: 2.086
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 129.62
+dayLow: 124.2701
+debtToEquity: 57.46
+displayName: Qnity Electronics
+dividendDate: 1797292800
+dividendRate: 0.32
+dividendYield: 0.26
+earningsCallTimestampEnd: 1793797200
+earningsCallTimestampStart: 1793797200
+earningsGrowth: -0.137
+earningsQuarterlyGrowth: -0.133
+earningsTimestamp: 1793799000
+earningsTimestampEnd: 1793799000
+earningsTimestampStart: 1793799000
+ebitda: 1647000064
+ebitdaMargins: 0.3
+enterpriseToEbitda: 17.945
+enterpriseToRevenue: 5.383
+enterpriseValue: 29555120128
+epsCurrentYear: 5.03599
+epsForward: 5.98709
+epsTrailingTwelveMonths: 2.66
+esgPopulated: false
+exDividendDate: 1795996800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 121.1928
+fiftyDayAverageChange: 6.4721985
+fiftyDayAverageChangePercent: 0.05340415
+fiftyTwoWeekChangePercent: 34.449757
+fiftyTwoWeekHigh: 177.28
+fiftyTwoWeekHighChange: -49.614998
+fiftyTwoWeekHighChangePercent: -0.279868
+fiftyTwoWeekLow: 72.81
+fiftyTwoWeekLowChange: 54.855003
+fiftyTwoWeekLowChangePercent: 0.7533993
+fiftyTwoWeekRange: 72.81 - 177.28
+financialCurrency: USD
+firstTradeDateMilliseconds: 1761571800000
+floatShares: 208445491
+forwardEps: 5.98709
+forwardPE: 21.323381
+freeCashflow: 696124992
+fullExchangeName: NYSE
+fullTimeEmployees: 10000
+fulldayChange: 4.0250015
+fulldayChangePercent: 3.2554202
+fulldayPrice: 127.665
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.46922
+grossProfits: 2576000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00075
+heldPercentInstitutions: 0.79375
+impliedSharesOutstanding: 209043355
+industry: Semiconductor Equipment & Materials
+industryDisp: Semiconductor Equipment & Materials
+industryKey: semiconductor-equipment-materials
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788134400
+lastDividendValue: 0.08
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Qnity Electronics, Inc. provides materials and solutions to the
+  semiconductor and electronics industries in the United States, rest of Americas,
+  Europe, the Middle East, Africa, Asia Pacific, China, South Korea, Taiwan, and internationally.
+  The company operates in two segments, Semiconductor Technologies and Interconnect
+  Solutions. Its Semiconductor Technologies segment offers chemical mechanical planarization
+  (CMP) pads and slurries, photoresists, functional sub-layers, advanced overcoats,
+  post-CMP cleaners, post-etch residue removers, and emerging cleans. The Interconnect
+  Solutions segment provides copper pillar plating, copper redistribution layer, solder
+  bump plating, under bump metallization, photoresists, packaging dielectrics, gap
+  fillers, phase change, specialty thermal interface materials, thermally conductive
+  insulators, copper plating solutions, dry film photoresists, and laminates and polyimide
+  films. The company was formerly known as Novus SpinCo 1, Inc. and changed its name
+  to Qnity Electronics, Inc. in April 2025. The company was incorporated in 2024 and
+  is headquartered in Wilmington, Delaware.
+longName: Qnity Electronics, Inc.
+market: us_market
+marketCap: 26687520768
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1881796926
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 558000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 25846120412
+numberOfAnalystOpinions: 10
+open: 129.37
+operatingCashflow: 1138000000
+operatingMargins: 0.22914
+overallRisk: 4
+payoutRatio: 0.112799995
+pegRatio: 1.16
+phone: 302 294 4651
+previousClose: 123.64
+priceEpsCurrentYear: 25.350527
+priceHint: 2
+priceToBook: 3.5186868
+priceToSalesTrailing12Months: 4.861115
+profitMargins: 0.10163999
+quickRatio: 1.272
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.3
+region: US
+regularMarketChange: 4.0250015
+regularMarketChangePercent: 3.2554202
+regularMarketDayHigh: 129.62
+regularMarketDayLow: 124.2701
+regularMarketDayRange: 124.2701 - 129.62
+regularMarketOpen: 129.37
+regularMarketPreviousClose: 123.64
+regularMarketPrice: 127.665
+regularMarketTime: 1794413739
+regularMarketVolume: 632832
+returnOnAssets: 0.05775
+returnOnEquity: 0.06981
+revenueGrowth: 0.219
+revenuePerShare: 26.174
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 3
+sharesOutstanding: 209043355
+sharesPercentSharesOut: 0.020599999
+sharesShort: 4313928
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4572271
+shortName: Qnity Electronics, Inc.
+shortPercentOfFloat: 0.023699999
+shortRatio: 2.54
+sourceInterval: 15
+state: DE
+symbol: Q
+targetHighPrice: 216.0
+targetLowPrice: 150.0
+targetMeanPrice: 173.3
+targetMedianPrice: 172.5
+totalCash: 1124000000
+totalCashPerShare: 5.377
+totalDebt: 4533000192
+totalRevenue: 5489999872
+tradeable: false
+trailingAnnualDividendRate: 0.3
+trailingAnnualDividendYield: 0.0024263994
+trailingEps: 2.66
+trailingPE: 47.994358
+trailingPegRatio: 1.1474
+triggerable: true
+twoHundredDayAverage: 130.06775
+twoHundredDayAverageChange: -2.402748
+twoHundredDayAverageChangePercent: -0.018473051
+typeDisp: Equity
+volume: 632832
+website: https://www.qnityelectronics.com
+zip: '19805'

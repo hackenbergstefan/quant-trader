@@ -1,0 +1,256 @@
+52WeekChange: 0.26672137
+SandP52WeekChange: 0.097798586
+address1: One Coleman Street
+allTimeHigh: 324.7
+allTimeLow: 20.9
+ask: 308.8
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 3.7 - Underperform
+averageDailyVolume10Day: 14510625
+averageDailyVolume3Month: 20868555
+averageVolume: 20868555
+averageVolume10days: 14510625
+beta: 0.806
+bid: 308.7
+bidSize: 0
+boardRisk: 1
+bookValue: 0.386
+city: London
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Antonio Pedro Dos Santos Simoes
+  title: Group CEO & Director
+  totalPay: 3113000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew  Kail
+  title: Group CFO & Executive Director
+  totalPay: 897000
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katie  Worgan
+  title: Group Chief Operating Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jamie  Ovenden
+  title: Group Chief Technology, Data & Innovation Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andy  Sinclair
+  title: Chief Strategy & Investor Relations Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria  Alvarez-Scott
+  title: Group General Counsel & Company Secretary
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Emma  Holden
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert James Barnard-Smith
+  title: Head of UK Credit - LGIM
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Debbie  Matthews
+  title: Head of LGIM Product Development - Chief Operations Office
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew David Fairhurst
+  title: Head of Secretariat
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 308.85
+currentRatio: 0.954
+customPriceAlertConfidence: LOW
+dayHigh: 311.3
+dayLow: 308.6
+debtToEquity: 993.418
+dividendRate: 0.22
+dividendYield: 7.1
+earningsCallTimestampEnd: 1785920400
+earningsCallTimestampStart: 1785920400
+earningsGrowth: 5.071
+earningsQuarterlyGrowth: 4.873
+earningsTimestampEnd: 1785943800
+earningsTimestampStart: 1785943800
+ebitda: 1268999936
+ebitdaMargins: 0.10732
+enterpriseToEbitda: 23.085
+enterpriseToRevenue: 2.477
+enterpriseValue: 29295460352
+epsCurrentYear: 0.23345
+epsForward: 0.25335
+epsTrailingTwelveMonths: 0.11
+esgPopulated: false
+exDividendDate: 1787184000
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fax: 44 20 3124 2500
+fiftyDayAverage: 296.316
+fiftyDayAverageChange: 12.533997
+fiftyDayAverageChangePercent: 0.042299423
+fiftyTwoWeekChangePercent: 26.672136
+fiftyTwoWeekHigh: 318.1
+fiftyTwoWeekHighChange: -9.25
+fiftyTwoWeekHighChangePercent: -0.029078905
+fiftyTwoWeekLow: 217.2
+fiftyTwoWeekLowChange: 91.65001
+fiftyTwoWeekLowChangePercent: 0.42196137
+fiftyTwoWeekRange: 217.2 - 318.1
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 7.97
+floatShares: 5329960200
+forwardEps: 0.25335
+forwardPE: 12.190646
+freeCashflow: 7687000064
+fullExchangeName: LSE
+fullTimeEmployees: 10500
+fulldayChange: 0.1499939
+fulldayChangePercent: 0.048588887
+fulldayPrice: 308.85
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.25869
+grossProfits: 3059000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.01989
+heldPercentInstitutions: 0.47358
+impliedSharesOutstanding: 5327236898
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787184000
+lastDividendValue: 0.0624
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 925084800
+lastSplitFactor: '4:1'
+longBusinessSummary: Legal & General Group Plc provides various insurance products
+  and services in the United Kingdom, the United States, and internationally. It operates
+  through Institutional Retirement, Asset Management, Insurance, and Retail Retirement
+  segments. The Institutional Retirement segment offers annuity contracts with guaranteed
+  income for a specified time; longevity insurance products; and writes assured payment
+  policies (APP). The Asset Management segment provides unit linked institutional
+  pensions, segregated investment management mandates, and collective investment schemes;
+  index fund management; pooled and segregated active fixed income funds; active equity
+  management; solutions for cash management requirements for institutional investors;
+  solutions and liability driven investment; multi-asset funds; private markets strategies
+  for physical real estate, private corporate debts, infrastructure debts, and real
+  estate loans; and direct investment services. The Retail Retirement segment offers
+  protection products, such as health, disability, critical illness, and accident;
+  annuities; lifetime mortgages; lifetime care plans; retirement interest only mortgages;
+  and workplace and retail savings scheme that provides corporate pension scheme solutions.
+  Legal & General Group Plc was founded in 1836 and is headquartered in London, the
+  United Kingdom.
+longName: Legal & General Group Plc
+market: gb_market
+marketCap: 16453172224
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874781
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 663000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 16445180304
+numberOfAnalystOpinions: 15
+open: 310.1
+operatingCashflow: 2224999936
+operatingMargins: 0.10537
+overallRisk: 2
+payoutRatio: 1.8997
+pegRatio: 1.53
+phone: 44 20 3124 2000
+previousClose: 308.7
+priceEpsCurrentYear: 1322.9814
+priceHint: 2
+priceToBook: 8.001295
+priceToSalesTrailing12Months: 1.3913888
+profitMargins: 0.18030001
+quickRatio: 0.293
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: underperform
+recommendationMean: 3.66667
+region: US
+regularMarketChange: 0.1499939
+regularMarketChangePercent: 0.048588887
+regularMarketDayHigh: 311.3
+regularMarketDayLow: 308.6
+regularMarketDayRange: 308.6 - 311.3
+regularMarketOpen: 310.1
+regularMarketPreviousClose: 308.7
+regularMarketPrice: 308.85
+regularMarketTime: 1794411557
+regularMarketVolume: 5843189
+returnOnAssets: 0.00133
+returnOnEquity: 0.27014
+revenueGrowth: 0.153
+revenuePerShare: 2.108
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 5327236898
+shortName: LEGAL & GENERAL GROUP PLC ORD 2
+sourceInterval: 15
+symbol: LGEN.L
+targetHighPrice: 385.0
+targetLowPrice: 192.0
+targetMeanPrice: 273.707
+targetMedianPrice: 270.0
+totalCash: 14517000192
+totalCashPerShare: 2.602
+totalDebt: 26563999744
+totalRevenue: 11825000448
+tradeable: false
+trailingAnnualDividendRate: 0.219
+trailingAnnualDividendYield: 0.0007094266
+trailingEps: 0.11
+trailingPE: 28.077272
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 278.88367
+twoHundredDayAverageChange: 29.96634
+twoHundredDayAverageChangePercent: 0.10745104
+typeDisp: Equity
+volume: 5843189
+website: https://group.legalandgeneral.com
+zip: EC2R 5AA

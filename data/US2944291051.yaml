@@ -1,0 +1,292 @@
+52WeekChange: -0.09656829
+SandP52WeekChange: 0.097798586
+address1: 1550 Peachtree Street, NW
+allTimeHigh: 309.63
+allTimeLow: 0.708333
+ask: 186.47
+askSize: 100
+auditRisk: 1
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1655830
+averageDailyVolume3Month: 1704301
+averageVolume: 1704301
+averageVolume10days: 1655830
+beta: 1.274
+bid: 186.06
+bidSize: 200
+boardRisk: 4
+bookValue: 38.196
+city: Atlanta
+companyOfficers:
+- age: 67
+  exercisedValue: 11794705
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark W. Begor
+  title: CEO & Director
+  totalPay: 5006894
+  unexercisedValue: 16523253
+  yearBorn: 1958
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John W. Gamble Jr.
+  title: Executive VP, CFO & COO
+  totalPay: 2374244
+  unexercisedValue: 3986898
+  yearBorn: 1963
+- age: 47
+  exercisedValue: 2834921
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jamil  Farshchi
+  title: Executive VP & CTO
+  totalPay: 2116037
+  unexercisedValue: 1021802
+  yearBorn: 1978
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julia A. Houston
+  title: Executive VP & Chief Legal Officer
+  totalPay: 1651446
+  unexercisedValue: 210312
+  yearBorn: 1971
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chad M. Borton
+  title: Executive VP & President of Workforce Solutions
+  totalPay: 2242771
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James M. Griggs
+  title: Chief Accounting Officer & Corporate Controller
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Trevor  Burns
+  title: Senior Vice President of Corporate Investor Relations
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kathryn Q. Walker
+  title: Executive VP and Chief Marketing & Communications Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sunil  Bindal
+  title: Executive VP & Chief Corporate Development and Strategy Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Carla J. Chaney
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions:
+- header: Dividend
+  message: EFX announced a cash dividend of $0.56 with an ex-date of Nov. 25, 2026
+  meta:
+    amount: '0.56'
+    dateEpochMs: 1795582800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 186.78
+currentRatio: 1.087
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 188.21
+dayLow: 185.25
+debtToEquity: 112.843
+displayName: Equifax
+dividendDate: 1797292800
+dividendRate: 2.24
+dividendYield: 1.19
+earningsCallTimestampEnd: 1792499400
+earningsCallTimestampStart: 1792499400
+earningsGrowth: 0.388
+earningsQuarterlyGrowth: 0.321
+earningsTimestamp: 1792499400
+earningsTimestampEnd: 1792499400
+earningsTimestampStart: 1792499400
+ebitda: 2026599936
+ebitdaMargins: 0.30743
+enterpriseToEbitda: 13.412
+enterpriseToRevenue: 4.123
+enterpriseValue: 27181242368
+epsCurrentYear: 8.50493
+epsForward: 9.53395
+epsTrailingTwelveMonths: 6.18
+esgPopulated: false
+exDividendDate: 1795564800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 166.14
+fiftyDayAverageChange: 20.64
+fiftyDayAverageChangePercent: 0.124232575
+fiftyTwoWeekChangePercent: -9.656829
+fiftyTwoWeekHigh: 228.67
+fiftyTwoWeekHighChange: -41.89
+fiftyTwoWeekHighChangePercent: -0.18318975
+fiftyTwoWeekLow: 137.01
+fiftyTwoWeekLowChange: 49.770004
+fiftyTwoWeekLowChangePercent: 0.3632582
+fiftyTwoWeekRange: 137.01 - 228.67
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 0.74
+floatShares: 116518681
+forwardEps: 9.53395
+forwardPE: 19.591042
+freeCashflow: 944600000
+fullExchangeName: NYSE
+fullTimeEmployees: 15000
+fulldayChange: -1.449997
+fulldayChangePercent: -0.7703326
+fulldayPrice: 186.78
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.55184
+grossProfits: 3637799936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00638
+heldPercentInstitutions: 1.06122
+impliedSharesOutstanding: 117017174
+industry: Consulting Services
+industryDisp: Consulting Services
+industryKey: consulting-services
+irWebsite: http://www.equifax.com/investor_center/en_us
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788134400
+lastDividendValue: 0.56
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 819244800
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Equifax Inc. operates as a data, analytics, and technology company.
+  The company operates through three segments: Workforce Solutions, U.S. Information
+  Solutions (USIS), and International. The Workforce Solutions segment offers services
+  that enables customers to verify income, employment, educational history, criminal
+  justice data, healthcare professional licensure, and sanctions of people in the
+  United States; and employer customers with services that assist them in complying
+  with and automating certain payroll-related and human resource management processes
+  throughout the entire cycle of the employment relationship. The U.S. Information
+  Solutions segment provides consumer and commercial information services, such as
+  credit information and credit scoring, credit modeling and portfolio analytics,
+  locate, fraud detection and prevention, identity verification, and other consulting
+  services; mortgage services; financial marketing services; identity management services;
+  and credit monitoring products. The International segment offers information service
+  products, which include consumer and commercial services comprising credit and financial
+  information, and credit scoring and modeling; and credit and other marketing products
+  and services, as well as information, technology, and services to support debt collections
+  and recovery management. The company also provides information solutions for businesses,
+  governments and consumers; and human resources business process automation and outsourcing
+  services for employers. It operates in Argentina, Australia, Brazil, Canada, Chile,
+  Costa Rica, Dominican Republic, Ecuador, El Salvador, Honduras, India, Ireland,
+  Mexico, New Zealand, Paraguay, Peru, Portugal, Spain, the United Kingdom, Uruguay,
+  and the United States. The company was founded in 1899 and is headquartered in Atlanta,
+  Georgia.'
+longName: Equifax Inc.
+market: us_market
+marketCap: 21856468992
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_175749
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 742899968
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 22026142662
+numberOfAnalystOpinions: 20
+open: 185.49
+operatingCashflow: 1612899968
+operatingMargins: 0.19233999
+overallRisk: 7
+payoutRatio: 0.35279998
+pegRatio: 1.59
+phone: 404 885 8000
+previousClose: 188.23
+priceEpsCurrentYear: 21.961382
+priceHint: 2
+priceToBook: 4.890041
+priceToSalesTrailing12Months: 3.3155549
+profitMargins: 0.11270001
+quickRatio: 0.93
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.75
+region: US
+regularMarketChange: -1.449997
+regularMarketChangePercent: -0.7703326
+regularMarketDayHigh: 188.21
+regularMarketDayLow: 185.25
+regularMarketDayRange: 185.25 - 188.21
+regularMarketOpen: 185.49
+regularMarketPreviousClose: 188.23
+regularMarketPrice: 186.78
+regularMarketTime: 1794413715
+regularMarketVolume: 112546
+returnOnAssets: 0.06668
+returnOnEquity: 0.15443
+revenueGrowth: 0.096
+revenuePerShare: 55.222
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 8
+sharesOutstanding: 117017174
+sharesPercentSharesOut: 0.0482
+sharesShort: 5638215
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5224908
+shortName: Equifax, Inc.
+shortPercentOfFloat: 0.0559
+shortRatio: 2.67
+sourceInterval: 15
+state: GA
+symbol: EFX
+targetHighPrice: 245.0
+targetLowPrice: 155.0
+targetMeanPrice: 201.1
+targetMedianPrice: 203.0
+totalCash: 192900000
+totalCashPerShare: 1.648
+totalDebt: 5206700032
+totalRevenue: 6592099840
+tradeable: false
+trailingAnnualDividendRate: 2.18
+trailingAnnualDividendYield: 0.011581576
+trailingEps: 6.18
+trailingPE: 30.2233
+trailingPegRatio: 1.5949
+triggerable: true
+twoHundredDayAverage: 176.1162
+twoHundredDayAverageChange: 10.663803
+twoHundredDayAverageChangePercent: 0.060549814
+typeDisp: Equity
+volume: 112546
+website: https://www.equifax.com
+zip: '30309'

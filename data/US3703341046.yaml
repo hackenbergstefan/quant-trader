@@ -1,0 +1,285 @@
+52WeekChange: -0.25591397
+SandP52WeekChange: 0.097798586
+address1: Number One General Mills Boulevard
+allTimeHigh: 90.89
+allTimeLow: 1.058953
+ask: 33.62
+askSize: 600
+auditRisk: 9
+averageAnalystRating: 3.1 - Hold
+averageDailyVolume10Day: 8638590
+averageDailyVolume3Month: 9510375
+averageVolume: 9510375
+averageVolume10days: 8638590
+beta: -0.012
+bid: 33.6
+bidSize: 400
+boardRisk: 5
+bookValue: 13.934
+city: Minneapolis
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jeffrey L. Harmening
+  title: Chairman & CEO
+  totalPay: 2837161
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Kofi A. Bruce
+  title: Chief Financial Officer
+  totalPay: 1551558
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Dana M. McNabb
+  title: COO & Director
+  totalPay: 1475989
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Karen Wilson Thissen J.D.
+  title: Chief Legal Officer
+  totalPay: 1258065
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jaime  Montemayor
+  title: Chief Digital, Technology & Transformation Officer
+  totalPay: 1227570
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Mark A. Pallot
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jeff  Siemon
+  title: Vice President of Investor Relations & Corporate Finance
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Lanette Shaffer Werner
+  title: Chief Innovation, Technology & Quality (ITQ) Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jano  Cabrera
+  title: Chief Communications Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Jacqueline R. Williams-Roll
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 33.665
+currentRatio: 0.704
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 34.21
+dayLow: 33.56
+debtToEquity: 182.422
+displayName: General Mills
+dividendDate: 1793577600
+dividendRate: 2.44
+dividendYield: 7.05
+earningsCallTimestampEnd: 1790168400
+earningsCallTimestampStart: 1790168400
+earningsGrowth: -0.667
+earningsQuarterlyGrowth: -0.67
+earningsTimestamp: 1790166600
+earningsTimestampEnd: 1798032600
+earningsTimestampStart: 1798032600
+ebitda: 3415000064
+ebitdaMargins: 0.18665001
+enterpriseToEbitda: 9.281
+enterpriseToRevenue: 1.732
+enterpriseValue: 31696074752
+epsCurrentYear: 3.07776
+epsForward: 3.15226
+epsTrailingTwelveMonths: -1.64
+esgPopulated: false
+exDividendDate: 1791849600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 34.6464
+fiftyDayAverageChange: -0.98139954
+fiftyDayAverageChangePercent: -0.028326161
+fiftyTwoWeekChangePercent: -25.591396
+fiftyTwoWeekHigh: 49.59
+fiftyTwoWeekHighChange: -15.924999
+fiftyTwoWeekHighChangePercent: -0.3211333
+fiftyTwoWeekLow: 31.18
+fiftyTwoWeekLowChange: 2.4850006
+fiftyTwoWeekLowChangePercent: 0.07969854
+fiftyTwoWeekRange: 31.18 - 49.59
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 3.61
+floatShares: 532286399
+forwardEps: 3.15226
+forwardPE: 10.67964
+freeCashflow: 1302612480
+fullExchangeName: NYSE
+fullTimeEmployees: 30000
+fulldayChange: -0.93499756
+fulldayChangePercent: -2.7023053
+fulldayPrice: 33.665
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.33728
+grossProfits: 6170999808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00291
+heldPercentInstitutions: 0.87821
+impliedSharesOutstanding: 534687144
+industry: Packaged Foods
+industryDisp: Packaged Foods
+industryKey: packaged-foods
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=74271&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1791849600
+lastDividendValue: 0.61
+lastFiscalYearEnd: 1780185600
+lastSplitDate: 1276041600
+lastSplitFactor: '2:1'
+longBusinessSummary: 'General Mills, Inc. manufactures and markets branded consumer
+  food in the United States and internationally. The company operates through four
+  segments: North America Retail; International; North America Pet; and North America
+  Foodservice. It offers snacks, including grain, fruit and savory snacks, nutrition
+  bars, and frozen hot snacks; ready-to-eat cereal; convenient meals comprising meal
+  kits, ethnic meals, pizza, soup, side dish mixes, frozen breakfast, and frozen entrees;
+  wholesome natural pet food; refrigerated and frozen dough; baking mixes and ingredients;
+  and ice cream products. The company also offers dog and cat food, such as dry food,
+  wet food, fresh food, and treats. In addition, it operates 232 and franchises 376
+  ice cream parlors. The company markets its products under the Annie''s, Betty Crocker,
+  Bisquick, Blue Buffalo, Bugles, Cascadian Farm, Cheerios, Chex, Cinnamon Toast Crunch,
+  Cocoa Puffs, Cookie Crisp, Dunkaroos, Edgard & Cooper, Fiber One, Fruit by the Foot,
+  Fruit Gushers, Fruit Roll-Ups, Gardetto''s, Gold Medal, Golden Grahams, Häagen-Dazs,
+  Kitano, Kix, Lärabar, Latina, Lucky Charms, Nature Valley, Nudges, Oatmeal Crisp,
+  Old El Paso, Pillsbury, Progresso, Tastefuls, Tiki Pets, Total, Totino''s, Trix,
+  True Solutions, Wanchai Ferry, Wheaties, Wilderness, and Yoki brands. It sells its
+  products to grocery stores, mass merchandisers, membership stores, natural food
+  chains, drug, dollar and discount chains, e-commerce retailers, commercial and noncommercial
+  foodservice distributors and operators, restaurants, convenience stores, and pet
+  specialty stores. The company was founded in 1866 and is headquartered in Minneapolis,
+  Minnesota.'
+longName: General Mills, Inc.
+market: us_market
+marketCap: 18000242688
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_274715
+mostRecentQuarter: 1788048000
+netIncomeToCommon: -894800000
+nextFiscalYearEnd: 1811721600
+nonDilutedMarketCap: 18500175182
+numberOfAnalystOpinions: 17
+open: 34.09
+operatingCashflow: 2067000064
+operatingMargins: 0.15624
+overallRisk: 7
+payoutRatio: 0.5941
+pegRatio: 11.74
+phone: 763 764 7600
+previousClose: 34.6
+priceEpsCurrentYear: 10.93815
+priceHint: 2
+priceToBook: 2.4160328
+priceToSalesTrailing12Months: 0.98380256
+profitMargins: -0.04891
+quickRatio: 0.318
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.05263
+region: US
+regularMarketChange: -0.93499756
+regularMarketChangePercent: -2.7023053
+regularMarketDayHigh: 34.21
+regularMarketDayLow: 33.56
+regularMarketDayRange: 33.56 - 34.21
+regularMarketOpen: 34.09
+regularMarketPreviousClose: 34.6
+regularMarketPrice: 33.665
+regularMarketTime: 1794413726
+regularMarketVolume: 2245525
+returnOnAssets: 0.05646
+returnOnEquity: -0.104949996
+revenueGrowth: -0.028
+revenuePerShare: 34.089
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 8
+sharesOutstanding: 534687144
+sharesPercentSharesOut: 0.0701
+sharesShort: 37485250
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 41173326
+shortName: General Mills, Inc.
+shortPercentOfFloat: 0.0912
+shortRatio: 3.73
+sourceInterval: 15
+state: MN
+symbol: GIS
+targetHighPrice: 45.0
+targetLowPrice: 30.0
+targetMeanPrice: 36.88235
+targetMedianPrice: 37.0
+totalCash: 433100000
+totalCashPerShare: 0.81
+totalDebt: 13615599616
+totalRevenue: 18296600576
+tradeable: false
+trailingAnnualDividendRate: 2.44
+trailingAnnualDividendYield: 0.07052024
+trailingEps: -1.64
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 37.1732
+twoHundredDayAverageChange: -3.5081978
+twoHundredDayAverageChangePercent: -0.09437439
+typeDisp: Equity
+volume: 2245525
+website: https://www.generalmills.com
+zip: '55426'

@@ -1,0 +1,252 @@
+52WeekChange: 0.48913038
+SandP52WeekChange: 0.097798586
+address1: Rotork House
+address2: Brassmill Lane
+allTimeHigh: 495.0
+allTimeLow: 4.4666
+ask: 493.4
+askSize: 0
+auditRisk: 8
+averageAnalystRating: 3.0 - Hold
+averageDailyVolume10Day: 1701228
+averageDailyVolume3Month: 4318821
+averageVolume: 4318821
+averageVolume10days: 1701228
+beta: 1.067
+bid: 493.0
+bidSize: 0
+boardRisk: 3
+bookValue: 0.685
+city: Bath
+companyOfficers:
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kiet Tuan Huynh
+  title: CEO, Member of Management Board & Director
+  totalPay: 1683000
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Benjamin William Peacock
+  title: CFO, Member of the Management Board & Director
+  totalPay: 995000
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stuart Kenneth Pain
+  title: Group General Counsel, Company Secretary & Member of Management Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mike  Pelezo
+  title: MD of Rotork Service & Member of Management Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Metin  Gerceker
+  title: MD of Water & Power and Member of Management Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ross  Pascoe
+  title: CTO & Member of Management Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Xin  Man
+  title: MD of Chemical, Process & Industrial (CPI) and Member of the Management Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Keith  Barnard
+  title: MD of Oil & Gas and Member of Management Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Klasner
+  title: Operations Excellence Director & Member of Management Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Beatriz Rodriguez Gomez
+  title: Group Chief HR and Sustainability Officer & Member of the Management Board
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 493.18
+currentRatio: 2.543
+customPriceAlertConfidence: LOW
+dayHigh: 494.0
+dayLow: 493.0
+debtToEquity: 7.986
+dividendRate: 0.08
+dividendYield: 1.69
+earningsCallTimestampEnd: 1785826800
+earningsCallTimestampStart: 1785826800
+earningsGrowth: 0.195
+earningsQuarterlyGrowth: 0.147
+earningsTimestampEnd: 1785857400
+earningsTimestampStart: 1785857400
+ebitda: 200600000
+ebitdaMargins: 0.25811002
+enterpriseToEbitda: 19.905
+enterpriseToRevenue: 5.138
+enterpriseValue: 3992920832
+epsCurrentYear: 0.17638
+epsForward: 0.18781
+epsTrailingTwelveMonths: 0.15
+esgPopulated: false
+exDividendDate: 1786579200
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 489.1
+fiftyDayAverageChange: 4.0799866
+fiftyDayAverageChangePercent: 0.008341825
+fiftyTwoWeekChangePercent: 48.913036
+fiftyTwoWeekHigh: 495.0
+fiftyTwoWeekHighChange: -1.8200073
+fiftyTwoWeekHighChangePercent: -0.0036767824
+fiftyTwoWeekLow: 286.4
+fiftyTwoWeekLowChange: 206.78
+fiftyTwoWeekLowChangePercent: 0.7219972
+fiftyTwoWeekRange: 286.4 - 495.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 2.25
+floatShares: 807151840
+forwardEps: 0.18781
+forwardPE: 26.259516
+freeCashflow: 106750000
+fullExchangeName: LSE
+fullTimeEmployees: 3585
+fulldayChange: -0.020019531
+fulldayChangePercent: -0.00405911
+fulldayPrice: 493.18
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.50488997
+grossProfits: 392400000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.01706
+heldPercentInstitutions: 0.93943
+impliedSharesOutstanding: 814435824
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786579200
+lastDividendValue: 0.03
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1431907200
+lastSplitFactor: '10:1'
+longBusinessSummary: 'Rotork plc manufactures industrial flow control and instrumentation
+  solutions for the oil and gas, water and wastewater, power, chemical process, and
+  industrial markets. It operates through three segments: Oils & Gas; Water & Power;
+  and Chemical, Process & Industrial segments. The company provides electric industrial,
+  electric intelligent, electro-hydraulic, heavy and light duty fluid, and precision
+  modulating actuators; and flow pressure control and filtration, gearbox accessories,
+  master station, networks and protocols, multi-turn gearboxes, valve positioners
+  and controllers, part-turn gearboxes, HVAC actuators and sensors, instrumentation
+  valves, electrical instrumentation, and limit switches and position transmitters.
+  It also provides integrated ethernet, packaged solutions, carbon capture and storage,
+  hydrogen industrial gases, desalination, and methane emissions reduction solutions.
+  The company offers its products under the Bifold, Centork, Fairchild, Hanbay, Mastergear,
+  Midland, M&M International, Remote Control, RotoHammer, Schischek, Soldo Controls,
+  and YTC brand names. It operates in the United Kingdom, the Asia Pacific, the United
+  States, Europe, the Middle East, Africa, and internationally. Rotork plc was founded
+  in 1956 and is headquartered in Bath, the United Kingdom.'
+longName: Rotork plc
+market: gb_market
+marketCap: 4016634624
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_879273
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 122400000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 4016797483
+numberOfAnalystOpinions: 9
+open: 493.4
+operatingCashflow: 118700000
+operatingMargins: 0.24099001
+overallRisk: 3
+payoutRatio: 0.5608
+pegRatio: 3.92
+previousClose: 493.2
+priceEpsCurrentYear: 2796.122
+priceHint: 2
+priceToBook: 7.1997075
+priceToSalesTrailing12Months: 5.1680837
+profitMargins: 0.15749
+quickRatio: 1.828
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.0
+region: US
+regularMarketChange: -0.020019531
+regularMarketChangePercent: -0.00405911
+regularMarketDayHigh: 494.0
+regularMarketDayLow: 493.0
+regularMarketDayRange: 493.0 - 494.0
+regularMarketOpen: 493.4
+regularMarketPreviousClose: 493.2
+regularMarketPrice: 493.18
+regularMarketTime: 1794409961
+regularMarketVolume: 524600
+returnOnAssets: 0.15479
+returnOnEquity: 0.21844
+revenueGrowth: -0.0
+revenuePerShare: 0.943
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 814435824
+shortName: ROTORK PLC ORD 0.5P
+sourceInterval: 15
+symbol: ROR.L
+targetHighPrice: 503.00003
+targetLowPrice: 320.0
+targetMeanPrice: 482.66702
+targetMedianPrice: 503.00003
+totalCash: 70000000
+totalCashPerShare: 0.086
+totalDebt: 44700000
+totalRevenue: 777200000
+tradeable: false
+trailingAnnualDividendRate: 0.084
+trailingAnnualDividendYield: 0.0001703163
+trailingEps: 0.15
+trailingPE: 32.878666
+trailingPegRatio: 3.9245
+triggerable: false
+twoHundredDayAverage: 393.237
+twoHundredDayAverageChange: 99.94299
+twoHundredDayAverageChangePercent: 0.2541546
+typeDisp: Equity
+volume: 524600
+website: https://www.rotork.com
+zip: BA1 3JQ

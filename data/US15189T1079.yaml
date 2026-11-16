@@ -1,0 +1,283 @@
+52WeekChange: 0.04194033
+SandP52WeekChange: 0.097798586
+address1: 1111 Louisiana Street
+allTimeHigh: 45.26
+allTimeLow: 3.57432
+ask: 40.92
+askSize: 1000
+auditRisk: 8
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 10958750
+averageDailyVolume3Month: 7048670
+averageVolume: 7048670
+averageVolume10days: 10958750
+beta: 0.421
+bid: 40.91
+bidSize: 1100
+boardRisk: 5
+bookValue: 17.714
+city: Houston
+companyOfficers:
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason P. Wells CPA
+  title: President, CEO & Chairman
+  totalPay: 4467318
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher A. Foster
+  title: Executive VP & CFO
+  totalPay: 1875620
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jesus  Soto Jr.
+  title: Executive VP & COO
+  totalPay: 1244292
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Monica  Karuturi
+  title: Executive VP & General Counsel
+  totalPay: 1989660
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason Michael Ryan
+  title: Executive Vice President of Regulatory Services & Government Affairs
+  totalPay: 1441395
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Russell Keith Wright
+  title: Chief Accounting Officer & VP
+  unexercisedValue: 0
+  yearBorn: 1985
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ben  Vallejo
+  title: Vice President of Investor Relations & Corporate Planning
+  unexercisedValue: 0
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Carol R. Helliker
+  title: Chief Ethics & Compliance Officer, Senior VP & Deputy General Counsel
+  unexercisedValue: 0
+  yearBorn: 1961
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Keith F. Stephens
+  title: Senior VP & Chief Communications Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Lauren Chesley Clark
+  title: Executive VP & CHRO
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions:
+- header: Dividend
+  message: CNP announced a cash dividend of $0.24 with an ex-date of Nov. 19, 2026
+  meta:
+    amount: '0.24'
+    dateEpochMs: 1795064400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 40.975
+currentRatio: 1.149
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 41.18
+dayLow: 40.895
+debtToEquity: 212.085
+displayName: CenterPoint Energy
+dividendDate: 1796860800
+dividendRate: 0.96
+dividendYield: 2.33
+earningsCallTimestampEnd: 1793102400
+earningsCallTimestampStart: 1793102400
+earningsGrowth: 0.114
+earningsQuarterlyGrowth: 0.13
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1793104200
+earningsTimestampStart: 1793104200
+ebitda: 4072999936
+ebitdaMargins: 0.41464
+enterpriseToEbitda: 12.689
+enterpriseToRevenue: 5.261
+enterpriseValue: 51683155968
+epsCurrentYear: 1.91383
+epsForward: 2.09296
+epsTrailingTwelveMonths: 1.74
+esgPopulated: false
+exDividendDate: 1795046400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 39.4298
+fiftyDayAverageChange: 1.5452003
+fiftyDayAverageChangePercent: 0.039188646
+fiftyTwoWeekChangePercent: 4.194033
+fiftyTwoWeekHigh: 45.26
+fiftyTwoWeekHighChange: -4.285
+fiftyTwoWeekHighChangePercent: -0.09467521
+fiftyTwoWeekLow: 36.37
+fiftyTwoWeekLowChange: 4.6049995
+fiftyTwoWeekLowChangePercent: 0.12661533
+fiftyTwoWeekRange: 36.37 - 45.26
+financialCurrency: USD
+firstTradeDateMilliseconds: -252322200000
+fiveYearAvgDividendYield: 2.39
+floatShares: 660420323
+forwardEps: 2.09296
+forwardPE: 19.577536
+freeCashflow: -4986250240
+fullExchangeName: NYSE
+fullTimeEmployees: 8794
+fulldayChange: -0.2650032
+fulldayChangePercent: -0.6425878
+fulldayPrice: 40.975
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.48386002
+grossProfits: 4752999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00236
+heldPercentInstitutions: 1.0651001
+impliedSharesOutstanding: 662879606
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+irWebsite: http://investors.centerpointenergy.com/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787184000
+lastDividendValue: 0.24
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1033430400
+lastSplitFactor: 1000:843
+longBusinessSummary: CenterPoint Energy, Inc. operates as a public utility holding
+  company in the United States. The company operates through Electric; Natural Gas;
+  and Corporate and Other segments. The Electric segment provides electric transmission
+  and distribution services to electric customers and electric generation assets,
+  as well as optimizes assets in the wholesale power market in Indiana Electric's
+  service territory. The Natural Gas segment engages in the intrastate natural gas
+  sales, and natural gas transportation and distribution for residential, commercial,
+  and industrial customers in Indiana, Minnesota, Ohio, and Texas; permanent pipeline
+  connections through interconnects with various interstate and intrastate pipeline
+  companies; and provides home appliance maintenance and repair services to customers
+  in Minnesota and home repair protection plans to natural gas customers in Indiana,
+  Mississippi, Ohio, and Texas through a third party. As of December 31, 2025, it
+  served approximately 2,859,313 metered customers; owned 355 substations with transformer
+  capacity of 81,692 megavolt amperes; and owned and operated approximately 208 miles
+  of intrastate pipeline in Louisiana and Texas. The company was founded in 1866 and
+  is headquartered in Houston, Texas.
+longName: CenterPoint Energy, Inc.
+market: us_market
+marketCap: 27161491456
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_279513
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1155000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 27337154951
+numberOfAnalystOpinions: 19
+open: 40.94
+operatingCashflow: 2824999936
+operatingMargins: 0.24249001
+overallRisk: 7
+payoutRatio: 0.5287
+pegRatio: 2.07
+phone: 713 207 1111
+previousClose: 41.24
+priceEpsCurrentYear: 21.409946
+priceHint: 2
+priceToBook: 2.313142
+priceToSalesTrailing12Months: 2.7650914
+profitMargins: 0.117580004
+quickRatio: 0.367
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.09524
+region: US
+regularMarketChange: -0.2650032
+regularMarketChangePercent: -0.6425878
+regularMarketDayHigh: 41.18
+regularMarketDayLow: 40.895
+regularMarketDayRange: 40.895 - 41.18
+regularMarketOpen: 40.94
+regularMarketPreviousClose: 41.24
+regularMarketPrice: 40.975
+regularMarketTime: 1794413712
+regularMarketVolume: 1043162
+returnOnAssets: 0.0315
+returnOnEquity: 0.10142
+revenueGrowth: 0.102
+revenuePerShare: 14.972
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 8
+sharesOutstanding: 662879606
+sharesPercentSharesOut: 0.0752
+sharesShort: 49846242
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 48300545
+shortName: CenterPoint Energy, Inc (Holdin
+shortPercentOfFloat: 0.096099995
+shortRatio: 7.02
+sourceInterval: 15
+state: TX
+symbol: CNP
+targetHighPrice: 50.0
+targetLowPrice: 39.0
+targetMeanPrice: 44.23684
+targetMedianPrice: 44.0
+totalCash: 557000000
+totalCashPerShare: 0.84
+totalDebt: 24903000064
+totalRevenue: 9822999552
+tradeable: false
+trailingAnnualDividendRate: 0.92
+trailingAnnualDividendYield: 0.022308437
+trailingEps: 1.74
+trailingPE: 23.54885
+trailingPegRatio: 2.0674
+triggerable: true
+twoHundredDayAverage: 41.6427
+twoHundredDayAverageChange: -0.6677017
+twoHundredDayAverageChangePercent: -0.016034065
+typeDisp: Equity
+volume: 1043162
+website: https://www.centerpointenergy.com
+zip: '77002'

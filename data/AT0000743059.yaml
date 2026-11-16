@@ -1,0 +1,243 @@
+52WeekChange: 0.43484473
+SandP52WeekChange: 0.097798586
+address1: Trabrennstrasse 6-8
+allTimeHigh: 76.15
+allTimeLow: 7.367562
+ask: 71.45
+askSize: 509
+auditRisk: 1
+averageAnalystRating: 3.1 - Hold
+averageDailyVolume10Day: 326620
+averageDailyVolume3Month: 269153
+averageVolume: 269153
+averageVolume10days: 326620
+beta: 0.204
+bid: 71.4
+bidSize: 246
+boardRisk: 2
+bookValue: 49.616
+city: Vienna
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Reinhard  Florey
+  title: CFO & Deputy Chairman of Executive Board
+  totalPay: 2040000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martijn Arjen van Koten
+  title: Executive VP of New Fuels & Chemicals and Member of the Executive Board
+  totalPay: 1480000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Berislav  Gaso Ph.D.
+  title: Executive VP of Energy & Member of Executive Board
+  totalPay: 1420000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Emma  Delaney
+  title: Chairwoman of the Executive Board & CEO
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel  Turnheim
+  title: Senior Vice President of Corporate Finance
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Florian  Greger
+  title: Senior VP and Head of Investor Relations & Sustainability
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Magdalena  Moll
+  title: Senior Vice President of Corporate Affairs
+  unexercisedValue: 0
+  yearBorn: 1962
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Austria
+cryptoTradeable: false
+currency: EUR
+currentPrice: 71.5
+currentRatio: 1.133
+customPriceAlertConfidence: LOW
+dayHigh: 71.75
+dayLow: 70.5
+debtToEquity: 35.927
+dividendDate: 20217600
+dividendRate: 3.15
+dividendYield: 4.48
+earningsCallTimestampEnd: 1800253800
+earningsCallTimestampStart: 1800253800
+earningsGrowth: 0.892
+earningsQuarterlyGrowth: 0.859
+earningsTimestamp: 1793291700
+earningsTimestampEnd: 1793291700
+earningsTimestampStart: 1793291700
+ebitda: 6717000192
+ebitdaMargins: 0.23805
+enterpriseToEbitda: 4.35
+enterpriseToRevenue: 1.036
+enterpriseValue: 29219655680
+epsCurrentYear: 10.14829
+epsForward: 8.95779
+epsTrailingTwelveMonths: 6.39
+esgPopulated: false
+exDividendDate: 1780876800
+exchange: VIE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 43 1 40440 621600
+fiftyDayAverage: 72.079
+fiftyDayAverageChange: -0.5790024
+fiftyDayAverageChangePercent: -0.008032885
+fiftyTwoWeekChangePercent: 43.484474
+fiftyTwoWeekHigh: 76.15
+fiftyTwoWeekHighChange: -4.6500015
+fiftyTwoWeekHighChangePercent: -0.06106371
+fiftyTwoWeekLow: 45.9
+fiftyTwoWeekLowChange: 25.599998
+fiftyTwoWeekLowChangePercent: 0.55773413
+fiftyTwoWeekRange: 45.9 - 76.15
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886100000
+fiveYearAvgDividendYield: 5.64
+floatShares: 141354321
+forwardEps: 8.95779
+forwardPE: 7.981879
+freeCashflow: 8389749760
+fullExchangeName: Vienna
+fullTimeEmployees: 15857
+fulldayChange: 1.25
+fulldayChangePercent: 1.7793595
+fulldayPrice: 71.5
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.32417
+grossProfits: 9146999808
+hasPrePostMarketData: false
+heldPercentInsiders: 0.564
+heldPercentInstitutions: 0.19856001
+impliedSharesOutstanding: 326001057
+industry: Oil & Gas Integrated
+industryDisp: Oil & Gas Integrated
+industryKey: oil-gas-integrated
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1780876800
+lastDividendValue: 4.4
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1121040000
+lastSplitFactor: '10:1'
+longBusinessSummary: OMV Aktiengesellschaft operates as an oil, gas, and chemicals
+  company in Austria, Belgium, Germany, New Zealand, Norway, Romania, the United Arab
+  Emirates, the rest of Central and Eastern Europe, the rest of Europe, and internationally.
+  It operates through Chemicals, Fuels & Feedstock, and Energy segments. The company
+  provides advanced and circular polyolefin solutions, and base chemicals, as well
+  as engages in the recycling of plastics. It also refines and markets crude oil and
+  other feedstock; and operates refineries, filling stations, gas storage facilities,
+  and gas-fired power plant. In addition, the company engages in the exploration,
+  development, and production crude oil, natural gas liquids, and natural gas; development
+  of energy sources, such as geothermal projects; Carbon Capture and Storage; provision
+  and renewable power solutions, as well as sale, trade, and logistics of natural
+  gas. OMV Aktiengesellschaft was incorporated in 1956 and is headquartered in Vienna,
+  Austria.
+longName: OMV Aktiengesellschaft
+market: at_market
+marketCap: 23309076480
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_411108
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2034000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 22911656534
+numberOfAnalystOpinions: 18
+open: 70.5
+operatingCashflow: 5970999808
+operatingMargins: 0.17372999
+overallRisk: 1
+payoutRatio: 0.493
+pegRatio: 0.65
+phone: 43 1 40440 0
+previousClose: 70.25
+priceEpsCurrentYear: 7.045522
+priceHint: 2
+priceToBook: 1.4410673
+priceToSalesTrailing12Months: 0.826065
+profitMargins: 0.11291
+quickRatio: 0.758
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.11111
+region: US
+regularMarketChange: 1.25
+regularMarketChangePercent: 1.7793595
+regularMarketDayHigh: 71.75
+regularMarketDayLow: 70.5
+regularMarketDayRange: 70.5 - 71.75
+regularMarketOpen: 70.5
+regularMarketPreviousClose: 70.25
+regularMarketPrice: 71.5
+regularMarketTime: 1794411567
+regularMarketVolume: 72320
+returnOnAssets: 0.0679
+returnOnEquity: 0.114350006
+revenueGrowth: 0.427
+revenuePerShare: 86.608
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 6
+sharesOutstanding: 326001057
+shortName: OMV AG
+sourceInterval: 15
+symbol: OMV.VI
+targetHighPrice: 80.5
+targetLowPrice: 57.0
+targetMeanPrice: 68.65
+targetMedianPrice: 68.0
+totalCash: 5070000128
+totalCashPerShare: 15.545
+totalDebt: 7807000064
+totalRevenue: 28216999936
+tradeable: false
+trailingAnnualDividendRate: 3.15
+trailingAnnualDividendYield: 0.04483986
+trailingEps: 6.39
+trailingPE: 11.189359
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 62.8477
+twoHundredDayAverageChange: 8.652302
+twoHundredDayAverageChangePercent: 0.13767093
+typeDisp: Equity
+volume: 72320
+website: https://www.omv.com
+zip: '1020'

@@ -1,0 +1,281 @@
+52WeekChange: 0.1112138
+SandP52WeekChange: 0.097798586
+address1: 1801 Augustine Cut-Off
+allTimeHigh: 153.15
+allTimeLow: 1.65625
+ask: 130.16
+askSize: 2
+auditRisk: 10
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 1979340
+averageDailyVolume3Month: 1612260
+averageVolume: 1612260
+averageVolume10days: 1979340
+beta: 0.784
+bid: 110.39
+bidSize: 2
+boardRisk: 4
+bookValue: 27.661
+city: Wilmington
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William J. Meury
+  title: CEO & Director
+  totalPay: 2002297
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Pablo J. Cagnoni M.D., Ph.D.
+  title: President and Global Head of R&D
+  totalPay: 2071424
+  unexercisedValue: 1875257
+  yearBorn: 1963
+- age: 47
+  exercisedValue: 11762
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas  Tray
+  title: Principal Financial Officer, VP of Finance & Chief Accounting Officer
+  totalPay: 529848
+  unexercisedValue: 1047170
+  yearBorn: 1978
+- age: 58
+  exercisedValue: 47945
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Steven H. Stein M.D.
+  title: Executive VP, Head of Late-stage Development & Chief Medical Officer
+  totalPay: 1566905
+  unexercisedValue: 4727978
+  yearBorn: 1967
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mohamed Khairie Issa
+  title: Executive Vice President & Head of U.S. Commercial
+  totalPay: 2271681
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Suketu P. Upadhyay
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael James Morrissey
+  title: Executive VP & Head of Global Technical Operations
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Alexis  Smith
+  title: VP & Head of Investor Relations
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard A. Hoffman J.D., M.B.A.
+  title: Executive VP, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 74
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Pamela M. Murphy
+  title: VP of Investor Relations & Corporate Communications
+  unexercisedValue: 0
+  yearBorn: 1951
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 121.415
+currentRatio: 3.84
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 121.47
+dayLow: 117.84
+debtToEquity: 0.663
+displayName: Incyte
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793275200
+earningsCallTimestampStart: 1793275200
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 2035372032
+ebitdaMargins: 0.33862
+enterpriseToEbitda: 10.172
+enterpriseToRevenue: 3.444
+enterpriseValue: 20703889408
+epsCurrentYear: 3.46021
+epsForward: 8.63881
+epsTrailingTwelveMonths: 1.96
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 119.514
+fiftyDayAverageChange: 1.901001
+fiftyDayAverageChangePercent: 0.015906094
+fiftyTwoWeekChangePercent: 11.12138
+fiftyTwoWeekHigh: 132.6
+fiftyTwoWeekHighChange: -11.185005
+fiftyTwoWeekHighChangePercent: -0.084351465
+fiftyTwoWeekLow: 89.25
+fiftyTwoWeekLowChange: 32.165
+fiftyTwoWeekLowChangePercent: 0.36039215
+fiftyTwoWeekRange: 89.25 - 132.6
+financialCurrency: USD
+firstTradeDateMilliseconds: 752423400000
+floatShares: 171555617
+forwardEps: 8.63881
+forwardPE: 14.054598
+freeCashflow: 1286754432
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 2844
+fulldayChange: 1.1149979
+fulldayChangePercent: 0.92684776
+fulldayPrice: 121.415
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.56016
+grossProfits: 3366973952
+hasPrePostMarketData: true
+heldPercentInsiders: 0.01836
+heldPercentInstitutions: 1.03133
+impliedSharesOutstanding: 203832492
+industry: Biotechnology
+industryDisp: Biotechnology
+industryKey: biotechnology
+irWebsite: http://investor.incyte.com/phoenix.zhtml?c=69764&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 967766400
+lastSplitFactor: '2:1'
+longBusinessSummary: Incyte Corporation, a biopharmaceutical company, engages in the
+  discovery, development, and commercialization of therapeutics in the United States,
+  Europe, Canada, and Japan. The company offers JAKAFI for the treatment of myelofibrosis
+  (MF), polycythemia vera, and steroid-refractory acute graft-versus-host disease;
+  ICLUSIG, a kinase inhibitor to treat chronic myeloid leukemia and Philadelphia-chromosome
+  positive acute lymphoblastic leukemia; MONJUVI/MINJUVI for the treatment of diffuse
+  large B-cell lymphoma and Follicular Lymphoma; NIKTIMVO for the treatment of chronic
+  graft-versus-host disease. It also provides INCA033989 for the treatment of essential
+  thrombocythemia and MF; INCA035784 for the treatment of anti-mutant calreticulin
+  and myeloproliferative neoplasms (MPNs); INCB160058 for the treatment of MPNs; PEMAZYRE,
+  a selective fibroblast growth factor receptor kinase inhibitor for the treatment
+  of unresectable biliary tract cancer, metastatic cholangiocarcinoma, and myeloid/lymphoid
+  neoplasms; ZYNYZ to treat adults with metastatic or recurrent locally advanced Merkel
+  cell carcinoma. The company's clinical stage products include INCB123667 for ovarian
+  cancer; INCB161734 for solid tumors; INCA33890 for cancers; Ruxolitinib cream for
+  atopic dermatitis, hidradenitis suppurativa (HS), and prurigo nodularis; Povorcitinib
+  for HS, nonsegmental vitiligo, prurigo nodularis, and asthma; and INCB00928 for
+  the treatment of fibrodysplasia ossificans progressive. It has collaboration and
+  license agreement with Novartis, Lilly, and Syndax. The company sells its products
+  to specialty and retail pharmacies, hospital pharmacies, and distributors. Incyte
+  Corporation has a clinical trial collaboration with Genmab A/S to evaluate petosemtamab.
+  The company was formerly known as Incyte Genomics Inc and changed its name to Incyte
+  Corporation in March 2003. Incyte Corporation was incorporated in 1991 and is headquartered
+  in Wilmington, Delaware.
+longName: Incyte Corporation
+market: us_market
+marketCap: 24748322816
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_332954
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 403411008
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 24519010462
+numberOfAnalystOpinions: 24
+open: 119.37
+operatingCashflow: 744992000
+operatingMargins: 0.32224998
+overallRisk: 8
+payoutRatio: 0.0
+pegRatio: 10.82
+phone: 302 498 6700
+previousClose: 120.3
+priceEpsCurrentYear: 35.08891
+priceHint: 2
+priceToBook: 4.3893933
+priceToSalesTrailing12Months: 4.1173406
+profitMargins: 0.06711
+quickRatio: 3.541
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.17857
+region: US
+regularMarketChange: 1.1149979
+regularMarketChangePercent: 0.92684776
+regularMarketDayHigh: 121.47
+regularMarketDayLow: 117.84
+regularMarketDayRange: 117.84 - 121.47
+regularMarketOpen: 119.37
+regularMarketPreviousClose: 120.3
+regularMarketPrice: 121.415
+regularMarketTime: 1794413686
+regularMarketVolume: 187650
+returnOnAssets: 0.1778
+returnOnEquity: 0.078379996
+revenueGrowth: 0.14
+revenuePerShare: 30.039
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 6
+sharesOutstanding: 203832492
+sharesPercentSharesOut: 0.052199997
+sharesShort: 10649327
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 9987084
+shortName: Incyte Corporation
+shortPercentOfFloat: 0.0887
+shortRatio: 5.54
+sourceInterval: 15
+state: DE
+symbol: INCY
+targetHighPrice: 157.0
+targetLowPrice: 100.0
+targetMeanPrice: 131.5
+targetMedianPrice: 130.0
+totalCash: 3854572032
+totalCashPerShare: 18.91
+totalDebt: 37412000
+totalRevenue: 6010754048
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 1.96
+trailingPE: 61.946426
+trailingPegRatio: 10.8221
+triggerable: true
+twoHundredDayAverage: 108.6199
+twoHundredDayAverageChange: 12.795097
+twoHundredDayAverageChangePercent: 0.11779699
+typeDisp: Equity
+volume: 187650
+website: https://www.incyte.com
+zip: '19803'

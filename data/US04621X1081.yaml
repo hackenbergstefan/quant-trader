@@ -1,0 +1,269 @@
+52WeekChange: 0.42246556
+SandP52WeekChange: 0.097798586
+address1: 260 Interstate North Circle SE
+allTimeHigh: 322.93
+allTimeLow: 12.52
+ask: 320.77
+askSize: 120
+auditRisk: 1
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 474810
+averageDailyVolume3Month: 375753
+averageVolume: 375753
+averageVolume10days: 474810
+beta: 0.508
+bid: 320.44
+bidSize: 40
+boardRisk: 1
+bookValue: 121.876
+city: Atlanta
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Keith Warner Demmings
+  title: President, CEO & Director
+  totalPay: 5396271
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Keith Roland Meier
+  title: Executive VP & CFO
+  totalPay: 2535542
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael P. Campbell
+  title: Executive VP & COO
+  totalPay: 1623828
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert A. Lonergan
+  title: Executive VP, Chief Strategy & Transformation Officer
+  totalPay: 1620521
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Biju  Nair
+  title: Executive VP & President of Global Connected Living
+  totalPay: 1637868
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vadim  Lipovetsky
+  title: Chief Investment Officer
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dimitry  DiRienzo
+  title: Senior VP, Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph A. Surber III
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sean  Moshier
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jay E. Rosenblum
+  title: Executive VP & Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 321.46
+currentRatio: 0.378
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 322.57
+dayLow: 319.145
+debtToEquity: 36.861
+displayName: Assurant
+dividendDate: 1790553600
+dividendRate: 3.52
+dividendYield: 1.09
+earningsCallTimestampEnd: 1793797200
+earningsCallTimestampStart: 1793797200
+earningsGrowth: 0.062
+earningsQuarterlyGrowth: 0.036
+earningsTimestamp: 1793739600
+earningsTimestampEnd: 1793739600
+earningsTimestampStart: 1793739600
+ebitda: 1760800000
+ebitdaMargins: 0.12802
+enterpriseToEbitda: 9.051
+enterpriseToRevenue: 1.159
+enterpriseValue: 15937476608
+epsCurrentYear: 24.3114
+epsForward: 24.47274
+epsTrailingTwelveMonths: 21.2
+esgPopulated: false
+exDividendDate: 1788134400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 281.8878
+fiftyDayAverageChange: 39.572205
+fiftyDayAverageChangePercent: 0.14038283
+fiftyTwoWeekChangePercent: 42.246555
+fiftyTwoWeekHigh: 322.93
+fiftyTwoWeekHighChange: -1.4700012
+fiftyTwoWeekHighChangePercent: -0.004552074
+fiftyTwoWeekLow: 209.86
+fiftyTwoWeekLowChange: 111.59999
+fiftyTwoWeekLowChangePercent: 0.53178304
+fiftyTwoWeekRange: 209.86 - 322.93
+financialCurrency: USD
+firstTradeDateMilliseconds: 1075991400000
+fiveYearAvgDividendYield: 1.6
+floatShares: 48700322
+forwardEps: 24.47274
+forwardPE: 13.135431
+freeCashflow: 2532162560
+fullExchangeName: NYSE
+fullTimeEmployees: 14800
+fulldayChange: -0.7000122
+fulldayChangePercent: -0.21728712
+fulldayPrice: 321.46
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.13217
+grossProfits: 1817900032
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00704
+heldPercentInstitutions: 1.00968
+impliedSharesOutstanding: 49066851
+industry: Insurance - Property & Casualty
+industryDisp: Insurance - Property & Casualty
+industryKey: insurance-property-casualty
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788134400
+lastDividendValue: 0.88
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Assurant, Inc. provides protection services to connected devices,
+  homes, and automobiles in North America, Latin America, Europe, and the Asia Pacific.
+  It operates through Global Lifestyle and Global Housing segments. The Global Lifestyle
+  segment offers mobile device solutions, and extended service contracts and related
+  services for consumer electronics and appliances, and credit and other insurance
+  products; and vehicle protection, commercial equipment protection, and other related
+  services. The Global Housing segment provides lender-placed homeowners, manufactured
+  housing, and flood insurance; renters insurance and other products; and voluntary
+  manufactured housing, and condominium and homeowners insurance products. The company
+  was formerly known as Fortis, Inc. and changed its name to Assurant, Inc. in February
+  2004. Assurant, Inc. was founded in 1892 and is headquartered in Atlanta, Georgia.
+longName: Assurant, Inc.
+market: us_market
+marketCap: 15773029376
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_4026111
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1064400000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 15807376718
+numberOfAnalystOpinions: 6
+open: 321.12
+operatingCashflow: 2051600000
+operatingMargins: 0.108109996
+overallRisk: 1
+payoutRatio: 0.16600001
+pegRatio: 2.16
+phone: 770 763 1000
+previousClose: 322.16
+priceEpsCurrentYear: 13.222604
+priceHint: 2
+priceToBook: 2.6375988
+priceToSalesTrailing12Months: 1.1467791
+profitMargins: 0.07802
+quickRatio: 0.148
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.42857
+region: US
+regularMarketChange: -0.7000122
+regularMarketChangePercent: -0.21728712
+regularMarketDayHigh: 322.57
+regularMarketDayLow: 319.145
+regularMarketDayRange: 319.145 - 322.57
+regularMarketOpen: 321.12
+regularMarketPreviousClose: 322.16
+regularMarketPrice: 321.46
+regularMarketTime: 1794413675
+regularMarketVolume: 50206
+returnOnAssets: 0.02572
+returnOnEquity: 0.18265
+revenueGrowth: 0.092
+revenuePerShare: 277.141
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 5
+sharesOutstanding: 49066851
+sharesPercentSharesOut: 0.0337
+sharesShort: 1653511
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 1323130
+shortName: Assurant, Inc.
+shortPercentOfFloat: 0.0448
+shortRatio: 4.83
+sourceInterval: 15
+state: GA
+symbol: AIZ
+targetHighPrice: 377.0
+targetLowPrice: 330.0
+targetMeanPrice: 350.16666
+targetMedianPrice: 350.0
+totalCash: 2078599936
+totalCashPerShare: 42.363
+totalDebt: 2208699904
+totalRevenue: 13754200064
+tradeable: false
+trailingAnnualDividendRate: 3.52
+trailingAnnualDividendYield: 0.010926248
+trailingEps: 21.2
+trailingPE: 15.163207
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 257.06055
+twoHundredDayAverageChange: 64.399445
+twoHundredDayAverageChangePercent: 0.25052246
+typeDisp: Equity
+volume: 50206
+website: https://www.assurant.com
+zip: 30339-2210

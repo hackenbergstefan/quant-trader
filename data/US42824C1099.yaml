@@ -1,0 +1,284 @@
+52WeekChange: 1.0413117
+SandP52WeekChange: 0.097798586
+address1: 1701 East Mossy Oaks Road
+allTimeHigh: 73.56
+allTimeLow: 6.756532
+ask: 51.35
+askSize: 200
+auditRisk: 2
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 16009400
+averageDailyVolume3Month: 20717901
+averageVolume: 20717901
+averageVolume10days: 16009400
+beta: 1.466
+bid: 51.32
+bidSize: 300
+boardRisk: 1
+bookValue: 19.964
+city: Spring
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Antonio Fabio Neri
+  title: CEO, President & Director
+  totalPay: 3840071
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marie E. Myers
+  title: Executive VP & CFO
+  totalPay: 2572554
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John F. Schultz J.D.
+  title: Executive VP and Chief Operating & Legal Officer
+  totalPay: 2011366
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Fidelma M. Russo
+  title: Executive VP, President, GM of Hybrid Cloud & CTO
+  totalPay: 1659522
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rami  Rahim
+  title: Executive VP, President & GM of Networking
+  totalPay: 2663607
+  unexercisedValue: 4954572
+  yearBorn: 1971
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeremy K. Cox
+  title: Senior VP, Corporate Controller, Chief Tax Officer & Principal Accounting
+    Officer
+  totalPay: 1143956
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rom  Kosla
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dave  Rubin
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer  Temple
+  title: Executive VP and Chief Marketing & Communications Officer
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philip J. Mottram
+  title: Executive VP & Chief Sales Officer
+  totalPay: 1953847
+  unexercisedValue: 0
+  yearBorn: 1969
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 51.06
+currentRatio: 1.113
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 51.355
+dayLow: 49.805
+debtToEquity: 76.464
+displayName: Hewlett Packard Enterprise
+dividendDate: 1792108800
+dividendRate: 0.57
+dividendYield: 1.19
+earningsCallTimestampEnd: 1795471200
+earningsCallTimestampStart: 1795471200
+earningsGrowth: 4.102
+earningsQuarterlyGrowth: 4.049
+earningsTimestamp: 1795467600
+earningsTimestampEnd: 1795467600
+earningsTimestampStart: 1795467600
+ebitda: 6889999872
+ebitdaMargins: 0.16455
+enterpriseToEbitda: 11.291
+enterpriseToRevenue: 1.858
+enterpriseValue: 77792387072
+epsCurrentYear: 3.83074
+epsForward: 4.73535
+epsTrailingTwelveMonths: 1.94
+esgPopulated: false
+exDividendDate: 1789603200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 59.0192
+fiftyDayAverageChange: -7.959198
+fiftyDayAverageChangePercent: -0.13485777
+fiftyTwoWeekChangePercent: 104.13117
+fiftyTwoWeekHigh: 73.56
+fiftyTwoWeekHighChange: -22.499996
+fiftyTwoWeekHighChangePercent: -0.3058727
+fiftyTwoWeekLow: 19.84
+fiftyTwoWeekLowChange: 31.220001
+fiftyTwoWeekLowChangePercent: 1.5735887
+fiftyTwoWeekRange: 19.84 - 73.56
+financialCurrency: USD
+firstTradeDateMilliseconds: 1445261400000
+fiveYearAvgDividendYield: 2.4
+floatShares: 1321716857
+forwardEps: 4.73535
+forwardPE: 10.78273
+freeCashflow: 4738625024
+fullExchangeName: NYSE
+fullTimeEmployees: 67000
+fulldayChange: 3.130001
+fulldayChangePercent: 6.5303593
+fulldayPrice: 51.06
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.36622003
+grossProfits: 15333999616
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00243
+heldPercentInstitutions: 0.91933
+impliedSharesOutstanding: 1327464779
+industry: Communication Equipment
+industryDisp: Communication Equipment
+industryKey: communication-equipment
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789603200
+lastDividendValue: 0.143
+lastFiscalYearEnd: 1761868800
+lastSplitDate: 1504224000
+lastSplitFactor: 1289:1000
+longBusinessSummary: 'Hewlett Packard Enterprise Company, together with its subsidiaries,
+  develops intelligent solutions in the United States, the Americas, Europe, the Middle
+  East, Africa, the Asia Pacific, Japan, and internationally. It operates in five
+  segments: Server, Hybrid Cloud, Networking, Financial Services, and Corporate Investments
+  and Other. The company offers general-purpose servers, workload-optimized servers,
+  and integrated systems, including HPE ProLiant Rack and Tower servers; HPE Synergy;
+  HPE Scale Up servers; HPE Edgeline servers; HPE Cray EX; HPE Cray XD; and HPE NonStop.
+  It also provides cloud-native and hybrid solutions, such as HPE Alletra Storage;
+  HPE InfoSight; HPE CloudPhysics; and HPE GreenLake. In addition, the company develops
+  and sells networking and security products and services comprising hardware products,
+  which include Wi-Fi and private cellular access points, MX and PTX routers, and
+  gateways, as well as QFX, EX, and CX switches; software products, such as Mist and
+  Aruba Central; and services comprising professional, maintenance, support services,
+  management software, and education and training programs. Further, it offers investment
+  solutions, including leasing, financing, IT consumption, utility programs, and asset
+  management services, as well as supports financial solutions for on-premise flexible
+  consumption models. The company serves commercial and large enterprise groups, as
+  well as business and public sector enterprises. It sells its products through resellers,
+  distribution partners, master area partners, original equipment manufacturers, independent
+  software vendors, systems integrators, and advisory firms. The company was founded
+  in 1939 and is headquartered in Spring, Texas.'
+longName: Hewlett Packard Enterprise Company
+market: us_market
+marketCap: 67780358144
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_273983758
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 2675000064
+nextFiscalYearEnd: 1793404800
+nonDilutedMarketCap: 63625386857
+numberOfAnalystOpinions: 21
+open: 50.9
+operatingCashflow: 6694000128
+operatingMargins: 0.081199996
+overallRisk: 6
+payoutRatio: 0.2874
+pegRatio: 0.38
+phone: 678 259 9860
+previousClose: 47.93
+priceEpsCurrentYear: 13.329018
+priceHint: 2
+priceToBook: 2.5576036
+priceToSalesTrailing12Months: 1.61879
+profitMargins: 0.06666
+quickRatio: 0.534
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.95833
+region: US
+regularMarketChange: 3.130001
+regularMarketChangePercent: 6.5303593
+regularMarketDayHigh: 51.355
+regularMarketDayLow: 49.805
+regularMarketDayRange: 49.805 - 51.355
+regularMarketOpen: 50.9
+regularMarketPreviousClose: 47.93
+regularMarketPrice: 51.06
+regularMarketTime: 1794413740
+regularMarketVolume: 5442431
+returnOnAssets: 0.02641
+returnOnEquity: 0.10936
+revenueGrowth: 0.337
+revenuePerShare: 31.376
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 6
+sharesOutstanding: 1327464779
+sharesPercentSharesOut: 0.035
+sharesShort: 46411069
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 50240337
+shortName: Hewlett Packard Enterprise Comp
+shortPercentOfFloat: 0.0398
+shortRatio: 2.44
+sourceInterval: 15
+state: TX
+symbol: HPE
+targetHighPrice: 92.0
+targetLowPrice: 62.0
+targetMeanPrice: 72.2019
+targetMedianPrice: 70.0
+totalCash: 6216000000
+totalCashPerShare: 4.683
+totalDebt: 20320999424
+totalRevenue: 41870999552
+tradeable: false
+trailingAnnualDividendRate: 0.558
+trailingAnnualDividendYield: 0.011641978
+trailingEps: 1.94
+trailingPE: 26.319588
+trailingPegRatio: 0.3829
+triggerable: true
+twoHundredDayAverage: 41.7292
+twoHundredDayAverageChange: 9.330803
+twoHundredDayAverageChangePercent: 0.2236037
+typeDisp: Equity
+volume: 5442431
+website: https://www.hpe.com
+zip: '77389'

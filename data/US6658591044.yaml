@@ -1,0 +1,285 @@
+52WeekChange: 0.34358
+SandP52WeekChange: 0.097798586
+address1: 50 South La Salle Street
+allTimeHigh: 195.78
+allTimeLow: 0.770833
+ask: 188.47
+askSize: 1
+auditRisk: 5
+averageAnalystRating: 2.9 - Hold
+averageDailyVolume10Day: 1161080
+averageDailyVolume3Month: 1110212
+averageVolume: 1110212
+averageVolume10days: 1161080
+beta: 1.214
+bid: 169.01
+bidSize: 1
+boardRisk: 9
+bookValue: 68.894
+city: Chicago
+companyOfficers:
+- age: 59
+  exercisedValue: 1020658
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Gerard O'Grady
+  title: Chairman, President & CEO
+  totalPay: 3773376
+  unexercisedValue: 4674564
+  yearBorn: 1966
+- age: 60
+  exercisedValue: 635120
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter B. Cherecwich
+  title: Executive VP & COO
+  totalPay: 2148286
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas A. South
+  title: Executive VP & Chief Information Officer
+  totalPay: 1742699
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 53
+  exercisedValue: 126407
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason Jerrome Tyler
+  title: Executive VP & President of Wealth Management
+  totalPay: 1974276
+  unexercisedValue: 548242
+  yearBorn: 1972
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David W. Fox Jr.
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1959
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jim  Ward
+  title: Senior Investment Officer & Senior VP of Western Michigan Office
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ian  Headon
+  title: Head of Depositary Regulatory & Technical Services
+  unexercisedValue: 0
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Alexandria  Taylor
+  title: Executive VP & Chief Administrative Officer
+  totalPay: 1613670
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steve  Carroll
+  title: SVP & Head of Investor Relations
+  unexercisedValue: 0
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Susan Cohen Levy J.D.
+  title: Executive VP & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1958
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: NTRS announced a cash dividend of $0.88 with an ex-date of Dec. 4, 2026
+  meta:
+    amount: '0.88'
+    dateEpochMs: 1796360400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 179.105
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 183.3
+dayLow: 177.84
+displayName: Northern Trust
+dividendDate: 1798761600
+dividendRate: 3.52
+dividendYield: 1.98
+earningsCallTimestampEnd: 1800540000
+earningsCallTimestampStart: 1800540000
+earningsGrowth: 0.485
+earningsQuarterlyGrowth: 0.405
+earningsTimestamp: 1800538200
+earningsTimestampEnd: 1800538200
+earningsTimestampStart: 1800538200
+ebitdaMargins: 0.0
+enterpriseToRevenue: 4.398
+enterpriseValue: 41044246528
+epsCurrentYear: 11.87364
+epsForward: 13.05141
+epsTrailingTwelveMonths: 12.75
+esgPopulated: false
+exDividendDate: 1796342400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 173.8672
+fiftyDayAverageChange: 5.237793
+fiftyDayAverageChangePercent: 0.03012525
+fiftyTwoWeekChangePercent: 34.358
+fiftyTwoWeekHigh: 195.78
+fiftyTwoWeekHighChange: -16.675003
+fiftyTwoWeekHighChangePercent: -0.08517215
+fiftyTwoWeekLow: 121.53
+fiftyTwoWeekLowChange: 57.574997
+fiftyTwoWeekLowChangePercent: 0.4737513
+fiftyTwoWeekRange: 121.53 - 195.78
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 2.75
+floatShares: 177955489
+forwardEps: 13.05141
+forwardPE: 13.723039
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 23800
+fulldayChange: 1.2149963
+fulldayChangePercent: 0.6830043
+fulldayPrice: 179.105
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 9332200448
+hasPrePostMarketData: true
+heldPercentInsiders: 0.008669999
+heldPercentInstitutions: 0.86801004
+impliedSharesOutstanding: 181117806
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+irWebsite: http://www.northerntrust.com/about-us/investor-relations
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788480000
+lastDividendValue: 0.88
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 944784000
+lastSplitFactor: '2:1'
+longBusinessSummary: Northern Trust Corporation, a financial holding company, provides
+  wealth management, asset servicing, asset management, and banking solutions for
+  corporations, institutions, families, and individuals. It operates in two segments,
+  Asset Servicing and Wealth Management. The Asset Servicing segment offers asset
+  servicing and related services, including custody, fund administration, investment
+  operations outsourcing, investment management, investment risk and analytics services,
+  employee benefit services, securities lending, foreign exchange, treasury management,
+  brokerage, transition management, banking, and cash management services. It serves
+  corporate and public retirement funds, foundations, endowments, fund managers, insurance
+  companies, sovereign wealth funds, and other institutional investors. The Wealth
+  Management segment offers trust, investment management, custody, and philanthropic
+  services; financial consulting; guardianship and estate administration; family business
+  consulting; family financial education; brokerage; and private and business banking
+  services. This segment also provides global custody, fiduciary services, family
+  office consulting, and technology solutions to high-net-worth individuals and families,
+  business owners, executives, professionals, retirees, and established privately
+  held businesses. In addition, it offers asset management and related services comprising
+  active and passive equity; active and passive fixed income; cash management; multi-asset
+  and alternative asset classes that include private equity and hedge funds of funds;
+  and multi-manager advisory services and products through separately managed accounts,
+  bank common and collective funds, registered investment companies, exchange-traded
+  funds, non-U.S. collective investment funds, and unregistered private investment
+  funds. Further, the company provides overlay and other risk management services.
+  The company was founded in 1889 and is headquartered in Chicago, Illinois.
+longName: Northern Trust Corporation
+market: us_market
+marketCap: 32439103488
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_291896
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2365900032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 32219046509
+numberOfAnalystOpinions: 14
+open: 178.93
+operatingCashflow: 1828300032
+operatingMargins: 0.34974
+overallRisk: 5
+payoutRatio: 0.2573
+pegRatio: 0.98
+phone: 312 630 6000
+previousClose: 177.89
+priceEpsCurrentYear: 15.084253
+priceHint: 2
+priceToBook: 2.5997186
+priceToSalesTrailing12Months: 3.4760401
+profitMargins: 0.26002002
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.9375
+region: US
+regularMarketChange: 1.2149963
+regularMarketChangePercent: 0.6830043
+regularMarketDayHigh: 183.3
+regularMarketDayLow: 177.84
+regularMarketDayRange: 177.84 - 183.3
+regularMarketOpen: 178.93
+regularMarketPreviousClose: 177.89
+regularMarketPrice: 179.105
+regularMarketTime: 1794413698
+regularMarketVolume: 91351
+returnOnAssets: 0.01438
+returnOnEquity: 0.1844
+revenueGrowth: 0.121
+revenuePerShare: 50.514
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 3
+sharesOutstanding: 181117806
+sharesPercentSharesOut: 0.026800001
+sharesShort: 4860687
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3769582
+shortName: Northern Trust Corporation
+shortPercentOfFloat: 0.031
+shortRatio: 3.8
+sourceInterval: 15
+state: IL
+symbol: NTRS
+targetHighPrice: 194.0
+targetLowPrice: 158.0
+targetMeanPrice: 180.75
+targetMedianPrice: 180.0
+totalCash: 8647400448
+totalCashPerShare: 47.745
+totalDebt: 16587700224
+totalRevenue: 9332200448
+tradeable: false
+trailingAnnualDividendRate: 3.28
+trailingAnnualDividendYield: 0.018438362
+trailingEps: 12.75
+trailingPE: 14.047451
+trailingPegRatio: 0.9803
+triggerable: true
+twoHundredDayAverage: 166.40935
+twoHundredDayAverageChange: 12.695648
+twoHundredDayAverageChangePercent: 0.07629168
+typeDisp: Equity
+volume: 91351
+website: https://www.northerntrust.com
+zip: '60603'

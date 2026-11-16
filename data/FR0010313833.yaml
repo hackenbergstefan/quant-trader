@@ -1,0 +1,271 @@
+52WeekChange: 0.09772301
+SandP52WeekChange: 0.097798586
+address1: 51 Esplanade du Général de Gaulle
+allTimeHigh: 134.95
+allTimeLow: 9.372478
+ask: 0.0
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 192533
+averageDailyVolume3Month: 185375
+averageVolume: 185375
+averageVolume10days: 192533
+beta: 1.001
+bid: 0.0
+bidSize: 0
+boardRisk: 5
+bookValue: 81.32
+city: Puteaux
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thierry  Le Henaff
+  title: Chairman & CEO
+  totalPay: 2971512
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marie-José  Donsion
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Laurent  Tellier
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Armand  Ajdari
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Beatrice  Zilm
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thierry  Parmentier
+  title: Executive Vice President of Human Resources & Corporate Communication
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sophie  Fouillat
+  title: Executive Vice-President of Strategy
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Luc  Benoit-Cattin
+  title: Executive Vice President of Industry & CSR
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christophe  Villain
+  title: Executive Vice-President of Advanced Materials
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Richard D. Jenkins
+  title: Senior Vice President of Coating Solutions
+  unexercisedValue: 0
+  yearBorn: 1964
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 58.75
+currentRatio: 1.594
+customPriceAlertConfidence: LOW
+dayHigh: 58.8
+dayLow: 58.15
+debtToEquity: 59.217
+dividendRate: 3.6
+dividendYield: 6.22
+earningsCallTimestampEnd: 1793872800
+earningsCallTimestampStart: 1793872800
+earningsGrowth: 0.689
+earningsQuarterlyGrowth: 0.681
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 1154300032
+ebitdaMargins: 0.12714
+enterpriseToEbitda: 6.334
+enterpriseToRevenue: 0.805
+enterpriseValue: 7311500800
+epsCurrentYear: 4.47925
+epsForward: 4.9482
+epsTrailingTwelveMonths: 0.25
+esgPopulated: false
+exDividendDate: 1779667200
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 33 1 49 00 83 96
+fiftyDayAverage: 56.404
+fiftyDayAverageChange: 2.3460007
+fiftyDayAverageChangePercent: 0.041592807
+fiftyTwoWeekChangePercent: 9.772301
+fiftyTwoWeekHigh: 67.05
+fiftyTwoWeekHighChange: -8.300003
+fiftyTwoWeekHighChangePercent: -0.12378826
+fiftyTwoWeekLow: 48.3
+fiftyTwoWeekLowChange: 10.450001
+fiftyTwoWeekLowChangePercent: 0.21635613
+fiftyTwoWeekRange: 48.3 - 67.05
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1147935600000
+fiveYearAvgDividendYield: 3.9
+floatShares: 56772395
+forwardEps: 4.9482
+forwardPE: 11.873004
+freeCashflow: 415887488
+fullExchangeName: Paris
+fullTimeEmployees: 20700
+fulldayChange: 0.9000015
+fulldayChangePercent: 1.5557503
+fulldayPrice: 58.75
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.17597
+grossProfits: 1597600000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.101780005
+heldPercentInstitutions: 0.59567
+impliedSharesOutstanding: 76506071
+industry: Specialty Chemicals
+industryDisp: Specialty Chemicals
+industryKey: specialty-chemicals
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779667200
+lastDividendValue: 3.6
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Arkema S.A., together with its subsidiaries, manufactures and
+  sells specialty materials in Europe, the United States, Canada, Mexico, China, Hong
+  Kong, Taiwan, and internationally. It operates in three segments: Adhesive Solutions,
+  Advanced Materials and Coating Solutions, and Intermediates. The company provides
+  solutions for construction, renovation of buildings, and DIY; high performance adhesives
+  for durable goods, and adhesive solutions for packaging and non-woven; and supplies
+  technologies used in building activities for businesses and individuals, including
+  sealants, tiles, flooring adhesives and waterproofing systems, and technologies
+  used in automotive, textiles, glazing, flexible and rigid packaging, and hygiene
+  markets. It also offers high performance polymers, such as specialty polyamides,
+  PVDF, polyimides, fluorospecialties, and PEKK; and performance additives comprising
+  interface agents combining specialty surfactants, molecular sieves, organic peroxides,
+  thiochemicals, and hydrogen peroxide. In addition, the company provides lightweighting,
+  new energies, access to water, bio-based products, and recycling solutions for automotive
+  and transportation sectors, oil and gas, renewable energies, consumer goods, electronics,
+  construction, coatings, animal nutrition and water treatment. Further, it offers
+  coating solutions, including EU/US acrylics and coating resins; coating additives,
+  such as sartomer photocure resins, and coatex rheology additives and specialties;
+  decorative paints, industrial coatings, and adhesives; and solutions for applications
+  in the paper, superabsorbent, water treatment and oil and gas extraction, and 3D
+  printing and electronics markets. Additionally, the company provides fluorogases
+  and asia acrylics; and industrial intermediate chemicals for construction, refrigeration
+  and air conditioning, automotive, coatings, and water treatment sectors. Arkema
+  S.A. was incorporated in 2003 and is headquartered in Puteaux, France.'
+longName: Arkema S.A.
+market: fr_market
+marketCap: 4494731776
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_11969433
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 59000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 4383797868
+numberOfAnalystOpinions: 14
+open: 58.15
+operatingCashflow: 873200000
+operatingMargins: 0.045619998
+overallRisk: 4
+payoutRatio: 14.4
+pegRatio: 0.42
+phone: 33 1 49 00 80 80
+previousClose: 57.85
+priceEpsCurrentYear: 13.116035
+priceHint: 2
+priceToBook: 0.7224545
+priceToSalesTrailing12Months: 0.4950854
+profitMargins: 0.00914
+quickRatio: 1.102
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.57143
+region: US
+regularMarketChange: 0.9000015
+regularMarketChangePercent: 1.5557503
+regularMarketDayHigh: 58.8
+regularMarketDayLow: 58.15
+regularMarketDayRange: 58.15 - 58.8
+regularMarketOpen: 58.15
+regularMarketPreviousClose: 57.85
+regularMarketPrice: 58.75
+regularMarketTime: 1794411540
+regularMarketVolume: 68159
+returnOnAssets: 0.01819
+returnOnEquity: 0.01169
+revenueGrowth: 0.081
+revenuePerShare: 120.09
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 10
+sharesOutstanding: 76506071
+shortName: ARKEMA
+sourceInterval: 15
+symbol: AKE.PA
+targetHighPrice: 80.0
+targetLowPrice: 50.0
+targetMeanPrice: 62.53571
+targetMedianPrice: 61.5
+totalCash: 1532300032
+totalCashPerShare: 20.3
+totalDebt: 4245700096
+totalRevenue: 9078700032
+tradeable: false
+trailingAnnualDividendRate: 3.6
+trailingAnnualDividendYield: 0.062229905
+trailingEps: 0.25
+trailingPE: 235.0
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 58.30025
+twoHundredDayAverageChange: 0.449749
+twoHundredDayAverageChangePercent: 0.0077143577
+typeDisp: Equity
+volume: 68159
+website: https://www.arkema.com
+zip: '92907'

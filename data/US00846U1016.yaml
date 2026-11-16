@@ -1,0 +1,284 @@
+52WeekChange: 0.17397046
+SandP52WeekChange: 0.097798586
+address1: 5301 Stevens Creek Boulevard
+allTimeHigh: 182.99
+allTimeLow: 7.51073
+ask: 179.34
+askSize: 100
+auditRisk: 8
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 2073050
+averageDailyVolume3Month: 2299345
+averageVolume: 2299345
+averageVolume10days: 2073050
+beta: 1.237
+bid: 179.13
+bidSize: 200
+boardRisk: 4
+bookValue: 26.113
+city: Santa Clara
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Padraig  McDonnell
+  title: CEO, President & Director
+  totalPay: 2639627
+  unexercisedValue: 591674
+  yearBorn: 1972
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rodney  Gonsalves
+  title: Vice President of Finance
+  totalPay: 832080
+  unexercisedValue: 199816
+  yearBorn: 1966
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Angelica A. Riemann
+  title: Senior VP & President of Agilent CrossLab Group
+  totalPay: 1124756
+  unexercisedValue: 134134
+  yearBorn: 1971
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Simon  May
+  title: Senior VP and President of Life Sciences & Diagnostics Markets Group
+  totalPay: 1625186
+  unexercisedValue: 10495
+  yearBorn: 1973
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bret M. DiMarco
+  title: Special Advisor
+  totalPay: 1176848
+  unexercisedValue: 23626
+  yearBorn: 1968
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam S. Elinoff
+  title: Senior VP, CFO & Principal Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tim  Downs
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. August  Specht Ph.D.
+  title: Senior VP & Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tejas Rajeev Savant
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Buckner
+  title: Senior VP, Chief Legal Officer & Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 179.005
+currentRatio: 2.05
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 181.265
+dayLow: 178.27
+debtToEquity: 56.336
+displayName: Agilent
+dividendDate: 1793145600
+dividendRate: 1.02
+dividendYield: 0.57
+earningsCallTimestampEnd: 1795469400
+earningsCallTimestampStart: 1795469400
+earningsGrowth: 0.085
+earningsQuarterlyGrowth: 0.077
+earningsTimestamp: 1795467600
+earningsTimestampEnd: 1795467600
+earningsTimestampStart: 1795467600
+ebitda: 2080000000
+ebitdaMargins: 0.28215
+enterpriseToEbitda: 25.259
+enterpriseToRevenue: 7.127
+enterpriseValue: 52539502592
+epsCurrentYear: 6.20148
+epsForward: 6.71946
+epsTrailingTwelveMonths: 5.07
+esgPopulated: false
+exDividendDate: 1791244800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 166.9238
+fiftyDayAverageChange: 12.081207
+fiftyDayAverageChangePercent: 0.07237558
+fiftyTwoWeekChangePercent: 17.397045
+fiftyTwoWeekHigh: 182.99
+fiftyTwoWeekHighChange: -3.9850006
+fiftyTwoWeekHighChangePercent: -0.02177715
+fiftyTwoWeekLow: 108.35
+fiftyTwoWeekLowChange: 70.65501
+fiftyTwoWeekLowChangePercent: 0.6520997
+fiftyTwoWeekRange: 108.35 - 182.99
+financialCurrency: USD
+firstTradeDateMilliseconds: 942935400000
+fiveYearAvgDividendYield: 0.68
+floatShares: 281226851
+forwardEps: 6.71946
+forwardPE: 26.63979
+freeCashflow: 1060374976
+fullExchangeName: NYSE
+fullTimeEmployees: 18200
+fulldayChange: 1.125
+fulldayChangePercent: 0.63244885
+fulldayPrice: 179.005
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.53648996
+grossProfits: 3955000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00193
+heldPercentInstitutions: 0.96130997
+impliedSharesOutstanding: 281928854
+industry: Diagnostics & Research
+industryDisp: Diagnostics & Research
+industryKey: diagnostics-research
+irWebsite: http://www.investor.agilent.com/phoenix.zhtml?c=103274&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791244800
+lastDividendValue: 0.255
+lastFiscalYearEnd: 1761868800
+lastSplitDate: 1414972800
+lastSplitFactor: 1398:1000
+longBusinessSummary: 'Agilent Technologies, Inc. provides application focused solutions
+  to the life sciences, diagnostics, and applied chemical markets worldwide. The company
+  operates through three segments: Life Sciences and Diagnostics Markets, Agilent
+  CrossLab, and Applied Markets. The Life Sciences and Diagnostics Markets segment
+  offers liquid chromatography systems and components; and liquid chromatography mass
+  spectrometry systems. This segment is also involved in the genomics, contract development
+  and manufacturing organization, pathology, companion diagnostics, and biomolecular
+  analysis businesses. The Agilent CrossLab segment provides various services, including
+  repairs, parts, maintenance, installations, training, compliance support, software
+  as a service, asset management, consulting, and other custom services. This segment
+  also offers consumables, including gas chromatography and liquid chromatography
+  columns, sample preparation products, custom chemistries, and various laboratory
+  supplies; software and informatics solutions comprising software for instrument
+  control, data acquisition, data analysis, secure storage of results, and laboratory
+  information and workflow management; and OpenLab laboratory software, an open software
+  platform that enables customers to capture, analyze, and share scientific data throughout
+  the lab and across the enterprise. In addition, it provides automated sample preparation
+  solutions, such as liquid handling, plate management, consumables, and scheduling
+  software. The Applied Markets segment offers products in the areas of gas chromatography,
+  mass spectrometry, spectroscopy, vacuum technology, and remarketed instruments.
+  It markets its products through direct sales, distributors, resellers, manufacturer''s
+  representatives, and electronic commerce. Agilent Technologies, Inc. was incorporated
+  in 1999 and is headquartered in Santa Clara, California.'
+longName: Agilent Technologies, Inc.
+market: us_market
+marketCap: 50466676736
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_154924
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 1440000000
+nextFiscalYearEnd: 1793404800
+nonDilutedMarketCap: 50149504549
+numberOfAnalystOpinions: 20
+open: 178.99
+operatingCashflow: 1608999936
+operatingMargins: 0.24539
+overallRisk: 6
+payoutRatio: 0.1998
+pegRatio: 1.53
+phone: 800 227 9770
+previousClose: 177.88
+priceEpsCurrentYear: 28.864885
+priceHint: 2
+priceToBook: 6.855015
+priceToSalesTrailing12Months: 6.8457236
+profitMargins: 0.19533001
+quickRatio: 1.414
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.77273
+region: US
+regularMarketChange: 1.125
+regularMarketChangePercent: 0.63244885
+regularMarketDayHigh: 181.265
+regularMarketDayLow: 178.27
+regularMarketDayRange: 178.27 - 181.265
+regularMarketOpen: 178.99
+regularMarketPreviousClose: 177.88
+regularMarketPrice: 179.005
+regularMarketTime: 1794413727
+regularMarketVolume: 397962
+returnOnAssets: 0.086330004
+returnOnEquity: 0.20971
+revenueGrowth: 0.081
+revenuePerShare: 26.096
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 6
+sharesOutstanding: 281928854
+sharesPercentSharesOut: 0.0174
+sharesShort: 4892390
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5240309
+shortName: Agilent Technologies, Inc.
+shortPercentOfFloat: 0.0197
+shortRatio: 2.27
+sourceInterval: 15
+state: CA
+symbol: A
+targetHighPrice: 200.0
+targetLowPrice: 155.0
+targetMeanPrice: 182.05
+targetMedianPrice: 185.0
+totalCash: 1758000000
+totalCashPerShare: 6.236
+totalDebt: 4148000000
+totalRevenue: 7372000256
+tradeable: false
+trailingAnnualDividendRate: 1.013
+trailingAnnualDividendYield: 0.0056948503
+trailingEps: 5.07
+trailingPE: 35.306705
+trailingPegRatio: 1.5059
+triggerable: true
+twoHundredDayAverage: 137.35815
+twoHundredDayAverageChange: 41.64685
+twoHundredDayAverageChangePercent: 0.30319896
+typeDisp: Equity
+volume: 397962
+website: https://www.agilent.com
+zip: '95051'

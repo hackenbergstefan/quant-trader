@@ -1,0 +1,247 @@
+52WeekChange: 0.20617735
+SandP52WeekChange: 0.097798586
+address1: Edificio Inditex
+address2: Avenida de la DiputaciOn s/n Arteixo
+allTimeHigh: 60.74
+allTimeLow: 3.03
+ask: 59.76
+auditRisk: 1
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 1884890
+averageDailyVolume3Month: 1802638
+averageVolume: 1802638
+averageVolume10days: 1884890
+beta: 0.929
+bid: 59.72
+boardRisk: 6
+bookValue: 5.732
+city: Corunna
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oscar Garcia Maceiras
+  title: CEO & Executive Director
+  totalPay: 10218000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 89
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Amancio  Ortega Gaona
+  title: Founder & Non-Executive Proprietary Director
+  totalPay: 100000
+  unexercisedValue: 0
+  yearBorn: 1936
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrés  Sánchez Iglesias
+  title: Chief Financial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gorka García-Tapia Yturriaga
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Javier  Monteoliva Díaz
+  title: General Counsel & Secretary of the Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Raul Estradera Vazquez
+  title: Chief Communication Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Begoña  López-Cano Ibarreche
+  title: Chief People Officer
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Abel López Cernadas
+  title: Head of Import, Export & Transport
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ignacio  Izuzquiza Fernández
+  title: Chief Corporate Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lorena  Alba Castro
+  title: Chief Logistics Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Spain
+cryptoTradeable: false
+currency: EUR
+currentPrice: 59.76
+currentRatio: 1.155
+customPriceAlertConfidence: LOW
+dayHigh: 60.4
+dayLow: 59.46
+debtToEquity: 34.713
+dividendRate: 0.65
+dividendYield: 1.08
+earningsCallTimestampEnd: 1788937200
+earningsCallTimestampStart: 1788937200
+earningsGrowth: 0.08
+earningsQuarterlyGrowth: 0.08
+earningsTimestamp: 1796229000
+earningsTimestampEnd: 1796229000
+earningsTimestampStart: 1796229000
+ebitda: 9771635712
+ebitdaMargins: 0.23682
+enterpriseToEbitda: 18.742
+enterpriseToRevenue: 4.438
+enterpriseValue: 183135649792
+epsCurrentYear: 2.1646
+epsForward: 2.36426
+epsTrailingTwelveMonths: 2.06
+esgPopulated: false
+exDividendDate: 1793232000
+exchange: MCE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Madrid
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 55.19
+fiftyDayAverageChange: 4.5699997
+fiftyDayAverageChangePercent: 0.08280485
+fiftyTwoWeekChangePercent: 20.617735
+fiftyTwoWeekHigh: 60.74
+fiftyTwoWeekHighChange: -0.98000336
+fiftyTwoWeekHighChangePercent: -0.016134398
+fiftyTwoWeekLow: 46.11
+fiftyTwoWeekLowChange: 13.649998
+fiftyTwoWeekLowChangePercent: 0.29603118
+fiftyTwoWeekRange: 46.11 - 60.74
+financialCurrency: EUR
+firstTradeDateMilliseconds: 990687600000
+fiveYearAvgDividendYield: 1.91
+floatShares: 1109753181
+forwardEps: 2.36426
+forwardPE: 25.276407
+freeCashflow: 6487897600
+fullExchangeName: MCE
+fullTimeEmployees: 156836
+fulldayChange: -0.38000107
+fulldayChangePercent: -0.6318608
+fulldayPrice: 59.76
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.56539
+grossProfits: 23328999424
+hasPrePostMarketData: false
+heldPercentInsiders: 0.64349
+heldPercentInstitutions: 0.17286
+impliedSharesOutstanding: 3115009210
+industry: Apparel Retail
+industryDisp: Apparel Retail
+industryKey: apparel-retail
+irWebsite: http://www.inditex.com/en/shareholders_and_investors/investor_relations/share
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793232000
+lastDividendValue: 0.875
+lastFiscalYearEnd: 1769817600
+lastSplitDate: 1406505600
+lastSplitFactor: '5:1'
+longBusinessSummary: Industria de Diseño Textil, S.A., together with its subsidiaries,
+  engages in the retail and online distribution of clothing, footwear, accessories,
+  and household products in Spain, rest of Europe, the Americas, Asia, and internationally.
+  The company sells its products under the Zara, Pull&Bear, Massimo Dutti, Bershka,
+  Stradivarius, Oysho, Lefties, and Zara Home. It is also involved in the textile
+  manufacturing, logistics, design, insurance, construction, buyer activities, and
+  real estate businesses, as well as provides financial services. Industria de Diseño
+  Textil, S.A. was founded in 1963 and is headquartered in Corunna, Spain.
+longName: Industria de Diseño Textil, S.A.
+market: es_market
+marketCap: 186152943616
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_4392354
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 6408999936
+nextFiscalYearEnd: 1801353600
+nonDilutedMarketCap: 187336653889
+numberOfAnalystOpinions: 24
+open: 60.36
+operatingCashflow: 10439000064
+operatingMargins: 0.20124
+overallRisk: 3
+payoutRatio: 0.5669
+pegRatio: 3.89
+phone: 34 981 18 54 00
+previousClose: 60.14
+priceEpsCurrentYear: 27.607872
+priceHint: 2
+priceToBook: 10.42568
+priceToSalesTrailing12Months: 4.5114865
+profitMargins: 0.15531999
+quickRatio: 0.863
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.70833
+region: US
+regularMarketChange: -0.38000107
+regularMarketChangePercent: -0.6318608
+regularMarketDayHigh: 60.4
+regularMarketDayLow: 59.46
+regularMarketDayRange: 59.46 - 60.4
+regularMarketOpen: 60.36
+regularMarketPreviousClose: 60.14
+regularMarketPrice: 59.76
+regularMarketTime: 1794411561
+regularMarketVolume: 326635
+returnOnAssets: 0.14689
+returnOnEquity: 0.36824
+revenueGrowth: 0.091
+revenuePerShare: 13.241
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 3
+sharesOutstanding: 3115009210
+shortName: INDUSTRIA DE DISE...O TEXTIL S.
+sourceInterval: 15
+symbol: ITX.MC
+targetHighPrice: 67.0
+targetLowPrice: 41.5
+targetMeanPrice: 60.38958
+targetMedianPrice: 61.0
+totalCash: 10398999552
+totalCashPerShare: 3.338
+totalDebt: 6198000128
+totalRevenue: 41261998080
+tradeable: false
+trailingAnnualDividendRate: 1.2
+trailingAnnualDividendYield: 0.019953443
+trailingEps: 2.06
+trailingPE: 29.009708
+trailingPegRatio: 3.9227
+triggerable: false
+twoHundredDayAverage: 54.5779
+twoHundredDayAverageChange: 5.1820984
+twoHundredDayAverageChangePercent: 0.09494866
+typeDisp: Equity
+volume: 326635
+website: https://www.inditex.com
+zip: '15143'

@@ -1,0 +1,252 @@
+52WeekChange: 0.5529158
+SandP52WeekChange: 0.097798586
+address1: Gustav Mahlerlaan 10
+allTimeHigh: 44.22
+allTimeLow: 5.68
+ask: 0.0
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 2157029
+averageDailyVolume3Month: 1859972
+averageVolume: 1859972
+averageVolume10days: 2157029
+beta: 0.759
+bid: 0.0
+bidSize: 0
+boardRisk: 2
+bookValue: 33.544
+city: Amsterdam
+companyOfficers:
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marguerite M.A.S Berard-Andrieu
+  title: CEO & Chairman of Executive Board
+  totalPay: 2144414
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dan S. Dorner
+  title: Chief Commercial Officer of Corporate Banking & Vice Chairman of Executive
+    Board
+  totalPay: 917000
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ferdinand G. Vaandrager
+  title: CFO & Member of Executive Board
+  totalPay: 952000
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Choy L. van der Hooft-Cheong
+  title: Chief Commercial Officer of Wealth Management & Member of Executive Board
+  totalPay: 943000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Annerie M. Vreugdenhil
+  title: Chief Commercial Officer of Personal & Business Banking and Member of Executive
+    Board
+  totalPay: 931000
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carsten  Bittner
+  title: Chief Innovation & Technology Officer and Member of Executive Board
+  totalPay: 955000
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Serena  Fioravanti
+  title: Chief Risk Officer & Member of Executive Board
+  totalPay: 1014000
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Heijning
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hanneke  Dorsman
+  title: General Counsel & Company Secretary
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 42.6
+customPriceAlertConfidence: LOW
+dayHigh: 44.4
+dayLow: 41.94
+dividendRate: 1.38
+dividendYield: 3.2
+earningsCallTimestampEnd: 1794384000
+earningsCallTimestampStart: 1794384000
+earningsGrowth: 0.323
+earningsQuarterlyGrowth: 0.289
+earningsTimestamp: 1794414600
+earningsTimestampEnd: 1794414600
+earningsTimestampStart: 1794414600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 6.41
+enterpriseValue: 57866326016
+epsCurrentYear: 3.21506
+epsForward: 3.82455
+epsTrailingTwelveMonths: 2.78
+esgPopulated: false
+exDividendDate: 1787097600
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 41.7836
+fiftyDayAverageChange: 0.8163986
+fiftyDayAverageChangePercent: 0.019538734
+fiftyTwoWeekChangePercent: 55.29158
+fiftyTwoWeekHigh: 44.4
+fiftyTwoWeekHighChange: -1.800003
+fiftyTwoWeekHighChangePercent: -0.04054061
+fiftyTwoWeekLow: 25.26
+fiftyTwoWeekLowChange: 17.339998
+fiftyTwoWeekLowChangePercent: 0.68646073
+fiftyTwoWeekRange: 25.26 - 44.4
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1448006400000
+fiveYearAvgDividendYield: 6.35
+floatShares: 604462266
+forwardEps: 3.82455
+forwardPE: 11.138565
+fullExchangeName: Amsterdam
+fullTimeEmployees: 22905
+fulldayChange: -0.5400009
+fulldayChangePercent: -1.2517407
+fulldayPrice: 42.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 9027999744
+hasPrePostMarketData: false
+heldPercentInsiders: 0.03531
+heldPercentInstitutions: 0.52606
+impliedSharesOutstanding: 814935713
+industry: Banks - Diversified
+industryDisp: Banks - Diversified
+industryKey: banks-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787097600
+lastDividendValue: 0.68
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'ABN AMRO Bank N.V. provides various banking products and financial
+  services to retail, private, and corporate banking clients in the Netherlands, rest
+  of Europe, the United States, Asia, and internationally. It operates through three
+  segments: Personal & Business Banking, Wealth Management, and Corporate Banking.
+  The company offers fixed deposits; home improvement; mortgage products; investment
+  products; and car, home travel, and legal expenses insurances. It also provides
+  pension savings; asset-based solutions, including working capital solutions, equipment
+  leases, equipment loans and vendor lease services, clearing services, equity brokerage
+  services, payment and credit cards services; and internet and online banking. The
+  company was incorporated in 2009 and is headquartered in Amsterdam, the Netherlands.
+  ABN AMRO Bank N.V. operates as a subsidiary of Stichting Administratiekantoor Continuïteit
+  Abn Amro Bank.'
+longName: ABN AMRO Bank N.V.
+market: nl_market
+marketCap: 34716262400
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_109019149
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 2284999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 35156326658
+numberOfAnalystOpinions: 19
+open: 44.17
+operatingCashflow: -35649998848
+operatingMargins: 0.38436002
+overallRisk: 4
+payoutRatio: 0.47959998
+pegRatio: 1.26
+phone: 31 10 241 1720
+previousClose: 43.14
+priceEpsCurrentYear: 13.250141
+priceHint: 2
+priceToBook: 1.2699738
+priceToSalesTrailing12Months: 3.8453991
+profitMargins: 0.27692
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.75
+region: US
+regularMarketChange: -0.5400009
+regularMarketChangePercent: -1.2517407
+regularMarketDayHigh: 44.4
+regularMarketDayLow: 41.94
+regularMarketDayRange: 41.94 - 44.4
+regularMarketOpen: 44.17
+regularMarketPreviousClose: 43.14
+regularMarketPrice: 42.6
+regularMarketTime: 1794411561
+regularMarketVolume: 1566975
+returnOnAssets: 0.00574
+returnOnEquity: 0.0912
+revenueGrowth: 0.118
+revenuePerShare: 10.986
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 9
+sharesOutstanding: 814935713
+shortName: ABN AMRO BANK N.V.
+sourceInterval: 15
+symbol: ABN.AS
+targetHighPrice: 54.0
+targetLowPrice: 29.0
+targetMeanPrice: 45.97368
+targetMedianPrice: 47.4
+totalCash: 86258999296
+totalCashPerShare: 105.848
+totalDebt: 108966002688
+totalRevenue: 9027999744
+tradeable: false
+trailingAnnualDividendRate: 1.38
+trailingAnnualDividendYield: 0.031988874
+trailingEps: 2.78
+trailingPE: 15.323741
+trailingPegRatio: 1.2614
+triggerable: false
+twoHundredDayAverage: 35.42365
+twoHundredDayAverageChange: 7.1763496
+twoHundredDayAverageChangePercent: 0.2025864
+typeDisp: Equity
+volume: 1566975
+website: https://www.abnamro.com
+zip: 1082 PP

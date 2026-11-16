@@ -1,0 +1,232 @@
+52WeekChange: 0.38346016
+SandP52WeekChange: 0.097798586
+address1: One Amgen Center Drive
+allTimeHigh: 483.99
+allTimeLow: 0.075521
+ask: 465.21
+askSize: 1
+auditRisk: 7
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 3050760
+averageDailyVolume3Month: 2800803
+averageVolume: 2800803
+averageVolume10days: 3050760
+beta: 0.417
+bid: 463.07
+bidSize: 1
+boardRisk: 8
+bookValue: 26.534
+city: Thousand Oaks
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert A. Bradway
+  title: Chairman & CEO
+  totalPay: 6693535
+  unexercisedValue: 108918352
+  yearBorn: 1963
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Murdo  Gordon
+  title: Executive Vice President of Global Markets and Policy
+  totalPay: 3223764
+  unexercisedValue: 15054745
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: AMGN announced a cash dividend of $2.52 with an ex-date of Nov. 20, 2026
+  meta:
+    amount: '2.52'
+    dateEpochMs: 1795150800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 462.63
+currentRatio: 1.479
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 463.78
+dayLow: 459.1379
+debtToEquity: 376.303
+displayName: Amgen
+dividendDate: 1796947200
+dividendRate: 10.08
+dividendYield: 2.17
+earningsCallTimestampEnd: 1793741400
+earningsCallTimestampStart: 1793741400
+earningsGrowth: 0.194
+earningsQuarterlyGrowth: 0.201
+earningsTimestamp: 1793739600
+earningsTimestampEnd: 1801602000
+earningsTimestampStart: 1801602000
+ebitda: 17632000000
+ebitdaMargins: 0.45323002
+enterpriseToEbitda: 16.587
+enterpriseToRevenue: 7.518
+enterpriseValue: 292465246208
+epsCurrentYear: 23.50543
+epsForward: 25.02249
+epsTrailingTwelveMonths: 17.25
+esgPopulated: false
+exDividendDate: 1795132800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 805 447 1010
+fiftyDayAverage: 423.79
+fiftyDayAverageChange: 38.839996
+fiftyDayAverageChangePercent: 0.09164915
+fiftyTwoWeekChangePercent: 38.346016
+fiftyTwoWeekHigh: 483.99
+fiftyTwoWeekHighChange: -21.359985
+fiftyTwoWeekHighChangePercent: -0.044133116
+fiftyTwoWeekLow: 312.39
+fiftyTwoWeekLowChange: 150.23999
+fiftyTwoWeekLowChangePercent: 0.48093724
+fiftyTwoWeekRange: 312.39 - 483.99
+financialCurrency: USD
+firstTradeDateMilliseconds: 424704600000
+fiveYearAvgDividendYield: 2.98
+floatShares: 539434802
+forwardEps: 25.02249
+forwardPE: 18.488567
+freeCashflow: 7376750080
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 31500
+fulldayChange: -2.600006
+fulldayChangePercent: -0.55886465
+fulldayPrice: 462.63
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.72464997
+grossProfits: 28191000576
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00229
+heldPercentInstitutions: 0.85682
+impliedSharesOutstanding: 540911490
+industry: Drug Manufacturers - General
+industryDisp: Drug Manufacturers - General
+industryKey: drug-manufacturers-general
+irWebsite: http://investors.amgen.com/phoenix.zhtml?c=61656&p=irol-IRHome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1787270400
+lastDividendValue: 2.52
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 943228800
+lastSplitFactor: '2:1'
+longBusinessSummary: Amgen Inc. discovers, develops, manufactures, and delivers human
+  therapeutics worldwide. The company's principal products include Enbrel for the
+  treatment of rheumatoid arthritis, plaque psoriasis, and psoriatic arthritis; Otezla
+  for the treatment of adult patients with plaque psoriasis, psoriatic arthritis,
+  and oral ulcers associated with Behçet's disease; Prolia to treat postmenopausal
+  women with osteoporosis; XGEVA for skeletal-related events prevention; Repatha,
+  which reduces the risks of myocardial infarction, stroke, and coronary revascularization;
+  Nplate for the treatment of patients with immune thrombocytopenia; KYPROLIS to treat
+  patients with relapsed or refractory multiple myeloma; Aranesp to treat a lower-than-normal
+  number of red blood cells and anemia; EVENITY for the treatment of osteoporosis
+  in postmenopausal for women; Vectibix to treat patients with wild-type RAS metastatic
+  colorectal cancer; BLINCYTO for the treatment of patients with acute lymphoblastic
+  leukemia; TEPEZZA to treat thyroid eye disease; and KRYSTEXXA for the treatment
+  of chronic refractory gout. It also markets other products, including PROLIA, REPATHA,
+  OTEZLA, ENBREL, EVENITY, XGEVA, TEPEZZA, BLINCYTO, NPLATE, TEZSPIRE, KYPROLIS, ARANESP,
+  KRYSTEXXA AND VECTIBIX, MVASI, PAVBLU, UPLIZNA, IMDELLTRA/IMDYLLTRA, AMJEVITA/AMGEVITA,
+  TAVNEOS, NEULASTA, LUMAKRAS/LUMYKRAS, RAVICTI, PARSABIV, AIMOVIG, WEZLANA/WEZENLA,
+  AND PROCYSBI. The company serves healthcare providers, including physicians or their
+  clinics, dialysis centers, hospitals, and pharmacies. It distributes its products
+  through pharmaceutical wholesale distributors. The company has collaboration agreements
+  with AstraZeneca plc for the development and commercialization of TEZSPIRE; BEONE
+  MEDICINES LTD. to develop and commercialize Aimovig; UCB for the development and
+  commercialization of EVENITY; Kyowa Kirin Co., Ltd. for rocatinlimab development
+  and commercialization; and BeiGene, Ltd. for oncology products expansion and development.
+  The company was incorporated in 1980 and is headquartered in Thousand Oaks, California.
+longName: Amgen Inc.
+market: us_market
+marketCap: 250241892352
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_24816
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 9390999552
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 251648252492
+numberOfAnalystOpinions: 29
+open: 460.98
+operatingCashflow: 12035000320
+operatingMargins: 0.34120998
+overallRisk: 3
+payoutRatio: 0.5762
+pegRatio: 2.8
+phone: 805 447 1000
+previousClose: 465.23
+priceEpsCurrentYear: 19.681835
+priceHint: 2
+priceToBook: 17.435366
+priceToSalesTrailing12Months: 6.4324574
+profitMargins: 0.24139999
+quickRatio: 1.013
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.70588
+region: US
+regularMarketChange: -2.600006
+regularMarketChangePercent: -0.55886465
+regularMarketDayHigh: 463.78
+regularMarketDayLow: 459.1379
+regularMarketDayRange: 459.1379 - 463.78
+regularMarketOpen: 460.98
+regularMarketPreviousClose: 465.23
+regularMarketPrice: 462.63
+regularMarketTime: 1794413728
+regularMarketVolume: 333197
+returnOnAssets: 0.08912
+returnOnEquity: 0.78353
+revenueGrowth: 0.085
+revenuePerShare: 72.109
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 2
+sharesOutstanding: 540911490
+sharesPercentSharesOut: 0.0233
+sharesShort: 12592756
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 14028739
+shortName: Amgen Inc.
+shortPercentOfFloat: 0.0233
+shortRatio: 4.71
+sourceInterval: 15
+state: CA
+symbol: AMGN
+targetHighPrice: 536.0
+targetLowPrice: 230.0
+targetMeanPrice: 429.7369
+targetMedianPrice: 435.0
+totalCash: 13189999616
+totalCashPerShare: 24.385
+totalDebt: 54007001088
+totalRevenue: 38903001088
+tradeable: false
+trailingAnnualDividendRate: 9.94
+trailingAnnualDividendYield: 0.021365775
+trailingEps: 17.25
+trailingPE: 26.81913
+trailingPegRatio: 2.8005
+triggerable: true
+twoHundredDayAverage: 379.18585
+twoHundredDayAverageChange: 83.44415
+twoHundredDayAverageChangePercent: 0.22006136
+typeDisp: Equity
+volume: 333197
+website: https://www.amgen.com
+zip: 91320-1799

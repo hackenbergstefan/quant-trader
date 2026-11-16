@@ -1,0 +1,200 @@
+52WeekChange: -0.17080086
+SandP52WeekChange: 0.097798586
+address1: Steckelhörn 5
+allTimeHigh: 94.51468
+allTimeLow: 1.000533
+ask: 11.47
+askSize: 1933
+auditRisk: 5
+averageAnalystRating: 1.2 - Strong Buy
+averageDailyVolume10Day: 590274
+averageDailyVolume3Month: 478393
+averageVolume: 478393
+averageVolume10days: 590274
+bid: 11.46
+bidSize: 695
+boardRisk: 1
+bookValue: 17.382
+city: Hamburg
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Claudia  Hoyer
+  title: COO, Co-CEO & Member of Management Board
+  totalPay: 916000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Thiel CPA
+  title: CFO, Co-CEO & Member of Management Board
+  totalPay: 908000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Dominique  Mann
+  title: Head of Investor & Public Relations
+  unexercisedValue: 0
+  yearBorn: 1966
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 11.47
+currentRatio: 0.971
+customPriceAlertConfidence: LOW
+dayHigh: 11.75
+dayLow: 11.38
+debtToEquity: 104.714
+dividendRate: 0.4
+dividendYield: 3.34
+earningsCallTimestampEnd: 1794301200
+earningsCallTimestampStart: 1794301200
+earningsGrowth: -0.743
+earningsQuarterlyGrowth: -0.753
+earningsTimestamp: 1794328200
+earningsTimestampEnd: 1794328200
+earningsTimestampStart: 1794328200
+ebitda: 325740000
+ebitdaMargins: 0.31358
+enterpriseToEbitda: 18.421
+enterpriseToRevenue: 5.776
+enterpriseValue: 6000414208
+epsCurrentYear: 1.3125
+epsForward: 1.31481
+epsTrailingTwelveMonths: 0.18
+esgPopulated: false
+exDividendDate: 1779321600
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 40 380 32 388
+fiftyDayAverage: 11.2416
+fiftyDayAverageChange: 0.22840023
+fiftyDayAverageChangePercent: 0.020317413
+fiftyTwoWeekChangePercent: -17.080086
+fiftyTwoWeekHigh: 16.8
+fiftyTwoWeekHighChange: -5.329999
+fiftyTwoWeekHighChangePercent: -0.31726184
+fiftyTwoWeekLow: 10.13
+fiftyTwoWeekLowChange: 1.3400002
+fiftyTwoWeekLowChangePercent: 0.13228036
+fiftyTwoWeekRange: 10.13 - 16.8
+financialCurrency: EUR
+firstTradeDateMilliseconds: 971074800000
+fiveYearAvgDividendYield: 4.33
+floatShares: 183815470
+forwardEps: 1.31481
+forwardPE: 8.723694
+freeCashflow: 124308128
+fullExchangeName: XETRA
+fullTimeEmployees: 1502
+fulldayChange: -0.22999954
+fulldayChangePercent: -1.965808
+fulldayPrice: 11.47
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.4716
+grossProfits: 489883008
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.7691
+impliedSharesOutstanding: 190269776
+industry: Real Estate - Diversified
+industryDisp: Real Estate - Diversified
+industryKey: real-estate-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779321600
+lastDividendValue: 0.4
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: TAG Immobilien AG, a real estate company, engages in the development,
+  management, and sale of residential property portfolio in Germany. It is also involved
+  in the rental business. The company was formerly known as TAG Tegernsee Immobilien-und
+  Beteiligungs-Aktiengesellschaft and changed its name to TAG Immobilien AG in September
+  2008. TAG Immobilien AG was founded in 1882 and is headquartered in Hamburg, Germany.
+longName: TAG Immobilien AG
+market: de_market
+marketCap: 2182394368
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_4492782
+mostRecentQuarter: 1790726400
+netIncomeToCommon: -59814000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 2275626520
+numberOfAnalystOpinions: 10
+open: 11.75
+operatingCashflow: 240028992
+operatingMargins: 0.30411
+overallRisk: 1
+payoutRatio: 2.2222
+pegRatio: 6.69
+phone: 49 40 380 32 0
+previousClose: 11.7
+priceEpsCurrentYear: 8.739048
+priceHint: 2
+priceToBook: 0.6598781
+priceToSalesTrailing12Months: 2.100931
+profitMargins: -0.057579998
+quickRatio: 0.301
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.18182
+region: US
+regularMarketChange: -0.22999954
+regularMarketChangePercent: -1.965808
+regularMarketDayHigh: 11.75
+regularMarketDayLow: 11.38
+regularMarketDayRange: 11.38 - 11.75
+regularMarketOpen: 11.75
+regularMarketPreviousClose: 11.7
+regularMarketPrice: 11.47
+regularMarketTime: 1794411537
+regularMarketVolume: 295247
+returnOnAssets: 0.02219
+returnOnEquity: -0.0166
+revenueGrowth: 0.113
+revenuePerShare: 5.425
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 1
+sharesOutstanding: 190269776
+shortName: TAG Immobilien AG             I
+sourceInterval: 15
+symbol: TEG.DE
+targetHighPrice: 20.7
+targetLowPrice: 13.0
+targetMeanPrice: 15.88
+targetMedianPrice: 15.0
+totalCash: 350401984
+totalCashPerShare: 1.854
+totalDebt: 3797703936
+totalRevenue: 1038774976
+tradeable: false
+trailingAnnualDividendRate: 0.4
+trailingAnnualDividendYield: 0.034188036
+trailingEps: 0.18
+trailingPE: 63.72222
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 13.4192
+twoHundredDayAverageChange: -1.9491997
+twoHundredDayAverageChangePercent: -0.14525454
+typeDisp: Equity
+volume: 295247
+website: https://www.tag-ag.com
+zip: '20457'

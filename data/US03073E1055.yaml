@@ -1,0 +1,292 @@
+52WeekChange: -0.04047656
+SandP52WeekChange: 0.097798586
+address1: 1 West First Avenue
+allTimeHigh: 377.54
+allTimeLow: 2.46875
+ask: 346.41
+askSize: 80
+auditRisk: 2
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1668090
+averageDailyVolume3Month: 1306942
+averageVolume: 1306942
+averageVolume10days: 1668090
+beta: 0.571
+bid: 346.05
+bidSize: 120
+boardRisk: 2
+bookValue: 19.291
+city: Conshohocken
+companyOfficers:
+- age: 58
+  exercisedValue: 5208482
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Robert P. Mauch Ph.D., PharmD
+  title: President, CEO & Director
+  totalPay: 6256009
+  unexercisedValue: 4260242
+  yearBorn: 1967
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elizabeth S. Campbell J.D.
+  title: Executive VP & Chief Legal Officer
+  totalPay: 2276508
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 62
+  exercisedValue: 5403043
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James F. Cleary Jr.
+  title: Advisor
+  totalPay: 2721727
+  unexercisedValue: 10224672
+  yearBorn: 1963
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Silvana  Battaglia
+  title: Advisor
+  totalPay: 1962939
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Eva C. Boratto
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lazarus  Krikorian
+  title: Senior VP, Chief Accounting Officer & Corporate Controller
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pawan Singh Verma
+  title: Executive VP and Chief Data & Information Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bennett S. Murphy
+  title: Senior VP Of Investor Relations & Enterprise Productivity and Treasury
+  unexercisedValue: 0
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Samantha L. Hammock
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. François  Mandeville
+  title: Executive VP and Chief Strategy and M&A Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: COR announced a cash dividend of $0.66 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.66'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 345.98
+currentRatio: 0.937
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 348.65
+dayLow: 345.55
+debtToEquity: 306.042
+displayName: Cencora
+dividendDate: 1795996800
+dividendRate: 2.64
+dividendYield: 0.76
+earningsCallTimestampEnd: 1793799000
+earningsCallTimestampStart: 1793799000
+earningsTimestamp: 1793799000
+earningsTimestampEnd: 1801661400
+earningsTimestampStart: 1801661400
+ebitda: 5717408768
+ebitdaMargins: 0.01695
+enterpriseToEbitda: 12.756
+enterpriseToRevenue: 0.216
+enterpriseValue: 72929091584
+epsCurrentYear: 19.64556
+epsForward: 21.77014
+epsTrailingTwelveMonths: 17.95
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 326.0892
+fiftyDayAverageChange: 19.890808
+fiftyDayAverageChangePercent: 0.06099806
+fiftyTwoWeekChangePercent: -4.047656
+fiftyTwoWeekHigh: 377.54
+fiftyTwoWeekHighChange: -31.559998
+fiftyTwoWeekHighChangePercent: -0.083593786
+fiftyTwoWeekLow: 244.82
+fiftyTwoWeekLowChange: 101.16
+fiftyTwoWeekLowChangePercent: 0.41320154
+fiftyTwoWeekRange: 244.82 - 377.54
+financialCurrency: USD
+firstTradeDateMilliseconds: 797002200000
+fiveYearAvgDividendYield: 0.9
+floatShares: 180247551
+forwardEps: 21.77014
+forwardPE: 15.892411
+freeCashflow: 1790165632
+fullExchangeName: NYSE
+fulldayChange: -2.7299805
+fulldayChangePercent: -0.7828799
+fulldayPrice: 345.98
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.04089
+grossProfits: 13795628032
+hasPrePostMarketData: true
+heldPercentInsiders: 0.04306
+heldPercentInstitutions: 0.98538
+impliedSharesOutstanding: 190827165
+industry: Medical Distribution
+industryDisp: Medical Distribution
+industryKey: medical-distribution
+irWebsite: http://www.amerisourcebergen.com/investor/phoenix.zhtml?c=61181&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.6
+lastFiscalYearEnd: 1790726400
+lastSplitDate: 1245110400
+lastSplitFactor: '2:1'
+longBusinessSummary: Cencora, Inc. sources and distributes pharmaceutical products
+  in the United States and internationally. The company's U.S. Healthcare Solutions
+  segment distributes generic and injectable pharmaceuticals, over-the-counter healthcare
+  products, home healthcare supplies and equipment, and related services to acute
+  care hospitals and health systems, independent and chain retail pharmacies, mail
+  order pharmacies, medical clinics, long-term care and alternate site pharmacies,
+  and other customers; distributes plasma and other blood products, vaccines, and
+  other specialty pharmaceutical products; provides pharmacy management, staffing,
+  and other consulting services; supply management software to retail and institutional
+  healthcare providers; packaging solutions to institutional and retail healthcare
+  providers; clinical trial support, product post-approval, and commercialization
+  support services; data analytics, outcomes research, and other services for biotechnology
+  and pharmaceutical manufacturers; pharmaceuticals, vaccines, parasiticides, diagnostics,
+  micro feed ingredients, and other products to the companion animal and production
+  animal markets; sales force services to manufacturers; and offers other services
+  to physicians who specialize in various disease states, such as oncology, as well
+  as to other healthcare providers, including hospitals and dialysis clinics. Its
+  International Healthcare Solutions segment provides international pharmaceutical
+  wholesale and related service, and global commercialization services; distributes
+  pharmaceuticals, other healthcare products, and related services to pharmacies,
+  doctors, health centers, and hospitals; and offers specialty transportation and
+  logistics services for the biopharmaceutical industry. The company was formerly
+  known as AmerisourceBergen Corporation and changed its name to Cencora, Inc. in
+  August 2023. Cencora, Inc. was founded in 1871 and is headquartered in Conshohocken,
+  Pennsylvania.
+longName: Cencora, Inc.
+market: us_market
+marketCap: 66022387712
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_24809
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 3483898880
+nextFiscalYearEnd: 1822262400
+nonDilutedMarketCap: 66543340707
+numberOfAnalystOpinions: 12
+open: 345.67
+operatingCashflow: 4790167040
+operatingMargins: 0.01385
+overallRisk: 2
+payoutRatio: 0.1745
+pegRatio: 0.76
+phone: 610 727 7000
+prevName: AmerisourceBergen Corporation
+previousClose: 348.71
+priceEpsCurrentYear: 17.611105
+priceHint: 2
+priceToBook: 17.934788
+priceToSalesTrailing12Months: 0.19568144
+profitMargins: 0.01033
+quickRatio: 0.5
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.78571
+region: US
+regularMarketChange: -2.7299805
+regularMarketChangePercent: -0.7828799
+regularMarketDayHigh: 348.65
+regularMarketDayLow: 345.55
+regularMarketDayRange: 345.55 - 348.65
+regularMarketOpen: 345.67
+regularMarketPreviousClose: 348.71
+regularMarketPrice: 345.98
+regularMarketTime: 1794413684
+regularMarketVolume: 167372
+returnOnAssets: 0.03568
+returnOnEquity: 1.2900599
+revenueGrowth: 0.055
+revenuePerShare: 1746.562
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 7
+sharesOutstanding: 190827165
+sharesPercentSharesOut: 0.0165
+sharesShort: 3155491
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3919355
+shortName: Cencora, Inc.
+shortPercentOfFloat: 0.0188
+shortRatio: 2.61
+sourceInterval: 15
+state: PA
+symbol: COR
+targetHighPrice: 413.0
+targetLowPrice: 330.0
+targetMeanPrice: 381.25
+targetMedianPrice: 387.5
+totalCash: 4880334848
+totalCashPerShare: 25.575
+totalDebt: 11266146304
+totalRevenue: 337397284864
+tradeable: false
+trailingAnnualDividendRate: 2.4
+trailingAnnualDividendYield: 0.00688251
+trailingEps: 17.95
+trailingPE: 19.274652
+trailingPegRatio: 0.7608
+triggerable: true
+twoHundredDayAverage: 316.71735
+twoHundredDayAverageChange: 29.262665
+twoHundredDayAverageChangePercent: 0.09239363
+typeDisp: Equity
+volume: 167372
+website: https://www.cencora.com
+zip: 19428-1800

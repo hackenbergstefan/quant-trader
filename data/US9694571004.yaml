@@ -1,0 +1,292 @@
+52WeekChange: 0.11633289
+SandP52WeekChange: 0.097798586
+address1: One Williams Center
+address2: PO BOX 2400
+allTimeHigh: 80.08
+allTimeLow: 0.635856
+ask: 68.8
+askSize: 300
+auditRisk: 4
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 10973060
+averageDailyVolume3Month: 8118881
+averageVolume: 8118881
+averageVolume10days: 10973060
+beta: 0.627
+bid: 68.78
+bidSize: 100
+boardRisk: 2
+bookValue: 12.548
+city: Tulsa
+companyOfficers:
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chad J. Zamarin
+  title: CEO, President & Director
+  totalPay: 2351960
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John D. Porter CPA
+  title: Executive VP & CFO
+  totalPay: 1649221
+  unexercisedValue: 370209
+  yearBorn: 1970
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Larry C. Larsen
+  title: Executive VP & COO
+  totalPay: 1581423
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Judge Terence Lane Wilson J.D.
+  title: Senior VP & General Counsel
+  totalPay: 1429024
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert R. Wingo
+  title: Executive Vice President of Corporate Strategic Development
+  totalPay: 1925077
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mary A. Hausman
+  title: VP, Chief Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Caroline  Sardella
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Debbie L. Pickle
+  title: Senior VP of Communications & Corporate Social Responsibility and Chief Human
+    Resource Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 38
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric J. Ormond
+  title: Senior Vice President of Project Execution
+  unexercisedValue: 0
+  yearBorn: 1987
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Donald R. Cravins Jr.
+  title: Head of Government Affairs & Outreach
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: WMB announced a cash dividend of $0.525 with an ex-date of Dec. 11, 2026
+  meta:
+    amount: '0.525'
+    dateEpochMs: 1796965200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 68.69
+currentRatio: 0.748
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 69.025
+dayLow: 67.46
+debtToEquity: 157.877
+displayName: Williams
+dividendDate: 1798416000
+dividendRate: 2.1
+dividendYield: 3.11
+earningsCallTimestampEnd: 1793716200
+earningsCallTimestampStart: 1793716200
+earningsGrowth: 0.059
+earningsQuarterlyGrowth: 0.082
+earningsTimestamp: 1793653200
+earningsTimestampEnd: 1793653200
+earningsTimestampStart: 1793653200
+ebitda: 7032999936
+ebitdaMargins: 0.55478
+enterpriseToEbitda: 17.391
+enterpriseToRevenue: 9.648
+enterpriseValue: 122312663040
+epsCurrentYear: 2.41944
+epsForward: 2.60232
+epsTrailingTwelveMonths: 2.54
+esgPopulated: false
+exDividendDate: 1796947200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 71.463
+fiftyDayAverageChange: -2.772995
+fiftyDayAverageChangePercent: -0.038803227
+fiftyTwoWeekChangePercent: 11.633289
+fiftyTwoWeekHigh: 80.08
+fiftyTwoWeekHighChange: -11.389999
+fiftyTwoWeekHighChangePercent: -0.14223276
+fiftyTwoWeekLow: 58.09
+fiftyTwoWeekLowChange: 10.600002
+fiftyTwoWeekLowChangePercent: 0.1824755
+fiftyTwoWeekRange: 58.09 - 80.08
+financialCurrency: USD
+firstTradeDateMilliseconds: 378657000000
+fiveYearAvgDividendYield: 4.01
+floatShares: 1242876329
+forwardEps: 2.60232
+forwardPE: 26.39568
+freeCashflow: -2855875072
+fullExchangeName: NYSE
+fullTimeEmployees: 5987
+fulldayChange: 1.2300034
+fulldayChangePercent: 1.8231727
+fulldayPrice: 68.69
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.63051
+grossProfits: 7992999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00439
+heldPercentInstitutions: 0.89691
+impliedSharesOutstanding: 1250202516
+industry: Oil & Gas Midstream
+industryDisp: Oil & Gas Midstream
+industryKey: oil-gas-midstream
+irWebsite: http://www.b2i.us/profiles/investor/fullpage.asp?BzID=630&to=cp&Nav=0&LangID=1&s=385&ID=13144
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789084800
+lastDividendValue: 0.525
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1325548800
+lastSplitFactor: 10000:8152
+longBusinessSummary: The Williams Companies, Inc., together with its subsidiaries,
+  operates as an energy infrastructure company primarily in the United States. It
+  operates through Transmission, Power & Gulf, Northeast G&P, West, and Gas & NGL
+  Marketing Services segments. The Transmission, Power & Gulf segment comprises Transco,
+  NWP, and Mountain West interstate natural gas pipelines, and their related natural
+  gas storage facilities, as well as natural gas gathering and processing; and crude
+  oil production handling and transportation assets in the Gulf Coast region. The
+  Northeast G&P segment engages in the midstream gathering, processing, and fractionation
+  activities in the Marcellus Shale region primarily in Pennsylvania and New York,
+  and the Utica Shale region of eastern Ohio. The West segment consists of gas gathering,
+  processing, and treating operations in the Rocky Mountain region of Colorado and
+  Wyoming, the Barnett Shale region of north-central Texas, the Eagle Ford Shale region
+  of South Texas, the Haynesville Shale region of northwest Louisiana, the Mid-Continent
+  region that includes the Anadarko and Permian basins, and the DJ Basin of Colorado;
+  and operates natural gas liquid (NGL) fractionation and storage assets in central
+  Kansas near Conway. The Gas & NGL Marketing Services segment provides wholesale
+  marketing, trading, storage, and transportation of natural gas for natural gas utilities,
+  municipalities, power generators, and producers; asset management services; and
+  transports and markets NGLs. The company owns and operates approximately 32,000
+  miles of pipelines. The Williams Companies, Inc. was founded in 1908 and is headquartered
+  in Tulsa, Oklahoma.
+longName: The Williams Companies, Inc.
+market: us_market
+marketCap: 85876416512
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_390225
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3123000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 84338661729
+numberOfAnalystOpinions: 24
+open: 68.59
+operatingCashflow: 6060000256
+operatingMargins: 0.36633
+overallRisk: 3
+payoutRatio: 0.8169
+pegRatio: 1.79
+phone: 800-945-5426
+previousClose: 67.46
+priceEpsCurrentYear: 28.390867
+priceHint: 2
+priceToBook: 5.4741793
+priceToSalesTrailing12Months: 6.774191
+profitMargins: 0.24659
+quickRatio: 0.588
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.4
+region: US
+regularMarketChange: 1.2300034
+regularMarketChangePercent: 1.8231727
+regularMarketDayHigh: 69.025
+regularMarketDayLow: 67.46
+regularMarketDayRange: 67.46 - 69.025
+regularMarketOpen: 68.59
+regularMarketPreviousClose: 67.46
+regularMarketPrice: 68.69
+regularMarketTime: 1794413755
+regularMarketVolume: 1711546
+returnOnAssets: 0.04592
+returnOnEquity: 0.18309
+revenueGrowth: 0.123
+revenuePerShare: 10.338
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 6
+sharesOutstanding: 1250202516
+sharesPercentSharesOut: 0.0238
+sharesShort: 29752577
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 27173947
+shortName: Williams Companies, Inc. (The)
+shortPercentOfFloat: 0.026800001
+shortRatio: 3.71
+sourceInterval: 15
+state: OK
+symbol: WMB
+targetHighPrice: 103.0
+targetLowPrice: 69.0
+targetMeanPrice: 85.41667
+targetMedianPrice: 85.0
+totalCash: 1756000000
+totalCashPerShare: 1.405
+totalDebt: 33934000128
+totalRevenue: 12677000192
+tradeable: false
+trailingAnnualDividendRate: 2.075
+trailingAnnualDividendYield: 0.03075897
+trailingEps: 2.54
+trailingPE: 27.043308
+trailingPegRatio: 1.7928
+triggerable: true
+twoHundredDayAverage: 72.5912
+twoHundredDayAverageChange: -3.9011993
+twoHundredDayAverageChangePercent: -0.05374204
+typeDisp: Equity
+volume: 1711546
+website: https://www.williams.com
+zip: '74172'

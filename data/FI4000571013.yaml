@@ -1,0 +1,258 @@
+52WeekChange: 0.08411813
+SandP52WeekChange: 0.097798586
+address1: Itämerenkatu 25
+allTimeHigh: 82.9
+allTimeLow: 6.37
+ask: 51.6
+auditRisk: 6
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 116405
+averageDailyVolume3Month: 95134
+averageVolume: 95134
+averageVolume10days: 116405
+beta: 1.259
+bid: 51.45
+boardRisk: 1
+bookValue: 16.234
+city: Helsinki
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott Allen Phillips
+  title: President & CEO
+  totalPay: 905596
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mikko  Puolakka M.Sc.(Econ.)
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Aki  Vesikallio
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Taina  Tirkkonen L.L.M., M.B.A., M.Sc.
+  title: Executive VP, General Counsel & Secretary to the Board
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Birgitte Jespersen Skade
+  title: Executive Vice President of Marketing & Communications
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ghita  Jansson-Kiuru
+  title: Executive Vice President of People & Culture
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Bruninx
+  title: President of Services
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 34
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hermanni  Lyyski
+  title: President of Delivery Solutions
+  unexercisedValue: 0
+  yearBorn: 1991
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Magdalena  Wojtowicz-Tokarz
+  title: President of Lifting Solutions
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kimberly  Allan
+  title: Executive Vice President of Business Excellence
+  unexercisedValue: 0
+  yearBorn: 1977
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: Finland
+cryptoTradeable: false
+currency: EUR
+currentPrice: 51.55
+currentRatio: 1.778
+customPriceAlertConfidence: HIGH
+dayHigh: 51.7
+dayLow: 50.9
+debtToEquity: 98.083
+dividendRate: 1.17
+dividendYield: 2.31
+earningsCallTimestampEnd: 1792738800
+earningsCallTimestampStart: 1792738800
+earningsGrowth: -0.082
+earningsQuarterlyGrowth: -0.079
+earningsTimestamp: 1792769400
+earningsTimestampEnd: 1792769400
+earningsTimestampStart: 1792769400
+ebitda: 219800000
+ebitdaMargins: 0.13211
+enterpriseToEbitda: 18.089
+enterpriseToRevenue: 2.39
+enterpriseValue: 3975942656
+epsCurrentYear: 2.62573
+epsForward: 3.46921
+epsTrailingTwelveMonths: 1.96
+esgPopulated: false
+exDividendDate: 1774396800
+exchange: HEL
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Helsinki
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fiftyDayAverage: 55.7286
+fiftyDayAverageChange: -4.1786003
+fiftyDayAverageChangePercent: -0.07498126
+fiftyTwoWeekChangePercent: 8.411813
+fiftyTwoWeekHigh: 66.0
+fiftyTwoWeekHighChange: -14.450001
+fiftyTwoWeekHighChangePercent: -0.21893941
+fiftyTwoWeekLow: 39.78
+fiftyTwoWeekLowChange: 11.77
+fiftyTwoWeekLowChangePercent: 0.29587734
+fiftyTwoWeekRange: 39.78 - 66.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1117609200000
+fiveYearAvgDividendYield: 2.75
+floatShares: 44931390
+forwardEps: 3.46921
+forwardPE: 14.859291
+freeCashflow: -119100000
+fullExchangeName: Helsinki
+fullTimeEmployees: 5156
+fulldayChange: 0.8999977
+fulldayChangePercent: 1.7768958
+fulldayPrice: 51.55
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.29036
+grossProfits: 483100000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.32889
+heldPercentInstitutions: 0.35209
+impliedSharesOutstanding: 64487218
+industry: Farm & Heavy Construction Machinery
+industryDisp: Farm & Heavy Construction Machinery
+industryKey: farm-heavy-construction-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1774396800
+lastDividendValue: 1.17
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Hiab Oyj provides smart and on road load-handling solutions and
+  services in Finland. The company provides loader cranes under HIAB, EFFER, and ARGOS
+  brands; truck-mounted forklifts under MOFFETT and PRINCETON brands; forestry cranes
+  under LOGLIFT brand; recycling cranes under JONSERED brand; demountable and hooklifts
+  under MULTILIFT brand; roll-off cable hoists under GALFAB brand; tail lifts under
+  ZEPRO, DEL, and WALTCO brands. It also offers maintenance, equipment warranty, and
+  spare parts. The company serves waste and recycling, defense logistics, retail and
+  final mile, and construction industries. The company was formerly known as Cargotec
+  Corporation and changed its name to Hiab Oyj in March 2025. Hiab Oyj was founded
+  in 1944 and is headquartered in Helsinki, Finland.
+longName: Hiab Oyj
+market: fi_market
+marketCap: 3324315904
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_20462559
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 126300000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 3266277590
+numberOfAnalystOpinions: 5
+open: 50.9
+operatingCashflow: 174200000
+operatingMargins: 0.11137
+overallRisk: 5
+payoutRatio: 0.5969
+pegRatio: 1.67
+phone: 358 2077 74000
+prevName: Cargotec Corporation
+previousClose: 50.65
+priceEpsCurrentYear: 19.632635
+priceHint: 2
+priceToBook: 3.1754344
+priceToSalesTrailing12Months: 1.998026
+profitMargins: 0.07411
+quickRatio: 1.191
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6
+region: US
+regularMarketChange: 0.8999977
+regularMarketChangePercent: 1.7768958
+regularMarketDayHigh: 51.7
+regularMarketDayLow: 50.9
+regularMarketDayRange: 50.9 - 51.7
+regularMarketOpen: 50.9
+regularMarketPreviousClose: 50.65
+regularMarketPrice: 51.55
+regularMarketTime: 1794412437
+regularMarketVolume: 34863
+returnOnAssets: 0.0525
+returnOnEquity: 0.12476
+revenueGrowth: 0.389
+revenuePerShare: 25.741
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 54961129
+shortName: Hiab Oyj
+sourceInterval: 15
+symbol: HIAB.HE
+targetHighPrice: 70.0
+targetLowPrice: 55.0
+targetMeanPrice: 63.4
+targetMedianPrice: 65.0
+totalCash: 323800000
+totalCashPerShare: 5.013
+totalDebt: 1028400000
+totalRevenue: 1663800064
+tradeable: false
+trailingAnnualDividendRate: 1.17
+trailingAnnualDividendYield: 0.023099702
+trailingEps: 1.96
+trailingPE: 26.30102
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 53.00885
+twoHundredDayAverageChange: -1.4588509
+twoHundredDayAverageChangePercent: -0.027520893
+typeDisp: Equity
+volume: 34863
+website: https://www.hiabgroup.com
+zip: 00180

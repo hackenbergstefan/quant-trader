@@ -1,0 +1,285 @@
+52WeekChange: 0.1586653
+SandP52WeekChange: 0.097798586
+address1: 1 Water Street
+allTimeHigh: 189.65
+allTimeLow: 16.22
+ask: 148.12
+askSize: 200
+auditRisk: 5
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 2460010
+averageDailyVolume3Month: 2048515
+averageVolume: 2048515
+averageVolume10days: 2460010
+beta: 0.545
+bid: 148.04
+bidSize: 200
+boardRisk: 1
+bookValue: 59.923
+city: Camden
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John C. Griffith
+  title: CEO, President & Director
+  totalPay: 2995176
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David M. Bowler
+  title: Executive VP & CFO
+  totalPay: 1411137
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cheryl D. Norton
+  title: Executive VP & COO
+  totalPay: 1762917
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stacy A. Mitchell
+  title: Executive VP & General Counsel
+  totalPay: 1263724
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maureen  Duffy
+  title: Executive VP of Communications & External Affairs
+  totalPay: 895247
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melissa K. Wikle
+  title: Senior VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Deborah A. Degillio
+  title: Chief Technology & Information Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Aaron  Musgrave CPA
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lori  Sutton
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nicholas  Santillo Jr., C.P.P.
+  title: Vice President of Digital Infrastructure & Security and Interim Head of Innovation
+    & Technology
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: AWK announced a cash dividend of $0.895 with an ex-date of Nov. 12, 2026
+  meta:
+    amount: '0.895'
+    dateEpochMs: 1794459600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 148.575
+currentRatio: 0.392
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 149.9
+dayLow: 147.96
+debtToEquity: 137.683
+displayName: American Water Works
+dividendDate: 1796083200
+dividendRate: 3.58
+dividendYield: 2.38
+earningsCallTimestampEnd: 1793278800
+earningsCallTimestampStart: 1793278800
+earningsGrowth: 0.0
+earningsQuarterlyGrowth: 0.021
+earningsTimestamp: 1793217600
+earningsTimestampEnd: 1793217600
+earningsTimestampStart: 1793217600
+ebitda: 2966000128
+ebitdaMargins: 0.55512
+enterpriseToEbitda: 15.581
+enterpriseToRevenue: 8.65
+enterpriseValue: 46214377472
+epsCurrentYear: 6.08384
+epsForward: 6.59232
+epsTrailingTwelveMonths: 5.78
+esgPopulated: false
+exDividendDate: 1794441600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 137.1962
+fiftyDayAverageChange: 11.378799
+fiftyDayAverageChangePercent: 0.08293816
+fiftyTwoWeekChangePercent: 15.866529
+fiftyTwoWeekHigh: 153.69
+fiftyTwoWeekHighChange: -5.1150055
+fiftyTwoWeekHighChangePercent: -0.033281315
+fiftyTwoWeekLow: 120.57
+fiftyTwoWeekLowChange: 28.004997
+fiftyTwoWeekLowChangePercent: 0.23227169
+fiftyTwoWeekRange: 120.57 - 153.69
+financialCurrency: USD
+firstTradeDateMilliseconds: 1208957400000
+fiveYearAvgDividendYield: 2.02
+floatShares: 198698487
+forwardEps: 6.59232
+forwardPE: 22.537588
+freeCashflow: -1630749952
+fullExchangeName: NYSE
+fullTimeEmployees: 7000
+fulldayChange: -1.7850037
+fulldayChangePercent: -1.1871532
+fulldayPrice: 148.575
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.61856997
+grossProfits: 3304999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00115
+heldPercentInstitutions: 1.12489
+impliedSharesOutstanding: 199104661
+industry: Utilities - Regulated Water
+industryDisp: Utilities - Regulated Water
+industryKey: utilities-regulated-water
+irWebsite: http://ir.amwater.com/phoenix.zhtml?c=215126&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786406400
+lastDividendValue: 0.895
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: American Water Works Company, Inc., through its subsidiaries,
+  provides water and wastewater services in the United States. It offers water and
+  wastewater services on military installations; and undertakes contracts with municipal
+  customers, primarily to operate and manage water and wastewater facilities, as well
+  as offers other related services. The company also operates approximately 80 surface
+  water treatment plants; 520 groundwater treatment plants; 170 wastewater treatment
+  plants; 55,000 miles of transmission, distribution, and collection mains and pipes;
+  1,200 groundwater wells; 1,800 water and wastewater pumping stations; 1,100 treated
+  water storage facilities; and 75 dams. In addition, it offers water and wastewater
+  services to 14 states serving approximately 3.6 million active customers. The company
+  serves residential customers; commercial customers, including food and beverage
+  providers, commercial property developers and proprietors, and energy suppliers;
+  fire service and private fire customers; industrial customers, such as large-scale
+  manufacturers, mining, and production operations; public authorities comprising
+  government buildings and other public sector facilities, such as schools and universities;
+  and other utilities and community water and wastewater systems. The company was
+  founded in 1886 and is headquartered in Camden, New Jersey.
+longName: American Water Works Company, Inc.
+market: us_market
+marketCap: 29581973504
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_250885
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1136000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 29937376827
+numberOfAnalystOpinions: 11
+open: 148.6
+operatingCashflow: 2297999872
+operatingMargins: 0.37675
+overallRisk: 1
+payoutRatio: 0.59599996
+pegRatio: 2.64
+phone: 856 955 4001
+previousClose: 150.36
+priceEpsCurrentYear: 24.421253
+priceHint: 2
+priceToBook: 2.4794319
+priceToSalesTrailing12Months: 5.536585
+profitMargins: 0.21260999
+quickRatio: 0.289
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.84615
+region: US
+regularMarketChange: -1.7850037
+regularMarketChangePercent: -1.1871532
+regularMarketDayHigh: 149.9
+regularMarketDayLow: 147.96
+regularMarketDayRange: 147.96 - 149.9
+regularMarketOpen: 148.6
+regularMarketPreviousClose: 150.36
+regularMarketPrice: 148.575
+regularMarketTime: 1794413677
+regularMarketVolume: 229742
+returnOnAssets: 0.03496
+returnOnEquity: 0.09948
+revenueGrowth: 0.041
+revenuePerShare: 27.191
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 4
+sharesOutstanding: 199104661
+sharesPercentSharesOut: 0.081499994
+sharesShort: 16225581
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 13783891
+shortName: American Water Works Company, I
+shortPercentOfFloat: 0.1046
+shortRatio: 8.32
+sourceInterval: 15
+state: NJ
+symbol: AWK
+targetHighPrice: 162.0
+targetLowPrice: 125.0
+targetMeanPrice: 141.90909
+targetMedianPrice: 142.0
+totalCash: 150000000
+totalCashPerShare: 0.753
+totalDebt: 16426999808
+totalRevenue: 5343000064
+tradeable: false
+trailingAnnualDividendRate: 3.445
+trailingAnnualDividendYield: 0.022911679
+trailingEps: 5.78
+trailingPE: 25.705015
+trailingPegRatio: 2.6439
+triggerable: true
+twoHundredDayAverage: 133.01215
+twoHundredDayAverageChange: 15.562851
+twoHundredDayAverageChangePercent: 0.11700323
+typeDisp: Equity
+volume: 229742
+website: https://www.amwater.com
+zip: 08102-1658

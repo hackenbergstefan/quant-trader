@@ -1,0 +1,262 @@
+52WeekChange: 0.19000256
+SandP52WeekChange: 0.097798586
+address1: CD Building
+address2: Keilalahdentie 2-4
+allTimeHigh: 33.0
+allTimeLow: 2.613348
+ask: 23.28
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 2.9 - Hold
+averageDailyVolume10Day: 919932
+averageDailyVolume3Month: 1127338
+averageVolume: 1127338
+averageVolume10days: 919932
+beta: 0.05
+bid: 23.27
+bidSize: 0
+boardRisk: 1
+bookValue: 8.802
+city: Espoo
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Markus Heikki-Erdem Rauramo
+  title: President & CEO
+  totalPay: 1752000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tiina Marjukka Tuomela M.Sc. (Eng.), MBA
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ingela  Ulfves M.Sc. (Econ.)
+  title: Vice President of Investor Relations & Financial Communications
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kati  Levoranta L.L.B., M.B.A.
+  title: Executive VP of Legal & General Counsel
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Heli  Kurki
+  title: Head of Publicity & Communications
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Karin Svenske Nyberg M.Sc.
+  title: Executive Vice President of People
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexander Anatolyevich Chuvaev MSc (Eng)
+  title: Head of the Russia Division
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mikael  Rönnblad M.Sc. (Econ.)
+  title: Executive Vice President of Consumer Solutions
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Simon-Erik  Ollus
+  title: Executive VP of Corporate Customers & Markets
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nebahat  Albayrak L.L.M.
+  title: Executive Vice President of Sustainability & Corporate Relations
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Finland
+cryptoTradeable: false
+currency: EUR
+currentPrice: 23.29
+currentRatio: 2.063
+customPriceAlertConfidence: HIGH
+dayHigh: 23.49
+dayLow: 23.15
+debtToEquity: 52.576
+dividendRate: 0.74
+dividendYield: 3.17
+earningsCallTimestampEnd: 1793178000
+earningsCallTimestampStart: 1793178000
+earningsGrowth: -0.404
+earningsQuarterlyGrowth: -0.404
+earningsTimestamp: 1793205000
+earningsTimestampEnd: 1793205000
+earningsTimestampStart: 1793205000
+ebitda: 1284999936
+ebitdaMargins: 0.22650999
+enterpriseToEbitda: 17.718
+enterpriseToRevenue: 4.013
+enterpriseValue: 22767179776
+epsCurrentYear: 1.00475
+epsForward: 1.1334
+epsTrailingTwelveMonths: 0.9
+esgPopulated: false
+exDividendDate: 1775001600
+exchange: HEL
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Helsinki
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fiftyDayAverage: 23.2072
+fiftyDayAverageChange: 0.08280182
+fiftyDayAverageChangePercent: 0.0035679368
+fiftyTwoWeekChangePercent: 19.000256
+fiftyTwoWeekHigh: 25.84
+fiftyTwoWeekHighChange: -2.5499992
+fiftyTwoWeekHighChangePercent: -0.09868418
+fiftyTwoWeekLow: 16.96
+fiftyTwoWeekLowChange: 6.330002
+fiftyTwoWeekLowChangePercent: 0.37323126
+fiftyTwoWeekRange: 16.96 - 25.84
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 5.78
+floatShares: 429789679
+forwardEps: 1.1334
+forwardPE: 20.548792
+freeCashflow: 805875008
+fullExchangeName: Helsinki
+fullTimeEmployees: 4654
+fulldayChange: -0.03999901
+fulldayChangePercent: -0.17144881
+fulldayPrice: 23.29
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.3841
+grossProfits: 2179000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.5295
+heldPercentInstitutions: 0.22652
+impliedSharesOutstanding: 897264465
+industry: Utilities - Renewable
+industryDisp: Utilities - Renewable
+industryKey: utilities-renewable
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1775001600
+lastDividendValue: 0.74
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Fortum Oyj, together with its subsidiaries, engages in the generation
+  and sale of electricity and heat to private and business customers in Finland, Sweden,
+  Norway, Poland, and internationally. It operates through Generation, Consumer Solutions,
+  and Other Operations segments. The Generation segment offers low-carbon hydro, nuclear,
+  onshore wind, and solar power generation; district heating and cooling; and decarbonization
+  services. The Consumer Solutions segment offers invoicing and customer services;
+  electricity and related value-added products; and digital services for consumers,
+  including small- and medium-sized enterprises. It is also involved in the electricity
+  and gas retail business; power trading and energy supply services; industrial site
+  development; and battery recycling activities. The company was formerly known as
+  IVO-Neste Yhtymä Oyj and changed its name to Fortum Oyj in June 1998. The company
+  has strategic partnership with Google for nuclear power purchase agreement. Fortum
+  Oyj was incorporated in 1998 and is headquartered in Espoo, Finland.
+longName: Fortum Oyj
+market: fi_market
+marketCap: 20897290240
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_882894
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 806000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 20933179968
+numberOfAnalystOpinions: 19
+open: 23.43
+operatingCashflow: 866000000
+operatingMargins: 0.17257
+overallRisk: 1
+payoutRatio: 0.8262
+pegRatio: 13.9
+phone: 358 10 4511
+previousClose: 23.33
+priceEpsCurrentYear: 23.179895
+priceHint: 2
+priceToBook: 2.6459897
+priceToSalesTrailing12Months: 3.6836402
+profitMargins: 0.14208001
+quickRatio: 1.521
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.94737
+region: US
+regularMarketChange: -0.03999901
+regularMarketChangePercent: -0.17144881
+regularMarketDayHigh: 23.49
+regularMarketDayLow: 23.15
+regularMarketDayRange: 23.15 - 23.49
+regularMarketOpen: 23.43
+regularMarketPreviousClose: 23.33
+regularMarketPrice: 23.29
+regularMarketTime: 1794412422
+regularMarketVolume: 377645
+returnOnAssets: 0.03858
+returnOnEquity: 0.099709995
+revenueGrowth: 0.199
+revenuePerShare: 6.323
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 6
+sharesOutstanding: 897264465
+shortName: Fortum Corporation
+sourceInterval: 15
+symbol: FORTUM.HE
+targetHighPrice: 28.3
+targetLowPrice: 14.9
+targetMeanPrice: 23.23158
+targetMedianPrice: 24.0
+totalCash: 2441999872
+totalCashPerShare: 2.722
+totalDebt: 4195000064
+totalRevenue: 5672999936
+tradeable: false
+trailingAnnualDividendRate: 0.74
+trailingAnnualDividendYield: 0.031718817
+trailingEps: 0.9
+trailingPE: 25.877779
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 21.125826
+twoHundredDayAverageChange: 2.164175
+twoHundredDayAverageChangePercent: 0.10244215
+typeDisp: Equity
+volume: 377645
+website: https://www.fortum.com
+zip: '02150'

@@ -1,0 +1,268 @@
+52WeekChange: 0.2722323
+SandP52WeekChange: 0.097798586
+address1: Laubisrütistrasse 28
+allTimeHigh: 402.0
+allTimeLow: 8.999997
+ask: 282.4
+askSize: 0
+auditRisk: 9
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 155048
+averageDailyVolume3Month: 135852
+averageVolume: 135852
+averageVolume10days: 155048
+beta: 1.047
+bid: 282.2
+bidSize: 0
+boardRisk: 1
+bookValue: 44.002
+city: Stäfa
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Eric  Bernard
+  title: Chief Executive Officer
+  totalPay: 1859861
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Katya  Kruglova
+  title: Chief Human Resources Officer & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Oliver  Lux
+  title: President of EMEA & LA Region and Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Lilika  Beck
+  title: President of Consumer Hearing & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Alistair  Simpson
+  title: Member of Management Board & Group VP of Cochlear Implants
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Anders  Rosengren
+  title: Chief Research & Development Officer and Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Elodie  Carr-Cingari
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Roberto  di Fiore
+  title: COO & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Peter  Dickson
+  title: Senior Director of Investor Relations
+  unexercisedValue: 0
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Franz  Brand
+  title: Chief Legal & Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1959
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 4
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 282.2
+currentRatio: 1.753
+customPriceAlertConfidence: LOW
+dayHigh: 283.4
+dayLow: 278.0
+debtToEquity: 64.938
+dividendDate: 1718582400
+dividendRate: 4.7
+dividendYield: 1.68
+earningsCallTimestampEnd: 1794484800
+earningsCallTimestampStart: 1794484800
+earningsTimestamp: 1794501000
+earningsTimestampEnd: 1794501000
+earningsTimestampStart: 1794501000
+ebitda: 841500032
+ebitdaMargins: 0.23337
+enterpriseToEbitda: 20.997
+enterpriseToRevenue: 4.9
+enterpriseValue: 17668751360
+epsCurrentYear: 11.15005
+epsForward: 12.40352
+epsTrailingTwelveMonths: 9.01
+esgPopulated: false
+exDividendDate: 1781827200
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 41 58 928 33 99
+fiftyDayAverage: 258.264
+fiftyDayAverageChange: 23.936005
+fiftyDayAverageChangePercent: 0.09268037
+fiftyTwoWeekChangePercent: 27.223228
+fiftyTwoWeekHigh: 293.8
+fiftyTwoWeekHighChange: -11.599976
+fiftyTwoWeekHighChangePercent: -0.03948256
+fiftyTwoWeekLow: 163.0
+fiftyTwoWeekLowChange: 119.20001
+fiftyTwoWeekLowChangePercent: 0.73128843
+fiftyTwoWeekRange: 163.0 - 293.8
+financialCurrency: CHF
+firstTradeDateMilliseconds: 1001314800000
+fiveYearAvgDividendYield: 1.6
+floatShares: 59223418
+forwardEps: 12.40352
+forwardPE: 22.751608
+freeCashflow: 346062496
+fullExchangeName: Swiss
+fullTimeEmployees: 18570
+fulldayChange: 1.8000183
+fulldayChangePercent: 0.6419466
+fulldayPrice: 282.2
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.73721004
+grossProfits: 2658299904
+hasPrePostMarketData: false
+heldPercentInsiders: 0.17503001
+heldPercentInstitutions: 0.49620998
+impliedSharesOutstanding: 59404602
+industry: Medical Devices
+industryDisp: Medical Devices
+industryKey: medical-devices
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1781827200
+lastDividendValue: 4.7
+lastFiscalYearEnd: 1774915200
+lastSplitDate: 1592265600
+lastSplitFactor: 151:150
+longBusinessSummary: Sonova Holding AG manufactures and sells hearing care solutions
+  for children and adults in Switzerland, the United States, rest of the Americas,
+  Europe, the Middle East, Africa, and the Asia Pacific. It operates through Hearing
+  Instruments, Cochlear Implants, and Lifestyle-Aligned segments. The Hearing Instruments
+  segment engages in the design, development, manufacture, distribution, and service
+  of hearing instruments and related products, as well as wireless headsets, speech-enhanced
+  hearables, and audiophile headphones under the Phonak, Unitron, Hansaton, and Sennheiser
+  brand names; and audiological care services under the AudioNova, Audition Santé,
+  Boots Hearingcare, Connect Hearing, Geers, Hansaton, Lapperre, Schoonenberg, and
+  Triton Hearing brands. The Cochlear Implants segment is involved in the design,
+  development, manufacture, distribution, and service of hearing instruments and related
+  products under the Advanced Bionics brand. The Lifestyle-Aligned segment designs
+  connected solutions and integrating AI and digital capabilities. It sells its products
+  directly to end consumers through its own store network; wholesales to independent
+  audiologists, third party retail chains, and multinational and government customers;
+  and provides hearing care services through a network of stores and clinics. The
+  company was formerly known as Phonak Holding AG and changed its name to Sonova Holding
+  AG in August 2007. Sonova Holding AG was founded in 1947 and is headquartered in
+  Stäfa, Switzerland.
+longName: Sonova Holding AG
+market: ch_market
+marketCap: 16763978752
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_882368
+mostRecentQuarter: 1774915200
+netIncomeToCommon: 537100032
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 16657050400
+numberOfAnalystOpinions: 19
+open: 279.0
+operatingCashflow: 707500032
+operatingMargins: 0.19545999
+overallRisk: 3
+payoutRatio: 0.48830003
+pegRatio: 1.64
+phone: 41 58 928 33 33
+previousClose: 280.4
+priceEpsCurrentYear: 25.309305
+priceHint: 2
+priceToBook: 6.4133453
+priceToSalesTrailing12Months: 4.6490417
+profitMargins: 0.11942001
+quickRatio: 1.159
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.73684
+region: US
+regularMarketChange: 1.8000183
+regularMarketChangePercent: 0.6419466
+regularMarketDayHigh: 283.4
+regularMarketDayLow: 278.0
+regularMarketDayRange: 278.0 - 283.4
+regularMarketOpen: 279.0
+regularMarketPreviousClose: 280.4
+regularMarketPrice: 282.2
+regularMarketTime: 1794411494
+regularMarketVolume: 139068
+returnOnAssets: 0.07626
+returnOnEquity: 0.20524
+revenuePerShare: 60.529
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 9
+sharesOutstanding: 59404602
+shortName: SONOVA N
+sourceInterval: 15
+symbol: SOON.SW
+targetHighPrice: 350.0
+targetLowPrice: 170.0
+targetMeanPrice: 259.4737
+targetMedianPrice: 253.0
+totalCash: 722000000
+totalCashPerShare: 12.154
+totalDebt: 1711699968
+totalRevenue: 3605900032
+tradeable: false
+trailingAnnualDividendRate: 4.7
+trailingAnnualDividendYield: 0.016761769
+trailingEps: 9.01
+trailingPE: 31.320755
+trailingPegRatio: 1.6113
+triggerable: false
+twoHundredDayAverage: 215.301
+twoHundredDayAverageChange: 66.89902
+twoHundredDayAverageChangePercent: 0.31072322
+typeDisp: Equity
+volume: 139068
+website: https://www.sonova.com
+zip: '8712'

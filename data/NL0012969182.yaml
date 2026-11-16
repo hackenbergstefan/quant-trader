@@ -1,0 +1,252 @@
+52WeekChange: -0.4015224
+SandP52WeekChange: 0.097798586
+address1: Simon Carmiggeltstraat 6-50
+allTimeHigh: 2835.0
+allTimeLow: 400.0
+ask: 0.0
+askSize: 0
+auditRisk: 7
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 214470
+averageDailyVolume3Month: 142424
+averageVolume: 142424
+averageVolume10days: 214470
+beta: 1.908
+bid: 0.0
+bidSize: 0
+boardRisk: 1
+bookValue: 187.184
+city: Amsterdam
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pieter Willem van der Does
+  title: Co-Founder, Co- CEO & Member of Management Board
+  totalPay: 869608
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ingo Jeroen Uytdehaage CPA
+  title: Co-CEO & Member of Management Board
+  totalPay: 869608
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Roelant  Prins
+  title: Chief Commercial Officer & Member of Management Board
+  totalPay: 756279
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mariette Bianca Swart
+  title: Chief Risk & Compliance Officer  and Member of Management Board
+  totalPay: 651400
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 34
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Brooke A. Nayden
+  title: Chief HR Officer & Member of the Management Board
+  totalPay: 606983
+  unexercisedValue: 0
+  yearBorn: 1991
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tom J. Adams
+  title: CTO & Member of Management Board
+  totalPay: 2247180
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hwa  Tsao
+  title: Interim CFO & Senior VP of Group Finance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul A. Cook
+  title: Managing Director of Global Acquiring
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Thais  Fischberg
+  title: President of Latin America
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Raquel  Beer
+  title: Head of Marketing - Italy
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 876.6
+currentRatio: 1.648
+customPriceAlertConfidence: LOW
+dayHigh: 881.9
+dayLow: 864.3
+debtToEquity: 6.928
+dividendYield: 0.0
+earningsCallTimestampEnd: 1786626000
+earningsCallTimestampStart: 1786626000
+earningsGrowth: 0.129
+earningsQuarterlyGrowth: 0.131
+earningsTimestamp: 1786635000
+earningsTimestampEnd: 1786635000
+earningsTimestampStart: 1786635000
+ebitda: 1290572032
+ebitdaMargins: 0.49937
+enterpriseToEbitda: 12.052
+enterpriseToRevenue: 6.019
+enterpriseValue: 15554410496
+epsCurrentYear: 37.6945
+epsForward: 44.96041
+epsTrailingTwelveMonths: 35.58
+esgPopulated: false
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 906.124
+fiftyDayAverageChange: -29.524048
+fiftyDayAverageChangePercent: -0.03258279
+fiftyTwoWeekChangePercent: -40.15224
+fiftyTwoWeekHigh: 1485.0
+fiftyTwoWeekHighChange: -608.4
+fiftyTwoWeekHighChangePercent: -0.409697
+fiftyTwoWeekLow: 772.4
+fiftyTwoWeekLowChange: 104.19995
+fiftyTwoWeekLowChangePercent: 0.13490413
+fiftyTwoWeekRange: 772.4 - 1485.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1528873200000
+floatShares: 28241759
+forwardEps: 44.96041
+forwardPE: 19.497152
+freeCashflow: -535672736
+fullExchangeName: Amsterdam
+fullTimeEmployees: 5020
+fulldayChange: 3.8999634
+fulldayChangePercent: 0.44688475
+fulldayPrice: 876.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.68535006
+grossProfits: 1771222016
+hasPrePostMarketData: false
+heldPercentInsiders: 0.13139
+heldPercentInstitutions: 0.77779
+impliedSharesOutstanding: 31566677
+industry: Software - Infrastructure
+industryDisp: Software - Infrastructure
+industryKey: software-infrastructure
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Adyen N.V. operates a payments platform in Europe, the Middle
+  East, Africa, North America, the Asia Pacific, and Latin America. Its platform integrates
+  payments stack, including gateway, risk management, processing, acquiring, and settlement
+  services. The company offers a back-end infrastructure for authorizing. It accepts
+  payment through online, in-person payments, cross channel, and Adyen for Platforms.
+  The company also provides optimization services, including Adyen Uplift, protect,
+  authenticate and tokenize. In addition, it offers financial products, such as accounts,
+  capital, issuing, and payouts. It serves digital, mobility, SaaS platforms, retail,
+  food and beverages, subscription, and travel and hospitality businesses. The company
+  was incorporated in 2006 and is based in Amsterdam, the Netherlands.
+longName: Adyen N.V.
+market: nl_market
+marketCap: 27671347200
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_128534719
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1125625984
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 27548239017
+numberOfAnalystOpinions: 35
+open: 877.4
+operatingCashflow: 649539008
+operatingMargins: 0.4654
+overallRisk: 1
+payoutRatio: 0.0
+pegRatio: 0.97
+phone: 31 85 888 8138
+previousClose: 872.7
+priceEpsCurrentYear: 23.25538
+priceHint: 2
+priceToBook: 4.683092
+priceToSalesTrailing12Months: 10.707068
+profitMargins: 0.43555
+quickRatio: 1.565
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.41176
+region: US
+regularMarketChange: 3.8999634
+regularMarketChangePercent: 0.44688475
+regularMarketDayHigh: 881.9
+regularMarketDayLow: 864.3
+regularMarketDayRange: 864.3 - 881.9
+regularMarketOpen: 877.4
+regularMarketPreviousClose: 872.7
+regularMarketPrice: 876.6
+regularMarketTime: 1794411564
+regularMarketVolume: 39315
+returnOnAssets: 0.052449998
+returnOnEquity: 0.21271
+revenueGrowth: 0.189
+revenuePerShare: 81.943
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 4
+sharesOutstanding: 31566677
+shortName: ADYEN
+sourceInterval: 15
+symbol: ADYEN.AS
+targetHighPrice: 1800.0
+targetLowPrice: 863.0
+targetMeanPrice: 1233.0857
+targetMedianPrice: 1200.0
+totalCash: 12403191808
+totalCashPerShare: 392.92
+totalDebt: 409363008
+totalRevenue: 2584399872
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 35.58
+trailingPE: 24.637434
+trailingPegRatio: 0.9567
+triggerable: false
+twoHundredDayAverage: 920.886
+twoHundredDayAverageChange: -44.28601
+twoHundredDayAverageChangePercent: -0.048090655
+typeDisp: Equity
+volume: 39315
+website: https://www.adyen.com
+zip: 1011 DJ

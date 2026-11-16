@@ -1,0 +1,285 @@
+52WeekChange: -0.06338942
+SandP52WeekChange: 0.097798586
+address1: Bank of America Corporate Center
+address2: 100 North Tryon Street
+allTimeHigh: 65.23
+allTimeLow: 0.828125
+ask: 50.67
+askSize: 3900
+auditRisk: 10
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 39840460
+averageDailyVolume3Month: 37596945
+averageVolume: 37596945
+averageVolume10days: 39840460
+beta: 1.192
+bid: 50.66
+bidSize: 5800
+boardRisk: 5
+bookValue: 39.255
+city: Charlotte
+companyOfficers:
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian Thomas Moynihan
+  title: Chairman & CEO
+  totalPay: 2071793
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dean C. Athanasia
+  title: Co-President
+  totalPay: 8560177
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James P. DeMare
+  title: Co-President
+  totalPay: 10072530
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alastair M. Borthwick
+  title: Executive VP & CFO
+  totalPay: 6750273
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew M. Koder
+  title: President of Global Corporate & Investment Banking
+  totalPay: 7349082
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas M. Scrivener
+  title: Chief Operations Executive
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Johnbull E. Okpara
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hari  Gopalkrishnan
+  title: Chief Technology & Information Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. E. Lee McEntire
+  title: Head of Investor Relations & Local Markets Organization
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lauren A. Mogensen J.D.
+  title: Global General Counsel
+  unexercisedValue: 0
+  yearBorn: 1963
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions:
+- header: Dividend
+  message: BAC announced a cash dividend of $0.32 with an ex-date of Dec. 4, 2026
+  meta:
+    amount: '0.32'
+    dateEpochMs: 1796360400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 50.74
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 50.8688
+dayLow: 50.335
+displayName: Bank of America
+dividendDate: 1798070400
+dividendRate: 1.28
+dividendYield: 2.53
+earningsCallTimestampEnd: 1800019800
+earningsCallTimestampStart: 1800019800
+earningsGrowth: -0.125
+earningsQuarterlyGrowth: -0.168
+earningsTimestamp: 1800019800
+earningsTimestampEnd: 1800019800
+earningsTimestampStart: 1800019800
+ebitdaMargins: 0.0
+enterpriseToRevenue: 2.727
+enterpriseValue: 313226592256
+epsCurrentYear: 4.50548
+epsForward: 5.1801
+epsTrailingTwelveMonths: 4.19
+esgPopulated: false
+exDividendDate: 1796342400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 54.7794
+fiftyDayAverageChange: -4.0494003
+fiftyDayAverageChangePercent: -0.073921956
+fiftyTwoWeekChangePercent: -6.338942
+fiftyTwoWeekHigh: 65.23
+fiftyTwoWeekHighChange: -14.500004
+fiftyTwoWeekHighChangePercent: -0.22229041
+fiftyTwoWeekLow: 46.12
+fiftyTwoWeekLowChange: 4.6100006
+fiftyTwoWeekLowChangePercent: 0.099956654
+fiftyTwoWeekRange: 46.12 - 65.23
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 2.31
+floatShares: 6872608170
+forwardEps: 5.1801
+forwardPE: 9.793247
+fullExchangeName: NYSE
+fullTimeEmployees: 210000
+fulldayChange: 0.049999237
+fulldayChangePercent: 0.098656744
+fulldayPrice: 50.73
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 114874998784
+hasPrePostMarketData: true
+heldPercentInsiders: 0.07124
+heldPercentInstitutions: 0.72748
+impliedSharesOutstanding: 6900209006
+industry: Banks - Diversified
+industryDisp: Banks - Diversified
+industryKey: banks-diversified
+irWebsite: http://investor.bankofamerica.com/phoenix.zhtml?c=71595&p=irol-sec
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788480000
+lastDividendValue: 0.32
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1093824000
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Bank of America Corporation, through its subsidiaries, provides
+  various financial products and services for individual consumers, small and middle-market
+  businesses, institutional investors, large corporations, and governments worldwide.
+  It operates through four segments: Consumer Banking, Global Wealth & Investment
+  Management (GWIM), Global Banking, and Global Markets. The Consumer Banking segment
+  offers traditional and money market savings accounts, certificates of deposit and
+  IRAs, checking accounts, and investment accounts and products; credit and debit
+  cards; residential mortgages and home equity loans; and direct and indirect loans.
+  The GWIM segment provides investment management, brokerage, banking, and trust and
+  retirement products and services; wealth management solutions; and customized solutions,
+  including specialty asset management services. The Global Banking segment offers
+  lending products and services, including commercial loans, leases, commitment facilities,
+  trade finance, and commercial real estate and asset-based lending; treasury solutions,
+  and underwriting and advisory services. The Global Markets segment provides market-making,
+  financing, securities clearing, settlement, and custody services; securities and
+  derivative products; and risk management products using interest rate, equity, credit,
+  currency and commodity derivatives, foreign exchange, fixed-income, and mortgage-related
+  products. Bank of America Corporation was founded in 1784 and is based in Charlotte,
+  North Carolina.'
+longName: Bank of America Corporation
+market: us_market
+marketCap: 350047600640
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_19049
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 30762999808
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 349702592424
+numberOfAnalystOpinions: 22
+open: 50.8688
+operatingCashflow: 41369001984
+operatingMargins: 0.35306
+overallRisk: 6
+payoutRatio: 0.2762
+pegRatio: 0.92
+phone: (704) 386-5681
+previousClose: 50.68
+priceEpsCurrentYear: 11.259622
+priceHint: 2
+priceToBook: 1.2923194
+priceToSalesTrailing12Months: 3.047805
+profitMargins: 0.28064
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.48
+region: US
+regularMarketChange: 0.049999237
+regularMarketChangePercent: 0.098656744
+regularMarketDayHigh: 50.8688
+regularMarketDayLow: 50.335
+regularMarketDayRange: 50.335 - 50.8688
+regularMarketOpen: 50.8688
+regularMarketPreviousClose: 50.68
+regularMarketPrice: 50.73
+regularMarketTime: 1794413731
+regularMarketVolume: 6037300
+returnOnAssets: 0.00944
+returnOnEquity: 0.1073
+revenueGrowth: 0.034
+revenuePerShare: 15.943
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 2
+sharesOutstanding: 6900209006
+sharesPercentSharesOut: 0.0
+sharesShort: 793
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 85650135
+shortName: Bank of America Corporation
+shortPercentOfFloat: 0.0
+shortRatio: 0.0
+sourceInterval: 15
+state: NC
+symbol: BAC
+targetHighPrice: 71.0
+targetLowPrice: 56.0
+targetMeanPrice: 62.47727
+targetMedianPrice: 62.0
+totalCash: 820671021056
+totalCashPerShare: 118.934
+totalDebt: 759198973952
+totalRevenue: 114874998784
+tradeable: false
+trailingAnnualDividendRate: 1.16
+trailingAnnualDividendYield: 0.022888713
+trailingEps: 4.19
+trailingPE: 12.107398
+trailingPegRatio: 0.9215
+triggerable: true
+twoHundredDayAverage: 54.88065
+twoHundredDayAverageChange: -4.15065
+twoHundredDayAverageChangePercent: -0.075630486
+typeDisp: Equity
+volume: 6036831
+website: https://www.bankofamerica.com
+zip: '28255'

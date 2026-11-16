@@ -1,0 +1,283 @@
+52WeekChange: 0.051023602
+SandP52WeekChange: 0.097798586
+address1: Building 5
+address2: 2655 Seely Avenue
+allTimeHigh: 416.69
+allTimeLow: 0.861111
+ask: 331.69
+askSize: 2
+auditRisk: 3
+averageAnalystRating: 1.3 - Strong Buy
+averageDailyVolume10Day: 2281650
+averageDailyVolume3Month: 2432890
+averageVolume: 2432890
+averageVolume10days: 2281650
+beta: 1.102
+bid: 335.19
+bidSize: 2
+boardRisk: 2
+bookValue: 25.057
+city: San Jose
+companyOfficers:
+- age: 55
+  exercisedValue: 28832058
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Anirudh  Devgan Ph.D.
+  title: CEO, President & Director
+  totalPay: 2271043
+  unexercisedValue: 83347712
+  yearBorn: 1970
+- age: 54
+  exercisedValue: 4010486
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John M. Wall
+  title: Senior VP & CFO
+  totalPay: 1383058
+  unexercisedValue: 180620
+  yearBorn: 1971
+- age: 59
+  exercisedValue: 10462365
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Chin-Chi  Teng Ph.D.
+  title: Senior VP and GM of the Digital & Signoff Group
+  totalPay: 1114478
+  unexercisedValue: 1899150
+  yearBorn: 1966
+- age: 47
+  exercisedValue: 525950
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Paul  Cunningham Ph.D.
+  title: Senior VP & GM of the System Verification Group
+  totalPay: 1136083
+  unexercisedValue: 6453821
+  yearBorn: 1978
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul  Scannell
+  title: Senior Vice President of Global Customer Success Team
+  totalPay: 1208527
+  unexercisedValue: 153548
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tarak  Ray
+  title: Chief Information Officer & Senior VP
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard  Gu
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc  Taxay J.D.
+  title: Senior VP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Yoon  Kim
+  title: Corporate VP of Global Human Resources
+  unexercisedValue: 0
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nimish H. Modi
+  title: Senior VP & GM of Strategy and New Ventures
+  totalPay: 636878
+  unexercisedValue: 1184369
+  yearBorn: 1963
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 332.345
+currentRatio: 1.36
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 339.65
+dayLow: 329.4
+debtToEquity: 40.908
+displayName: Cadence Design Systems
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793048400
+earningsCallTimestampStart: 1793048400
+earningsGrowth: 0.0
+earningsQuarterlyGrowth: 0.009
+earningsTimestamp: 1793044800
+earningsTimestampEnd: 1793044800
+earningsTimestampStart: 1793044800
+ebitda: 2220476928
+ebitdaMargins: 0.36211
+enterpriseToEbitda: 41.552
+enterpriseToRevenue: 15.046
+enterpriseValue: 92264357888
+epsCurrentYear: 8.42246
+epsForward: 9.84527
+epsTrailingTwelveMonths: 5.03
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 408 428 5001
+fiftyDayAverage: 319.61
+fiftyDayAverageChange: 12.720001
+fiftyDayAverageChangePercent: 0.03979851
+fiftyTwoWeekChangePercent: 5.1023602
+fiftyTwoWeekHigh: 416.69
+fiftyTwoWeekHighChange: -84.360016
+fiftyTwoWeekHighChangePercent: -0.2024527
+fiftyTwoWeekLow: 262.75
+fiftyTwoWeekLowChange: 69.57999
+fiftyTwoWeekLowChangePercent: 0.2648144
+fiftyTwoWeekRange: 262.75 - 416.69
+financialCurrency: USD
+firstTradeDateMilliseconds: 550330200000
+floatShares: 273160757
+forwardEps: 9.84527
+forwardPE: 33.755295
+freeCashflow: 1746447872
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 13800
+fulldayChange: 0.6899719
+fulldayChangePercent: 0.20804845
+fulldayPrice: 332.33
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.85678
+grossProfits: 5253856768
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0032600001
+heldPercentInstitutions: 0.90933
+impliedSharesOutstanding: 274379000
+industry: Software - Application
+industryDisp: Software - Application
+industryKey: software-application
+irWebsite: http://www.cadence.com/cadence/investor_relations/Pages/default.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 879724800
+lastSplitFactor: '2:1'
+longBusinessSummary: Cadence Design Systems, Inc. develops computational, AI-driven
+  software, hardware, and silicon intellectual property products and solutions. The
+  company offers functional verification services, such as Jasper, a formal verification
+  platform; Xcelium, a parallel logic simulation platform; Verisium, a generative
+  AI solution; Palladium, an enterprise emulation platform; and Protium, a prototyping
+  platform for chip verification, as well as digital IC design and sign off products,
+  including Innovus platform; and custom IC design and simulation product include
+  Virtuoso, a platform to design and verify analog. It also provides Xcelium logic
+  simulator and other front-end verification and virtual prototyping technologies;
+  controllers and physical interfaces; PCI Express, universal accelerator and compute
+  express links, and multiple memory interfaces; and Tensilica, a digital signal processor.
+  In addition, the company's design IP portfolio includes serializer/deserializer,
+  peripheral component interconnect, USB, and other standard protocols; and Secure-IC,
+  a solution for embedded security IP. Additionally, it provides System Design and
+  Analysis (SD&A) platform, a solution that enables end-to-end system-level design
+  and verification across chips, packages, PCBs, and electronic systems; Allegro X
+  and Orca X platforms for PCB and advanced packaging; Sigrity X for signal and power
+  integrity; AIR for RF design; Fidelity for computational fluid dynamics; Celsius
+  for thermal and airflow analysis; Clarity 3D solver for electromagnetic and power
+  electronics analysis and simulation; Integrity 3D-IC solution for 3D-IC and multi-chiplet
+  designs; the Optimality Intelligent System Explorer, Reality digital twin, and Millennium
+  enterprise multiphasic platforms; Allegro system design platform; and molecular
+  modeling and simulation solutions and services. The company has a strategic collaboration
+  with NVIDIA. The company was incorporated in 1987 and is headquartered in San Jose,
+  California.
+longName: Cadence Design Systems, Inc.
+market: us_market
+marketCap: 91184373760
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_25941
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1380619008
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 90995051560
+numberOfAnalystOpinions: 24
+open: 339.41
+operatingCashflow: 1967931008
+operatingMargins: 0.29937
+overallRisk: 1
+payoutRatio: 0.0
+pegRatio: 2.45
+phone: 408 943 1234
+previousClose: 331.64
+priceEpsCurrentYear: 39.457592
+priceHint: 2
+priceToBook: 13.26296
+priceToSalesTrailing12Months: 14.870689
+profitMargins: 0.22514999
+quickRatio: 1.093
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.33333
+region: US
+regularMarketChange: 0.6899719
+regularMarketChangePercent: 0.20804845
+regularMarketDayHigh: 339.65
+regularMarketDayLow: 329.4
+regularMarketDayRange: 329.4 - 339.65
+regularMarketOpen: 339.41
+regularMarketPreviousClose: 331.64
+regularMarketPrice: 332.33
+regularMarketTime: 1794413730
+regularMarketVolume: 444294
+returnOnAssets: 0.10515001
+returnOnEquity: 0.22869
+revenueGrowth: 0.22
+revenuePerShare: 22.489
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 274379000
+sharesPercentSharesOut: 0.02
+sharesShort: 5490558
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 5895880
+shortName: Cadence Design Systems, Inc.
+shortPercentOfFloat: 0.0201
+shortRatio: 2.27
+sourceInterval: 15
+state: CA
+symbol: CDNS
+targetHighPrice: 470.0
+targetLowPrice: 300.0
+targetMeanPrice: 411.7604
+targetMedianPrice: 420.0
+totalCash: 1543213056
+totalCashPerShare: 5.624
+totalDebt: 2812517120
+totalRevenue: 6132096000
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 5.03
+trailingPE: 66.06958
+trailingPegRatio: 2.4491
+triggerable: true
+twoHundredDayAverage: 327.86795
+twoHundredDayAverageChange: 4.462036
+twoHundredDayAverageChangePercent: 0.013609247
+typeDisp: Equity
+volume: 444825
+website: https://www.cadence.com
+zip: '95134'

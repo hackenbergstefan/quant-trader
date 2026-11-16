@@ -1,0 +1,267 @@
+52WeekChange: 0.10180056
+SandP52WeekChange: 0.097798586
+address1: Mythenquai 2
+allTimeHigh: 1131.0
+allTimeLow: 84.9822
+ask: 636.0
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 253889
+averageDailyVolume3Month: 255317
+averageVolume: 255317
+averageVolume10days: 253889
+beta: 0.268
+bid: 635.8
+bidSize: 0
+boardRisk: 1
+bookValue: 175.38495
+city: Zurich
+companyOfficers:
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mario  Greco
+  title: Group CEO & Member of Executive Committee
+  totalPay: 6120000
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Claudia  Cordioli C.P.A.
+  title: Group CFO & Member of Executive Committee
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kristof Frans Rosa Terryn
+  title: CEO of Beazley, Europe, Middle East & Global Head Retail and Member of the
+    Executive Committee
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tulsi Ratakonda Naidu
+  title: CEO of Asia Pacific & Member of the Executive Committee
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Alison  Martin
+  title: CEO of Life, Health & Bank Distribution and Member of the Executive Committee
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Giger
+  title: Group Chief Risk Officer & Member of Executive Committee
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ericson  Chan
+  title: Group Chief Information & Digital Officer and Member of the Executive Committee
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Laurence  Maurice
+  title: CEO of Latin America & Member of the Executive Committee
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephan  Van Vliet
+  title: Group Chief Investment Officer & Member of Executive Committee
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Raul  Vargas
+  title: CEO of Farmers Group Inc. & Member of Executive Committee
+  unexercisedValue: 0
+  yearBorn: 1975
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 636.0
+currentRatio: 27.188
+customPriceAlertConfidence: LOW
+dayHigh: 637.4
+dayLow: 633.0
+debtToEquity: 46.416
+dividendDate: 1744675200
+dividendRate: 30.0
+dividendYield: 4.71
+earningsCallTimestampEnd: 1786030200
+earningsCallTimestampStart: 1786030200
+earningsGrowth: 0.102
+earningsQuarterlyGrowth: 0.138
+earningsTimestampEnd: 1786030200
+earningsTimestampStart: 1786030200
+ebitda: 11377000448
+ebitdaMargins: 0.14781
+enterpriseToEbitda: 6.885
+enterpriseToRevenue: 1.018
+enterpriseValue: 78330748928
+epsCurrentYear: 38.11423
+epsForward: 43.38838
+epsTrailingTwelveMonths: 39.19
+esgPopulated: false
+exDividendDate: 1775779200
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 41 44 625 35 55
+fiftyDayAverage: 600.392
+fiftyDayAverageChange: 35.60797
+fiftyDayAverageChangePercent: 0.05930787
+fiftyTwoWeekChangePercent: 10.180056
+fiftyTwoWeekHigh: 647.0
+fiftyTwoWeekHighChange: -11.0
+fiftyTwoWeekHighChangePercent: -0.017001545
+fiftyTwoWeekLow: 521.0
+fiftyTwoWeekLowChange: 115.0
+fiftyTwoWeekLowChangePercent: 0.22072937
+fiftyTwoWeekRange: 521.0 - 647.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 907657200000
+fiveYearAvgDividendYield: 5.1
+floatShares: 147201940
+forwardEps: 43.38838
+forwardPE: 14.658303
+freeCashflow: -445500000
+fullExchangeName: Swiss
+fullTimeEmployees: 65000
+fulldayChange: -0.4000244
+fulldayChangePercent: -0.06285738
+fulldayPrice: 636.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.24293
+grossProfits: 18698999808
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0018600001
+heldPercentInstitutions: 0.44062
+impliedSharesOutstanding: 149369269
+industry: Insurance - Diversified
+industryDisp: Insurance - Diversified
+industryKey: insurance-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1775779200
+lastDividendValue: 30.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Zurich Insurance Group AG provides insurance products and related
+  services in Europe, the Middle East, Africa, North America, Latin America, and the
+  Asia Pacific. It operates through Property & Casualty Regions, Life Regions, and
+  Farmers segments. The company offers car and motor, home, travel, general liability,
+  life and critical illness, and other insurance products; and saving and investment,
+  and pension and retirement planning products. It also provides property, casualty,
+  energy and engineering lines, and marine; management liability, financial institutions,
+  and professional indemnity; and cyber, accident and health, and credit lines and
+  surety insurance products, as well as non-claims and ancillary services to the farmers
+  exchanges. In addition, it offers employee benefit insurance products; and climate
+  resilience, risk engineering, captive, cyber resilience, and reinsurance services.
+  It serves individuals, small businesses, mid-sized and large companies, and multinational
+  corporations. The company sells its products through agents, brokers, and bank distribution
+  channels. Zurich Insurance Group AG was founded in 1872 and is based in Zurich,
+  Switzerland.
+longName: Zurich Insurance Group AG
+market: ch_market
+marketCap: 94998855680
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_956057
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 7222000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 95058602791
+numberOfAnalystOpinions: 14
+open: 634.0
+operatingCashflow: 2932999936
+operatingMargins: 0.1466
+overallRisk: 1
+payoutRatio: 0.75699997
+pegRatio: 10.62
+phone: 41 44 625 25 25
+previousClose: 636.4
+priceEpsCurrentYear: 16.68668
+priceHint: 2
+priceToBook: 3.626309
+priceToSalesTrailing12Months: 1.2341841
+profitMargins: 0.093830004
+quickRatio: 17.82
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.78571
+region: US
+regularMarketChange: -0.4000244
+regularMarketChangePercent: -0.06285738
+regularMarketDayHigh: 637.4
+regularMarketDayLow: 633.0
+regularMarketDayRange: 633.0 - 637.4
+regularMarketOpen: 634.0
+regularMarketPreviousClose: 636.4
+regularMarketPrice: 636.0
+regularMarketTime: 1794411563
+regularMarketVolume: 156349
+returnOnAssets: 0.01735
+returnOnEquity: 0.25695
+revenueGrowth: 0.113
+revenuePerShare: 531.292
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 149369269
+shortName: ZURICH INSURANCE N
+sourceInterval: 15
+symbol: ZURN.SW
+targetHighPrice: 902.0
+targetLowPrice: 525.0
+targetMeanPrice: 619.86865
+targetMedianPrice: 604.0
+totalCash: 32480000000
+totalCashPerShare: 220.629
+totalDebt: 15358000128
+totalRevenue: 76972998656
+tradeable: false
+trailingAnnualDividendRate: 37.833
+trailingAnnualDividendYield: 0.05944846
+trailingEps: 39.19
+trailingPE: 16.22863
+trailingPegRatio: 10.6188
+triggerable: false
+twoHundredDayAverage: 579.536
+twoHundredDayAverageChange: 56.46399
+twoHundredDayAverageChangePercent: 0.09742965
+typeDisp: Equity
+volume: 156349
+website: https://www.zurich.com
+zip: '8002'

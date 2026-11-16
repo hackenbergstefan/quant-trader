@@ -1,0 +1,281 @@
+52WeekChange: 0.1547575
+SandP52WeekChange: 0.097798586
+address1: 1001 Louisiana Street
+address2: Suite 1000
+allTimeHigh: 44.71
+allTimeLow: 9.42
+ask: 31.47
+askSize: 1800
+auditRisk: 8
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 13894770
+averageDailyVolume3Month: 13166876
+averageVolume: 13166876
+averageVolume10days: 13894770
+beta: 0.573
+bid: 31.46
+bidSize: 1100
+boardRisk: 9
+bookValue: 14.183
+city: Houston
+companyOfficers:
+- age: 80
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard D. Kinder
+  title: Executive Chairman of the Board
+  totalPay: 1
+  unexercisedValue: 0
+  yearBorn: 1945
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kimberly Allen Dang
+  title: CEO & Director
+  totalPay: 540577
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dax A. Sanders CPA
+  title: President
+  totalPay: 1440577
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Patrick Michels
+  title: VP & CFO
+  totalPay: 1290577
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John W. Schlosser
+  title: VP & President of Terminals
+  totalPay: 1340577
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sital K. Mody
+  title: VP & President of Natural Gas Pipelines
+  totalPay: 1590577
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kenneth W. Grubb
+  title: VP, COO & Chief Project Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark  Huse
+  title: VP & Chief Information Officer
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael J. Pitta
+  title: VP & Chief Administrative Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Staples
+  title: Director of IR
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 31.545
+currentRatio: 0.67
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 31.59
+dayLow: 31.13
+debtToEquity: 101.736
+displayName: Kinder Morgan
+dividendDate: 1794787200
+dividendRate: 1.19
+dividendYield: 3.82
+earningsCallTimestampEnd: 1792612800
+earningsCallTimestampStart: 1792612800
+earningsGrowth: 0.216
+earningsQuarterlyGrowth: 0.217
+earningsTimestamp: 1792612800
+earningsTimestampEnd: 1801083600
+earningsTimestampStart: 1801083600
+ebitda: 7680000000
+ebitdaMargins: 0.41867
+enterpriseToEbitda: 13.436
+enterpriseToRevenue: 5.625
+enterpriseValue: 103191437312
+epsCurrentYear: 1.57798
+epsForward: 1.53641
+epsTrailingTwelveMonths: 1.62
+esgPopulated: false
+exDividendDate: 1793577600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 32.0272
+fiftyDayAverageChange: -0.48219872
+fiftyDayAverageChangePercent: -0.015055913
+fiftyTwoWeekChangePercent: 15.47575
+fiftyTwoWeekHigh: 34.81
+fiftyTwoWeekHighChange: -3.2650013
+fiftyTwoWeekHighChangePercent: -0.09379492
+fiftyTwoWeekLow: 26.24
+fiftyTwoWeekLowChange: 5.3050003
+fiftyTwoWeekLowChangePercent: 0.20217226
+fiftyTwoWeekRange: 26.24 - 34.81
+financialCurrency: USD
+firstTradeDateMilliseconds: 1297434600000
+fiveYearAvgDividendYield: 5.02
+floatShares: 1936107306
+forwardEps: 1.53641
+forwardPE: 20.53163
+freeCashflow: 1075500032
+fullExchangeName: NYSE
+fullTimeEmployees: 11028
+fulldayChange: 0.35499954
+fulldayChangePercent: 1.1381838
+fulldayPrice: 31.545
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.48648
+grossProfits: 8924000256
+hasPrePostMarketData: true
+heldPercentInsiders: 0.12694
+heldPercentInstitutions: 0.70342004
+impliedSharesOutstanding: 2227715229
+industry: Oil & Gas Midstream
+industryDisp: Oil & Gas Midstream
+industryKey: oil-gas-midstream
+irWebsite: http://199.230.26.96/kmi/index.html
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1793577600
+lastDividendValue: 0.298
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Kinder Morgan, Inc. operates as an energy infrastructure company
+  primarily in North America. It operates through Natural Gas Pipelines, Products
+  Pipelines, Terminals, and CO2 segments. The Natural Gas Pipelines segment owns and
+  operates interstate and intrastate natural gas pipeline, and storage systems; natural
+  gas gathering systems and natural gas processing and treating facilities; natural
+  gas liquids fractionation facilities and transportation systems; and liquefied natural
+  gas gasification, liquefaction, and storage facilities. The Products Pipelines segment
+  owns and operates refined petroleum products, and crude oil and condensate pipelines;
+  and associated product terminals and petroleum pipeline transmix facilities. The
+  Terminals segment owns and/or operates liquids and bulk terminals that stores and
+  handles various commodities, including gasoline, diesel fuel, renewable fuel and
+  feedstocks, chemicals, ethanol, metals, and petroleum coke; and owns tankers. The
+  CO2 segment produces, transports, and markets CO2 to recovery and production crude
+  oil from mature oil fields; owns interests in/or operates oil fields and gasoline
+  processing plants; and operates a crude oil pipeline system in West Texas, as well
+  as owns and operates RNG and LNG facilities. The company was formerly known as Kinder
+  Morgan Holdco LLC and changed its name to Kinder Morgan, Inc. in February 2011.
+  Kinder Morgan, Inc. was founded in 1997 and is headquartered in Houston, Texas.
+longName: Kinder Morgan, Inc.
+market: us_market
+marketCap: 70273277952
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_34952431
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3584999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 69482437992
+numberOfAnalystOpinions: 22
+open: 31.53
+operatingCashflow: 6733000192
+operatingMargins: 0.28582
+overallRisk: 8
+payoutRatio: 0.7284
+pegRatio: 2.66
+phone: 713 369 9000
+previousClose: 31.19
+priceEpsCurrentYear: 19.990747
+priceHint: 2
+priceToBook: 2.2241416
+priceToSalesTrailing12Months: 3.8308592
+profitMargins: 0.19641
+quickRatio: 0.486
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: 0.35499954
+regularMarketChangePercent: 1.1381838
+regularMarketDayHigh: 31.59
+regularMarketDayLow: 31.13
+regularMarketDayRange: 31.13 - 31.59
+regularMarketOpen: 31.53
+regularMarketPreviousClose: 31.19
+regularMarketPrice: 31.545
+regularMarketTime: 1794413743
+regularMarketVolume: 2164804
+returnOnAssets: 0.04437
+returnOnEquity: 0.11428001
+revenueGrowth: 0.093
+revenuePerShare: 8.244
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 8
+sharesOutstanding: 2227715229
+sharesPercentSharesOut: 0.0194
+sharesShort: 43152165
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 46209208
+shortName: Kinder Morgan, Inc.
+shortPercentOfFloat: 0.0222
+shortRatio: 3.02
+sourceInterval: 15
+state: TX
+symbol: KMI
+targetHighPrice: 43.0
+targetLowPrice: 32.0
+targetMeanPrice: 37.5
+targetMedianPrice: 38.0
+totalCash: 920000000
+totalCashPerShare: 0.413
+totalDebt: 33397000192
+totalRevenue: 18343999488
+tradeable: false
+trailingAnnualDividendRate: 1.185
+trailingAnnualDividendYield: 0.037992943
+trailingEps: 1.62
+trailingPE: 19.472221
+trailingPegRatio: 2.6564
+triggerable: true
+twoHundredDayAverage: 32.1664
+twoHundredDayAverageChange: -0.62140083
+twoHundredDayAverageChangePercent: -0.01931832
+typeDisp: Equity
+volume: 2164804
+website: https://www.kindermorgan.com
+zip: '77002'

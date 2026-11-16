@@ -1,0 +1,270 @@
+52WeekChange: 0.016103983
+SandP52WeekChange: 0.097798586
+address1: 1999 Bryan Street
+address2: Suite 3500
+allTimeHigh: 168.44
+allTimeLow: 0.264947
+ask: 156.96
+askSize: 100
+auditRisk: 2
+averageDailyVolume10Day: 1080220
+averageDailyVolume3Month: 884029
+averageVolume: 884029
+averageVolume10days: 1080220
+beta: 0.669
+bid: 156.73
+bidSize: 100
+boardRisk: 6
+bookValue: 27.87
+city: Dallas
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert V. Pragada
+  title: CEO & Chair of the Board
+  totalPay: 3068292
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Venkatesh R. Nathamuni
+  title: Executive VP & CFO
+  totalPay: 1320735
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick X. Hill
+  title: Executive VP & President of Global Operations
+  totalPay: 1256084
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Joanne E. Caruso
+  title: Executive VP, Chief Legal & Administration Officer
+  totalPay: 1447057
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William Benton Allen Jr.
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bert  Subin
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cheryl H.J. Lim
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 76
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas H. McDuffie
+  title: Senior Vice President of Buildings & Infrastructure
+  unexercisedValue: 0
+  yearBorn: 1949
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert Shepherd Duff
+  title: Senior Vice President of Buildings & Infrastructure
+  unexercisedValue: 0
+  yearBorn: 1959
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Rabon W. Johnson
+  title: Senior VP and GM of Advanced Engineering, Research & Operations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 156.67
+currentRatio: 1.287
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 157.16
+dayLow: 155.8598
+debtToEquity: 124.734
+displayName: Jacobs
+dividendDate: 1789689600
+dividendRate: 1.44
+dividendYield: 0.92
+earningsCallTimestampEnd: 1795469400
+earningsCallTimestampStart: 1795469400
+earningsGrowth: -0.254
+earningsQuarterlyGrowth: -0.24
+earningsTimestamp: 1795467600
+earningsTimestampEnd: 1795467600
+earningsTimestampStart: 1795467600
+ebitda: 1056488000
+ebitdaMargins: 0.0743
+enterpriseToEbitda: 20.113
+enterpriseToRevenue: 1.494
+enterpriseValue: 21249646592
+epsCurrentYear: 7.26597
+epsForward: 8.23691
+epsTrailingTwelveMonths: 3.01
+esgPopulated: false
+exDividendDate: 1787270400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 214 638 0447
+fiftyDayAverage: 144.3936
+fiftyDayAverageChange: 12.276398
+fiftyDayAverageChangePercent: 0.08502037
+fiftyTwoWeekChangePercent: 1.6103983
+fiftyTwoWeekHigh: 162.0
+fiftyTwoWeekHighChange: -5.330002
+fiftyTwoWeekHighChangePercent: -0.032901246
+fiftyTwoWeekLow: 105.68
+fiftyTwoWeekLowChange: 50.989998
+fiftyTwoWeekLowChangePercent: 0.4824943
+fiftyTwoWeekRange: 105.68 - 162.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 0.8
+floatShares: 116280201
+forwardEps: 8.23691
+forwardPE: 19.020483
+freeCashflow: 645677888
+fullExchangeName: NYSE
+fullTimeEmployees: 47000
+fulldayChange: -0.44000244
+fulldayChangePercent: -0.2800601
+fulldayPrice: 156.67
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.22067
+grossProfits: 3137758976
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00541
+heldPercentInstitutions: 0.92758006
+impliedSharesOutstanding: 118080879
+industry: Engineering & Construction
+industryDisp: Engineering & Construction
+industryKey: engineering-construction
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787270400
+lastDividendValue: 0.36
+lastFiscalYearEnd: 1758844800
+lastSplitDate: 1747353600
+lastSplitFactor: 101:100
+longBusinessSummary: Jacobs Solutions Inc. engages in the infrastructure and advanced
+  facilities, and consulting businesses in the United States, Europe, Canada, India,
+  Asia, Australia, New Zealand, the Middle East, and Africa. The company provides
+  consulting, planning, architecture, design, engineering, and infrastructure delivery
+  services including project, program, and construction management and long-term operation
+  of facilities. It also offers consulting services for consumer and manufacturing,
+  defense and security, energy and utilities, financial services, government, health
+  and life sciences, and transport sectors. The company was founded in 1947 and is
+  headquartered in Dallas, Texas.
+longName: Jacobs Solutions Inc.
+market: us_market
+marketCap: 18499731456
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_282159
+mostRecentQuarter: 1782432000
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 359329984
+nextFiscalYearEnd: 1790380800
+nonDilutedMarketCap: 18387936174
+numberOfAnalystOpinions: 15
+open: 157.14
+operatingCashflow: 735843008
+operatingMargins: 0.05929
+overallRisk: 4
+payoutRatio: 0.4518
+pegRatio: 0.47
+phone: 214 583 8500
+prevName: Jacobs Engineering Group Inc.
+previousClose: 157.11
+priceEpsCurrentYear: 21.562159
+priceHint: 2
+priceToBook: 5.6214566
+priceToSalesTrailing12Months: 1.3010374
+profitMargins: 0.0238
+quickRatio: 1.25
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -0.44000244
+regularMarketChangePercent: -0.2800601
+regularMarketDayHigh: 157.16
+regularMarketDayLow: 155.8598
+regularMarketDayRange: 155.8598 - 157.16
+regularMarketOpen: 157.14
+regularMarketPreviousClose: 157.11
+regularMarketPrice: 156.67
+regularMarketTime: 1794413732
+regularMarketVolume: 92796
+returnOnAssets: 0.04551
+returnOnEquity: 0.07998
+revenueGrowth: 0.345
+revenuePerShare: 120.227
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 5
+sharesOutstanding: 118080879
+sharesPercentSharesOut: 0.0347
+sharesShort: 4060905
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4023092
+shortName: Jacobs Solutions Inc.
+shortPercentOfFloat: 0.0397
+shortRatio: 4.48
+sourceInterval: 15
+state: TX
+symbol: J
+targetHighPrice: 188.0
+targetLowPrice: 144.0
+targetMeanPrice: 162.8
+targetMedianPrice: 163.0
+totalCash: 1179111936
+totalCashPerShare: 10.075
+totalDebt: 4054662912
+totalRevenue: 14219215872
+tradeable: false
+trailingAnnualDividendRate: 1.36
+trailingAnnualDividendYield: 0.008656356
+trailingEps: 3.01
+trailingPE: 52.049835
+trailingPegRatio: 0.4741
+triggerable: true
+twoHundredDayAverage: 134.41435
+twoHundredDayAverageChange: 22.255646
+twoHundredDayAverageChangePercent: 0.16557492
+typeDisp: Equity
+volume: 92796
+website: https://www.jacobs.com
+zip: '75201'

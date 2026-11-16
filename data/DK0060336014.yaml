@@ -1,0 +1,267 @@
+52WeekChange: 0.04140055
+SandP52WeekChange: 0.097798586
+address1: Biologiens Vej 2
+allTimeHigh: 761.5
+allTimeLow: 25.0
+ask: 451.2
+auditRisk: 3
+averageAnalystRating: 1.7 - Buy
+averageDailyVolume10Day: 825610
+averageDailyVolume3Month: 664693
+averageVolume: 664693
+averageVolume10days: 825610
+beta: 0.633
+bid: 450.9
+boardRisk: 3
+bookValue: 179.3486
+city: Lyngby
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ester  Baiget
+  title: President & CEO
+  totalPay: 30876725
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rainer  Lehmann
+  title: Executive VP & CFO
+  totalPay: 16090614
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anders  Lund
+  title: Chief Operating Officer
+  totalPay: 6300000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Claus Crone Fuglsang
+  title: Chief Scientific Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tobias Cornelius Bjorklund
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Morten Enggaard Rasmussen
+  title: Executive Vice President of People & Stakeholder Relations
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Tue  Micheelsen
+  title: President of Novonesis North America & Head of Global Consumer Health
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tina Sejersgaard Fano
+  title: Executive Vice President of Planetary Health Biosolutions
+  totalPay: 6200000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Henrik Joerck Nielsen
+  title: EVP of Human Health Biosolutions and Strategy & Integration
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew  Taylor
+  title: Executive Vice President of Food & Beverage Biosolutions
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Denmark
+cryptoTradeable: false
+currency: DKK
+currentPrice: 451.0
+currentRatio: 1.527
+customPriceAlertConfidence: HIGH
+dayHigh: 454.1
+dayLow: 439.8
+debtToEquity: 27.911
+dividendRate: 6.6
+dividendYield: 1.5
+earningsCallTimestampEnd: 1787238000
+earningsCallTimestampStart: 1787238000
+earningsGrowth: 0.356
+earningsQuarterlyGrowth: 0.362
+earningsTimestamp: 1787238000
+earningsTimestampEnd: 1787238000
+earningsTimestampStart: 1787238000
+ebitda: 1637100032
+ebitdaMargins: 0.37443
+enterpriseToEbitda: 127.34
+enterpriseToRevenue: 47.68
+enterpriseValue: 208468606976
+epsCurrentYear: 15.84192
+epsForward: 17.73779
+epsTrailingTwelveMonths: 10.91
+esgPopulated: false
+exDividendDate: 1787616000
+exchange: CPH
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Copenhagen
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 444.036
+fiftyDayAverageChange: 6.9639893
+fiftyDayAverageChangePercent: 0.015683388
+fiftyTwoWeekChangePercent: 4.140055
+fiftyTwoWeekHigh: 484.7
+fiftyTwoWeekHighChange: -33.700012
+fiftyTwoWeekHighChangePercent: -0.06952757
+fiftyTwoWeekLow: 336.8
+fiftyTwoWeekLowChange: 114.20001
+fiftyTwoWeekLowChangePercent: 0.3390737
+fiftyTwoWeekRange: 336.8 - 484.7
+financialCurrency: EUR
+firstTradeDateMilliseconds: 974707200000
+fiveYearAvgDividendYield: 1.41
+floatShares: 347768575
+forwardEps: 17.73779
+forwardPE: 25.425941
+freeCashflow: 620437504
+fullExchangeName: Copenhagen
+fullTimeEmployees: 10933
+fulldayChange: 10.799988
+fulldayChangePercent: 2.4534273
+fulldayPrice: 451.0
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.56321996
+grossProfits: 2462500096
+hasPrePostMarketData: false
+heldPercentInsiders: 0.15805
+heldPercentInstitutions: 0.38022998
+impliedSharesOutstanding: 466192777
+industry: Specialty Chemicals
+industryDisp: Specialty Chemicals
+industryKey: specialty-chemicals
+irWebsite: http://www.novozymes.com/en/investor/Pages/default.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787616000
+lastDividendValue: 2.35
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1322438400
+lastSplitFactor: '5:1'
+longBusinessSummary: Novozymes A/S produces and sells industrial enzymes, functional
+  proteins, and microorganisms in Denmark, rest of Europe, North America, the Asia
+  Pacific, the Middle East, Africa, and Latin America. It provides biosolutions for
+  the food and beverage industry, such as dairy, baking, beverage, meat, plant-based,
+  functional, and other foods, as well as precision protein and early lie nutrition.
+  The company also offers bioenergy solutions including biodiesel; biogas from agricultural
+  and industrial residues and food waste; biomass; carbon capture; ethanol for liquefaction,
+  saccharification, fermentation, and fiber conversion; and renewable diesel. In addition,
+  it provides dishwashing, home cleaning, laundry, medical, and industrial and institutional
+  cleaning services; gastrointestinal, immune, mental, women's, children's cardiometabolic,
+  and oral human health solutions. Further, the company offers corn and wheat separation,
+  liquefaction, saccharification, filtration, isomerization, maltose, and specialties
+  solutions; corn, cotton, forages, peanuts, pulses, soybeans, wheat, small grains,
+  bioyield, and biocontrol solutions; silage, diary and beef cattle, poultry, swine,
+  aquaculture solutions; pet care solutions; leather and textiles solutions; fiber
+  modification, bleach boosting, deposit control, and starch modification solutions;
+  and distilling, oils and fats, sustainable plastic solutions. Additionally, it provides
+  lipases, proteases, oxidoreductases, and carbohydrases. Novozymes A/S is headquartered
+  in Lyngby, Denmark.
+longName: Novozymes A/S
+market: dk_market
+marketCap: 210252939264
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_904817
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 681500032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 205218060435
+numberOfAnalystOpinions: 15
+open: 440.2
+operatingCashflow: 1226200064
+operatingMargins: 0.23366
+overallRisk: 2
+payoutRatio: 0.6052
+pegRatio: 2.1
+phone: 45 44 46 00 00
+previousClose: 440.2
+priceEpsCurrentYear: 28.468771
+priceHint: 2
+priceToBook: 2.5146558
+priceToSalesTrailing12Months: 48.088593
+profitMargins: 0.15587
+quickRatio: 0.953
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.73333
+region: US
+regularMarketChange: 10.799988
+regularMarketChangePercent: 2.4534273
+regularMarketDayHigh: 454.1
+regularMarketDayLow: 439.8
+regularMarketDayRange: 439.8 - 454.1
+regularMarketOpen: 440.2
+regularMarketPreviousClose: 440.2
+regularMarketPrice: 451.0
+regularMarketTime: 1794412470
+regularMarketVolume: 287145
+returnOnAssets: 0.03855
+returnOnEquity: 0.062069997
+revenueGrowth: 0.071
+revenuePerShare: 9.356
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 9
+sharesOutstanding: 412449177
+shortName: Novonesis (Novozymes A/S) B
+sourceInterval: 15
+symbol: NSIS-B.CO
+targetHighPrice: 575.0
+targetLowPrice: 440.0
+targetMeanPrice: 509.33334
+targetMedianPrice: 510.0
+totalCash: 455300000
+totalCashPerShare: 0.974
+totalDebt: 3130400000
+totalRevenue: 4372199936
+tradeable: false
+trailingAnnualDividendRate: 0.885
+trailingAnnualDividendYield: 0.0020104498
+trailingEps: 10.91
+trailingPE: 41.338223
+trailingPegRatio: 2.0291
+triggerable: true
+twoHundredDayAverage: 406.746
+twoHundredDayAverageChange: 44.253998
+twoHundredDayAverageChangePercent: 0.10880008
+typeDisp: Equity
+volume: 287145
+website: https://www.novonesis.com
+zip: '2800'

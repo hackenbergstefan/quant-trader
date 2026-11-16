@@ -1,0 +1,263 @@
+52WeekChange: 0.22740114
+SandP52WeekChange: 0.097798586
+address1: Amerika Plads 29
+allTimeHigh: 1135.0
+allTimeLow: 18.339102
+ask: 885.5
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 192904
+averageDailyVolume3Month: 153849
+averageVolume: 153849
+averageVolume10days: 192904
+beta: 0.645
+bid: 884.5
+bidSize: 0
+boardRisk: 3
+bookValue: 293.487
+city: Copenhagen
+companyOfficers:
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Claes  Westerlind
+  title: President & CEO
+  totalPay: 13216970
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Yong
+  title: CFO & Chief Strategy Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Will  Hendrikx
+  title: COO, Interim Head of Grid Solutions & Deputy CEO
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anders  Jensen
+  title: Executive VP & CTO
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Jacob Schmidt Johansen
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Morten  Bang
+  title: Chief Legal Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Louise Westh Naldal
+  title: Head of Group Communications
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kira  Johnson
+  title: Executive VP & Chief HR Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael C. Hjorth
+  title: Chief Commercial Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Denis  Schuler
+  title: Executive VP & Head of Accessories
+  unexercisedValue: 0
+  yearBorn: 1973
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: Denmark
+cryptoTradeable: false
+currency: DKK
+currentPrice: 884.5
+currentRatio: 1.228
+customPriceAlertConfidence: HIGH
+dayHigh: 890.5
+dayLow: 873.0
+debtToEquity: 11.46
+dividendYield: 0.0
+earningsCallTimestampEnd: 1795078800
+earningsCallTimestampStart: 1795078800
+earningsGrowth: -0.02
+earningsQuarterlyGrowth: -0.037
+earningsTimestamp: 1795104000
+earningsTimestampEnd: 1795104000
+earningsTimestampStart: 1795104000
+ebitda: 695000000
+ebitdaMargins: 0.19338
+enterpriseToEbitda: 66.319
+enterpriseToRevenue: 12.825
+enterpriseValue: 46091681792
+epsCurrentYear: 4.02685
+epsForward: 41.839634
+epsTrailingTwelveMonths: 36.76
+esgPopulated: false
+exDividendDate: 1459468800
+exchange: CPH
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Copenhagen
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 879.2
+fiftyDayAverageChange: 5.299988
+fiftyDayAverageChangePercent: 0.0060281935
+fiftyTwoWeekChangePercent: 22.740114
+fiftyTwoWeekHigh: 1135.0
+fiftyTwoWeekHighChange: -250.5
+fiftyTwoWeekHighChangePercent: -0.22070484
+fiftyTwoWeekLow: 705.5
+fiftyTwoWeekLowChange: 179.0
+fiftyTwoWeekLowChangePercent: 0.25372076
+fiftyTwoWeekRange: 705.5 - 1135.0
+financialCurrency: EUR
+firstTradeDateMilliseconds: 988354800000
+fiveYearAvgDividendYield: 1.14
+floatShares: 53623841
+forwardEps: 41.839634
+forwardPE: 21.140242
+freeCashflow: -14250000
+fullExchangeName: Copenhagen
+fullTimeEmployees: 6652
+fulldayChange: 15.5
+fulldayChangePercent: 1.7836593
+fulldayPrice: 884.5
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.34418
+grossProfits: 1236999936
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0014599999
+heldPercentInstitutions: 0.46263
+impliedSharesOutstanding: 53450451
+industry: Electrical Equipment & Parts
+industryDisp: Electrical Equipment & Parts
+industryKey: electrical-equipment-parts
+irWebsite: http://investor.uk.nkt.dk/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1459468800
+lastDividendValue: 3.242371
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: NKT A/S designs, manufactures, and installs low, medium, and
+  high voltage power cable solutions in Denmark. It operates through Solutions, Applications
+  and Service & Accessories segments. The company offers high voltage cable solutions,
+  including high voltage onshore and offshore cables; medium voltage, dynamic, and
+  universal cables; and low voltage building wires, flexible cables and conduits,
+  control cables, 1 kV cables, and telecom energy and fire performance cables. The
+  company also provides medium voltage cable accessories, such as joints, terminations,
+  separable connector, paper-insulated lead sheath and pre-assembled connection cables,
+  cable branch cabinets, and pre-assembled connection cables; and high voltage cable
+  accessories comprising GIS/transformer terminations, low pressure oil-filled cable
+  systems, outdoor terminations, wind power applications, and transition joints. In
+  addition, it offers lifecycle cable services; and installation, operation and maintenance,
+  repair, decommissioning, and cable monitoring solutions. Further, the company provides
+  oil and gas cable competence center services, and technology consulting services;
+  and offshore and onshore wind, and solar solutions. It operates in Germany, Sweden,
+  the United Kingdom, Poland, the United States, Norway, the Czech Republic, France,
+  the Netherlands, Portugal, and internationally. The company was formerly known as
+  NKT Holding A/S and changed its name to NKT A/S in May 2017. NKT A/S was founded
+  in 1891 and is based in Copenhagen, Denmark.
+longName: NKT A/S
+market: dk_market
+marketCap: 47276924928
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874058
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 268000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 46448441919
+numberOfAnalystOpinions: 12
+open: 885.0
+operatingCashflow: 550000000
+operatingMargins: 0.16361
+overallRisk: 4
+payoutRatio: 0.0
+pegRatio: 7.2
+phone: 45 43 48 20 00
+previousClose: 869.0
+priceEpsCurrentYear: 219.65059
+priceHint: 2
+priceToBook: 3.013762
+priceToSalesTrailing12Months: 13.154404
+profitMargins: 0.07707
+quickRatio: 0.911
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.33333
+region: US
+regularMarketChange: 15.5
+regularMarketChangePercent: 1.7836593
+regularMarketDayHigh: 890.5
+regularMarketDayLow: 873.0
+regularMarketDayRange: 873.0 - 890.5
+regularMarketOpen: 885.0
+regularMarketPreviousClose: 869.0
+regularMarketPrice: 884.5
+regularMarketTime: 1794412468
+regularMarketVolume: 83377
+returnOnAssets: 0.07041
+returnOnEquity: 0.13149999
+revenueGrowth: 0.002
+revenuePerShare: 67.113
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 53450451
+shortName: NKT A/S
+sourceInterval: 15
+symbol: NKT.CO
+targetHighPrice: 1277.1294
+targetLowPrice: 495.10986
+targetMeanPrice: 988.6567
+targetMedianPrice: 1027.7206
+totalCash: 850000000
+totalCashPerShare: 15.823
+totalDebt: 259000000
+totalRevenue: 3593999872
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 36.76
+trailingPE: 24.061481
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 905.5
+twoHundredDayAverageChange: -21.0
+twoHundredDayAverageChangePercent: -0.023191607
+typeDisp: Equity
+volume: 83377
+website: https://www.nkt.com
+zip: '2100'

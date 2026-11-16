@@ -1,0 +1,276 @@
+52WeekChange: -0.0074331164
+SandP52WeekChange: 0.097798586
+address1: 414 Nicollet Mall
+allTimeHigh: 84.23
+allTimeLow: 3.8125
+ask: 84.62
+askSize: 1
+auditRisk: 8
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 8793910
+averageDailyVolume3Month: 5937148
+averageVolume: 5937148
+averageVolume10days: 8793910
+beta: 0.345
+bid: 75.5
+bidSize: 1
+boardRisk: 6
+bookValue: 40.152
+city: Minneapolis
+companyOfficers:
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert C. Frenzel
+  title: President, CEO & Chairman
+  totalPay: 4554431
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian J. Van Abel
+  title: Executive VP & CFO
+  totalPay: 1919165
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ryan  Long
+  title: Executive VP, Chief Legal & Compliance Officer & General Counsel
+  totalPay: 1229911
+  unexercisedValue: 0
+  yearBorn: 1985
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amanda J. Rome
+  title: Executive VP, Group President of Utilities & Chief Customer Officer
+  totalPay: 1771506
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Lamb
+  title: Executive VP & Chief Delivery Officer
+  totalPay: 1111849
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Melissa L. Ostrom
+  title: Senior VP, Controller & Principal Accounting Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rob  Cain
+  title: Senior VP & CTO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Roopesh  Aggarwal
+  title: VP of Finance & Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rob  Clark
+  title: Senior VP, Chief Communications Officer & Chief of Staff
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Patricia  Correa
+  title: Senior VP of Human Resources & Employee Services and Chief Human Resources
+    Officer
+  totalPay: 1424444
+  unexercisedValue: 0
+  yearBorn: 1974
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 80.351
+currentRatio: 0.693
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 80.68
+dayLow: 79.96
+debtToEquity: 167.652
+displayName: Xcel Energy
+dividendDate: 1792454400
+dividendRate: 2.37
+dividendYield: 2.96
+earningsCallTimestampEnd: 1793282400
+earningsCallTimestampStart: 1793282400
+earningsGrowth: 0.727
+earningsQuarterlyGrowth: 0.832
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 6335000064
+ebitdaMargins: 0.42594
+enterpriseToEbitda: 14.472
+enterpriseToRevenue: 6.164
+enterpriseValue: 91679981568
+epsCurrentYear: 4.14351
+epsForward: 4.56861
+epsTrailingTwelveMonths: 4.29
+esgPopulated: false
+exDividendDate: 1789430400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 75.1012
+fiftyDayAverageChange: 5.2498016
+fiftyDayAverageChangePercent: 0.06990304
+fiftyTwoWeekChangePercent: -0.74331164
+fiftyTwoWeekHigh: 84.23
+fiftyTwoWeekHighChange: -3.8790054
+fiftyTwoWeekHighChangePercent: -0.046052538
+fiftyTwoWeekLow: 68.72
+fiftyTwoWeekLowChange: 11.630997
+fiftyTwoWeekLowChangePercent: 0.169252
+fiftyTwoWeekRange: 68.72 - 84.23
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 3.05
+floatShares: 640565024
+forwardEps: 4.56861
+forwardPE: 17.587624
+freeCashflow: -8347624960
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 11534
+fulldayChange: 0.23099518
+fulldayChangePercent: 0.28831148
+fulldayPrice: 80.351
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.47274
+grossProfits: 7031000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00174
+heldPercentInstitutions: 0.96319
+impliedSharesOutstanding: 641874448
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+irWebsite: http://investors.xcelenergy.com/corporateprofile.aspx?iid=4025308
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789430400
+lastDividendValue: 0.593
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 896745600
+lastSplitFactor: '2:1'
+longBusinessSummary: Xcel Energy Inc., through its subsidiaries, operates as an electric
+  and natural gas delivery company in the United States. It operates through Regulated
+  Electric Utility and Regulated Natural Gas Utility segments. The company generates,
+  purchases, transmits, distributes, and sells electricity through its energy portfolio,
+  including wind, nuclear, hydroelectric, biomass, and solar power from both owned
+  generation facilities and PPAs, as well as its fossil fuel energy portfolio, such
+  as coal and natural gas; sale and resale of wholesale transmission service; and
+  engages in wholesale commodity and trading operations. It also purchases, transports,
+  stores, distributes, and sells natural gas; develops and leases natural gas pipelines
+  and storage facilities; operates interstate natural gas pipeline; and invests in
+  rental housing projects, energy technology companies, and community solar garden
+  nonregulated assets. It serves electric and natural gas customers in portions of
+  Colorado, Michigan, Minnesota, New Mexico, North Dakota, South Dakota, Texas, and
+  Wisconsin. The company was formerly known as Northern States Power company. Xcel
+  Energy Inc. was incorporated in 1909 and is headquartered in Minneapolis, Minnesota.
+longName: Xcel Energy Inc.
+market: us_market
+marketCap: 51575250944
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_527542
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2668999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 51426980773
+numberOfAnalystOpinions: 19
+open: 80.14
+operatingCashflow: 5077000192
+operatingMargins: 0.21656999
+overallRisk: 2
+payoutRatio: 0.5472
+pegRatio: 1.75
+phone: 612 330 5500
+previousClose: 80.12
+priceEpsCurrentYear: 19.392014
+priceHint: 2
+priceToBook: 2.0011704
+priceToSalesTrailing12Months: 3.46771
+profitMargins: 0.17944999
+quickRatio: 0.487
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.45
+region: US
+regularMarketChange: 0.23099518
+regularMarketChangePercent: 0.28831148
+regularMarketDayHigh: 80.68
+regularMarketDayLow: 79.96
+regularMarketDayRange: 79.96 - 80.68
+regularMarketOpen: 80.14
+regularMarketPreviousClose: 80.12
+regularMarketPrice: 80.351
+regularMarketTime: 1794413748
+regularMarketVolume: 1183464
+returnOnAssets: 0.023699999
+returnOnEquity: 0.114350006
+revenueGrowth: 0.066
+revenuePerShare: 24.047
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 1
+sharesOutstanding: 641874448
+sharesPercentSharesOut: 0.0718
+sharesShort: 46055289
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 49237277
+shortName: Xcel Energy Inc.
+shortPercentOfFloat: 0.0809
+shortRatio: 8.56
+sourceInterval: 15
+state: MN
+symbol: XEL
+targetHighPrice: 99.0
+targetLowPrice: 76.0
+targetMeanPrice: 89.81579
+targetMedianPrice: 92.0
+totalCash: 2500000000
+totalCashPerShare: 3.895
+totalDebt: 42752999424
+totalRevenue: 14872999936
+tradeable: false
+trailingAnnualDividendRate: 2.348
+trailingAnnualDividendYield: 0.029306041
+trailingEps: 4.29
+trailingPE: 18.729837
+trailingPegRatio: 1.7504
+triggerable: true
+twoHundredDayAverage: 78.39325
+twoHundredDayAverageChange: 1.9577484
+twoHundredDayAverageChangePercent: 0.024973432
+typeDisp: Equity
+volume: 1183464
+website: https://my.xcelenergy.com
+zip: '55401'

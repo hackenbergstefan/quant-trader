@@ -1,0 +1,268 @@
+52WeekChange: 0.17691338
+SandP52WeekChange: 0.097798586
+address1: Santander Group City
+address2: Av. de Cantabria s/n Boadilla del Monte
+allTimeHigh: 13.18158
+allTimeLow: 1.439417
+ask: 11.23
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 30156626
+averageDailyVolume3Month: 22875778
+averageVolume: 22875778
+averageVolume10days: 30156626
+beta: 0.902
+bid: 11.228
+bidSize: 0
+boardRisk: 2
+bookValue: 7.867
+city: Madrid
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ana Botin-Sanz de Sautuola y O'Shea
+  title: Executive Chair
+  totalPay: 11976690
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hector Blas Grisi Checa
+  title: Group CEO & Executive Director
+  totalPay: 9488690
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jose Antonio Garcia-Cantera
+  title: Senior EVP & Group CFO
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juan Maria Olaizola Bartolome
+  title: Senior EVP and Group Chief Operating & Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kamran  Butt
+  title: Chief Investment Officer & Head of Product
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Manuel Antonio Amaral Franco Preto
+  title: Group Senior EVP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jose Maria Linares Perou C.F.A.
+  title: Senior EVP and Global Head of Corporate & Investment Banking
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jaime  Perez Renovales
+  title: Senior EVP, Group Head of General Secretariat, General Counsel & Secretary
+    of the Board
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Arthur Hazell
+  title: Group Senior EVP & Chief Compliance Officer
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juan Manuel Cendoya Mendez de Vigo
+  title: Senior EVP and Group Head of Communications, Corporate Marketing & Research
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Spain
+cryptoTradeable: false
+currency: EUR
+currentPrice: 11.23
+customPriceAlertConfidence: LOW
+dayHigh: 11.416
+dayLow: 11.194
+dividendRate: 0.25
+dividendYield: 2.26
+earningsCallTimestampEnd: 1793178000
+earningsCallTimestampStart: 1793178000
+earningsGrowth: -0.043
+earningsQuarterlyGrowth: -0.021
+earningsTimestamp: 1793205000
+earningsTimestampEnd: 1793205000
+earningsTimestampStart: 1793205000
+ebitdaMargins: 0.0
+enterpriseToRevenue: 4.911
+enterpriseValue: 243723567104
+epsCurrentYear: 1.03804
+epsForward: 1.24247
+epsTrailingTwelveMonths: 0.91
+esgPopulated: false
+exDividendDate: 1793232000
+exchange: MCE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Madrid
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 11.9848
+fiftyDayAverageChange: -0.7548008
+fiftyDayAverageChangePercent: -0.06297984
+fiftyTwoWeekChangePercent: 17.691338
+fiftyTwoWeekHigh: 13.12
+fiftyTwoWeekHighChange: -1.8900003
+fiftyTwoWeekHighChangePercent: -0.1440549
+fiftyTwoWeekLow: 8.724
+fiftyTwoWeekLowChange: 2.5059996
+fiftyTwoWeekLowChangePercent: 0.2872535
+fiftyTwoWeekRange: 8.724 - 13.12
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 2.99
+floatShares: 13940893913
+forwardEps: 1.24247
+forwardPE: 9.038447
+fullExchangeName: MCE
+fullTimeEmployees: 185821
+fulldayChange: -0.026000023
+fulldayChangePercent: -0.23098813
+fulldayPrice: 11.23
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 49632002048
+hasPrePostMarketData: false
+heldPercentInsiders: 0.01582
+heldPercentInstitutions: 0.4118
+impliedSharesOutstanding: 14418310410
+industry: Banks - Diversified
+industryDisp: Banks - Diversified
+industryKey: banks-diversified
+irWebsite: http://www.santander.com/csgs/Satellite?appID=santander.wc.CFWCSancomQP01&canal=CSCORP&cid=1278677292437&empr=CFWCSancomQP01&leng=en_GB&pagename=CFWCSancomQP01%2FPage%2FCFQP01_PageSubhome5_PT6
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793232000
+lastDividendValue: 0.127
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1605484800
+lastSplitFactor: '24:23'
+longBusinessSummary: 'Banco Santander, S.A. provides various financial products and
+  services to individuals, small and medium-sized enterprises, large corporations,
+  and public entities worldwide. The company operates through five segments: Retail
+  & Commercial Banking, Digital Consumer Bank, Corporate & Investment Banking, Wealth
+  Management & Insurance, and Payments. It offers demand and time deposits, mutual
+  funds, and current and savings accounts; mortgages, consumer finance, loans, and
+  various financing solutions; and project finance, debt capital markets, global transaction
+  banking, and corporate finance services. The company also provides credit and debit
+  cards, real estate loans, microfinance, and auto loans; corporate and investment
+  banking services; advice on mergers and acquisitions; wealth, asset, and risk management
+  services; and digital payments and technology solutions. In addition, it is involved
+  in the securitization, leasing, management of portfolios, e-commerce, air transport,
+  aircraft rental, software, consulting, fund and investment management, renewable
+  energy, vehicle rental, insurance, advertising, marketing, telemarketing, automotive,
+  agricultural, factoring, securities brokerage and investment, pension fund management,
+  trade intermediary, venture capital fund, renting, restaurant, electricity production,
+  IT, internet, and financial advisory and other activities; management, and other
+  real estate activities; and purchase and sale of vehicles. Further, the company
+  offers mobile and online banking services. Banco Santander, S.A. was formerly known
+  as Banco Santander Central Hispano SA and changed its name to Banco Santander, S.A.
+  in February 2007. The company was incorporated in 1856 and is headquartered in Madrid,
+  Spain.'
+longName: Banco Santander, S.A.
+market: es_market
+marketCap: 161917616128
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_323930
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 13228999680
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 162292501974
+numberOfAnalystOpinions: 21
+open: 11.4
+operatingCashflow: 5907999744
+operatingMargins: 0.42141998
+overallRisk: 1
+payoutRatio: 0.2542
+pegRatio: 0.82
+phone: 34 912 76 92 90
+previousClose: 11.256
+priceEpsCurrentYear: 10.818464
+priceHint: 2
+priceToBook: 1.4274818
+priceToSalesTrailing12Months: 3.2623632
+profitMargins: 0.32578
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.7619
+region: US
+regularMarketChange: -0.026000023
+regularMarketChangePercent: -0.23098813
+regularMarketDayHigh: 11.416
+regularMarketDayLow: 11.194
+regularMarketDayRange: 11.194 - 11.416
+regularMarketOpen: 11.4
+regularMarketPreviousClose: 11.256
+regularMarketPrice: 11.23
+regularMarketTime: 1794411562
+regularMarketVolume: 7236104
+returnOnAssets: 0.00756
+returnOnEquity: 0.13063
+revenueGrowth: 0.088
+revenuePerShare: 3.422
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 14418310410
+shortName: BANCO SANTANDER S.A.
+sourceInterval: 15
+symbol: SAN.MC
+targetHighPrice: 15.05
+targetLowPrice: 11.3
+targetMeanPrice: 13.67714
+targetMedianPrice: 13.8
+totalCash: 345949011968
+totalCashPerShare: 24.407
+totalDebt: 423242989568
+totalRevenue: 49632002048
+tradeable: false
+trailingAnnualDividendRate: 0.252
+trailingAnnualDividendYield: 0.022388062
+trailingEps: 0.91
+trailingPE: 12.340658
+trailingPegRatio: 0.8328
+triggerable: false
+twoHundredDayAverage: 11.2737
+twoHundredDayAverageChange: -0.04370022
+twoHundredDayAverageChangePercent: -0.003876298
+typeDisp: Equity
+volume: 7236104
+website: https://www.santander.com
+zip: '28660'

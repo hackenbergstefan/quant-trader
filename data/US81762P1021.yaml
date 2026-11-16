@@ -1,0 +1,276 @@
+52WeekChange: -0.42357993
+SandP52WeekChange: 0.097798586
+address1: 2225 Lawson Lane
+allTimeHigh: 239.618
+allTimeLow: 4.524
+ask: 101.88
+askSize: 200
+auditRisk: 2
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 27186710
+averageDailyVolume3Month: 15917873
+averageVolume: 15917873
+averageVolume10days: 27186710
+beta: 0.984
+bid: 101.83
+bidSize: 200
+boardRisk: 9
+bookValue: 12.618
+city: Santa Clara
+companyOfficers:
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. William R. McDermott
+  title: Chairman & CEO
+  totalPay: 8069306
+  unexercisedValue: 83141472
+  yearBorn: 1962
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Gina M. Mastantuono
+  title: President & CFO
+  totalPay: 2166155
+  unexercisedValue: 3445640
+  yearBorn: 1970
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Amit K. Zavery
+  title: President, Chief Product Officer & COO
+  totalPay: 4081523
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 70
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frederic B. Luddy
+  title: Founder & Director
+  totalPay: 40000
+  unexercisedValue: 0
+  yearBorn: 1955
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jacqueline P. Canney
+  title: Chief People & AI Enablement Officer
+  totalPay: 1554880
+  unexercisedValue: 1722600
+  yearBorn: 1968
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul  Fipps
+  title: President of Global Customer Operations
+  totalPay: 2196545
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hossein  Nowbar
+  title: President, Secretary & Chief Legal Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Danielle  Fontaine
+  title: CAO & Corporate Controller
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pat  Casey
+  title: Executive VP & CTO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Darren  Yip
+  title: Head of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 102.09
+currentRatio: 0.719
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 102.39
+dayLow: 100.4
+debtToEquity: 64.256
+displayName: ServiceNow
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793221200
+earningsCallTimestampStart: 1793221200
+earningsGrowth: -0.442
+earningsQuarterlyGrowth: -0.448
+earningsTimestamp: 1793217600
+earningsTimestampEnd: 1801083600
+earningsTimestampStart: 1801083600
+ebitda: 3235000064
+ebitdaMargins: 0.20964001
+enterpriseToEbitda: 33.136
+enterpriseToRevenue: 6.947
+enterpriseValue: 107194908672
+epsCurrentYear: 3.95455
+epsForward: 4.8023
+epsTrailingTwelveMonths: 1.39
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 134.4884
+fiftyDayAverageChange: -32.398407
+fiftyDayAverageChangePercent: -0.24090111
+fiftyTwoWeekChangePercent: -42.357994
+fiftyTwoWeekHigh: 175.0
+fiftyTwoWeekHighChange: -72.91
+fiftyTwoWeekHighChangePercent: -0.4166286
+fiftyTwoWeekLow: 81.24
+fiftyTwoWeekLowChange: 20.849998
+fiftyTwoWeekLowChangePercent: 0.25664696
+fiftyTwoWeekRange: 81.24 - 175.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 1340976600000
+floatShares: 1035353345
+forwardEps: 4.8023
+forwardPE: 21.258562
+freeCashflow: 5754250240
+fullExchangeName: NYSE
+fullTimeEmployees: 29187
+fulldayChange: 2.4799957
+fulldayChangePercent: 2.4897056
+fulldayPrice: 102.09
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.73080003
+grossProfits: 11276999680
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00174
+heldPercentInstitutions: 0.84963995
+impliedSharesOutstanding: 1037917000
+industry: Software - Application
+industryDisp: Software - Application
+industryKey: software-application
+isEarningsDateEstimate: true
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1766016000
+lastSplitFactor: '5:1'
+longBusinessSummary: ServiceNow, Inc. provides cloud-based solution for digital workflows
+  in the North America, Brazil, Europe, the Middle East and Africa, Asia Pacific,
+  and internationally. The company provides asset management, integrated risk management,
+  IT service management, Operational Technology management, Security Operations, strategic
+  portfolio management, IT operations management products; customer service management
+  product; field service management applications; and sales and order management services.
+  It also offers human resources delivery; legal and contract operations; workplace
+  service delivery products; app engine product; automation engine; platform privacy
+  and security product; and source-to-pay operations. In addition, the company provides
+  RaptorDB, a database built to manage workloads at scale; ServiceNow Impact that
+  provides customers with software tools, guided plans, and AI-driven recommendations;
+  customer support; and workflow data fabric. It serves government, financial services,
+  healthcare and life science, manufacturing, Public Sector, retail, technology, and
+  Telecom sectors through service providers and resale partners. The company has a
+  strategic collaboration with Cohesity, Inc. to develop, operate, and safeguard autonomous
+  AI agents and data with enterprise-grade reliability; and with ServiceNow to Advance
+  Ai-Powered Solution for Mission-Critical Infrastructure Monitoring. The company
+  was formerly known as Service-now.com and changed its name to ServiceNow, Inc. in
+  May 2012. ServiceNow, Inc. has a strategic alliance with Accenture for integrated
+  risk management and third-party risk management solutions, and with Tech Mahindra
+  to validate and deliver production-ready, industry-specific enterprise AI and automation
+  solutions at scale. ServiceNow, Inc. was founded in 2004 and is headquartered in
+  Santa Clara, California.
+longName: ServiceNow, Inc.
+market: us_market
+marketCap: 105960939520
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_22967487
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 1444999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 103386912370
+numberOfAnalystOpinions: 46
+open: 100.51
+operatingCashflow: 5334000128
+operatingMargins: 0.12753999
+overallRisk: 5
+payoutRatio: 0.0
+pegRatio: 0.81
+phone: 408 501 8550
+previousClose: 99.61
+priceEpsCurrentYear: 25.815832
+priceHint: 2
+priceToBook: 8.090822
+priceToSalesTrailing12Months: 6.866758
+profitMargins: 0.09364
+quickRatio: 0.579
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.44898
+region: US
+regularMarketChange: 2.4799957
+regularMarketChangePercent: 2.4897056
+regularMarketDayHigh: 102.39
+regularMarketDayLow: 100.4
+regularMarketDayRange: 100.4 - 102.39
+regularMarketOpen: 100.51
+regularMarketPreviousClose: 99.61
+regularMarketPrice: 102.09
+regularMarketTime: 1794413746
+regularMarketVolume: 5569744
+returnOnAssets: 0.045879997
+returnOnEquity: 0.11846
+revenueGrowth: 0.205
+revenuePerShare: 14.907
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 2
+sharesOutstanding: 1037917000
+sharesPercentSharesOut: 0.026099999
+sharesShort: 27126589
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 29670345
+shortName: ServiceNow, Inc.
+shortPercentOfFloat: 0.026199998
+shortRatio: 1.68
+sourceInterval: 15
+state: CA
+symbol: NOW
+targetHighPrice: 266.0
+targetLowPrice: 72.0
+targetMeanPrice: 155.8187
+targetMedianPrice: 155.0
+totalCash: 4607000064
+totalCashPerShare: 4.439
+totalDebt: 8415000064
+totalRevenue: 15431000064
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 1.39
+trailingPE: 73.446045
+trailingPegRatio: 0.7828
+triggerable: true
+twoHundredDayAverage: 114.10455
+twoHundredDayAverageChange: -12.014557
+twoHundredDayAverageChangePercent: -0.10529428
+typeDisp: Equity
+volume: 5569744
+website: https://www.servicenow.com
+zip: '95054'

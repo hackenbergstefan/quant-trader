@@ -1,0 +1,300 @@
+52WeekChange: -0.18054765
+SandP52WeekChange: 0.097798586
+address1: 30 Hudson Yards
+address2: Suite 7500
+allTimeHigh: 170.4
+allTimeLow: 8.0
+ask: 101.33
+askSize: 100
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 4899710
+averageDailyVolume3Month: 4774212
+averageVolume: 4774212
+averageVolume10days: 4899710
+beta: 1.715
+bid: 101.25
+bidSize: 300
+bookValue: 31.75
+city: New York
+companyOfficers:
+- age: 82
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. George R. Roberts J.D.
+  title: Co-Founder & Co-Executive Chairman
+  totalPay: 63783936
+  unexercisedValue: 0
+  yearBorn: 1943
+- age: 81
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Henry Robert Kravis
+  title: Co-Founder & Executive Co-Chairman
+  totalPay: 62567217
+  unexercisedValue: 0
+  yearBorn: 1944
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph Y. Bae
+  title: Co-CEO & Director
+  totalPay: 84270205
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Scott C. Nuttall
+  title: Co-CEO & Director
+  totalPay: 80356440
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert Howard Lewin
+  title: Chief Financial Officer
+  totalPay: 15304124
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kathryn King Sudol J.D.
+  title: Partner, Chief Legal Officer & General Counsel
+  totalPay: 5784223
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andre  Schumacher
+  title: Principal
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Carla  King
+  title: Director, Corporate Counsel & COO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anusha  Sriram
+  title: Director & Head of Technology Strategy
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ruchir  Swarup
+  title: Partner & Chief Information Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 100.97
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 102.4
+dayLow: 99.62
+debtToEquity: 69.812
+displayName: KKR
+dividendDate: 1787616000
+dividendRate: 0.78
+dividendYield: 0.77
+earningsCallTimestampEnd: 1794236400
+earningsCallTimestampStart: 1794236400
+earningsGrowth: 0.322
+earningsQuarterlyGrowth: 0.29
+earningsTimestamp: 1794231000
+earningsTimestampEnd: 1801747800
+earningsTimestampStart: 1801747800
+ebitdaMargins: 0.0
+enterpriseToRevenue: 6.321
+enterpriseValue: 150944333824
+epsCurrentYear: 8.40773
+epsForward: 7.21771
+epsTrailingTwelveMonths: 3.41
+esgPopulated: false
+exDividendDate: 1786320000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 95.6306
+fiftyDayAverageChange: 5.3394012
+fiftyDayAverageChangePercent: 0.055833604
+fiftyTwoWeekChangePercent: -18.054766
+fiftyTwoWeekHigh: 144.84
+fiftyTwoWeekHighChange: -43.869995
+fiftyTwoWeekHighChangePercent: -0.30288592
+fiftyTwoWeekLow: 82.67
+fiftyTwoWeekLowChange: 18.300003
+fiftyTwoWeekLowChangePercent: 0.22136208
+fiftyTwoWeekRange: 82.67 - 144.84
+financialCurrency: USD
+firstTradeDateMilliseconds: 1279200600000
+fiveYearAvgDividendYield: 0.74
+floatShares: 689541449
+forwardEps: 7.21771
+forwardPE: 13.989202
+fullExchangeName: NYSE
+fullTimeEmployees: 5043
+fulldayChange: 0.12000275
+fulldayChangePercent: 0.11899132
+fulldayPrice: 100.97
+gmtOffSetMilliseconds: -18000000
+grossMargins: 0.55322
+grossProfits: 13210057728
+hasPrePostMarketData: true
+heldPercentInsiders: 0.23189
+heldPercentInstitutions: 0.62885
+impliedSharesOutstanding: 918094436
+industry: Asset Management
+industryDisp: Asset Management
+industryKey: asset-management
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786320000
+lastDividendValue: 0.195
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: KKR & Co. Inc. is a private equity and real estate investment
+  firm specializing in direct and fund of fund investments. It specializes in acquisitions,
+  leveraged buyouts, management buyouts, credit special situations, growth equity,
+  mature, mezzanine, distressed, turnaround, lower middle market, and middle market
+  investments. The firm considers investments in all industries with a focus on software,
+  cybersecurity, fintech, data and information, security, semiconductors, consumer
+  electronics, internet of things (iot), internet, information services, information
+  technology infrastructure, financial technology, network and cyber security architecture,
+  engineering and operations, content, technology and hardware, energy and infrastructure,
+  real estate, services industry with a focus on business services, intelligence,
+  industry-leading franchises and companies in natural resource, containers and packaging,
+  agriculture, airports, ports, forestry, electric utilities, textiles, apparel and
+  luxury goods, household durables, digital media, insurance, brokerage houses, non-durable
+  goods distribution, supermarket retailing, grocery stores, food, beverage, and tobacco,
+  hospitals, entertainment venues and production companies, publishing, printing services,
+  capital goods, financial services, specialized finance, pipelines, and renewable
+  energy. In energy and infrastructure, it focuses on the upstream oil and gas and
+  equipment, minerals and royalties and services verticals. In real estate, the firm
+  seeks to invest in private and public real estate securities including property-level
+  equity, debt and special situations transactions and businesses with significant
+  real estate holdings, and oil and natural gas properties. The firm also invests
+  in asset services sector that encompasses a broad array of B2B, B2C and B2G services
+  verticals including asset-based, transport, logistics, leisure/hospitality, resource
+  and utility support, infra-like, mission-critical, and environmental services. Within
+  Americas, the firm prefers to invest in consumer products; chemicals, metals and
+  mining; energy and natural resources; financial services; healthcare; biopharmaceutical;
+  medical device; health care services; life science tools/diagnostics; health care
+  information technology sub-sectors; industrials; media and communications; retail;
+  and technology. Within Europe, the firm invests in consumer and retail; energy;
+  financial services; health care; industrials and chemicals; media and digital; and
+  telecom and technologies. Within Asia, it invests in consumer products; energy and
+  resources; financial services; healthcare; industrials; logistics; media and telecom;
+  retail; real estate; and technology. It also seeks to make impact investments focused
+  on identifying and investing behind businesses with positive social or environmental
+  impact. The firm seeks to invest in mid to high-end residential developments but
+  can invest in other projects throughout Mainland China through outright ownership,
+  joint ventures, and merger. It invests globally with a focus on Australia, emerging
+  and developed Asia, Middle East and Africa, Nordic, Southeast Asia, Asia Pacific,
+  Ireland, Hong Kong, Japan, Taiwan, India, Vietnam, Malaysia, Singapore, Indonesia,
+  France, Germany, Netherlands, United Kingdom, Caribbean, Mexico, South America,
+  North America, Israel, Brazil, Latin America, Korea with a focus on South Korea,
+  and United States of America. In the United States and Europe, the firm focuses
+  on buyouts of large, publicly traded companies. For middle market private equity
+  it seeks to invest in companies with enterprise values between $200 million and
+  $1000 million and EBITDA between $50 million to $250 million. The firm prefers to
+  invest in a range of debt and public equity investing and may co-invest. It seeks
+  a board seat in its portfolio companies and a controlling ownership of a company
+  or a strategic minority position. It prefers to invest in initial public offerings,
+  follow-on offerings, PIPE transactions, co-investments or private capital raises.
+  The firm may acquire majority and minority equity interests, particularly when making
+  private equity investments in Asia or sponsoring investments as part of a large
+  investor consortium. The firm typically holds its investment for a period of five
+  to seven years and more and exits through initial public offerings, secondary offerings,
+  and sales to strategic buyers. KKR & Co. Inc. was founded in May 1, 1976 and is
+  based in New York, New York with additional offices across North America, Europe,
+  Australia, Middle East and Asia Pacific.
+longName: KKR & Co. Inc.
+market: us_market
+marketCap: 92700000256
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_21401
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3238028032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 89972272003
+numberOfAnalystOpinions: 21
+open: 101.0
+operatingMargins: 0.24906
+payoutRatio: 0.2229
+pegRatio: 0.42
+phone: 212 750 8300
+previousClose: 100.85
+priceEpsCurrentYear: 12.009187
+priceHint: 2
+priceToBook: 3.1801574
+priceToSalesTrailing12Months: 3.8821836
+profitMargins: 0.14294
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6087
+region: US
+regularMarketChange: 0.12000275
+regularMarketChangePercent: 0.11899132
+regularMarketDayHigh: 102.4
+regularMarketDayLow: 99.62
+regularMarketDayRange: 99.62 - 102.4
+regularMarketOpen: 101.0
+regularMarketPreviousClose: 100.85
+regularMarketPrice: 100.97
+regularMarketTime: 1794413726
+regularMarketVolume: 557391
+revenueGrowth: -0.275
+revenuePerShare: 26.711
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+sharesOutstanding: 892139534
+sharesPercentSharesOut: 0.0164
+sharesShort: 14690096
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 13813554
+shortName: KKR & Co. Inc.
+shortPercentOfFloat: 0.021300001
+shortRatio: 2.58
+sourceInterval: 15
+state: NY
+symbol: KKR
+targetHighPrice: 156.0
+targetLowPrice: 97.0
+targetMeanPrice: 120.85857
+targetMedianPrice: 120.03
+totalCash: 47556554752
+totalCashPerShare: 53.059
+totalDebt: 56163958784
+totalRevenue: 23878313984
+tradeable: false
+trailingAnnualDividendRate: 0.77
+trailingAnnualDividendYield: 0.0076351017
+trailingEps: 3.41
+trailingPE: 29.60997
+trailingPegRatio: 0.4302
+triggerable: true
+twoHundredDayAverage: 97.92315
+twoHundredDayAverageChange: 3.046852
+twoHundredDayAverageChangePercent: 0.031114727
+typeDisp: Equity
+volume: 557391
+website: https://www.kkr.com
+zip: '10001'

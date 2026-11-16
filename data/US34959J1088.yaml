@@ -1,0 +1,276 @@
+52WeekChange: 0.301749
+SandP52WeekChange: 0.097798586
+address1: 6920 Seaway Boulevard
+allTimeHigh: 68.94
+allTimeLow: 23.528076
+ask: 67.87
+askSize: 100
+auditRisk: 2
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 4161340
+averageDailyVolume3Month: 2500795
+averageVolume: 2500795
+averageVolume10days: 4161340
+beta: 0.942
+bid: 67.83
+bidSize: 300
+boardRisk: 1
+bookValue: 19.95
+city: Everett
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Olumide O. Soroye J.D.
+  title: President, CEO & Director
+  totalPay: 2502368
+  unexercisedValue: 460162
+  yearBorn: 1973
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark D. Okerstrom J.D.
+  title: Senior VP & CFO
+  totalPay: 3049000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 55
+  exercisedValue: 1299586
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter C. Underwood J.D.
+  title: Senior VP & Chief Legal Officer
+  totalPay: 1316230
+  unexercisedValue: 3518240
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher M. Mulhall
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard  Noonan
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christina  Jones
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amee  Desjourdy
+  title: Senior VP & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Parker  Burke
+  title: President of Fluke & Group President of Connected Reliability Group (CRG)
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Arul  Elumalai
+  title: President of Gordian and Group President of Facilities & Asset Lifecycle
+    (FAL) Group
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chad  Rohrer
+  title: President of ASP & Group President of Infection Prevention Group (IPG)
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions:
+- header: Dividend
+  message: FTV announced a cash dividend of $0.07 with an ex-date of Nov. 27, 2026
+  meta:
+    amount: '0.07'
+    dateEpochMs: 1795755600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 67.92
+currentRatio: 1.226
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 67.94
+dayLow: 67.38
+debtToEquity: 60.436
+displayName: Fortive
+dividendDate: 1798416000
+dividendRate: 0.28
+dividendYield: 0.41
+earningsCallTimestampEnd: 1793203200
+earningsCallTimestampStart: 1793203200
+earningsGrowth: 2.475
+earningsQuarterlyGrowth: 2.136
+earningsTimestamp: 1793190600
+earningsTimestampEnd: 1793190600
+earningsTimestampStart: 1793190600
+ebitda: 1313699968
+ebitdaMargins: 0.29883
+enterpriseToEbitda: 17.806
+enterpriseToRevenue: 5.321
+enterpriseValue: 23391959040
+epsCurrentYear: 3.12008
+epsForward: 3.31674
+epsTrailingTwelveMonths: 2.11
+esgPopulated: false
+exDividendDate: 1795737600
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 58.765
+fiftyDayAverageChange: 9.154999
+fiftyDayAverageChangePercent: 0.15578999
+fiftyTwoWeekChangePercent: 30.1749
+fiftyTwoWeekHigh: 68.94
+fiftyTwoWeekHighChange: -1.0200043
+fiftyTwoWeekHighChangePercent: -0.014795536
+fiftyTwoWeekLow: 50.09
+fiftyTwoWeekLowChange: 17.829998
+fiftyTwoWeekLowChangePercent: 0.35595924
+fiftyTwoWeekRange: 50.09 - 68.94
+financialCurrency: USD
+firstTradeDateMilliseconds: 1467725400000
+fiveYearAvgDividendYield: 0.43
+floatShares: 276577181
+forwardEps: 3.31674
+forwardPE: 20.477938
+freeCashflow: 982924992
+fullExchangeName: NYSE
+fullTimeEmployees: 10000
+fulldayChange: 0.18999481
+fulldayChangePercent: 0.28051794
+fulldayPrice: 67.92
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.63471
+grossProfits: 2790299904
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00466
+heldPercentInstitutions: 1.13425
+impliedSharesOutstanding: 297644456
+industry: Scientific & Technical Instruments
+industryDisp: Scientific & Technical Instruments
+industryKey: scientific-technical-instruments
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788480000
+lastDividendValue: 0.07
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1751241600
+lastSplitFactor: 1327:1000
+longBusinessSummary: Fortive Corporation designs, develops, manufactures, and markets
+  products, software, and services in the United States, China, and internationally.
+  It operates through Intelligent Operating Solutions and Advanced Healthcare Solutions
+  segments. The Intelligent Operating Solutions segment provides advanced instrumentation,
+  software, and services, including maintenance, repair, measurement and condition
+  monitoring, facility and asset lifecycle software applications, and connected worker
+  safety and compliance solutions for manufacturing, process industries, healthcare,
+  utilities and power, communications and electronics, and other industries. This
+  segment markets its products and services under the ACCRUENT, FLUKE, GORDIAN, INDUSTRIAL
+  SCIENTIFIC, INTELEX, and SERVICECHANNEL brand names. The Advanced Healthcare Solutions
+  segment provides critical workflow solutions comprising instrument sterilization,
+  instrument tracking, biomedical test tools, radiation detection and safety monitoring,
+  and end-to-end clinical productivity software and solutions under the ASP, CENSIS,
+  FLUKE BIOMEDICAL, LANDAUER, and PROVATION brand names. Fortive Corporation was incorporated
+  in 2015 and is headquartered in Everett, Washington.
+longName: Fortive Corporation
+market: us_market
+marketCap: 20216010752
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_318505463
+mostRecentQuarter: 1790899200
+netIncomeToCommon: 657699968
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 20159459004
+numberOfAnalystOpinions: 14
+open: 67.79
+operatingCashflow: 1200099968
+operatingMargins: 0.19639999
+overallRisk: 6
+payoutRatio: 0.1185
+pegRatio: 0.98
+phone: 425 446 5000
+previousClose: 67.73
+priceEpsCurrentYear: 21.768673
+priceHint: 2
+priceToBook: 3.404511
+priceToSalesTrailing12Months: 4.5985193
+profitMargins: 0.14829001
+quickRatio: 0.924
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.75
+region: US
+regularMarketChange: 0.18999481
+regularMarketChangePercent: 0.28051794
+regularMarketDayHigh: 67.94
+regularMarketDayLow: 67.38
+regularMarketDayRange: 67.38 - 67.94
+regularMarketOpen: 67.79
+regularMarketPreviousClose: 67.73
+regularMarketPrice: 67.92
+regularMarketTime: 1794413723
+regularMarketVolume: 368743
+returnOnAssets: 0.04614
+returnOnEquity: 0.105500005
+revenueGrowth: 0.078
+revenuePerShare: 14.291
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 7
+sharesOutstanding: 297644456
+sharesPercentSharesOut: 0.0506
+sharesShort: 15056221
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 17157363
+shortName: Fortive Corporation
+shortPercentOfFloat: 0.070300005
+shortRatio: 5.7
+sourceInterval: 15
+state: WA
+symbol: FTV
+targetHighPrice: 75.0
+targetLowPrice: 55.0
+targetMeanPrice: 67.07143
+targetMedianPrice: 67.5
+totalCash: 377300000
+totalCashPerShare: 1.268
+totalDebt: 3600100096
+totalRevenue: 4396199936
+tradeable: false
+trailingAnnualDividendRate: 0.25
+trailingAnnualDividendYield: 0.0036911264
+trailingEps: 2.11
+trailingPE: 32.189575
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 59.1229
+twoHundredDayAverageChange: 8.7971
+twoHundredDayAverageChangePercent: 0.14879344
+typeDisp: Equity
+volume: 368743
+website: https://www.fortive.com
+zip: '98203'

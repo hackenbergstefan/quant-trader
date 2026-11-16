@@ -1,0 +1,290 @@
+52WeekChange: -0.14585537
+SandP52WeekChange: 0.097798586
+address1: Stonemason’s Way
+address2: Rathfarnham Dublin 16
+allTimeHigh: 131.55
+allTimeLow: 3.0
+ask: 96.22
+askSize: 100
+auditRisk: 2
+averageAnalystRating: 1.3 - Strong Buy
+averageDailyVolume10Day: 6886850
+averageDailyVolume3Month: 5274965
+averageVolume: 5274965
+averageVolume10days: 6886850
+beta: 1.219
+bid: 96.18
+bidSize: 300
+boardRisk: 6
+bookValue: 37.584
+city: Dublin
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jim  Mintern
+  title: CEO & Director
+  totalPay: 5629409
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Randy  Lake
+  title: Chief Operating Officer
+  totalPay: 4640069
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nathan  Creech
+  title: President of Americas Division
+  totalPay: 3317631
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Buckley
+  title: President of International Division
+  totalPay: 2895330
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Aylwyn  Bryan
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Thomas R. Peck Jr.
+  title: Chief Digital & Information Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Danilo Marcelo Juvane C.F.A.
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Padraig O. Riordain
+  title: Chief Legal & Corporate Affairs Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lauren  Schulz
+  title: Chief Communications Officer
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristin  Lane
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions:
+- header: Dividend
+  message: CRH announced a cash dividend of $0.39 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.39'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: Ireland
+cryptoTradeable: false
+currency: USD
+currentPrice: 96.19
+currentRatio: 1.459
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 96.71
+dayLow: 95.76
+debtToEquity: 81.669
+displayName: CRH
+dividendDate: 1796774400
+dividendRate: 1.56
+dividendYield: 1.61
+earningsCallTimestampEnd: 1793275200
+earningsCallTimestampStart: 1793275200
+earningsGrowth: -0.158
+earningsQuarterlyGrowth: -0.172
+earningsTimestamp: 1793277000
+earningsTimestampEnd: 1793277000
+earningsTimestampStart: 1793277000
+ebitda: 7766000128
+ebitdaMargins: 0.19934
+enterpriseToEbitda: 10.602
+enterpriseToRevenue: 2.113
+enterpriseValue: 82335252480
+epsCurrentYear: 5.34588
+epsForward: 5.97491
+epsTrailingTwelveMonths: 5.31
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 87.257
+fiftyDayAverageChange: 8.932999
+fiftyDayAverageChangePercent: 0.10237572
+fiftyTwoWeekChangePercent: -14.585537
+fiftyTwoWeekHigh: 131.55
+fiftyTwoWeekHighChange: -35.36
+fiftyTwoWeekHighChangePercent: -0.26879513
+fiftyTwoWeekLow: 78.62
+fiftyTwoWeekLowChange: 17.57
+fiftyTwoWeekLowChangePercent: 0.22348002
+fiftyTwoWeekRange: 78.62 - 131.55
+financialCurrency: USD
+firstTradeDateMilliseconds: 616339800000
+fiveYearAvgDividendYield: 1.93
+floatShares: 663381410
+forwardEps: 5.97491
+forwardPE: 16.098988
+freeCashflow: 2278125056
+fullExchangeName: NYSE
+fullTimeEmployees: 83032
+fulldayChange: -0.66999817
+fulldayChangePercent: -0.69178957
+fulldayPrice: 96.19
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.36233002
+grossProfits: 14115999744
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00137
+heldPercentInstitutions: 0.87454003
+impliedSharesOutstanding: 665230751
+industry: Building Materials
+industryDisp: Building Materials
+industryKey: building-materials
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.39
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 903916800
+lastSplitFactor: '5:1'
+longBusinessSummary: 'CRH plc, together with its subsidiaries, provides building materials
+  solutions in Ireland, the United States, the United Kingdom, rest of Europe, and
+  internationally. It operates through three segments: Americas Materials Solutions,
+  Americas Building Solutions, and International Solutions. The company offers building
+  materials for the construction and maintenance of public infrastructure, and commercial
+  and residential buildings, as well as construction and renovation of transportation
+  infrastructure, critical utility networks, commercial and residential buildings,
+  and outdoor living spaces; paving and construction services; and produces and sells
+  aggregates, cementitious materials, ready mixed concrete and mortars, and asphalt.
+  It also manufactures, supplies, and delivers building products for the built environment
+  in communities in North America; and provides building and infrastructure solutions
+  for complex critical utility infrastructure, such as water, energy, transportation,
+  and telecommunications projects, and outdoor living solutions for private and public
+  spaces. In addition, the company produces and supplies precast and pre-stressed
+  concrete products comprising vaults, pipes, and manholes; and concrete and polymer-based
+  products, such as underground vaults, drainage systems, enclosures, and modular
+  precast structures for applications in transportation, water, energy, and telecommunications
+  markets. Further, it provides crushed stone, sand, and gravel; granite, limestone,
+  and sandstone; fly ash, pozzolans, synthetic gypsum, calcined clay, and ground granulated
+  blast-furnace slags; fencing and railing systems, lawn and garden products, and
+  packaged concrete mixes; and concrete masonry, hardscape and related products, including
+  pavers, blocks and curbs, retaining walls, and slabs. CRH plc was founded in 1936
+  and is based in Dublin, Ireland.'
+longName: CRH plc
+market: us_market
+marketCap: 63988543488
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_257151
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3556000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 64439457735
+numberOfAnalystOpinions: 24
+open: 95.96
+operatingCashflow: 5185999872
+operatingMargins: 0.14109999
+overallRisk: 5
+payoutRatio: 0.29
+pegRatio: 1.7
+phone: 353 1 404 1000
+previousClose: 96.86
+priceEpsCurrentYear: 17.993296
+priceHint: 2
+priceToBook: 2.5593338
+priceToSalesTrailing12Months: 1.6424586
+profitMargins: 0.09189
+quickRatio: 1.001
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.34783
+region: US
+regularMarketChange: -0.66999817
+regularMarketChangePercent: -0.69178957
+regularMarketDayHigh: 96.71
+regularMarketDayLow: 95.76
+regularMarketDayRange: 95.76 - 96.71
+regularMarketOpen: 95.96
+regularMarketPreviousClose: 96.86
+regularMarketPrice: 96.19
+regularMarketTime: 1794413732
+regularMarketVolume: 655797
+returnOnAssets: 0.05732
+returnOnEquity: 0.13915
+revenueGrowth: 0.03
+revenuePerShare: 58.352
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 7
+sharesOutstanding: 665230751
+sharesPercentSharesOut: 0.0212
+sharesShort: 14081903
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 12617347
+shortName: CRH PLC
+shortPercentOfFloat: 0.0241
+shortRatio: 2.62
+sourceInterval: 15
+symbol: CRH
+targetHighPrice: 160.0
+targetLowPrice: 95.0
+targetMeanPrice: 121.175
+targetMedianPrice: 116.5
+totalCash: 5107999744
+totalCashPerShare: 7.679
+totalDebt: 21581000704
+totalRevenue: 38959001600
+tradeable: false
+trailingAnnualDividendRate: 1.54
+trailingAnnualDividendYield: 0.015899235
+trailingEps: 5.31
+trailingPE: 18.114878
+trailingPegRatio: 1.6841
+triggerable: true
+twoHundredDayAverage: 103.1811
+twoHundredDayAverageChange: -6.9910965
+twoHundredDayAverageChangePercent: -0.067755595
+typeDisp: Equity
+volume: 655797
+website: https://www.crh.com
+zip: D16 KH51

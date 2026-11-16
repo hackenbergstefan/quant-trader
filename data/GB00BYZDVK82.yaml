@@ -1,0 +1,246 @@
+52WeekChange: 0.08373046
+SandP52WeekChange: 0.097798586
+address1: Solar House
+address2: Fieldhouse Lane
+allTimeHigh: 2251.06
+allTimeLow: 240.0
+ask: 1634.0
+askSize: 0
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 460804
+averageDailyVolume3Month: 589180
+averageVolume: 589180
+averageVolume10days: 460804
+beta: 0.618
+bid: 1632.0
+bidSize: 0
+bookValue: 1.854
+city: Marlow
+companyOfficers:
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Graham L. Charlton
+  title: CEO & Executive Director
+  totalPay: 1876787
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dr. Kathryn Isabel Mecklenburgh
+  title: CFO & Executive Director
+  totalPay: 1153024
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Anna  Pulisciano
+  title: Operations Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Mark  Forster
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Keith  Monk
+  title: Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Michael D. Watts
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Debra  Coady
+  title: Legal Director & General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Rebecca  Monk
+  title: Chief People Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Richard Wyn Griffith
+  title: Chief Commercial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Anthony  Cowen
+  title: Chief Revenue Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+corporateActions:
+- header: Dividend
+  message: SCT.L announced a cash dividend of GBp 0.216 with an ex-date of Nov. 12,
+    2026
+  meta:
+    amount: '0.216'
+    dateEpochMs: 1794441600000
+    eventType: DIVIDEND
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 1633.5
+currentRatio: 1.441
+customPriceAlertConfidence: LOW
+dayHigh: 1640.0
+dayLow: 1595.0
+debtToEquity: 10.412
+dividendRate: 0.43
+dividendYield: 2.71
+earningsCallTimestampEnd: 1791966600
+earningsCallTimestampStart: 1791966600
+earningsGrowth: 0.141
+earningsQuarterlyGrowth: 0.122
+earningsTimestamp: 1791991800
+earningsTimestampEnd: 1791991800
+earningsTimestampStart: 1791991800
+ebitda: 220000000
+ebitdaMargins: 0.11139
+enterpriseToEbitda: 13.469
+enterpriseToRevenue: 1.5
+enterpriseValue: 2963228672
+epsCurrentYear: 0.87647
+epsForward: 1.01677
+epsTrailingTwelveMonths: 0.75
+esgPopulated: false
+exDividendDate: 1794441600
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 1794.8
+fiftyDayAverageChange: -161.30005
+fiftyDayAverageChangePercent: -0.089870766
+fiftyTwoWeekChangePercent: 8.373046
+fiftyTwoWeekHigh: 2134.0
+fiftyTwoWeekHighChange: -500.5
+fiftyTwoWeekHighChangePercent: -0.23453608
+fiftyTwoWeekLow: 1083.0
+fiftyTwoWeekLowChange: 550.5
+fiftyTwoWeekLowChangePercent: 0.50831026
+fiftyTwoWeekRange: 1083.0 - 2134.0
+financialCurrency: GBP
+firstTradeDateMilliseconds: 1447401600000
+fiveYearAvgDividendYield: 1.68
+floatShares: 134944316
+forwardEps: 1.01677
+forwardPE: 16.06558
+freeCashflow: 144824992
+fullExchangeName: LSE
+fullTimeEmployees: 3036
+fulldayChange: 41.5
+fulldayChangePercent: 2.6067839
+fulldayPrice: 1633.5
+gmtOffSetMilliseconds: 0
+grossMargins: 0.31203
+grossProfits: 616300032
+hasPrePostMarketData: false
+heldPercentInsiders: 0.30333
+heldPercentInstitutions: 0.42641997
+impliedSharesOutstanding: 215071841
+industry: Electronics & Computer Distribution
+industryDisp: Electronics & Computer Distribution
+industryKey: electronics-computer-distribution
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794441600
+lastDividendValue: 0.216
+lastFiscalYearEnd: 1785456000
+longBusinessSummary: Softcat plc operates as a value-added IT reseller and IT infrastructure
+  solutions provider in the United Kingdom. The company advices, procures, designs,
+  implements, and manages digital infrastructure, such as hybrid infrastructure, workplace,
+  cyber security, networking and connectivity, data, automation, and AI for businesses
+  and public sector organizations. It also provides public cloud, collaboration, data
+  centre and private cloud, devices, and financial solution services. In addition,
+  the company offers Softcat intelligence services, lifecycle solutions, modern management,
+  software licensing, supply chain operation, and virtual desktop and application,
+  as well as IT service provider and retail banking hub. Softcat plc was incorporated
+  in 1987 and is headquartered in Marlow, the United Kingdom.
+longName: Softcat plc
+market: gb_market
+marketCap: 3513198592
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_6495276
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 150300000
+nextFiscalYearEnd: 1816992000
+nonDilutedMarketCap: 3423943708
+numberOfAnalystOpinions: 13
+open: 1605.0
+operatingCashflow: 157500000
+operatingMargins: 0.108909994
+payoutRatio: 0.40240002
+phone: 44 1628 403 403
+previousClose: 1592.0
+priceEpsCurrentYear: 1863.7261
+priceHint: 2
+priceToBook: 8.81068
+priceToSalesTrailing12Months: 1.7787447
+profitMargins: 0.0761
+quickRatio: 1.356
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.23077
+region: US
+regularMarketChange: 41.5
+regularMarketChangePercent: 2.6067839
+regularMarketDayHigh: 1640.0
+regularMarketDayLow: 1595.0
+regularMarketDayRange: 1595.0 - 1640.0
+regularMarketOpen: 1605.0
+regularMarketPreviousClose: 1592.0
+regularMarketPrice: 1633.5
+regularMarketTime: 1794411492
+regularMarketVolume: 167365
+returnOnAssets: 0.11333
+returnOnEquity: 0.42771998
+revenueGrowth: 0.246
+revenuePerShare: 9.96
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+sharesOutstanding: 215071841
+shortName: SOFTCAT PLC
+sourceInterval: 15
+symbol: SCT.L
+targetHighPrice: 2600.0
+targetLowPrice: 1750.0
+targetMeanPrice: 2136.5378
+targetMedianPrice: 2120.0
+totalCash: 199900000
+totalCashPerShare: 1.018
+totalDebt: 37900000
+totalRevenue: 1975100032
+tradeable: false
+trailingAnnualDividendRate: 0.315
+trailingAnnualDividendYield: 0.00019786433
+trailingEps: 0.75
+trailingPE: 21.779999
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 1620.45
+twoHundredDayAverageChange: 13.050049
+twoHundredDayAverageChangePercent: 0.008053349
+typeDisp: Equity
+volume: 167365
+website: https://www.softcat.com
+zip: SL7 1LW

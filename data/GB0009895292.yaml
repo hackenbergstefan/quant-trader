@@ -1,0 +1,268 @@
+52WeekChange: 0.027075052
+SandP52WeekChange: 0.097798586
+address1: 1 Francis Crick Avenue
+address2: Cambridge Biomedical Campus
+allTimeHigh: 15732.0
+allTimeLow: 580.58
+ask: 13860.0
+askSize: 0
+auditRisk: 3
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 3048463
+averageDailyVolume3Month: 2889202
+averageVolume: 2889202
+averageVolume10days: 3048463
+beta: 0.155
+bid: 13856.0
+bidSize: 0
+boardRisk: 3
+bookValue: 24.899584
+city: Cambridge
+companyOfficers:
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pascal Claude Roland Soriot D.V.M., M.B.A.
+  title: CEO & Executive Director
+  totalPay: 6117000
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Aradhana  Sarin M.D.
+  title: CFO & Executive Director
+  totalPay: 2712000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Pam P. Cheng
+  title: EVP of Global opt. & IT, Chief Sust. Officer and Member of External Sust.Adv.
+    Board
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joris  Silon
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jeffrey  Pott J.D.
+  title: CHRO, Chief Compliance Officer, General Counsel & Member of External Sustainability
+    Advisory Board
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Ruud  Dobber Ph.D.
+  title: Executive Vice-President of BioPharmaceuticals Business Unit
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Susan Mary Galbraith M.D., Ph.D.
+  title: Executive Vice President of Oncology R&D
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Iskra  Reic
+  title: Executive Vice President of International
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Fredrickson
+  title: Executive Vice-President of Oncology Haematology Business Unit
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ruth  March FMEDSCI, O.B.E., Ph.D.
+  title: Senior VP of Precision Medicine - R&D Oncology
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 13854.0
+currentRatio: 1.006
+customPriceAlertConfidence: LOW
+dayHigh: 13962.0
+dayLow: 13824.0
+debtToEquity: 66.247
+dividendRate: 2.39
+dividendYield: 1.72
+earningsCallTimestampEnd: 1793370600
+earningsCallTimestampStart: 1793370600
+earningsGrowth: 0.235
+earningsQuarterlyGrowth: 0.231
+earningsTimestamp: 1793377800
+earningsTimestampEnd: 1793377800
+earningsTimestampStart: 1793377800
+ebitda: 21280000000
+ebitdaMargins: 0.34111
+enterpriseToEbitda: 11.353
+enterpriseToRevenue: 3.873
+enterpriseValue: 241585831936
+epsCurrentYear: 10.24278
+epsForward: 8.486957
+epsTrailingTwelveMonths: 5.27
+esgPopulated: false
+exDividendDate: 1785974400
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 12556.48
+fiftyDayAverageChange: 1297.5195
+fiftyDayAverageChangePercent: 0.10333465
+fiftyTwoWeekChangePercent: 2.7075052
+fiftyTwoWeekHigh: 15732.0
+fiftyTwoWeekHighChange: -1878.0
+fiftyTwoWeekHighChangePercent: -0.11937452
+fiftyTwoWeekLow: 9892.0
+fiftyTwoWeekLowChange: 3962.0
+fiftyTwoWeekLowChangePercent: 0.4005257
+fiftyTwoWeekRange: 9892.0 - 15732.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 737967600000
+fiveYearAvgDividendYield: 2.03
+floatShares: 1543167450
+forwardEps: 8.486957
+forwardPE: 16.323874
+freeCashflow: 5628000256
+fullExchangeName: LSE
+fullTimeEmployees: 96100
+fulldayChange: -30.0
+fulldayChangePercent: -0.21607606
+fulldayPrice: 13854.0
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.81781995
+grossProfits: 51019001856
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00052
+heldPercentInstitutions: 0.77387
+impliedSharesOutstanding: 1550917690
+industry: Drug Manufacturers - General
+industryDisp: Drug Manufacturers - General
+industryKey: drug-manufacturers-general
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1785974400
+lastDividendValue: 0.795
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: AstraZeneca PLC, a biopharmaceutical company, focuses on the
+  discovery, development, manufacture, and commercialization of prescription medicines.
+  The company offers Imjudo, Datroway, Iressa, Tagrisso, Imfinzi, Lynparza, Calquence,
+  Enhertu, Orpathys, Truqap, Zoladex, Faslodex, Crestor, Andexxa, Onglyza, Symlin,
+  XIGDUO XR, Atacand, Atacand HCT, Atacand Plus, Farxiga/Forxiga, Plendil, Modip,
+  Splendil, Munobal, Flodil, Tenormin, Tenormine, Prenormine, Atenol, Zestril, Brilinta/Brilique,
+  Komboglyze, Qtern, Wainua, Byetta, Lokelma, Seloken ZOK, Toprol-XL, Betaloc ZOK,
+  XIGDUO, Accolate, Accoleit, Vanticon, Bricanyl Respules, Eklira Genuair/Tudorza/Bretaris,
+  Pulmicort Turbuhaler, Symbicort Turbuhaler, Airsupra, Bricanyl Turbuhaler, Fasenra,
+  Rhinocort, Tezspire, Bevespi Aerosphere, Daliresp/Daxas, Oxis Turbuhaler, Saphnelo,
+  Breztri Aerosphere, Duaklir Genuair, Pulmicort Respules, and Symbicort pMDI. It
+  also provides Beyfortus, Kavigale, Evusheld, Fluenz/FluMist, Synagis, Kanuma, Ultomiris,
+  Koselugo, Voydeya, Soliris, Strensiq, Nexium, and other medicines. The company offers
+  its products for ocology, cardiovascular, renal and metabolism, respiratory & immunology,
+  vaccines and immune, and therapies for rare diseases. It serves primary and specialty
+  care physicians through distributors and local representative offices in the United
+  Kingdom, USA, rest of Europe, Asia, Africa, and Australasia. It has a strategic
+  agreement with Tempus and Pathos to develop the multimodal foundation model in oncology;
+  CSPC Pharmaceutical Group Limited to advance the discovery and development of oral
+  candidates; Nucs AI Inc. to develop AI-driven Response Prediction for Therapeutic
+  Radioconjugates; and Carterra, Inc. to advances lab-in-the-loop drug discovery through
+  new scientific research collaboration. The company was formerly known as Zeneca
+  Group PLC and changed its name to AstraZeneca PLC in April 1999. AstraZeneca PLC
+  was incorporated in 1992 and is based in Cambridge, the United Kingdom.
+longName: AstraZeneca PLC
+market: gb_market
+marketCap: 214864134144
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_336774
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 11029999616
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 215329412079
+numberOfAnalystOpinions: 21
+open: 13902.0
+operatingCashflow: 13232000000
+operatingMargins: 0.25803
+overallRisk: 5
+payoutRatio: 0.45380002
+pegRatio: 1.36
+phone: 44 20 3749 5000
+previousClose: 13884.0
+priceEpsCurrentYear: 1352.5625
+priceHint: 2
+priceToBook: 5.563948
+priceToSalesTrailing12Months: 3.4442186
+profitMargins: 0.17681
+quickRatio: 0.785
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.625
+region: US
+regularMarketChange: -30.0
+regularMarketChangePercent: -0.21607606
+regularMarketDayHigh: 13962.0
+regularMarketDayLow: 13824.0
+regularMarketDayRange: 13824.0 - 13962.0
+regularMarketOpen: 13902.0
+regularMarketPreviousClose: 13884.0
+regularMarketPrice: 13854.0
+regularMarketTime: 1794411565
+regularMarketVolume: 532875
+returnOnAssets: 0.08585
+returnOnEquity: 0.22568001
+revenueGrowth: 0.067
+revenuePerShare: 40.248
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 1550917690
+shortName: ASTRAZENECA PLC ORD SHS $0.25
+sourceInterval: 15
+symbol: AZN.L
+targetHighPrice: 20718.117
+targetLowPrice: 12080.026
+targetMeanPrice: 16169.168
+targetMedianPrice: 16145.758
+totalCash: 8166000128
+totalCashPerShare: 5.265
+totalDebt: 34325000192
+totalRevenue: 62384001024
+tradeable: false
+trailingAnnualDividendRate: 3.23
+trailingAnnualDividendYield: 0.00023264189
+trailingEps: 5.27
+trailingPE: 26.288424
+trailingPegRatio: 1.3477
+triggerable: false
+twoHundredDayAverage: 13441.309
+twoHundredDayAverageChange: 412.6914
+twoHundredDayAverageChangePercent: 0.030703217
+typeDisp: Equity
+volume: 532875
+website: https://www.astrazeneca.com
+zip: CB2 0AA

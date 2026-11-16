@@ -1,0 +1,254 @@
+52WeekChange: 0.5094135
+SandP52WeekChange: 0.097798586
+address1: Centralbahnstrasse 4
+allTimeHigh: 85.62
+allTimeLow: 22.7
+ask: 84.6
+auditRisk: 9
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 1276654
+averageDailyVolume3Month: 1315074
+averageVolume: 1315074
+averageVolume10days: 1276654
+beta: 0.395
+bid: 84.58
+boardRisk: 1
+bookValue: 17.057932
+city: Basel
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard  Saynor
+  title: Chief Executive Officer
+  totalPay: 4124937
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Remco J. Steenbergen
+  title: Chief Financial Officer
+  totalPay: 1882766
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Asaf  Gal
+  title: Chief Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Claire  D'Abreu-Hayling
+  title: Chief Scientific Officer & President of Generics Development
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Craig  Marks
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ingrid  Sollerer
+  title: General Counsel & Chief Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tripti  Jha
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Glenn A. Gerecke Ph.D.
+  title: Chief Manufacturing & Supply Officer
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rebecca  Guntern
+  title: Chief Commercial Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Keren  Haruvi
+  title: President of North America
+  unexercisedValue: 0
+  yearBorn: 1980
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 84.58
+currentRatio: 1.054
+customPriceAlertConfidence: LOW
+dayHigh: 84.84
+dayLow: 83.42
+debtToEquity: 68.915
+dividendDate: 1745366400
+dividendRate: 0.8
+dividendYield: 0.96
+earningsCallTimestampEnd: 1785943800
+earningsCallTimestampStart: 1785943800
+earningsGrowth: -0.713
+earningsQuarterlyGrowth: -0.711
+earningsTimestampEnd: 1785943800
+earningsTimestampStart: 1785943800
+ebitda: 1567000064
+ebitdaMargins: 0.13420999
+enterpriseToEbitda: 25.652
+enterpriseToRevenue: 3.443
+enterpriseValue: 40195960832
+epsCurrentYear: 4.17762
+epsForward: 3.8434172
+epsTrailingTwelveMonths: 1.17
+esgPopulated: false
+exDividendDate: 1776038400
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 73.7608
+fiftyDayAverageChange: 10.819199
+fiftyDayAverageChangePercent: 0.1466795
+fiftyTwoWeekChangePercent: 50.94135
+fiftyTwoWeekHigh: 85.62
+fiftyTwoWeekHighChange: -1.0400009
+fiftyTwoWeekHighChangePercent: -0.012146705
+fiftyTwoWeekLow: 52.54
+fiftyTwoWeekLowChange: 32.04
+fiftyTwoWeekLowChangePercent: 0.6098211
+fiftyTwoWeekRange: 52.54 - 85.62
+financialCurrency: USD
+firstTradeDateMilliseconds: 1696316400000
+floatShares: 416438495
+forwardEps: 3.8434172
+forwardPE: 22.006458
+freeCashflow: 1368625024
+fullExchangeName: Swiss
+fullTimeEmployees: 20000
+fulldayChange: 1.2000046
+fulldayChangePercent: 1.4391996
+fulldayPrice: 84.58
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.4779
+grossProfits: 5580000256
+hasPrePostMarketData: false
+heldPercentInsiders: 0.04185
+heldPercentInstitutions: 0.55622
+impliedSharesOutstanding: 432692617
+industry: Drug Manufacturers - Specialty & Generic
+industryDisp: Drug Manufacturers - Specialty & Generic
+industryKey: drug-manufacturers-specialty-generic
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776038400
+lastDividendValue: 0.8
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Sandoz Group AG develops, manufactures, and markets generic and
+  biosimilars worldwide. The company covers therapeutic areas, including cardiovascular,
+  central nervous system, oncology, infectious diseases, pain and respiratory, supportive
+  care, rare diseases, diabetes, immunology, endocrinology, neurology, osteoporosis,
+  nephrology, hematology, and ophthalmology. It also provides a portfolio of active
+  pharmaceutical ingredients and finished dosage forms. The company has a strategic
+  collaboration with Shanghai Henlius Biotech, Inc. to broaden patient access to biosimilar
+  medicines. Sandoz Group AG was founded in 1886 and is headquartered in Basel, Switzerland.
+longName: Sandoz Group AG
+market: ch_market
+marketCap: 36597141504
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_1842922977
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 646000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 36077910405
+numberOfAnalystOpinions: 16
+open: 83.44
+operatingCashflow: 1942000000
+operatingMargins: 0.09267
+overallRisk: 3
+payoutRatio: 0.6781
+pegRatio: 1.29
+phone: 41 61 324 11 11
+previousClose: 83.38
+priceEpsCurrentYear: 20.245977
+priceHint: 2
+priceToBook: 4.9583974
+priceToSalesTrailing12Months: 3.1343904
+profitMargins: 0.05533
+quickRatio: 0.624
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.5
+region: US
+regularMarketChange: 1.2000046
+regularMarketChangePercent: 1.4391996
+regularMarketDayHigh: 84.84
+regularMarketDayLow: 83.42
+regularMarketDayRange: 83.42 - 84.84
+regularMarketOpen: 83.44
+regularMarketPreviousClose: 83.38
+regularMarketPrice: 84.58
+regularMarketTime: 1794411548
+regularMarketVolume: 247400
+returnOnAssets: 0.03046
+returnOnEquity: 0.07249
+revenueGrowth: 0.099
+revenuePerShare: 26.937
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 9
+sharesOutstanding: 432692617
+shortName: SANDOZ GROUP N
+sourceInterval: 15
+symbol: SDZ.SW
+targetHighPrice: 110.73652
+targetLowPrice: 60.204926
+targetMeanPrice: 80.99627
+targetMedianPrice: 78.808754
+totalCash: 2270000128
+totalCashPerShare: 5.22
+totalDebt: 6202999808
+totalRevenue: 11676000256
+tradeable: false
+trailingAnnualDividendRate: 1.009
+trailingAnnualDividendYield: 0.012101223
+trailingEps: 1.17
+trailingPE: 72.2906
+trailingPegRatio: 1.2769
+triggerable: false
+twoHundredDayAverage: 68.1546
+twoHundredDayAverageChange: 16.4254
+twoHundredDayAverageChangePercent: 0.24100207
+typeDisp: Equity
+volume: 247400
+website: https://www.sandoz.com
+zip: '4051'

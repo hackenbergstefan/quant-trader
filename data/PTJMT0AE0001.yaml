@@ -1,0 +1,254 @@
+52WeekChange: -0.11911231
+SandP52WeekChange: 0.097798586
+address1: Rua Actor António Silva, n.º 7
+allTimeHigh: 27.1
+allTimeLow: 1.08
+ask: 0.0
+askSize: 0
+auditRisk: 8
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 1312618
+averageDailyVolume3Month: 1359025
+averageVolume: 1359025
+averageVolume10days: 1312618
+beta: 0.473
+bid: 0.0
+bidSize: 0
+boardRisk: 9
+bookValue: 5.098
+city: Lisbon
+companyOfficers:
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pedro Manuel de Castro Soares dos Santos
+  title: Chairman of the Board & CEO
+  totalPay: 2400000
+  unexercisedValue: 0
+  yearBorn: 1960
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ana Luisa Abreu Coelho Virginia
+  title: Chief Financial Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Claudia  Falcao
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carlos Miguel Martins Ferreira
+  title: Chief Legal Officer, Director of Legal Affairs & Substitute Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Cristina Minoya Perez
+  title: Head of Compliance (Personal Data Privacy & Corruption Prevention)
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sara  Miranda
+  title: Chief Communications & Corporate Responsibility Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marta Lopes Maia
+  title: Head of Human Resources
+  unexercisedValue: 0
+- age: 86
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jose A. Luis Nogueira de Brito
+  title: Head of Commercial & Global Sourcing
+  unexercisedValue: 0
+  yearBorn: 1939
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Antonio Jose Pereira
+  title: Head of Finance Transformation & Reporting
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rita  Marques
+  title: Head of Fiscal Affairs
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: Portugal
+cryptoTradeable: false
+currency: EUR
+currentPrice: 19.44
+currentRatio: 0.434
+customPriceAlertConfidence: LOW
+dayHigh: 19.49
+dayLow: 19.36
+debtToEquity: 172.496
+dividendRate: 0.65
+dividendYield: 3.34
+earningsCallTimestampEnd: 1793264400
+earningsCallTimestampStart: 1793264400
+earningsGrowth: -0.297
+earningsQuarterlyGrowth: -0.28
+earningsTimestamp: 1793208600
+earningsTimestampEnd: 1793208600
+earningsTimestampStart: 1793208600
+ebitda: 2080000000
+ebitdaMargins: 0.055809997
+enterpriseToEbitda: 8.203
+enterpriseToRevenue: 0.458
+enterpriseValue: 17062416384
+epsCurrentYear: 1.15472
+epsForward: 1.2934
+epsTrailingTwelveMonths: 1.01
+esgPopulated: false
+exDividendDate: 1778198400
+exchange: LIS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Lisbon
+exchangeTimezoneShortName: WET
+executiveTeam: []
+fax: 351 21 752 6174
+fiftyDayAverage: 18.0442
+fiftyDayAverageChange: 1.3957996
+fiftyDayAverageChangePercent: 0.077354476
+fiftyTwoWeekChangePercent: -11.911231
+fiftyTwoWeekHigh: 22.68
+fiftyTwoWeekHighChange: -3.2399998
+fiftyTwoWeekHighChangePercent: -0.14285713
+fiftyTwoWeekLow: 16.11
+fiftyTwoWeekLowChange: 3.33
+fiftyTwoWeekLowChangePercent: 0.2067039
+fiftyTwoWeekRange: 16.11 - 22.68
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946890000000
+fiveYearAvgDividendYield: 2.81
+floatShares: 280652166
+forwardEps: 1.2934
+forwardPE: 15.030153
+fullExchangeName: Lisbon
+fullTimeEmployees: 124800
+fulldayChange: -0.010000229
+fulldayChangePercent: -0.051415056
+fulldayPrice: 19.44
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.20922
+grossProfits: 7798000128
+hasPrePostMarketData: false
+heldPercentInsiders: 0.56183
+heldPercentInstitutions: 0.23536
+impliedSharesOutstanding: 628434220
+industry: Food Distribution
+industryDisp: Food Distribution
+industryKey: food-distribution
+irWebsite: http://www.jeronimomartins.pt/investidor.aspx?lang=en
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778198400
+lastDividendValue: 0.65
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1180310400
+lastSplitFactor: '5:1'
+longBusinessSummary: Jerónimo Martins, SGPS, S.A. operates in the food distribution
+  sector in Portugal, Poland, Colombia, Slovakia, and internationally. The company
+  operates through Portugal Retail, Portugal Cash & Carry, Poland Retail, Poland Health
+  and Beauty, and Colombia Retail segments. It engages in the operation of chain of
+  food stores under the Biedronka brand; online sales offerings, such as deliveries
+  under the Biek brand, alternative ordering and delivery solutions with e-commerce
+  players, and non-food products through a website; supermarket chains under the Pingo
+  Doce brand; cash and carry stores under the Recheio brand; Bem-Estar parapharmacies
+  and petrol stations; and coffee shops and kiosks under the Jeronymo brand. The company
+  is also involved in the provision of specialized retail of health and beauty products,
+  as well as in-store consultation services under the Hebe brand; operation of a chain
+  of proximity food stores under the Ara brand; and production of dairy, livestock
+  farming, aquaculture, and fruit and vegetables. In addition, it engages in the real
+  estate purchase and sale; sea passenger water transport; renting of air transport
+  equipment; growing of crops and animal farming; saline brackish waters aquaculture;
+  and retail management, consultancy, and logistics. The company was founded in 1792
+  and is headquartered in Lisbon, Portugal. Jerónimo Martins, SGPS, S.A. operates
+  as a subsidiary of Sociedade Francisco Manuel Dos Santos B.V.
+longName: Jerónimo Martins, SGPS, S.A.
+market: pt_market
+marketCap: 12216762368
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_878246
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 576000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 12223045579
+numberOfAnalystOpinions: 21
+open: 19.6
+operatingMargins: 0.03678
+overallRisk: 9
+payoutRatio: 0.64129996
+pegRatio: 1.48
+phone: 351 21 753 2000
+previousClose: 19.45
+priceEpsCurrentYear: 16.83525
+priceHint: 2
+priceToBook: 3.81326
+priceToSalesTrailing12Months: 0.3277732
+profitMargins: 0.01545
+quickRatio: 0.434
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.57143
+region: US
+regularMarketChange: -0.010000229
+regularMarketChangePercent: -0.051415056
+regularMarketDayHigh: 19.49
+regularMarketDayLow: 19.36
+regularMarketDayRange: 19.36 - 19.49
+regularMarketOpen: 19.6
+regularMarketPreviousClose: 19.45
+regularMarketPrice: 19.44
+regularMarketTime: 1794411571
+regularMarketVolume: 161322
+returnOnAssets: 0.05904
+returnOnEquity: 0.17211
+revenueGrowth: 0.043
+revenuePerShare: 59.401
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 3
+sharesOutstanding: 628434220
+shortName: J.MARTINS,SGPS
+sourceInterval: 15
+symbol: JMT.LS
+targetHighPrice: 29.0
+targetLowPrice: 15.1
+targetMeanPrice: 22.25714
+targetMedianPrice: 21.4
+totalCash: 1698000000
+totalCashPerShare: 2.646
+totalDebt: 6046000128
+totalRevenue: 37271998464
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 1.01
+trailingPE: 19.247526
+trailingPegRatio: 1.4782
+triggerable: false
+twoHundredDayAverage: 18.80115
+twoHundredDayAverageChange: 0.63885117
+twoHundredDayAverageChangePercent: 0.033979367
+typeDisp: Equity
+volume: 161322
+website: https://www.jeronimomartins.com
+zip: 1649-033

@@ -1,0 +1,282 @@
+52WeekChange: 0.23454905
+SandP52WeekChange: 0.097798586
+address1: 1240 Woodward Avenue
+allTimeHigh: 93.7
+allTimeLow: 14.33
+ask: 88.5
+askSize: 100
+auditRisk: 4
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 8744150
+averageDailyVolume3Month: 7344490
+averageVolume: 7344490
+averageVolume10days: 8744150
+beta: 1.418
+bid: 88.44
+bidSize: 100
+boardRisk: 8
+bookValue: 73.976
+city: Detroit
+companyOfficers:
+- age: 63
+  exercisedValue: 27005288
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Mary T. Barra
+  title: Chairman & CEO
+  totalPay: 8271898
+  unexercisedValue: 9776967
+  yearBorn: 1962
+- age: 61
+  exercisedValue: 8453759
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark L. Reuss
+  title: President
+  totalPay: 4415769
+  unexercisedValue: 7000571
+  yearBorn: 1964
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul A. Jacobson
+  title: Executive VP & CFO
+  totalPay: 3233870
+  unexercisedValue: 4136431
+  yearBorn: 1972
+- age: 57
+  exercisedValue: 178761
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Rory V. Harvey
+  title: Executive VP & President of Global Markets
+  totalPay: 2291093
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sterling J. Anderson
+  title: Executive VP of Global Product & Chief Product Officer
+  totalPay: 5153618
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher T. Hatto
+  title: VP of Global Business Solutions & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ashish  Kohli C.F.A.
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Grant M. Dixton
+  title: Executive VP, Chief Legal & Public Policy Officer and Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lin-Hua  Wu
+  title: Executive VP, Chief Marketing & Communications Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Arden McIntyre Hoffman
+  title: Executive VP & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions:
+- header: Dividend
+  message: GM announced a cash dividend of $0.18 with an ex-date of Dec. 4, 2026
+  meta:
+    amount: '0.18'
+    dateEpochMs: 1796360400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 88.44
+currentRatio: 1.09
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 88.92
+dayLow: 87.98
+debtToEquity: 202.592
+displayName: General Motors
+dividendDate: 1797465600
+dividendRate: 0.72
+dividendYield: 0.81
+earningsCallTimestampEnd: 1792499400
+earningsCallTimestampStart: 1792499400
+earningsGrowth: 1.763
+earningsQuarterlyGrowth: 1.513
+earningsTimestamp: 1801056600
+earningsTimestampEnd: 1801056600
+earningsTimestampStart: 1801056600
+ebitda: 18816999424
+ebitdaMargins: 0.10065
+enterpriseToEbitda: 9.535
+enterpriseToRevenue: 0.96
+enterpriseValue: 179429392384
+epsCurrentYear: 13.47252
+epsForward: 14.78709
+epsTrailingTwelveMonths: 4.57
+esgPopulated: false
+exDividendDate: 1796342400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 83.4758
+fiftyDayAverageChange: 4.964203
+fiftyDayAverageChangePercent: 0.05946877
+fiftyTwoWeekChangePercent: 23.454905
+fiftyTwoWeekHigh: 93.7
+fiftyTwoWeekHighChange: -5.2599945
+fiftyTwoWeekHighChangePercent: -0.05613655
+fiftyTwoWeekLow: 67.06
+fiftyTwoWeekLowChange: 21.380005
+fiftyTwoWeekLowChangePercent: 0.31881905
+fiftyTwoWeekRange: 67.06 - 93.7
+financialCurrency: USD
+firstTradeDateMilliseconds: 1290090600000
+fiveYearAvgDividendYield: 0.73
+floatShares: 840942855
+forwardEps: 14.78709
+forwardPE: 5.9808927
+freeCashflow: 28518250496
+fullExchangeName: NYSE
+fullTimeEmployees: 156000
+fulldayChange: -0.25
+fulldayChangePercent: -0.2818807
+fulldayPrice: 88.44
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.11444
+grossProfits: 21393999872
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00183
+heldPercentInstitutions: 0.94174004
+impliedSharesOutstanding: 843549423
+industry: Auto Manufacturers
+industryDisp: Auto Manufacturers
+industryKey: auto-manufacturers
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788480000
+lastDividendValue: 0.18
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: General Motors Company designs, builds, and sells trucks, crossovers,
+  cars, and automobile parts worldwide. It operates through GM North America, GM International,
+  and GM Financial segments. The company markets its vehicles primarily under the
+  Buick, Cadillac, Chevrolet, GMC, Baojun, and Wuling brand names. In addition, it
+  sells trucks, crossovers, cars, and automobile parts through retail dealers, distributors
+  and dealers, as well as to fleet customers, including daily rental car companies,
+  commercial fleet customers, leasing companies, and governments. Further, the company
+  offers various range of after-sale services through dealer network, such as maintenance,
+  light repairs, collision repairs, vehicle accessories, and extended service warranties.
+  Additionally, it provides automotive financing; and software-enabled services and
+  subscriptions. General Motors Company was founded in 1908 and is based in Detroit,
+  Michigan.
+longName: General Motors Company
+market: us_market
+marketCap: 74603511808
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_61206100
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3875000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 74814398325
+numberOfAnalystOpinions: 23
+open: 88.4
+operatingCashflow: 23414999040
+operatingMargins: 0.0683
+overallRisk: 6
+payoutRatio: 0.15100001
+pegRatio: 0.3
+phone: 313 667 1500
+previousClose: 88.69
+priceEpsCurrentYear: 6.5644736
+priceHint: 2
+priceToBook: 1.1955229
+priceToSalesTrailing12Months: 0.39905167
+profitMargins: 0.021170001
+quickRatio: 0.86
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.625
+region: US
+regularMarketChange: -0.25
+regularMarketChangePercent: -0.2818807
+regularMarketDayHigh: 88.92
+regularMarketDayLow: 87.98
+regularMarketDayRange: 87.98 - 88.92
+regularMarketOpen: 88.4
+regularMarketPreviousClose: 88.69
+regularMarketPrice: 88.44
+regularMarketTime: 1794413716
+regularMarketVolume: 745843
+returnOnAssets: 0.02765
+returnOnEquity: 0.06282
+revenueGrowth: 0.029
+revenuePerShare: 207.494
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 4
+sharesOutstanding: 843549423
+sharesPercentSharesOut: 0.024300002
+sharesShort: 20472821
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 20048559
+shortName: General Motors Company
+shortPercentOfFloat: 0.024300002
+shortRatio: 2.44
+sourceInterval: 15
+state: MI
+symbol: GM
+targetHighPrice: 132.0
+targetLowPrice: 75.0
+targetMeanPrice: 101.08696
+targetMedianPrice: 100.0
+totalCash: 27804999680
+totalCashPerShare: 32.962
+totalDebt: 130707996672
+totalRevenue: 186952007680
+tradeable: false
+trailingAnnualDividendRate: 0.69
+trailingAnnualDividendYield: 0.0077799074
+trailingEps: 4.57
+trailingPE: 19.352297
+trailingPegRatio: 0.2919
+triggerable: true
+twoHundredDayAverage: 80.88965
+twoHundredDayAverageChange: 7.550354
+twoHundredDayAverageChangePercent: 0.09334141
+typeDisp: Equity
+volume: 745843
+website: https://www.gm.com
+zip: '48265'

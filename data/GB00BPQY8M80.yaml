@@ -1,0 +1,258 @@
+52WeekChange: 0.046491504
+SandP52WeekChange: 0.097798586
+address1: 80 Fenchurch Street
+allTimeHigh: 1264.8221
+allTimeLow: 107.15
+ask: 731.6
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 6220674
+averageDailyVolume3Month: 6678109
+averageVolume: 6678109
+averageVolume10days: 6220674
+beta: 0.636
+bid: 731.2
+bidSize: 0
+boardRisk: 1
+bookValue: 3.269
+city: London
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amanda Jayne Blanc ACII, MBA
+  title: Group CEO & Executive Director
+  totalPay: 3870000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Charlotte Claire Jones
+  title: Group CFO & Executive Director
+  totalPay: 1982000
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Craig  Fazzini-Jones
+  title: Group Chief Operating Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Cochrane
+  title: Group Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cheryl  Toner
+  title: Chief Customer & Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason  Chambers
+  title: Head of Underwriting Transformation
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Dixey
+  title: Chief Underwriting Officer of Commercial, Corporate & Speciality Lines
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Louise  Soulsby
+  title: Head of Media Relations - UK Life & Pensions
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Anthony Elliot
+  title: Managing Director of Retirement Solutions
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Schofield
+  title: Group Sustainability Director
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 731.8
+currentRatio: 2.837
+customPriceAlertConfidence: LOW
+dayHigh: 734.2
+dayLow: 724.8
+debtToEquity: 60.722
+dividendRate: 0.4
+dividendYield: 5.55
+earningsCallTimestampEnd: 1786694400
+earningsCallTimestampStart: 1786694400
+earningsGrowth: -0.437
+earningsQuarterlyGrowth: -0.417
+earningsTimestamp: 1786721400
+earningsTimestampEnd: 1786980600
+earningsTimestampStart: 1786980600
+ebitda: 3092000000
+ebitdaMargins: 0.100480005
+enterpriseToEbitda: 2.227
+enterpriseToRevenue: 0.224
+enterpriseValue: 6885192192
+epsCurrentYear: 0.60771
+epsForward: 0.69307
+epsTrailingTwelveMonths: 0.17
+esgPopulated: false
+exDividendDate: 1788393600
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 709.86
+fiftyDayAverageChange: 21.940002
+fiftyDayAverageChangePercent: 0.030907506
+fiftyTwoWeekChangePercent: 4.6491504
+fiftyTwoWeekHigh: 761.6
+fiftyTwoWeekHighChange: -29.799988
+fiftyTwoWeekHighChangePercent: -0.039128136
+fiftyTwoWeekLow: 590.6
+fiftyTwoWeekLowChange: 141.20001
+fiftyTwoWeekLowChangePercent: 0.23907894
+fiftyTwoWeekRange: 590.6 - 761.6
+financialCurrency: GBP
+firstTradeDateMilliseconds: 583743600000
+fiveYearAvgDividendYield: 6.16
+floatShares: 2943945680
+forwardEps: 0.69307
+forwardPE: 10.558819
+freeCashflow: -2287000064
+fullExchangeName: LSE
+fullTimeEmployees: 39359
+fulldayChange: 7.0
+fulldayChangePercent: 0.96578366
+fulldayPrice: 731.8
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.17308001
+grossProfits: 5326000128
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00184
+heldPercentInstitutions: 0.69565004
+impliedSharesOutstanding: 2991051023
+industry: Insurance - Diversified
+industryDisp: Insurance - Diversified
+industryKey: insurance-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788393600
+lastDividendValue: 0.14
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1652659200
+lastSplitFactor: 1.012:1
+longBusinessSummary: Aviva plc provides various insurance, retirement, and wealth
+  products in the United Kingdom, Ireland, Canada, India, and China. It operates through
+  General Insurance; Insurance, Wealth & Retirement; Aviva Investors; and International
+  Investments segments. The company offers gadget, home, motor, pet, and health insurance,
+  as well as commercial, specialty insurance and protection. It also provides life
+  insurance, long-term health and accident insurance, savings, pension, and annuity
+  products, as well as pension fund and lifetime mortgage products; insurance cover
+  to individuals, small and medium-sized businesses for risks associated with motor
+  vehicles and medical expenses, as well as property and liability, such as employers'
+  and professional indemnity liabilities; and personal and commercial lines insurance
+  products for risks associated motor, property, and liability. In addition, the company
+  offers investment management services for institutional pension fund mandates; and
+  manages various retail investment products, including fixed income, equities, multi-asset,
+  real estate and infrastructure for third-party financial institutions, pension funds,
+  public sector organizations, investment professionals, and private investors. It
+  markets its products through a network of insurance brokers, affinity partners,
+  and banks, as well as MyAviva platform price comparison websites. The company was
+  formerly known as CGNU plc and changed its name to Aviva plc in July 2002. Aviva
+  plc was founded in 1696 and is headquartered in London, the United Kingdom.
+longName: Aviva plc
+market: gb_market
+marketCap: 21888512000
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_876215
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 559000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 21679137814
+numberOfAnalystOpinions: 15
+open: 727.0
+operatingCashflow: 5047000064
+operatingMargins: 0.093100004
+overallRisk: 1
+payoutRatio: 2.2982001
+pegRatio: 1.7
+phone: 44 20 7283 2000
+previousClose: 724.8
+priceEpsCurrentYear: 1204.1927
+priceHint: 2
+priceToBook: 2.238605
+priceToSalesTrailing12Months: 0.7113126
+profitMargins: 0.020569999
+quickRatio: 1.608
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.13333
+region: US
+regularMarketChange: 7.0
+regularMarketChangePercent: 0.96578366
+regularMarketDayHigh: 734.2
+regularMarketDayLow: 724.8
+regularMarketDayRange: 724.8 - 734.2
+regularMarketOpen: 727.0
+regularMarketPreviousClose: 724.8
+regularMarketPrice: 731.8
+regularMarketTime: 1794411557
+regularMarketVolume: 2401696
+returnOnAssets: 0.0046
+returnOnEquity: 0.07078
+revenueGrowth: 0.169
+revenuePerShare: 10.131
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 2991051023
+shortName: AVIVA PLC ORD 32 17/19P
+sourceInterval: 15
+symbol: AV.L
+targetHighPrice: 820.0
+targetLowPrice: 543.0
+targetMeanPrice: 748.366
+targetMedianPrice: 790.0
+totalCash: 21198999552
+totalCashPerShare: 6.999
+totalDebt: 6056999936
+totalRevenue: 30772000768
+tradeable: false
+trailingAnnualDividendRate: 0.402
+trailingAnnualDividendYield: 0.0005546358
+trailingEps: 0.17
+trailingPE: 43.04706
+trailingPegRatio: 1.7004
+triggerable: false
+twoHundredDayAverage: 664.741
+twoHundredDayAverageChange: 67.05896
+twoHundredDayAverageChangePercent: 0.100879826
+typeDisp: Equity
+volume: 2401696
+website: https://www.aviva.com
+zip: EC3M 4AE

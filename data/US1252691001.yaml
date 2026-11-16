@@ -1,0 +1,276 @@
+52WeekChange: 0.44377577
+SandP52WeekChange: 0.097798586
+address1: 2375 Waterview Drive
+allTimeHigh: 141.96
+allTimeLow: 2.238
+ask: 122.39
+askSize: 200
+auditRisk: 7
+averageAnalystRating: 2.8 - Hold
+averageDailyVolume10Day: 2459120
+averageDailyVolume3Month: 2508839
+averageVolume: 2508839
+averageVolume10days: 2459120
+beta: 0.541
+bid: 121.91
+bidSize: 200
+boardRisk: 3
+bookValue: 38.543
+city: Northbrook
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher D. Bohn
+  title: CEO, President & Director
+  totalPay: 3202387
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Susan L. Menzel
+  title: Executive VP & Chief Administrative Officer
+  totalPay: 2003440
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bert A. Frost
+  title: Executive Vice President & Chief Commercial Officer
+  totalPay: 2211369
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew T. Scribner
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard A. Hoker
+  title: VP, Corporate Controller & Chief Accounting Officer
+  totalPay: 731511
+  unexercisedValue: 439440
+  yearBorn: 1965
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie Scheck Freigang
+  title: VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin A. Jarosick C.F.A.
+  title: VP of Treasury & Investor Relations
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael P. McGrane
+  title: Senior VP, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Linda M. Dempsey
+  title: Vice President of Public Affairs
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Trevor  Williams
+  title: Senior Vice President of Manufacturing and Distribution
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions:
+- header: Dividend
+  message: CF announced a cash dividend of $0.60 with an ex-date of Nov. 16, 2026
+  meta:
+    amount: '0.60'
+    dateEpochMs: 1794805200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 122.105
+currentRatio: 2.984
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 123.4
+dayLow: 121.365
+debtToEquity: 41.083
+displayName: CF Industries
+dividendDate: 1795996800
+dividendRate: 2.4
+dividendYield: 1.96
+earningsCallTimestampEnd: 1793894400
+earningsCallTimestampStart: 1793894400
+earningsGrowth: 0.311
+earningsQuarterlyGrowth: 0.235
+earningsTimestamp: 1793826000
+earningsTimestampEnd: 1793912400
+earningsTimestampStart: 1793912400
+ebitda: 3960000000
+ebitdaMargins: 0.49874002
+enterpriseToEbitda: 5.531
+enterpriseToRevenue: 2.759
+enterpriseValue: 21903421440
+epsCurrentYear: 14.71964
+epsForward: 11.3689
+epsTrailingTwelveMonths: 14.18
+esgPopulated: false
+exDividendDate: 1794787200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 122.1424
+fiftyDayAverageChange: -0.037399292
+fiftyDayAverageChangePercent: -0.00030619418
+fiftyTwoWeekChangePercent: 44.37758
+fiftyTwoWeekHigh: 141.96
+fiftyTwoWeekHighChange: -19.855003
+fiftyTwoWeekHighChangePercent: -0.13986336
+fiftyTwoWeekLow: 75.42
+fiftyTwoWeekLowChange: 46.685005
+fiftyTwoWeekLowChangePercent: 0.6190004
+fiftyTwoWeekRange: 75.42 - 141.96
+financialCurrency: USD
+firstTradeDateMilliseconds: 1123767000000
+fiveYearAvgDividendYield: 1.89
+floatShares: 145228734
+forwardEps: 11.3689
+forwardPE: 10.740265
+freeCashflow: 1589750016
+fullExchangeName: NYSE
+fullTimeEmployees: 2900
+fulldayChange: -0.25499725
+fulldayChangePercent: -0.20839919
+fulldayPrice: 122.105
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.42519
+grossProfits: 3376000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00467
+heldPercentInstitutions: 1.10126
+impliedSharesOutstanding: 146284911
+industry: Agricultural Inputs
+industryDisp: Agricultural Inputs
+industryKey: agricultural-inputs
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=115908&p=irol-IRHome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786665600
+lastDividendValue: 0.6
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1434585600
+lastSplitFactor: '5:1'
+longBusinessSummary: CF Industries Holdings, Inc., together with its subsidiaries,
+  engages in the production of ammonia in North America, Europe, and internationally.
+  It operates through Ammonia, Granular Urea, UAN, AN, and Other segments. The company
+  offers ammonia products; nitrogen products, such as granular urea, urea ammonium
+  nitrate solution, and ammonium nitrate; diesel exhaust fluid, urea liquor, and nitric
+  acid products. It serves cooperatives, retailers, independent fertilizer distributors,
+  traders, wholesalers, and industrial users. The company was founded in 1946 and
+  is headquartered in Northbrook, Illinois.
+longName: CF Industries Holdings, Inc.
+market: us_market
+marketCap: 17862119424
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_22357184
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2182000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 17899421709
+numberOfAnalystOpinions: 20
+open: 122.42
+operatingCashflow: 3083000064
+operatingMargins: 0.38489
+overallRisk: 4
+payoutRatio: 0.1481
+pegRatio: 0.51
+phone: 847 405 2400
+previousClose: 122.36
+priceEpsCurrentYear: 8.29538
+priceHint: 2
+priceToBook: 3.1680202
+priceToSalesTrailing12Months: 2.2496374
+profitMargins: 0.27481002
+quickRatio: 2.527
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.81818
+region: US
+regularMarketChange: -0.25499725
+regularMarketChangePercent: -0.20839919
+regularMarketDayHigh: 123.4
+regularMarketDayLow: 121.365
+regularMarketDayRange: 121.365 - 123.4
+regularMarketOpen: 122.42
+regularMarketPreviousClose: 122.36
+regularMarketPrice: 122.105
+regularMarketTime: 1794413731
+regularMarketVolume: 214579
+returnOnAssets: 0.12614
+returnOnEquity: 0.30855
+revenueGrowth: 0.121
+revenuePerShare: 51.659
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 5
+sharesOutstanding: 146284911
+sharesPercentSharesOut: 0.06
+sharesShort: 8920917
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 9980702
+shortName: CF Industries Holdings, Inc.
+shortPercentOfFloat: 0.072
+shortRatio: 4.01
+sourceInterval: 15
+state: IL
+symbol: CF
+targetHighPrice: 195.72
+targetLowPrice: 105.0
+targetMeanPrice: 129.436
+targetMedianPrice: 127.5
+totalCash: 2820000000
+totalCashPerShare: 19.277
+totalDebt: 3656000000
+totalRevenue: 7939999744
+tradeable: false
+trailingAnnualDividendRate: 2.1
+trailingAnnualDividendYield: 0.01716247
+trailingEps: 14.18
+trailingPE: 8.611072
+trailingPegRatio: 0.5118
+triggerable: true
+twoHundredDayAverage: 117.3599
+twoHundredDayAverageChange: 4.745102
+twoHundredDayAverageChangePercent: 0.040432055
+typeDisp: Equity
+volume: 214579
+website: https://www.cfindustries.com
+zip: '60062'

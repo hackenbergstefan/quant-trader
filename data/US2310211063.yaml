@@ -1,0 +1,296 @@
+52WeekChange: -0.052785277
+SandP52WeekChange: 0.097798586
+address1: 500 Jackson Street
+address2: Box 3005
+allTimeHigh: 737.76
+allTimeLow: 1.453125
+ask: 460.0
+askSize: 40
+auditRisk: 5
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1795220
+averageDailyVolume3Month: 1177496
+averageVolume: 1177496
+averageVolume10days: 1795220
+beta: 1.235
+bid: 459.55
+bidSize: 80
+boardRisk: 5
+bookValue: 97.251
+city: Columbus
+companyOfficers:
+- age: 51
+  exercisedValue: 1676824
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer W. Rumsey
+  title: CEO & Chairman of the Board
+  totalPay: 8623590
+  unexercisedValue: 15205013
+  yearBorn: 1974
+- age: 57
+  exercisedValue: 14443343
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark A. Smith
+  title: CFO & VP
+  totalPay: 3220425
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Bonnie Jean Fetch
+  title: Executive VP & President of Operations
+  totalPay: 1503778
+  unexercisedValue: 276984
+  yearBorn: 1971
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer Mary Bush
+  title: VP & President of Power Systems Business
+  totalPay: 1896742
+  unexercisedValue: 1549967
+  yearBorn: 1974
+- age: 55
+  exercisedValue: 492840
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Amy Rochelle Davis
+  title: VP & President of Accelera by Cummins and Components
+  totalPay: 1453880
+  unexercisedValue: 1805706
+  yearBorn: 1970
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathan  Wood
+  title: VP & Chief Technical Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Hon. Nicole Y. Lamb-Hale
+  title: VP, Chief Administrative Officer & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1967
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James  Hopkins
+  title: Vice President of Financial Planning, Capital Management & Investor Relation
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marvin  Boakye
+  title: VP & Chief Human Resources Officer
+  totalPay: 2799855
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brett  Merritt
+  title: VP & President of Engine Business
+  unexercisedValue: 0
+  yearBorn: 1977
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: CMI announced a cash dividend of $2.20 with an ex-date of Nov. 20, 2026
+  meta:
+    amount: '2.20'
+    dateEpochMs: 1795150800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 460.785
+currentRatio: 1.74
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 468.015
+dayLow: 456.905
+debtToEquity: 56.601
+displayName: Cummins
+dividendDate: 1796256000
+dividendRate: 8.8
+dividendYield: 1.94
+earningsCallTimestampEnd: 1793890800
+earningsCallTimestampStart: 1793890800
+earningsGrowth: 1.137
+earningsQuarterlyGrowth: 1.127
+earningsTimestamp: 1793885400
+earningsTimestampEnd: 1801747800
+earningsTimestampStart: 1801747800
+ebitda: 5360000000
+ebitdaMargins: 0.1496
+enterpriseToEbitda: 12.539
+enterpriseToRevenue: 1.876
+enterpriseValue: 67208036352
+epsCurrentYear: 29.01643
+epsForward: 34.10368
+epsTrailingTwelveMonths: 23.97
+esgPopulated: false
+exDividendDate: 1795132800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 522.522
+fiftyDayAverageChange: -61.73697
+fiftyDayAverageChangePercent: -0.11815191
+fiftyTwoWeekChangePercent: -5.2785277
+fiftyTwoWeekHigh: 737.76
+fiftyTwoWeekHighChange: -276.975
+fiftyTwoWeekHighChangePercent: -0.37542698
+fiftyTwoWeekLow: 443.62
+fiftyTwoWeekLowChange: 17.165009
+fiftyTwoWeekLowChangePercent: 0.038693044
+fiftyTwoWeekRange: 443.62 - 737.76
+financialCurrency: USD
+firstTradeDateMilliseconds: 99153000000
+fiveYearAvgDividendYield: 2.07
+floatShares: 136495309
+forwardEps: 34.10368
+forwardPE: 13.511299
+freeCashflow: 2342249984
+fullExchangeName: NYSE
+fullTimeEmployees: 67400
+fulldayChange: 6.605011
+fulldayChangePercent: 1.4542717
+fulldayPrice: 460.785
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.26239002
+grossProfits: 9400999936
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00217
+heldPercentInstitutions: 0.86493
+impliedSharesOutstanding: 137077890
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+irWebsite: http://phx.corporate-ir.net/phoenix.zhtml?c=112916&p=irol-IRHome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1787270400
+lastDividendValue: 2.2
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1199318400
+lastSplitFactor: '2:1'
+longBusinessSummary: 'Cummins Inc. offers various power solutions worldwide. The company
+  operates through five segments: Engine, Distribution, Components, Power Systems,
+  and Accelera. It offers diesel and natural gas-powered engines; and drivetrain systems,
+  including axles, drivelines, brakes, and suspension systems; and on- and off-highway,
+  and other products. The company also provides aftertreatment technology and solutions
+  comprising custom engineering systems and integrated controls, oxidation catalysts,
+  particulate filters, and selective catalytic reduction systems, as well as engineered
+  components, including dosers; turbochargers, fuel systems, and valvetrain technologies;
+  electronic control modules, sensors, and supporting software; and automated manual
+  transmissions, and automatic transmissions for internal combustion engines. In addition,
+  it sells and offers support services power generation systems, high-horsepower engines,
+  and heavy-duty and medium-duty engines; offers application engineering services,
+  custom-designed assemblies, and in-shop and field-based repair services; and retail
+  and wholesale aftermarket parts. Further, the company offers standby and prime power
+  generators, controls, paralleling systems, and transfer switches; turnkey solutions
+  for distributed generation and energy management applications using natural gas,
+  diesel, battery energy storage systems, and newer alternative sustainable fuels;
+  diesel and natural gas high-speed, high-horsepower engines; and A/C generator/alternator
+  products. Additionally, it provides electrified power systems, including batteries,
+  fuel cells, and electric powertrain technologies. It sells its products to original
+  equipment manufacturers, distributors, dealers, and other customers. The company
+  was formerly known as Cummins Engine Company and changed its name to Cummins Inc.
+  in 2001. Cummins Inc. was founded in 1919 and is headquartered in Columbus, Indiana.'
+longName: Cummins Inc.
+market: us_market
+marketCap: 63163437056
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_265253
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3319000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 62258036080
+numberOfAnalystOpinions: 19
+open: 466.0
+operatingCashflow: 4746999808
+operatingMargins: 0.11837
+overallRisk: 2
+payoutRatio: 0.3421
+pegRatio: 0.93
+phone: 812 377 5000
+previousClose: 454.18
+priceEpsCurrentYear: 15.880141
+priceHint: 2
+priceToBook: 4.7381005
+priceToSalesTrailing12Months: 1.7629138
+profitMargins: 0.09263
+quickRatio: 0.972
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.77273
+region: US
+regularMarketChange: 6.605011
+regularMarketChangePercent: 1.4542717
+regularMarketDayHigh: 468.015
+regularMarketDayLow: 456.905
+regularMarketDayRange: 456.905 - 468.015
+regularMarketOpen: 466.0
+regularMarketPreviousClose: 454.18
+regularMarketPrice: 460.785
+regularMarketTime: 1794413731
+regularMarketVolume: 591551
+returnOnAssets: 0.07549
+returnOnEquity: 0.25047
+revenueGrowth: 0.135
+revenuePerShare: 259.677
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 2
+sharesOutstanding: 137077890
+sharesPercentSharesOut: 0.0321
+sharesShort: 4394282
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 4147461
+shortName: Cummins Inc.
+shortPercentOfFloat: 0.0369
+shortRatio: 3.89
+sourceInterval: 15
+state: IN
+symbol: CMI
+targetHighPrice: 880.0
+targetLowPrice: 462.0
+targetMeanPrice: 646.92633
+targetMedianPrice: 610.0
+totalCash: 4184999936
+totalCashPerShare: 30.53
+totalDebt: 8120000000
+totalRevenue: 35828998144
+tradeable: false
+trailingAnnualDividendRate: 8.2
+trailingAnnualDividendYield: 0.018054515
+trailingEps: 23.97
+trailingPE: 19.223406
+trailingPegRatio: 0.9319
+triggerable: true
+twoHundredDayAverage: 599.39575
+twoHundredDayAverageChange: -138.61075
+twoHundredDayAverageChangePercent: -0.23125081
+typeDisp: Equity
+volume: 591551
+website: https://www.cummins.com
+zip: 47202-3005

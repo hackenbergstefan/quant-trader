@@ -1,0 +1,262 @@
+52WeekChange: -0.1408565
+SandP52WeekChange: 0.097798586
+address1: 4123 Parklake Avenue
+allTimeHigh: 710.97
+allTimeLow: 16.5
+ask: 523.76
+askSize: 120
+auditRisk: 6
+averageAnalystRating: 1.8 - Buy
+averageDailyVolume10Day: 1168050
+averageDailyVolume3Month: 826928
+averageVolume: 826928
+averageVolume10days: 1168050
+beta: 1.029
+bid: 522.77
+bidSize: 40
+boardRisk: 6
+bookValue: 248.305
+city: Raleigh
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. C. Howard Nye J.D.
+  title: Chairman, CEO, President, President of Aggregates Business & Chair of Magnesia
+    Specialties Business
+  totalPay: 4249582
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael J. Petro
+  title: Executive VP & CFO
+  totalPay: 1392738
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert J. Cardin
+  title: Senior VP, Controller & Chief Accounting Officer
+  totalPay: 1784417
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jason P. Flynn
+  title: Senior VP & Chief Information Officer
+  totalPay: 749802
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 68
+  exercisedValue: 409377
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Donald A. McCunniff
+  title: Executive VP & Chief Human Resources Officer
+  totalPay: 2034577
+  unexercisedValue: 0
+  yearBorn: 1957
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher W. Samborski
+  title: Executive VP & COO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Jacklyn  Rooker
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. George F. Schoen
+  title: Executive VP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kirk  Light
+  title: President of Cement & Southwest Ready Mix
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 523.535
+currentRatio: 1.628
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 527.92
+dayLow: 522.22
+debtToEquity: 75.024
+displayName: Martin Marietta Materials
+dividendDate: 1790726400
+dividendRate: 3.36
+dividendYield: 0.64
+earningsCallTimestampEnd: 1793804400
+earningsCallTimestampStart: 1793804400
+earningsGrowth: -0.425
+earningsQuarterlyGrowth: -0.382
+earningsTimestamp: 1793799000
+earningsTimestampEnd: 1793799000
+earningsTimestampStart: 1793799000
+ebitda: 2231000064
+ebitdaMargins: 0.30938998
+enterpriseToEbitda: 22.715
+enterpriseToRevenue: 7.028
+enterpriseValue: 50677493760
+epsCurrentYear: 14.87441
+epsForward: 17.93708
+epsTrailingTwelveMonths: 13.4
+esgPopulated: false
+exDividendDate: 1788220800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 502.9408
+fiftyDayAverageChange: 20.594177
+fiftyDayAverageChangePercent: 0.04094752
+fiftyTwoWeekChangePercent: -14.08565
+fiftyTwoWeekHigh: 710.97
+fiftyTwoWeekHighChange: -187.435
+fiftyTwoWeekHighChangePercent: -0.2636328
+fiftyTwoWeekLow: 464.92
+fiftyTwoWeekLowChange: 58.61496
+fiftyTwoWeekLowChangePercent: 0.12607536
+fiftyTwoWeekRange: 464.92 - 710.97
+financialCurrency: USD
+firstTradeDateMilliseconds: 761495400000
+fiveYearAvgDividendYield: 0.59
+floatShares: 59727437
+forwardEps: 17.93708
+forwardPE: 29.187302
+freeCashflow: 1672625024
+fullExchangeName: NYSE
+fullTimeEmployees: 9600
+fulldayChange: -4.675049
+fulldayChangePercent: -0.88507384
+fulldayPrice: 523.535
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.26737
+grossProfits: 1928000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.16132
+heldPercentInstitutions: 0.85099
+impliedSharesOutstanding: 71118485
+industry: Building Materials
+industryDisp: Building Materials
+industryKey: building-materials
+irWebsite: http://ir.martinmarietta.com/index.cfm
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788220800
+lastDividendValue: 0.84
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Martin Marietta Materials, Inc., a natural resource-based building
+  materials company, supplies aggregates and heavy-side building materials to the
+  construction industry in the United States and internationally. It operates through
+  East Group and West Group segments. The company offers crushed stone, sand, and
+  gravel products; ready mixed concrete and asphalt; and paving products and services
+  for use in the infrastructure projects, and nonresidential and residential construction
+  projects, as well as in the railroad, agricultural, utility, and environmental industries.
+  It also produces magnesia-based chemicals products, and dolomitic lime primarily
+  to customers for steel production and soil stabilization. Its chemical products
+  are used in flame retardants, wastewater treatment, pulp and paper production, and
+  other applications. The company was founded in 1939 and is based in Raleigh, North
+  Carolina.
+longName: Martin Marietta Materials, Inc.
+market: us_market
+marketCap: 37233016832
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_31153
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 825000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 37565494961
+numberOfAnalystOpinions: 24
+open: 523.98
+operatingCashflow: 1524999936
+operatingMargins: 0.20205
+overallRisk: 8
+payoutRatio: 0.2485
+pegRatio: 2.32
+phone: 919 781 4550
+previousClose: 528.21
+priceEpsCurrentYear: 35.197025
+priceHint: 2
+priceToBook: 2.1084352
+priceToSalesTrailing12Months: 5.163364
+profitMargins: 0.31882
+quickRatio: 0.834
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.75
+region: US
+regularMarketChange: -4.675049
+regularMarketChangePercent: -0.88507384
+regularMarketDayHigh: 527.92
+regularMarketDayLow: 522.22
+regularMarketDayRange: 522.22 - 527.92
+regularMarketOpen: 523.98
+regularMarketPreviousClose: 528.21
+regularMarketPrice: 523.535
+regularMarketTime: 1794413743
+regularMarketVolume: 98741
+returnOnAssets: 0.032679997
+returnOnEquity: 0.06022
+revenueGrowth: 0.283
+revenuePerShare: 117.3
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 8
+sharesOutstanding: 71118485
+sharesPercentSharesOut: 0.047399998
+sharesShort: 3369330
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3187868
+shortName: Martin Marietta Materials, Inc.
+shortPercentOfFloat: 0.0529
+shortRatio: 4.15
+sourceInterval: 15
+state: NC
+symbol: MLM
+targetHighPrice: 800.0
+targetLowPrice: 500.0
+targetMeanPrice: 634.625
+targetMedianPrice: 639.5
+totalCash: 140000000
+totalCashPerShare: 1.969
+totalDebt: 13249999872
+totalRevenue: 7210999808
+tradeable: false
+trailingAnnualDividendRate: 3.33
+trailingAnnualDividendYield: 0.00630431
+trailingEps: 13.4
+trailingPE: 39.069775
+trailingPegRatio: 2.3181
+triggerable: true
+twoHundredDayAverage: 571.5729
+twoHundredDayAverageChange: -48.037903
+twoHundredDayAverageChangePercent: -0.084045105
+typeDisp: Equity
+volume: 98741
+website: https://www.martinmarietta.com
+zip: '27612'

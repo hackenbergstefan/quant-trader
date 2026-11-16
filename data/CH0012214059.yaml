@@ -1,0 +1,267 @@
+52WeekChange: 0.023350477
+SandP52WeekChange: 0.097798586
+address1: Grafenauweg 10
+allTimeHigh: 127.61105
+allTimeLow: 28.211647
+ask: 75.06
+auditRisk: 7
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 1294823
+averageDailyVolume3Month: 1080183
+averageVolume: 1080183
+averageVolume10days: 1294823
+beta: 0.714
+bid: 75.02
+boardRisk: 1
+bookValue: 28.53
+city: Zug
+companyOfficers:
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Miljan  Gutovic
+  title: Head of Region Europe & CEO
+  totalPay: 4349621
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steffen  Kindler
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bernd  Pomrehn C.F.A., Ph.D.
+  title: Group Head of Investor Relations
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lukas  Studer
+  title: Group General Counsel
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Alexia  Sommer
+  title: Chief Communications Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alfonso  Paradinas
+  title: Chief Marketing & Innovation Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Carmen  Diaz
+  title: Chief People & Sustainability Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Keith  Carr
+  title: Executive Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Virginie  Darbo
+  title: Group Head of Strategy and M&A
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ramanathan  Muthu
+  title: Group Head of Operational Excellence
+  unexercisedValue: 0
+  yearBorn: 1982
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 75.02
+currentRatio: 1.087
+customPriceAlertConfidence: LOW
+dayHigh: 75.8
+dayLow: 74.7
+debtToEquity: 65.636
+dividendDate: 1747872000
+dividendRate: 1.7
+dividendYield: 2.26
+earningsCallTimestampEnd: 1785511800
+earningsCallTimestampStart: 1785511800
+earningsGrowth: -0.929
+earningsQuarterlyGrowth: -0.933
+earningsTimestampEnd: 1785511800
+earningsTimestampStart: 1785511800
+ebitda: 2988000000
+ebitdaMargins: 0.18937999
+enterpriseToEbitda: 16.728
+enterpriseToRevenue: 3.168
+enterpriseValue: 49983832064
+epsCurrentYear: 3.82052
+epsForward: 4.355
+epsTrailingTwelveMonths: 0.7
+esgPopulated: false
+exDividendDate: 1779062400
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 68.1476
+fiftyDayAverageChange: 6.8723984
+fiftyDayAverageChangePercent: 0.10084579
+fiftyTwoWeekChangePercent: 2.3350477
+fiftyTwoWeekHigh: 82.54
+fiftyTwoWeekHighChange: -7.5200043
+fiftyTwoWeekHighChangePercent: -0.09110739
+fiftyTwoWeekLow: 60.1
+fiftyTwoWeekLowChange: 14.919998
+fiftyTwoWeekLowChangePercent: 0.24825288
+fiftyTwoWeekRange: 60.1 - 82.54
+financialCurrency: CHF
+firstTradeDateMilliseconds: 990601200000
+fiveYearAvgDividendYield: 3.7
+floatShares: 503993358
+forwardEps: 4.355
+forwardPE: 17.226175
+freeCashflow: 1066200000
+fullExchangeName: Swiss
+fullTimeEmployees: 50000
+fulldayChange: -0.3600006
+fulldayChangePercent: -0.47758108
+fulldayPrice: 75.02
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.42033002
+grossProfits: 6632000000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.08778
+heldPercentInstitutions: 0.46998
+impliedSharesOutstanding: 553125111
+industry: Building Materials
+industryDisp: Building Materials
+industryKey: building-materials
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1779062400
+lastDividendValue: 1.7
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1441670400
+lastSplitFactor: '21:20'
+longBusinessSummary: Holcim AG, together with its subsidiaries, provides building
+  materials and solutions in Europe, Latin America, and Asia, Middle East, and Africa.
+  It provides foundation, flooring, walling and roofing products, including cement,
+  clinker, and other cementitious materials; ready-mix concrete; aggregates, such
+  as crushed stone, gravel, and sand; and precast, concrete products, asphalts, mortars,
+  roofing systems, insulation systems, tile adhesives, facade solutions, and contracting
+  and services. The company also provides digital services through HOLCIM+ platform
+  and digital concrete services. Its products are used in infrastructure projects,
+  such as tunnels, railways and train stations, airports and ports, and bridges; housing
+  projects, including individual and collective housing; commercial projects comprising
+  offices, retail, and public buildings; and industrial projects consisting of renewable
+  energy, oil and gas, and mining. The company sells its products under the ECOPact,
+  ECOPlanet, ECOCycle, Ytong, Aggneo, Hydromedia, ZinCo Holcim, Elevate, Airium, PRB
+  Group, Cantillana, Flachdach Technologie, Izolbet, Disensa, Tector, DYNAMax, Agilia,
+  Ductal, Artevia, Humes, Tensolite, Compaktuna, and other service brands. The company
+  was formerly known as LafargeHolcim Ltd and changed its name to Holcim AG in May
+  2021. Holcim AG was founded in 1833 and is headquartered in Zug, Switzerland.
+longName: Holcim AG
+market: ch_market
+marketCap: 41495445504
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_410180
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 393000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 41694570867
+numberOfAnalystOpinions: 19
+open: 75.8
+operatingCashflow: 3003000064
+operatingMargins: 0.13239999
+overallRisk: 1
+payoutRatio: 2.4286
+pegRatio: 0.39
+phone: 41 58 858 58 58
+prevName: LafargeHolcim Ltd
+previousClose: 75.38
+priceEpsCurrentYear: 19.63607
+priceHint: 2
+priceToBook: 2.6295125
+priceToSalesTrailing12Months: 2.629956
+profitMargins: 0.024149999
+quickRatio: 0.741
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: -0.3600006
+regularMarketChangePercent: -0.47758108
+regularMarketDayHigh: 75.8
+regularMarketDayLow: 74.7
+regularMarketDayRange: 74.7 - 75.8
+regularMarketOpen: 75.8
+regularMarketPreviousClose: 75.38
+regularMarketPrice: 75.02
+regularMarketTime: 1794411495
+regularMarketVolume: 341825
+returnOnAssets: 0.0377
+returnOnEquity: 0.02781
+revenueGrowth: 0.007
+revenuePerShare: 28.507
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 1
+sharesOutstanding: 553125111
+shortName: HOLCIM N
+sourceInterval: 15
+symbol: HOLN.SW
+targetHighPrice: 94.0
+targetLowPrice: 63.0
+targetMeanPrice: 81.0
+targetMedianPrice: 82.5
+totalCash: 3601999872
+totalCashPerShare: 6.504
+totalDebt: 10951999488
+totalRevenue: 15777999872
+tradeable: false
+trailingAnnualDividendRate: 1.7
+trailingAnnualDividendYield: 0.022552403
+trailingEps: 0.7
+trailingPE: 107.171425
+trailingPegRatio: 0.3894
+triggerable: false
+twoHundredDayAverage: 71.07
+twoHundredDayAverageChange: 3.949997
+twoHundredDayAverageChangePercent: 0.055578966
+typeDisp: Equity
+volume: 341825
+website: https://www.holcim.com
+zip: '6300'

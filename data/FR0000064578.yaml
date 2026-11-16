@@ -1,0 +1,260 @@
+52WeekChange: -0.18968886
+SandP52WeekChange: 0.097798586
+address1: 10, rue de Madrid
+allTimeHigh: 162.02359
+allTimeLow: 20.4529
+ask: 0.0
+askSize: 0
+auditRisk: 4
+averageDailyVolume10Day: 106591
+averageDailyVolume3Month: 143737
+averageVolume: 143737
+averageVolume10days: 106591
+beta: 1.143
+bid: 0.0
+bidSize: 0
+boardRisk: 5
+bookValue: 76.395
+city: Paris
+companyOfficers:
+- age: 72
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Luc  Biamonti
+  title: Chairman of the Board
+  totalPay: 200000
+  unexercisedValue: 0
+  yearBorn: 1953
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christophe  Kullmann
+  title: CEO & Director
+  totalPay: 1803094
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Olivier Francois Joseph Estève
+  title: Deputy Chief Executive Officer
+  totalPay: 1042675
+  unexercisedValue: 0
+  yearBorn: 1964
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul  Arkwright C.F.A.
+  title: CFO, Director of Financial planning, Control & Communication and Executive
+    Officer of IR
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marielle Prioult Seegmuller
+  title: Chief Operating Officer of France
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marjolaine Cecile R. Alquier de l'Épine
+  title: Chief Internal Audit & Control, Risk & Compliance Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Joséphine  Lelong-Chaussier
+  title: Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Céline  Léonardi
+  title: Chief Marketing & Customer Experience Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Elsa  Canetti
+  title: HR Director & VP of Covivio Foundation
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Yves  Marque
+  title: Chief Corporate Officer
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 45.04
+currentRatio: 0.568
+customPriceAlertConfidence: LOW
+dayHigh: 45.56
+dayLow: 44.88
+debtToEquity: 83.059
+dividendRate: 3.75
+dividendYield: 8.23
+earningsCallTimestampEnd: 1784620800
+earningsCallTimestampStart: 1784620800
+earningsGrowth: -0.25
+earningsQuarterlyGrowth: -0.245
+earningsTimestampEnd: 1771432200
+earningsTimestampStart: 1771432200
+ebitda: 993500032
+ebitdaMargins: 0.84799004
+enterpriseToEbitda: 19.156
+enterpriseToRevenue: 16.244
+enterpriseValue: 19031824384
+epsCurrentYear: 4.95157
+epsForward: 5.0459
+epsTrailingTwelveMonths: 5.88
+esgPopulated: false
+exDividendDate: 1784073600
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 45.4324
+fiftyDayAverageChange: -0.39239883
+fiftyDayAverageChangePercent: -0.008636982
+fiftyTwoWeekChangePercent: -18.968885
+fiftyTwoWeekHigh: 62.8
+fiftyTwoWeekHighChange: -17.759998
+fiftyTwoWeekHighChangePercent: -0.28280252
+fiftyTwoWeekLow: 42.36
+fiftyTwoWeekLowChange: 2.6800003
+fiftyTwoWeekLowChangePercent: 0.06326724
+fiftyTwoWeekRange: 42.36 - 62.8
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 6.36
+floatShares: 69904821
+forwardEps: 5.0459
+forwardPE: 8.926059
+freeCashflow: -5062500
+fullExchangeName: Paris
+fullTimeEmployees: 979
+fulldayChange: -0.5400009
+fulldayChangePercent: -1.1842124
+fulldayPrice: 45.04
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.83449996
+grossProfits: 977699968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.36042
+heldPercentInstitutions: 0.44221002
+impliedSharesOutstanding: 110645272
+industry: REIT - Diversified
+industryDisp: REIT - Diversified
+industryKey: reit-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1784073600
+lastDividendValue: 2.25
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1073260800
+lastSplitFactor: '5:1'
+longBusinessSummary: 'Covivio is drawing on its history of partnership, its property
+  expertise and its European culture, Covivio is shaping today''s user experience
+  and designing the city of tomorrow. As a leading property player operating primarily
+  at European level, Covivio builds close relationships with end users, understands
+  their aspirations, combines working, travelling and living, and collaborates in
+  creating vibrant spaces. As a leading European operator with 24.2 Bn euro in assets
+  under management, Covivio supports businesses, hotel brands and local authorities
+  in addressing their challenges relating to attractiveness, transformation and responsible
+  performance. Building well-being and lasting connections is Covivio''s raison d''être,
+  which defines its role as a responsible property operator towards all its stakeholders:
+  clients, shareholders and financial partners, internal teams, local authorities
+  and future generations. Furthermore, its dynamic approach to property opens up exciting
+  project opportunities and career paths for its teams. Covivio was incorporated in
+  1963 and is incorporated in France.'
+longName: Covivio
+market: fr_market
+marketCap: 4983462912
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_4484410
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 655100032
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5034359876
+numberOfAnalystOpinions: 9
+open: 45.54
+operatingCashflow: 960899968
+operatingMargins: 0.73438
+overallRisk: 3
+payoutRatio: 0.2551
+pegRatio: 24.62
+phone: 33 1 58 97 50 00
+previousClose: 45.58
+priceEpsCurrentYear: 9.096105
+priceHint: 2
+priceToBook: 0.5895674
+priceToSalesTrailing12Months: 4.2535534
+profitMargins: 0.55915
+quickRatio: 0.389
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -0.5400009
+regularMarketChangePercent: -1.1842124
+regularMarketDayHigh: 45.56
+regularMarketDayLow: 44.88
+regularMarketDayRange: 44.88 - 45.56
+regularMarketOpen: 45.54
+regularMarketPreviousClose: 45.58
+regularMarketPrice: 45.04
+regularMarketTime: 1794411433
+regularMarketVolume: 26387
+returnOnAssets: 0.02113
+returnOnEquity: 0.08525
+revenueGrowth: 0.045
+revenuePerShare: 10.575
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 1
+sharesOutstanding: 110645272
+shortName: COVIVIO
+sourceInterval: 15
+symbol: COV.PA
+targetHighPrice: 67.6
+targetLowPrice: 45.0
+targetMeanPrice: 57.63333
+targetMedianPrice: 57.0
+totalCash: 665500032
+totalCashPerShare: 6.006
+totalDebt: 10486400000
+totalRevenue: 1171600000
+tradeable: false
+trailingAnnualDividendRate: 3.75
+trailingAnnualDividendYield: 0.082272924
+trailingEps: 5.88
+trailingPE: 7.659864
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 52.22925
+twoHundredDayAverageChange: -7.189251
+twoHundredDayAverageChangePercent: -0.13764797
+typeDisp: Equity
+volume: 26387
+website: https://www.covivio.eu/en
+zip: '75008'

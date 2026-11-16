@@ -1,0 +1,276 @@
+52WeekChange: 0.5222858
+SandP52WeekChange: 0.097798586
+address1: 925 North Eldridge Parkway
+allTimeHigh: 154.28
+allTimeLow: 2.98574
+ask: 136.7
+askSize: 200
+auditRisk: 9
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 8403610
+averageDailyVolume3Month: 6767237
+averageVolume: 6767237
+averageVolume10days: 8403610
+beta: 0.162
+bid: 136.79
+bidSize: 200
+boardRisk: 5
+bookValue: 55.814
+city: Houston
+companyOfficers:
+- age: 63
+  exercisedValue: 48681564
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ryan M. Lance
+  title: Executive Chair of the Board
+  totalPay: 6906651
+  unexercisedValue: 22225714
+  yearBorn: 1962
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew M. O'Brien
+  title: President, CEO & Director
+  totalPay: 2170903
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kirk L. Johnson
+  title: Executive Vice President of Global Operations & Technical Functions
+  totalPay: 2150655
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nicholas G. Olds
+  title: Executive Vice President of Lower 48 & Global HSE
+  totalPay: 2784156
+  unexercisedValue: 532838
+  yearBorn: 1970
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kontessa S. Haynes-Welsh
+  title: Senior VP of Digital and Transformation & CFO
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Guy Allen Baber IV, CPA
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shannon Browning Kinney
+  title: Senior VP of Legal, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Heather G. Hrap
+  title: Senior Vice President of Human Resources & Real Estate and Facilities Services
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew D. Lundquist
+  title: Senior Vice President of Government Affairs
+  unexercisedValue: 0
+  yearBorn: 1961
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Khoa  Dao
+  title: SVP of Commercial & Strategy
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions:
+- header: Dividend
+  message: COP announced a cash dividend of $0.93 with an ex-date of Nov. 16, 2026
+  meta:
+    amount: '0.93'
+    dateEpochMs: 1794805200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 136.915
+currentRatio: 1.518
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 137.7
+dayLow: 135.43
+debtToEquity: 35.25
+dividendDate: 1796083200
+dividendRate: 3.72
+dividendYield: 2.74
+earningsCallTimestampEnd: 1793898000
+earningsCallTimestampStart: 1793898000
+earningsGrowth: 1.419
+earningsQuarterlyGrowth: 1.318
+earningsTimestamp: 1793885400
+earningsTimestampEnd: 1801747800
+earningsTimestampStart: 1801747800
+ebitda: 29834000384
+ebitdaMargins: 0.43258998
+enterpriseToEbitda: 5.82
+enterpriseToRevenue: 2.518
+enterpriseValue: 173645807616
+epsCurrentYear: 11.84166
+epsForward: 11.26175
+epsTrailingTwelveMonths: 9.49
+esgPopulated: false
+exDividendDate: 1794787200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 137.0676
+fiftyDayAverageChange: -0.15260315
+fiftyDayAverageChangePercent: -0.0011133422
+fiftyTwoWeekChangePercent: 52.22858
+fiftyTwoWeekHigh: 154.28
+fiftyTwoWeekHighChange: -17.365005
+fiftyTwoWeekHighChangePercent: -0.11255513
+fiftyTwoWeekLow: 85.7
+fiftyTwoWeekLowChange: 51.214996
+fiftyTwoWeekLowChangePercent: 0.5976079
+fiftyTwoWeekRange: 85.7 - 154.28
+financialCurrency: USD
+firstTradeDateMilliseconds: 378657000000
+fiveYearAvgDividendYield: 2.26
+floatShares: 1179757567
+forwardEps: 11.26175
+forwardPE: 12.157523
+freeCashflow: 11464625152
+fullExchangeName: NYSE
+fullTimeEmployees: 9600
+fulldayChange: 1.324997
+fulldayChangePercent: 0.9772085
+fulldayPrice: 136.915
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.49008
+grossProfits: 33799000064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00098
+heldPercentInstitutions: 0.88261
+impliedSharesOutstanding: 1182335057
+industry: Oil & Gas E&P
+industryDisp: Oil & Gas E&P
+industryKey: oil-gas-e-p
+irWebsite: http://www.conocophillips.com/investor-relations/Pages/default.aspx
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1786924800
+lastDividendValue: 0.84
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1335830400
+lastSplitFactor: 1311791:1000000
+longBusinessSummary: 'ConocoPhillips explores for, produces, transports, and markets
+  crude oil, bitumen, natural gas, liquefied natural gas (LNG), and natural gas liquids.
+  It operates in five segments: Alaska; Lower 48; Canada; Europe, Middle East and
+  North Africa; and Asia Pacific. The company''s portfolio includes unconventional
+  plays in North America; conventional assets in North America, Europe, Asia, and
+  Australia; global LNG developments; oil sands assets in Canada; and an inventory
+  of global exploration prospects. It serves in the United States, Canada, China,
+  Equatorial Guinea, Libya, Malaysia, Norway, Singapore, the United Kingdom, and internationally.
+  ConocoPhillips was founded in 1917 and is headquartered in Houston, Texas.'
+longName: ConocoPhillips
+market: us_market
+marketCap: 161879408640
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_296527
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 11521000448
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 160312810378
+numberOfAnalystOpinions: 27
+open: 136.43
+operatingCashflow: 23242000384
+operatingMargins: 0.25877002
+overallRisk: 7
+payoutRatio: 0.3541
+pegRatio: 0.99
+phone: 281 293 1000
+previousClose: 135.59
+priceEpsCurrentYear: 11.562146
+priceHint: 2
+priceToBook: 2.4530582
+priceToSalesTrailing12Months: 2.347235
+profitMargins: 0.16758
+quickRatio: 1.298
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.93333
+region: US
+regularMarketChange: 1.324997
+regularMarketChangePercent: 0.9772085
+regularMarketDayHigh: 137.7
+regularMarketDayLow: 135.43
+regularMarketDayRange: 135.43 - 137.7
+regularMarketOpen: 136.43
+regularMarketPreviousClose: 135.59
+regularMarketPrice: 136.915
+regularMarketTime: 1794413732
+regularMarketVolume: 1030207
+returnOnAssets: 0.08975001
+returnOnEquity: 0.17656
+revenueGrowth: 0.293
+revenuePerShare: 56.709
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 8
+sharesOutstanding: 1182335057
+sharesPercentSharesOut: 0.0135
+sharesShort: 15989112
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 15327729
+shortName: ConocoPhillips
+shortPercentOfFloat: 0.0135
+shortRatio: 2.74
+sourceInterval: 15
+state: TX
+symbol: COP
+targetHighPrice: 185.0
+targetLowPrice: 129.0
+targetMeanPrice: 152.33333
+targetMedianPrice: 150.0
+totalCash: 9928999936
+totalCashPerShare: 8.398
+totalDebt: 23261999104
+totalRevenue: 68965998592
+tradeable: false
+trailingAnnualDividendRate: 3.36
+trailingAnnualDividendYield: 0.024780588
+trailingEps: 9.49
+trailingPE: 14.427292
+trailingPegRatio: 0.9912
+triggerable: true
+twoHundredDayAverage: 122.7427
+twoHundredDayAverageChange: 14.172295
+twoHundredDayAverageChangePercent: 0.11546344
+typeDisp: Equity
+volume: 1030207
+website: https://www.conocophillips.com
+zip: 77079-2703

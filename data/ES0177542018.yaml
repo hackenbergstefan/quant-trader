@@ -1,0 +1,254 @@
+52WeekChange: 0.16356683
+SandP52WeekChange: 0.097798586
+address1: Waterside (HAA2)
+address2: PO Box 365
+allTimeHigh: 773.19
+allTimeLow: 85.0
+ask: 455.7
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 14746644
+averageDailyVolume3Month: 10785273
+averageVolume: 10785273
+averageVolume10days: 14746644
+beta: 1.307
+bid: 455.4
+bidSize: 0
+boardRisk: 3
+bookValue: 1.6346968
+city: Harmondsworth
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Luis  Gallego Martin
+  title: Group CEO & Executive Director
+  totalPay: 2720021
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jose Antonio Barrionuevo Urgel
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jorge  Saco
+  title: Chief Information, Procurement, Services & Innovation Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stuart  Morgan
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sarah Frances Clements
+  title: Group General Counsel
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonathan  Sullivan
+  title: Chief Corporate Development Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Glenn  Morgan
+  title: Head of Digital Business Transformation
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Julio  Rodriguez
+  title: Chief Commercial Strategy Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alvaro  Lopez-Jorrin Hernandez
+  title: Secretary of the Board of Directors
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lynne Louise Embleton
+  title: Chairman & CEO of Aer Lingus
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions:
+- header: Dividend
+  message: IAG.L announced a cash dividend of GBp 0.053 with an ex-date of Dec. 3,
+    2026
+  meta:
+    amount: '0.053'
+    dateEpochMs: 1796256000000
+    eventType: DIVIDEND
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 455.6002
+customPriceAlertConfidence: LOW
+dayHigh: 461.05
+dayLow: 454.4
+debtToEquity: 160.665
+dividendRate: 0.09
+dividendYield: 1.87
+earningsCallTimestampEnd: 1793953800
+earningsCallTimestampStart: 1793953800
+earningsGrowth: -0.05
+earningsQuarterlyGrowth: -0.122
+earningsTimestamp: 1793982600
+earningsTimestampEnd: 1793982600
+earningsTimestampStart: 1793982600
+ebitda: 6032999936
+ebitdaMargins: 0.17856
+enterpriseToEbitda: 4.163
+enterpriseToRevenue: 0.743
+enterpriseValue: 25117057024
+epsCurrentYear: 0.60675
+epsForward: 0.58995026
+epsTrailingTwelveMonths: 0.56
+esgPopulated: false
+exDividendDate: 1796256000
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 423.112
+fiftyDayAverageChange: 32.48819
+fiftyDayAverageChangePercent: 0.0767839
+fiftyTwoWeekChangePercent: 16.356682
+fiftyTwoWeekHigh: 492.9
+fiftyTwoWeekHighChange: -37.299805
+fiftyTwoWeekHighChangePercent: -0.07567418
+fiftyTwoWeekLow: 332.7
+fiftyTwoWeekLowChange: 122.90018
+fiftyTwoWeekLowChangePercent: 0.36940238
+fiftyTwoWeekRange: 332.7 - 492.9
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1041494400000
+fiveYearAvgDividendYield: 4.48
+floatShares: 3074751410
+forwardEps: 0.58995026
+forwardPE: 7.722688
+fullExchangeName: LSE
+fullTimeEmployees: 54620
+fulldayChange: -1.099823
+fulldayChangePercent: -0.24081957
+fulldayPrice: 455.6002
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.37056
+grossProfits: 12519999488
+hasPrePostMarketData: false
+heldPercentInsiders: 0.28864
+heldPercentInstitutions: 0.27998
+impliedSharesOutstanding: 4333026426
+industry: Airlines
+industryDisp: Airlines
+industryKey: airlines
+irWebsite: http://www.iairgroup.com/phoenix.zhtml?c=240949&p=irol-irhome
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1796256000
+lastDividendValue: 0.053
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: International Consolidated Airlines Group S.A., together with
+  its subsidiaries, engages in the provision of passenger and cargo transportation
+  services in the North Atlantic, Latin America, the Caribbean, Europe, Africa, the
+  Middle East, South Asia, the Asia Pacific, and internationally. It operates through
+  British Airways, Iberia, Vueling, Aer Lingus, and IAG Loyalty segments. The company
+  manufactures, repairs, maintains, overhauls, retrofits, repurposes, upgrades aircraft,
+  and aircraft parts and equipment. In addition, it provides airline operations, insurance,
+  aircraft leasing, aircraft maintenance, tour operation, air freight operations,
+  call center, ground handling, trustee, retail, IT, finance, flight procurement,
+  storage, aircraft technical assistance, human resources support, and airport infrastructure
+  development services; and manages airline loyalty reward currency. The company was
+  incorporated in 2009 and is headquartered in Harmondsworth, the United Kingdom.
+longName: International Consolidated Airlines Group S.A.
+market: gb_market
+marketCap: 19741276160
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_131475881
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 2903000064
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 19788931687
+numberOfAnalystOpinions: 15
+open: 460.5
+operatingMargins: 0.13825
+overallRisk: 6
+payoutRatio: 0.1519
+pegRatio: 2.66
+prevName: International Consolidated Airlines Group, S.A.
+previousClose: 456.7
+priceEpsCurrentYear: 750.88617
+priceHint: 2
+priceToBook: 2.7870624
+priceToSalesTrailing12Months: 0.58428615
+profitMargins: 0.08592
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6
+region: US
+regularMarketChange: -1.099823
+regularMarketChangePercent: -0.24081957
+regularMarketDayHigh: 461.05
+regularMarketDayLow: 454.4
+regularMarketDayRange: 454.4 - 461.05
+regularMarketOpen: 460.5
+regularMarketPreviousClose: 456.7
+regularMarketPrice: 455.6002
+regularMarketTime: 1794411552
+regularMarketVolume: 5066118
+revenueGrowth: 0.045
+revenuePerShare: 7.511
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 1
+sharesOutstanding: 4333026426
+shortName: INTERNATIONAL CONSOLIDATED AIRL
+sourceInterval: 15
+symbol: IAG.L
+targetHighPrice: 628.8124
+targetLowPrice: 409.14114
+targetMeanPrice: 540.60315
+targetMedianPrice: 540.83966
+totalCash: 9175000064
+totalCashPerShare: 2.052
+totalDebt: 13866999808
+totalRevenue: 33787000832
+tradeable: false
+trailingAnnualDividendRate: 0.103
+trailingAnnualDividendYield: 0.00022553098
+trailingEps: 0.56
+trailingPE: 8.135717
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 417.1724
+twoHundredDayAverageChange: 38.427795
+twoHundredDayAverageChangePercent: 0.0921149
+typeDisp: Equity
+volume: 5066118
+website: https://www.iairgroup.com
+zip: UB7 0GB

@@ -1,0 +1,285 @@
+52WeekChange: -0.14252448
+SandP52WeekChange: 0.097798586
+address1: 100 Abbott Park Road
+allTimeHigh: 142.6
+allTimeLow: 0.478711
+ask: 109.59
+askSize: 100
+auditRisk: 9
+averageAnalystRating: 1.5 - Buy
+averageDailyVolume10Day: 8390030
+averageDailyVolume3Month: 8887195
+averageVolume: 8887195
+averageVolume10days: 8390030
+beta: 0.537
+bid: 109.48
+bidSize: 200
+boardRisk: 6
+bookValue: 29.462
+city: Abbott Park
+companyOfficers:
+- age: 51
+  exercisedValue: 26476340
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Robert B. Ford
+  title: Executive Chairman & CEO
+  totalPay: 4428548
+  unexercisedValue: 62311984
+  yearBorn: 1974
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Philip P. Boudreau
+  title: CFO & Executive VP of Finance
+  totalPay: 2104049
+  unexercisedValue: 1948094
+  yearBorn: 1973
+- age: 46
+  exercisedValue: 2141767
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Daniel Gesua Sive Salvadori
+  title: Executive VP and Group President of Established Pharmaceuticals & Nutritional
+    Products
+  totalPay: 1524932
+  unexercisedValue: 36789828
+  yearBorn: 1979
+- age: 55
+  exercisedValue: 8589697
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Christopher J. Scoggins
+  title: Executive Vice President of Diabetes Care
+  totalPay: 2063245
+  unexercisedValue: 8109307
+  yearBorn: 1970
+- age: 55
+  exercisedValue: 4828818
+  fiscalYear: 2022
+  maxAge: 1
+  name: Ms. Lisa D. Earnhardt
+  title: Executive VP & Group President of Medical Devices
+  totalPay: 2386584
+  unexercisedValue: 6000398
+  yearBorn: 1970
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Ms. Sabina  Ewing
+  title: Senior VP of Business & Technology Services and Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Mr. Michael  Comilla
+  title: Vice President of Investor Relations.
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Erica L. Battaglia
+  title: VP and Chief Ethics & Compliance Officer
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Ms. Elizabeth C. Cushman
+  title: Executive VP, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2022
+  maxAge: 1
+  name: Ms. Melissa  Brotz
+  title: Senior Vice President of Global Marketing & External Affairs
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1672444800
+compensationRisk: 6
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 109.71
+currentRatio: 1.455
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 110.33
+dayLow: 109.0
+debtToEquity: 60.899
+dividendDate: 1794787200
+dividendRate: 2.52
+dividendYield: 2.28
+earningsCallTimestampEnd: 1792587600
+earningsCallTimestampStart: 1792587600
+earningsGrowth: -0.436
+earningsQuarterlyGrowth: -0.44
+earningsTimestamp: 1792585800
+earningsTimestampEnd: 1801143000
+earningsTimestampStart: 1801143000
+ebitda: 11457999872
+ebitdaMargins: 0.23757
+enterpriseToEbitda: 19.117
+enterpriseToRevenue: 4.542
+enterpriseValue: 219046264832
+epsCurrentYear: 5.51864
+epsForward: 5.93697
+epsTrailingTwelveMonths: 2.68
+esgPopulated: false
+exDividendDate: 1792022400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 103.9722
+fiftyDayAverageChange: 5.7378006
+fiftyDayAverageChangePercent: 0.05518591
+fiftyTwoWeekChangePercent: -14.252448
+fiftyTwoWeekHigh: 132.03
+fiftyTwoWeekHighChange: -22.32
+fiftyTwoWeekHighChangePercent: -0.16905248
+fiftyTwoWeekLow: 81.97
+fiftyTwoWeekLowChange: 27.739998
+fiftyTwoWeekLowChangePercent: 0.33841646
+fiftyTwoWeekRange: 81.97 - 132.03
+financialCurrency: USD
+firstTradeDateMilliseconds: 322151400000
+fiveYearAvgDividendYield: 1.86
+floatShares: 1721688507
+forwardEps: 5.93697
+forwardPE: 18.479122
+freeCashflow: 6066999808
+fullExchangeName: NYSE
+fullTimeEmployees: 122000
+fulldayChange: -0.75
+fulldayChangePercent: -0.6789788
+fulldayPrice: 109.71
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.57171
+grossProfits: 27573000192
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00492
+heldPercentInstitutions: 0.82568
+impliedSharesOutstanding: 1731941601
+industry: Medical Devices
+industryDisp: Medical Devices
+industryKey: medical-devices
+irWebsite: http://www.abbottinvestor.com/phoenix.zhtml?c=94004&p=irol-irhome
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1792022400
+lastDividendValue: 0.63
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1357084800
+lastSplitFactor: 10000:4798
+longBusinessSummary: 'Abbott Laboratories, together with its subsidiaries, discovers,
+  develops, manufactures, and sells health care products worldwide. It operates in
+  four segments: Established Pharmaceutical Products, Diagnostic Products, Nutritional
+  Products, and Medical Devices. The company offers generic pharmaceuticals for the
+  treatment of pancreatic exocrine insufficiency, irritable bowel syndrome or biliary
+  spasm, intrahepatic cholestasis or depressive symptoms, gynecological disorder,
+  hormone replacement therapy, dyslipidemia, hypertension, hypothyroidism, hypertriglyceridemia,
+  Ménière''s disease and vestibular vertigo, pain, fever, inflammation, and migraine,
+  as well as provides anti-infective clarithromycin, influenza vaccine, and products
+  to regulate physiological rhythm of the colon. It also provides laboratory and transfusion
+  medicine systems in the areas of immunoassay, clinical chemistry, hematology, and
+  transfusion serology testing; molecular diagnostics polymerase chain reaction instrument
+  systems that automate the extraction, purification, and preparation of DNA and RNA
+  from patient samples, and detect and measure infectious agents; point of care systems;
+  cartridges for testing blood gas, chemistry, electrolytes, coagulation, and immunoassay;
+  rapid diagnostics lateral flow testing products; molecular point-of-care testing
+  for HIV, SARS-CoV-2, influenza A and B, RSV, and strep A; cardiometabolic test systems;
+  and drug and alcohol test. In addition, the company offers pediatric and adult nutritional
+  products and infant formula; rhythm management, electrophysiology, heart failure,
+  vascular, and structural heart devices for the treatment of cardiovascular diseases;
+  diabetes care products, such as glucose and blood glucose monitoring systems; and
+  neuromodulation devices. The company was formerly known as Abbott Alkaloidal Company
+  and changed its name to Abbott Laboratories in 1915. Abbott Laboratories was founded
+  in 1888 and is based in Abbott Park, Illinois.'
+longName: Abbott Laboratories
+market: us_market
+marketCap: 190011310080
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_247483
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4677000192
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 191310269246
+numberOfAnalystOpinions: 26
+open: 109.88
+operatingCashflow: 8855000064
+operatingMargins: 0.15648
+overallRisk: 5
+payoutRatio: 0.9254
+pegRatio: 1.58
+phone: 224 667 6100
+previousClose: 110.46
+priceEpsCurrentYear: 19.879898
+priceHint: 2
+priceToBook: 3.7237797
+priceToSalesTrailing12Months: 3.939773
+profitMargins: 0.09747
+quickRatio: 0.825
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.53571
+region: US
+regularMarketChange: -0.75
+regularMarketChangePercent: -0.6789788
+regularMarketDayHigh: 110.33
+regularMarketDayLow: 109.0
+regularMarketDayRange: 109.0 - 110.33
+regularMarketOpen: 109.88
+regularMarketPreviousClose: 110.46
+regularMarketPrice: 109.71
+regularMarketTime: 1794413705
+regularMarketVolume: 1640023
+returnOnAssets: 0.04902
+returnOnEquity: 0.09137999
+revenueGrowth: 0.145
+revenuePerShare: 27.732
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 2
+sharesOutstanding: 1731941601
+sharesPercentSharesOut: 0.011
+sharesShort: 19058208
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 13634256
+shortName: Abbott Laboratories
+shortPercentOfFloat: 0.0123000005
+shortRatio: 1.95
+sourceInterval: 15
+state: IL
+symbol: ABT
+targetHighPrice: 130.0
+targetLowPrice: 100.0
+targetMeanPrice: 118.90731
+targetMedianPrice: 120.0
+totalCash: 4297999872
+totalCashPerShare: 2.482
+totalDebt: 31438000128
+totalRevenue: 48228999168
+tradeable: false
+trailingAnnualDividendRate: 2.52
+trailingAnnualDividendYield: 0.022813689
+trailingEps: 2.68
+trailingPE: 40.936565
+trailingPegRatio: 1.5813
+triggerable: true
+twoHundredDayAverage: 101.5322
+twoHundredDayAverageChange: 8.177795
+twoHundredDayAverageChangePercent: 0.08054386
+typeDisp: Equity
+volume: 1640023
+website: https://www.abbott.com
+zip: 60064-6400

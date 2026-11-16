@@ -1,0 +1,268 @@
+52WeekChange: 0.13793099
+SandP52WeekChange: 0.097798586
+address1: Degersheimerstrasse 14
+allTimeHigh: 288.0
+allTimeLow: 5.8125
+ask: 172.6
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 85413
+averageDailyVolume3Month: 80831
+averageVolume: 80831
+averageVolume10days: 85413
+beta: 0.853
+bid: 172.2
+bidSize: 0
+boardRisk: 9
+bookValue: 36.241
+city: Herisau
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Urs  Ryffel
+  title: Chief Executive Officer
+  totalPay: 1126000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard  Haemmerli
+  title: Chief Financial Officer and Legal & Global Procurement
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexander  Graf
+  title: Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christiane  Jelinek
+  title: Chief Communications Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Patricia  Stolz
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Reto  Bolt
+  title: Chief Operating Officer of Industry Segment
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Metz
+  title: Head Product Management & Development RF
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephan  Ott
+  title: Head of R&D Low Frequency
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Drew  Nixon
+  title: Chief Operating Officer of Transportation Segment
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jurgen  Walter
+  title: Chief Operating Officer of Communication Segment
+  totalPay: 84000
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 172.6
+currentRatio: 2.824
+customPriceAlertConfidence: LOW
+dayHigh: 172.8
+dayLow: 168.0
+dividendDate: 1744070400
+dividendRate: 2.0
+dividendYield: 1.21
+earningsCallTimestampEnd: 1741690740
+earningsCallTimestampStart: 1741690740
+earningsGrowth: -0.046
+earningsQuarterlyGrowth: -0.043
+earningsTimestamp: 1787067000
+earningsTimestampEnd: 1787067000
+earningsTimestampStart: 1787067000
+ebitda: 120024000
+ebitdaMargins: 0.13707
+enterpriseToEbitda: 24.21
+enterpriseToRevenue: 3.319
+enterpriseValue: 2905779968
+epsCurrentYear: 4.87783
+epsForward: 7.18495
+epsTrailingTwelveMonths: 3.94
+esgPopulated: false
+exDividendDate: 1775520000
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 169.92
+fiftyDayAverageChange: 2.680008
+fiftyDayAverageChangePercent: 0.015772175
+fiftyTwoWeekChangePercent: 13.793098
+fiftyTwoWeekHigh: 288.0
+fiftyTwoWeekHighChange: -115.399994
+fiftyTwoWeekHighChangePercent: -0.40069443
+fiftyTwoWeekLow: 138.0
+fiftyTwoWeekLowChange: 34.600006
+fiftyTwoWeekLowChangePercent: 0.25072467
+fiftyTwoWeekRange: 138.0 - 288.0
+financialCurrency: CHF
+firstTradeDateMilliseconds: 806569200000
+fiveYearAvgDividendYield: 1.82
+floatShares: 17028166
+forwardEps: 7.18495
+forwardPE: 24.022436
+freeCashflow: -8090625
+fullExchangeName: Swiss
+fullTimeEmployees: 4488
+fulldayChange: 7.600006
+fulldayChangePercent: 4.6060643
+fulldayPrice: 172.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.37316
+grossProfits: 326744000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.20998
+heldPercentInstitutions: 0.35546002
+impliedSharesOutstanding: 18457510
+industry: Communication Equipment
+industryDisp: Communication Equipment
+industryKey: communication-equipment
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1775520000
+lastDividendValue: 2.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1183680000
+lastSplitFactor: '4:1'
+longBusinessSummary: 'Huber+Suhner AG engages in the provision of power and data connectivity
+  components and system solutions in Switzerland, Europe, the Middle East, Africa,
+  the Asia-Pacific, and the Americas. It operates through three segments: Industry,
+  Communication, and Transportation. The company offers antennas and antenna accessories;
+  optical fiber connectors, coaxial connectors, optical fiber adapters, and coaxial
+  adapters; optical fiber, coaxial, signal and control, power, databus, jumper, rolling
+  stock, instrumentation, system, and hybrid cables; coaxial and optical fiber cable
+  assemblies, hybrid and power assemblies and systems, and connection system for electric
+  vehicles (EVs); and fiber cable management products, such as chassis, modules, fiber
+  management accessories, optical distribution frames, and enclosures. It also offers
+  components, including terminations, attenuators, filters, splitters and couplers,
+  tappers, coaxial DC blocks, and surge protective devices; tools and accessories;
+  pluggable transceivers and transceiver cables; and other systems, such as optical
+  switches, RF-over-fiber solutions, ethernet switches, optical multiplexers, and
+  CPE. In addition, the company provides e-business and supply management services,
+  as well as RF Tools, an application that operates as a cable assembly calculator;
+  injection moduling and plating services. It serves aerospace and defense, EV charging
+  infrastructure, test and measurement, data center, fixed access network, mobile
+  network, general industrial, automotive, railway, and other industry markets. Huber+Suhner
+  AG was founded in 1864 and is headquartered in Herisau, Switzerland.'
+longName: Huber+Suhner AG
+market: ch_market
+marketCap: 3185766400
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_881622
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 72784000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 3045489150
+numberOfAnalystOpinions: 5
+open: 168.0
+operatingCashflow: 66922000
+operatingMargins: 0.09941
+overallRisk: 10
+payoutRatio: 0.5076
+phone: 41 71 353 41 11
+previousClose: 165.0
+priceEpsCurrentYear: 35.384586
+priceHint: 2
+priceToBook: 4.762562
+priceToSalesTrailing12Months: 3.638331
+profitMargins: 0.08312
+quickRatio: 1.79
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6
+region: US
+regularMarketChange: 7.600006
+regularMarketChangePercent: 4.6060643
+regularMarketDayHigh: 172.8
+regularMarketDayLow: 168.0
+regularMarketDayRange: 168.0 - 172.8
+regularMarketOpen: 168.0
+regularMarketPreviousClose: 165.0
+regularMarketPrice: 172.6
+regularMarketTime: 1794411378
+regularMarketVolume: 53036
+returnOnAssets: 0.062280003
+returnOnEquity: 0.11165
+revenueGrowth: 0.026
+revenuePerShare: 47.372
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 10
+sharesOutstanding: 18457510
+shortName: HUBER+SUHNER N
+sourceInterval: 15
+symbol: HUBN.SW
+targetHighPrice: 300.0
+targetLowPrice: 200.0
+targetMeanPrice: 248.2
+targetMedianPrice: 225.0
+totalCash: 146074000
+totalCashPerShare: 7.902
+totalDebt: 0
+totalRevenue: 875612032
+tradeable: false
+trailingAnnualDividendRate: 2.0
+trailingAnnualDividendYield: 0.012121212
+trailingEps: 3.94
+trailingPE: 43.807106
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 198.2435
+twoHundredDayAverageChange: -25.643494
+twoHundredDayAverageChangePercent: -0.12935351
+typeDisp: Equity
+volume: 53036
+website: https://www.hubersuhner.com
+zip: '9100'

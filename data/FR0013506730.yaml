@@ -1,0 +1,269 @@
+52WeekChange: 0.1853658
+SandP52WeekChange: 0.097798586
+address1: 12, rue de la Verrerie
+allTimeHigh: 1009.90704
+allTimeLow: 3.86253
+ask: 0.0
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 697019
+averageDailyVolume3Month: 881394
+averageVolume: 881394
+averageVolume10days: 697019
+beta: 0.485
+bid: 0.0
+bidSize: 0
+boardRisk: 4
+bookValue: 10.993217
+city: Meudon
+companyOfficers:
+- age: 66
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philippe  Guillemot
+  title: Group Chairman & CEO
+  totalPay: 2167254
+  unexercisedValue: 0
+  yearBorn: 1959
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nathalie  Delbreuve
+  title: Group Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bertrand  Frischmann
+  title: Chief Operating Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Isabelle  Quemeneur
+  title: Group Chief Digital & Information Officer
+  unexercisedValue: 0
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel Benjamin Thomson
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Marie Sarah Dib
+  title: Group General Counsel
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Damien  Rebourg
+  title: Senior Vice President of Communication & Public Affairs
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ludovic  Oster
+  title: Group Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Philippe  Carlier
+  title: Group Head of the Process & Engineering Department
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Enrico  Schiappacasse
+  title: Senior Vice President of Strategy & Development
+  unexercisedValue: 0
+  yearBorn: 1975
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 5
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 19.64
+currentRatio: 2.135
+customPriceAlertConfidence: LOW
+dayHigh: 19.8
+dayLow: 19.485
+debtToEquity: 36.398
+dividendRate: 1.5
+dividendYield: 0.0
+earningsCallTimestampEnd: 1795163400
+earningsCallTimestampStart: 1795163400
+earningsGrowth: 0.302
+earningsQuarterlyGrowth: 0.386
+earningsTimestamp: 1795192200
+earningsTimestampEnd: 1795192200
+earningsTimestampStart: 1795192200
+ebitda: 882812992
+ebitdaMargins: 0.21094
+enterpriseToEbitda: 5.009
+enterpriseToRevenue: 1.057
+enterpriseValue: 4421751808
+epsCurrentYear: 1.24983
+epsForward: 1.94183
+epsTrailingTwelveMonths: 1.36
+esgPopulated: false
+exDividendDate: 1785715200
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 18.6433
+fiftyDayAverageChange: 0.9967003
+fiftyDayAverageChangePercent: 0.05346158
+fiftyTwoWeekChangePercent: 18.53658
+fiftyTwoWeekHigh: 27.67
+fiftyTwoWeekHighChange: -8.030001
+fiftyTwoWeekHighChangePercent: -0.29020602
+fiftyTwoWeekLow: 15.205
+fiftyTwoWeekLowChange: 4.4349995
+fiftyTwoWeekLowChangePercent: 0.29168034
+fiftyTwoWeekRange: 15.205 - 27.67
+financialCurrency: USD
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 3.01
+floatShares: 181058300
+forwardEps: 1.94183
+forwardPE: 10.11417
+freeCashflow: 567106304
+fullExchangeName: Paris
+fullTimeEmployees: 12046
+fulldayChange: 0.19999886
+fulldayChangePercent: 1.0288007
+fulldayPrice: 19.64
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.29745
+grossProfits: 1244884736
+hasPrePostMarketData: false
+heldPercentInsiders: 0.19376
+heldPercentInstitutions: 0.46243
+impliedSharesOutstanding: 266563122
+industry: Steel
+industryDisp: Steel
+industryKey: steel
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1748217600
+lastDividendValue: 1.5
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1590364800
+lastSplitFactor: '1:40'
+longBusinessSummary: Vallourec S.A., through its subsidiaries, provides tubular solutions
+  for the oil and gas, industry, and new energies markets in North America, South
+  America, France, the Middle East, Indonesia, and East Asia. It operates through
+  Tubes and Mine & Forests segments. The company offers seamless tubes for refineries,
+  petrochemical facilities, onshore liquefied natural gas (LNG) facilities, and floating
+  LNG facilities, as well as for floating production, storage, and offloading units;
+  VAM connections; rigid subsea line pipes, onshore rigid line pipes, and pipe coating
+  solutions; and carbon steel and steel alloy tubes, hollow bars, and connections.
+  It also provides assistance in lowering tubes, inspecting connections, and supervising
+  assembly; inventory management; engineering; training; on-site services; preparation
+  for drilling operations; and integrated solutions for the subsea pipelines comprising
+  analysis, coating, insulation, bending, logistics, and project management with digital
+  support solutions. In addition, the company offers tubular products for the geothermal;
+  carbon capture, utilization, and storage; and hydrogen industries. Further, it provides
+  tubes and hollow bars, as well as circular, square, rectangular, and octagonal sections
+  for the manufacture of cranes, construction machinery, agricultural machinery, and
+  hydraulic and gas cylinders; and axle tubes and gearbox applications, motorbike
+  frame components, and suspension and stabilizer tubular parts for heavy and light
+  vehicles. Additionally, the company is involved in the iron ore and charcoal production
+  businesses. It serves oil service, engineering, and construction companies; distributors
+  and industrial equipment manufacturers; and energy companies, and carbon capture
+  and storage specialists, as well as geothermal, green hydrogen, and solar developers.
+  Vallourec S.A. was founded in 1890 and is headquartered in Meudon, France.
+longName: Vallourec S.A.
+market: fr_market
+marketCap: 5235299328
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874654
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 403547232
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 5146001070
+numberOfAnalystOpinions: 11
+open: 19.6
+operatingCashflow: 721106432
+operatingMargins: 0.16204001
+overallRisk: 3
+payoutRatio: 0.0
+pegRatio: 7.24
+phone: 33 1 49 09 35 00
+previousClose: 19.44
+priceEpsCurrentYear: 15.714136
+priceHint: 2
+priceToBook: 1.7865561
+priceToSalesTrailing12Months: 1.2509149
+profitMargins: 0.096420005
+quickRatio: 1.16
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.36364
+region: US
+regularMarketChange: 0.19999886
+regularMarketChangePercent: 1.0288007
+regularMarketDayHigh: 19.8
+regularMarketDayLow: 19.485
+regularMarketDayRange: 19.485 - 19.8
+regularMarketOpen: 19.6
+regularMarketPreviousClose: 19.44
+regularMarketPrice: 19.64
+regularMarketTime: 1794411372
+regularMarketVolume: 117440
+returnOnAssets: 0.074939996
+returnOnEquity: 0.1582
+revenueGrowth: 0.026
+revenuePerShare: 18.007
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 1
+sharesOutstanding: 266563122
+shortName: VALLOUREC
+sourceInterval: 15
+symbol: VK.PA
+targetHighPrice: 28.0
+targetLowPrice: 21.5
+targetMeanPrice: 25.98636
+targetMedianPrice: 26.6
+totalCash: 1230772992
+totalCashPerShare: 5.351
+totalDebt: 1073211008
+totalRevenue: 4185176064
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 1.36
+trailingPE: 14.441175
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 20.67005
+twoHundredDayAverageChange: -1.0300503
+twoHundredDayAverageChangePercent: -0.049832985
+typeDisp: Equity
+volume: 117440
+website: https://www.vallourec.com
+zip: '92190'

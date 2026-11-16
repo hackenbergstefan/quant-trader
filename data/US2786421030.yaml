@@ -1,0 +1,275 @@
+52WeekChange: 0.406994
+SandP52WeekChange: 0.097798586
+address1: 2025 Hamilton Avenue
+allTimeHigh: 127.74
+allTimeLow: 0.442796
+ask: 129.98
+askSize: 1
+auditRisk: 1
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 4717150
+averageDailyVolume3Month: 4420082
+averageVolume: 4420082
+averageVolume10days: 4717150
+beta: 1.273
+bid: 115.36
+bidSize: 1
+boardRisk: 2
+bookValue: 10.027
+city: San Jose
+companyOfficers:
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jamie J. Iannone
+  title: CEO, President & Director
+  totalPay: 4945580
+  unexercisedValue: 28072004
+  yearBorn: 1973
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Samantha  Wellington
+  title: Senior VP, Chief Legal Officer, General Counsel & Secretary
+  totalPay: 4246795
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 45
+  exercisedValue: 794507
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jordan Douglas Bradley Sweetnam
+  title: Senior VP & Chief Commercial Officer
+  totalPay: 1712634
+  unexercisedValue: 7612517
+  yearBorn: 1980
+- age: 61
+  exercisedValue: 4517417
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie A. Loeger
+  title: Senior VP & Chief Growth Officer
+  totalPay: 1750701
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pierre M. Omidyar
+  title: Founder & Director Emeritus
+  totalPay: 28927
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rebecca  Spencer
+  title: VP, Chief Accounting Officer & Principal Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mazen  Al-Rawashdeh
+  title: Senior VP & CTO
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Peter Egbert III
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Gigi Ganatra Duff
+  title: Chief Communications Officer
+  unexercisedValue: 0
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Cornelius  Boone
+  title: Senior VP & Chief People Officer
+  totalPay: 1924472
+  unexercisedValue: 0
+  yearBorn: 1981
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions:
+- header: Dividend
+  message: EBAY announced a cash dividend of $0.31 with an ex-date of Dec. 4, 2026
+  meta:
+    amount: '0.31'
+    dateEpochMs: 1796360400000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 123.21
+currentRatio: 0.781
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 123.9128
+dayLow: 121.94
+debtToEquity: 163.395
+displayName: eBay
+dividendDate: 1797552000
+dividendRate: 1.24
+dividendYield: 1.0
+earningsCallTimestampEnd: 1793223000
+earningsCallTimestampStart: 1793223000
+earningsGrowth: -0.181
+earningsQuarterlyGrowth: -0.209
+earningsTimestamp: 1793217600
+earningsTimestampEnd: 1793217600
+earningsTimestampStart: 1793217600
+ebitda: 3180000000
+ebitdaMargins: 0.25658
+enterpriseToEbitda: 18.698
+enterpriseToRevenue: 4.797
+enterpriseValue: 59459280896
+epsCurrentYear: 6.26163
+epsForward: 6.87977
+epsTrailingTwelveMonths: 4.58
+esgPopulated: false
+exDividendDate: 1796342400
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 113.2588
+fiftyDayAverageChange: 9.951202
+fiftyDayAverageChangePercent: 0.087862514
+fiftyTwoWeekChangePercent: 40.699398
+fiftyTwoWeekHigh: 127.74
+fiftyTwoWeekHighChange: -4.529999
+fiftyTwoWeekHighChangePercent: -0.03546265
+fiftyTwoWeekLow: 78.03
+fiftyTwoWeekLowChange: 45.18
+fiftyTwoWeekLowChangePercent: 0.5790081
+fiftyTwoWeekRange: 78.03 - 127.74
+financialCurrency: USD
+firstTradeDateMilliseconds: 906643800000
+fiveYearAvgDividendYield: 1.56
+floatShares: 393840070
+forwardEps: 6.87977
+forwardPE: 17.909029
+freeCashflow: 1703500032
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 12300
+fulldayChange: -0.30999756
+fulldayChangePercent: -0.25096953
+fulldayPrice: 123.21
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.72172
+grossProfits: 8945000448
+hasPrePostMarketData: true
+heldPercentInsiders: 0.1016
+heldPercentInstitutions: 0.92815
+impliedSharesOutstanding: 439000000
+industry: Internet Retail
+industryDisp: Internet Retail
+industryKey: internet-retail
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787875200
+lastDividendValue: 0.31
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1437350400
+lastSplitFactor: 2376:1000
+longBusinessSummary: eBay Inc., together with its subsidiaries, operates marketplace
+  platforms that connect buyers and sellers in the United States, the United Kingdom,
+  China, Germany, and internationally. Its marketplace platform includes its online
+  marketplace at ebay.com, off-platform businesses, and the eBay suite of mobile apps.
+  The company's platforms enable users to list, sell, buy, and pay various products.
+  The company was founded in 1995 and is headquartered in San Jose, California.
+longName: eBay Inc.
+market: us_market
+marketCap: 54089191424
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_27862
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2102000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 54225280000
+numberOfAnalystOpinions: 27
+open: 123.25
+operatingCashflow: 3048999936
+operatingMargins: 0.21551001
+overallRisk: 3
+payoutRatio: 0.26639998
+pegRatio: 1.66
+phone: 408 376 9659
+previousClose: 123.52
+priceEpsCurrentYear: 19.676985
+priceHint: 2
+priceToBook: 12.287823
+priceToSalesTrailing12Months: 4.364143
+profitMargins: 0.16936001
+quickRatio: 0.678
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.5
+region: US
+regularMarketChange: -0.30999756
+regularMarketChangePercent: -0.25096953
+regularMarketDayHigh: 123.9128
+regularMarketDayLow: 121.94
+regularMarketDayRange: 121.94 - 123.9128
+regularMarketOpen: 123.25
+regularMarketPreviousClose: 123.52
+regularMarketPrice: 123.21
+regularMarketTime: 1794413737
+regularMarketVolume: 704504
+returnOnAssets: 0.09327
+returnOnEquity: 0.46041
+revenueGrowth: 0.137
+revenuePerShare: 27.727
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 3
+sharesOutstanding: 439000000
+sharesPercentSharesOut: 0.0307
+sharesShort: 13478792
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 17496015
+shortName: eBay Inc.
+shortPercentOfFloat: 0.0308
+shortRatio: 3.41
+sourceInterval: 15
+state: CA
+symbol: EBAY
+targetHighPrice: 153.0
+targetLowPrice: 71.0
+targetMeanPrice: 126.74074
+targetMedianPrice: 133.0
+totalCash: 1975000064
+totalCashPerShare: 4.499
+totalDebt: 7208999936
+totalRevenue: 12394000384
+tradeable: false
+trailingAnnualDividendRate: 1.22
+trailingAnnualDividendYield: 0.009876943
+trailingEps: 4.58
+trailingPE: 26.901747
+trailingPegRatio: 1.6589
+triggerable: true
+twoHundredDayAverage: 104.98075
+twoHundredDayAverageChange: 18.229248
+twoHundredDayAverageChangePercent: 0.17364372
+typeDisp: Equity
+volume: 704504
+website: https://www.ebayinc.com
+zip: '95125'

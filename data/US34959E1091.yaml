@@ -1,0 +1,272 @@
+52WeekChange: 0.5043827
+SandP52WeekChange: 0.097798586
+address1: 909 Kifer Road
+allTimeHigh: 197.13
+allTimeLow: 1.472
+ask: 134.28
+askSize: 1
+auditRisk: 1
+averageAnalystRating: 2.9 - Hold
+averageDailyVolume10Day: 8726770
+averageDailyVolume3Month: 4744140
+averageVolume: 4744140
+averageVolume10days: 8726770
+beta: 1.04
+bid: 122.29
+bidSize: 1
+boardRisk: 7
+bookValue: 3.059
+city: Sunnyvale
+companyOfficers:
+- age: 62
+  exercisedValue: 63146744
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ken  Xie
+  title: Co-Founder, Chairman & CEO
+  totalPay: 1302937
+  unexercisedValue: 72547136
+  yearBorn: 1963
+- age: 56
+  exercisedValue: 49409128
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael  Xie
+  title: Co-Founder, President, CTO & Director
+  totalPay: 773876
+  unexercisedValue: 45537936
+  yearBorn: 1969
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Christiane  Ohlgart
+  title: Chief Accounting Officer, CFO and Principal Financial & Accounting Officer
+  totalPay: 774515
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Whittle J.D.
+  title: Chief Operating Officer
+  totalPay: 960000
+  unexercisedValue: 8168728
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anthony  Luscri
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Anthony  James
+  title: Executive Vice President of Marketing
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert  May
+  title: Executive Vice President of Technology & Product Management
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joe  Sarno
+  title: Executive Vice President of International Sales
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carl  Windsor
+  title: Chief Information Security Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Trevor  Pagliara
+  title: Executive Vice President of US Sales
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 128.87
+currentRatio: 1.397
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 129.37
+dayLow: 126.365
+debtToEquity: 24.947
+displayName: Fortinet
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793219400
+earningsCallTimestampStart: 1793219400
+earningsGrowth: 0.387
+earningsQuarterlyGrowth: 0.341
+earningsTimestamp: 1793217600
+earningsTimestampEnd: 1793217600
+earningsTimestampStart: 1793217600
+ebitda: 2753799936
+ebitdaMargins: 0.34943
+enterpriseToEbitda: 31.429
+enterpriseToRevenue: 10.982
+enterpriseValue: 86549585920
+epsCurrentYear: 3.56433
+epsForward: 3.90142
+epsTrailingTwelveMonths: 3.06
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 408 235 7737
+fiftyDayAverage: 166.2386
+fiftyDayAverageChange: -37.368607
+fiftyDayAverageChangePercent: -0.22478898
+fiftyTwoWeekChangePercent: 50.438274
+fiftyTwoWeekHigh: 197.13
+fiftyTwoWeekHighChange: -68.26001
+fiftyTwoWeekHighChangePercent: -0.346269
+fiftyTwoWeekLow: 73.55
+fiftyTwoWeekLowChange: 55.319992
+fiftyTwoWeekLowChangePercent: 0.75214124
+fiftyTwoWeekRange: 73.55 - 197.13
+financialCurrency: USD
+firstTradeDateMilliseconds: 1258554600000
+floatShares: 619867261
+forwardEps: 3.90142
+forwardPE: 33.03156
+freeCashflow: 2487812608
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 15540
+fulldayChange: 5.2999954
+fulldayChangePercent: 4.289063
+fulldayPrice: 128.87
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.7975
+grossProfits: 6285000192
+hasPrePostMarketData: true
+heldPercentInsiders: 0.17339
+heldPercentInstitutions: 0.71779
+impliedSharesOutstanding: 734709741
+industry: Software - Infrastructure
+industryDisp: Software - Infrastructure
+industryKey: software-infrastructure
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1655942400
+lastSplitFactor: '5:1'
+longBusinessSummary: Fortinet, Inc. provides cybersecurity and convergence of networking
+  and security solutions worldwide. The company offers FortiOS, a unified operating
+  system designed to address cybersecurity threats; FortiASIC application-specific
+  integrated circuit (ASIC)-based security processing units; FortiCloud, a private
+  cloud software as a service platform; FortiAI, which provides a dual-layered defense
+  across the Fortinet Security Fabric; FortiEndpoint, which converges secure connectivity,
+  endpoint protection, and capabilities into a single agent; and OT Security, which
+  protect the engineered systems that underpin infrastructure and supply chains. It
+  also provides secure networking solutions that focus on the convergence of networking
+  and security; network firewall solutions comprising FortiGate data centers, hyperscale,
+  and distributed firewalls; wireless local area network solutions; and secure connectivity
+  solutions. In addition, the company offers the Fortinet Unified Secure Access Service
+  Edge solutions that include firewall, software-defined wide-area network, secure
+  web gateway, cloud access services broker, data loss prevention, and zero trust
+  network access; and web application firewalls, cloud network security with virtualized
+  firewalls, cloud-native firewalls, cloud-native application protection, and code
+  security. Further, it provides AI-driven security operation solutions, which include
+  a suite of cybersecurity solutions, as well as FortiEDR, FortiXDR, FortiNDR, FortiSandbox,
+  FortiDeceptor, FortiDLP, and FortiRecon. Additionally, the company offers FortiGuard
+  Labs, a cybersecurity threat intelligence and research organization; FortiGuard
+  and Other Security Services, a suite of AI-powered security capabilities that consists
+  of FortiGuard application, content, device, NOC/SOC, and web security services;
+  and FortiCare technical support services. Fortinet, Inc. was incorporated in 2000
+  and is headquartered in Sunnyvale, California.
+longName: Fortinet, Inc.
+market: us_market
+marketCap: 94682046464
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_2689126
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2282299904
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 89979901980
+numberOfAnalystOpinions: 37
+open: 127.115
+operatingCashflow: 3686899968
+operatingMargins: 0.32911
+overallRisk: 6
+payoutRatio: 0.0
+pegRatio: 1.43
+phone: 408 235 7700
+previousClose: 123.57
+priceEpsCurrentYear: 36.15546
+priceHint: 2
+priceToBook: 42.128143
+priceToSalesTrailing12Months: 12.014116
+profitMargins: 0.28959998
+quickRatio: 1.23
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.88372
+region: US
+regularMarketChange: 5.2999954
+regularMarketChangePercent: 4.289063
+regularMarketDayHigh: 129.37
+regularMarketDayLow: 126.365
+regularMarketDayRange: 126.365 - 129.37
+regularMarketOpen: 127.115
+regularMarketPreviousClose: 123.57
+regularMarketPrice: 128.87
+regularMarketTime: 1794413734
+regularMarketVolume: 2385285
+returnOnAssets: 0.15218
+returnOnEquity: 1.53077
+revenueGrowth: 0.205
+revenuePerShare: 10.691
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 5
+sharesOutstanding: 734709741
+sharesPercentSharesOut: 0.0163
+sharesShort: 11971323
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 12503836
+shortName: Fortinet, Inc.
+shortPercentOfFloat: 0.0197
+shortRatio: 2.52
+sourceInterval: 15
+state: CA
+symbol: FTNT
+targetHighPrice: 190.0
+targetLowPrice: 110.0
+targetMeanPrice: 145.03432
+targetMedianPrice: 140.0
+totalCash: 4799000064
+totalCashPerShare: 6.532
+totalDebt: 560499968
+totalRevenue: 7880900096
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 3.06
+trailingPE: 42.11438
+trailingPegRatio: 1.4296
+triggerable: true
+twoHundredDayAverage: 130.01355
+twoHundredDayAverageChange: -1.1435547
+twoHundredDayAverageChangePercent: -0.008795658
+typeDisp: Equity
+volume: 2385285
+website: https://www.fortinet.com
+zip: '94086'

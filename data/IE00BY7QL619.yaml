@@ -1,0 +1,239 @@
+52WeekChange: 0.15049732
+SandP52WeekChange: 0.097798586
+address1: One Albert Quay
+allTimeHigh: 160.41
+allTimeLow: 4.099123
+ask: 144.83
+askSize: 900
+auditRisk: 5
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 5589290
+averageDailyVolume3Month: 3646473
+averageVolume: 3646473
+averageVolume10days: 5589290
+beta: 1.289
+bid: 144.67
+bidSize: 100
+boardRisk: 2
+bookValue: 22.535
+city: Cork
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joakim  Weidemanis
+  title: CEO & Director
+  totalPay: 4029696
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 46
+  exercisedValue: 1091223
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc  Vandiepenbeeck
+  title: Executive VP & CFO
+  totalPay: 2461390
+  unexercisedValue: 325150
+  yearBorn: 1979
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher M. Scalia
+  title: Executive VP & Chief Human Resources Officer
+  totalPay: 425331
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie M. Heuer Brandt
+  title: Advisor
+  totalPay: 2041901
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shauna  Latshaw
+  title: VP & Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eric R. Swanson
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions: []
+country: Ireland
+cryptoTradeable: false
+currency: USD
+currentPrice: 144.505
+currentRatio: 0.904
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 144.98
+dayLow: 141.74
+debtToEquity: 67.983
+displayName: Johnson Controls
+dividendDate: 1792108800
+dividendRate: 1.6
+dividendYield: 1.13
+earningsCallTimestampEnd: 1793104200
+earningsCallTimestampStart: 1793104200
+earningsGrowth: -0.401
+earningsQuarterlyGrowth: -0.429
+earningsTimestamp: 1793104200
+earningsTimestampEnd: 1793104200
+earningsTimestampStart: 1793104200
+ebitda: 4658999808
+ebitdaMargins: 0.18152
+enterpriseToEbitda: 20.161
+enterpriseToRevenue: 3.66
+enterpriseValue: 93930479616
+epsCurrentYear: 6.31543
+epsForward: 7.40664
+epsTrailingTwelveMonths: 4.72
+esgPopulated: false
+exDividendDate: 1789948800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 147.2658
+fiftyDayAverageChange: -2.760788
+fiftyDayAverageChangePercent: -0.018746974
+fiftyTwoWeekChangePercent: 15.049732
+fiftyTwoWeekHigh: 160.41
+fiftyTwoWeekHighChange: -15.904999
+fiftyTwoWeekHighChangePercent: -0.09915216
+fiftyTwoWeekLow: 108.41
+fiftyTwoWeekLowChange: 36.095
+fiftyTwoWeekLowChangePercent: 0.33294898
+fiftyTwoWeekRange: 108.41 - 160.41
+financialCurrency: USD
+firstTradeDateMilliseconds: 559834200000
+fiveYearAvgDividendYield: 1.73
+floatShares: 602073240
+forwardEps: 7.40664
+forwardPE: 19.510197
+freeCashflow: 3113750016
+fullExchangeName: NYSE
+fulldayChange: 3.3850098
+fulldayChangePercent: 2.3986747
+fulldayPrice: 144.505
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.37072
+grossProfits: 9514999808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00171
+heldPercentInstitutions: 0.91833
+impliedSharesOutstanding: 605741470
+industry: Building Products & Equipment
+industryDisp: Building Products & Equipment
+industryKey: building-products-equipment
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789948800
+lastDividendValue: 0.4
+lastFiscalYearEnd: 1790726400
+lastSplitDate: 1473120000
+lastSplitFactor: 955:1000
+longBusinessSummary: Johnson Controls International plc, together with its subsidiaries,
+  engages in engineering, manufacturing, commissioning, and retrofitting building
+  products and systems in the Americas, Europe, the Middle East, Africa, and the Asia-Pacific.
+  The company designs, manufactures, sells, installs, and services heating, ventilating,
+  air conditioning, controls, building management, refrigeration, integrated electronic
+  security, integrated fire detection and suppression systems, and digital solutions.
+  It also provides energy solutions and technical services, including inspection,
+  scheduled maintenance, and repair and replacement of mechanical and control systems,
+  as well as data-driven building solutions. It sells its products and services to
+  commercial, residential security, institutional, industrial, data center, marine,
+  and governmental customers. Johnson Controls International plc was incorporated
+  in 1885 and is based in Cork, Ireland.
+longName: Johnson Controls International plc
+market: us_market
+marketCap: 87532666880
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_282590
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2880000000
+nextFiscalYearEnd: 1822262400
+nonDilutedMarketCap: 85482236246
+numberOfAnalystOpinions: 20
+open: 143.5
+operatingCashflow: 3774000128
+operatingMargins: 0.15604
+overallRisk: 3
+payoutRatio: 0.45200002
+pegRatio: 1.59
+phone: 353 21 423 5000
+previousClose: 141.12
+priceEpsCurrentYear: 22.88126
+priceHint: 2
+priceToBook: 6.41247
+priceToSalesTrailing12Months: 3.4104521
+profitMargins: 0.11116
+quickRatio: 0.614
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.0
+region: US
+regularMarketChange: 3.3850098
+regularMarketChangePercent: 2.3986747
+regularMarketDayHigh: 144.98
+regularMarketDayLow: 141.74
+regularMarketDayRange: 141.74 - 144.98
+regularMarketOpen: 143.5
+regularMarketPreviousClose: 141.12
+regularMarketPrice: 144.505
+regularMarketTime: 1794413734
+regularMarketVolume: 1894722
+returnOnAssets: 0.06407
+returnOnEquity: 0.21729
+revenueGrowth: 0.104
+revenuePerShare: 42.144
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 7
+sharesOutstanding: 605741470
+sharesPercentSharesOut: 0.0165
+sharesShort: 9973078
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 9194563
+shortName: 'Johnson Controls International '
+shortPercentOfFloat: 0.021
+shortRatio: 2.65
+sourceInterval: 15
+symbol: JCI
+targetHighPrice: 201.0
+targetLowPrice: 136.0
+targetMeanPrice: 174.85
+targetMedianPrice: 173.5
+totalCash: 618000000
+totalCashPerShare: 1.023
+totalDebt: 9276999680
+totalRevenue: 25666000896
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 4.72
+trailingPE: 30.615469
+trailingPegRatio: 1.5887
+triggerable: true
+twoHundredDayAverage: 142.03455
+twoHundredDayAverageChange: 2.470459
+twoHundredDayAverageChangePercent: 0.017393367
+typeDisp: Equity
+volume: 1894722
+website: https://www.johnsoncontrols.com
+zip: T12 X8N6

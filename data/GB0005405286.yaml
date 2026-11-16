@@ -1,0 +1,261 @@
+52WeekChange: 0.20046532
+SandP52WeekChange: 0.097798586
+address1: 8 Canada Square
+allTimeHigh: 1610.0
+allTimeLow: 33.6955
+ask: 1344.8
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 25809688
+averageDailyVolume3Month: 21869005
+averageVolume: 21869005
+averageVolume10days: 25809688
+beta: 0.566
+bid: 1344.4
+bidSize: 0
+boardRisk: 1
+bookValue: 7.568948
+city: London
+companyOfficers:
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Georges Bahjat  Elhedery
+  title: Group CEO, Member of the Group Management Board & Executive Director
+  totalPay: 5406000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Manveen  Kaur
+  title: Group CFO & Executive Director
+  totalPay: 3197000
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Barry  O'Byrne
+  title: CEO of International Wealth & Premier Banking and Member of the Group Management
+    Board
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Aileen Norma Taylor
+  title: Group Chief People & Governance Officer and Member of Group Mgmt Board
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Michael Murray Roberts
+  title: CEO of HSBC Bank plc & Corporate and Institutional Banking, Member of the
+    Group Management Board
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Yi Chien  Liao J.P.
+  title: Co-CEO of HSBC Asia and Middle East & Member of the Group Management Board
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert F. Hoyt J.D.
+  title: Group Chief Legal Officer & Member of the Group Management Board
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Surendranath Ravi  Rosha
+  title: Co-CEO of Asia and the Middle East & Member of the Group Management Board
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Suzy  White
+  title: Group Chief Operating Officer & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stuart  Riley
+  title: Group Chief Information Officer & Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1974
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 1344.8597
+customPriceAlertConfidence: LOW
+dayHigh: 1361.0
+dayLow: 1336.8
+dividendRate: 0.3
+dividendYield: 2.22
+earningsCallTimestampEnd: 1793087100
+earningsCallTimestampStart: 1793087100
+earningsGrowth: 0.464
+earningsQuarterlyGrowth: 0.429
+earningsTimestamp: 1793118600
+earningsTimestampEnd: 1793118600
+earningsTimestampStart: 1793118600
+ebitdaMargins: 0.0
+enterpriseToRevenue: -1.577
+enterpriseValue: -106366042112
+epsCurrentYear: 1.70884
+epsForward: 1.4000537
+epsTrailingTwelveMonths: 1.14
+esgPopulated: false
+exDividendDate: 1793836800
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fax: 44 20 7992 4880
+fiftyDayAverage: 1437.288
+fiftyDayAverageChange: -92.42822
+fiftyDayAverageChangePercent: -0.06430738
+fiftyTwoWeekChangePercent: 20.046532
+fiftyTwoWeekHigh: 1610.0
+fiftyTwoWeekHighChange: -265.14026
+fiftyTwoWeekHighChangePercent: -0.16468339
+fiftyTwoWeekLow: 1027.8
+fiftyTwoWeekLowChange: 317.0597
+fiftyTwoWeekLowChangePercent: 0.30848384
+fiftyTwoWeekRange: 1027.8 - 1610.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 584089200000
+fiveYearAvgDividendYield: 4.76
+floatShares: 16932874490
+forwardEps: 1.4000537
+forwardPE: 9.605772
+fullExchangeName: LSE
+fullTimeEmployees: 204330
+fulldayChange: 3.4597168
+fulldayChangePercent: 0.25791836
+fulldayPrice: 1344.8597
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 67440001024
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0019200001
+heldPercentInstitutions: 0.53077
+impliedSharesOutstanding: 17093286509
+industry: Banks - Diversified
+industryDisp: Banks - Diversified
+industryKey: banks-diversified
+irWebsite: http://www.hsbc.com/investor-relations
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1793836800
+lastDividendValue: 0.1
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 931132800
+lastSplitFactor: '3:1'
+longBusinessSummary: 'HSBC Holdings plc engages in the provision of banking and financial
+  products and services worldwide. It operates through four segments: Hong Kong, UK,
+  Corporate and Institutional Banking, and International Wealth and Premier Banking.
+  The Hong Kong segment is involved in the retail banking and wealth and commercial
+  banking of HSBC Hong Kong and Hang Seng Bank. The UK segment engages in UK retail
+  banking and wealth, as well as first direct and M&S Bank, UK Commercial Banking,
+  and HSBC Innovation Bank. The Corporate and Institutional Banking segment is involved
+  in transaction banking and capital markets. The International Wealth and Premier
+  Banking segment is involved in the business comprising premier banking outside of
+  Hong Kong and the UK, its private bank, asset management, and insurance businesses.
+  The company was founded in 1865 and is headquartered in London, the United Kingdom.'
+longName: HSBC Holdings plc
+market: gb_market
+marketCap: 229880741888
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_382645
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 26435000320
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 229289345231
+numberOfAnalystOpinions: 17
+open: 1354.0
+operatingMargins: 0.49039
+overallRisk: 1
+payoutRatio: 0.5334
+pegRatio: 0.8
+phone: 44 20 7991 3048
+previousClose: 1341.4
+priceEpsCurrentYear: 787.0015
+priceHint: 2
+priceToBook: 1.776812
+priceToSalesTrailing12Months: 3.4086704
+profitMargins: 0.41155
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.47059
+region: US
+regularMarketChange: 3.4597168
+regularMarketChangePercent: 0.25791836
+regularMarketDayHigh: 1361.0
+regularMarketDayLow: 1336.8
+regularMarketDayRange: 1336.8 - 1361.0
+regularMarketOpen: 1354.0
+regularMarketPreviousClose: 1341.4
+regularMarketPrice: 1344.8597
+regularMarketTime: 1794411570
+regularMarketVolume: 13731971
+returnOnAssets: 0.00841
+returnOnEquity: 0.14219
+revenueGrowth: 0.06
+revenuePerShare: 3.935
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 17093286509
+shortName: HSBC HOLDINGS PLC ORD $0.50 (UK
+sourceInterval: 15
+symbol: HSBA.L
+targetHighPrice: 1874.3549
+targetLowPrice: 803.96014
+targetMeanPrice: 1486.8091
+targetMedianPrice: 1523.5394
+totalCash: 1188199006208
+totalCashPerShare: 69.441
+totalDebt: 851906002944
+totalRevenue: 67440001024
+tradeable: false
+trailingAnnualDividendRate: 0.75
+trailingAnnualDividendYield: 0.00055911735
+trailingEps: 1.14
+trailingPE: 11.797015
+trailingPegRatio: 0.8034
+triggerable: false
+twoHundredDayAverage: 1392.769
+twoHundredDayAverageChange: -47.9093
+twoHundredDayAverageChangePercent: -0.034398597
+typeDisp: Equity
+volume: 13731971
+website: https://www.hsbc.com
+zip: E14 5HQ

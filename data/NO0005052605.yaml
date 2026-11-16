@@ -1,0 +1,278 @@
+52WeekChange: -0.06337649
+SandP52WeekChange: 0.097798586
+address1: Drammensveien 264
+allTimeHigh: 152.75
+allTimeLow: 13.192477
+ask: 70.0
+askSize: 4100
+auditRisk: 1
+averageAnalystRating: 2.9 - Hold
+averageDailyVolume10Day: 4531539
+averageDailyVolume3Month: 3405999
+averageVolume: 3405999
+averageVolume10days: 4531539
+beta: 0.794
+bid: 69.96
+bidSize: 11
+boardRisk: 2
+bookValue: 54.085
+city: Oslo
+companyOfficers:
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Eivind  Kallevik
+  title: CEO, President & Member of Corporate Management Board
+  totalPay: 14231000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Trond Olaf Christophersen
+  title: Executive VP, CFO & Member of Corporate Management Board
+  totalPay: 8436000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anne-Lene  Midseim
+  title: Executive VP of Compliance, IP & General Counsel and Member of Corporate
+    Management Board
+  totalPay: 6705000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hanne Karine Simensen
+  title: Executive VP of Hydro Aluminium Metal & Member of Corporate Management Board
+  totalPay: 7791000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John Gabriel Thuestad
+  title: Executive VP of Hydro Bauxite & Alumina and Member of Corporate Management
+    Board
+  totalPay: 15780000
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hilde Vestheim Nordh
+  title: Executive VP of People & HSE and Member of Corporate Management Board
+  totalPay: 5404000
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul  Warton
+  title: Executive VP of Hydro Extrusions & Member of Corporate Management Board
+  totalPay: 16229000
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Therese Rod Holm
+  title: Member of Corporate Management Board
+  totalPay: 4193000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kari Ekelund Thorud
+  title: Executive VP of Hydro Energy & Member of Corporate Management Board
+  totalPay: 5465000
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peik  Norenberg
+  title: Head of Corporate Finance
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Norway
+cryptoTradeable: false
+currency: NOK
+currentPrice: 70.14
+currentRatio: 2.025
+customPriceAlertConfidence: LOW
+dayHigh: 70.82
+dayLow: 69.56
+debtToEquity: 30.842
+dividendRate: 3.0
+dividendYield: 4.32
+earningsCallTimestampEnd: 1792737000
+earningsCallTimestampStart: 1792737000
+earningsGrowth: 1.449
+earningsQuarterlyGrowth: 1.451
+earningsTimestamp: 1792765200
+earningsTimestampEnd: 1792765200
+earningsTimestampStart: 1792765200
+ebitda: 55526998016
+ebitdaMargins: 0.26926002
+enterpriseToEbitda: 2.876
+enterpriseToRevenue: 0.775
+enterpriseValue: 159721816064
+epsCurrentYear: 8.15185
+epsForward: 7.50935
+epsTrailingTwelveMonths: 6.59
+esgPopulated: false
+exDividendDate: 1778198400
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 79.106
+fiftyDayAverageChange: -8.966003
+fiftyDayAverageChangePercent: -0.11334163
+fiftyTwoWeekChangePercent: -6.3376484
+fiftyTwoWeekHigh: 120.4
+fiftyTwoWeekHighChange: -50.260002
+fiftyTwoWeekHighChangePercent: -0.41744187
+fiftyTwoWeekLow: 65.32
+fiftyTwoWeekLowChange: 4.8199997
+fiftyTwoWeekLowChangePercent: 0.073790565
+fiftyTwoWeekRange: 65.32 - 120.4
+financialCurrency: NOK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 3.69
+floatShares: 1144892350
+forwardEps: 7.50935
+forwardPE: 9.340356
+freeCashflow: 21745999872
+fullExchangeName: Oslo
+fullTimeEmployees: 32171
+fulldayChange: 0.6800003
+fulldayChangePercent: 0.97898114
+fulldayPrice: 70.14
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.38259998
+grossProfits: 78899003392
+hasPrePostMarketData: false
+heldPercentInsiders: 0.34287998
+heldPercentInstitutions: 0.42154998
+impliedSharesOutstanding: 1965278330
+industry: Aluminum
+industryDisp: Aluminum
+industryKey: aluminum
+irWebsite: http://www.hydro.com/en/Investor-relations/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778198400
+lastDividendValue: 3.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1147219200
+lastSplitFactor: '5:1'
+longBusinessSummary: Norsk Hydro ASA engages in power production, bauxite extraction,
+  alumina refining, aluminum smelting, recycling activities, and extruded solutions
+  worldwide. The company operates through Hydro Bauxite & Alumina, Hydro Aluminium
+  Metal, Hydro Metal Markets, Hydro Extrusions, and Hydro Energy segments. The Hydro
+  Bauxite & Alumina segment engages in bauxite mining activities, production of alumina,
+  and related commercial activities, primarily the sale of alumina. The Hydro Aluminium
+  Metal segment is involved in the primary aluminum production casting activities.
+  This segment principally offers extrusion ingots, foundry alloys, and sheet and
+  standard ingots. The Hydro Metal Markets segment sells products from the company's
+  primary metal plants; operates recyclers; and trades in physical and financial metals.
+  The Hydro Extrusions segment offers extrusion profiles, building systems, and precision
+  tubing products for construction, automotive and heating, and ventilation and air
+  conditioning sectors, as well as operates recycling facilities. The Hydro Energy
+  segment engages in the trading and wholesale business in Brazil; energy sourcing
+  operations; and operation of power stations in Norway, as well as renewable energy
+  production, such as wind and solar. The company also provides extruded solutions.
+  Norsk Hydro ASA was founded in 1905 and is headquartered in Oslo, Norway.
+longName: Norsk Hydro ASA
+market: no_market
+marketCap: 137844621312
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_292387
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 12945000448
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 136508232801
+numberOfAnalystOpinions: 17
+open: 70.26
+operatingCashflow: 18136000512
+operatingMargins: 0.21732001
+overallRisk: 2
+payoutRatio: 0.45520002
+pegRatio: 0.58
+phone: 47 22 53 81 00
+previousClose: 69.46
+priceEpsCurrentYear: 8.604182
+priceHint: 2
+priceToBook: 1.2968476
+priceToSalesTrailing12Months: 0.6684348
+profitMargins: 0.06277
+quickRatio: 1.211
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.94118
+region: US
+regularMarketChange: 0.6800003
+regularMarketChangePercent: 0.97898114
+regularMarketDayHigh: 70.82
+regularMarketDayLow: 69.56
+regularMarketDayRange: 69.56 - 70.82
+regularMarketOpen: 70.26
+regularMarketPreviousClose: 69.46
+regularMarketPrice: 70.14
+regularMarketTime: 1794410948
+regularMarketVolume: 2981513
+returnOnAssets: 0.13543999
+returnOnEquity: 0.12031999
+revenueGrowth: 0.031
+revenuePerShare: 104.914
+sector: Basic Materials
+sectorDisp: Basic Materials
+sectorKey: basic-materials
+shareHolderRightsRisk: 1
+sharesOutstanding: 1965278330
+shortName: NORSK HYDRO
+sourceInterval: 15
+symbol: NHY.OL
+targetHighPrice: 118.0
+targetLowPrice: 55.0
+targetMeanPrice: 82.23529
+targetMedianPrice: 80.0
+totalCash: 19540000768
+totalCashPerShare: 9.934
+totalDebt: 35127001088
+totalRevenue: 206220001280
+tradeable: false
+trailingAnnualDividendRate: 3.0
+trailingAnnualDividendYield: 0.043190327
+trailingEps: 6.59
+trailingPE: 10.643398
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 91.7229
+twoHundredDayAverageChange: -21.582901
+twoHundredDayAverageChangePercent: -0.23530547
+typeDisp: Equity
+volume: 2981513
+website: https://www.hydro.com
+zip: 0283

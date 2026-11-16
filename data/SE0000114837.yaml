@@ -1,0 +1,256 @@
+52WeekChange: 0.14991271
+SandP52WeekChange: 0.097798586
+address1: Johan Kocksgatan 10
+address2: PO Box 153
+allTimeHigh: 469.8
+allTimeLow: 9.802683
+ask: 471.8
+askSize: 0
+auditRisk: 7
+averageAnalystRating: 2.5 - Hold
+averageDailyVolume10Day: 327197
+averageDailyVolume3Month: 357137
+averageVolume: 357137
+averageVolume10days: 327197
+beta: 0.88
+bid: 471.6
+bidSize: 0
+boardRisk: 7
+bookValue: 168.203
+city: Trelleborg
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Nilsson M.Sc.Eng.MBA
+  title: President, CEO & Director
+  totalPay: 29373000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fredrik  Nilsson
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christofer  Sjögren
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katarina  Olsson
+  title: Senior VP, General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrik  Romberg M.B.A.
+  title: Senior VP of Communications & Human Resources
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexander  Jarosch
+  title: Chief Information Officer
+  unexercisedValue: 0
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Paul  Mindermann
+  title: Business Area President of Trelleborg Industrial Solutions
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Linda  Muroski
+  title: Business Area President of Trelleborg Medical Solutions
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jurgen  Bosch
+  title: Business Area President of Trelleborg Sealing Solutions
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Johan  Wijk
+  title: Vice President Group Excellence & Sustainability
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 471.8
+customPriceAlertConfidence: HIGH
+dayHigh: 472.4
+dayLow: 463.0
+debtToEquity: 32.172
+dividendRate: 8.0
+dividendYield: 1.74
+earningsCallTimestampEnd: 1792738800
+earningsCallTimestampStart: 1792738800
+earningsGrowth: 0.248
+earningsQuarterlyGrowth: 0.221
+earningsTimestamp: 1792769400
+earningsTimestampEnd: 1792769400
+earningsTimestampStart: 1792769400
+ebitda: 7827999744
+ebitdaMargins: 0.22126
+enterpriseToEbitda: 14.371
+enterpriseToRevenue: 3.18
+enterpriseValue: 112499064832
+epsCurrentYear: 20.08586
+epsForward: 19.49
+epsTrailingTwelveMonths: 17.67
+esgPopulated: false
+exDividendDate: 1776988800
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 46 41 04 27 63
+fiftyDayAverage: 454.172
+fiftyDayAverageChange: 17.62799
+fiftyDayAverageChangePercent: 0.038813468
+fiftyTwoWeekChangePercent: 14.991272
+fiftyTwoWeekHigh: 472.4
+fiftyTwoWeekHighChange: -0.6000061
+fiftyTwoWeekHighChangePercent: -0.0012701231
+fiftyTwoWeekLow: 319.4
+fiftyTwoWeekLowChange: 152.4
+fiftyTwoWeekLowChangePercent: 0.47714463
+fiftyTwoWeekRange: 319.4 - 472.4
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 1.99
+floatShares: 193692349
+forwardEps: 19.49
+forwardPE: 24.207285
+fullExchangeName: Stockholm
+fullTimeEmployees: 15756
+fulldayChange: 10.799988
+fulldayChangePercent: 2.3427305
+fulldayPrice: 471.8
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.37601003
+grossProfits: 13303000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00336
+heldPercentInstitutions: 0.56732
+impliedSharesOutstanding: 221152863
+industry: Specialty Industrial Machinery
+industryDisp: Specialty Industrial Machinery
+industryKey: specialty-industrial-machinery
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776988800
+lastDividendValue: 8.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Trelleborg AB (publ) provides engineered polymer solutions for
+  seal, damp, and protect critical applications worldwide. It offers antivibration
+  solutions; automotive boots and noise damping; bearings and bushings; bridge expansion
+  joints; cable and rubber compounds; electrical protection; embedded rail systems;
+  and engineered coated fabrics and molded parts. The company also provides fenders,
+  docking, and mooring; floatover solutions; fluid handling solutions; grout seals;
+  inflatable products; medical solutions; hoses for milking equipment; and noise and
+  vibration damping. In addition, it offers oil sand applications; pipe repair and
+  seals; rubber flooring and sheeting; sealing profiles and solutions; ship fenders;
+  squeegees; truck and diesel solutions; tunnel seals; and wear protection solutions.
+  The company offers its solutions to aerospace; agriculture; automotive; building,
+  construction, mining, and marine equipment; healthcare and medical; manufacturing;
+  oil and gas; and rail and mass transit industry. Trelleborg AB (publ) was founded
+  in 1905 and is headquartered in Trelleborg, Sweden.
+longName: Trelleborg AB (publ)
+market: se_market
+marketCap: 104339914752
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874520
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 3990000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 101951469843
+numberOfAnalystOpinions: 11
+open: 463.6
+operatingMargins: 0.17705
+overallRisk: 7
+payoutRatio: 0.45279998
+pegRatio: 1.44
+phone: 46 41 06 70 00
+previousClose: 461.0
+priceEpsCurrentYear: 23.48916
+priceHint: 2
+priceToBook: 2.8049438
+priceToSalesTrailing12Months: 2.949205
+profitMargins: 0.11278
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.54545
+region: US
+regularMarketChange: 10.799988
+regularMarketChangePercent: 2.3427305
+regularMarketDayHigh: 472.4
+regularMarketDayLow: 463.0
+regularMarketDayRange: 463.0 - 472.4
+regularMarketOpen: 463.6
+regularMarketPreviousClose: 461.0
+regularMarketPrice: 471.8
+regularMarketTime: 1794412438
+regularMarketVolume: 112855
+revenueGrowth: 0.082
+revenuePerShare: 151.634
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 9
+sharesOutstanding: 192652863
+shortName: Trelleborg AB ser. B
+sourceInterval: 15
+symbol: TREL-B.ST
+targetHighPrice: 562.0
+targetLowPrice: 370.0
+targetMeanPrice: 473.36365
+targetMedianPrice: 470.0
+totalCash: 2329999872
+totalCashPerShare: 10.453
+totalDebt: 12064000000
+totalRevenue: 35378999296
+tradeable: false
+trailingAnnualDividendRate: 8.0
+trailingAnnualDividendYield: 0.01735358
+trailingEps: 17.67
+trailingPE: 26.700623
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 411.328
+twoHundredDayAverageChange: 60.471985
+twoHundredDayAverageChangePercent: 0.14701645
+typeDisp: Equity
+volume: 112855
+website: https://www.trelleborg.com
+zip: 231 22

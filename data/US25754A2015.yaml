@@ -1,0 +1,267 @@
+52WeekChange: -0.18253416
+SandP52WeekChange: 0.097798586
+address1: 30 Frank Lloyd Wright Drive
+allTimeHigh: 567.57
+allTimeLow: 2.61
+ask: 323.75
+askSize: 1
+auditRisk: 5
+averageDailyVolume10Day: 715220
+averageDailyVolume3Month: 801376
+averageVolume: 801376
+averageVolume10days: 715220
+beta: 0.967
+bid: 337.0
+bidSize: 1
+boardRisk: 5
+bookValue: -120.235
+city: Ann Arbor
+companyOfficers:
+- age: 73
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David Allen Brandon
+  title: Executive Chairman
+  totalPay: 169523
+  unexercisedValue: 0
+  yearBorn: 1952
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joseph Hugh Jordan
+  title: CEO & Director
+  totalPay: 2529238
+  unexercisedValue: 5859336
+  yearBorn: 1974
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sandeep  Reddy C.F.A.
+  title: Executive VP & CFO
+  totalPay: 1481757
+  unexercisedValue: 994156
+  yearBorn: 1971
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cynthia A. Headen
+  title: Executive Vice President & Chief Supply Chain Officer
+  totalPay: 1038917
+  unexercisedValue: 768490
+  yearBorn: 1969
+- age: 40
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brian James Pangburn
+  title: VP, Principal Accounting Officer & Controller
+  unexercisedValue: 0
+  yearBorn: 1985
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gregory J. Lemenchick
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ryan K. Mulally
+  title: Executive VP, General Counsel & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Katherine E. Trumbull
+  title: Executive VP & Chief Marketing Officer
+  unexercisedValue: 0
+  yearBorn: 1982
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maureen S. Pittenger
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank R. Garrido
+  title: Executive VP & Chief Restaurant Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 323.47
+currentRatio: 0.488
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 326.5
+dayLow: 320.602
+displayName: Domino's Pizza
+dividendDate: 1798588800
+dividendRate: 7.96
+dividendYield: 2.41
+earningsCallTimestampEnd: 1791894600
+earningsCallTimestampStart: 1791894600
+earningsGrowth: 0.127
+earningsQuarterlyGrowth: 0.092
+earningsTimestamp: 1791894600
+earningsTimestampEnd: 1791894600
+earningsTimestampStart: 1791894600
+ebitda: 1042630016
+ebitdaMargins: 0.20579
+enterpriseToEbitda: 15.106
+enterpriseToRevenue: 3.109
+enterpriseValue: 15750460416
+epsCurrentYear: 19.1174
+epsForward: 20.63102
+epsTrailingTwelveMonths: 18.15
+esgPopulated: false
+exDividendDate: 1797292800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 312.7298
+fiftyDayAverageChange: 10.740204
+fiftyDayAverageChangePercent: 0.0343434
+fiftyTwoWeekChangePercent: -18.253416
+fiftyTwoWeekHigh: 442.35
+fiftyTwoWeekHighChange: -118.880005
+fiftyTwoWeekHighChangePercent: -0.26874647
+fiftyTwoWeekLow: 282.0
+fiftyTwoWeekLowChange: 41.47
+fiftyTwoWeekLowChangePercent: 0.14705674
+fiftyTwoWeekRange: 282.0 - 442.35
+financialCurrency: USD
+firstTradeDateMilliseconds: 1089725400000
+fiveYearAvgDividendYield: 1.29
+floatShares: 30049560
+forwardEps: 20.63102
+forwardPE: 15.678818
+freeCashflow: 566022976
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 6200
+fulldayChange: -6.5899963
+fulldayChangePercent: -1.9966056
+fulldayPrice: 323.47
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.28874
+grossProfits: 1462877952
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0050999997
+heldPercentInstitutions: 1.0993199
+impliedSharesOutstanding: 32896056
+industry: Restaurants
+industryDisp: Restaurants
+industryKey: restaurants
+ipoExpectedDate: '2025-01-02'
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789430400
+lastDividendValue: 1.99
+lastFiscalYearEnd: 1766880000
+longBusinessSummary: 'Domino''s Pizza, Inc. operates as a pizza company worldwide.
+  The company operates through three segments: U.S. Stores, International Franchise,
+  and Supply Chain. It offers pizzas under the Domino''s brand name through company-owned
+  and franchised stores. The company also provides bread products, wings, boneless
+  chicken, pastas, oven-baked sandwiches, soft drink products and desserts. In addition,
+  it offers parmesan stuffed crust pizza; spicy chicken bacon ranch specialty pizza;
+  and garlic, and cinnamon bread bites, as well as croissant, chocolate volcano, and
+  chicken burst pizzas. Domino''s Pizza, Inc. was founded in 1960 and is based in
+  Ann Arbor, Michigan.'
+longName: Domino's Pizza, Inc.
+market: us_market
+marketCap: 10640886784
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_3132512
+mostRecentQuarter: 1788652800
+netIncomeToCommon: 609382976
+nextFiscalYearEnd: 1798416000
+nonDilutedMarketCap: 10857672243
+numberOfAnalystOpinions: 27
+open: 320.602
+operatingCashflow: 760406976
+operatingMargins: 0.19502
+overallRisk: 8
+payoutRatio: 0.4248
+pegRatio: 1.54
+phone: 734 930 3030
+previousClose: 330.06
+priceEpsCurrentYear: 16.920189
+priceHint: 2
+priceToBook: -2.6903148
+priceToSalesTrailing12Months: 2.1003027
+profitMargins: 0.12028
+quickRatio: 0.274
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -6.5899963
+regularMarketChangePercent: -1.9966056
+regularMarketDayHigh: 326.5
+regularMarketDayLow: 320.602
+regularMarketDayRange: 320.602 - 326.5
+regularMarketOpen: 320.602
+regularMarketPreviousClose: 330.06
+regularMarketPrice: 323.47
+regularMarketTime: 1794413721
+regularMarketVolume: 180294
+returnOnAssets: 0.36042
+revenueGrowth: 0.034
+revenuePerShare: 151.769
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 8
+sharesOutstanding: 32896056
+sharesPercentSharesOut: 0.0699
+sharesShort: 2300786
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 2594111
+shortName: Domino's Pizza Inc
+shortPercentOfFloat: 0.0796
+shortRatio: 2.75
+sourceInterval: 15
+state: MI
+symbol: DPZ
+targetHighPrice: 425.0
+targetLowPrice: 257.0
+targetMeanPrice: 356.48148
+targetMedianPrice: 350.0
+totalCash: 229035008
+totalCashPerShare: 6.962
+totalDebt: 5121823232
+totalRevenue: 5066358784
+tradeable: false
+trailingAnnualDividendRate: 7.71
+trailingAnnualDividendYield: 0.02335939
+trailingEps: 18.15
+trailingPE: 17.822039
+trailingPegRatio: 1.5426
+triggerable: true
+twoHundredDayAverage: 340.11795
+twoHundredDayAverageChange: -16.64795
+twoHundredDayAverageChangePercent: -0.048947576
+typeDisp: Equity
+volume: 180294
+website: https://biz.dominos.com
+zip: '48105'

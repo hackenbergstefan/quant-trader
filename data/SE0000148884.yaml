@@ -1,0 +1,262 @@
+52WeekChange: 0.18554223
+SandP52WeekChange: 0.097798586
+address1: Kungsträdgårdsgatan 8
+allTimeHigh: 238.5
+allTimeLow: 15.431543
+ask: 221.7
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 2358180
+averageDailyVolume3Month: 2649695
+averageVolume: 2649695
+averageVolume10days: 2358180
+beta: 0.443
+bid: 221.6
+bidSize: 0
+boardRisk: 6
+bookValue: 120.673
+city: Stockholm
+companyOfficers:
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jonas Arthur Ahlstrom
+  title: COO, Acting President & CEO
+  totalPay: 12911000
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christoffer  Malmer
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ainar  Leppänen
+  title: Head of Retail & Banking Technology and Member of Management Board
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. John  Abrahamson
+  title: Head of Corporate Finance Unit
+  unexercisedValue: 0
+  yearBorn: 1958
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Henrik  Magnusson
+  title: Head of Group Technology & Group Chief Information Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pawel  Wyszynski
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hans  Ragnhall
+  title: Secretary & Group General Counsel
+  unexercisedValue: 0
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cecilia Wolrath Ekenback
+  title: Head of Group Compliance
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Petter  Brunnberg
+  title: Head of Media Relations & External Communication
+  unexercisedValue: 0
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Petra  Alund
+  title: Head of Group Human Resources
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 221.6
+customPriceAlertConfidence: HIGH
+dayHigh: 223.0
+dayLow: 220.9
+dividendRate: 8.5
+dividendYield: 3.84
+earningsCallTimestampEnd: 1792649700
+earningsCallTimestampStart: 1792649700
+earningsGrowth: -0.005
+earningsQuarterlyGrowth: -0.023
+earningsTimestamp: 1792683000
+earningsTimestampEnd: 1792683000
+earningsTimestampStart: 1792683000
+ebitdaMargins: 0.0
+enterpriseToRevenue: 10.865
+enterpriseValue: 809666281472
+epsCurrentYear: 16.08907
+epsForward: 15.79
+epsTrailingTwelveMonths: 15.65
+esgPopulated: false
+exDividendDate: 1774396800
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 222.754
+fiftyDayAverageChange: -1.1539917
+fiftyDayAverageChangePercent: -0.0051805656
+fiftyTwoWeekChangePercent: 18.554222
+fiftyTwoWeekHigh: 238.5
+fiftyTwoWeekHighChange: -16.899994
+fiftyTwoWeekHighChangePercent: -0.070859514
+fiftyTwoWeekLow: 168.2
+fiftyTwoWeekLowChange: 53.40001
+fiftyTwoWeekLowChangePercent: 0.31747925
+fiftyTwoWeekRange: 168.2 - 238.5
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 4.84
+floatShares: 1458616888
+forwardEps: 15.79
+forwardPE: 14.0342
+fullExchangeName: Stockholm
+fullTimeEmployees: 18413
+fulldayChange: 0.2000122
+fulldayChangePercent: 0.09033975
+fulldayPrice: 221.6
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 74522001408
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00053
+heldPercentInstitutions: 0.72962
+impliedSharesOutstanding: 1944009242
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1774396800
+lastDividendValue: 11.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Skandinaviska Enskilda Banken AB (publ) provides corporate, retail,
+  investment, and private banking services. It operates through Corporate & Investment
+  Banking, Business & Retail Banking, Wealth & Asset Management, and Baltic segments.
+  The company offers core banking products comprising loans, leasing, cards, and payment-related
+  products; life insurance and pension solutions; capital market products consisting
+  of trading and issues on financial markets; fund management; treasury services;
+  structured financing solutions for commercial real estate, infrastructure projects,
+  and shipping; investment banking services, including advisory, execution, and financing
+  solutions for mergers and acquisitions, equities, leveraged finance, and debt capital
+  markets; execution, advisory, and research for fixed income, currencies, and commodities;
+  trade finance and asset solutions; and post-trade services, including sub-custody
+  and global custody services. It also provides cash management products, including
+  liquidity and integration services; venture capital; investor services; markets
+  and trading services, such as equities, fixed income, commodities, foreign exchange,
+  trading, sustainable financial products, prime brokerage, and derivatives clearing;
+  trade and supply chain financing, including trade and export finance, and receivables
+  and supply chain finance; private wealth management services; as well as invests
+  in funds, equities, fixed income, commodities, and private equity. The company serves
+  large corporates, financial institutions, private individuals, and small and medium-sized
+  companies. It operates in Sweden, Denmark, Finland, Norway, Estonia, Latvia, Lithuania,
+  Germany, the United Kingdom, Austria, the Netherlands, Switzerland, China, Hong
+  Kong, Ireland, Luxembourg, Poland, Singapore, the United States, Ukraine, Russia,
+  and internationally. Skandinaviska Enskilda Banken AB (publ) was founded in 1856
+  and is headquartered in Stockholm, Sweden.
+longName: Skandinaviska Enskilda Banken AB (publ)
+market: se_market
+marketCap: 430792441856
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_671797
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 30968000512
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 430563052731
+numberOfAnalystOpinions: 16
+open: 222.7
+operatingCashflow: -96934002688
+operatingMargins: 0.52913
+overallRisk: 6
+payoutRatio: 0.5428
+pegRatio: 2.08
+phone: 46 7 71 62 10 00
+prevName: Skandinaviska Enskilda Banken AB (publ.)
+previousClose: 221.4
+priceEpsCurrentYear: 13.773327
+priceHint: 2
+priceToBook: 1.8363678
+priceToSalesTrailing12Months: 5.7807417
+profitMargins: 0.41556
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.5625
+region: US
+regularMarketChange: 0.2000122
+regularMarketChangePercent: 0.09033975
+regularMarketDayHigh: 223.0
+regularMarketDayLow: 220.9
+regularMarketDayRange: 220.9 - 223.0
+regularMarketOpen: 222.7
+regularMarketPreviousClose: 221.4
+regularMarketPrice: 221.6
+regularMarketTime: 1794412471
+regularMarketVolume: 613713
+returnOnAssets: 0.0073100002
+returnOnEquity: 0.13537
+revenueGrowth: -0.001
+revenuePerShare: 38.075
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 7
+sharesOutstanding: 1919856734
+shortName: Skandinaviska Enskilda Banken s
+sourceInterval: 15
+symbol: SEB-A.ST
+targetHighPrice: 257.0
+targetLowPrice: 191.0
+targetMeanPrice: 225.125
+targetMedianPrice: 227.5
+totalCash: 906863968256
+totalCashPerShare: 466.359
+totalDebt: 1286004015104
+totalRevenue: 74522001408
+tradeable: false
+trailingAnnualDividendRate: 8.5
+trailingAnnualDividendYield: 0.038392052
+trailingEps: 15.65
+trailingPE: 14.159745
+trailingPegRatio: 2.1058
+triggerable: true
+twoHundredDayAverage: 201.3895
+twoHundredDayAverageChange: 20.21051
+twoHundredDayAverageChangePercent: 0.100355335
+typeDisp: Equity
+volume: 613713
+website: https://sebgroup.com
+zip: 106 40

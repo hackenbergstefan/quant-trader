@@ -1,0 +1,285 @@
+52WeekChange: 0.08448684
+SandP52WeekChange: 0.097798586
+address1: 2355 West Chandler Boulevard
+allTimeHigh: 105.91
+allTimeLow: 0.310014
+ask: 65.37
+askSize: 1
+auditRisk: 6
+averageAnalystRating: 1.5 - Strong Buy
+averageDailyVolume10Day: 20787700
+averageDailyVolume3Month: 10738298
+averageVolume: 10738298
+averageVolume10days: 20787700
+beta: 1.852
+bid: 59.78
+bidSize: 1
+boardRisk: 9
+bookValue: 12.202
+city: Chandler
+companyOfficers:
+- age: 69
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Stephen  Sanghi
+  title: CEO, President & Chair of the Board
+  totalPay: 2215532
+  unexercisedValue: 0
+  yearBorn: 1956
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. James Eric Bjornholt
+  title: Senior Corporate Vice President & CFO
+  totalPay: 441820
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Mathew B. Bunker
+  title: Senior Corporate Vice President of Operations
+  totalPay: 371168
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Joseph R. Krawczyk II
+  title: Senior Corporate Vice President of Worldwide Client Engagement
+  totalPay: 391476
+  unexercisedValue: 0
+  yearBorn: 1960
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Sajid  Daudi
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Lauren A. Carr
+  title: Senior Corporate Vice President of Global Human Resources
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Mark W. Reiten
+  title: Senior Corporate Vice President of Licensing, Memory Products and Edge AI
+    Business Units
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Patrick F. Johnson
+  title: Senior Corporate Vice President, FPGA & Timing Business Units
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Fanie  Duvenhage
+  title: Senior Corporate Vice President of Analog Business Units
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Matthias  Kaestner
+  title: Corporate Vice President, Automotive, Data Center & Networking Business Units
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 9
+corporateActions:
+- header: Dividend
+  message: MCHP announced a cash dividend of $0.455 with an ex-date of Nov. 23, 2026
+  meta:
+    amount: '0.455'
+    dateEpochMs: 1795410000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 63.17
+currentRatio: 2.242
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 63.26
+dayLow: 61.13
+debtToEquity: 83.647
+displayName: Microchip
+dividendDate: 1796688000
+dividendRate: 1.82
+dividendYield: 3.02
+earningsCallTimestampEnd: 1793916000
+earningsCallTimestampStart: 1793916000
+earningsGrowth: 25.418
+earningsQuarterlyGrowth: 8.626
+earningsTimestamp: 1793912400
+earningsTimestampEnd: 1801774800
+earningsTimestampStart: 1801774800
+ebitda: 1866300032
+ebitdaMargins: 0.33306998
+enterpriseToEbitda: 20.324
+enterpriseToRevenue: 6.769
+enterpriseValue: 37930811392
+epsCurrentYear: 3.6254
+epsForward: 4.43321
+epsTrailingTwelveMonths: 1.33
+esgPopulated: false
+exDividendDate: 1795392000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 74.357
+fiftyDayAverageChange: -11.192001
+fiftyDayAverageChangePercent: -0.1505171
+fiftyTwoWeekChangePercent: 8.448685
+fiftyTwoWeekHigh: 105.91
+fiftyTwoWeekHighChange: -42.745003
+fiftyTwoWeekHighChangePercent: -0.4035974
+fiftyTwoWeekLow: 48.52
+fiftyTwoWeekLowChange: 14.645
+fiftyTwoWeekLowChangePercent: 0.30183432
+fiftyTwoWeekRange: 48.52 - 105.91
+financialCurrency: USD
+firstTradeDateMilliseconds: 732551400000
+fiveYearAvgDividendYield: 1.9
+floatShares: 533959569
+forwardEps: 4.43321
+forwardPE: 14.248141
+freeCashflow: 1538937472
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 17900
+fulldayChange: 2.834999
+fulldayChangePercent: 4.699153
+fulldayPrice: 63.165
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.62701
+grossProfits: 3513400064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.01783
+heldPercentInstitutions: 1.04908
+impliedSharesOutstanding: 544223627
+industry: Semiconductors
+industryDisp: Semiconductors
+industryKey: semiconductors
+irWebsite: http://www.microchip.com/investorshome.aspx
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1787529600
+lastDividendValue: 0.455
+lastFiscalYearEnd: 1774915200
+lastSplitDate: 1634083200
+lastSplitFactor: '2:1'
+longBusinessSummary: Microchip Technology Incorporated develops, manufactures, and
+  sells smart, connected, and secure embedded control solutions in the Americas, Europe,
+  and Asia. It operates in two segments, Semiconductor Products and Technology Licensing.
+  The company offers general-purpose 8-bit, 16-bit, 32-bit, and 64-bit mixed-signal
+  microcontrollers; 32-bit and 64-bit embedded mixed-signal microprocessors; and specialized
+  mixed-signal microcontrollers for automotive, industrial, computing, communications,
+  lighting, power supplies, motor control, human-machine interface, security, wired
+  connectivity, and wireless connectivity applications. It also provides analog products,
+  including power management, linear, mixed-signal, high voltage, thermal management,
+  discrete diodes and MOSFETs, radio frequency (RF), gate drivers, safety, security,
+  timing, application-specific standard products, USB, Ethernet, wireless, and other
+  interface products; field-programmable gate array (FPGA) products; and application
+  development tools that enable system designers to program mixed-signal microcontroller,
+  FPGA, and microprocessor products. In addition, the company offers memory products
+  consisting of serial electrically erasable programmable read-only memory, serial
+  flash memories, parallel flash memories, serial static random-access memory, and
+  electrically erasable random-access memory for footprint devices. Further, it licenses
+  its SuperFlash embedded flash and non-volatile memory technologies to foundries,
+  integrated device manufacturers, and design partners for use in the manufacture
+  of microcontroller products, gate arrays, RF, analog, and neuromorphic compute products.
+  Additionally, the company offers engineering services; wafer foundry, assembly,
+  and test subcontracting manufacturing services; and timing systems, application-specific
+  integrated circuits, and products for aerospace applications. The company was incorporated
+  in 1989 and is headquartered in Chandler, Arizona.
+longName: Microchip Technology Incorporated
+market: us_market
+marketCap: 34375884800
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_31500
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 726899968
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 32833011416
+numberOfAnalystOpinions: 25
+open: 62.03
+operatingCashflow: 1529100032
+operatingMargins: 0.21565
+overallRisk: 8
+payoutRatio: 1.3684
+pegRatio: 0.18
+phone: 480 792 7200
+previousClose: 60.33
+priceEpsCurrentYear: 17.422905
+priceHint: 2
+priceToBook: 5.1766105
+priceToSalesTrailing12Months: 6.135311
+profitMargins: 0.14957
+quickRatio: 1.16
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.5
+region: US
+regularMarketChange: 2.834999
+regularMarketChangePercent: 4.699153
+regularMarketDayHigh: 63.26
+regularMarketDayLow: 61.13
+regularMarketDayRange: 61.13 - 63.26
+regularMarketOpen: 62.03
+regularMarketPreviousClose: 60.33
+regularMarketPrice: 63.165
+regularMarketTime: 1794413749
+regularMarketVolume: 2724996
+returnOnAssets: 0.05185
+returnOnEquity: 0.12569
+revenueGrowth: 0.422
+revenuePerShare: 10.336
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 2
+sharesOutstanding: 544223627
+sharesPercentSharesOut: 0.0672
+sharesShort: 36586543
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 33327593
+shortName: Microchip Technology Incorporat
+shortPercentOfFloat: 0.089899994
+shortRatio: 3.64
+sourceInterval: 15
+state: AZ
+symbol: MCHP
+targetHighPrice: 120.0
+targetLowPrice: 62.0
+targetMeanPrice: 86.48
+targetMedianPrice: 85.0
+totalCash: 457000000
+totalCashPerShare: 0.84
+totalDebt: 5554800128
+totalRevenue: 5603400192
+tradeable: false
+trailingAnnualDividendRate: 1.82
+trailingAnnualDividendYield: 0.030167412
+trailingEps: 1.33
+trailingPE: 47.49248
+trailingPegRatio: 0.1833
+triggerable: true
+twoHundredDayAverage: 79.46275
+twoHundredDayAverageChange: -16.297752
+twoHundredDayAverageChangePercent: -0.20509927
+typeDisp: Equity
+volume: 2723938
+website: https://www.microchip.com
+zip: 85224-6199

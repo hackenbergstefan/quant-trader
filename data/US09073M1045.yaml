@@ -1,0 +1,282 @@
+52WeekChange: 0.18599343
+SandP52WeekChange: 0.097798586
+address1: 614 McKinley Place N.E.
+allTimeHigh: 135.9625
+allTimeLow: 0.078125
+ask: 78.63
+askSize: 2
+auditRisk: 7
+averageAnalystRating: 3.2 - Hold
+averageDailyVolume10Day: 3063070
+averageDailyVolume3Month: 2819464
+averageVolume: 2819464
+averageVolume10days: 3063070
+beta: 1.275
+bid: 66.98
+bidSize: 2
+boardRisk: 1
+bookValue: 13.789
+city: Minneapolis
+companyOfficers:
+- age: 54
+  exercisedValue: 3627088
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. James T. Hippel CPA
+  title: Executive VP of Finance & CFO
+  totalPay: 1378873
+  unexercisedValue: 2046434
+  yearBorn: 1971
+- age: 50
+  exercisedValue: 76272
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Shane V. Bohnen
+  title: Senior VP, General Counsel, Corporate Secretary & Chief Sustainability Officer
+  totalPay: 884350
+  unexercisedValue: 43240
+  yearBorn: 1975
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. William A. Geist
+  title: President of Protein Sciences Segment
+  totalPay: 1055997
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Steven C. Crouse
+  title: President of Diagnostics & Spatial Biology Segment
+  totalPay: 667957
+  unexercisedValue: 29952
+  yearBorn: 1973
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dr. Gary J. Latham Ph.D.
+  title: VP & CTO
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. David  Clair C.F.A.
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Martin  Wirtz
+  title: Senior Vice President of Strategy & Corporate Development
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Cheryl  Bethune
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Luca  Cicchetti
+  title: Managing Director
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dr. Bernie  Andruss
+  title: Senior Vice President of Bio-Techne Diagnostics Division
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 10
+corporateActions:
+- header: Dividend
+  message: TECH announced a cash dividend of $0.08 with an ex-date of Nov. 13, 2026
+  meta:
+    amount: '0.08'
+    dateEpochMs: 1794546000000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 72.795
+currentRatio: 2.283
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 72.83
+dayLow: 72.77
+debtToEquity: 13.185
+displayName: Bio-Techne
+dividendDate: 1795392000
+dividendRate: 0.32
+dividendYield: 0.44
+earningsCallTimestampEnd: 1778072400
+earningsCallTimestampStart: 1778072400
+earningsGrowth: -0.25
+earningsQuarterlyGrowth: -0.259
+earningsTimestamp: 1786537800
+earningsTimestampEnd: 1794231000
+earningsTimestampStart: 1794231000
+ebitda: 325379008
+ebitdaMargins: 0.26492
+enterpriseToEbitda: 34.955
+enterpriseToRevenue: 9.261
+enterpriseValue: 11373773824
+epsCurrentYear: 2.02836
+epsForward: 2.31233
+epsTrailingTwelveMonths: 1.09
+esgPopulated: false
+exDividendDate: 1794528000
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 612 656 4400
+fiftyDayAverage: 72.5036
+fiftyDayAverageChange: 0.2913971
+fiftyDayAverageChangePercent: 0.0040190704
+fiftyTwoWeekChangePercent: 18.599342
+fiftyTwoWeekHigh: 72.88
+fiftyTwoWeekHighChange: -0.084999084
+fiftyTwoWeekHighChangePercent: -0.0011662883
+fiftyTwoWeekLow: 43.2
+fiftyTwoWeekLowChange: 29.594997
+fiftyTwoWeekLowChangePercent: 0.6850694
+fiftyTwoWeekRange: 43.2 - 72.88
+financialCurrency: USD
+firstTradeDateMilliseconds: 603037800000
+fiveYearAvgDividendYield: 0.43
+floatShares: 156393244
+forwardEps: 2.31233
+forwardPE: 31.481232
+freeCashflow: 277756992
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 3000
+fulldayChange: -0.025001526
+fulldayChangePercent: -0.034333322
+fulldayPrice: 72.795
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.66170996
+grossProfits: 812713984
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00399
+heldPercentInstitutions: 1.07626
+impliedSharesOutstanding: 157090727
+industry: Biotechnology
+industryDisp: Biotechnology
+industryKey: biotechnology
+irWebsite: http://www.techne-corp.com/
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1787529600
+lastDividendValue: 0.08
+lastFiscalYearEnd: 1782777600
+lastSplitDate: 1669766400
+lastSplitFactor: '4:1'
+longBusinessSummary: Bio-Techne Corporation, together with its subsidiaries, develops,
+  manufactures, and sells life science reagents, instruments, and services for the
+  research, diagnostics, and bioprocessing markets worldwide. It operates through
+  two segments, Protein Sciences, and Diagnostics and Spatial Biology. The Protein
+  Sciences segment develops and manufactures biological reagents used in various aspects
+  of life science research, diagnostics, and cell and gene therapy, such as cytokines
+  and growth factors, antibodies, small molecules, tissue culture sera, and cell selection
+  technologies. This segment also offers proteomic analytical tools for automated
+  western blot and multiplexed ELISA workflow consists of manual and automated protein
+  analysis instruments and immunoassays for use in quantifying proteins in various
+  biological fluids. Its Diagnostics and Genomics segment develops and manufactures
+  diagnostic products, including controls, calibrators, and diagnostic assays for
+  regulated diagnostics market, advanced tissue-based in-situ hybridization assays
+  for spatial genomic and tissue biopsy analysis, and genetic and oncology kits for
+  research and clinical applications; and sells products for genetic carrier screening,
+  oncology diagnostics, molecular controls, and research, as well as instruments and
+  process control products for hematology, blood chemistry and gases, and coagulation
+  controls and reagents used in various diagnostic applications. The company was formerly
+  known as Techne Corporation and changed its name to Bio-Techne Corporation in November
+  2014. Bio-Techne Corporation was incorporated in 1976 and is headquartered in Minneapolis,
+  Minnesota.
+longName: Bio-Techne Corporation
+market: us_market
+marketCap: 11435418624
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_189488
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 171951008
+nextFiscalYearEnd: 1814313600
+nonDilutedMarketCap: 11440917647
+numberOfAnalystOpinions: 10
+open: 72.83
+operatingCashflow: 337600992
+operatingMargins: 0.21693
+overallRisk: 8
+payoutRatio: 0.2936
+pegRatio: 2.18
+phone: 612 379 8854
+previousClose: 72.82
+priceEpsCurrentYear: 35.8886
+priceHint: 2
+priceToBook: 5.279208
+priceToSalesTrailing12Months: 9.310744
+profitMargins: 0.14002
+quickRatio: 1.534
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 3.15385
+region: US
+regularMarketChange: -0.025001526
+regularMarketChangePercent: -0.034333322
+regularMarketDayHigh: 72.83
+regularMarketDayLow: 72.77
+regularMarketDayRange: 72.77 - 72.83
+regularMarketOpen: 72.83
+regularMarketPreviousClose: 72.82
+regularMarketPrice: 72.795
+regularMarketTime: 1794413731
+regularMarketVolume: 740657
+returnOnAssets: 0.06451
+returnOnEquity: 0.08325
+revenueGrowth: 0.046
+revenuePerShare: 7.858
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 1
+sharesOutstanding: 157090727
+sharesPercentSharesOut: 0.049099997
+sharesShort: 7703626
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 7385034
+shortName: Bio-Techne Corp
+shortPercentOfFloat: 0.049200002
+shortRatio: 2.78
+sourceInterval: 15
+state: MN
+symbol: TECH
+targetHighPrice: 73.0
+targetLowPrice: 50.0
+targetMeanPrice: 70.5
+targetMedianPrice: 73.0
+totalCash: 351128000
+totalCashPerShare: 2.235
+totalDebt: 285555008
+totalRevenue: 1228195968
+tradeable: false
+trailingAnnualDividendRate: 0.24
+trailingAnnualDividendYield: 0.0032957979
+trailingEps: 1.09
+trailingPE: 66.7844
+trailingPegRatio: 2.1764
+triggerable: true
+twoHundredDayAverage: 63.2768
+twoHundredDayAverageChange: 9.5182
+twoHundredDayAverageChangePercent: 0.15042165
+typeDisp: Equity
+volume: 740657
+website: https://www.bio-techne.com
+zip: '55413'

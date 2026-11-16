@@ -1,0 +1,256 @@
+52WeekChange: 0.09183669
+SandP52WeekChange: 0.097798586
+address1: Teknikringen 20
+allTimeHigh: 377.4
+allTimeLow: 5.62
+ask: 319.0
+auditRisk: 1
+averageDailyVolume10Day: 129365
+averageDailyVolume3Month: 184971
+averageVolume: 184971
+averageVolume10days: 129365
+beta: 0.897
+bid: 318.4
+boardRisk: 8
+bookValue: 12.05
+city: Linköping
+companyOfficers:
+- age: 68
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Dr. Torbjörn  Kronander MBA, Ph.D.
+  title: President, CEO & Director
+  totalPay: 13549000
+  unexercisedValue: 0
+  yearBorn: 1957
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Robert  Forchheimer
+  title: Founder
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Viiveke  Fåk
+  title: Founder
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Ingemar  Ingemarsson
+  title: Founder
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Jessica  Holmquist
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Fredrik  Gustavsson
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Per  Andersnäs
+  title: Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Helena  Pettersson
+  title: Chief Investor Relations Officer
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Lisa  Everhill
+  title: Chief People & Brand Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Marie Ekstrom Tragardh
+  title: President of Imaging IT Solutions Operating Area, Executive VP & Head of
+    Product Area Radiology
+  unexercisedValue: 0
+  yearBorn: 1961
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 10
+corporateActions: []
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 319.2
+currentRatio: 1.754
+customPriceAlertConfidence: HIGH
+dayHigh: 322.6
+dayLow: 317.8
+debtToEquity: 5.494
+dividendRate: 1.3
+dividendYield: 0.4
+earningsCallTimestampEnd: 1788508800
+earningsCallTimestampStart: 1788508800
+earningsGrowth: 0.538
+earningsQuarterlyGrowth: 0.538
+earningsTimestamp: 1795624200
+earningsTimestampEnd: 1795624200
+earningsTimestampStart: 1795624200
+ebitda: 812201984
+ebitdaMargins: 0.21693
+enterpriseToEbitda: 74.148
+enterpriseToRevenue: 16.085
+enterpriseValue: 60222980096
+epsCurrentYear: 3.825
+epsForward: 3.36
+epsTrailingTwelveMonths: 3.22
+esgPopulated: false
+exDividendDate: 1788912000
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 306.056
+fiftyDayAverageChange: 13.144012
+fiftyDayAverageChangePercent: 0.042946428
+fiftyTwoWeekChangePercent: 9.183669
+fiftyTwoWeekHigh: 346.2
+fiftyTwoWeekHighChange: -27.0
+fiftyTwoWeekHighChangePercent: -0.0779896
+fiftyTwoWeekLow: 173.3
+fiftyTwoWeekLowChange: 145.90001
+fiftyTwoWeekLowChangePercent: 0.8418927
+fiftyTwoWeekRange: 173.3 - 346.2
+financialCurrency: SEK
+firstTradeDateMilliseconds: 1096873200000
+fiveYearAvgDividendYield: 0.48
+floatShares: 130017802
+forwardEps: 3.36
+forwardPE: 95.00001
+freeCashflow: 612567872
+fullExchangeName: Stockholm
+fullTimeEmployees: 1403
+fulldayChange: -1.7999878
+fulldayChangePercent: -0.56074387
+fulldayPrice: 319.2
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.3661
+grossProfits: 1370722944
+hasPrePostMarketData: false
+heldPercentInsiders: 0.27826
+heldPercentInstitutions: 0.48493
+impliedSharesOutstanding: 192667489
+industry: Medical Devices
+industryDisp: Medical Devices
+industryKey: medical-devices
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1788912000
+lastDividendValue: 2.3
+lastFiscalYearEnd: 1777507200
+lastSplitDate: 1632441600
+lastSplitFactor: '5:1'
+longBusinessSummary: Sectra AB (publ) provides solutions for medical IT and cybersecurity
+  sectors in Sweden, the United Kingdom, the United States, rest of Europe, and internationally.
+  The company operates through Imaging IT Solutions, Secure Communications, Business
+  Innovation, and Other Operations. The Imaging IT Solutions segment develops and
+  sells medical IT systems and services for diagnostics, managing, archiving, presenting,
+  and communicating various types of medical images and patient information, as well
+  as for operational follow-up and radiation dose monitoring; and maintenance in the
+  form of support, system monitoring, and consulting services. The Secure Communications
+  segment develops and sells products and services for secure voice and data communications,
+  and project-based development, as well as security and threat analyses, and system
+  monitoring services for control systems. The Business Innovation segment develops
+  and sells IT systems for planning and monitoring orthopedic surgery; products for
+  medical education and research projects; and IT support services for precision diagnostics
+  in cancer care. The Other Operations is involved in the property management activities.
+  It serves hospitals and private clinic chains. Sectra AB (publ) was incorporated
+  in 1957 and is headquartered in Linköping, Sweden.
+longName: Sectra AB (publ)
+market: se_market
+marketCap: 61499465728
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_419159
+mostRecentQuarter: 1785456000
+netIncomeToCommon: 619110016
+nextFiscalYearEnd: 1809043200
+nonDilutedMarketCap: 61846263969
+numberOfAnalystOpinions: 3
+open: 319.0
+operatingCashflow: 981918976
+operatingMargins: 0.20596
+overallRisk: 9
+payoutRatio: 0.3416
+phone: 46 13 23 52 00
+previousClose: 321.0
+priceEpsCurrentYear: 83.45098
+priceHint: 2
+priceToBook: 26.489628
+priceToSalesTrailing12Months: 16.425758
+profitMargins: 0.16535999
+quickRatio: 1.605
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -1.7999878
+regularMarketChangePercent: -0.56074387
+regularMarketDayHigh: 322.6
+regularMarketDayLow: 317.8
+regularMarketDayRange: 317.8 - 322.6
+regularMarketOpen: 319.0
+regularMarketPreviousClose: 321.0
+regularMarketPrice: 319.2
+regularMarketTime: 1794412445
+regularMarketVolume: 31315
+returnOnAssets: 0.116809994
+returnOnEquity: 0.28325
+revenueGrowth: 0.258
+revenuePerShare: 19.433
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 7
+sharesOutstanding: 179564029
+shortName: SECTRA AB ser B
+sourceInterval: 15
+symbol: SECT-B.ST
+targetHighPrice: 460.0
+targetLowPrice: 220.0
+targetMeanPrice: 340.0
+targetMedianPrice: 340.0
+totalCash: 1752477056
+totalCashPerShare: 9.096
+totalDebt: 127639000
+totalRevenue: 3744087040
+tradeable: false
+trailingAnnualDividendRate: 1.3
+trailingAnnualDividendYield: 0.004049844
+trailingEps: 3.22
+trailingPE: 99.13044
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 267.2285
+twoHundredDayAverageChange: 51.971527
+twoHundredDayAverageChangePercent: 0.19448349
+typeDisp: Equity
+volume: 31315
+website: https://sectra.com
+zip: 583 30

@@ -1,0 +1,251 @@
+52WeekChange: 0.0041195154
+SandP52WeekChange: 0.097798586
+address1: Lindbergh-Allee 1
+address2: Glattpark
+allTimeHigh: 238.5
+allTimeLow: 69.69127
+ask: 194.6
+askSize: 0
+auditRisk: 5
+averageDailyVolume10Day: 20244
+averageDailyVolume3Month: 23067
+averageVolume: 23067
+averageVolume10days: 20244
+beta: 0.509
+bid: 194.2
+bidSize: 0
+boardRisk: 1
+bookValue: 165.645
+city: Opfikon
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephan  Widrig
+  title: Chief Executive Officer
+  totalPay: 1362000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc  Frei
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1986
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Wehrli
+  title: General Counsel
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Reto  Aregger
+  title: Chief of Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Pantucek
+  title: Head of Sales & Contracting
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Pascale  Paulus
+  title: Head of Human Resources
+  unexercisedValue: 0
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alain  Paratte
+  title: Head of Real Estate
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stefan  Dambacher
+  title: Head of Development
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Peter  Binz
+  title: Head of Realization
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Guthörl
+  title: Head of Sustainability
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Switzerland
+cryptoTradeable: false
+currency: CHF
+currentPrice: 194.4
+currentRatio: 0.625
+customPriceAlertConfidence: LOW
+dayHigh: 196.0
+dayLow: 193.8
+debtToEquity: 102.975
+dividendDate: 1746144000
+dividendRate: 7.0
+dividendYield: 3.59
+earningsCallTimestampEnd: 1787555700
+earningsCallTimestampStart: 1787555700
+earningsGrowth: -0.096
+earningsQuarterlyGrowth: -0.096
+earningsTimestamp: 1787585400
+earningsTimestampEnd: 1787585400
+earningsTimestampStart: 1787585400
+ebitda: 183400000
+ebitdaMargins: 0.41805
+enterpriseToEbitda: 32.86
+enterpriseToRevenue: 13.737
+enterpriseValue: 6026454528
+epsCurrentYear: 7.74281
+epsForward: 7.91065
+epsTrailingTwelveMonths: 12.6
+esgPopulated: false
+exDividendDate: 1776729600
+exchange: EBS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Zurich
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 191.906
+fiftyDayAverageChange: 2.493988
+fiftyDayAverageChangePercent: 0.012995883
+fiftyTwoWeekChangePercent: 0.41195154
+fiftyTwoWeekHigh: 238.5
+fiftyTwoWeekHighChange: -44.100006
+fiftyTwoWeekHighChangePercent: -0.1849057
+fiftyTwoWeekLow: 185.2
+fiftyTwoWeekLowChange: 9.199997
+fiftyTwoWeekLowChangePercent: 0.04967601
+fiftyTwoWeekRange: 185.2 - 238.5
+financialCurrency: CHF
+firstTradeDateMilliseconds: 952070400000
+fiveYearAvgDividendYield: 4.02
+floatShares: 13946527
+forwardEps: 7.91065
+forwardPE: 24.574467
+freeCashflow: 79550000
+fullExchangeName: Swiss
+fullTimeEmployees: 174
+fulldayChange: -0.6000061
+fulldayChangePercent: -0.30769545
+fulldayPrice: 194.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.53203
+grossProfits: 233400000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.1116
+heldPercentInstitutions: 0.4926
+impliedSharesOutstanding: 16516689
+industry: Real Estate - Diversified
+industryDisp: Real Estate - Diversified
+industryKey: real-estate-diversified
+irWebsite: http://www.allreal.ch/en/investors/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1776729600
+lastDividendValue: 7.0
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Allreal Holding AG, through its subsidiaries, operates as a real
+  estate company in Switzerland. It operates in two segments, Real Estate and Development
+  & Realisation. The company invests in residential and commercial properties. It
+  also offers portfolio management, operational, and building management services.
+  In addition, the company provides project development, and consulting services;
+  and sells condominiums. Additionally, it is involved in planning, execution of construction
+  projects, and buying and developing real estate projects and developing sites; maintenance
+  of technical systems; renovation activities; and implementation of own and third-party
+  construction projects, as well as acquires plots of land. Allreal Holding AG was
+  founded in 1999 and is based in Opfikon, Switzerland.
+longName: Allreal Holding AG
+market: ch_market
+marketCap: 3210844160
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_7695219
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 208100000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 3220754355
+numberOfAnalystOpinions: 2
+open: 196.0
+operatingCashflow: 94800000
+operatingMargins: 0.41395
+overallRisk: 1
+payoutRatio: 0.5556
+pegRatio: 6.23
+phone: 41 44 319 11 11
+previousClose: 195.0
+priceEpsCurrentYear: 25.107164
+priceHint: 2
+priceToBook: 1.1735941
+priceToSalesTrailing12Months: 7.3189974
+profitMargins: 0.47436002
+quickRatio: 0.047
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -0.6000061
+regularMarketChangePercent: -0.30769545
+regularMarketDayHigh: 196.0
+regularMarketDayLow: 193.8
+regularMarketDayRange: 193.8 - 196.0
+regularMarketOpen: 196.0
+regularMarketPreviousClose: 195.0
+regularMarketPrice: 194.4
+regularMarketTime: 1794411169
+regularMarketVolume: 7208
+returnOnAssets: 0.01863
+returnOnEquity: 0.07738
+revenueGrowth: 0.01
+revenuePerShare: 26.558
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 1
+sharesOutstanding: 16516689
+shortName: ALLREAL N
+sourceInterval: 15
+symbol: ALLN.SW
+targetHighPrice: 229.0
+targetLowPrice: 210.0
+targetMeanPrice: 219.5
+targetMedianPrice: 219.5
+totalCash: 11600000
+totalCashPerShare: 0.702
+totalDebt: 2817299968
+totalRevenue: 438700000
+tradeable: false
+trailingAnnualDividendRate: 7.0
+trailingAnnualDividendYield: 0.035897437
+trailingEps: 12.6
+trailingPE: 15.428571
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 210.2125
+twoHundredDayAverageChange: -15.8125
+twoHundredDayAverageChangePercent: -0.0752215
+typeDisp: Equity
+volume: 7208
+website: https://allreal.ch
+zip: '8152'

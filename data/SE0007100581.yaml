@@ -1,0 +1,282 @@
+52WeekChange: 0.074350476
+SandP52WeekChange: 0.097798586
+address1: Klarabergsviadukten 90
+allTimeHigh: 403.9
+allTimeLow: 22.166666
+ask: 391.1
+askSize: 0
+auditRisk: 4
+averageAnalystRating: 2.0 - Buy
+averageDailyVolume10Day: 2001271
+averageDailyVolume3Month: 1559139
+averageVolume: 1559139
+averageVolume10days: 2001271
+beta: 0.837
+bid: 390.9
+bidSize: 0
+boardRisk: 7
+bookValue: 107.163
+city: Stockholm
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nico  Delvaux
+  title: President, CEO & Head of the Global Technologies of Asia Pacific Division
+  totalPay: 59208000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Erik  Pieder
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Björn  Tibell
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Ann  Holmberg
+  title: Head of Corporate Communications
+  unexercisedValue: 0
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Allan  Cooper
+  title: Executive VP & Chief Human Resources Office
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lucas  Boselli
+  title: Executive VP & Head of Americas Division
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Neil  Vann
+  title: Executive VP & Head of EMEA division
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Bjorn  Lidefelt
+  title: Executive VP & Head of Global Technologies Business Unit HID Global
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Simon  Ellis M.B.A.
+  title: EVP and Head of Asia Pacific Business Unit ASSA ABLOY Opening Solutions Pacific
+    & North East Asia
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Martin  Poxton
+  title: EVP and Head of Asia Pacific Business Unit ASSA ABLOY Opening Solutions Greater
+    China & SEA
+  unexercisedValue: 0
+  yearBorn: 1972
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: ASSA-B.ST announced a cash dividend of SEK 3.20 with an ex-date of Nov.
+    10, 2026
+  meta:
+    amount: '3.20'
+    dateEpochMs: 1794265200000
+    eventType: DIVIDEND
+country: Sweden
+cryptoTradeable: false
+currency: SEK
+currentPrice: 391.1
+currentRatio: 1.091
+customPriceAlertConfidence: HIGH
+dayHigh: 391.4
+dayLow: 387.1
+debtToEquity: 55.409
+dividendRate: 6.4
+dividendYield: 1.65
+earningsCallTimestampEnd: 1793088000
+earningsCallTimestampStart: 1793088000
+earningsGrowth: 0.136
+earningsQuarterlyGrowth: 0.136
+earningsTimestamp: 1793118600
+earningsTimestampEnd: 1793118600
+earningsTimestampStart: 1793118600
+ebitda: 29930999808
+ebitdaMargins: 0.19424999
+enterpriseToEbitda: 16.526
+enterpriseToRevenue: 3.21
+enterpriseValue: 494653636608
+epsCurrentYear: 16.27019
+epsForward: 15.31
+epsTrailingTwelveMonths: 15.26
+esgPopulated: false
+exDividendDate: 1794268800
+exchange: STO
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Stockholm
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 46 8 50 64 85 85
+fiftyDayAverage: 360.854
+fiftyDayAverageChange: 30.246002
+fiftyDayAverageChangePercent: 0.08381784
+fiftyTwoWeekChangePercent: 7.4350476
+fiftyTwoWeekHigh: 403.9
+fiftyTwoWeekHighChange: -12.799988
+fiftyTwoWeekHighChangePercent: -0.03169098
+fiftyTwoWeekLow: 314.2
+fiftyTwoWeekLowChange: 76.899994
+fiftyTwoWeekLowChangePercent: 0.24474853
+fiftyTwoWeekRange: 314.2 - 403.9
+financialCurrency: SEK
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 1.7
+floatShares: 1017870695
+forwardEps: 15.31
+forwardPE: 25.545395
+freeCashflow: 19226249216
+fullExchangeName: Stockholm
+fullTimeEmployees: 65000
+fulldayChange: 2.399994
+fulldayChangePercent: 0.6174412
+fulldayPrice: 391.1
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.43325
+grossProfits: 66758000640
+hasPrePostMarketData: false
+heldPercentInsiders: 0.03546
+heldPercentInstitutions: 0.72783995
+impliedSharesOutstanding: 1110776334
+industry: Security & Protection Services
+industryDisp: Security & Protection Services
+industryKey: security-protection-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1794268800
+lastDividendValue: 3.2
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1433203200
+lastSplitFactor: '3:1'
+longBusinessSummary: ASSA ABLOY AB (publ) provides door opening and access products
+  for the institutional, commercial, and residential markets. It operates through
+  Europe, the Middle East, India, and Africa (EMEIA); North and South America (Americas);
+  Asia and Oceania (Asia Pacific); Global Technologies; and Entrance Systems divisions.
+  The company offers digital access solutions, such as electronic access control ecosystem,
+  wireless and keyed access solutions, and standalone access and electrochemical solutions;
+  swing, revolving, and sliding doors; hinges, lever handles, mortise lockcases, euro
+  profile cylinders, panic exit devices, door closers, floor springs, pull handles,
+  and general hardware; wooden and steel doors; and security entrance control and
+  loading dock equipment. It also provides repair and maintenance, and digital services;
+  building specification; and educational program and training services. In addition,
+  the company's technology platforms for hi-tech door and entrance environments include
+  Aperio, CLIQ, Hi-O, Incedo, and Seos. Further, it provides Openings Studio, a building
+  information modeling software that integrates with design software to create and
+  visualize openings for door, frame, and hardware specifications. The company offers
+  its products under the ASSA ABLOY, Yale, ABLOY, Vachette, TESA, Kwikset, Baldwin,
+  Weiser, Sargent, Curries, Norton Rixson, Papaiz, Odis, Philips, PanPan, Gateman,
+  Lockwood, and HID brands. It sells its products through distributors and wholesalers.
+  The company serves aviation, education, distribution and logistics, entertainment
+  and public facilities, finance and banking, government and military, healthcare,
+  hospitality, industry and manufacturing, mining, office and enterprise, residential,
+  retail, shipyards, and transportation, hospitality, heavy, construction, critical
+  infrastructure, key and asset management, marine, self-storage, and senior care
+  industries. ASSA ABLOY AB (publ) was founded in 1881 and is based in Stockholm,
+  Sweden.
+longName: ASSA ABLOY AB (publ)
+market: se_market
+marketCap: 434424610816
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_620284
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 16958999552
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 431758761025
+numberOfAnalystOpinions: 22
+open: 389.0
+operatingCashflow: 25041999872
+operatingMargins: 0.16790001
+overallRisk: 6
+payoutRatio: 0.4028
+pegRatio: 1.7
+phone: 46 8 50 64 85 00
+previousClose: 388.7
+priceEpsCurrentYear: 24.037828
+priceHint: 2
+priceToBook: 3.6495805
+priceToSalesTrailing12Months: 2.819328
+profitMargins: 0.11006
+quickRatio: 0.654
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.04545
+region: US
+regularMarketChange: 2.399994
+regularMarketChangePercent: 0.6174412
+regularMarketDayHigh: 391.4
+regularMarketDayLow: 387.1
+regularMarketDayRange: 387.1 - 391.4
+regularMarketOpen: 389.0
+regularMarketPreviousClose: 388.7
+regularMarketPrice: 391.1
+regularMarketTime: 1794412430
+regularMarketVolume: 324558
+returnOnAssets: 0.071729995
+returnOnEquity: 0.15272
+revenueGrowth: 0.069
+revenuePerShare: 138.792
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 10
+sharesOutstanding: 1053250365
+shortName: ASSA ABLOY AB ser. B
+sourceInterval: 15
+symbol: ASSA-B.ST
+targetHighPrice: 500.0
+targetLowPrice: 345.0
+targetMeanPrice: 415.0
+targetMedianPrice: 420.0
+totalCash: 3360999936
+totalCashPerShare: 3.026
+totalDebt: 66062999552
+totalRevenue: 154087997440
+tradeable: false
+trailingAnnualDividendRate: 6.4
+trailingAnnualDividendYield: 0.01646514
+trailingEps: 15.26
+trailingPE: 25.629095
+trailingPegRatio: 1.6768
+triggerable: true
+twoHundredDayAverage: 354.0215
+twoHundredDayAverageChange: 37.07849
+twoHundredDayAverageChangePercent: 0.104735136
+typeDisp: Equity
+volume: 324558
+website: https://www.assaabloy.com

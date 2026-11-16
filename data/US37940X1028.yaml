@@ -1,0 +1,273 @@
+52WeekChange: 0.31270194
+SandP52WeekChange: 0.097798586
+address1: 3550 Lenox Road
+address2: Suite 3000
+allTimeHigh: 220.81
+allTimeLow: 3.75
+ask: 100.47
+askSize: 100
+auditRisk: 2
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 4970110
+averageDailyVolume3Month: 2745353
+averageVolume: 2745353
+averageVolume10days: 4970110
+beta: 0.816
+bid: 100.31
+bidSize: 200
+boardRisk: 3
+bookValue: 87.452
+city: Atlanta
+companyOfficers:
+- age: 53
+  exercisedValue: 84646
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Cameron M. Bready CPA
+  title: CEO & Director
+  totalPay: 4177406
+  unexercisedValue: 26586
+  yearBorn: 1972
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Robert M. Cortopassi
+  title: President & COO
+  totalPay: 2347455
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joshua J. Whipple
+  title: Senior EVP & CFO
+  totalPay: 2127586
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ryan  Loy
+  title: Chief Technology Officer
+  totalPay: 1570795
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer Bozeman Whyte
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Nathan A. Rozof C.F.A.
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Dara  Steele-Belkin
+  title: Chief Legal Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nichole  Viviani
+  title: Chief People, Culture & Change Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David  Rumph
+  title: President of SMB
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Laurent  Bossard
+  title: Chief Operations & Transformation Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions:
+- header: Dividend
+  message: GPN announced a cash dividend of $0.25 with an ex-date of Dec. 10, 2026
+  meta:
+    amount: '0.25'
+    dateEpochMs: 1796878800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 100.85
+currentRatio: 0.817
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 101.5
+dayLow: 100.06
+debtToEquity: 98.88
+displayName: Global Payments
+dividendDate: 1798070400
+dividendRate: 1.0
+dividendYield: 0.98
+earningsCallTimestampEnd: 1793883600
+earningsCallTimestampStart: 1793883600
+earningsGrowth: -0.599
+earningsQuarterlyGrowth: -0.558
+earningsTimestamp: 1793885400
+earningsTimestampEnd: 1793885400
+earningsTimestampStart: 1793885400
+ebitda: 4947757056
+ebitdaMargins: 0.43048
+enterpriseToEbitda: 9.268
+enterpriseToRevenue: 3.99
+enterpriseValue: 45855498240
+epsCurrentYear: 13.64909
+epsForward: 16.20194
+epsTrailingTwelveMonths: 0.56
+esgPopulated: false
+exDividendDate: 1796860800
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 87.0002
+fiftyDayAverageChange: 13.8498
+fiftyDayAverageChangePercent: 0.15919274
+fiftyTwoWeekChangePercent: 31.270195
+fiftyTwoWeekHigh: 102.91
+fiftyTwoWeekHighChange: -2.0600052
+fiftyTwoWeekHighChangePercent: -0.02001754
+fiftyTwoWeekLow: 61.16
+fiftyTwoWeekLowChange: 39.69
+fiftyTwoWeekLowChangePercent: 0.64895356
+fiftyTwoWeekRange: 61.16 - 102.91
+financialCurrency: USD
+firstTradeDateMilliseconds: 979655400000
+fiveYearAvgDividendYield: 0.95
+floatShares: 219642430
+forwardEps: 16.20194
+forwardPE: 6.224563
+freeCashflow: 7467536384
+fullExchangeName: NYSE
+fullTimeEmployees: 26000
+fulldayChange: -0.73999786
+fulldayChangePercent: -0.7284161
+fulldayPrice: 100.85
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.61576
+grossProfits: 7077282816
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00934
+heldPercentInstitutions: 1.11422
+impliedSharesOutstanding: 264635810
+industry: Specialty Business Services
+industryDisp: Specialty Business Services
+industryKey: specialty-business-services
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1789084800
+lastDividendValue: 0.25
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1446508800
+lastSplitFactor: '2:1'
+longBusinessSummary: Global Payments Inc. provides payment technology and software
+  solutions for card, check, and digital-based payments in the Americas, Europe, and
+  the Asia-Pacific. It offers authorization, settlement and funding, customer support,
+  chargeback resolution, reconciliation and dispute management, terminal rental, sales
+  and deployment, payment security, and consolidated billing and reporting services.
+  The company also provides an array of enterprise software solutions that streamline
+  business operations of its customers in various vertical markets; and value-added
+  solutions and services, such as point-of-sale software, analytics and customer engagement,
+  payroll and reporting, and human capital management. It markets its products and
+  services through direct sales force, trade associations, agent and enterprise software
+  providers, referral arrangements with value-added resellers, independent sales organizations,
+  payment facilitators, and financial institutions. The company was founded in 1967
+  and is headquartered in Atlanta, Georgia.
+longName: Global Payments Inc.
+market: us_market
+marketCap: 26688520192
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_813574
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 134400000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 26884351937
+numberOfAnalystOpinions: 33
+open: 100.68
+operatingCashflow: 728121024
+operatingMargins: 0.17211
+overallRisk: 9
+payoutRatio: 1.7857001
+pegRatio: 0.24
+phone: 770 829 8000
+previousClose: 101.59
+priceEpsCurrentYear: 7.388771
+priceHint: 2
+priceToBook: 1.153204
+priceToSalesTrailing12Months: 2.3220491
+profitMargins: -0.112110004
+quickRatio: 0.533
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.19444
+region: US
+regularMarketChange: -0.73999786
+regularMarketChangePercent: -0.7284161
+regularMarketDayHigh: 101.5
+regularMarketDayLow: 100.06
+regularMarketDayRange: 100.06 - 101.5
+regularMarketOpen: 100.68
+regularMarketPreviousClose: 101.59
+regularMarketPrice: 100.85
+regularMarketTime: 1794413741
+regularMarketVolume: 616133
+returnOnAssets: 0.0224
+returnOnEquity: 0.00841
+revenueGrowth: 0.637
+revenuePerShare: 44.023
+sector: Industrials
+sectorDisp: Industrials
+sectorKey: industrials
+shareHolderRightsRisk: 2
+sharesOutstanding: 264635810
+sharesPercentSharesOut: 0.0541
+sharesShort: 14329452
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 14973773
+shortName: Global Payments Inc.
+shortPercentOfFloat: 0.0651
+shortRatio: 5.46
+sourceInterval: 15
+state: GA
+symbol: GPN
+targetHighPrice: 194.0
+targetLowPrice: 70.0
+targetMeanPrice: 108.51515
+targetMedianPrice: 106.0
+totalCash: 5570667008
+totalCashPerShare: 21.05
+totalDebt: 23704643584
+totalRevenue: 11493521408
+tradeable: false
+trailingAnnualDividendRate: 1.0
+trailingAnnualDividendYield: 0.009843489
+trailingEps: 0.56
+trailingPE: 180.08928
+trailingPegRatio: 0.2393
+triggerable: true
+twoHundredDayAverage: 77.7425
+twoHundredDayAverageChange: 23.107498
+twoHundredDayAverageChangePercent: 0.29723123
+typeDisp: Equity
+volume: 616133
+website: https://www.globalpayments.com
+zip: '30326'

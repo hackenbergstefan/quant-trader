@@ -1,0 +1,262 @@
+52WeekChange: -0.34740627
+SandP52WeekChange: 0.097798586
+address1: Petuelring 130
+allTimeHigh: 123.75
+allTimeLow: 16.0
+ask: 57.8
+askSize: 0
+auditRisk: 9
+averageAnalystRating: 2.7 - Hold
+averageDailyVolume10Day: 1319804
+averageDailyVolume3Month: 1559186
+averageVolume: 1559186
+averageVolume10days: 1319804
+beta: 0.809
+bid: 57.78
+bidSize: 0
+boardRisk: 6
+bookValue: 162.692
+city: Munich
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Milan  Nedeljkovic
+  title: CEO & Chairman of the Management Board
+  totalPay: 2774445
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Walter  Mertl
+  title: Member of Management Board of Finance
+  totalPay: 2390937
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Jochen  Goller
+  title: Member of the Board of Management of Customer, Brands & Sales
+  totalPay: 2425599
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Joachim  Post
+  title: Head of Development & Member of the Board of Management
+  totalPay: 2774713
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Nicolai  Martin
+  title: Member of the Board of Management and Purchasing & Supplier Network
+  totalPay: 1913752
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Raymond  Wittmann
+  title: Member of the Board of Management
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Dorothea Von Boxberg
+  title: People Labour Relations Director & Member of Board of Management
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam  Sykes
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Andreas  Liepe
+  title: General Counsel
+  unexercisedValue: 0
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexander  Bilgeri
+  title: Head of Communication Human Resources, Production, Purchasing & Sustainability
+  unexercisedValue: 0
+  yearBorn: 1975
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions: []
+country: Germany
+cryptoTradeable: false
+currency: EUR
+currentPrice: 57.8
+currentRatio: 1.105
+customPriceAlertConfidence: LOW
+dayHigh: 58.68
+dayLow: 57.62
+debtToEquity: 120.725
+dividendRate: 4.4
+dividendYield: 7.48
+earningsCallTimestampEnd: 1793783700
+earningsCallTimestampStart: 1793783700
+earningsQuarterlyGrowth: -0.127
+earningsTimestamp: 1793809800
+earningsTimestampEnd: 1793809800
+earningsTimestampStart: 1793809800
+ebitda: 13326999552
+ebitdaMargins: 0.105629995
+enterpriseToEbitda: 10.443
+enterpriseToRevenue: 1.103
+enterpriseValue: 139177689088
+epsCurrentYear: 5.65567
+epsForward: 8.10113
+epsTrailingTwelveMonths: 9.98
+esgPopulated: false
+exDividendDate: 1778716800
+exchange: GER
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Berlin
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 49 89 382 70 25858
+fiftyDayAverage: 58.138
+fiftyDayAverageChange: -0.33800125
+fiftyDayAverageChangePercent: -0.005813775
+fiftyTwoWeekChangePercent: -34.740627
+fiftyTwoWeekHigh: 97.92
+fiftyTwoWeekHighChange: -40.12
+fiftyTwoWeekHighChangePercent: -0.4097222
+fiftyTwoWeekLow: 51.98
+fiftyTwoWeekLowChange: 5.8199997
+fiftyTwoWeekLowChangePercent: 0.11196613
+fiftyTwoWeekRange: 51.98 - 97.92
+financialCurrency: EUR
+firstTradeDateMilliseconds: 847440000000
+fiveYearAvgDividendYield: 5.61
+floatShares: 363730484
+forwardEps: 8.10113
+forwardPE: 7.1348076
+freeCashflow: 3478267904
+fullExchangeName: XETRA
+fullTimeEmployees: 154540
+fulldayChange: -0.3199997
+fulldayChangePercent: -0.5505845
+fulldayPrice: 57.8
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.12239
+grossProfits: 15441999872
+hasPrePostMarketData: false
+heldPercentInsiders: 0.45721
+heldPercentInstitutions: 0.2281
+impliedSharesOutstanding: 591133711
+industry: Auto Manufacturers
+industryDisp: Auto Manufacturers
+industryKey: auto-manufacturers
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778716800
+lastDividendValue: 4.4
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Bayerische Motoren Werke Aktiengesellschaft develops, manufactures,
+  and sells automobiles and motorcycles, spare parts, and accessories worldwide. It
+  operates through Automotive, Motorcycles, and Financial Services segments. The company
+  offers automobiles under the BMW, MINI, and Rolls-Royce brands. It also develops,
+  manufactures, and sells scooters, and motorcycles for private use and special-purpose
+  vehicles for operational use under the BMW Motorrad brand. In addition, the company
+  provides car rentals; credit financing; leasing that include insurance and service
+  products; financing for dealership and customer deposits; vehicle fleet financing
+  services for corporate car fleets under the Alphabet brand; and financial services
+  for the automotive sector. It sells its products through retail outlet, agent, and
+  independent dealerships. Bayerische Motoren Werke Aktiengesellschaft was founded
+  in 1916 and is headquartered in Munich, Germany.
+longName: Bayerische Motoren Werke Aktiengesellschaft
+market: de_market
+marketCap: 34167527424
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_704634
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 6089999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 34794130229
+numberOfAnalystOpinions: 19
+open: 58.68
+operatingCashflow: 4696000000
+operatingMargins: 0.05653
+overallRisk: 6
+payoutRatio: 0.4352
+pegRatio: 1.32
+phone: 49 89 382 0
+previousClose: 58.12
+priceEpsCurrentYear: 10.219832
+priceHint: 2
+priceToBook: 0.35527253
+priceToSalesTrailing12Months: 0.2708012
+profitMargins: 0.048270002
+quickRatio: 0.706
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.65
+region: US
+regularMarketChange: -0.3199997
+regularMarketChangePercent: -0.5505845
+regularMarketDayHigh: 58.68
+regularMarketDayLow: 57.62
+regularMarketDayRange: 57.62 - 58.68
+regularMarketOpen: 58.68
+regularMarketPreviousClose: 58.12
+regularMarketPrice: 57.8
+regularMarketTime: 1794411564
+regularMarketVolume: 481154
+returnOnAssets: 0.01661
+returnOnEquity: 0.06252
+revenueGrowth: -0.058
+revenuePerShare: 213.441
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 1
+sharesOutstanding: 591133711
+shortName: BAYERISCHE MOTOREN WERKE AG   S
+sourceInterval: 15
+symbol: BMW.DE
+targetHighPrice: 82.5
+targetLowPrice: 52.0
+targetMeanPrice: 67.03684
+targetMedianPrice: 66.0
+totalCash: 15932000256
+totalCashPerShare: 26.952
+totalDebt: 118646996992
+totalRevenue: 126171996160
+tradeable: false
+trailingAnnualDividendRate: 4.4
+trailingAnnualDividendYield: 0.07570544
+trailingEps: 9.98
+trailingPE: 5.7915835
+trailingPegRatio: 1.3168
+triggerable: false
+twoHundredDayAverage: 68.7671
+twoHundredDayAverageChange: -10.967098
+twoHundredDayAverageChangePercent: -0.15948176
+typeDisp: Equity
+volume: 481154
+website: https://www.bmwgroup.com
+zip: '80809'

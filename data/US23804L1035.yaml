@@ -1,0 +1,265 @@
+52WeekChange: -0.06543034
+SandP52WeekChange: 0.097798586
+address1: 620 8th Avenue
+address2: 45th Floor
+allTimeHigh: 300.68
+allTimeLow: 27.55
+ask: 195.09
+askSize: 1
+auditRisk: 7
+averageAnalystRating: 1.4 - Strong Buy
+averageDailyVolume10Day: 6085890
+averageDailyVolume3Month: 3771956
+averageVolume: 3771956
+averageVolume10days: 6085890
+beta: 1.509
+bid: 186.97
+bidSize: 1
+boardRisk: 10
+bookValue: 13.062
+city: New York
+companyOfficers:
+- age: 48
+  exercisedValue: 166803520
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Olivier  Pomel
+  title: Co-Founder, CEO & Director
+  totalPay: 1223534
+  unexercisedValue: 301150912
+  yearBorn: 1977
+- age: 50
+  exercisedValue: 203275696
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Alexis  Le-Quoc
+  title: Co-Founder, CTO & Director
+  totalPay: 1225774
+  unexercisedValue: 51665624
+  yearBorn: 1975
+- age: 65
+  exercisedValue: 13666125
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David M. Obstler
+  title: Chief Financial Officer
+  totalPay: 1227294
+  unexercisedValue: 0
+  yearBorn: 1960
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam  Blitzer
+  title: Chief Operating Officer
+  totalPay: 1225534
+  unexercisedValue: 0
+  yearBorn: 1981
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sean Michael Walters
+  title: Chief Revenue Officer
+  totalPay: 856991
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 44
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kerry S. Acocella J.D.
+  title: General Counsel & Secretary
+  unexercisedValue: 0
+  yearBorn: 1981
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sara  Varni
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David C. Galloreese
+  title: Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Emilio  Escobar
+  title: Chief Information Security Officer
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Yanbing  Li Ph.D.
+  title: Chief Product Officer
+  totalPay: 893916
+  unexercisedValue: 0
+  yearBorn: 1971
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 9
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 187.18
+currentRatio: 3.508
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 188.53
+dayLow: 183.0
+debtToEquity: 27.72
+displayName: Datadog
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793797200
+earningsCallTimestampStart: 1793797200
+earningsGrowth: 2.316
+earningsQuarterlyGrowth: 2.492
+earningsTimestamp: 1793799000
+earningsTimestampEnd: 1793799000
+earningsTimestampStart: 1793799000
+ebitda: 170272992
+ebitdaMargins: 0.0398
+enterpriseToEbitda: 355.216
+enterpriseToRevenue: 14.138
+enterpriseValue: 60483637248
+epsCurrentYear: 2.74482
+epsForward: 3.1829
+epsTrailingTwelveMonths: 0.72
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 245.4262
+fiftyDayAverageChange: -58.2462
+fiftyDayAverageChangePercent: -0.23732676
+fiftyTwoWeekChangePercent: -6.5430346
+fiftyTwoWeekHigh: 300.68
+fiftyTwoWeekHighChange: -113.5
+fiftyTwoWeekHighChangePercent: -0.37747774
+fiftyTwoWeekLow: 98.01
+fiftyTwoWeekLowChange: 89.16999
+fiftyTwoWeekLowChangePercent: 0.909805
+fiftyTwoWeekRange: 98.01 - 300.68
+financialCurrency: USD
+firstTradeDateMilliseconds: 1568899800000
+floatShares: 335419356
+forwardEps: 3.1829
+forwardPE: 58.808002
+freeCashflow: 1066487872
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 8100
+fulldayChange: 8.779999
+fulldayChangePercent: 4.921524
+fulldayPrice: 187.18
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.79609
+grossProfits: 3405786880
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0056
+heldPercentInstitutions: 0.91933
+impliedSharesOutstanding: 361042545
+industry: Software - Application
+industryDisp: Software - Application
+industryKey: software-application
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Datadog, Inc. operates an observability and security platform
+  for cloud applications in the United States and internationally. The company's products
+  comprise infrastructure and application performance monitoring, log management,
+  observability pipelines, synthetics, real user monitoring, product analytics, continuous
+  profiler, database monitoring, data observability, LLM observability, error tracking,
+  network monitoring, incident response, workflow automation and App builder, event
+  management, bits AI SRE, cloud cost management, cloud security, code security, cloud
+  SIEM, threat management, sensitive data scanner, and CI visibility. Datadog, Inc.
+  was incorporated in 2010 and is headquartered in New York, New York.
+longName: Datadog, Inc.
+market: us_market
+marketCap: 67579944960
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_134521275
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 262015008
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 64409990027
+numberOfAnalystOpinions: 47
+open: 185.15
+operatingCashflow: 1267515008
+operatingMargins: 0.02358
+overallRisk: 10
+payoutRatio: 0.0
+pegRatio: 0.89
+phone: 866 329 4466
+previousClose: 178.4
+priceEpsCurrentYear: 68.1939
+priceHint: 2
+priceToBook: 14.330117
+priceToSalesTrailing12Months: 15.796483
+profitMargins: 0.061240003
+quickRatio: 3.393
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: strong_buy
+recommendationMean: 1.41667
+region: US
+regularMarketChange: 8.779999
+regularMarketChangePercent: 4.921524
+regularMarketDayHigh: 188.53
+regularMarketDayLow: 183.0
+regularMarketDayRange: 183.0 - 188.53
+regularMarketOpen: 185.15
+regularMarketPreviousClose: 178.4
+regularMarketPrice: 187.18
+regularMarketTime: 1794413701
+regularMarketVolume: 822887
+returnOnAssets: 0.00908
+returnOnEquity: 0.06426
+revenueGrowth: 0.352
+revenuePerShare: 12.056
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 10
+sharesOutstanding: 337307033
+sharesPercentSharesOut: 0.0295
+sharesShort: 10653863
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 9494166
+shortName: Datadog, Inc.
+shortPercentOfFloat: 0.0363
+shortRatio: 3.71
+sourceInterval: 15
+state: NY
+symbol: DDOG
+targetHighPrice: 330.0
+targetLowPrice: 171.0
+targetMeanPrice: 271.17914
+targetMedianPrice: 275.0
+totalCash: 5233587200
+totalCashPerShare: 14.496
+totalDebt: 1307234048
+totalRevenue: 4278163968
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 0.72
+trailingPE: 259.9722
+trailingPegRatio: 0.8882
+triggerable: true
+twoHundredDayAverage: 200.63338
+twoHundredDayAverageChange: -13.453384
+twoHundredDayAverageChangePercent: -0.06705457
+typeDisp: Equity
+volume: 822887
+website: https://www.datadoghq.com
+zip: '10018'

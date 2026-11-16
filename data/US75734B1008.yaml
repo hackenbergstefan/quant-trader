@@ -1,0 +1,256 @@
+52WeekChange: -0.5135095
+SandP52WeekChange: 0.097798586
+address1: South Tower
+address2: 5th Floor 303 2nd Street
+allTimeHigh: 282.95
+allTimeLow: 37.35
+ask: 104.24
+askSize: 100
+auditRisk: 7
+averageAnalystRating: 2.2 - Buy
+averageDailyVolume10Day: 11059680
+averageDailyVolume3Month: 6385818
+averageVolume: 6385818
+averageVolume10days: 11059680
+beta: 2.275
+bid: 104.09
+bidSize: 100
+boardRisk: 9
+bookValue: 18.547
+city: San Francisco
+companyOfficers:
+- age: 41
+  exercisedValue: 190139344
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven Ladd Huffman
+  title: Co-Founder, CEO, President & Director
+  totalPay: 3101009
+  unexercisedValue: 407177952
+  yearBorn: 1984
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Andrew  Vollero
+  title: Chief Financial Officer
+  totalPay: 1341487
+  unexercisedValue: 31282992
+  yearBorn: 1967
+- age: 49
+  exercisedValue: 45891144
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jennifer L. Wong
+  title: Chief Operating Officer
+  totalPay: 1708899
+  unexercisedValue: 293720064
+  yearBorn: 1976
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Michelle  Reynolds
+  title: Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Amit  Puntambekar
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Jesse  Rose
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul T. Cappuccio J.D.
+  title: Chief Legal Officer & Corporate Secretary
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Adam  Collins
+  title: Chief Communications Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jim  Squires
+  title: Chief Marketing Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Nellie  Peshkov
+  title: Chief People Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 104.415
+currentRatio: 10.796
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 104.7
+dayLow: 99.6501
+debtToEquity: 0.877
+displayName: Reddit
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793305800
+earningsCallTimestampStart: 1793305800
+earningsGrowth: 0.749
+earningsQuarterlyGrowth: 0.741
+earningsTimestamp: 1793304000
+earningsTimestampEnd: 1793304000
+earningsTimestampStart: 1793304000
+ebitda: 924921024
+ebitdaMargins: 0.29944
+enterpriseToEbitda: 17.353
+enterpriseToRevenue: 5.196
+enterpriseValue: 16050535424
+epsCurrentYear: 7.71588
+epsForward: 9.28575
+epsTrailingTwelveMonths: 4.9
+esgPopulated: false
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 142.346
+fiftyDayAverageChange: -37.930992
+fiftyDayAverageChangePercent: -0.2664704
+fiftyTwoWeekChangePercent: -51.350952
+fiftyTwoWeekHigh: 263.5
+fiftyTwoWeekHighChange: -159.08499
+fiftyTwoWeekHighChangePercent: -0.6037381
+fiftyTwoWeekLow: 89.28
+fiftyTwoWeekLowChange: 15.135002
+fiftyTwoWeekLowChangePercent: 0.16952288
+fiftyTwoWeekRange: 89.28 - 263.5
+financialCurrency: USD
+firstTradeDateMilliseconds: 1711027800000
+floatShares: 141358128
+forwardEps: 9.28575
+forwardPE: 11.244649
+freeCashflow: 811615232
+fullExchangeName: NYSE
+fullTimeEmployees: 2555
+fulldayChange: 5.7450027
+fulldayChangePercent: 5.822441
+fulldayPrice: 104.415
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.91547996
+grossProfits: 2827800064
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00654
+heldPercentInstitutions: 0.98637
+impliedSharesOutstanding: 193093731
+industry: Internet Content & Information
+industryDisp: Internet Content & Information
+industryKey: internet-content-information
+ipoExpectedDate: '2024-03-21'
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Reddit, Inc. operates a digital community in the United States
+  and internationally. The company's platform enables user to engage in conversations,
+  explore passions, research new hobbies, exchange goods and services, create new
+  communities and experiences, share laughs, and find belonging. It also organizes
+  communities based on specific interests that enable users to engage in conversations
+  by sharing experiences, submitting links, uploading images and videos, and replying
+  to one another. Reddit, Inc. was founded in 2005 and is headquartered in San Francisco,
+  California.
+longName: Reddit, Inc.
+market: us_market
+marketCap: 20161882112
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_29927936
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 991696000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 19052558437
+numberOfAnalystOpinions: 29
+open: 100.73
+operatingCashflow: 1204733056
+operatingMargins: 0.29397
+overallRisk: 10
+payoutRatio: 0.0
+pegRatio: 0.49
+phone: 415 494 8016
+previousClose: 98.67
+priceEpsCurrentYear: 13.532481
+priceHint: 2
+priceToBook: 5.629751
+priceToSalesTrailing12Months: 6.5272465
+profitMargins: 0.32105
+quickRatio: 10.536
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.21875
+region: US
+regularMarketChange: 5.7450027
+regularMarketChangePercent: 5.822441
+regularMarketDayHigh: 104.7
+regularMarketDayLow: 99.6501
+regularMarketDayRange: 99.6501 - 104.7
+regularMarketOpen: 100.73
+regularMarketPreviousClose: 98.67
+regularMarketPrice: 104.415
+regularMarketTime: 1794413748
+regularMarketVolume: 1339577
+returnOnAssets: 0.16598
+returnOnEquity: 0.32029998
+revenueGrowth: 0.53
+revenuePerShare: 16.12
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 146942127
+sharesPercentSharesOut: 0.1146
+sharesShort: 22137442
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 22110869
+shortName: Reddit, Inc.
+shortPercentOfFloat: 0.1518
+shortRatio: 3.61
+sourceInterval: 15
+state: CA
+symbol: RDDT
+targetHighPrice: 272.0
+targetLowPrice: 100.0
+targetMeanPrice: 150.0138
+targetMedianPrice: 145.0
+totalCash: 3033432064
+totalCashPerShare: 15.71
+totalDebt: 31409000
+totalRevenue: 3088880128
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 4.9
+trailingPE: 21.309183
+trailingPegRatio: 0.4811
+triggerable: true
+twoHundredDayAverage: 155.04555
+twoHundredDayAverageChange: -50.630547
+twoHundredDayAverageChangePercent: -0.32655272
+typeDisp: Equity
+volume: 1339577
+website: https://redditinc.com
+zip: '94107'

@@ -1,0 +1,225 @@
+52WeekChange: -0.20637631
+SandP52WeekChange: 0.097798586
+address1: No.3 Circle Square
+address2: 3 Hawkshaw Street
+allTimeHigh: 920.0
+allTimeLow: 235.0
+ask: 560.8
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 2552979
+averageDailyVolume3Month: 3484671
+averageVolume: 3484671
+averageVolume10days: 2552979
+beta: 0.807
+bid: 560.4
+bidSize: 0
+boardRisk: 1
+bookValue: 0.292
+city: Manchester
+companyOfficers:
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Nathan James Coe
+  title: CEO & Executive Director
+  totalPay: 1187000
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. James Jonathan Warner C.M.A.
+  title: CFO & Director
+  totalPay: 705000
+  unexercisedValue: 0
+  yearBorn: 1984
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Chris  Kelly
+  title: Chief Technology Officer
+  unexercisedValue: 0
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Alison  Ross
+  title: Chief People & Operations Director
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Karolina  Edwards-Smajda
+  title: Chief Product Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Claire V. Baty
+  title: Company Secretary & Director of Governance
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 3
+corporateActions: []
+country: United Kingdom
+cryptoTradeable: false
+currency: GBp
+currentPrice: 560.6
+currentRatio: 1.513
+customPriceAlertConfidence: LOW
+dayHigh: 565.8
+dayLow: 553.6
+debtToEquity: 166.534
+dividendRate: 0.12
+dividendYield: 2.08
+earningsCallTimestampEnd: 1793871000
+earningsCallTimestampStart: 1793871000
+earningsGrowth: 0.049
+earningsQuarterlyGrowth: -0.048
+earningsTimestamp: 1793896200
+earningsTimestampEnd: 1793896200
+earningsTimestampStart: 1793896200
+ebitda: 403700000
+ebitdaMargins: 0.65112996
+enterpriseToEbitda: 11.567
+enterpriseToRevenue: 7.531
+enterpriseValue: 4669437952
+epsCurrentYear: 0.38188
+epsForward: 0.433
+epsTrailingTwelveMonths: 0.35
+esgPopulated: false
+exDividendDate: 1798675200
+exchange: LSE
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/London
+exchangeTimezoneShortName: GMT
+executiveTeam: []
+fiftyDayAverage: 506.336
+fiftyDayAverageChange: 54.263977
+fiftyDayAverageChangePercent: 0.1071699
+fiftyTwoWeekChangePercent: -20.63763
+fiftyTwoWeekHigh: 719.6
+fiftyTwoWeekHighChange: -159.0
+fiftyTwoWeekHighChangePercent: -0.22095609
+fiftyTwoWeekLow: 418.6
+fiftyTwoWeekLowChange: 141.99997
+fiftyTwoWeekLowChangePercent: 0.33922592
+fiftyTwoWeekRange: 418.6 - 719.6
+financialCurrency: GBP
+firstTradeDateMilliseconds: 1426752000000
+fiveYearAvgDividendYield: 1.34
+floatShares: 764855074
+forwardEps: 0.433
+forwardPE: 12.946881
+freeCashflow: 263187504
+fullExchangeName: LSE
+fullTimeEmployees: 1203
+fulldayChange: 3.0
+fulldayChangePercent: 0.53802013
+fulldayPrice: 560.6
+gmtOffSetMilliseconds: 0
+governanceEpochDate: 1793491200
+grossMargins: 0.79903
+grossProfits: 495400000
+hasPrePostMarketData: false
+heldPercentInsiders: 0.00559
+heldPercentInstitutions: 0.79244006
+impliedSharesOutstanding: 760327146
+industry: Internet Content & Information
+industryDisp: Internet Content & Information
+industryKey: internet-content-information
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1798675200
+lastDividendValue: 0.042
+lastFiscalYearEnd: 1774915200
+longBusinessSummary: Autotrader Group plc operates an automotive platform in the United
+  Kingdom. The company operates through Autotrader and Autorama segments. It provides
+  vehicle advertisement on its websites for private sellers, as well as insurance
+  and loan finance products to consumers; and display advertising on its websites
+  for manufacturers and their advertising agencies. The company also sells new vehicles
+  and accessories; and facilitates the lease of new vehicles. It offers its products
+  to retailers, home traders, and logistics customers. The company was formerly known
+  as Auto Trader Group plc and changed its name to Autotrader Group plc in January
+  2026. The company was founded in 1977 and is headquartered in Manchester, the United
+  Kingdom.
+longName: Autotrader Group plc
+market: gb_market
+marketCap: 4262393856
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_706565
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 286600000
+nextFiscalYearEnd: 1806451200
+nonDilutedMarketCap: 4239584166
+numberOfAnalystOpinions: 19
+open: 557.0
+operatingCashflow: 322800000
+operatingMargins: 0.62387
+overallRisk: 1
+payoutRatio: 0.3323
+phone: 44 34 5111 0006
+prevName: Auto Trader Group plc
+previousClose: 557.6
+priceEpsCurrentYear: 1468.0004
+priceHint: 2
+priceToBook: 19.19863
+priceToSalesTrailing12Months: 6.874829
+profitMargins: 0.46226
+quickRatio: 1.381
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.47368
+region: US
+regularMarketChange: 3.0
+regularMarketChangePercent: 0.53802013
+regularMarketDayHigh: 565.8
+regularMarketDayLow: 553.6
+regularMarketDayRange: 553.6 - 565.8
+regularMarketOpen: 557.0
+regularMarketPreviousClose: 557.6
+regularMarketPrice: 560.6
+regularMarketTime: 1794411528
+regularMarketVolume: 2151465
+returnOnAssets: 0.35077
+returnOnEquity: 0.72594
+revenueGrowth: -0.014
+revenuePerShare: 0.756
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 760327146
+shortName: AUTOTRADER GROUP PLC ORD 1P
+sourceInterval: 15
+symbol: AUTO.L
+targetHighPrice: 800.0
+targetLowPrice: 431.0
+targetMeanPrice: 593.105
+targetMedianPrice: 600.0
+totalCash: 15000000
+totalCashPerShare: 0.019
+totalDebt: 375700000
+totalRevenue: 620000000
+tradeable: false
+trailingAnnualDividendRate: 0.12
+trailingAnnualDividendYield: 0.00021520804
+trailingEps: 0.35
+trailingPE: 16.017143
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 494.868
+twoHundredDayAverageChange: 65.731964
+twoHundredDayAverageChangePercent: 0.13282727
+typeDisp: Equity
+volume: 2151465
+website: https://plc.autotrader.co.uk
+zip: M1 7BL

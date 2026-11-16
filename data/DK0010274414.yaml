@@ -1,0 +1,262 @@
+52WeekChange: 0.22218549
+SandP52WeekChange: 0.097798586
+address1: Bernstorffsgade 40
+address2: København V.
+allTimeHigh: 383.7
+allTimeLow: 30.537176
+ask: 370.8
+askSize: 0
+auditRisk: 10
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 1033145
+averageDailyVolume3Month: 859372
+averageVolume: 859372
+averageVolume10days: 1033145
+beta: 0.616
+bid: 370.6
+bidSize: 0
+boardRisk: 1
+bookValue: 212.921
+city: Copenhagen
+companyOfficers:
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carsten Rasch Egeriis
+  title: Chief Executive Officer
+  totalPay: 22150000
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cecile  Hillary
+  title: Group Chief Financial Officer
+  totalPay: 36496000
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frans  Woelders
+  title: COO & Member of the Executive Leadership Team
+  totalPay: 12760000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Karsten  Breum
+  title: Chief People Officer & Member of the Executive Leadership Team
+  totalPay: 10820000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Magnus Thor Agustsson
+  title: Chief Risk Officer, Head of Risk and Compliance & Member of the Executive
+    Board
+  totalPay: 12700000
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christian M. Bornfeld
+  title: Head of Personal Cus., Financial Crime Risk & Prevention and Member of Executive
+    Leadership Team
+  totalPay: 12770000
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Carl Joachim Alpen
+  title: Head of Large Corporates & Institutions and Member of Executive Leadership
+    Team
+  totalPay: 13330000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Johanna  Norberg
+  title: Head of Business Customers
+  totalPay: 11400000
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mikael  Deigaard
+  title: Global Chief Investment Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Atilla  Olesen
+  title: Head of Investment Banking
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: Denmark
+cryptoTradeable: false
+currency: DKK
+currentPrice: 370.8
+customPriceAlertConfidence: HIGH
+dayHigh: 373.2
+dayLow: 369.0
+dividendRate: 16.94
+dividendYield: 4.58
+earningsCallTimestampEnd: 1793259000
+earningsCallTimestampStart: 1793259000
+earningsGrowth: 0.179
+earningsQuarterlyGrowth: 0.158
+earningsTimestamp: 1793289600
+earningsTimestampEnd: 1793289600
+earningsTimestampStart: 1793289600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 20.482
+enterpriseValue: 1208197840896
+epsCurrentYear: 30.24042
+epsForward: 33.24701
+epsTrailingTwelveMonths: 30.2
+esgPopulated: false
+exDividendDate: 1777593600
+exchange: CPH
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Copenhagen
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 363.248
+fiftyDayAverageChange: 7.552002
+fiftyDayAverageChangePercent: 0.02079021
+fiftyTwoWeekChangePercent: 22.21855
+fiftyTwoWeekHigh: 383.7
+fiftyTwoWeekHighChange: -12.900024
+fiftyTwoWeekHighChangePercent: -0.033620078
+fiftyTwoWeekLow: 282.9
+fiftyTwoWeekLowChange: 87.899994
+fiftyTwoWeekLowChangePercent: 0.3107105
+fiftyTwoWeekRange: 282.9 - 383.7
+financialCurrency: DKK
+firstTradeDateMilliseconds: 973670400000
+fiveYearAvgDividendYield: 3.04
+floatShares: 632818504
+forwardEps: 33.24701
+forwardPE: 11.152883
+fullExchangeName: Copenhagen
+fullTimeEmployees: 19406
+fulldayChange: 0.5999756
+fulldayChangePercent: 0.16206795
+fulldayPrice: 370.8
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 58987999232
+hasPrePostMarketData: false
+heldPercentInsiders: 0.21534
+heldPercentInstitutions: 0.34999
+impliedSharesOutstanding: 801987258
+industry: Banks - Regional
+industryDisp: Banks - Regional
+industryKey: banks-regional
+irWebsite: http://www.danskebank.com/EN-UK/IR/Pages/investor-relations.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1777593600
+lastDividendValue: 6.14
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Danske Bank A/S provides various banking products and services
+  to corporate, institutional, and international clients. The company offers banking,
+  mortgage finance, insurance, pension, real-estate brokerage, asset management, trading
+  in fixed income products, foreign exchange, and equities. It also provides advisory
+  services to personal and private banking customers. In addition, the company offers
+  financing, risk management, investment, and financial advisory services for large
+  corporates and institutions; healthcare solutions; and online and mobile banking
+  services. It operates in Denmark, Finland, Sweden, Norway, the United Kingdom, Ireland,
+  Lithuania, Luxembourg, Poland, and the United States of America. The company was
+  founded in 1871 and is headquartered in Copenhagen, Denmark.
+longName: Danske Bank A/S
+market: dk_market
+marketCap: 297376874496
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_558679
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 24583999488
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 296895682911
+numberOfAnalystOpinions: 15
+open: 372.0
+operatingCashflow: -32483999744
+operatingMargins: 0.55637
+overallRisk: 3
+payoutRatio: 0.5609
+pegRatio: 6.5
+phone: 45 33 44 00 00
+previousClose: 370.2
+priceEpsCurrentYear: 12.261734
+priceHint: 2
+priceToBook: 1.7414908
+priceToSalesTrailing12Months: 5.0413113
+profitMargins: 0.41676
+quoteSourceName: Free Realtime Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.13333
+region: US
+regularMarketChange: 0.5999756
+regularMarketChangePercent: 0.16206795
+regularMarketDayHigh: 373.2
+regularMarketDayLow: 369.0
+regularMarketDayRange: 369.0 - 373.2
+regularMarketOpen: 372.0
+regularMarketPreviousClose: 370.2
+regularMarketPrice: 370.8
+regularMarketTime: 1794412440
+regularMarketVolume: 344097
+returnOnAssets: 0.0064499998
+returnOnEquity: 0.14109
+revenueGrowth: 0.09
+revenuePerShare: 72.834
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 1
+sharesOutstanding: 801987258
+shortName: Danske Bank A/S
+sourceInterval: 15
+symbol: DANSKE.CO
+targetHighPrice: 460.0
+targetLowPrice: 320.0
+targetMeanPrice: 416.73334
+targetMedianPrice: 424.0
+totalCash: 679495008256
+totalCashPerShare: 844.19
+totalDebt: 1589716058112
+totalRevenue: 58987999232
+tradeable: false
+trailingAnnualDividendRate: 16.94
+trailingAnnualDividendYield: 0.04575905
+trailingEps: 30.2
+trailingPE: 12.278145
+trailingPegRatio: 6.6093
+triggerable: true
+twoHundredDayAverage: 346.4625
+twoHundredDayAverageChange: 24.337494
+twoHundredDayAverageChangePercent: 0.07024568
+typeDisp: Equity
+volume: 344097
+website: https://danskebank.com
+zip: '1577'

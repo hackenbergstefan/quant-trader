@@ -1,0 +1,256 @@
+52WeekChange: 0.08558035
+SandP52WeekChange: 0.097798586
+address1: 26 boulevard des Capucines
+allTimeHigh: 53.675976
+allTimeLow: 9.88
+ask: 0.0
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 569414
+averageDailyVolume3Month: 537770
+averageVolume: 537770
+averageVolume10days: 569414
+beta: 0.868
+bid: 0.0
+bidSize: 0
+boardRisk: 4
+bookValue: 33.028
+city: Paris
+companyOfficers:
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jean-Marc  Jestin
+  title: Chairman of the Executive Board
+  totalPay: 2353544
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 52
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stephane  Tortajada
+  title: CFO & Member of the Executive Board
+  totalPay: 1525369
+  unexercisedValue: 0
+  yearBorn: 1973
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stanley  Shashoua
+  title: President & Member of the Supervisory Board
+  totalPay: 62343
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven E. Fivel J.D.
+  title: Non-Independent Supervisory Board Member
+  totalPay: 79037
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 41
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Umberto Edoardo Trussoni
+  title: Group Chief Investment Officer
+  unexercisedValue: 0
+  yearBorn: 1984
+- age: 42
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Josephine  Lelong-Chaussier
+  title: Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1983
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cecile  Presta
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sonia  Torti
+  title: Head of Marketing Arcades for France
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Gilles  Latini
+  title: Head of Southeast Development
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Hélène  Salmon
+  title: Group Head of Corporate & Internal Communications
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 36.86
+currentRatio: 0.303
+customPriceAlertConfidence: LOW
+dayHigh: 37.16
+dayLow: 36.78
+debtToEquity: 68.996
+dividendRate: 1.9
+dividendYield: 5.13
+earningsCallTimestampEnd: 1785339000
+earningsCallTimestampStart: 1785339000
+earningsGrowth: 0.112
+earningsQuarterlyGrowth: 0.109
+earningsTimestampEnd: 1771518600
+earningsTimestampStart: 1771518600
+ebitda: 1151200000
+ebitdaMargins: 0.65813005
+enterpriseToEbitda: 17.76
+enterpriseToRevenue: 11.688
+enterpriseValue: 20444995584
+epsCurrentYear: 2.81472
+epsForward: 2.91235
+epsTrailingTwelveMonths: 4.77
+esgPopulated: false
+exDividendDate: 1783036800
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 33 1 40 67 55 62
+fiftyDayAverage: 35.9884
+fiftyDayAverageChange: 0.8716011
+fiftyDayAverageChangePercent: 0.024218947
+fiftyTwoWeekChangePercent: 8.558035
+fiftyTwoWeekHigh: 40.38
+fiftyTwoWeekHighChange: -3.5200005
+fiftyTwoWeekHighChangePercent: -0.087171875
+fiftyTwoWeekLow: 30.86
+fiftyTwoWeekLowChange: 6.0
+fiftyTwoWeekLowChangePercent: 0.19442643
+fiftyTwoWeekRange: 30.86 - 40.38
+financialCurrency: EUR
+firstTradeDateMilliseconds: 710665200000
+fiveYearAvgDividendYield: 6.35
+floatShares: 222616419
+forwardEps: 2.91235
+forwardPE: 12.656446
+freeCashflow: 3278749952
+fullExchangeName: Paris
+fullTimeEmployees: 1034
+fulldayChange: -0.1800003
+fulldayChangePercent: -0.48596194
+fulldayPrice: 36.86
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.77892995
+grossProfits: 1362499968
+hasPrePostMarketData: false
+heldPercentInsiders: 0.23503
+heldPercentInstitutions: 0.48512
+impliedSharesOutstanding: 286625891
+industry: REIT - Retail
+industryDisp: REIT - Retail
+industryKey: reit-retail
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1783036800
+lastDividendValue: 0.95
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1188777600
+lastSplitFactor: '3:1'
+longBusinessSummary: Klépierre SA is the European leader in shopping malls, with exclusive
+  focus on continental Europe. The Company's portfolio is valued at 21.8 billion euros
+  on June 30, 2026, and comprises large shopping centers in more than 10 countries
+  in Continental Europe which together host more than 720 million visitors per year.
+  These distinctions underscore the Group's commitment to a proactive sustainable
+  development policy and its global leadership in the fight against climate change.
+  Klépierre SA was established and incorporated on November 2009 in France.
+longName: Klépierre SA
+market: fr_market
+marketCap: 10565030912
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_879146
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1366499968
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 10530635235
+numberOfAnalystOpinions: 15
+open: 37.12
+operatingCashflow: 1009200000
+operatingMargins: 0.64812
+overallRisk: 3
+payoutRatio: 0.59220004
+pegRatio: 9.5
+phone: 33 1 40 67 54 00
+previousClose: 37.04
+priceEpsCurrentYear: 13.095442
+priceHint: 2
+priceToBook: 1.1160228
+priceToSalesTrailing12Months: 6.0399218
+profitMargins: 0.78121
+quickRatio: 0.259
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.6
+region: US
+regularMarketChange: -0.1800003
+regularMarketChangePercent: -0.48596194
+regularMarketDayHigh: 37.16
+regularMarketDayLow: 36.78
+regularMarketDayRange: 36.78 - 37.16
+regularMarketOpen: 37.12
+regularMarketPreviousClose: 37.04
+regularMarketPrice: 36.86
+regularMarketTime: 1794411545
+regularMarketVolume: 76788
+returnOnAssets: 0.03206
+returnOnEquity: 0.13672
+revenueGrowth: 0.007
+revenuePerShare: 6.11
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 1
+sharesOutstanding: 286625891
+shortName: KLEPIERRE
+sourceInterval: 15
+symbol: LI.PA
+targetHighPrice: 44.2
+targetLowPrice: 31.0
+targetMeanPrice: 38.14667
+targetMedianPrice: 39.0
+totalCash: 355000000
+totalCashPerShare: 1.238
+totalDebt: 8022300160
+totalRevenue: 1749200000
+tradeable: false
+trailingAnnualDividendRate: 1.9
+trailingAnnualDividendYield: 0.051295895
+trailingEps: 4.77
+trailingPE: 7.7274632
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 35.563
+twoHundredDayAverageChange: 1.2970009
+twoHundredDayAverageChangePercent: 0.036470514
+typeDisp: Equity
+volume: 76788
+website: https://www.klepierre.com
+zip: '75009'

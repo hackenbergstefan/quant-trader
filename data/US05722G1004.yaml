@@ -1,0 +1,290 @@
+52WeekChange: 0.005049467
+SandP52WeekChange: 0.097798586
+address1: 575 North Dairy Ashford Road
+address2: Suite 100
+allTimeHigh: 100.29
+allTimeLow: 9.12
+ask: 51.59
+askSize: 1
+auditRisk: 3
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 12242880
+averageDailyVolume3Month: 7926250
+averageVolume: 7926250
+averageVolume10days: 12242880
+beta: 1.058
+bid: 47.16
+bidSize: 1
+boardRisk: 6
+bookValue: 20.281
+city: Houston
+companyOfficers:
+- age: 52
+  exercisedValue: 7593445
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Lorenzo  Simonelli
+  title: Chairman, President & CEO
+  totalPay: 7141679
+  unexercisedValue: 5683142
+  yearBorn: 1973
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ahmed  Moghal
+  title: Executive VP & CFO
+  totalPay: 1939707
+  unexercisedValue: 296780
+  yearBorn: 1982
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Georgia M. Magno
+  title: Chief Legal Officer
+  totalPay: 1804765
+  unexercisedValue: 283052
+  yearBorn: 1979
+- age: 56
+  exercisedValue: 598677
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Maria Claudia Borras
+  title: Chief Growth & Experience Officer and Interim EVP of Industrial & Energy
+    Technology
+  totalPay: 2867405
+  unexercisedValue: 554505
+  yearBorn: 1969
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Amerino  Gatti
+  title: Executive Vice President of Oilfield Services & Equipment
+  totalPay: 2037808
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Rebecca L. Charlton
+  title: Senior VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chase  Mulvehill
+  title: Vice President of Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Fernando  Contreras
+  title: VP, Chief Compliance Officer & Corporate Secretary
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Adrienne M.. Lynch
+  title: Vice President of Brand & External Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Muzzamil Khider Ahmed
+  title: Chief People & Culture Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions:
+- header: Dividend
+  message: BKR announced a cash dividend of $0.23 with an ex-date of Nov. 10, 2026
+  meta:
+    amount: '0.23'
+    dateEpochMs: 1794286800000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 49.445
+currentRatio: 1.238
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 49.75
+dayLow: 48.0
+debtToEquity: 88.828
+displayName: Baker Hughes
+dividendDate: 1795132800
+dividendRate: 0.92
+dividendYield: 1.93
+earningsCallTimestampEnd: 1793194200
+earningsCallTimestampStart: 1793194200
+earningsGrowth: -0.328
+earningsQuarterlyGrowth: -0.325
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1800910800
+earningsTimestampStart: 1800910800
+ebitda: 5020000256
+ebitdaMargins: 0.17467
+enterpriseToEbitda: 12.102
+enterpriseToRevenue: 2.114
+enterpriseValue: 60753358848
+epsCurrentYear: 2.60064
+epsForward: 2.82294
+epsTrailingTwelveMonths: 2.91
+esgPopulated: false
+exDividendDate: 1794268800
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 56.3252
+fiftyDayAverageChange: -6.8801994
+fiftyDayAverageChangePercent: -0.12215135
+fiftyTwoWeekChangePercent: 0.5049467
+fiftyTwoWeekHigh: 70.41
+fiftyTwoWeekHighChange: -20.965004
+fiftyTwoWeekHighChangePercent: -0.29775605
+fiftyTwoWeekLow: 44.26
+fiftyTwoWeekLowChange: 5.1850014
+fiftyTwoWeekLowChangePercent: 0.117148705
+fiftyTwoWeekRange: 44.26 - 70.41
+financialCurrency: USD
+firstTradeDateMilliseconds: 544714200000
+fiveYearAvgDividendYield: 2.13
+floatShares: 991032731
+forwardEps: 2.82294
+forwardPE: 17.515427
+freeCashflow: 5079750144
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 65600
+fulldayChange: 1.6749992
+fulldayChangePercent: 3.5063832
+fulldayPrice: 49.445
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.23698999
+grossProfits: 6810999808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00189
+heldPercentInstitutions: 1.00824
+impliedSharesOutstanding: 993078473
+industry: Oil & Gas Equipment & Services
+industryDisp: Oil & Gas Equipment & Services
+industryKey: oil-gas-equipment-services
+ipoExpectedDate: '2021-12-07'
+isEarningsDateEstimate: true
+language: en-US
+lastDividendDate: 1794268800
+lastDividendValue: 0.23
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Baker Hughes Company provides a portfolio of technologies and
+  services to energy and industrial value chain. Its Oilfield Services & Equipment
+  segment designs and manufactures exploration, appraisal, development, production,
+  rejuvenation, and decommissioning products and related services for onshore and
+  offshore oilfield operations. This segment also provides drilling services, drill
+  bits, and drilling and completions fluids; completions, intervention, measurements,
+  pressure pumping, and wireline services; artificial lift systems, and oilfield and
+  industrial chemicals; subsea projects and services, flexible pipe systems, and surface
+  pressure control systems; and integrated well services and solutions. It serves
+  oil and natural gas companies; the United States and international independent oil
+  and natural gas companies; national or state-owned oil companies; engineering, procurement,
+  and construction contractors; geothermal companies; and other oilfield service companies.
+  The company's Industrial & Energy Technology segment offers gas technology equipment,
+  such as drivers, driven equipment, and turnkey solutions for the mechanical and
+  electric-drive, compression, and power-generation applications; aftermarket support
+  and uptime gas technology services; non-destructive testing technologies, software,
+  and services; pre-commissioning and maintenance services; flow control and safety
+  solutions; mechanical and electromechanical gear transmission systems; Cordant,
+  a software solution to optimize assets, processes, and energy use; Bently Nevada,
+  a sensing and protection hardware for rack-based vibrating monitoring equipment
+  and sensors; and climate technology solutions. It serves industrial, upstream, midstream,
+  downstream, onshore, offshore, and small-to-large scale customers. The company was
+  formerly known as Baker Hughes, a GE company and changed its name to Baker Hughes
+  Company in October 2019. The company was incorporated in 2016 and is based in Houston,
+  Texas.
+longName: Baker Hughes Company
+market: us_market
+marketCap: 49102766080
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_425005479
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 2897999872
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 47439358655
+numberOfAnalystOpinions: 24
+open: 48.98
+operatingCashflow: 4512000000
+operatingMargins: 0.12196
+overallRisk: 4
+payoutRatio: 0.31620002
+pegRatio: 1.38
+phone: 713 439 8600
+previousClose: 47.77
+priceEpsCurrentYear: 19.012627
+priceHint: 2
+priceToBook: 2.4379961
+priceToSalesTrailing12Months: 1.7085166
+profitMargins: 0.100839995
+quickRatio: 0.758
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.56
+region: US
+regularMarketChange: 1.6749992
+regularMarketChangePercent: 3.5063832
+regularMarketDayHigh: 49.75
+regularMarketDayLow: 48.0
+regularMarketDayRange: 48.0 - 49.75
+regularMarketOpen: 48.98
+regularMarketPreviousClose: 47.77
+regularMarketPrice: 49.445
+regularMarketTime: 1794413727
+regularMarketVolume: 3021401
+returnOnAssets: 0.04457
+returnOnEquity: 0.15063
+revenueGrowth: 0.145
+revenuePerShare: 29.001
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 2
+sharesOutstanding: 993078473
+sharesPercentSharesOut: 0.024500001
+sharesShort: 24300780
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 24104517
+shortName: Baker Hughes Company
+shortPercentOfFloat: 0.0279
+shortRatio: 3.41
+sourceInterval: 15
+state: TX
+symbol: BKR
+targetHighPrice: 85.0
+targetLowPrice: 51.0
+targetMeanPrice: 70.125
+targetMedianPrice: 70.5
+totalCash: 5377999872
+totalCashPerShare: 5.415
+totalDebt: 18264000512
+totalRevenue: 28739999744
+tradeable: false
+trailingAnnualDividendRate: 0.92
+trailingAnnualDividendYield: 0.01925895
+trailingEps: 2.91
+trailingPE: 16.991407
+trailingPegRatio: 1.3619
+triggerable: true
+twoHundredDayAverage: 60.10835
+twoHundredDayAverageChange: -10.663349
+twoHundredDayAverageChangePercent: -0.17740212
+typeDisp: Equity
+volume: 3021401
+website: https://www.bakerhughes.com
+zip: 77079-1121

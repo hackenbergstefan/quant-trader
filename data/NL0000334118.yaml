@@ -1,0 +1,250 @@
+52WeekChange: 0.30356455
+SandP52WeekChange: 0.097798586
+address1: Versterkerstraat 8
+allTimeHigh: 1092.5
+allTimeLow: 3.55
+ask: 0.0
+askSize: 0
+auditRisk: 1
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 234661
+averageDailyVolume3Month: 159558
+averageVolume: 159558
+averageVolume10days: 234661
+beta: 1.534
+bid: 0.0
+bidSize: 0
+boardRisk: 1
+bookValue: 95.76
+city: Almere
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Hichem  M'Saad
+  title: CEO & Chairman of the Management Board
+  totalPay: 1768000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paulus Antonius Henricus  Verhagen
+  title: CFO & Member of Management Board
+  totalPay: 1285000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hakan  Erdemir
+  title: Senior Vice President of Global Operations
+  unexercisedValue: 0
+  yearBorn: 1968
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Victor  Bareño
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Srini  Vedula
+  title: Senior Vice President of Global Sales
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Edyta  Jakubek
+  title: Senior VP of Global People & Chief People Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Gary  Ding
+  title: Chief Product Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Paul  Ma
+  title: Corporate VP, Head of Strategy and M&A
+  unexercisedValue: 0
+  yearBorn: 1976
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 2
+corporateActions: []
+country: Netherlands
+cryptoTradeable: false
+currency: EUR
+currentPrice: 721.8
+currentRatio: 2.134
+customPriceAlertConfidence: LOW
+dayHigh: 728.4
+dayLow: 704.0
+debtToEquity: 2.009
+dividendRate: 3.25
+dividendYield: 0.48
+earningsCallTimestampEnd: 1793196000
+earningsCallTimestampStart: 1793196000
+earningsGrowth: -0.198
+earningsQuarterlyGrowth: -0.198
+earningsTimestamp: 1793118600
+earningsTimestampEnd: 1793118600
+earningsTimestampStart: 1793118600
+ebitda: 1291900032
+ebitdaMargins: 0.34697
+enterpriseToEbitda: 24.731
+enterpriseToRevenue: 8.581
+enterpriseValue: 31949639680
+epsCurrentYear: 24.17766
+epsForward: 34.51238
+epsTrailingTwelveMonths: 20.31
+esgPopulated: false
+exDividendDate: 1778630400
+exchange: AMS
+exchangeDataDelayedBy: 0
+exchangeTimezoneName: Europe/Amsterdam
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 31 88 100 8830
+fiftyDayAverage: 798.952
+fiftyDayAverageChange: -77.15204
+fiftyDayAverageChangePercent: -0.09656655
+fiftyTwoWeekChangePercent: 30.356455
+fiftyTwoWeekHigh: 1092.5
+fiftyTwoWeekHighChange: -370.7
+fiftyTwoWeekHighChangePercent: -0.3393135
+fiftyTwoWeekLow: 459.7
+fiftyTwoWeekLowChange: 262.09998
+fiftyTwoWeekLowChangePercent: 0.57015437
+fiftyTwoWeekRange: 459.7 - 1092.5
+financialCurrency: EUR
+firstTradeDateMilliseconds: 915609600000
+fiveYearAvgDividendYield: 0.55
+floatShares: 46465872
+forwardEps: 34.51238
+forwardPE: 20.914234
+freeCashflow: 361249984
+fullExchangeName: Amsterdam
+fullTimeEmployees: 4489
+fulldayChange: 41.599976
+fulldayChangePercent: 6.1158447
+fulldayPrice: 721.8
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.51884997
+grossProfits: 1931900032
+hasPrePostMarketData: false
+heldPercentInsiders: 0.047340002
+heldPercentInstitutions: 0.65106004
+impliedSharesOutstanding: 48801548
+industry: Semiconductor Equipment & Materials
+industryDisp: Semiconductor Equipment & Materials
+industryKey: semiconductor-equipment-materials
+irWebsite: http://www.asm.com/en/Pages/Investors.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1778630400
+lastDividendValue: 3.25
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: ASM International NV, together with its subsidiaries, engages
+  in the research, development, manufacturing, marketing, and servicing of equipment
+  and materials used to produce semiconductor devices in the United States, Europe,
+  and Asia. The company offers equipment used in wafer processing, which encompasses
+  the fabrication steps in which silicon wafers are layered with semiconductor devices.
+  It also provides wafer-processing deposition systems for surface modification, atomic
+  layer deposition (ALD), such as plasma enhanced ALD (PEALD); epitaxy (Epi); plasma
+  enhanced chemical vapor deposition (PECVD); and vertical furnace systems, including
+  low pressure chemical vapor deposition (LPCVD), diffusion, oxidation, and cure.
+  In addition, the company provides silicon carbide epitaxy (SiC Epi) tools for power
+  and wafer applications; chemical mechanical polishing equipment for compound semiconductors
+  and More-than-Moore manufacturing; and spare parts and support services. It sells
+  its products to semiconductor manufacturers. The company was formerly known as Advanced
+  Semiconductor Materials International NV. ASM International NV was incorporated
+  in 1968 and is headquartered in Almere, the Netherlands.
+longName: ASM International NV
+market: nl_market
+marketCap: 35224956928
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_322899
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 998000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 33194812949
+numberOfAnalystOpinions: 20
+open: 706.2
+operatingCashflow: 1090700032
+operatingMargins: 0.31238002
+overallRisk: 1
+payoutRatio: 0.16
+pegRatio: 0.74
+phone: 31 88 100 8810
+previousClose: 680.2
+priceEpsCurrentYear: 29.854006
+priceHint: 2
+priceToBook: 7.537594
+priceToSalesTrailing12Months: 9.460428
+profitMargins: 0.26803
+quickRatio: 1.615
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.61905
+region: US
+regularMarketChange: 41.599976
+regularMarketChangePercent: 6.1158447
+regularMarketDayHigh: 728.4
+regularMarketDayLow: 704.0
+regularMarketDayRange: 704.0 - 728.4
+regularMarketOpen: 706.2
+regularMarketPreviousClose: 680.2
+regularMarketPrice: 721.8
+regularMarketTime: 1794411569
+regularMarketVolume: 138388
+returnOnAssets: 0.12317
+returnOnEquity: 0.23452999
+revenueGrowth: 0.449
+revenuePerShare: 76.124
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 6
+sharesOutstanding: 48801548
+shortName: ASM International N.V.
+sourceInterval: 15
+symbol: ASM.AS
+targetHighPrice: 1400.0
+targetLowPrice: 690.0
+targetMeanPrice: 1163.7
+targetMedianPrice: 1187.0
+totalCash: 1338700032
+totalCashPerShare: 27.432
+totalDebt: 93900000
+totalRevenue: 3723399936
+tradeable: false
+trailingAnnualDividendRate: 3.25
+trailingAnnualDividendYield: 0.0047780066
+trailingEps: 20.31
+trailingPE: 35.539143
+trailingPegRatio: 0.7493
+triggerable: false
+twoHundredDayAverage: 812.9975
+twoHundredDayAverageChange: -91.19751
+twoHundredDayAverageChangePercent: -0.11217441
+typeDisp: Equity
+volume: 138388
+website: https://www.asm.com
+zip: 1322 AP

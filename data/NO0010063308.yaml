@@ -1,0 +1,267 @@
+52WeekChange: -0.07645053
+SandP52WeekChange: 0.097798586
+address1: Snarøyveien 30
+allTimeHigh: 191.7
+allTimeLow: 22.2
+ask: 135.6
+askSize: 3019
+auditRisk: 10
+averageAnalystRating: 2.3 - Buy
+averageDailyVolume10Day: 1967589
+averageDailyVolume3Month: 1961131
+averageVolume: 1961131
+averageVolume10days: 1967589
+beta: 0.281
+bid: 135.5
+bidSize: 2305
+boardRisk: 3
+bookValue: 52.375
+city: Fornebu
+companyOfficers:
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Benedicte Schilbred Fasmer
+  title: President & CEO
+  totalPay: 15873000
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Torbjorn Mogard Wist
+  title: Executive VP & CFO
+  totalPay: 14477000
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Cathal  Kennedy
+  title: CTO & Acting Executive VP
+  totalPay: 5160000
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Dan  Ouchterlony
+  title: EVP & Head of Telenor Amp
+  totalPay: 9277000
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Jannicke  Hilland
+  title: Executive VP & Head of Telenor Infrastructure
+  totalPay: 7218000
+  unexercisedValue: 0
+  yearBorn: 1967
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jon Omund Revhaug
+  title: Chief Technology & Transformation Officer
+  totalPay: 10247000
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sigvart Voss Eriksen
+  title: Executive VP & Head of Telenor Nordics
+  totalPay: 6364000
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Frank  Maao
+  title: SVP of Capital Markets & Investor Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Siri Birgitte Bang Berge
+  title: General Counsel
+  unexercisedValue: 0
+- age: 43
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Inger Gloeersen Folkeson
+  title: Chief Corporate Development Officer
+  unexercisedValue: 0
+  yearBorn: 1982
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 7
+corporateActions: []
+country: Norway
+cryptoTradeable: false
+currency: NOK
+currentPrice: 136.2
+currentRatio: 1.323
+customPriceAlertConfidence: LOW
+dayHigh: 136.2
+dayLow: 134.8
+debtToEquity: 110.07
+dividendRate: 9.7
+dividendYield: 7.17
+earningsCallTimestampEnd: 1793174400
+earningsCallTimestampStart: 1793174400
+earningsGrowth: 2.269
+earningsQuarterlyGrowth: 2.252
+earningsTimestamp: 1793200800
+earningsTimestampEnd: 1793200800
+earningsTimestampStart: 1793200800
+ebitda: 25013000192
+ebitdaMargins: 0.33453
+enterpriseToEbitda: 9.407
+enterpriseToRevenue: 3.147
+enterpriseValue: 235293294592
+epsCurrentYear: 11.97611
+epsForward: 9.20954
+epsTrailingTwelveMonths: 16.91
+esgPopulated: false
+exDividendDate: 1792022400
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 130.22
+fiftyDayAverageChange: 5.9799957
+fiftyDayAverageChangePercent: 0.045922253
+fiftyTwoWeekChangePercent: -7.645053
+fiftyTwoWeekHigh: 178.7
+fiftyTwoWeekHighChange: -42.5
+fiftyTwoWeekHighChangePercent: -0.23782876
+fiftyTwoWeekLow: 121.0
+fiftyTwoWeekLowChange: 15.199997
+fiftyTwoWeekLowChangePercent: 0.12561981
+fiftyTwoWeekRange: 121.0 - 178.7
+financialCurrency: NOK
+firstTradeDateMilliseconds: 976003200000
+fiveYearAvgDividendYield: 7.12
+floatShares: 1360741410
+forwardEps: 9.20954
+forwardPE: 14.789011
+freeCashflow: 8679624704
+fullExchangeName: Oslo
+fullTimeEmployees: 9819
+fulldayChange: 0.8999939
+fulldayChangePercent: 0.6651839
+fulldayPrice: 136.2
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.64688003
+grossProfits: 48367001600
+hasPrePostMarketData: false
+heldPercentInsiders: 0.54055
+heldPercentInstitutions: 0.35583
+impliedSharesOutstanding: 1354756173
+industry: Telecom Services
+industryDisp: Telecom Services
+industryKey: telecom-services
+irWebsite: http://www.telenor.com/investor-relations/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1792022400
+lastDividendValue: 4.7
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: 'Telenor ASA, together with its subsidiaries, operates as a telecommunication
+  company worldwide. It operates through four segments: Nordics, Asia, Infrastructure,
+  and Amp. The company offers mobile and broadband telecom products and services,
+  including mobile, broadband and TV services; other services, including solutions
+  for business customers like managed services, virtual private networks, software
+  defined networks, and network as a service; IoT solutions; and mobile maritime communication
+  for cruise and ferry, fisheries, and oil and gas industry. It also provides hardware
+  comprising mobile phones, broadband modems, and TV boxes; wholesale services, such
+  as national and international roaming and interconnect, and solutions for mobile
+  and fixed virtual network operators and service providers, as well as leased lines
+  and colocation at towers and data centres. In addition, the company provides cloud
+  storage service for private use and businesses that allows to back up, store, synchronize,
+  and share files over the Internet. Telenor ASA was founded in 1855 and is headquartered
+  in Fornebu, Norway.'
+longName: Telenor ASA
+market: no_market
+marketCap: 184517787648
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_658535
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 23145000960
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 183298510206
+numberOfAnalystOpinions: 20
+open: 134.9
+operatingCashflow: 29007998976
+operatingMargins: 0.23671
+overallRisk: 6
+payoutRatio: 0.5677
+pegRatio: 1.39
+phone: 47 81 07 70 00
+previousClose: 135.3
+priceEpsCurrentYear: 11.372641
+priceHint: 2
+priceToBook: 2.6004772
+priceToSalesTrailing12Months: 2.4678051
+profitMargins: 0.24959
+quickRatio: 1.126
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.26316
+region: US
+regularMarketChange: 0.8999939
+regularMarketChangePercent: 0.6651839
+regularMarketDayHigh: 136.2
+regularMarketDayLow: 134.8
+regularMarketDayRange: 134.8 - 136.2
+regularMarketOpen: 134.9
+regularMarketPreviousClose: 135.3
+regularMarketPrice: 136.2
+regularMarketTime: 1794410901
+regularMarketVolume: 1314320
+returnOnAssets: 0.05153
+returnOnEquity: 0.32938
+revenueGrowth: -0.029
+revenuePerShare: 54.738
+sector: Communication Services
+sectorDisp: Communication Services
+sectorKey: communication-services
+shareHolderRightsRisk: 4
+sharesOutstanding: 1354756173
+shortName: TELENOR
+sourceInterval: 15
+symbol: TEL.OL
+targetHighPrice: 191.0
+targetLowPrice: 125.0
+targetMeanPrice: 148.4
+targetMedianPrice: 146.5
+totalCash: 37133000704
+totalCashPerShare: 27.284
+totalDebt: 83607003136
+totalRevenue: 74769997824
+tradeable: false
+trailingAnnualDividendRate: 9.7
+trailingAnnualDividendYield: 0.071692534
+trailingEps: 16.91
+trailingPE: 8.054405
+trailingPegRatio: 1.391
+triggerable: false
+twoHundredDayAverage: 148.168
+twoHundredDayAverageChange: -11.968002
+twoHundredDayAverageChangePercent: -0.08077319
+typeDisp: Equity
+volume: 1314320
+website: https://www.telenor.com
+zip: '1360'

@@ -1,0 +1,264 @@
+52WeekChange: -0.13684213
+SandP52WeekChange: 0.097798586
+address1: 5, cours Paul Ricard
+address2: Cedex 08
+allTimeHigh: 218.0
+allTimeLow: 16.345047
+ask: 0.0
+askSize: 0
+auditRisk: 5
+averageAnalystRating: 2.5 - Buy
+averageDailyVolume10Day: 752894
+averageDailyVolume3Month: 727148
+averageVolume: 727148
+averageVolume10days: 752894
+beta: 0.52
+bid: 0.0
+bidSize: 0
+boardRisk: 3
+bookValue: 61.586
+city: Paris
+companyOfficers:
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Alexandre  Ricard
+  title: CEO, MD & Chairman
+  totalPay: 3024643
+  unexercisedValue: 0
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Mauve  Croizat
+  title: Executive Vice President of Finance & Tech
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Maria Pia De Caro
+  title: Executive Vice President of Integrated Operations and S&R
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 46
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Florence  Tresarrieu M.Sc.
+  title: Global Senior VP of Investors Relations & Treasury
+  unexercisedValue: 0
+  yearBorn: 1979
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Philippe  Prouvost
+  title: Executive VP of Legal and M&A
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Eric  Benoist
+  title: Global Marketing
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Cédric  Ramat
+  title: Executive Vice President of Human Resources
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Gilles  Bogaert
+  title: Executive Vice President of Global Markets
+  unexercisedValue: 0
+  yearBorn: 1969
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jérôme  Cottin-Bizonne
+  title: Managing Director of Pernod Ricard China
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jean-Etienne  Gourgues
+  title: Executive Vice President of Global Brands
+  unexercisedValue: 0
+  yearBorn: 1971
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 2
+corporateActions:
+- header: Dividend
+  message: RI.PA announced a cash dividend of EUR 2.35 with an ex-date of Nov. 25,
+    2026
+  meta:
+    amount: '2.35'
+    dateEpochMs: 1795561200000
+    eventType: DIVIDEND
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 71.26
+currentRatio: 2.474
+customPriceAlertConfidence: LOW
+dayHigh: 71.92
+dayLow: 71.08
+debtToEquity: 76.644
+dividendRate: 4.7
+dividendYield: 6.51
+earningsCallTimestampEnd: 1787814000
+earningsCallTimestampStart: 1787814000
+earningsGrowth: -0.478
+earningsQuarterlyGrowth: -0.477
+earningsTimestamp: 1787844600
+earningsTimestampEnd: 1787844600
+earningsTimestampStart: 1787844600
+ebitda: 2624000000
+ebitdaMargins: 0.27903
+enterpriseToEbitda: 11.389
+enterpriseToRevenue: 3.178
+enterpriseValue: 29885259776
+epsCurrentYear: 5.68832
+epsForward: 5.92616
+epsTrailingTwelveMonths: 4.77
+esgPopulated: false
+exDividendDate: 1795564800
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 63.5564
+fiftyDayAverageChange: 7.703602
+fiftyDayAverageChangePercent: 0.121208906
+fiftyTwoWeekChangePercent: -13.684214
+fiftyTwoWeekHigh: 87.66
+fiftyTwoWeekHighChange: -16.400002
+fiftyTwoWeekHighChangePercent: -0.18708648
+fiftyTwoWeekLow: 57.86
+fiftyTwoWeekLowChange: 13.400002
+fiftyTwoWeekLowChangePercent: 0.23159352
+fiftyTwoWeekRange: 57.86 - 87.66
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946886400000
+fiveYearAvgDividendYield: 2.94
+floatShares: 190071577
+forwardEps: 5.92616
+forwardPE: 12.024651
+freeCashflow: 1152875008
+fullExchangeName: Paris
+fullTimeEmployees: 16006
+fulldayChange: -0.9000015
+fulldayChangePercent: -1.2472304
+fulldayPrice: 71.26
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.58432996
+grossProfits: 5495000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.26317
+heldPercentInstitutions: 0.64599997
+impliedSharesOutstanding: 251818962
+industry: Beverages - Wineries & Distilleries
+industryDisp: Beverages - Wineries & Distilleries
+industryKey: beverages-wineries-distilleries
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1795564800
+lastDividendValue: 2.35
+lastFiscalYearEnd: 1782777600
+lastSplitDate: 1200355200
+lastSplitFactor: '2:1'
+longBusinessSummary: Pernod Ricard SA produces and sells wines and spirits worldwide.
+  The company offers whiskey, vodka, gin, rum, liqueur and bitters, champagne, tequila
+  and mezcal, and aperitif under the brands Ricard, Mumm, Perrier-Jouët, Martell,
+  Malibu, Ballantine's, Chivas, Beefeater, Jameson, Havana Club, Royal Salute, The
+  Glenlivet, Absolut, KI NO BI, The Chuan, Midleton Very Rare, Rabbit Hole, Royal
+  Salute, Secret Speyside, Avion, Elyx Vodka, L'Orbe, Italicus, Lillet, Pernod, Suze,
+  Augier, Malfy, Jefferson's, Lot No. 40, Powers, Redbreast, Smooth Ambler, TX, Method
+  & Madness, Monkey 47, Plymouth Gin, Ceder's, Green Spot, Aberlour, Scapa, Altos,
+  Del Maguey, Ostoya, Pastis 51, ARARAT, Seagram's Gin, Kahlúa, J.P. Wiser's, Ramazzotti,
+  100 Pipers, Blenders Pride, Imperial Blue, Royal Stag, Imperial, Longitude 77, Long
+  John, Passport Scotch, Something Special, Olmeca, and Wyborowa. It also provides
+  non-alcoholic beverages under the Seagram's, Beefeater, Cinzano Spritz, Suze Tonic,
+  Ramazzotti Arancia, Almave Ambar, Almave Blanco, Lillet Blanc, and Pacific brand
+  names. Pernod Ricard SA was founded in 1805 and is headquartered in Paris, France.
+longName: Pernod Ricard SA
+market: fr_market
+marketCap: 17944619008
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_874314
+mostRecentQuarter: 1782777600
+netIncomeToCommon: 1203000064
+nextFiscalYearEnd: 1814313600
+nonDilutedMarketCap: 17944619232
+numberOfAnalystOpinions: 19
+open: 71.48
+operatingCashflow: 1579000064
+operatingMargins: 0.25702
+overallRisk: 3
+payoutRatio: 0.9853
+pegRatio: 1.53
+phone: 33 1 70 93 16 00
+previousClose: 72.16
+priceEpsCurrentYear: 12.527425
+priceHint: 2
+priceToBook: 1.1570812
+priceToSalesTrailing12Months: 1.90819
+profitMargins: 0.12792
+quickRatio: 0.748
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.5
+region: US
+regularMarketChange: -0.9000015
+regularMarketChangePercent: -1.2472304
+regularMarketDayHigh: 71.92
+regularMarketDayLow: 71.08
+regularMarketDayRange: 71.08 - 71.92
+regularMarketOpen: 71.48
+regularMarketPreviousClose: 72.16
+regularMarketPrice: 71.26
+regularMarketTime: 1794411568
+regularMarketVolume: 231962
+returnOnAssets: 0.04062
+returnOnEquity: 0.07563
+revenueGrowth: -0.132
+revenuePerShare: 37.352
+sector: Consumer Defensive
+sectorDisp: Consumer Defensive
+sectorKey: consumer-defensive
+shareHolderRightsRisk: 7
+sharesOutstanding: 251818962
+shortName: PERNOD RICARD
+sourceInterval: 15
+symbol: RI.PA
+targetHighPrice: 122.0
+targetLowPrice: 60.0
+targetMeanPrice: 80.65789
+targetMedianPrice: 74.0
+totalCash: 1992999936
+totalCashPerShare: 7.919
+totalDebt: 12677000192
+totalRevenue: 9404000256
+tradeable: false
+trailingAnnualDividendRate: 4.7
+trailingAnnualDividendYield: 0.065133035
+trailingEps: 4.77
+trailingPE: 14.939204
+trailingPegRatio: 1.5256
+triggerable: false
+twoHundredDayAverage: 66.5373
+twoHundredDayAverageChange: 4.722702
+twoHundredDayAverageChangePercent: 0.07097826
+typeDisp: Equity
+volume: 231962
+website: https://www.pernod-ricard.com
+zip: '75380'

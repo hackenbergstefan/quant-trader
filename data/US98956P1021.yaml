@@ -1,0 +1,276 @@
+52WeekChange: 0.19204712
+SandP52WeekChange: 0.097798586
+address1: 345 East Main Street
+allTimeHigh: 175.1068
+allTimeLow: 23.980583
+ask: 106.0
+askSize: 200
+auditRisk: 6
+averageAnalystRating: 2.5 - Hold
+averageDailyVolume10Day: 3023100
+averageDailyVolume3Month: 2080743
+averageVolume: 2080743
+averageVolume10days: 3023100
+beta: 0.472
+bid: 105.98
+bidSize: 200
+boardRisk: 8
+bookValue: 66.889
+city: Warsaw
+companyOfficers:
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ivan  Tornos
+  title: President, CEO & Chairman of the Board
+  totalPay: 4106449
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul A. Stellato
+  title: Interim CFO, VP, Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1975
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Shaun  Braun
+  title: Senior VP & Chief Information and Technology Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Jonathan M. Vigdorchik M.D.
+  title: Chief Science, Technology & Medical Affairs Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David M. DeMartino
+  title: Senior Vice President of Investor Relations
+  unexercisedValue: 0
+- age: 53
+  exercisedValue: 1229220
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chad F. Phipps J.D.
+  title: Senior VP, Chief Legal & Corporate Affairs Officer and Secretary
+  totalPay: 1323358
+  unexercisedValue: 2683371
+  yearBorn: 1972
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Angela  Main
+  title: Senior VP, Global Chief Compliance Officer & Associate General Counsel of
+    Asia Pacific
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kristen  Cardillo
+  title: Senior VP & Chief Communications Officer
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lori  Winkler
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David J. Kunz
+  title: Senior Vice President of Global Quality & Regulatory Affairs
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 106.28
+currentRatio: 1.464
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 107.23
+dayLow: 105.94
+debtToEquity: 60.172
+displayName: Zimmer Biomet
+dividendDate: 1793318400
+dividendRate: 0.96
+dividendYield: 0.89
+earningsCallTimestampEnd: 1793799000
+earningsCallTimestampStart: 1793799000
+earningsGrowth: -0.138
+earningsQuarterlyGrowth: -0.17
+earningsTimestamp: 1793799000
+earningsTimestampEnd: 1793799000
+earningsTimestampStart: 1793799000
+ebitda: 2541299968
+ebitdaMargins: 0.29652
+enterpriseToEbitda: 10.841
+enterpriseToRevenue: 3.215
+enterpriseValue: 27551127552
+epsCurrentYear: 8.54521
+epsForward: 8.98067
+epsTrailingTwelveMonths: 3.96
+esgPopulated: false
+exDividendDate: 1790726400
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 95.4186
+fiftyDayAverageChange: 10.861397
+fiftyDayAverageChangePercent: 0.11382893
+fiftyTwoWeekChangePercent: 19.204712
+fiftyTwoWeekHigh: 112.55
+fiftyTwoWeekHighChange: -6.2700043
+fiftyTwoWeekHighChangePercent: -0.05570861
+fiftyTwoWeekLow: 79.12
+fiftyTwoWeekLowChange: 27.159996
+fiftyTwoWeekLowChangePercent: 0.34327596
+fiftyTwoWeekRange: 79.12 - 112.55
+financialCurrency: USD
+firstTradeDateMilliseconds: 996067800000
+fiveYearAvgDividendYield: 0.87
+floatShares: 188642598
+forwardEps: 8.98067
+forwardPE: 11.834307
+freeCashflow: 1442050048
+fullExchangeName: NYSE
+fullTimeEmployees: 17000
+fulldayChange: -1.0400009
+fulldayChangePercent: -0.9690653
+fulldayPrice: 106.28
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.69333
+grossProfits: 5942099968
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0016300001
+heldPercentInstitutions: 1.1148
+impliedSharesOutstanding: 189253888
+industry: Medical Devices
+industryDisp: Medical Devices
+industryKey: medical-devices
+irWebsite: http://investor.zimmer.com/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790726400
+lastDividendValue: 0.24
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1646092800
+lastSplitFactor: 103:100
+longBusinessSummary: Zimmer Biomet Holdings, Inc., together with its subsidiaries,
+  operates as a medical technology company worldwide. The company designs, manufactures,
+  and markets orthopedic reconstructive products, such as knee and hip products; S.E.T.
+  products, including sports medicine, biologics, foot and ankle, upper extremities,
+  and trauma and CMFT products; sports medicine products for the repair of soft tissue
+  injuries, used in the knee and shoulder; and craniomaxillofacial and thoracic products
+  comprising face and skull reconstruction products, as well as products that fixate
+  and stabilize the bones of the chest to facilitate healing or reconstruction after
+  open-heart surgery, trauma, or for deformities of the chest. It offers technology
+  and data, bone cement, and surgical products; and a suite of integrated digital
+  and robotic technologies that leverage data, data analytics and artificial intelligence.
+  The company's products and solutions are used to treat patients suffering from disorders
+  of, or injuries to, bones, joints, or supporting soft tissues. It serves orthopedic
+  surgeons, neurosurgeons, hospitals, healthcare institutions, stocking distributors,
+  healthcare dealers, and other specialists, as well as agents, healthcare purchasing
+  organizations, or buying groups. It also offers ROSA Robot, which utilizes robotic
+  technologies to assist a surgeon with implant positioning in total knee arthroplasty
+  or partial knee arthroplasty; and the ZBEdge Platform connects robotic and digital
+  technologies together to collect data before, during and after surgery, that can
+  deliver insights to surgeons to assist in making informed decisions on patient care.
+  The company was formerly known as Zimmer Holdings, Inc. and changed its name to
+  Zimmer Biomet Holdings, Inc. in June 2015. Zimmer Biomet Holdings, Inc. was founded
+  in 1927 and is headquartered in Warsaw, Indiana.
+longName: Zimmer Biomet Holdings, Inc.
+market: us_market
+marketCap: 20113903616
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_264048
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 767400000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 20310727260
+numberOfAnalystOpinions: 21
+open: 105.94
+operatingCashflow: 1884600064
+operatingMargins: 0.16738
+overallRisk: 7
+payoutRatio: 0.24239999
+pegRatio: 2.31
+phone: 574 373 3333
+previousClose: 107.32
+priceEpsCurrentYear: 12.437377
+priceHint: 2
+priceToBook: 1.588901
+priceToSalesTrailing12Months: 2.3469038
+profitMargins: 0.089540005
+quickRatio: 0.64
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.51852
+region: US
+regularMarketChange: -1.0400009
+regularMarketChangePercent: -0.9690653
+regularMarketDayHigh: 107.23
+regularMarketDayLow: 105.94
+regularMarketDayRange: 105.94 - 107.23
+regularMarketOpen: 105.94
+regularMarketPreviousClose: 107.32
+regularMarketPrice: 106.28
+regularMarketTime: 1794413651
+regularMarketVolume: 261462
+returnOnAssets: 0.03813
+returnOnEquity: 0.060310002
+revenueGrowth: 0.031
+revenuePerShare: 44.24
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 4
+sharesOutstanding: 189253888
+sharesPercentSharesOut: 0.041500002
+sharesShort: 7848223
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 9745945
+shortName: Zimmer Biomet Holdings, Inc.
+shortPercentOfFloat: 0.054899998
+shortRatio: 3.84
+sourceInterval: 15
+state: IN
+symbol: ZBH
+targetHighPrice: 130.0
+targetLowPrice: 98.0
+targetMeanPrice: 116.2381
+targetMedianPrice: 117.0
+totalCash: 426900000
+totalCashPerShare: 2.256
+totalDebt: 7657299968
+totalRevenue: 8570399744
+tradeable: false
+trailingAnnualDividendRate: 0.96
+trailingAnnualDividendYield: 0.008945211
+trailingEps: 3.96
+trailingPE: 26.838383
+trailingPegRatio: 2.3134
+triggerable: true
+twoHundredDayAverage: 92.24055
+twoHundredDayAverageChange: 14.039452
+twoHundredDayAverageChangePercent: 0.15220477
+typeDisp: Equity
+volume: 261462
+website: https://www.zimmerbiomet.com
+zip: '46580'

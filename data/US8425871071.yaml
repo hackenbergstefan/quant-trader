@@ -1,0 +1,280 @@
+52WeekChange: 0.019153357
+SandP52WeekChange: 0.097798586
+address1: 30 Ivan Allen Jr. Boulevard, NW
+allTimeHigh: 100.84
+allTimeLow: 3.35995
+ask: 93.21
+askSize: 200
+auditRisk: 5
+averageAnalystRating: 2.6 - Hold
+averageDailyVolume10Day: 7975520
+averageDailyVolume3Month: 6262253
+averageVolume: 6262253
+averageVolume10days: 7975520
+beta: 0.286
+bid: 93.21
+bidSize: 100
+boardRisk: 5
+bookValue: 36.122
+city: Atlanta
+companyOfficers:
+- age: 67
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher C. Womack
+  title: CEO, President & Chairman
+  totalPay: 5431992
+  unexercisedValue: 0
+  yearBorn: 1958
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. David P. Poroch
+  title: Executive VP & CFO
+  totalPay: 1599434
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stanley W. Connally Jr.
+  title: Executive VP & COO
+  totalPay: 2327228
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel S. Tucker
+  title: Senior Advisor
+  totalPay: 2442857
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Kimberly Scheibe Greene
+  title: Chairman, President & CEO of Georgia Power
+  totalPay: 2873203
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 65
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. J. Jeffrey Peoples
+  title: Chairman, President & CEO of Alabama Power Company
+  totalPay: 2460797
+  unexercisedValue: 0
+  yearBorn: 1960
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Matthew M. Kim
+  title: SVP, Comptroller & Chief Accounting Officer
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Greg  MacLeod
+  title: Director of Investor Relations
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Sterling A. Spainhour Jr., J.D.
+  title: Executive VP & Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sloane N. Drake
+  title: Executive VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 1
+corporateActions:
+- header: Dividend
+  message: SO announced a cash dividend of $0.76 with an ex-date of Nov. 16, 2026
+  meta:
+    amount: '0.76'
+    dateEpochMs: 1794805200000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 93.39
+currentRatio: 0.839
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 93.69
+dayLow: 92.8
+debtToEquity: 168.493
+displayName: Southern Company
+dividendDate: 1796601600
+dividendRate: 3.04
+dividendYield: 3.25
+earningsCallTimestampEnd: 1793901600
+earningsCallTimestampStart: 1793901600
+earningsGrowth: 0.143
+earningsQuarterlyGrowth: 0.196
+earningsTimestamp: 1793885400
+earningsTimestampEnd: 1793885400
+earningsTimestampStart: 1793885400
+ebitda: 14727000064
+ebitdaMargins: 0.47202998
+enterpriseToEbitda: 12.598
+enterpriseToRevenue: 5.947
+enterpriseValue: 185538052096
+epsCurrentYear: 4.63055
+epsForward: 4.9345
+epsTrailingTwelveMonths: 4.38
+esgPopulated: false
+exDividendDate: 1794787200
+exchange: NYQ
+exchangeDataDelayedBy: 20
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 88.39
+fiftyDayAverageChange: 5.0
+fiftyDayAverageChangePercent: 0.056567486
+fiftyTwoWeekChangePercent: 1.9153357
+fiftyTwoWeekHigh: 99.58
+fiftyTwoWeekHighChange: -6.1900024
+fiftyTwoWeekHighChangePercent: -0.0621611
+fiftyTwoWeekLow: 81.69
+fiftyTwoWeekLowChange: 11.699997
+fiftyTwoWeekLowChangePercent: 0.14322434
+fiftyTwoWeekRange: 81.69 - 99.58
+financialCurrency: USD
+firstTradeDateMilliseconds: 378657000000
+fiveYearAvgDividendYield: 3.53
+floatShares: 1161536658
+forwardEps: 4.9345
+forwardPE: 18.925928
+freeCashflow: -5089625088
+fullExchangeName: NYSE
+fullTimeEmployees: 29502
+fulldayChange: -0.26000214
+fulldayChangePercent: -0.27763176
+fulldayPrice: 93.39
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.48549998
+grossProfits: 15146999808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00096000003
+heldPercentInstitutions: 0.73783994
+impliedSharesOutstanding: 1164261029
+industry: Utilities - Regulated Electric
+industryDisp: Utilities - Regulated Electric
+industryKey: utilities-regulated-electric
+irWebsite: http://investor.southerncompany.com/
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786924800
+lastDividendValue: 0.76
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 986256000
+lastSplitFactor: 10000:6109
+longBusinessSummary: The Southern Company, through its subsidiaries, engages in the
+  sale of electricity. The company offers electric service to retail customers and
+  wholesale customers; and energy-related products and services to natural gas choice
+  markets. It also develops, constructs, acquires, owns, operates, and manages power
+  generation assets, as well as battery energy storage projects; sells electricity
+  at market-based rates in the wholesale market; and deploys microgrids for commercial,
+  industrial, governmental, and utility customers. In addition, the company is involved
+  in the distribution of natural gas in Illinois, Georgia, Virginia, and Tennessee;
+  distributes energy and resilience solutions; and invests in telecommunications.
+  The Southern Company was incorporated in 1945 and is headquartered in Atlanta, Georgia.
+longName: The Southern Company
+market: us_market
+marketCap: 108730335232
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_120623
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 4992999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 109033045365
+numberOfAnalystOpinions: 20
+open: 93.09
+operatingCashflow: 10476999680
+operatingMargins: 0.27376
+overallRisk: 1
+payoutRatio: 0.6849
+pegRatio: 2.21
+phone: 404 506 5000
+previousClose: 93.65
+priceEpsCurrentYear: 20.16823
+priceHint: 2
+priceToBook: 2.5854049
+priceToSalesTrailing12Months: 3.4850583
+profitMargins: 0.16003999
+quickRatio: 0.431
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.56522
+region: US
+regularMarketChange: -0.26000214
+regularMarketChangePercent: -0.27763176
+regularMarketDayHigh: 93.69
+regularMarketDayLow: 92.8
+regularMarketDayRange: 92.8 - 93.69
+regularMarketOpen: 93.09
+regularMarketPreviousClose: 93.65
+regularMarketPrice: 93.39
+regularMarketTime: 1794413732
+regularMarketVolume: 688803
+returnOnAssets: 0.03363
+returnOnEquity: 0.11897001
+revenueGrowth: 0.13
+revenuePerShare: 27.573
+sector: Utilities
+sectorDisp: Utilities
+sectorKey: utilities
+shareHolderRightsRisk: 1
+sharesOutstanding: 1164261029
+sharesPercentSharesOut: 0.026099999
+sharesShort: 30377462
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 29346693
+shortName: Southern Company (The)
+shortPercentOfFloat: 0.026099999
+shortRatio: 5.07
+sourceInterval: 15
+state: GA
+symbol: SO
+targetHighPrice: 115.0
+targetLowPrice: 74.0
+targetMeanPrice: 96.15
+targetMedianPrice: 96.5
+totalCash: 1740000000
+totalCashPerShare: 1.495
+totalDebt: 75494998016
+totalRevenue: 31199000576
+tradeable: false
+trailingAnnualDividendRate: 3.0
+trailingAnnualDividendYield: 0.03203417
+trailingEps: 4.38
+trailingPE: 21.321917
+trailingPegRatio: 2.2114
+triggerable: true
+twoHundredDayAverage: 92.6113
+twoHundredDayAverageChange: 0.7787018
+twoHundredDayAverageChangePercent: 0.008408281
+typeDisp: Equity
+volume: 688803
+website: https://www.southerncompany.com
+zip: '30308'

@@ -1,0 +1,265 @@
+52WeekChange: -0.020955324
+SandP52WeekChange: 0.097798586
+address1: 12 Place des États-Unis
+address2: Cedex
+allTimeHigh: 31.642752
+allTimeLow: 2.735776
+ask: 0.0
+askSize: 0
+auditRisk: 2
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 6466314
+averageDailyVolume3Month: 5158347
+averageVolume: 5158347
+averageVolume10days: 6466314
+beta: 0.806
+bid: 0.0
+bidSize: 0
+boardRisk: 7
+bookValue: 26.384
+city: Montrouge
+companyOfficers:
+- age: 62
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Olivier-Eric Alain Gavalda
+  title: Chief Executive Officer
+  totalPay: 1986940
+  unexercisedValue: 0
+  yearBorn: 1963
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Jerome  Grivet
+  title: Deputy Chief Executive Officer
+  totalPay: 1852852
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Paul  Foubert
+  title: Head of Group Finance
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Cecile  Mouton
+  title: Head of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Hubert  Reynier
+  title: Group Head of Compliance
+  unexercisedValue: 0
+  yearBorn: 1962
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Francis  Vicari
+  title: Head of Legal
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Julie De La Palme
+  title: Head of Group Communications
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Anne-Catherine  Ropers
+  title: Group Head of Human Resources
+  unexercisedValue: 0
+- age: 61
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Olivier  Belorgey Ph.D.
+  title: Deputy CEO & Finance Director of Crédit Agricole CIB
+  unexercisedValue: 0
+  yearBorn: 1964
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Isabelle  Job-Bazille
+  title: Chief Economist
+  unexercisedValue: 0
+  yearBorn: 1968
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 6
+corporateActions: []
+country: France
+cryptoTradeable: false
+currency: EUR
+currentPrice: 15.84
+customPriceAlertConfidence: LOW
+dayHigh: 16.1
+dayLow: 15.815
+dividendRate: 1.7
+dividendYield: 10.7
+earningsCallTimestampEnd: 1793354400
+earningsCallTimestampStart: 1793354400
+earningsGrowth: 0.075
+earningsQuarterlyGrowth: 0.084
+earningsTimestamp: 1793377800
+earningsTimestampEnd: 1793377800
+earningsTimestampStart: 1793377800
+ebitdaMargins: 0.0
+enterpriseToRevenue: -11.667
+enterpriseValue: -319473319936
+epsCurrentYear: 2.2938
+epsForward: 2.48064
+epsTrailingTwelveMonths: 1.96
+esgPopulated: false
+exDividendDate: 1791849600
+exchange: PAR
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Paris
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 16.8342
+fiftyDayAverageChange: -0.99419975
+fiftyDayAverageChangePercent: -0.05905833
+fiftyTwoWeekChangePercent: -2.0955324
+fiftyTwoWeekHigh: 20.4
+fiftyTwoWeekHighChange: -4.5599995
+fiftyTwoWeekHighChangePercent: -0.22352938
+fiftyTwoWeekLow: 14.685
+fiftyTwoWeekLowChange: 1.1549997
+fiftyTwoWeekLowChangePercent: 0.07865167
+fiftyTwoWeekRange: 14.685 - 20.4
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1008316800000
+fiveYearAvgDividendYield: 7.69
+floatShares: 882809037
+forwardEps: 2.48064
+forwardPE: 6.385449
+fullExchangeName: Paris
+fullTimeEmployees: 79848
+fulldayChange: -0.045000076
+fulldayChangePercent: -0.2832866
+fulldayPrice: 15.84
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 27382999040
+hasPrePostMarketData: false
+heldPercentInsiders: 0.68657
+heldPercentInstitutions: 0.10456
+impliedSharesOutstanding: 3024345732
+industry: Banks - Diversified
+industryDisp: Banks - Diversified
+industryKey: banks-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1791849600
+lastDividendValue: 0.57
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1526947200
+lastSplitFactor: '27:26'
+longBusinessSummary: "Crédit Agricole S.A. provides retail and corporate banking,\
+  \ insurance, and investment banking products and services in France, Italy, rest\
+  \ of the European Union, rest of Europe, North America, Central and South America,\
+  \ Africa, the Middle East, the Asia Pacific, and Japan. It operates in five segments:\
+  \ Asset Gathering, Large Customers, Specialized Financial Services, French Retail\
+  \ Banking \x96 LCL, and International Retail Banking. The company offers savings/retirement,\
+  \ death and disability/creditor/group, and property and casualty insurance products;\
+  \ asset management; investment solutions; banking products and services, savings,\
+  \ wealth management, payment, cash flow management, and online banking services;\
+  \ personal finance and mobility; and specialized financial services. It also provides\
+  \ investment banking, structured finance, international trade finance, commercial\
+  \ banking, capital market, and syndication services; leasing, factoring, and energy\
+  \ and territorial financing; and asset servicing solutions for investment products,\
+  \ as well as various asset classes, such as execution, clearing, forex, security\
+  \ lending, custody, depositary banking, fund administration, middle-office outsourcing,\
+  \ fund distribution, and issuer services. In addition, the company offers property\
+  \ services, including transactions, rental, rental management, condominium trustee,\
+  \ and renovation under the Square Habitat brand; property development and management;\
+  \ and low-carbon electricity production. The company serves individuals, SMEs, small\
+  \ businesses, corporates, farmers, financial institutions, local authorities, asset\
+  \ managers, insurance companies, institutional investors, pension and unlisted funds,\
+  \ banks, and brokers. Crédit Agricole S.A. was founded in 1894 and is headquartered\
+  \ in Montrouge, France. Crédit Agricole S.A. operates as a subsidiary of SAS Rue\
+  \ La Boetie."
+longName: Crédit Agricole S.A.
+market: fr_market
+marketCap: 47905640448
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_553683
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 6246000128
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 47754419108
+numberOfAnalystOpinions: 15
+open: 16.0
+operatingMargins: 0.41634998
+overallRisk: 7
+payoutRatio: 0.5713
+pegRatio: 1.48
+phone: 33 1 43 23 52 02
+previousClose: 15.885
+priceEpsCurrentYear: 6.9055715
+priceHint: 2
+priceToBook: 0.60036385
+priceToSalesTrailing12Months: 1.7494665
+profitMargins: 0.26038
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.13333
+region: US
+regularMarketChange: -0.045000076
+regularMarketChangePercent: -0.2832866
+regularMarketDayHigh: 16.1
+regularMarketDayLow: 15.815
+regularMarketDayRange: 15.815 - 16.1
+regularMarketOpen: 16.0
+regularMarketPreviousClose: 15.885
+regularMarketPrice: 15.84
+regularMarketTime: 1794411547
+regularMarketVolume: 1228060
+returnOnAssets: 0.00338
+returnOnEquity: 0.093339995
+revenueGrowth: 0.023
+revenuePerShare: 9.053
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 2
+sharesOutstanding: 3024345732
+shortName: CREDIT AGRICOLE
+sourceInterval: 15
+symbol: ACA.PA
+targetHighPrice: 26.0
+targetLowPrice: 16.0
+targetMeanPrice: 20.87667
+targetMedianPrice: 21.0
+totalCash: 894700027904
+totalCashPerShare: 295.741
+totalDebt: 518259998720
+totalRevenue: 27382999040
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 1.96
+trailingPE: 8.081633
+trailingPegRatio: 1.4799
+triggerable: false
+twoHundredDayAverage: 17.411325
+twoHundredDayAverageChange: -1.5713253
+twoHundredDayAverageChangePercent: -0.09024731
+typeDisp: Equity
+volume: 1228060
+website: https://www.credit-agricole.com
+zip: '92127'

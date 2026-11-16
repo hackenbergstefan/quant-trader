@@ -1,0 +1,275 @@
+52WeekChange: -0.26385403
+SandP52WeekChange: 0.097798586
+address1: 10000 Energy Drive
+allTimeHigh: 126.621
+allTimeLow: 40.0
+ask: 94.84
+askSize: 2
+auditRisk: 5
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 3325680
+averageDailyVolume3Month: 3140196
+averageVolume: 3140196
+averageVolume10days: 3325680
+beta: 0.37
+bid: 80.56
+bidSize: 2
+boardRisk: 8
+bookValue: 84.436
+city: Spring
+companyOfficers:
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joshua J. Viets
+  title: Executive VP & COO
+  totalPay: 1690520
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 38
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Brittany  Raiford
+  title: Vice President of IR & Treasurer
+  totalPay: 1255575
+  unexercisedValue: 0
+  yearBorn: 1987
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Christopher W. Lacy J.D.
+  title: Executive VP, General Counsel & Corporate Secretary
+  totalPay: 1447060
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel F. Turco
+  title: Executive Vice President of Commercial Activities
+  totalPay: 2525468
+  unexercisedValue: 0
+  yearBorn: 1980
+- age: 50
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Daniel E. Brown
+  title: President, CEO & Director
+  unexercisedValue: 0
+  yearBorn: 1975
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marcel  Teunissen
+  title: Executive VP & CFO
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 39
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sarah  Grose
+  title: Vice President, Principal Accounting Officer & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1986
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Brooke  Coe
+  title: Manager of Communications & Media Relations
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Chris  Ayres
+  title: Senior Vice President of Corporate Development & Strategy
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Toni  Parks-Payne
+  title: Vice President of Human Resources & Employee Services
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: EXE announced a cash dividend of $0.575 with an ex-date of Nov. 12, 2026
+  meta:
+    amount: '0.575'
+    dateEpochMs: 1794459600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 88.295
+currentRatio: 0.904
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 89.11
+dayLow: 87.42
+debtToEquity: 23.949
+displayName: Expand Energy
+dividendDate: 1796256000
+dividendRate: 2.3
+dividendYield: 2.62
+earningsCallTimestampEnd: 1793192400
+earningsCallTimestampStart: 1793192400
+earningsGrowth: -0.018
+earningsQuarterlyGrowth: -0.051
+earningsTimestamp: 1793131200
+earningsTimestampEnd: 1793131200
+earningsTimestampStart: 1793131200
+ebitda: 6688999936
+ebitdaMargins: 0.51653
+enterpriseToEbitda: 3.717
+enterpriseToRevenue: 1.92
+enterpriseValue: 24862388224
+epsCurrentYear: 8.722
+epsForward: 8.11088
+epsTrailingTwelveMonths: 11.59
+esgPopulated: false
+exDividendDate: 1794441600
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 90.5982
+fiftyDayAverageChange: -2.3031998
+fiftyDayAverageChangePercent: -0.025422137
+fiftyTwoWeekChangePercent: -26.385403
+fiftyTwoWeekHigh: 126.621
+fiftyTwoWeekHighChange: -38.326004
+fiftyTwoWeekHighChangePercent: -0.30268285
+fiftyTwoWeekLow: 83.25
+fiftyTwoWeekLowChange: 5.044998
+fiftyTwoWeekLowChangePercent: 0.06060058
+fiftyTwoWeekRange: 83.25 - 126.621
+financialCurrency: USD
+firstTradeDateMilliseconds: 1612967400000
+fiveYearAvgDividendYield: 3.33
+floatShares: 229749441
+forwardEps: 8.11088
+forwardPE: 10.885995
+freeCashflow: 1366749952
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 1600
+fulldayChange: 0.35499573
+fulldayChangePercent: 0.40367946
+fulldayPrice: 88.295
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.45861
+grossProfits: 5938999808
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0039399997
+heldPercentInstitutions: 0.99412
+impliedSharesOutstanding: 230957348
+industry: Oil & Gas E&P
+industryDisp: Oil & Gas E&P
+industryKey: oil-gas-e-p
+irWebsite: http://www.chk.com/Investors/Pages/Default.aspx
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1786579200
+lastDividendValue: 0.575
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Expand Energy Corporation operates as an independent natural
+  gas production company in the United States. The company engages in acquisition,
+  exploration, and development of properties to produce oil, natural gas, and natural
+  gas liquids. It holds interests in the Marcellus Shale in the northern Appalachian
+  Basin in Pennsylvania; the Marcellus and Utica Shales in Ohio and West Virginia;
+  and the Haynesville and Bossier Shales in Louisiana and Texas. Expand Energy Corporation
+  was formerly known as Chesapeake Energy Corporation and changed its name to Expand
+  Energy Corporation in October 2024. The company was founded in 1989 and is based
+  in Spring, Texas.
+longName: Expand Energy Corporation
+market: us_market
+marketCap: 20392378368
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_323857
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 2752999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 20310389183
+numberOfAnalystOpinions: 27
+open: 89.1
+operatingCashflow: 5631000064
+operatingMargins: 0.28934
+overallRisk: 7
+payoutRatio: 0.1984
+pegRatio: 0.76
+phone: (346) 535-0990
+prevName: Chesapeake Energy Corporation
+previousClose: 87.94
+priceEpsCurrentYear: 10.123251
+priceHint: 2
+priceToBook: 1.0457033
+priceToSalesTrailing12Months: 1.5747011
+profitMargins: 0.21259001
+quickRatio: 0.502
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.55172
+region: US
+regularMarketChange: 0.35499573
+regularMarketChangePercent: 0.40367946
+regularMarketDayHigh: 89.11
+regularMarketDayLow: 87.42
+regularMarketDayRange: 87.42 - 89.11
+regularMarketOpen: 89.1
+regularMarketPreviousClose: 87.94
+regularMarketPrice: 88.295
+regularMarketTime: 1794413733
+regularMarketVolume: 476731
+returnOnAssets: 0.08167
+returnOnEquity: 0.14624
+revenueGrowth: 0.116
+revenuePerShare: 54.637
+sector: Energy
+sectorDisp: Energy
+sectorKey: energy
+shareHolderRightsRisk: 8
+sharesOutstanding: 230957348
+sharesPercentSharesOut: 0.0506
+sharesShort: 11680082
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 9765481
+shortName: Expand Energy Corporation
+shortPercentOfFloat: 0.0507
+shortRatio: 3.58
+sourceInterval: 15
+state: TX
+symbol: EXE
+targetHighPrice: 156.0
+targetLowPrice: 92.0
+targetMeanPrice: 123.07407
+targetMedianPrice: 122.0
+totalCash: 118000000
+totalCashPerShare: 0.511
+totalDebt: 4670000128
+totalRevenue: 12949999616
+tradeable: false
+trailingAnnualDividendRate: 2.3
+trailingAnnualDividendYield: 0.026154194
+trailingEps: 11.59
+trailingPE: 7.618205
+trailingPegRatio: 0.7797
+triggerable: true
+twoHundredDayAverage: 96.11447
+twoHundredDayAverageChange: -7.8194733
+twoHundredDayAverageChangePercent: -0.08135584
+typeDisp: Equity
+volume: 476731
+website: https://www.expandenergy.com
+zip: '77389'

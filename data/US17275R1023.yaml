@@ -1,0 +1,282 @@
+52WeekChange: 0.3270687
+SandP52WeekChange: 0.097798586
+address1: 170 West Tasman Drive
+allTimeHigh: 130.37
+allTimeLow: 0.068576
+ask: 105.53
+askSize: 1
+auditRisk: 6
+averageAnalystRating: 1.9 - Buy
+averageDailyVolume10Day: 22456720
+averageDailyVolume3Month: 18717284
+averageVolume: 18717284
+averageVolume10days: 22456720
+beta: 1.002
+bid: 96.68
+bidSize: 1
+boardRisk: 6
+bookValue: 12.743
+city: San Jose
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Charles H. Robbins
+  title: Chairman & CEO
+  totalPay: 9486962
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 53
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Jeetendra I. Patel
+  title: President & Chief Product Officer
+  totalPay: 3699796
+  unexercisedValue: 0
+  yearBorn: 1972
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Mark  Patterson
+  title: Executive VP & CFO
+  totalPay: 3453159
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Thimaya  Subaiya
+  title: Executive Vice President of Operations
+  totalPay: 3180688
+  unexercisedValue: 0
+  yearBorn: 1978
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Ms. Deborah L. Stahlkopf
+  title: Executive VP & Chief Legal Officer
+  totalPay: 2995637
+  unexercisedValue: 0
+  yearBorn: 1970
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Nichlas A. Fink
+  title: Senior VP, Corporate Controller & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Andrew  Ashton
+  title: Senior Vice President of Corporate Finance
+  unexercisedValue: 0
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Tom  Gillis
+  title: Senior VP & CTO
+  unexercisedValue: 0
+  yearBorn: 1966
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Ahmed Sami  Badri
+  title: Senior VP of Investor Relations & Strategic Finance
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2026
+  maxAge: 1
+  name: Mr. Steve  Clayton
+  title: Senior VP & Chief Communications Officer
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1798675200
+compensationRisk: 8
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 101.46
+currentRatio: 0.931
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 101.83
+dayLow: 99.9001
+debtToEquity: 62.017
+displayName: Cisco Systems
+dividendDate: 1792540800
+dividendRate: 1.68
+dividendYield: 1.71
+earningsCallTimestampEnd: 1794519000
+earningsCallTimestampStart: 1794519000
+earningsGrowth: 0.521
+earningsQuarterlyGrowth: 0.513
+earningsTimestamp: 1794517200
+earningsTimestampEnd: 1794517200
+earningsTimestampStart: 1794517200
+ebitda: 18641999872
+ebitdaMargins: 0.29439
+enterpriseToEbitda: 21.577
+enterpriseToRevenue: 6.352
+enterpriseValue: 402231885824
+epsCurrentYear: 5.14839
+epsForward: 5.62396
+epsTrailingTwelveMonths: 3.33
+esgPopulated: false
+exDividendDate: 1790899200
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 108.3444
+fiftyDayAverageChange: -6.8843994
+fiftyDayAverageChangePercent: -0.063541815
+fiftyTwoWeekChangePercent: 32.706867
+fiftyTwoWeekHigh: 130.37
+fiftyTwoWeekHighChange: -28.909996
+fiftyTwoWeekHighChangePercent: -0.22175345
+fiftyTwoWeekLow: 71.72
+fiftyTwoWeekLowChange: 29.739998
+fiftyTwoWeekLowChangePercent: 0.4146681
+fiftyTwoWeekRange: 71.72 - 130.37
+financialCurrency: USD
+firstTradeDateMilliseconds: 635178600000
+fiveYearAvgDividendYield: 2.54
+floatShares: 3936002753
+forwardEps: 5.62396
+forwardPE: 18.040668
+freeCashflow: 11182624768
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 82400
+fulldayChange: 3.3099976
+fulldayChangePercent: 3.3723867
+fulldayPrice: 101.46
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.64524
+grossProfits: 40860000256
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00056
+heldPercentInstitutions: 0.8217
+impliedSharesOutstanding: 3942586873
+industry: Communication Equipment
+industryDisp: Communication Equipment
+industryKey: communication-equipment
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1790899200
+lastDividendValue: 0.42
+lastFiscalYearEnd: 1784937600
+lastSplitDate: 953769600
+lastSplitFactor: '2:1'
+longBusinessSummary: Cisco Systems, Inc. designs, develops, and sells technologies
+  to power, help, secure, and draw insights from the internet in the Americas, Europe,
+  the Middle East, Africa, the Asia Pacific, Japan, and China. The company provides
+  data center switching; network security, identity and access management, and secure
+  access service edge; identity and agentic security solutions; interconnects public
+  and private wireline and mobile networks, delivering connectivity to campus, data
+  center, and branch networks; WEBEX suite, collaboration devices, and contact center;
+  communication platform as a service software, including perpetual licenses, subscription
+  arrangements, and hardware solutions; network assurance and observability suite;
+  accelerated issue resolution, software support, and hardware replacement; professional
+  services, such as planning, design, implementation, and high-value consulting; service
+  and support packages, financing, and managed network services; and regional, national,
+  and international wireline carriers, webscale products, internet, and cable. It
+  also provides wireless products, including indoor and outdoor coverage designed
+  for seamless roaming use of voice, video, and data applications; end-to-end collaboration
+  solutions through cloud, on-premise, or within hybrid cloud environments. In addition,
+  it offers technical support services. The company serves businesses, public institutions,
+  governments, and service providers. It sells its products and services directly,
+  through systems integrators, service providers, and resellers, and distributors.
+  It has a collaboration with NVIDIA Corporation to develop Ultra-Dense Small Form
+  Factor Pluggable (USFP), a high-density optical module pluggable transceiver. Cisco
+  Systems, Inc. was incorporated in 1984 and is headquartered in San Jose, California.
+longName: Cisco Systems, Inc.
+market: us_market
+marketCap: 400014868480
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_19691
+mostRecentQuarter: 1784937600
+netIncomeToCommon: 13267000320
+nextFiscalYearEnd: 1816473600
+nonDilutedMarketCap: 386964901584
+numberOfAnalystOpinions: 25
+open: 100.38
+operatingCashflow: 14177000448
+operatingMargins: 0.25391
+overallRisk: 3
+payoutRatio: 0.4985
+pegRatio: 0.91
+phone: 408-526-4000
+previousClose: 98.15
+priceEpsCurrentYear: 19.707132
+priceHint: 2
+priceToBook: 7.9620185
+priceToSalesTrailing12Months: 6.3168554
+profitMargins: 0.20951
+quickRatio: 0.691
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.86207
+region: US
+regularMarketChange: 3.3099976
+regularMarketChangePercent: 3.3723867
+regularMarketDayHigh: 101.83
+regularMarketDayLow: 99.9001
+regularMarketDayRange: 99.9001 - 101.83
+regularMarketOpen: 100.38
+regularMarketPreviousClose: 98.15
+regularMarketPrice: 101.46
+regularMarketTime: 1794413730
+regularMarketVolume: 4803780
+returnOnAssets: 0.079780005
+returnOnEquity: 0.27319
+revenueGrowth: 0.176
+revenuePerShare: 16.019
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 3942586873
+sharesPercentSharesOut: 0.0155
+sharesShort: 61005700
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 51066484
+shortName: Cisco Systems, Inc.
+shortPercentOfFloat: 0.0155
+shortRatio: 3.87
+sourceInterval: 15
+state: CA
+symbol: CSCO
+targetHighPrice: 170.0
+targetLowPrice: 110.0
+targetMeanPrice: 135.56
+targetMedianPrice: 135.0
+totalCash: 15918000128
+totalCashPerShare: 4.037
+totalDebt: 31185000448
+totalRevenue: 63324999680
+tradeable: false
+trailingAnnualDividendRate: 1.66
+trailingAnnualDividendYield: 0.016912889
+trailingEps: 3.33
+trailingPE: 30.46847
+trailingPegRatio: 0.9094
+triggerable: true
+twoHundredDayAverage: 102.03885
+twoHundredDayAverageChange: -0.5788498
+twoHundredDayAverageChangePercent: -0.005672837
+typeDisp: Equity
+volume: 4803780
+website: https://www.cisco.com
+zip: 95134-1706

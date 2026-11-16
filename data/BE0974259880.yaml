@@ -1,0 +1,242 @@
+52WeekChange: 0.14563107
+SandP52WeekChange: 0.097798586
+address1: Rue du Mail, 50
+allTimeHigh: 228.4
+allTimeLow: 7.08
+ask: 0.0
+askSize: 0
+auditRisk: 2
+averageDailyVolume10Day: 54356
+averageDailyVolume3Month: 56622
+averageVolume: 56622
+averageVolume10days: 54356
+beta: 0.958
+bid: 0.0
+bidSize: 0
+boardRisk: 7
+bookValue: 2.029
+city: Brussels
+companyOfficers:
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2019
+  maxAge: 1
+  name: Mr. Francis  Deprez
+  title: Chief Executive Officer
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 47
+  exercisedValue: 0
+  fiscalYear: 2019
+  maxAge: 1
+  name: Mr. Edouard  Janssen
+  title: Group Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1978
+- exercisedValue: 0
+  fiscalYear: 2019
+  maxAge: 1
+  name: Mr. Bram  Geeroms
+  title: Investor Relations & Treasury Manager
+  unexercisedValue: 0
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2019
+  maxAge: 1
+  name: Ms. Amélie  Coens
+  title: Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1977
+- exercisedValue: 0
+  fiscalYear: 2019
+  maxAge: 1
+  name: Ms. Anne-Catherine  Zoller
+  title: Head of ESG, Sustainability & Corporate Communication
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2019
+  maxAge: 1
+  name: Mr. Jean-Francois  Bourguignon
+  title: Head of Group Financial Reporting, Financial Control &Tax
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2019
+  maxAge: 1
+  name: Ms. Stephanie  Voisin
+  title: Head of Financial Communication
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2019
+  maxAge: 1
+  name: Mr. Michael  Grandfils
+  title: Managing Director of Lab Box
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1577750400
+compensationRisk: 5
+corporateActions: []
+country: Belgium
+cryptoTradeable: false
+currency: EUR
+currentPrice: 176.4
+currentRatio: 1.196
+customPriceAlertConfidence: LOW
+dayHigh: 177.8
+dayLow: 175.5
+debtToEquity: 2039.844
+dividendRate: 2.0
+dividendYield: 1.13
+earningsCallTimestampEnd: 1788971400
+earningsCallTimestampStart: 1788971400
+earningsGrowth: 0.064
+earningsQuarterlyGrowth: 0.054
+earningsTimestamp: 1788968400
+earningsTimestampEnd: 1788968400
+earningsTimestampStart: 1788968400
+ebitda: 509900000
+ebitdaMargins: 0.06445
+enterpriseToEbitda: 22.786
+enterpriseToRevenue: 1.468
+enterpriseValue: 11618665472
+epsCurrentYear: 13.0171
+epsForward: 15.27445
+epsTrailingTwelveMonths: 8.16
+esgPopulated: false
+exDividendDate: 1780963200
+exchange: BRU
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Brussels
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fax: 32 2 536 91 39
+fiftyDayAverage: 170.762
+fiftyDayAverageChange: 5.6380005
+fiftyDayAverageChangePercent: 0.03301672
+fiftyTwoWeekChangePercent: 14.5631075
+fiftyTwoWeekHigh: 199.9
+fiftyTwoWeekHighChange: -23.5
+fiftyTwoWeekHighChangePercent: -0.117558785
+fiftyTwoWeekLow: 143.6
+fiftyTwoWeekLowChange: 32.799988
+fiftyTwoWeekLowChangePercent: 0.22841217
+fiftyTwoWeekRange: 143.6 - 199.9
+financialCurrency: EUR
+firstTradeDateMilliseconds: 946972800000
+fiveYearAvgDividendYield: 1.27
+floatShares: 20096092
+forwardEps: 15.27445
+forwardPE: 11.5486965
+freeCashflow: 612225024
+fullExchangeName: Brussels
+fullTimeEmployees: 13087
+fulldayChange: -0.6000061
+fulldayChangePercent: -0.3389865
+fulldayPrice: 176.4
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.25666
+grossProfits: 2030700032
+hasPrePostMarketData: false
+heldPercentInsiders: 0.4954
+heldPercentInstitutions: 0.14751
+impliedSharesOutstanding: 52586680
+industry: Auto & Truck Dealerships
+industryDisp: Auto & Truck Dealerships
+industryKey: auto-truck-dealerships
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1780963200
+lastDividendValue: 2.0
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1293408000
+lastSplitFactor: '10:1'
+longBusinessSummary: "D'Ieteren Group SA operates as an investment company in Belgium,\
+  \ France, rest of Europe, and internationally. The company operates through D'Ieteren\
+  \ Automotive, Belron, Moleskine, TVH, and PHE segments. It is involved in vehicle\
+  \ glass repair, replacement, and recalibration under Carglass, Safelite, and Autoglass\
+  \ brands; and manages vehicle glass and other insurance claims on behalf of insurance\
+  \ customers. The company also distributes Volkswagen, Audi, SEAT, \x8Akoda, Bentley,\
+  \ Lamborghini, Bugatti, Cupra, Rimac, Microlino, Maserati and Porsche vehicles,\
+  \ as well as spare parts and accessories; markets used vehicles; and provides maintenance,\
+  \ financing, and leasing services. In addition, it manages real estate assets, such\
+  \ as offices, workshops, concessions, logistics centers, residential units, parking\
+  \ lots and landbanks; and offers real estate advice and a range of services to the\
+  \ tenants of the properties in the portfolio. Further, the company provides notebooks,\
+  \ planners, writing instruments, bags, reading accessories, and smart writing systems\
+  \ through wholesale, retail, e-commerce and strategic partnerships. Additionally,\
+  \ it distributes aftermarket parts for material handling, construction & industrial,\
+  \ and agricultural equipment. The company was founded in 1805 and is based in Brussels,\
+  \ Belgium."
+longName: D'Ieteren Group SA
+market: be_market
+marketCap: 9276290048
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_752915
+mostRecentQuarter: 1782777600
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 432600000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 9282865182
+numberOfAnalystOpinions: 12
+open: 176.5
+operatingCashflow: 546300032
+operatingMargins: 0.048260003
+overallRisk: 6
+payoutRatio: 0.2451
+pegRatio: 6.81
+phone: 32 2 536 54 39
+prevName: D'Ieteren SA
+previousClose: 177.0
+priceEpsCurrentYear: 13.551405
+priceHint: 2
+priceToBook: 86.93938
+priceToSalesTrailing12Months: 1.1724182
+profitMargins: 0.05531
+quickRatio: 0.617
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: none
+region: US
+regularMarketChange: -0.6000061
+regularMarketChangePercent: -0.3389865
+regularMarketDayHigh: 177.8
+regularMarketDayLow: 175.5
+regularMarketDayRange: 175.5 - 177.8
+regularMarketOpen: 176.5
+regularMarketPreviousClose: 177.0
+regularMarketPrice: 176.4
+regularMarketTime: 1794411488
+regularMarketVolume: 15371
+returnOnAssets: 0.03536
+revenueGrowth: -0.03
+revenuePerShare: 150.324
+sector: Consumer Cyclical
+sectorDisp: Consumer Cyclical
+sectorKey: consumer-cyclical
+shareHolderRightsRisk: 4
+sharesOutstanding: 52586680
+shortName: D'IETEREN GROUP
+sourceInterval: 15
+symbol: DIE.BR
+targetHighPrice: 270.0
+targetLowPrice: 210.0
+targetMeanPrice: 236.25
+targetMedianPrice: 230.0
+totalCash: 307500000
+totalCashPerShare: 5.863
+totalDebt: 2621199872
+totalRevenue: 7912099840
+tradeable: false
+trailingAnnualDividendRate: 2.0
+trailingAnnualDividendYield: 0.011299435
+trailingEps: 8.16
+trailingPE: 21.617647
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 173.727
+twoHundredDayAverageChange: 2.672989
+twoHundredDayAverageChangePercent: 0.015386145
+typeDisp: Equity
+volume: 15371
+website: https://www.dieterengroup.com
+zip: '1050'

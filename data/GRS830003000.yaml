@@ -1,0 +1,270 @@
+52WeekChange: 0.37341774
+SandP52WeekChange: 0.097798586
+address1: 40 Stadiou Street
+allTimeHigh: 4.94
+allTimeLow: 2.95
+ask: 4.36
+askSize: 6161
+auditRisk: 5
+averageAnalystRating: 1.6 - Buy
+averageDailyVolume10Day: 8590434
+averageDailyVolume3Month: 9443276
+averageVolume: 9443276
+averageVolume10days: 8590434
+beta: 0.832
+bid: 4.84
+bidSize: 5674
+boardRisk: 1
+bookValue: 4.094
+city: Athens
+companyOfficers:
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Vassilios E. Psaltis Ph.D.
+  title: CEO & Executive Director
+  totalPay: 1583384
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Vassilios G. Kosmas
+  title: Chief Financial Officer
+  unexercisedValue: 0
+  yearBorn: 1971
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Nikolaos  Zagorisios
+  title: Chief Investment Officer
+  unexercisedValue: 0
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Michalis V. Tsarbopoulos
+  title: Chief Digital and Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1976
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Spyridon P. Tzamtzis
+  title: Executive GM of IT & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1965
+- exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Iason  Kepaptsoglou
+  title: Head of Investor Relations
+  unexercisedValue: 0
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Xenofon D. Avlonitis
+  title: Chief of Compliance
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Thaleia Z. Emiri
+  title: Chief Legal Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 57
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Ms. Fragiski G. Melissa
+  title: Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1968
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2024
+  maxAge: 1
+  name: Mr. Lazaros A. Papagaryfallou
+  title: Deputy CEO & Executive Director
+  unexercisedValue: 0
+  yearBorn: 1971
+compensationAsOfEpochDate: 1735603200
+compensationRisk: 9
+corporateActions:
+- header: Dividend
+  message: ALPHA.AT announced a cash dividend of EUR 0.055 with an ex-date of Nov.
+    30, 2026
+  meta:
+    amount: '0.055'
+    dateEpochMs: 1795989600000
+    eventType: DIVIDEND
+country: Greece
+cryptoTradeable: false
+currency: EUR
+currentPrice: 4.846
+customPriceAlertConfidence: LOW
+dayHigh: 4.85
+dayLow: 4.706
+dividendDate: 1762041600
+dividendRate: 0.11
+dividendYield: 2.39
+earningsCallTimestampEnd: 1793354400
+earningsCallTimestampStart: 1793354400
+earningsGrowth: 0.608
+earningsQuarterlyGrowth: 0.459
+earningsTimestamp: 1793373600
+earningsTimestampEnd: 1793373600
+earningsTimestampStart: 1793373600
+ebitdaMargins: 0.0
+enterpriseToRevenue: 7.961
+enterpriseValue: 16997166080
+epsCurrentYear: 0.42519
+epsForward: 0.50015
+epsTrailingTwelveMonths: 0.36
+esgPopulated: false
+exDividendDate: 1795996800
+exchange: ATH
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Athens
+exchangeTimezoneShortName: EET
+executiveTeam: []
+fiftyDayAverage: 4.54676
+fiftyDayAverageChange: 0.2992401
+fiftyDayAverageChangePercent: 0.06581392
+fiftyTwoWeekChangePercent: 37.341774
+fiftyTwoWeekHigh: 4.94
+fiftyTwoWeekHighChange: -0.09399986
+fiftyTwoWeekHighChangePercent: -0.019028312
+fiftyTwoWeekLow: 2.95
+fiftyTwoWeekLowChange: 1.8960001
+fiftyTwoWeekLowChangePercent: 0.6427119
+fiftyTwoWeekRange: 2.95 - 4.94
+financialCurrency: EUR
+firstTradeDateMilliseconds: 1751441400000
+floatShares: 2016217584
+forwardEps: 0.50015
+forwardPE: 9.689094
+fullExchangeName: Athens
+fullTimeEmployees: 6709
+fulldayChange: 0.07200003
+fulldayChangePercent: 1.5081698
+fulldayPrice: 4.846
+gmtOffSetMilliseconds: 7200000
+governanceEpochDate: 1793491200
+grossMargins: 0.0
+grossProfits: 2135000064
+hasPrePostMarketData: false
+heldPercentInsiders: 0.0
+heldPercentInstitutions: 0.61971
+impliedSharesOutstanding: 2245531234
+industry: Banks - Diversified
+industryDisp: Banks - Diversified
+industryKey: banks-diversified
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1795996800
+lastDividendValue: 0.055284
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Alpha Bank S.A., together with its subsidiaries, provides various
+  banking and financial products and services in Greece and internationally. The company
+  offers savings, premier, deposit, payroll, and payroll for pension accounts, as
+  well as savings and sight account in foreign currency. It also provides personal,
+  mortgage, home improvement, and green loans; debit, credit, and prepaid cards; digital
+  wallets; health, home and car, credit card protection, online transactions, card
+  theft, mortgage loan, personal insurance products, as well as unit-linked and insurance
+  savings plans; and working capital facilities, corporate loans, leasing products,
+  factoring services, letters of guarantee/letters of credit, trading, and wealth
+  management services. In addition, the company offers investment products, such as
+  mutual funds, investment plans and combined investment, equities and stock exchanges,
+  bonds, and term deposits. Further, it provides various business banking products
+  and services comprising business banking advisory, business cards, partner ecosystem,
+  green solutions for small businesses, deposit products, financing solutions, sectorial
+  programmes, insurance, Nexi POS, and international trade; international market products;
+  corporate finance, custody, shipping, and other services; and mass payment, Nexi
+  XPay, cash management, online legalization for legal entities, tools, online term
+  deposit for business, myBusiness benefit, API portal, and e-banking. Additionally,
+  the company offers supranational development and national development programmes,
+  and recovery and resilience facility loans; gold personal and business banking services;
+  GEM portfolio management and e-wealth services, and lombard loans. Alpha Bank S.A.
+  was founded in 1879 and is based in Athens, Greece.
+longName: Alpha Bank S.A.
+market: gr_market
+marketCap: 10881844224
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_410666
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 916000000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 10720166111
+numberOfAnalystOpinions: 15
+open: 4.798
+operatingCashflow: -3174000128
+operatingMargins: 0.53863996
+overallRisk: 6
+payoutRatio: 0.2832
+phone: 30 210 326 2271
+prevName: Alpha Bank A.E.
+previousClose: 4.774
+priceEpsCurrentYear: 11.397258
+priceHint: 4
+priceToBook: 1.1836835
+priceToSalesTrailing12Months: 5.0968823
+profitMargins: 0.47026002
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 1.6
+region: US
+regularMarketChange: 0.07200003
+regularMarketChangePercent: 1.5081698
+regularMarketDayHigh: 4.85
+regularMarketDayLow: 4.706
+regularMarketDayRange: 4.706 - 4.85
+regularMarketOpen: 4.798
+regularMarketPreviousClose: 4.774
+regularMarketPrice: 4.846
+regularMarketTime: 1794410336
+regularMarketVolume: 7385668
+returnOnAssets: 0.01253
+returnOnEquity: 0.109610006
+revenueGrowth: 0.228
+revenuePerShare: 0.941
+sector: Financial Services
+sectorDisp: Financial Services
+sectorKey: financial-services
+shareHolderRightsRisk: 10
+sharesOutstanding: 2245531234
+shortName: ALPHA BANK S.A.
+sourceInterval: 10
+symbol: ALPHA.AT
+targetHighPrice: 5.8
+targetLowPrice: 4.12
+targetMeanPrice: 5.1855
+targetMedianPrice: 5.3
+totalCash: 2404999936
+totalCashPerShare: 1.071
+totalDebt: 8663000064
+totalRevenue: 2135000064
+tradeable: false
+trailingAnnualDividendRate: 0.065
+trailingAnnualDividendYield: 0.013615415
+trailingEps: 0.36
+trailingPE: 13.461111
+trailingPegRatio: null
+triggerable: false
+twoHundredDayAverage: 4.05219
+twoHundredDayAverageChange: 0.79381037
+twoHundredDayAverageChangePercent: 0.19589664
+typeDisp: Equity
+volume: 7385668
+website: https://www.alpha.gr
+zip: 102 52

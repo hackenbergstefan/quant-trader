@@ -1,0 +1,266 @@
+52WeekChange: 8.390864
+SandP52WeekChange: 0.097798586
+address1: 325 Binney Street
+allTimeHigh: 497.49
+allTimeLow: 11.54
+ask: 261.57
+askSize: 1
+auditRisk: 7
+averageAnalystRating: 2.9 - Hold
+averageDailyVolume10Day: 11648100
+averageDailyVolume3Month: 21999292
+averageVolume: 21999292
+averageVolume10days: 11648100
+beta: 1.166
+bid: 233.38
+bidSize: 1
+boardRisk: 7
+bookValue: 16.923
+city: Cambridge
+companyOfficers:
+- age: 52
+  exercisedValue: 12405956
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Stéphane  Bancel M.B.A.
+  title: CEO & Director
+  totalPay: 6137337
+  unexercisedValue: 70025272
+  yearBorn: 1973
+- age: 49
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Stephen  Hoge M.D.
+  title: President
+  totalPay: 4259250
+  unexercisedValue: 52914404
+  yearBorn: 1976
+- age: 48
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. James M. Mock
+  title: Chief Financial Officer
+  totalPay: 2179152
+  unexercisedValue: 0
+  yearBorn: 1977
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Shannon Thyme Klinger J.D.
+  title: Chief Legal Officer & Corporate Secretary
+  totalPay: 2179152
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 60
+  exercisedValue: 11467901
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Juan  Andres
+  title: Chief Operating Officer
+  totalPay: 1278197
+  unexercisedValue: 46720508
+  yearBorn: 1965
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Lavina  Talukdar CFA
+  title: Senior VP & Head of Investor Relations
+  unexercisedValue: 0
+  yearBorn: 1974
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Chris  Ridley
+  title: VP & Global Head of Communications
+  unexercisedValue: 0
+- age: 45
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Tracey  Franklin
+  title: Chief People & Digital Technology Officer
+  unexercisedValue: 0
+  yearBorn: 1980
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Dr. Charbel  Haber M.P.H., Ph.D.
+  title: Senior VP & Head of Global Regulatory Science
+  unexercisedValue: 0
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Patrick Norman Bergstedt
+  title: Senior Vice President of Commercial Vaccines
+  unexercisedValue: 0
+  yearBorn: 1962
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 10
+corporateActions: []
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 248.3524
+currentRatio: 3.621
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 254.86
+dayLow: 244.5928
+debtToEquity: 61.855
+displayName: Moderna
+dividendYield: 0.0
+earningsCallTimestampEnd: 1793970000
+earningsCallTimestampStart: 1793970000
+earningsTimestamp: 1793971800
+earningsTimestampEnd: 1793971800
+earningsTimestampStart: 1793971800
+ebitda: -1783000064
+ebitdaMargins: -0.70614
+enterpriseToEbitda: -56.393
+enterpriseToRevenue: 39.821
+enterpriseValue: 100549083136
+epsCurrentYear: -7.57663
+epsForward: -4.27649
+epsTrailingTwelveMonths: -7.04
+esgPopulated: false
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fiftyDayAverage: 196.6769
+fiftyDayAverageChange: 51.675507
+fiftyDayAverageChangePercent: 0.26274315
+fiftyTwoWeekChangePercent: 839.0864
+fiftyTwoWeekHigh: 280.8
+fiftyTwoWeekHighChange: -32.447586
+fiftyTwoWeekHighChangePercent: -0.11555409
+fiftyTwoWeekLow: 22.28
+fiftyTwoWeekLowChange: 226.0724
+fiftyTwoWeekLowChangePercent: 10.146876
+fiftyTwoWeekRange: 22.28 - 280.8
+financialCurrency: USD
+firstTradeDateMilliseconds: 1544193000000
+floatShares: 377365706
+forwardEps: -4.27649
+forwardPE: -58.073887
+freeCashflow: -584499968
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 4700
+fulldayChange: -2.4776
+fulldayChangePercent: -0.98776066
+fulldayPrice: 248.3524
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: -0.4202
+grossProfits: -1061000000
+hasPrePostMarketData: true
+heldPercentInsiders: 0.0725
+heldPercentInstitutions: 0.79630995
+impliedSharesOutstanding: 404620975
+industry: Biotechnology
+industryDisp: Biotechnology
+industryKey: biotechnology
+isEarningsDateEstimate: false
+language: en-US
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: Moderna, Inc., a biotechnology company, provides messenger RNA
+  medicines in the United States, Europe, and internationally. The company's respiratory
+  vaccines include spikevax, mNEXSPIKE, mRESVIA, COVID, RSV, seasonal influenza, combination,
+  and pandemic influenza vaccine; latent vaccines comprise cytomegalovirus, epstein-barr
+  virus, and human immunodeficiency virus vaccines; enteric viruses include norovirus;
+  public health vaccines consist of Zika, Nipah, and Mpox vaccines; and bacterial
+  diseases vaccines, such as lyme vaccines. It also provides oncology therapeutics,
+  such as intismeran autogene, cancer antigen therapy, t-cell engager, and cell therapy
+  enhancer; and rare disease products, including propionic and methylmalonic acidemia,
+  and cystic fibrosis. It has strategic alliances and collaborations with Merck &
+  Co., Inc; Vertex Pharmaceuticals Incorporated; Vertex Pharmaceuticals (Europe) Limited;
+  immatics N.V.; Defense Advanced Research Projects Agency; Biomedical Advanced Research
+  and Development Authority; Institute for Life Changing Medicines; The Bill & Melinda
+  Gates Foundation; and OpenAI. The company was formerly known as Moderna Therapeutics,
+  Inc. and changed its name to Moderna, Inc. in August 2018. Moderna, Inc. was founded
+  in 2010 and is headquartered in Cambridge, Massachusetts.
+longName: Moderna, Inc.
+market: us_market
+marketCap: 100488585216
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_128680956
+mostRecentQuarter: 1790726400
+netIncomeToCommon: -2788999936
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 101491079159
+numberOfAnalystOpinions: 19
+open: 252.78
+operatingCashflow: -1784999936
+operatingMargins: -0.80792
+overallRisk: 10
+payoutRatio: 0.0
+phone: 617 714 6500
+previousClose: 250.83
+priceEpsCurrentYear: -32.77874
+priceHint: 2
+priceToBook: 14.675436
+priceToSalesTrailing12Months: 39.79746
+profitMargins: -1.10455
+quickRatio: 3.317
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: hold
+recommendationMean: 2.91304
+region: US
+regularMarketChange: -2.4776
+regularMarketChangePercent: -0.98776066
+regularMarketDayHigh: 254.86
+regularMarketDayLow: 244.5928
+regularMarketDayRange: 244.5928 - 254.86
+regularMarketOpen: 252.78
+regularMarketPreviousClose: 250.83
+regularMarketPrice: 248.3524
+regularMarketTime: 1794413741
+regularMarketVolume: 2635340
+returnOnAssets: -0.0996
+returnOnEquity: -0.34502
+revenueGrowth: 0.292
+revenuePerShare: 6.368
+sector: Healthcare
+sectorDisp: Healthcare
+sectorKey: healthcare
+shareHolderRightsRisk: 9
+sharesOutstanding: 404620975
+sharesPercentSharesOut: 0.081999995
+sharesShort: 33191285
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 30863202
+shortName: Moderna, Inc.
+shortPercentOfFloat: 0.0999
+shortRatio: 1.75
+sourceInterval: 15
+state: MA
+symbol: MRNA
+targetHighPrice: 270.0
+targetLowPrice: 45.0
+targetMeanPrice: 154.47368
+targetMedianPrice: 125.0
+totalCash: 5170999808
+totalCashPerShare: 12.78
+totalDebt: 4228999936
+totalRevenue: 2524999936
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: -7.04
+trailingPegRatio: null
+triggerable: true
+twoHundredDayAverage: 93.5827
+twoHundredDayAverageChange: 154.7697
+twoHundredDayAverageChangePercent: 1.653828
+typeDisp: Equity
+volume: 2635340
+website: https://www.modernatx.com
+zip: '02142'

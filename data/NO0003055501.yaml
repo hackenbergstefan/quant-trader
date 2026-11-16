@@ -1,0 +1,266 @@
+52WeekChange: 0.31716144
+SandP52WeekChange: 0.097798586
+address1: Otto Nielsens veg 12
+allTimeHigh: 319.4
+allTimeLow: 0.44
+ask: 188.2
+askSize: 965
+auditRisk: 1
+averageAnalystRating: 2.4 - Buy
+averageDailyVolume10Day: 877400
+averageDailyVolume3Month: 824316
+averageVolume: 824316
+averageVolume10days: 877400
+beta: 1.058
+bid: 188.0
+bidSize: 5813
+boardRisk: 4
+bookValue: 34.69367
+city: Trondheim
+companyOfficers:
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Vegard  Wollan
+  title: CEO & President
+  totalPay: 8261289
+  unexercisedValue: 0
+- age: 54
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Pal  Elstad CPA
+  title: CFO & Executive VP of Finance
+  totalPay: 4889334
+  unexercisedValue: 0
+  yearBorn: 1971
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Geir  Langeland
+  title: Executive Vice President of Sales
+  totalPay: 5385761
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Sonja  Kusmin
+  title: Senior Vice President of People & Culture
+  totalPay: 3381321
+  unexercisedValue: 0
+- age: 55
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ole-Fredrik  Morken
+  title: Executive Vice President of Supply Chain
+  totalPay: 4505306
+  unexercisedValue: 0
+  yearBorn: 1970
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oyvind  Birkenes
+  title: Executive Vice President of New Long-Range Business Unit
+  totalPay: 4795669
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Kjetil  Holstad
+  title: Executive Vice President of BU Power Management and Wi-Fi
+  totalPay: 4739470
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Ola  Bostrom
+  title: Senior Vice President of Quality & Sustainability
+  totalPay: 2875528
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Oyvind  Strom
+  title: Executive Vice President of Short-Range Business Unit
+  totalPay: 4776936
+  unexercisedValue: 0
+- exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Christian Werner Skovly-Guttormsen
+  title: Head of Legal
+  unexercisedValue: 0
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 3
+corporateActions: []
+country: Norway
+cryptoTradeable: false
+currency: NOK
+currentPrice: 187.5
+currentRatio: 3.331
+customPriceAlertConfidence: LOW
+dayHigh: 188.2
+dayLow: 184.2
+debtToEquity: 20.45
+dividendYield: 0.0
+earningsCallTimestampEnd: 1792648800
+earningsCallTimestampStart: 1792648800
+earningsGrowth: 32.25
+earningsQuarterlyGrowth: 30.528
+earningsTimestamp: 1792678800
+earningsTimestampEnd: 1792678800
+earningsTimestampStart: 1792678800
+ebitda: 78569000
+ebitdaMargins: 0.09629
+enterpriseToEbitda: 457.506
+enterpriseToRevenue: 44.052
+enterpriseValue: 35945779200
+epsCurrentYear: 3.11927
+epsForward: 4.70208
+epsTrailingTwelveMonths: 2.8
+esgPopulated: false
+exDividendDate: 1308268800
+exchange: OSL
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: Europe/Oslo
+exchangeTimezoneShortName: CET
+executiveTeam: []
+fiftyDayAverage: 176.57
+fiftyDayAverageChange: 10.929993
+fiftyDayAverageChangePercent: 0.061901752
+fiftyTwoWeekChangePercent: 31.716145
+fiftyTwoWeekHigh: 211.0
+fiftyTwoWeekHighChange: -23.5
+fiftyTwoWeekHighChangePercent: -0.11137441
+fiftyTwoWeekLow: 123.7
+fiftyTwoWeekLowChange: 63.800003
+fiftyTwoWeekLowChangePercent: 0.515764
+fiftyTwoWeekRange: 123.7 - 211.0
+financialCurrency: USD
+firstTradeDateMilliseconds: 946886400000
+floatShares: 177921070
+forwardEps: 4.70208
+forwardPE: 39.875973
+freeCashflow: -51025000
+fullExchangeName: Oslo
+fullTimeEmployees: 1506
+fulldayChange: 5.600006
+fulldayChangePercent: 3.078618
+fulldayPrice: 187.5
+gmtOffSetMilliseconds: 3600000
+governanceEpochDate: 1793491200
+grossMargins: 0.53174
+grossProfits: 433888992
+hasPrePostMarketData: false
+heldPercentInsiders: 0.098450005
+heldPercentInstitutions: 0.5596
+impliedSharesOutstanding: 197795167
+industry: Semiconductors
+industryDisp: Semiconductors
+industryKey: semiconductors
+irWebsite: http://www.nordicsemi.com/eng/Investor-Relations
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1308268800
+lastDividendValue: 0.4
+lastFiscalYearEnd: 1767139200
+lastSplitDate: 1276560000
+lastSplitFactor: '5:1'
+longBusinessSummary: Nordic Semiconductor ASA, a fabless semiconductor company, provides
+  low power wireless connectivity solutions in Europe, the Americas, and the Asia
+  Pacific. The company offers cellular IoT that comprises NB-IoT and LTE-M; non-terrestrial
+  networks; Wi-Fi solutions; Bluetooth low energy System-on-Chip (SoC); Bluetooth
+  direction finding solution; DECT NR+, a non-cellular radio standard; Thread, an
+  IP-based wireless networking protocol solution; nRF52 and nRF51 wireless SoCs; and
+  range extenders, as well as Bluetooth LE audio, Bluetooth mesh, and Zigbee products.
+  It also provides Matter, a Connected Home over IP solution; Amazon sidewalk; multiprotocol
+  SoCs; Bluetooth wireless technology; security solution; Edge AI; ANT solutions,
+  including wireless multiprotocol SoCs supporting the ANT wireless protocol; and
+  KNX IoT. In addition, the company offers power management integrated circuits (PMIC)
+  comprising nPM1100 PMIC, nPM1300 PMIC, nPM2100, and nPM6001 PMIC; cloud services,
+  such as location, security, and device management services; nRF Cloud solution;
+  and application specific integrated circuits and related consulting services. Its
+  products are used for consumer devices, including asset tracking, audio, education,
+  HID, smart home and remotes, gaming, virtual reality and augmented reality products,
+  and wearables; for industrial automation, such as automotive, beacons, building
+  automation, professional lighting, transportation, retail, and smart agriculture
+  and metering; and healthcare devices that include connected health and sports and
+  fitness. Nordic Semiconductor ASA was founded in 1983 and is headquartered in Trondheim,
+  Norway.
+longName: Nordic Semiconductor ASA
+market: no_market
+marketCap: 37086593024
+marketState: POSTPOST
+maxAge: 86400
+messageBoardId: finmb_884166
+mostRecentQuarter: 1790726400
+netIncomeToCommon: 58174000
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 34891067458
+numberOfAnalystOpinions: 16
+open: 184.2
+operatingCashflow: 39938000
+operatingMargins: 0.077589996
+overallRisk: 2
+payoutRatio: 0.0
+pegRatio: 0.8
+phone: 47 72 89 89 00
+previousClose: 181.9
+priceEpsCurrentYear: 60.110218
+priceHint: 2
+priceToBook: 5.404444
+priceToSalesTrailing12Months: 45.44998
+profitMargins: 0.07129
+quickRatio: 2.202
+quoteSourceName: Delayed Quote
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.4375
+region: US
+regularMarketChange: 5.600006
+regularMarketChangePercent: 3.078618
+regularMarketDayHigh: 188.2
+regularMarketDayLow: 184.2
+regularMarketDayRange: 184.2 - 188.2
+regularMarketOpen: 184.2
+regularMarketPreviousClose: 181.9
+regularMarketPrice: 187.5
+regularMarketTime: 1794410709
+regularMarketVolume: 841457
+returnOnAssets: 0.03848
+returnOnEquity: 0.082720004
+revenueGrowth: 0.316
+revenuePerShare: 4.121
+sector: Technology
+sectorDisp: Technology
+sectorKey: technology
+shareHolderRightsRisk: 1
+sharesOutstanding: 197795167
+shortName: NORDIC SEMICONDUCTOR
+sourceInterval: 15
+symbol: NOD.OL
+targetHighPrice: 250.0
+targetLowPrice: 134.0
+targetMeanPrice: 194.5
+targetMedianPrice: 185.0
+totalCash: 266795008
+totalCashPerShare: 1.346
+totalDebt: 150172992
+totalRevenue: 815987008
+tradeable: false
+trailingAnnualDividendRate: 0.0
+trailingAnnualDividendYield: 0.0
+trailingEps: 2.8
+trailingPE: 66.96429
+trailingPegRatio: 0.8039
+triggerable: false
+twoHundredDayAverage: 170.1575
+twoHundredDayAverageChange: 17.342499
+twoHundredDayAverageChangePercent: 0.10192027
+typeDisp: Equity
+volume: 841457
+website: https://www.nordicsemi.com
+zip: '7052'

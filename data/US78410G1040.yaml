@@ -1,0 +1,283 @@
+52WeekChange: -0.050587714
+SandP52WeekChange: 0.097798586
+address1: 8051 Congress Avenue
+allTimeHigh: 391.15
+allTimeLow: 0.19
+ask: 207.55
+askSize: 2
+auditRisk: 2
+averageAnalystRating: 2.1 - Buy
+averageDailyVolume10Day: 1218600
+averageDailyVolume3Month: 1017054
+averageVolume: 1017054
+averageVolume10days: 1218600
+beta: 0.968
+bid: 175.96
+bidSize: 2
+boardRisk: 9
+bookValue: -46.298
+city: Boca Raton
+companyOfficers:
+- age: 53
+  exercisedValue: 2403146
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Brendan Thomas Cavanagh CPA
+  title: CEO, President & Director
+  totalPay: 2718402
+  unexercisedValue: 620397
+  yearBorn: 1972
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Steven E. Bernstein II
+  title: Founder & Independent Director
+  totalPay: 100000
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 63
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Marc R. Montagner
+  title: Executive VP & CFO
+  totalPay: 1368129
+  unexercisedValue: 0
+  yearBorn: 1962
+- age: 59
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Mark R. Ciarfella
+  title: Executive Vice President of Operations
+  totalPay: 1154480
+  unexercisedValue: 0
+  yearBorn: 1966
+- age: 45
+  exercisedValue: 130371
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Joshua M. Koenig
+  title: Executive Vice President, Chief Administrative Officer & General Counsel
+  totalPay: 1182787
+  unexercisedValue: 101517
+  yearBorn: 1980
+- age: 60
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Richard M. Cane
+  title: "Executive VP & President \x96 International"
+  totalPay: 1160380
+  unexercisedValue: 0
+  yearBorn: 1965
+- age: 56
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Saul M. Kredi
+  title: VP & Chief Accounting Officer
+  unexercisedValue: 0
+  yearBorn: 1969
+- age: 51
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Elvis T. Clemetson
+  title: Senior VP & Chief Information Officer
+  unexercisedValue: 0
+  yearBorn: 1974
+- age: 64
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Ms. Michelle  Eisner
+  title: Senior VP & Chief Human Resources Officer
+  unexercisedValue: 0
+  yearBorn: 1961
+- age: 58
+  exercisedValue: 0
+  fiscalYear: 2025
+  maxAge: 1
+  name: Mr. Neil H. Seidman
+  title: Senior Vice President of Mergers and Acquisitions
+  unexercisedValue: 0
+  yearBorn: 1967
+compensationAsOfEpochDate: 1767139200
+compensationRisk: 4
+corporateActions:
+- header: Dividend
+  message: SBAC announced a cash dividend of $1.25 with an ex-date of Nov. 12, 2026
+  meta:
+    amount: '1.25'
+    dateEpochMs: 1794459600000
+    eventType: DIVIDEND
+country: United States
+cryptoTradeable: false
+currency: USD
+currentPrice: 191.12
+currentRatio: 0.19
+customPriceAlertConfidence: HIGH
+dateShortInterest: 1793318400
+dayHigh: 191.925
+dayLow: 189.85
+displayName: SBA Communications
+dividendDate: 1796860800
+dividendRate: 5.0
+dividendYield: 2.61
+earningsCallTimestampEnd: 1793656800
+earningsCallTimestampStart: 1793656800
+earningsGrowth: -0.005
+earningsQuarterlyGrowth: -0.023
+earningsTimestamp: 1793653200
+earningsTimestampEnd: 1793653200
+earningsTimestampStart: 1793653200
+ebitda: 1822147968
+ebitdaMargins: 0.63885
+enterpriseToEbitda: 19.167
+enterpriseToRevenue: 12.245
+enterpriseValue: 34924371968
+epsCurrentYear: 7.76897
+epsForward: 7.92035
+epsTrailingTwelveMonths: 9.26
+esgPopulated: false
+exDividendDate: 1794441600
+exchange: NMS
+exchangeDataDelayedBy: 15
+exchangeTimezoneName: America/New_York
+exchangeTimezoneShortName: EST
+executiveTeam: []
+fax: 561 998 3448
+fiftyDayAverage: 179.8224
+fiftyDayAverageChange: 11.297592
+fiftyDayAverageChangePercent: 0.06282639
+fiftyTwoWeekChangePercent: -5.058771
+fiftyTwoWeekHigh: 224.46
+fiftyTwoWeekHighChange: -33.34001
+fiftyTwoWeekHighChangePercent: -0.14853431
+fiftyTwoWeekLow: 156.6
+fiftyTwoWeekLowChange: 34.51999
+fiftyTwoWeekLowChangePercent: 0.22043414
+fiftyTwoWeekRange: 156.6 - 224.46
+financialCurrency: USD
+firstTradeDateMilliseconds: 929539800000
+fiveYearAvgDividendYield: 1.35
+floatShares: 103637469
+forwardEps: 7.92035
+forwardPE: 24.130245
+freeCashflow: 684667648
+fullExchangeName: NasdaqGS
+fullTimeEmployees: 1844
+fulldayChange: -0.30999756
+fulldayChangePercent: -0.16193782
+fulldayPrice: 191.12
+gmtOffSetMilliseconds: -18000000
+governanceEpochDate: 1793491200
+grossMargins: 0.74547994
+grossProfits: 2126263040
+hasPrePostMarketData: true
+heldPercentInsiders: 0.00778
+heldPercentInstitutions: 1.03457
+impliedSharesOutstanding: 104427989
+industry: REIT - Specialty
+industryDisp: REIT - Specialty
+industryKey: reit-specialty
+isEarningsDateEstimate: false
+language: en-US
+lastDividendDate: 1787184000
+lastDividendValue: 1.25
+lastFiscalYearEnd: 1767139200
+longBusinessSummary: SBA Communications Corporation is a leading independent owner
+  and operator of wireless communications infrastructure, including tower structures,
+  rooftops and other structures that support antennas used for wireless communications.
+  In our site leasing business, we lease space to wireless service providers and other
+  customers on assets we own or operate, and manage rooftop and tower sites for property
+  owners under various contractual arrangements. As of December 31, 2025, we owned
+  46,328 towers, a substantial portion of which were built by us or by other tower
+  owners or operators who, like us, build towers to lease space to multiple wireless
+  service providers. As of December 31, 2025, each of our towers had an average of
+  1.8 tenants. SBA Communications Corporation was established in 1989 and was incorporated
+  in Florida.
+longName: SBA Communications Corporation
+market: us_market
+marketCap: 19958278144
+marketState: REGULAR
+maxAge: 86400
+messageBoardId: finmb_34071
+mostRecentQuarter: 1790726400
+nameChangeDate: '2026-11-11'
+netIncomeToCommon: 985206016
+nextFiscalYearEnd: 1798675200
+nonDilutedMarketCap: 19988039234
+numberOfAnalystOpinions: 20
+open: 190.43
+operatingCashflow: 1298131968
+operatingMargins: 0.52402997
+overallRisk: 8
+payoutRatio: 0.5248
+pegRatio: 11.61
+phone: 561 995 7670
+prevName: SBA Communications Corporation (REIT)
+previousClose: 191.43
+priceEpsCurrentYear: 24.60043
+priceHint: 2
+priceToBook: -4.12804
+priceToSalesTrailing12Months: 6.9974585
+profitMargins: 0.34542
+quickRatio: 0.137
+quoteSourceName: Nasdaq Real Time Price
+quoteType: EQUITY
+recommendationKey: buy
+recommendationMean: 2.14286
+region: US
+regularMarketChange: -0.30999756
+regularMarketChangePercent: -0.16193782
+regularMarketDayHigh: 191.925
+regularMarketDayLow: 189.85
+regularMarketDayRange: 189.85 - 191.925
+regularMarketOpen: 190.43
+regularMarketPreviousClose: 191.43
+regularMarketPrice: 191.12
+regularMarketTime: 1794413745
+regularMarketVolume: 71229
+returnOnAssets: 0.08167
+revenueGrowth: -0.025
+revenuePerShare: 26.932
+sector: Real Estate
+sectorDisp: Real Estate
+sectorKey: real-estate
+shareHolderRightsRisk: 8
+sharesOutstanding: 104427989
+sharesPercentSharesOut: 0.0323
+sharesShort: 3377187
+sharesShortPreviousMonthDate: 1790726400
+sharesShortPriorMonth: 3314948
+shortName: SBA Communications Corporation
+shortPercentOfFloat: 0.045100003
+shortRatio: 2.95
+sourceInterval: 15
+state: FL
+symbol: SBAC
+targetHighPrice: 280.0
+targetLowPrice: 165.0
+targetMeanPrice: 222.75
+targetMedianPrice: 220.0
+totalCash: 417532000
+totalCashPerShare: 3.998
+totalDebt: 15258372096
+totalRevenue: 2852218112
+tradeable: false
+trailingAnnualDividendRate: 4.86
+trailingAnnualDividendYield: 0.025387872
+trailingEps: 9.26
+trailingPE: 20.639307
+trailingPegRatio: 11.6081
+triggerable: true
+twoHundredDayAverage: 190.35725
+twoHundredDayAverageChange: 0.7627411
+twoHundredDayAverageChangePercent: 0.004006893
+typeDisp: Equity
+volume: 71229
+website: https://www.sbasite.com
+zip: 33487-1307
